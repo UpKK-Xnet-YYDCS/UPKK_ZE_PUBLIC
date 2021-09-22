@@ -1,0 +1,579 @@
+"BOSSHP"
+{
+	"1124452"
+	{
+		"enable"		"0"
+		"hammerid"		"1124452"
+		"m_iname"		"nrk_item_medic_sign"
+	}
+	"623099"
+	{
+		"enable"		"0"
+		"hammerid"		"623099"
+		"m_iname"		"nrk1_CY01Physic"
+	}
+	"623072"
+	{
+		"enable"		"1"
+		"hammerid"		"623072"
+		"m_iname"		"nrk1_boss_hitbox"
+	}
+	"386921"
+	{
+		"enable"		"0"
+		"hammerid"		"386921"
+		"m_iname"		"nrk1_barricade_break_1"
+	}
+	"387168"
+	{
+		"enable"		"0"
+		"hammerid"		"387168"
+		"m_iname"		"nrk1_barricade_break_2"
+	}
+	"387251"
+	{
+		"enable"		"0"
+		"hammerid"		"387251"
+		"m_iname"		"nrk1_barricade_break_ex"
+	}
+	"387302"
+	{
+		"enable"		"0"
+		"hammerid"		"387302"
+		"m_iname"		"nrk1_barricade_break_3"
+	}
+	"296573"
+	{
+		"enable"		"0"
+		"hammerid"		"296573"
+		"m_iname"		"nrk1_ladder_break"
+	}
+	"296645"
+	{
+		"enable"		"0"
+		"hammerid"		"296645"
+		"m_iname"		"nrk1_ladder_break_2"
+	}
+	"1126920"
+	{
+		"enable"		"0"
+		"hammerid"		"1126920"
+		"m_iname"		"nrk_item_fire_sign"
+	}
+	"1102187"
+	{
+		"enable"		"0"
+		"hammerid"		"1102187"
+		"m_iname"		"nrk2_CY01Physic"
+	}
+	"675696"
+	{
+		"enable"		"0"
+		"hammerid"		"675696"
+		"m_iname"		"nrk2_breakable_1"
+	}
+	"646087"
+	{
+		"enable"		"1"
+		"hammerid"		"646087"
+		"m_iname"		"nrk2_boss_hitbox"
+	}
+	"318304"
+	{
+		"enable"		"0"
+		"hammerid"		"318304"
+		"m_iname"		"nrk2_detour_break_1"
+	}
+	"318318"
+	{
+		"enable"		"0"
+		"hammerid"		"318318"
+		"m_iname"		"nrk2_detour_break_2"
+	}
+	"290454"
+	{
+		"enable"		"0"
+		"hammerid"		"290454"
+		"m_iname"		"nrk2_door_break_1"
+	}
+	"275228"
+	{
+		"enable"		"0"
+		"hammerid"		"275228"
+		"m_iname"		"nrk2_door_button_5_1"
+	}
+	"275294"
+	{
+		"enable"		"0"
+		"hammerid"		"275294"
+		"m_iname"		"nrk2_door_button_5_2"
+	}
+	"270454"
+	{
+		"enable"		"0"
+		"hammerid"		"270454"
+		"m_iname"		"nrk2_traps_breakable_4"
+	}
+	"270469"
+	{
+		"enable"		"0"
+		"hammerid"		"270469"
+		"m_iname"		"nrk2_traps_breakable_5"
+	}
+	"270483"
+	{
+		"enable"		"0"
+		"hammerid"		"270483"
+		"m_iname"		"nrk2_traps_breakable_6"
+	}
+	"264214"
+	{
+		"enable"		"0"
+		"hammerid"		"264214"
+		"m_iname"		"nrk2_door_break_2"
+	}
+	"264321"
+	{
+		"enable"		"0"
+		"hammerid"		"264321"
+		"m_iname"		"nrk2_door_break_3"
+	}
+	"264344"
+	{
+		"enable"		"0"
+		"hammerid"		"264344"
+		"m_iname"		"nrk2_traps_breakable_1"
+	}
+	"248864"
+	{
+		"enable"		"0"
+		"hammerid"		"248864"
+		"m_iname"		"nrk2_crystal_break"
+	}
+	"254845"
+	{
+		"enable"		"0"
+		"hammerid"		"254845"
+		"m_iname"		"nrk2_statue_break"
+	}
+	"1127252"
+	{
+		"enable"		"0"
+		"hammerid"		"1127252"
+		"m_iname"		"nrk_item_poison_sign"
+	}
+	"705279"
+	{
+		"enable"		"1"
+		"hammerid"		"705279"
+		"m_iname"		"nrk3_boss_hitbox"
+	}
+	"705299"
+	{
+		"enable"		"0"
+		"hammerid"		"705299"
+		"m_iname"		"nrk3_CY01Physic"
+	}
+	"697757"
+	{
+		"enable"		"0"
+		"hammerid"		"697757"
+		"m_iname"		"nrk3_glass_jail"
+	}
+	"387792"
+	{
+		"enable"		"0"
+		"hammerid"		"387792"
+		"m_iname"		"nrk3_final_break"
+	}
+	"371826"
+	{
+		"enable"		"0"
+		"hammerid"		"371826"
+		"m_iname"		"nrk3_swan_gate"
+	}
+	"355205"
+	{
+		"enable"		"0"
+		"hammerid"		"355205"
+		"m_iname"		"nrk3_jail_break"
+	}
+	"349633"
+	{
+		"enable"		"0"
+		"hammerid"		"349633"
+		"m_iname"		"nrk3_door_break_3"
+	}
+	"355401"
+	{
+		"enable"		"0"
+		"hammerid"		"355401"
+		"m_iname"		"nrk3_door_break_7"
+	}
+	"349385"
+	{
+		"enable"		"0"
+		"hammerid"		"349385"
+		"m_iname"		"nrk3_door_break_1"
+	}
+	"349489"
+	{
+		"enable"		"0"
+		"hammerid"		"349489"
+		"m_iname"		"nrk3_door_break_2"
+	}
+	"349659"
+	{
+		"enable"		"0"
+		"hammerid"		"349659"
+		"m_iname"		"nrk3_traps_break_1"
+	}
+	"349670"
+	{
+		"enable"		"0"
+		"hammerid"		"349670"
+		"m_iname"		"nrk3_traps_break_2"
+	}
+	"349689"
+	{
+		"enable"		"0"
+		"hammerid"		"349689"
+		"m_iname"		"nrk3_traps_break_3"
+	}
+	"349700"
+	{
+		"enable"		"0"
+		"hammerid"		"349700"
+		"m_iname"		"nrk3_traps_break_4"
+	}
+	"349711"
+	{
+		"enable"		"0"
+		"hammerid"		"349711"
+		"m_iname"		"nrk3_traps_break_5"
+	}
+	"349722"
+	{
+		"enable"		"0"
+		"hammerid"		"349722"
+		"m_iname"		"nrk3_traps_break_6"
+	}
+	"349734"
+	{
+		"enable"		"0"
+		"hammerid"		"349734"
+		"m_iname"		"nrk3_traps_break_7"
+	}
+	"349737"
+	{
+		"enable"		"0"
+		"hammerid"		"349737"
+		"m_iname"		"nrk3_traps_break_8"
+	}
+	"349927"
+	{
+		"enable"		"0"
+		"hammerid"		"349927"
+		"m_iname"		"nrk3_door_break_4"
+	}
+	"1128301"
+	{
+		"enable"		"0"
+		"hammerid"		"1128301"
+		"m_iname"		"nrk_item_firewall_sign"
+	}
+	"1124974"
+	{
+		"enable"		"0"
+		"hammerid"		"1124974"
+		"m_iname"		"nrk_item_blizzard_sign"
+	}
+	"1374838"
+	{
+		"enable"		"0"
+		"hammerid"		"1374838"
+		"m_iname"		"nrk_item_blizzard_crystal"
+	}
+	"741682"
+	{
+		"enable"		"0"
+		"hammerid"		"741682"
+		"m_iname"		"nrk_npc_CY01Physic1&7443"
+	}
+	"741703"
+	{
+		"enable"		"1"
+		"hammerid"		"741703"
+		"m_iname"		"nrk_npc_hitbox"
+	}
+	"779100"
+	{
+		"enable"		"0"
+		"hammerid"		"779100"
+		"m_iname"		"nrk4_jail_break"
+	}
+	"453730"
+	{
+		"enable"		"0"
+		"hammerid"		"453730"
+		"m_iname"		"nrk4_traps_break_0"
+	}
+	"431908"
+	{
+		"enable"		"0"
+		"hammerid"		"431908"
+		"m_iname"		"nrk4_traps_break_1"
+	}
+	"431919"
+	{
+		"enable"		"0"
+		"hammerid"		"431919"
+		"m_iname"		"nrk4_traps_break_2"
+	}
+	"431934"
+	{
+		"enable"		"0"
+		"hammerid"		"431934"
+		"m_iname"		"nrk4_traps_break_3"
+	}
+	"398278"
+	{
+		"enable"		"0"
+		"hammerid"		"398278"
+		"m_iname"		"nrk4_door_break_3"
+	}
+	"398499"
+	{
+		"enable"		"0"
+		"hammerid"		"398499"
+		"m_iname"		"nrk4_door_break_6"
+	}
+	"398626"
+	{
+		"enable"		"0"
+		"hammerid"		"398626"
+		"m_iname"		"nrk4_door_break_7"
+	}
+	"398713"
+	{
+		"enable"		"0"
+		"hammerid"		"398713"
+		"m_iname"		"nrk4_button_break_1"
+	}
+	"398762"
+	{
+		"enable"		"0"
+		"hammerid"		"398762"
+		"m_iname"		"nrk4_button_break_2"
+	}
+	"398885"
+	{
+		"enable"		"0"
+		"hammerid"		"398885"
+		"m_iname"		"nrk4_door_break_9"
+	}
+	"399111"
+	{
+		"enable"		"0"
+		"hammerid"		"399111"
+		"m_iname"		"nrk4_final_bridge_break"
+	}
+	"333934"
+	{
+		"enable"		"0"
+		"hammerid"		"333934"
+		"m_iname"		"nrk4_door_break_4"
+	}
+	"333956"
+	{
+		"enable"		"0"
+		"hammerid"		"333956"
+		"m_iname"		"nrk4_specialdoor_2"
+	}
+	"334127"
+	{
+		"enable"		"0"
+		"hammerid"		"334127"
+		"m_iname"		"nrk4_door_break_5"
+	}
+	"328516"
+	{
+		"enable"		"0"
+		"hammerid"		"328516"
+		"m_iname"		"nrk4_door_break_1"
+	}
+	"1127577"
+	{
+		"enable"		"0"
+		"hammerid"		"1127577"
+		"m_iname"		"nrk_item_curse_sign"
+	}
+	"1127858"
+	{
+		"enable"		"0"
+		"hammerid"		"1127858"
+		"m_iname"		"nrk_item_teleport_sign"
+	}
+	"771585"
+	{
+		"enable"		"1"
+		"hammerid"		"771585"
+		"m_iname"		"nrk4_naraka_boss_hitbox"
+	}
+	"771723"
+	{
+		"enable"		"0"
+		"hammerid"		"771723"
+		"m_iname"		"nrk4_naraka_CY01Physic"
+	}
+	"843698"
+	{
+		"enable"		"1"
+		"hammerid"		"843698"
+		"m_iname"		"nrk4_miniboss_hitbox"
+	}
+	"843725"
+	{
+		"enable"		"1"
+		"hammerid"		"843725"
+		"m_iname"		"nrk4_miniboss_CY01Physic1&6398"
+	}
+	"1124767"
+	{
+		"enable"		"0"
+		"hammerid"		"1124767"
+		"m_iname"		"nrk_item_electric_sign"
+	}
+	"1279964"
+	{
+		"enable"		"1"
+		"hammerid"		"1279964"
+		"m_iname"		"nrk5_boss_block"
+	}
+	"1042803"
+	{
+		"enable"		"1"
+		"hammerid"		"1042803"
+		"m_iname"		"nrk5_breakable_bossfence_1"
+	}
+	"579587"
+	{
+		"enable"		"0"
+		"hammerid"		"579587"
+		"m_iname"		"nrk5_ladder_break_1"
+	}
+	"557628"
+	{
+		"enable"		"0"
+		"hammerid"		"557628"
+		"m_iname"		"nrk5_shortcut_1"
+	}
+	"937548"
+	{
+		"enable"		"0"
+		"hammerid"		"937548"
+		"m_iname"		"nrk5_glass_break"
+	}
+	"903867"
+	{
+		"enable"		"1"
+		"hammerid"		"903867"
+		"m_iname"		"nrk5_breakable_bossfence"
+	}
+	"904069"
+	{
+		"enable"		"0"
+		"hammerid"		"904069"
+		"m_iname"		"nrk5_minisatan_cross"
+	}
+	"542290"
+	{
+		"enable"		"0"
+		"hammerid"		"542290"
+		"m_iname"		"nrk5_barricade_break_1"
+	}
+	"594458"
+	{
+		"enable"		"0"
+		"hammerid"		"594458"
+		"m_iname"		"nrk5_pillars_break"
+	}
+	"594518"
+	{
+		"enable"		"0"
+		"hammerid"		"594518"
+		"m_iname"		"nrk5_wood_fence"
+	}
+	"557248"
+	{
+		"enable"		"0"
+		"hammerid"		"557248"
+		"m_iname"		"nrk5_door_break_5"
+	}
+	"557367"
+	{
+		"enable"		"0"
+		"hammerid"		"557367"
+		"m_iname"		"nrk5_door_break_5ex"
+	}
+	"541724"
+	{
+		"enable"		"0"
+		"hammerid"		"541724"
+		"m_iname"		"nrk5_wall_break"
+	}
+	"541779"
+	{
+		"enable"		"0"
+		"hammerid"		"541779"
+		"m_iname"		"nrk5_door_break_1"
+	}
+	"542166"
+	{
+		"enable"		"0"
+		"hammerid"		"542166"
+		"m_iname"		"nrk5_door_break_3"
+	}
+	"542364"
+	{
+		"enable"		"0"
+		"hammerid"		"542364"
+		"m_iname"		"nrk5_door_break_4"
+	}
+	"542537"
+	{
+		"enable"		"0"
+		"hammerid"		"542537"
+		"m_iname"		"nrk5_door_break_4ex"
+	}
+	"536109"
+	{
+		"enable"		"0"
+		"hammerid"		"536109"
+		"m_iname"		"nrk5_barrel_rope"
+	}
+	"464560"
+	{
+		"enable"		"0"
+		"hammerid"		"464560"
+		"m_iname"		"nrk5_jail_break_2"
+	}
+	"464574"
+	{
+		"enable"		"0"
+		"hammerid"		"464574"
+		"m_iname"		"nrk5_jail_break_1"
+	}
+	"1102355"
+	{
+		"enable"		"0"
+		"hammerid"		"1102355"
+		"m_iname"		"nrk5_naraka_CY01Physic"
+	}
+	"809625"
+	{
+		"enable"		"1"
+		"hammerid"		"809625"
+		"m_iname"		"nrk5_naraka_boss_hitbox"
+	}
+}

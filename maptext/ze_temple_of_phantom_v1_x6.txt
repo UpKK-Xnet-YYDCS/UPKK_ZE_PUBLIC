@@ -1,0 +1,289 @@
+"Console_T"
+{
+	"** Appears after 10s on the road **"
+	{
+		"chi"	"** 道路10秒后出现 **"
+	}
+	"** 30 **"
+	{
+		"chi"	"** 等待30秒 **"
+	}
+	"**30 **"
+	{
+		"chi"	"** 等待30秒 **"
+	}
+	"**20**"
+	{
+		"chi"	"** 等待20秒 **"
+	}
+	"** Break 4 switches **"
+	{
+		"chi"	"** 破坏4个水晶用以打开传送门 **"
+		"DoorCountDown"		"4"
+	}
+	"** 35s rear axle appears **"
+	{
+		"chi"	"** 35秒后桥出现 **"
+	}
+	"** Teleport to destination in 5 seconds **"
+	{
+		"chi"	"** 5秒内传送到目的地 **"
+	}
+	"** The platform appears after 60s **"
+	{
+		"chi"	"** 平台在60秒后出现 **"
+	}
+	"**Secret Chaos has been picked up**"
+	{
+		"chi"	"** 一名僵尸学会了邪恶的混乱魔法 **"
+	}
+	"**A player chose the Holy Knight**"
+	{
+		"chi"	"** 一名玩家选择了圣神骑士铠甲 **"
+	}
+	"**Dark expulsion magic has been picked up**"
+	{
+		"chi"	"** 一名玩家学会了黑暗驱逐魔法 **"
+	}
+	"**The extreme cold storm has been picked up**"
+	{
+		"chi"	"** 一名玩家学会了极寒风暴魔法 **"
+	}
+	"**The wind has been picked up**"
+	{
+		"chi"	"** 一名玩家学会了狂风魔法 **"
+	}
+	"**Earth Magic has been picked up**"
+	{
+		"chi"	"** 一名玩家学会了大地魔法 **"
+	}
+	"**The fire of extinction has been picked up**"
+	{
+		"chi"	"** 一名玩家学会了烈阳之炎魔法 **"
+	}
+	"**The Dark Mystery has been picked up**"
+	{
+		"chi"	"** 一名僵尸学会了黑暗治愈魔法 **"
+	}
+	"**Secret of Ice has been picked up**"
+	{
+		"chi"	"** 一名僵尸学会了冰封魔法 **"
+	}
+	"**Light Summoning Magic has been picked up**"
+	{
+		"chi"	"** 一名玩家学会了神圣召唤魔法 **"
+	}
+	"**The torch has been picked up**"
+	{
+		"chi"	"** 一名玩家捡到了火把 **"
+	}
+	"**Void Mystery has been picked up**"
+	{
+		"chi"	"** 一名僵尸学会了虚空召唤魔法 **"
+	}
+	"**Holy Magic has been picked up**"
+	{
+		"chi"	"** 一名玩家学会了神圣治愈魔法 **"
+	}
+	"**Release chaotic magic to blind enemies**"
+	{
+		"chi"	"** 混乱魔法（令所有玩家失明） **"
+	}
+	"**Quick use SAWDWDSA can release the ultimate magic**"
+	{
+		"chi"	"** 快速按下SAWDWDSA来释放光明魔法摧毁一切 **"
+	}
+	"**Release the dark magic to heal and accelerate**"
+	{
+		"chi"	"** 黑暗治愈（加速友军并使肉体更强大） **"
+	}
+	"**Freeze enemies around 6 seconds after release**"
+	{
+		"chi"	"** 冰封（延迟6秒后冻结周围人类） **"
+		"DoorCountDown"		"-1"
+	}
+	"**Release the Son of Death from the Void and rush towards the target**"
+	{
+		"chi"	"** 虚空召唤（从虚空中释放黑暗扑向敌人/对神圣治愈无效） **"
+	}
+	"**Right click can destroy all human artifact effects instantly**"
+	{
+		"chi"	"** 按下右键来摧毁所有正在生效的人类魔法 **"
+	}
+	"**Right click to wield a weapon to launch an attack**"
+	{
+		"chi"	"** 按下右键来挥动武器攻击敌人 **"
+	}
+	"**Right click to release the Ice Blue Blade to damage and slow down the enemy**"
+	{
+		"chi"	"** 按下右键释放冰蓝之刃来远程攻击敌人 **"
+	}
+	"**Right click to release a small snowstorm to slow down surrounding enemies**"
+	{
+		"chi"	"** 按下右键释放寒冰减速靠近的敌人 **"
+	}
+	"**Right click to form a Void Shield to resist human attacks**"
+	{
+		"chi"	"** 按下右键释放黑暗红盾来阻挡部分攻击 **"
+	}
+	"**Can use Holy Light to heal allies and slow down enemies**"
+	{
+		"chi"	"** 按下右键释圣光治愈友军并减速敌军 **"
+	}
+	"**Use the power of the Holy Sword to attack the enemy remotely**"
+	{
+		"chi"	"** 可释放圣剑来远程攻击敌人 **"
+	}
+	"** 40 **"
+	{
+		"chi"	"** 等待40秒 **"
+	}
+	"** The door is broken after 30s **"
+	{
+		"chi"	"** 30秒后大门破坏 **"
+	}
+	"** 5 **"
+	{
+		"chi"	"** 等待5秒 **"
+	}
+	"** 20 **"
+	{
+		"chi"	"** 等待20秒 **"
+	}
+	"** 18 **"
+	{
+		"chi"	"** 等待18秒 **"
+	}
+	"** phase 2**"
+	{
+		"chi"	"** 第二阶段 **"
+	}
+	"** phase 1**"
+	{
+		"chi"	"** 第一阶段 **"
+	}
+	"** Phase 2 **"
+	{
+		"chi"	"** 第二阶段 **"
+	}
+	"** Phase 1 **"
+	{
+		"chi"	"** 第一阶段 **"
+	}
+	"** Regional Slave **"
+	{
+		"chi"	"** 地狱奴仆 **"
+	}
+	"** Shadow of Evil **"
+	{
+		"chi"	"** 邪恶之影 **"
+		"DoorCountDown"		"4"
+	}
+	"** Great Earthquake **"
+	{
+		"chi"	"** 大地震击 **"
+		"DoorCountDown"		"4"
+	}
+	"** 45 **"
+	{
+		"chi"	"** 等待45秒 **"
+	}
+	"** Sky Roar **"
+	{
+		"chi"	"** 天空咆哮 **"
+		"DoorCountDown"		"4"
+	}
+	"** Fire Field **"
+	{
+		"chi"	"** 大火弥漫 **"
+		"DoorCountDown"		"4"
+	}
+	"** Lava Rise **"
+	{
+		"chi"	"** 熔岩上升 **"
+		"DoorCountDown"		"4"
+	}
+	"** Teleport after 30s **"
+	{
+		"chi"	"** 30秒传送 **"
+	}
+	"** Flame Emission **"
+	{
+		"chi"	"** 火焰放射 **"
+		"DoorCountDown"		"4"
+	}
+	"** 30 **"
+	{
+		"chi"	"** 等待30秒 **"
+	}
+	"** 10 **"
+	{
+		"chi"	"** 等待10秒 **"
+	}
+	"** 20 **"
+	{
+		"chi"	"** 等待20秒 **"
+	}
+	"** The door opens after 3s **"
+	{
+		"chi"	"** 3秒后大门打开 **"
+	}
+	"** Completion of Phase 1 **"
+	{
+		"chi"	"** 第一阶段完成 **"
+	}
+	"** Corpse Cage **"
+	{
+		"chi"	"** 尸笼 **"
+		"DoorCountDown"		"4"
+	}
+	"** Saint **"
+	{
+		"chi"	"** 圣之刃 **"
+		"DoorCountDown"		"4"
+	}
+	"** The door opens after 3s **"
+	{
+		"chi"	"** 3秒后大门打开 **"
+	}
+	"** Holy Spirit Suction **"
+	{
+		"chi"	"** 圣灵吸力 **"
+		"DoorCountDown"		"4"
+	}
+	"** Light Barrage **"
+	{
+		"chi"	"** 圣光放射 **"
+		"DoorCountDown"		"4"
+	}
+	"** Holy phosgene **"
+	{
+		"chi"	"** 圣灵推力 **"
+		"DoorCountDown"		"4"
+	}
+	"** Holy Wall **"
+	{
+		"chi"	"** 圣墙 **"
+		"DoorCountDown"		"4"
+	}	
+	"** 20s rear axle disconnected **"		
+	{
+		"chi"	"** 20秒后桥断开 **"
+	}
+	"** 25s rear door open **"
+	{
+		"chi"	"** 25秒大门打开 **"
+	}
+	"** The door opens after 10s **"
+	{
+		"chi"	"** 10秒大门打开 **"
+	}
+	"** Road appeared after 15s **"
+	{
+		"chi"	"** 15道路开启 **"
+	}
+	"** Road appeared after 15s **"
+	{
+		"chi"	"** 15道路开启 **"
+	}
+}

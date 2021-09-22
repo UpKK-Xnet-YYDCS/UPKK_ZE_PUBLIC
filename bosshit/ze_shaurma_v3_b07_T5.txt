@@ -1,0 +1,479 @@
+"BOSSHP"
+{
+	"68841"
+	{
+		"enable"		"1"
+		"hammerid"		"68841"
+		"m_iname"		"boss_level1_streetlight_before"
+	}
+	"85713"
+	{
+		"enable"		"0"
+		"hammerid"		"85713"
+		"m_iname"		"bridge_1"
+	}
+	"85797"
+	{
+		"enable"		"0"
+		"hammerid"		"85797"
+		"m_iname"		"bridge_1"
+	}
+	"240321"
+	{
+		"enable"		"1"
+		"hammerid"		"240321"
+		"m_iname"		"boss_walls_barriers_line"
+	}
+	"394672"
+	{
+		"enable"		"0"
+		"hammerid"		"394672"
+		"m_iname"		"bridge_1"
+	}
+	"399487"
+	{
+		"enable"		"1"
+		"hammerid"		"399487"
+		"m_iname"		"boss_walls_barriers"
+	}
+	"438101"
+	{
+		"enable"		"1"
+		"hammerid"		"438101"
+		"m_iname"		"boss_walls_barriers_line"
+	}
+	"539645"
+	{
+		"enable"		"0"
+		"hammerid"		"539645"
+		"m_iname"		"start_glass_level1"
+	}
+	"608233"
+	{
+		"enable"		"0"
+		"hammerid"		"608233"
+		"m_iname"		"parking_wall_before"
+	}
+	"621668"
+	{
+		"enable"		"1"
+		"hammerid"		"621668"
+		"m_iname"		"boss_level1_road_breakable"
+	}
+	"621800"
+	{
+		"enable"		"1"
+		"hammerid"		"621800"
+		"m_iname"		"boss_level1_hitbox4"
+	}
+	"652470"
+	{
+		"enable"		"0"
+		"hammerid"		"652470"
+		"m_iname"		"train_car_door_2_full"
+	}
+	"652489"
+	{
+		"enable"		"0"
+		"hammerid"		"652489"
+		"m_iname"		"train_car_vent"
+	}
+	"676466"
+	{
+		"enable"		"0"
+		"hammerid"		"676466"
+		"m_iname"		"level1_bridge_rail_right"
+	}
+	"676547"
+	{
+		"enable"		"0"
+		"hammerid"		"676547"
+		"m_iname"		"level1_bridge_rail_left"
+	}
+	"692098"
+	{
+		"enable"		"0"
+		"hammerid"		"692098"
+		"m_iname"		"putin_mask_breakable"
+	}
+	"742292"
+	{
+		"enable"		"0"
+		"hammerid"		"742292"
+		"m_iname"		"level2_boat_zm_only"
+	}
+	"817686"
+	{
+		"enable"		"0"
+		"hammerid"		"817686"
+		"m_iname"		"level2_road_breakable"
+	}
+	"819260"
+	{
+		"enable"		"0"
+		"hammerid"		"819260"
+		"m_iname"		"level2_police_barricade_wall"
+	}
+	"819320"
+	{
+		"enable"		"0"
+		"hammerid"		"819320"
+		"m_iname"		"level2_warehouse_bridge_rightra"
+	}
+	"819340"
+	{
+		"enable"		"0"
+		"hammerid"		"819340"
+		"m_iname"		"level2_warehouse_bridge_lefttra"
+	}
+	"819584"
+	{
+		"enable"		"1"
+		"hammerid"		"819584"
+		"m_iname"		"level2_police_barricade_physbox"
+	}
+	"848794"
+	{
+		"enable"		"0"
+		"hammerid"		"848794"
+		"m_iname"		"start_glass_level2"
+	}
+	"869674"
+	{
+		"enable"		"0"
+		"hammerid"		"869674"
+		"m_iname"		"level1_spawn_wood"
+	}
+	"883291"
+	{
+		"enable"		"0"
+		"hammerid"		"883291"
+		"m_iname"		"level2_spawn_wood"
+	}
+	"936105"
+	{
+		"enable"		"0"
+		"hammerid"		"936105"
+		"m_iname"		"level2_boat_door_righthold"
+	}
+	"936124"
+	{
+		"enable"		"0"
+		"hammerid"		"936124"
+		"m_iname"		"level2_boat_door_lefthold"
+	}
+	"937338"
+	{
+		"enable"		"0"
+		"hammerid"		"937338"
+		"m_iname"		"level2_warehouse_platform"
+	}
+	"970167"
+	{
+		"enable"		"0"
+		"hammerid"		"970167"
+		"m_iname"		"level2_boat_nostuck"
+	}
+	"980066"
+	{
+		"enable"		"0"
+		"hammerid"		"980066"
+		"m_iname"		"gunshop_door_opened"
+	}
+	"980110"
+	{
+		"enable"		"0"
+		"hammerid"		"980110"
+		"m_iname"		"gunshop_door_closed"
+	}
+	"1016923"
+	{
+		"enable"		"0"
+		"hammerid"		"1016923"
+		"m_iname"		"level1_train_barrier"
+	}
+	"1024765"
+	{
+		"enable"		"0"
+		"hammerid"		"1024765"
+		"m_iname"		"level3_garage_windows"
+	}
+	"1030635"
+	{
+		"enable"		"1"
+		"hammerid"		"1030635"
+		"m_iname"		"level3_boss_hitbox"
+	}
+	"1030641"
+	{
+		"enable"		"1"
+		"hammerid"		"1030641"
+		"m_iname"		"level3_boss_barrier"
+	}
+	"1033165"
+	{
+		"enable"		"1"
+		"hammerid"		"1033165"
+		"m_iname"		"level3_boss_zmblock"
+	}
+	"1047012"
+	{
+		"enable"		"0"
+		"hammerid"		"1047012"
+		"m_iname"		"level3_end_door"
+	}
+	"1124295"
+	{
+		"enable"		"1"
+		"hammerid"		"1124295"
+		"m_iname"		"level3_boss_transition"
+	}
+	"1133250"
+	{
+		"enable"		"1"
+		"hammerid"		"1133250"
+		"m_iname"		"level3_boss_bridge_wood"
+	}
+	"1133343"
+	{
+		"enable"		"1"
+		"hammerid"		"1133343"
+		"m_iname"		"level3_boss_bridge2"
+	}
+	"1133476"
+	{
+		"enable"		"1"
+		"hammerid"		"1133476"
+		"m_iname"		"level3_boss_bridge1"
+	}
+	"1137395"
+	{
+		"enable"		"1"
+		"hammerid"		"1137395"
+		"m_iname"		"level3_boss_death_rock1"
+	}
+	"1137430"
+	{
+		"enable"		"1"
+		"hammerid"		"1137430"
+		"m_iname"		"level3_boss_death_rock2"
+	}
+	"1137444"
+	{
+		"enable"		"1"
+		"hammerid"		"1137444"
+		"m_iname"		"level3_boss_death_rock3"
+	}
+	"1137462"
+	{
+		"enable"		"1"
+		"hammerid"		"1137462"
+		"m_iname"		"level3_boss_death_rock4"
+	}
+	"1137473"
+	{
+		"enable"		"1"
+		"hammerid"		"1137473"
+		"m_iname"		"level3_boss_death_rock5"
+	}
+	"1137705"
+	{
+		"enable"		"1"
+		"hammerid"		"1137705"
+		"m_iname"		"level3_boss_death_rock_support"
+	}
+	"1157327"
+	{
+		"enable"		"1"
+		"hammerid"		"1157327"
+		"m_iname"		"level3_boss_bridge_wood"
+	}
+	"1165324"
+	{
+		"enable"		"1"
+		"hammerid"		"1165324"
+		"m_iname"		"level3_boss_transition"
+	}
+	"1165396"
+	{
+		"enable"		"1"
+		"hammerid"		"1165396"
+		"m_iname"		"level3_boss_transition"
+	}
+	"1165519"
+	{
+		"enable"		"1"
+		"hammerid"		"1165519"
+		"m_iname"		"level3_boss_transition"
+	}
+	"1165589"
+	{
+		"enable"		"1"
+		"hammerid"		"1165589"
+		"m_iname"		"level3_boss_transition_barrier"
+	}
+	"890703"
+	{
+		"enable"		"0"
+		"hammerid"		"890703"
+		"m_iname"		"level1_start_guide"
+	}
+	"634847"
+	{
+		"enable"		"1"
+		"hammerid"		"634847"
+		"m_iname"		"boss_level1_streetlight_after"
+	}
+	"890729"
+	{
+		"enable"		"0"
+		"hammerid"		"890729"
+		"m_iname"		"level2_start_guide"
+	}
+	"652455"
+	{
+		"enable"		"0"
+		"hammerid"		"652455"
+		"m_iname"		"train_car_door_2_damage2_bullet"
+	}
+	"1030365"
+	{
+		"enable"		"0"
+		"hammerid"		"1030365"
+		"m_iname"		"mt_add"
+	}
+	"1032488"
+	{
+		"enable"		"1"
+		"hammerid"		"1032488"
+		"m_iname"		"level3_boss_vodka6"
+	}
+	"1032458"
+	{
+		"enable"		"1"
+		"hammerid"		"1032458"
+		"m_iname"		"level3_boss_vodka3"
+	}
+	"1032478"
+	{
+		"enable"		"1"
+		"hammerid"		"1032478"
+		"m_iname"		"level3_boss_vodka5"
+	}
+	"1032518"
+	{
+		"enable"		"1"
+		"hammerid"		"1032518"
+		"m_iname"		"level3_boss_vodka9"
+	}
+	"1032448"
+	{
+		"enable"		"1"
+		"hammerid"		"1032448"
+		"m_iname"		"level3_boss_vodka2"
+	}
+	"1032508"
+	{
+		"enable"		"1"
+		"hammerid"		"1032508"
+		"m_iname"		"level3_boss_vodka8"
+	}
+	"1032468"
+	{
+		"enable"		"1"
+		"hammerid"		"1032468"
+		"m_iname"		"level3_boss_vodka4"
+	}
+	"1032528"
+	{
+		"enable"		"1"
+		"hammerid"		"1032528"
+		"m_iname"		"level3_boss_vodka10"
+	}
+	"1032429"
+	{
+		"enable"		"1"
+		"hammerid"		"1032429"
+		"m_iname"		"level3_boss_vodka1"
+	}
+	"1032498"
+	{
+		"enable"		"1"
+		"hammerid"		"1032498"
+		"m_iname"		"level3_boss_vodka7"
+	}
+	"1047302"
+	{
+		"enable"		"0"
+		"hammerid"		"1047302"
+		"m_iname"		"level3_end_putin_physbox"
+	}
+	"820764"
+	{
+		"enable"		"0"
+		"hammerid"		"820764"
+		"m_iname"		"level2_road_bomb_debri"
+	}
+	"820767"
+	{
+		"enable"		"0"
+		"hammerid"		"820767"
+		"m_iname"		"level2_road_bomb_debri"
+	}
+	"820770"
+	{
+		"enable"		"0"
+		"hammerid"		"820770"
+		"m_iname"		"level2_road_bomb_debri"
+	}
+	"820828"
+	{
+		"enable"		"0"
+		"hammerid"		"820828"
+		"m_iname"		"level2_road_bomb_debri"
+	}
+	"652443"
+	{
+		"enable"		"0"
+		"hammerid"		"652443"
+		"m_iname"		"train_car_door_2_damage2_bullet"
+	}
+	"652473"
+	{
+		"enable"		"0"
+		"hammerid"		"652473"
+		"m_iname"		"train_car_door_2_damage2"
+	}
+	"652434"
+	{
+		"enable"		"0"
+		"hammerid"		"652434"
+		"m_iname"		"train_car_door_2_damage2_bullet"
+	}
+	"652479"
+	{
+		"enable"		"0"
+		"hammerid"		"652479"
+		"m_iname"		"train_car_door_2_damage1"
+	}
+	"676486"
+	{
+		"enable"		"-1"
+		"hammerid"		"676486"
+	}
+	"676525"
+	{
+		"enable"		"-1"
+		"hammerid"		"676525"
+	}
+	"676544"
+	{
+		"enable"		"-1"
+		"hammerid"		"676544"
+	}
+	"968708"
+	{
+		"enable"		"-1"
+		"hammerid"		"968708"
+	}
+}

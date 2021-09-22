@@ -1,0 +1,85 @@
+"Console_T"
+{
+	">>> ZOMBIE HAS PICKED UP SPIDER <<<"
+	{
+		"chi"		"**僵尸拾起了蜘蛛**"
+	}
+	">>> ZOMBIE HAS PICKED UP DRAGON <<<"
+	{
+		"chi"		"**僵尸拾起了火龙**"
+	}
+	"<<< IT'S ZOMBIE LASERS TIME ! >>>"
+	{
+		"chi"		"**现在是僵尸跳刀时间！**"
+	}
+	">>> PLAYER HAS PICKED UP FIRE <<<"
+	{
+		"chi"		"**人类拾起了火神器**"
+	}
+	">>> PLAYER USED FIRE <<<"
+	{
+		"chi"		"**人类使用了火神器**"
+	}
+	">>> PLAYER USED HEAL<<<"
+	{
+		"chi"		"**人类使用了奶神器**"
+	}
+	">>> PLAYER HAS PICKED UP HEAL <<<"
+	{
+		"chi"		"**人类拾起了奶神器**"
+	}
+	">>> CORONAVIRUS USE LASERS !!! <<<"
+	{
+		"chi"		"**冠状病毒使用了跳刀**"
+	}
+	">>> CORONAVIRUS USE VIRUS !!! <<<"
+	{
+		"chi"		"**冠状病毒使用了病毒攻击**"
+	}
+	">>> CORONAVIRUS USE PUSH BACKWARD  !!! <<<"
+	{
+		"chi"		"**冠状病毒使用了推力**"
+	}
+	">>> CORONAVIRUS USE RAIN !!!<<<"
+	{
+		"chi"		"**冠状病毒使用了雨滴攻击**"
+	}
+	">>> CORONAVIRUS USE LASER WALL !!!<<<"
+	{
+		"chi"		"**冠状病毒使用了旋转激光墙**"
+	}
+	">>> CORONAVIRUS USE PUSH FORWARD !!!<<<"
+	{
+		"chi"		"**冠状病毒使用了吸力**"
+	}
+	">>> WELL DONE ! NEED 1 MORE BUTTON ! <<<"
+	{
+		"chi"		"**做得好！还剩1个开关**"
+		"DoorCountdown"		"-1"
+	}
+	">>> PLAYER HAS PICKED UP PUSH <<<"
+	{
+		"chi"		"**人类拾起了风神器**"
+	}
+	">>> PLAYER USED PUSH <<<"
+	{
+		"chi"		"**人类使用了风神器**"
+	}
+	">>> WELL DONE ! NEED 2 MORE BUTTONS ! <<<"
+	{
+		"chi"		"**做得好！还剩2个开关**"
+		"DoorCountdown"		"-1"
+	}
+	">>> PLAYER USED GRAVITY <<<"
+	{
+		"chi"		"**人类使用了黑洞神器**"
+	}
+	">>> map by =LIROY= <<<"
+	{
+		"chi"		"**地图制作:=LIROY= 汉化:血色的龙琉璃**"
+	}
+	">>> PLAYER HAS PICKED UP GRAVITY <<<"
+	{
+		"chi"		"** **"
+	}
+}

@@ -1,0 +1,833 @@
+"Console_T"
+{
+	">> Special Thanks to nano <<"
+	{
+		"chi"		"**额外感谢：nano**"
+	}
+	">> Thanks to Unloze and GFLClan.ru <<"
+	{
+		"chi"		"**感谢Unloze和Gflclan提供的测试环境**"
+	}
+	">> WARMUP ROUND <<"
+	{
+		"chi"		"**热身回合**"
+	}
+	">> 40 SECONDS LEFT <<"
+	{
+		"chi"		"**40秒剩余**"
+	}
+	">> Map by TaskuVaras and Moltard <<"
+	{
+		"chi"		"**地图由taskuvaras和moltard共同完成 地图翻译：冰花丶**"
+	}
+	">> 30 SECONDS LEFT <<"
+	{
+		"chi"		"**30秒剩余**"
+	}
+	">> 20 SECONDS LEFT <<"
+	{
+		"chi"		"**20秒剩余**"
+	}
+	">> 10 SECONDS LEFT <<"
+	{
+		"chi"		"**10秒剩余**"
+	}
+	">> WARMUP ROUND END <<"
+	{
+		"chi"		"**热身结束，平局**"
+	}
+	">> LEVEL: DEAD TREE <<"
+	{
+		"chi"		"**【LV1/EX1】关卡：死亡大树**"
+		"DoorCountDown"		"-1"
+	}
+	">> PLAYER HAS PICKED UP WATER <<"
+	{
+		"chi"		"**水神器已经被拾取**"
+	}
+	"*** Door opening in 20 seconds ***"
+	{
+		"chi"		"**门还有20秒后开启**"
+	}
+	"*** Door is open!!! ***"
+	{
+		"chi"		"**门已打开**"
+	}
+	"*** DOOR OPENING IN 30 SECONDS ***"
+	{
+		"chi"		"**门还有30秒后开启**"
+	}
+	"*** Door opening in 5 seconds ***"
+	{
+		"chi"		"**门还有5秒后开启，撤退时别忘记放神器或者宽口高爆窄口火**"
+	}
+	"*** Door is open! RUN!! ***"
+	{
+		"chi"		"**门开了，溜之大吉**"
+	}
+	">> PLAYER HAS PICKED UP GRAVITY <<"
+	{
+		"chi"		"**重力神器被拾取**"
+	}
+	">> PLAYER HAS PICKED UP HEAL <<"
+	{
+		"chi"		"**治疗（奶）已经被拾取**"
+	}
+	"*** Defend for 30 seconds ***"
+	{
+		"chi"		"**守住30秒**"
+	}
+	">> OH NO!! ITS THE KNIGHT <<"
+	{
+		"chi"		"**哦！！不，是剑魔，别被Q太多了，别忘记输出**"
+	}
+	">> THE KNIGHT HAS BEEN DEFEATED !!! <<"
+	{
+		"chi"		"**剑魔被击败了**"
+	}
+	"*** Castle Gate is opening ***"
+	{
+		"chi"		"**城堡大门已开启**"
+	}
+	"*** GATE OPENING IN 25 SECONDS ***"
+	{
+		"chi"		"**25秒后二楼大门打开**"
+	}
+	"*** Gate opening in 5 seconds ***"
+	{
+		"chi"		"**剩下5秒，撤退慢点拾取木板，小心吊桥门铁链的僵尸**"
+	}
+	">> PLAYER HAS PICKED UP EARTH <<"
+	{
+		"chi"		"**大地之墙（土）已经被拾取**"
+	}
+	">> PLAYER HAS PICKED UP UNLIMITED AMMO <<"
+	{
+		"chi"		"**弹药无限已被拾取**"
+	}
+	">> THE LADDER IS BROKEN <<"
+	{
+		"chi"		"**楼梯坏掉了**"
+	}
+	">> FIND 1 RUNG TO FIX IT <<"
+	{
+		"chi"		"**寻找木板去修好**"
+	}
+	">> A PLAYER HAS FOUND A LADDER RUNG <<"
+	{
+		"chi"		"**一个木板已被拾取**"
+	}
+	">> DEFEND WHILE WE REPAIR THE LADDER <<"
+	{
+		"chi"		"**守到我们能修复梯子，注意僵尸后路**"
+	}
+	">> THE LADDER IS FIXED ! <<"
+	{
+		"chi"		"楼梯修好了，爬上去 僵尸5秒后传送到楼梯下面"
+		"ico"		"icon_tip"
+	}
+	">> PLAYER HAS PICKED UP ICE <<"
+	{
+		"chi"		"**冰神器已经被拾取**"
+	}
+	">> WE CAN REPAIR THE LADDER <<"
+	{
+		"chi"		"**我们能修复梯子了**"
+	}
+	">> DEFEND ! <<"
+	{
+		"chi"		"**守住，别让僵尸突破**"
+	}
+	">> PLAYER HAS PICKED UP ELECTRO <<"
+	{
+		"chi"		">>>电神器已被拾取（服务器已附加轻微减速）<<<"
+	}
+	">> PLAYER HAS PICKED UP FIRE <<"
+	{
+		"chi"		"**火神器已被拾取**"
+	}
+	">> RUN !!!! <<"
+	{
+		"chi"		"**走你**"
+	}
+	"*** RESCUE DRAGON LEAVING IN 15 SECONDS ***"
+	{
+		"chi"		"**地狱之龙还有15秒后离开**"
+	}
+	">> LEVEL COMPLETED!! <<"
+	{
+		"chi"		"**关卡完成**"
+	}
+	">> LEVEL: CAVES <<"
+	{
+		"chi"		"**【LV2/EX2】关卡：地洞**"
+		"DoorCountDown"		"-1"
+	}
+	"*** Defend until the path is clear ***"
+	{
+		"chi"		"**30秒 守到蜘蛛网清除**"
+		"DoorCountDown"		"-1"
+	}
+	">> PLAYER HAS PICKED UP 6 MINES <<"
+	{
+		"chi"		"**地雷已被拾取，注意只有6次使用机会**"
+		"DoorCountDown"		"-1"
+	}
+	"*** The path is open! RUN!! ***"
+	{
+		"chi"		"**道路清空了，丢雷或神器撤退**"
+	}
+	"*** Defend for 20 seconds ***"
+	{
+		"chi"		"**在这个皮卡丘的尸骨里面防守20秒**"
+	}
+	"*** DEFEND FOR 5 SECONDS ***"
+	{
+		"chi"		"**在这个皮卡丘的尸骨里面防守5秒，不要让僵尸进来**"
+	}
+	">> OH NO!! ITS THE SPOOKY SCARY SKELETONS <<"
+	{
+		"chi"		"**喔，是卤粉钦定的骷髅舞蹈团**"
+	}
+	">> KILL THEM BEFORE ITS TOO LATE <<"
+	{
+		"chi"		"**85秒内快点输出，别让他们召唤出大骷髅跳（踩）死我们**"
+	}
+	">> ALL 6 MINES USED <<"
+	{
+		"chi"		"**6个地雷都被用完了**"
+		"DoorCountDown"		"-1"
+	}
+	">> THE SKELETONS HAVE BEEN DEFEATED !!! <<"
+	{
+		"chi"		"**骷髅尬舞团已被枪毙，原路返回**"
+	}
+	"*** PLAYER FOUND A KEY ***"
+	{
+		"chi"		"**钥匙已经取得，先别着急开门，等断后撤退**"
+	}
+	">> PLAYER HAS PICKED UP WIND <<"
+	{
+		"chi"		"**风神器已被拾取**"
+	}
+	"*** THE WAY IS OPEN! RUUUN! ***"
+	{
+		"chi"		"**道路开通了，溜**"
+	}
+	"*** LIFT LEAVING IN 15 seconds ***"
+	{
+		"chi"		"**缆车还有15秒后离开**"
+	}
+	"*** LIFT LEAVING IN 5 seconds ***"
+	{
+		"chi"		"**缆车剩下5秒离开，走走走上缆车**"
+	}
+	">> LEVEL: POKEBALL <<"
+	{
+		"chi"		">>>【Lv3EX3】关卡：宝可梦<<<"
+		"DoorCountDown"		"-1"
+	}
+	"*** ELEVATOR LEAVING IN 20 seconds ***"
+	{
+		"chi"		"**电梯还有20秒离开**"
+	}
+	"*** ELEVATOR LEAVING IN 5 SECONDS ***"
+	{
+		"chi"		"**电梯还有5秒离开**"
+	}
+	">> PLAYER HAS PICKED UP BULBASAUR POKEBALL <<"
+	{
+		"chi"		"**妙蛙种子（墙）被收服**"
+	}
+	">> PLAYER HAS PICKED UP SQUIRTLE POKEBALL <<"
+	{
+		"chi"		"**杰尼龟（水）被收服**"
+	}
+	"*** Tunnel opening in 20 seconds ***"
+	{
+		"chi"		"**洞口通道还有20秒开通**"
+	}
+	">> PLAYER HAS PICKED UP DITTO POKEBALL <<"
+	{
+		"chi"		"**百变怪已被收服，对着头顶按E切换效果**"
+	}
+	"*** Tunnel opening in 5 seconds ***"
+	{
+		"chi"		"**隧道还有5秒打通**"
+	}
+	">> ZOMBIE GHASTLY POKEBALL HAS BEEN PICKED UP<<"
+	{
+		"chi"		"**僵尸鬼斯已被拾取**"
+	}
+	"*** Guard House opening in 30 seconds ***"
+	{
+		"chi"		"**警备处大门还有30秒开启**"
+	}
+	"*** Guard House opening in 5 seconds ***"
+	{
+		"chi"		"**警备处大门还有5秒开启（门板开合时候有秒杀效果）**"
+	}
+	"*** Gym opening in 20 seconds ***"
+	{
+		"chi"		"**竞技场大门还有20秒开启**"
+	}
+	"*** Gym opening in 5 seconds ***"
+	{
+		"chi"		"**竞技场大门还有5秒开启（门板开合时候有秒杀效果）**"
+	}
+	"*** RUN INTO THE GYM !!!! ***"
+	{
+		"chi"		"**走进竞技场看看有谁在等着我们**"
+	}
+	"*** YOU WOKE UP SNORLAX ***"
+	{
+		"chi"		"**你唤醒了卡比兽**"
+	}
+	"*** IT ATTACKED IN A GRUMPY RAGE !!! ***"
+	{
+		"chi"		"**它现在愤怒了**"
+	}
+	"*** SNORLAX IS MAKING US SLEEPY ***"
+	{
+		"chi"		"**卡比兽释放了【催眠之力】**"
+	}
+	"*** DEFEAT HIM BEFORE ITS TOO LATE ***"
+	{
+		"chi"		"**在45秒之前干掉它**"
+		"DoorCountDown"		"45"
+	}
+	"*** SNORLAX IS GOING TO USE HYPERBEAM ***"
+	{
+		"chi"		"**15秒 卡比兽即将使用破坏死光（注意两侧僵尸）**"
+	}
+	"*** SHOOT BEFORE ITS TOO LATE ***"
+	{
+		"chi"		"**赶紧干掉它，注意僵尸的进攻**"
+	}
+	"*** SNORLAX USED HYPERBEAM ***"
+	{
+		"chi"		"**10秒 卡比兽释放了破坏死光**"
+	}
+	"*** SNORLAX USED REST ***"
+	{
+		"chi"		"**卡比兽释放了【自我休息】ZZZ**"
+	}
+	"*** ESCAPE WHILE HE IS ASLEEP ***"
+	{
+		"chi"		"**让它继续睡它的回笼觉，赶紧跑掉**"
+	}
+	"*** ELEVATOR LEAVING IN 30 seconds ***"
+	{
+		"chi"		"**电梯30秒后启动**"
+	}
+	">> EXTREME MODE ADDED <<"
+	{
+		"chi"		"**极限关卡已经启动**"
+	}
+	">> 2 MORE RUNGS TO FIND <<"
+	{
+		"chi"		"**还有2个木板**"
+		"DoorCountDown"		"-1"
+	}
+	">> 1 MORE RUNG TO FIND <<"
+	{
+		"chi"		"**还有1个木板**"
+		"DoorCountDown"		"-1"
+	}
+	">> ALL THE RUNGS ARE FOUND <<"
+	{
+		"chi"		"**所有木板都被找到了**"
+	}
+	"*** RESCUE DRAGON LEAVING IN 30 SECONDS ***"
+	{
+		"chi"		"**地狱之龙还有30秒离开**"
+	}
+	">> PLAYER HAS PICKED UP CHARMANDER POKEBALL <<"
+	{
+		"chi"		"**小火龙已被收服**"
+	}
+	">> PLAYER HAS PICKED UP PIKACHU POKEBALL <<"
+	{
+		"chi"		"**皮卡丘已被收服**"
+	}
+	"*** ITS SUPER EFFECTIVE !!! ***"
+	{
+		"chi"		"**它超级有效**"
+	}
+	">> ZOMBIES ABOARD!! LEVEL FAILED!! <<"
+	{
+		"chi"		"**僵尸到达，关卡失败**"
+	}
+	"*** LIFT LEAVING IN 30 seconds ***"
+	{
+		"chi"		"**缆车还有20秒后（？）**"
+	}
+	"*** THE LIFT IS BROKEN ! ***"
+	{
+		"chi"		"**缆车坏掉了**"
+	}
+	"*** WE HAVE TO GO DEEPER INTO THE CAVE ***"
+	{
+		"chi"		"**我们必须去山洞**"
+	}
+	"*** HOLD WHILE WE OPEN THE WAY ***"
+	{
+		"chi"		"**守到我们把道路弄开**"
+		"DoorCountDown"		"15"
+	}
+	">> ITS A DEAD END !! <<"
+	{
+		"chi"		"**不好，是死路**"
+	}
+	">> THE MOLE WILL HELP US GET OUT <<"
+	{
+		"chi"		"**鼹鼠会帮我们清空道路**"
+	}
+	">> DEFEND WHILE THE MOLE IS DIGGING <<"
+	{
+		"chi"		"**鼹鼠挖掘中**"
+	}
+	">> DEFEND!! KEEP ZOMBIES IN THE CAVE <<"
+	{
+		"chi"		"**守住，别让僵尸出洞**"
+		"DoorCountDown"		"30"
+	}
+	">> THE MOLE IS COMING BACK ! WATCH OUT !! <<"
+	{
+		"chi"		"**鼹鼠回爬了，两边散开，别让僵尸进来**"
+	}
+	"*** ZOMBIES TAKE THE SIDEWAY ***"
+	{
+		"chi"		"**侧路开启，守到开关按下**"
+	}
+	"*** ELEVATOR IS STUCK ***"
+	{
+		"chi"		"**电梯的发电机突然关闭了**"
+	}
+	"*** THERE IS AN EMERGENCY SWITCH ON THIS FLOOR ***"
+	{
+		"chi"		"**重启发电机的开关在这层里面，找找看**"
+	}
+	"*** NICE JOB!!! ***"
+	{
+		"chi"		"**干得漂亮**"
+	}
+	">> POKEMON WONT FOLLOW YOU IN THIS CAVE <<"
+	{
+		"chi"		"**宝可梦逃掉了（神器不能用）**"
+	}
+	"*** Doors opening in 30 seconds ***"
+	{
+		"chi"		"**门还有30秒打开**"
+	}
+	"*** Doors opening in 5 seconds ***"
+	{
+		"chi"		"**门还有5秒开启**"
+	}
+	"*** Doors are open! RUN!! ***"
+	{
+		"chi"		"**门开了**"
+	}
+	">> ITS A SHINY PIKACHU !!! <<"
+	{
+		"chi"		"**是个闪光的皮卡丘**"
+	}
+	">> CATCH HIM. HE IS OUR WAY OUT !!! <<"
+	{
+		"chi"		"**赶紧用宝贝球收服它**"
+	}
+	">> A POKEBALL HAS BEEN PICKED UP <<"
+	{
+		"chi"		"**精灵球已被拾取**"
+	}
+	">> SHINY PIKACHU HAS BEEN PICKED UP <<"
+	{
+		"chi"		"**闪光皮卡丘已被拾取**"
+	}
+	">> TAKE THE POKEBALL <<"
+	{
+		"chi"		"**拿起精灵球**"
+	}
+	">> WE CAN LEAVE THIS WORLD NOW <<"
+	{
+		"chi"		"**我们能离开这个世界了**"
+	}
+	">> THE CLOCK IS A TIME MACHINE !!! <<"
+	{
+		"chi"		"**这闹钟是个时光机器**"
+	}
+	">> PUT THE SHINY PIKACHU INSIDE IT <<"
+	{
+		"chi"		"**赶紧去把皮卡丘放进去**"
+	}
+	">> ENTER IN THE CLOCK FROM THE BACK <<"
+	{
+		"chi"		"**用内格夫将闹钟外表电池拆掉**"
+	}
+	">> FIND 3 RUNGS TO FIX IT <<"
+	{
+		"chi"		"**寻找3个木板去修复它**"
+	}
+	">> PUT SHINY PIKACHU IN THE CLOCK <<"
+	{
+		"chi"		"**把闪光皮卡丘放在闹钟里面**"
+	}
+	">> PIKACHU IS POWERING UP THE TIME MACHINE !!! <<"
+	{
+		"chi"		"**皮卡丘启动了时光机**"
+	}
+	">> STAY ON THE BOOK <<"
+	{
+		"chi"		"**待在书本上面**"
+	}
+	">> IT SHOULD BE SAFER <<"
+	{
+		"chi"		"**它会很安全**"
+	}
+	">> ZOMBIES ESCAPED!! LEVEL FAILED!! <<"
+	{
+		"chi"		"**僵尸到达终点！！关卡失败**"
+	}
+	">> YOU TOOK TOO LONG !! <<"
+	{
+		"chi"		"**你花费了太长时间**"
+	}
+	">> PIKACHU CAUGHT HIMSELF !! <<"
+	{
+		"chi"		"**皮卡丘自己都看不下去了，自己钻进了精灵球**"
+	}
+	">> ZOMBIES INSIDE THE ELEVATOR <<"
+	{
+		"chi"		"**僵尸进到电梯里面了**"
+	}
+	">> LEVEL FAILED <<"
+	{
+		"chi"		"**关卡失败**"
+	}
+	">> PIKACHU IS GETTING OUT OF CONTROL !! <<"
+	{
+		"chi"		"**皮卡丘释放了十万伏特**"
+	}
+	">> THE OVERLOAD IS RECHARGING THE RADIO !! <<"
+	{
+		"chi"		"**电力波及到了收音机**"
+	}
+	">> GO ON THE BOOK ! <<"
+	{
+		"chi"		"**赶紧上到书本上面去，别让僵尸上来，这是最后了**"
+	}
+	">> LEVEL: TIME LOOP <<"
+	{
+		"chi"		"**关卡：时光循环（河北省的元首 雾）**"
+	}
+	">> THE TIME MACHINE IS ALMOST READY !!! <<"
+	{
+		"chi"		"**时光机已经准备好**"
+	}
+	">> DEFEND !!! <<"
+	{
+		"chi"		"**防守**"
+	}
+	">> DEFEND FOR 40 SECONDS <<"
+	{
+		"chi"		"**在时空隧道防守40秒，目标：河北省**"
+	}
+	">> 5 SECONDS LEFT !!! <<"
+	{
+		"chi"		"**5秒剩余，赶紧上最后平台，别放僵尸过来**"
+	}
+	"*** WAIT TILL BOMBS BREAK THIS BOARD ***"
+	{
+		"chi"		"**守到炸弹炸开木板：30**"
+	}
+	"*** BOARD IS BROKEN RUUUUUUN!! ***"
+	{
+		"chi"		"**木板炸开了，走**"
+	}
+	"*** Door opening in 25 seconds ***"
+	{
+		"chi"		"**门还有25秒开启**"
+	}
+	"*** Doors opening in 20 seconds ***"
+	{
+		"chi"		"**门还有20秒开启**"
+	}
+	">> DEFEND FOR 30 SECONDS <<"
+	{
+		"chi"		"**守住30秒**"
+	}
+	">> OH NO!! ITS PIKACHU NAZI <<"
+	{
+		"chi"		"**不好，是元首皮卡丘**"
+	}
+	">> KILL HIM BEFORE HE GIVE BIRTH TO SATAN <<"
+	{
+		"chi"		"**别让他把撒旦召唤出来**"
+	}
+	">> PIKACHU NAZI IS USING THUNDERBOLT KEEP SHOOTING!!!!!!!!!! <<"
+	{
+		"chi"		"**元首皮卡丘释放了闪电，渣渣**"
+	}
+	">> PIKACHU NAZI HAS BEEN DEFEATED !!! <<"
+	{
+		"chi"		"**皮卡丘元首被击败了**"
+	}
+	">> WE WERE TOO LATE !!! <<"
+	{
+		"chi"		"**我们太慢了**"
+	}
+	">> PIKACHU NAZI SACRIFICED HIS SOUL TO FINISH THE BIRTH !! <<"
+	{
+		"chi"		"**纳粹皮卡丘献祭了自己的生命召唤了撒旦**"
+	}
+	">> OH NO!! SATAN IS ALIVE ! <<"
+	{
+		"chi"		"**不好，撒旦复活了**"
+	}
+	">> SATAN OPENED A PORTAL TO HELL !!! <<"
+	{
+		"chi"		"**撒旦开启了地狱之门**"
+	}
+	"-- [ZOMBIES] Find Satans Powers to make him stronger --"
+	{
+		"chi"		"**【僵尸】给撒旦寻找5个力量（总共9种，终极固定，4个随机）**"
+		"DoorCountDown"		"-1"
+	}
+	">> SATAN IS HEADING TO THE TIMEMACHINE ROOM !!! <<"
+	{
+		"chi"		"**撒旦正藏在时间机器房间**"
+	}
+	">> STOP HIM BEFORE ITS TOO LATE !! <<"
+	{
+		"chi"		"**在太迟之前阻止它**"
+	}
+	">> OH NO !! SATAN IS IN THE TIMEMACHINE ! <<"
+	{
+		"chi"		"**噢不撒旦正在启动时间机器**"
+	}
+	">> GET READY FOR THE FINAL FIGHT !! <<"
+	{
+		"chi"		"**准备好与它的战斗**"
+	}
+	">> KEEP ZOMBIES OUT OF THE ROOM <<"
+	{
+		"chi"		"**把僵尸阻挡在门外**"
+	}
+	"-- [ZOMBIES] You can still find Satans Powers during the fight --"
+	{
+		"chi"		"**【僵尸】可以继续给撒旦寻找力量**"
+	}
+	"** Satan is immune to Grenades **"
+	{
+		"chi"		"**撒旦已经对手雷吸血**"
+	}
+	"** Satan control the Electricity **"
+	{
+		"chi"		"**撒旦掌握了电泳之力**"
+	}
+	"** Satan can summon Tornado Minions **"
+	{
+		"chi"		"**撒旦可以控制风暴**"
+	}
+	"** Satan can summon Ultimate Minions **"
+	{
+		"chi"		"**撒旦学会了终极之力（这帮连跳）**"
+	}
+	"** Satan can summon Fire Minions **"
+	{
+		"chi"		"**撒旦学会了火焰喷射**"
+	}
+	"** 5 Zombies have Sacrificed to gift Satan 5 Special Powers **"
+	{
+		"chi"		"**5个僵尸已经江生命续给了撒旦，赶紧苟起**"
+		"DoorCountDown"		"-1"
+	}
+	">> SATAN IS ESCAPING !! <<"
+	{
+		"chi"		"**撒旦正在逃脱**"
+	}
+	">> HE WONT GO FAR ! <<"
+	{
+		"chi"		"**它不会跑太远**"
+	}
+	">> DEFEND 20 SECONDS !! <<"
+	{
+		"chi"		"**把僵尸压制20秒，我们会追上撒旦**"
+	}
+	">> 5 SECONDS LEFT !! <<"
+	{
+		"chi"		"**5秒剩余，时光机快启动了**"
+	}
+	">> GO IN THE TIMEMACHINE !! <<"
+	{
+		"chi"		"**赶紧进入时光机**"
+	}
+	">> THIS IS THE BRINK OF TIME <<"
+	{
+		"chi"		"**我们回到了时光间隙**"
+	}
+	">> SATAN IS HIDING SOMEWHERE <<"
+	{
+		"chi"		"**撒旦肯定藏在某个地方**"
+	}
+	">> BE CAREFUL <<"
+	{
+		"chi"		"**17:小心它的突然袭击[剑气斩（跳刀）准备，第一刀出现在僵尸方向，准备好高爆]**"
+	}
+	">> DEFEND UNTIL SOMETHING HAPPENS <<"
+	{
+		"chi"		"**守到数字版消失**"
+	}
+	">> 40 SECONDS UNTIL SATAN DISAPPEAR INTO THE FUTURE ! <<"
+	{
+		"chi"		"**撒旦将在40秒后逃出生天**"
+	}
+	">> WE NEED TO KILL HIM BEFORE ITS TOO LATE !! <<"
+	{
+		"chi"		"**我们必须在它逃掉之前将其击败**"
+	}
+	">> TOO LATE ! <<"
+	{
+		"chi"		"**太慢了**"
+	}
+	">> WE WILL STOP SATAN NO MATTER WHAT !!! <<"
+	{
+		"chi"		"**我们不会放过它的**"
+	}
+	">> DEFEND 20 SECONDS <<"
+	{
+		"chi"		"**防守20秒**"
+	}
+	">> 5 SECONDS LEFT <<"
+	{
+		"chi"		"**5秒剩余**"
+	}
+	"** Satan control the Ice **"
+	{
+		"chi"		"**撒旦学会了寒冰之地**"
+	}
+	"** Satan can summon Water Minions **"
+	{
+		"chi"		"**撒旦学会了水浪波动**"
+	}
+	"** Satan control the Explosions **"
+	{
+		"chi"		"**撒旦可以控制爆炸了（小心地雷）**"
+	}
+	"** Satans Speed Increased **"
+	{
+		"chi"		"**撒旦速度快起来了，别被坐飞机了**"
+	}
+	">> Congratulations ! <<"
+	{
+		"chi"		"**恭喜你**"
+	}
+	">> You beat the map ! <<"
+	{
+		"chi"		"**你通关了本地图**"
+	}
+	">> TimeLoop Ending <<"
+	{
+		"chi"		"**时光循环路线**"
+	}
+	">> Play ShroomForest1 to continue this beautiful adventure <<"
+	{
+		"chi"		"**重新玩蘑菇1从头开始吧**"
+	}
+	">> (That wouldnt have happened if you killed Satan) <<"
+	{
+		"chi"		"**除非你击败了撒旦**"
+	}
+	">> MAP IS OVER <<"
+	{
+		"chi"		"**关卡结束**"
+	}
+	">> TELEPORTER TO ADMIN ROOM AVAILABLE <<"
+	{
+		"chi"		"**传送到调关房间**"
+	}
+	">> NUKE ALL IN 30 SECONDS <<"
+	{
+		"chi"		"**核弹还有30秒抵达**"
+	}
+	">> PLAYER HAS CHOSEN: DEAD TREE <<"
+	{
+		"chi"		"**调关选择了：死亡之树（LV1）**"
+	}
+	">> Good Ending <<"
+	{
+		"chi"		">>完美结局<<"
+	}
+	">> Thanks for being part of this incredible adventure <<"
+	{
+		"chi"		">>谢谢你参与了这不可思议的冒险之旅<<"
+	}
+	">> PLAYER HAS CHOSEN: CAVES NORMAL <<"
+	{
+		"chi"		"**调关选择了：地洞（LV2）*"
+	}
+	">> PLAYER HAS CHOSEN: POKEBALL NORMAL <<"
+	{
+		"chi"		"**调关选择了：宝可梦（LV3）**"
+	}
+	">> PLAYER HAS CHOSEN: DEAD TREE EXTREME <<"
+	{
+		"chi"		"**调关选择了：极限死亡之树（EX1）**"
+	}
+	">> PLAYER HAS CHOSEN: CAVES EXTREME <<"
+	{
+		"chi"		"**调关选择了：极限地洞（EX2）**"
+	}
+	">> PLAYER HAS CHOSEN: POKEBALL EXTREME <<"
+	{
+		"chi"		"**调关选择了：极限宝可梦（EX3）**"
+	}
+	">> PLAYER HAS CHOSEN: TIME LOOP <<"
+	{
+		"chi"		"**调关选择了：时光循环（LV7）**"
+	}
+	">> TAKE THE MASTERBALL <<"
+	{
+		"chi"		">>捡起大师球<<"
+	}
+	">> WE ELIMINATED SATAN BEFORE HE COULD TIME TRAVEL !!! <<"
+	{
+		"chi"		">>我们成功击败了撒旦<<"
+	}
+	">> THE WORLD WILL FINALLY BE IN PEACE !!! <<"
+	{
+		"chi"		">>世界将会重返和平<<"
+	}
+	">> RESTARTING ROUND IN 5 SECONDS <<"
+	{
+		"chi"		"5秒后全图核爆"
+	}
+	">> NOBODY ESCAPED!! LEVEL FAILED!! <<"
+	{
+		"chi"		"没人逃出？那就GG咯"
+	}
+	">> SATAN ABSORB NADES TO HEAL HIMSELF <<"
+	{
+		"chi"		"撒旦现在对高爆吸血了，别再丢了"
+	}
+	">> There is an error in the level system <<"
+	{
+		"chi"		">>这是个错误的关卡系统<<"
+	}
+	">> THE MASTERBALL HAS BEEN PICKED UP <<"
+	{
+		"chi"		">>大师球已被拾取<<"
+	}
+	"*** 岩石将在25秒后清除 ***"
+	{
+		"chi"		"** **"
+	}
+	"*** 蜘蛛网将在20秒后清除 ***"
+	{
+		"chi"		"** **"
+	}
+	">> ZOMBIES IN THE SAFE AREA <<"
+	{
+		"chi"		"**僵尸到达安全区域了**"
+	}
+}

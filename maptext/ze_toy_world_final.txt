@@ -1,0 +1,363 @@
+"Console_T"
+{
+	"** last 35 seconds **"
+	{
+		"chi"		"**剩余35秒**"
+	}
+	"*** Climb the ladder and run ***"
+	{
+		"chi"		"**爬上梯子，撤退**"
+	}
+	"*** Tips:Push the red book on the ground away ***"
+	{
+		"chi"		"***提示：把红色书本推开，就能爬上梯子***"
+	}
+	"*** Zombies will teleport in 8 seconds ***"
+	{
+		"chi"		"**僵尸8秒后传送**"
+		"DoorCountdown"		"-1"
+	}
+	"*** Waiting for rescue,Hold 35 seconds ***"
+	{
+		"chi"		"**守住35秒，等待救援**"
+	}
+	"*** Zombies will teleport in 10 seconds ***"
+	{
+		"chi"		"**僵尸10秒后传送**"
+		"DoorCountdown"		"-1"
+	}
+	"*** Defense for 25 seconds ***"
+	{
+		"chi"		"**坚守25秒**"
+	}
+	"*** Zombies will teleport in 5 seconds ***"
+	{
+		"chi"		"**僵尸5秒后传送**"
+		"DoorCountdown"		"-1"
+	}
+	"*** zombie has been teleported back,Run ***"
+	{
+		"chi"		"**僵尸已被传送回尸笼，快撤退**"
+	}
+	"*** Run ***"
+	{
+		"chi"		"**快跑快跑快跑**"
+	}
+	"*** Hold 25 seconds ***"
+	{
+		"chi"		"**守住25秒**"
+	}
+	"*** Stage 1 ***"
+	{
+		"chi"		"**第一关**"
+	}
+	"*** Stage 2 ***"
+	{
+		"chi"		"**第二关**"
+	}
+	"*** Map transplanted on the L4D2 ***"
+	{
+		"chi"		"**地图基于求生之路2移植，进行了一定程度的修改**"
+		"DoorCountdown"		"-1"
+	}
+	"*** Made a lot of modifications and deletions on the original map ***"
+	{
+		"chi"		"**地图作者：小三ya 地图翻译：Alica**"
+	}
+	"*** Hold 35 seconds ***"
+	{
+		"chi"		"**坚守35秒**"
+	}
+	"*** Defend the house in 15 seconds ***"
+	{
+		"chi"		"**坚守屋子15秒**"
+	}
+	"*** Run Run ***"
+	{
+		"chi"		"**快跑快跑**"
+	}
+	"*** Press the button of the ship to call the large rescue cruise ship ***"
+	{
+		"chi"		"**按下船的开关，呼叫游艇救援**"
+	}
+	"*** Zombie side raod activating ***"
+	{
+		"chi"		"**僵尸侧路开启**"
+	}
+	"*** Waiting for rescue ***"
+	{
+		"chi"		"**等待救援**"
+	}
+	"*** The obstacle will explode after 25 seconds ***"
+	{
+		"chi"		"**障碍将在25秒后爆破**"
+	}
+	"*** Zombies will teleport in 10 seconds ***"
+	{
+		"chi"		"**僵尸10秒后传送**"
+		"DoorCountdown"		"-1"
+	}
+	"*** Side road activating ***"
+	{
+		"chi"		"**侧路激活**"
+	}
+	"*** wait 35 seconds ***"
+	{
+		"chi"		"**等待35秒**"
+	}
+	"*** Side road is activating ***"
+	{
+		"chi"		"**侧路激活**"
+	}
+	"*** Zombies will teleport in 10 seconds ***"
+	{
+		"chi"		"**僵尸10秒后传送**"
+		"DoorCountdown"		"-1"
+	}
+	"*** The gate will shatter after 25 seconds ***"
+	{
+		"chi"		"**大门将在25秒后打开**"
+		"DoorCountdown"		"25"
+	}
+	"*** The obstacle will explode after 28 seconds ***"
+	{
+		"chi"		"**障碍将在28秒后爆破**"
+	}
+	"*** Zombies will teleport in 15 seconds ***"
+	{
+		"chi"		"**僵尸将在15秒后传送**"
+		"DoorCountdown"		"-1"
+	}
+	"*** Zombie detected, failed ***"
+	{
+		"chi"		"**检测到有僵尸踪迹，关卡失败**"
+	}
+	"*** stage complete ****"
+	{
+		"chi"		"**没事，俺不累（Mission Complete）**"
+	}
+	"*** Zombies will teleport in 10 seconds ***"
+	{
+		"chi"		"**僵尸10秒后传送**"
+		"DoorCountdown"		"-1"
+	}
+	"*** Hold for 35 seconds ***"
+	{
+		"chi"		"**坚守35秒**"
+	}
+	"*** The helicopter will evacuate after 45 seconds ***
+	{
+		"		"chi"
+	"		"		"**直升机将在45秒后撤离**"
+	"
+	}   
+  	"		"***"
+	"Zombie"		"teleport"
+	"in"		"10"
+	"seconds"		"***"
+	"
+	{
+		"		"chi"
+	"		"		"**僵尸10秒后传送**"
+	"
+    		"		"DoorCountdown"
+	"		"		"-1"
+	"
+	}
+     	"		"***"
+	"Zombies"		"will"
+	"teleport"		"in"
+	"8"		"seconds"
+	"***"		"
+	{
+		"
+	"chi"		"		"
+	"**僵尸8秒后传送**"		"
+    		"
+	"DoorCountdown"		"		"
+	"-1"		"
+	}
+  	"
+	"***"		"The"
+	"wall"		"break"
+	"25"		"seconds"
+	"left"		"***"
+	"
+	{
+		"		"chi"
+	"		"		"**墙将在25秒后碎裂**"
+	"
+	}
+  	"		"***"
+	"Zombie"		"teleport"
+	"in"		"10"
+	"seconds"		"left"
+	"***"		"
+	{
+		"
+	"chi"		"		"
+	"**僵尸10秒后传送**"		"
+	}
+  	"
+	"***"		"The"
+	"wall"		"break"
+	"in"		"35"
+	"seconds"		"left"
+	"***"		"
+	{
+		"
+	"chi"		"		"
+	"**墙将在35秒后碎裂**"		"
+	}
+  	"
+	"***"		"Hold"
+	"this"		"position"
+	"for"		"35"
+	"seconds"		"***"
+	"
+	{
+		"		"chi"
+	"		"		"**坚守35秒**"
+	"
+	}
+ 	"		"**"
+	"Zombie"		"tele"
+	"in"		"10"
+	"seconds"		"**"
+	"
+	{
+		"		"chi"
+	"		"		"**僵尸10秒后被传送**"
+	"
+    		"		"DoorCountdown"
+	"		"		"-1"
+	"
+	}
+  	"		"**"
+	"survive"		"50"
+	"seconds"		"**"
+	"
+	{
+		"		"chi"
+	"		"		"**存活50秒**"
+	"
+	}
+  	"		"**"
+	"for"		"back"
+	"**"		"
+	{
+		"
+	"chi"		"		"
+	"**撤退**"		"
+	}
+  	"
+	"**"		"maby"
+	"we"		"can"
+	"climb"		"up"
+	"the"		"stars"
+	"**"		"
+	{
+		"
+	"chi"		"		"
+	"**爬上这梯子**"		"
+	}
+  	"
+	"**"		"zombie"
+	"teleport"		"run"
+	"now***"		"
+	{
+		"
+	"chi"		"		"
+	"**僵尸被传送了，快撤退**"		"
+	}
+  	"
+	"**"		"wo"
+	"must"		"find"
+	"a"		"way"
+	"out"		"of"
+	"here"		"***"
+	"
+	{
+		"		"chi"
+	"		"		"**我们必须找到一条离开这里的路**"
+	"
+	}
+  	"		"***"
+	"Hold"		"25"
+	"seconds"		"***"
+	"
+	{
+		"		"chi"
+	"		"		"**坚守25秒**"
+	"
+	}
+    	"		"***"
+	"the"		"road"
+	"is"		"clear"
+	"after"		"35"
+	"seconds"		"***"
+	"
+	{
+		"		"chi"
+	"		"		"**道路将在35秒后清空**"
+	"*** The road is clear after 35 seconds ***"
+	{
+		"chi"		"** **"
+	}
+	"** for back **"
+	{
+		"chi"		"** **"
+	}
+	"** survive 50 seconds **"
+	{
+		"chi"		"** **"
+	}
+	"** zombie tele in 10 seconds **"
+	{
+		"chi"		"** **"
+	}
+	"** wo must find a way out of here **"
+	{
+		"chi"		"** **"
+	}
+	"** maby we can climb up the stars **"
+	{
+		"chi"		"** **"
+	}
+	"** zombie teleport run now***"
+	{
+		"chi"		"** **"
+	}
+	"*** Zombie teleport in 10 seconds left ***"
+	{
+		"chi"		"** **"
+	}
+	"*** The wall break 25 seconds left ***"
+	{
+		"chi"		"** **"
+	}
+	"*** The wall break in 35 seconds left ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Hold this position for 35 seconds ***"
+	{
+		"chi"		"** **"
+	}
+	"*** The helicopter will evacuate after 45 seconds ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Zombie teleport in 10 seconds ***"
+	{
+		"chi"		"** **"
+	}
+	"*** stage complete ***"
+	{
+		"chi"		"** **"
+	}
+	"僵尸传送:5秒"
+	{
+		"chi"		"** **"
+	}
+}

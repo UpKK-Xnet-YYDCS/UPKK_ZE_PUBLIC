@@ -1,0 +1,496 @@
+"Console_T"
+{
+	"<< model by koyomaple >>"
+	{
+		"chi"		">>>模型支持：koyomaple<<<"
+	}
+	"<< script by Excarliber >>"
+	{
+		"chi"		">>>脚本支持：Excarliber<<<"
+	}
+	"<< teleport in 20 seconds >>"
+	{
+		"chi"		">>>20秒后传送<<<"
+	}
+	"<< A zombie has picked up gravity magic >>"
+	{
+		"chi"		">>>僵尸拾取了黑洞<<<"
+	}
+	"<< A player has picked up wind magic >>"
+	{
+		"chi"		">>>一位玩家拾取了风<<<"
+	}
+	"<< A player has picked up heal magic >>"
+	{
+		"chi"		">>>一位玩家拾取了治疗<<<"
+	}
+	"<< A player has picked up snow magic >>"
+	{
+		"chi"		">>>一位玩家拾取了雪<<<"
+	}
+	"<< the bridge will open in 20 seconds >>"
+	{
+		"chi"		">>>桥会在20秒后允许通行<<<"
+	}
+	"<< the way is able to pass now >>"
+	{
+		"chi"		">>>路线在允许通行了<<<"
+	}
+	"<< the way will be able to pass in 10 seconds >>"
+	{
+		"chi"		">>>路将在10秒后允许通行<<<"
+	}
+	"<< the way will be able to pass in 20 seconds >>"
+	{
+		"chi"		">>>路将在20秒后允许通行<<<"
+	}
+	"<< wait for 30 seconds >>"
+	{
+		"chi"		">>>等待30秒<<<"
+	}
+	"<< defend for 20 seconds >>"
+	{
+		"chi"		">>>防守20秒<<<"
+	}
+	"<< defend for 25 seconds >>"
+	{
+		"chi"		">>>防守25秒<<<"
+	}
+	"<< wait for 20 seconds >>"
+	{
+		"chi"		">>>等待20秒<<<"
+	}
+	"<< the platform wil rise in 20 seconds >>"
+	{
+		"chi"		">>>平台将在20秒后上升<<<"
+	}
+	"<< defend for 35 seconds >>"
+	{
+		"chi"		">>>防守35秒<<<"
+	}
+	"<< STAGE I COMPLETE >>"
+	{
+		"chi"		"** **"
+	}
+	"<< teleport human in 20 seconds >>"
+	{
+		"chi"		">>>人类将在20秒后传送<<<"
+	}
+	"<< This Tomb is used to commemorate the player who win ze_misaka with bhop hack >>"
+	{
+		"chi"		">>>这个墓碑是用来纪念那位利用脚本获得misaka竞赛优胜的玩家<<<"
+	}
+	"<< R.I.P >>"
+	{
+		"chi"		">>>来都来了，上个香再走吧<<<"
+	}
+	"<< the bridge will appear in 20 seconds >>"
+	{
+		"chi"		">>>桥将在20秒后出现<<<"
+	}
+	"<< wait for a few seconds >>"
+	{
+		"chi"		">>>稍等一小会<<<"
+	}
+	"<< defend for 30 seconds >>"
+	{
+		"chi"		">>>防守30秒<<<"
+	}
+	"<< STAGE II COMPLETE >>"
+	{
+		"chi"		"** **"
+	}
+	"<< The next button will unlock in 10 seconds >>"
+	{
+		"chi"		">>>下一个按钮将在10秒后解锁<<<"
+	}
+	"<< the boat will move in 10 seconds >>"
+	{
+		"chi"		">>>船将在10秒后启动<<<"
+	}
+	"<< the boat will move again in 10 seconds >>"
+	{
+		"chi"		">>>船将会在10秒后再次移动<<<"
+	}
+	"<< the way will close in 10 seconds >>"
+	{
+		"chi"		">>>路将在10秒后关闭<<<"
+	}
+	"<< Trials of Sword lv.1 >>"
+	{
+		"chi"		">>>剑之审判lv.1<<<"
+		"DoorCountdown"		"3"
+	}
+	"<< Trials of Sword lv.2 >>"
+	{
+		"chi"		">>>剑之审判lv.2<<<"
+		"DoorCountdown"		"3"
+	}
+	"<< survive for 130 seconds >>"
+	{
+		"chi"		">>>生存130秒！<<<"
+		"DoorCountdown"		"130"
+	}
+	"<< wait.... something will happen....>>"
+	{
+		"chi"		">>>等一下......好像有什么事要发生......<<<"
+	}
+	"<< Its Misaka!!!>>"
+	{
+		"chi"		">>>是Misaka!!!<<<"
+	}
+	"<< emmmm..... >>"
+	{
+		"chi"		"** **"
+	}
+	"<< seems that you are doubt about this..... >>"
+	{
+		"chi"		"** **"
+	}
+	"<< You want to ask me why I am only a glass board? >>"
+	{
+		"chi"		"** **"
+	}
+	"<< Do you really want to see me? >>"
+	{
+		"chi"		"** **"
+	}
+	"<< Okay..... If you really want to see me...... >>"
+	{
+		"chi"		"** **"
+	}
+	"<< OKAY! >>"
+	{
+		"chi"		"** **"
+	}
+	"<< Ive already satisfied your wish >>"
+	{
+		"chi"		"** **"
+	}
+	"<< SO NOW, ITS TIME FOR YOU TO SATISFY ME >>"
+	{
+		"chi"		"** **"
+	}
+	"<< ARE YOU READY? LETS GO !!! >>"
+	{
+		"chi"		"** **"
+	}
+	"<< STAGE III COMPLETE >>"
+	{
+		"chi"		"** **"
+	}
+	"<< Misaka will help you >>"
+	{
+		"chi"		"** **"
+	}
+	"<< The cannon will deactive if misaka pick other magic >>"
+	{
+		"chi"		"** **"
+	}
+	"<< Starfall >>"
+	{
+		"chi"		">>>星坠（抬头打头顶光球）<<<"
+		"DoorCountdown"		"5"
+	}
+	"<< CANNON >>"
+	{
+		"chi"		">>>轨道炮<<<"
+		"DoorCountdown"		"5"
+	}
+	"<< FALL OF EARTH >>"
+	{
+		"chi"		">>>大地陨落（注意观察鬼火）<<<"
+		"DoorCountdown"		"5"
+	}
+	"<< The final fence will break in 120 seconds >>"
+	{
+		"chi"		">>>最终的栅栏将在120秒后破碎<<<"
+		"DoorCountdown"		"120"
+	}
+	"<< A zombie has picked up speed magic >>"
+	{
+		"chi"		"** **"
+	}
+	"<< Misaka will release the power in 20 seconds >>"
+	{
+		"chi"		"** **"
+		"DoorCountdown"		"-1"
+	}
+	"<< CANNON READY >>"
+	{
+		"chi"		"** **"
+	}
+	"<< STAGE IX COMPLETE >>"
+	{
+		"chi"		"** **"
+	}
+	"<< Let me tell you a story >>"
+	{
+		"chi"		"** **"
+	}
+	"<< A story of this map >>"
+	{
+		"chi"		"** **"
+	}
+	"<< Lots of people want to defeat this map >>"
+	{
+		"chi"		"** **"
+	}
+	"<< So they all come to my world, and try to defeat me >>"
+	{
+		"chi"		"** **"
+	}
+	"<< However, only a little of them can survive from my world >>"
+	{
+		"chi"		"** **"
+	}
+	"<< Most of them actually has died >>"
+	{
+		"chi"		"** **"
+	}
+	"<< I collect the soul of these people >>"
+	{
+		"chi"		"** **"
+	}
+	"<< Finally, it becomes to the green soul that you have seen before >>"
+	{
+		"chi"		"** **"
+	}
+	"<< you look so scared >>"
+	{
+		"chi"		"** **"
+	}
+	"<< Do not be afraid, we are friends >>"
+	{
+		"chi"		"** **"
+	}
+	"<< I am really happy to play with you >>"
+	{
+		"chi"		"** **"
+	}
+	"<< You ask me why I attack you before? >>"
+	{
+		"chi"		"** **"
+	}
+	"<< Just a JOKE, FUHAHAHAHA >>"
+	{
+		"chi"		"** **"
+	}
+	"<< Just like a game we play together- YOU DIE, I ALIVE >>"
+	{
+		"chi"		"** **"
+	}
+	"<< It seems that you want to leave there >>"
+	{
+		"chi"		"** **"
+	}
+	"<< What a pity...... >>"
+	{
+		"chi"		"** **"
+	}
+	"<< I really want to play with you for more time >>"
+	{
+		"chi"		"** **"
+	}
+	"<< All right >>"
+	{
+		"chi"		"** **"
+	}
+	"<< If you want to leave there >>"
+	{
+		"chi"		"** **"
+	}
+	"<< Just go ahead !!!! You can see the exit my friend >>"
+	{
+		"chi"		"** **"
+	}
+	"<< 10 >>"
+	{
+		"chi"		"** **"
+	}
+	"<< 9 >>"
+	{
+		"chi"		"** **"
+	}
+	"<< 8 >>"
+	{
+		"chi"		"** **"
+	}
+	"<< 7 >>"
+	{
+		"chi"		"** **"
+	}
+	"<< 6 >>"
+	{
+		"chi"		"** **"
+	}
+	"<< FUHAHAHAHA!! I KNOW WHAT YOU THINK NOW >>"
+	{
+		"chi"		"** **"
+	}
+	"<< You should die now >>"
+	{
+		"chi"		"** **"
+	}
+	"<< Friends? THATS A JOKE AS WELL. THE SOUL OF YOU IS REALLY PERFECT FOR ME >>"
+	{
+		"chi"		"** **"
+	}
+	"<< DO NOT BE AFRAID >>"
+	{
+		"chi"		"** **"
+	}
+	"<< ONLY A LITTLE MOMENT >>"
+	{
+		"chi"		"** **"
+	}
+	"<< YOU WILL BECOME THE SOUL OF ME !!! >>"
+	{
+		"chi"		"** **"
+	}
+	"<< ESCAPE IN 140 seconds >>"
+	{
+		"chi"		"** **"
+	}
+	"<< No...... >>"
+	{
+		"chi"		"** **"
+	}
+	"<< You can not leave there!!! >>"
+	{
+		"chi"		"** **"
+	}
+	"<< DIE NOW >>"
+	{
+		"chi"		"** **"
+	}
+	"<< EVEN THIS MAY LET US PERISH TOGETHER >>"
+	{
+		"chi"		"** **"
+	}
+	"<< I WILL NOT LET YOU LEAVE THERE !!! >>"
+	{
+		"chi"		"** **"
+	}
+	"<< DO NOT TRUST THE BLACK LASER YOU SEE!!! >>"
+	{
+		"chi"		"** **"
+	}
+	"<< SURVIVE FOR FINAL 15 SECONDS !!! >>"
+	{
+		"chi"		"** **"
+	}
+	"<< Congratulations !!! >>"
+	{
+		"chi"		"** **"
+	}
+	"<< You have win all stage!!! >>"
+	{
+		"chi"		"** **"
+	}
+	"<< FAIL...... >>"
+	{
+		"chi"		"** **"
+	}
+	"<< Admin select STAGE III >>"
+	{
+		"chi"		"** **"
+	}
+	"<< zombie used speed >>"
+	{
+		"chi"		"** **"
+	}
+	"<< defend for 40 seconds >>"
+	{
+		"chi"		"** **"
+	}
+	"<< defend for 10 seconds >>"
+	{
+		"chi"		"** **"
+	}
+	"<< defend for 15 seconds >>"
+	{
+		"chi"		"** **"
+	}
+	"<< GIGA DRAIN >>"
+	{
+		"chi"		">>>二连吸<<<"
+		"DoorCountdown"		"5"
+	}
+	"<< hold for 25 seconds >>"
+	{
+		"chi"		"** **"
+	}
+	"<< Flame of Revenge >>"
+	{
+		"chi"		">>>火焰复仇（尸笼）<<<"
+		"DoorCountdown"		"3"
+	}
+	"<< Hunting Instinct >>"
+	{
+		"chi"		">>>狩猎本能（boss方向跳刀）<<<"
+		"DoorCountdown"		"5"
+	}
+	"<< hold for 15 seconds >>"
+	{
+		"chi"		"** **"
+	}
+	"<< 5 >>"
+	{
+		"chi"		"** **"
+	}
+	"<< 4 >>"
+	{
+		"chi"		"** **"
+	}
+	"<< 3 >>"
+	{
+		"chi"		"** **"
+	}
+	"<< 2 >>"
+	{
+		"chi"		"** **"
+	}
+	"<< 1 >>"
+	{
+		"chi"		"** **"
+	}
+	"<< MEGA PUSH >>"
+	{
+		"chi"		">>>三连推<<<"
+		"DoorCountdown"		"5"
+	}
+	"<< Fallen Sky >>"
+	{
+		"chi"		">>>天坠<<<"
+		"DoorCountdown"		"5"
+	}
+	"<< HOLY >>"
+	{
+		"chi"		"** **"
+	}
+	"<< Map by Misaka >>"
+	{
+		"chi"		"** **"
+	}
+	"sync_version"
+	{
+		"syncvalue"		"94307"
+	}
+	"<< No Misaka Mode for only one round >>"
+	{
+		"chi"		"** **"
+	}
+	"<< Admin select STAGE IX >>"
+	{
+		"chi"		"** **"
+	}
+	"<< Misaka mode >>"
+	{
+		"chi"		"** **"
+	}
+	"<< Do not select this stage!!! >>"
+	{
+		"chi"		"** **"
+	}
+}

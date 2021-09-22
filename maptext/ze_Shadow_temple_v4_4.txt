@@ -1,0 +1,148 @@
+"Console_T"
+{
+	"**stage 1**"
+	{
+		"chi"		"**第一关 **"
+	}
+	"**Transfer after 20 seconds**"
+	{
+		"chi"		"**20秒后传送 **"
+		"DoorCountdown"		"-1"
+	}
+	"**The wind has been picked up**"
+	{
+		"chi"		"**风神器已被捡起 **"
+	}
+	"** Holy Lights has been picked**"
+	{
+		"chi"		"**神圣之光(治疗)已被捡起 **"
+	}
+	"**Ice mirror has been picked**"
+	{
+		"chi"		"**冰墙已被捡起 **"
+	}
+	"** madness has been picked up**"
+	{
+		"chi"		"**火神器已被捡起 **"
+	}
+	"**WISP has been picked up**"
+	{
+		"chi"		"**阳炎冲击已被捡起 **"
+	}
+	"**Break two statues**"
+	{
+		"chi"		"**打碎门两边的雕像 **"
+		"ico"		"icon_tip"
+	}
+	"sync_version"
+	{
+		"syncvalue"		"25021"
+	}
+	"**30 seconds later the door opens **"
+	{
+		"chi"		"**门将在30秒后打开 **"
+	}
+	"**platform rises after 18s**"
+	{
+		"chi"		"**平台将在18秒后缓慢上升 **"
+	}
+	"**platform rises after 30 seconds**"
+	{
+		"chi"		"**平台将在30秒后缓慢上升 **"
+	}
+	"**door opened after 30 seconds**"
+	{
+		"chi"		"**门将在30秒后打开 **"
+	}
+	"**Elevator rises after 10 seconds**"
+	{
+		"chi"		"**电梯将在10秒后上升 **"
+	}
+	"** Heavenly Rain **"
+	{
+		"chi"		"**天堂之雨(全屏伤害) **"
+	}
+	"**Smash the stone door**"
+	{
+		"chi"		"**打碎石门 **"
+		"ico"		"icon_tip"
+	}
+	"**door opened after 45 seconds**"
+	{
+		"chi"		"**门将在45秒后打开 **"
+	}
+	"** Big Fireball **"
+	{
+		"chi"		"**大火球(靠近或站上台阶上) **"
+		"DoorCountdown"		"2"
+	}
+	"** Flame Meteor **"
+	{
+		"chi"		"**火场(全屏伤害) **"
+		"DoorCountdown"		"2"
+	}
+	"** Lava Blade **"
+	{
+		"chi"		"**熔岩之刃 **"
+		"DoorCountdown"		"2"
+	}
+	"** Energy absorption **"
+	{
+		"chi"		"**能量吸收(远离BOSS) **"
+		"DoorCountdown"		"2"
+	}
+	"** Lava Wall **"
+	{
+		"chi"		"**中间冰墙(集火打碎) **"
+		"DoorCountdown"		"2"
+	}
+	"** Burning Quartet **"
+	{
+		"chi"		"**火焰喷射(远离BOSS) **"
+		"DoorCountdown"		"2"
+	}
+	"** Lava Rise **"
+	{
+		"chi"		"**岩浆上升 **"
+		"DoorCountdown"		"2"
+	}
+	"*** SUN STRIKE ***"
+	{
+		"chi"		"**阳炎冲击(移动起来躲避天火四次) **"
+		"DoorCountdown"		"2"
+	}
+	"** Devourer **"
+	{
+		"chi"		"**熔岩之壁(往尸笼移动,岩浆墙移动路径有持续伤害) **"
+		"DoorCountdown"		"2"
+	}
+	"** Corpse Cage **"
+	{
+		"chi"		"**尸笼开启(回头防守僵尸) **"
+		"DoorCountdown"		"2"
+	}
+	"**boss defeated**"
+	{
+		"chi"		"**已击败BOSS **"
+	}
+	"** BOSS is absorbing energy and defeating him before release50 **"
+	{
+		"chi"		"**它正在吸收能量,50秒后BOSS将释放终极,快摧毁它 **"
+	}
+	"**The Gate will open in 15 seconds**"
+	{
+		"chi"		"**门将在15秒后打开,门开后守到门关 **"
+	}
+	"**stick to the door**"
+	{
+		"chi"		"**快后退,门要关了 **"
+	}
+	"** 20 seconds later nuclear explosion**"
+	{
+		"chi"		"**20秒后最终核爆来袭 **"
+	}
+	"**Transfer after 12 seconds**"
+	{
+		"chi"		"** **"
+	}
+}

@@ -1,0 +1,995 @@
+"BOSSHP"
+{
+	"sal6"
+	{
+		"enable"		"0"
+	}
+	"item_push5"
+	{
+		"enable"		"0"
+	}
+	"item_heal4"
+	{
+		"enable"		"0"
+	}
+	"stage2_kappaface"
+	{
+		"enable"		"0"
+	}
+	"stage1_boss_phys2"
+	{
+		"enable"		"1"
+	}
+	"stage1_boss_phys"
+	{
+		"enable"		"1"
+	}
+	"sal4"
+	{
+		"enable"		"0"
+	}
+	"st4"
+	{
+		"enable"		"0"
+	}
+	"sal1"
+	{
+		"enable"		"0"
+	}
+	"sal2"
+	{
+		"enable"		"0"
+	}
+	"sal3"
+	{
+		"enable"		"0"
+	}
+	"2856399"
+	{
+		"enable"		"0"
+		"hammerid"		"2856399"
+		"m_iname"		"ft1&4276"
+	}
+	"3405074"
+	{
+		"enable"		"1"
+		"hammerid"		"3405074"
+		"m_iname"		"stage1_exbossvents"
+	}
+	"3405134"
+	{
+		"enable"		"1"
+		"hammerid"		"3405134"
+		"m_iname"		"stage1_bossbreak1"
+	}
+	"450680"
+	{
+		"enable"		"1"
+		"hammerid"		"450680"
+		"m_iname"		"first_boss_physic"
+	}
+	"326695"
+	{
+		"enable"		"0"
+		"hammerid"		"326695"
+		"m_iname"		"item_pipephys&1029"
+	}
+	"3295874"
+	{
+		"enable"		"0"
+		"hammerid"		"3295874"
+		"m_iname"		"sal5"
+	}
+	"325978"
+	{
+		"enable"		"0"
+		"hammerid"		"325978"
+		"m_iname"		"item_blockade4&4226"
+	}
+	"483243"
+	{
+		"enable"		"0"
+		"hammerid"		"483243"
+		"m_iname"		"pencil_ammo&1222"
+	}
+	"3232557"
+	{
+		"enable"		"0"
+		"hammerid"		"3232557"
+		"m_iname"		"stage2_extbreak2"
+	}
+	"463780"
+	{
+		"enable"		"1"
+		"hammerid"		"463780"
+		"m_iname"		"2nd_boss_physic"
+	}
+	"91999"
+	{
+		"enable"		"0"
+		"hammerid"		"91999"
+		"m_iname"		"stage2_lever1"
+	}
+	"161253"
+	{
+		"enable"		"0"
+		"hammerid"		"161253"
+		"m_iname"		"stage2_extbreak1"
+	}
+	"473065"
+	{
+		"enable"		"1"
+		"hammerid"		"473065"
+		"m_iname"		"stage2_normal_bossphys1"
+	}
+	"1048579"
+	{
+		"enable"		"1"
+		"hammerid"		"1048579"
+		"m_iname"		"stage2_normal_bossphys2"
+	}
+	"325743"
+	{
+		"enable"		"0"
+		"hammerid"		"325743"
+		"m_iname"		"item_bullet1&3831"
+	}
+	"3406025"
+	{
+		"enable"		"1"
+		"hammerid"		"3406025"
+		"m_iname"		"stage3_normalboss_entrance"
+	}
+	"1563045"
+	{
+		"enable"		"1"
+		"hammerid"		"1563045"
+		"m_iname"		"stage_3_normal_boss_47"
+	}
+	"1566790"
+	{
+		"enable"		"1"
+		"hammerid"		"1566790"
+		"m_iname"		"stage_3_normal_boss_24"
+	}
+	"1568068"
+	{
+		"enable"		"1"
+		"hammerid"		"1568068"
+		"m_iname"		"stage_3_normal_boss_29"
+	}
+	"1256875"
+	{
+		"enable"		"1"
+		"hammerid"		"1256875"
+		"m_iname"		"3rd_boss_physic"
+	}
+	"326720"
+	{
+		"enable"		"0"
+		"hammerid"		"326720"
+		"m_iname"		"item_cannonshoot_1&2070"
+	}
+	"1568909"
+	{
+		"enable"		"1"
+		"hammerid"		"1568909"
+		"m_iname"		"stage_3_normal_boss_31&1624"
+	}
+	"1519947"
+	{
+		"enable"		"1"
+		"hammerid"		"1519947"
+		"m_iname"		"stage_1_ex_boss_34"
+	}
+	"1473618"
+	{
+		"enable"		"1"
+		"hammerid"		"1473618"
+		"m_iname"		"stage_1_ex_boss_1"
+	}
+	"1474384"
+	{
+		"enable"		"1"
+		"hammerid"		"1474384"
+		"m_iname"		"stage_1_ex_boss_11"
+	}
+	"1337095"
+	{
+		"enable"		"1"
+		"hammerid"		"1337095"
+		"m_iname"		"BossRollingCrap&2143"
+	}
+	"1339053"
+	{
+		"enable"		"1"
+		"hammerid"		"1339053"
+		"m_iname"		"stage_2_ex_boss_14"
+	}
+	"1344131"
+	{
+		"enable"		"1"
+		"hammerid"		"1344131"
+		"m_iname"		"mt_add"
+	}
+	"1339046"
+	{
+		"enable"		"1"
+		"hammerid"		"1339046"
+		"m_iname"		"stage_2_ex_boss_9&7695"
+	}
+	"3107249"
+	{
+		"enable"		"0"
+		"hammerid"		"3107249"
+		"m_iname"		"final_boss_brk_1"
+	}
+	"3107281"
+	{
+		"enable"		"0"
+		"hammerid"		"3107281"
+		"m_iname"		"final_boss_brk_2"
+	}
+	"3107309"
+	{
+		"enable"		"0"
+		"hammerid"		"3107309"
+		"m_iname"		"final_boss_brk_4"
+	}
+	"3107323"
+	{
+		"enable"		"0"
+		"hammerid"		"3107323"
+		"m_iname"		"final_boss_brk_5"
+	}
+	"3107337"
+	{
+		"enable"		"0"
+		"hammerid"		"3107337"
+		"m_iname"		"final_boss_brk_6"
+	}
+	"3107295"
+	{
+		"enable"		"0"
+		"hammerid"		"3107295"
+		"m_iname"		"final_boss_brk_3"
+	}
+	"2384888"
+	{
+		"enable"		"1"
+		"hammerid"		"2384888"
+		"m_iname"		"final_boss_phase_three_46"
+	}
+	"2221008"
+	{
+		"enable"		"0"
+		"hammerid"		"2221008"
+		"m_iname"		"final_boss_door2"
+	}
+	"1994213"
+	{
+		"enable"		"1"
+		"hammerid"		"1994213"
+		"m_iname"		"final_boss_phase_two_1"
+	}
+	"1994229"
+	{
+		"enable"		"0"
+		"hammerid"		"1994229"
+		"m_iname"		"final_boss_phase_two_34"
+	}
+	"1761394"
+	{
+		"enable"		"1"
+		"hammerid"		"1761394"
+		"m_iname"		"final_boss_phase_one_34"
+	}
+	"1734955"
+	{
+		"enable"		"0"
+		"hammerid"		"1734955"
+		"m_iname"		"final_boss_phase_one_14"
+	}
+	"1717063"
+	{
+		"enable"		"0"
+		"hammerid"		"1717063"
+		"m_iname"		"final_boss_phase_one_1"
+	}
+	"1413284"
+	{
+		"enable"		"0"
+		"hammerid"		"1413284"
+		"m_iname"		"final_boss_pad"
+	}
+	"2638156"
+	{
+		"enable"		"0"
+		"hammerid"		"2638156"
+		"m_iname"		"ext_ship_2"
+	}
+	"1730172"
+	{
+		"enable"		"1"
+		"hammerid"		"1730172"
+		"m_iname"		"4th_boss_physic"
+	}
+	"1947581"
+	{
+		"enable"		"1"
+		"hammerid"		"1947581"
+		"m_iname"		"BossRollingCrap2&8311"
+	}
+	"2019641"
+	{
+		"enable"		"1"
+		"hammerid"		"2019641"
+		"m_iname"		"smalldwboss_physbox&8162"
+	}
+	"2018175"
+	{
+		"enable"		"1"
+		"hammerid"		"2018175"
+		"m_iname"		"final_boss_phase_two_24"
+	}
+	"2374937"
+	{
+		"enable"		"1"
+		"hammerid"		"2374937"
+		"m_iname"		"final_boss_phase_three_13&8223"
+	}
+	"3577694"
+	{
+		"enable"		"0"
+		"hammerid"		"3577694"
+		"m_iname"		"end_exp5"
+	}
+	"3577705"
+	{
+		"enable"		"0"
+		"hammerid"		"3577705"
+		"m_iname"		"end_exp5"
+	}
+	"3577713"
+	{
+		"enable"		"0"
+		"hammerid"		"3577713"
+		"m_iname"		"end_exp5"
+	}
+	"3577721"
+	{
+		"enable"		"0"
+		"hammerid"		"3577721"
+		"m_iname"		"end_exp5"
+	}
+	"3577729"
+	{
+		"enable"		"0"
+		"hammerid"		"3577729"
+		"m_iname"		"end_exp5"
+	}
+	"3577737"
+	{
+		"enable"		"0"
+		"hammerid"		"3577737"
+		"m_iname"		"end_exp5"
+	}
+	"3577745"
+	{
+		"enable"		"0"
+		"hammerid"		"3577745"
+		"m_iname"		"end_exp5"
+	}
+	"3577753"
+	{
+		"enable"		"0"
+		"hammerid"		"3577753"
+		"m_iname"		"end_exp5"
+	}
+	"3577797"
+	{
+		"enable"		"0"
+		"hammerid"		"3577797"
+		"m_iname"		"end_exp5"
+	}
+	"3577803"
+	{
+		"enable"		"0"
+		"hammerid"		"3577803"
+		"m_iname"		"end_exp5"
+	}
+	"3577809"
+	{
+		"enable"		"0"
+		"hammerid"		"3577809"
+		"m_iname"		"end_exp5"
+	}
+	"3577815"
+	{
+		"enable"		"0"
+		"hammerid"		"3577815"
+		"m_iname"		"end_exp5"
+	}
+	"3577821"
+	{
+		"enable"		"0"
+		"hammerid"		"3577821"
+		"m_iname"		"end_exp4"
+	}
+	"3577827"
+	{
+		"enable"		"0"
+		"hammerid"		"3577827"
+		"m_iname"		"end_exp4"
+	}
+	"3577833"
+	{
+		"enable"		"0"
+		"hammerid"		"3577833"
+		"m_iname"		"end_exp4"
+	}
+	"3577839"
+	{
+		"enable"		"0"
+		"hammerid"		"3577839"
+		"m_iname"		"end_exp4"
+	}
+	"3577761"
+	{
+		"enable"		"0"
+		"hammerid"		"3577761"
+		"m_iname"		"end_exp3"
+	}
+	"3577768"
+	{
+		"enable"		"0"
+		"hammerid"		"3577768"
+		"m_iname"		"end_exp3"
+	}
+	"3577845"
+	{
+		"enable"		"0"
+		"hammerid"		"3577845"
+		"m_iname"		"end_exp3"
+	}
+	"3577864"
+	{
+		"enable"		"0"
+		"hammerid"		"3577864"
+		"m_iname"		"end_exp3"
+	}
+	"3577877"
+	{
+		"enable"		"0"
+		"hammerid"		"3577877"
+		"m_iname"		"end_exp3"
+	}
+	"3577852"
+	{
+		"enable"		"0"
+		"hammerid"		"3577852"
+		"m_iname"		"end_exp2"
+	}
+	"3577858"
+	{
+		"enable"		"0"
+		"hammerid"		"3577858"
+		"m_iname"		"end_exp2"
+	}
+	"3577871"
+	{
+		"enable"		"0"
+		"hammerid"		"3577871"
+		"m_iname"		"end_exp2"
+	}
+	"3577884"
+	{
+		"enable"		"0"
+		"hammerid"		"3577884"
+		"m_iname"		"end_exp2"
+	}
+	"3577691"
+	{
+		"enable"		"0"
+		"hammerid"		"3577691"
+		"m_iname"		"end_exp1"
+	}
+	"3577702"
+	{
+		"enable"		"0"
+		"hammerid"		"3577702"
+		"m_iname"		"end_exp1"
+	}
+	"3577783"
+	{
+		"enable"		"0"
+		"hammerid"		"3577783"
+		"m_iname"		"end_exp1"
+	}
+	"3577786"
+	{
+		"enable"		"0"
+		"hammerid"		"3577786"
+		"m_iname"		"end_exp1"
+	}
+	"3577890"
+	{
+		"enable"		"0"
+		"hammerid"		"3577890"
+		"m_iname"		"end_exp1"
+	}
+	"3577901"
+	{
+		"enable"		"0"
+		"hammerid"		"3577901"
+		"m_iname"		"end_exp1"
+	}
+	"3577912"
+	{
+		"enable"		"0"
+		"hammerid"		"3577912"
+		"m_iname"		"end_exp1"
+	}
+	"3577771"
+	{
+		"enable"		"0"
+		"hammerid"		"3577771"
+		"m_iname"		"end_exp6"
+	}
+	"1564527"
+	{
+		"enable"		"1"
+		"hammerid"		"1564527"
+		"m_iname"		"stage_3_normal_boss_9"
+	}
+	"326160"
+	{
+		"enable"		"0"
+		"hammerid"		"326160"
+		"m_iname"		"item_push5"
+	}
+	"325902"
+	{
+		"enable"		"0"
+		"hammerid"		"325902"
+		"m_iname"		"item_heal4"
+	}
+	"2792626"
+	{
+		"enable"		"0"
+		"hammerid"		"2792626"
+		"m_iname"		"stage2_kappaface"
+	}
+	"1604622"
+	{
+		"enable"		"1"
+		"hammerid"		"1604622"
+		"m_iname"		"stage1_boss_phys2"
+	}
+	"473297"
+	{
+		"enable"		"1"
+		"hammerid"		"473297"
+		"m_iname"		"stage1_boss_phys"
+	}
+	"2855749"
+	{
+		"enable"		"0"
+		"hammerid"		"2855749"
+		"m_iname"		"st4"
+	}
+	"2855789"
+	{
+		"enable"		"0"
+		"hammerid"		"2855789"
+		"m_iname"		"st4"
+	}
+	"3295868"
+	{
+		"enable"		"0"
+		"hammerid"		"3295868"
+		"m_iname"		"sal3"
+	}
+	"3295852"
+	{
+		"enable"		"0"
+		"hammerid"		"3295852"
+		"m_iname"		"sal1"
+	}
+	"3295877"
+	{
+		"enable"		"0"
+		"hammerid"		"3295877"
+		"m_iname"		"sal6"
+	}
+	"3295871"
+	{
+		"enable"		"0"
+		"hammerid"		"3295871"
+		"m_iname"		"sal4"
+	}
+	"3295865"
+	{
+		"enable"		"0"
+		"hammerid"		"3295865"
+		"m_iname"		"sal2"
+	}
+	"127109"
+	{
+		"enable"		"0"
+		"hammerid"		"127109"
+		"m_iname"		"st8"
+	}
+	"3404795"
+	{
+		"enable"		"0"
+		"hammerid"		"3404795"
+		"m_iname"		"stage2_break1"
+	}
+	"3404839"
+	{
+		"enable"		"0"
+		"hammerid"		"3404839"
+		"m_iname"		"stage3_break"
+	}
+	"3404898"
+	{
+		"enable"		"0"
+		"hammerid"		"3404898"
+		"m_iname"		"ext_breakstage1_1"
+	}
+	"3405182"
+	{
+		"enable"		"0"
+		"hammerid"		"3405182"
+		"m_iname"		"stage1_break3"
+	}
+	"3405242"
+	{
+		"enable"		"0"
+		"hammerid"		"3405242"
+		"m_iname"		"stage1_lastvent"
+	}
+	"3405331"
+	{
+		"enable"		"0"
+		"hammerid"		"3405331"
+		"m_iname"		"stage1_winbridge"
+	}
+	"3405336"
+	{
+		"enable"		"0"
+		"hammerid"		"3405336"
+		"m_iname"		"stage1_4lastbridge"
+	}
+	"3405633"
+	{
+		"enable"		"0"
+		"hammerid"		"3405633"
+		"m_iname"		"stage1_trap1"
+	}
+	"3295021"
+	{
+		"enable"		"0"
+		"hammerid"		"3295021"
+		"m_iname"		"se6"
+	}
+	"349163"
+	{
+		"enable"		"0"
+		"hammerid"		"349163"
+		"m_iname"		"stage1_break2"
+	}
+	"758453"
+	{
+		"enable"		"0"
+		"hammerid"		"758453"
+		"m_iname"		"stage3_break4"
+	}
+	"2856988"
+	{
+		"enable"		"0"
+		"hammerid"		"2856988"
+		"m_iname"		"stage1_break4"
+	}
+	"2857053"
+	{
+		"enable"		"0"
+		"hammerid"		"2857053"
+		"m_iname"		"stage1_break4"
+	}
+	"2787792"
+	{
+		"enable"		"0"
+		"hammerid"		"2787792"
+		"m_iname"		"stage1_break4"
+	}
+	"3189515"
+	{
+		"enable"		"0"
+		"hammerid"		"3189515"
+		"m_iname"		"ext_break"
+	}
+	"3189890"
+	{
+		"enable"		"0"
+		"hammerid"		"3189890"
+		"m_iname"		"ext_break"
+	}
+	"1314358"
+	{
+		"enable"		"0"
+		"hammerid"		"1314358"
+		"m_iname"		"ext_break"
+	}
+	"30945"
+	{
+		"enable"		"0"
+		"hammerid"		"30945"
+		"m_iname"		"ext_break"
+	}
+	"39242"
+	{
+		"enable"		"0"
+		"hammerid"		"39242"
+		"m_iname"		"ext_break"
+	}
+	"265327"
+	{
+		"enable"		"0"
+		"hammerid"		"265327"
+		"m_iname"		"ext_break"
+	}
+	"265334"
+	{
+		"enable"		"0"
+		"hammerid"		"265334"
+		"m_iname"		"ext_break"
+	}
+	"350319"
+	{
+		"enable"		"0"
+		"hammerid"		"350319"
+		"m_iname"		"ext_break"
+	}
+	"384124"
+	{
+		"enable"		"0"
+		"hammerid"		"384124"
+		"m_iname"		"ext_break"
+	}
+	"396589"
+	{
+		"enable"		"0"
+		"hammerid"		"396589"
+		"m_iname"		"ext_break"
+	}
+	"409055"
+	{
+		"enable"		"0"
+		"hammerid"		"409055"
+		"m_iname"		"ext_break"
+	}
+	"693407"
+	{
+		"enable"		"0"
+		"hammerid"		"693407"
+		"m_iname"		"ext_break"
+	}
+	"712411"
+	{
+		"enable"		"0"
+		"hammerid"		"712411"
+		"m_iname"		"ext_break"
+	}
+	"2832590"
+	{
+		"enable"		"0"
+		"hammerid"		"2832590"
+		"m_iname"		"tr2"
+	}
+	"2832485"
+	{
+		"enable"		"0"
+		"hammerid"		"2832485"
+		"m_iname"		"tr1"
+	}
+	"3406556"
+	{
+		"enable"		"0"
+		"hammerid"		"3406556"
+		"m_iname"		"stage2_break8"
+	}
+	"3404732"
+	{
+		"enable"		"0"
+		"hammerid"		"3404732"
+		"m_iname"		"stage1_break1"
+	}
+	"3406492"
+	{
+		"enable"		"0"
+		"hammerid"		"3406492"
+		"m_iname"		"stage2_break9"
+	}
+	"2834728"
+	{
+		"enable"		"0"
+		"hammerid"		"2834728"
+		"m_iname"		"stage2_break10"
+	}
+	"160446"
+	{
+		"enable"		"0"
+		"hammerid"		"160446"
+		"m_iname"		"stage2_break6"
+	}
+	"86161"
+	{
+		"enable"		"0"
+		"hammerid"		"86161"
+		"m_iname"		"stage2_door1"
+	}
+	"3190682"
+	{
+		"enable"		"0"
+		"hammerid"		"3190682"
+		"m_iname"		"stage2_break"
+	}
+	"2855091"
+	{
+		"enable"		"0"
+		"hammerid"		"2855091"
+		"m_iname"		"stage2_break"
+	}
+	"2855338"
+	{
+		"enable"		"0"
+		"hammerid"		"2855338"
+		"m_iname"		"stage2_break"
+	}
+	"87544"
+	{
+		"enable"		"0"
+		"hammerid"		"87544"
+		"m_iname"		"stage2_break"
+	}
+	"214963"
+	{
+		"enable"		"0"
+		"hammerid"		"214963"
+		"m_iname"		"stage2_break"
+	}
+	"218188"
+	{
+		"enable"		"0"
+		"hammerid"		"218188"
+		"m_iname"		"stage2_break"
+	}
+	"3404466"
+	{
+		"enable"		"0"
+		"hammerid"		"3404466"
+		"m_iname"		"stage3_trap4_1"
+	}
+	"3404527"
+	{
+		"enable"		"0"
+		"hammerid"		"3404527"
+		"m_iname"		"stage3_trap3_1"
+	}
+	"1255791"
+	{
+		"enable"		"0"
+		"hammerid"		"1255791"
+		"m_iname"		"br2"
+	}
+	"2766712"
+	{
+		"enable"		"0"
+		"hammerid"		"2766712"
+		"m_iname"		"br3"
+	}
+	"3404331"
+	{
+		"enable"		"0"
+		"hammerid"		"3404331"
+		"m_iname"		"stage3_break2"
+	}
+	"3406065"
+	{
+		"enable"		"0"
+		"hammerid"		"3406065"
+		"m_iname"		"stage3_train_2"
+	}
+	"2857484"
+	{
+		"enable"		"0"
+		"hammerid"		"2857484"
+		"m_iname"		"lt1"
+	}
+	"1558783"
+	{
+		"enable"		"0"
+		"hammerid"		"1558783"
+		"m_iname"		"stage_3_heli2"
+	}
+	"3252660"
+	{
+		"enable"		"0"
+		"hammerid"		"3252660"
+		"m_iname"		"stage_3_break3"
+	}
+	"3252673"
+	{
+		"enable"		"0"
+		"hammerid"		"3252673"
+		"m_iname"		"stage_3_break3"
+	}
+	"3253108"
+	{
+		"enable"		"0"
+		"hammerid"		"3253108"
+		"m_iname"		"stage_3_break3"
+	}
+	"2879487"
+	{
+		"enable"		"0"
+		"hammerid"		"2879487"
+		"m_iname"		"stage_3_break3"
+	}
+	"2879710"
+	{
+		"enable"		"0"
+		"hammerid"		"2879710"
+		"m_iname"		"stage_3_break3"
+	}
+	"2786979"
+	{
+		"enable"		"0"
+		"hammerid"		"2786979"
+		"m_iname"		"stage_3_break3"
+	}
+	"2786998"
+	{
+		"enable"		"0"
+		"hammerid"		"2786998"
+		"m_iname"		"stage_3_break3"
+	}
+	"3405449"
+	{
+		"enable"		"0"
+		"hammerid"		"3405449"
+		"m_iname"		"stage1_4lastbridge_extreme"
+	}
+	"3405452"
+	{
+		"enable"		"0"
+		"hammerid"		"3405452"
+		"m_iname"		"stage1_winbridge_extreme"
+	}
+	"2857508"
+	{
+		"enable"		"0"
+		"hammerid"		"2857508"
+		"m_iname"		"lt2"
+	}
+	"1994251"
+	{
+		"enable"		"1"
+		"hammerid"		"1994251"
+		"m_iname"		"final_boss_phase_two_9&4793"
+	}
+	"1338883"
+	{
+		"enable"		"1"
+		"hammerid"		"1338883"
+		"m_iname"		"stage_2_ex_boss_36"
+	}
+	"11344131"
+	{
+		"enable"		"1"
+		"hammerid"		"11344131"
+		"m_iname"		"mt_add"
+	}
+}

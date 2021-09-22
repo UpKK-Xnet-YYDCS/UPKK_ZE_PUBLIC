@@ -1,0 +1,264 @@
+"Console_T"
+{
+	"** YOU ARE TOO LATE! BOSS ENRAGE!! **"
+	{
+		"chi"		"****"
+	}
+	"** Door opening in 18s **"
+	{
+		"chi"		"**门将在18秒后开启**"
+	}
+	"** Door opening in 30s **"
+	{
+		"chi"		"**门将在30秒后开启**"
+	}
+	"** ADMIN SELECTED NORMAL MODE **"
+	{
+		"chi"		"**管理员调关[普通]难度**"
+	}
+	"** ADMIN SELECTED HARD MODE **"
+	{
+		"chi"		"**管理员调关[困难]难度**"
+	}
+	"** NORMAL MODE **"
+	{
+		"chi"		"**普通难度**"
+	}
+	"** HARD MODE **"
+	{
+		"chi"		"**困难难度**"
+	}
+	"** RUUNN! GET INSIDE THAT DOOR! **"
+	{
+		"chi"		"**快去前面的那道门里面**"
+	}
+	"** Zombie teleport to outside in 10s **"
+	{
+		"chi"		"**僵尸10秒后传送到门外**"
+	}
+	"** LAST DEFEND **"
+	{
+		"chi"		"**最后的防守**"
+	}
+	"** Bridge lowering in 45s **"
+	{
+		"chi"		"**桥梁将在45秒后降下**"
+	}
+	"** MOVING TO HARD MODE.. **"
+	{
+		"chi"		"**恭喜过关，接下来进入[困难]难度**"
+		"DoorCountdown"		"3"
+	}
+	"** NICE! YOU BEAT THE MAP! **"
+	{
+		"chi"		"**全图已通关，感谢游玩**"
+		"DoorCountdown"		"3"
+	}
+	"** Path clearing in 50s **"
+	{
+		"chi"		"**清除路障需要一段时间，守住僵尸**"
+		"DoorCountdown"		"50"
+	}
+	"** WATCH OUT! ZOMBIE TELEPORT SOON! **"
+	{
+		"chi"		"**注意，僵尸即将传送**"
+	}
+	"** FALL BACK **"
+	{
+		"chi"		"**撤退**"
+	}
+	"** Book item picked up **"
+	{
+		"chi"		"**魔法书墙神器已拾起**"
+	}
+	"** Charge **"
+	{
+		"chi"		"**注意四周出现的直线冲锋头**"
+		"DoorCountdown"		"3"
+	}
+	"** Blade **"
+	{
+		"chi"		"**警惕四周出现的刀**"
+		"DoorCountdown"		"3"
+	}
+	"** We reached a dead end.. **"
+	{
+		"chi"		"****"
+	}
+	"** LAST DEFEND!! **"
+	{
+		"chi"		"**最后的防守**"
+	}
+	"** Door closing in 80 seconds **"
+	{
+		"chi"		"**起点门将在80秒后关闭**"
+	}
+	"** Door closing in 60 seconds **"
+	{
+		"chi"		"**起点门将在60秒后关闭**"
+	}
+	"** Door closing in 30 seconds **"
+	{
+		"chi"		"**起点门将在30秒后关闭**"
+	}
+	"** Door closing in 15 seconds **"
+	{
+		"chi"		"**起点门将在15秒后关闭**"
+	}
+	"** GET INSIDE NOW! **"
+	{
+		"chi"		"**快进来，门要关上了**"
+	}
+	"** Divisor FOUR **"
+	{
+		"chi"		"**4的倍数**"
+	}
+	"** Divisor TWO **"
+	{
+		"chi"		"**2的倍数**"
+	}
+	"** Your HP amount must be divisible by 4 **"
+	{
+		"chi"		"**你的血量必须能被4整除**"
+		"DoorCountdown"		"3"
+	}
+	"** Your HP amount must be divisible by 2 **"
+	{
+		"chi"		"**你的血量必须能被2整除**"
+		"DoorCountdown"		"3"
+	}
+	"** Subtract **"
+	{
+		"chi"		"**执行减算**"
+	}
+	"** Boss defeated! **"
+	{
+		"chi"		"****"
+	}
+	"** Bridge lowering in 30s **"
+	{
+		"chi"		"**桥梁将在30秒后降下**"
+	}
+	"** BOSS ENRAGE IN 30s **"
+	{
+		"chi"		"**BOSS将在30秒后狂暴**"
+	}
+	"** Press the button in the security room **"
+	{
+		"chi"		"**快按下安全室的按钮**"
+	}
+	"** Door opening in 30s **"
+	{
+		"chi"		"**门将在30秒后开启**"
+	}
+	"** Somebody closed the door! **"
+	{
+		"chi"		"**神秘人把门关上了**"
+	}
+	"** Only the chosen may survive! **"
+	{
+		"chi"		"**只有被选中的人才能存活下来，准备跳刀**"
+	}
+	"** He ran away! Go back to defend! **"
+	{
+		"chi"		"**神秘人跑了，现在赶紧回去协助防守**"
+	}
+	"** WATCH YOUR STEP **"
+	{
+		"chi"		"**注意脚下，不要踩红色地板**"
+		"DoorCountdown"		"3"
+	}
+	"** Special thanks: POSSESSION Server, Natsuki [HK], tuna **"
+	{
+		"chi"		"**特别感谢：POSSESSION服务器，Natsuki[HK]和tuna**"
+	}
+	"** Cannon launching in 25s **"
+	{
+		"chi"		"**大炮25秒后开火，不要贴门**"
+		"DoorCountdown"		"25"
+	}
+	"** Security fence opening in 35s **"
+	{
+		"chi"		"**安全围栏将在35秒后解除**"
+	}
+	"** He is dead. RUUNNN! **"
+	{
+		"chi"		"**它彻底被击败了，我们撤**"
+	}
+	"** Disclosure **"
+	{
+		"chi"		"**往后站一些等书合起来后到对面去**"
+		"DoorCountdown"		"3"
+	}
+	"** Void **"
+	{
+		"chi"		"**远离地面红色区域**"
+		"DoorCountdown"		"3"
+	}
+	"** Repel **"
+	{
+		"chi"		"**按住W抵抗**"
+		"DoorCountdown"		"3"
+	}
+	"** SHOOT NOW!! **"
+	{
+		"chi"		"**现在朝它开火**"
+	}
+	"** Boss fight starting in 5s **"
+	{
+		"chi"		"**5秒后开启BOSS战**"
+	}
+	"** Boss enrage in THREE minutes **"
+	{
+		"chi"		"**BOSS将在180秒后狂暴，抓紧时间解决！**"
+		"DoorCountdown"		"3"
+	}
+	"** Nade does more damage **"
+	{
+		"chi"		"**手雷能对BOSS造成更多伤害**"
+	}
+	"** Elevator leaving in 10s **"
+	{
+		"chi"		"**电梯10秒后离开**"
+	}
+	"** Door opening in 35s **"
+	{
+		"chi"		"**门将在35秒后开启**"
+	}
+	"** Door opening in 10s **"
+	{
+		"chi"		"**门将在10秒后开启**"
+	}
+	"** Elevator door opening in 35s **"
+	{
+		"chi"		"**电梯35秒后抵达**"
+	}
+	"** KEEP DEFENDING **"
+	{
+		"chi"		"** **"
+	}
+	"** Book used **"
+	{
+		"chi"		"** **"
+	}
+	"** ROUND FAILED! ZOMBIE DETECTED!! **"
+	{
+		"chi"		"** **"
+	}
+	"** あなたのHPは2で割り切れる数値でなければなりません。 **"
+	{
+		"chi"		"** **"
+	}
+	"** 你的HP值必須能被2整除 **"
+	{
+		"chi"		"** **"
+	}
+	"** あなたのHPは4で割り切れる数値でなければなりません。 **"
+	{
+		"chi"		"** **"
+	}
+	"** 你的HP值必須能被4整除 **"
+	{
+		"chi"		"** **"
+	}
+}

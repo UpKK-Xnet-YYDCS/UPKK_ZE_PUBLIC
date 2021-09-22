@@ -1,0 +1,970 @@
+"Console_T"
+{
+	"***Game mode loading...***"
+	{
+		"chi"		"**游戏模式加载中... **"
+	}
+	"***.***"
+	{
+		"chi"		"** **"
+	}
+	"***..***"
+	{
+		"chi"		"** **"
+	}
+	"***...***"
+	{
+		"chi"		"** **"
+	}
+	"***Current mode : Tornado mode***"
+	{
+		"chi"		"**当前模式：龙卷风 **"
+	}
+	"***ZE_MOUNTAIN_ESCAPE***"
+	{
+		"chi"		"** **"
+	}
+	"***Current mode : Asedium mode***"
+	{
+		"chi"		"** **"
+	}
+	"***Current mode : Silent Hill***"
+	{
+		"chi"		"**当前模式：寂静岭 **"
+	}
+	"***Current mode : Boss mode***"
+	{
+		"chi"		"**当前模式：BOSS袭来 **"
+	}
+	"***30 second left***"
+	{
+		"chi"		"**还剩30秒 **"
+	}
+	"***Mass teleport in 35 secs***"
+	{
+		"chi"		"**35秒后启动大规模传送 **"
+	}
+	"***Push weapon has been picked up.***"
+	{
+		"chi"		"**推力枪已拿起 **"
+	}
+	"***20 second left***"
+	{
+		"chi"		"**还剩20秒 **"
+	}
+	"***10 second left***"
+	{
+		"chi"		"**还剩10秒 **"
+	}
+	"***5 Second left***"
+	{
+		"chi"		"**还剩5秒 **"
+	}
+	"***Warning: Boss is coming.***"
+	{
+		"chi"		"**警告：BOSS已到达 **"
+	}
+	"***Current mode : Monkey mode***"
+	{
+		"chi"		"**当前模式：猴子模式 **"
+	}
+	"***Speed weapon has been picked up.***"
+	{
+		"chi"		"**加速枪已拿起 **"
+	}
+	"**Global trigger activated: Random speed for all in 5 secs. (8 secs. duration)**"
+	{
+		"chi"		"**随机事件：随机速度将在5秒后启用[持续8秒] **"
+		"DoorCountDown"		"5"
+	}
+	"**Global trigger activated: Low gravity in 5 secs. (30 secs. duration)**"
+	{
+		"chi"		"**随机事件：全体将在5秒后重力降低[持续30秒] **"
+		"DoorCountDown"		"5"
+	}
+	"***Nuke launched***"
+	{
+		"chi"		"**核弹发射 **"
+	}
+	"***60 second left***"
+	{
+		"chi"		"**还剩60秒 **"
+	}
+	"***5***"
+	{
+		"chi"		"** **"
+	}
+	"***4***"
+	{
+		"chi"		"** **"
+	}
+	"***3***"
+	{
+		"chi"		"** **"
+	}
+	"***2***"
+	{
+		"chi"		"** **"
+	}
+	"***1***"
+	{
+		"chi"		"** **"
+	}
+	"***Nuke impact***"
+	{
+		"chi"		"**核弹爆炸 **"
+	}
+	"***Current mode : Turtle mode***"
+	{
+		"chi"		"**当前模式：乌龟模式 **"
+	}
+	"***Current mode : Lords of Destruction mode***"
+	{
+		"chi"		"**当前模式：毁灭之王 **"
+	}
+	"***Current mode : Holdem mode***"
+	{
+		"chi"		"**当前模式：坚守阵地 **"
+	}
+	"***Current mode : HELL MODE***"
+	{
+		"chi"		"**当前模式：地狱来临 **"
+	}
+	"*** ZOMBIE ITEMS AVAILABLE IN SPAWN ***"
+	{
+		"chi"		"**出生点已激活僵尸神器 **"
+	}
+	"*** METEORS ENABLED ***"
+	{
+		"chi"		"**流星启动 **"
+	}
+	"***Current mode : All items mode***"
+	{
+		"chi"		"**当前模式：全神器 **"
+	}
+	"** !? **"
+	{
+		"chi"		"** **"
+	}
+	"** Airboats out of fuel! **"
+	{
+		"chi"		"**飞机没油了! **"
+	}
+	"*** !? ***"
+	{
+		"chi"		"** **"
+	}
+	"*** WEAPONS ARE GONE! ***"
+	{
+		"chi"		"**武器不见了！ **"
+	}
+	"***Current mode : Knockback madness mode***"
+	{
+		"chi"		"**当前模式：陷入疯狂 **"
+	}
+	"***Current mode : Train mode***"
+	{
+		"chi"		"**当前模式：火车袭来 **"
+	}
+	"***Current mode : Trigger madness mode***"
+	{
+		"chi"		"**当前模式：疯狂触发 **"
+	}
+	"**CT trigger activated: Failnades in 5 secs. (60 secs. duration)**"
+	{
+		"chi"		"**人类随机事件：手雷5秒后即将故障[持续60秒] **"
+		"DoorCountDown"		"5"
+	}
+	"**Zombie trigger activated: Pacifism in 2 secs.**"
+	{
+		"chi"		"**僵尸随机事件：和平2秒 **"
+		"DoorCountDown"		"2"
+	}
+	"**Zombie trigger activated: Slow CT in 5 secs. (8 secs. duration)**"
+	{
+		"chi"		"**僵尸随机事件：5秒后减速人类[持续8秒] **"
+		"DoorCountDown"		"5"
+	}
+	"**CT trigger activated: LSD for zombies in 5 secs. (30 secs. duration)**"
+	{
+		"chi"		"**人类随机事件：5秒后迷幻僵尸[持续30秒] **"
+		"DoorCountDown"		"5"
+	}
+	"**CT trigger activated: Shrooms for zombies in 5 secs. (30 secs. duration)**"
+	{
+		"chi"		"**人类随机事件:5秒把僵尸变成蘑菇持续30秒] **"
+		"DoorCountDown"		"5"
+	}
+	"**Global trigger activated: Total blind in 5 secs. (10 secs. duration)**"
+	{
+		"chi"		"**全体随机事件：5秒后致盲全体玩家[持续10秒] **"
+		"DoorCountDown"		"5"
+	}
+	"**Global trigger activated: Slippery grounds in 5 secs. (20 secs. duration)**"
+	{
+		"chi"		"**全体随机事件：地面5秒后变滑[持续20秒] **"
+		"DoorCountDown"		"5"
+	}
+	"**Global trigger activated: Jumpers in 5 secs. (30 secs. duration)**"
+	{
+		"chi"		"**全体随机事件：5秒后不由自主跳跃[持续30秒] **"
+		"DoorCountDown"		"5"
+	}
+	"**Zombie trigger activated: Immortality in 5 secs. (8 secs. duration)**"
+	{
+		"chi"		"**僵尸随机事件：5秒后免疫所有伤害[持续8秒] **"
+		"DoorCountDown"		"5"
+	}
+	"**CT trigger activated: Speed in 5 secs. (8 secs. duration)**"
+	{
+		"chi"		"**人类随机事件：5秒后加速[持续8秒] **"
+		"DoorCountDown"		"5"
+	}
+	"** Helicopters out of fuel! **"
+	{
+		"chi"		"**直升机没油了! **"
+	}
+	"**Global trigger activated: Total darkness in 5 secs. (45 secs. duration)**"
+	{
+		"chi"		"**全体随机事件：5秒后陷入完全黑暗[持续45秒] **"
+		"DoorCountDown"		"5"
+	}
+	"**Global trigger activated: Invisibility for all in 5 secs. (15 secs. duration)**"
+	{
+		"chi"		"**全体随机事件：5秒隐身所有人[持续15秒] **"
+		"DoorCountDown"		"5"
+	}
+	"**Global trigger activated: Retarded jumps in 5 secs. (20 secs. duration)**"
+	{
+		"chi"		"**全体随机事件：5秒后延迟跳跃[持续20秒] **"
+		"DoorCountDown"		"5"
+	}
+	"**Global trigger activated: Invert controls in 5 secs. (15 secs. duration)**"
+	{
+		"chi"		"**全体随机事件：5秒后反向控制[持续15秒] **"
+		"DoorCountDown"		"5"
+	}
+	"***Current mode : Total Warfare mode***"
+	{
+		"chi"		"**当前模式：全面战争 **"
+	}
+	"***Current mode : FFVII mode***"
+	{
+		"chi"		"**当前模式：最终幻想7 **"
+		"DoorCountDown"		"-1"
+	}
+	"***Current mode : Carnival mode***"
+	{
+		"chi"		"**当前模式：嘉年华 **"
+	}
+	"***Current mode : Massacre mode***"
+	{
+		"chi"		"**当前模式：大屠杀 **"
+	}
+	"***Current mode : Castle mode***"
+	{
+		"chi"		"**当前模式：城堡攻坚 **"
+	}
+	"***Current mode : Flood mode***"
+	{
+		"chi"		"**当前模式：洪水爆发 **"
+	}
+	"***Current mode : Medieval mode***"
+	{
+		"chi"		"**当前模式：中世纪 **"
+	}
+	"**CT trigger activated: Immortality in 5 secs. (8 secs. duration)**"
+	{
+		"chi"		"**人类随机事件：5秒后免疫僵尸[持续8秒] **"
+		"DoorCountDown"		"5"
+	}
+	"*** Minigun has been picked. ***"
+	{
+		"chi"		"**加特林已拿起 **"
+	}
+	"***Current mode : Space mode***"
+	{
+		"chi"		"**当前模式：空间 **"
+	}
+	"***Current mode : Halloween mode***"
+	{
+		"chi"		"**当前模式：万圣节 **"
+	}
+	"***Current mode : Zombie Horde***"
+	{
+		"chi"		"**当前模式：僵尸部落 **"
+	}
+	"***TIP: Work in team - THIS ISNT ZM!***"
+	{
+		"chi"		"**提示：注意团队合作-这不是ZM！ **"
+	}
+	"***You will need to kill a number of zombies to complete the round.***"
+	{
+		"chi"		"**你需要杀死一些僵尸才能胜利 **"
+	}
+	"***They will have low amount of health but no knockback!***"
+	{
+		"chi"		"**他们的血量很低.但是不会因此而退缩！ **"
+	}
+	"***FIND AN AREA TO HOLD YOUR GROUND AND RESIST! WORK TOGETHER.***"
+	{
+		"chi"		"**找一个地方防守-在一起！ **"
+	}
+	"***Earendil light has been picked up.***"
+	{
+		"chi"		"**艾伦迪尔的灯发出亮光 **"
+	}
+	"***Current mode : One way mode***"
+	{
+		"chi"		"**当前模式：一条路 **"
+	}
+	"***Current mode : Depression mode***"
+	{
+		"chi"		"** **"
+	}
+	"*** Snipers downgraded! ***"
+	{
+		"chi"		"** **"
+	}
+	"***Current mode : UFO mode***"
+	{
+		"chi"		"**当前模式：UFO **"
+	}
+	"***Current mode : Explosive mode***"
+	{
+		"chi"		"**当前模式：大爆炸 **"
+	}
+	"**Global trigger activated: Masturbation view for all in 5 secs. (20 secs. duration)**"
+	{
+		"chi"		"**全体随机事件：5秒后触发撸多了视野[持续20秒] **"
+		"DoorCountDown"		"5"
+	}
+	"***!?***"
+	{
+		"chi"		"** **"
+	}
+	"***Whats that sound?***"
+	{
+		"chi"		"**什么声音 **"
+	}
+	"***Warning: The train is coming.***"
+	{
+		"chi"		"**警告：火车来袭 **"
+	}
+	"***Current mode : Space massacre mode***"
+	{
+		"chi"		"**当前模式：太空大屠杀 **"
+	}
+	"***Flamethrower has been picked up.***"
+	{
+		"chi"		"**火焰喷射器已拿起 **"
+	}
+	"***Current mode : Item Rush mode***"
+	{
+		"chi"		"**当前模式：神器对抗 **"
+	}
+	"***Current mode : Forest mode***"
+	{
+		"chi"		"** **"
+	}
+	"***C4 has been picked.***"
+	{
+		"chi"		"** **"
+	}
+	"*** Ladder has been picked. ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Mines has been picked. ***"
+	{
+		"chi"		"** **"
+	}
+	"**Freezer has been picked**"
+	{
+		"chi"		"** **"
+	}
+	"***Singularity Cannon has been picked.***"
+	{
+		"chi"		"** **"
+	}
+	"**Global trigger activated: Confusion**"
+	{
+		"chi"		"** **"
+	}
+	"*** TNT Launcher has been picked. ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Zombie Rocket Launcher has been picked. ***"
+	{
+		"chi"		"** **"
+	}
+	"*** A mysterious garage looking door seems to be our path. ***"
+	{
+		"chi"		"** **"
+	}
+	"*** It will take awhile to open this.. Cover us until were able to open the door! ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Got it! Door will open in 10 seconds. KEEP UP THE DEFENSE! ***"
+	{
+		"chi"		"** **"
+	}
+	"*** DOOR OPENS IN 40 SECS! ***"
+	{
+		"chi"		"** **"
+	}
+	"*** New items for Humans and Zombies spawn for every door we pass. ****"
+	{
+		"chi"		"** **"
+	}
+	"*** Zombies will be getting nearer overtime as each door closes! ****"
+	{
+		"chi"		"** **"
+	}
+	"*** Keep up the defense! ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Door opens in 5 seconds... RESIST! ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Keep it up! We have a few more doors to go! ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Door opens in 5 seconds... CMON KEEP IT UP! ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Were halfway there. HOLD YOUR GROUND! ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Door opens in 5 seconds... ALMOST THERE! ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Were almost out of this safely. We just have one door remaining... ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Vacuum has been picked. ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Door opens in 5 seconds... KEEP UP THE PACE! ***"
+	{
+		"chi"		"** **"
+	}
+	"*** This is our final door... DONT LET ANYTHING THROUGH! ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Final door opening in 5 seconds... THIS IS YOUR FINAL STAND. HOLD THIS POSITION! ***"
+	{
+		"chi"		"** **"
+	}
+	"*** THIS IS THE FINAL HOLD... RESIST! ***"
+	{
+		"chi"		"** **"
+	}
+	"*** THE DOORS ARE CLOSING IN 10 SECONDS! ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Nuke inbound! ***"
+	{
+		"chi"		"** **"
+	}
+	"*** 3 ***"
+	{
+		"chi"		"** **"
+	}
+	"*** 2 ***"
+	{
+		"chi"		"** **"
+	}
+	"*** 1 ***"
+	{
+		"chi"		"** **"
+	}
+	"***We have successfully defeated boss.***"
+	{
+		"chi"		"** **"
+	}
+	"***Run towards the summit!***"
+	{
+		"chi"		"** **"
+	}
+	"***Warning: The boss is comeback.***"
+	{
+		"chi"		"** **"
+	}
+	"***Boss is dead***"
+	{
+		"chi"		"** **"
+	}
+	"***Second way is open.***"
+	{
+		"chi"		"** **"
+	}
+	"***Current mode : Arena mode***"
+	{
+		"chi"		"** **"
+	}
+	"*** PURE SURVIVAL AND CARNAGE -- ALL ITEMS ARE AVAILABLE! ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Invisibility Gas has been picked. ***"
+	{
+		"chi"		"** **"
+	}
+	"***Current mode : Space FFVII mode***"
+	{
+		"chi"		"** **"
+	}
+	"**Zombie trigger activated: Speed in 5 secs. (8 secs. duration)**"
+	{
+		"chi"		"** **"
+	}
+	"*** KNIFE IT OUT! ***"
+	{
+		"chi"		"** **"
+	}
+	"***Current mode : Monkey massacre mode***"
+	{
+		"chi"		"** **"
+	}
+	"*** Crab has been picked. ***"
+	{
+		"chi"		"** **"
+	}
+	"** .. THE CREATURE OF SHADOW AND FIRE IS HERE ... **"
+	{
+		"chi"		"** **"
+	}
+	"*** Shadow Ball has been picked. ***"
+	{
+		"chi"		"** **"
+	}
+	"**Pyramid Head is looking for you ... **"
+	{
+		"chi"		"** **"
+	}
+	"***We have reached the top...***"
+	{
+		"chi"		"** **"
+	}
+	"***A hole seems to lead the way.***"
+	{
+		"chi"		"** **"
+	}
+	"***The gate will open in 30 secs.***"
+	{
+		"chi"		"** **"
+	}
+	"***The way is open...***"
+	{
+		"chi"		"** **"
+	}
+	"***Mass teleport in 30 secs.***"
+	{
+		"chi"		"** **"
+	}
+	"** Raivb1000 prototype has been picked up. Press E (+USE) to activate. **"
+	{
+		"chi"		"** **"
+	}
+	"** WARNING: It only has one use and affects zombies and killer robots. **"
+	{
+		"chi"		"** **"
+	}
+	"***TNT ACTIVATED! DETONATING IN 20 SECS...***"
+	{
+		"chi"		"** **"
+	}
+	"***GET MOVING!***"
+	{
+		"chi"		"** **"
+	}
+	"***The door will open in 30 secs...***"
+	{
+		"chi"		"** **"
+	}
+	"***TIP: Those computers can be of use opening the doors right away by pressing them accordingly when lit.***"
+	{
+		"chi"		"** **"
+	}
+	"*Heal has been picked up. Press +USE (E) to activate.*"
+	{
+		"chi"		"** **"
+	}
+	"*It has a 90 seconds cooldown.*"
+	{
+		"chi"		"** **"
+	}
+	"***DOORS ARE OPEN! GET MOVING!***"
+	{
+		"chi"		"** **"
+	}
+	"*Basic defensive mode activated: Laser and Landmines*"
+	{
+		"chi"		"** **"
+	}
+	"** TIP: He Grenades deal a lot of damage to the robot.**"
+	{
+		"chi"		"** **"
+	}
+	"*Basic offensive mode activated: Fist crusher module loaded*"
+	{
+		"chi"		"** **"
+	}
+	"*Offensive module loaded: Laser meat slasher*"
+	{
+		"chi"		"** **"
+	}
+	"***Current mode : Classic mode***"
+	{
+		"chi"		"**当前模式：经典模式 **"
+	}
+	"**Annihilator has been picked**"
+	{
+		"chi"		"**歼灭者已拾取 **"
+	}
+	"**Titan monster has entered the game**"
+	{
+		"chi"		"**泰坦巨兽加入游戏 **"
+	}
+	"*** Barricade has been picked. ***"
+	{
+		"chi"		"**路障已拾取 **"
+	}
+	"**Zombie summoner has been picked.**"
+	{
+		"chi"		"**僵尸召唤者已出动 **"
+	}
+	"*** Trampoline has been picked. ***"
+	{
+		"chi"		"**蹦床已拾取 **"
+	}
+	"***Current mode : Face to Face mode***"
+	{
+		"chi"		"**当前模式：面对面 **"
+	}
+	"*** Zombies will receive... ***"
+	{
+		"chi"		"**僵尸神器... **"
+	}
+	"*** Pyramid Head! ***"
+	{
+		"chi"		"**三角头 **"
+	}
+	"*** ...and... ***"
+	{
+		"chi"		"**...和... **"
+	}
+	"*** Humans will counter with... ***"
+	{
+		"chi"		"**人类将与...对抗... **"
+	}
+	"*** Speed gun! ***"
+	{
+		"chi"		"**加速枪 **"
+	}
+	"***Current mode : Normal mode***"
+	{
+		"chi"		"**当前模式：普通模式 **"
+	}
+	"** GOOD LUCK INBOUND TO A HAPPY POOPY POOP **"
+	{
+		"chi"		"**祝你好运，一只快乐的狗狗 **"
+	}
+	"** A player has adquired EARTH MATERIA **"
+	{
+		"chi"		"**一位玩家拿起了大地元素 **"
+	}
+	"** A player has adquired FIRE MATERIA **"
+	{
+		"chi"		"**一位玩家拿起了火焰元素 **"
+	}
+	"*** Bird has been picked. ***"
+	{
+		"chi"		"**鸟已被拾取 **"
+	}
+	"** A player has adquired ICE MATERIA **"
+	{
+		"chi"		"**一位玩家拿起了冰元素 **"
+	}
+	"*** A wall blocks our path! ***"
+	{
+		"chi"		"**一堵墙挡住了我们的路！ **"
+	}
+	"*** HOLD until were able to take down this wall. ***"
+	{
+		"chi"		"**防守到这堵墙打开 **"
+	}
+	"*** WALL BREAK IN 5 SECS... Get ready! ***"
+	{
+		"chi"		"**5秒后墙壁破碎-快走 **"
+	}
+	"*** Get moving! ***"
+	{
+		"chi"		"**快走！ **"
+	}
+	"*** THIS IS OUR LAST STAND... ***"
+	{
+		"chi"		"**这是我们最后防守的地方了 **"
+	}
+	"*** The wall will break in 20 secs. ***"
+	{
+		"chi"		"**墙壁20秒后破碎 **"
+	}
+	"*** Mass teleport in 30 secs. ***"
+	{
+		"chi"		"**传送将于30秒后启动 **"
+	}
+	"*** The helicopter is warming up... HOLD! ***"
+	{
+		"chi"		"**直升机正在加油-继续防守 **"
+	}
+	"*** THE HELICOPTER IS READY TO GO! ** SOMEONE HAS TO PILOT IT AND GET US OUT OF HERE! ***"
+	{
+		"chi"		"**直升机已经准备好出发了-但是必须有人驾驶它把我们带出去 **"
+	}
+	"***  Nuke inbound! ***"
+	{
+		"chi"		"**核弹爆炸 **"
+	}
+	"***  3 ***"
+	{
+		"chi"		"** **"
+	}
+	"***  2 ***"
+	{
+		"chi"		"** **"
+	}
+	"***  1 ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Horn has been blown! Nuke inbound. ***"
+	{
+		"chi"		"**喇叭已吹响-核弹已进入 **"
+	}
+	"***Zombie Stopper has been picked.***"
+	{
+		"chi"		"**僵尸冰冻已拾取 **"
+	}
+	"** A player has adquired WIND MATERIA **"
+	{
+		"chi"		"**一位玩家拿起了飓风元素 **"
+	}
+	"*** Raptor has been picked. ***"
+	{
+		"chi"		"**恐龙已出动 **"
+	}
+	"*** Scary Zombie has been picked. ***"
+	{
+		"chi"		"**恐怖僵尸已出动 **"
+	}
+	"*** Crab! ***"
+	{
+		"chi"		"**大螃蟹 **"
+	}
+	"*** Builder! ***"
+	{
+		"chi"		"**建设者 **"
+	}
+	"***Current mode : Barricade mode***"
+	{
+		"chi"		"**当前模式：障碍模式 **"
+	}
+	"*** TIP: Work in team or defend yourself! ***"
+	{
+		"chi"		"**提示：这是防守模式-注意保护自己 **"
+	}
+	"*** This is not about ESCAPING in team... but surviving by any means! ***"
+	{
+		"chi"		"**这是防守模式...无论如何都要生存下去！ **"
+	}
+	"*** Zombies can be killed in 4 minutes. ***"
+	{
+		"chi"		"**四分钟后杀死僵尸 **"
+	}
+	"*** Zombies can be killed in 3 minutes. ***"
+	{
+		"chi"		"**三分钟后杀死僵尸 **"
+	}
+	"*** Zombies can be killed in 2 minutes. ***"
+	{
+		"chi"		"**两分钟后杀死僵尸 **"
+	}
+	"*** Zombies can be killed in 1 minute. ***"
+	{
+		"chi"		"**一分钟后杀死僵尸 **"
+	}
+	"*** PARALYZING GAS SURROUNDS THE AREA! - FINISH THE ZOMBIES OFF! ***"
+	{
+		"chi"		"**毒气包围了整个区域-干掉僵尸! **"
+	}
+	"** A player has adquired HEAL MATERIA **"
+	{
+		"chi"		"**一位玩家拿起了治疗元素 **"
+	}
+	"*** ZOMBIES HAVE BROKEN OUR BARRIER SEALING THE BEAST! ***"
+	{
+		"chi"		"**僵尸打破了封印BOSS的屏障 **"
+	}
+	"** A player has adquired ULTIMA MATERIA **"
+	{
+		"chi"		"**一位玩家拿起了终极元素 **"
+	}
+	"*** Grenades fly! ***"
+	{
+		"chi"		"**让手雷飞！ **"
+	}
+	"***Warning: Tornados approaching***"
+	{
+		"chi"		"**警告：龙卷风逼近 **"
+	}
+	"*** SUPERMODE BONUS - APOCALYPSE WOW ***"
+	{
+		"chi"		"**奖励模式-天启 **"
+	}
+	"*** Scary Zombie! ***"
+	{
+		"chi"		"**恐怖僵尸 **"
+	}
+	"*** Ultima! ***"
+	{
+		"chi"		"**最后通牒 **"
+	}
+	"***Warning: Meteorite falls***"
+	{
+		"chi"		"**警告：陨石坠落 **"
+	}
+	"*** C4! ***"
+	{
+		"chi"		"** **"
+	}
+	"*** The Cube has been picked. ***"
+	{
+		"chi"		"** **"
+	}
+	"***Warning: Sephiroth has appeared.***"
+	{
+		"chi"		"** **"
+	}
+	"*** SUPERMODE BONUS - NIGHTMARE IN SILENT HILL ***"
+	{
+		"chi"		"** **"
+	}
+	"***反向击退,丢雷和火瓶会给僵尸加速-10***"
+	{
+		"chi"		"** **"
+	}
+	"*** Shadow Ball! ***"
+	{
+		"chi"		"** **"
+	}
+	"*** TELEPORTING EVERYONE TO THE FINAL ARENA IN 10 SECONDS ! ***"
+	{
+		"chi"		"** **"
+	}
+	"*** TELEPORTING EVERYONE TO THE FINAL ARENA IN 5 SECONDS ! ***"
+	{
+		"chi"		"** **"
+	}
+	"***You might want to shoot the trains to destroy them before its too late***"
+	{
+		"chi"		"** **"
+	}
+	"***VIPSTER mode***"
+	{
+		"chi"		"** **"
+	}
+	"*** TIP: Someone at random will be picked as the VIP. ***"
+	{
+		"chi"		"** **"
+	}
+	"*** If the VIP is at the top at the end of the round... A treat will be waiting for you in the next. ***"
+	{
+		"chi"		"** **"
+	}
+	"*** There will only be two items spawned to help guide you.  ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Prepare for a selected VIP! ***"
+	{
+		"chi"		"** **"
+	}
+	"*** HOLD! Something is blocking our path... ***"
+	{
+		"chi"		"** **"
+	}
+	"*** PROTECT THE VIP - DONT LET HIM FAIL US. ***"
+	{
+		"chi"		"** **"
+	}
+	"*** ALMOST THERE! Were going to break down the wall soon. ***"
+	{
+		"chi"		"** **"
+	}
+	"*** GO GO GO! ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Almost there... We just need a couple more seconds! ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Keep defending! Protect the VIP. ***"
+	{
+		"chi"		"** **"
+	}
+	"*** BOSS MODE - MEDUSA ***"
+	{
+		"chi"		"** **"
+	}
+	"*** A mysterious portal is opening up beyond this wall. ***"
+	{
+		"chi"		"** **"
+	}
+	"*** The wall will break in 30 secs. ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Massive teleport in 30 secs. ***"
+	{
+		"chi"		"** **"
+	}
+	"*** The wall has been destroyed! ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Portal will be fully open soon... Keep covering! ***"
+	{
+		"chi"		"** **"
+	}
+	"*** PORTAL IS OPEN! ** JUMP IN! ***"
+	{
+		"chi"		"** **"
+	}
+	"*** SOMEONE HAS TAKEN CONTROL OF THE HELICOPTER! ** GET IN NOW! ***"
+	{
+		"chi"		"** **"
+	}
+	"*** SUPERMODE BONUS - REALLY BAD WEATHER ***"
+	{
+		"chi"		"** **"
+	}
+	"*** BOSS MODE - BAHAMUT ***"
+	{
+		"chi"		"** **"
+	}
+}

@@ -1,0 +1,303 @@
+"Console_T"
+{
+	"< Warmup >"
+	{
+		"chi"		"** **"
+	}
+	"**WARMUP**"
+	{
+		"chi"		"**热身**"
+	}
+	"**ze surf galaxy zena**"
+	{
+		"chi"		"** **"
+	}
+	"**Map by Malgo**"
+	{
+		"chi"		"**地图作者:Malgo 地图翻译:清新的二哈♪**"
+	}
+	"< Chapter I - Curiosity >"
+	{
+		"chi"		">>>第一关<<<"
+	}
+	"**Teleport will enable in 10 seconds**"
+	{
+		"chi"		"**10秒后传送**"
+	}
+	"**Teleport will enable in 20 seconds**"
+	{
+		"chi"		"**20秒后传送**"
+	}
+	"**Defend this crystal 35 seconds**"
+	{
+		"chi"		"**守住35秒**"
+	}
+	"**This is last point, run on the ship**"
+	{
+		"chi"		"**快上飞船闪人**"
+	}
+	"**Ship will start in 20 seconds**"
+	{
+		"chi"		"**飞船20秒后离开**"
+	}
+	"**Chapter I - completed**"
+	{
+		"chi"		"**第一关完成**"
+	}
+	"< Chapter II - Rendezvous >"
+	{
+		"chi"		">>>第二关<<<"
+	}
+	"**Teleport will enable in 25 seconds**"
+	{
+		"chi"		"**25秒后传送**"
+	}
+	"**R2-D2 attack, get ready to fight**"
+	{
+		"chi"		"**R2-D2来袭，准备战斗**"
+		"DoorCountdown"		"-1"
+	}
+	"**R2-D2 is using gravity**"
+	{
+		"chi"		"**R2-D2使用了低重力(小心飞出平台)**"
+		"DoorCountdown"		"4"
+	}
+	"**R2-D2 did FLIP Barrel Roll and recovered 80 health points**"
+	{
+		"chi"		"**R2-D2使用了快速翻滚，恢复了80HP**"
+		"DoorCountdown"		"-1"
+	}
+	"**R2-D2 is using support Grievous**"
+	{
+		"chi"		"**R2-D2召唤出了格里弗斯将军(看正前方躲刀，跳或者蹲或者左右找空隙)**"
+		"DoorCountdown"		"4"
+	}
+	"**R2-D2 is using support Clone Tropper**"
+	{
+		"chi"		"**R2-D2召唤出了克隆士兵(看正前方找空隙)**"
+		"DoorCountdown"		"4"
+	}
+	"**R2-D2 is using implosion**"
+	{
+		"chi"		"**R2-D2使用了万象牵引(按住S抵抗吸力)**"
+		"DoorCountdown"		"4"
+	}
+	"**R2-D2 is using paralyse**"
+	{
+		"chi"		"**R2-D2使用了麻痹电场**"
+		"DoorCountdown"		"-1"
+	}
+	"**Get out of the middle**"
+	{
+		"chi"		"**去两边**"
+		"DoorCountdown"		"4"
+	}
+	"**Stay on the middle**"
+	{
+		"chi"		"**去中间**"
+		"DoorCountdown"		"4"
+	}
+	"**R2-D2 died, now we can escape from this galaxy**"
+	{
+		"chi"		"**R2-D2死了，我们可以从这星系逃走了**"
+		"DoorCountdown"		"-1"
+	}
+	"**This is last point, defeat R2-D2!**"
+	{
+		"chi"		"**这是最后一个点，快击败R2-D2**"
+		"DoorCountdown"		"-1"
+	}
+	"**R2-D2 died, run!**"
+	{
+		"chi"		"**R2-D2死了，快跑(记得回头扔雷，僵尸追尾很快)**"
+		"DoorCountdown"		"-1"
+	}
+	"**Chapter II - completed**"
+	{
+		"chi"		"**第二关完成**"
+	}
+	"< Chapter III - Reconciliation >"
+	{
+		"chi"		">>>第三关<<<"
+	}
+	"**Defend this point for 40 seconds**"
+	{
+		"chi"		"**守住40秒**"
+	}
+	"**Ship will go for 20 seconds**"
+	{
+		"chi"		"**飞船将在20秒后离开**"
+	}
+	"**Grievous is death**"
+	{
+		"chi"		"** **"
+	}
+	"**Grievous is dead, run!**"
+	{
+		"chi"		"** **"
+	}
+	"**Chapter III - completed**"
+	{
+		"chi"		"** **"
+	}
+	"**Chapter III incoming**"
+	{
+		"chi"		"** **"
+	}
+	"sync_version"
+	{
+		"syncvalue"		"2781"
+	}
+	"**Models made by Nitro and Struppi* *"
+	{
+		"chi"		"** **"
+	}
+	"< Complete two first surfs or wait 2 min >"
+	{
+		"chi"		"** **"
+	}
+	"< Teleport to spaceship will enable in 15 seconds >"
+	{
+		"chi"		"** **"
+	}
+	"< The Gate will open in 15 seconds >"
+	{
+		"chi"		"** **"
+	}
+	"< The teleport will be opened for 20 seconds >"
+	{
+		"chi"		"** **"
+	}
+	"< Chapter I - Last Metal Bastion >"
+	{
+		"chi"		"** **"
+	}
+	"< Earth is over, we must go to orbit! >"
+	{
+		"chi"		"** **"
+	}
+	"< Find the last metal bastion and take it over >"
+	{
+		"chi"		"** **"
+	}
+	"< There is no place for mistake here, you have to do this!  >"
+	{
+		"chi"		"** **"
+	}
+	"< Survive for 40 seconds >"
+	{
+		"chi"		"** **"
+	}
+	"< 20 seconds remaining >"
+	{
+		"chi"		"** **"
+	}
+	"< 10 seconds remaining >"
+	{
+		"chi"		"** **"
+	}
+	"< 5 seconds remaining >"
+	{
+		"chi"		"** **"
+	}
+	"< Survive for 45 seconds >"
+	{
+		"chi"		"** **"
+	}
+	"< 30 seconds remaining >"
+	{
+		"chi"		"** **"
+	}
+	"< 15 seconds remaining >"
+	{
+		"chi"		"** **"
+	}
+	"< It is, Metal Bastion has been found >"
+	{
+		"chi"		"** **"
+	}
+	"< The Gate will open in 20 seconds >"
+	{
+		"chi"		"** **"
+	}
+	"< The Gate will open in 25 seconds >"
+	{
+		"chi"		"** **"
+	}
+	"< [Arcana] Welcome on my ship, I know why you came here! >"
+	{
+		"chi"		"** **"
+	}
+	"< [Arcana] And I wont let you do it >"
+	{
+		"chi"		"** **"
+	}
+	"< [Arcana] Prepare to die! >"
+	{
+		"chi"		"** **"
+	}
+	"< To defeat Arcana destroy the three panels under her room! >"
+	{
+		"chi"		"** **"
+	}
+	"< Be careful, we dont know what shes capable of!>"
+	{
+		"chi"		"** **"
+	}
+	"< Arcana summon monster to help >"
+	{
+		"chi"		"** **"
+	}
+	"<  player has picked up the Heal Materia >"
+	{
+		"chi"		"** **"
+	}
+	"< [Arcana] No! the engine stopped working >"
+	{
+		"chi"		"** **"
+	}
+	"< [Arcana] Everything will blow up because of you >"
+	{
+		"chi"		"** **"
+	}
+	"< [Arcana] Youll pay me for it! >"
+	{
+		"chi"		"** **"
+	}
+	"< The Gate will open in 30 seconds >"
+	{
+		"chi"		"** **"
+	}
+	"< [Arcana] You will meet your destiny! >"
+	{
+		"chi"		"** **"
+	}
+	"< [Arcana] soon >"
+	{
+		"chi"		"** **"
+	}
+	"< Defend this platform, give us time, we have to come up with something! >"
+	{
+		"chi"		"** **"
+	}
+	"< Whats going on? I got a message from the base, they survived! >"
+	{
+		"chi"		"** **"
+	}
+	"< [Arcana] This is not the end, we will meet again >"
+	{
+		"chi"		"** **"
+	}
+	"< Get to the teleport, we are save! >"
+	{
+		"chi"		"** **"
+	}
+	"< survive in the base 45 seconds to arrival of army >"
+	{
+		"chi"		"** **"
+	}
+	"< A player has picked up TATICAL NUKE >"
+	{
+		"chi"		"** **"
+	}
+}

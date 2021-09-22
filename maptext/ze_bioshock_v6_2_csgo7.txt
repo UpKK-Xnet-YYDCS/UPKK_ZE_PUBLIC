@@ -1,0 +1,569 @@
+"Console_T"
+{
+	">>ze_bioshock<<"
+	{
+		"chi"		"**ze_bioshock **"
+	}
+	">>Map by DormantLemon<<"
+	{
+		"chi"		"**地图作者：DormantLemon 翻译更正：清新的二哈?**"
+	}
+	">>Introduction<<"
+	{
+		"chi"		"**介绍 **"
+	}
+	">>>Warmup ends in 60 seconds<<<"
+	{
+		"chi"		"**热身回合60秒后结束 **"
+	}
+	">>Current Difficulty: Hard<<"
+	{
+		"chi"		"**当前难度：困难 **"
+	}
+	">>TIP #1: Big Daddy is immensely strong. Dont let him get close<<"
+	{
+		"chi"		"**提示1：大老爹非常强壮.不要让他靠近你们 **"
+		"DoorCountDown"		"-1"
+	}
+	">>TIP #2: Repeated losses will make the map easier. Dont give up!<<"
+	{
+		"chi"		"**提示2:多次通关失败会使地图更容易，不要放弃! **"
+		"DoorCountDown"		"-1"
+	}
+	">>TIP #3: Plasmids are limited use. Keep count!<<"
+	{
+		"chi"		"**提示3：质粒的使用受到限制,酌情使用！ **"
+		"DoorCountDown"		"-1"
+	}
+	">>TIP #4: Upgrade your Plasmids at Power to the People stations. Upgrades are PERMANENT. Choose carefully!<<"
+	{
+		"chi"		"**提示4：在商店升级你的质粒，升级是永久性的，请谨慎选择！ **"
+		"DoorCountDown"		"-1"
+	}
+	">>TIP #5: Little Sister can harvest corpses to buff her teammates. Search them out!<<"
+	{
+		"chi"		"**提示5:小妹妹可以收获尸体来给予队友基因强化，搜索尸体！ **"
+		"DoorCountDown"		"-1"
+	}
+	">>TIP #6: Gene Tonics take effect on death. Dont die in vain!<<"
+	{
+		"chi"		"**提示6：基因强化在死亡时生效，不要白白牺牲！ **"
+		"DoorCountDown"		"-1"
+	}
+	">>TIP #7: Lost health? Visit a health station to recover it!<<"
+	{
+		"chi"		"**提示7：HP减少了？你可以去加血站恢复它！ **"
+		"DoorCountDown"		"-1"
+	}
+	">>>Introduction Complete<<<"
+	{
+		"chi"		"**介绍完成 **"
+	}
+	">>Chapter 1 - Welcome to Rapture<<"
+	{
+		"chi"		"**第一章-欢迎来到销魂城 **"
+	}
+	">>Wait for Bathysphere arrival - 25s<<"
+	{
+		"chi"		"**等待潜水装置到来-25秒 **"
+	}
+	">>Bathysphere is docking...<<"
+	{
+		"chi"		"**潜水装置对接... **"
+	}
+	">>Get in the Bathysphere - 12s<<"
+	{
+		"chi"		"**进入潜水装置-12秒 **"
+	}
+	"***Plasmid obtained: Winter Blast***"
+	{
+		"chi"		"**质粒拾取：寒霜 **"
+	}
+	">>Hold the Atrium - 22s<<"
+	{
+		"chi"		"**守住中庭-22秒 **"
+	}
+	"***Plasmid obtained: Gravity Well***"
+	{
+		"chi"		"**质粒拾取：重力 **"
+	}
+	">>>A Little Sister has been spotted nearby<<<"
+	{
+		"chi"		"**附近有个小妹妹 **"
+	}
+	">>>The Big Daddy is lurking<<<"
+	{
+		"chi"		"**大老爹正潜伏着 **"
+	}
+	">>Current Difficulty: Easy<<"
+	{
+		"chi"		"**当前难度：简单 **"
+	}
+	"***Plasmid obtained: Sonic Boom***"
+	{
+		"chi"		"**质粒拾取：音爆 **"
+	}
+	">>Door is open<<"
+	{
+		"chi"		"**大门打开 **"
+	}
+	">>Hold until secuity door releases - 15s<<"
+	{
+		"chi"		"**守到安全门开启-15秒 **"
+	}
+	">>Wait for the elevators arrival<<"
+	{
+		"chi"		"**等待电梯到达 **"
+	}
+	"***Plasmid obtained: Insect Swarm***"
+	{
+		"chi"		"**质粒拾取：蜂群 **"
+	}
+	"*AFK teleport in 5s*"
+	{
+		"chi"		"**挂机玩家5秒后传送 **"
+		"DoorCountDown"		"-1"
+	}
+	">>SECRET: Found the Bird Token<<"
+	{
+		"chi"		"**秘密：发现鸟的徽章 **"
+	}
+	">>Elevator 1 leaving - 5s<<"
+	{
+		"chi"		"**1号电梯离开-5秒 **"
+		"DoorCountDown"		"-1"
+	}
+	">>Elevator 2 leaving - 5s<<"
+	{
+		"chi"		"**2号电梯离开-5秒 **"
+		"DoorCountDown"		"-1"
+	}
+	"***Plasmid obtained: Incinerate***"
+	{
+		"chi"		"**质粒拾取：焚烧 **"
+	}
+	">>Hold until the security door releases<<"
+	{
+		"chi"		"**守到安全门开启 **"
+	}
+	"***Plasmid obtained: Electro Bolt***"
+	{
+		"chi"		"**质粒拾取：闪电 **"
+	}
+	"Thats a Little Sister. Looks like shes alone..."
+	{
+		"chi"		"**她就是小妹妹，看起来她很孤独 **"
+	}
+	">>Board and defend the Rapture Metro<<"
+	{
+		"chi"		"**进入地铁并防守 **"
+	}
+	">>>Chapter complete<<<"
+	{
+		"chi"		"**第一章通过 **"
+	}
+	">>Chapter 2 - Fort Frolic<<"
+	{
+		"chi"		"**第二章-海妖街与欢乐要塞 **"
+	}
+	">>Wait for Siren Alley doors to open - 15s<<"
+	{
+		"chi"		"**等待海妖街大门-15秒 **"
+	}
+	">>SECRET: Found the Cage Token<<"
+	{
+		"chi"		"**秘密:找到笼子的徽章 **"
+	}
+	"*Splicers have been blocked for 8 seconds*"
+	{
+		"chi"		"**僵尸被封锁8秒 **"
+		"DoorCountDown"		"-1"
+	}
+	"*Splicers have been blocked for 6 seconds*"
+	{
+		"chi"		"**僵尸被封锁6秒 **"
+		"DoorCountDown"		"-1"
+	}
+	">>Hide or hold until the exit has drained - 84s<<"
+	{
+		"chi"		"**躲藏或者守住直到出口打开-84秒 **"
+	}
+	"*Splicers have been blocked for 4 seconds*"
+	{
+		"chi"		"**僵尸被封锁4秒 **"
+		"DoorCountDown"		"-1"
+	}
+	"*Splicers have been blocked for 2 seconds*"
+	{
+		"chi"		"**僵尸被封锁2秒 **"
+		"DoorCountDown"		"-1"
+	}
+	"*Splicers have been freed!*"
+	{
+		"chi"		"**僵尸已被释放 **"
+	}
+	">>Hold the Decompression Chamber<<"
+	{
+		"chi"		"**守住减压室 **"
+	}
+	">>Defend until Cohen opens the doors - 20s<<"
+	{
+		"chi"		"**守住.直到Cohen打开门-20秒 **"
+	}
+	">>Hold the doorway - 5s<<"
+	{
+		"chi"		"**守住门口-5秒 **"
+	}
+	">>Go up the stairs<<"
+	{
+		"chi"		"**上楼 **"
+	}
+	">>Wait for Poseidon Plaza to unfreeze<<"
+	{
+		"chi"		"**等待海神广场解冻 **"
+	}
+	">>Defend while the door unfreezes - 20s<<"
+	{
+		"chi"		"**守到门解冻-20秒 **"
+	}
+	">>Defend Jasmine Jolies room - 60s<<"
+	{
+		"chi"		"**守住Jasmine Jolie的房间-60秒 **"
+	}
+	">>Chapter 3 - Arcadia<<"
+	{
+		"chi"		"**第三章-阿卡迪亚 **"
+	}
+	">>Hold the Balcony<<"
+	{
+		"chi"		"**守住阳台 **"
+	}
+	">>Hold Julie Langfords Garden<<"
+	{
+		"chi"		"**守住朱莉·朗格弗德的花园 **"
+	}
+	">>Wait for corridor to drain...<<"
+	{
+		"chi"		"**等待走廊排完水… **"
+	}
+	">>Hold until the security door unlocks<<"
+	{
+		"chi"		"**守到安全门打开 **"
+	}
+	">>Detonate and Destroy the tunnel<<"
+	{
+		"chi"		"**引爆并摧毁隧道 **"
+	}
+	">>Splicers must not make it past the marker<<"
+	{
+		"chi"		"**不能让僵尸越过标记线！ **"
+	}
+	">>Chapter 4 - Hephaestus<<"
+	{
+		"chi"		"**第四章-赫菲斯托斯 **"
+	}
+	">>Hephaestus security checks in progress.. - 15s<<"
+	{
+		"chi"		"**赫菲斯托斯安全检查正在进行-15秒 **"
+	}
+	">>Wait for Hephaestus to open - 15s<<"
+	{
+		"chi"		"**等待赫菲斯托斯大门打开 **"
+	}
+	">>Hephaestus is open<<"
+	{
+		"chi"		"**赫菲斯托斯大门开启 **"
+	}
+	">>Wait for Trophy Room access - 35s<<"
+	{
+		"chi"		"**35秒-等待Trophy Room大门打开 **"
+	}
+	">>AFK Teleport in 5s<<"
+	{
+		"chi"		"**挂机玩家5秒后传送 **"
+		"DoorCountDown"		"-1"
+	}
+	">>Evaporate the flood water<<"
+	{
+		"chi"		"**正在将积水蒸发 **"
+	}
+	">>Elevator is leaving - 5s<<"
+	{
+		"chi"		"**电梯离开-5秒 **"
+	}
+	">>Laser incoming<<"
+	{
+		"chi"		"**准备跳刀！ **"
+		"DoorCountDown"		"2"
+	}
+	">>Elevator will be leaving soon<<"
+	{
+		"chi"		"**电梯马上就要开了 **"
+	}
+	"*AFK teleport in 3s*"
+	{
+		"chi"		"**挂机玩家3秒后传送 **"
+	}
+	">>>Bathysphere door opens in 20 seconds<<<"
+	{
+		"chi"		"**潜水装置的门20秒后打开 **"
+	}
+	">>Defend the Bathysphere - 40s<<"
+	{
+		"chi"		">>>守住潜水艇-40秒<<<"
+	}
+	">>Chapter Completed<<"
+	{
+		"chi"		"**关卡通过 **"
+	}
+	">>>Find the secrets for the true ending<<<"
+	{
+		"chi"		"**寻找秘密可以开启真实结局 **"
+	}
+	">>>Bad ending obtained!<<<"
+	{
+		"chi"		"**达成坏结局！ **"
+	}
+	">>Campaign Completed<<"
+	{
+		"chi"		"**地图通关 **"
+	}
+	">>Thank you for playing. Try 1999 mode for a true challenge<<"
+	{
+		"chi"		"**谢谢你的玩耍，尝试挑战1999年模式 **"
+		"DoorCountDown"		"-1"
+	}
+	">>Extra Chapter - 1999<<"
+	{
+		"chi"		"**额外章节-1999 **"
+		"DoorCountDown"		"-1"
+	}
+	">>1999 is a special mode<<"
+	{
+		"chi"		"**1999是一个特殊的关卡 **"
+		"DoorCountDown"		"-1"
+	}
+	">>Its long and difficult<<"
+	{
+		"chi"		"**漫长并困难 **"
+	}
+	">>Enjoy it<<"
+	{
+		"chi"		"**享受它 **"
+	}
+	">>There are 2 ways to go. Someone must take the upper path<<"
+	{
+		"chi"		"**有2条路可以走，必须有人走上面的路。 **"
+		"DoorCountDown"		"-1"
+	}
+	">>They must go and open the lower door from behind<<"
+	{
+		"chi"		"**他们必须从后面打开下面的门 **"
+	}
+	">>Wait for access to Fort Frolic<<"
+	{
+		"chi"		"**等待进入欢乐要塞 **"
+	}
+	">>Wait for access to the Bathysphere - 35s<<"
+	{
+		"chi"		"**等待进入潜水装置-35秒 **"
+	}
+	">>Hold the Wineries - 25s<<"
+	{
+		"chi"		"**守住葡萄酒厂-25秒 **"
+	}
+	"*AFK teleport in 5s"
+	{
+		"chi"		"**挂机玩家5秒后传送 **"
+		"DoorCountDown"		"-1"
+	}
+	">>Kill the Patriot<<"
+	{
+		"chi"		"**杀了爱国者 **"
+	}
+	">>>A Patriot is awake. Kill it!<<<"
+	{
+		"chi"		"**爱国者被激活了，快杀了它！ **"
+	}
+	">>Wait for rail access - 15s<<"
+	{
+		"chi"		"**等待轨道激活-15秒 **"
+	}
+	">>>Jump onto the rail!<<<"
+	{
+		"chi"		"**跳上轨道! **"
+	}
+	">>Wait for the security door to open - 20s<<"
+	{
+		"chi"		"**等待安全门打开-20秒 **"
+	}
+	">>Defend while the door opens - 50s<<"
+	{
+		"chi"		"**守到门开-50秒 **"
+	}
+	"***Plasmid upgraded: Sonic Boom 2***"
+	{
+		"chi"		"**质粒升级：音爆2级 **"
+		"DoorCountDown"		"-1"
+	}
+	"***Plasmid upgraded: Incinerate 2***"
+	{
+		"chi"		"**质粒升级：焚烧2级 **"
+		"DoorCountDown"		"-1"
+	}
+	"***Plasmid upgraded: Insect Swarm 2***"
+	{
+		"chi"		"**质粒升级：蜂群2级 **"
+		"DoorCountDown"		"-1"
+	}
+	"***Plasmid upgraded: Electro Bolt 2***"
+	{
+		"chi"		"**质粒升级：闪电2级 **"
+		"DoorCountDown"		"-1"
+	}
+	"***Plasmid upgraded: Winter Blast 2***"
+	{
+		"chi"		"**质粒升级：寒霜2级 **"
+		"DoorCountDown"		"-1"
+	}
+	"***Plasmid upgraded: Gravity Well 2***"
+	{
+		"chi"		"**质粒升级：重力2级 **"
+		"DoorCountDown"		"-1"
+	}
+	"*ADMIN Room: Plasmids set to max level*"
+	{
+		"chi"		"**管理员房间：质粒已升到最高级 **"
+	}
+	"***Plasmid upgraded: Sonic Boom 3***"
+	{
+		"chi"		"**质粒升级：音爆3级 **"
+		"DoorCountDown"		"-1"
+	}
+	"***Plasmid upgraded: Incinerate 3***"
+	{
+		"chi"		"**质粒升级：焚烧3级 **"
+		"DoorCountDown"		"-1"
+	}
+	"***Plasmid upgraded: Insect Swarm 3***"
+	{
+		"chi"		"**质粒升级：蜂群3级 **"
+		"DoorCountDown"		"-1"
+	}
+	"***Plasmid upgraded: Electro Bolt 3***"
+	{
+		"chi"		"**质粒升级：闪电3级 **"
+		"DoorCountDown"		"-1"
+	}
+	"***Plasmid upgraded: Winter Blast 3***"
+	{
+		"chi"		"**质粒升级：寒霜3级 **"
+		"DoorCountDown"		"-1"
+	}
+	"***Plasmid upgraded: Gravity Well 3***"
+	{
+		"chi"		"**质粒升级：重力3级**"
+		"DoorCountDown"		"-1"
+	}
+	">>SECRET: Found the Airship Token<<"
+	{
+		"chi"		"**秘密：发现飞艇徽章**"
+	}
+	">>Wait for the arrival of Rapture Metro<<"
+	{
+		"chi"		"**等待销魂城地铁到来**"
+	}
+	">>Defend until the doors close - 15s<<"
+	{
+		"chi"		"**守到门关-15秒**"
+	}
+	">>Tip: The Songbird is vulnerable only to headshots. Remember this<<"
+	{
+		"chi"		"**提示:Songbird的头部是它的弱点，记住！**"
+	}
+	">>Wait for garden access - 20s<<"
+	{
+		"chi"		"**等待进入花园-20秒 **"
+	}
+	">>Service must end before you may enter - 25s<<"
+	{
+		"chi"		"**必须在服务结束前进入-25秒 **"
+	}
+	">>Elizabeth is searching for a tear - 50s<<"
+	{
+		"chi"		"**伊丽莎白正在寻找一个时空裂隙-50s**"
+	}
+	">>>ELIZABETH: This is it! Defend the boat!<<<"
+	{
+		"chi"		"**伊丽莎白：就是这里！守住船！ **"
+	}
+	">>>Elizabeth cant control the tear! Teleport in 5 seconds<<<"
+	{
+		"chi"		"**伊丽莎白对裂隙失去了控制!僵尸在5秒后传送 **"
+		"DoorCountDown"		"-1"
+	}
+	">>>ELIZABETH: The boat! GET IN THE BOAT<<<"
+	{
+		"chi"		"**伊丽莎白：来！快上船！ **"
+	}
+	">>>Chapter failed<<<"
+	{
+		"chi"		"**关卡失败 **"
+	}
+	">>SECRET: Found the Vox Populi Token<<"
+	{
+		"chi"		"**秘密：找到了人民之声徽章 **"
+	}
+	">>>All emblems obtained<<<"
+	{
+		"chi"		"**获得所有徽章 **"
+	}
+	">>You must wait for the islands to align - 30s<<"
+	{
+		"chi"		"**你必须等待岛屿对接-30秒 **"
+	}
+	">>>CONGRATULATIONS!<<<"
+	{
+		"chi"		"**祝贺你!**"
+	}
+	">>>TRUE ENDING OBTAINED<<<"
+	{
+		"chi"		"**真结局达成！**"
+	}
+	"sync_version"
+	{
+		"syncvalue"		"64079"
+	}
+	">>Its your chance. Kill the Songbird<<"
+	{
+		"chi"		"**这是你最后的机会，杀了Songbird! **"
+	}
+	">>>Congratulations<<"
+	{
+		"chi"		"**恭喜通关ヾ ^_^? **"
+	}
+	">>>Thank you for playing<<"
+	{
+		"chi"		"**感谢你的游玩！**"
+	}
+	">>Cohen has fled!<<"
+	{
+		"chi"		"**Cohen飞走了 **"
+	}
+	">>Its your lucky day, kid<<"
+	{
+		"chi"		"**小子，今天是你的幸运日 **"
+	}
+	"*ADMIN Room: Next round set to Chapter 1*"
+	{
+		"chi"		"** **"
+	}
+	"*ADMIN Room: Next round set to 1999 mode. GOOD LUCK!*"
+	{
+		"chi"		"** **"
+	}
+	"*ADMIN Room: Next round set to Chapter 3*"
+	{
+		"chi"		"** **"
+	}
+}

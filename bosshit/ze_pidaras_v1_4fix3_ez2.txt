@@ -1,0 +1,333 @@
+"BOSSHP"
+{
+	"protect boss"
+	{
+		"enable"		"1"
+	}
+	"boss_break"
+	{
+		"enable"		"1"
+	}
+	"CY01Physic"
+	{
+		"enable"		"0"
+	}
+	"bahamut_bullet"
+	{
+		"enable"		"1"
+	}
+	"npc_bahamut_physbox"
+	{
+		"enable"		"0"
+	}
+	"troll_face_physbox"
+	{
+		"enable"		"0"
+	}
+	"jugg_physbox"
+	{
+		"enable"		"0"
+	}
+	"anti_bullet_laser"
+	{
+		"enable"		"0"
+	}
+	"laser_physbox"
+	{
+		"enable"		"0"
+	}
+	"1602782"
+	{
+		"enable"		"1"
+		"hammerid"		"1602782"
+		"m_iname"		"boss_nade"
+	}
+	"1587518"
+	{
+		"enable"		"1"
+		"hammerid"		"1587518"
+		"m_iname"		"sol_boss_1"
+	}
+	"1587638"
+	{
+		"enable"		"1"
+		"hammerid"		"1587638"
+		"m_iname"		"sol_boss_1"
+	}
+	"725211"
+	{
+		"enable"		"1"
+		"hammerid"		"725211"
+		"m_iname"		"sol_boss_1"
+	}
+	"943954"
+	{
+		"enable"		"1"
+		"hammerid"		"943954"
+		"m_iname"		"sol_boss_1"
+	}
+	"530362"
+	{
+		"enable"		"1"
+		"hammerid"		"530362"
+		"m_iname"		"wall_boss"
+	}
+	"653607"
+	{
+		"enable"		"1"
+		"hammerid"		"653607"
+		"m_iname"		"glass_boss"
+	}
+	"1763820"
+	{
+		"enable"		"1"
+		"hammerid"		"1763820"
+		"m_iname"		"protect boss"
+	}
+	"1742134"
+	{
+		"enable"		"1"
+		"hammerid"		"1742134"
+		"m_iname"		"boss_break"
+	}
+	"1742173"
+	{
+		"enable"		"1"
+		"hammerid"		"1742173"
+		"m_iname"		"boss_break"
+	}
+	"1742201"
+	{
+		"enable"		"1"
+		"hammerid"		"1742201"
+		"m_iname"		"boss_break"
+	}
+	"1742210"
+	{
+		"enable"		"1"
+		"hammerid"		"1742210"
+		"m_iname"		"boss_break"
+	}
+	"1602800"
+	{
+		"enable"		"0"
+		"hammerid"		"1602800"
+		"m_iname"		"CY01Physic"
+	}
+	"1373277"
+	{
+		"enable"		"0"
+		"hammerid"		"1373277"
+		"m_iname"		"bahamut_bullet"
+	}
+	"126070"
+	{
+		"enable"		"0"
+		"hammerid"		"126070"
+		"m_iname"		"npc_bahamut_physbox"
+	}
+	"294116"
+	{
+		"enable"		"0"
+		"hammerid"		"294116"
+		"m_iname"		"troll_face_physbox"
+	}
+	"234692"
+	{
+		"enable"		"0"
+		"hammerid"		"234692"
+		"m_iname"		"jugg_physbox"
+	}
+	"1097216"
+	{
+		"enable"		"0"
+		"hammerid"		"1097216"
+		"m_iname"		"anti_bullet_laser"
+	}
+	"1088030"
+	{
+		"enable"		"0"
+		"hammerid"		"1088030"
+		"m_iname"		"laser_physbox"
+	}
+	"433495"
+	{
+		"enable"		"0"
+		"hammerid"		"433495"
+		"m_iname"		"space_physbox"
+	}
+	"833176"
+	{
+		"enable"		"0"
+		"hammerid"		"833176"
+		"m_iname"		"space_physbox2"
+	}
+	"1774223"
+	{
+		"enable"		"0"
+		"hammerid"		"1774223"
+		"m_iname"		"cristal sparge"
+	}
+	"800181"
+	{
+		"enable"		"0"
+		"hammerid"		"800181"
+		"m_iname"		"break7"
+	}
+	"800189"
+	{
+		"enable"		"0"
+		"hammerid"		"800189"
+		"m_iname"		"break8"
+	}
+	"800197"
+	{
+		"enable"		"0"
+		"hammerid"		"800197"
+		"m_iname"		"break9"
+	}
+	"800205"
+	{
+		"enable"		"0"
+		"hammerid"		"800205"
+		"m_iname"		"break4"
+	}
+	"800213"
+	{
+		"enable"		"0"
+		"hammerid"		"800213"
+		"m_iname"		"break5"
+	}
+	"800221"
+	{
+		"enable"		"0"
+		"hammerid"		"800221"
+		"m_iname"		"break6"
+	}
+	"800229"
+	{
+		"enable"		"0"
+		"hammerid"		"800229"
+		"m_iname"		"break1"
+	}
+	"800237"
+	{
+		"enable"		"0"
+		"hammerid"		"800237"
+		"m_iname"		"break2"
+	}
+	"800245"
+	{
+		"enable"		"0"
+		"hammerid"		"800245"
+		"m_iname"		"break3"
+	}
+	"102613"
+	{
+		"enable"		"0"
+		"hammerid"		"102613"
+		"m_iname"		"C4_06_Ground"
+	}
+	"241883"
+	{
+		"enable"		"0"
+		"hammerid"		"241883"
+		"m_iname"		"glass_rainbow"
+	}
+	"277641"
+	{
+		"enable"		"0"
+		"hammerid"		"277641"
+		"m_iname"		"wallgay_1"
+	}
+	"277649"
+	{
+		"enable"		"0"
+		"hammerid"		"277649"
+		"m_iname"		"wallgay_2"
+	}
+	"277657"
+	{
+		"enable"		"0"
+		"hammerid"		"277657"
+		"m_iname"		"wallgay_3"
+	}
+	"832984"
+	{
+		"enable"		"0"
+		"hammerid"		"832984"
+		"m_iname"		"sol_jail"
+	}
+	"833023"
+	{
+		"enable"		"0"
+		"hammerid"		"833023"
+		"m_iname"		"glass_zm"
+	}
+	"362946"
+	{
+		"enable"		"0"
+		"hammerid"		"362946"
+		"m_iname"		"real_ass"
+	}
+	"1340687"
+	{
+		"enable"		"0"
+		"hammerid"		"1340687"
+		"m_iname"		"glass_ass"
+	}
+	"439078"
+	{
+		"enable"		"0"
+		"hammerid"		"439078"
+		"m_iname"		"break_space"
+	}
+	"439095"
+	{
+		"enable"		"0"
+		"hammerid"		"439095"
+		"m_iname"		"break_space"
+	}
+	"433332"
+	{
+		"enable"		"0"
+		"hammerid"		"433332"
+		"m_iname"		"trap"
+	}
+	"404607"
+	{
+		"enable"		"0"
+		"hammerid"		"404607"
+		"m_iname"		"break_noel"
+	}
+	"404621"
+	{
+		"enable"		"0"
+		"hammerid"		"404621"
+		"m_iname"		"break_noel"
+	}
+	"404635"
+	{
+		"enable"		"0"
+		"hammerid"		"404635"
+		"m_iname"		"break_noel"
+	}
+	"404649"
+	{
+		"enable"		"0"
+		"hammerid"		"404649"
+		"m_iname"		"break_noel"
+	}
+	"404666"
+	{
+		"enable"		"0"
+		"hammerid"		"404666"
+		"m_iname"		"break_noel"
+	}
+	"404680"
+	{
+		"enable"		"0"
+		"hammerid"		"404680"
+		"m_iname"		"break_noel"
+	}
+}

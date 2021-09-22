@@ -1,0 +1,262 @@
+"Console_T"
+{
+	"** MAP STARTING **"
+	{
+		"chi"		"**热身结束，冒险开始**"
+	}
+	"** HAVE FUN **"
+	{
+		"chi"		"**旅途愉快~**"
+	}
+	"*** Defend until the crystals spawn the bridges ***"
+	{
+		"chi"		"**防守30秒直至桥梁出现**"
+	}
+	"*** 5 SECONDS REMAINING ***"
+	{
+		"chi"		"**还剩5秒**"
+	}
+	"*** Teleport will activate in 20 seconds ***"
+	{
+		"chi"		"**传送将在20秒后激活**"
+	}
+	"** TELEPORT ENABLED **"
+	{
+		"chi"		"**传送激活**"
+	}
+	"** Defend until the door opens **"
+	{
+		"chi"		"**防守20秒直至大门打开**"
+	}
+	"*** Destroy the crystal to powerup the elevator ***"
+	{
+		"chi"		"**摧毁中间顶部的水晶以激活电梯**"
+	}
+	"*** Elevator powered up! ***"
+	{
+		"chi"		"**电梯已激活！将在30秒后离开**"
+	}
+	"*** Zombie teleport in 10 seconds ***"
+	{
+		"chi"		"**僵尸将在10秒后传送**"
+	}
+	"*** Destroy the Orange Crystal on the Right side..."
+	{
+		"chi"		"**摧毁右边橙色水晶**"
+	}
+	"*** to open the door on the Left side. ***"
+	{
+		"chi"		"**以打开左边的大门**"
+	}
+	"*** Door powered up! ***"
+	{
+		"chi"		"**大门已激活！**"
+	}
+	"*** Boss room will open in 30 seconds ***"
+	{
+		"chi"		"**30秒后BOSS房门开启**"
+		"DoorCountDown"		"0"
+	}
+	"*** Doors will close in 10 seconds ***"
+	{
+		"chi"		"**门将在10秒后关闭**"
+	}
+	"*** Zombies are free ***"
+	{
+		"chi"		"**僵尸出笼**"
+	}
+	"*** Break the Green Crystal to powerup the Door! ***"
+	{
+		"chi"		"**打碎绿色水晶以激活大门**"
+	}
+	"*** Doors closes in 10 seconds ***"
+	{
+		"chi"		"**大门将在10秒后关闭**"
+	}
+	"*** Map by Lv. 100 Crobat ***"
+	{
+		"chi"		"**地图制作: Lv 100 Crobat   地图翻译:冰雪葬泪**"
+	}
+	"*** More content comming soon ***"
+	{
+		"chi"		"**更多内容即将到来**"
+	}
+	"*** Elevator doors will open in 20 seconds ***"
+	{
+		"chi"		"**电梯门将在20秒后打开**"
+	}
+	"*** Destroy the Green Crystal on top ***"
+	{
+		"chi"		"**摧毁顶部的绿色水晶**"
+	}
+	"*** The castle drains will break in 20 seconds ***"
+	{
+		"chi"		"**城堡内部下水道铁网将在20秒后破碎**"
+	}
+	"*** 5 SECOND REMAINING ***"
+	{
+		"chi"		"**还剩5秒**"
+	}
+	"*** Platforms will spawn in 30 seconds ***"
+	{
+		"chi"		"**前进道路将在30秒后出现**"
+	}
+	"*** We need to destroy both crystals...***"
+	{
+		"chi"		"**我们需要摧毁两边的水晶**"
+	}
+	"***...to power up the Boss door. ***"
+	{
+		"chi"		"**来激活BOSS大门**"
+	}
+	"*** Right door powered up! ***"
+	{
+		"chi"		"**右半边大门已激活**"
+	}
+	"*** Left door powered up! ***"
+	{
+		"chi"		"**左半边大门已激活**"
+	}
+	"*** Boss door powered up! ***"
+	{
+		"chi"		"**BOSS大门已激活**"
+	}
+	"*** DOOR OPENS IN 10 SECONDS ***"
+	{
+		"chi"		"**大门将在10秒后打开**"
+	}
+	"*** Elevator leaves in 10 seconds ***"
+	{
+		"chi"		"**电梯将在10秒后离开**"
+	}
+	"*** Platforms will break in 15 seconds ***"
+	{
+		"chi"		"**平台将在15秒后消失**"
+	}
+	"*** Go through the teleporter and break the Crystal ***"
+	{
+		"chi"		"**进入传送器去破坏水晶**"
+	}
+	"*** You can defend here until the Crystal is broken ***"
+	{
+		"chi"		"**你可以在传送器前防守直至水晶打碎**"
+	}
+	"sync_version"
+	{
+		"syncvalue"		"99405"
+	}
+	"*** Ice element is charging an attack! ***"
+	{
+		"chi"		"**冰之元素即将发动攻击**"
+		"DoorCountDown"		"10"
+	}
+	"** Laser barrier will disable in 30 seconds **"
+	{
+		"chi"		"**激光障碍将在30秒后解除**"
+	}
+	"** 5 SECONDS REMAINING **"
+	{
+		"chi"		"**还剩5秒**"
+	}
+	"*** Both doors will open in 40 seconds ***"
+	{
+		"chi"		"**两边的门将在40秒后打开**"
+	}
+	"*** Center Hall TP will activate in 40 seconds ***"
+	{
+		"chi"		"**前往中心大厅的传送将在40秒后激活**"
+	}
+	"*** We reached the Main Hall ***"
+	{
+		"chi"		"**我们到达了主大厅**"
+	}
+	"*** This elevator leads to the Space Ship ***"
+	{
+		"chi"		"**这个电梯前往宇宙飞船**"
+	}
+	"*** But it will take time for it to work ***"
+	{
+		"chi"		"**但是在开始运作前它需要一些时间准备**"
+	}
+	"*** Zombies will rush from any side ***"
+	{
+		"chi"		"**僵尸将会从东南西北的随机一个方向进攻**"
+	}
+	"*** We must defend until the elevator is ready ***"
+	{
+		"chi"		"**我们必须坚守至电梯准备就绪**"
+	}
+	"*** Zombies will come from the West Path ***"
+	{
+		"chi"		"**僵尸将从西面过来**"
+	}
+	"*** Ice element program appeared! ***"
+	{
+		"chi"		"**冰之元素出现了**"
+	}
+	"*** Ice element is inmune to bullets! ***"
+	{
+		"chi"		"**冰之元素目前是无敌的，免疫子弹**"
+	}
+	"*** Zombies will come from the North Path ***"
+	{
+		"chi"		"**僵尸将从北面过来**"
+	}
+	"*** Zombies will come from the South Path ***"
+	{
+		"chi"		"**僵尸将从南面过来**"
+	}
+	"*** Zombies will come from the East Path ***"
+	{
+		"chi"		"**僵尸将从东面过来**"
+	}
+	"*** Ice element is casting a final attack! ***"
+	{
+		"chi"		"**冰之元素正在准备最终攻击**"
+	}
+	"*** ITS WEAK WHILE CASTING! ***"
+	{
+		"chi"		"**但是它在准备最终攻击的时候是非常脆弱的**"
+	}
+	"*** SHOOT THE ICE PROGRAM ***"
+	{
+		"chi"		"**快点射击冰之元素，不然我们都要爆炸**"
+		"DoorCountDown"		"15"
+	}
+	"*** The attack has been interrupted! ***"
+	{
+		"chi"		"**它的最终攻击已被打断**"
+	}
+	"*** Elevator is leaving in 30 seconds ***"
+	{
+		"chi"		"**电梯将在30秒后离开**"
+	}
+	"*** Crystal destroyed! ***"
+	{
+		"chi"		"**水晶已破坏**"
+	}
+	"*** Something is happening..***"
+	{
+		"chi"		"**某种异样的事情正在发生**"
+	}
+	"*** S?ku??o: Exe?ut? G?it?h 82 ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Door closes in 30 seconds ***"
+	{
+		"chi"		"**大门将在30秒后关闭**"
+	}
+	"*** YOU ARE TOO SLOW! ***"
+	{
+		"chi"		"**你们太慢了！**"
+	}
+	"*** Final level comming soon ***"
+	{
+		"chi"		"**最终关卡即将到来，敬请期待。**"
+	}
+	"*** YOU ARE TOO SLOW ***"
+	{
+		"chi"		"** **"
+	}
+}

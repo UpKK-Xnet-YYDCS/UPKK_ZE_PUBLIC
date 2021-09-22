@@ -1,0 +1,801 @@
+"BOSSHP"
+{
+	"52040"
+	{
+		"enable"		"0"
+		"hammerid"		"52040"
+		"m_iname"		"Troll_Phys"
+	}
+	"49848"
+	{
+		"enable"		"1"
+		"hammerid"		"49848"
+		"m_iname"		"Troll_hitbox"
+	}
+	"49877"
+	{
+		"enable"		"0"
+		"hammerid"		"49877"
+		"m_iname"		"Troll_phys_nade"
+	}
+	"325675"
+	{
+		"enable"		"1"
+		"hammerid"		"325675"
+		"m_iname"		"lvl2_boss_light_box"
+	}
+	"325795"
+	{
+		"enable"		"1"
+		"hammerid"		"325795"
+		"m_iname"		"lvl2_boss_fire_box"
+	}
+	"325819"
+	{
+		"enable"		"1"
+		"hammerid"		"325819"
+		"m_iname"		"lvl2_boss_dark_box"
+	}
+	"325843"
+	{
+		"enable"		"1"
+		"hammerid"		"325843"
+		"m_iname"		"lvl2_boss_ice_box"
+	}
+	"325870"
+	{
+		"enable"		"1"
+		"hammerid"		"325870"
+		"m_iname"		"lvl2_boss_box"
+	}
+	"295419"
+	{
+		"enable"		"0"
+		"hammerid"		"295419"
+		"m_iname"		"lvl2_crystal"
+	}
+	"295515"
+	{
+		"enable"		"0"
+		"hammerid"		"295515"
+		"m_iname"		"lvl2_mazedoor4"
+	}
+	"280522"
+	{
+		"enable"		"0"
+		"hammerid"		"280522"
+		"m_iname"		"lvl2_mazedoor3"
+	}
+	"170512"
+	{
+		"enable"		"0"
+		"hammerid"		"170512"
+		"m_iname"		"lvl2_palacebreak_L"
+	}
+	"170466"
+	{
+		"enable"		"0"
+		"hammerid"		"170466"
+		"m_iname"		"lvl2_palacebreak_R"
+	}
+	"100587"
+	{
+		"enable"		"0"
+		"hammerid"		"100587"
+		"m_iname"		"earth_model"
+	}
+	"648688"
+	{
+		"enable"		"0"
+		"hammerid"		"648688"
+		"m_iname"		"icedr_reflex_box"
+	}
+	"610742"
+	{
+		"enable"		"1"
+		"hammerid"		"610742"
+		"m_iname"		"icedr_hitbox"
+	}
+	"581049"
+	{
+		"enable"		"0"
+		"hammerid"		"581049"
+		"m_iname"		"icedr_phys"
+	}
+	"677308"
+	{
+		"enable"		"0"
+		"hammerid"		"677308"
+		"m_iname"		"lvl3_plt_1"
+	}
+	"569340"
+	{
+		"enable"		"0"
+		"hammerid"		"569340"
+		"m_iname"		"lvl3_plt_1"
+	}
+	"640891"
+	{
+		"enable"		"0"
+		"hammerid"		"640891"
+		"m_iname"		"zshield_box"
+	}
+	"641494"
+	{
+		"enable"		"0"
+		"hammerid"		"641494"
+		"m_iname"		"zshield_box2"
+	}
+	"544287"
+	{
+		"enable"		"0"
+		"hammerid"		"544287"
+		"m_iname"		"lvl3_hum_box"
+	}
+	"475333"
+	{
+		"enable"		"0"
+		"hammerid"		"475333"
+		"m_iname"		"lvl3_hole"
+	}
+	"466767"
+	{
+		"enable"		"0"
+		"hammerid"		"466767"
+		"m_iname"		"lvl3_bridge2_fall1"
+	}
+	"466770"
+	{
+		"enable"		"0"
+		"hammerid"		"466770"
+		"m_iname"		"lvl3_bridge2_fall2"
+	}
+	"466773"
+	{
+		"enable"		"0"
+		"hammerid"		"466773"
+		"m_iname"		"lvl3_bridge2_fall4"
+	}
+	"466776"
+	{
+		"enable"		"0"
+		"hammerid"		"466776"
+		"m_iname"		"lvl3_bridge2_fall5"
+	}
+	"466779"
+	{
+		"enable"		"0"
+		"hammerid"		"466779"
+		"m_iname"		"lvl3_bridge2_fall6"
+	}
+	"466782"
+	{
+		"enable"		"0"
+		"hammerid"		"466782"
+		"m_iname"		"lvl3_bridge2_fall7"
+	}
+	"466785"
+	{
+		"enable"		"0"
+		"hammerid"		"466785"
+		"m_iname"		"lvl3_bridge2_fall8"
+	}
+	"466788"
+	{
+		"enable"		"0"
+		"hammerid"		"466788"
+		"m_iname"		"lvl3_bridge2_fall9"
+	}
+	"466791"
+	{
+		"enable"		"0"
+		"hammerid"		"466791"
+		"m_iname"		"lvl3_bridge2_fall10"
+	}
+	"466794"
+	{
+		"enable"		"0"
+		"hammerid"		"466794"
+		"m_iname"		"lvl3_bridge2_fall11"
+	}
+	"466797"
+	{
+		"enable"		"0"
+		"hammerid"		"466797"
+		"m_iname"		"lvl3_bridge2_fall12"
+	}
+	"466800"
+	{
+		"enable"		"0"
+		"hammerid"		"466800"
+		"m_iname"		"lvl3_bridge2_fall13"
+	}
+	"466803"
+	{
+		"enable"		"0"
+		"hammerid"		"466803"
+		"m_iname"		"lvl3_bridge2_fall14"
+	}
+	"466806"
+	{
+		"enable"		"0"
+		"hammerid"		"466806"
+		"m_iname"		"lvl3_bridge2_fall15"
+	}
+	"466809"
+	{
+		"enable"		"0"
+		"hammerid"		"466809"
+		"m_iname"		"lvl3_bridge2_fall17"
+	}
+	"466812"
+	{
+		"enable"		"0"
+		"hammerid"		"466812"
+		"m_iname"		"lvl3_bridge2_fall18"
+	}
+	"466815"
+	{
+		"enable"		"0"
+		"hammerid"		"466815"
+		"m_iname"		"lvl3_bridge2_fall"
+	}
+	"466818"
+	{
+		"enable"		"0"
+		"hammerid"		"466818"
+		"m_iname"		"lvl3_bridge2_fall"
+	}
+	"466821"
+	{
+		"enable"		"0"
+		"hammerid"		"466821"
+		"m_iname"		"lvl3_bridge2_fall"
+	}
+	"466824"
+	{
+		"enable"		"0"
+		"hammerid"		"466824"
+		"m_iname"		"lvl3_bridge2_fall"
+	}
+	"466827"
+	{
+		"enable"		"0"
+		"hammerid"		"466827"
+		"m_iname"		"lvl3_bridge2_fall"
+	}
+	"468550"
+	{
+		"enable"		"0"
+		"hammerid"		"468550"
+		"m_iname"		"lvl3_bridge1_fall18"
+	}
+	"468553"
+	{
+		"enable"		"0"
+		"hammerid"		"468553"
+		"m_iname"		"lvl3_bridge1_fall17"
+	}
+	"468556"
+	{
+		"enable"		"0"
+		"hammerid"		"468556"
+		"m_iname"		"lvl3_bridge1_fall"
+	}
+	"468559"
+	{
+		"enable"		"0"
+		"hammerid"		"468559"
+		"m_iname"		"lvl3_bridge1_fall15"
+	}
+	"468562"
+	{
+		"enable"		"0"
+		"hammerid"		"468562"
+		"m_iname"		"lvl3_bridge1_fall14"
+	}
+	"468565"
+	{
+		"enable"		"0"
+		"hammerid"		"468565"
+		"m_iname"		"lvl3_bridge1_fall"
+	}
+	"468568"
+	{
+		"enable"		"0"
+		"hammerid"		"468568"
+		"m_iname"		"lvl3_bridge1_fall13"
+	}
+	"468571"
+	{
+		"enable"		"0"
+		"hammerid"		"468571"
+		"m_iname"		"lvl3_bridge1_fall12"
+	}
+	"468574"
+	{
+		"enable"		"0"
+		"hammerid"		"468574"
+		"m_iname"		"lvl3_bridge1_fall11"
+	}
+	"468577"
+	{
+		"enable"		"0"
+		"hammerid"		"468577"
+		"m_iname"		"lvl3_bridge1_fall10"
+	}
+	"468580"
+	{
+		"enable"		"0"
+		"hammerid"		"468580"
+		"m_iname"		"lvl3_bridge1_fall1"
+	}
+	"468583"
+	{
+		"enable"		"0"
+		"hammerid"		"468583"
+		"m_iname"		"lvl3_bridge1_fall9"
+	}
+	"468586"
+	{
+		"enable"		"0"
+		"hammerid"		"468586"
+		"m_iname"		"lvl3_bridge1_fall8"
+	}
+	"468589"
+	{
+		"enable"		"0"
+		"hammerid"		"468589"
+		"m_iname"		"lvl3_bridge1_fall"
+	}
+	"468592"
+	{
+		"enable"		"0"
+		"hammerid"		"468592"
+		"m_iname"		"lvl3_bridge1_fall6"
+	}
+	"468595"
+	{
+		"enable"		"0"
+		"hammerid"		"468595"
+		"m_iname"		"lvl3_bridge1_fall"
+	}
+	"468598"
+	{
+		"enable"		"0"
+		"hammerid"		"468598"
+		"m_iname"		"lvl3_bridge1_fall5"
+	}
+	"468601"
+	{
+		"enable"		"0"
+		"hammerid"		"468601"
+		"m_iname"		"lvl3_bridge1_fall4"
+	}
+	"468604"
+	{
+		"enable"		"0"
+		"hammerid"		"468604"
+		"m_iname"		"lvl3_bridge1_fall"
+	}
+	"468607"
+	{
+		"enable"		"0"
+		"hammerid"		"468607"
+		"m_iname"		"lvl3_bridge1_fall2"
+	}
+	"433155"
+	{
+		"enable"		"0"
+		"hammerid"		"433155"
+		"m_iname"		"lvl3_icerock_air"
+	}
+	"588060"
+	{
+		"enable"		"0"
+		"hammerid"		"588060"
+		"m_iname"		"icedr_coagulation_box"
+	}
+	"1190135"
+	{
+		"enable"		"0"
+		"hammerid"		"1190135"
+		"m_iname"		"kirito_phys"
+	}
+	"1125916"
+	{
+		"enable"		"0"
+		"hammerid"		"1125916"
+		"m_iname"		"Troll_Phys"
+	}
+	"1047757"
+	{
+		"enable"		"1"
+		"hammerid"		"1047757"
+		"m_iname"		"bal_hitbox"
+	}
+	"1022010"
+	{
+		"enable"		"0"
+		"hammerid"		"1022010"
+		"m_iname"		"bal_phys"
+	}
+	"1090210"
+	{
+		"enable"		"0"
+		"hammerid"		"1090210"
+		"m_iname"		"lvl4_break2"
+	}
+	"1163438"
+	{
+		"enable"		"0"
+		"hammerid"		"1163438"
+		"m_iname"		"lvl4_laser_phy"
+	}
+	"975663"
+	{
+		"enable"		"0"
+		"hammerid"		"975663"
+		"m_iname"		"lvl4_road_phy1"
+	}
+	"975671"
+	{
+		"enable"		"0"
+		"hammerid"		"975671"
+		"m_iname"		"lvl4_road_phy1"
+	}
+	"975705"
+	{
+		"enable"		"0"
+		"hammerid"		"975705"
+		"m_iname"		"lvl4_road_phy1"
+	}
+	"975727"
+	{
+		"enable"		"0"
+		"hammerid"		"975727"
+		"m_iname"		"lvl4_pillar_1"
+	}
+	"976565"
+	{
+		"enable"		"0"
+		"hammerid"		"976565"
+		"m_iname"		"lvl4_pillar_2"
+	}
+	"976595"
+	{
+		"enable"		"0"
+		"hammerid"		"976595"
+		"m_iname"		"lvl4_road_phy2"
+	}
+	"975681"
+	{
+		"enable"		"0"
+		"hammerid"		"975681"
+		"m_iname"		"lvl4_road_phy1"
+	}
+	"975693"
+	{
+		"enable"		"0"
+		"hammerid"		"975693"
+		"m_iname"		"lvl4_road_phy1"
+	}
+	"976549"
+	{
+		"enable"		"0"
+		"hammerid"		"976549"
+		"m_iname"		"lvl4_road_phy2"
+	}
+	"976576"
+	{
+		"enable"		"0"
+		"hammerid"		"976576"
+		"m_iname"		"lvl4_road_phy2"
+	}
+	"976606"
+	{
+		"enable"		"0"
+		"hammerid"		"976606"
+		"m_iname"		"lvl4_road_phy2"
+	}
+	"976611"
+	{
+		"enable"		"0"
+		"hammerid"		"976611"
+		"m_iname"		"lvl4_road_phy2"
+	}
+	"977180"
+	{
+		"enable"		"0"
+		"hammerid"		"977180"
+		"m_iname"		"lvl4_phy3"
+	}
+	"926012"
+	{
+		"enable"		"0"
+		"hammerid"		"926012"
+		"m_iname"		"lvl4_break1"
+	}
+	"1072506"
+	{
+		"enable"		"0"
+		"hammerid"		"1072506"
+		"m_iname"		"bal_meteorite"
+	}
+	"1063662"
+	{
+		"enable"		"0"
+		"hammerid"		"1063662"
+		"m_iname"		"bal_shell"
+	}
+	"1063670"
+	{
+		"enable"		"0"
+		"hammerid"		"1063670"
+		"m_iname"		"bal_shell"
+	}
+	"1063678"
+	{
+		"enable"		"0"
+		"hammerid"		"1063678"
+		"m_iname"		"bal_shell"
+	}
+	"1063686"
+	{
+		"enable"		"0"
+		"hammerid"		"1063686"
+		"m_iname"		"bal_shell"
+	}
+	"1172667"
+	{
+		"enable"		"1"
+		"hammerid"		"1172667"
+		"m_iname"		"lvl4_boss2_hitbox"
+	}
+	"1967488"
+	{
+		"enable"		"1"
+		"hammerid"		"1967488"
+		"m_iname"		"stage5_boss"
+	}
+	"2070427"
+	{
+		"enable"		"0"
+		"hammerid"		"2070427"
+		"m_iname"		"lvl5_break_8"
+	}
+	"2044622"
+	{
+		"enable"		"1"
+		"hammerid"		"2044622"
+		"m_iname"		"lvl5_boss_hitbox"
+	}
+	"1796032"
+	{
+		"enable"		"0"
+		"hammerid"		"1796032"
+		"m_iname"		"lvl5_break_6"
+	}
+	"1796046"
+	{
+		"enable"		"0"
+		"hammerid"		"1796046"
+		"m_iname"		"lvl5_break_7"
+	}
+	"1773786"
+	{
+		"enable"		"0"
+		"hammerid"		"1773786"
+		"m_iname"		"lvl5_break_1"
+	}
+	"1786324"
+	{
+		"enable"		"0"
+		"hammerid"		"1786324"
+		"m_iname"		"lvl5_break_5"
+	}
+	"1774092"
+	{
+		"enable"		"0"
+		"hammerid"		"1774092"
+		"m_iname"		"lvl5_break_2"
+	}
+	"1740629"
+	{
+		"enable"		"0"
+		"hammerid"		"1740629"
+		"m_iname"		"lvl5_break_3"
+	}
+	"1967090"
+	{
+		"enable"		"0"
+		"hammerid"		"1967090"
+		"m_iname"		"castle_curse_phys"
+	}
+	"2056304"
+	{
+		"enable"		"0"
+		"hammerid"		"2056304"
+		"m_iname"		"guard_phybox&0904"
+	}
+	"2044359"
+	{
+		"enable"		"0"
+		"hammerid"		"2044359"
+		"m_iname"		"castle_grab_shield"
+	}
+	"2118527"
+	{
+		"enable"		"1"
+		"hammerid"		"2118527"
+		"m_iname"		"darklaser_hitbox_2"
+	}
+	"2118481"
+	{
+		"enable"		"1"
+		"hammerid"		"2118481"
+		"m_iname"		"darklaser_hitbox_1"
+	}
+	"2071215"
+	{
+		"enable"		"1"
+		"hammerid"		"2071215"
+		"m_iname"		"laserboss_phybox"
+	}
+	"2071285"
+	{
+		"enable"		"1"
+		"hammerid"		"2071285"
+		"m_iname"		"laserboss_nadebox"
+	}
+	"2071959"
+	{
+		"enable"		"1"
+		"hammerid"		"2071959"
+		"m_iname"		"finalboss_phybox"
+	}
+	"2143925"
+	{
+		"enable"		"0"
+		"hammerid"		"2143925"
+		"m_iname"		"earth_airwall&4443"
+	}
+	"2143950"
+	{
+		"enable"		"0"
+		"hammerid"		"2143950"
+		"m_iname"		"earth_airwall_2"
+	}
+	"2143002"
+	{
+		"enable"		"0"
+		"hammerid"		"2143002"
+		"m_iname"		"lvl5_break_9"
+	}
+	"2143215"
+	{
+		"enable"		"0"
+		"hammerid"		"2143215"
+		"m_iname"		"lvl5_break_9"
+	}
+	"2479014"
+	{
+		"enable"		"0"
+		"hammerid"		"2479014"
+		"m_iname"		"asuna_phys"
+	}
+	"2333942"
+	{
+		"enable"		"0"
+		"hammerid"		"2333942"
+		"m_iname"		"lvl5_break_11"
+	}
+	"2143172"
+	{
+		"enable"		"0"
+		"hammerid"		"2143172"
+		"m_iname"		"lvl5_break_11"
+	}
+	"2143178"
+	{
+		"enable"		"0"
+		"hammerid"		"2143178"
+		"m_iname"		"lvl5_break_10"
+	}
+	"2143750"
+	{
+		"enable"		"0"
+		"hammerid"		"2143750"
+		"m_iname"		"lvl5_break_10"
+	}
+	"2567700"
+	{
+		"enable"		"0"
+		"hammerid"		"2567700"
+		"m_iname"		"cry_egg"
+	}
+	"2580445"
+	{
+		"enable"		"0"
+		"hammerid"		"2580445"
+		"m_iname"		"crystal_phys"
+	}
+	"1708927"
+	{
+		"enable"		"0"
+		"hammerid"		"1708927"
+		"m_iname"		"crystal_phys"
+	}
+	"2554772"
+	{
+		"enable"		"0"
+		"hammerid"		"2554772"
+		"m_iname"		"lvl2_crystal"
+	}
+	"295315"
+	{
+		"enable"		"0"
+		"hammerid"		"295315"
+		"m_iname"		"lvl2_crystal"
+	}
+	"295330"
+	{
+		"enable"		"0"
+		"hammerid"		"295330"
+		"m_iname"		"lvl2_crystal"
+	}
+	"295355"
+	{
+		"enable"		"0"
+		"hammerid"		"295355"
+		"m_iname"		"lvl2_crystal"
+	}
+	"295376"
+	{
+		"enable"		"0"
+		"hammerid"		"295376"
+		"m_iname"		"lvl2_crystal"
+	}
+	"295397"
+	{
+		"enable"		"0"
+		"hammerid"		"295397"
+		"m_iname"		"lvl2_crystal"
+	}
+	"295408"
+	{
+		"enable"		"0"
+		"hammerid"		"295408"
+		"m_iname"		"lvl2_crystal"
+	}
+	"2321818"
+	{
+		"enable"		"0"
+		"hammerid"		"2321818"
+		"m_iname"		"debris_lv2"
+	}
+	"2321848"
+	{
+		"enable"		"0"
+		"hammerid"		"2321848"
+		"m_iname"		"debris_lv2"
+	}
+	"2321868"
+	{
+		"enable"		"0"
+		"hammerid"		"2321868"
+		"m_iname"		"debris_lv2"
+	}
+	"2817075"
+	{
+		"enable"		"0"
+		"hammerid"		"2817075"
+		"m_iname"		"castle_eye_phys"
+	}
+	"2817219"
+	{
+		"enable"		"0"
+		"hammerid"		"2817219"
+		"m_iname"		"castle_eye_phys_2"
+	}
+}

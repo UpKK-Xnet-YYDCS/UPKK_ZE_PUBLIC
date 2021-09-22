@@ -1,0 +1,51 @@
+"Console_T"
+{
+	"** Door opening in 15 sec. **"
+	{
+		"chi"		"**门将在15秒后开**"
+		"DoorCountDown"		"15"
+	}
+	"** Door opening in 15 sec **"
+	{
+		"chi"		"**门将在15秒后开**"
+	}
+	"**Elevator leaving in 30 sec **"
+	{
+		"chi"		"**电梯将在30秒后启动**"
+	}
+	"** Second door opening in 10 seconds **"
+	{
+		"chi"		"**第二扇门将在10秒后开**"
+		"DoorCountDown"		"10"
+	}
+	"** Boat leaving in 20 sec **"
+	{
+		"chi"		"**船将在20秒后离开**"
+		"DoorCountDown"		"20"
+	}
+	"** Door opening in 25 sec **"
+	{
+		"chi"		"**门将在25秒后打开**"
+	}
+	"** Door opening in 20 sec **"
+	{
+		"chi"		"**门将在20秒后打开**"
+		"DoorCountDown"		"20"
+	}
+	"** Final door opening in 50 sec!!! **"
+	{
+		"chi"		"**最终的大门将在50秒后打开！**"
+	}
+	"** Be ready! Zombies in bunker are coming!!! **"
+	{
+		"chi"		"**做好准备！燃料仓的僵尸要来了！**"
+	}
+	"**USE THE BUTTON IN THE CONTROL PANNEL!**"
+	{
+		"chi"		"**按下控制盘上的按钮！**"
+	}
+	"** Bridge will be destroyed after 30 sec .**"
+	{
+		"chi"		"**桥将在30秒后毁掉**"
+	}
+}

@@ -1,0 +1,591 @@
+"BOSSHP"
+{
+	"28657"
+	{
+		"enable"		"1"
+		"hammerid"		"28657"
+		"m_iname"		"lv2_boss_bridge"
+	}
+	"27896"
+	{
+		"enable"		"1"
+		"hammerid"		"27896"
+		"m_iname"		"lv2_boss_hpbar1"
+	}
+	"27913"
+	{
+		"enable"		"1"
+		"hammerid"		"27913"
+		"m_iname"		"lv2_boss_hpbar2"
+	}
+	"27918"
+	{
+		"enable"		"1"
+		"hammerid"		"27918"
+		"m_iname"		"lv2_boss_hpbar3"
+	}
+	"27926"
+	{
+		"enable"		"1"
+		"hammerid"		"27926"
+		"m_iname"		"lv2_boss_hpbar4"
+	}
+	"27934"
+	{
+		"enable"		"1"
+		"hammerid"		"27934"
+		"m_iname"		"lv2_boss_hpbar5"
+	}
+	"27942"
+	{
+		"enable"		"1"
+		"hammerid"		"27942"
+		"m_iname"		"lv2_boss_hpbar6"
+	}
+	"27950"
+	{
+		"enable"		"1"
+		"hammerid"		"27950"
+		"m_iname"		"lv2_boss_hpbar7"
+	}
+	"27964"
+	{
+		"enable"		"1"
+		"hammerid"		"27964"
+		"m_iname"		"lv2_boss_hpbar8"
+	}
+	"19905"
+	{
+		"enable"		"1"
+		"hammerid"		"19905"
+		"m_iname"		"lv2_defense_boss_health"
+	}
+	"13872"
+	{
+		"enable"		"0"
+		"hammerid"		"13872"
+		"m_iname"		"lv1_pillar"
+	}
+	"12924"
+	{
+		"enable"		"1"
+		"hammerid"		"12924"
+		"m_iname"		"lv1_boss_hp_break"
+	}
+	"22017"
+	{
+		"enable"		"1"
+		"hammerid"		"22017"
+		"m_iname"		"lv2_boss_break"
+	}
+	"26028"
+	{
+		"enable"		"1"
+		"hammerid"		"26028"
+		"m_iname"		"lv2_boss_zombie2"
+	}
+	"29861"
+	{
+		"enable"		"0"
+		"hammerid"		"29861"
+		"m_iname"		"lv2_final_break1"
+	}
+	"29533"
+	{
+		"enable"		"0"
+		"hammerid"		"29533"
+		"m_iname"		"lv2_final_break2"
+	}
+	"26015"
+	{
+		"enable"		"1"
+		"hammerid"		"26015"
+		"m_iname"		"lv2_boss_zombie1"
+	}
+	"33518"
+	{
+		"enable"		"0"
+		"hammerid"		"33518"
+		"m_iname"		"lv2_final_nolaser_break"
+	}
+	"73885"
+	{
+		"enable"		"0"
+		"hammerid"		"73885"
+		"m_iname"		"lv3_final_break"
+	}
+	"70989"
+	{
+		"enable"		"1"
+		"hammerid"		"70989"
+		"m_iname"		"lv3_boss_fail_break"
+	}
+	"661"
+	{
+		"enable"		"0"
+		"hammerid"		"661"
+		"m_iname"		"lv2_final_nolaser_break"
+	}
+	"803"
+	{
+		"enable"		"1"
+		"hammerid"		"803"
+		"m_iname"		"lv2_boss_bridge"
+	}
+	"1042"
+	{
+		"enable"		"1"
+		"hammerid"		"1042"
+		"m_iname"		"lv2_boss_hpbar1"
+	}
+	"1045"
+	{
+		"enable"		"1"
+		"hammerid"		"1045"
+		"m_iname"		"lv2_boss_hpbar2"
+	}
+	"1048"
+	{
+		"enable"		"1"
+		"hammerid"		"1048"
+		"m_iname"		"lv2_boss_hpbar3"
+	}
+	"1051"
+	{
+		"enable"		"1"
+		"hammerid"		"1051"
+		"m_iname"		"lv2_boss_hpbar4"
+	}
+	"1054"
+	{
+		"enable"		"1"
+		"hammerid"		"1054"
+		"m_iname"		"lv2_boss_hpbar5"
+	}
+	"1057"
+	{
+		"enable"		"1"
+		"hammerid"		"1057"
+		"m_iname"		"lv2_boss_hpbar6"
+	}
+	"1060"
+	{
+		"enable"		"1"
+		"hammerid"		"1060"
+		"m_iname"		"lv2_boss_hpbar7"
+	}
+	"1063"
+	{
+		"enable"		"1"
+		"hammerid"		"1063"
+		"m_iname"		"lv2_boss_hpbar8"
+	}
+	"1508"
+	{
+		"enable"		"1"
+		"hammerid"		"1508"
+		"m_iname"		"lv2_defense_boss_health"
+	}
+	"1805"
+	{
+		"enable"		"0"
+		"hammerid"		"1805"
+		"m_iname"		"lv1_pillar"
+	}
+	"3192"
+	{
+		"enable"		"0"
+		"hammerid"		"3192"
+		"m_iname"		"lv3_break_door_b"
+	}
+	"47661"
+	{
+		"enable"		"0"
+		"hammerid"		"47661"
+		"m_iname"		"lv3_notice_black"
+	}
+	"47651"
+	{
+		"enable"		"1"
+		"hammerid"		"47651"
+		"m_iname"		"lv3_notice_white"
+	}
+	"47512"
+	{
+		"enable"		"0"
+		"hammerid"		"47512"
+		"m_iname"		"lv3_d_break_hp"
+	}
+	"48652"
+	{
+		"enable"		"0"
+		"hammerid"		"48652"
+		"m_iname"		"lv3_d_f"
+	}
+	"66363"
+	{
+		"enable"		"1"
+		"hammerid"		"66363"
+		"m_iname"		"lv3_boss_break"
+	}
+	"66030"
+	{
+		"enable"		"1"
+		"hammerid"		"66030"
+		"m_iname"		"lv3_boss_s3_break"
+	}
+	"1861"
+	{
+		"enable"		"1"
+		"hammerid"		"1861"
+		"m_iname"		"lv1_boss_hp_break"
+	}
+	"1245"
+	{
+		"enable"		"1"
+		"hammerid"		"1245"
+		"m_iname"		"lv2_boss_break"
+	}
+	"1108"
+	{
+		"enable"		"1"
+		"hammerid"		"1108"
+		"m_iname"		"lv2_boss_zombie2"
+	}
+	"1105"
+	{
+		"enable"		"1"
+		"hammerid"		"1105"
+		"m_iname"		"lv2_boss_zombie1"
+	}
+	"976"
+	{
+		"enable"		"0"
+		"hammerid"		"976"
+		"m_iname"		"lv2_final_break1"
+	}
+	"911"
+	{
+		"enable"		"0"
+		"hammerid"		"911"
+		"m_iname"		"lv2_final_break2"
+	}
+	"206702"
+	{
+		"enable"		"-1"
+		"hammerid"		"206702"
+		"m_iname"		"lvl2_final_break"
+	}
+	"202747"
+	{
+		"enable"		"-1"
+		"hammerid"		"202747"
+		"m_iname"		"lvl2_final_wall"
+	}
+	"192668"
+	{
+		"enable"		"1"
+		"hammerid"		"192668"
+		"m_iname"		"lvl2_boss_hpbar1"
+	}
+	"192682"
+	{
+		"enable"		"1"
+		"hammerid"		"192682"
+		"m_iname"		"lvl2_boss_hpbar2"
+	}
+	"192690"
+	{
+		"enable"		"1"
+		"hammerid"		"192690"
+		"m_iname"		"lvl2_boss_hpbar3"
+	}
+	"192698"
+	{
+		"enable"		"1"
+		"hammerid"		"192698"
+		"m_iname"		"lvl2_boss_hpbar4"
+	}
+	"192706"
+	{
+		"enable"		"1"
+		"hammerid"		"192706"
+		"m_iname"		"lvl2_boss_hpbar5"
+	}
+	"192714"
+	{
+		"enable"		"1"
+		"hammerid"		"192714"
+		"m_iname"		"lvl2_boss_hpbar6"
+	}
+	"192722"
+	{
+		"enable"		"1"
+		"hammerid"		"192722"
+		"m_iname"		"lvl2_boss_hpbar7"
+	}
+	"192730"
+	{
+		"enable"		"1"
+		"hammerid"		"192730"
+		"m_iname"		"lvl2_boss_hpbar8"
+	}
+	"192738"
+	{
+		"enable"		"1"
+		"hammerid"		"192738"
+		"m_iname"		"lvl2_boss_hpbar9"
+	}
+	"192746"
+	{
+		"enable"		"1"
+		"hammerid"		"192746"
+		"m_iname"		"lvl2_boss_hpbar10"
+	}
+	"191092"
+	{
+		"enable"		"-1"
+		"hammerid"		"191092"
+		"m_iname"		"lvl2_plat"
+	}
+	"181290"
+	{
+		"enable"		"-1"
+		"hammerid"		"181290"
+		"m_iname"		"lvl2_zm_break"
+	}
+	"181334"
+	{
+		"enable"		"1"
+		"hammerid"		"181334"
+		"m_iname"		"lvl2_boss_protect_break"
+	}
+	"178932"
+	{
+		"enable"		"-1"
+		"hammerid"		"178932"
+		"m_iname"		"lvl2_break"
+	}
+	"177193"
+	{
+		"enable"		"-1"
+		"hammerid"		"177193"
+		"m_iname"		"lvl2_door3"
+	}
+	"168175"
+	{
+		"enable"		"-1"
+		"hammerid"		"168175"
+		"m_iname"		"lvl1_door11"
+	}
+	"168859"
+	{
+		"enable"		"-1"
+		"hammerid"		"168859"
+		"m_iname"		"lvl1_door12"
+	}
+	"169543"
+	{
+		"enable"		"-1"
+		"hammerid"		"169543"
+		"m_iname"		"lvl1_door1"
+	}
+	"136546"
+	{
+		"enable"		"-1"
+		"hammerid"		"136546"
+	}
+	"136596"
+	{
+		"enable"		"-1"
+		"hammerid"		"136596"
+	}
+	"136652"
+	{
+		"enable"		"-1"
+		"hammerid"		"136652"
+	}
+	"120900"
+	{
+		"enable"		"-1"
+		"hammerid"		"120900"
+	}
+	"131504"
+	{
+		"enable"		"-1"
+		"hammerid"		"131504"
+	}
+	"132293"
+	{
+		"enable"		"-1"
+		"hammerid"		"132293"
+	}
+	"93130"
+	{
+		"enable"		"-1"
+		"hammerid"		"93130"
+		"m_iname"		"lvl1_door5"
+	}
+	"93432"
+	{
+		"enable"		"-1"
+		"hammerid"		"93432"
+		"m_iname"		"lvl2_door1"
+	}
+	"93692"
+	{
+		"enable"		"-1"
+		"hammerid"		"93692"
+		"m_iname"		"lvl2_door1"
+	}
+	"93763"
+	{
+		"enable"		"-1"
+		"hammerid"		"93763"
+		"m_iname"		"lvl2_door2"
+	}
+	"89475"
+	{
+		"enable"		"-1"
+		"hammerid"		"89475"
+		"m_iname"		"lvl1_door10"
+	}
+	"72270"
+	{
+		"enable"		"-1"
+		"hammerid"		"72270"
+		"m_iname"		"lvl2_break"
+	}
+	"74099"
+	{
+		"enable"		"-1"
+		"hammerid"		"74099"
+		"m_iname"		"lvl2_break"
+	}
+	"60369"
+	{
+		"enable"		"-1"
+		"hammerid"		"60369"
+		"m_iname"		"lvl1_final_break"
+	}
+	"57532"
+	{
+		"enable"		"-1"
+		"hammerid"		"57532"
+		"m_iname"		"lvl1_door7"
+	}
+	"59037"
+	{
+		"enable"		"-1"
+		"hammerid"		"59037"
+		"m_iname"		"lvl1_door7"
+	}
+	"173618"
+	{
+		"enable"		"1"
+		"hammerid"		"173618"
+		"m_iname"		"lvl1_final_cube_hitbox"
+	}
+	"179552"
+	{
+		"enable"		"1"
+		"hammerid"		"179552"
+		"m_iname"		"lvl2_top_cube_hitbox"
+	}
+	"191200"
+	{
+		"enable"		"1"
+		"hammerid"		"191200"
+		"m_iname"		"lvl2_boss_hitbox"
+	}
+	"266726"
+	{
+		"enable"		"-1"
+		"hammerid"		"266726"
+		"m_iname"		"lvl3_ending_ladder"
+	}
+	"230071"
+	{
+		"enable"		"-1"
+		"hammerid"		"230071"
+		"m_iname"		"lvl3_mid_zm_break"
+	}
+	"225123"
+	{
+		"enable"		"-1"
+		"hammerid"		"225123"
+		"m_iname"		"lvl3_door8"
+	}
+	"222950"
+	{
+		"enable"		"1"
+		"hammerid"		"222950"
+		"m_iname"		"lvl3_door7_hitbox1"
+	}
+	"223138"
+	{
+		"enable"		"1"
+		"hammerid"		"223138"
+		"m_iname"		"lvl3_door7_hitbox2"
+	}
+	"210207"
+	{
+		"enable"		"-1"
+		"hammerid"		"210207"
+		"m_iname"		"lvl3_door1"
+	}
+	"212715"
+	{
+		"enable"		"-1"
+		"hammerid"		"212715"
+		"m_iname"		"lvl3_door3"
+	}
+	"212902"
+	{
+		"enable"		"-1"
+		"hammerid"		"212902"
+		"m_iname"		"lvl3_door3"
+	}
+	"145597"
+	{
+		"enable"		"-1"
+		"hammerid"		"145597"
+		"m_iname"		"lvl3_door1"
+	}
+	"141598"
+	{
+		"enable"		"-1"
+		"hammerid"		"141598"
+		"m_iname"		"lvl3_door6"
+	}
+	"143525"
+	{
+		"enable"		"-1"
+		"hammerid"		"143525"
+		"m_iname"		"lvl3_door6"
+	}
+	"143772"
+	{
+		"enable"		"-1"
+		"hammerid"		"143772"
+		"m_iname"		"lvl3_door7_2"
+	}
+	"144182"
+	{
+		"enable"		"-1"
+		"hammerid"		"144182"
+		"m_iname"		"lvl3_door7"
+	}
+	"230325"
+	{
+		"enable"		"1"
+		"hammerid"		"230325"
+		"m_iname"		"lvl3_mid_cube_hitbox"
+	}
+	"261274"
+	{
+		"enable"		"1"
+		"hammerid"		"261274"
+		"m_iname"		"lvl3_boss_hitbox"
+	}
+}

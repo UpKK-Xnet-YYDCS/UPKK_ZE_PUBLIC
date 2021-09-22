@@ -1,0 +1,327 @@
+"BOSSHP"
+{
+	"4736721"
+	{
+		"enable"		"0"
+		"hammerid"		"4736721"
+		"m_iname"		"secret_bird_item"
+	}
+	"4736716"
+	{
+		"enable"		"0"
+		"hammerid"		"4736716"
+		"m_iname"		"secret_cage_item"
+	}
+	"4736726"
+	{
+		"enable"		"0"
+		"hammerid"		"4736726"
+		"m_iname"		"secret_airship_item"
+	}
+	"4903952"
+	{
+		"enable"		"0"
+		"hammerid"		"4903952"
+		"m_iname"		"secret_vox_item"
+	}
+	"7943"
+	{
+		"enable"		"0"
+		"hammerid"		"7943"
+		"m_iname"		"siren_alley_cage"
+	}
+	"25476"
+	{
+		"enable"		"0"
+		"hammerid"		"25476"
+		"m_iname"		"bouncer_zombie_block"
+	}
+	"2535712"
+	{
+		"enable"		"0"
+		"hammerid"		"2535712"
+		"m_iname"		"spawn_big_daddy_wall"
+	}
+	"5197366"
+	{
+		"enable"		"0"
+		"hammerid"		"5197366"
+		"m_iname"		"perma_end_tunnel_4"
+	}
+	"5197415"
+	{
+		"enable"		"0"
+		"hammerid"		"5197415"
+		"m_iname"		"perma_end_tunnel_2"
+	}
+	"5197442"
+	{
+		"enable"		"0"
+		"hammerid"		"5197442"
+		"m_iname"		"perma_end_tunnel_1"
+	}
+	"5940323"
+	{
+		"enable"		"1"
+		"hammerid"		"5940323"
+		"m_iname"		"cutscene_welcome_boss_wall"
+	}
+	"6060866"
+	{
+		"enable"		"1"
+		"hammerid"		"6060866"
+		"m_iname"		"cutscene_welcome_boss_separator"
+	}
+	"6304055"
+	{
+		"enable"		"0"
+		"hammerid"		"6304055"
+		"m_iname"		"skybox_rapture_buildings"
+	}
+	"6988570"
+	{
+		"enable"		"0"
+		"hammerid"		"6988570"
+		"m_iname"		"skybox_rapture_buildings"
+	}
+	"6303992"
+	{
+		"enable"		"0"
+		"hammerid"		"6303992"
+		"m_iname"		"skybox_rapture_buildings"
+	}
+	"7073460"
+	{
+		"enable"		"1"
+		"hammerid"		"7073460"
+		"m_iname"		"fontaine_1_hitbox"
+	}
+	"8801688"
+	{
+		"enable"		"1"
+		"hammerid"		"8801688"
+		"m_iname"		"songbird_hitbox_head"
+	}
+	"9082874"
+	{
+		"enable"		"0"
+		"hammerid"		"9082874"
+		"m_iname"		"HARD_ONLY_ENTITY"
+	}
+	"9193483"
+	{
+		"enable"		"0"
+		"hammerid"		"9193483"
+		"m_iname"		"perma_end_tunnel_3"
+	}
+	"9369769"
+	{
+		"enable"		"0"
+		"hammerid"		"9369769"
+		"m_iname"		"hepahestus_wall"
+	}
+	"9478979"
+	{
+		"enable"		"0"
+		"hammerid"		"9478979"
+		"m_iname"		"skybox_rapture_buildings"
+	}
+	"9567074"
+	{
+		"enable"		"0"
+		"hammerid"		"9567074"
+		"m_iname"		"skybox_skysphere_bottom"
+	}
+	"2922"
+	{
+		"enable"		"0"
+		"hammerid"		"2922"
+		"m_iname"		"welcome_entrance_late_ladder_bl"
+	}
+	"7513844"
+	{
+		"enable"		"1"
+		"hammerid"		"7513844"
+		"m_iname"		"welcome_alt_boss_wall"
+	}
+	"5858415"
+	{
+		"enable"		"1"
+		"hammerid"		"5858415"
+		"m_iname"		"turret_machinegun_hitbox"
+	}
+	"5858318"
+	{
+		"enable"		"1"
+		"hammerid"		"5858318"
+		"m_iname"		"turret_flamethrower_hitbox"
+	}
+	"5691201"
+	{
+		"enable"		"0"
+		"hammerid"		"5691201"
+		"m_iname"		"bouncer_physbox"
+	}
+	"6060950"
+	{
+		"enable"		"0"
+		"hammerid"		"6060950"
+		"m_iname"		"bouncer_physbox_hp"
+	}
+	"5857169"
+	{
+		"enable"		"1"
+		"hammerid"		"5857169"
+		"m_iname"		"turret_rocket_hitbox"
+	}
+	"4162589"
+	{
+		"enable"		"0"
+		"hammerid"		"4162589"
+		"m_iname"		"frolic_zombie_cage"
+	}
+	"4162632"
+	{
+		"enable"		"0"
+		"hammerid"		"4162632"
+		"m_iname"		"frolic_cohen_stair_blocker"
+	}
+	"9304259"
+	{
+		"enable"		"0"
+		"hammerid"		"9304259"
+		"m_iname"		"frolic_alt_end_wall"
+	}
+	"2391178"
+	{
+		"enable"		"-1"
+		"hammerid"		"2391178"
+		"m_iname"		"EASY_ONLY_ENTITY"
+	}
+	"4032579"
+	{
+		"enable"		"-1"
+		"hammerid"		"4032579"
+		"m_iname"		"columbia_patriot_health"
+	}
+	"6000793"
+	{
+		"enable"		"-1"
+		"hammerid"		"6000793"
+		"m_iname"		"arcadia_exit_door"
+	}
+	"6692393"
+	{
+		"enable"		"1"
+		"hammerid"		"6692393"
+		"m_iname"		"hephaestus_boss_cage_door"
+	}
+	"7753547"
+	{
+		"enable"		"-1"
+		"hammerid"		"7753547"
+		"m_iname"		"EASY_ONLY_ENTITY"
+	}
+	"7927262"
+	{
+		"enable"		"-1"
+		"hammerid"		"7927262"
+		"m_iname"		"frolic_poseidon_block_stairs"
+	}
+	"8082390"
+	{
+		"enable"		"-1"
+		"hammerid"		"8082390"
+		"m_iname"		"welcome_alt_atrium_wall"
+	}
+	"8194752"
+	{
+		"enable"		"-1"
+		"hammerid"		"8194752"
+		"m_iname"		"arcadia_alt_wall"
+	}
+	"8609319"
+	{
+		"enable"		"1"
+		"hammerid"		"8609319"
+		"m_iname"		"columbia_alt_boss_exit_breakabl"
+	}
+	"8844631"
+	{
+		"enable"		"-1"
+		"hammerid"		"8844631"
+		"m_iname"		"columbia_alt_exit_breakable_cag"
+	}
+	"8910514"
+	{
+		"enable"		"1"
+		"hammerid"		"8910514"
+		"m_iname"		"columbia_lighthouse_hitbox"
+	}
+	"9676013"
+	{
+		"enable"		"-1"
+		"hammerid"		"9676013"
+		"m_iname"		"plasmid_gravity_physbox_1&0697"
+	}
+	"5318014"
+	{
+		"enable"		"-1"
+		"hammerid"		"5318014"
+		"m_iname"		"plasmid_upgrader_insect"
+	}
+	"10235857"
+	{
+		"enable"		"-1"
+		"hammerid"		"10235857"
+		"m_iname"		"plasmid_upgrader_gravity"
+	}
+	"10235740"
+	{
+		"enable"		"-1"
+		"hammerid"		"10235740"
+		"m_iname"		"plasmid_upgrader_incinerate"
+	}
+	"10235605"
+	{
+		"enable"		"-1"
+		"hammerid"		"10235605"
+		"m_iname"		"plasmid_upgrader_electro"
+	}
+	"10235788"
+	{
+		"enable"		"-1"
+		"hammerid"		"10235788"
+		"m_iname"		"plasmid_upgrader_cyclone"
+	}
+	"10235907"
+	{
+		"enable"		"-1"
+		"hammerid"		"10235907"
+		"m_iname"		"plasmid_upgrader_frost"
+	}
+	"9676032"
+	{
+		"enable"		"-1"
+		"hammerid"		"9676032"
+		"m_iname"		"plasmid_gravity_physbox_3"
+	}
+	"4201246"
+	{
+		"enable"		"1"
+		"hammerid"		"4201246"
+		"m_iname"		"cohen_hitbox"
+	}
+	"7072628"
+	{
+		"enable"		"-1"
+		"hammerid"		"7072628"
+		"m_iname"		"fontaine_2_breakable"
+	}
+	"9676029"
+	{
+		"enable"		"-1"
+		"hammerid"		"9676029"
+		"m_iname"		"plasmid_gravity_physbox_2&2230"
+	}
+}

@@ -1,0 +1,659 @@
+"BOSSHP"
+{
+	"stagephyswin"
+	{
+		"enable"		"0"
+	}
+	"bosss_hpg"
+	{
+		"enable"		"0"
+	}
+	"bosss_hpg1"
+	{
+		"enable"		"0"
+	}
+	"bosss_hpg2"
+	{
+		"enable"		"0"
+	}
+	"bosss_hpg3"
+	{
+		"enable"		"0"
+	}
+	"bosss_phys"
+	{
+		"enable"		"0"
+	}
+	"bosss_hp1"
+	{
+		"enable"		"0"
+	}
+	"bosss_phys1"
+	{
+		"enable"		"0"
+	}
+	"bosss_hp2"
+	{
+		"enable"		"0"
+	}
+	"bosss_phys2"
+	{
+		"enable"		"0"
+	}
+	"bosss_hp"
+	{
+		"enable"		"0"
+	}
+	"600"
+	{
+		"enable"		"0"
+		"hammerid"		"600"
+		"m_iname"		"npc_phys2g&5743"
+	}
+	"3218"
+	{
+		"enable"		"0"
+		"hammerid"		"3218"
+		"m_iname"		"npc_phys2gg&5743"
+	}
+	"237241"
+	{
+		"enable"		"0"
+		"hammerid"		"237241"
+		"m_iname"		"g_exbarrel"
+	}
+	"1827424"
+	{
+		"enable"		"0"
+		"hammerid"		"1827424"
+		"m_iname"		"boss_sb_wallbreak"
+	}
+	"1135370"
+	{
+		"enable"		"0"
+		"hammerid"		"1135370"
+		"m_iname"		"boss_sb_wallbreak"
+	}
+	"5528"
+	{
+		"enable"		"0"
+		"hammerid"		"5528"
+		"m_iname"		"npc_phys2g1&5745"
+	}
+	"5520"
+	{
+		"enable"		"0"
+		"hammerid"		"5520"
+		"m_iname"		"npc_phys2gg1&5745"
+	}
+	"6821"
+	{
+		"enable"		"0"
+		"hammerid"		"6821"
+		"m_iname"		"npc_phys2g2&5747"
+	}
+	"6813"
+	{
+		"enable"		"0"
+		"hammerid"		"6813"
+		"m_iname"		"npc_phys2gg2&5747"
+	}
+	"1617321"
+	{
+		"enable"		"0"
+		"hammerid"		"1617321"
+		"m_iname"		"truth_bosspathbreak"
+	}
+	"1515748"
+	{
+		"enable"		"0"
+		"hammerid"		"1515748"
+		"m_iname"		"fs_bosszcage1"
+	}
+	"183230"
+	{
+		"enable"		"0"
+		"hammerid"		"183230"
+		"m_iname"		"projectile_phys_1&3934"
+	}
+	"14151"
+	{
+		"enable"		"0"
+		"hammerid"		"14151"
+		"m_iname"		"npc_phys2g3&5748"
+	}
+	"14258"
+	{
+		"enable"		"0"
+		"hammerid"		"14258"
+		"m_iname"		"npc_phys2gg3&5748"
+	}
+	"12758"
+	{
+		"enable"		"0"
+		"hammerid"		"12758"
+		"m_iname"		"i_mm_phys&3864"
+	}
+	"2219326"
+	{
+		"enable"		"0"
+		"hammerid"		"2219326"
+		"m_iname"		"stagephyswin"
+	}
+	"1767907"
+	{
+		"enable"		"0"
+		"hammerid"		"1767907"
+		"m_iname"		"bosss_hpg"
+	}
+	"1736347"
+	{
+		"enable"		"0"
+		"hammerid"		"1736347"
+		"m_iname"		"bosss_hpg1"
+	}
+	"1736535"
+	{
+		"enable"		"0"
+		"hammerid"		"1736535"
+		"m_iname"		"bosss_hpg2"
+	}
+	"1736672"
+	{
+		"enable"		"0"
+		"hammerid"		"1736672"
+		"m_iname"		"bosss_hpg3"
+	}
+	"1596041"
+	{
+		"enable"		"0"
+		"hammerid"		"1596041"
+		"m_iname"		"bosss_phys"
+	}
+	"1597901"
+	{
+		"enable"		"1"
+		"hammerid"		"1597901"
+		"m_iname"		"bosss_hp1"
+	}
+	"1597907"
+	{
+		"enable"		"0"
+		"hammerid"		"1597907"
+		"m_iname"		"bosss_phys1"
+	}
+	"1598473"
+	{
+		"enable"		"1"
+		"hammerid"		"1598473"
+		"m_iname"		"bosss_hp2"
+	}
+	"1598479"
+	{
+		"enable"		"0"
+		"hammerid"		"1598479"
+		"m_iname"		"bosss_phys2"
+	}
+	"1524446"
+	{
+		"enable"		"1"
+		"hammerid"		"1524446"
+		"m_iname"		"bosss_hp"
+	}
+	"2308827"
+	{
+		"enable"		"0"
+		"hammerid"		"2308827"
+		"m_iname"		"truth_socrates44"
+	}
+	"2309418"
+	{
+		"enable"		"0"
+		"hammerid"		"2309418"
+		"m_iname"		"truth_bridgebreak_2"
+	}
+	"2309424"
+	{
+		"enable"		"0"
+		"hammerid"		"2309424"
+		"m_iname"		"truth_bridgebreak_3"
+	}
+	"2309428"
+	{
+		"enable"		"0"
+		"hammerid"		"2309428"
+		"m_iname"		"truth_bridgebreak_1"
+	}
+	"2244567"
+	{
+		"enable"		"0"
+		"hammerid"		"2244567"
+		"m_iname"		"luff_break"
+	}
+	"2218310"
+	{
+		"enable"		"0"
+		"hammerid"		"2218310"
+		"m_iname"		"sf_sled_bugsafe"
+	}
+	"2218816"
+	{
+		"enable"		"0"
+		"hammerid"		"2218816"
+		"m_iname"		"sf_ladderbreakup"
+	}
+	"2078131"
+	{
+		"enable"		"0"
+		"hammerid"		"2078131"
+		"m_iname"		"bb_breakbalance"
+	}
+	"1914560"
+	{
+		"enable"		"0"
+		"hammerid"		"1914560"
+		"m_iname"		"truth_socrates22"
+	}
+	"1368878"
+	{
+		"enable"		"0"
+		"hammerid"		"1368878"
+		"m_iname"		"tele_truthzbreak"
+	}
+	"74324"
+	{
+		"enable"		"0"
+		"hammerid"		"74324"
+		"m_iname"		"lionking_breakfirst"
+	}
+	"74407"
+	{
+		"enable"		"0"
+		"hammerid"		"74407"
+		"m_iname"		"lionking_breakfirst"
+	}
+	"74349"
+	{
+		"enable"		"0"
+		"hammerid"		"74349"
+		"m_iname"		"lionking_breaksecond"
+	}
+	"2182449"
+	{
+		"enable"		"0"
+		"hammerid"		"2182449"
+		"m_iname"		"lionking_mufasaskip"
+	}
+	"199260"
+	{
+		"enable"		"0"
+		"hammerid"		"199260"
+		"m_iname"		"bb_firstsnowbreak"
+	}
+	"205970"
+	{
+		"enable"		"0"
+		"hammerid"		"205970"
+		"m_iname"		"bb_firstsnowbreak"
+	}
+	"205977"
+	{
+		"enable"		"0"
+		"hammerid"		"205977"
+		"m_iname"		"bb_firstsnowbreak"
+	}
+	"135493"
+	{
+		"enable"		"0"
+		"hammerid"		"135493"
+		"m_iname"		"bb_wallvent_break"
+	}
+	"171312"
+	{
+		"enable"		"0"
+		"hammerid"		"171312"
+		"m_iname"		"bb_zombiecage"
+	}
+	"228681"
+	{
+		"enable"		"0"
+		"hammerid"		"228681"
+		"m_iname"		"bb_beaver_break"
+	}
+	"135697"
+	{
+		"enable"		"0"
+		"hammerid"		"135697"
+		"m_iname"		"bb_ceilingbreak_1"
+	}
+	"135677"
+	{
+		"enable"		"0"
+		"hammerid"		"135677"
+		"m_iname"		"bb_ceilingbreak_2"
+	}
+	"246770"
+	{
+		"enable"		"0"
+		"hammerid"		"246770"
+		"m_iname"		"i_beavercrate&4940"
+	}
+	"398261"
+	{
+		"enable"		"0"
+		"hammerid"		"398261"
+		"m_iname"		"sf_iwf_blocker_1"
+	}
+	"398268"
+	{
+		"enable"		"0"
+		"hammerid"		"398268"
+		"m_iname"		"sf_iwf_blocker_2"
+	}
+	"716790"
+	{
+		"enable"		"0"
+		"hammerid"		"716790"
+		"m_iname"		"sf_sledwindow_elev"
+	}
+	"716807"
+	{
+		"enable"		"0"
+		"hammerid"		"716807"
+		"m_iname"		"sf_sledwindow_hitler"
+	}
+	"651331"
+	{
+		"enable"		"0"
+		"hammerid"		"651331"
+		"m_iname"		"sf_sleighbreak"
+	}
+	"706345"
+	{
+		"enable"		"0"
+		"hammerid"		"706345"
+		"m_iname"		"sf_sleighbreak2"
+	}
+	"2245688"
+	{
+		"enable"		"0"
+		"hammerid"		"2245688"
+		"m_iname"		"sf_event_triggers"
+	}
+	"2122246"
+	{
+		"enable"		"0"
+		"hammerid"		"2122246"
+		"m_iname"		"sf_event_triggers"
+	}
+	"2122251"
+	{
+		"enable"		"0"
+		"hammerid"		"2122251"
+		"m_iname"		"sf_event_triggers"
+	}
+	"771384"
+	{
+		"enable"		"0"
+		"hammerid"		"771384"
+		"m_iname"		"sf_event_triggers"
+	}
+	"771416"
+	{
+		"enable"		"0"
+		"hammerid"		"771416"
+		"m_iname"		"sf_event_triggers"
+	}
+	"569416"
+	{
+		"enable"		"0"
+		"hammerid"		"569416"
+		"m_iname"		"sf_event_triggers"
+	}
+	"820336"
+	{
+		"enable"		"0"
+		"hammerid"		"820336"
+		"m_iname"		"sf_surfbreak"
+	}
+	"835199"
+	{
+		"enable"		"0"
+		"hammerid"		"835199"
+		"m_iname"		"sf_surfbreak2"
+	}
+	"681385"
+	{
+		"enable"		"0"
+		"hammerid"		"681385"
+		"m_iname"		"sf_blackbreak"
+	}
+	"709035"
+	{
+		"enable"		"0"
+		"hammerid"		"709035"
+		"m_iname"		"sf_elevatorbreak_1"
+	}
+	"709043"
+	{
+		"enable"		"0"
+		"hammerid"		"709043"
+		"m_iname"		"sf_elevatorbreak_3"
+	}
+	"690725"
+	{
+		"enable"		"0"
+		"hammerid"		"690725"
+		"m_iname"		"sf_facewall2"
+	}
+	"351302"
+	{
+		"enable"		"0"
+		"hammerid"		"351302"
+		"m_iname"		"sf_facewall_1"
+	}
+	"351550"
+	{
+		"enable"		"0"
+		"hammerid"		"351550"
+		"m_iname"		"sf_facewall_2"
+	}
+	"728172"
+	{
+		"enable"		"0"
+		"hammerid"		"728172"
+		"m_iname"		"sf_factorybreak"
+	}
+	"345402"
+	{
+		"enable"		"0"
+		"hammerid"		"345402"
+		"m_iname"		"sf_firstelevator_secondb"
+	}
+	"350797"
+	{
+		"enable"		"0"
+		"hammerid"		"350797"
+		"m_iname"		"sf_firstelevator_secondbb"
+	}
+	"422946"
+	{
+		"enable"		"0"
+		"hammerid"		"422946"
+		"m_iname"		"sf_gateface_break"
+	}
+	"609834"
+	{
+		"enable"		"0"
+		"hammerid"		"609834"
+		"m_iname"		"sf_gateface_breakice"
+	}
+	"1780431"
+	{
+		"enable"		"0"
+		"hammerid"		"1780431"
+		"m_iname"		"truth_socrates4"
+	}
+	"1780230"
+	{
+		"enable"		"0"
+		"hammerid"		"1780230"
+		"m_iname"		"truth_socrates5"
+	}
+	"1780500"
+	{
+		"enable"		"0"
+		"hammerid"		"1780500"
+		"m_iname"		"truth_socrates6"
+	}
+	"1275993"
+	{
+		"enable"		"0"
+		"hammerid"		"1275993"
+		"m_iname"		"fs_zazubreak"
+	}
+	"1436950"
+	{
+		"enable"		"0"
+		"hammerid"		"1436950"
+		"m_iname"		"truth_elevatorbreak"
+	}
+	"799448"
+	{
+		"enable"		"0"
+		"hammerid"		"799448"
+		"m_iname"		"truth_event_triggers"
+	}
+	"799455"
+	{
+		"enable"		"0"
+		"hammerid"		"799455"
+		"m_iname"		"truth_event_triggers"
+	}
+	"799468"
+	{
+		"enable"		"0"
+		"hammerid"		"799468"
+		"m_iname"		"truth_event_triggers"
+	}
+	"1779591"
+	{
+		"enable"		"0"
+		"hammerid"		"1779591"
+		"m_iname"		"truth_socrates1"
+	}
+	"1780293"
+	{
+		"enable"		"0"
+		"hammerid"		"1780293"
+		"m_iname"		"truth_socrates2"
+	}
+	"1690877"
+	{
+		"enable"		"0"
+		"hammerid"		"1690877"
+		"m_iname"		"fs_connect_elevatorbreak"
+	}
+	"1663782"
+	{
+		"enable"		"0"
+		"hammerid"		"1663782"
+		"m_iname"		"fs_connect_wallbreak"
+	}
+	"1691035"
+	{
+		"enable"		"0"
+		"hammerid"		"1691035"
+		"m_iname"		"fs_connect_windowbreak"
+	}
+	"1320841"
+	{
+		"enable"		"0"
+		"hammerid"		"1320841"
+		"m_iname"		"fs_firstelevator_break"
+	}
+	"1321113"
+	{
+		"enable"		"0"
+		"hammerid"		"1321113"
+		"m_iname"		"fs_lowerelevator_break"
+	}
+	"1788747"
+	{
+		"enable"		"0"
+		"hammerid"		"1788747"
+		"m_iname"		"fs_lowerelevator_break2"
+	}
+	"1702701"
+	{
+		"enable"		"0"
+		"hammerid"		"1702701"
+		"m_iname"		"fs_mexisled_break"
+	}
+	"1320676"
+	{
+		"enable"		"0"
+		"hammerid"		"1320676"
+		"m_iname"		"fs_outerbreak1"
+	}
+	"1663569"
+	{
+		"enable"		"0"
+		"hammerid"		"1663569"
+		"m_iname"		"fs_outerbreakgate"
+	}
+	"1690472"
+	{
+		"enable"		"0"
+		"hammerid"		"1690472"
+		"m_iname"		"fs_outerbreakgate2"
+	}
+	"1377350"
+	{
+		"enable"		"0"
+		"hammerid"		"1377350"
+		"m_iname"		"fs_trambreak"
+	}
+	"1780341"
+	{
+		"enable"		"0"
+		"hammerid"		"1780341"
+		"m_iname"		"truth_socrates3"
+	}
+	"779666"
+	{
+		"enable"		"-1"
+		"hammerid"		"779666"
+	}
+	"415800"
+	{
+		"enable"		"-1"
+		"hammerid"		"415800"
+	}
+	"55493"
+	{
+		"enable"		"-1"
+		"hammerid"		"55493"
+		"m_iname"		"stagephys"
+	}
+	"55518"
+	{
+		"enable"		"-1"
+		"hammerid"		"55518"
+		"m_iname"		"stagephys"
+	}
+	"55521"
+	{
+		"enable"		"-1"
+		"hammerid"		"55521"
+		"m_iname"		"stagephys"
+	}
+	"55524"
+	{
+		"enable"		"-1"
+		"hammerid"		"55524"
+		"m_iname"		"stagephys"
+	}
+}
+
+//

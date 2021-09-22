@@ -1,0 +1,211 @@
+"Console_T"
+{
+	"<< PORTALS ACTIVATE  IN 50 SEC>>"
+	{
+		"DoorCountdown"		"-1"
+	}
+	"<< PORTALS  ACTIVATE  IN 50 SEC>>"
+	{
+		"DoorCountdown"		"-1"
+	}
+	"<< WIND FORCE ITEM HAS BEEN PICKED UP>>"
+	{
+		"chi"		"**风之力被捡起了**"
+	}
+	"<< BOSS KILLED ALL HUMANS, SLAYING NOW!!!!!!! >>"
+	{
+		"chi"		"**BOSS杀死了所有在场的人类，现在处死所有人类!!!!!!!**"
+	}
+	"<<FOUNTAIN TP ENABLES IN  90 SEC>>"
+	{
+		"chi"		"**喷泉传送将在90秒后启用**"
+	}
+	"<<ZM TP ADVANCED>>"
+	{
+		"chi"		"** **"
+	}
+	"<<ZOMBIES TP IN 10 SECONDS>>"
+	{
+		"chi"		"**僵尸传送将在10秒后**"
+	}
+	"<< DOOR BREAKS IN  35 SEC>>"
+	{
+		"chi"		"**僵尸传送将在35秒后**"
+	}
+	"<< DOOR BREAKS IN  20 SEC>>"
+	{
+		"chi"		"**门在20秒后摧毁**"
+	}
+	"<<ZOMBIE TP ADVANCED>>"
+	{
+		"chi"		"** **"
+	}
+	"<<LOOKS LIKE WE NEED TO FIND A LEVER>>"
+	{
+		"chi"		"**看起来我们需要去寻找一个拉杆**"
+	}
+	"<<LEVER  HAS BEEN PULLED>>"
+	{
+		"chi"		"**拉杆被拉下了**"
+	}
+	"<<EXIT  WALL  IS BROKEN >>"
+	{
+		"chi"		"**出口的墙被摧毁了**"
+	}
+	"<<RUN TO THE ELEVATOR>>"
+	{
+		"chi"		"**跑上电梯**"
+	}
+	"<<RUN TO THE ELEVATOR >>"
+	{
+		"chi"		"**跑上电梯**"
+	}
+	"<<  WATER TELEPORT IS DISABLED>>"
+	{
+		"chi"		"** **"
+	}
+	"<< ELEVATOR  LEAVES IN 30 SECONDS>>"
+	{
+		"chi"		"**电梯将在30秒后离开**"
+	}
+	"<< PULL DOWN 4 LEVERS TO ACTIVATE JIBA NUKE>>"
+	{
+		"chi"		"**拉下四个拉杆来激活羁绊核弹**"
+	}
+	"<< DONT LET ZOMBIES GET OUT OF ELEVATOR AREA>>"
+	{
+		"chi"		"** **"
+	}
+	"<<JIBA NUKE INCOMING IN 10 SEC>>"
+	{
+		"chi"		"** **"
+	}
+	"<<INFERNUS BARRIER BREAKS IN 30 SECONDS>>"
+	{
+		"chi"		"**地狱屏障将在30秒后摧毁**"
+	}
+	"<<LOOKS LIKE THE BRIDGE IS MINED , FIND A LEVER TO DEACTIVATE BOMB >>"
+	{
+		"chi"		"**看起来桥被开采过了，寻找拉杆去关闭炸弹（请在炸弹被拆除后再过桥）**"
+	}
+	"<<SOME FOKER BLEW UP THE BRIDGE  AND GOT REKT>>"
+	{
+		"chi"		"**看起来有人炸毁了桥**"
+	}
+	"<<EMERGENCY PATH IS OPENING SOON , FIND A LEVER>>"
+	{
+		"chi"		"**紧急道路将在不久后打开，寻找一个拉杆**"
+	}
+	"<<LOOKS LIKE WE NEED TO FIND A LEVER, DONT LET ZOMBIES FIND IT FIRST>>"
+	{
+		"chi"		"**看起来我们需要去寻找一个拉杆，不要让僵尸先找到它**"
+	}
+	"<<HUMANS ACTIVATED A LEVER>>"
+	{
+		"chi"		"**人类激活了一个拉杆**"
+	}
+	"<<EXIT PATH OPENING SOON>>"
+	{
+		"chi"		"**出口的路将在不久后打开**"
+	}
+	"<< PULL DOWN 4 LEVERS TO ACTIVATE JIBA NUKE, DONT LET ZOMBIES TRIGGER IT FIRST>>"
+	{
+		"chi"		"**拉下四个拉杆来激活羁绊核弹，不要让僵尸先激活它**"
+	}
+	"<<JIBA NUKE INCOMING IN 30 SEC>>"
+	{
+		"chi"		"** **"
+	}
+	"<<GET TO A SAFE AREA>>"
+	{
+		"chi"		"**去到达安全的区域**"
+	}
+	"<<BOMB IS DEACTIVATED>>"
+	{
+		"chi"		"**炸弹失效了**"
+	}
+	"<<INFERNUS BARRIER BREAKS IN 30 SEC>>"
+	{
+		"chi"		"**地狱屏障将在30秒后摧毁**"
+	}
+	"<<PLATFORM SPAWNS IN 10 SEC>>"
+	{
+		"chi"		"**平台将在10秒后出现**"
+	}
+	"<<DOOR OPENS  IN 10 SEC>>"
+	{
+		"chi"		"**门将在10秒后打开**"
+	}
+	"<< HOLD! HOLD! HOLD!>>"
+	{
+		"chi"		"** **"
+	}
+	"<< TELEPORT ACTIVATES IN 30 SEC>>"
+	{
+		"chi"		"**传送将在30秒后激活**"
+	}
+	"<< HEAL STAFF HAS BEEN PICKED UP>>"
+	{
+		"chi"		"**治疗权杖被捡起**"
+	}
+	"<< BRIDGE SPAWNS IN 12 SECONDS >>"
+	{
+		"chi"		"**桥将在12秒后出现**"
+	}
+	"<<BRIDGE BREAKS IN 20 SECONDS>>"
+	{
+		"chi"		"**桥将在20秒后摧毁**"
+	}
+	"<<ZOMBIE BRIDGE >>"
+	{
+		"chi"		"**尸笼**"
+	}
+	"<<CRIMSON FIRE  >>"
+	{
+		"chi"		"**深红之火**"
+	}
+	"<<  TOWER BRIDGE OPENS SOON>>"
+	{
+		"chi"		"**塔楼的桥不就后打开**"
+	}
+	"<<ESCAPE TO THE SAFE ZONE>>"
+	{
+		"chi"		"**逃离到安全区域**"
+	}
+	"<<PULL 2 LEVERS TO OPEN THE GATE>>"
+	{
+		"chi"		"**拉下两个拉杆来打开大门**"
+	}
+	"<< ZOMBIE TP ENABLES IN 15 SEC >>"
+	{
+		"chi"		"**僵尸传送将在15秒后激活**"
+	}
+	"<< ZOMBIE TP ADVANCED >>"
+	{
+		"chi"		"** **"
+	}
+	"<<EXIT ROCK WALL BREAKS IN 30 SEC>>"
+	{
+		"chi"		"**出口的岩石墙将在30秒后摧毁**"
+	}
+	"<<GLASS TELEPORT ENABLES IN 10 SEC>>"
+	{
+		"chi"		"** **"
+	}
+	"<<JIBA NUKE INCOMING IN 30 SEC >>"
+	{
+		"chi"		"** **"
+	}
+	"<<GRAND  CHARIOT>>"
+	{
+		"chi"		"**守护破坏神**"
+	}
+	"<<MATENDOU>>"
+	{
+		"chi"		"** **"
+	}
+	"<<MATENDOU >>"
+	{
+		"chi"		"** **"
+	}
+}

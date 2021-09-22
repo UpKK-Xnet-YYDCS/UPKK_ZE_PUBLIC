@@ -1,0 +1,149 @@
+"Console_T"
+{
+	"<< A player has picked up earth magic >>"
+	{
+		"chi"		"** **"
+	}
+	"<< A player has picked up fire magic >>"
+	{
+		"chi"		"** **"
+	}
+	"<< A player has picked up wind magic >>"
+	{
+		"chi"		"** **"
+	}
+	"<< A player has picked up water magic >>"
+	{
+		"chi"		"** **"
+	}
+	"<< A player has picked up fantasy crystal >>"
+	{
+		"chi"		"** **"
+	}
+	"<< A player has picked up heal magic >>"
+	{
+		"chi"		"** **"
+	}
+	"<< A zombie has picked up heal magic >>"
+	{
+		"chi"		"** **"
+	}
+	"<< A player has picked up holy magic >>"
+	{
+		"chi"		"** **"
+	}
+	"<< Pure Fury >>"
+	{
+		"chi"		">>>纯粹之怒（尸笼）<<<"
+	}
+	"<< Rotating Blade >>"
+	{
+		"chi"		">>>旋转之刃<<<"
+	}
+	"<< Ominous Wind >>"
+	{
+		"chi"		">>>妖风（随机方向推力）<<<"
+		"DoorCountdown"		"3"
+	}
+	"<< Creation Shield >>"
+	{
+		"chi"		">>>创世之盾（反伤停枪）<<<"
+		"DoorCountdown"		"3"
+	}
+	"<< Demon Cage >>"
+	{
+		"chi"		">>>恶魔牢笼<<<"
+	}
+	"<< Flash Cannon >>"
+	{
+		"chi"		">>>光栅轨道炮<<<"
+	}
+	"<< A zombie has picked up gravity magic >>"
+	{
+		"chi"		"** **"
+	}
+	"<< Tri Crystal >>"
+	{
+		"chi"		">>>三重水晶（打碎水晶后根据水晶颜色躲避技能）<<<"
+	}
+	"<< Fallen Sky >>"
+	{
+		"chi"		">>>天坠<<<"
+	}
+	"<< Sinister Omen >>"
+	{
+		"chi"		">>>不祥之兆（站在边缘）<<<"
+		"DoorCountdown"		"3"
+	}
+	"<< Pressure >>"
+	{
+		"chi"		">>>压力（蹲下）<<<"
+		"DoorCountdown"		"3"
+	}
+	"<< This is not the end...... >>"
+	{
+		"chi"		"** **"
+	}
+	"<< It seems that something is awakening >>"
+	{
+		"chi"		"** **"
+	}
+	"<< Keep your fantasy in your mind !!! >>"
+	{
+		"chi"		"** **"
+	}
+	"<< GOOD LUCK !!! >>"
+	{
+		"chi"		"** **"
+	}
+	"<< defeat the boss in 130 seconds >>"
+	{
+		"chi"		"** **"
+	}
+	"<< Tornado Blade >>"
+	{
+		"chi"		">>>旋风之刃<<<"
+	}
+	"<< Mirror Coat >>"
+	{
+		"chi"		">>>镜子大衣（反伤停枪，先打四周水晶）<<<"
+		"DoorCountdown"		"3"
+	}
+	"sync_version"
+	{
+		"syncvalue"		"94048"
+	}
+	"<< Earth Power >>"
+	{
+		"chi"		">>>大地之力（站到上升的平台上）<<<"
+		"DoorCountdown"		"3"
+	}
+	"<< Aurora Veil >>"
+	{
+		"chi"		">>>极光幕<<<"
+	}
+	"<< TIPS: Shooting 8 buttons >>"
+	{
+		"chi"		"** **"
+	}
+	"<< A zombie has picked up Doom Desire >>"
+	{
+		"chi"		"** **"
+	}
+	"<< A zombie has picked up killer magic >>"
+	{
+		"chi"		"** **"
+	}
+	"<< zombie can move in 8 seconds >>"
+	{
+		"chi"		"** **"
+	}
+	"<< The Contest will continue for 10 days, it will end at 27th Oct >>"
+	{
+		"chi"		"** **"
+	}
+	"The se"
+	{
+		"chi"		"** **"
+	}
+}

@@ -1,0 +1,596 @@
+"Console_T"
+{
+	">>> Map created by Moray <<<"
+	{
+		"chi"		"**地图制作：Moray 汉化：一只恶意卖萌的夕雨**"
+	}
+	">>> AFK TELEPORT IN 10 SECONDS <<<"
+	{
+		"chi"		"**挂机玩家10秒后传送**"
+		"DoorCountDown"		"-1"
+	}
+	">>> AFK TELEPORT IN 5 SECONDS <<<"
+	{
+		"chi"		"**挂机玩家5秒后传送**"
+		"DoorCountDown"		"-1"
+	}
+	">>> TELEPORTER ACTIVATE IN 20 SECONDS <<<"
+	{
+		"chi"		"**传送点在20秒后激活**"
+		"DoorCountDown"		"-1"
+	}
+	">>> DRAGON USED WATER. GO FOWARD <<<"
+	{
+		"chi"		"**巨龙施放了浊液喷射，快往前跑！**"
+		"DoorCountDown"		"4"
+	}
+	">>> DRAGON USED FIRE. GO SIDE <<<"
+	{
+		"chi"		"**巨龙施放了焚烧烈焰，迅速往两边躲闪！**"
+		"DoorCountDown"		"4"
+	}
+	">>> DRAGON IS COMING AGAIN <<<"
+	{
+		"chi"		"**前面那是...巨龙又回来了！把它打回到天上去！**"
+	}
+	"**Jetstream Sam has been defeated!**"
+	{
+		"chi"		"**Jetstream Sam被击败！**"
+	}
+	">>> BREAK STATUE TO GET ITEM <<<"
+	{
+		"chi"		">>>打碎雕像从而获得神器<<<"
+	}
+	">>> NOOB TRASHED <<<"
+	{
+		"chi"		">>>Enemy down~<<<"
+	}
+	">>> BALROG USED SHIELD. DONT USE ITEMS <<<"
+	{
+		"chi"		"**炎魔施放了魔力吸收，别使用你的神器，否则它将用我们的力量制造出可怕的黑洞**"
+		"DoorCountDown"		"4"
+	}
+	">>> HOLD 45 SECONDS <<<"
+	{
+		"chi"		"**坚守45秒**"
+	}
+	">>> SHOOT GARGANTUA <<<"
+	{
+		"chi"		"**我们不是已经击杀了它吗！没时间思考了快开火！那就再让它死一次！**"
+	}
+	">>> ALL ZM ITEMS IS LOCKED <<<"
+	{
+		"chi"		"**所有僵尸神器已被封锁，安心跳刀吧伙计**"
+	}
+	">>> WARMUP ROUND 30 SECONDS REMAINING <<<"
+	{
+		"chi"		"**热身还有30秒**"
+	}
+	">>> WARMUP ROUND 20 SECONDS REMAINING <<<"
+	{
+		"chi"		"**热身还有20秒**"
+	}
+	">>> WARMUP ROUND 10 SECONDS REMAINING <<<"
+	{
+		"chi"		"**热身还有10秒**"
+	}
+	">>> WARMUP ROUND END <<<"
+	{
+		"chi"		"**热身结束**"
+	}
+	">>> STAGE 1 <<<"
+	{
+		"chi"		"**第一关**"
+	}
+	">>> ENTRANCE DOOR OPENING <<<"
+	{
+		"chi"		"**入口大门开启中**"
+	}
+	">>> HOLD 25 SECONDS <<<"
+	{
+		"chi"		"**坚守25秒直至左方大门打开**"
+	}
+	">>> HOLD 20 SECONDS <<<"
+	{
+		"chi"		"**坚守20秒**"
+	}
+	">>> PLAYER HAS PICKED UP PUSH <<<"
+	{
+		"chi"		"**一名玩家玩家拾取了飓风权杖**"
+	}
+	">>> HOLD 10 SECONDS <<<"
+	{
+		"chi"		"**坚守10秒**"
+		"DoorCountDown"		"10"
+	}
+	">>> HOLD 5 SECONDS <<<"
+	{
+		"chi"		"**坚守5秒**"
+		"DoorCountDown"		"5"
+	}
+	">>> PLAYER HAS PICKED UP HEAL <<<"
+	{
+		"chi"		"**一名玩家拾取了治疗权杖**"
+	}
+	">>> HOLD 15 SECONDS <<<"
+	{
+		"chi"		"**坚守15秒**"
+	}
+	">>> SPIDER IS COMING <<<"
+	{
+		"chi"		"**毒蛛出现在了倒塌的书架上**"
+	}
+	">>> DOOR CLOSING <<<"
+	{
+		"chi"		"**大门关闭**"
+	}
+	">>> SPIDER USED POISON. HURRY <<<"
+	{
+		"chi"		"**毒蛛施放了致命的毒液，在我们全部丧失知觉之前快解决掉它！**"
+	}
+	">>> LEVEL COMPLETED <<<"
+	{
+		"chi"		"**关卡完成**"
+	}
+	">>> STAGE 2 <<<"
+	{
+		"chi"		"**第二关**"
+	}
+	">>> GO RIGHT <<<"
+	{
+		"chi"		"**跑向右边铁门**"
+	}
+	">>> PLAYER HAS PICKED UP ICE <<<"
+	{
+		"chi"		"**一名玩家拾取了急冻权杖**"
+	}
+	">>> WARMUP ROUND 40 SECONDS REMAINING <<<"
+	{
+		"chi"		"**热身还有40秒**"
+	}
+	">>> PLAYER HAS PICKED UP FIRE <<<"
+	{
+		"chi"		"**一名玩家拾取了烈焰权杖**"
+	}
+	">>> PLAYER HAS PICKED UP ZOMBIE HEAL <<<"
+	{
+		"chi"		"**一名僵尸学会了巫蛊回复**"
+	}
+	">>> SPIDER IS DEAD <<<"
+	{
+		"chi"		"**呼...还好没有太迟，现在撤往右边的大门**"
+	}
+	">>> PLAYER HAS PICKED UP ZOMBIE FIRE <<<"
+	{
+		"chi"		"**一名僵尸学会了引燃**"
+	}
+	">>> PLAYER HAS PICKED UP LIGHTNING <<<"
+	{
+		"chi"		"**一名玩家拾取了闪电权杖**"
+	}
+	">>> PLAYER HAS PICKED UP AMMO <<<"
+	{
+		"chi"		"**一名玩家拾取了补给权杖**"
+	}
+	">>> PLAYER HAS PICKED UP ZOMBIE POISON <<<"
+	{
+		"chi"		"**一名僵尸学会了腐蚀剧毒**"
+	}
+	">>> TROLL IS COMING <<<"
+	{
+		"chi"		"**那是一只来意不善的食人魔！**"
+	}
+	">>> TROLL IS DEAD <<<"
+	{
+		"chi"		"**我们击败了这只食人魔**"
+	}
+	">>> ITS DRAGON <<<"
+	{
+		"chi"		"**那只巨龙挡住了我们的去路！我们得尝试击退它！**"
+	}
+	">>> DRAGON IS HURT <<<"
+	{
+		"chi"		"**巨龙负伤逃离了**"
+	}
+	">>> STAGE 3 <<<"
+	{
+		"chi"		"**第三关**"
+	}
+	">>> HOLD 30 SECONDS <<<"
+	{
+		"chi"		"**坚守30秒**"
+	}
+	">>> PLAYER HAS PICKED UP ZOMBIE DRAG <<<"
+	{
+		"chi"		"**一名僵尸学会了视线扰乱**"
+	}
+	">>> PLAYER HAS PICKED UP KILLER <<<"
+	{
+		"chi"		"**一名玩家拾取了灭杀权杖**"
+	}
+	">>> DRAGON IS COMING <<<"
+	{
+		"chi"		"**我们找的就是这只巨龙！击败它！**"
+	}
+	">>> DRAGON USED GRAVITY <<<"
+	{
+		"chi"		"**5---巨龙施放了重力攫取，抵抗它的吸力别被吸进它脚下的火场里了！**"
+	}
+	">>> GATE OPENING IN 5 SECONDS <<<"
+	{
+		"chi"		"**大门5秒后开启**"
+	}
+	">>> HOLD 35 SECONDS <<<"
+	{
+		"chi"		"**坚守35秒**"
+	}
+	">>> 5 SECONDS REMAINING. DONT DELAY <<<"
+	{
+		"chi"		"**还有5秒，别被落下了！**"
+	}
+	">>> RUN <<<"
+	{
+		"chi"		"**快跑！**"
+	}
+	">>> GARGANTUA IS COMING. KEEP RUNNING <<<"
+	{
+		"chi"		"**巨人正在步步紧逼！千万别停下脚步！快跑！**"
+	}
+	">>> PLAYER HAS PICKED UP HEDGE <<<"
+	{
+		"chi"		"**一名玩家拾取了树篱权杖**"
+	}
+	">>> FAIL ROUND <<<"
+	{
+		"chi"		"**回合失败**"
+	}
+	">>> DRAGON USED POISON <<<"
+	{
+		"chi"		"**5---巨龙施放了腐蚀剧毒**"
+	}
+	">>> DRAGON IS HURT. GET TO THE TELEPORTER <<<"
+	{
+		"chi"		"**巨龙负伤逃离了！快跑进传送点进行最后的防守！**"
+	}
+	">>> TELEPORTER ACTIVATE IN 10 SECONDS <<<"
+	{
+		"chi"		"**传送点10秒后激活**"
+	}
+	">>> STAGE 4 <<<"
+	{
+		"chi"		"**第四关**"
+	}
+	">>> GARGANTUA IS COMING <<<"
+	{
+		"chi"		"**那是巨人！这次我们一定要在这击败它！**"
+	}
+	">>> GARGANTUA USED KILLER. GO SIDE <<<"
+	{
+		"chi"		"**5---巨人施放了灭杀法阵！快跑向法阵无法影响到的广场边缘！**"
+	}
+	">>> GARGANTUA USED PUSH <<<"
+	{
+		"chi"		"**5---巨人施放了灼热龙卷！小心点别踏进广场边缘的凶猛火场里了！**"
+	}
+	">>> GARGANTUA USED POISON <<<"
+	{
+		"chi"		"**5---巨人施放了腐蚀剧毒！小心堆积在广场边缘的致命毒素！**"
+	}
+	">>> GARGANTUA USED FIRE <<<"
+	{
+		"chi"		"**5---巨人施放了焚烧烈焰！远离它！**"
+	}
+	">>> GARGANTUA USED ICE <<<"
+	{
+		"chi"		"**5---巨人施放了凛冽寒冰！**"
+	}
+	">>> PLAYER HAS PICKED UP ZOMBIE GRAVITY <<<"
+	{
+		"chi"		"**一名僵尸学会了重力攫取**"
+	}
+	">>> GARGANTUA IS DEAD <<<"
+	{
+		"chi"		"**它应该不会再站起来了...我们走吧**"
+	}
+	">>> GATE OPENING IN 10 SECONDS <<<"
+	{
+		"chi"		"**大门10秒后开启**"
+	}
+	">>> HOLD 40 SECONDS <<<"
+	{
+		"chi"		"**坚守40秒**"
+	}
+	">>> PLAYER HAS PICKED UP ZOMBIE INVISIBLE <<<"
+	{
+		"chi"		"**一名僵尸学会了幽灵行走**"
+	}
+	">>> HOLD 15 SECONDS<<<"
+	{
+		"chi"		"**坚守15秒直至我们把大桥炸毁**"
+	}
+	">>> BRIDGE IS BROKEN <<<"
+	{
+		"chi"		"**桥断了**"
+	}
+	">>> ITS BALROG <<<"
+	{
+		"chi"		"**那只炎魔就是暴君么？小心！**"
+	}
+	">>> BALROG IS ESCAPED <<<"
+	{
+		"chi"		"**它跑了！！！**"
+	}
+	">>> STAGE 5 <<<"
+	{
+		"chi"		"**第五关**"
+	}
+	">>> PLAYER HAS PICKED UP ZOMBIE KILLER <<<"
+	{
+		"chi"		"**一名僵尸学会了最终灭杀**"
+	}
+	">>> PLAYER HAS PICKED UP GRAVITY <<<"
+	{
+		"chi"		"**一名玩家拾取了重力权杖**"
+	}
+	">>> BALROG IS COMING <<<"
+	{
+		"chi"		">>>那只炎魔就是最后的暴君了！就让它终结在此吧！<<<"
+	}
+	">>> BALROG IS HURT <<<"
+	{
+		"chi"		"**炎魔负伤逃离了！我们得追上去！**"
+	}
+	">>> TELEPORTING ... <<<"
+	{
+		"chi"		"**传送中… **"
+	}
+	">>> DRAGON IS DEAD. KEEP RUNNING <<<"
+	{
+		"chi"		"**巨龙倒下了.继续前进！**"
+	}
+	">>> BALROG IS BACK <<<"
+	{
+		"chi"		"**这次你再也跑不掉了！**"
+	}
+	">>> BALROG IS DEAD <<<"
+	{
+		"chi"		"**我们击倒了暴君！欢呼胜利吧！**"
+	}
+	">>> BALROG USED FIRE <<<"
+	{
+		"chi"		">>>5---炎魔释放了焚烧烈焰，往没有被点燃的那个半场跑！<<<"
+		"DoorCountDown"		"5"
+	}
+	">>> BALROG USED GRAVITY <<<"
+	{
+		"chi"		">>>5---炎魔施放了重力攫取，抵抗它的吸力！<<<"
+		"DoorCountDown"		"5"
+	}
+	">>> BALROG USED POISON <<<"
+	{
+		"chi"		">>>5---炎魔施放了腐蚀剧毒，左右躲开致命的毒云！<<<"
+	}
+	">>> BALROG USED PUSH <<<"
+	{
+		"chi"		">>>5---炎魔施放了呼啸狂风，小心点别被推下平台了！<<<"
+		"DoorCountDown"		"5"
+	}
+	">>> ADMIN CHANGED TO STAGE 5 <<<"
+	{
+		"chi"		"**管理员将关卡调至第五关**"
+	}
+	">>> Map by Moray <<<"
+	{
+		"chi"		"**地图由Moray制作，一只恶意卖萌的夕雨负责汉化**"
+	}
+	">>> Thanks to nano (Help & Ideas) <<<"
+	{
+		"chi"		"**感谢nano提供的帮助和创意**"
+	}
+	">>> SPIDER USED POISON <<<"
+	{
+		"chi"		"**毒蛛施放了致命的毒液，在我们全部丧失知觉之前快解决掉它！**"
+	}
+	">>> SPIDER IS DEFEATED <<<"
+	{
+		"chi"		"**呼...还好没有太迟，现在撤往右边的大门**"
+	}
+	">>> STAGE 1 COMPLETED <<<"
+	{
+		"chi"		"**第一关完成**"
+	}
+	">>> TROLL IS DEFEATED <<<"
+	{
+		"chi"		"**我们击败了这只食人魔！**"
+	}
+	">>> ADMIN CHANGED TO STAGE 3 <<<"
+	{
+		"chi"		"**管理员将关卡调至第三关**"
+	}
+	">>> ADMIN PRESSED KILL ALL BUTTON <<<"
+	{
+		"chi"		"**管理员按下了杀死所有人按钮**"
+	}
+	">>> PLAYER HAS PICKED UP ZOMBIE DRUG <<<"
+	{
+		"chi"		"**一名僵尸学会了视线扰乱**"
+	}
+	">>> DRAGON USED PUSH <<<"
+	{
+		"chi"		"**5---巨龙施放了呼啸狂风,站中间！**"
+	}
+	">>> DRAGON USED FIRE <<<"
+	{
+		"chi"		"**5---巨龙施放了焚烧烈焰，去两边躲避**"
+	}
+	">>> DRAGON USED WATER <<<"
+	{
+		"chi"		"**5---巨龙施放了浊液喷射！**"
+	}
+	">>> DRAGON IS DEFEATED <<<"
+	{
+		"chi"		"**我们击败了巨龙！现在撤离这里！**"
+	}
+	">>> GARGANTUA IS COMING KEEP RUNNING <<<"
+	{
+		"chi"		"**巨人正在步步紧逼！千万别停下脚步！快跑！**"
+	}
+	">>> SHOOT DRAGON <<<"
+	{
+		"chi"		"**前面那是...巨龙又回来了！把它打回到天上去！**"
+	}
+	">>> STAGE 3 COMPLETED <<<"
+	{
+		"chi"		"**第三关完成**"
+	}
+	">>> GARGANTUA IS DEFEATED <<<"
+	{
+		"chi"		"**它应该不会再站起来了...我们走吧**"
+	}
+	">>> ALL ZM ITEMS IS DISABLED <<<"
+	{
+		"chi"		"**所有僵尸神器已被锁定**"
+	}
+	">>> STAGE 4 COMPLETED <<<"
+	{
+		"chi"		"**第四关完成**"
+	}
+	">>> AFK TELEPORT IN 3 SECONDS <<<"
+	{
+		"chi"		"**挂机玩家3秒后传送**"
+		"DoorCountDown"		"-1"
+	}
+	">>> BALROG USE LASER <<<"
+	{
+		"chi"		"**5---保持蹲下别被削掉脑袋了！小心炎魔挥出的二连死亡切割！**"
+		"DoorCountDown"		"5"
+	}
+	">>> BALROG USED HEAL <<<"
+	{
+		"chi"		"**5---炎魔施放了了回复**"
+	}
+	">>> BALROG USED KILLER <<<"
+	{
+		"chi"		">>>5---炎魔布下了灭杀大阵，往后跑出法阵的范围！<<<"
+	}
+	">>> BALROG USED SHIELD <<<"
+	{
+		"chi"		">>>5---炎魔施放了护盾吸收,免疫神器二十秒且免疫子弹五秒<<<"
+	}
+	">>> BALROG IS DEFEATED <<<"
+	{
+		"chi"		"**我们击败了炎魔！**"
+	}
+	">>> DRAGON IS DEFEATED KEEP RUNNING <<<"
+	{
+		"chi"		"**巨龙倒下了！继续前进！**"
+	}
+	">>> STAGE 5 COMPLETED <<<"
+	{
+		"chi"		"**第五关完成**"
+	}
+	">>> STAGE 6 <<<"
+	{
+		"chi"		"**第六关（ZM模式）**"
+	}
+	">>> SURVIVE 4 MINUTES <<<"
+	{
+		"chi"		"**想尽办法在4分钟内活下来**"
+		"DoorCountDown"		"-1"
+	}
+	">>> 3 MINUTES LEFT <<<"
+	{
+		"chi"		"**还有3分钟**"
+		"DoorCountDown"		"-1"
+	}
+	">>> 2 MINUTES LEFT <<<"
+	{
+		"chi"		">>>还有2分钟<<<"
+		"DoorCountDown"		"-1"
+	}
+	">>> 1 MINUTES LEFT <<<"
+	{
+		"chi"		"**最后1分钟**"
+		"DoorCountDown"		"-1"
+	}
+	">>> 30 SECONDS LEFT <<<"
+	{
+		"chi"		"**最后30秒**"
+	}
+	">>> 20 SECONDS LEFT <<<"
+	{
+		"chi"		"**最后20秒**"
+	}
+	">>> 10 SECONDS LEFT <<<"
+	{
+		"chi"		"**最后10秒**"
+	}
+	">>> 5 <<<"
+	{
+		"chi"		"**5...**"
+	}
+	">>> 4 <<<"
+	{
+		"chi"		"**4...**"
+	}
+	">>> 3 <<<"
+	{
+		"chi"		"**3...**"
+	}
+	">>> 2 <<<"
+	{
+		"chi"		"**2...**"
+	}
+	">>> 1 <<<"
+	{
+		"chi"		"**1...**"
+	}
+	">>> TELEPORTED TO CASTLE GET OUT<<<"
+	{
+		"chi"		"**传送至城堡内**"
+	}
+	">>> STAGE 6 COMPLETED <<<"
+	{
+		"chi"		"**第六关完成**"
+	}
+	">>> STAGE 2 COMPLETED <<<"
+	{
+		"chi"		"**第二关完成**"
+	}
+	">>> ADMIN CHANGED TO STAGE 4 <<<"
+	{
+		"chi"		"*管理员将关卡调至第四关了**"
+	}
+	">>> GARGANTUA USED GRAVITY <<<"
+	{
+		"chi"		"**5---巨人施放了黑洞攫取！抵抗它的吸力别被吸它他脚下去了！**"
+	}
+	"The server is about to close the update ,Please update your game"
+	{
+		"chi"		"** **"
+	}
+	"*** Defeat the boss within 20 seconds! ***"
+	{
+		"chi"		"**我们需要在20秒之内解决这个BOSS**"
+	}
+	"*** Defeat the boss within 10 seconds! ***"
+	{
+		"chi"		"**还有10秒**"
+	}
+	"*** failed to defeat the boss ***"
+	{
+		"chi"		"**你失败了 gg my friend (XwX)**"
+	}
+	">>> ADMIN CHANGED TO STAGE 6 <<<"
+	{
+		"chi"		">>>管理员将关卡设置为了第六关<<<"
+	}
+	">>> BALROG USE LASER. CROUCH TO AVOID IT <<<"
+	{
+		"DoorCountDown"		"5"
+	}
+	">>> BALROG HEALED 150HP <<<"
+	{
+		"DoorCountDown"		"-1"
+	}
+}

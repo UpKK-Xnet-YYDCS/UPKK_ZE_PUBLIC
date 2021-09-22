@@ -1,0 +1,479 @@
+"Console_T"
+{
+	"*** Difficulty : Easy ***"
+	{
+		"chi"		"难度：简单"
+	}
+	"For POSSESSION , Respected Sakura"
+	{
+		"chi"		"For POSSESSION , Respected Sakura"
+	}
+	"Map Support : Xquality  SHUFEN"
+	{
+		"chi"		"地图制作于：Xquality SHUFEN"
+	}
+	"Map Arranged by Airvulpes"
+	{
+		"chi"		"地图修改于：Airvulpes"
+	}
+	"Elivator leaving in: 3"
+	{
+		"chi"		"**电梯将在 3秒后 上升**"
+		"DoorCountdown"		"3"
+	}
+	"Remaining 5 seconds !"
+	{
+		"chi"		"守住5秒！"
+	}
+	"Door opening in 5 seconds!"
+	{
+		"chi"		"门在5秒后打开！"
+	}
+	"Tram leaving in 10 seconds!"
+	{
+		"chi"		"运输车在10秒后离开"
+		"DoorCountdown"		"10"
+	}
+	"Security doors closing in 10."
+	{
+		"chi"		"安全门在十秒后关闭！"
+	}
+	"Train leaving in 30 seconds."
+	{
+		"chi"		"火车在30秒后离开！"
+		"DoorCountdown"		"30"
+	}
+	"Train leaving in 20 seconds."
+	{
+		"chi"		"火车在20秒后离开！"
+	}
+	"Train leaving in 10 seconds."
+	{
+		"chi"		"火车在10秒后离开！"
+	}
+	"Train is leaving."
+	{
+		"chi"		"火车走啦！！！"
+	}
+	"Mini train leaving in 5 seconds."
+	{
+		"chi"		"迷你火车5秒后离开！"
+	}
+	"Tracks crashed ahead"
+	{
+		"chi"		"前方火车坠毁！(快跳车！)"
+	}
+	"Incoming nuke!!!"
+	{
+		"chi"		"即将发生核爆BOOM！"
+	}
+	"*** Difficulty : Normal ***"
+	{
+		"chi"		"难度：一般"
+	}
+	"*** Difficulty : Hard ***"
+	{
+		"chi"		"难度：困难"
+	}
+	"Door opening in 15 seconds!"
+	{
+		"chi"		"门在15秒后打开！"
+		"DoorCountdown"		"15"
+	}
+	"Hold 20 seconds !"
+	{
+		"chi"		"继续防守20秒！"
+		"DoorCountdown"		"20"
+	}
+	"Helicopter leaves 20 seconds!"
+	{
+		"chi"		"直升机在20秒后起飞！"
+		"DoorCountdown"		"20"
+	}
+	"remaining 5 seconds!"
+	{
+		"chi"		"还有5秒！"
+	}
+	"*** Difficulty : Extreme ***"
+	{
+		"chi"		"难度：极限"
+	}
+	"Remaining 15 seconds !"
+	{
+		"chi"		"还有15秒！"
+	}
+	"Door opening in 100 seconds!"
+	{
+		"chi"		"大门在100秒后打开！"
+		"DoorCountdown"		"100"
+	}
+	"Remaining 50 seconds!"
+	{
+		"chi"		"还有50秒！"
+	}
+	"Remaining 10 seconds!"
+	{
+		"chi"		"最后10秒，坚持住！"
+	}
+	"*** Difficulty : Insane ***"
+	{
+		"command"		"zr_infect_spawntime_min 25.0"
+		"command"		"zr_infect_spawntime_max 25.0"
+		"chi"		"难度：超越极限"
+		"force_round_end"		"1"
+	}
+	"*** Difficulty : rtv ***"
+	{
+		"chi"		"难度：RTV吧！愚蠢的人类！"
+	}
+	"Door opening in 80 seconds!"
+	{
+		"chi"		"** **"
+	}
+	"Remaining 40 seconds!"
+	{
+		"chi"		"** **"
+	}
+	"Admin pressed rtv button"
+	{
+		"chi"		"** **"
+	}
+	"Admin pressed Insane button"
+	{
+		"chi"		"** **"
+	}
+	"Admin pressed Extreme button"
+	{
+		"chi"		"** **"
+	}
+	"Admin pressed Ex disable button"
+	{
+		"chi"		"** **"
+	}
+	"Admin pressed Ex button"
+	{
+		"chi"		"** **"
+	}
+	"Admin pressed Normal button"
+	{
+		"chi"		"** **"
+	}
+	"Admin pressed Easy button"
+	{
+		"chi"		"** **"
+	}
+	"sync_version"
+	{
+		"syncvalue"		"27528"
+	}
+	"For POSSESSION, Respect to Sakura"
+	{
+		"chi"		"** **"
+	}
+	"Based-map by Xquality"
+	{
+		"chi"		"** **"
+	}
+	"Map Supported by SHUFEN"
+	{
+		"chi"		"** **"
+	}
+	"powered by sakura , possession"
+	{
+		"chi"		"** **"
+	}
+	"Admin pressed Hard button"
+	{
+		"chi"		"** **"
+	}
+	"The server is about to close the update ,Please update your game"
+	{
+		"chi"		"** **"
+	}
+	"This round is not legit win"
+	{
+		"chi"		"** **"
+	}
+	"Admin Pressed Adminroom button"
+	{
+		"chi"		"** **"
+	}
+	"FALLEN ONE"
+	{
+		"chi"		"**堕落之人（开一个奶）**"
+	}
+	"GAEA RAGE"
+	{
+		"chi"		"**盖亚之怒（尸笼）**"
+	}
+	"SURGE PAIN"
+	{
+		"chi"		"**涌潮痛楚（停枪，开奶，打柱子鬼火）**"
+		"DoorCountdown"		"5"
+	}
+	"ZANTETSUKEN"
+	{
+		"chi"		"**斩铁剑（去无敌点）**"
+	}
+	"*** Current survivors has won the contest ! ***"
+	{
+		"chi"		"** **"
+	}
+	"Remember to provide a screenshotdemoproof of your win"
+	{
+		"chi"		"** **"
+	}
+	"Port and Improved to HDR by No Name"
+	{
+		"chi"		"** **"
+	}
+	"Thanks by Sakura, Possession"
+	{
+		"chi"		"** **"
+	}
+	"Original Map by Xquality"
+	{
+		"chi"		"** **"
+	}
+	"Elevator leaving in 3 seconds!"
+	{
+		"chi"		"** **"
+	}
+	"Mini train leaving in 5 seconds!"
+	{
+		"chi"		"** **"
+	}
+	"Platform rise down in 5 seconds!"
+	{
+		"chi"		"** **"
+	}
+	"Security doors closing in 10 seconds!"
+	{
+		"chi"		"** **"
+	}
+	"Train leaving in 10 seconds!"
+	{
+		"chi"		"** **"
+	}
+	"Hold 20 seconds!"
+	{
+		"chi"		"** **"
+	}
+	"Platform rise down in 15 seconds!"
+	{
+		"chi"		"** **"
+	}
+	"NO EXTRA MODE"
+	{
+		"chi"		"**没EXboss啦（蔡）**"
+	}
+	"*** Player has picked up DDR trigger knife ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Protect the trigger or DDR wont get activated ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Player has picked up Magia Cura 3 ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Player has picked up Abyss ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Player has picked up Magia Cura 2 ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Player has picked up Magia Cura 1 ***"
+	{
+		"chi"		"** **"
+	}
+	"EXA FLARE"
+	{
+		"chi"		"**红终（开奶）**"
+	}
+	"WIND OF ABYSS"
+	{
+		"chi"		"**风之深渊（远离中间按S）**"
+	}
+	"LARGE EAGRE"
+	{
+		"chi"		"**大海啸（传送中间开）**"
+	}
+	"CURAGA"
+	{
+		"chi"		"**超级治疗**"
+	}
+	"HOLY"
+	{
+		"chi"		"**终极**"
+	}
+	"MORTAL DISEASE"
+	{
+		"chi"		"**死病（开奶）**"
+	}
+	"QUAKE"
+	{
+		"chi"		"**地震（开奶并跳跃）**"
+	}
+	"*** Congratulation! youre now in admin room ***"
+	{
+		"chi"		"** **"
+	}
+	"*** You can select any button you wants ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Enable Extreme boss Mode ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Please restart the round ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Change Stage to Insane ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Enable rtv color correction ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Disable rtv color correction ***"
+	{
+		"chi"		"** **"
+	}
+	"***test stripper2***"
+	{
+		"chi"		"** **"
+	}
+	"*** You press correct button! ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Map by Airvuples ***"
+	{
+		"chi"		"** **"
+	}
+	"*** 3 ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Fix to HDR by No Name ***"
+	{
+		"chi"		"** **"
+	}
+	"*** 2 ***"
+	{
+		"chi"		"** **"
+	}
+	"*** 1 ***"
+	{
+		"chi"		"** **"
+	}
+	"<<堕落之人（开奶回血）>>"
+	{
+		"chi"		"** **"
+	}
+	"<<千兆亿耀斑（红终开奶）>>"
+	{
+		"chi"		"** **"
+	}
+	"<<盖亚之怒（尸笼裂地板）>>"
+	{
+		"chi"		"** **"
+	}
+	"<<斩铁剑（无敌点蹲下）>>"
+	{
+		"chi"		"** **"
+	}
+	"<<大海啸（使用传送或站中间）>>"
+	{
+		"chi"		"** **"
+	}
+	"<<风之深渊（按s抵抗）>>"
+	{
+		"chi"		"** **"
+	}
+	"<<涌潮痛楚（停枪打雕像）>>"
+	{
+		"chi"		"** **"
+		"DoorCountdown"		"5"
+	}
+	"<<鬼火全部打完，继续输出BOSS>>"
+	{
+		"chi"		"** **"
+	}
+	"<<神圣（先集合特效出来立马散开远离）>>"
+	{
+		"chi"		"** **"
+	}
+	"<<死病（开奶回血）>>"
+	{
+		"chi"		"** **"
+	}
+	"<<超级治疗（随机一个BOSS回复五百HP）>>"
+	{
+		"chi"		"** **"
+	}
+	"*** Change Stage to RTV ***"
+	{
+		"chi"		"** **"
+	}
+	"*** You choose the bad ending! ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Everything wont get trigger ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Back to easy ***"
+	{
+		"chi"		"** **"
+	}
+	"<<地震（开奶不断跳跃）>>"
+	{
+		"chi"		"** **"
+	}
+	"ALLAHU AKBAR!!"
+	{
+		"chi"		"** **"
+	}
+	"*** Return to easy ***"
+	{
+		"chi"		"** **"
+	}
+	"This button only works on Normal level"
+	{
+		"chi"		"** **"
+	}
+	"*** KILL button activated ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Restarting round ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Change Stage to Easy ***"
+	{
+		"chi"		"** **"
+	}
+	"*** 移除RTV关按钮，请选择kill或其他关卡 ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Change Stage to Normal ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Change Stage to Hard ***"
+	{
+		"chi"		"** **"
+	}
+}

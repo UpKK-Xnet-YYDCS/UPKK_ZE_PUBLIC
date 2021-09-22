@@ -1,0 +1,274 @@
+"Console_T"
+{
+	">>> AFK TELEPORT IN 5 SECONDS <<<"
+	{
+		"DoorCountdown"		"-1"
+	}
+	">>> ELECTRIC VORTEX ENABLED   GET ON SOMETHING <<<"
+	{
+		"chi"		">>>闪电漩涡激活了！站在什么东西的上面！<<<"
+		"DoorCountdown"		"3"
+	}
+	">>> ELECTRIC TORNADO ENABLED   CROUCH <<<"
+	{
+		"chi"		">>>闪电龙卷风激活了！蹲下！<<<"
+		"DoorCountdown"		"3"
+	}
+	">>> REPAIR SHIELD ENABLED   DONT SHOOT <<<"
+	{
+		"chi"		">>>修理护盾激活！停止射击！<<<"
+		"DoorCountdown"		"8"
+	}
+	">>> ELECTRIC GRAVITY ENABLED   HIDE SOMETHING <<<"
+	{
+		"chi"		">>>闪电黑洞激活！藏在什么东西的后面！<<<"
+		"DoorCountdown"		"3"
+	}
+	">>> FIND C4 TO MAKE PASSAGE <<<"
+	{
+		"chi"		">>>快去找C4!<<<"
+	}
+	">>> C4 EXPLODE IN 10 SECONDS <<<"
+	{
+		"chi"		">>>C4在10秒后爆炸，小心被炸死！<<<"
+	}
+	">>> BOSS USED BEAM <<<"
+	{
+		"chi"		">>>boss使用了激光<<<"
+	}
+	">>> BOSS USED REPAIR SHIELD <<<"
+	{
+		"chi"		">>>boss使用了修复护盾，停枪！<<<"
+		"DoorCountdown"		"3"
+	}
+	">>> BOSS USED GRAVITY <<<"
+	{
+		"chi"		">>>boss使用了黑洞！快远离boss!<<<"
+		"DoorCountdown"		"3"
+	}
+	">>> BOSS USED HEAL <<<"
+	{
+		"chi"		">>>boss使用了治疗！<<<"
+	}
+	">>> BOSS USED CLIFF <<<"
+	{
+		"chi"		">>>boss使用了冰之壁<<<"
+	}
+	">>> PLAYER PICKED HEAL <<<"
+	{
+		"chi"		"**奶已被捡起 **"
+	}
+	">>> HOLD 20 SECONDS <<<"
+	{
+		"chi"		"**防守20秒  **"
+	}
+	">>> 5 SECONDS LEFT <<<"
+	{
+		"chi"		"** 还剩5秒**"
+	}
+	">>> BOSS IS ARRIVED <<<"
+	{
+		"chi"		"** boss来临**"
+	}
+	">>> HOLD 35 SECONDS <<<"
+	{
+		"chi"		"**防守35秒  **"
+	}
+	">>> HOLD 15 SECONDS <<<"
+	{
+		"chi"		"**防守15秒  **"
+	}
+	">>> HOLD 30 SECONDS <<<"
+	{
+		"chi"		"**防守30秒 **"
+	}
+	">>> STAGE 2 COMPLETED <<<"
+	{
+		"chi"		"**第二关完成 **"
+	}
+	">>> Map Made by Moray <<<"
+	{
+		"chi"		"** **"
+	}
+	">>> Special Thanks : nano <<<"
+	{
+		"chi"		"** **"
+	}
+	">>> Map Reboot by Glacius <<<"
+	{
+		"chi"		"** **"
+	}
+	">>> Stage 3 - Normal <<<"
+	{
+		"chi"		"**第三关 **"
+	}
+	">>> HOLD 5 SECONDS <<<"
+	{
+		"chi"		"**防守5每秒 **"
+	}
+	">>> HOLD 10 SECONDS <<<"
+	{
+		"chi"		"**防守10秒 **"
+	}
+	">>> PLAYER PICKED ELECTRIC BEAM CANNON <<<"
+	{
+		"chi"		"**电激光被捡起 **"
+	}
+	">>> TELEPORT ACTIVATING IN 25 SECONDS <<<"
+	{
+		"chi"		"**25秒后传送启动 **"
+	}
+	">>> ELEVATOR STOPPED GO TO PRESS BUTTON <<<"
+	{
+		"chi"		"**电梯停下了,出去按开关再次启动它 **"
+	}
+	">>> PLAYER PICKED VENOM BEAM CANNON <<<"
+	{
+		"chi"		"**毒激光被捡起 **"
+	}
+	">>> HOLD 25 SECONDS <<<"
+	{
+		"chi"		"**防守25秒 **"
+	}
+	">>> BOTH ELEVATOR LEAVING IN 35 SECONDS <<<"
+	{
+		"chi"		"**两个电梯35秒后离开 **"
+	}
+	">>> PLAYER PICKED BLUE SPARK <<<"
+	{
+		"chi"		"** 电场被捡起**"
+	}
+	">>> BARRIER DOOR CLOSING IN 15 SECONDS <<<"
+	{
+		"chi"		"**屏障门15秒后关闭 **"
+	}
+	">>> ELECTRIC MACHINE STARTED UP SHOOT IT <<<"
+	{
+		"chi"		"**电机已启动,射击 **"
+	}
+	">>> ELECTRIC WAVE ENABLED <<<"
+	{
+		"chi"		"**电潮启动 **"
+	}
+	">>> BOSS DEFEATED <<<"
+	{
+		"chi"		"**boss被击败了 **"
+	}
+	">>> CONTROL ROOM DOOR OPENING IN 100 SECONDS <<<"
+	{
+		"chi"		"**100秒后控制室大门打开 **"
+		"DoorCountdown"		"100"
+	}
+	">>> DEFEND UNTIL RESCUE COMES <<<"
+	{
+		"chi"		"**守到救援来临 **"
+	}
+	">>> PLAYER PICKED WIND BLASTER <<<"
+	{
+		"chi"		"**推力风被捡起 **"
+	}
+	">>> DEFEND MORE <<<"
+	{
+		"chi"		"**再守一会 **"
+	}
+	">>> HELICOPTER IS LEAVING <<<"
+	{
+		"chi"		"**直升飞机正在起飞 **"
+	}
+	">>> FAIL ROUND <<<"
+	{
+		"chi"		"**回合失败 **"
+	}
+	">>> PLAYER PICKED FLAME BEAM CANNON <<<"
+	{
+		"chi"		"**火激光被捡起 **"
+	}
+	">>> STAGE 3 COMPLETED <<<"
+	{
+		"chi"		"**第三关完成 **"
+	}
+	">>> Stage 1 - Extreme <<<"
+	{
+		"chi"		"**EX1 **"
+	}
+	">>> PLAYER PICKED AMMO <<<"
+	{
+		"chi"		"**弹药已被捡起 **"
+	}
+	">>> PLAYER PICKED ICY VORTEX <<<"
+	{
+		"chi"		"**冰已被捡起 **"
+	}
+	">>> BOSS POWERED UP <<<"
+	{
+		"chi"		"** **"
+	}
+	">>> BOSS IS DEFEATED <<<"
+	{
+		"chi"		"**boss被击败了 **"
+	}
+	">>> 30 Seconds of Warmup Remaining <<<"
+	{
+		"chi"		"** **"
+	}
+	">>> Warmup Round! Map starting in 40 seconds. <<<"
+	{
+		"chi"		"** **"
+	}
+	">>> 20 Seconds of Warmup Remaining <<<"
+	{
+		"chi"		"** **"
+	}
+	">>> 10 Seconds of Warmup Remaining <<<"
+	{
+		"chi"		"** **"
+	}
+	">>> Warmup Ending - Map Starting <<<"
+	{
+		"chi"		"** **"
+	}
+	">>> Stage 1 - Normal <<<"
+	{
+		"chi"		"** **"
+	}
+	">>> STAGE 1 COMPLETED <<<"
+	{
+		"chi"		"** **"
+	}
+	">>> Stage 2 - Normal <<<"
+	{
+		"chi"		"** **"
+	}
+	">>> C4 PICKED UP <<<"
+	{
+		"chi"		"** **"
+	}
+	">>> STAGE 4 COMPLETED <<<"
+	{
+		"chi"		"** **"
+	}
+	">>> Stage 2 - Extreme <<<"
+	{
+		"chi"		"** **"
+	}
+	">>> SECURITY DOOR IS CLOSED <<<"
+	{
+		"chi"		"** **"
+	}
+	">>> GO CONTROL ROOM TO UNLOCK <<<"
+	{
+		"chi"		"** **"
+	}
+	">>> STAGE 5 COMPLETED <<<"
+	{
+		"chi"		"** **"
+	}
+	">>> MAP RESTARTING <<<"
+	{
+		"chi"		"** **"
+	}
+	"sync_version"
+	{
+		"syncvalue"		"14735"
+	}
+}

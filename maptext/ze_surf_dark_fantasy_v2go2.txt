@@ -1,0 +1,747 @@
+"Console_T"
+{
+	"***Special Thanks to Moltard and Headsh***"
+	{
+		"chi"		"**特别感谢:Moltard & Headsh**"
+	}
+	"***Thanks to NiceShot for help port CSGO***"
+	{
+		"chi"		"**感谢NiceShot的后期指正与帮助**"
+	}
+	"***Humans will be teleported after 10 seconds***"
+	{
+		"chi"		"**人类将在10秒后传送**"
+	}
+	"***Zombies will be teleported after 15 seconds***"
+	{
+		"chi"		"**僵尸将在15秒后传送**"
+		"DoorCountDown"		"15"
+	}
+	"***Welcome to ze_surf_dark_fantasy***"
+	{
+		"chi"		"**欢迎游玩ze_surf_dark_fantasy**"
+	}
+	"***Map by DarkerZ [RUS]***"
+	{
+		"chi"		"**地图制作:DarkerZ [俄] 地图翻译:清新的二哈♪**"
+	}
+	"***Hold for 75 seconds***"
+	{
+		"chi"		"**守住75秒**"
+	}
+	"***Afk will be teleported after 5 seconds***"
+	{
+		"chi"		"**5秒后传送AFK玩家**"
+	}
+	"***Hold for 30 seconds***"
+	{
+		"chi"		"**守住30秒**"
+	}
+	"***Humans picked up Wind***"
+	{
+		"chi"		"**一名玩家捡起了风**"
+	}
+	"***10 SECONDS LEFT***"
+	{
+		"chi"		"**10秒后离开**"
+	}
+	"***Hold the First Sector for 25 seconds***"
+	{
+		"chi"		"**守住第一个扇区**"
+		"DoorCountDown"		"25"
+	}
+	"***5 seconds left***"
+	{
+		"chi"		"**还剩5秒**"
+	}
+	"***Hold the Second Sector for 20 seconds***"
+	{
+		"chi"		"**守住第二个扇区**"
+		"DoorCountDown"		"20"
+	}
+	"***Hold the Third Sector for 15 seconds***"
+	{
+		"chi"		"**守住第三个扇区**"
+		"DoorCountDown"		"15"
+	}
+	"***Hold the Fourth Sector for 10 seconds***"
+	{
+		"chi"		"**守住第四个扇区**"
+		"DoorCountDown"		"10"
+	}
+	"***Hold the Final Sector for 5 seconds***"
+	{
+		"chi"		"**守住最后一个扇区**"
+		"DoorCountDown"		"5"
+	}
+	"***Zombies will be teleported after 20 seconds***"
+	{
+		"chi"		"**僵尸将在20秒后传送**"
+	}
+	"***Hold for 60 seconds***"
+	{
+		"chi"		"**守住60秒**"
+	}
+	"***Afk will be teleported after 10 seconds***"
+	{
+		"chi"		"**10秒后传送AFK玩家**"
+	}
+	"***Doors will open in 30 seconds***"
+	{
+		"chi"		"**门将在30秒后打开**"
+	}
+	"***Doors will close in 10 seconds***"
+	{
+		"chi"		"**门将在10秒后关闭**"
+	}
+	"***Fight***"
+	{
+		"chi"		"**开始战斗**"
+	}
+	"***CreeperGirl is using TNT Attack***"
+	{
+		"chi"		"**CreeperGirl使用了TNT炸弹**"
+		"DoorCountDown"		"3"
+	}
+	"***CreeperGirl is using Fire Attack***"
+	{
+		"chi"		"**CreeperGirl使用了火焰攻击**"
+		"DoorCountDown"		"3"
+	}
+	"***CreeperGirl is healed for 110 HP***"
+	{
+		"chi"		"**CreeperGirl回复了110HP**"
+		"DoorCountDown"		"3"
+	}
+	"***CreeperGirl is using Push Attack***"
+	{
+		"chi"		"**CreeperGirl使用了推力攻击**"
+		"DoorCountDown"		"3"
+	}
+	"***Humans picked up Gravity***"
+	{
+		"chi"		"**一名玩家捡起黑洞**"
+	}
+	"***Humans picked up Heal***"
+	{
+		"chi"		"**一名玩家捡起了治疗**"
+	}
+	"***Random path will open in 30 seconds***"
+	{
+		"chi"		"**随机路线将在30秒后开放**"
+	}
+	"***Zombies picked up Heal***"
+	{
+		"chi"		"**僵尸捡起了治疗**"
+	}
+	"***Zombies picked up Fire***"
+	{
+		"chi"		"**僵尸捡起了火**"
+	}
+	"***Big Doors will open in 40 seconds***"
+	{
+		"chi"		"**巨门将在40秒后打开**"
+	}
+	"***Doors will open in 10 seconds***"
+	{
+		"chi"		"**门将在10秒后打开**"
+	}
+	"***Doors will open in 15 seconds***"
+	{
+		"chi"		"**门将在15秒后打开**"
+	}
+	"***Doors will open in 5 seconds***"
+	{
+		"chi"		"**门将在5秒后打开**"
+	}
+	"***Humans picked up Electro***"
+	{
+		"chi"		"**人类拾取了电**"
+	}
+	"***Doors will open in 20 seconds***"
+	{
+		"chi"		"**门将在20秒后打开**"
+	}
+	"***Elevator will leave in 20 seconds***"
+	{
+		"chi"		"**电梯将在20秒后离开**"
+	}
+	"***Hatch will collapse in 5 seconds***"
+	{
+		"chi"		"**舱门将在5秒后坍塌**"
+	}
+	"***Wall will collapse in 10 seconds***"
+	{
+		"chi"		"**墙将在10秒后坍塌**"
+	}
+	"***Gate will open in 5 seconds***"
+	{
+		"chi"		"**门将在5秒后打开**"
+	}
+	"***Bridge will appear in 20 seconds***"
+	{
+		"chi"		"**桥将在20秒后出现**"
+	}
+	"***Hold this position for 20 seconds***"
+	{
+		"chi"		"**守住这个地方**"
+		"DoorCountDown"		"20"
+	}
+	"***Gate will open in 10 seconds***"
+	{
+		"chi"		"**门将在10秒后打开**"
+	}
+	"***Gate will open in 20 seconds***"
+	{
+		"chi"		"**门将在20秒后打开**"
+	}
+	"***Gate will open in 15 seconds***"
+	{
+		"chi"		"**门将在15秒后打开**"
+	}
+	"***Afk will be teleported after 20 seconds***"
+	{
+		"chi"		"**20秒后传送AFK玩家**"
+	}
+	"***You ended up in the dungeon of demons***"
+	{
+		"chi"		"**你进入了恶魔的地牢**"
+	}
+	"***This dungeon contains 4 levels of difficulty***"
+	{
+		"chi"		"**这个地牢有4层，每层都有不同的挑战**"
+		"DoorCountDown"		"-1"
+	}
+	"***To exit the dungeon you need to complete all tasks***"
+	{
+		"chi"		"**要离开地牢，你需要完成所有的任务**"
+	}
+	"***On the first level it is necessary to destroy the bloodstone***"
+	{
+		"chi"		"**第一层，你必须摧毁血石**"
+	}
+	"***On the second level you need to defeat all the demons***"
+	{
+		"chi"		"**第二层，你需要打败所有的恶魔**"
+	}
+	"***At the third level you need to knock out the seal***"
+	{
+		"chi"		"**第三层，你需要解开石雕封印**"
+	}
+	"***On the fourth level you have to defeat Charon***"
+	{
+		"chi"		"**第四关，你必须打败Charon**"
+	}
+	"***This Taros had NO Seal***"
+	{
+		"chi"		"**这个怪物身上没有封印**"
+	}
+	"***To go further you must solve the riddle***"
+	{
+		"chi"		"**想走得更远，你必须解开这个谜题**"
+	}
+	"***[Boss] ErrorGirl Boss appeared***"
+	{
+		"chi"		"**[Boss]恶罪女出现了**"
+	}
+	"***[Boss] Queen Boss appeared***"
+	{
+		"chi"		"**[Boss]王后出现了**"
+	}
+	"***[Boss] CatGirl Boss appeared***"
+	{
+		"chi"		"**[Boss]猫女出现了**"
+	}
+	"***You killed the ErrorGirl Boss***"
+	{
+		"chi"		"**你打败了恶罪女**"
+	}
+	"***Queen Calls Uganda***"
+	{
+		"chi"		"**王后召唤了乌干达**"
+		"DoorCountDown"		"3"
+	}
+	"***Queen Calls Reverse Uganda***"
+	{
+		"chi"		"**王后召唤了罪之乌干达**"
+		"DoorCountDown"		"3"
+	}
+	"***Queen Calls Rain from Uganda***"
+	{
+		"chi"		"**王后召唤了恶之乌干达**"
+		"DoorCountDown"		"3"
+	}
+	"***Queen Throws Lasers***"
+	{
+		"chi"		"**王后投掷出了暗之枪**"
+		"DoorCountDown"		"3"
+	}
+	"***You killed the Queen Boss***"
+	{
+		"chi"		"**你打败了王后**"
+	}
+	"***CatGirl can be Cured by 300 HP***"
+	{
+		"chi"		"**猫女回复了300血**"
+		"DoorCountDown"		"3"
+	}
+	"***CatGirl is using Electro***"
+	{
+		"chi"		"**猫女释放了电**"
+		"DoorCountDown"		"3"
+	}
+	"***CatGirl is using Drop Weapon Attack***"
+	{
+		"chi"		"**猫女解除了你们的武装**"
+		"DoorCountDown"		"3"
+	}
+	"***CatGirl is using Crystal***"
+	{
+		"chi"		"**猫女释放了水晶**"
+		"DoorCountDown"		"3"
+	}
+	"***CatGirl is using Pressure***"
+	{
+		"chi"		"**猫女释放了压伤**"
+		"DoorCountDown"		"3"
+	}
+	"***CatGirl is using Laser***"
+	{
+		"chi"		"**猫女释放了激光**"
+		"DoorCountDown"		"3"
+	}
+	"***You killed the CatGirl Boss***"
+	{
+		"chi"		"**你打败了猫女**"
+	}
+	"***Charon used The Call of Death***"
+	{
+		"chi"		"**Charon释放了死之终结**"
+		"DoorCountDown"		"3"
+	}
+	"***Charon used Scythe***"
+	{
+		"chi"		"**Charon释放了死镰利刃**"
+		"DoorCountDown"		"3"
+	}
+	"***Charon used Gravity***"
+	{
+		"chi"		"**Charon释放了死之崩塌**"
+		"DoorCountDown"		"3"
+	}
+	"***Charon used Air Attack***"
+	{
+		"chi"		"**Charon释放了死之空爆**"
+		"DoorCountDown"		"3"
+	}
+	"***Charon used The Fire of Death***"
+	{
+		"chi"		"**Charon释放了死之炎域**"
+		"DoorCountDown"		"3"
+	}
+	"***Charon can be Cured by 300 HP***"
+	{
+		"chi"		"**Charon回复了300血**"
+		"DoorCountDown"		"3"
+	}
+	"***[Boss] Stage 1 completed***"
+	{
+		"chi"		"**[Boss]第一个被打败**"
+	}
+	"***[Boss] Stage 2 completed***"
+	{
+		"chi"		"**[Boss]第二个被打败**"
+	}
+	"***[Boss] Stage 3 completed***"
+	{
+		"chi"		"**[Boss]第三个被打败**"
+	}
+	"***Human will be teleported after 5 seconds***"
+	{
+		"chi"		"**人类将在5秒后传送**"
+	}
+	"***Zombie will be teleported after 10 seconds***"
+	{
+		"chi"		"**僵尸将在10秒后传送**"
+	}
+	"***150 seconds left***"
+	{
+		"chi"		"**150秒**"
+	}
+	"***120 seconds left***"
+	{
+		"chi"		"**120秒**"
+	}
+	"***90 seconds left***"
+	{
+		"chi"		"**90秒**"
+	}
+	"***60 seconds left***"
+	{
+		"chi"		"**60秒**"
+	}
+	"***30 seconds left***"
+	{
+		"chi"		"**30秒**"
+	}
+	"***15 SECONDS LEFT***"
+	{
+		"chi"		"**15秒**"
+	}
+	"***5 seconds left***"
+	{
+		"chi"		"**5秒**"
+	}
+	"[Story] A group of heroes was called to another world"
+	{
+		"chi"		"**[故事]一群英雄被召唤到另一个世界**"
+	}
+	"[Story] In this difficult time the Empire was almost destroyed"
+	{
+		"chi"		"**[故事]在这个困难时期，帝国几乎被摧毁**"
+	}
+	"[Story] Gathering the remnants of power people settled in the last undefeated city"
+	{
+		"chi"		"**[故事]聚集了残余势力的人们定居在最后一座不败之城**"
+	}
+	"[Story] But trouble got to the last stronghold of humanity ..."
+	{
+		"chi"		"**[故事]但是麻烦也如期而至…**"
+	}
+	"[Story] To explain all the reasons for the heroes called to the castle"
+	{
+		"chi"		"**[故事]为了解释发生的情况，英雄们被叫到城堡**"
+	}
+	"[Story] The heroes were supposed to meet the queen but ..."
+	{
+		"chi"		"**[故事]英雄们本计划去见女王，但是……**"
+	}
+	"[Story] Before that they had to demonstrate their strength and intelligence"
+	{
+		"chi"		"**[故事]在那之前，他们必须展示他们的力量和智慧**"
+	}
+	"[Story] Heroes heard a mysterious voice: it was all I"
+	{
+		"chi"		"**[故事]英雄们听到一个神秘的声音:原来是我**"
+	}
+	"[Story] Now enjoy your torment"
+	{
+		"chi"		"**[故事]现在享受你的痛苦吧**"
+	}
+	"[Story] Heroes have proven their strength and are now ready to meet with the queen"
+	{
+		"chi"		"**[故事]英雄们已经证明了他们的力量，现在准备与女王会面**"
+	}
+	"[Story] When the heroes arrived at the top floor of the tower ..."
+	{
+		"chi"		"**[故事]当英雄们到达塔顶时……**"
+	}
+	"[Story] They saw the queen on the edge of the balcony"
+	{
+		"chi"		"**[故事]他们看见王后站在阳台上**"
+	}
+	"[Story] And then the queen jumped down"
+	{
+		"chi"		"**[故事]然后他们目睹了王后跳了下来**"
+	}
+	"[Story] The death of the queen was blamed on the heroes who arrived ..."
+	{
+		"chi"		"**[故事]女王的死被归咎于英雄们的到来。**"
+	}
+	"[Story] There was a guard everywhere"
+	{
+		"chi"		"**[故事]到处都是警卫**"
+	}
+	"[Story] To avoid execution innocent people had to leave the city as soon as possible"
+	{
+		"chi"		"**[故事]为了避免招致无妄之灾，无辜的人们不得不尽快离开这座城市**"
+	}
+	"[Story] To go unnoticed could only be through the sewer"
+	{
+		"chi"		"**[故事]为了掩人耳目只能从下水道逃走**"
+	}
+	"[Story] The only passage was overwhelmed"
+	{
+		"chi"		"**[故事]唯一的通道被淹没了**"
+	}
+	"[Story] Something caused the destruction of the wall"
+	{
+		"chi"		"**[故事]有什么东西摧毁了墙**"
+	}
+	"[Story] Very suspicious portal but people had no choice"
+	{
+		"chi"		"**[故事]非常可疑的门，但人们别无选择**"
+	}
+	"[Story] Moving on the heroes came closer to solving unusual events"
+	{
+		"chi"		"**[故事]英雄们离解决不寻常事件更近了一步**"
+	}
+	"[Story] Whats happening"
+	{
+		"chi"		"**[故事]发生了什么？**"
+	}
+	"[Story] This ghost is so much like a queen"
+	{
+		"chi"		"**[故事]这个鬼魂太像女王了**"
+	}
+	"[Story] These events happened many years ago"
+	{
+		"chi"		"**[故事]这些事件发生在许多年前**"
+	}
+	"[Story] The ghost sprained limbs and then chopped with an ax"
+	{
+		"chi"		"**[故事]鬼魂被扭断了四肢，之后被斧头腰斩**"
+	}
+	"[Story] This ghost has suffered torture"
+	{
+		"chi"		"**[故事]这个鬼魂遭受了折磨**"
+	}
+	"[Story] She crushed her limbs and then gouged out her eyes"
+	{
+		"chi"		"**[故事]她残废了四肢，然后被挖出了眼睛**"
+	}
+	"[Story] And she was burned at the stake"
+	{
+		"chi"		"**[故事]她被烧死在火刑柱上**"
+	}
+	"[Story] Heroes learned the truth about the cause of all disasters"
+	{
+		"chi"		"**[故事]英雄们知道了所有灾难发生的原因以及事情的真相**"
+	}
+	"[Story] They must end this"
+	{
+		"chi"		"**[故事]他们必须结束这一切**"
+	}
+	"[Story] Everyone looked around"
+	{
+		"chi"		"**[故事]人们面面相觑**"
+	}
+	"[Story] No one could understand where the portal led them"
+	{
+		"chi"		"**[故事]没有人能知道那扇门能把他们带到哪里**"
+	}
+	"[Story] Perhaps this passage has remained from the ancient civilization"
+	{
+		"chi"		"**[故事]也许这座地下建筑是在古时建造的**"
+	}
+	"[Story] Suddenly everyone noticed the ghost away"
+	{
+		"chi"		"**[故事]突然，大家都注意到鬼魂不见了**"
+	}
+	"[Story] Everyone wondered: what was it now"
+	{
+		"chi"		"**[故事]每个人都很疑惑:现在还会发生什么？**"
+	}
+	"[Story] Heroes have moved further along the catacombs full of danger"
+	{
+		"chi"		"**[故事]英雄们已经沿着充满危险的地下墓穴走得更远了**"
+	}
+	"[Story] One of the people lifted into the air and twice hit the wall"
+	{
+		"chi"		"**[故事]有一个人被一股未知力量腾空，两次撞到墙上**"
+	}
+	"[Story] These catacombs not only contain traps and mobs but also something more sinister"
+	{
+		"chi"		"**[故事]这些地下墓穴不仅包含陷阱和怪物，而且还有一些更邪恶的东西**"
+	}
+	"[Story] Heroes heard a mysterious voice: it was all I"
+	{
+		"chi"		"**[故事]英雄们听到一个神秘的声音:原来是我**"
+	}
+	"[Story] Now enjoy your torment"
+	{
+		"chi"		"**[故事]现在享受你的痛苦吧**"
+	}
+	"***You killed the boss of the True Ending***"
+	{
+		"chi"		"**你打败了boss获得了真实结局**"
+	}
+	"***Congratulations You have passed the map***"
+	{
+		"chi"		"**恭喜你通关了这张地图！**"
+	}
+	"***Nuke***"
+	{
+		"chi"		"**核爆**"
+	}
+	"***[DarkMode] Activated***"
+	{
+		"chi"		"**[黑暗模式]已经激活**"
+	}
+	"***[DarkMode] You found the First button***"
+	{
+		"chi"		"**[黑暗模式]你找到了第一个开关**"
+	}
+	"***[DarkMode] You found the Second button***"
+	{
+		"chi"		"**[黑暗模式]你找到了第二个开关**"
+	}
+	"***[Secret] You found the First Fate Gear***"
+	{
+		"chi"		"**[秘密]你找到了第一套命运装备**"
+	}
+	"***[Secret] You found the Second Fate Gear***"
+	{
+		"chi"		"**[秘密]你找到了第二套命运装备**"
+	}
+	"***[Secret] You found the Third Fate Gear***"
+	{
+		"chi"		"**[秘密]你找到了第三套命运装备**"
+	}
+	"***[Secret] You found all the Fate Gears***"
+	{
+		"chi"		"**[秘密]你找到了所有的命运装备**"
+	}
+	"***[Secret] True Ending for next Round Activated***"
+	{
+		"chi"		"**[秘密]真结局将在下一局激活**"
+	}
+	"***[Secret] True Ending for this Round Activated***"
+	{
+		"chi"		"**[秘密]真结局已激活**"
+	}
+	"***Item Lost Detect***"
+	{
+		"chi"		"**检测到物品丢失**"
+	}
+	"***Respawn Items***"
+	{
+		"chi"		"**物品刷新**"
+	}
+	"***The order | 1-Sword 2-Bow 3-Shield 4-Spear***"
+	{
+		"chi"		"**开门方法| 1剑 2弓 3盾 4矛**"
+	}
+	"***The order | 1-Sword 2-Bow 3-Spear 4-Shield***"
+	{
+		"chi"		"**开门方法| 1剑 2弓 3矛 4盾**"
+	}
+	"***The order | 1-Sword 2-Shield 3-Bow 4-Spear***"
+	{
+		"chi"		"**开门方法| 1剑 2盾 3弓 4矛**"
+	}
+	"***The order | 1-Sword 2-Spear 3-Shield 4-Bow***"
+	{
+		"chi"		"**开门方法| 1剑 2矛 3盾 4弓**"
+	}
+	"***The order | 1-Bow 2-Sword 3-Shield 4-Spear***"
+	{
+		"chi"		"**开门方法| 1弓 2剑 3盾 4矛**"
+	}
+	"***The order | 1-Bow 2-Sword 3-Spear 4-Shield***"
+	{
+		"chi"		"**开门方法| 1弓 2剑 3矛 4盾**"
+	}
+	"***The order | 1-Bow 2-Shield 3-Sword 4-Spear***"
+	{
+		"chi"		"**开门方法| 1弓 2盾 3剑 4矛**"
+	}
+	"***The order | 1-Bow 2-Spear 3-Shield 4-Sword***"
+	{
+		"chi"		"**开门方法| 1弓 2矛 3盾 4剑**"
+	}
+	"***The order | 1-Shield 2-Sword 3-Bow 4-Spear***"
+	{
+		"chi"		"**开门方法| 1盾 2剑 3弓 4矛**"
+	}
+	"***The order | 1-Shield 2-Sword 3-Spear 4-Bow***"
+	{
+		"chi"		"**开门方法| 1盾 2剑 3矛 4弓**"
+	}
+	"***The order | 1-Shield 2-Bow 3-Spear 4-Sword***"
+	{
+		"chi"		"**开门方法| 1盾 2弓 3矛 4剑**"
+	}
+	"***The order | 1-Shield 2-Spear 3-Sword 4-Bow***"
+	{
+		"chi"		"**开门方法| 1盾 2矛 3剑 4弓**"
+	}
+	"***The order | 1-Spear 2-Sword 3-Bow 4-Shield***"
+	{
+		"chi"		"**开门方法| 1矛 2剑 3弓 4盾**"
+	}
+	"***The order | 1-Spear 2-Sword 3-Shield 4-Bow***"
+	{
+		"chi"		"**开门方法| 1矛 2剑 3盾 4弓**"
+	}
+	"***The order | 1-Spear 2-Shield 3-Bow 4-Sword***"
+	{
+		"chi"		"**开门方法| 1矛 2盾 3弓 4剑**"
+	}
+	"***The order | 1-Spear 2-Bow 3-Sword 4-Shield***"
+	{
+		"chi"		"**开门方法| 1矛 2弓 3剑 4盾**"
+	}
+	"***Item Accepted***"
+	{
+		"chi"		"**物品正确**"
+	}
+	"***Wrong Combination***"
+	{
+		"chi"		"**物品错误**"
+	}
+	"***Zombies picked up Droper***"
+	{
+		"chi"		"**僵尸拾取了魔爪**"
+	}
+	"***You Found a Seal***"
+	{
+		"chi"		"** **"
+	}
+	"***BuyZone activated for 8 seconds***"
+	{
+		"chi"		"** **"
+	}
+	"***You have 60 seconds to kill CreeperGirl***"
+	{
+		"chi"		"** **"
+	}
+	"***You killed the final boss. Teleportation after 10 seconds***"
+	{
+		"chi"		"** **"
+	}
+	"***Zombies will be teleported after 10 seconds***"
+	{
+		"chi"		"** **"
+	}
+	"***The order | 1-Shield 2-Spear 3-Bow 4-Sword***"
+	{
+		"chi"		"** **"
+	}
+	"***Door will open in 15 sec***"
+	{
+		"chi"		"** **"
+	}
+	"***Gate will open in 30 seconds***"
+	{
+		"chi"		"** **"
+	}
+	"***The order | 1-Bow 2-Shield 3-Spear 4-Sword***"
+	{
+		"chi"		"** **"
+	}
+	"***Afk will be teleported after 15 seconds***"
+	{
+		"chi"		"** **"
+	}
+	"***The order | 1-Bow 2-Spear 3-Sword 4-Shield***"
+	{
+		"chi"		"** **"
+	}
+	"***CatGirl can be Cured by 180 HP***"
+	{
+		"chi"		"** **"
+	}
+	"***The order | 1-Spear 2-Shield 3-Sword 4-Bow***"
+	{
+		"chi"		"** **"
+	}
+	"***The order | 1-Sword 2-Shield 3-Spear 4-Bow***"
+	{
+		"chi"		"** **"
+	}
+	"***The order | 1-Spear 2-Bow 3-Shield 4-Sword***"
+	{
+		"chi"		"** **"
+	}
+}

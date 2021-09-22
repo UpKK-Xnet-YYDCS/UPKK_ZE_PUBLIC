@@ -1,0 +1,166 @@
+"BOSSHP"
+{
+	"364480"
+	{
+		"enable"		"0"
+		"hammerid"		"364480"
+		"m_iname"		"heal_kit3"
+	}
+	"268400"
+	{
+		"enable"		"0"
+		"hammerid"		"268400"
+		"m_iname"		"heal_kit2"
+	}
+	"268587"
+	{
+		"enable"		"0"
+		"hammerid"		"268587"
+		"m_iname"		"heal_kit"
+	}
+	"270656"
+	{
+		"enable"		"0"
+		"hammerid"		"270656"
+		"m_iname"		"lvl3_breakable"
+	}
+	"273202"
+	{
+		"enable"		"0"
+		"hammerid"		"273202"
+		"m_iname"		"lvl3_breakable02"
+	}
+	"277702"
+	{
+		"enable"		"0"
+		"hammerid"		"277702"
+		"m_iname"		"lvl3_breakable03"
+	}
+	"277721"
+	{
+		"enable"		"0"
+		"hammerid"		"277721"
+		"m_iname"		"lvl3_breakable03"
+	}
+	"277740"
+	{
+		"enable"		"0"
+		"hammerid"		"277740"
+		"m_iname"		"lvl3_breakable03"
+	}
+	"277759"
+	{
+		"enable"		"0"
+		"hammerid"		"277759"
+		"m_iname"		"lvl3_breakable03"
+	}
+	"201839"
+	{
+		"enable"		"0"
+		"hammerid"		"201839"
+		"m_iname"		"qui_phbox"
+	}
+	"188856"
+	{
+		"enable"		"0"
+		"hammerid"		"188856"
+		"m_iname"		"breakable_door01"
+	}
+	"48169"
+	{
+		"enable"		"0"
+		"hammerid"		"48169"
+	}
+	"37970"
+	{
+		"enable"		"0"
+		"hammerid"		"37970"
+	}
+	"37987"
+	{
+		"enable"		"0"
+		"hammerid"		"37987"
+	}
+	"38004"
+	{
+		"enable"		"0"
+		"hammerid"		"38004"
+	}
+	"38021"
+	{
+		"enable"		"0"
+		"hammerid"		"38021"
+	}
+	"406772"
+	{
+		"enable"		"0"
+		"hammerid"		"406772"
+		"m_iname"		"lvl1_npc_physbox"
+	}
+	"205112"
+	{
+		"enable"		"1"
+		"hammerid"		"205112"
+		"m_iname"		"lvl1_boss1_hpbox"
+	}
+	"364555"
+	{
+		"enable"		"1"
+		"hammerid"		"364555"
+		"m_iname"		"lvl2_hitbox_01"
+	}
+	"389376"
+	{
+		"enable"		"0"
+		"hammerid"		"389376"
+		"m_iname"		"lvl2_npc_physbox"
+	}
+	"389535"
+	{
+		"enable"		"1"
+		"hammerid"		"389535"
+		"m_iname"		"lvl2_boss_health"
+	}
+	"389431"
+	{
+		"enable"		"0"
+		"hammerid"		"389431"
+		"m_iname"		"rock_projectile_phys&4436"
+	}
+	"364508"
+	{
+		"enable"		"0"
+		"hammerid"		"364508"
+		"m_iname"		"filter_bullet"
+	}
+	"269914"
+	{
+		"enable"		"1"
+		"hammerid"		"269914"
+		"m_iname"		"lvl3_boss_health"
+	}
+	"270258"
+	{
+		"enable"		"1"
+		"hammerid"		"270258"
+		"m_iname"		"lvl3_hitter01"
+	}
+	"268200"
+	{
+		"enable"		"-1"
+		"hammerid"		"268200"
+		"m_iname"		"lvl3_npc_physbox"
+	}
+	"268612"
+	{
+		"enable"		"1"
+		"hammerid"		"268612"
+		"m_iname"		"lvl3_boss_healthB"
+	}
+	"268812"
+	{
+		"enable"		"-1"
+		"hammerid"		"268812"
+		"m_iname"		"lvl3_final_health"
+	}
+}

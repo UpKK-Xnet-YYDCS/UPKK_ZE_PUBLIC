@@ -1,0 +1,725 @@
+"BOSSHP"
+{
+	"62922"
+	{
+		"enable"		"1"
+		"hammerid"		"62922"
+		"m_iname"		"level1_boss_hitbox"
+	}
+	"3313"
+	{
+		"enable"		"1"
+		"hammerid"		"3313"
+		"m_iname"		"level3_boss_hitbox"
+	}
+	"645413"
+	{
+		"enable"		"1"
+		"hammerid"		"645413"
+		"m_iname"		"level4_boss_hpbox"
+	}
+	"1271035"
+	{
+		"enable"		"1"
+		"hammerid"		"1271035"
+		"m_iname"		"formortiis_hitbox_head"
+	}
+	"1157432"
+	{
+		"enable"		"0"
+		"hammerid"		"1157432"
+		"m_iname"		"level5_trigger_2"
+	}
+	"1126972"
+	{
+		"enable"		"0"
+		"hammerid"		"1126972"
+		"m_iname"		"level5_last_breakable"
+	}
+	"715137"
+	{
+		"enable"		"0"
+		"hammerid"		"715137"
+		"m_iname"		"level1_fairy_breakable_3"
+	}
+	"715155"
+	{
+		"enable"		"0"
+		"hammerid"		"715155"
+		"m_iname"		"level1_fairy_breakable_4"
+	}
+	"688727"
+	{
+		"enable"		"0"
+		"hammerid"		"688727"
+		"m_iname"		"level1_fairy_breakable"
+	}
+	"688755"
+	{
+		"enable"		"0"
+		"hammerid"		"688755"
+		"m_iname"		"level1_fairy_breakable_2"
+	}
+	"568144"
+	{
+		"enable"		"0"
+		"hammerid"		"568144"
+		"m_iname"		"first_chase_wall"
+	}
+	"560466"
+	{
+		"enable"		"0"
+		"hammerid"		"560466"
+		"m_iname"		"level4_chase_breakable2"
+	}
+	"554261"
+	{
+		"enable"		"0"
+		"hammerid"		"554261"
+		"m_iname"		"level4_chase_shortcut"
+	}
+	"554287"
+	{
+		"enable"		"0"
+		"hammerid"		"554287"
+		"m_iname"		"level4_chase_breakable"
+	}
+	"554369"
+	{
+		"enable"		"0"
+		"hammerid"		"554369"
+		"m_iname"		"level4_chase_breakable1"
+	}
+	"425098"
+	{
+		"enable"		"0"
+		"hammerid"		"425098"
+		"m_iname"		"level4_breakable_3"
+	}
+	"410638"
+	{
+		"enable"		"0"
+		"hammerid"		"410638"
+		"m_iname"		"level4_breakable_2"
+	}
+	"119337"
+	{
+		"enable"		"0"
+		"hammerid"		"119337"
+		"m_iname"		"level4_breakable_1"
+	}
+	"1285"
+	{
+		"enable"		"0"
+		"hammerid"		"1285"
+		"m_iname"		"level3_breakable_3"
+	}
+	"3732"
+	{
+		"enable"		"0"
+		"hammerid"		"3732"
+		"m_iname"		"level3_final_trigger"
+	}
+	"5097"
+	{
+		"enable"		"0"
+		"hammerid"		"5097"
+		"m_iname"		"level3_breakable_2"
+	}
+	"5111"
+	{
+		"enable"		"0"
+		"hammerid"		"5111"
+		"m_iname"		"level3_breakable_trig_1"
+	}
+	"5114"
+	{
+		"enable"		"0"
+		"hammerid"		"5114"
+		"m_iname"		"level3_breakable_trig_2"
+	}
+	"5733"
+	{
+		"enable"		"0"
+		"hammerid"		"5733"
+		"m_iname"		"level3_breakable_1"
+	}
+	"6162"
+	{
+		"enable"		"0"
+		"hammerid"		"6162"
+		"m_iname"		"level1_trigger_1_breakable"
+	}
+	"6170"
+	{
+		"enable"		"0"
+		"hammerid"		"6170"
+		"m_iname"		"maze_breakable"
+	}
+	"6889"
+	{
+		"enable"		"1"
+		"hammerid"		"6889"
+		"m_iname"		"level1_boss_platform_break"
+	}
+	"7512"
+	{
+		"enable"		"0"
+		"hammerid"		"7512"
+		"m_iname"		"level1_trigger_4_rock_box"
+	}
+	"7733"
+	{
+		"enable"		"0"
+		"hammerid"		"7733"
+		"m_iname"		"level1_trigger_2_breakable"
+	}
+	"7883"
+	{
+		"enable"		"0"
+		"hammerid"		"7883"
+		"m_iname"		"level1_trigger_3_rock_box"
+	}
+	"7896"
+	{
+		"enable"		"0"
+		"hammerid"		"7896"
+		"m_iname"		"level1_trigger_4_breakable_1"
+	}
+	"8105"
+	{
+		"enable"		"0"
+		"hammerid"		"8105"
+		"m_iname"		"level2_temple_breakable_1"
+	}
+	"8388"
+	{
+		"enable"		"0"
+		"hammerid"		"8388"
+		"m_iname"		"level2_defense_2_crystal3"
+	}
+	"8413"
+	{
+		"enable"		"0"
+		"hammerid"		"8413"
+		"m_iname"		"level2_defense_4_crystal1"
+	}
+	"8420"
+	{
+		"enable"		"0"
+		"hammerid"		"8420"
+		"m_iname"		"level2_defense_4_crystal2"
+	}
+	"8423"
+	{
+		"enable"		"0"
+		"hammerid"		"8423"
+		"m_iname"		"level2_defense_4_crystal3"
+	}
+	"8426"
+	{
+		"enable"		"0"
+		"hammerid"		"8426"
+		"m_iname"		"level2_defense_4_crystal5"
+	}
+	"8429"
+	{
+		"enable"		"0"
+		"hammerid"		"8429"
+		"m_iname"		"level2_defense_4_breakable"
+	}
+	"8457"
+	{
+		"enable"		"0"
+		"hammerid"		"8457"
+		"m_iname"		"level2_defense_2_crystal1"
+	}
+	"8463"
+	{
+		"enable"		"0"
+		"hammerid"		"8463"
+		"m_iname"		"level2_defense_2_crystal2"
+	}
+	"8473"
+	{
+		"enable"		"0"
+		"hammerid"		"8473"
+		"m_iname"		"level2_defense_1_crystal1"
+	}
+	"8476"
+	{
+		"enable"		"0"
+		"hammerid"		"8476"
+		"m_iname"		"level2_defense_1_crystal2"
+	}
+	"8481"
+	{
+		"enable"		"0"
+		"hammerid"		"8481"
+		"m_iname"		"level2_defense_1_crystal3"
+	}
+	"8548"
+	{
+		"enable"		"0"
+		"hammerid"		"8548"
+		"m_iname"		"level2_defense_1_breakable"
+	}
+	"8561"
+	{
+		"enable"		"0"
+		"hammerid"		"8561"
+		"m_iname"		"level2_defense_2_breakable"
+	}
+	"1019"
+	{
+		"enable"		"1"
+		"hammerid"		"1019"
+		"m_iname"		"level3_boss_hpbar_1"
+	}
+	"1023"
+	{
+		"enable"		"1"
+		"hammerid"		"1023"
+		"m_iname"		"level3_boss_hpbar_2"
+	}
+	"1031"
+	{
+		"enable"		"1"
+		"hammerid"		"1031"
+		"m_iname"		"level3_boss_hpbar_3"
+	}
+	"1027"
+	{
+		"enable"		"1"
+		"hammerid"		"1027"
+		"m_iname"		"level3_boss_hpbar_4"
+	}
+	"1039"
+	{
+		"enable"		"1"
+		"hammerid"		"1039"
+		"m_iname"		"level3_boss_hpbar_5"
+	}
+	"1035"
+	{
+		"enable"		"1"
+		"hammerid"		"1035"
+		"m_iname"		"level3_boss_hpbar_6"
+	}
+	"1043"
+	{
+		"enable"		"1"
+		"hammerid"		"1043"
+		"m_iname"		"level3_boss_hpbar_7"
+	}
+	"1047"
+	{
+		"enable"		"1"
+		"hammerid"		"1047"
+		"m_iname"		"level3_boss_hpbar_8"
+	}
+	"1051"
+	{
+		"enable"		"1"
+		"hammerid"		"1051"
+		"m_iname"		"level3_boss_hpbar_9"
+	}
+	"1055"
+	{
+		"enable"		"1"
+		"hammerid"		"1055"
+		"m_iname"		"level3_boss_hpbar_10"
+	}
+	"3249"
+	{
+		"enable"		"1"
+		"hammerid"		"3249"
+		"m_iname"		"level3_mini_boss_hitbox"
+	}
+	"1076"
+	{
+		"enable"		"1"
+		"hammerid"		"1076"
+		"m_iname"		"level3_boss_crystal_atk_3"
+	}
+	"1103"
+	{
+		"enable"		"1"
+		"hammerid"		"1103"
+		"m_iname"		"level3_boss_crystal_atk_4"
+	}
+	"3322"
+	{
+		"enable"		"1"
+		"hammerid"		"3322"
+		"m_iname"		"level3_boss_crystal_atk_1"
+	}
+	"230776"
+	{
+		"enable"		"1"
+		"hammerid"		"230776"
+		"m_iname"		"level4_boss_hitbox"
+	}
+	"494240"
+	{
+		"enable"		"1"
+		"hammerid"		"494240"
+		"m_iname"		"level4_chase_hitbox"
+	}
+	"561065"
+	{
+		"enable"		"1"
+		"hammerid"		"561065"
+		"m_iname"		"level4_last_hitbox"
+	}
+	"1419740"
+	{
+		"enable"		"1"
+		"hammerid"		"1419740"
+		"m_iname"		"zm_revenge_hitbox"
+	}
+	"1148543"
+	{
+		"enable"		"0"
+		"hammerid"		"1148543"
+		"m_iname"		"level5_crystal"
+	}
+	"1540115"
+	{
+		"enable"		"0"
+		"hammerid"		"1540115"
+		"m_iname"		"devil_moving&1869"
+	}
+	"1540783"
+	{
+		"enable"		"1"
+		"hammerid"		"1540783"
+		"m_iname"		"devil_bring_hitbox&1869"
+	}
+	"661090"
+	{
+		"enable"		"0"
+		"hammerid"		"661090"
+		"m_iname"		"chase_rock_phys1&2319"
+	}
+	"661110"
+	{
+		"enable"		"0"
+		"hammerid"		"661110"
+		"m_iname"		"chase_rock_phys2&2319"
+	}
+	"661118"
+	{
+		"enable"		"0"
+		"hammerid"		"661118"
+		"m_iname"		"chase_rock_phys3&2319"
+	}
+	"661129"
+	{
+		"enable"		"0"
+		"hammerid"		"661129"
+		"m_iname"		"chase_rock_phys4&2319"
+	}
+	"2306693"
+	{
+		"enable"		"0"
+		"hammerid"		"2306693"
+		"m_iname"		"5_defense_last_break"
+	}
+	"2257278"
+	{
+		"enable"		"0"
+		"hammerid"		"2257278"
+		"m_iname"		"5_defense_3_lower_break"
+	}
+	"2241308"
+	{
+		"enable"		"0"
+		"hammerid"		"2241308"
+		"m_iname"		"5_defense_2_upper_break"
+	}
+	"2158643"
+	{
+		"enable"		"0"
+		"hammerid"		"2158643"
+		"m_iname"		"5_castle_defense_breakable"
+	}
+	"2036930"
+	{
+		"enable"		"0"
+		"hammerid"		"2036930"
+		"m_iname"		"level1_defense_rock_breakable"
+	}
+	"1782498"
+	{
+		"enable"		"0"
+		"hammerid"		"1782498"
+		"m_iname"		"level1_trigger_1_break"
+	}
+	"1976842"
+	{
+		"enable"		"1"
+		"hammerid"		"1976842"
+		"m_iname"		"formortiis_hitbox_head"
+	}
+	"1807365"
+	{
+		"enable"		"0"
+		"hammerid"		"1807365"
+		"m_iname"		"level2_defense_2_breakable"
+	}
+	"1438504"
+	{
+		"enable"		"0"
+		"hammerid"		"1438504"
+		"m_iname"		"human_ship"
+	}
+	"405614"
+	{
+		"enable"		"1"
+		"hammerid"		"405614"
+		"m_iname"		"level1_boss_hitbox"
+	}
+	"367379"
+	{
+		"enable"		"0"
+		"hammerid"		"367379"
+		"m_iname"		"level1_defense_1_breakable"
+	}
+	"373088"
+	{
+		"enable"		"1"
+		"hammerid"		"373088"
+		"m_iname"		"level2_boss_break"
+	}
+	"307662"
+	{
+		"enable"		"0"
+		"hammerid"		"307662"
+		"m_iname"		"level2_crystal_break_1"
+	}
+	"308031"
+	{
+		"enable"		"0"
+		"hammerid"		"308031"
+		"m_iname"		"level2_crystal_break_2"
+	}
+	"309877"
+	{
+		"enable"		"0"
+		"hammerid"		"309877"
+		"m_iname"		"level2_crystal_break_3"
+	}
+	"267963"
+	{
+		"enable"		"0"
+		"hammerid"		"267963"
+		"m_iname"		"level1_cave_BREAKABLE"
+	}
+	"265166"
+	{
+		"enable"		"0"
+		"hammerid"		"265166"
+		"m_iname"		"level1_defense_crystal_break_1"
+	}
+	"265183"
+	{
+		"enable"		"0"
+		"hammerid"		"265183"
+		"m_iname"		"level1_defense_crystal_break_2"
+	}
+	"12456"
+	{
+		"enable"		"0"
+		"hammerid"		"12456"
+		"m_iname"		"level2_defense_2_crystal2"
+	}
+	"12509"
+	{
+		"enable"		"0"
+		"hammerid"		"12509"
+		"m_iname"		"level2_defense_2_crystal3"
+	}
+	"13115"
+	{
+		"enable"		"0"
+		"hammerid"		"13115"
+		"m_iname"		"level2_defense_2_crystal1"
+	}
+	"13143"
+	{
+		"enable"		"0"
+		"hammerid"		"13143"
+		"m_iname"		"level2_defense_2_breakable"
+	}
+	"13256"
+	{
+		"enable"		"0"
+		"hammerid"		"13256"
+		"m_iname"		"level2_defense_4_crystal2"
+	}
+	"13519"
+	{
+		"enable"		"0"
+		"hammerid"		"13519"
+		"m_iname"		"level2_defense_4_crystal1"
+	}
+	"13911"
+	{
+		"enable"		"0"
+		"hammerid"		"13911"
+		"m_iname"		"level2_defense_4_crystal5"
+	}
+	"13971"
+	{
+		"enable"		"0"
+		"hammerid"		"13971"
+		"m_iname"		"level2_defense_4_crystal3"
+	}
+	"38694"
+	{
+		"enable"		"0"
+		"hammerid"		"38694"
+		"m_iname"		"level2_defense_4_breakable"
+	}
+	"1101"
+	{
+		"enable"		"0"
+		"hammerid"		"1101"
+		"m_iname"		"level2_defense_1_crystal1"
+	}
+	"1468"
+	{
+		"enable"		"0"
+		"hammerid"		"1468"
+		"m_iname"		"level2_defense_1_crystal2"
+	}
+	"2710"
+	{
+		"enable"		"0"
+		"hammerid"		"2710"
+		"m_iname"		"level2_defense_1_crystal3"
+	}
+	"6331"
+	{
+		"enable"		"0"
+		"hammerid"		"6331"
+		"m_iname"		"level2_defense_1_breakable"
+	}
+	"1739384"
+	{
+		"enable"		"0"
+		"hammerid"		"1739384"
+		"m_iname"		"skelly_box"
+	}
+	"1697719"
+	{
+		"enable"		"0"
+		"hammerid"		"1697719"
+		"m_iname"		"nightmare_box"
+	}
+	"1718600"
+	{
+		"enable"		"0"
+		"hammerid"		"1718600"
+		"m_iname"		"less_demon_box"
+	}
+	"1123385"
+	{
+		"enable"		"1"
+		"hammerid"		"1123385"
+		"m_iname"		"level3_boss_hitbox"
+	}
+	"1138022"
+	{
+		"enable"		"1"
+		"hammerid"		"1138022"
+		"m_iname"		"level3_boss_crystal_atk_1"
+	}
+	"1137980"
+	{
+		"enable"		"1"
+		"hammerid"		"1137980"
+		"m_iname"		"level3_boss_crystal_atk_5"
+	}
+	"1974306"
+	{
+		"enable"		"0"
+		"hammerid"		"1974306"
+		"m_iname"		"devil_moving&1952"
+	}
+	"1974332"
+	{
+		"enable"		"1"
+		"hammerid"		"1974332"
+		"m_iname"		"devil_bring_hitbox&1952"
+	}
+	"347027"
+	{
+		"enable"		"-1"
+		"hammerid"		"347027"
+		"m_iname"		"roy_sword_push_box"
+	}
+	"267879"
+	{
+		"enable"		"-1"
+		"hammerid"		"267879"
+	}
+	"13067"
+	{
+		"enable"		"-1"
+		"hammerid"		"13067"
+	}
+	"35825"
+	{
+		"enable"		"-1"
+		"hammerid"		"35825"
+	}
+	"2480859"
+	{
+		"enable"		"-1"
+		"hammerid"		"2480859"
+		"m_iname"		"grado_main_side_shortcut"
+	}
+	"1124767"
+	{
+		"enable"		"1"
+		"hammerid"		"1124767"
+		"m_iname"		"level3_mini_boss_hitbox&0527"
+	}
+	"1137998"
+	{
+		"enable"		"1"
+		"hammerid"		"1137998"
+		"m_iname"		"level3_boss_crystal_atk_3"
+	}
+	"1137991"
+	{
+		"enable"		"1"
+		"hammerid"		"1137991"
+		"m_iname"		"level3_boss_crystal_atk_4"
+	}
+	"2798856"
+	{
+		"enable"		"-1"
+		"hammerid"		"2798856"
+	}
+	"2799023"
+	{
+		"enable"		"-1"
+		"hammerid"		"2799023"
+		"m_iname"		"door_break"
+	}
+	"2807498"
+	{
+		"enable"		"-1"
+		"hammerid"		"2807498"
+		"m_iname"		"bridge_break"
+	}
+	"2883091"
+	{
+		"enable"		"1"
+		"hammerid"		"2883091"
+		"m_iname"		"level3_boss_crystal_atk_4"
+	}
+}

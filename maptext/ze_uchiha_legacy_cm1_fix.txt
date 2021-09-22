@@ -1,0 +1,460 @@
+"Console_T"
+{
+	"** PLAYER HAS PICKED UP MOKUTON **"
+	{
+		"chi"		"***习得木遁忍术-花树界降临**"
+	}
+	"** PLAYER HAS PICKED UP RASHOMON **"
+	{
+		"chi"		"**习得通灵忍术-五重罗生门 **"
+	}
+	">> PLAYER HAS PICKED UP DOTON <<"
+	{
+		"chi"		"**习得土遁忍术-土流壁 **"
+	}
+	"** PLAYER HAS PICKED UP CHAKRA **"
+	{
+		"chi"		"**得到了秘卷-查克拉 **"
+	}
+	"** PLAYER HAS PICKED UP SUITON **"
+	{
+		"chi"		"**习得了水遁忍术-大爆水冲波 **"
+	}
+	"** PLAYER HAS PICKED UP FUTON **"
+	{
+		"chi"		"**习得了风遁忍术-龙卷飓风 **"
+	}
+	"** PLAYER HAS PICKED UP RAITON **"
+	{
+		"chi"		"**习得了雷遁忍术-雷门 **"
+	}
+	"** PLAYER HAS PICKED UP KATON **"
+	{
+		"chi"		"**习得了火遁忍术-豪火球 **"
+	}
+	"**LEFT DOOR OPENS IN 30 SECONDS**"
+	{
+		"chi"		"**左门将在30秒后打开 **"
+	}
+	"**GATE OPENS IN 15 SECONDS**"
+	{
+		"chi"		"**大门将在15秒后打开 **"
+	}
+	"**GATE OPENS IN 25 SECONDS**"
+	{
+		"chi"		"**大门将在25秒后打开 **"
+	}
+	"**GATE OPENS IN 20 SECONDS**"
+	{
+		"chi"		"**大门将在20秒后打开 **"
+	}
+	"**GATE OPENS IN 10 SECONDS**"
+	{
+		"chi"		"**大门将在10秒后打开 **"
+	}
+	"** ITACHI IS USING A STRONG GENJUTSU **"
+	{
+		"chi"		"**宇智波鼬使用了幻术-月读 **"
+	}
+	"** STAY IN THE MIDDLE **"
+	{
+		"chi"		"**呆在中间不要乱动 **"
+	}
+	"**ITACHI IS LEAVING FALL BACK NOW**"
+	{
+		"chi"		"**宇智波鼬已逃脱 **"
+	}
+	"**ITACHI DOORS OPENS IN 15 SECONDS**"
+	{
+		"chi"		"**宇智波鼬的大门将在15秒后打开 **"
+	}
+	"** GET IN FAST **"
+	{
+		"chi"		"** 快走! **"
+	}
+	"** DO NOT LET ZOMBIES ENTER **"
+	{
+		"chi"		"**不可令污秽侵蚀此地 **"
+	}
+	"**DOORS OPENS IN 20 SECONDS**"
+	{
+		"chi"		"** 此门将于20秒后打开 **"
+	}
+	"**FINAL GATE OPEN IN 15 SECONDS**"
+	{
+		"chi"		"** 最终之门将于15秒后打开 **"
+	}
+	"** DODGE ITACHI KATON **"
+	{
+		"chi"		"**宇智波鼬释放了火遁- **"
+	}
+	"**NADES DO MORE DAMAGE**"
+	{
+		"chi"		"**手雷可以造成更多伤害 **"
+	}
+	"**FINAL DOOR OPENS IN 60 SECONDS**"
+	{
+		"chi"		"** 最终之门将于60秒后打开 **"
+	}
+	"** DEFEND THE BRIDGE 25 MORE SECONDS **"
+	{
+		"chi"		"** 坚守此桥25秒 **"
+	}
+	"**THIS IS YOUR LAST CHANCE**"
+	{
+		"chi"		"**这是你最后的机会,直面你的命运 **"
+	}
+	"**KILL HIM NOW BEFORE ITS TO LATE**"
+	{
+		"chi"		"**在一切都太晚之前杀掉他 **"
+	}
+	"** GET TO THE END **"
+	{
+		"chi"		"** 抵达诸位命运的终点 **"
+	}
+	"**RIGHT DOOR OPENS IN 30 SECONDS**"
+	{
+		"chi"		"**右门将在30秒后打开 **"
+	}
+	"**DOOR OPENS IN 20 SECONDS**"
+	{
+		"chi"		"**大门将在20秒后打开 **"
+	}
+	"**TELEPORT IN 10 SECONDS**"
+	{
+		"chi"		"**10秒后将对挂机玩家施展传送忍术-天送之术 **"
+	}
+	"**GATES OPENS IN 15 SECONDS**"
+	{
+		"chi"		"**大门将在15秒后打开 **"
+	}
+	"**CAVE GATE OPENS IN 15 SECONDS**"
+	{
+		"chi"		"**大门将在15秒后打开 **"
+	}
+	"**DOOR OPENS IN 10 SECONDS**"
+	{
+		"chi"		"**大门将在10秒后打开 **"
+	}
+	"**GATES OPENS IN 20 SECONDS**"
+	{
+		"chi"		"**大门将在20秒后打开 **"
+	}
+	"**DOOR OPENS IN 15 SECONDS**"
+	{
+		"chi"		"**大门将在15秒后打开 **"
+	}
+	"**DEFEND UNTIL SOMETHING HAPPEN**"
+	{
+		"chi"		"** 守住,防范于未然**"
+	}
+	"**30 SECONDS LEFT**"
+	{
+		"chi"		"**还有30秒 **"
+	}
+	"**YOU WON STAGE 2**"
+	{
+		"chi"		"**已通关第二章**"
+	}
+	"**CAVE ENTRANCE OPENS IN 15 SECONDS**"
+	{
+		"chi"		"**大门将在15秒后打开 **"
+	}
+	"** KATON - FIRE RAIN**"
+	{
+		"chi"		"**火遁-爆风乱舞! **"
+		"DoorCountDown"		"6"
+	}
+	"** KATON **"
+	{
+		"chi"		"**火遁-豪火球之术! **"
+		"DoorCountDown"		"4"
+	}
+	"** MOKUTON **"
+	{
+		"chi"		"**木遁-树界降临,快去边缘,不要碰到树! **"
+	}
+	"** REGENERATION **"
+	{
+		"chi"		"**阴伤愈灭!此时吸收攻击的所有伤害! **"
+	}
+	"** MADARA JUST APPEAR **"
+	{
+		"chi"		"**宇智波斑将会出现,小心! **"
+	}
+	"** SHOOT HIM OR GO TO THE SIDE NOW **"
+	{
+		"chi"		"**这就是..神的力量!站在场地边缘躲避! **"
+	}
+	"** ZOMBIES **"
+	{
+		"chi"		"**宇智波带土召唤了僵尸协助,小心! **"
+		"DoorCountDown"		"9"
+	}
+	"** RUN BEHIND KAKASHI **"
+	{
+		"chi"		"**我们快躲到卡卡西背后! **"
+	}
+	"** OBITO IS USING ALTERNATE DIMENSION **"
+	{
+		"chi"		"**带土使用了神威,我们进入了神威空间! **"
+	}
+	"** GOOD JOB YOU FORCED OBITO TO TELEPORT **"
+	{
+		"chi"		"**我们打败了他!带土使用神威逃跑了! **"
+	}
+	"** PRESS THE CRYSTAL TO ENABLE THE TELEPORT **"
+	{
+		"chi"		"**按下水晶激活天送之术,在此之前..坚守！ **"
+	}
+	"**DOOR OPENS IN 30 SECONDS**"
+	{
+		"chi"		"**门将在在30秒后打开 **"
+	}
+	"**OBITO ARENA DOOR OPENS IN 15 SECONDS**"
+	{
+		"chi"		"**15秒后将与宇智波带土决一死战! **"
+	}
+	"** TELEPORT READY IN 10 SECONDS **"
+	{
+		"chi"		"**天送之术将在10秒后启动 **"
+	}
+	"** ZM TELEPORT IN 5 SECONDS **"
+	{
+		"chi"		"**僵尸将在5秒后传送 **"
+	}
+	"** MIDDLE RIGHT DOOR OPENS IN 30 SECONDS**"
+	{
+		"chi"		"**中间靠右的大门30秒后开 **"
+	}
+	"** FINAL GATE OPENS IN 25 SECONDS **"
+	{
+		"chi"		"**我们还能走到多远？坚持25秒！ **"
+	}
+	"** LOW GRAVITY ENABLED **"
+	{
+		"chi"		"**低重力已启动！ **"
+	}
+	"** CLIMB THE MIDDLE AND DEFEND **"
+	{
+		"chi"		"**我们赶紧去跳到中间防守僵尸! **"
+	}
+	"** OBITO TRANSFORMED IN JINCHIRUKI **"
+	{
+		"chi"		"**飞过来的那是?宇智波带土! **"
+	}
+	"** GET READY FOR HIS LAST ATTACK **"
+	{
+		"chi"		"**带土得到了六道之力!躲避天上的弹幕!**"
+	}
+	"**YOU WON STAGE 3**"
+	{
+		"chi"		"**接下来我们将要面对宇智波斑..神的力量 **"
+	}
+	"** CAVE DOOR OPENS IN 30 SECONDS **"
+	{
+		"chi"		"**门将在30秒后打开 **"
+	}
+	"** DOOR OPENS IN 25 SECONDS **"
+	{
+		"chi"		"**门在25秒后打开 **"
+	}
+	"** MIDDLE WAY OPENING SOON.. **"
+	{
+		"chi"		"**中间的路快开了! **"
+	}
+	"** A ROCK IS BLOCKING THE WAY KEEP DEFENDING **"
+	{
+		"chi"		"**这块大石头把路堵住了,继续坚守! **"
+	}
+	"** THE ROCK WILL EXPLODE IN 10 SECONDS **"
+	{
+		"chi"		"**石头将在10秒后爆炸 **"
+	}
+	"** FIND THE LEVER UNDER THE BRIDGE **"
+	{
+		"chi"		"**找到启动桥的拉杆 **"
+	}
+	"** PATH OPEN IN 35 SECONDS **"
+	{
+		"chi"		"**路在35秒后打开 **"
+	}
+	"** TELEPORT ENABLE IN 20 SECONDS **"
+	{
+		"chi"		"**天送之术将在20后释放! **"
+	}
+	"** ZM TELEPORT IN 10 SECONDS **"
+	{
+		"chi"		"**僵尸在10秒后传送 **"
+	}
+	"** GATE OPENS IN 10 SECONDS **"
+	{
+		"chi"		"**门将在10秒后打开 **"
+	}
+	"** FIND THE LEVER UNDER THE WATERFALL TO OPEN THE LEFT DOOR **"
+	{
+		"chi"		"**在瀑布后面应该有个拉杆可以打开左边的门 **"
+	}
+	"** RIGHT DOOR WILL NOT OPEN **"
+	{
+		"chi"		"**右门现在暂时不会打开 **"
+	}
+	"** LEFT DOOR OPENS IN 20 SECONDS **"
+	{
+		"chi"		"**左门将在20秒后打开 **"
+	}
+	"** SHORTCUT OPEN IN 5 SECONDS **"
+	{
+		"chi"		"**小道将在5秒后打开 **"
+	}
+	"** DOOR OPENS IN 20 SECONDS **"
+	{
+		"chi"		"**门将在20秒后打开 **"
+	}
+	"** MIDDLE LEFT DOOR OPENS IN 30 SECONDS**"
+	{
+		"chi"		"**中间靠左的门将于30秒后打开 **"
+	}
+	"** SENPO INTON RAIHA **"
+	{
+		"chi"		"**仙法-阴遁雷派! **"
+	}
+	"** UCHIHA REFLECTION **"
+	{
+		"chi"		"**宇智波反弹!停火！**"
+		"DoorCountDown"		"6"
+	}
+	"** MOKUTON - DEEP FOREST EMERGENCE **"
+	{
+		"chi"		"**木遁-花树界降临! **"
+	}
+	"** CLONE **"
+	{
+		"chi"		"**影分身之术! **"
+	}
+	"** LIGHT FANG **"
+	{
+		"chi"		"**仙法·岚遁光牙! **"
+	}
+	"** RINNEGAN - ABSORPTION **"
+	{
+		"chi"		"**封术吸印,可以吸收伤害! **"
+		"DoorCountDown"		"7"
+	}
+	"** KATON - HIDING IN ASH **"
+	{
+		"chi"		"**火遁-豪火灭却! **"
+	}
+	"** MADARA  IS CHARGING **"
+	{
+		"chi"		"**宇智波斑正在积攒查克拉结印,小心! **"
+	}
+	"** LIMBO - HENGOKU **"
+	{
+		"chi"		"**轮墓-边狱!! **"
+	}
+	"** SHATTERED HEAVEN **"
+	{
+		"chi"		"**禁术-天碍震星! **"
+	}
+	"** DESTROY THE METEOR OR DIE NOW **"
+	{
+		"chi"		"**我们之间的差距过于巨大..赶紧把陨石打碎! **"
+	}
+	"** NADES DO MORE DAMAGE **"
+	{
+		"chi"		"**手雷可以造成更多伤害! **"
+	}
+	"** MADARA IS USING PERFECT SUSANOO **"
+	{
+		"chi"		"**宇智波斑召唤了须佐能乎! **"
+	}
+	"** DESTROY IT **"
+	{
+		"chi"		"**快打败他! **"
+	}
+	"** ZOMBIES TELEPORTING NOW **"
+	{
+		"chi"		"**僵尸现在要传送了! **"
+	}
+	"** GOOD JOB BUT ITS NOT OVER YET **"
+	{
+		"chi"		"**你以为这样子就结束了吗?还没完!宇智波斑召唤了威装-须佐能乎! **"
+	}
+	"** GOOD JOB **"
+	{
+		"chi"		"**干得好,宇智波斑暂时撤退了! **"
+	}
+	"** TELEPORTING NOW **"
+	{
+		"chi"		"**现在传送! **"
+	}
+	"** FINAL DOOR OPENS IN 25 SECONDS **"
+	{
+		"chi"		"**最终之门将在25秒后打开 **"
+	}
+	"** DOOR OPENS IN 15 SECONDS **"
+	{
+		"chi"		"**门将在15秒后打开 **"
+	}
+	"** MADARA ARENA DOOR OPENS IN 15 SECONDS **"
+	{
+		"chi"		"**15秒后，我们将见识到宇智波斑的力量! **"
+	}
+	"** ACTIVATE THE LEVER UNDER THE WATERFALL AGAIN **"
+	{
+		"chi"		"**再次启动瀑布后面的拉杆 **"
+	}
+	"** GET READY FOR HIS FINAL ATTACK **"
+	{
+		"chi"		"**斑:你见过哪个大人会和小孩动真格的吗? **"
+	}
+	"** MADARA WAS WAITING FOR YOU **"
+	{
+		"chi"		"**斑:这是什么表情..我们之间的差距你们不是早已领教过了吗? **"
+	}
+	"** FINISH HIM NOW **"
+	{
+		"chi"		"**区区砂砾..不及我半分! **"
+	}
+	"** YOU'RE A TRUE SHINOBI **"
+	{
+		"chi"		"**你们才是忍界真正的忍者! **"
+	}
+	"** YOU WON STAGE 4 **"
+	{
+		"chi"		"**论忍者的才能，与我较量过的人无出其右，我班愿称你为最强! **"
+	}
+	"** STAGE 1 **"
+	{
+		"chi"		"**你的失败，就是我的现实**"
+	}
+	"** STAGE 2 **"
+	{
+		"chi"		"**只要我一时兴起，就足以要了你的命 **"
+	}
+	"** STAGE 3 **"
+	{
+		"chi"		"**没有光明的世界，花朵只有枯萎 **"
+	}
+	"** STAGE 4 **"
+	{
+		"chi"		"**区区砂砾..不及我半分 **"
+	}
+	"** GATES OPENS IN 15 SECONDS **"
+	{
+		"chi"		"**大门15秒后开 **"
+	}
+	"** ZOMBIE DETECTED **"
+	{
+		"chi"		"**邪恶侵入了此地 **"
+	}
+	"sync_version"
+	{
+		"syncvalue"		"19607"
+	}
+	"**Stripper made by memories for cm2 version**"
+	{
+		"chi"		"** **"
+	}
+}

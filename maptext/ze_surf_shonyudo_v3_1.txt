@@ -1,0 +1,38 @@
+"Console_T"
+{
+	">> The wire mesh will break 10 s <<"
+	{
+		"chi"		"**铁丝网将在10秒后碎裂**"
+	}
+	">> The wire mesh will break 30 s <<"
+	{
+		"chi"		"**铁丝网将在30秒后碎裂**"
+	}
+	">> Scaffolding is generated 10 s <<"
+	{
+		"chi"		"**滑翔路将在10秒后上升**"
+	}
+	">> Scaffolding is generated 30 s <<"
+	{
+		"chi"		"**滑翔路将在30秒后上升**"
+	}
+	">> Things start moving 30 s <<"
+	{
+		"chi"		"**平台将在30秒后移动**"
+	}
+	">> Things start moving 10 s <<"
+	{
+		"chi"		"**平台将在10秒后移动**"
+	}
+	">> Last defend and escape the world !! 10 s <<"
+	{
+		"chi"		"**最后的防守，然后逃离这个世界吧！！**"
+		"DoorCountdown"		"-1"
+	}
+	">> Last defend and escape the world !! 40 s <<"
+	{
+		"chi"		"**最后的防守40秒，然后逃离这个世界吧！！**"
+	}
+}
+
+//repush

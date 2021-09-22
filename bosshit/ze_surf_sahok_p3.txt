@@ -1,0 +1,67 @@
+"BOSSHP"
+{
+	"boss_break"
+	{
+		"enable"		"1"
+	}
+	"CY01Physic"
+	{
+		"enable"		"0"
+	}
+	"physbox"
+	{
+		"enable"		"0"
+	}
+	"boss_nade"
+	{
+		"enable"		"1"
+	}
+	"57215"
+	{
+		"enable"		"1"
+		"hammerid"		"57215"
+		"m_iname"		"boss_nade"
+	}
+	"57221"
+	{
+		"enable"		"1"
+		"hammerid"		"57221"
+		"m_iname"		"boss_break"
+	}
+	"57233"
+	{
+		"enable"		"0"
+		"hammerid"		"57233"
+		"m_iname"		"CY01Physic"
+	}
+	"49691"
+	{
+		"enable"		"0"
+		"hammerid"		"49691"
+		"m_iname"		"physbox"
+	}
+	"32392"
+	{
+		"enable"		"0"
+		"hammerid"		"32392"
+		"m_iname"		"surf_final"
+	}
+	"39871"
+	{
+		"enable"		"0"
+		"hammerid"		"39871"
+		"m_iname"		"break_1"
+	}
+	"43667"
+	{
+		"enable"		"1"
+		"hammerid"		"43667"
+		"m_iname"		"Boss_Physbox"
+	}
+	"98120"
+	{
+		"enable"		"1"
+		"hammerid"		"98120"
+		"m_iname"		"Boss_Nade"
+	}
+}

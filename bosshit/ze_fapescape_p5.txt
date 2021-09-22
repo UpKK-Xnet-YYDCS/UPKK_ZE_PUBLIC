@@ -1,0 +1,658 @@
+"BOSSHP"
+{
+	"boss"
+	{
+		"enable"		"1"
+	}
+	"boss_nade"
+	{
+		"enable"		"1"
+	}
+	"Cannon"
+	{
+		"enable"		"1"
+	}
+	"ammo_model"
+	{
+		"enable"		"0"
+	}
+	"lego_buttonprop"
+	{
+		"enable"		"1"
+	}
+	"heal_kit"
+	{
+		"enable"		"0"
+	}
+	"mine_carry"
+	{
+		"enable"		"0"
+	}
+	"kim2"
+	{
+		"enable"		"1"
+	}
+	"pass2"
+	{
+		"enable"		"1"
+	}
+	"Pushgun"
+	{
+		"enable"		"0"
+	}
+	"rickroll_physbox"
+	{
+		"enable"		"1"
+	}
+	"ubercannon_box"
+	{
+		"enable"		"1"
+	}
+	"uber_colorbutton"
+	{
+		"enable"		"1"
+	}
+	"mouth_phbox"
+	{
+		"enable"		"1"
+	}
+	"robophbox"
+	{
+		"enable"		"1"
+	}
+	"mouth_nade"
+	{
+		"enable"		"1"
+	}
+	"roboboss_nade"
+	{
+		"enable"		"1"
+	}
+	"roboboss_phbox"
+	{
+		"enable"		"1"
+	}
+	"CY01Physic3"
+	{
+		"enable"		"1"
+	}
+	"CY01Physic"
+	{
+		"enable"		"1"
+	}
+	"CY01Physic2"
+	{
+		"enable"		"1"
+	}
+	"flame_phbox"
+	{
+		"enable"		"0"
+	}
+	"retard_physbox"
+	{
+		"enable"		"1"
+	}
+	"retard_physbox2"
+	{
+		"enable"		"1"
+	}
+	"eye"
+	{
+		"enable"		"1"
+	}
+	"2391"
+	{
+		"enable"		"0"
+		"hammerid"		"2391"
+		"m_iname"		"bridge_break3"
+	}
+	"2716"
+	{
+		"enable"		"1"
+		"hammerid"		"2716"
+		"m_iname"		"boss_break"
+	}
+	"2739"
+	{
+		"enable"		"1"
+		"hammerid"		"2739"
+		"m_iname"		"boss_z_wall"
+	}
+	"3047"
+	{
+		"enable"		"1"
+		"hammerid"		"3047"
+		"m_iname"		"boss_3_entry_break"
+	}
+	"3136"
+	{
+		"enable"		"1"
+		"hammerid"		"3136"
+		"m_iname"		"boss_3_exitbreak"
+	}
+	"4244"
+	{
+		"enable"		"1"
+		"hammerid"		"4244"
+		"m_iname"		"level3bossbreak"
+	}
+	"73443"
+	{
+		"enable"		"1"
+		"hammerid"		"73443"
+		"m_iname"		"boss_win_break"
+	}
+	"4559"
+	{
+		"enable"		"0"
+		"hammerid"		"4559"
+		"m_iname"		"Cannon_brick&5272"
+	}
+	"1993"
+	{
+		"enable"		"1"
+		"hammerid"		"1993"
+		"m_iname"		"boss_phbox"
+	}
+	"3138"
+	{
+		"enable"		"1"
+		"hammerid"		"3138"
+		"m_iname"		"boss3_break1"
+	}
+	"3140"
+	{
+		"enable"		"1"
+		"hammerid"		"3140"
+		"m_iname"		"boss3_break2"
+	}
+	"4423"
+	{
+		"enable"		"1"
+		"hammerid"		"4423"
+		"m_iname"		"boss3_break1"
+	}
+	"23192"
+	{
+		"enable"		"0"
+		"hammerid"		"23192"
+		"m_iname"		"mine_phbox&5243"
+	}
+	"4589"
+	{
+		"enable"		"0"
+		"hammerid"		"4589"
+		"m_iname"		"retard_bomb&2218"
+	}
+	"2080"
+	{
+		"enable"		"1"
+		"hammerid"		"2080"
+		"m_iname"		"BossRollingCrap&8132"
+	}
+	"251161"
+	{
+		"enable"		"0"
+		"hammerid"		"251161"
+		"m_iname"		"legodebris&6321"
+	}
+	"435693"
+	{
+		"enable"		"1"
+		"hammerid"		"435693"
+		"m_iname"		"eyeboss_physic"
+	}
+	"592951"
+	{
+		"enable"		"1"
+		"hammerid"		"592951"
+		"m_iname"		"eyebossnade"
+	}
+	"1911"
+	{
+		"enable"		"0"
+		"hammerid"		"1911"
+		"m_iname"		"blockade&5134"
+	}
+	"4533"
+	{
+		"enable"		"0"
+		"hammerid"		"4533"
+		"m_iname"		"Cannon"
+	}
+	"1980"
+	{
+		"enable"		"0"
+		"hammerid"		"1980"
+		"m_iname"		"CY01Physic3"
+	}
+	"2599"
+	{
+		"enable"		"1"
+		"hammerid"		"2599"
+		"m_iname"		"boss"
+	}
+	"2407"
+	{
+		"enable"		"1"
+		"hammerid"		"2407"
+		"m_iname"		"boss_nade"
+	}
+	"4510"
+	{
+		"enable"		"0"
+		"hammerid"		"4510"
+		"m_iname"		"ammo_model"
+	}
+	"24427"
+	{
+		"enable"		"0"
+		"hammerid"		"24427"
+		"m_iname"		"lego_buttonprop"
+	}
+	"4633"
+	{
+		"enable"		"0"
+		"hammerid"		"4633"
+		"m_iname"		"heal_kit"
+	}
+	"23669"
+	{
+		"enable"		"0"
+		"hammerid"		"23669"
+		"m_iname"		"mine_carry"
+	}
+	"1927"
+	{
+		"enable"		"0"
+		"hammerid"		"1927"
+		"m_iname"		"flame_phbox"
+	}
+	"1684"
+	{
+		"enable"		"0"
+		"hammerid"		"1684"
+		"m_iname"		"CY01Physic"
+	}
+	"1863"
+	{
+		"enable"		"0"
+		"hammerid"		"1863"
+		"m_iname"		"CY01Physic2"
+	}
+	"1896"
+	{
+		"enable"		"0"
+		"hammerid"		"1896"
+		"m_iname"		"Pushgun"
+	}
+	"2191"
+	{
+		"enable"		"1"
+		"hammerid"		"2191"
+		"m_iname"		"retard_physbox"
+	}
+	"2875"
+	{
+		"enable"		"0"
+		"hammerid"		"2875"
+		"m_iname"		"kim2"
+	}
+	"2887"
+	{
+		"enable"		"0"
+		"hammerid"		"2887"
+		"m_iname"		"pass2"
+	}
+	"163813"
+	{
+		"enable"		"0"
+		"hammerid"		"163813"
+		"m_iname"		"retard_physbox2"
+	}
+	"403923"
+	{
+		"enable"		"1"
+		"hammerid"		"403923"
+		"m_iname"		"rickroll_physbox"
+	}
+	"25251"
+	{
+		"enable"		"0"
+		"hammerid"		"25251"
+		"m_iname"		"ubercannon_box"
+	}
+	"37163"
+	{
+		"enable"		"0"
+		"hammerid"		"37163"
+		"m_iname"		"uber_colorbutton"
+	}
+	"815871"
+	{
+		"enable"		"0"
+		"hammerid"		"815871"
+		"m_iname"		"SpawnBreak"
+	}
+	"815891"
+	{
+		"enable"		"0"
+		"hammerid"		"815891"
+		"m_iname"		"SpawnBreak"
+	}
+	"2508"
+	{
+		"enable"		"0"
+		"hammerid"		"2508"
+		"m_iname"		"BreakableWhore"
+	}
+	"1689"
+	{
+		"enable"		"0"
+		"hammerid"		"1689"
+		"m_iname"		"break2"
+	}
+	"1698"
+	{
+		"enable"		"0"
+		"hammerid"		"1698"
+		"m_iname"		"Break1First"
+	}
+	"1705"
+	{
+		"enable"		"0"
+		"hammerid"		"1705"
+		"m_iname"		"Break3"
+	}
+	"1714"
+	{
+		"enable"		"0"
+		"hammerid"		"1714"
+		"m_iname"		"break5"
+	}
+	"1723"
+	{
+		"enable"		"0"
+		"hammerid"		"1723"
+		"m_iname"		"Break4"
+	}
+	"1732"
+	{
+		"enable"		"0"
+		"hammerid"		"1732"
+		"m_iname"		"break7"
+	}
+	"1741"
+	{
+		"enable"		"0"
+		"hammerid"		"1741"
+		"m_iname"		"break6"
+	}
+	"1750"
+	{
+		"enable"		"0"
+		"hammerid"		"1750"
+		"m_iname"		"break9"
+	}
+	"1759"
+	{
+		"enable"		"0"
+		"hammerid"		"1759"
+		"m_iname"		"break8"
+	}
+	"1768"
+	{
+		"enable"		"0"
+		"hammerid"		"1768"
+		"m_iname"		"break11"
+	}
+	"1777"
+	{
+		"enable"		"0"
+		"hammerid"		"1777"
+		"m_iname"		"break10"
+	}
+	"1786"
+	{
+		"enable"		"0"
+		"hammerid"		"1786"
+		"m_iname"		"break12"
+	}
+	"1795"
+	{
+		"enable"		"0"
+		"hammerid"		"1795"
+		"m_iname"		"break14"
+	}
+	"1804"
+	{
+		"enable"		"0"
+		"hammerid"		"1804"
+		"m_iname"		"break13"
+	}
+	"1813"
+	{
+		"enable"		"0"
+		"hammerid"		"1813"
+		"m_iname"		"break15"
+	}
+	"1820"
+	{
+		"enable"		"0"
+		"hammerid"		"1820"
+		"m_iname"		"break17"
+	}
+	"1830"
+	{
+		"enable"		"0"
+		"hammerid"		"1830"
+		"m_iname"		"break16"
+	}
+	"1839"
+	{
+		"enable"		"0"
+		"hammerid"		"1839"
+		"m_iname"		"break18Last"
+	}
+	"2442"
+	{
+		"enable"		"0"
+		"hammerid"		"2442"
+		"m_iname"		"breaktheend"
+	}
+	"2446"
+	{
+		"enable"		"0"
+		"hammerid"		"2446"
+		"m_iname"		"breaktheendbefore"
+	}
+	"2681"
+	{
+		"enable"		"0"
+		"hammerid"		"2681"
+		"m_iname"		"stage1_break"
+	}
+	"2785"
+	{
+		"enable"		"0"
+		"hammerid"		"2785"
+		"m_iname"		"end_break1"
+	}
+	"2817"
+	{
+		"enable"		"0"
+		"hammerid"		"2817"
+		"m_iname"		"end_break2"
+	}
+	"2966"
+	{
+		"enable"		"0"
+		"hammerid"		"2966"
+		"m_iname"		"end_break3"
+	}
+	"2990"
+	{
+		"enable"		"0"
+		"hammerid"		"2990"
+		"m_iname"		"break_tyng1"
+	}
+	"3110"
+	{
+		"enable"		"0"
+		"hammerid"		"3110"
+		"m_iname"		"stage_3_cage_break"
+	}
+	"3355"
+	{
+		"enable"		"0"
+		"hammerid"		"3355"
+		"m_iname"		"stage_3_blockbraek"
+	}
+	"3357"
+	{
+		"enable"		"0"
+		"hammerid"		"3357"
+		"m_iname"		"stage_1_linearbreak1"
+	}
+	"3361"
+	{
+		"enable"		"0"
+		"hammerid"		"3361"
+		"m_iname"		"stage_1_linearbreak2"
+	}
+	"3405"
+	{
+		"enable"		"0"
+		"hammerid"		"3405"
+		"m_iname"		"stage_2_breakhold"
+	}
+	"3518"
+	{
+		"enable"		"0"
+		"hammerid"		"3518"
+		"m_iname"		"stage_3_blockbraek2"
+	}
+	"3770"
+	{
+		"enable"		"0"
+		"hammerid"		"3770"
+		"m_iname"		"stage_2_endbreak"
+	}
+	"4247"
+	{
+		"enable"		"0"
+		"hammerid"		"4247"
+		"m_iname"		"break_stage_3_1"
+	}
+	"4296"
+	{
+		"enable"		"0"
+		"hammerid"		"4296"
+		"m_iname"		"lvl1_vents"
+	}
+	"4505"
+	{
+		"enable"		"0"
+		"hammerid"		"4505"
+		"m_iname"		"stage3normalbreak"
+	}
+	"425502"
+	{
+		"enable"		"0"
+		"hammerid"		"425502"
+		"m_iname"		"banana_secret1"
+	}
+	"414006"
+	{
+		"enable"		"0"
+		"hammerid"		"414006"
+		"m_iname"		"uber_breakpath2"
+	}
+	"2624"
+	{
+		"enable"		"0"
+		"hammerid"		"2624"
+		"m_iname"		"BreakableWhore2"
+	}
+	"2657"
+	{
+		"enable"		"0"
+		"hammerid"		"2657"
+		"m_iname"		"BreakableWhore3"
+	}
+	"112378"
+	{
+		"enable"		"0"
+		"hammerid"		"112378"
+		"m_iname"		"uber_breakpath"
+	}
+	"326991"
+	{
+		"enable"		"0"
+		"hammerid"		"326991"
+		"m_iname"		"robophbox"
+	}
+	"329997"
+	{
+		"enable"		"1"
+		"hammerid"		"329997"
+		"m_iname"		"roboboss_nade"
+	}
+	"404024"
+	{
+		"enable"		"1"
+		"hammerid"		"404024"
+		"m_iname"		"roboboss_phbox"
+	}
+	"437066"
+	{
+		"enable"		"1"
+		"hammerid"		"437066"
+		"m_iname"		"eye"
+	}
+	"233468"
+	{
+		"enable"		"1"
+	}
+	"233462"
+	{
+		"enable"		"1"
+		"hammerid"		"233462"
+		"m_iname"		"mouth_phbox"
+	}
+	"236021"
+	{
+		"enable"		"0"
+		"hammerid"		"236021"
+		"m_iname"		"mouth_nade"
+	}
+	"2566"
+	{
+		"enable"		"-1"
+		"hammerid"		"2566"
+	}
+	"2568"
+	{
+		"enable"		"-1"
+		"hammerid"		"2568"
+	}
+	"2570"
+	{
+		"enable"		"-1"
+		"hammerid"		"2570"
+	}
+	"2609"
+	{
+		"enable"		"-1"
+		"hammerid"		"2609"
+	}
+	"2663"
+	{
+		"enable"		"-1"
+		"hammerid"		"2663"
+	}
+	"265861"
+	{
+		"enable"		"1"
+	}
+}

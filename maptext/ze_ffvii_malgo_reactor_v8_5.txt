@@ -1,0 +1,513 @@
+"Console_T"
+{
+	"< Level has been changed on ZM round >"
+	{
+		"chi"		"** 地图级别在ZM回合被改变了 **"
+	}
+	"< Only the chosen may survive! >"
+	{
+		"chi"		"** 只有被选中的人才能存活下来！ **"
+	}
+	"<  Congratulations! You have beaten [INSANE II (ZOMBIDEN VERSION)] >"
+	{
+		"chi"		"** 恭喜你！你击败了[INSANE II（僵尸乐园版本）]难度**"
+	}
+	"< ALL COWBELLS HAVE BEEN BROKEN ** BAHAMUT WILL NOT USE MATERIAS >"
+	{
+		"chi"		"** 所有图画都已破破坏 ** 巴哈姆特将不使用任何技能 **"
+	}
+	"< 2 COWBELLS LEFT! >"
+	{
+		"chi"		"** 还剩2个！ **"
+		"DoorCountDown"		"-1"
+	}
+	"< 1 COWBELLS LEFT!!! >"
+	{
+		"chi"		"** 还剩1个！！！ **"
+		"DoorCountDown"		"-1"
+	}
+	"< 3 COWBELLS LEFT! >"
+	{
+		"chi"		"** 还剩3个！ **"
+		"DoorCountDown"		"-1"
+	}
+	"< Cowbell Side Quest Start >"
+	{
+		"chi"		"** 支线任务开始了 **"
+	}
+	"< NO MORE COWBELL BONUS >"
+	{
+		"chi"		"** 没有更多了 **"
+	}
+	"< A player has picked up ULTIMA materia >"
+	{
+		"chi"		"** 一名玩家拾取了ULTIMA materia **"
+	}
+	"< Level has been changed on INSANE II (ZOMBIDEN VERSION) >"
+	{
+		"chi"		"** 地图级别被更改成INSANE II (僵尸乐园版本)难度 **"
+	}
+	"< ADMIN PRESSED KILL ALL BUTTON >"
+	{
+		"chi"		"** 管理员按下了杀死所有人的按钮 **"
+	}
+	"< PREPARE TO DIE >"
+	{
+		"chi"		"** 准备迎接死亡吧 **"
+	}
+	"< Level has been changed on INSANE II (HELLZ VERSION) >"
+	{
+		"chi"		"** 地图级别被更改成INSANE II (hellz版本)难度 **"
+	}
+	"< Level has been changed on INSANE II (COSMO VERSION) >"
+	{
+		"chi"		"** 地图级别被更改成INSANE II (cosmo版本)难度 **"
+	}
+	"< Level has been changed on Zombie Mode >"
+	{
+		"chi"		"** 地图级别被更改成ZM模式 **"
+	}
+	"< Holy grenade has been picked >"
+	{
+		"chi"		"** 圣光手雷已被拾取 **"
+	}
+	"< Player has picked up Carpenter  >"
+	{
+		"chi"		"** 一名玩家拾取了Carpenter **"
+	}
+	"<  player has picked up the MULE KICK >"
+	{
+		"chi"		"** 一名玩家拾取了MULE KICK **"
+	}
+	"< AQUA Materia has been found >"
+	{
+		"chi"		"** AQUA Materia被找到了 **"
+	}
+	"< Gandalf staff has been picked! >"
+	{
+		"chi"		"** Gandalf staff 被拾取了！ **"
+	}
+	"< True Fire has been picked up >"
+	{
+		"chi"		"** True Fire被拾取了 **"
+	}
+	"< Freeze Gun has been picked up >"
+	{
+		"chi"		"** Freeze Gun被拾取了 **"
+	}
+	"< Shotgun pickep up ! (10 shots) ! >"
+	{
+		"chi"		"** Shotgun被拾取了！(10次使用次数！) **"
+		"DoorCountDown"		"-1"
+	}
+	"[ITEMS] Shotgun is empty !"
+	{
+		"chi"		"** [道具]Shotgun打空了！ **"
+	}
+	"< Flame Gun has been picked up >"
+	{
+		"chi"		"** Flame Gun被拾取了 **"
+	}
+	"< Player has picked up Bombs Droids >"
+	{
+		"chi"		"** 一名玩家拾取了Bombs Droids **"
+	}
+	"< It has 5 uses >"
+	{
+		"chi"		"** Bombs Droids能使用5次 **"
+		"DoorCountDown"		"-1"
+	}
+	"< A player picked up Black Mage Flare >"
+	{
+		"chi"		"** 一名玩家拾取了Black Mage Flare **"
+	}
+	"< Katana Sword has been picked up! >"
+	{
+		"chi"		"** Katana Sword被拾取了 **"
+	}
+	"< A player picked up Force Lightning >"
+	{
+		"chi"		"** 一名玩家拾取了Force Lightning **"
+	}
+	"< Wunderwaffe has been picked up >"
+	{
+		"chi"		"** Wunderwaffe被拾取了 **"
+	}
+	"< Cactuar has been picked up >"
+	{
+		"chi"		"** Cactuar被拾取了 **"
+	}
+	"< ULTIMA Materia has been found >"
+	{
+		"chi"		"** ULTIMA Materia被拾取了 **"
+	}
+	"< Wind Materia has been picked up >"
+	{
+		"chi"		"** Wind Materia被拾取了 **"
+	}
+	"< Pidaras Weapons Round >"
+	{
+		"chi"		"** Pidaras武器回合 **"
+	}
+	"< 1 Holy Bomb, 1 Minigun, 2 Shotguns >"
+	{
+		"chi"		"** 1个圣光手雷, 1个Minigun, 2个Shotguns > **"
+		"DoorCountDown"		"-1"
+	}
+	"< Ultima - Heal Only Round >"
+	{
+		"chi"		"** 只有Ultima - Heal回合 **"
+	}
+	"< COD Zombie Weapons Round >"
+	{
+		"chi"		"** COD僵尸武器回合 **"
+	}
+	"< Normal Round - 0 extra materia >"
+	{
+		"chi"		"** 正常回合-没有额外神器 **"
+	}
+	"< Melee Materia Round >"
+	{
+		"chi"		"** 近战武器回合 **"
+	}
+	"< Double Ultima Round >"
+	{
+		"chi"		"** 双终极回合 **"
+	}
+	"<  Congratulations! You have beaten [INSANE II (COSMO VERSION)] >"
+	{
+		"chi"		"** 恭喜你！你击败了[INSANE II（cosmo版本）]难度 **"
+	}
+	"< Zombies detected! You lose! >"
+	{
+		"chi"		"** 发现僵尸！你输了！ **"
+	}
+	"< So smug but for how long >"
+	{
+		"chi"		"** 如此自鸣得意，但又能多久 **"
+	}
+	"< Blast Doors will open for 35 seconds >"
+	{
+		"chi"		"** 防爆门将在35秒后打开 **"
+	}
+	"< ZOMBIE MODE >"
+	{
+		"chi"		"** ZM模式 **"
+	}
+	"< TRY TO SURVIVE IN THE REACTOR AREA >"
+	{
+		"chi"		"** 尝试在魔胱炉反应堆中存活 **"
+	}
+	"< True Fire has been spawned >"
+	{
+		"chi"		"** 已生成True Fire **"
+	}
+	"< Dark Mode has been activated >"
+	{
+		"chi"		"** 暗模式已被激活 **"
+	}
+	"< Cactuar has been spawned >"
+	{
+		"chi"		"** 控制器已被激活 **"
+	}
+	"< Way will open in 12 seconds >"
+	{
+		"chi"		"** 道路将在12秒后打开 **"
+	}
+	"< Way will open in 16 seconds >"
+	{
+		"chi"		"** 道路将在16秒后打开 **"
+	}
+	"< The door will open in 20 seconds >"
+	{
+		"chi"		"** 大门将在20秒打开 **"
+	}
+	"< Way will open in 15 seconds >"
+	{
+		"chi"		"** 道路将在15秒后打开 **"
+	}
+	"< Way will open in 10 seconds >"
+	{
+		"chi"		"** 道路将在10秒后打开 **"
+	}
+	"< Way will open in 20 seconds >"
+	{
+		"chi"		"** 道路将在20秒后打开 **"
+	}
+	"< Way will open in 20 seconds >"
+	{
+		"chi"		"** 道路将在20秒后打开 **"
+	}
+	"<  Congratulations! You have beaten [INSANE II (HELLZ VERSION)] >"
+	{
+		"chi"		"** 恭喜你！你击败了[INSANE II（hellz版本）]难度 **"
+	}
+	"< Teleport will enable in 20 seconds >"
+	{
+		"chi"		"** 传送将在20秒启用 **"
+	}
+	"< Teleport will enable in 20 seconds >"
+	{
+		"chi"		"** 传送将在20秒启用 **"
+	}
+	"< Lift will start in 15 seconds >"
+	{
+		"chi"		"** 升降机将在15秒后启动 **"
+	}
+	"< Elevetor will start in 15 seconds >"
+	{
+		"chi"		"** 电梯将在15秒后启动 **"
+	}
+	"< Too late for laments! >"
+	{
+		"chi"		"** 为时已晚！ **"
+	}
+	"< I'll see you again. >"
+	{
+		"chi"		"** 我将会再次见到你。 **"
+	}
+	"< Say goodbye! >"
+	{
+		"chi"		"** 说再见吧！ **"
+	}
+	"< Impressive! >"
+	{
+		"chi"		"** 真令人印象深刻！ **"
+	}
+	"< Dodge this! >"
+	{
+		"chi"		"** 躲开他！ **"
+	}
+	"< Ugh... Defeated... >"
+	{
+		"chi"		"** 呃...失败了... **"
+	}
+	"< I've been... Defeated? >"
+	{
+		"chi"		"** 我被...击败了？ **"
+	}
+	"< Map by Ma/l/go >"
+	{
+		"chi"		"** 地图作者：Ma/l/go 地图翻译：神々が恋した幻想郷 **"
+	}
+	"< Thanks Meringer*#eZ, Lerrdy and DEVIL for help >"
+	{
+		"chi"		"** 十分感谢Meringer*#eZ, Lerrdy and DEVIL的帮助 **"
+	}
+	"< Special thanks for all testers, you are the best guys >"
+	{
+		"chi"		"** 特别感谢所有测试人员，你们是最好的伙伴 **"
+	}
+	"< INSANE II (ZOMBIDEN VERSION) >"
+	{
+		"chi"		"** INSANE II(僵尸乐园版本) **"
+	}
+	"< INSANE II (HELLZ VERSION) >"
+	{
+		"chi"		"** INSANE II(hellz版本) **"
+	}
+	"< INSANE II (COSMO VERSION) >"
+	{
+		"chi"		"** INSANE II(cosmo版本) **"
+	}
+	"**The Gate will open in 15 seconds**"
+	{
+		"chi"		"** 大门将 15秒后打开 **"
+	}
+	"**The Gate will open in 15 seconds**"
+	{
+		"chi"		"** 大门将 15秒后打开 **"
+	}
+	"< Map by Malgo >"
+	{
+		"chi"		"** **"
+	}
+	"< Ill see you again. >"
+	{
+		"chi"		"** **"
+	}
+	"< Ive been... Defeated? >"
+	{
+		"chi"		"** **"
+	}
+	"sync_version"
+	{
+		"syncvalue"		"67763"
+	}
+	"Map made by Malgo"
+	{
+		"chi"		"** **"
+	}
+	"< WARMUP >"
+	{
+		"chi"		"** **"
+	}
+	"ze_ffvii_malgo_reactor"
+	{
+		"chi"		"** **"
+	}
+	"< INSANE II (ZOMBIEDEN VERSION) >"
+	{
+		"chi"		"** **"
+	}
+	"< Elevetor will start in 25 seconds >"
+	{
+		"chi"		"** **"
+	}
+	"** ELECTRO Materia has been found. **"
+	{
+		"chi"		"** **"
+	}
+	"** HEAL Materia has been found. **"
+	{
+		"chi"		"** **"
+	}
+	"< BAHAMUT CASTED AQUA >"
+	{
+		"chi"		"** **"
+	}
+	"< BAHAMUT CASTED GRAVITY >"
+	{
+		"chi"		"** **"
+	}
+	"< BAHAMUT CASTED FIRE >"
+	{
+		"chi"		"** **"
+	}
+	"< BAHAMUT CASTED WIND >"
+	{
+		"chi"		"** **"
+	}
+	"< The Gate will open in 10 seconds >"
+	{
+		"chi"		"** **"
+	}
+	"** EARTH Materia has been found. **"
+	{
+		"chi"		"** **"
+	}
+	"< Double Doors will open in 20 seconds >"
+	{
+		"chi"		"** **"
+	}
+	"< Hmm... I was expecting more... >"
+	{
+		"chi"		"** **"
+	}
+	"** MIMIC Materia has been found. **"
+	{
+		"chi"		"** **"
+	}
+	"< BAHAMUT CASTED HEAL >"
+	{
+		"chi"		"** **"
+	}
+	"< BAHAMUT CASTED ELECTRO >"
+	{
+		"chi"		"** **"
+	}
+	"< BAHAMUT CASTED BARRIER >"
+	{
+		"chi"		"** **"
+	}
+	"** BIO Materia has been found. **"
+	{
+		"chi"		"** **"
+	}
+	"< BAHAMUT MIMICS FAILS >"
+	{
+		"chi"		"** **"
+	}
+	"< BAHAMUT CASTED BIO >"
+	{
+		"chi"		"** **"
+	}
+	"** FIRE Materia has been found. **"
+	{
+		"chi"		"** **"
+	}
+	"< BAHAMUT CASTED ICE >"
+	{
+		"chi"		"** **"
+	}
+	"< BAHAMUT CASTED EARTH >"
+	{
+		"chi"		"** **"
+	}
+	"< BAHAMUT MIMICS FIRE >"
+	{
+		"chi"		"** **"
+	}
+	"< BAHAMUT CASTED ULTIMA >"
+	{
+		"chi"		"** **"
+	}
+	"< The Gate will open in 15 seconds >"
+	{
+		"chi"		"** **"
+	}
+	"< Cargo lift starts in 25 seconds >"
+	{
+		"chi"		"** **"
+	}
+	"< BAHAMUT MIMICS ULTIMA >"
+	{
+		"chi"		"** **"
+	}
+	"< Lift will start in 20 seconds >"
+	{
+		"chi"		"** **"
+	}
+	"< Seems I do not have to hold back. >"
+	{
+		"chi"		"** **"
+	}
+	"< Final door opens in 30 seconds >"
+	{
+		"chi"		"** **"
+	}
+	"**All materias are disabled!!**"
+	{
+		"chi"		"** **"
+	}
+	"< Whats the... its a teleport! >"
+	{
+		"chi"		"** **"
+	}
+	"< Run to the teleport! >"
+	{
+		"chi"		"** **"
+	}
+	"< INSANE II (ZOMBIEDEN VERSION) was beaten. Unlocking INSANE II (HELLZ VERSION) >"
+	{
+		"chi"		"** **"
+	}
+	"** Map Status: Stripper #2 Enable **"
+	{
+		"chi"		"** **"
+	}
+	"** AQUA Materia has been found. **"
+	{
+		"chi"		"** **"
+	}
+	"** An administrator has set [COSMO VERSION] for next round! **"
+	{
+		"chi"		"** **"
+	}
+	"< INSANE V (COSMO VERSION) >"
+	{
+		"chi"		"** **"
+	}
+	"< A player has picked up TATICAL NUKE >"
+	{
+		"chi"		"** **"
+	}
+	"< BAHAMUT MIMICS AQUA >"
+	{
+		"chi"		"** **"
+	}
+	"** Map Status: Stripper #4 Enable **"
+	{
+		"chi"		"** **"
+	}
+}

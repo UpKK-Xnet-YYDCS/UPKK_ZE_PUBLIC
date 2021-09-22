@@ -1,0 +1,89 @@
+"Console_T"
+{
+	"*** stay for 25 sec ***"
+	{
+		"chi"		"**防守25秒**"
+	}
+	"*** stay for 10 sec ***"
+	{
+		"chi"		"**防守10秒**"
+	}
+	"*** stay for 30 sec ***"
+	{
+		"chi"		"**防守30秒**"
+	}
+	"*** stay for 20 sec ***"
+	{
+		"chi"		"**防守20秒**"
+	}
+	"*** stay for 15 sec ***"
+	{
+		"chi"		"**防守15秒**"
+	}
+	"*** ......... ***"
+	{
+		"chi"		"**找齐了5个水晶！开启隐藏关卡！**"
+		"DoorCountDown"		"-1"
+	}
+	"*** stay for 45 sec ***"
+	{
+		"chi"		"**防守45秒**"
+	}
+	"*** hurt ***"
+	{
+		"chi"		"**boss放出了伤害区域！注意躲避！**"
+		"DoorCountDown"		"3"
+	}
+	"*** laser ***"
+	{
+		"chi"		"**boss想一刀削死你！准备跳！**"
+		"DoorCountDown"		"3"
+	}
+	"*** down ***"
+	{
+		"chi"		"**boss想压死你！快去正中央躲避！**"
+		"DoorCountDown"		"3"
+	}
+	"*** pull ***"
+	{
+		"chi"		"**boss想把你吸下去！快按住S！**"
+		"DoorCountDown"		"3"
+	}
+	"*** wait for 20 sec ***"
+	{
+		"chi"		"**等待20秒**"
+	}
+	"*** up ***"
+	{
+		"chi"		"**boss要把你举高高！快去左右两边躲避！**"
+		"DoorCountDown"		"3"
+	}
+	"sync_version"
+	{
+		"syncvalue"		"90241"
+	}
+	"*** water level 2 ***"
+	{
+		"chi"		"** **"
+	}
+	"*** earth level 2 ***"
+	{
+		"chi"		"** **"
+	}
+	"*** ..........dream.......... ***"
+	{
+		"chi"		"** **"
+	}
+	"*** stay for 120 sec ***"
+	{
+		"chi"		"** **"
+	}
+	"***map by EternalDream***"
+	{
+		"chi"		"** **"
+	}
+	"*** rtv one more ***"
+	{
+		"chi"		"** **"
+	}
+}

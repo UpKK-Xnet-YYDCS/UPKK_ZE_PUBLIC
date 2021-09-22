@@ -1,0 +1,27 @@
+"Console_T"
+{
+	"*** BOAT EVACUATION ***"
+	{
+		"chi"		"**本关路线：船 **"
+		"DoorCountdown"		"10"
+	}
+	"*** HELICOPTER EVACUATION ***"
+	{
+		"chi"		"**本关路线：直升机 **"
+		"DoorCountdown"		"10"
+	}
+	"*** TRAIN EVACUATION ***"
+	{
+		"chi"		"**本关路线：火车 **"
+		"DoorCountdown"		"10"
+	}
+	"*** TRUCK EVACUATION ***"
+	{
+		"chi"		"**本关路线：卡车 **"
+		"DoorCountdown"		"10"
+	}
+	"sync_version"
+	{
+		"syncvalue"		"47893"
+	}
+}

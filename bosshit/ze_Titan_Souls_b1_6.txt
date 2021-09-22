@@ -1,0 +1,260 @@
+"BOSSHP"
+{
+	"103004"
+	{
+		"enable"		"1"
+		"hammerid"		"103004"
+		"m_iname"		"LV1 boss bottomblock"
+	}
+	"102107"
+	{
+		"enable"		"0"
+		"hammerid"		"102107"
+		"m_iname"		"LV1 end block"
+	}
+	"90221"
+	{
+		"enable"		"1"
+		"hammerid"		"90221"
+		"m_iname"		"LV1 boss room T block"
+	}
+	"86273"
+	{
+		"enable"		"0"
+		"hammerid"		"86273"
+		"m_iname"		"T life 1"
+	}
+	"86276"
+	{
+		"enable"		"0"
+		"hammerid"		"86276"
+		"m_iname"		"T life 2"
+	}
+	"86279"
+	{
+		"enable"		"0"
+		"hammerid"		"86279"
+		"m_iname"		"T life 3"
+	}
+	"86282"
+	{
+		"enable"		"0"
+		"hammerid"		"86282"
+		"m_iname"		"T life 4"
+	}
+	"86285"
+	{
+		"enable"		"0"
+		"hammerid"		"86285"
+		"m_iname"		"CT life 4"
+	}
+	"86371"
+	{
+		"enable"		"0"
+		"hammerid"		"86371"
+		"m_iname"		"CT life 1"
+	}
+	"86374"
+	{
+		"enable"		"0"
+		"hammerid"		"86374"
+		"m_iname"		"CT life 2"
+	}
+	"86377"
+	{
+		"enable"		"0"
+		"hammerid"		"86377"
+		"m_iname"		"CT life 3"
+	}
+	"85278"
+	{
+		"enable"		"0"
+		"hammerid"		"85278"
+		"m_iname"		"LV phys"
+	}
+	"85281"
+	{
+		"enable"		"0"
+		"hammerid"		"85281"
+		"m_iname"		"LV phys"
+	}
+	"79402"
+	{
+		"enable"		"1"
+		"hammerid"		"79402"
+		"m_iname"		"boss hitbox"
+	}
+	"79535"
+	{
+		"enable"		"0"
+		"hammerid"		"79535"
+		"m_iname"		"moving center"
+	}
+	"59531"
+	{
+		"enable"		"0"
+		"hammerid"		"59531"
+		"m_iname"		"LV1 break3"
+	}
+	"59543"
+	{
+		"enable"		"0"
+		"hammerid"		"59543"
+		"m_iname"		"LV1 break3"
+	}
+	"60518"
+	{
+		"enable"		"0"
+		"hammerid"		"60518"
+	}
+	"60544"
+	{
+		"enable"		"0"
+		"hammerid"		"60544"
+		"m_iname"		"LV1 GAME1 block"
+	}
+	"57253"
+	{
+		"enable"		"0"
+		"hammerid"		"57253"
+		"m_iname"		"LV1 break2"
+	}
+	"57269"
+	{
+		"enable"		"0"
+		"hammerid"		"57269"
+		"m_iname"		"LV1 break2"
+	}
+	"57045"
+	{
+		"enable"		"0"
+		"hammerid"		"57045"
+		"m_iname"		"LV1 break1"
+	}
+	"14710"
+	{
+		"enable"		"0"
+		"hammerid"		"14710"
+		"m_iname"		"switch model(dark)"
+	}
+	"14819"
+	{
+		"enable"		"-1"
+		"hammerid"		"14819"
+		"m_iname"		"switch model(light)"
+	}
+	"86107"
+	{
+		"enable"		"-1"
+		"hammerid"		"86107"
+		"m_iname"		"GAME1 T cloth button"
+	}
+	"86113"
+	{
+		"enable"		"-1"
+		"hammerid"		"86113"
+		"m_iname"		"GAME1 T rock button"
+	}
+	"86110"
+	{
+		"enable"		"-1"
+		"hammerid"		"86110"
+		"m_iname"		"GAME1 T scissor button"
+	}
+	"86165"
+	{
+		"enable"		"-1"
+		"hammerid"		"86165"
+		"m_iname"		"GAME1 T choice picture"
+	}
+	"86088"
+	{
+		"enable"		"-1"
+		"hammerid"		"86088"
+		"m_iname"		"GAME1 CT paper button"
+	}
+	"86091"
+	{
+		"enable"		"-1"
+		"hammerid"		"86091"
+		"m_iname"		"GAME1 CT rock button"
+	}
+	"86085"
+	{
+		"enable"		"-1"
+		"hammerid"		"86085"
+		"m_iname"		"GAME1 CT scissor button"
+	}
+	"86232"
+	{
+		"enable"		"-1"
+		"hammerid"		"86232"
+		"m_iname"		"GAME1 CT choice picture"
+	}
+	"86263"
+	{
+		"enable"		"-1"
+		"hammerid"		"86263"
+		"m_iname"		"GAME1 decision model"
+	}
+	"86206"
+	{
+		"enable"		"-1"
+		"hammerid"		"86206"
+		"m_iname"		"GAME1 rock pic"
+	}
+	"86203"
+	{
+		"enable"		"-1"
+		"hammerid"		"86203"
+		"m_iname"		"GAME1 scissor pic"
+	}
+	"86200"
+	{
+		"enable"		"-1"
+		"hammerid"		"86200"
+		"m_iname"		"GAME1 paper pic"
+	}
+	"61624"
+	{
+		"enable"		"-1"
+		"hammerid"		"61624"
+		"m_iname"		"arrow"
+	}
+	"79379"
+	{
+		"enable"		"1"
+		"hammerid"		"79379"
+		"m_iname"		"boss life 1"
+	}
+	"79382"
+	{
+		"enable"		"1"
+		"hammerid"		"79382"
+		"m_iname"		"boss life 2"
+	}
+	"79385"
+	{
+		"enable"		"1"
+		"hammerid"		"79385"
+		"m_iname"		"boss life 3"
+	}
+	"79388"
+	{
+		"enable"		"1"
+		"hammerid"		"79388"
+		"m_iname"		"boss life 4"
+	}
+	"79391"
+	{
+		"enable"		"1"
+		"hammerid"		"79391"
+		"m_iname"		"boss life 5"
+	}
+	"79431"
+	{
+		"enable"		"1"
+		"hammerid"		"79431"
+		"m_iname"		"boss_jump_test_brush"
+	}
+}

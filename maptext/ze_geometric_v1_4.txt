@@ -1,0 +1,120 @@
+"Console_T"
+{
+	"<< hold for 25 seconds >>"
+	{
+		"chi"		"** **"
+	}
+	"<< hold for 30 seconds >>"
+	{
+		"chi"		"** **"
+	}
+	"<< hold for 15 seconds >>"
+	{
+		"chi"		"** **"
+	}
+	"<< Shooting the square to recharge the power of the lift >>"
+	{
+		"chi"		">>>射击不同颜色的方块来为电梯充能<<<"
+	}
+	"<< The lift will RE-recharge if the power is more than 100 >>"
+	{
+		"chi"		">>>如果能量超过100，那么充能就会被重置<<<"
+		"DoorCountdown"		"-1"
+	}
+	"<< TIPS: red square will get 10 power >>"
+	{
+		"chi"		">>>红色的方块会提供10%的能量<<<"
+		"DoorCountdown"		"-1"
+	}
+	"<< TIPS: green square will get 20 power >>"
+	{
+		"chi"		">>>绿色的方块会提供20%的能量<<<"
+		"DoorCountdown"		"-1"
+	}
+	"<< TIPS: blue square will get 30 power >>"
+	{
+		"chi"		">>>蓝色方块会提供30%的能量<<<"
+		"DoorCountdown"		"-1"
+	}
+	"<< TIPS: white square will refresh other square >>"
+	{
+		"chi"		">>>击碎白色方块会刷新一组新的颜色的方块<<<"
+	}
+	"<< Platform will move in 8 seconds >>"
+	{
+		"chi"		"** **"
+	}
+	"<< Hold for 35 seconds >>"
+	{
+		"chi"		"** **"
+	}
+	"<< STAGE COMPLETE >>"
+	{
+		"chi"		"** **"
+	}
+	"<< Hold for 60 seconds >>"
+	{
+		"chi"		"** **"
+	}
+	"<< 10 seconds >>"
+	{
+		"chi"		"** **"
+	}
+	"<< Next Stage coming soon...... >>"
+	{
+		"chi"		"** **"
+	}
+	"sync_version"
+	{
+		"syncvalue"		"26503"
+	}
+	"<< Hold for 40 seconds>>"
+	{
+		"chi"		"** **"
+	}
+	"<< Hold for 20 seconds >>"
+	{
+		"chi"		"** **"
+	}
+	"<< End in 120 seconds >>"
+	{
+		"chi"		"** **"
+	}
+	"<< Hold for 35 seconds>>"
+	{
+		"chi"		"** **"
+	}
+	"<< Warning: 20 seconds left >>"
+	{
+		"chi"		"** **"
+		"DoorCountdown"		"-1"
+	}
+	"<< ... >>"
+	{
+		"chi"		"** **"
+	}
+	"<< World 1st Winner is coming!!! >>"
+	{
+		"chi"		">>>世界第一名地图优胜玩家登场了！<<<"
+	}
+	"<< reverse...... >>"
+	{
+		"chi"		">>>注意：boss战操作反向！<<<"
+	}
+	"<< quiet before the storm...... >>"
+	{
+		"chi"		">>>暴风雨前的宁静......<<<"
+	}
+	"<< RTV plz >>"
+	{
+		"chi"		"** **"
+	}
+	"<< RTV3 >>"
+	{
+		"chi"		"** **"
+	}
+	"<< RTV2 >>"
+	{
+		"chi"		"** **"
+	}
+}

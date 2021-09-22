@@ -1,0 +1,69 @@
+"BOSSHP"
+{
+	"800"
+	{
+		"enable"		"1"
+		"hammerid"		"800"
+		"m_iname"		"Boss_Hitbox"
+	}
+	"11947"
+	{
+		"enable"		"0"
+		"hammerid"		"11947"
+		"m_iname"		"Just_Wall_1"
+	}
+	"11957"
+	{
+		"enable"		"0"
+		"hammerid"		"11957"
+		"m_iname"		"Just_Wall_2"
+	}
+	"11960"
+	{
+		"enable"		"0"
+		"hammerid"		"11960"
+		"m_iname"		"Just_Wall_3"
+	}
+	"13069"
+	{
+		"enable"		"0"
+		"hammerid"		"13069"
+		"m_iname"		"Secret_Clip"
+	}
+	"40227"
+	{
+		"enable"		"0"
+		"hammerid"		"40227"
+		"m_iname"		"Monster_ZM_Take_Break"
+	}
+	"43092"
+	{
+		"enable"		"0"
+		"hammerid"		"43092"
+		"m_iname"		"Monster_ZM_Phys"
+	}
+	"46719"
+	{
+		"enable"		"1"
+		"hammerid"		"46719"
+		"m_iname"		"2Boss_Break"
+	}
+	"54436"
+	{
+		"enable"		"0"
+		"hammerid"		"54436"
+		"m_iname"		"House_Break"
+	}
+	"54492"
+	{
+		"enable"		"1"
+		"hammerid"		"54492"
+		"m_iname"		"2Boss_Hold_Break"
+	}
+	"10926"
+	{
+		"enable"		"0"
+		"hammerid"		"10926"
+		"m_iname"		"item_balrog_hp"
+	}
+}

@@ -1,0 +1,741 @@
+"BOSSHP"
+{
+	"3590"
+	{
+		"enable"		"0"
+		"hammerid"		"3590"
+		"m_iname"		"Fixed_Icecap_TubPhys"
+	}
+	"74790"
+	{
+		"enable"		"0"
+		"hammerid"		"74790"
+		"m_iname"		"Fixed_Train_Zombie_Block3"
+	}
+	"187692"
+	{
+		"enable"		"0"
+		"hammerid"		"187692"
+		"m_iname"		"Fixed_City_Elevator_Collisions"
+	}
+	"233653"
+	{
+		"enable"		"0"
+		"hammerid"		"233653"
+		"m_iname"		"Fixed_City_Elevator_Glass"
+	}
+	"233771"
+	{
+		"enable"		"0"
+		"hammerid"		"233771"
+		"m_iname"		"Fixed_City_Elevator_Glass"
+	}
+	"1058972"
+	{
+		"enable"		"0"
+		"hammerid"		"1058972"
+		"m_iname"		"Fixed_Train_MoveStair"
+	}
+	"1414218"
+	{
+		"enable"		"1"
+		"hammerid"		"1414218"
+		"m_iname"		"Fixed_Zeal_Boss_Break"
+	}
+	"74762"
+	{
+		"enable"		"0"
+		"hammerid"		"74762"
+		"m_iname"		"Fixed_Train_Zombie_Block2"
+	}
+	"74776"
+	{
+		"enable"		"0"
+		"hammerid"		"74776"
+		"m_iname"		"Fixed_Train_Zombie_Block1"
+	}
+	"2012"
+	{
+		"enable"		"0"
+		"hammerid"		"2012"
+		"m_iname"		"Nade_Floor1"
+	}
+	"2015"
+	{
+		"enable"		"0"
+		"hammerid"		"2015"
+		"m_iname"		"Nade_Floor2"
+	}
+	"2089"
+	{
+		"enable"		"0"
+		"hammerid"		"2089"
+		"m_iname"		"Nade_Block"
+	}
+	"2746"
+	{
+		"enable"		"0"
+		"hammerid"		"2746"
+		"m_iname"		"Carpet_Door"
+	}
+	"2753"
+	{
+		"enable"		"0"
+		"hammerid"		"2753"
+		"m_iname"		"Carpet_Breakable"
+	}
+	"2904"
+	{
+		"enable"		"0"
+		"hammerid"		"2904"
+		"m_iname"		"Carpet_Block1"
+	}
+	"2930"
+	{
+		"enable"		"0"
+		"hammerid"		"2930"
+		"m_iname"		"Carpet_Breakable"
+	}
+	"2933"
+	{
+		"enable"		"0"
+		"hammerid"		"2933"
+		"m_iname"		"Carpet_Breakable"
+	}
+	"3116"
+	{
+		"enable"		"0"
+		"hammerid"		"3116"
+		"m_iname"		"Carpet_Breakable"
+	}
+	"3121"
+	{
+		"enable"		"0"
+		"hammerid"		"3121"
+		"m_iname"		"Carpet_Breakable"
+	}
+	"3189"
+	{
+		"enable"		"0"
+		"hammerid"		"3189"
+		"m_iname"		"Carpet_Breakable"
+	}
+	"3231"
+	{
+		"enable"		"0"
+		"hammerid"		"3231"
+		"m_iname"		"Carpet_Box"
+	}
+	"3235"
+	{
+		"enable"		"0"
+		"hammerid"		"3235"
+		"m_iname"		"Carpet_Fence"
+	}
+	"3287"
+	{
+		"enable"		"0"
+		"hammerid"		"3287"
+		"m_iname"		"Carpet_Block2"
+	}
+	"141373"
+	{
+		"enable"		"0"
+		"hammerid"		"141373"
+		"m_iname"		"Couch_Block2"
+	}
+	"141931"
+	{
+		"enable"		"0"
+		"hammerid"		"141931"
+		"m_iname"		"Couch_Plank1"
+	}
+	"142045"
+	{
+		"enable"		"0"
+		"hammerid"		"142045"
+		"m_iname"		"Couch_Plank2"
+	}
+	"145545"
+	{
+		"enable"		"0"
+		"hammerid"		"145545"
+		"m_iname"		"Couch_Plank3"
+	}
+	"145586"
+	{
+		"enable"		"0"
+		"hammerid"		"145586"
+		"m_iname"		"Couch_Plank3_Block"
+	}
+	"146871"
+	{
+		"enable"		"0"
+		"hammerid"		"146871"
+		"m_iname"		"Couch_Plank4"
+	}
+	"146893"
+	{
+		"enable"		"0"
+		"hammerid"		"146893"
+		"m_iname"		"Couch_Plank5"
+	}
+	"156456"
+	{
+		"enable"		"0"
+		"hammerid"		"156456"
+		"m_iname"		"Couch_Breakable"
+	}
+	"156477"
+	{
+		"enable"		"0"
+		"hammerid"		"156477"
+		"m_iname"		"Couch_Breakable"
+	}
+	"156480"
+	{
+		"enable"		"0"
+		"hammerid"		"156480"
+		"m_iname"		"Couch_Breakable"
+	}
+	"157896"
+	{
+		"enable"		"0"
+		"hammerid"		"157896"
+		"m_iname"		"Couch_Block6"
+	}
+	"158354"
+	{
+		"enable"		"0"
+		"hammerid"		"158354"
+		"m_iname"		"Couch_Block4"
+	}
+	"158386"
+	{
+		"enable"		"0"
+		"hammerid"		"158386"
+		"m_iname"		"Couch_Block5"
+	}
+	"158407"
+	{
+		"enable"		"0"
+		"hammerid"		"158407"
+		"m_iname"		"Couch_Final_Block1"
+	}
+	"158437"
+	{
+		"enable"		"0"
+		"hammerid"		"158437"
+		"m_iname"		"Couch_Final_Block2"
+	}
+	"158486"
+	{
+		"enable"		"0"
+		"hammerid"		"158486"
+		"m_iname"		"Couch_Final_Block3"
+	}
+	"158528"
+	{
+		"enable"		"0"
+		"hammerid"		"158528"
+		"m_iname"		"Couch_Final_Block4"
+	}
+	"145621"
+	{
+		"enable"		"0"
+		"hammerid"		"145621"
+		"m_iname"		"Couch_Block2b"
+	}
+	"136762"
+	{
+		"enable"		"0"
+		"hammerid"		"136762"
+		"m_iname"		"Couch_BlockZombie"
+	}
+	"160500"
+	{
+		"enable"		"0"
+		"hammerid"		"160500"
+		"m_iname"		"Couch_Block3"
+	}
+	"160902"
+	{
+		"enable"		"0"
+		"hammerid"		"160902"
+		"m_iname"		"Couch_Final_Block5"
+	}
+	"157993"
+	{
+		"enable"		"0"
+		"hammerid"		"157993"
+		"m_iname"		"Couch_Final_Wall5"
+	}
+	"157663"
+	{
+		"enable"		"0"
+		"hammerid"		"157663"
+		"m_iname"		"Couch_Final_Wall4"
+	}
+	"157660"
+	{
+		"enable"		"0"
+		"hammerid"		"157660"
+		"m_iname"		"Couch_Final_Wall3"
+	}
+	"157651"
+	{
+		"enable"		"0"
+		"hammerid"		"157651"
+		"m_iname"		"Couch_Final_Wall2"
+	}
+	"157641"
+	{
+		"enable"		"0"
+		"hammerid"		"157641"
+		"m_iname"		"Couch_Final_Wall1"
+	}
+	"1713663"
+	{
+		"enable"		"0"
+		"hammerid"		"1713663"
+		"m_iname"		"Couch_Grid"
+	}
+	"1829747"
+	{
+		"enable"		"0"
+		"hammerid"		"1829747"
+		"m_iname"		"Couch_NoCrouch2"
+	}
+	"1840847"
+	{
+		"enable"		"0"
+		"hammerid"		"1840847"
+		"m_iname"		"Couch_NoCrouch"
+	}
+	"1408"
+	{
+		"enable"		"0"
+		"hammerid"		"1408"
+		"m_iname"		"Deathrun_Break"
+	}
+	"1411"
+	{
+		"enable"		"0"
+		"hammerid"		"1411"
+		"m_iname"		"Deathrun_Break"
+	}
+	"1414"
+	{
+		"enable"		"0"
+		"hammerid"		"1414"
+		"m_iname"		"Deathrun_Break"
+	}
+	"1480"
+	{
+		"enable"		"0"
+		"hammerid"		"1480"
+		"m_iname"		"Deathrun_Break"
+	}
+	"1499"
+	{
+		"enable"		"0"
+		"hammerid"		"1499"
+		"m_iname"		"Deathrun_Break"
+	}
+	"1631"
+	{
+		"enable"		"0"
+		"hammerid"		"1631"
+		"m_iname"		"Deathrun_Trap6_Wall"
+	}
+	"1634"
+	{
+		"enable"		"0"
+		"hammerid"		"1634"
+		"m_iname"		"Deathrun_Trap8_Wall"
+	}
+	"1749286"
+	{
+		"enable"		"0"
+		"hammerid"		"1749286"
+		"m_iname"		"Deathrun_Break1"
+	}
+	"3667"
+	{
+		"enable"		"0"
+		"hammerid"		"3667"
+		"m_iname"		"Icecap_Breakable"
+	}
+	"3670"
+	{
+		"enable"		"0"
+		"hammerid"		"3670"
+		"m_iname"		"Icecap_Phys"
+	}
+	"3673"
+	{
+		"enable"		"0"
+		"hammerid"		"3673"
+		"m_iname"		"Icecap_Breakable"
+	}
+	"3676"
+	{
+		"enable"		"0"
+		"hammerid"		"3676"
+		"m_iname"		"Icecap_Breakable"
+	}
+	"3903"
+	{
+		"enable"		"0"
+		"hammerid"		"3903"
+		"m_iname"		"Icecap_Breakable"
+	}
+	"3928"
+	{
+		"enable"		"0"
+		"hammerid"		"3928"
+		"m_iname"		"Icecap_Breakable"
+	}
+	"3937"
+	{
+		"enable"		"0"
+		"hammerid"		"3937"
+		"m_iname"		"Icecap_Breakable"
+	}
+	"15332"
+	{
+		"enable"		"0"
+		"hammerid"		"15332"
+		"m_iname"		"Icecap_Bridge"
+	}
+	"15351"
+	{
+		"enable"		"0"
+		"hammerid"		"15351"
+		"m_iname"		"Icecap_Breakable"
+	}
+	"129441"
+	{
+		"enable"		"0"
+		"hammerid"		"129441"
+		"m_iname"		"Icecap_IcePhys2"
+	}
+	"129456"
+	{
+		"enable"		"0"
+		"hammerid"		"129456"
+		"m_iname"		"Icecap_IcePhys2"
+	}
+	"129459"
+	{
+		"enable"		"0"
+		"hammerid"		"129459"
+		"m_iname"		"Icecap_IcePhys2"
+	}
+	"129468"
+	{
+		"enable"		"0"
+		"hammerid"		"129468"
+		"m_iname"		"Icecap_IcePhys2"
+	}
+	"129465"
+	{
+		"enable"		"0"
+		"hammerid"		"129465"
+		"m_iname"		"Icecap_IcePhys2"
+	}
+	"128464"
+	{
+		"enable"		"0"
+		"hammerid"		"128464"
+		"m_iname"		"Icecap_IcePhys"
+	}
+	"129417"
+	{
+		"enable"		"0"
+		"hammerid"		"129417"
+		"m_iname"		"Icecap_IcePhys"
+	}
+	"129420"
+	{
+		"enable"		"0"
+		"hammerid"		"129420"
+		"m_iname"		"Icecap_IcePhys"
+	}
+	"129423"
+	{
+		"enable"		"0"
+		"hammerid"		"129423"
+		"m_iname"		"Icecap_IcePhys"
+	}
+	"129426"
+	{
+		"enable"		"0"
+		"hammerid"		"129426"
+		"m_iname"		"Icecap_IcePhys"
+	}
+	"1362340"
+	{
+		"enable"		"0"
+		"hammerid"		"1362340"
+		"m_iname"		"Icecap_Breakable"
+	}
+	"1362365"
+	{
+		"enable"		"0"
+		"hammerid"		"1362365"
+		"m_iname"		"Icecap_Breakable"
+	}
+	"1363205"
+	{
+		"enable"		"0"
+		"hammerid"		"1363205"
+		"m_iname"		"Icecap_Break1"
+	}
+	"1362371"
+	{
+		"enable"		"0"
+		"hammerid"		"1362371"
+		"m_iname"		"Icecap_Breakable"
+	}
+	"1129"
+	{
+		"enable"		"0"
+		"hammerid"		"1129"
+		"m_iname"		"Classic_Glass"
+	}
+	"2412"
+	{
+		"enable"		"0"
+		"hammerid"		"2412"
+		"m_iname"		"Classic_Glass"
+	}
+	"45208"
+	{
+		"enable"		"0"
+		"hammerid"		"45208"
+		"m_iname"		"Train_Door1_Break"
+	}
+	"45251"
+	{
+		"enable"		"0"
+		"hammerid"		"45251"
+		"m_iname"		"Train_Door1_Break"
+	}
+	"45461"
+	{
+		"enable"		"0"
+		"hammerid"		"45461"
+		"m_iname"		"Train_Plateform1"
+	}
+	"54878"
+	{
+		"enable"		"0"
+		"hammerid"		"54878"
+		"m_iname"		"Train_Plateform2"
+	}
+	"61420"
+	{
+		"enable"		"0"
+		"hammerid"		"61420"
+		"m_iname"		"Train_Breakable"
+	}
+	"55445"
+	{
+		"enable"		"0"
+		"hammerid"		"55445"
+		"m_iname"		"Train_Breakable"
+	}
+	"42689"
+	{
+		"enable"		"0"
+		"hammerid"		"42689"
+		"m_iname"		"Train_Breakable"
+	}
+	"1752545"
+	{
+		"enable"		"0"
+		"hammerid"		"1752545"
+		"m_iname"		"Train_NoGlitch"
+	}
+	"1753387"
+	{
+		"enable"		"0"
+		"hammerid"		"1753387"
+		"m_iname"		"Train_NoGlitch"
+	}
+	"142140"
+	{
+		"enable"		"0"
+		"hammerid"		"142140"
+		"m_iname"		"Couch_Block1"
+	}
+	"175500"
+	{
+		"enable"		"0"
+		"hammerid"		"175500"
+		"m_iname"		"City_Door"
+	}
+	"181378"
+	{
+		"enable"		"0"
+		"hammerid"		"181378"
+		"m_iname"		"City_Breakable"
+	}
+	"196897"
+	{
+		"enable"		"0"
+		"hammerid"		"196897"
+		"m_iname"		"City_Breakable"
+	}
+	"198722"
+	{
+		"enable"		"0"
+		"hammerid"		"198722"
+		"m_iname"		"City_Breakable"
+	}
+	"199093"
+	{
+		"enable"		"0"
+		"hammerid"		"199093"
+		"m_iname"		"City_Glass"
+	}
+	"199653"
+	{
+		"enable"		"0"
+		"hammerid"		"199653"
+		"m_iname"		"City_Break3"
+	}
+	"199661"
+	{
+		"enable"		"0"
+		"hammerid"		"199661"
+		"m_iname"		"City_Break4"
+	}
+	"205037"
+	{
+		"enable"		"0"
+		"hammerid"		"205037"
+		"m_iname"		"City_Break1"
+	}
+	"196917"
+	{
+		"enable"		"0"
+		"hammerid"		"196917"
+		"m_iname"		"City_Door3"
+	}
+	"1746944"
+	{
+		"enable"		"0"
+		"hammerid"		"1746944"
+		"m_iname"		"City_Break2"
+	}
+	"758346"
+	{
+		"enable"		"0"
+		"hammerid"		"758346"
+		"m_iname"		"Zeal_Cage"
+	}
+	"3919"
+	{
+		"enable"		"-1"
+		"hammerid"		"3919"
+		"m_iname"		"Icecap_Breakable"
+	}
+	"130453"
+	{
+		"enable"		"-1"
+		"hammerid"		"130453"
+		"m_iname"		"Icecap_Breakable"
+	}
+	"36863"
+	{
+		"enable"		"-1"
+		"hammerid"		"36863"
+		"m_iname"		"Train_Breakable"
+	}
+	"1299590"
+	{
+		"enable"		"-1"
+		"hammerid"		"1299590"
+		"m_iname"		"Sonic_Break1"
+	}
+	"1299603"
+	{
+		"enable"		"-1"
+		"hammerid"		"1299603"
+		"m_iname"		"Sonic_Break2"
+	}
+	"1635839"
+	{
+		"enable"		"-1"
+		"hammerid"		"1635839"
+		"m_iname"		"Sonic_Breakable"
+	}
+	"36873"
+	{
+		"enable"		"-1"
+		"hammerid"		"36873"
+		"m_iname"		"Sonic_BreakCade"
+	}
+	"37204"
+	{
+		"enable"		"-1"
+		"hammerid"		"37204"
+		"m_iname"		"Sonic_BreakCade2"
+	}
+	"175589"
+	{
+		"enable"		"-1"
+		"hammerid"		"175589"
+		"m_iname"		"City_Breakable"
+	}
+	"1846514"
+	{
+		"enable"		"-1"
+		"hammerid"		"1846514"
+		"m_iname"		"ZombieMurder_Letter_M"
+	}
+	"1846521"
+	{
+		"enable"		"-1"
+		"hammerid"		"1846521"
+		"m_iname"		"ZombieMurder_Letter_U"
+	}
+	"1846529"
+	{
+		"enable"		"-1"
+		"hammerid"		"1846529"
+		"m_iname"		"ZombieMurder_Letter_R"
+	}
+	"1846536"
+	{
+		"enable"		"-1"
+		"hammerid"		"1846536"
+		"m_iname"		"ZombieMurder_Letter_D"
+	}
+	"1846544"
+	{
+		"enable"		"-1"
+		"hammerid"		"1846544"
+		"m_iname"		"ZombieMurder_Letter_E"
+	}
+	"1846550"
+	{
+		"enable"		"-1"
+		"hammerid"		"1846550"
+		"m_iname"		"ZombieMurder_Letter_R2"
+	}
+	"1846619"
+	{
+		"enable"		"1"
+		"hammerid"		"1846619"
+		"m_iname"		"ZombieMurder_Boss_Break"
+	}
+	"1846657"
+	{
+		"enable"		"-1"
+		"hammerid"		"1846657"
+		"m_iname"		"ZombieMurder_Sign"
+	}
+}

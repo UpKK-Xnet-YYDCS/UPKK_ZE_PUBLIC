@@ -1,0 +1,101 @@
+"Console_T"
+{
+	"BGM:sm19158004"
+	{
+		"chi"		"**BGM：自行搜索sm19158004**"
+		"DoorCountDown"		"-1"
+	}
+	"level_2"
+	{
+		"chi"		"**第2关**"
+		"DoorCountDown"		"-1"
+	}
+	"Thank You For Playing!"
+	{
+		"chi"		"**恭喜通关！感谢游玩！**"
+	}
+	"teleporter is activated"
+	{
+		"chi"		"**传送器已经激活**"
+	}
+	"barricade will disappear after 20 sec"
+	{
+		"chi"		"**20秒后路开**"
+	}
+	"Watch out laser!"
+	{
+		"chi"		"**跳刀来啦**"
+	}
+	"3"
+	{
+		"chi"		"**3秒**"
+	}
+	"2"
+	{
+		"chi"		"**2秒**"
+	}
+	"1"
+	{
+		"chi"		"**1秒**"
+	}
+	"defend the door for 20 sec"
+	{
+		"chi"		"**防守这里20秒**"
+	}
+	"door will close after 10 sec"
+	{
+		"chi"		"**大门10秒后关闭**"
+	}
+	"zombie will teleport after 10 sec"
+	{
+		"chi"		"**僵尸10秒后传送**"
+	}
+	"get in the boss room"
+	{
+		"chi"		"**进入BOSS房**"
+	}
+	"zombie cannot get in the boss room!"
+	{
+		"chi"		"**僵尸无法进入boss房！**"
+	}
+	"func_movelinear"
+	{
+		"chi"		"**移动实体，正前方跳刀！**"
+		"DoorCountDown"		"5"
+	}
+	"trigger_hurt"
+	{
+		"chi"		"**伤害实体，请站在左右两边**"
+		"DoorCountDown"		"5"
+	}
+	"trigger_push[HOLD S]"
+	{
+		"chi"		"**推力实体，请按S**"
+		"DoorCountDown"		"5"
+	}
+	"point_dz_dronegun"
+	{
+		"chi"		"**炮台实体，快速清理掉炮台！**"
+		"DoorCountDown"		"5"
+	}
+	"Something happen..."
+	{
+		"chi"		"**有什么事发生了...**"
+	}
+	"C4 will explode after 40 sec"
+	{
+		"chi"		"**C4将会在40秒后爆炸**"
+	}
+	"map by Dr.Document"
+	{
+		"chi"		"**地图作者：DrDocument     翻译：Misaka**"
+	}
+	"HELLO_WORLD"
+	{
+		"chi"		"**欢迎来到锤子世界！**"
+	}
+	"playerstart.mdl appered!"
+	{
+		"chi"		"**小绿人出现了！**"
+	}
+}

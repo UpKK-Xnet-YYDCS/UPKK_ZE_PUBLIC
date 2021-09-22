@@ -1,0 +1,75 @@
+"Console_T"
+{
+	"*** Difficulty : Disuse ***"
+	{
+		"chi"		"**当前难度：停止运作**"
+	}
+	"sync_version"
+	{
+		"syncvalue"		"37679"
+	}
+	"*** Map by : Airvulpes ***"
+	{
+		"chi"		"**地图制作： Airvulpes 地图翻译：IntimateLover**"
+	}
+	"*** Door Opens in 15 seconds ***"
+	{
+		"chi"		"**大门15秒后打开**"
+		"DoorCountdown"		"15"
+	}
+	"*** Door Opens in 5 seconds ***"
+	{
+		"chi"		"**大门5秒后打开**"
+	}
+	"*** Door opens in 25 seconds ***"
+	{
+		"chi"		"**大门25秒后打开**"
+		"DoorCountdown"		"25"
+	}
+	"*** Door opens in 30 seconds ***"
+	{
+		"chi"		"**大门30秒后打开**"
+		"DoorCountdown"		"30"
+	}
+	"MapGlobal_ConVars"
+	{
+		"0"
+		{
+			"cvar"		"sm_nofalldamage 1"
+		}
+		"1"
+		{
+			"cvar"		"sm_cvar sm_molotov_limit 2"
+		}
+	}
+	"*** Door Closes in 20 seconds ***"
+	{
+		"chi"		"**大门20秒后关闭**"
+		"DoorCountdown"		"20"
+	}
+	"*** STAGE COMPLETED ***"
+	{
+		"chi"		"**关卡通过**"
+	}
+	"*** Difficulty : Inspection ***"
+	{
+		"chi"		"**当前难度:机械运转**"
+	}
+	"*** DOOR OPENS IN 20 SECONDS ***"
+	{
+		"chi"		"**大门20秒后打开**"
+		"DoorCountdown"		"20"
+	}
+	"!!! KILL ALL ZOMBIES !!!"
+	{
+		"chi"		"** **"
+	}
+	"The se"
+	{
+		"chi"		"** **"
+	}
+	"Admin pressed Inspection button"
+	{
+		"chi"		"** **"
+	}
+}

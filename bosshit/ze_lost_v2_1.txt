@@ -1,0 +1,531 @@
+"BOSSHP"
+{
+	"70061"
+	{
+		"enable"		"0"
+		"hammerid"		"70061"
+		"m_iname"		"west_cave_stop"
+	}
+	"68359"
+	{
+		"enable"		"0"
+		"hammerid"		"68359"
+		"m_iname"		"yanzheng2"
+	}
+	"68415"
+	{
+		"enable"		"0"
+		"hammerid"		"68415"
+		"m_iname"		"yanzheng1"
+	}
+	"64127"
+	{
+		"enable"		"0"
+		"hammerid"		"64127"
+		"m_iname"		"to_east"
+	}
+	"51793"
+	{
+		"enable"		"0"
+		"hammerid"		"51793"
+		"m_iname"		"room_save"
+	}
+	"51946"
+	{
+		"enable"		"0"
+		"hammerid"		"51946"
+		"m_iname"		"east_castle_door"
+	}
+	"50257"
+	{
+		"enable"		"0"
+		"hammerid"		"50257"
+		"m_iname"		"west_bar_roofdoor"
+	}
+	"48153"
+	{
+		"enable"		"0"
+		"hammerid"		"48153"
+		"m_iname"		"west_door1"
+	}
+	"41488"
+	{
+		"enable"		"0"
+		"hammerid"		"41488"
+		"m_iname"		"wood_trap"
+	}
+	"41507"
+	{
+		"enable"		"0"
+		"hammerid"		"41507"
+		"m_iname"		"wood_trap"
+	}
+	"39911"
+	{
+		"enable"		"0"
+		"hammerid"		"39911"
+		"m_iname"		"room_door_north"
+	}
+	"39945"
+	{
+		"enable"		"0"
+		"hammerid"		"39945"
+		"m_iname"		"room_door_west"
+	}
+	"39969"
+	{
+		"enable"		"0"
+		"hammerid"		"39969"
+		"m_iname"		"room_door_east"
+	}
+	"40003"
+	{
+		"enable"		"0"
+		"hammerid"		"40003"
+		"m_iname"		"room_door_south"
+	}
+	"37705"
+	{
+		"enable"		"0"
+		"hammerid"		"37705"
+		"m_iname"		"stage2_library_door1"
+	}
+	"37764"
+	{
+		"enable"		"0"
+		"hammerid"		"37764"
+		"m_iname"		"stage2_library_door2"
+	}
+	"24236"
+	{
+		"enable"		"0"
+		"hammerid"		"24236"
+		"m_iname"		"stage1_phys"
+	}
+	"22298"
+	{
+		"enable"		"0"
+		"hammerid"		"22298"
+		"m_iname"		"stage2_top_door1"
+	}
+	"20523"
+	{
+		"enable"		"0"
+		"hammerid"		"20523"
+		"m_iname"		"stage2_phys"
+	}
+	"19770"
+	{
+		"enable"		"0"
+		"hammerid"		"19770"
+		"m_iname"		"stage1_key1"
+	}
+	"19842"
+	{
+		"enable"		"0"
+		"hammerid"		"19842"
+		"m_iname"		"stage1_key2"
+	}
+	"13882"
+	{
+		"enable"		"0"
+		"hammerid"		"13882"
+		"m_iname"		"stone_right"
+	}
+	"13900"
+	{
+		"enable"		"0"
+		"hammerid"		"13900"
+		"m_iname"		"stone_left"
+	}
+	"13913"
+	{
+		"enable"		"0"
+		"hammerid"		"13913"
+		"m_iname"		"stone_key"
+	}
+	"13946"
+	{
+		"enable"		"0"
+		"hammerid"		"13946"
+		"m_iname"		"dangban1"
+	}
+	"12599"
+	{
+		"enable"		"0"
+		"hammerid"		"12599"
+		"m_iname"		"stage1_door1_2"
+	}
+	"12625"
+	{
+		"enable"		"0"
+		"hammerid"		"12625"
+		"m_iname"		"dangban2_key"
+	}
+	"1933"
+	{
+		"enable"		"0"
+		"hammerid"		"1933"
+		"m_iname"		"stage1_door1"
+	}
+	"4013"
+	{
+		"enable"		"0"
+		"hammerid"		"4013"
+		"m_iname"		"stage1_door2"
+	}
+	"4428"
+	{
+		"enable"		"0"
+		"hammerid"		"4428"
+		"m_iname"		"stage1_tp1_des_wooddoor"
+	}
+	"142250"
+	{
+		"enable"		"0"
+		"hammerid"		"142250"
+		"m_iname"		"stage3_scene4_door_extra"
+	}
+	"118715"
+	{
+		"enable"		"0"
+		"hammerid"		"118715"
+		"m_iname"		"stage3_scene1_tp_door"
+	}
+	"116792"
+	{
+		"enable"		"0"
+		"hammerid"		"116792"
+		"m_iname"		"stage3_phys"
+	}
+	"116910"
+	{
+		"enable"		"0"
+		"hammerid"		"116910"
+		"m_iname"		"stage3_scene1_wall"
+	}
+	"109532"
+	{
+		"enable"		"0"
+		"hammerid"		"109532"
+		"m_iname"		"stage3_maze_enter"
+	}
+	"109582"
+	{
+		"enable"		"0"
+		"hammerid"		"109582"
+		"m_iname"		"stage3_maze_exit1"
+	}
+	"109599"
+	{
+		"enable"		"0"
+		"hammerid"		"109599"
+		"m_iname"		"stage3_maze_exit2"
+	}
+	"109613"
+	{
+		"enable"		"0"
+		"hammerid"		"109613"
+		"m_iname"		"stage3_maze_exit3"
+	}
+	"109838"
+	{
+		"enable"		"0"
+		"hammerid"		"109838"
+		"m_iname"		"stage3_maze_nukewall"
+	}
+	"109872"
+	{
+		"enable"		"0"
+		"hammerid"		"109872"
+		"m_iname"		"stage3_normal_nukewall"
+	}
+	"106242"
+	{
+		"enable"		"0"
+		"hammerid"		"106242"
+		"m_iname"		"stage3_maze_enter"
+	}
+	"97605"
+	{
+		"enable"		"0"
+		"hammerid"		"97605"
+		"m_iname"		"stage3_scene4_door2"
+	}
+	"97622"
+	{
+		"enable"		"0"
+		"hammerid"		"97622"
+		"m_iname"		"stage3_scene4_door3"
+	}
+	"97642"
+	{
+		"enable"		"0"
+		"hammerid"		"97642"
+		"m_iname"		"stage3_scene4_barrier1"
+	}
+	"97673"
+	{
+		"enable"		"0"
+		"hammerid"		"97673"
+		"m_iname"		"stage3_scene4_barrier3"
+	}
+	"97696"
+	{
+		"enable"		"0"
+		"hammerid"		"97696"
+		"m_iname"		"stage3_scene4_barrier2"
+	}
+	"328944"
+	{
+		"enable"		"0"
+		"hammerid"		"328944"
+		"m_iname"		"scene1_wood"
+	}
+	"329010"
+	{
+		"enable"		"0"
+		"hammerid"		"329010"
+		"m_iname"		"scene3_25zai_door"
+	}
+	"325870"
+	{
+		"enable"		"0"
+		"hammerid"		"325870"
+		"m_iname"		"scene2_midao_wood"
+	}
+	"325984"
+	{
+		"enable"		"0"
+		"hammerid"		"325984"
+		"m_iname"		"scene2_midao_metal"
+	}
+	"324482"
+	{
+		"enable"		"0"
+		"hammerid"		"324482"
+		"m_iname"		"scene1_wood"
+	}
+	"322624"
+	{
+		"enable"		"0"
+		"hammerid"		"322624"
+		"m_iname"		"stage3_scene1ff"
+	}
+	"319836"
+	{
+		"enable"		"0"
+		"hammerid"		"319836"
+		"m_iname"		"stage3_mazewall"
+	}
+	"319884"
+	{
+		"enable"		"0"
+		"hammerid"		"319884"
+		"m_iname"		"stage3_mazewall"
+	}
+	"319907"
+	{
+		"enable"		"0"
+		"hammerid"		"319907"
+		"m_iname"		"scene1_stage3door"
+	}
+	"317947"
+	{
+		"enable"		"0"
+		"hammerid"		"317947"
+		"m_iname"		"scene1_wood"
+	}
+	"317985"
+	{
+		"enable"		"0"
+		"hammerid"		"317985"
+		"m_iname"		"scene1_brickwall"
+	}
+	"318014"
+	{
+		"enable"		"0"
+		"hammerid"		"318014"
+		"m_iname"		"scene1_wood"
+	}
+	"318103"
+	{
+		"enable"		"0"
+		"hammerid"		"318103"
+		"m_iname"		"scene1_fence"
+	}
+	"318544"
+	{
+		"enable"		"0"
+		"hammerid"		"318544"
+		"m_iname"		"stage3_mdoor1"
+	}
+	"307081"
+	{
+		"enable"		"0"
+		"hammerid"		"307081"
+		"m_iname"		"stage2_scene2_house_door"
+	}
+	"288885"
+	{
+		"enable"		"0"
+		"hammerid"		"288885"
+		"m_iname"		"stage2_scene2_door4"
+	}
+	"287086"
+	{
+		"enable"		"0"
+		"hammerid"		"287086"
+		"m_iname"		"stage2_scene2_door2"
+	}
+	"272958"
+	{
+		"enable"		"0"
+		"hammerid"		"272958"
+		"m_iname"		"stage2_door2"
+	}
+	"273014"
+	{
+		"enable"		"0"
+		"hammerid"		"273014"
+		"m_iname"		"castle_ladder_fence"
+	}
+	"273213"
+	{
+		"enable"		"0"
+		"hammerid"		"273213"
+		"m_iname"		"stage2_door3"
+	}
+	"273293"
+	{
+		"enable"		"0"
+		"hammerid"		"273293"
+		"m_iname"		"stage2_zdoor"
+	}
+	"270246"
+	{
+		"enable"		"0"
+		"hammerid"		"270246"
+		"m_iname"		"stage2_start_wood"
+	}
+	"292039"
+	{
+		"enable"		"-1"
+		"hammerid"		"292039"
+	}
+	"270274"
+	{
+		"enable"		"-1"
+		"hammerid"		"270274"
+	}
+	"270291"
+	{
+		"enable"		"-1"
+		"hammerid"		"270291"
+	}
+	"266304"
+	{
+		"enable"		"-1"
+		"hammerid"		"266304"
+	}
+	"241176"
+	{
+		"enable"		"-1"
+		"hammerid"		"241176"
+	}
+	"241236"
+	{
+		"enable"		"-1"
+		"hammerid"		"241236"
+	}
+	"241250"
+	{
+		"enable"		"-1"
+		"hammerid"		"241250"
+	}
+	"241261"
+	{
+		"enable"		"-1"
+		"hammerid"		"241261"
+	}
+	"244057"
+	{
+		"enable"		"-1"
+		"hammerid"		"244057"
+	}
+	"244060"
+	{
+		"enable"		"-1"
+		"hammerid"		"244060"
+	}
+	"244063"
+	{
+		"enable"		"-1"
+		"hammerid"		"244063"
+	}
+	"244066"
+	{
+		"enable"		"-1"
+		"hammerid"		"244066"
+	}
+	"244070"
+	{
+		"enable"		"-1"
+		"hammerid"		"244070"
+	}
+	"244073"
+	{
+		"enable"		"-1"
+		"hammerid"		"244073"
+	}
+	"244076"
+	{
+		"enable"		"-1"
+		"hammerid"		"244076"
+	}
+	"244079"
+	{
+		"enable"		"-1"
+		"hammerid"		"244079"
+	}
+	"245576"
+	{
+		"enable"		"-1"
+		"hammerid"		"245576"
+	}
+	"245579"
+	{
+		"enable"		"-1"
+		"hammerid"		"245579"
+	}
+	"245582"
+	{
+		"enable"		"-1"
+		"hammerid"		"245582"
+	}
+	"245585"
+	{
+		"enable"		"-1"
+		"hammerid"		"245585"
+	}
+	"247090"
+	{
+		"enable"		"-1"
+		"hammerid"		"247090"
+	}
+	"247093"
+	{
+		"enable"		"-1"
+		"hammerid"		"247093"
+	}
+	"247096"
+	{
+		"enable"		"-1"
+		"hammerid"		"247096"
+	}
+	"247099"
+	{
+		"enable"		"-1"
+		"hammerid"		"247099"
+	}
+}

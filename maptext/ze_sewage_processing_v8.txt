@@ -1,0 +1,101 @@
+"Console_T"
+{
+	"*** WATER ENTRIES WILL BREAK IN 40 SECONDS ***"
+	{
+		"chi"		"**污水处理通道入口在40秒后打开**"
+		"DoorCountDown"		"40"
+	}
+	"*** ENTRIES OPENING IN 5 SECONDS ***"
+	{
+		"chi"		"**污水处理通道入口在5秒后打开**"
+	}
+	"*** ENTRIES ARE NOW OPEN, FALL BACK! ***"
+	{
+		"chi"		"**入口已打开，撤退**"
+	}
+	"*** BULKHEAD DOORS OPENING IN 25 SECONDS ***"
+	{
+		"chi"		"**隔离大门在25秒后打开**"
+		"DoorCountDown"		"25"
+	}
+	"*** BULKHEAD DOORS OPENING IN 5 SECONDS ***"
+	{
+		"chi"		"***隔离大门在5秒后打开**"
+	}
+	"*** DOORS ARE OPEN, FALL BACK! ***"
+	{
+		"chi"		"**隔离大门已打开，撤退**"
+	}
+	"*** FIRST FLOOD DOOR OPENING IN 15 SECONDS ***"
+	{
+		"chi"		"**一号闸门将在15秒后打开**"
+	}
+	"*** FIRST FLOOD DOOR OPENING NOW ***"
+	{
+		"chi"		"**一号闸门一打开**"
+	}
+	"*** ZOMBIES ARE SETTING UP AMBUSH, SECOND FLOOD DOOR OPENING IN 10 SECONDS ***"
+	{
+		"chi"		"**二号闸门在10秒后打开**"
+	}
+	"*** VENT OPENING BREAKING IN 25 SECONDS ***"
+	{
+		"chi"		"**通风口在25秒后打开**"
+		"DoorCountDown"		"25"
+	}
+	"*** VENT WILL BREAK IN 5 SECONDS, GET READY TO FALL BACK ***"
+	{
+		"chi"		"**通风口在5秒后打开**"
+	}
+	"*** ELEVATOR LEAVING IN 30 SECONDS, HOLD  ZOMBIES OFF ***"
+	{
+		"chi"		"**电梯在30秒后启动，挡住僵尸**"
+		"DoorCountDown"		"30"
+	}
+	"*** ELEVATOR LEAVING IN 5 SECONDS ***"
+	{
+		"chi"		"**电梯在5秒后启动（注意自己是否在电梯上）**"
+		"DoorCountDown"		"5"
+	}
+	"*** ELEVATOR IS LEAVING, FALL BACK ***"
+	{
+		"chi"		"**电梯已启动，撤退**"
+	}
+	"*** SIDE DOOR FOR ZOMBIES IS OPEN, GO ZOMBIES GO! ***"
+	{
+		"chi"		"**僵尸通道已开启**"
+	}
+	"*** HOLD OFF THE ZOMBIES HERE FOR 15 SECONDS ***"
+	{
+		"chi"		"**防守15秒**"
+	}
+	"*** QUICK, GET TO HIGH GROUND AND ACTIVATE TOXIC CHEMICAL RELEASE! ***"
+	{
+		"chi"		"**前往高地开启，并开启有毒化学物投放**"
+	}
+	"*** ZOMBIE BARRICADE WILL BREAK IN 5 SECONDS ***"
+	{
+		"chi"		"**路障在5秒后打开**"
+	}
+	"*** TOXIC CHEMICALS WILL FLOOD CANAL IN 40 SECONDS ***"
+	{
+		"chi"		"**有毒化学物在40秒后投（不要贴边）**"
+		"DoorCountDown"		"40"
+	}
+	"*** HOLD OFF THE ZOMBIES! ***"
+	{
+		"chi"		"**挡住僵尸**"
+	}
+	"*** TOXIC CHEMICALS WILL BE RELEASED IN 10 SECONDS ***"
+	{
+		"chi"		"**有毒化学物在10秒后投放**"
+	}
+	"*** TOXIC CHEMICALS WILL BE RELEASED IN 5 SECONDS ***"
+	{
+		"chi"		"**有毒化学物在5秒后投放**"
+	}
+	"The se"
+	{
+		"chi"		"** **"
+	}
+}

@@ -1,0 +1,77 @@
+"Console_T"
+{
+	"*** LIFT is leaving in 5 seconds... ***"
+	{
+		"chi"		"**电梯将在5秒后离开**"
+	}
+	"*** NUKE will arrive in two minutes... ***"
+	{
+		"chi"		"**核弹将在2分钟后到达**"
+		"DoorCountDown"		"120"
+	}
+	"*** Escape door opening in 5 seconds ***"
+	{
+		"chi"		"**逃生大门将在5秒后打开**"
+	}
+	"*** Escape door is now open ***"
+	{
+		"chi"		"**逃生大门打开了**"
+	}
+	"*** Get in fast before someone close the door! ***"
+	{
+		"chi"		"**快点进去！否则有二五仔会把门关上的！**"
+	}
+	"*** WARNING: NUKE HAS BEEN LAUNCHED! ***"
+	{
+		"chi"		"**小心！核弹已被安置！**"
+	}
+	"*** NUKE will arrive in one minute... ***"
+	{
+		"chi"		"**还剩1分钟**"
+	}
+	"*** WARNING: 30 seconds until impact! ***"
+	{
+		"chi"		"**最后30秒**"
+	}
+	"*** The escape door has opened! ***"
+	{
+		"chi"		"**最后的大门打开了！**"
+	}
+	"*** Get the hell out of there and onto the helicopter! ***"
+	{
+		"chi"		"**快上直升飞机！**"
+	}
+	"*** The HELICOPTER is leaving! ***"
+	{
+		"chi"		"**直升机离开了！**"
+	}
+	"*** WARNING: 15 seconds... ***"
+	{
+		"chi"		"**最后15秒**"
+	}
+	"*** The escape door is closing! ***"
+	{
+		"chi"		"**逃生大门关闭了！有内鬼！终止交易！**"
+	}
+	"*** Open again in 30 seconds! ***"
+	{
+		"chi"		"**好吧，30秒后逃生大门再次打开**"
+		"DoorCountDown"		"-1"
+	}
+	"*** Escape door is now open! ***"
+	{
+		"chi"		"**逃生大门打开了！**"
+	}
+	"*** Please make your way to the upper level escape route! ***"
+	{
+		"chi"		"** **"
+	}
+	"*** IMPACT! ***"
+	{
+		"chi"		"** **"
+	}
+	"*** This button unlock when your teammates come ***"
+	{
+		"chi"		"** **"
+	}
+}

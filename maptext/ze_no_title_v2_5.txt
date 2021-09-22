@@ -1,0 +1,263 @@
+"Console_T"
+{
+	"***White is Door and Wall***"
+	{
+		"chi"		"**白色是大门和墙**"
+	}
+	"***10 seconds***"
+	{
+		"chi"		"**等待10秒**"
+		"DoorCountDown"		"-1"
+	}
+	"***Stage 1***"
+	{
+		"chi"		"**第一关**"
+	}
+	"***Thanks to Hestia, reflelia***"
+	{
+		"chi"		"**感谢Hestia以及reflelia**"
+	}
+	"***DJ_tusla, Aoba, Dus?K, P0P***"
+	{
+		"chi"		"** **"
+	}
+	"***And all RSS sever user***"
+	{
+		"chi"		"**以及RSS服务器全部玩家**"
+	}
+	"***Black is Door or teleport***"
+	{
+		"chi"		"**黑色是大门和传送点**"
+	}
+	"***15 seconds***"
+	{
+		"chi"		"**防守15秒**"
+	}
+	"***5 seconds***"
+	{
+		"chi"		"**还剩5秒**"
+	}
+	"***20 seconds***"
+	{
+		"chi"		"**防守20秒**"
+	}
+	"***And black is the elevator***"
+	{
+		"chi"		"**黑色是电梯，怎么黑色是这么多东西啊**"
+	}
+	"***Marble is button***"
+	{
+		"chi"		"**大理石是按钮**"
+	}
+	"***25 seconds***"
+	{
+		"chi"		"**防守25秒**"
+	}
+	"***Pink is a ladder***"
+	{
+		"chi"		"**粉色是楼梯，兄弟你不会加速爬梯吗？**"
+	}
+	"***30 seconds***"
+	{
+		"chi"		"**防守30秒**"
+	}
+	"***40 seconds***"
+	{
+		"chi"		"**防守40秒**"
+	}
+	"***Wood is a Trap***"
+	{
+		"chi"		"**木头是陷阱！别假摔了！**"
+	}
+	"***Defend this position***"
+	{
+		"chi"		"**防守这里！**"
+	}
+	"***FAIL***"
+	{
+		"chi"		"**失败了，小兄弟你不得行啊**"
+	}
+	"***STAGE 1 Complete***"
+	{
+		"chi"		"**第一关完成~**"
+	}
+	"***Map made by Kizan Flandre***"
+	{
+		"chi"		"**地图作者：Kizan Flandre  汉化：Misaka**"
+	}
+	"***Stage 2***"
+	{
+		"chi"		"**第二关**"
+	}
+	"***Remember wood is a trap***"
+	{
+		"chi"		"**别忘了木头是陷阱！**"
+	}
+	"***Kill the boss in Two minutes***"
+	{
+		"chi"		"**警告：boss战限时2分钟**"
+	}
+	"***Gravity***"
+	{
+		"chi"		"**Boss使用了黑洞**"
+	}
+	"***Hold S Key when Gravity is running***"
+	{
+		"chi"		"**准备按住S！**"
+		"DoorCountDown"		"5"
+	}
+	"***3***"
+	{
+		"chi"		"** **"
+	}
+	"***2***"
+	{
+		"chi"		"** **"
+	}
+	"***1***"
+	{
+		"chi"		"** **"
+	}
+	"***Zombies are coming from behind you***"
+	{
+		"chi"		"**注意！僵尸来袭！**"
+		"DoorCountDown"		"8"
+	}
+	"***Upper Laser***"
+	{
+		"chi"		"**Boss使用了高刀！快蹲下！**"
+		"DoorCountDown"		"8"
+	}
+	"***Crouch***"
+	{
+		"chi"		"**还不蹲下？不想活了吗**"
+	}
+	"***Triggered twice***"
+	{
+		"chi"		"**注意这玩意会触发两次**"
+	}
+	"***Plasma bullet***"
+	{
+		"chi"		"**弹幕来袭！**"
+		"DoorCountDown"		"3"
+	}
+	"***Get ready to jump***"
+	{
+		"chi"		"**准备跳！**"
+		"DoorCountDown"		"3"
+	}
+	"***Go to the Front Hurry!!***"
+	{
+		"chi"		"**快走到平台前端！**"
+		"DoorCountDown"		"3"
+	}
+	"***Go to the Back Hurry!!***"
+	{
+		"chi"		"**走到平台的后端！**"
+		"DoorCountDown"		"3"
+	}
+	"***Protect the white cube***"
+	{
+		"chi"		"**守住白色的方块！**"
+	}
+	"***STAGE 2 Complete***"
+	{
+		"chi"		"**第二关完成~**"
+	}
+	"***THANK YOU FOR PLAYING***"
+	{
+		"chi"		"**感谢您的游玩**"
+	}
+	"***MAP RESET***"
+	{
+		"chi"		"**地图重置**"
+	}
+	"sync_version"
+	{
+		"syncvalue"		"26662"
+	}
+	"***And all RSS server user***"
+	{
+		"chi"		"**以及所有RSS服务器的玩家**"
+	}
+	"***Stage 3***"
+	{
+		"chi"		"**第三关**"
+	}
+	"***Kill the boss in 150 seconds***"
+	{
+		"chi"		"** **"
+		"DoorCountDown"		"-1"
+	}
+	"***Watch out for Tesla***"
+	{
+		"chi"		"**小心地面上出现的特斯拉电环！**"
+		"DoorCountDown"		"10"
+	}
+	"***Get ready to hold down the S key***"
+	{
+		"chi"		"**准备按住S键！**"
+	}
+	"***Go to the platforms on both sides***"
+	{
+		"chi"		"**快跑到两边新生成的平台上！**"
+		"DoorCountDown"		"5"
+	}
+	"***RETURN***"
+	{
+		"chi"		"**快回来！**"
+		"DoorCountDown"		"3"
+	}
+	"***ZOMBIES ARE COMING***"
+	{
+		"chi"		"**僵尸来了！**"
+		"DoorCountDown"		"10"
+	}
+	"***Laser***"
+	{
+		"chi"		"**准备跳刀！**"
+		"DoorCountDown"		"5"
+	}
+	"***Jump or Crouch***"
+	{
+		"chi"		"**有高低刀，自行判断跳跃或蹲下**"
+	}
+	"***BEAM***"
+	{
+		"chi"		"**小心正前方的激光墙！**"
+		"DoorCountDown"		"10"
+	}
+	"***Get ready to hold down the W key***"
+	{
+		"chi"		"**准备按住W**"
+		"DoorCountDown"		"5"
+	}
+	"***60 seconds***"
+	{
+		"chi"		"**守住60秒！**"
+	}
+	"***LOOK ABOVE***"
+	{
+		"chi"		"**快看头顶！**"
+	}
+	"***STAGE 3 Clear***"
+	{
+		"chi"		"**第三关通过！**"
+	}
+	"***Map by KizanFlandre***"
+	{
+		"chi"		"**地图作者：KizanFlandre  汉化：Misaka**"
+	}
+	"***Someone pressed STAGE 2 button in Admin room***"
+	{
+		"chi"		"** **"
+	}
+	"***Round restart in 5 seconds***"
+	{
+		"chi"		"** **"
+	}
+	"***Someone pressed STAGE 3 button in Admin room***"
+	{
+		"chi"		"** **"
+	}
+}

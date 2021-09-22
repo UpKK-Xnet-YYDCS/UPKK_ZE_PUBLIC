@@ -1,0 +1,43 @@
+"Console_T"
+{
+	"wait 20s"
+	{
+		"chi"		"**等待20秒 **"
+	}
+	"5s left"
+	{
+		"chi"		"**还剩5秒 **"
+	}
+	"hold 20s"
+	{
+		"chi"		"**防守20秒 **"
+	}
+	"30s left"
+	{
+		"chi"		"**还剩30秒 **"
+	}
+	"hold 30s"
+	{
+		"chi"		"**防守30秒 **"
+	}
+	"after 20s,teleport AFK"
+	{
+		"chi"		"**20秒后传送挂机玩家 **"
+	}
+	"after 40s this will break"
+	{
+		"chi"		"**防守40秒 **"
+	}
+	"10s left"
+	{
+		"chi"		"**还剩10秒 **"
+	}
+	"hold 35s"
+	{
+		"chi"		"**防守35秒 **"
+	}
+	"hold 15s"
+	{
+		"chi"		"** **"
+	}
+}
