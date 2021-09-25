@@ -19,7 +19,7 @@
 	}
 	"< Meat - Waters >"
 	{
-		"chi"		"**< Meat - 水漩涡(抵抗出现中场的漩涡推力) >**"
+		"chi"		"**< 不朽虫王 - 水漩涡(抵抗出现中场的漩涡推力) >**"
 	}
 	"< Meat - Sand Dust >"
 	{
@@ -217,6 +217,7 @@
 	"< Boot - Snow >"
 	{
 		"chi"		"**< 追猎傀儡 - 雪圈(在玩家脚下依次出现3个雪圈) >**"
+		"DoorCountDown"		"-1"
 	}
 	"< Boot - Repair >"
 	{
@@ -280,7 +281,7 @@
 	}
 	"<Meat wakes up in 10 seconds>"
 	{
-		"chi"		"**10秒后苏醒**"
+		"chi"		"**不朽虫王10秒后苏醒**"
 	}
 	"<Wait for 15 seconds>"
 	{
@@ -359,4 +360,3 @@
 		"chi"		"**第一关将在5秒后开始**"
 	}
 }
-//repush
