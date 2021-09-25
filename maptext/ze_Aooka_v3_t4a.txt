@@ -15,23 +15,23 @@
 	}
 	"< Meat - Ice Blade >"
 	{
-		"chi"		"**< Meat - 冰刃(左右躲避前方飞来的冰刃) >**"
+		"chi"		"**< 不朽虫王 - 冰刃(左右躲避前方飞来的冰刃) >**"
 	}
 	"< Meat - Waters >"
 	{
-		"chi"		"**< Meat - 水漩涡(抵抗出现中场的漩涡推力) >**"
+		"chi"		"**"< Meat - 水漩涡(抵抗出现中场的漩涡推力) >**"
 	}
 	"< Meat - Sand Dust >"
 	{
-		"chi"		"**< Meat - 沙尘沉降(蹲下以躲避) >**"
+		"chi"		"**< 不朽虫王 - 沙尘沉降(蹲下以躲避) >**"
 	}
 	"< Meat - Space Cocoon >"
 	{
-		"chi"		"**< Meat - 空间转移(去最前面或者最后面躲避传送) >**"
+		"chi"		"**< 不朽虫王 - 空间转移(去最前面或者最后面躲避传送) >**"
 	}
 	"< Meat - Fire >"
 	{
-		"chi"		"**< Meat - 火场(跳上两边台阶上以躲避) >**"
+		"chi"		"**< 不朽虫王 - 火场(跳上两边台阶上以躲避) >**"
 	}
 	"< Izzo! >"
 	{
@@ -45,6 +45,10 @@
 	{
 		"chi"		"**坚守住这里**"
 	}
+	"<Wait for the water to rise>"
+	{
+		"chi"		"**等待30秒后水面上升**"
+	}
 	"<Activate teleport crystal after 15 seconds>"
 	{
 		"chi"		"**传送水晶将在15秒后激活**"
@@ -53,9 +57,29 @@
 	{
 		"chi"		"**大门将在30秒后打开**"
 	}
+	"<The gate will open in 15 seconds>"
+	{
+		"chi"		"**大门将在15秒后打开**"
+	}
 	"<Gate will open in 30 seconds>"
 	{
 		"chi"		"**大门将在30秒后打开**"
+	}
+	"<Gate will open in 35 seconds>"
+	{
+		"chi"		"**大门将在35秒后打开**"
+	}
+	"<Gate will open in 25 seconds>"
+	{
+		"chi"		"**大门将在25秒后打开**"
+	}
+	"<Gate will open in 15 seconds>"
+	{
+		"chi"		"**大门将在15秒后打开**"
+	}
+	"<Gate will open in 10 seconds>"
+	{
+		"chi"		"**大门将在10秒后打开**"
 	}
 	"<The temple will be destroyed in 120 seconds>"
 	{
@@ -95,11 +119,11 @@
 	}
 	"< Spider - Twins >"
 	{
-		"chi"		"**< 刀锋女皇 - 双生工虫 >**"
+		"chi"		"**< 灾厄蛛后 - 双生工虫 >**"
 	}
 	"< Spider - Dark Light >"
 	{
-		"chi"		"**< 刀锋女皇 - 黑暗光芒 >**"
+		"chi"		"**< 灾厄蛛后 - 黑暗光芒 >**"
 	}
 	"< Soul - Electric >"
 	{
@@ -127,35 +151,35 @@
 	}
 	"< Spider - Lock Star >"
 	{
-		"chi"		"**< 刀锋女皇 - 锁星 >**"
+		"chi"		"**< 灾厄蛛后 - 锁星 >**"
 	}
 	"< Spider - Solution Star >"
 	{
-		"chi"		"**< 刀锋女皇 - 解星 >**"
+		"chi"		"**< 灾厄蛛后 - 解星 >**"
 	}
 	"< Spider - Gemini >"
 	{
-		"chi"		"**< 刀锋女皇 - 双星 >**"
+		"chi"		"**< 灾厄蛛后 - 双星 >**"
 	}
 	"< Spider - Death Star >"
 	{
-		"chi"		"**< 刀锋女皇 - 死星 >**"
+		"chi"		"**< 灾厄蛛后 - 死星 >**"
 	}
 	"< Spider - Ask Spirit >"
 	{
-		"chi"		"**< 刀锋女皇 - 精神拷问 >**"
+		"chi"		"**< 灾厄蛛后 - 精神拷问 >**"
 	}
 	"< Spider - Heavenly Sin >"
 	{
-		"chi"		"**< 刀锋女皇 - 天罚 >**"
+		"chi"		"**< 灾厄蛛后 - 天罚 >**"
 	}
 	"< Spider - Time Cocoon >"
 	{
-		"chi"		"**< 刀锋女皇 - 时间束缚 >**"
+		"chi"		"**< 灾厄蛛后 - 时间束缚 >**"
 	}
 	"< Spider - Sand Wind >"
 	{
-		"chi"		"**< 刀锋女皇 - 沙暴之风 >**"
+		"chi"		"**< 灾厄蛛后 - 沙暴之风 >**"
 	}
 	"<Defend until the gate is closed>"
 	{
@@ -173,34 +197,42 @@
 	{
 		"chi"		"**门将在25秒后炸开(爆炸有伤害)**"
 	}
+	"<Door will broken in 20 seconds>"
+	{
+		"chi"		"**门将在20秒后炸开(爆炸有伤害)**"
+	}
 	"<The door will broken in 10 seconds>"
 	{
 		"chi"		"**门将在10秒后炸开(爆炸有伤害)**"
 		"DoorCountDown"		"-1"
 	}
+	"<The wall will broken in 20 seconds>"
+	{
+		"chi"		"**墙壁将在20秒后碎裂**"
+	}
 	"< Boot - Starfall >"
 	{
-		"chi"		"**< Boot - 星落(在星星落地前站在外圈,星星落地后站在内圈) >**"
+		"chi"		"**< 追猎傀儡 - 星落(在星星落地前站在外圈,星星落地后站在内圈) >**"
 	}
 	"< Boot - Snow >"
 	{
-		"chi"		"**< Boot - 雪圈(在玩家脚下依次出现3个雪圈) >**"
+		"chi"		"**< 追猎傀儡 - 雪圈(在玩家脚下依次出现3个雪圈) >**"
 	}
 	"< Boot - Repair >"
 	{
-		"chi"		"**< Boot - 修理(停止射击和使用伤害神器,否则给BOSS加血) >**"
+		"chi"		"**< 追猎傀儡 - 修理(停止射击和使用伤害神器,否则给BOSS加血) >**"
 	}
 	"< Boot - Vortex >"
 	{
-		"chi"		"**< Boot - 漩涡(抵抗场地中间出现的漩涡吸力) >**"
+		"chi"		"**< 追猎傀儡 - 漩涡(抵抗场地中间出现的漩涡吸力) >**"
 	}
 	"< Boot - Poison >"
 	{
-		"chi"		"**< Boot - 毒气(先站在内圈躲避外圈毒气,然后站在外圈躲避内圈毒气) >**"
+		"chi"		"**< 追猎傀儡 - 毒气(先站在内圈躲避外圈毒气,然后站在外圈躲避内圈毒气) >**"
 	}
 	"< Boot - Mire >"
 	{
-		"chi"		"**< Boot - 泥沼(站在外圈台阶上躲避伤害和减跳高) >**"
+		"chi"		"**< 追猎傀儡 - 泥沼(站在外圈台阶上躲避伤害和减跳高) >**"
 	}
 	"<Barrier is gone !!>"
 	{
@@ -220,31 +252,31 @@
 	}
 	"< Meat - Holy >"
 	{
-		"chi"		"**< Meat - 神圣 >**"
+		"chi"		"**< 不朽虫王 - 神圣 >**"
 	}
 	"< Meat - Ultima >"
 	{
-		"chi"		"**< Meat - 终极 >**"
+		"chi"		"**< 不朽虫王 - 终极 >**"
 	}
 	"< Meat - Thunder >"
 	{
-		"chi"		"**< Meat - 雷电 >**"
+		"chi"		"**< 不朽虫王 - 雷电 >**"
 	}
 	"< Meat - Fire of Shield >"
 	{
-		"chi"		"**< Meat - 火盾 >**"
+		"chi"		"**< 不朽虫王 - 火盾 >**"
 	}
 	"< Meat - Fire of Cure >"
 	{
-		"chi"		"**< Meat - 火疗 >**"
+		"chi"		"**< 不朽虫王 - 火疗 >**"
 	}
 	"< Meat - Gravity >"
 	{
-		"chi"		"**< Meat - 黑洞 >**"
+		"chi"		"**< 不朽虫王 - 黑洞 >**"
 	}
 	"< Meat - Wind >"
 	{
-		"chi"		"**< Meat - 飓风 >**"
+		"chi"		"**< 不朽虫王 - 飓风 >**"
 	}
 	"<Meat wakes up in 10 seconds>"
 	{
