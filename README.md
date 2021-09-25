@@ -1,9 +1,4 @@
 # X社区 CSGO ZE地图参数/地图翻译/Stripper/Entwatch 仓库 #
-
-如果要修改其他服务器地图参数[如KZ/滑翔/MG/BHOP/TTT/越狱等服务器] [请点这里](https://github.com/e54385991/GeneralMapcfg)
-
-如果要修改其他服务器地图参数[如KZ/滑翔/MG/BHOP/TTT/越狱等服务器 请点以下地址] 
-
 ---
 [公开仓库](https://github.com/e54385991/UPKK_ZE_PUBLIC)
 [私密仓库 如您有权限访问](https://github.com/e54385991/GeneralMapcfg_Public)
