@@ -1,4 +1,4 @@
-# X社区 CSGO ZE地图参数/地图翻译/Stripper/Entwatch 仓库 【公开】#
+# X社区 CSGO ZE地图参数/地图翻译/Stripper/Entwatch 仓库 【公开】 #
 [私密仓库 如您有权限访问](https://github.com/MapTextLang/MapTextLang/)
 ---
 非ZE服务器请前往以下地址:
@@ -75,5 +75,5 @@
 test for web hook triggercleanup
 #push trigger update p 3
 triggercleanup  最后维护
-    2021年09月01日
-#push1
+    2021年09月26日
+#push
