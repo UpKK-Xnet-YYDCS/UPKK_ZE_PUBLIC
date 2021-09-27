@@ -2,6 +2,288 @@
 {
 	"**WARMUP ROUND 60 SEC**"
 	{
-		"chi"		"**  **"
+		"chi"		"**热身回合60秒**"
+	}
+	">>> PLAYER HAS PICKED UP HANDYCAM <<<"
+	{
+		"chi"		"**摄像机已被拾取小范围PUSH**"
+	}
+	"* *14 documents found* *"
+	{
+		"chi"		"**文件：1/4**"
+		"DoorCountDown" "-1"
+	}
+	"* *DOOR IS LOCKED FIND THE KEY* *"
+	{
+		"chi"		"**寻找钥匙开启锁定的大门**"
+	}
+	"* *DEFEND 15 SECONDS* *"
+	{
+		"chi"		"**防守15秒**"
+	}
+	"* *DEFEND 20 SECONDS* *"
+	{
+		"chi"		"**防守20秒**"
+	}
+	"* *AFK TELEPORT IN 5 SECONDS* *"
+	{
+		"chi"		"**挂机玩家将在5秒后传送**"
+	}
+	"* *FIND THE BOMB AND PLANT IT  ON THE WINDOW* *"
+	{
+		"chi"		"**寻找炸弹将其安放至窗户上**"
+	}
+	"* *A PLAYER HAS PICKED UP BOMB* *"
+	{
+		"chi"		"**一位玩家捡起了炸弹**"
+	}
+	"* *The bomb will explode in 30 seconds* *"
+	{
+		"chi"		"**炸弹将会在30秒后爆炸**"
+	}
+	"* *The bomb will explode in 5 seconds* *"
+	{
+		"chi"		"**炸弹将会在5秒后爆炸**"
+	}
+	"* *AFK TELEPORT IN 10 SECONDS* *"
+	{
+		"chi"		"**挂机玩家将在10秒后传送**"
+	}
+	"* *24 documents found* *"
+	{
+		"chi"		"**文件：2/4**"
+		"DoorCountDown" "-1"
+	}
+	"* *34 documents found* *"
+	{
+		"chi"		"**文件：3/4**"
+		"DoorCountDown" "-1"
+	}
+	"* *DEFEND DOOR 5 MORE SECOND* *"
+	{
+		"chi"		"**再防守5秒**"
+	}
+	"* *NOW GO BACK TO SERVER ROOM* *"
+	{
+		"chi"		"**返回服务器机房**"
+	}
+	"* *WAIT 10 SECONDS HERE* *"
+	{
+		"chi"		"**在这里等待10秒**"
+	}
+	"* *OKAY LETS GO* *"
+	{
+		"chi"		"**好了快走**"
+	}
+	"* *Zombies are already open* *"
+	{
+		"chi"		"**僵尸可以出来了**"
+	}
+	"* *DEFEND DOOR 30 SECOND* *"
+	{
+		"chi"		"**防守30秒**"
+	}
+	"* *44 documents found* *"
+	{
+		"chi"		"**文件：4/4**"
+		"DoorCountDown" "-1"
+	}
+	"* *DONT TRY TO FIGHT HIM, HIDE IN THE LOCKER* *"
+	{
+		"chi"		"**不要试图攻击他,快躲进储物柜里**"
+	}
+	"* *FIND A BACKUP GENERATOR IN THE BASEMENT* *"
+	{
+		"chi"		"**在地下室找到备用发电机**"
+	}
+	"* *SECRET DOOR OPEN* *"
+	{
+		"chi"		"**隐藏大门已开启**"
+	}
+	"* *ZOMBIE PUSH DISABLE NOW!* *"
+	{
+		"chi"		"**僵尸PUSH已禁用**"
+	}
+	"* *DONT LET THE ZOMBIES GO INSIDE THE BASEMENT* *"
+	{
+		"chi"		"**不要让僵尸进入地下室**"
+	}
+	"* *FIRST PRESS 2 BUTTONS IN PUMPS ROOMS* *"
+	{
+		"chi"		"**开启两个水泵才能启用发电机**"
+	}
+	"* *LEFT BUTTON PRESSED* *"
+	{
+		"chi"		"**左边水泵已开启**"
+	}
+	"* *RIGHT BUTTON PRESSED* *"
+	{
+		"chi"		"**右边水泵已开启**"
+	}
+	"* *MIDDLE BUTTON UNLOCK* *"
+	{
+		"chi"		"**发电机已解锁**"
+	}
+	"* *GO BACK TO SERVER ROOM* *"
+	{
+		"chi"		"**快返回服务器机房**"
+	}
+	"* *ZOMBIE PUSH DISABLE* *"
+	{
+		"chi"		"**僵尸推力已禁用**"
+	}
+	"* *CONGRATULATIONS STAGE 1 COMPLETE* *"
+	{
+		"chi"		"**恭喜 第一关已完成**"
+	}
+	"* *ZOMBIE SHORTCUT OPEN* *"
+	{
+		"chi"		"**僵尸侧路已开放**"
+	}
+	"* *16 documents found* *"
+	{
+		"chi"		"**文件：1/6**"
+		"DoorCountDown" "-1"
+	}
+	"* *THE ROOM IS DISINFECTED WAIT 10 SECONDS* *"
+	{
+		"chi"		"**消毒室大门将在10秒后关闭**"
+	}
+	"* *LASERS TRAP DISABLE* *"
+	{
+		"chi"		"**激光陷阱已关闭**"
+	}
+	"* *26 documents found* *"
+	{
+		"chi"		"**文件：2/6**"
+		"DoorCountDown" "-1"
+	}
+	"* *THIS IS A GHOST, RUN FROM HIM!!!* *"
+	{
+		"chi"		"**这是一个幽灵,快远离他**"
+	}
+	"* *THIS IS CHRIS WALKER KILL HIM FASTER!* *"
+	{
+		"chi"		"**这是克里斯·沃克 赶紧杀死他**"
+	}
+	"* *CHRIS WALKER DEFEATED NOW GO BACK* *"
+	{
+		"chi"		"**克里斯·沃克被杀死了 撤退**"
+	}
+	">>> PLAYER HAS PICKED UP ZM_FIRE_ITEM <<<"
+	{
+		"chi"		"**一位玩家拾取了僵尸火球**"
+	}
+	"* *FIND BILLY IN THE MAIN LABARATORY* *"
+	{
+		"chi"		"**在主实验室找到比利**"
+	}
+	">>> PLAYER HAS PICKED UP HEAL <<<"
+	{
+		"chi"		"**一位玩家拾取了治疗 只能使用一次**"
+	}
+	"* *A PLAYER HAS PICKED UP DICK* *"
+	{
+		"chi"		"**一位玩家拾取了DICK**"
+	}
+	"* *BILLY IS DEAD, FALL BACK!* *"
+	{
+		"chi"		"**比利死了,撤退!**"
+	}
+	"* *36 documents found* *"
+	{
+		"chi"		"**文件：3/6**"
+		"DoorCountDown" "-1"
+	}
+	"* *THE REACTOR DOOR WILL OPEN AT 10 SECONDS* *"
+	{
+		"chi"		"**反应器大门将在10秒后开启**"
+	}
+	"* *TURN OFF THE VALVE FOR THE LIFE SUPPORT FLUID RESERVOIR* *"
+	{
+		"chi"		"**我们需要关闭生命支持液储存器的阀门**"
+	}
+	"* *46 documents found* *"
+	{
+		"chi"		"**文件：4/6**"
+		"DoorCountDown" "-1"
+	}
+	"* *DEFEND 5 SECONDS* *"
+	{
+		"chi"		"**还剩5秒**"
+	}
+	"* *SURVIVE 50 SECONDS* *"
+	{
+		"chi"		"**存活50秒**"
+	}
+	"* *56 documents found* *"
+	{
+		"chi"		"**文件：5/6**"
+		"DoorCountDown" "-1"
+	}
+	"* *66 documents found* *"
+	{
+		"chi"		"**文件：6/6**"
+		"DoorCountDown" "-1"
+	}
+	"* *WE DIDNT STOP HIM PREPARING FOR BATTLE!* *"
+	{
+		"chi"		"**我们没能阻止他 快准备战斗**"
+	}
+	"**NADES DO MORE DAMAGE**"
+	{
+		"chi"		"**手雷能造成更多的伤害**"
+	}
+	"* *BILLY USE ULTIMATE DONT STAY MIDDLE* *"
+	{
+		"chi"		"**BILLY使用了终极远离中间**"
+	}
+	"* *BILLY HAVE HUGE SPEED NOW* *"
+	{
+		"chi"		"**BILLY狂暴了的速度非常快**"
+	}
+	"* *BILLY HAS BEEN DEFEATED, GET OUT* *"
+	{
+		"chi"		"**BILLY被打败了,撤退**"
+	}
+	"* *GO TO BUNKER FAST!* *"
+	{
+		"chi"		"**快去地堡**"
+	}
+	"* *HELICOPTER START AT 30 SECONDS* *"
+	{
+		"chi"		"**直升机将在30秒后启动**"
+	}
+	"* *You found all the secrets Good Job* *"
+	{
+		"chi"		"**干得漂亮,你收集了所有文件**"
+	}
+	"* *DEFEND 10 SECONDS* *"
+	{
+		"chi"		"**防守10秒**"
+	}
+	"* *CONGRATULATIONS STAGE 2 COMPLETE* *"
+	{
+		"chi"		"**恭喜 第一关已完成**"
+	}
+	"* *YOU LOSE ZOMBIE WIN* *"
+	{
+		"chi"		"**你输了!僵尸胜利**"
+	}
+	"* *DOOR OPEN AT 5 SECONDS* *"
+	{
+		"chi"		"**大门将在5秒后开启**"
+	}
+	"* *GO BACK TO BILLY* *"
+	{
+		"chi"		"**回去找BILLY**"
+	}
+	"* *DEFEND 30 SECONDS* *"
+	{
+		"chi"		"**防守30秒**"
+	}
+	"* *RUN BACK NEW DOORS ARE NOW OPEN!* *"
+	{
+		"chi"		"**撤退,对面大门已解锁**"
 	}
 }
