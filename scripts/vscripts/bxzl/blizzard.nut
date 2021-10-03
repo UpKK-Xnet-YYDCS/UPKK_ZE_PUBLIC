@@ -59,7 +59,7 @@ function qwq()
 	local v_len = sqrt(v.x*v.x+v.y*v.y);
 	local act_speed_rate = (v_len / 400 - 0.1);
 	if(act_speed_rate>1)
-		act_speed_rate = 1;
+		act_speed_rate = 0;
 	if(act_speed_rate<0)
 		act_speed_rate = 0;	
     
