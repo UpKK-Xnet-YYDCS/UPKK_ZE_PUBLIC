@@ -120,7 +120,7 @@
 	{
 		"chi"		"**[飞行员] 从这里你们仍能看到爆炸!**"
 	}
-"**[Chopper] You don't have much time left, hurry up!**"
+"**[Chopper] You dont have much time left, hurry up!**"
 	{
 		"chi"		"**[飞行员] 你们没多少时间了,快点!**"
 	}
@@ -128,12 +128,16 @@
 	{
 		"chi"		"**传送将在15秒后激活**"
 	}
+"**Teleport will enable in 20 seconds!**"
+	{
+		"chi"		"**传送将在20秒后激活**"
+	}
 "**[Chopper] Well done! We flying to zone 0, get ready!**"
 	{
 		"chi"		"**[飞行员] 干得漂亮!我们即将飞往区域0,准备好!**"
 		"DoorCountdown"		"-1"
 	}
-"**[Chopper] Running out of fuel, either we'll leave in 20 seconds or you'll stay here!**"
+"**[Chopper] Running out of fuel, either well leave in 20 seconds or youll stay here!**"
 	{
 		"chi"		"**[飞行员] 燃料用完了,我们20秒后才能离开,否则只能呆在这里!**"
 	}
@@ -205,6 +209,10 @@
 	{
 		"chi"		"**大门将在35秒后打开**"
 	}
+"**The door from the apartment will open in 25 seconds!**"
+	{
+		"chi"		"**大门将在25秒后打开**"
+	}
 "**Nice work, we are sending chopper, they should arrive within a few moments!**"
 	{
 		"chi"		"**做得好,我们正在分派飞行员,他们即将到达!**"
@@ -217,13 +225,17 @@
 	{
 		"chi"		"**坚守直至我们思考出一个新的计划!---20**"
 	}
-"**Unfortunately, we cannot help you in any way, you have to deal with yourselves. I'm sorry, good luck!**"
+"**Unfortunately, we cannot help you in any way, you have to deal with yourselves. Im sorry, good luck!**"
 	{
 		"chi"		"**不幸的是,我们不能再帮助你们了,你们得自己处理.对不起,祝你们好运!**"
 	}
 "**Doors of roof will open in 30 seconds!**"
 	{
 		"chi"		"**屋顶大门将在30秒后打开!**"
+	}
+"**Doors of roof will open in 20 seconds!**"
+	{
+		"chi"		"**屋顶大门将在20秒后打开!**"
 	}
 "**Zombies takes control on roof, we are lost, mission failed, repeat mission failed!**"
 	{
@@ -269,7 +281,7 @@
 	{
 		"chi"		"**门将在15秒后打开!**"
 	}
-"**Find another way, hurry! We don't have time to lose!**"
+"**Find another way, hurry! We dont have time to lose!**"
 	{
 		"chi"		"**寻找其他路线,快点!我们没有什么时间了!**"
 	}
@@ -281,17 +293,29 @@
 	{
 		"chi"		"**做得好,纸质工厂大门将在20秒后打开!**"
 	}
+"**Well done, Paper Factory gate will open in 25 seconds!**"
+	{
+		"chi"		"**做得好,纸质工厂大门将在25秒后打开!**"
+	}
 "**Well done, Paper Factory gate will open in 30 seconds!**"
 	{
 		"chi"		"**做得好,纸质工厂大门将在30秒后打开!**"
 	}
+"**Well done, Paper Factory gate will open in 5 seconds!**"
+	{
+		"chi"		"**做得好,纸质工厂大门将在5秒后打开!**"
+	}
 "**Well, done! That teleporter may teleport us to shelf, use it!**"
 	{
-		"chi"		"**25---做得好!那个传送器可以把我们传送出去,去使用它!**"
+		"chi"		"**15---做得好!那个传送器可以把我们传送出去,去使用它!**"
 	}
 "**Hold this area, way will open in 20 seconds!**"
 	{
 		"chi"		"**坚守这里,道路将在20秒后开放!**"
+	}
+"**Hold this area, way will open in 12 seconds!**"
+	{
+		"chi"		"**坚守这里,道路将在12秒后开放!**"
 	}
 "**Teleporter will enable in 20 seconds!**"
 	{
@@ -341,11 +365,11 @@
 	{
 		"chi"		"**门将在15秒后打开!**"
 	}
-"**A new generation of papemetal automatic lock, give me some time and I'll open it to you!**"
+"**A new generation of papemetal automatic lock, give me some time and Ill open it to you!**"
 	{
 		"chi"		"**这是一个新型金属自动锁,给我一点时间来打开它!**"
 	}
-"**[CHOPPER] We're flying into zone 0, we can't stay there too long, hurry up!**"
+"**[CHOPPER] Were flying into zone 0, we cant stay there too long, hurry up!**"
 	{
 		"chi"		"**[飞行员] 我们即将飞往区域0,我们不能在这呆太久,快点!**"
 		"DoorCountdown"		"-1"
@@ -366,6 +390,10 @@
 	{
 		"chi"		"**下一扇门将在15秒后打开!**"
 	}
+"**Next Gate will open in 8 seconds!**"
+	{
+		"chi"		"**下一扇门将在8秒后打开!**"
+	}
 "**Well done, we are next to main reactor control panel!**"
 	{
 		"chi"		"**做得好,我们靠近了主反应炉的控制板!**"
@@ -382,7 +410,7 @@
 	{
 		"chi"		"**[安全警报] 主反应炉将在22秒后关闭!**"
 	}
-"**Whats that? Something blew up too fast, we'd better hurry!**"
+"**Whats that? Something blew up too fast, wed better hurry!**"
 	{
 		"chi"		"**那是什么?爆炸速度太快了,我们得快点!**"
 	}
@@ -406,7 +434,7 @@
 	{
 		"chi"		"**[安全警报] 主反应炉将在5秒后过热!**"
 	}
-"**The roof is locked with a padlock, I'll unlock it but it takes some time!**"
+"**The roof is locked with a padlock, Ill unlock it but it takes some time!**"
 	{
 		"chi"		"**屋顶大门被挂锁锁住了,给我一点时间来打开它!---30**"
 	}
@@ -421,6 +449,10 @@
 "**Bomb has been planted! Hold here for 25 seconds!**"
 	{
 		"chi"		"**炸弹已安放!坚守25秒!**"
+	}
+"**Bomb has been planted! Hold here for 15 seconds!**"
+	{
+		"chi"		"**炸弹已安放!坚守15秒!**"
 	}
 "**Get ready! Boss fight incoming!**"
 	{
@@ -450,7 +482,7 @@
 	{
 		"chi"		"**[飞行员] 因此快点离开这里!**"
 	}
-"**[Chopper]  Find a good pick-up point, or else you'll be buried along with the shelves!**"
+"**[Chopper]  Find a good pick-up point, or else youll be buried along with the shelves!**"
 	{
 		"chi"		"**[飞行员] 寻找一个合适的上机点,否则你们只能和书架埋葬在一起!**"
 	}
@@ -503,7 +535,7 @@
 	{
 		"chi"		"**钢筋混泥土,我们没法打碎!**"
 	}
-"**Apart from that, I don't see any traps here!**"
+"**Apart from that, I dont see any traps here!**"
 	{
 		"chi"		"**除了那个,我没看到其他陷阱了!**"
 	}
@@ -563,6 +595,24 @@
 	{
 		"chi"		"**地图状态: #7 Stripper!**"
 		"DoorCountdown"		"-1"
+	}
+"**Map Status: Stripper #8 enable!**"
+	{
+		"chi"		"**地图状态: #8 Stripper!**"
+		"DoorCountdown"		"-1"
+	}
+"**Map Status: Stripper #9 enable!**"
+	{
+		"chi"		"**地图状态: #9 Stripper!**"
+		"DoorCountdown"		"-1"
+	}
+"**Thanks Tilgep & Hentai for help!**"
+	{
+		"chi"		"**感谢 Tilgep 和 Hentai 的帮助**"
+	}
+"Special thanks Zombieden for testing!**"
+	{
+		"chi"		"**特别感谢Zombieden的地图测试**"
 	}	
 "**Wait, where is Paper King!?**"
 	{
@@ -572,8 +622,32 @@
 	{
 		"chi"		"**他应该在这里的,这肯定是个陷阱,快跑!**"
 	}
-"**[CHOPPER] **Reactor is about to blow up, this is your last chance, don't waste it!**"
+"**[CHOPPER] **Reactor is about to blow up, this is your last chance, dont waste it!**"
 	{
 		"chi"		"**[飞行员] 反应炉即将爆炸,这是你们最后的机会,抓紧它!**"
+	}
+"**A player has picked up Serious Backpack!**"
+	{
+		"chi"		"**一位玩家拾取了弹药包！**"
+	}
+"**A player has picked up Gersch device!**"
+	{
+		"chi"		"**一位玩家拾取了黑洞装置！**"
+	}
+"**A player has picked up Raygun!**"
+	{
+		"chi"		"**一位玩家拾取了镭射枪！**"
+	}
+"**A player has picked up Wunderwaffe!**"
+	{
+		"chi"		"**一位玩家拾取了电枪！**"
+	}
+"**A player has picked up Thundergun!**"
+	{
+		"chi"		"**一位玩家拾取了迅雷炮(推力枪)！**"
+	}
+"**A player has picked up Bowie Knife!**"
+	{
+		"chi"		"**一位玩家拾取了长刃猎刀！**"
 	}
 }
