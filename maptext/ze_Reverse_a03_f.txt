@@ -1,0 +1,96 @@
+"Console_T"
+{
+	">> 15 seconds <<"
+	{
+		"chi"		"**15秒**"
+	}
+	">> 5 seconds left <<"
+	{
+		"chi"		"**剩余5秒**"
+	}
+	">> 30 seconds <<"
+	{
+		"chi"		"**30秒**"
+	}
+	">> Zombie tp in 15 seconds <<"
+	{
+		"chi"		"**僵尸15秒后传送**"
+		"DoorCountdown"		"-1"
+	}
+	">> 35 seconds <<"
+	{
+		"chi"		"**35秒**"
+	}
+	">> Go back to the entrance <<"
+	{
+		"chi"		"**快返回出口位置---3**"
+	}
+	">> 10 seconds <<"
+	{
+		"chi"		"**10秒**"
+	}
+	">> Jump <<"
+	{
+		"chi"		"**快跳起来---5**"
+	}
+	">> Zombie push has been disabled <<"
+	{
+		"chi"		"**僵尸屏障已消失**"
+	}
+	">> Shoot the Crystal! <<"
+	{
+		"chi"		"**快打碎水晶！！**"
+	}
+	">> 50 seconds <<"
+	{
+		"chi"		"**50秒**"
+	}
+	">> laser coming! <<"
+	{
+		"chi"		"**跳刀来临！**"
+	}
+	">> Reverse <<"
+	{
+		"chi"		"**反转---5**"
+	}
+	">> Auto Secret Trigger Enabled <<"
+	{
+		"chi"		"**自动隐藏关启用**"
+	}
+	">> Auto Secret Trigger is enabled. <<"
+	{
+		"chi"		"**自动隐藏关启用**"
+	}
+	">> Auto Secret Trigger Disabled <<"
+	{
+		"chi"		"**自动隐藏关已禁用**"
+	}
+	">> Secret Enabled <<"
+	{
+		"chi"		"**隐藏关已激活**"
+	}
+	">> Secret Disabled <<"
+	{
+		"chi"		"**隐藏关已关闭**"
+	}
+	">> Secret has been disabled. <<"
+	{
+		"chi"		"**隐藏关已关闭**"
+	}
+	">> Failed <<"
+	{
+		"chi"		"**失败**"
+	}
+	">> 20 second left <<"
+	{
+		"chi"		"**还剩20秒**"
+	}
+	">> Upper side open, watch out! <<"
+	{
+		"chi"		"**上面的路也开了，注意！**"
+	}
+	">> 20 seconds <<"
+	{
+		"chi"		"**20秒**"
+	}
+}
