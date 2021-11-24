@@ -74,11 +74,12 @@
 	}
 	"Climb up the boxes after activated the detonator !"
 	{
-		"chi"		"** 引爆雷管!!去两边压制或是爬上旁边箱子  **"
+		"chi"		"** 引爆雷管!!去两边压制或是爬上旁边箱子 **"
 	}
 	"Keep holding until zombies get teleport!"
 	{
 		"chi"		"** 继续防守直到僵尸传送! **"
+		"DoorCountdown"		"82"
 	}
 	"Break the laser power switch!"
 	{
