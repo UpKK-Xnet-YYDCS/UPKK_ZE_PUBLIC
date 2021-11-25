@@ -102,7 +102,8 @@
 	}
 	"| Abyss guardian has casted Frozen abyss |"
 	{
-		"chi"		"** 深渊守护者施放了冰冻深渊 **"
+		"chi"		"** 深渊守护者施放了冰冻深渊 贴墙**"
+		"DoorCountdown" "7"
 	}
 	"| Stay in the middle now ! |"
 	{
@@ -112,7 +113,6 @@
 	"** Climb the side now ! **"
 	{
 		"chi"		"** 贴墙！！！ **"
-		"DoorCountdown" "5"
 	}
 	"| Gate opens in 10 seconds |"
 	{
