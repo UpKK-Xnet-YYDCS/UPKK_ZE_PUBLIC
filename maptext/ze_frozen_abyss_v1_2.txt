@@ -98,21 +98,21 @@
 	}
 	"** Abyss guardian has casted Ice World **"
 	{
-		"chi"		"** 深渊守护者施放了冰河世界 **"
+		"chi"		"** 冰河世界 贴墙**"
+		"DoorCountdown" "7"
 	}
 	"| Abyss guardian has casted Frozen abyss |"
 	{
-		"chi"		"** 深渊守护者施放了冰冻深渊 贴墙**"
-		"DoorCountdown" "7"
+		"chi"		"** 冰冻深渊 站中间**"
+		"DoorCountdown" "6"
 	}
 	"| Stay in the middle now ! |"
 	{
-		"chi"		"** 站中间 **"
-		"DoorCountdown" "5"
+		"chi"		"** 快站中间 **"
 	}
 	"** Climb the side now ! **"
 	{
-		"chi"		"** 贴墙！！！ **"
+		"chi"		"** 快贴墙！！！ **"
 	}
 	"| Gate opens in 10 seconds |"
 	{
