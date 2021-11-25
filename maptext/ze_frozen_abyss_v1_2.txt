@@ -107,10 +107,12 @@
 	"| Stay in the middle now ! |"
 	{
 		"chi"		"** 站中间 **"
+		"DoorCountdown" "5"
 	}
 	"** Climb the side now ! **"
 	{
 		"chi"		"** 快去角落 **"
+		"DoorCountdown" "5"
 	}
 	"| Gate opens in 10 seconds |"
 	{
@@ -268,15 +270,7 @@
 	{
 		"chi"		"** 侧路将在40秒后打开 **"
 	}
-	"sync_version"
-	{
-		"syncvalue"		"42764"
-	}
 	"| Shortcut gate opens in 45 seconds |"
-	{
-		"chi"		"** **"
-	}
-	"| 二哈是憨批 |"
 	{
 		"chi"		"** **"
 	}
