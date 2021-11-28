@@ -27,7 +27,7 @@
 	"*** GATES A5 & C2 WILL BREAK IN 5 SECONDS ***"
 	{
 		"chi"		"**A5与C2大门将在5秒后打开**"
-		"DoorCountdown"		"5"
+		"DoorCountDown"		"5"
 	}
 	"*** CURRENT DIFFICULTY --- EASY ***"
 	{
@@ -271,8 +271,8 @@
 	}
 	"*** WATCH OUT FOR ELECTRICITY WAVES ***"
 	{
-		"chi"		"**注意前方电力刀波(2中刀)**"
-		"DoorCountdown"		"-1"
+		"chi"		"**注意前方电力刀波(高刀)**"
+		"DoorCountDown"		"-1"
 	}
 	"*** KEEP MOVING FORWARD!!!! ***"
 	{
@@ -305,10 +305,6 @@
 	"*** RESTARTING NORMAL DIFFICULTY ***"
 	{
 		"chi"		"**重启普通难度 **"
-	}
-	"sync_version"
-	{
-		"syncvalue"		"86563"
 	}
 	"** Modified by Skullz and Lev **"
 	{
@@ -356,7 +352,7 @@
 	}
 	"*** JUMP!! ***"
 	{
-		"chi"		"** **"
+		"chi"		"**跳**"
 	}
 	"** KILL THE ROBOT SPIDER !! **"
 	{
@@ -416,17 +412,23 @@
 	}
 	"* WATCH OUT FOR ELECTRICITY WAVES ON THE TOP *"
 	{
-		"chi"		"** **"
+		"chi"		"**注意电光刀波(2连高刀)**"
+		"DoorCountDown"		"-1"
 	}
 	"* WATCH OUT FOR ELECTRICITY WAVES ON THE FLOOR *"
 	{
-		"chi"		"** **"
+		"chi"		"**注意电光刀波(2连低刀)**"
+		"DoorCountDown"		"-1"
 	}
 	"** KEY ITEM HAS BEEN PICKED UP **"
 	{
 		"chi"		"** **"
 	}
 	"** GO TO THE LEFT !!! **"
+	{
+		"chi"		"** **"
+	}
+	"*** NORMAL DIFFICULTY SET ON ADMIN ROOM ***"
 	{
 		"chi"		"** **"
 	}
