@@ -11,14 +11,12 @@
 			{
 				"round_time_need" "120" //至少需要 120秒才能触发奖励 防止ezwin策略
 				"point" "30" //点数
-				"console_output"  "" //检测say是否有输出文本才能激活 # 请务必确认在回合结束之前有输出 留空则不检测 *(暂不生效)
 				"zone_name"  ""   //防ezwin方案 需要玩家到指定区域名称才会给奖励 sm_zones 画区域并命名 前缀 arrive_ 完整如 arrive_1 可靠性增加 但区域会占实体
 			}
 			"2"
 			{
 				"round_time_need" "120" //至少需要 120秒才能触发奖励 防止ezwin策略
 				"point" "40"
-				"console_output"  ""  //不需要检测控制台输出
 				"zone_name"  ""
 			}
 			"3"
