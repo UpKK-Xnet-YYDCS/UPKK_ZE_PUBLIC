@@ -30,10 +30,10 @@
 	}
 
 `
-#系统如何下移回合?
-同时满足3个条件 
-1.RequestClients (全局人数)
-2.round_time_need(局部配置 需要的回合时间)
-3.CT胜利
+	# 系统如何下移回合?
+	同时满足3个条件 
+	1.RequestClients (全局人数)
+	2.round_time_need(局部配置 需要的回合时间)
+	3.CT胜利
 
 
