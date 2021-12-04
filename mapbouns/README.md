@@ -11,7 +11,10 @@
 			{
 				"round_time_need" "120" //至少需要 120秒才能触发奖励 防止ezwin策略
 				"point" "30" //点数
-				"zone_name"  ""   //防ezwin方案 需要玩家到指定区域名称才会给奖励 sm_zones 画区域并命名 前缀必须是 arrive_ 完整如 arrive_1 可靠性增加 但区域会占实体
+				 //zone_name 防ezwin方案 需要玩家到指定区域名称才会给奖励 使用命令 sm_zones 画区域并命名 前缀必须是 arrive_ 完整如 arrive_1 可靠性增加 但区域会占实体
+				 //每个地图区域名称必须唯一  arrive_1,arrive_2,arrive_3,...etc
+				"zone_name"  ""  
+				
 			}
 			"2"
 			{
