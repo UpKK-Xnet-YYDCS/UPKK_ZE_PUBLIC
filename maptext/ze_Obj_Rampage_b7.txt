@@ -79,7 +79,7 @@
 	"Keep holding until zombies get teleport!"
 	{
 		"chi"		"** 继续防守直到僵尸传送! **"
-		"DoorCountdown"		"84"
+		"DoorCountDown"		"84"
 	}
 	"Break the laser power switch!"
 	{
@@ -248,5 +248,17 @@
 	"Thanks to Zombieden for testing csgo version"
 	{
 		"chi"		"** 感谢Zombieden测试csgo版本 **"
+	}
+	"地图使用了stripper 20211127"
+	{
+		"chi"		"** **"
+	}
+	"** 防守140秒 **"
+	{
+		"chi"		"** **"
+	}
+	"** 防守65秒 **"
+	{
+		"chi"		"** **"
 	}
 }
