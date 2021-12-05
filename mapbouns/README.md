@@ -10,10 +10,12 @@
 			"1"
 			{
 				"round_time_need" "120" //至少需要 120秒才能触发奖励 防止ezwin策略
-				"point" "30" //点数
+				"RewaredType" "" //配置奖励 playerskin 随机公共人物皮肤 playerskin_advance !task 月抽奖可能得到的皮肤 [playerskin 公共人物皮肤 = 1~7天 playerskin_advance 高级人物皮肤 = 30天]
+				"point" "30" //点数 0则不给积分
 				 //zone_name 防ezwin方案 需要玩家到指定区域名称才会给奖励 使用命令 sm_zones 画区域并命名 前缀必须是 arrive_ 完整如 arrive_1 可靠性增加 但区域会占实体
 				 //每个地图区域名称必须唯一  arrive_1,arrive_2,arrive_3,...etc
 				"zone_name"  ""  
+				
 				
 			}
 			"2"
