@@ -54,7 +54,7 @@
 	}
 	"I am optimistic about the road under your feet. How come back? Do you understand?"
 	{
-		"chi"		"**我对你的处境非常乐观，你知道如何回来吗？提示：看脚底的路！所以你明白了吗？**"
+		"chi"		"**你知道撤退的路线吗？提示：看脚底下我们刚刚走过的路！所以你明白了吗？**"
 	}
 	"Zombies approaching the road"
 	{
@@ -78,16 +78,15 @@
 	}
 	"Warning: zombies open near the road"
 	{
-		"chi"		"**警告：僵尸侧路已开启**"
+		"chi"		"**僵尸侧路已开启**"
 	}
 	"Warning: trap is activated"
 	{
-		"chi"		"**警告：陷阱已激活**"
-		"DoorCountdown"		"3"
+		"chi"		"**陷阱已激活 3**"
 	}
 	"Warning: Zombie launches near the road"
 	{
-		"chi"		"**警告：僵尸侧路已开启**"
+		"chi"		"**僵尸侧路已开启**"
 	}
 	"you need hold 40s"
 	{
@@ -99,22 +98,11 @@
 	}
 	"zombie coming watch you back"
 	{
-		"chi"		"**僵尸要传送了！准备好手雷**"
-		"DoorCountdown"		"3"
+		"chi"		"**僵尸传送了，准备手雷**"
 	}
 	"Zombies are still transmitted after 7S"
 	{
 		"chi"		"**僵尸7秒后传送**"
-	}
-	"This is the last defensive point. It??s life or death. Look at this last 60s."
-	{
-		"chi"		"**最后的守点，是生还是死，看这最后的60秒**"
-		"DoorCountdown"		"-1"
-	}
-	"This is the last defensive point. It??s life or death. Look at this last 90s."
-	{
-		"chi"		"**最后的守点，是生还是死，看这最后的90秒**"
-		"DoorCountdown"		"90"
 	}
 	"Wooden boat leaves after 7S"
 	{
@@ -130,11 +118,11 @@
 	}
 	"I remember here, here is my back mountain"
 	{
-		"chi"		"**我记得这里，这里是我家的后山**"
+		"chi"		"**我记得这里，这里是牛家山 作者:牛肉粉 翻译:血色的龙琉璃**"
 	}
 	"From here you can reach my house directly"
 	{
-		"chi"		"**从这里走您可以直接到达我家**"
+		"chi"		"**从这里走可以直接到达我家**"
 	}
 	"Something weird was triggered"
 	{
@@ -142,12 +130,11 @@
 	}
 	"Something strange will happen"
 	{
-		"chi"		"**请把背景音乐打开XD:**"
+		"chi"		"**请把背景音乐打开 XD**"
 	}
 	"tip:You cant pass on the chessboard You must pass on the chess piece"
 	{
-		"chi"		"**提示：你不能直接通过棋盘，你必须利用棋子才能前进**"
-		"DoorCountdown"		"3"
+		"chi"		"**你不能直接通过棋盘，你必须站在棋子上前进**"
 	}
 	"Zombie checkerboard teleport"
 	{
@@ -163,34 +150,36 @@
 	}
 	"It looks like youve found the board. Give me some time and Ill get him"
 	{
-		"chi"		"** **"
+		"chi"		"**看起来你已经找到了木板,给我一些时间去得到它**"
 	}
 	"Zombie teleportation will teleport in 5 seconds"
 	{
-		"chi"		"** **"
+		"chi"		"**僵尸5秒后传送**"
 	}
 	"The cave is blocked, damn it"
 	{
-		"chi"		"** **"
+		"chi"		"**洞穴被堵死了，该死**"
 	}
 	"Wait a minute, I seem to have seen this sword before"
 	{
-		"chi"		"** **"
+		"chi"		"**等一下，我之前好像见过这把剑**"
 	}
 	"Ill inject strength into this sword"
 	{
-		"chi"		"** **"
+		"chi"		"**我将为剑注入神力**"
 	}
 	"Zombies will be teleported in 3 seconds"
 	{
-		"chi"		"** **"
+		"chi"		"**僵尸3秒后传送**"
 	}
 	"999"
 	{
-		"chi"		"** **"
+		"chi"		"**999**"
+		"DoorCountDown"		"-1"
 	}
 	"1"
 	{
-		"chi"		"** **"
+		"chi"		"**1**"
+		"DoorCountDown"		"-1"
 	}
 }
