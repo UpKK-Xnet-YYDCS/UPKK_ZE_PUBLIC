@@ -3,6 +3,7 @@
 	"***10 MAPPERS PARTICIPATED TO THIS VERSION***"
 	{
 		"chi"		"**感谢10位作者参与制作 **"
+		"DoorCountDown"		"-1"
 	}
 	"***STARTING IN 10 SEC***"
 	{
@@ -271,6 +272,7 @@
 	"<< YOU BEAT 5 LEVELS IN A ROW >>"
 	{
 		"chi"		"**你连续通关5个关卡来结束**"
+		"DoorCountDown"		"-1"
 	}
 	"<< YOU CAN DECIDE TO CONTINUE >>"
 	{
@@ -471,10 +473,12 @@
 	"** Floodgate 2 opens in 20 seconds **"
 	{
 		"chi"		"**20秒后打开闸门2**"
+		"DoorCountDown"		"20"
 	}
 	"** Floodgate 1 opens in 22 seconds **"
 	{
 		"chi"		"**22秒后打开闸门1**"
+		"DoorCountDown"		"22"
 	}
 	"**Exit will open in 30 seconds**"
 	{
@@ -542,7 +546,7 @@
 	}
 	"***DEFEND for 60 seconds!***"
 	{
-		"chi"		"** 生存60秒！**"
+		"chi"		"**生存60秒**"
 	}
 	"***Ground units be advised. We will airstrike one of the entry points for you.***"
 	{
@@ -550,7 +554,7 @@
 	}
 	"***5 seconds remaining.***"
 	{
-		"chi"		"**还剩5秒。**"
+		"chi"		"**还剩5秒**"
 	}
 	"***STAGE DEATHRUN ***"
 	{
@@ -570,7 +574,7 @@
 	}
 	"*** FINAL TP ENABLES IN 15 SECONDS ***"
 	{
-		"chi"		"**这个是最后的传送点了将在15秒后开启**"
+		"chi"		"**最后的传送点将在15秒后开启**"
 	}
 	"***STAGE FLYING WHEEL***"
 	{
@@ -631,6 +635,7 @@
 	"<< LETS GO FOR LEVEL 6 >>"
 	{
 		"chi"		"**让我们进入第6关卡**"
+		"DoorCountDown"		"-1"
 	}
 	"<== Boat! Boat! Boat! ==>"
 	{
@@ -642,15 +647,15 @@
 	}
 	"yeah... youre welcome. 30 second divisions of the hour remaining."
 	{
-		"chi"		"**是的……不客气。剩余小时数30秒**"
+		"chi"		"**是的……不客气.剩余30秒**"
 	}
 	"***Emergency evacuation activated. Saferoom will be contained in 30 seconds.***"
 	{
-		"chi"		"**紧急疏散启动。跑得慢的人将在30秒内被收容。**"
+		"chi"		"**紧急疏散启动,跑得慢的人将在30秒内被收容**"
 	}
 	"***Saferoom will be contained in 5 seconds.***"
 	{
-		"chi"		"**跑得慢的人将在5秒内被收容。**"
+		"chi"		"**跑得慢的人将在5秒内被收容**"
 	}
 	"***30 seconds remaining.***"
 	{
@@ -658,7 +663,7 @@
 	}
 	"***Next stage is probably big trim. 30 seconds remaining.***"
 	{
-		"chi"		"**下一关卡可能是大换洗的一波。 还剩30秒。**"
+		"chi"		"**下一关卡可能是大换洗的一波,还剩30秒**"
 	}
 	"OH SHIT"
 	{
@@ -670,7 +675,7 @@
 	}
 	"safe for now... the saferoom entrance is automatically sealed in 30 secs."
 	{
-		"chi"		"**暂时安全……安全室入口在30秒后自动密封。**"
+		"chi"		"**暂时安全……安全室入口在30秒后自动密封**"
 	}
 	"***Saferoom door is closing in 5 seconds***"
 	{
@@ -686,7 +691,7 @@
 	}
 	"***Hope youre having a good day! 30 seconds remaining.***"
 	{
-		"chi"		"**希望你过得愉快！防守0秒。**"
+		"chi"		"**希望你过得愉快！防守30秒**"
 	}
 	"sync_version"
 	{
@@ -695,10 +700,12 @@
 	"Mappers: m4dara Qazlll456 Ordiaxer Chinny Yesme Frenchy"
 	{
 		"chi"		"**参与帮助的作者m4dara Qazlll456 Ordiaxer Chinny Yesme Frenchy**"
+		"DoorCountDown"		"-1"
 	}
 	"Mking Chemodan Hichatu Nostar Raphi 4Echo"
 	{
 		"chi"		"**制作 Chemodan Hichatu Nostar Raphi 4Echo 翻译路过人王小明**"
+		"DoorCountDown"		"-1"
 	}
 	"***BAN HAMMER item picked up***"
 	{
@@ -719,6 +726,7 @@
 	"<< YOU BEAT 10 LEVELS IN A ROW >>"
 	{
 		"chi"		"**你连续通关10个关卡**"
+		"DoorCountDown"		"-1"
 	}
 	"<< OR GO FOR THE BEAT SABER ENDING >>"
 	{
@@ -731,6 +739,7 @@
 	"*** Mines item has been picked (5 use) ***"
 	{
 		"chi"		"**地雷物品已被拾取(5次使用)**"
+		"DoorCountDown"		"-1"
 	}
 	"<< GOOD LUCK THEN!! >>"
 	{
@@ -807,6 +816,7 @@
 	"<< LETS GO FOR LEVEL 11 >>"
 	{
 		"chi"		"**让我们进入11关卡**"
+		"DoorCountDown"		"-1"
 	}
 	"***The water is... lava? Look, just dont fall into the water.***"
 	{
