@@ -686,23 +686,23 @@
 	}
 	"***You Found a Seal***"
 	{
-		"chi"		"** **"
+		"chi"		"**你找到了印章**"
 	}
 	"***BuyZone activated for 8 seconds***"
 	{
-		"chi"		"** **"
+		"chi"		"**购买菜单开放8秒**"
 	}
 	"***You have 60 seconds to kill CreeperGirl***"
 	{
-		"chi"		"** **"
+		"chi"		"**你有60秒击败CreeperGirl**"
 	}
 	"***You killed the final boss. Teleportation after 10 seconds***"
 	{
-		"chi"		"** **"
+		"chi"		"**你击败了最终的boss,传送10秒后激活**"
 	}
 	"***Zombies will be teleported after 10 seconds***"
 	{
-		"chi"		"** **"
+		"chi"		"**僵尸10秒后传送**"
 	}
 	"***The order | 1-Shield 2-Spear 3-Bow 4-Sword***"
 	{
@@ -710,38 +710,39 @@
 	}
 	"***Door will open in 15 sec***"
 	{
-		"chi"		"** **"
+		"chi"		"**门15秒后打开**"
 	}
 	"***Gate will open in 30 seconds***"
 	{
-		"chi"		"** **"
+		"chi"		"**大门30秒后打开**"
 	}
 	"***The order | 1-Bow 2-Shield 3-Spear 4-Sword***"
 	{
-		"chi"		"** **"
+		"chi"		"**开门方法| 1矛 2剑 3弓 4盾**"
 	}
 	"***Afk will be teleported after 15 seconds***"
 	{
-		"chi"		"** **"
+		"chi"		"**AFK玩家15秒后传送**"
 	}
 	"***The order | 1-Bow 2-Spear 3-Sword 4-Shield***"
 	{
-		"chi"		"** **"
+		"chi"		"**开门方法| 1矛 2剑 3弓 4盾**"
 	}
 	"***CatGirl can be Cured by 180 HP***"
 	{
-		"chi"		"** **"
+		"chi"		"**CatGirl恢复了180HP**"
+		"DoorCountDown"		"-1"
 	}
 	"***The order | 1-Spear 2-Shield 3-Sword 4-Bow***"
 	{
-		"chi"		"** **"
+		"chi"		"**开门方法| 1矛 2剑 3弓 4盾**"
 	}
 	"***The order | 1-Sword 2-Shield 3-Spear 4-Bow***"
 	{
-		"chi"		"** **"
+		"chi"		"**开门方法| 1矛 2剑 3弓 4盾**"
 	}
 	"***The order | 1-Spear 2-Bow 3-Shield 4-Sword***"
 	{
-		"chi"		"** **"
+		"chi"		"**开门方法| 1矛 2剑 3弓 4盾**"
 	}
 }
