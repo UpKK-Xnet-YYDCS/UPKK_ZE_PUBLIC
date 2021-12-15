@@ -51,20 +51,22 @@
 	"***Snow Prism***"
 	{
 		"chi"		"**冰雹 提示:蹲下躲避伤害**"
+		"DoorCountdown"		"3"
 	}
 	"***ZM***"
 	{
 		"chi"		"**僵尸尸笼 提示:4个方向尸笼随机开1个**"
-		"DoorCountdown"		"-1"
+		"DoorCountdown"		"3"
 	}
 	"***Shooting Star***"
 	{
 		"chi"		"**流星 提示:天坠,保持移动**"
+		"DoorCountdown"		"3"
 	}
 	"***Super Snow Storm***"
 	{
-		"chi"		"**超级暴风雪 提示:刷新2个轨道炮.保持移动**"
-		"DoorCountdown"		"-1"
+		"chi"		"**超级暴风雪 提示:刷新2个轨道炮**"
+		"DoorCountdown"		"3"
 	}
 	"***Suction Mist***"
 	{
@@ -140,7 +142,7 @@
 	}
 	"< Chase the light >"
 	{
-		"chi"		"** **"
+		"chi"		"**追逐那道光**"
 	}
 	"< Do not let zombies touch the light >"
 	{
