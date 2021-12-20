@@ -10,7 +10,7 @@ mce_exclude  = 地图CD循环张数
 
 更新后version 必须+1 否则不同步
 样本
-`
+```javascript
     {
       "version": 8,
       "data": {
@@ -32,4 +32,4 @@ mce_exclude  = 地图CD循环张数
         }
       }
     }
-`
+```
