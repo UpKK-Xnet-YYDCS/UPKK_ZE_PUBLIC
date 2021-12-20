@@ -10,24 +10,24 @@ mce_exclude  = 地图CD循环张数
 
 更新后version 必须+1 否则不同步
 样本
-{
-  "version": 8,
-  "data": {
-    "ne_credits": 400,
-    "mce_exclude": 10,
-    "SERVER_TYPE_ZE": {
-      "mce_exclude": 55,
-      "DisableMaps": [
-        "ze_doom3_v2",
-        "ze_diddle_v3"
-      ]
-    },
-    "SERVER_TYPE_PROPHUNT": {
-      "mce_exclude": 30,
-      "DisableMaps": [
-        "cs_office",
-        "bili27_pack"
-      ]
+    {
+      "version": 8,
+      "data": {
+        "ne_credits": 400,
+        "mce_exclude": 10,
+        "SERVER_TYPE_ZE": {
+          "mce_exclude": 55,
+          "DisableMaps": [
+            "ze_doom3_v2",
+            "ze_diddle_v3"
+          ]
+        },
+        "SERVER_TYPE_PROPHUNT": {
+          "mce_exclude": 30,
+          "DisableMaps": [
+            "cs_office",
+            "bili27_pack"
+          ]
+        }
+      }
     }
-  }
-}
