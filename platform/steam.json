@@ -35,7 +35,7 @@
 		"SERVER_TYPE_ZETEST": {
 			"mce_exclude": 1,
 			"DisableMaps": [],
-			"ne_credits": -1000,
+			"ne_credits": -10000,
 			"Command_OnConfigsExecuted": [
 				"mp_radar_showall 0;sv_deadtalk 1",
 				"sm_xsys_config change xsys.knockback.multiplier 4.525",
