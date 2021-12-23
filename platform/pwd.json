@@ -81,7 +81,7 @@
 			]
 		},
 		"SERVER_TYPE_PROPHUNT": {
-			"mce_exclude": 30,
+			"mce_exclude": 20,
 			"Command_OnConfigsExecuted": [
 				"sm_store_playerskin_default_ct \"models/player/custom_player/bbs_93x_net_2015/santa/update_2015_10_17/santa.mdl\"",
 				"sm_store_playerskin_default_ct_arms \"models/player/custom_player/bbs_93x_net_2015/santa/arms/santa_arms.mdl\"",
