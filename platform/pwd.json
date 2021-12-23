@@ -82,7 +82,7 @@
 			"mce_exclude": 30,
 			"Command_OnConfigsExecuted": [
 				"sm_store_playerskin_default_ct \"models/player/custom_player/bbs_93x_net_2015/santa/update_2015_10_17/santa.mdl\"",
-				"sm_store_playerskin_default_ct_arms \"models/player/custom_player/bbs_93x_net_2015/santa/update_2015_10_17/santa_arms.mdl\"",
+				"sm_store_playerskin_default_ct_arms \"models/player/custom_player/bbs_93x_net_2015/santa/arms/santa_arms.mdl\"",
 				"sm_store_playerskin_default_t \"models/player/custom_player/xnet/others/stenli/smite/fenrir.mdl\""
 			],
 			"DisableMaps": [
