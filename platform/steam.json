@@ -11,6 +11,10 @@
 			"mp_endmatch_votenextmap 0",
 			"sm_weapons_chat_prefix \"[XWS]\""
 		],
+		"AddCommandOverride_Flag": {
+			"sm_zones": "s",
+			"sm_zone": "s"
+		},
 		"SERVER_TYPE_ZE": {
 			"mce_exclude": 60,
 			"DisableMaps": [],
