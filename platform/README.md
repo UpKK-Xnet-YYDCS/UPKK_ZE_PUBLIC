@@ -40,9 +40,9 @@ mce_exclude  = 地图CD循环张数
 :-: | :-: | :-:
 SERVER_TYPE_XXX           | 对象 | 特定服务器 特定设置 如果没有指定 则以全局参数为准
 Command_OnConfigsExecuted | 数组 | 地图加载后执行参数
-AddCommandOverride_Flag   | 对象 | 变更命令权限flaghelper用户 Lv1 = r Lv2 = s
+AddCommandOverride_Flag   | 对象 | 变更命令权限flaghelper用户 Lv1 = `r` Lv2 = `s`
 Store_FreeItem            | 数组 | Store系统中免费物品
 mce_exclude               | 对象 | 地图循环次数池              
-
+ne_credits                | 对象 | 预定所需积分[全局配置 -10000 = 免费 并忽略地图配置]
 
 
