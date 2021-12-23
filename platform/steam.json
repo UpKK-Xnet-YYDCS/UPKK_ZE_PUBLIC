@@ -16,10 +16,10 @@
 			"sm_zones": "s",
 			"sm_zone": "s"
 		},
-		"Store_FreeItem": {
-			"playerskin1": "PlayerSkin_fenrir",
-			"playerskin2": "santaplayer"
-		},
+		"Store_FreeItem": [
+			"PlayerSkin_fenrir",
+			"santaplayer"
+		],
 		"SERVER_TYPE_ZE": {
 			"mce_exclude": 60,
 			"DisableMaps": [],
