@@ -1,5 +1,5 @@
 {
-	"version": 25,
+	"version": 26,
 	"data": {
 		"ne_credits": 400,
 		"mce_exclude": 10,
@@ -31,6 +31,7 @@
 				"sm_xsys_config change xsys.xsys.knockback.boost 23.5",
 				"sm_xsys_config change xsys.knockback.overflowstam 25.0",
 				"sm_store_playerskin_default_ct \"models/player/custom_player/bbs_93x_net_2015/santa/update_2015_10_17/santa.mdl\""
+				"sm_store_playerskin_default_ct \"models/player/custom_player/bbs_93x_net_2015/santa/update_2015_10_17/santa.mdl\""
 			]
 		},
 		"SERVER_TYPE_ZETEST": {
@@ -44,13 +45,15 @@
 				"sm_xsys_config change xsys.knockback.maxspeed 120.0",
 				"sm_xsys_config change xsys.xsys.knockback.boost 23.5",
 				"sm_xsys_config change xsys.knockback.overflowstam 25.0",
-				"sm_store_playerskin_default_ct \"models/player/custom_player/bbs_93x_net_2015/santa/update_2015_10_17/santa.mdl\""
+				"sm_store_playerskin_default_ct \"models/player/custom_player/bbs_93x_net_2015/santa/update_2015_10_17/santa.mdl\"",
+				"sm_store_playerskin_default_ct_arms \"models/player/custom_player/bbs_93x_net_2015/santa/update_2015_10_17/santa_arms.mdl\""
 			]
 		},
 		"SERVER_TYPE_PROPHUNT": {
 			"mce_exclude": 30,
 			"Command_OnConfigsExecuted": [
 				"sm_store_playerskin_default_ct \"models/player/custom_player/bbs_93x_net_2015/santa/update_2015_10_17/santa.mdl\"",
+				"sm_store_playerskin_default_ct_arms \"models/player/custom_player/bbs_93x_net_2015/santa/update_2015_10_17/santa_arms.mdl\"",
 				"sm_store_playerskin_default_t \"models/player/custom_player/xnet/others/stenli/smite/fenrir.mdl\""
 			],
 			"DisableMaps": []
@@ -59,6 +62,7 @@
 			"mce_exclude": 20,
 			"Command_OnConfigsExecuted": [
 				"sm_store_playerskin_default_ct \"models/player/custom_player/bbs_93x_net_2015/santa/update_2015_10_17/santa.mdl\"",
+				"sm_store_playerskin_default_ct_arms \"models/player/custom_player/bbs_93x_net_2015/santa/update_2015_10_17/santa_arms.mdl\"",
 				"sm_store_playerskin_default_t \"models/player/custom_player/xnet/others/stenli/smite/fenrir.mdl\""
 			],
 			"DisableMaps": []
@@ -67,6 +71,7 @@
 			"mce_exclude": 20,
 			"Command_OnConfigsExecuted": [
 				"sm_store_playerskin_default_ct \"models/player/custom_player/bbs_93x_net_2015/santa/update_2015_10_17/santa.mdl\"",
+				"sm_store_playerskin_default_ct_arms \"models/player/custom_player/bbs_93x_net_2015/santa/update_2015_10_17/santa_arms.mdl\"",
 				"sm_store_playerskin_default_t \"models/player/custom_player/xnet/others/stenli/smite/fenrir.mdl\""
 			],
 			"DisableMaps": []
