@@ -1,5 +1,5 @@
 {
-	"version": 53,
+	"version": 55,
 	"data": {
 		"ne_credits": 400,
 		"mce_exclude": 10,
@@ -25,8 +25,8 @@
 			"DisableMaps": [],
 			"Command_OnConfigsExecuted": [
 				"mp_radar_showall 0;sv_deadtalk 1",
-				"sm_xsys_config change xsys.knockback.multiplier 4.7",
-				"sm_xsys_config change xsys.knockback.rangebase 550.0",
+				"sm_xsys_config change xsys.knockback.multiplier 4.625",
+				"sm_xsys_config change xsys.knockback.rangebase 475.0",
 				"sm_xsys_config change xsys.knockback.maxspeed 160.0",
 				"sm_xsys_config change xsys.xsys.knockback.boost 25.0",
 				"sm_xsys_config change xsys.knockback.overflowstam 10.0",
@@ -40,10 +40,10 @@
 			"ne_credits": -10000,
 			"Command_OnConfigsExecuted": [
 				"mp_radar_showall 0;sv_deadtalk 1",
-				"sm_xsys_config change xsys.knockback.multiplier 4.7",
-				"sm_xsys_config change xsys.knockback.rangebase 550.0",
-				"sm_xsys_config change xsys.knockback.maxspeed 125.0",
-				"sm_xsys_config change xsys.xsys.knockback.boost 20.0",
+				"sm_xsys_config change xsys.knockback.multiplier 4.625",
+				"sm_xsys_config change xsys.knockback.rangebase 475.0",
+				"sm_xsys_config change xsys.knockback.maxspeed 160.0",
+				"sm_xsys_config change xsys.xsys.knockback.boost 25.0",
 				"sm_xsys_config change xsys.knockback.overflowstam 10.0",
 				"sm_store_playerskin_default_ct \"models/player/custom_player/bbs_93x_net_2015/santa/update_2015_10_17/santa.mdl\"",
 				"sm_store_playerskin_default_ct_arms \"models/player/custom_player/bbs_93x_net_2015/santa/arms/santa_arms.mdl\""
