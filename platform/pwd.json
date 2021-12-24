@@ -1,5 +1,5 @@
 {
-	"version": 56,
+	"version": 60,
 	"data": {
 		"ne_credits": 350,
 		"mce_exclude": 10,
@@ -19,8 +19,8 @@
 			"mce_exclude": 55,
 			"Command_OnConfigsExecuted": [
 				"mp_radar_showall 0;sv_deadtalk 1",
-				"sm_xsys_config change xsys.knockback.multiplier 4.625",
-				"sm_xsys_config change xsys.knockback.rangebase 475.0",
+				"sm_xsys_config change xsys.knockback.multiplier 4.725",
+				"sm_xsys_config change xsys.knockback.rangebase 512.0",
 				"sm_xsys_config change xsys.knockback.maxspeed 160.0",
 				"sm_xsys_config change xsys.xsys.knockback.boost 25.0",
 				"sm_xsys_config change xsys.knockback.overflowstam 10.0",
