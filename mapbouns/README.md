@@ -5,9 +5,23 @@
 
 对于一般地图，需要画在回合结束时（僵尸处死后，弹出人类胜利图片）的人类可活动范围。
 
-如果是僵尸触发会导致回合失败的地图，按照 `arrive_nozm_xxx` 的方式命名。
+使用命令 `sm_zones` 画区域并命名，前缀必须是 `arrive_`，例如`arrive_1`。然后填写到对应关数的`zone_name`中。*目前仅支持单独一个区域，但是可以跨关卡共用同一个区域。*
 
+如果存在僵尸触发会导致无法过关的地图，先找OP写触发就处死人类的stripper；如果无法写stripper，则需要额外绘制禁止僵尸区域。
 
+禁止僵尸触发的区域按照 `nozm_xxx` 的方式命名，并添加到配置文件中的对应关数的 `nozm_zone`，存在多个区域使用英文逗号`,`进行分割。
+
+如果僵尸触发导致无法过关仅限于特定时间的地图，例如`御宅房`第三关，可以填写会导致关卡失败的 trigger 实体名字。
+
+以御宅房为例子：
+
+图中的`lv3_lastzom_trigger`就是僵尸触发会导致回合失败的 trigger。御宅房第三关可以这样写: `"nozm_zone": "lv3_lastzom_trigger"`。
+
+![image](https://user-images.githubusercontent.com/39773091/147302468-a51db6f3-bd19-4568-b790-b37b582e4727.png)
+
+一般僵尸触发导致回合失败的trigger会带有`Filter Name`。（`Filter Name`指向的实体一般是[`filter_activator_team`](https://developer.valvesoftware.com/wiki/Filter_activator_team)，）
+
+~~如果存在其他情况，例如人类触发就回合失败或者其他什么的，八成是地图作者忘记处死了~~
 
 ## 实例配置文件
 
