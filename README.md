@@ -36,13 +36,13 @@
 
 | 对应目录                           | 说明                                                                                                |
 |--------------------------------|---------------------------------------------------------------------------------------------------|
-| mapcfg                         | [地图参数](https://github.com/e54385991/UPKK_ZE_PUBLIC/blob/master/参数说明.md)                           |
-| mappool                        | [地图池控制系统](https://github.com/e54385991/UPKK_ZE_PUBLIC/blob/master/其他修改说明.md)                      |
-| entwatch                       | [神器显示配置](https://github.com/e54385991/UPKK_ZE_PUBLIC/blob/master/其他修改说明.md)                       |
-| maptext                        | [ZE地图翻译](https://github.com/e54385991/UPKK_ZE_PUBLIC/blob/master/其他修改说明.md)                       |
+| mapcfg                         | [地图参数](https://github.com/UpKK-Xnet-YYDCS/UPKK_ZE_PUBLIC/blob/master/参数说明.md)                           |
+| mappool                        | [地图池控制系统](https://github.com/UpKK-Xnet-YYDCS/UPKK_ZE_PUBLIC/blob/master/其他修改说明.md)                      |
+| entwatch                       | [神器显示配置](https://github.com/UpKK-Xnet-YYDCS/UPKK_ZE_PUBLIC/blob/master/其他修改说明.md)                       |
+| maptext                        | [ZE地图翻译](https://github.com/UpKK-Xnet-YYDCS/UPKK_ZE_PUBLIC/blob/master/其他修改说明.md)                       |
 | 翻译原文下载                         | [ZE地图翻译 原文下载 请使用右键另存为保存文件](http://demo.wc38.com/ze-maptext-id-2539/)                              |
-| bosshit                        | [BOSS攻击奖励](https://github.com/e54385991/UPKK_ZE_PUBLIC/blob/master/其他修改说明.md)                     |
-| scripts                        | [vscript脚本提交](https://github.com/e54385991/UPKK_ZE_PUBLIC/blob/master/scripts/vscripts/README.md) |
+| bosshit                        | [BOSS攻击奖励](https://github.com/UpKK-Xnet-YYDCS/UPKK_ZE_PUBLIC/blob/master/其他修改说明.md)                     |
+| scripts                        | [vscript脚本提交](https://github.com/UpKK-Xnet-YYDCS/UPKK_ZE_PUBLIC/blob/master/scripts/vscripts/README.md) |
 | private_stripper_uploader.json | [根据论坛UID允许上传私有Stripper](https://bbs.upkk.com/plugin.php?id=xnet_mappost:p_stripper_post)          |
 
 
@@ -52,7 +52,7 @@
 
 ### 如果这里文件和服务器文件大小写不匹配 将无法同步成功 请务必通过[论坛查询地图](https://bbs.upkk.com/plugin.php?id=xnet_mappost:xnet_map_query)文件名!
 
-1. 更新/添加修改/你想要的 通过创建 [Pull requests](https://github.com/e54385991/UPKK_ZE_PUBLIC/pull/new/master)。就是通过编辑文件后创建PR
+1. 更新/添加修改/你想要的 通过创建 [Pull requests](https://github.com/UpKK-Xnet-YYDCS/UPKK_ZE_PUBLIC/pull/new/master)。就是通过编辑文件后创建PR
 
 2. 当您提交Pull Request后 在管理通过后 在论坛会 [显示事件](https://bbs.upkk.com/plugin.php?id=xnet_events:xnet_events). 应该会显示事件 如果没有显示 可能没有成功 请加上一些无用注释 如`//`再提交一次 和原不同即可)
 
@@ -69,9 +69,7 @@
 编辑原因填写为 "triggercleanup" 即可清理同步缓存
 如果因为文件名错误  或者 小大写错误 则必须执行清理同步缓存
 
-#trigger update11
-test for web hook triggercleanup
-#push trigger update p 3
-triggercleanup  最后维护
-    2021年12月23日
-#push
+#trigger update11 test for web hook triggercleanup
+#push trigger update p 3  
+triggercleanup  最后维护  
+2021年12月23日 #push
