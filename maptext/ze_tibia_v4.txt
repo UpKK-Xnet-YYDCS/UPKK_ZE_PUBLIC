@@ -22,27 +22,27 @@
 	}
 	"**Minotaur Mage has casted Fire Wave**"
 	{
-		"chi"		"**牛头人马哥使用了NTRの怒火**"
+		"chi"		"**牛头人马哥使用了NTRの怒火 5 **"
 	}
 	"**Minotaur Mage has casted Energy Beam**"
 	{
-		"chi"		"**牛头人马哥使用了静神光线**"
+		"chi"		"**牛头人马哥使用了静神光线 5 **"
 	}
 	"**Minotaur Mage has casted Light Healing**"
 	{
-		"chi"		"**牛头人马哥使用了自疗**"
+		"chi"		"**牛头人马哥使用了自疗 5 **"
 	}
 	"**Minotaur Mage has casted Energy Field**"
 	{
-		"chi"		"**牛头人马哥使用了能量场**"
+		"chi"		"**牛头人马哥使用了能量场 5 **"
 	}
 	"**Minotaur Mage summons Snake Puppet**"
 	{
-		"chi"		"**牛头人马哥使用了蛇小弟**"
+		"chi"		"**牛头人马哥使用了蛇小弟 5 **"
 	}
 	"**Minotaur Mage has casted Berserk**"
 	{
-		"chi"		"**牛头人抑制不住NTR的怒火开启狂暴**"
+		"chi"		"**牛头人抑制不住NTR的怒火开启狂暴 5 **"
 	}
 	"**We don't have rope, it's last hold!"
 	{
@@ -919,7 +919,7 @@
 	}
 	"**Its last hold, survive 25 seconds!**"
 	{
-		"chi"		"** 最后一次保持，生存25秒! **"
+		"chi"		"** 最后一次防守，生存25秒! **"
 	}
 	"**Stage 7 - Destiny**"
 	{
@@ -931,7 +931,7 @@
 	}
 	"**Go see the Oracle over the academy in Rookgaard after you spend 120 seconds! in town or you advance to level 10!**"
 	{
-		"chi"		"** 花120秒后，到鲁克加德学院与神谕交谈!完成这些在城里你可以达到10级! **"
+		"chi"		"** 花120秒后，到鲁克加德学院与神谕交谈!完成这些在城里你可以达到升职等级! **"
 	}
 	"**Go see the Oracle over the academy in Rookgaard in town**"
 	{
@@ -1007,7 +1007,7 @@
 	}
 	"**Hold this area for 15 seconds!**"
 	{
-		"chi"		"** 防守区域15秒!**"
+		"chi"		"** 防守区域15秒! **"
 	}
 	"**A player have found a Wand of Vortex**"
 	{
@@ -1143,7 +1143,7 @@
 	}
 	"**Well done, you found teleport to boss room!**"
 	{
-		"chi"		"** 干得好,你找到了传送到NOSS房间! **"
+		"chi"		"** 干得好,你找到了传送到BOSS房间! **"
 	}
 	"**Teleport is enable, go!**"
 	{
@@ -1199,15 +1199,15 @@
 	}
 	"**Mirelurk Hunter has casted Blood Rage!**"
 	{
-		"chi"		"** 米勒鲁克施放了血怒! **"
+		"chi"		"** 米勒鲁克施放了血怒! 5 **"
 	}
 	"**Mirelurk Hunter has casted Light Healing!**"
 	{
-		"chi"		"** 米勒鲁克施放了光疗愈术! **"
+		"chi"		"** 米勒鲁克施放了光疗愈术! 5 **"
 	}
 	"**Mirelurk Hunter has casted Groundshaker!**"
 	{
-		"chi"		"** 米勒鲁克铸造了地动山摇! **"
+		"chi"		"** 米勒鲁克铸造了地动山摇! 5 **"
 	}
 	"**You are too slow!**"
 	{
@@ -1300,5 +1300,9 @@
 	"**A player has picked up Jagged Sword!**"
 	{
 		"chi"		"**一个玩家获得了锯齿剑!**"
+	}
+	"**Dragon has casted Tornado!**"
+	{
+		"chi"		"** 灭尽龙施放风 3 **"
 	}
 }
