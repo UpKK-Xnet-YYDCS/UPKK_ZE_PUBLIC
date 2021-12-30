@@ -4,6 +4,7 @@
 		"ne_credits": 400,
 		"mce_exclude": 10,
 		"Command_OnConfigsExecuted": [
+			"mce_warningtime 14",
 			"sv_parallel_sendsnapshot 1",
 			"sm_cvar sv_mute_players_with_social_penalties 0",
 			"mp_match_restart_delay 12",
