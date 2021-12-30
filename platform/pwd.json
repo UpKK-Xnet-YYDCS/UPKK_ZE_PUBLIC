@@ -1,9 +1,10 @@
 {
-	"version": 71,
+	"version": 72,
 	"data": {
 		"ne_credits": 350,
 		"mce_exclude": 10,
 		"Command_OnConfigsExecuted": [
+			"mce_warningtime 14",
 			"sv_parallel_sendsnapshot 1",
 			"sm_cvar sv_mute_players_with_social_penalties 0",
 			"mp_match_restart_delay 12",
