@@ -1,5 +1,5 @@
 {
-	"version": 72,
+	"version": 73,
 	"data": {
 		"ne_credits": 350,
 		"mce_exclude": 10,
@@ -17,6 +17,8 @@
 			"sm_zones": "s",
 			"sm_zone": "s"
 		},
+		"Store_FreeItem_Exception":[
+		],
 		"SERVER_TYPE_ZE": {
 			"mce_exclude": 55,
 			"Command_OnConfigsExecuted": [
