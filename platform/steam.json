@@ -1,5 +1,5 @@
 {
-	"version": 64,
+	"version": 65,
 	"data": {
 		"ne_credits": 400,
 		"mce_exclude": 10,
@@ -23,13 +23,16 @@
 			"santaplayer"
 		],
 		"Store_ItemName": {
-			"PlayerSkin_qiqi":"七七-活动获取",
-			"PlayerSkin_qin_x":"琴-活动获取",
-			"PlayerSkin_noelle":"诺艾尔-活动获取",
-			"PlayerSkin_mona":"莫娜-活动获取",
-			"PlayerSkin_fischer":"菲谢尔-活动获取",
-			"PlayerSkin_ganyu":"甘雨-活动获取",
-			"PlayerSkin_hutao":"胡桃-活动获取"
+			"PlayerSkin_qiqi":"七七-论坛活动获取",
+			"PlayerSkin_qin_x":"琴-论坛活动获取",
+			"PlayerSkin_noelle":"诺艾尔-论坛活动获取",
+			"PlayerSkin_mona":"莫娜-论坛活动获取",
+			"PlayerSkin_fischer":"菲谢尔-论坛活动获取",
+			"PlayerSkin_ganyu":"甘雨-论坛论坛活动获取",
+			"PlayerSkin_hutao":"胡桃-论坛活动获取",
+			"PlayerSkin_huajiamaonuo":"花嫁猫诺-论坛活动获取",
+			"PlayerSkin_ningguang":"凝光-论坛活动获取",
+			"PlayerSkin_kangna":"康娜-论坛活动/限时购买"
 		},
 		"SERVER_TYPE_ZE": {
 			"mce_exclude": 60,
