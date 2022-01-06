@@ -8,6 +8,9 @@ steam.json = 国际服
 ne_credits  = 基础预定地图积分
 mce_exclude  = 地图CD循环张数
 
+version.json 版本必须和 `pwd.json` 和 `steam.json` 匹配
+为了减少每次换图所读取缓冲数据 version.json 作为服务器是否同步依据
+
 更新后version 必须+1 否则不同步
 样本
 ```javascript
