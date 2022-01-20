@@ -10,7 +10,7 @@
 	}
 	"***ZOMBIE BRIDGE IS FAST NOW***"
 	{
-		"chi"		"**僵尸出生桥加速**"
+		"chi"		"**在出生点大桥的僵尸获得加速BUFF**"
 	}
 	"***WASH OUT IS THE REAL DRAGON***"
 	{
@@ -136,58 +136,69 @@
 	}
 	"***ZOMBIES CAN NOW BOOST FROM SPAWN***"
 	{
-		"chi"		"** **"
+		"chi"		"**现在僵尸可以从出生点大飞**"
 	}
 	"***ACTIVATE BUTTONPROGRESS TO DISABLE BOOST***"
 	{
-		"chi"		"** **"
+		"chi"		"**按下按钮以禁用大飞板**"
 	}
 	"***PICKED UP MAGMA-PUSH (40s CD)***"
 	{
-		"chi"		"** **"
+		"chi"		"**PUSH已经捡起,40秒冷却时间**"
+		"DoorCountdown"		"-1"
 	}
 	"TestMonitor looping player: ([1] player)"
 	{
 		"chi"		"** **"
+		"DoorCountdown"		"-1"
 	}
 	"TestMonitor looping player: ([4] player)"
 	{
 		"chi"		"** **"
+		"DoorCountdown"		"-1"
 	}
 	"TestMonitor looping player: ([5] player)"
 	{
 		"chi"		"** **"
+		"DoorCountdown"		"-1"
 	}
 	"TestMonitor looping player: ([6] player)"
 	{
 		"chi"		"** **"
+		"DoorCountdown"		"-1"
 	}
 	"TestMonitor looping player: ([8] player)"
 	{
 		"chi"		"** **"
+		"DoorCountdown"		"-1"
 	}
 	"TestMonitor looping player: ([2] player)"
 	{
 		"chi"		"** **"
+		"DoorCountdown"		"-1"
 	}
 	"TestMonitor last player: ([2] player)"
 	{
 		"chi"		"** **"
+		"DoorCountdown"		"-1"
 	}
 	"TestMonitor removing lastplayer"
 	{
 		"chi"		"** **"
+		"DoorCountdown"		"-1"
 	}
 	"TestMonitor parenting minimon"
 	{
 		"chi"		"** **"
+		"DoorCountdown"		"-1"
 	}
 	"TestMonitor killing minimon"
 	{
 		"chi"		"** **"
+		"DoorCountdown"		"-1"
 	}
 	"***THE REAL MAGMADRAKE IS NOT HERE YET***"
 	{
-		"chi"		"** **"
+		"chi"		"**真正的炎龙高塔还未完成...**"
 	}
 }
