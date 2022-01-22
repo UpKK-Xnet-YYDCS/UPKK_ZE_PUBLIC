@@ -1,5 +1,5 @@
 {
-	"version": 90,
+	"version": 91,
 	"data": {
 		"ne_credits": 400,
 		"mce_exclude": 10,
@@ -7,7 +7,7 @@
 			"net_chan_limit_msec 180",
 			"mce_votemap_disablemicrophone 0",
 			"mce_warningtime 14",
-			"sv_parallel_sendsnapshot 1",
+			"sv_parallel_sendsnapshot 0",
 			"sm_cvar sv_mute_players_with_social_penalties 0",
 			"mp_match_restart_delay 12",
 			"mp_win_panel_display_time 3",
