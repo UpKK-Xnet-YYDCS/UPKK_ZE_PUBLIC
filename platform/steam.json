@@ -1,5 +1,5 @@
 {
-	"version": 100,
+	"version": 101,
 	"data": {
 		"ne_credits": 400,
 		"mce_exclude": 10,
@@ -16,8 +16,8 @@
 			"sm_weapons_chat_prefix \"[XWS]\"",
 			"sm_weaponstickers_flag \"a\"",
 			"sm_weapons_request_flag \"a\"",
-			"sv_server_graphic1 \"graphic1.png\"",
-			"sv_server_graphic2 \"graphic2.png\""
+			"sv_server_graphic1 \"logo1.png\"",
+			"sv_server_graphic2 \"logo2.png\""
 		],
 		"AddCommandOverride_Flag": {
 			"sm_zones": "s",
