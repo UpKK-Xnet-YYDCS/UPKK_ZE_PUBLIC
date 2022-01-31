@@ -1,5 +1,5 @@
 {
-	"version": 98,
+	"version": 99,
 	"data": {
 		"ne_credits": 350,
 		"mce_exclude": 10,
@@ -16,8 +16,8 @@
 			"sm_weapons_chat_prefix \"[XWS]\"",
 			"sm_weaponstickers_flag \"a\"",
 			"sm_weapons_request_flag \"a\"",
-			"sv_server_graphic1 \"graphic1_yydcs.png\"",
-			"sv_server_graphic2 \"graphic2_yydcs.png\""
+			"sv_server_graphic1 \"graphic1.png\"",
+			"sv_server_graphic2 \"graphic2.png\""
 		],
 		"AddCommandOverride_Flag": {
 			"sm_zones": "s",
@@ -91,8 +91,8 @@
 		"SERVER_TYPE_PROPHUNT": {
 			"mce_exclude": 20,
 			"Command_OnConfigsExecuted": [
-				"sv_server_graphic1 \"graphic1_yydcs_prophunt.png\"",
-				"sv_server_graphic2 \"graphic2_yydcs_prophunt.png\""
+				"sv_server_graphic1 \"pwdg1ph.png\"",
+				"sv_server_graphic2 \"pwdg2ph.png\""
 			],
 			"DisableMaps": [
 				"cs_office",
