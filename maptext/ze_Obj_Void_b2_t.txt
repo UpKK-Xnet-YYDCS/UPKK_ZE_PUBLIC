@@ -250,7 +250,7 @@
 	}
 "This door is open really slow, defend the line!"
 	{
-		"chi"		"**这扇门开得很慢,防守!**"
+		"chi"		"**这扇门开得很慢,防守!65秒**"
 	}
 "The Door will open in 30s"
 	{
@@ -342,7 +342,7 @@
 	}
 "50 Seconds till the panel gets working. Keep defending the hallways!"
 	{
-		"chi"		"**50秒后按钮面板生效.继续防守走廊!**"
+		"chi"		"**55秒后按钮面板生效.继续防守走廊!**"
 	}
 "The System restarted! Open the door and head to the control room!"
 	{
@@ -410,7 +410,7 @@
 	}
 "Resist for about 1 minute."
 	{
-		"chi"		"**抵抗60秒.**"
+		"chi"		"**抵抗90秒.**"
 	}
 "..."
 	{
