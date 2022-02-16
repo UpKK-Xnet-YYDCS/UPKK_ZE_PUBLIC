@@ -1,5 +1,5 @@
 {
-	"version": 103,
+	"version": 104,
 	"data": {
 		"ne_credits": 400,
 		"mce_exclude": 10,
@@ -45,10 +45,10 @@
 			"Command_OnConfigsExecuted": [
 				"mce_votemap_disablemicrophone 1",
 				"mp_radar_showall 0;sv_deadtalk 1",
-				"sm_xsys_config change xsys.knockback.multiplier 4.5",
+				"sm_xsys_config change xsys.knockback.multiplier 4.625",
 				"sm_xsys_config change xsys.knockback.rangebase 384.0",
 				"sm_xsys_config change xsys.knockback.maxspeed 130.0",
-				"sm_xsys_config change xsys.knockback.boost 12.0",
+				"sm_xsys_config change xsys.knockback.boost 15.0",
 				"sm_xsys_config change xsys.knockback.overflowstam 1.0"
 			]
 		},
