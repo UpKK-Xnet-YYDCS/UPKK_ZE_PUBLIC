@@ -1,5 +1,5 @@
 {
-	"version": 115,
+	"version": 116,
 	"data": {
 		"ne_credits": 400,
 		"mce_exclude": 10,
@@ -50,7 +50,7 @@
 				"sm_xsys_config change xsys.knockback.rangebase 1024.0",
 				"sm_xsys_config change xsys.knockback.maxspeed 400.0",
 				"sm_xsys_config change xsys.knockback.boost 30.0",
-				"sm_xsys_config change xsys.knockback.overflowstam 1.0"
+				"sm_xsys_config change xsys.knockback.overflowstam 20.0"
 			]
 		},
 		"SERVER_TYPE_ZETEST": {
@@ -59,11 +59,12 @@
 			"ne_credits": -10000,
 			"Command_OnConfigsExecuted": [
 				"mp_radar_showall 0;sv_deadtalk 1",
+				"sm_xsys_config change xsys.nade.autobuy.enable 0",
 				"sm_xsys_config change xsys.knockback.multiplier 5.0",
 				"sm_xsys_config change xsys.knockback.rangebase 1024.0",
 				"sm_xsys_config change xsys.knockback.maxspeed 400.0",
 				"sm_xsys_config change xsys.knockback.boost 30.0",
-				"sm_xsys_config change xsys.knockback.overflowstam 1.0"
+				"sm_xsys_config change xsys.knockback.overflowstam 20.0"
 			]
 		},
 		"SERVER_TYPE_PROPHUNT": {
