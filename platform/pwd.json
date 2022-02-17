@@ -1,10 +1,9 @@
 {
-	"version": 109,
+	"version": 110,
 	"data": {
 		"ne_credits": 350,
 		"mce_exclude": 10,
 		"Command_OnConfigsExecuted": [
-			"net_chan_limit_msec 180",
 			"mce_votemap_disablemicrophone 0",
 			"mce_warningtime 14",
 			"sv_parallel_sendsnapshot 1",
