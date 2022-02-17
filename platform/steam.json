@@ -1,5 +1,5 @@
 {
-	"version": 124,
+	"version": 125,
 	"data": {
 		"ne_credits": 400,
 		"mce_exclude": 10,
@@ -44,6 +44,7 @@
 			"Command_OnConfigsExecuted": [
 				"mce_votemap_disablemicrophone 1",
 				"mp_radar_showall 0;sv_deadtalk 1",
+				"sm_xsys_config change xsys.knockback.head.mod 1.3",
 				"sm_xsys_config change xsys.knockback.multiplier 4.7",
 				"sm_xsys_config change xsys.knockback.rangebase 1024.0",
 				"sm_xsys_config change xsys.knockback.maxspeed 350.0",
@@ -57,6 +58,7 @@
 			"ne_credits": -10000,
 			"Command_OnConfigsExecuted": [
 				"mp_radar_showall 0;sv_deadtalk 1",
+				"sm_xsys_config change xsys.knockback.head.mod 1.3",
 				"sm_xsys_config change xsys.knockback.multiplier 4.7",
 				"sm_xsys_config change xsys.knockback.rangebase 1024.0",
 				"sm_xsys_config change xsys.knockback.maxspeed 350.0",
