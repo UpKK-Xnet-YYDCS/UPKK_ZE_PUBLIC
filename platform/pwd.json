@@ -1,5 +1,5 @@
 {
-	"version": 120,
+	"version": 121
 	"data": {
 		"ne_credits": 350,
 		"mce_exclude": 10,
@@ -21,6 +21,9 @@
 		"AddCommandOverride_Flag": {
 			"sm_zones": "s",
 			"sm_zone": "s"
+		},
+		"Store_ItemName": {
+			"PlayerSkin_cat_akua":"水手服凑阿库娅 OP & Helper"
 		},
 		"Store_FreeItem_Exception": [],
 		"SERVER_TYPE_ZE": {
