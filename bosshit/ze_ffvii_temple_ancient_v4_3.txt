@@ -1,7 +1,45 @@
 "BOSSHP"
 {
-	"5974783"
+	"1697792"
 	{
 		"enable"		"1"
+		"hammerid"		"1697792"
+		"m_iname"		"dragon_hitbox"
+	}
+	"5724452"
+	{
+		"enable"		"1"
+		"hammerid"		"5724452"
+		"m_iname"		"Tri_face_HitBox"
+	}
+	"5842828"
+	{
+		"enable"		"1"
+		"hammerid"		"5842828"
+		"m_iname"		"phys_ex"
+	}
+	"5922657"
+	{
+		"enable"		"1"
+		"hammerid"		"5922657"
+		"m_iname"		"bomb_2_physbox"
+	}
+	"5922663"
+	{
+		"enable"		"1"
+		"hammerid"		"5922663"
+		"m_iname"		"bomb_3_physbox"
+	}
+	"3597622"
+	{
+		"enable"		"1"
+		"hammerid"		"3597622"
+		"m_iname"		"physbox_golem"
+	}
+	"4216243"
+	{
+		"enable"		"1"
+		"hammerid"		"4216243"
+		"m_iname"		"meteor_physbox"
 	}
 }
