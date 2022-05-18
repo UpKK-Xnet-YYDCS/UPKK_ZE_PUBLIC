@@ -53,7 +53,9 @@
 				"sm_xsys_config change xsys.knockback.rangebase 1024.0",
 				"sm_xsys_config change xsys.knockback.maxspeed 350.0",
 				"sm_xsys_config change xsys.knockback.boost 40.0",
-				"sm_xsys_config change xsys.knockback.overflowstam 30.0"
+				"sm_xsys_config change xsys.knockback.overflowstam 30.0",
+				"sm_leader_max_number 2",
+				"zr_bombmine_range 200"
 			]
 		},
 		"SERVER_TYPE_ZETEST": {
@@ -69,7 +71,9 @@
 				"sm_xsys_config change xsys.knockback.rangebase 1024.0",
 				"sm_xsys_config change xsys.knockback.maxspeed 350.0",
 				"sm_xsys_config change xsys.knockback.boost 30.0",
-				"sm_xsys_config change xsys.knockback.overflowstam 30.0"
+				"sm_xsys_config change xsys.knockback.overflowstam 30.0",
+				"sm_leader_max_number 2",
+				"zr_bombmine_range 180"
 			]
 		},
 		"SERVER_TYPE_PROPHUNT": {
