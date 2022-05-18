@@ -1,5 +1,5 @@
 {
-	"version": 132,
+	"version": 133,
 	"data": {
 		"ne_credits": 400,
 		"mce_exclude": 10,
@@ -37,6 +37,8 @@
 			"PlayerSkin_huajiamaonuo":"花嫁猫诺-论坛活动获取",
 			"PlayerSkin_ningguang":"凝光-论坛活动获取",
 			"PlayerSkin_kangna":"康娜-论坛活动/限时购买",
+			"PlayerSkin_mononobe_alice_c2":"[圣诞节]物述有栖",
+			"PlayerSkin_mononobe_alice_c3":"[万圣节]物述有栖",
 			"PlayerSkin_cat_akua":"水手服凑阿库娅 OP & Helper"
 		},
 		"SERVER_TYPE_ZE": {
@@ -51,7 +53,9 @@
 				"sm_xsys_config change xsys.knockback.rangebase 1024.0",
 				"sm_xsys_config change xsys.knockback.maxspeed 350.0",
 				"sm_xsys_config change xsys.knockback.boost 40.0",
-				"sm_xsys_config change xsys.knockback.overflowstam 30.0"
+				"sm_xsys_config change xsys.knockback.overflowstam 30.0",
+				"sm_leader_max_number 2",
+				"zr_bombmine_range 200"
 			]
 		},
 		"SERVER_TYPE_ZETEST": {
@@ -67,7 +71,9 @@
 				"sm_xsys_config change xsys.knockback.rangebase 1024.0",
 				"sm_xsys_config change xsys.knockback.maxspeed 350.0",
 				"sm_xsys_config change xsys.knockback.boost 30.0",
-				"sm_xsys_config change xsys.knockback.overflowstam 30.0"
+				"sm_xsys_config change xsys.knockback.overflowstam 30.0",
+				"sm_leader_max_number 2",
+				"zr_bombmine_range 180"
 			]
 		},
 		"SERVER_TYPE_PROPHUNT": {
