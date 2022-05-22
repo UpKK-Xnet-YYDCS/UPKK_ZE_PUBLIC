@@ -13,73 +13,72 @@
     "**Exodus has summoned Electrogenesis Ability!**"
     {
         "chi" "**埃克斯狄斯使用了紫电**"
-    }
+    }   
 
     "**Exodus has casted Ultravibration Ability!**"
     {
-        "chi" "**埃克斯狄斯使用了超振动魔法**"
+        "chi" "**埃克斯狄斯使用了超振动**"
     }
-
     "**Stay on the middle to dodge the attack!**"
     {
         "chi" "**站在中间躲避伤害**"
+        "DoorCountDown"	"3"
     }
-
     "**Exodus has casted Weakness Breaker Ability!**"
     {
-        "chi" "**埃克斯狄斯使用了破坏者魔法 **"
+        "chi" "**埃克斯狄斯使用了破坏者魔法**"
+        "DoorCountDown"	"3"
     }
-
     "**Exodus has summoned Imbue Wind Ability**"
     {
         "chi" "**埃克斯狄斯召唤了风元素**"
+        "DoorCountDown"	"3"
     }
-
     "**Exodus has summoned Shock Strike Ability**"
     {
         "chi" "**埃克斯狄斯使用了中间紫电**"
+        "DoorCountDown"	"3"
     }
-
     "**Exodus has summoned Electrogenesis Ability**"
     {
         "chi" "**埃克斯狄斯使用了紫电**"
-    }
+    }   
 
     "**Exodus has casted Guard Breaker**"
     {
         "chi" "**埃克斯狄斯使用了护盾**"
+        "DoorCountDown"	"3"
     }
-
     "**Exodus has summoned Perpetual Ray Ability!**"
     {
-        "chi" "**埃克斯狄斯使用了直线激光**"
+        "chi" "**埃克斯狄斯使用了破坏光**"
+        "DoorCountDown"	"3"
     }
-
     "**Exodus has casted Reflux Ability!**"
     {
         "chi" "**埃克斯狄斯使用了全屏AOE**"
+        "DoorCountDown"	"3"
     }
-
     "**Exodus has casted Ultimate Ability!**"
     {
         "chi" "**埃克斯狄斯使用了究极魔法**"
+        "DoorCountDown"	"3"
     }
-
     "**Exodus attacks get 50% boost!**"
     {
-        "chi" "**埃克斯狄斯的伤害增加的50%**"
+        "chi" "**埃克斯狄斯的伤害变得更高了**"
+        "DoorCountDown"	"3"
     }
-
     "**Exodus has casted Break Exploiter Ability!**"
     {
-        "chi" "**埃克斯狄斯使用了破坏者魔法 **"
+        "chi" "**埃克斯狄斯使用了破坏者魔法**"
+        "DoorCountDown"	"3"
     }
-
     "**Exodus has casted Elemental Retrieval Ability!**"
     {
         "chi" "**埃克斯狄斯得到了元素检索的能力**"
+        "DoorCountDown"	"3"
     }
-
     "**Temple Gates will open in 30 seconds**"
     {
         "chi" "**神殿大门将在30秒后打开**"
@@ -97,7 +96,7 @@
 
     "**Nades do 200% more damage!**"
     {
-        "chi" "**手雷现在可以造成200%的伤害**"
+        "chi" "**手雷现在可以造成双倍的伤害**"
     }
 
     "**Hard mode was beaten. Unlocking Insane mode**"
@@ -110,7 +109,7 @@
         "chi" "**检测到僵尸**"
     }
 
-    "**Epic mode was beaten. You won map! **"
+    "**Epic mode was beaten. You won map!**"
     {
         "chi" "**史诗模式通关.你已经通关全图!**"
     }
@@ -125,12 +124,12 @@
         "chi" "**大门将在5秒后打开**"
     }
 
-    "**We have to get out of here somehow"
+    "**We have to get out of here somehow**"
     {
         "chi" "**我们得想办法离开这个地方**"
     }
 
-    "**Insane mode was beaten. Unlocking Epic mode **"
+    "**Insane mode was beaten. Unlocking Epic mode**"
     {
         "chi" "**疯狂模式通关.解锁史诗模式**"
     }
@@ -155,12 +154,12 @@
         "chi" "**大门将在20秒后打开**"
     }
 
-    "**Judge Bergan blocking the way"
+    "**Judge Bergan blocking the way**"
     {
         "chi" "**裁判长贝甘挡住了你们的去路**"
     }
 
-    "**Judge Bergan is dead"
+    "**Judge Bergan is dead**"
     {
         "chi" "**裁判长贝甘倒下了**"
     }
@@ -200,7 +199,7 @@
         "chi" "**生存10秒**"
     }
 
-    "** This is a zm round"
+    "** This is a zm round**"
     {
         "chi" "**这关是ZM关**"
     }
@@ -230,82 +229,82 @@
         "chi" "**一位玩家拾起了卡奥斯之剑**"
     }
 
-    "**[Tonberry] Congratulation"
+    "**[Tonberry] Congratulation**"
     {
         "chi" "**[冬贝利]恭喜你**"
     }
 
-    "**[Tonberry] Unfortunately"
+    "**[Tonberry] Unfortunately**"
     {
         "chi" "**[冬贝利]很遗憾**"
     }
 
-    "essed cmd:Command:say **[Tonberry] Hello my friend I got lost and I am looking for a way back**:0:1"
+    "**[Tonberry] Hello my friend I got lost and I am looking for a way back**"
     {
         "chi" "**[冬贝利]你好,我的朋友,我不小心迷路了,我在寻找回去的路**"
     }
 
-    "essed cmd:Command:say **[Tonberry] But I lost my Cactus Toys could you help we find them?**:3:1"
+    "**[Tonberry] But I lost my Cactus Toys could you help we find them?**"
     {
         "chi" "**[冬贝利]但我不小心把我的仙人掌玩偶弄丢了,你可以帮我找到它们吗**"
     }
 
-    "essed cmd:Command:say **[Tonberry] Thanks as a gratitude I'll give you a small gift when you next time give back all toys****:6:1"
+    "**[Tonberry] Thanks as a gratitude I'll give you a small gift when you next time give back all toys**"
     {
         "chi" "**[冬贝利]非常感谢你,下次你把玩偶全部给我的时候我会给你一件小礼物**"
     }
 
-    "essed cmd:Command:say **[Tonberry] Thanks for your help now I can go back to my own**:0:1"
+    "**[Tonberry] Thanks for your help now I can go back to my own**"
     {
         "chi" "**[冬贝利]谢谢你的帮助,现在我可以靠我自己回去了**"
     }
 
-    "essed cmd:Command:say **[Tonberry] I will try to summon an item for you maybe it may be useful to you**:3:1"
+    "**[Tonberry] I will try to summon an item for you maybe it may be useful to you**"
     {
         "chi" "**[冬贝利]我会试着召唤一件物品,也许会对你的旅途有所帮助**"
     }
 
-    "essed cmd:Command:say **[Tonberry] Still havent found all the toys? You need to bring me 4 more toys **:0:1"
+    "**[Tonberry] Still havent found all the toys? You need to bring me 4 more toys**"
     {
         "chi" "**[冬贝利]还没找齐玩偶嘛,你还需要再找到4个玩偶**"
     }
 
-    "essed cmd:Command:say **[Tonberry] Still havent found all the toys? You need to bring me 3 more toys **:0:1"
+    "**[Tonberry] Still havent found all the toys? You need to bring me 3 more toys**"
     {
         "chi" "**[冬贝利]还没找齐玩偶嘛,你还需要再找到3个玩偶**"
     }
 
-    "essed cmd:Command:say **[Tonberry] Still havent found all the toys? You need to bring me 2 more toys **:0:1"
+    "**[Tonberry] Still havent found all the toys? You need to bring me 2 more toys**"
     {
         "chi" "**[冬贝利]还没找齐玩偶嘛,你还需要再找到2个玩偶**"
     }
 
-    "essed cmd:Command:say **[Tonberry] Still havent found all the toys? You need to bring me 1 more toys **:0:1"
+    "**[Tonberry] Still havent found all the toys? You need to bring me 1 more toys**"
     {
         "chi" "**[冬贝利]还没找齐玩偶嘛,你还需要再找到1个玩偶**"
     }
 
-    "essed cmd:Command:say **[Tonberry] Still havent found all the toys? You need to bring me 5 more toys **:0:1"
+    "**[Tonberry] Still havent found all the toys? You need to bring me 5 more toys**"
     {
         "chi" "**[冬贝利]还没找齐玩偶嘛,你还需要再找到5个玩偶**"
     }
 
-    "essed cmd:Command:say **[Tonberry] Still havent found all the toys? You need to bring me 6 more toys **:0:1"
+    "**[Tonberry] Still havent found all the toys? You need to bring me 6 more toys**"
     {
         "chi" "**[冬贝利]还没找齐玩偶嘛,你还需要再找到6个玩偶**"
     }
 
-    "essed cmd:Command:say **[Tonberry] Still havent found all the toys? You need to bring me 7 more toys **:0:1"
+    "**[Tonberry] Still havent found all the toys? You need to bring me 7 more toys**"
     {
         "chi" "**[冬贝利]还没找齐玩偶嘛,你还需要再找到7个玩偶**"
     }
 
-    "essed cmd:Command:say **[Tonberry] Still havent found all the toys? You need to bring me 8 more toys **:0:1"
+    "**[Tonberry] Still havent found all the toys? You need to bring me 8 more toys**"
     {
         "chi" "**[冬贝利]还没找齐玩偶嘛,你还需要再找到8个玩偶**"
     }
 
-    "essed cmd:Command:say **[Tonberry] Still havent found all the toys? You need to bring me 9 more toys **:0:1"
+    "**[Tonberry] Still havent found all the toys? You need to bring me 9 more toys**"
     {
         "chi" "**[冬贝利]还没找齐玩偶嘛,你还需要再找到9个玩偶**"
     }
@@ -335,7 +334,7 @@
         "chi" "**做的不错,巴哈姆特被你击败了!现在我们可以逃离这个鬼地方了**"
     }
 
-    "**That must be Bahamut lair"
+    "**That must be Bahamut lair**"
     {
         "chi" "**那一定是巴哈姆特的藏身处**"
     }
@@ -343,53 +342,53 @@
     "**Bahamut has casted Cure Ability!**"
     {
         "chi" "**巴哈姆特使用了治愈魔法**"
+        "DoorCountDown"	"3"
     }
-
     "**Bahamut has summoned Shield Ability!**"
     {
         "chi" "**巴哈姆特召唤了护盾**"
+        "DoorCountDown"	"3"
     }
-
     "**Bahamut has casted Lure Ability!**"
     {
-        "chi" "**巴哈姆特使用了黑洞魔法**"
+        "chi" "**巴哈姆特使用了黑洞**"
+        "DoorCountDown"	"3"
     }
-
     "**Bahamut has summoned Implosion Ability!**"
     {
-        "chi" "**巴哈姆特使用了爆裂魔法**"
+        "chi" "**巴哈姆特使用了无尽顿悟**"
+        "DoorCountDown"	"3"
     }
-
     "**Bahamut has casted Push Ability!**"
     {
-        "chi" "**巴哈姆特使用了推力**"
-    }
-
+        "chi" "**巴哈姆特使用了龙息**"
+        "DoorCountDown"	"3"
+     }
     "**Bahamut has summoned Ultimate Electro Ability!**"
     {
-        "chi" "**巴哈姆特使用了**"
+        "chi" "**巴哈姆特使用了制裁之雷**"
+        "DoorCountDown"	"3"
     }
-
     "**Bahamut has summoned Ultimate Push Ability!**"
     {
         "chi" "**巴哈姆特使用了风炮,躲开光球**"
+        "DoorCountDown"	"3"
     }
-
     "**Bahamut has summoned Electro Ability!**"
     {
-        "chi" "**巴哈姆特使用了雷电魔法**"
+        "chi" "**巴哈姆特召唤了离子电**"
+        "DoorCountDown"	"3"
     }
-
     "**Bahamut has summoned Flame Ability!**"
     {
-        "chi" "**巴哈姆特使用了火焰魔法**"
+        "chi" "**巴哈姆特使用了百万核爆**"
+        "DoorCountDown"	"3"
     }
-
     "**Bahamut has summoned Mega Flare Ability!**"
     {
-        "chi" "**巴哈姆特使用了烈火魔法**"
+        "chi" "**巴哈姆特使用了百万龙炎**"
+        "DoorCountDown"	"3"
     }
-
     "**A Player has acquired Betelgeuse**"
     {
         "chi" "**一位玩家拾起了参宿四**"
@@ -400,7 +399,7 @@
         "chi" "**一名玩家拾起了枪刃**"
     }
 
-    "**Level has been changed on Hard Mode** "
+    "**Level has been changed on Hard Mode**"
     {
         "chi" "**更改当前关卡为困难模式**"
     }
@@ -413,54 +412,54 @@
     "**King Bomb has casted Flame Ability!**"
     {
         "chi" "**爆弹怪使用了火焰喷射**"
+        "DoorCountDown"	"3"
     }
-
     "**King Bomb has summoned Ultimate Fireball Ability!**"
     {
         "chi" "**爆弹怪使用了究极火球**"
+        "DoorCountDown"	"3"
     }
-
     "**King Bomb has casted Revenge Blast Ability!**"
     {
         "chi" "**爆弹怪使用了复仇爆炸**"
-    }
-
+        "DoorCountDown"	"3"
+     }
     "**King Bomb has summoned Ultimate Flame Shield Ability!**"
     {
-        "chi" "**爆弹怪使用了究极火炎护盾**"
+        "chi" "**爆弹怪使用了火炎护盾**"
+        "DoorCountDown"	"3"
     }
-
     "**King Bomb has summoned Mustard Bomb Ability!**"
     {
         "chi" "**爆弹怪使用了芥子爆弹**"
+        "DoorCountDown"	"3"
     }
-
     "**King Bomb has summoned Eruption Ability!**"
     {
         "chi" "**爆弹怪使用了喷发**"
+        "DoorCountDown"	"3"
     }
-
     "**King Bomb has summoned Fire Angon Ability!**"
     {
         "chi" "**爆弹怪使用了火炎魔法**"
+        "DoorCountDown"	"3"
     }
-
     "**King Bomb has summoned Ultimate Bomb Meteor Ability!**"
     {
-        "chi" "**爆弹怪使用了炸弹流星**"
+        "chi" "**爆弹怪使用了超火流星**"
+        "DoorCountDown"	"3"
     }
-
     "**King Bomb has casted Self-Destruct Ability!**"
     {
         "chi" "**爆弹怪使用了自爆**"
+        "DoorCountDown"	"3"
     }
-
     "**Defeat King Bomb before he burn us!**"
     {
         "chi" "**在爆弹怪烧死我们之前击败它**"
     }
 
-    "< You are too slow >"
+    "**< You are too slow >**"
     {
         "chi" "**<你实在太慢了>**"
     }
@@ -495,7 +494,7 @@
         "chi" "**[埃克斯狄斯]欢迎来到Kiltian神殿**"
     }
 
-    "**[Exodus] Goodbye!** "
+    "**[Exodus] Goodbye!**"
     {
         "chi" "**[埃克斯狄斯]再见**"
     }
@@ -505,7 +504,7 @@
         "chi" "**守住这里直到大门打开**"
     }
 
-    "**It's last hold gates will open in 20 seconds!***"
+    "**It's last hold gates will open in 20 seconds!**"
     {
         "chi" "**终局了,大门将在20秒后打开**"
     }
@@ -547,59 +546,59 @@
 
     "**Bergan attacks get 100% boost!**"
     {
-        "chi" "**贝甘的攻击力提升了100%**"
+        "chi" "**贝甘的攻击力获得了提升!**"
     }
 
     "**Bergan has summoned Fire Angon Ability**"
     {
-        "chi" "**贝甘使用了火炎魔法**"
+        "chi" "**贝甘召唤了火元素**"
+        "DoorCountDown"	"3"
     }
-
     "**Bergan has casted Blood Drain Ability!*"
     {
         "chi" "**贝甘使用了吸血魔法(反伤)**"
+        "DoorCountDown"	"3"
     }
-
     "**Bergan has casted Heal Ability!**"
     {
         "chi" "**贝甘使用了治愈魔法**"
+        "DoorCountDown"	"3"
     }
-
     "**Bergan has summoned Shock Strike Ability!**"
     {
-        "chi" "**贝甘使用了冲击魔法**"
+        "chi" "**贝甘使用了闪电冲击**"
+        "DoorCountDown"	"3"
     }
-
     "**Bergan has summoned Sonic Boom Ability!**"
     {
-        "chi" "**贝甘使用了音爆魔法**"
+        "chi" "**贝甘使用了音爆**"
+        "DoorCountDown"	"3"
     }
-
     "**Bergan has summoned White Wind Ability!**"
     {
-        "chi" "**贝甘使用了白风魔法**"
+        "chi" "**贝甘使用了白风**"
+        "DoorCountDown"	"3"
     }
-
-    "**Bergan has summoned 	White Knight's Tour Ability!**"
+    "**Bergan has summoned White Knight's Tour Ability!**"
     {
-        "chi" "**贝甘使用了白骑士魔法**"
+        "chi" "**贝甘使用了白骑士之旅**"
+        "DoorCountDown"	"3"
     }
-
     "**Bergan has casted Chelonian Gate Ability!**"
     {
-        "chi" "****"
+        "chi" "**贝甘使用了玄武门**"
+        "DoorCountDown"	"3"
     }
-
     "**Bergan has casted Peripheral Synthesis Ability!**"
     {
-        "chi" "** **"
+        "chi" "**贝甘使用了外围结合**"
+        "DoorCountDown"	"3"
     }
-
     "**Bergan has casted Reflux Ability!**"
     {
-        "chi" "**贝甘使用了逆流魔法**"
+        "chi" "**贝甘使用了逆流**"
+        "DoorCountDown"	"3"
     }
-
     "**Hurry up! Bergan summon his most powerful ability!**"
     {
         "chi" "**加把劲!裁判长贝甘使用了他最强大的魔法**"
@@ -613,68 +612,67 @@
     "**Bergan has summoned Fire Nova Ability!**"
     {
         "chi" "**贝甘使用了火焰新星**"
+        "DoorCountDown"	"3"
     }
-
     "**Bergan has summoned Fire Bomb!**"
     {
-        "chi" "**贝甘使用了火球魔法**"
+        "chi" "**贝甘使用了火球**"
+        "DoorCountDown"	"3"
     }
-
     "**Bergan is using Cure Magick!**"
     {
         "chi" "**贝甘正在使用治愈魔法**"
+        "DoorCountDown"	"3"
     }
-
     "**Bergan has casted White Wind Ability!**"
     {
-        "chi" "**贝甘使用了白风魔法**"
+        "chi" "**贝甘使用了白风**"
+        "DoorCountDown"	"3"
     }
-
     "**Bergan has summoned Ice Spikes Ability!**"
     {
         "chi" "**贝甘召唤了冰莲,注意脚底!**"
+        "DoorCountDown"	"3"
     }
-
     "**Bergan has casted Protect Ability!**"
     {
         "chi" "**贝甘使用了护盾**"
+        "DoorCountDown"	"3"
     }
-
     "**Bergan has casted Shock Strike Ability!**"
     {
-        "chi" "**贝甘使用了冲击魔法**"
+        "chi" "**贝甘使用了冲击**"
+        "DoorCountDown"	"3"
     }
-
     "**Bergan has summoned Water Cannon Ability!**"
     {
         "chi" "**贝甘召唤了水龙卷**"
+        "DoorCountDown"	"3"
     }
-
     "**Bergan has casted Bad Breath Ability!**"
     {
-        "chi" "** **"
+        "chi" "**贝甘使用了死亡气息**"
+        "DoorCountDown"	"3"
     }
-
     "**Bergan has summoned 1000 Needles Ability!**"
     {
-        "chi" "**贝甘使用了千本针魔法**"
+        "chi" "**贝甘使用了千针刺**"
+        "DoorCountDown"	"3"
     }
-
     "**Bergan has casted Blood Drain Ability!**"
     {
-        "chi" "**贝甘使用了流血魔法**"
+        "chi" "**贝甘使用了吸血魔法(反伤)**"
+        "DoorCountDown"	"3"
     }
-
     "**Bergan has summoned Fire Angon Ability!**"
     {
-        "chi" "**贝甘使用了火炎魔法**"
+        "chi" "**贝甘召唤了火元素**"
+        "DoorCountDown"	"3"
     }
-
     "**Hold this area! We leaving in 35 seconds!**"
     {
         "chi" "**守住这片区域,我们将在35秒后离开**"
     }
-
     "**Hold this area until way is open!**"
     {
         "chi" "**守住这片区域直到道路打开**"
@@ -705,7 +703,7 @@
         "chi" "**赶紧!!!裁判长贝甘强化了他自己的魔法**"
     }
 
-    "**Judge Bergan should be dead but with them you never know"
+    "**Judge Bergan should be dead but with them you never know**"
     {
         "chi" "**裁判长贝甘应该死了,但和他们在一起你永远都不知道**"
     }
@@ -745,7 +743,7 @@
         "chi" "** **"
     }
 
-    "**When we were in the Stilshrine of Miriam we could see smoke coming from that area** "
+    "**When we were in the Stilshrine of Miriam we could see smoke coming from that area**"
     {
         "chi" "**当我们在米利暗遗迹里的时候,我们可以看到烟雾从哪里冒出来**"
     }
@@ -760,12 +758,12 @@
         "chi" "**我们需要尽快找到他**"
     }
 
-    "**Find way to main temple and talk with Gran Kiltias Anastasis** "
+    "**Find way to main temple and talk with Gran Kiltias Anastasis**"
     {
         "chi" "**找到通往主神殿的路并与Gran Kiltias Anastasis交谈**"
     }
 
-    "se15 cmd:Command:say **[Tonberry] Congratulation I hope this item will serve you well!**:1.30:1"
+    "**[Tonberry] Congratulation I hope this item will serve you well!**"
     {
         "chi" "**[冬贝利]恭喜你,希望这件物品能帮上你的忙**"
     }
@@ -780,32 +778,32 @@
         "chi" "**我希望帝国的士兵不要打扰我们**"
     }
 
-    "se16 cmd:Command:say **[Tonberry] Congratulation I hope this item will serve you well!**:1.30:1"
+    "**[Tonberry] Congratulation I hope this item will serve you well!**"
     {
         "chi" "**[冬贝利]恭喜你,希望这件物品能帮上你的忙**"
     }
 
-    "**Level has been changed on Normal Mode** "
+    "**Level has been changed on Normal Mode**"
     {
         "chi" "**关卡变更为普通模式**"
     }
 
-    "**Level has been changed on Insane Mode** "
+    "**Level has been changed on Insane Mode**"
     {
         "chi" "**关卡变更为疯狂模式**"
     }
 
-    "**Admin set Maximum Tenberry quest** "
+    "**Admin set Maximum Tenberry quest**"
     {
         "chi" "**管理员设置最大Tenberry任务**"
     }
 
-    "**Level has been changed on Epic Mode** "
+    "**Level has been changed on Epic Mode**"
     {
         "chi" "**关卡变更为史诗模式**"
     }
 
-    "**Bridge exploded"
+    "**Bridge exploded**"
     {
         "chi" "**大桥被炸毁了**"
     }
