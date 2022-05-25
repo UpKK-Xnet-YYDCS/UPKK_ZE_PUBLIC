@@ -1,0 +1,158 @@
+"Console_T"
+{
+"*** A player picked up zombie push ***"
+	{
+		"chi"		"**一个僵尸拾取了僵尸黑洞**"
+	}
+"*** Door closed in 10 seconds ***"
+	{
+		"chi"		"**门将在10秒后关闭**"
+	}
+"*** Wall break in 20 seconds ***"
+	{
+		"chi"		"**墙将在20秒后破碎**"
+	}
+"*** A player picked up gravity ***"
+	{
+		"chi"		"**一位人类拾取了减速神器**"
+	}
+"*** level: EASY***"
+	{
+		"chi"		"**难度: 简单**"
+	}
+"*** level: HARD***"
+	{
+		"chi"		"**难度: 困难**"
+	}
+"*** Admin choose level HARD ***"
+	{
+		"chi"		"**管理员选择了困难难度**"
+	}
+"*** Admin choose level EASY ***"
+	{
+		"chi"		"**管理员选择了简单难度**"
+	}
+"** PLAYER HAS PICKED UP HEAL **"
+	{
+		"chi"		"**一位玩家拾取了奶神器**"
+	}
+"*** Door open in 40 seconds ***"
+	{
+		"chi"		"**门将在40秒后打开**"
+	}
+"*** Breaking floor ***"
+	{
+		"chi"		"**地板碎裂----5**"
+	}
+"*** A player picked up zombie speed ***"
+	{
+		"chi"		"**一个僵尸拾取了僵尸加速**"
+	}
+"*** A player picked up zombie gravity ***"
+	{
+		"chi"		"**一个僵尸拾取了僵尸减速**"
+	}
+"*** Door open in 15 seconds ***"
+	{
+		"chi"		"**门将在15秒后打开**"
+	}
+"*** Doors open in 10 seconds ***"
+	{
+		"chi"		"**门将在10秒后打开**"
+	}
+"*** Teleport enable in 20 seconds ***"
+	{
+		"chi"		"**传送将在20秒后激活**"
+	}
+"*** Zombie is coming in 5 seconds ***"
+	{
+		"chi"		"**僵尸5秒后到来**"
+		"DoorCountDown"		"-1"
+	}
+"*** Map by |TERRORIST| ***"
+	{
+		"chi"		"**地图作者: TERRORIST**"
+	}
+"*** Temple door open in 15 seconds ***"
+	{
+		"chi"		"**神庙大门将在15秒后打开**"
+	}
+"*** Door open in 30 seconds ***"
+	{
+		"chi"		"**门将在30秒后打开**"
+	}
+"*** Last door open in 30 seconds ***"
+	{
+		"chi"		"**最终大门将在30秒后打开**"
+	}
+"*** Doors open in 30 seconds ***"
+	{
+		"chi"		"**门将在30秒后打开**"
+	}
+"*** Afk teleport in 10 seconds ***"
+	{
+		"chi"		"**10秒传送挂机者**"
+		"DoorCountDown"		"-1"
+	}
+"*** Doors open in 20 seconds ***"
+	{
+		"chi"		"**门将在20秒后打开**"
+	}
+"*** Door open in 35 seconds"
+	{
+		"chi"		"**门将在35秒后打开**"
+	}
+"*** Temple door open in 25 seconds ***"
+	{
+		"chi"		"**神庙大门将在25秒后打开**"
+	}
+"*** Press two buttons ***"
+	{
+		"chi"		"**快去按下两边的按钮**"
+	}
+"*** Minigun ***"
+	{
+		"chi"		"**迷你机枪---5**"
+	}
+"*** Defend zombie ***"
+	{
+		"chi"		"**防守两边尸笼---5**"
+	}
+"*** You lose ***"
+	{
+		"chi"		"**你们输了！！！**"
+	}
+"*** You win ***"
+	{
+		"chi"		"**胜利，过关！！！**"
+	}
+"*** Arachnoid is dead! ***"
+	{
+		"chi"		"**蝎型人已死亡！！**"
+	}
+"*** Door closed in 15 seconds ***"
+	{
+		"chi"		"**门将在15秒后关闭**"
+	}
+"*** Door open in 20 seconds ***"
+	{
+		"chi"		"**门将在20秒后打开**"
+	}
+"*** Find 3 buttons to open the next door ***"
+	{
+		"chi"		"**寻找三个开关来打开下一个大门---10**"
+	}
+"*** Door open in 25 seconds ***"
+	{
+		"chi"		"**门将在25秒后打开**"
+	}
+"*** Door open in 20 seconds"
+	{
+		"chi"		"**门将在20秒后打开**"
+	}
+"*** Afk teleport in 15 seconds ***"
+	{
+		"chi"		"**15秒传送挂机者**"
+		"DoorCountDown"		"-1"
+	}
+}
