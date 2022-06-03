@@ -30,8 +30,7 @@
 	}
 	"> Chaos is cast Chaotic Holy Impact <"
 	{
-		"chi"		"轮回王正在施放混乱神圣冲击(快去平台边缘躲避,第二次施放无提示)"
-		"DoorCountDown"		"5"
+		"chi"		"轮回王正在施放混乱神圣冲击(快去平台边缘躲避,第二次施放无提示)---5"
 	}	
 	"> Kill REMAINING ZOMBIES ! <"
 	{
@@ -99,8 +98,7 @@
 	}
 	"> Chaos is cast Ultra Silence <"
 	{
-		"chi"		"轮回王-卡奥斯正在释放大沉默"
-		"DoorCountDown"		"5"
+		"chi"		"轮回王-卡奥斯正在释放大沉默---5"
 	}
 	"> Chaos Status - Haste <"
 	{
@@ -112,18 +110,15 @@
 	}
 	"> A Ghost Summoned <"
 	{
-		"chi"		"一只鬼魂被召唤出来了(注意击杀鬼魂)"
-		"DoorCountDown"		"3"
+		"chi"		"一只鬼魂被召唤出来了(注意击杀鬼魂)---3"
 	}
 	"> Ice <"
 	{
-		"chi"		"寒冰魔法(远离中间,帮助被冰冻的队友打破水晶)"
-		"DoorCountDown"		"3"
+		"chi"		"寒冰魔法(远离中间,帮助被冰冻的队友打破水晶)---3"
 	}
 	"> Bomb <"
 	{
-		"chi"		"附身炸弹(屏幕中间出现提示的人触碰四次队友)"
-		"DoorCountDown"		"3"
+		"chi"		"附身炸弹(屏幕中间出现提示的人触碰四次队友)---3"
 	}
 	"> Zalera is casting Rain of Death <"
 	{
@@ -131,28 +126,23 @@
 	}
 	"> USE MAGICK TO NEUTRALIZE IT ! <"
 	{
-		"chi"		"使用魔法来中和它！(使用三个神器或者玄冰神器)"
-		"DoorCountDown"		"3"
+		"chi"		"使用魔法来中和它！(使用三个神器或者玄冰神器)---3"
 	}
 	"> Reverse <"
 	{
-		"chi"		"反转(视觉反转或者神器伤害对象反转)"
-		"DoorCountDown"		"3"
+		"chi"		"反转(视觉反转或者神器伤害对象反转)---3"
 	}
 	"> Trap <"
 	{
-		"chi"		"陷阱(远离中间召唤的陷阱)"
-		"DoorCountDown"		"3"
+		"chi"		"陷阱(远离中间召唤的陷阱)---3"
 	}
 	"> Lightning <"
 	{
-		"chi"		"闪电(远离落雷)"
-		"DoorCountDown"		"3"
+		"chi"		"闪电(远离落雷)---3"
 	}
 	"> Lure <"
 	{
-		"chi"		"黑洞(按住S抵抗,远离boss和陷阱)"
-		"DoorCountDown"		"3"
+		"chi"		"黑洞(抵抗吸力,远离boss和陷阱)---3"
 	}
 	"> The Esper Zalera fight in 10 seconds <"
 	{
@@ -160,8 +150,7 @@
 	}
 	"> Zalera activated Field Spell - Dream Field <"
 	{
-		"chi"		"死之天使-扎鲁埃拉发动领域魔法-梦境之雾(召唤幽灵,可用大净化魔片解除领域)"
-		"DoorCountDown"		"3"
+		"chi"		"死之天使-扎鲁埃拉发动领域魔法-梦境之雾(召唤幽灵,可用大净化魔片解除领域)---3"
 	}
 	"> You are too late ... <"
 	{
@@ -237,13 +226,11 @@
 	}
 	"> Zodiark has cast Final Eclipse <"
 	{
-		"chi"		"戒律王-佐迪亚克正在释放最后的冲击"
-		"DoorCountDown"		"10"
+		"chi"		"戒律王-佐迪亚克正在释放最后的冲击---10"
 	}
 	"ALL ZOMBIES WILL BE SUFFER ZODIARK JUDGEMENT"
 	{
-		"chi"		"所有僵尸都将受到戒律王-佐迪亚克的审判"
-		"DoorCountDown"		"5"
+		"chi"		"所有僵尸都将受到戒律王-佐迪亚克的审判---5"
 	}
 	"> A player obtained the Esper [ Zodiark - Keeper of Precepts ] <"
 	{
@@ -279,18 +266,15 @@
 	}
 	"> KingBomb has cast Fire Storm <"
 	{
-		"chi"		"爆弹王正在释放火焰风暴"
-		"DoorCountDown"		"10"
+		"chi"		"爆弹王正在释放火焰风暴---10"
 	}
 	"> Zalera has cast Condemnation <"
 	{
-		"chi"		"死之天使-扎鲁埃拉正在释放天谴"
-		"DoorCountDown"		"15"
+		"chi"		"死之天使-扎鲁埃拉正在释放天谴---15"
 	}
 	"> Chaos has cast Chaotic Tornado <"
 	{
-		"chi"		"轮回王-卡奥斯正在释放混沌龙卷风"
-		"DoorCountDown"		"10"
+		"chi"		"轮回王-卡奥斯正在释放混沌龙卷风---10"
 	}
 	"> A player obtained Oil Mote <"
 	{
@@ -406,13 +390,11 @@
 	}
 	"< Defend until we blow up the barricade >"
 	{
-		"chi"		"防守直到我们炸毁路障"
-		"DoorCountDown"		"20"
+		"chi"		"防守直到我们炸毁路障---20"
 	}
 	"< Defend until we blow up the debris >"
 	{
-		"chi"		"防守直到我们炸毁废墟"
-		"DoorCountDown"		"20"
+		"chi"		"防守直到我们炸毁废墟---20"
 	}
 	"> The gate will open in 30 seconds <"
 	{
@@ -420,8 +402,7 @@
 	}
 	"< Defend until we blow up the rock >"
 	{
-		"chi"		"防守直到我们炸毁岩石"
-		"DoorCountDown"		"25"
+		"chi"		"防守直到我们炸毁岩石---25"
 	}
 	"[ Moogle ] : What's your matter ?"
 	{
