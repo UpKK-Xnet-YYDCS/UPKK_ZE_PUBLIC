@@ -1,107 +1,364 @@
 "Console_T"
 {
-	"< Ultima Weapon has casted Eye of The Storm >"
-	{
-		"chi"		"5----< 风暴之眼,全屏伤害 >"
-	}
-	"< Ultima Weapon has casted Aerial Blast >"
-	{
-		"chi"		"5----< 大气爆发,躲在外圈 >"
-	}
-	"< Ultima Weapon has casted Radiant Plumes >"
-	{
-		"chi"		"5----< 光辉的炎柱,注意内外圈地火 >"
-	}
-	"< Ultima Weapon has casted Eruption >"
-	{
-		"chi"		"5----< 地火喷发，躲在外圈 >"
-	}
-	"< Ultima Weapon has casted Wreckage Meteor >"
-	{
-		"chi"		"5----< 火流星坠落,注意头顶特效 >"
-	}
-	"< Ultima Weapon has casted Gravity Ability >"
-	{
-		"chi"		"5----< 重力摄取,抵抗吸力 >"
-	}
-	"< Ultima Weapon has casted Poison Attack >"
-	{
-		"chi"		"5----< 毒气炸弹,注意躲避脚底特效 >"
-	}
-	"< Ultima Weapon has casted Vulcan Burst >"
-	{
-		"chi"		"5----< 火神爆发,抵抗吸力 >"
-	}
-	"< Ultima Weapon has casted Geocrush >"
-	{
-		"chi"		"5----< 大地之怒,躲避正前方的泰坦 >"
-	}
-	"< Behemoth has casted Wild Horn Ability >"
-	{
-		"chi"		"5----< 蛮牛冲撞,抵抗吸力 >"
-	}
-	"< Seymour Natus has summoned Wind Ability >"
-	{
-		"chi"		"5----< 狂风之力,抵抗推力 >"
-	}
-	"< Behemoth has casted Thunder Ability >"
-	{
-		"chi"		"5----< 雷电之力,躲在外圈 >"
-	}
-	"< Behemoth has casted Ecliptic Meteor >"
-	{
-		"chi"		"5----< 黄道流星,注意头顶特效 >"
-	}
-	"< Behemoth has casted Heave Attack >"
-	{
-		"chi"		"5----< 俯冲攻击,全屏伤害 >"
-	}
-	"< Behemoth has casted Shock Wave >"
-	{
-		"chi"		"5----< 冲击波 >"
-	}
-	"< Behemoth has casted Fire Attack >"
-	{
-		"chi"		"5----< 内圈大火,去外圈躲避 >"
-	}
-	"< Behemoth has casted Mega Fire Attack >"
-	{
-		"chi"		"5----< 外圈大火,去内圈躲避 >"
-	}
-	"< Seymour Natus has summoned Banish Ability >"
-	{
-		"chi"		"5----< 放逐之力,躲避脚底特效 >"
-	}
-	"< Seymour Natus has summoned Blizzard Ability >"
-	{
-		"chi"		"5----< 冰莲绽放,躲避脚底特效 >"
-	}
-	"< Seymour Natus has summoned Thunder Ability >"
-	{
-		"chi"		"5----< 雷电降临,边缘躲避 >"
-	}
-	"< Seymour Natus has summoned Fire Meteor >"
-	{
-		"chi"		"5----< 火焰流星,注意头顶特效 >"
-	}
-	"< Seymour Natus has summoned Water Ability >"
-	{
-		"chi"		"5----< 大海啸,全屏伤害 >"
-	}
-	"< Seymour Natus has summoned Protect Spell >"
-	{
-		"chi"		"5----< 守护符文,暂时无敌 >"
-	}
-	"< All Nymian Devices have been pressed >"
-	{
-		"chi"		"20----< 全部的尼姆装置都已激活 >----"
-	}
-	"< Defend until the teleport activates >"
-	{
-		"chi"		"30----< 防守直到传送激活 >----"
-	}
-	"< Behemoth is howling! >"
-	{
-		"chi"		"5----< 嚎叫,快重新拾取或者购买武器 >"
-	}
+    "< A Player has acquired Blizzard >"
+    {
+        "chi" " 一名玩家拾取了冰莲魔法 "
+    }
+    "< A Player has acquired Heal >"
+    {
+        "chi" " 一名玩家拾取了治疗魔法 "
+    }
+    "< A Player has acquired Knight's Sword >"
+    {
+        "chi" " 一名玩家拾取了狼骑士长矛 "
+    }
+    "< A Player has acquired Oath >"
+    {
+        "chi" " 一名玩家拾取了誓言 "
+    }
+    "< A Player has acquired Seymour Natus >"
+    {
+        "chi" " 一名玩家拾取了召唤西摩尔-纳图斯 "
+    }
+    "< A Player has acquired Summon Bahamut >"
+    {
+        "chi" " 一名玩家拾取了召唤巴哈姆特 "
+    }
+    "< A Player has acquired Sword Oath >"
+    {
+        "chi" " 一名玩家拾取了剑誓言 "
+    }
+    "< A Player has acquired Thunder >"
+    {
+        "chi" " 一名玩家拾取了雷电魔法 "
+    }
+    "< A Player has acquired Zombie Gravity >"
+    {
+        "chi" " 一名玩家拾取了僵尸黑洞魔法 "
+    }
+    "< A Player has acquired Zombie Heal >"
+    {
+        "chi" " 一名玩家拾取了僵尸治疗魔法 "
+    }
+    "< A Player has acquired Zombie Ice >"
+    {
+        "chi" " 一名玩家拾取了僵尸冰霜魔法 "
+    }
+    "< A Player has acquired Zombie Malefic >"
+    {
+        "chi" " 一名玩家拾取了僵尸煞星魔法 "
+    }
+    "< A Player has picked up Alteci >"
+    {
+        "chi" " 一名玩家拾取了阿尔提克 "
+    }
+    "< A Player has picked up Garuda >"
+    {
+        "chi" " 一名玩家拾取了迦楼罗 "
+    }
+    "< A Player has picked up Vyraal >"
+    {
+        "chi" " 一名玩家拾取了魔神龙 "
+    }
+    "< All Nymian Devices have been pressed >"
+    {
+        "chi" " 全部的尼姆装置都已激活---20 "
+    }
+    "< Bahamut is back - Keep Shooting! >"
+    {
+        "chi" " 巴哈姆特回来了 - 保持射击! "
+    }
+    "< Bahamut is blocking your path - Shoot it now! >"
+    {
+        "chi" " 巴哈姆特挡住了你的去路 - 立即开枪! "
+    }
+    "< Bahamut is retreating - Keep defending! >"
+    {
+        "chi" " 巴哈姆特正在撤退 - 继续防守! "
+    }
+    "< Behemoth finally fell down... - Retreat! >"
+    {
+        "chi" " 贝希摩斯终于倒下了... - 撤退! "
+    }
+    "< Behemoth has casted Ecliptic Meteor >"
+    {
+        "chi" " 黄道流星,注意躲避头顶特效---5 "
+    }
+    "< Behemoth has casted Fire Attack >"
+    {
+        "chi" " 内圈大火,去外圈躲避---5 "
+    }
+    "< Behemoth has casted Heave Attack >"
+    {
+        "chi" " 叹息,全屏伤害---5 "
+    }
+    "< Behemoth has casted Mega Fire Attack >"
+    {
+        "chi" " 外圈大火,去内圈躲避---5 "
+    }
+    "< Behemoth has casted Shock Wave >"
+    {
+        "chi" " 冲击波,抵抗推力---5 "
+    }
+    "< Behemoth has casted Thunder Ability >"
+    {
+        "chi" " 雷电之力,躲在外圈---5 "
+    }
+    "< Behemoth has casted Wild Horn Ability >"
+    {
+        "chi" " 野性利角,抵抗吸力---5 "
+    }
+    "< Behemoth is howling! >"
+    {
+        "chi" " 嚎叫,快拾取地上武器或者购买新武器---5 "
+    }
+    "< Boss has been defeated! >"
+    {
+        "chi" " Boss被击败了! "
+    }
+    "< Defend until the teleport activates >"
+    {
+        "chi" " 防守直到传送激活---30 "
+    }
+    "< Enkidu is spawned - Seems like we need to shoot it? >"
+    {
+        "chi" " 恩奇都出现了 - 看来我们需要开枪攻击它？ "
+    }
+    "< Gates are unlocking soon! - Keep Defend >"
+    {
+        "chi" " 大门马上关闭! - 保持防守 "
+    }
+    "< Great! -  Your interrupted Mortybody's Break Attack >"
+    {
+        "chi" " 干的漂亮! - 你打断了幻光变异体的破坏魔法 "
+    }
+    "< Hurry up!!! - Seymour Natus power up his abilities >"
+    {
+        "chi" " 赶快!!! 西摩尔-纳图斯将要释放终结技 ---20"
+    }
+    "< Hurry! - Behemoth's rage will destroy all of you >"
+    {
+        "chi" " 快一点! - 贝希摩斯的愤怒将摧毁你们所有人 ---20 "
+    }
+    "< Hurry! - You have 20 seconds left to defeat The Keeper of Halidom >"
+    {
+        "chi" " 快一点! - 你还剩20秒去击败古菩猩猩 "
+    }
+    "< Keeper of Halidom has used Beatdown Ability >"
+    {
+        "chi" " 击倒攻击,全屏伤害---5 "
+    }
+    "< Keeper of Halidom has used Goobbue's Grief Ability >"
+    {
+        "chi" " 古菩猩猩的悲伤,躲避脚底特效---5 "
+    }
+    "< Keeper of Halidom has used Inhale Ability >"
+    {
+        "chi" " 深吸了一口气,抵抗吸力---5 "
+    }
+    "< Keeper of Halidom has used Moldy Phlegm Ability >"
+    {
+        "chi" " 腐臭的浓痰,抵抗推力---5 "
+    }
+    "< Keeper of Halidom has used Moldy Sneeze Ability >"
+    {
+        "chi" " 腐臭的喷嚏,抵抗侧推---5 "
+    }
+    "< Kill Remaining Zombies >"
+    {
+        "chi" " 杀死剩余的僵尸 "
+    }
+    "< Knight is going to judge your destiny? >"
+    {
+        "chi" " 狼骑士能审判你的命运? "
+    }
+    "< Map by Dakotec & Lishang >"
+    {
+        "chi" " 地图作者:Dakotec & Lishang 地图翻译:神々が恋した幻想郷 "
+    }
+    "< Nymian Device 1 has been pressed >"
+    {
+        "chi" " 尼姆装置一号已被按下 "
+    }
+    "< Nymian Device 2 has been pressed >"
+    {
+        "chi" " 尼姆装置二号已被按下 "
+    }
+    "< Nymian Device 3 has been pressed >"
+    {
+        "chi" " 尼姆装置三号已被按下 "
+    }
+    "< Nymian Device 4 has been pressed >"
+    {
+        "chi" " 尼姆装置四号已被按下 "
+    }
+    "< Nymian Devices have been activated >"
+    {
+        "chi" " 尼姆装置已被激活 "
+    }
+    "< Odin is not strong enough to stop your steps! >"
+    {
+        "chi" " 奥丁的力量不足以阻止你的脚步! "
+    }
+    "< Prepare to die >"
+    {
+        "chi" " 准备迎接死亡吧 "
+    }
+    "< Prepare to meet your destiny! >"
+    {
+        "chi" " 准备迎接你的命运! "
+    }
+    "< Sanctuary Keeper is setenced to judge your fate! >"
+    {
+        "chi" " 圣地守护者将会宣判你的命运! "
+    }
+    "< Scantuary Keeper is defeated! - Don't stop defending! >"
+    {
+        "chi" " 圣地守护者被击败了! - 不要停止防守! "
+    }
+    "< Seymour Natus has summoned Banish Ability >"
+    {
+        "chi" " 放逐之力,躲避脚底特效---5 "
+    }
+    "< Seymour Natus has summoned Blizzard Ability >"
+    {
+        "chi" " 冰莲绽放,躲避脚底特效---5 "
+    }
+    "< Seymour Natus has summoned Break Ability >"
+    {
+        "chi" " 幻光变异体,在它释放出破坏魔法之前打断它---5 "
+    }
+    "< Seymour Natus has summoned Fire Meteor >"
+    {
+        "chi" " 火焰流星,注意躲避头顶特效---5 "
+    }
+    "< Seymour Natus has summoned Lure Ability >"
+    {
+        "chi" " 诱引之力,别去两边---5"
+    }
+    "< Seymour Natus has summoned Protect Spell >"
+    {
+        "chi" " 守护符文,暂时无敌---5 "
+    }
+    "< Seymour Natus has summoned Thunder Ability >"
+    {
+        "chi" " 雷电降临,边缘躲避---5 "
+    }
+    "< Seymour Natus has summoned Water Ability >"
+    {
+        "chi" " 大海啸,全屏伤害---5 "
+    }
+    "< Seymour Natus has summoned Wind Ability >"
+    {
+        "chi" " 狂风之力,抵抗推力---5 "
+    }
+    "< Seymour Natus is hurted... - Let's go >"
+    {
+        "chi" " 西摩尔-纳图斯被击败了... - 让我们一起离开 "
+    }
+    "< Shoot! - Dont let Odin hunt you down!!! >"
+    {
+        "chi" " 射击! - 不要让奥丁追杀到你!!! "
+    }
+    "< Teleport Activates! - Retreat! >"
+    {
+        "chi" " 传送已激活! - 撤退! "
+    }
+    "< The Darkness has arosed from Seymour Natus... >"
+    {
+        "chi" " 西摩尔-纳图斯引动了黑暗..."
+    }
+    "< Ultima Weapon has casted Aerial Blast >"
+    {
+        "chi" " 大气爆发,躲在外圈---5 "
+    }
+    "< Ultima Weapon has casted Eruption >"
+    {
+        "chi" " 地火喷发，躲在外圈---5 "
+    }
+    "< Ultima Weapon has casted Eye of The Storm >"
+    {
+        "chi" " 风暴之眼,全屏伤害---5 "
+    }
+    "< Ultima Weapon has casted Geocrush >"
+    {
+        "chi" " 大地之怒,躲避正前方的泰坦---5 "
+    }
+    "< Ultima Weapon has casted Gravity Ability >"
+    {
+        "chi" " 重力摄取,抵抗吸力---5 "
+    }
+    "< Ultima Weapon has casted Poison Attack >"
+    {
+        "chi" " 毒气炸弹,注意躲避脚底特效---5 "
+    }
+    "< Ultima Weapon has casted Radiant Plumes >"
+    {
+        "chi" " 光辉的炎柱,注意内外圈地火---5 "
+    }
+    "< Ultima Weapon has casted Vulcan Burst >"
+    {
+        "chi" " 火神爆发,抵抗吸力---5 "
+    }
+    "< Ultima Weapon has casted Wreckage Meteor >"
+    {
+        "chi" " 火流星坠落,注意躲避头顶特效---5 "
+    }
+    "< Ultima Weapon is casting Ultima! - Dont stop firing! >"
+    {
+        "chi" " 究极神兵正在释放终极! - 不要停止攻击! "
+    }
+    "< YOU ARE DEAD >"
+    {
+        "chi" " 你死了 "
+    }
+    "< You are the hero of the light! >"
+    {
+        "chi" " 你是光之英雄! "
+    }
+    "< You did not defeat Behemoth in time >"
+    {
+        "chi" " 你没有及时击败贝希摩斯 "
+    }
+    "< You did not defeat KOH in time >"
+    {
+        "chi" " 你没有及时击败古菩猩猩 "
+    }
+    "< You did not interrupt Mortibody's Break Attack >"
+    {
+        "chi" " 你没有打断幻光变异体的破坏魔法 "
+    }
+    "< You have defeated Normal Mode >"
+    {
+        "chi" " 你已经通过了普通模式 "
+    }
+    "< You have escaped from Behemoth's claw >"
+    {
+        "chi" " 你成功的从贝希摩斯的爪子下逃离 "
+    }
+    "< You have failed to defeat Sanctuary Keeper... >"
+    {
+        "chi" " 你没有能击败圣地守护着... "
+    }
+    "< You have hunted down Knight! - Is time to receive your reward >"
+    {
+        "chi" " 你成功的狩猎了狼骑士! - 是时候接收你应得的奖励了 "
+    }
+    "< You have interrupted Bahamut's Final Attack! >"
+    {
+        "chi" " 你成功的打断了巴哈姆特最后的攻击! "
+    }
+    "< ze_FFXIV_Wanderers_Palace >"
+    {
+        "chi" " 最终幻想14:放浪古神殿 "
+        "DoorCountDown"		"-1"
+    }
+    "< Zombie Dectected >"
+    {
+        "chi" " 检测到僵尸 "
+    }
+    "< Zombie Detected >"
+    {
+        "chi" " 检测到僵尸 "
+    }
 }
