@@ -14,7 +14,7 @@
 	}
 	"**Door 3 will open in 10 sec.**"
 	{
-		"chi"		"**3号门10秒后开门**"
+		"chi"		"**三号门10秒后开门**"
 	}
 	"**AFK-players have been killed**"
 	{
@@ -22,11 +22,11 @@
 	}
 	"**Door 4 will open in 20 sec.**"
 	{
-		"chi"		"**4号门20秒后开门**"
+		"chi"		"**四号门20秒后开门**"
 	}
 	"**Door 5 will open in 10 sec.**"
 	{
-		"chi"		"**5号门10秒后开门**"
+		"chi"		"**五号门10秒后开门**"
 	}
 	"**Final door will open in 10 sec.**"
 	{
@@ -39,21 +39,26 @@
 	"**Death will come in 45 sec.**"
 	{
 		"chi"		"**45秒后核爆！**"
+		"DoorCountdown" "-1"
 	}
 	"**Death will come in 30 sec.**"
 	{
 		"chi"		"**30秒后核爆！**"
+		"DoorCountdown" "-1"
 	}
 	"**Death will come in 20 sec.**"
 	{
 		"chi"		"**20秒后核爆！**"
+		"DoorCountdown" "-1"
 	}
 	"**Death will come in 10 sec.**"
 	{
 		"chi"		"**10秒后核爆！**"
+		"DoorCountdown" "-1"
 	}
 	"**Death will come in 5 sec.**"
 	{
 		"chi"		"**5秒后核爆！**"
+		"DoorCountdown" "-1"
 	}
 }
