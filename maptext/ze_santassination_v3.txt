@@ -414,7 +414,6 @@
 	"***FACTORY DOOR OPENS IN 10 SECONDS***"
 	{
 		"chi"		"**白色的门10秒后打开（左转是路）**"
-		"DoorCountdown"		"10"
 	}
 	"***FACTORY DOOR OPENS IN 5 SECONDS***"
 	{
@@ -423,18 +422,22 @@
 	"***FACTORY DOOR OPENS IN 4 SECONDS***"
 	{
 		"chi"		"**白色的门4秒后打开**"
+		"DoorCountdown"		"-1"
 	}
 	"***FACTORY DOOR OPENS IN 3 SECONDS***"
 	{
 		"chi"		"**白色的门3秒后打开**"
+		"DoorCountdown"		"-1"
 	}
 	"***FACTORY DOOR OPENS IN 2 SECONDS***"
 	{
 		"chi"		"**白色的门2秒后打开**"
+		"DoorCountdown"		"-1"
 	}
 	"***FACTORY DOOR OPENS IN 1 SECOND***"
 	{
 		"chi"		"**白色的门1秒后打开**"
+		"DoorCountdown"		"-1"
 	}
 	"***OPENING DOORS IN 10 SECONDS***"
 	{
@@ -505,7 +508,6 @@
 	"***OPENING UPPER CHAPEL DOOR IN 10 SECONDS***"
 	{
 		"chi"		"**通往城堡高层的大门将在10秒后开启**"
-		"DoorCountdown"		"10"
 	}
 	"***OPENING UPPER CHAPEL DOOR IN 5 SECONDS***"
 	{
@@ -746,18 +748,22 @@
 	"***SANTAS DOOR IS CLOSING IN 4 SECONDS***"
 	{
 		"chi"		"**圣诞老人的房子将在4秒后关门**"
+		"DoorCountdown"		"-1"
 	}
 	"***SANTAS DOOR IS CLOSING IN 3 SECONDS***"
 	{
 		"chi"		"**圣诞老人的房子将在3秒后关门**"
+		"DoorCountdown"		"-1"
 	}
 	"***SANTAS DOOR IS CLOSING IN 2 SECONDS***"
 	{
 		"chi"		"**圣诞老人的房子将在2秒后关门**"
+		"DoorCountdown"		"-1"
 	}
 	"***SANTAS DOOR IS CLOSING IN 1 SECONDS***"
 	{
 		"chi"		"**圣诞老人的房子将在1秒后关门**"
+		"DoorCountdown"		"-1"
 	}
 	"***SANTAS DOOR IS CLOSING***"
 	{
