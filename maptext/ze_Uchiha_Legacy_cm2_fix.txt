@@ -162,21 +162,19 @@
 	}
 	"** KATON - FIRE RAIN**"
 	{
-		"chi"		"**火遁-爆风乱舞! **"
-		"DoorCountDown"		"6"
+		"chi"		"**火遁-爆风乱舞! ---6**"
 	}
 	"** KATON **"
 	{
-		"chi"		"**火遁-豪火球之术! **"
-		"DoorCountDown"		"4"
+		"chi"		"**火遁-豪火球之术! ---4**"
 	}
 	"** MOKUTON **"
 	{
-		"chi"		"**木遁-树界降临,快去边缘,不要碰到树! **"
+		"chi"		"**木遁-树界降临,快去边缘,不要碰到树! ---5**"
 	}
 	"** REGENERATION **"
 	{
-		"chi"		"**阴伤愈灭!此时吸收攻击的所有伤害! **"
+		"chi"		"**阴伤愈灭!此时吸收攻击的所有伤害! ---5**"
 	}
 	"** MADARA JUST APPEAR **"
 	{
@@ -184,16 +182,15 @@
 	}
 	"** SHOOT HIM OR GO TO THE SIDE NOW **"
 	{
-		"chi"		"**这就是..神的力量!站在场地边缘躲避! **"
+		"chi"		"**这就是..神的力量!站在场地边缘躲避! ---5**"
 	}
 	"** ZOMBIES **"
 	{
-		"chi"		"**宇智波带土召唤了僵尸协助,小心! **"
-		"DoorCountDown"		"9"
+		"chi"		"**宇智波带土召唤了僵尸协助,小心! ---9**"
 	}
 	"** RUN BEHIND KAKASHI **"
 	{
-		"chi"		"**我们快躲到卡卡西背后! **"
+		"chi"		"**我们快躲到卡卡西背后! ---5**"
 	}
 	"** OBITO IS USING ALTERNATE DIMENSION **"
 	{
@@ -237,7 +234,7 @@
 	}
 	"** CLIMB THE MIDDLE AND DEFEND **"
 	{
-		"chi"		"**我们赶紧去跳到中间防守僵尸! **"
+		"chi"		"**我们赶紧去跳到中间防守僵尸! ---36**"
 	}
 	"** OBITO TRANSFORMED IN JINCHIRUKI **"
 	{
@@ -245,7 +242,7 @@
 	}
 	"** GET READY FOR HIS LAST ATTACK **"
 	{
-		"chi"		"**带土得到了六道之力!躲避天上的弹幕!**"
+		"chi"		"**带土得到了六道之力!准备躲避天上的弹幕! ---10**"
 	}
 	"**YOU WON STAGE 3**"
 	{
@@ -317,33 +314,31 @@
 	}
 	"** SENPO INTON RAIHA **"
 	{
-		"chi"		"**仙法-阴遁雷派! **"
+		"chi"		"**仙法-阴遁雷派! ---5**"
 	}
 	"** UCHIHA REFLECTION **"
 	{
-		"chi"		"**宇智波反弹!停火！**"
-		"DoorCountDown"		"6"
+		"chi"		"**宇智波反弹!停火！---6**"
 	}
 	"** MOKUTON - DEEP FOREST EMERGENCE **"
 	{
-		"chi"		"**木遁-花树界降临! **"
+		"chi"		"**木遁-花树界降临! ---5**"
 	}
 	"** CLONE **"
 	{
-		"chi"		"**影分身之术! **"
+		"chi"		"**影分身之术! ---5**"
 	}
 	"** LIGHT FANG **"
 	{
-		"chi"		"**仙法·岚遁光牙! **"
+		"chi"		"**仙法·岚遁光牙! ---5**"
 	}
 	"** RINNEGAN - ABSORPTION **"
 	{
-		"chi"		"**封术吸印,可以吸收伤害! **"
-		"DoorCountDown"		"7"
+		"chi"		"**封术吸印,可以吸收伤害! ---7**"
 	}
 	"** KATON - HIDING IN ASH **"
 	{
-		"chi"		"**火遁-豪火灭却! **"
+		"chi"		"**火遁-豪火灭却! ---5**"
 	}
 	"** MADARA  IS CHARGING **"
 	{
@@ -351,15 +346,15 @@
 	}
 	"** LIMBO - HENGOKU **"
 	{
-		"chi"		"**轮墓-边狱!! **"
+		"chi"		"**轮墓-边狱!! ---5**"
 	}
 	"** SHATTERED HEAVEN **"
 	{
-		"chi"		"**禁术-天碍震星! **"
+		"chi"		"**禁术-天碍震星! ---3**"
 	}
 	"** DESTROY THE METEOR OR DIE NOW **"
 	{
-		"chi"		"**我们之间的差距过于巨大..赶紧把陨石打碎! **"
+		"chi"		"**我们之间的差距过于巨大..赶紧把陨石打碎! ---5**"
 	}
 	"** NADES DO MORE DAMAGE **"
 	{
@@ -452,9 +447,5 @@
 	"sync_version"
 	{
 		"syncvalue"		"19607"
-	}
-	"**Stripper made by memories for cm2 version**"
-	{
-		"chi"		"** **"
 	}
 }
