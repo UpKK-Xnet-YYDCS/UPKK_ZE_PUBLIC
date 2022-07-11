@@ -73,22 +73,27 @@
 	"***ELEVATOR IS LEAVING IN 5 SECONDS***"
 	{
 		"chi"		"**电梯5秒后离开 **"
+		"DoorCountDown" "-1"
 	}
 	"***ELEVATOR IS LEAVING IN 4 SECONDS***"
 	{
 		"chi"		"**电梯4秒后离开 **"
+		"DoorCountDown" "-1"
 	}
 	"***ELEVATOR IS LEAVING IN 3 SECONDS***"
 	{
 		"chi"		"**电梯3秒后离开 **"
+		"DoorCountDown" "-1"
 	}
 	"***ELEVATOR IS LEAVING IN 2 SECONDS***"
 	{
 		"chi"		"**电梯2秒后离开 **"
+		"DoorCountDown" "-1"
 	}
 	"***LAGEVATOR IS LEAVING IN 1 SECOND***"
 	{
 		"chi"		"**电梯1秒后离开 **"
+		"DoorCountDown" "-1"
 	}
 	"***ELEVATOR IS LEAVING***"
 	{
@@ -97,7 +102,6 @@
 	"***Door opening in 20 seconds***"
 	{
 		"chi"		"**大门在20内打开**"
-		"DoorCountDown" "20"
 	}
 	"***A METAL ASS HAS BEEN PICKED UP***"
 	{
@@ -105,8 +109,7 @@
 	}
 	"***THE TOASTER IS GOING TO TOAST TOAST IN 3 MINUTES***"
 	{
-		"chi"		"**吐司将在3分钟后烤制完毕（3分钟后爆炸)**"
-		"DoorCountDown" "180"
+		"chi"		"**吐司将在180秒后烤制完毕（爆炸)**"
 	}
 	"***THIS PLACE IS FALLING APART***"
 	{
@@ -127,14 +130,17 @@
 	"***THE TOASTER IS GOING TO TOAST TOAST IN 2 MINUTES***"
 	{
 		"chi"		"** 吐司将在2分钟后烤制完毕 **"
+		"DoorCountDown" "-1"
 	}
 	"***ELEVATOR IS LEAVING IN 1 SECOND***"
 	{
 		"chi"		"**电梯1秒后离开 **"
+		"DoorCountDown" "-1"
 	}
 	"***THE TOASTER IS GOING TO TOAST TOAST IN 1 MINUTE***"
 	{
 		"chi"		"** 吐司将在1分钟后烤制完毕 **"
+		"DoorCountDown" "-1"
 	}
 	"***THE TOASTER IS GOING TO TOAST TOAST IN 30 SECONDS***"
 	{
@@ -143,6 +149,7 @@
 	"***THE TOASTER IS GOING TO TOAST TOAST IN 20 SECONDS***"
 	{
 		"chi"		"** 吐司将在20秒后烤制完毕 **"
+		"DoorCountDown" "-1"
 	}
 	"***SOME SOUR MILK HAS BEEN PICKED UP***"
 	{
@@ -220,22 +227,27 @@
 	"***THE TOASTER IS ABOUT TO TOAST TOAST IN 5 SECONDS***"
 	{
 		"chi"		"**吐司将在5秒后烤制完毕 **"
+		"DoorCountDown" "-1"
 	}
 	"***THE TOASTER IS ABOUT TO TOAST TOAST IN 4 SECONDS***"
 	{
 		"chi"		"**吐司将在4秒后烤制完毕 **"
+		"DoorCountDown" "-1"
 	}
 	"***THE TOASTER IS ABOUT TO TOAST TOAST IN 3 SECONDS***"
 	{
 		"chi"		"**吐司将在3秒后烤制完毕**"
+		"DoorCountDown" "-1"
 	}
 	"***THE TOASTER IS ABOUT TO TOAST TOAST IN 2 SECONDS***"
 	{
 		"chi"		"**吐司将在2秒后烤制完毕 **"
+		"DoorCountDown" "-1"
 	}
 	"***THE TOASTER IS ABOUT TO TOAST TOAST IN 1 SECOND***"
 	{
 		"chi"		"**吐司将在1秒后烤制完毕 **"
+		"DoorCountDown" "-1"
 	}
 	"***THE TOASTER IS TOASTING TOAST***"
 	{
