@@ -13,6 +13,7 @@
 	"*** 5 SECONDS REMAINING ***"
 	{
 		"chi"		"** 还有 5 秒 **"
+		"DoorCountDown"		"-1"
 	}
 	"*** FALL BACK ***"
 	{
@@ -21,11 +22,11 @@
 	"*** MINECARTS LEAVING IN 25 SEC ***"
 	{
 		"chi"		"** 矿车将在 25 秒后离开 **"
-		"DoorCountDown"		"25"
 	}
 	"*** MINECARTS LEAVING IN 10 SEC ***"
 	{
 		"chi"		"** 矿车将在 10 秒后离开 **"
+		"DoorCountDown"		"-1"
 	}
 	"*** GET INTO MINECARTS ***"
 	{
@@ -38,6 +39,7 @@
 	"*** 5 SEC REMAINING ***"
 	{
 		"chi"		"** 还剩 5 秒 **"
+		"DoorCountDown"		"-1"
 	}
 	"***Fall Back***"
 	{
@@ -54,7 +56,6 @@
 	"*** TNT EXPLODING IN 20 SEC ***"
 	{
 		"chi"		"** TNT将在 20 秒后爆炸 **"
-		"DoorCountDown"		"20"
 	}
 	"*** TAKE PICKAXE AND BREAK OBSIDIAN TO BUILD PORTAL ***"
 	{
@@ -63,12 +64,10 @@
 	"*** FALL BACK! PORTAL IS ACTIVATING IN 5 SECONDS ***"
 	{
 		"chi"		"** 撤退！地狱门将在 5 秒后激活 **"
-		"DoorCountDown"		"5"
 	}
 	"*** BUNKER IS CLOSING IN 15 SEC ***"
 	{
 		"chi"		"** 碉堡将在 15 秒后关闭 **"
-		"DoorCountDown"		"15"
 	}
 	"*** BUNKER IS CLOSING ***"
 	{
@@ -87,41 +86,35 @@
 	"*** WALL BREAKS IN 15 SEC ***"
 	{
 		"chi"		"** 墙壁将在 15 秒后破碎 **"
-		"DoorCountDown"		"15"
 	}
 	"*** Resist 15 seconds ***"
 	{
 		"chi"		"** 防守 15 秒 **"
-		"DoorCountDown"		"15"
 	}
 	"*** Resist 10 seconds ***"
 	{
 		"chi"		"** 防守 10 秒 **"
-		"DoorCountDown"		"10"
 	}
 	"***Resist 20 seconds***"
 	{
 		"chi"		"** 防守 20 秒 **"
-		"DoorCountDown"		"20"
 	}
 	"***5 SECONDS REMAINING***"
 	{
 		"chi"		"** 还剩 5 秒 **"
+		"DoorCountDown"		"-1"
 	}
 	"*** Resist 20 seconds ***"
 	{
 		"chi"		"** 防守 20 秒 **"
-		"DoorCountDown"		"20"
 	}
 	"*** RESIST 25 SECONDS ***"
 	{
 		"chi"		"** 防守 25 秒 **"
-		"DoorCountDown"		"25"
 	}
 	"*** HOLD NETHERFORTRESS 30 SECONDS ***"
 	{
 		"chi"		"** 守住地狱城堡 30 秒 **"
-		"DoorCountDown"		"30"
 	}
 	"*** EVERYONE GET INSIDE! ***"
 	{
@@ -142,11 +135,11 @@
 	"*** 40 SECONDS REMAINING ***"
 	{
 		"chi"		"** 剩余 40 秒 **（加油）"
-		"DoorCountDown"		"40"
 	}
 	"*** 30 SECONDS REMAINING ***"
 	{
 		"chi"		"** 剩余 30 秒 **（能拖尽量拖）"
+		"DoorCountDown"		"-1"
 	}
 	"*** STEEL HAS BEEN PICKED UP ***"
 	{
@@ -155,11 +148,12 @@
 	"*** 20 SECONDS REMAINING ***"
 	{
 		"chi"		"** 剩余 20 秒 **"
-		"DoorCountDown"		"20"
+		"DoorCountDown"		"-1"
 	}
 	"*** 10 SECONDS REMAINING ***"
 	{
 		"chi"		"** 剩余 10 秒 **"
+		"DoorCountDown"		"-1"
 	}
 	"*** FLINT HAS BEEN PICKED UP ***"
 	{
@@ -168,6 +162,7 @@
 	"*** CURRENT STAGE IS 1: Overworld ***"
 	{
 		"chi"		"**  关卡 1 ：上界 **"
+		"DoorCountDown"		"-1"
 	}
 	"Map made by Cuniczek"
 	{
@@ -180,12 +175,10 @@
 	"*** DEFEND 25 SECONDS ***"
 	{
 		"chi"		"*** 坚守 25 秒 ***"
-		"DoorCountDown"		"25"
 	}
 	"*** WALLS BREAK IN 15 SEC ***"
 	{
 		"chi"		"*** 墙壁将在 15 秒后破碎 ***"
-		"DoorCountDown"		"15"
 	}
 	"*** HUMANS WON! MOVING ON TO STAGE 3 ***"
 	{
@@ -209,17 +202,15 @@
 	"*** WELL DONE! NEXT DOOR IS OPENING IN 30SEC ***"
 	{
 		"chi"		"** 干的漂亮！墙壁将在 30 秒后破裂，在这之前继续蹂躏僵尸！ **(门开以后，新手推荐下楼右拐！）"
-		"DoorCountDown"		"30"
 	}
 	"*** NEXT DOOR OPENS IN 20 SECONDS ***"
 	{
-		"chi"		"** 下个门将在 20 秒后打开 **
-                "
-		"DoorCountDown"		"                "
+		"chi"		"** 下个门将在 20 秒后打开 **"
 	}
 	"*** FIND A WAY TO OPEN THIS DOOR ***"
 	{
 		"chi"		"** 寻找一种打开这个门的办法 **（打烂大门左右两边铁块正对着的墙壁，丢手枪拿火把，将红石火把丢在铁块上，最好3个全拿走）"
+		"DoorCountDown"		"-1"
 	}
 	"*** THIS SHOULD WORK ***"
 	{
@@ -240,11 +231,10 @@
 	"*** DOOR OPENS IN 20 SEC ***"
 	{
 		"chi"		"** 大门将在 20 秒后开启 **"
-		"DoorCountDown"		"20"
 	}
 	"*** DEFEND FOR 40 SEC OR PRESS 2 BUTTONS AT THE SAME TIME ***"
 	{
-		"chi"		"** 防守 40 秒！或者同时按下 2 边的按钮！**（另外一个按钮在管道里）"
+		"chi"		"** 防守 40 秒！或者同时按下两边的按钮！**（另外一个按钮在管道里）"
 	}
 	"*** FALL BACK DOOR IS OPENING ***"
 	{
@@ -257,6 +247,7 @@
 	"*** MOVE ON! NEXT DOOR IS OPENING ***"
 	{
 		"chi"		"** 撤退！下一个门已经打开！**"
+		"clear_door_timer"	"1"
 	}
 	"Yes! We have found it! The Eyes of Ender. Now we can find Stronghold."
 	{
@@ -269,6 +260,7 @@
 	"*** 50 SECONDS REMAINING ***"
 	{
 		"chi"		"** 还剩余 50 秒 **"
+		"DoorCountDown"		"-1"
 	}
 	"*** HUMANS WON! MOVING ON TO STAGE 4 ***"
 	{
@@ -298,16 +290,16 @@
 	}
 	"*** RUN INTO HOUSE ***"
 	{
-		"chi"		"** 进入那个小屋 **（小屋3楼需要防守）"
+		"chi"		"** 进入那个小屋 **（小屋三楼需要防守---5"
 	}
 	"*** RESIST FOR 30 SECONDS ***"
 	{
-		"chi"		"** 防守 30 秒 **（逃生路线在1楼）"
-		"DoorCountDown"		"30"
+		"chi"		"** 防守 30 秒 **（逃生路线在一楼）"
 	}
 	"*** FALL BACK 5 SECONDS REMAINING ***"
 	{
 		"chi"		"** 还有 5 秒！**"
+		"DoorCountDown"		"-1"
 	}
 	"*** GO INTO UNDERGROUND ***"
 	{
@@ -372,7 +364,6 @@
 	"*** RESIST 30 SECONDS ***"
 	{
 		"chi"		"** 抵抗 30 秒 **"
-		"DoorCountDown"		"30"
 	}
 	"*** KILL ZOMBIES ON TOP!  ***"
 	{
@@ -381,7 +372,6 @@
 	"*** WELL DONE! NEXT DOOR OPENS IN 5 SEC ***"
 	{
 		"chi"		"** 干得漂亮！下一道门将在 5 秒后打开 **"
-		"DoorCountDown"		"5"
 	}
 	"Hes watching you..."
 	{
