@@ -1,0 +1,123 @@
+"Console_T"
+{
+	"***Stage 1***"
+	{
+		"chi"		"**第一关**"
+	}
+	"***Stage 2***"
+	{
+		"chi"		"**第二关**"
+	}
+	"***Stage 3***"
+	{
+		"chi"		"**第三关**"
+	}
+	"***STAGE 1 Complete***"
+	{
+		"chi"		"**第一关完成**"
+	}
+	"***STAGE 2 Complete***"
+	{
+		"chi"		"**第二关完成**"
+	}
+	"***STAGE 3 Complete***"
+	{
+		"chi"		"**第三关完成**"
+	}
+	"***Thank you for playing***"
+	{
+		"chi"		"**感谢游玩**"
+	}
+	"***5 seconds***"
+	{
+		"chi"		"**剩余5秒**"
+		"DoorCountDown"		"-1"
+	}
+	"***10 seconds***"
+	{
+		"chi"		"**剩余10秒**"
+		"DoorCountDown"		"-1"
+	}
+	"***15 seconds***"
+	{
+		"chi"		"**剩余15秒**"
+		"DoorCountDown"		"-1"
+	}
+	"***10 seconds left***"
+	{
+		"chi"		"**还剩余10秒**"
+	}
+	"***15 seconds left***"
+	{
+		"chi"		"**还剩余15秒**"
+	}
+	"***20 seconds***"
+	{
+		"chi"		"**剩余20秒**"
+	}
+	"***25 seconds***"
+	{
+		"chi"		"**剩余25秒**"
+	}
+	"***30 seconds***"
+	{
+		"chi"		"**剩余30秒**"
+	}
+	"***40 seconds***"
+	{
+		"chi"		"**剩余40秒**"
+	}
+	"***50 seconds***"
+	{
+		"chi"		"**剩余50秒**"
+	}
+	"***FAIL***"
+	{
+		"chi"		"**最后平台没有人类，关卡失败----5**"
+	}
+	"***LOOK DOWN***"
+	{
+		"chi"		"**注意脚下地坠！！！！----5**"
+	}
+	"***ZOMBIE***"
+	{
+		"chi"		"**尸笼开放！！！！----7**"
+	}
+	"***Kill the Boss in 120 seconds***"
+	{
+		"chi"		"**在120秒内击败BOSS**"
+	}
+	"***avoid the red area***"
+	{
+		"chi"		"**远离红色区域地板！！----5**"
+	}
+	"***Run away***"
+	{
+		"chi"		"**快跑！**"
+	}
+	"***The platform on the right will break soon***"
+	{
+		"chi"		"**右侧的平台即将消失，小心！----6**"
+	}
+	"***The platform on the left will break soon***"
+	{
+		"chi"		"**左侧的平台即将消失，小心！----6**"
+	}
+	"***The admin pressed the STAGE 1 button***"
+	{
+		"chi"		"**管理员按下了第一关按钮**"
+	}
+	"***The admin pressed the STAGE 2 button***"
+	{
+		"chi"		"**管理员按下了第二关按钮**"
+	}
+	"***The admin pressed the STAGE 3 button***"
+	{
+		"chi"		"**管理员按下了第三关按钮**"
+	}
+	"***BOSS has been defeated!***"
+	{
+		"chi"		"**BOSS已被击败**"
+		"clear_door_timer"	"1"
+	}
+}
