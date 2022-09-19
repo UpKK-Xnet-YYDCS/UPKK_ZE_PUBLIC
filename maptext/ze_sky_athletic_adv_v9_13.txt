@@ -35,6 +35,7 @@
 	"*** FIRST PORTAL ACTIVATED in 5 SECONDS ***"
 	{
 		"chi"		"**第一个传送点5秒后激活**"
+		"DoorCountDown" "-1"
 	}
 	"*** PORTAL ACTIVATED ***"
 	{
@@ -55,14 +56,17 @@
 	"*** LEVEL2 PORTAL ACTIVATED in 20 SECONDS***"
 	{
 		"chi"		"**第二个传送点20秒后激活**"
+		"DoorCountDown" "-1"
 	}
 	"*** LEVEL2 PORTAL ACTIVATED in 10 SECONDS***"
 	{
 		"chi"		"**第二个传送点10秒后激活**"
+		"DoorCountDown" "-1"
 	}
 	"*** LEVEL2 PORTAL ACTIVATED in 5 SECONDS***"
 	{
 		"chi"		"**第二个传送点5秒后激活**"
+		"DoorCountDown" "-1"
 	}
 	"*** LEVEL 2:  LADDERS ***"
 	{
@@ -75,14 +79,17 @@
 	"*** LEVEL3 PORTAL ACTIVATED in 20 SECONDS***"
 	{
 		"chi"		"**第三个传送点20秒后激活**"
+		"DoorCountDown" "-1"
 	}
 	"*** LEVEL3 PORTAL ACTIVATED in 10 SECONDS***"
 	{
 		"chi"		"**第三个传送点10秒后激活**"
+		"DoorCountDown" "-1"
 	}
 	"*** LEVEL3 PORTAL ACTIVATED in 5 SECONDS***"
 	{
 		"chi"		"**第三个传送点5秒后激活**"
+		"DoorCountDown" "-1"
 	}
 	"***LEVEL 3: MOVING SCAFFOLDS 1 ***"
 	{
@@ -95,14 +102,17 @@
 	"*** LEVEL4 PORTAL ACTIVATED in 20 SECONDS***"
 	{
 		"chi"		"**第四个传送点20秒后激活**"
+		"DoorCountDown" "-1"
 	}
 	"*** LEVEL4 PORTAL ACTIVATED in 10 SECONDS***"
 	{
 		"chi"		"**第四个传送点10秒后激活**"
+		"DoorCountDown" "-1"
 	}
 	"*** LEVEL4 PORTAL ACTIVATED in 5 SECONDS***"
 	{
 		"chi"		"**第四个传送点5秒后激活**"
+		"DoorCountDown" "-1"
 	}
 	"*** LEVEL4 LOW GRAVITY ***"
 	{
@@ -115,14 +125,17 @@
 	"*** LEVEL5 PORTAL ACTIVATED in 20 SECONDS***"
 	{
 		"chi"		"**第五个传送点20秒后激活**"
+		"DoorCountDown" "-1"
 	}
 	"*** LEVEL5 PORTAL ACTIVATED in 10 SECONDS***"
 	{
 		"chi"		"**第五个传送点10秒后激活**"
+		"DoorCountDown" "-1"
 	}
 	"*** LEVEL5 PORTAL ACTIVATED in 5 SECONDS***"
 	{
 		"chi"		"**第五个传送点5秒后激活**"
+		"DoorCountDown" "-1"
 	}
 	"*** LEVEL5 WINDY ***"
 	{
@@ -135,14 +148,17 @@
 	"*** LEVEL6 PORTAL ACTIVATED in 20 SECONDS***"
 	{
 		"chi"		"**第六个传送点20秒后激活**"
+		"DoorCountDown" "-1"
 	}
 	"*** LEVEL6 PORTAL ACTIVATED in 10 SECONDS***"
 	{
 		"chi"		"**第六个传送点10秒后激活**"
+		"DoorCountDown" "-1"
 	}
 	"*** LEVEL6 PORTAL ACTIVATED in 5 SECONDS***"
 	{
 		"chi"		"**第六个传送点5秒后激活**"
+		"DoorCountDown" "-1"
 	}
 	"*** LEVEL6 SLIDE 1 ***"
 	{
@@ -155,14 +171,17 @@
 	"*** LEVEL7 PORTAL ACTIVATED in 20 SECONDS***"
 	{
 		"chi"		"**第七个传送点20秒后激活**"
+		"DoorCountDown" "-1"
 	}
 	"*** LEVEL7 PORTAL ACTIVATED in 10 SECONDS***"
 	{
 		"chi"		"**第七个传送点10秒后激活**"
+		"DoorCountDown" "-1"
 	}
 	"*** LEVEL7 PORTAL ACTIVATED in 5 SECONDS***"
 	{
 		"chi"		"**第七个传送点5秒后激活**"
+		"DoorCountDown" "-1"
 	}
 	"*** LEVEL7 HOLD THIS POTISION ***"
 	{
@@ -175,6 +194,7 @@
 	"*** HOLD THIS POTISION for 20 SECONDS***"
 	{
 		"chi"		"**坚守20秒**"
+		"DoorCountDown" "-1"
 	}
 	"*** HOLD THIS POTISION for 10 SECONDS***"
 	{
@@ -183,6 +203,7 @@
 	"*** HOLD THIS POTISION for 5 SECONDS***"
 	{
 		"chi"		"**坚守5秒**"
+		"DoorCountDown" "-1"
 	}
 	"*** STAGE 1 COMPLETED ***"
 	{
@@ -207,10 +228,12 @@
 	"*** LEVEL9 PORTAL ACTIVATED in 10 SEDONDS ***"
 	{
 		"chi"		"**第九个传送点10秒后激活**"
+		"DoorCountDown" "-1"
 	}
 	"*** LEVEL9 PORTAL ACTIVATED in 5 SECONDS ***"
 	{
 		"chi"		"**第九个传送点5秒后激活**"
+		"DoorCountDown" "-1"
 	}
 	"*** LEVEL 9:  THE ROTATING SCAFFOLDS ***"
 	{
@@ -232,14 +255,17 @@
 	"*** LEVEL10 PORTAL ACTIVATED in 20 SECONDS ***"
 	{
 		"chi"		"**第十个传送点20秒后激活**"
+		"DoorCountDown" "-1"
 	}
 	"*** LEVEL10 PORTAL ACTIVATED in 10 SEDONDS ***"
 	{
 		"chi"		"**第十个传送点10秒后激活**"
+		"DoorCountDown" "-1"
 	}
 	"*** LEVEL10 PORTAL ACTIVATED in 5 SECONDS ***"
 	{
 		"chi"		"**第十个传送点5秒后激活**"
+		"DoorCountDown" "-1"
 	}
 	"*** LEVEL 10:  THE MOVING SCAFFOLDS 2 ***"
 	{
@@ -252,6 +278,7 @@
 	"*** LEVEL11 PORTAL ACTIVATED in 30 SECONDS ***"
 	{
 		"chi"		"**第十一个传送点30秒后激活**"
+		"DoorCountDown" "-1"
 	}
 	"*** A PLAYER HAS PICKED UP A BIG HEALTH LIGHT ***"
 	{
@@ -264,14 +291,17 @@
 	"*** LEVEL11 PORTAL ACTIVATED in 20 SECONDS ***"
 	{
 		"chi"		"**第十一个传送点20秒后激活**"
+		"DoorCountDown" "-1"
 	}
 	"*** LEVEL11 PORTAL ACTIVATED in 10 SEDONDS ***"
 	{
 		"chi"		"**第十一个传送点10秒后激活**"
+		"DoorCountDown" "-1"
 	}
 	"*** LEVEL11 PORTAL ACTIVATED in 5 SECONDS ***"
 	{
 		"chi"		"**第十一个传送点5秒后激活**"
+		"DoorCountDown" "-1"
 	}
 	"*** LEVEL 11:  SURF ***"
 	{
@@ -293,14 +323,17 @@
 	"*** LEVEL12 PORTAL ACTIVATED in 20 SECONDS ***"
 	{
 		"chi"		"**第十二个传送点20秒后激活**"
+		"DoorCountDown" "-1"
 	}
 	"*** LEVEL12 PORTAL ACTIVATED in 10 SEDONDS ***"
 	{
 		"chi"		"**第十二个传送点10秒后激活**"
+		"DoorCountDown" "-1"
 	}
 	"*** LEVEL12 PORTAL ACTIVATED in 5 SECONDS ***"
 	{
 		"chi"		"**第十二个传送点5秒后激活**"
+		"DoorCountDown" "-1"
 	}
 	"*** LEVEL 12:  LASERS ***"
 	{
@@ -313,6 +346,7 @@
 	"*** LEVEL13 PORTAL ACTIVATED in 20 SECONDS ***"
 	{
 		"chi"		"**第十三个传送点20秒后激活**"
+		"DoorCountDown" "-1"
 	}
 	"*** THE LASER MACHINE IS BROKEN ***"
 	{
@@ -325,10 +359,12 @@
 	"*** LEVEL13 PORTAL ACTIVATED in 10 SEDONDS ***"
 	{
 		"chi"		"**第十三个传送点10秒后激活**"
+		"DoorCountDown" "-1"
 	}
 	"*** LEVEL13 PORTAL ACTIVATED in 5 SECONDS ***"
 	{
 		"chi"		"**第十三个传送点5秒后激活**"
+		"DoorCountDown" "-1"
 	}
 	"*** LEVEL 13: FLYING ***"
 	{
@@ -341,14 +377,17 @@
 	"*** LEVEL14 PORTAL ACTIVATED in 20 SECONDS ***"
 	{
 		"chi"		"**第十四个传送点20秒后激活**"
+		"DoorCountDown" "-1"
 	}
 	"*** LEVEL14 PORTAL ACTIVATED in 10 SEDONDS ***"
 	{
 		"chi"		"**第十四个传送点10秒后激活**"
+		"DoorCountDown" "-1"
 	}
 	"*** LEVEL14 PORTAL ACTIVATED in 5 SECONDS ***"
 	{
 		"chi"		"**第十四个传送点5秒后激活**"
+		"DoorCountDown" "-1"
 	}
 	"*** LEVEL 14:  THE CLOUD BOSS ***"
 	{
@@ -361,6 +400,7 @@
 	"*** THE SCAFFOLD WILL RISE IN 10 SECONDS ***"
 	{
 		"chi"		"**电梯将在10秒后上升**"
+		"DoorCountDown" "-1"
 	}
 	"*** PUSHING ZOMBIE IS COMING ***"
 	{
@@ -373,6 +413,7 @@
 	"*** THE SCAFFOLD WILL RISE IN 5 SECONDS ***"
 	{
 		"chi"		"**电梯将在5秒后上升**"
+		"DoorCountDown" "-1"
 	}
 	"*** THE CUTE CLOUD and HIS CHILDREN are APPEARED!! SHOOT THEM!! ***"
 	{
@@ -413,14 +454,17 @@
 	"*** STAGE COMPLETE IN 20 SECONDS ***"
 	{
 		"chi"		"**坚守20秒**"
+		"DoorCountDown" "-1"
 	}
 	"*** STAGE COMPLETE IN 10 SECONDS ***"
 	{
 		"chi"		"**坚守10秒**"
+		"DoorCountDown" "-1"
 	}
 	"*** STAGE COMPLETE IN 5 SECONDS ***"
 	{
 		"chi"		"**坚守5秒**"
+		"DoorCountDown" "-1"
 	}
 	"*** STAGE 2 COMPLETED ***"
 	{
@@ -449,14 +493,17 @@
 	"*** LEVEL16 PORTAL ACTIVATED in 20 SECONDS ***"
 	{
 		"chi"		"**第十六个传送点20秒后激活**"
+		"DoorCountDown" "-1"
 	}
 	"*** LEVEL16 PORTAL ACTIVATED in 10 SEDONDS ***"
 	{
 		"chi"		"**第十六个传送点10秒后激活**"
+		"DoorCountDown" "-1"
 	}
 	"*** LEVEL16 PORTAL ACTIVATED in 5 SECONDS ***"
 	{
 		"chi"		"**第十六个传送点5秒后激活**"
+		"DoorCountDown" "-1"
 	}
 	"*** LEVEL 16: VARIOUS TYPE ROAD 1 ***"
 	{
@@ -469,14 +516,17 @@
 	"*** LEVEL17 PORTAL ACTIVATED in 20 SECONDS ***"
 	{
 		"chi"		"**第十七个传送点20秒后激活**"
+		"DoorCountDown" "-1"
 	}
 	"*** LEVEL17 PORTAL ACTIVATED in 10 SEDONDS ***"
 	{
 		"chi"		"**第十七个传送点10秒后激活**"
+		"DoorCountDown" "-1"
 	}
 	"*** LEVEL17 PORTAL ACTIVATED in 5 SECONDS ***"
 	{
 		"chi"		"**第十七个传送点5秒后激活**"
+		"DoorCountDown" "-1"
 	}
 	"*** LEVEL 17: VARIOUS TYPE ROAD 2 ***"
 	{
@@ -489,14 +539,17 @@
 	"*** LEVEL18 PORTAL ACTIVATED in 20 SECONDS ***"
 	{
 		"chi"		"**第十八个传送点20秒后激活**"
+		"DoorCountDown" "-1"
 	}
 	"*** LEVEL18 PORTAL ACTIVATED in 10 SEDONDS ***"
 	{
 		"chi"		"**第十八个传送点10秒后激活**"
+		"DoorCountDown" "-1"
 	}
 	"*** LEVEL18 PORTAL ACTIVATED in 5 SECONDS ***"
 	{
 		"chi"		"**第十八个传送点5秒后激活**"
+		"DoorCountDown" "-1"
 	}
 	"*** LEVEL18 SLIDE 2 ***"
 	{
@@ -509,14 +562,17 @@
 	"*** LEVEL19 PORTAL ACTIVATED in 20 SECONDS ***"
 	{
 		"chi"		"**第十九个传送点20秒后激活**"
+		"DoorCountDown" "-1"
 	}
 	"*** LEVEL19 PORTAL ACTIVATED in 10 SEDONDS ***"
 	{
 		"chi"		"**第十九个传送点10秒后激活**"
+		"DoorCountDown" "-1"
 	}
 	"*** LEVEL19 PORTAL ACTIVATED in 5 SECONDS ***"
 	{
 		"chi"		"**第十九个传送点5秒后激活**"
+		"DoorCountDown" "-1"
 	}
 	"*** LEVEL 19: VARIOUS TYPE ROAD 3 ***"
 	{
@@ -533,14 +589,17 @@
 	"*** LEVEL20 PORTAL ACTIVATED in 20 SECONDS ***"
 	{
 		"chi"		"**第二十个传送点20秒后激活**"
+		"DoorCountDown" "-1"
 	}
 	"*** LEVEL20 PORTAL ACTIVATED in 10 SEDONDS ***"
 	{
 		"chi"		"**第二十个传送点10秒后激活**"
+		"DoorCountDown" "-1"
 	}
 	"*** LEVEL20 PORTAL ACTIVATED in 5 SECONDS ***"
 	{
 		"chi"		"**第二十个传送点5秒后激活**"
+		"DoorCountDown" "-1"
 	}
 	"*** LEVEL 20: VARIOUS TYPE ROAD 4 ***"
 	{
@@ -553,14 +612,17 @@
 	"*** FINAL PORTAL ACTIVATED in 20 SECONDS ***"
 	{
 		"chi"		"**最后的传送点20秒后激活**"
+		"DoorCountDown" "-1"
 	}
 	"*** FINAL PORTAL ACTIVATED in 10 SEDONDS ***"
 	{
 		"chi"		"**最后的传送点10秒后激活**"
+		"DoorCountDown" "-1"
 	}
 	"*** FINAL PORTAL ACTIVATED in 5 SECONDS ***"
 	{
 		"chi"		"**最后的传送点5秒后激活**"
+		"DoorCountDown" "-1"
 	}
 	"*** FINAL LEVEL:  ???? ***"
 	{
