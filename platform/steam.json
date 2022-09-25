@@ -1,5 +1,5 @@
 {
-	"version": 138,
+	"version": 139,
 	"data": {
 		"ne_credits": 400,
 		"mce_exclude": 10,
@@ -68,7 +68,6 @@
 				"mp_radar_showall 0;sv_deadtalk 1",
 				"sm_chatprocessor_deadchat 1",
 				"entwatch_hl_ptype 1",
-				"sv_highlight_duration 3600",
 				"sm_xsys_config change xsys.nade.autobuy.enable 1",
 				"sm_xsys_config change xsys.dmg.multiplier 1.0",
 				"sm_xsys_config change xsys.knockback.head.mod 1.3",
