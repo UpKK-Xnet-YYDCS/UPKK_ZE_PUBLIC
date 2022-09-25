@@ -46,7 +46,7 @@
 			"DisableMaps": [],
 			"Command_OnConfigsExecuted": [
 				"mce_votemap_disablemicrophone 1",
-				"mp_radar_showall 0;sv_deadtalk 1;sv_auto_full_alltalk_during_warmup_half_end 0;sv_full_alltalk 1",
+				"mp_radar_showall 0;sv_deadtalk 1;sv_full_alltalk 1",
 				"sm_chatprocessor_deadchat 1",
 				"sm_xsys_config change xsys.dmg.multiplier 1.0",
 				"sm_xsys_config change xsys.knockback.head.mod 1.3",
@@ -62,7 +62,7 @@
 			"DisableMaps": [],
 			"ne_credits": -10000,
 			"Command_OnConfigsExecuted": [
-				"mp_radar_showall 0;sv_deadtalk 1;sv_auto_full_alltalk_during_warmup_half_end 0;sv_full_alltalk 1",
+				"mp_radar_showall 0;sv_deadtalk 1;sv_full_alltalk 1",
 				"sm_chatprocessor_deadchat 1",
 				"sm_xsys_config change xsys.nade.autobuy.enable 1",
 				"sm_xsys_config change xsys.dmg.multiplier 1.0",
@@ -120,7 +120,7 @@
 		"SERVER_TYPE_MGCOURSE": {
 			"mce_exclude": 15,
 			"Command_OnConfigsExecuted": [
-				"sv_auto_full_alltalk_during_warmup_half_end 0;sv_full_alltalk 1",
+				"sv_full_alltalk 1",
 				"sm_chatprocessor_deadchat 1"
 			],
 			"DisableMaps": []
