@@ -115,6 +115,13 @@
 			],
 			"DisableMaps": []
 		},
+		"SERVER_TYPE_MGCOURSE": {
+			"mce_exclude": 15,
+			"Command_OnConfigsExecuted": [
+				"sv_full_alltalk 1"
+			],
+			"DisableMaps": []
+		},
 		"SERVER_TYPE_SURF": {
 			"mce_exclude": 50,
 			"DisableMaps": []
