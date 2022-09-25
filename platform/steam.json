@@ -1,5 +1,5 @@
 {
-	"version": 135,
+	"version": 136,
 	"data": {
 		"ne_credits": 400,
 		"mce_exclude": 10,
@@ -117,7 +117,7 @@
 		},
 		"SERVER_TYPE_MGCOURSE": {
 			"mce_exclude": 15,
-			"Command_OnConfigsExecuted": [
+			"Command_Every_Round": [
 				"sv_full_alltalk 1"
 			],
 			"DisableMaps": []
