@@ -190,15 +190,15 @@
     }
     "[ Chaos ] -> I thirst for carnage."
     {
-        "chi" " [ 卡奥斯 ] -> 我渴望屠杀. "
+        "chi" " [ 混沌体现 ] -> 我渴望屠杀. "
     }
     "[ Chaos ] -> Like lambs to the slaughter!"
     {
-        "chi" " [ 卡奥斯 ] -> 你们应当像羔羊一样被宰杀! "
+        "chi" " [ 混沌体现 ] -> 你们应当像羔羊一样被宰杀! "
     }
     "[ Chaos ] -> Show me power befitting your station."
     {
-        "chi" " [ 卡奥斯 ] -> 在适合你的位置感受我的力量吧! "
+        "chi" " [ 混沌体现 ] -> 在适合你的位置感受我的力量吧! "
     }
     "[ Lishang ] -> All good things must come to an end."
     {
@@ -412,7 +412,7 @@
     "<pos> 999999999"
     {
         "chi" " "
-		"DoorCountDown"		"-1"
+	"DoorCountDown"		"-1"
     }
     "> ..."
     {
@@ -438,7 +438,7 @@
     {
         "chi" " 我将带着遗憾生活直到世界终结. "
     }
-    "> It's time to leave here now."
+    "> Its time to leave here now."
     {
         "chi" " 是时候离开这里了. "
     }
