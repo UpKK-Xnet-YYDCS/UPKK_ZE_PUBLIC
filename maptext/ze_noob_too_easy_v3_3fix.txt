@@ -1,0 +1,391 @@
+"Console_T"
+{
+	"***Vholran is dead***"
+	{
+		"chi"		"**沃路朗-安格萨里已倒下**"
+	}
+	"***A player has picked up Vholran***"
+	{
+		"chi"		"**一位玩家变成了沃路朗-安格萨里**"
+	}
+	"***A player has picked up Wind-2***"
+	{
+		"chi"		"**一位玩家拾取了风2**"
+		"DoorCountDown"		"-1"
+	}
+	"***A player has picked up Heal-2***"
+	{
+		"chi"		"**一位玩家拾取了奶2**"
+		"DoorCountDown"		"-1"
+	}
+	"***A player has picked up Electric-2***"
+	{
+		"chi"		"**一位玩家拾取了电2**"
+		"DoorCountDown"		"-1"
+	}
+	"***A player has picked up FreezeIce-2***"
+	{
+		"chi"		"**一位玩家拾取了冰2**"
+		"DoorCountDown"		"-1"
+	}
+	"***A player has picked up Ammo-2***"
+	{
+		"chi"		"**一位玩家拾取了弹药2**"
+		"DoorCountDown"		"-1"
+	}
+	"***A player has picked up GodThunder-2***"
+	{
+		"chi"		"**一位玩家拾取了天雷2**"
+		"DoorCountDown"		"-1"
+	}
+	"***A player has picked up Slowfire-2***"
+	{
+		"chi"		"**一位玩家拾取了减速火2**"
+		"DoorCountDown"		"-1"
+	}
+	"***A player has picked up Gravity-2***"
+	{
+		"chi"		"**一位玩家拾取了黑洞2**"
+		"DoorCountDown"		"-1"
+	}
+	"***A player has picked up Earth-2***"
+	{
+		"chi"		"**一位玩家拾取了土2**"
+		"DoorCountDown"		"-1"
+	}
+	"***Admin pressed button***"
+	{
+		"chi"		"**管理员按下了调关按钮**"
+	}
+	"<Magic Book button 1 triggered>"
+	{
+		"chi"		"**魔法书触发按钮1已激活**"
+		"DoorCountDown"		"-1"
+	}
+	"<Magic Book button 2 triggered>"
+	{
+		"chi"		"**魔法书触发按钮2已激活**"
+		"DoorCountDown"		"-1"
+	}
+	"<Magic Book button 3 triggered>"
+	{
+		"chi"		"**魔法书触发按钮3已激活**"
+		"DoorCountDown"		"-1"
+	}
+	"***A player has picked up Magic Book1***"
+	{
+		"chi"		"**一位玩家拾取了魔法书1**"
+		"DoorCountDown"		"-1"	
+	}
+	"**You can use it to exchange a lost item(Picked up but lost and its cd is ready)**"
+	{
+		"chi"		"**你可以用魔法书变成一个已捡起但丢失了，并且CD转好的神器**"
+	}
+	"**If there are no eligible items, it have no effect**"
+	{
+		"chi"		"**如果没有可变化的神器，则魔法书没有效果**"
+	}
+	"***A player has picked up Magic Book2***"
+	{
+		"chi"		"**一位玩家拾取了魔法书2**"
+		"DoorCountDown"		"-1"
+	}
+	"***God of Death was repel***"
+	{
+		"chi"		"**死神已被击败！**"
+	}
+	"**Youre too fast. Please wait**"
+	{
+		"chi"		"**你们太快了，请等等队友！**"
+	}
+	"***SaberExtra is dead***"
+	{
+		"chi"		"**阿尔托莉雅已倒下**"
+	}
+	"***A player has picked up SaberExtra***"
+	{
+		"chi"		"**一位玩家变成了阿尔托莉雅**"
+	}
+	"***<< A zombie became the God of death >>***"
+	{
+		"chi"		"**一个僵尸变成了死神**"
+	}
+	"***Death has been defeated***"
+	{
+		"chi"		"**死神已被击败！**"
+	}
+	"***Jump to the platform ?? hurry up!***"
+	{
+		"chi"		"**跳上平台？？快点！！**"
+	}
+	"**Last door will open in 15 seconds**"
+	{
+		"chi"		"**最终大门将在15秒后打开**"
+	}
+	"**Will disable zombie items **"
+	{
+		"chi"		"**到时僵尸神器将被禁用**"
+	}
+	"***Lever pulled,door will open in 15 seconds***"
+	{
+		"chi"		"**拉杆已拉下，门将会在15秒后打开**"
+	}
+	"**<<Zombie road in 30 seconds>>**"
+	{
+		"chi"		"**僵尸路将在30秒后出现**"
+	}
+	"***Lever pulled,door will open ***"
+	{
+		"chi"		"**拉杆已拉下，门即将打开**"
+	}
+	"**Boss fight in 10 seconds**"
+	{
+		"chi"		"**10秒后开启BOSS战**"
+	}
+	"**<< Boss summon zombies >>**"
+	{
+		"chi"		"**尸笼暂时开放---8**"
+	}
+	"**<< Boss speed increased >>**"
+	{
+		"chi"		"**BOSS速度加快**"
+	}
+	"**Boss uesd forward jump attack**"
+	{
+		"chi"		"**向前跳跃攻击---5**"
+	}
+	"**Boss uesd jump attack**"
+	{
+		"chi"		"**跳跃攻击---5**"
+	}
+	"**Boss used back jump attack**"
+	{
+		"chi"		"**向后跳跃攻击---5**"
+	}
+	"**The elevator will activate in 25 seconds**"
+	{
+		"chi"		"**电梯将会在25秒后激活**"
+	}
+	"*** The platform will leave in 15 seconds ***"
+	{
+		"chi"		"**平台将会在15秒后离开**"
+	}
+	"***Door will open in 20 seconds***"
+	{
+		"chi"		"**门将会在20秒后打开**"
+	}
+	"***Defend 10 seconds ***"
+	{
+		"chi"		"**防守10秒**"
+	}
+	"**The elevator door will open in 15 seconds**"
+	{
+		"chi"		"**电梯门将会在15秒后打开**"
+	}
+	"**Get off the platform, hurry up**"
+	{
+		"chi"		"**赶快离开平台，快点！**"
+	}
+	"*** The ventilation ducts will open in 25 seconds ***"
+	{
+		"chi"		"**管道口将在25秒后打开**"
+	}
+	"*** go go go ! hurry up !***"
+	{
+		"chi"		"**跑跑跑！快点！**"
+	}
+	"**Open the door in 20 seconds**"
+	{
+		"chi"		"**门将在20秒后打开**"
+	}
+	"***Button has been pressed,door will open ***"
+	{
+		"chi"		"**按钮已按下，门即将打开**"
+	}
+	"***A player has picked up Death Knight***"
+	{
+		"chi"		"**一位玩家变成了死亡骑士**"
+	}
+	"***Death knight is gone***"
+	{
+		"chi"		"**死亡骑士已倒下**"
+	}
+	"**Keep defending until the teleport enable**"
+	{
+		"chi"		"**坚守住直至传送激活**"
+	}
+	"**We need 15 seconds to clear the stone**"
+	{
+		"chi"		"**我们需要15秒来清除石头**"
+	}
+	"**Open the side road in 12 seconds**"
+	{
+		"chi"		"**侧路12秒后打开**"
+	}
+	"***Last door will open in 20 seconds***"
+	{
+		"chi"		"**最终大门将在20秒后打开**"
+	}
+	"***Nuke at 3 seconds***"
+	{
+		"chi"		"**核弹3秒后来袭**"
+	}
+	"***Nuke at 2 seconds***"
+	{
+		"chi"		"**核弹2秒后来袭**"
+		"DoorCountDown"		"-1"
+	}
+	"***Nuke at 1 seconds***"
+	{
+		"chi"		"**核弹1秒后来袭**"
+		"DoorCountDown"		"-1"
+	}
+	"***The door will open in 25 seconds.***"
+	{
+		"chi"		"**门将会在25秒后打开**"
+	}
+	"***The road will open in 20 seconds***"
+	{
+		"chi"		"**道路将会在20秒后开放**"
+	}
+	"**Wait 10 seconds. The door will open soon**"
+	{
+		"chi"		"**请等待10秒，门即将打开**"
+	}
+	"**The exit is blocked by stone, wait 20 seconds**"
+	{
+		"chi"		"**出口被石头挡住了，等待20秒**"
+	}
+	"**We need 20 seconds to clear the stone**"
+	{
+		"chi"		"**我们需要20秒来清除石头**"
+	}
+	"**Crystal appears, break it!!!**"
+	{
+		"chi"		"**水晶出现了，快点打碎这个水晶---7**"
+	}
+	"**The door will open in 35 seconds**"
+	{
+		"chi"		"**门将会在35秒后打开**"
+	}
+	"**The elevator door will open in 20 seconds**"
+	{
+		"chi"		"**电梯门将会在20秒后打开**"
+	}
+	"***The road will open in 15 seconds***"
+	{
+		"chi"		"**道路将会在15秒后开放**"
+	}
+	"***Denfend 10 seconds***"
+	{
+		"chi"		"**防守10秒**"
+	}
+	"**The platform will leave in 3 seconds**"
+	{
+		"chi"		"**平台将会在3秒后离开**"
+	}
+	"***Zombies touch the tree of life, you fail***"
+	{
+		"chi"		"**僵尸触碰到了最后的生命之树，人类失败了！！**"
+	}
+	"***Updraft will appear in 15 seconds***"
+	{
+		"chi"		"**上升气流将会在15秒后出现**"
+	}
+	"***Defend 20 seconds***"
+	{
+		"chi"		"**防守20秒**"
+	}
+	"***Defend 15 seconds***"
+	{
+		"chi"		"**防守15秒**"
+	}
+	"***Fast kill the God of wrath. Roll call will start in 120 seconds.***"
+	{
+		"chi"		"**在120秒内击败死神，否则迎接点名**"
+	}
+	"***BOSS is died***"
+	{
+		"chi"		"**BOSS已被击败**"
+	}
+	"***Ruin in 240 seconds, Please go to the tree of life***"
+	{
+		"chi"		"**240秒后毁灭一切，赶快前往生命之树躲避！**"
+	}
+	"***From now , disable zombie items***"
+	{
+		"chi"		"**现在开始，僵尸神器被禁用**"
+	}
+	"***The platform will moving in 15 seconds***"
+	{
+		"chi"		"**平台将会在15秒后移动**"
+	}
+	"***The dorr will open in 30 seconds***"
+	{
+		"chi"		"**门将会在30秒后打开**"
+	}
+	"***Button has pressed,road will open in 15 seconds.***"
+	{
+		"chi"		"**按钮已按下，门将会在15秒后打开**"
+	}
+	"***Button has pressed,door will open***"
+	{
+		"chi"		"**按钮已按下，门即将打开**"
+	}
+	"**Zombie ice PressedAttack2 to detonate ice sphere**"
+	{
+		"chi"		"**僵尸冰可以右键释放出冰球**"
+	}
+	"**Zombie used heal to speed up, be careful !**"
+	{
+		"chi"		"**僵尸使用了僵尸奶来加速，当心！**"
+	}
+	"***A player has picked up FreezeIce***"
+	{
+		"chi"		"**一位玩家拾取了冰**"
+	}
+	"***A player has picked up Gravity***"
+	{
+		"chi"		"**一位玩家拾取了黑洞**"
+	}
+	"***A player has picked up Ammo***"
+	{
+		"chi"		"**一位玩家拾取了弹药**"
+	}
+	"***A player has picked up Electric***"
+	{
+		"chi"		"**一位玩家拾取了电**"
+	}
+	"***A player has picked up GodThunder***"
+	{
+		"chi"		"**一位玩家拾取了天雷**"
+	}
+	"***A player has picked up HurtFire***"
+	{
+		"chi"		"**一位玩家拾取了伤害火**"
+	}
+	"***A player has picked up Slowfire***"
+	{
+		"chi"		"**一位玩家拾取了减速火**"
+	}
+	"***A player has picked up Earth***"
+	{
+		"chi"		"**一位玩家拾取了土**"
+	}
+	"***A player has picked up Heal***"
+	{
+		"chi"		"**一位玩家拾取了奶**"
+	}
+	"***Holy shit! Whats this?***"
+	{
+		"chi"		"**卧槽！这是什么？？**"
+	}
+	"***Shoot it??hurry up !***"
+	{
+		"chi"		"**快点射击它！！！**"
+	}
+	"***A player has picked up Wind***"
+	{
+		"chi"		"**一位玩家拾取了风**"
+	}
+}
