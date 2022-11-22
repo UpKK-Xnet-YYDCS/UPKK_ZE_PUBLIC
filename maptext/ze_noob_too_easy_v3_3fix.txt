@@ -302,15 +302,17 @@
 	}
 	"***Fast kill the God of wrath. Roll call will start in 120 seconds.***"
 	{
-		"chi"		"**在120秒内击败死神，否则迎接点名**"
+		"chi"		"**在120秒内击败BOSS，否则迎接点名**"
 	}
 	"***BOSS is died***"
 	{
 		"chi"		"**BOSS已被击败**"
+		"clear_door_timer"	"1"
 	}
 	"***Ruin in 240 seconds, Please go to the tree of life***"
 	{
 		"chi"		"**240秒后毁灭一切，赶快前往生命之树躲避！**"
+		"DoorCountDown"		"-1"
 	}
 	"***From now , disable zombie items***"
 	{
