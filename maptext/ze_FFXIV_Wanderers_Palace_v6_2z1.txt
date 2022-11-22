@@ -411,12 +411,12 @@
     }
     "<pos> 999999999"
     {
-        "chi" " "
+        "chi" " <pos> 999999999 "
 	"DoorCountDown"		"-1"
     }
     "> ..."
     {
-        "chi" " "
+        "chi" " ... "
     }
     "> All good things must come to an end."
     {
@@ -426,7 +426,7 @@
     {
         "chi" " 巴哈姆特已永恒不灭. "
     }
-    "> blackeneth my beloved's memory."
+    "> blackeneth my beloveds memory."
     {
         "chi" " 抹黑我所喜爱的人的记忆. "
     }
@@ -503,7 +503,7 @@
     {
         "chi" " 我为我的谎言道歉 "
     }
-    "I don't want you here."
+    "I dont want you here."
     {
         "chi" " 我不希望你在这里. "
     }
@@ -544,7 +544,7 @@
         "chi" " 噢，v6_1在哪里？ "
 		"DoorCountDown"		"-1"
     }
-    "Rickroll'd :D"
+    "Rickrolld :D"
     {
         "chi" " 别被钓鱼了 :D "
     }
