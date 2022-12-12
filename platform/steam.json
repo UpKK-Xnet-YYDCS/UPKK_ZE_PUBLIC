@@ -129,8 +129,10 @@
 			"DisableMaps": []
 		},
 		"SERVER_TYPE_MGCOURSE": {
-			"mce_exclude": 15,
+			"mce_exclude": 20,
 			"Command_OnConfigsExecuted": [
+				"mce_votemap_disablemicrophone 0",
+				"sv_deadtalk 1",
 				"sm_chatprocessor_deadchat 1"
 			],
 			"Command_Every_Round": [
@@ -139,7 +141,6 @@
 			"DisableMaps": []
 		},
 		"SERVER_TYPE_SURF": {
-			
 			"mce_exclude": 50,
 			"Command_OnConfigsExecuted": [
 				"mce_votemap_disablemicrophone 0",
@@ -153,10 +154,26 @@
 		},
 		"SERVER_TYPE_KZ": {
 			"mce_exclude": 50,
+			"Command_OnConfigsExecuted": [
+				"mce_votemap_disablemicrophone 0",
+				"sv_deadtalk 1",
+				"sm_chatprocessor_deadchat 1"
+			],
+			"Command_Every_Round": [
+				"sv_full_alltalk 1"
+			],
 			"DisableMaps": []
 		},
 		"SERVER_TYPE_BHOP": {
 			"mce_exclude": 50,
+			"Command_OnConfigsExecuted": [
+				"mce_votemap_disablemicrophone 0",
+				"sv_deadtalk 1",
+				"sm_chatprocessor_deadchat 1"
+			],
+			"Command_Every_Round": [
+				"sv_full_alltalk 1"
+			],
 			"DisableMaps": []
 		},
 		"SERVER_TYPE_DE": {
