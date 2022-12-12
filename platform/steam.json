@@ -139,6 +139,7 @@
 			"DisableMaps": []
 		},
 		"SERVER_TYPE_SURF": {
+			
 			"mce_exclude": 50,
 			"Command_OnConfigsExecuted": [
 				"mce_votemap_disablemicrophone 1",
@@ -147,7 +148,7 @@
 			],
 			"Command_Every_Round": [
 				"sv_full_alltalk 1"
-			]
+			],
 			"DisableMaps": []
 		},
 		"SERVER_TYPE_KZ": {
