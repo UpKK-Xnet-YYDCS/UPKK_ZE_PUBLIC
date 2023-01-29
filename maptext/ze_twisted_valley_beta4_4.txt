@@ -1,0 +1,246 @@
+"Console_T"
+{
+  "20 SECONDS UNTIL THE WATER RISES"
+  {
+    "chi"		"**20秒后水面上升**"
+  }
+  "30 SECONDS UNTIL THE WATER RISES"
+  {
+    "chi"		"**30秒后水面上升**"
+  }
+  "ELECTRO IS BEING USED!"
+  {
+    "chi"		"**电神器已被使用！**"
+  }
+  "u fucked up"
+  {
+    "chi"		"**甘妮娘!**"
+  }
+  "FIRE IS BEING USED!"
+  {
+    "chi"		"**火神器已被使用！**"
+  }
+  "HEAL IS BEING USED!"
+  {
+    "chi"		"**奶神器已被使用！**"
+  }
+  "TOUCh"
+  {
+    "chi"		"**TOUCh**"
+  }
+  ">>>THE SERPENT IS UNLEASHING ITS FURY...<<<"
+  {
+    "chi"		"**蛇怪正在释放它的愤怒...<<<**"
+  }
+  ">>>THE ATMOSPHERE SHIFTS...<<<"
+  {
+    "chi"		"**>>>大气正在出现异变...<<<**"
+  }
+  "ENTRANCE WILL OPEN IN 30 SECONDS"
+  {
+    "chi"		"**入口将会在30秒后打开**"
+  }
+  "BHOP U R GAE"
+  {
+    "chi"		"**连跳是吧你个基佬**"
+  }
+  ">>>THE ZOMBIE CART WILL CHASE YOU NOW<<<"
+  {
+    "chi"		"**>>>僵尸矿车将会在后面追赶你们<<<**"
+  }
+  ">>>IT CAN BE SPED UP BY ZOMBIES SLASHING ITS FRONT, CAN BE SLOWED DOWN BY HUMANS SHOOTING AT IT<<<"
+  {
+    "chi"		"**>>>僵尸可以通过在车头摇晃来加速僵尸矿车。人类可以射击僵尸矿车来减速它<<<**"
+  }
+  ">>>HUMAN CART WILL BE DESTROYED IF TOUCHED BY THE ZOMBIE CART<<<"
+  {
+    "chi"		"**>>>一旦僵尸矿车追上人类矿车，人类矿车就会被摧毁<<<**"
+  }
+  "10 SECONDS UNTIL THE WATER RISES"
+  {
+    "chi"		"**10秒后水面上升**"
+  }
+  "CART WILL LEAVE IN 40 SECONDS"
+  {
+    "chi"		"**人类矿车将会在40秒后离开**"
+  }
+  ">>>CART HP: 5<<<"
+  {
+    "chi"		"**>>>人类矿车血量: 5**"
+    "DoorCountDown" "-1"
+  }
+  ">>>EACH TIME THE CART HITS A BLOCKADE/BARRIER, IT LOSES 1HP<<<"
+  {
+    "chi"		"**>>>人类矿车每撞到一个障碍物，则会损失1点血量<<<**"
+    "DoorCountDown" "-1"
+  }
+  "ZM GRAVITY IS BEING USED!"
+  {
+    "chi"		"**僵尸黑洞已被使用！**"
+  }
+  "ZM SHIELD IS BEING USED!"
+  {
+    "chi"		"**僵尸护盾已被使用！**"
+  }
+  "ZM HEAL IS BEING USED!"
+  {
+    "chi"		"**僵尸治疗已被使用！**"
+  }
+  "SKILL OBTAINED: SEAL"
+  {
+    "chi"		"**获得能力: 信物**"
+  }
+  "[SEAL] Whose power gathered from nature itself"
+  {
+    "chi"		"**[信物]由大自然汇集而成的能力**"
+  }
+  "Casted at the last minute"
+  {
+    "chi"		"**将会在最后一分钟时候释放**"
+  }
+  "All the efforts"
+  {
+    "chi"		"**所有的能量**"
+  }
+  ">>>doan xem and nuclear silo for many of their fantastic ideas<<<"
+  {
+    "chi"		"**>>>感谢doan xem 和 nuclear silo 的很多奇特美妙的创意和想法<<<**"
+  }
+  ">>>Luffaren and Pasas1345 for their helps with a special item (fireball)<<<"
+  {
+    "chi"		"**>>>感谢Luffaren 和 Pasas1345 的对于火球神器制作的帮助<<<**"
+  }
+  ">>>SPECIAL THANKS TO<<<"
+  {
+    "chi"		"**>>>特别感谢以下人员<<<**"
+  }
+  ">>>A MAP BY Lowmeng<<<"
+  {
+    "chi"		"**>>>地图作者:Lowmeng  翻译:冰雪葬泪<<<**"
+  }
+  ">>>ze_Twisted_Valley<<<"
+  {
+    "chi"		"**>>>地图名: 旋转山谷<<<**"
+  }
+  ">>>Riedoried (K31), naraka and Hichatu for their great help with map optimization :D<<<"
+  {
+    "chi"		"**>>>感谢Riedoried (K31), naraka 和 Hichatu的对于地图优化的帮助<<<**"
+  }
+  ">>>Arzed's Zombie Escape Community for allowing me to test the map on their server and helping me with bug spotting and fixing :D<<<"
+  {
+    "chi"		"**>>>感谢Arzed社区的ZE服务器对于我的地图测试的帮助，以及发现并修复BUG的帮助<<<**"
+  }
+  ">>>Moltard and Darnias for helping me with the trigger problem<<<"
+  {
+    "chi"		"**>>>感谢Moltard 和 Darnias的帮忙测试触发的问题<<<**"
+  }
+  ">>>tilgep and Detroid for helping me fix the crashing problem<<<"
+  {
+    "chi"		"**>>>tilgep 和 Detroid的帮忙修复炸服问题<<<**"
+  }
+  "20 SECONDS"
+  {
+    "chi"		"**20秒后小船继续前进**"
+  }
+  "BOAT WILL CONTINUE MOVING IN 12 SECONDS"
+  {
+    "chi"		"**小船将会在12秒后继续前进**"
+  }
+  "***WE NEED TO LIFT THE GATE SOMEHOW***"
+  {
+    "chi"		"**我们得想办法把大门升起来**"
+  }
+  "***DAMMIT! THE PATH IS BLOCKED!***"
+  {
+    "chi"		"**可恶！前面的路被封堵了！**"
+  }
+  "TOWER WILL GO UP IN 10 SECONDS"
+  {
+    "chi"		"**高塔将会在10秒后上升**"
+  }
+  "35 SECONDS UNTIL THE GATES OPEN"
+  {
+    "chi"		"**35秒后大门打开**"
+  }
+  "ELEVATOR WILL OPERATE IN 10 SECONDS"
+  {
+    "chi"		"**电梯将会在10秒后上升**"
+  }
+  "10 SECONDS"
+  {
+    "chi"		"**10秒后小船继续前进**"
+  }
+  "BOAT WILL CONTINUE MOVING IN 30 SECONDS"
+  {
+    "chi"		"**小船将会在30秒后继续前进**"
+  }
+  "BOAT WILL BE DROPPED IN 15 SECONDS"
+  {
+    "chi"		"**小船将会在15秒后落下水**"
+  }
+  "BOAT WILL MOVE IN 5 SECONDS"
+  {
+    "chi"		"**小船将会在5秒后离开**"
+  }
+  "GATE WILL OPEN IN 20 SECONDS"
+  {
+    "chi"		"**大门将会在20秒后打开**"
+  }
+  ">>>THE CART HAS BEEN DESTROYED<<<"
+  {
+    "chi"		"**>>>人类矿车已被摧毁<<<**"
+  }
+  ">>>YOU FAILED<<<"
+  {
+    "chi"		"**>>>人类失败<<<**"
+  }
+  "7 SECONDS LEFT!"
+  {
+    "chi"		"**还剩7秒!**"
+    "DoorCountDown" "-1"
+  }
+  "DEFEND THE PLATFORM UNTIL THE ELEVATOR GOES UP!"
+  {
+    "chi"		"**防守这个平台直至它上升---46**"
+  }
+  "THIRD PLATFORM IS OPEN!"
+  {
+    "chi"		"**第3层平台已开放！**"
+    "DoorCountDown" "-1"
+  }
+  "FOURTH PLATFORM IS OPEN!"
+  {
+    "chi"		"**第4层平台已开放**"
+    "DoorCountDown" "-1"
+  }
+  "***THE KINGDOM WELCOMES THOSE WITH DIVINE INTELLECT***"
+  {
+    "chi"		"**国王喜欢聪明智慧的人**"
+  }
+  ">>>THE RING PUZZLE<<<"
+  {
+    "chi"		"**>>>所以希望你们能解开这个 圆环谜题<<<**"
+  }
+  ">>>IN FRONT OF YOU ARE THREE RINGS WITH THREE JOINTS STICKING OUT OF EACH OF THEM<<<"
+  {
+    "chi"		"**在你们面前是3个带有节点的圆环**"
+    "DoorCountDown" "-1"
+  }
+  ">>>EACH OF THESE JOINTS POINTS TO EITHER 3 O'CLOCK, 9 O'CLOCK OR 12 O'CLOCK <<<"
+  {
+    "chi"		"**>>>3个圆环的节点分别指向3点钟，9点钟和12点钟方向<<<"**"
+    "DoorCountDown" "-1"
+  }
+  ">>>REMEMBER THIS ALIGNMENT AND ANGLE <<<"
+  {
+    "chi"		"**>>>记住它们现在的排列和角度<<<**"
+  }
+  ">>>THE RINGS WILL NOW START ROTATING AWAY FROM THEIR ORIGINAL ANGLE<<<"
+  {
+    "chi"		"**>>>圆环将会旋转偏移初始的角度<<<**"
+  }
+  ">>>YOUR GOAL IS TO ROTATE THEM THAT ANGLE<<<"
+  {
+    "chi"		"**>>>你们的目标是将它们转回初始的角度<<<**"
+  }
+}
