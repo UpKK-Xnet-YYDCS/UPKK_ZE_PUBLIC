@@ -136,7 +136,31 @@
   }
   ">>>tilgep and Detroid for helping me fix the crashing problem<<<"
   {
-    "chi"		"**>>>tilgep 和 Detroid的帮忙修复炸服问题<<<**"
+    "chi"		"**>>>感谢tilgep 和 Detroid的帮忙修复炸服问题<<<**"
+  }
+  "<STRIPPER LOADED>"
+  {
+    "chi"		"**<STRIPPER已加载>**"
+  }
+   ">>>Arzed's Zombie Escape Community for allowing me to test the map on their server and helping me with bug spotting and fixing and Ghostcap ZE Community for allowing me to test the map on their server<<<"
+  {
+    "chi"		"**>>>感谢Arzed社区的ZE服务器对于我的地图测试的帮助，以及发现并修复BUG的帮助 同时也感谢Ghostcap社区的地图测试帮助<<<**"
+  }
+   ">>>Mapeadores Community and ZeddY Community for allowing me to test the map on their server<<<"
+  {
+    "chi"		"**也感谢Mapeadores社区和ZeddY社区的地图测试帮助**"
+  }
+   ">>>Moltard, Darnias, Fara and ZpLit for helping me with the trigger problem<<<"
+  {
+    "chi"		"**>>>感谢Moltard, Darnias, Fara和ZpLit的帮忙测试触发的问题<<<**"
+  }
+   ">>>tilgep, Detroid and iszaar for helping me fix the crashing problem and Bhop and Schwiii for crash test<<<"
+  {
+    "chi"		"**>>>感谢tilgep, Detroid和iszaar的帮忙修复炸服问题, 感谢Bhop和Schwiii的炸服测试<<<**"
+  }
+   ">>>My Games Moment for providing me with infomation and helping me making me contact with servers and map testers<<<"
+  {
+    "chi"		"**>>>感谢My Games Moment反馈的信息和帮助我与服务器和地图测试员的沟通帮助>**"
   }
   "20 SECONDS"
   {
@@ -205,13 +229,11 @@
   }
   "THIRD PLATFORM IS OPEN!"
   {
-    "chi"		"**第3层平台已开放！**"
-    "DoorCountDown" "-1"
+    "chi"		"**高塔第三个平台已伸出！---5**"
   }
   "FOURTH PLATFORM IS OPEN!"
   {
-    "chi"		"**第4层平台已开放**"
-    "DoorCountDown" "-1"
+    "chi"		"**高塔第四个平台已伸出---5**"
   }
   "***THE KINGDOM WELCOMES THOSE WITH DIVINE INTELLECT***"
   {
@@ -223,12 +245,12 @@
   }
   ">>>IN FRONT OF YOU ARE THREE RINGS WITH THREE JOINTS STICKING OUT OF EACH OF THEM<<<"
   {
-    "chi"		"**在你们面前是3个带有节点的圆环**"
+    "chi"		"**在你们面前是3个带有节点的圆环(内 中 外)**"
     "DoorCountDown" "-1"
   }
-  ">>>EACH OF THESE JOINTS POINTS TO EITHER 3 O'CLOCK, 9 O'CLOCK OR 12 O'CLOCK <<<"
+  ">>>EACH OF THESE JOINTS POINTS TO EITHER 3 OCLOCK, 9 OCLOCK OR 12 OCLOCK <<<"
   {
-    "chi"		"**>>>3个圆环的节点分别指向3点钟，9点钟和12点钟方向<<<"**"
+    "chi"		"**>>>3个圆环的节点分别指向3点钟，9点钟和12点钟方向<<<**"
     "DoorCountDown" "-1"
   }
   ">>>REMEMBER THIS ALIGNMENT AND ANGLE <<<"
