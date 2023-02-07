@@ -1,8 +1,8 @@
 {
-	"version": 150,
+	"version": 151,
 	"data": {
 		"ne_credits": 400,
-		"mce_exclude": 10,
+		"mce_exclude": 5,
 		"Command_OnConfigsExecuted": [
 			"sv_region 4",
 			"mce_votemap_disablemicrophone 0",
@@ -43,7 +43,7 @@
 			"PlayerSkin_cat_akua":"水手服凑阿库娅 OP & Helper"
 		},
 		"SERVER_TYPE_ZE": {
-			"mce_exclude": 60,
+			"mce_exclude": 5,
 			"DisableMaps": [],
 			"Command_OnConfigsExecuted": [
 				"mce_votemap_disablemicrophone 1",
@@ -86,7 +86,7 @@
 			]
 		},
 		"SERVER_TYPE_PROPHUNT": {
-			"mce_exclude": 30,
+			"mce_exclude": 5,
 			"Command_OnConfigsExecuted": [],
 			"DisableMaps": [
 				"cs_office",
@@ -117,21 +117,21 @@
 			]
 		},
 		"SERVER_TYPE_MG": {
-			"mce_exclude": 20,
+			"mce_exclude": 5,
 			"Command_OnConfigsExecuted": [
 				"mce_votemap_disablemicrophone 1"
 			],
 			"DisableMaps": []
 		},
 		"SERVER_TYPE_MG_MULTIGAME": {
-			"mce_exclude": 20,
+			"mce_exclude": 5,
 			"Command_OnConfigsExecuted": [
 				"mce_votemap_disablemicrophone 1"
 			],
 			"DisableMaps": []
 		},
 		"SERVER_TYPE_MGCOURSE": {
-			"mce_exclude": 20,
+			"mce_exclude": 5,
 			"Command_OnConfigsExecuted": [
 				"mce_votemap_disablemicrophone 0",
 				"sv_deadtalk 1",
@@ -143,7 +143,7 @@
 			"DisableMaps": []
 		},
 		"SERVER_TYPE_SURF": {
-			"mce_exclude": 50,
+			"mce_exclude": 5,
 			"Command_OnConfigsExecuted": [
 				"mce_votemap_disablemicrophone 0",
 				"sv_deadtalk 1",
@@ -155,7 +155,7 @@
 			"DisableMaps": []
 		},
 		"SERVER_TYPE_KZ": {
-			"mce_exclude": 50,
+			"mce_exclude": 5,
 			"Command_OnConfigsExecuted": [
 				"mce_votemap_disablemicrophone 0",
 				"sv_deadtalk 1",
@@ -167,7 +167,7 @@
 			"DisableMaps": []
 		},
 		"SERVER_TYPE_BHOP": {
-			"mce_exclude": 50,
+			"mce_exclude": 5,
 			"Command_OnConfigsExecuted": [
 				"mce_votemap_disablemicrophone 0",
 				"sv_deadtalk 1",
@@ -179,7 +179,7 @@
 			"DisableMaps": []
 		},
 		"SERVER_TYPE_DE": {
-			"mce_exclude": 8,
+			"mce_exclude": 5,
 			"DisableMaps": []
 		}
 	}
