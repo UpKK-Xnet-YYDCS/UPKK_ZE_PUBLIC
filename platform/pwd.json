@@ -1,5 +1,5 @@
 {
-	"version": 123,
+	"version": 151,
 	"data": {
 		"ne_credits": 600,
 		"mce_exclude": 10,
@@ -27,7 +27,7 @@
 		},
 		"Store_FreeItem_Exception": [],
 		"SERVER_TYPE_ZE": {
-			"mce_exclude": 55,
+			"mce_exclude": 5,
 			"Command_OnConfigsExecuted": [
 				"mce_votemap_disablemicrophone 1",
 				"mp_radar_showall 0;sv_deadtalk 1",
@@ -93,7 +93,7 @@
 			]
 		},
 		"SERVER_TYPE_PROPHUNT": {
-			"mce_exclude": 20,
+			"mce_exclude": 10,
 			"Command_OnConfigsExecuted": [
 				"sv_server_graphic1 \"pwdg1ph.png\"",
 				"sv_server_graphic2 \"pwdg2ph.png\""
