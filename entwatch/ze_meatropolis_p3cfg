@@ -16,7 +16,7 @@
 		"hammerid"          "712719"
 		"mode"              "2"
 		"maxuses"           "0"
-		"cooldown"          "60"
+		"cooldown"          "90"
 		"maxamount"         "1"
 	}
 	"1"
@@ -49,7 +49,7 @@
 		"blockpickup"       "false"
 		"allowtransfer"     "true"
 		"forcedrop"         "true"
-		"chat"              "true"
+		"chat"              "false"
 		"hud"               "true"
 		"hammerid"          "214622"
 		"mode"              "2"
@@ -114,8 +114,42 @@
 		"cooldown"          "0"
 		"maxamount"         "1"
    }
-
-
+	"6"
+	{
+		"name"              "Shield"
+		"shortname"         "肉盾"
+		"color"             "{default}"
+		"buttonclass"       "func_button"
+		"filtername"        ""
+		"hasfiltername"     "false"
+		"blockpickup"       "false"
+		"allowtransfer"     "true"
+		"forcedrop"         "true"
+		"chat"              "true"
+		"hud"               "true"
+		"hammerid"          "1210557"
+		"mode"              "2"
+		"maxuses"           "0"
+		"cooldown"          "60"
+		"maxamount"         "1"
+   }
+	"7"
+	{
+		"name"              "[ZM]Rotcube"
+		"shortname"         "[ZM]腐蚀魔方"
+		"color"             "{default}"
+		"buttonclass"       "func_button"
+		"filtername"        ""
+		"hasfiltername"     "false"
+		"blockpickup"       "false"
+		"allowtransfer"     "true"
+		"forcedrop"         "true"
+		"chat"              "true"
+		"hud"               "true"
+		"hammerid"          "1415984"
+		"mode"              "2"
+		"maxuses"           "0"
+		"cooldown"          "10"
+		"maxamount"         "1"
+   }
 }
-
-//rEPAYLOAD
