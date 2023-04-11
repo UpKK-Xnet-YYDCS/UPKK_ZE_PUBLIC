@@ -1,9 +1,5 @@
 "Console_T"
 {
-    ""
-    {
-        "chi" " "
-    }
     "** 200s **"
     {
         "chi" "存活200秒"
@@ -111,14 +107,17 @@
     "**10 seconds remaining**"
     {
         "chi" "还剩10秒"
+		"DoorCountDown"		"-1"
     }
     "**20 seconds remaining**"
     {
         "chi" "还剩20秒"
+		"DoorCountDown"		"-1"
     }
     "**30 seconds remaining**"
     {
         "chi" "还剩30秒"
+		"DoorCountDown"		"-1"
     }
     "**60 seconds remaining**"
     {
@@ -188,5 +187,4 @@
     {
         "chi" "与密告者-修米哈萨战斗的将在10秒后开始"
     }
-
 }
