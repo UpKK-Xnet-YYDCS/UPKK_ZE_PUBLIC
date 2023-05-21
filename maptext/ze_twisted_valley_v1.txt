@@ -60,6 +60,10 @@
   {
     "chi"		"**10秒后水面上升**"
   }
+  "5 SECONDS UNTIL THE WATER RISES"
+  {
+    "chi"		"**5秒后水面上升**"
+  }
   "CART WILL LEAVE IN 40 SECONDS"
   {
     "chi"		"**人类矿车将会在40秒后离开**"
@@ -142,9 +146,9 @@
   {
     "chi"		"**<STRIPPER已加载>**"
   }
-   ">>>Arzeds Zombie Escape Community for allowing me to test the map on their server and helping me with bug spotting and fixing and Ghostcap ZE Community for allowing me to test the map on their server<<<"
+   ">>>Arzeds ZE Community, Ghostcap ZE Community, Mapeadores Community and ZeddY Community for allowing me to test the map on their server and helping me with bug spotting and fixing :D<<<"
   {
-    "chi"		"**>>>感谢Arzed社区的ZE服务器对于我的地图测试的帮助，以及发现并修复BUG的帮助 同时也感谢Ghostcap社区的地图测试帮助<<<**"
+    "chi"		"**>>>感谢Arzed、Ghostcap、Mapeadores、ZeddY社区的ZE服务器对于我的地图测试的帮助，以及发现并修复BUG的帮助<<<**"
   }
    ">>>Mapeadores Community and ZeddY Community for allowing me to test the map on their server<<<"
   {
@@ -154,9 +158,9 @@
   {
     "chi"		"**>>>感谢Moltard, Darnias, Fara和ZpLit的帮忙测试触发的问题<<<**"
   }
-   ">>>tilgep, Detroid and iszaar for helping me fix the crashing problem and Bhop and Schwiii for crash test<<<"
+   ">>>tilgep, Detroid, iszaar, Hichatu, lameskydiverchinny and Kurimu for helping me fix the crashing problem and Bhop and Schwiii for crash test<<<"
   {
-    "chi"		"**>>>感谢tilgep, Detroid和iszaar的帮忙修复炸服问题, 感谢Bhop和Schwiii的炸服测试<<<**"
+    "chi"		"**>>>感谢tilgep,Detroid,iszaar,Hichatu,lameskydiverchinny和Kurimu的帮忙修复炸服问题, 感谢Bhop和Schwiii的炸服测试<<<**"
   }
    ">>>My Games Moment for providing me with infomation and helping me making me contact with servers and map testers<<<"
   {
@@ -165,6 +169,10 @@
   "20 SECONDS"
   {
     "chi"		"**20秒后小船继续前进**"
+  }
+   "15 SECONDS"
+  {
+    "chi"		"**15秒后小船继续前进**"
   }
   "BOAT WILL CONTINUE MOVING IN 12 SECONDS"
   {
@@ -185,6 +193,10 @@
   "35 SECONDS UNTIL THE GATES OPEN"
   {
     "chi"		"**35秒后大门打开**"
+  }
+   "30 SECONDS UNTIL THE GATES OPEN"
+  {
+    "chi"		"**30秒后大门打开**"
   }
   "ELEVATOR WILL OPERATE IN 10 SECONDS"
   {
@@ -248,7 +260,7 @@
     "chi"		"**在你们面前是3个带有节点的圆环(内 中 外)**"
     "DoorCountDown" "-1"
   }
-  ">>>EACH OF THESE JOINTS POINTS TO EITHER 3 OCLOCK, 9 OCLOCK OR 12 OCLOCK <<<"
+  ">>>EACH OF THESE JOINTS POINTS TO EITHER 3 OCLOCK, 9 OCLOCK OR 12 OCLOCK<<<"
   {
     "chi"		"**>>>3个圆环的节点分别指向3点钟，9点钟和12点钟方向<<<**"
     "DoorCountDown" "-1"
@@ -264,5 +276,9 @@
   ">>>YOUR GOAL IS TO ROTATE THEM THAT ANGLE<<<"
   {
     "chi"		"**>>>你们的目标是将它们转回初始的角度<<<**"
+  }
+  "***THE KINGDOM HAS SEEN FIT TO GRANT YOU ACCESS OUT OF PITY***"
+  {
+    "chi"		"**>>>很遗憾你们还没解开谜题，但是仁慈的国王给与了你们通过的权利<<<**"
   }
 }
