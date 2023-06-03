@@ -73,7 +73,7 @@
     "chi"		"**>>>人类矿车血量: 5**"
     "DoorCountDown" "-1"
   }
-  ">>>EACH TIME THE CART HITS A BLOCKADE/BARRIER, IT LOSES 1HP<<<"
+  ">>>EACH TIME THE CART HITS A BLOCKADEBARRIER, IT LOSES 1HP<<<"
   {
     "chi"		"**>>>人类矿车每撞到一个障碍物，则会损失1点血量<<<**"
     "DoorCountDown" "-1"
