@@ -6,11 +6,11 @@
 		"hammerid"		"5146718"
 		"m_iname"		"st4_partballphysbox"
 	}
-	"4466452"
+	"2155162"
 	{
 		"enable"		"1"
-		"hammerid"		"4466452"
-		"m_iname"		"st1_boss_physmove"
+		"hammerid"		"2155162"
+		"m_iname"		"st1_boss_physbreak"
 	}
 	"2250559"
 	{
@@ -24,11 +24,17 @@
 		"hammerid"		"2133848"
 		"m_iname"		"st3_boss_breakable"
 	}
-	"3120390"
+	"2177595"
 	{
 		"enable"		"1"
-		"hammerid"		"3120390"
-		"m_iname"		"st4_boss2_physmove"
+		"hammerid"		"2177595"
+		"m_iname"		"st3_boss2_breakable"
+	}
+	"3152671"
+	{
+		"enable"		"1"
+		"hammerid"		"3152671"
+		"m_iname"		"st4_boss2_physbreak"
 	}
 	"3350161"
 	{
