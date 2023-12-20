@@ -52,7 +52,7 @@
 				"entwatch_hl_ptype 1",
 				"sv_jump_impulse 301.993377",
 				"sm_xsys_config change xsys.dmg.multiplier 1.0",
-				"sm_xsys_config change xsys.knockback.multiplier 3.0",
+				"sm_xsys_config change xsys.knockback.multiplier 4.0",
 				"sm_xsys_config change xsys.knockback.airmultiplier 0.05",
 				"sm_xsys_config change xsys.knockback.airminvalue 0.0",
 				"sm_xsys_config change xsys.knockback.airmaxvalue 0.1",
@@ -61,7 +61,7 @@
 				"sm_xsys_config change xsys.knockback.maxspeed 100.0",
 				"sm_xsys_config change xsys.knockback.boost 15.0",
 				"sm_xsys_config change xsys.knockback.overflowstam 60.0",
-				"sm_xsys_config change xsys.knockback.minstam 30.0"
+				"sm_xsys_config change xsys.knockback.minstam 35.0"
 			],
 			"Command_Every_Round": [
 				"sv_full_alltalk 1"
