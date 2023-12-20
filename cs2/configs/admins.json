@@ -1,21 +1,10 @@
 {
-  "Erikj": {
-    "identity": "76561197960265731",
-    "immunity": 100,
-    "flags": [
-      "@css/custom-flag-1",
-      "@css/custom-flag-2"
-    ],
-    "groups": [
-      "#css/admin"
-    ],
-    "command_overrides": {
-      "css_plugins": true,
-      "css": false
-    }
+  "ZoNiCaL": {
+    "identity": "76561198808392634",
+    "flags": ["@css/changemap", "@css/generic"]
   },
-  "Another erikj": {
-    "identity": "STEAM_0:1:1",
-    "flags": ["@mycustomplugin/admin"]
+  "another e54385991": {
+    "identity": "76561198070416145",
+    "flags": ["@css/root"]
   }
 }
