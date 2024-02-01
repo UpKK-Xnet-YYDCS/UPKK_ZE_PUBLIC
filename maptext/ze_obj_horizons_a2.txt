@@ -1,0 +1,447 @@
+"Console_T"
+{
+	"The door is stuck. Hold here!"
+	{ 
+		"chi"		"门好像卡住了，防守一会！"
+	}
+	"Its open! Keep moving towards the back of the top floor."
+	{
+		"chi"		"门开了！继续往后走"
+	}
+	"The storage room here leads towards the swimming pool. Great!"
+	{
+		"chi"		"这里的储物间通往泳池区域，太好了！"
+	}
+	"The door will open soon."
+	{
+		"chi"		"门很快就会打开"
+	}	
+	"The door is opening!"
+	{
+		"chi"		"泳池区域门已开启！"
+	}
+	"Defend the Swimming Pool area!"
+	{
+		"chi"		"分出兵力守住游泳池区域！"
+	}
+	"The Crane is starting up!"
+	{ 
+		"chi"		"起重机好像坏了，需要时间修理！"
+	}
+	"Defend this area until its ready for use..."
+	{
+		"chi"		"继续防守，直到它能工作为止……"
+	}
+	"Stay in the cargo crate"
+	{
+		"chi"		"跳上箱子防守"
+	}
+	"The crane is ready! Get inside the cargo crate"
+	{
+		"chi"		"起重机暂时修好了！快跳进集装箱里"
+	}
+	"Crane is leaving in 5 seconds!"
+	{
+		"chi"		" 5 秒后启动！"
+	}
+	"The bomb will blow in 15 seconds. Hurry!!!"
+	{
+		"chi"		"起重机被搞坏了， 15 秒后散架！"
+	}
+	"5 seconds"
+	{
+		"chi"		" 5 "
+	}
+	"That was close."
+	{
+		"chi"		"差一点就去见阎王了"
+	}
+	"30 seconds left"
+	{
+		"chi"		"防守 30 秒"
+	}
+	"Rest. For now..."
+	{
+		"chi"		"先休息一会"
+	}
+	"Pack your stuff up!"
+	{
+		"chi"		"收拾好物品！"
+	}
+	"Find a way through."
+	{
+		"chi"		"找到后面的路了"
+	}
+	"Keep moving!"
+	{
+		"chi"		"继续前进！"
+	}
+	"The Elevator doors are shut. And Calling the Elevator doesnt seem to be a good option..."
+	{
+		"chi"		"电梯门是关着的，看起来坐电梯不是一个好主意..."
+	}
+	"We must force open the doors then."
+	{
+		"chi"		"想想其他办法吧"
+	}
+	"Look around for a metal piece to pry open the doors!"
+	{
+		"chi"		"找下周围有没有物品可以撬开电梯门！"
+	}
+	"Defend here until we get the doors open!"
+	{
+		"chi"		"先守一会儿，直到电梯门打开！"
+	}
+	"The Doors are open!"
+	{ 
+		"chi"		"电梯门开了！"
+	}
+	"Did you hear that?"
+	{
+		"chi"		"不对劲，电梯怎么在上面？"
+	}
+	"ITS THE ELEVATOR. WATCH OUT."
+	{
+		"chi"		"不好，电梯失控了，小心！"
+	}
+	"A Short circuit. This might take a bit to fix."
+	{
+		"chi"		"电路故障了,需要时间修理"
+	}
+	"You got 5 seconds to cade."
+	{ 
+		"chi"		"分配好人数做好防守"
+		"DoorCountDown"		"-1"
+	}
+	"Its opening!"
+	{
+		"chi"		"门开了！"
+	}
+	"The Doorway is blocked by fire. Use the fire extinguisher!"
+	{
+		"chi"		"安全通道被火焰封锁了，快使用灭火器！"
+	}
+	"It shouldnt take long for the extinguisher to explode"
+	{
+		"chi"		"灭火不会花太久时间"
+	}
+	"Hold here!"
+	{
+		"chi"		"坚持住！"
+	}
+	"Go!"
+	{
+		"chi"		"快走！"
+	}
+	"The door is open"
+	{
+		"chi"		"大门已锯开，快走！"
+	}
+	"Weve been cornered"
+	{
+		"chi"		"天无绝人之路"
+	}
+	"It seems going through the garbage chute is our only option"
+	{
+		"chi"		"看来只能走通风管道试试了"
+	}
+	"Defend here till it opens"
+	{
+		"chi"		"继续防守"
+	}
+	"Cade both entrances"
+	{
+		"chi"		"看好从两边进攻的感染者"
+	}
+	"Oh fuck this skyscraper has a trash compactor??!"
+	{
+		"chi"		"卧槽，这里怎么还有液压机？"
+	}
+	"We need to get out of here quick."
+	{
+		"chi"		"快想想办法，不然就变成肉酱了"
+	}
+	"Make a skycade to that platform on the top before its too late"
+	{
+		"chi"		"利用道具搭好箱子慢慢跳上去"
+	}
+	"The Walls are closing in... hurry..."
+	{
+		"chi"		"快快快！液压机很近了！"
+	}
+	"It seems some survivors routed the power in this area to that neighboring skyscraper..."
+	{
+		"chi"		"看来有些幸存者把这里的电源接到附近那座摩天大楼上了..."
+	}
+	"We cannot progress with the power on"
+	{
+		"chi"		"不好，管道有电我们过不去"
+	}
+	"Call that radio for help. Maybe theres something that can be done?"
+	{
+		"chi"		"有部无线电设备，看能不能联系上军队寻求帮助"
+	}
+	"This is ALPHA TANGO. Whos this?"
+	{
+		"chi"		"这里是阿尔法小队，请表明你的身份"
+	}
+	"Survivors? On Horizon tower? Holy! Downtown is a warzone"
+	{
+		"chi"		"幸存者？在地平线大厦上？天啊，市中心都乱成一锅粥了"
+	}
+	"We have a fighter jet nearby. Hold there! Well provide air support"
+	{
+		"chi"		"这区域附近有一架战斗机，你们先坚持住，我们会提供空中支援"
+	}
+	"If you survive. Contact us in 10 minutes and we can arrange a rescue"
+	{
+		"chi"		"要是你们能活下来，请在10分钟后联系我们，我们会安排救援"
+		"DoorCountDown"		"-1"
+	} 
+	"Till then. Good luck HORIZON!"
+	{
+		"chi"		"在这期间，祝你们好运！"
+	}
+	"Hold here till the air support arrives."
+	{ 
+		"chi"		"守住，直到空中支援到达"
+	}
+	"Make your way down and find another radio."
+	{
+		"chi"		"这台设备要没电了，去下方寻找另一部无线电"
+	}
+	"Were INBOUND. Brace yourselves!"
+	{
+		"chi"		"坚持住！我们到了"
+	}
+	"The Electricity is off! Go into the vent!"
+	{ 
+		"chi"		"电力已断开！快进入通风管道！"
+	}
+                "We made it through but the door to open the restaurant is locked"
+	{
+		"chi"		"我们过来了，但是餐厅门是锁着的"
+	} 
+	"Maybe theres a way to open it around here"
+	{
+		"chi"		"找下附近有没有开关"
+	}
+	"The Main Restaurant Door will unlock soon."
+	{
+		"chi"		"干的漂亮，餐厅门不久后打开"
+	}
+	"Prepare to defend. Zombies will catch up briefly!"
+	{
+		"chi"		"做好准备，感染者会短暂来袭！"
+	} 
+	"The Zombies have stopped for a brief moment. Get Ready to Leave"
+	{ 
+		"chi"		"感染者锐气皆失，把握好时机撤退"
+	}
+	"The lift will start up soon. Get on it"
+	{
+		"chi"		"电梯要启动了,快上来！"
+	}
+	"Its leaving!"
+	{
+		"chi"		"电梯上升！"
+	}
+	"Were safe. For now..."
+	{
+		"chi"		"我们安全了，暂时... "
+	}
+	"Pack up your stuff!"
+	{
+		"chi"		"整理下装备，做好战斗准备！"
+	}
+	"The Door will open in 30 seconds."
+	{
+		"chi"		"楼梯门将在 30 秒后打开"
+	} 
+	"This next door requires power to work.."
+	{
+		"chi"		"下层玻璃门需要电力才能打开"
+	}
+	"Look around this pool area for batteries. Maybe we get lucky?"
+	{
+		"chi"		"在附近区域找下电池，也许奇迹会发生呢"
+	}
+	"Theres no way out, we can only resist the infected here"
+	{
+		"chi"		"没路可走了，在这里守住感染者"
+	}
+	"The Elevator is on its way. Hold here!"
+	{
+		"chi"		"电梯快到了，守住！"
+	} 
+	"The Elevator is here! Get in!"
+	{
+		"chi"		"电梯来了，撤退！"
+	}
+	"Theres rebar blocking the way"
+	{
+		"chi"		"有钢筋挡住了去路"
+	}
+	"Well cut it open. Hold here and defend!"
+	{
+		"chi"		"用切割机把它锯开，在这里守一会儿！"
+	}
+	"Uh oh. A short circuit!"
+	{ 
+		"chi"		"我去，短路了！"
+	}
+	"Itll sort itself out. Hold here till the doors open!"
+	{
+		"chi"		"没事，等门开了再说！"
+	}
+	"The Doors are opening! Keep moving deeper into this floor!"
+	{
+		"chi"		"门正在打开！继续往这层楼里面走！"
+	}
+	"Uh oh. That tripped something."
+	{
+		"chi"		"不对，好像触发了什么东西"
+	}
+	"Theres bombs rigged on the ceiling."
+	{
+		"chi"		"天花板上面有炸弹"
+	}
+	"Stay away from the hall!!!"
+	{
+		"chi"		"远离大厅！"
+	}
+	"The Doors of the hotel are open!"
+	{ 
+		"chi"		"招待台处门开了！"
+	}
+	"Grab one of the C4s and plant it on the door so we can keep moving forward!"
+	{
+		"chi"		"把事先找到的C4安放在爆破位，然后等待门炸开在撤离！"
+		"DoorCountDown"		"-1"
+	}
+	"The C4 is in place!"
+	{
+		"chi"		"C4已安装！"
+		"DoorCountDown"		"-1"
+	}
+	"It will detonate in 40 seconds!"
+	{
+		"chi"		"继续防守 40 秒"
+	}
+	"Defend the lobby!"
+	{
+		"chi"		"守住前方！"
+	}
+	"The door is blown! Keep moving!"
+	{
+		"chi"		"门被炸开了！快跑！"
+	} 
+	"This is ALPHA TANGO."
+	{
+		"chi"		"这里是阿尔法小队"
+	}
+	"Horizon. Is that you. Do you copy?"
+	{
+		"chi"		"幸存者，是你吗？收到请回复"
+	}
+	"Holy. Its great to hear you guys are still alive!"
+	{ 
+		"chi"		"太好了，你们还活着，真是令人欣慰！"
+	}
+	"Weve Organized a Rescue for you"
+	{
+		"chi"		"我们已经为你们组织了救援行动"
+	}
+	"Make your way to the Avenue. Well pick you up there"
+	{
+		"chi"		"请尽快前往大楼底层，我们会在那里接应你们"
+	}
+	"Youve stirred hell in that building. Were sending a chopper to give you air support."
+	{
+		"chi"		"你们在大楼里干的不错，我们会派一架直升机为你们提供空中支援"
+	}
+	"Find a way to the lobby!"
+	{
+		"chi"		"请想办法前往目的地！"
+	} 
+	"Hold for a moment! And good luck!"
+	{
+		"chi"		"还请等待！祝你们好运！"
+	}
+	"Get Moving!"
+	{
+		"chi"		"快跑！"
+	}
+	"Hold here while we work on the door with the saw!"
+	{
+		"chi"		"等待切割机工作，回头守住这里！"
+	}
+	"Keep running!"
+	{
+		"chi"		"快走！"
+	}
+	"Dead end. but we can cut through it"
+	{
+		"chi"		"没路了，但后面好像有个管道"
+	}
+	"Defend for a bit!"
+	{
+		"chi"		"先防守一会儿！"
+	}
+	"Go! Head for the bottom floor!"
+	{
+		"chi"		"快跑！钻进管道！"
+	}
+	"One of these ducts will take us down to the bottom floor..."
+	{
+		"chi"		"管道会随机开一个，听到命令在撤退…"
+	}
+	"The Lockdown process is being disabled at last"
+	{
+		"chi"		"封锁程序正在解除"
+	}
+	"The door to the lobby will open soon."
+	{
+		"chi"		"大门一会儿就会开启"
+	}
+	"Defend!!"
+	{
+		"chi"		"坚持住！"
+	}
+	"The door to the lobby is opening!"
+	{
+		"chi"		"门正在打开！"
+	}
+	"Fall back and wait for it to close!"
+	{
+		"chi"		"撤退，守到门关上！"
+	}
+	"The lockdown systems are still being lifted.."
+	{
+		"chi"		"封锁系统还在解除中.."
+	}
+	"The zombies will make their way through shortly..."
+	{
+		"chi"		"最后一波尸潮即将来袭！"
+	}
+	"We must make a last stand here."
+	{
+		"chi"		"背水一战"
+	}
+	"Hole yourself up either in this balcony or below in the offices."
+	{
+		"chi"		"听从指挥官的命令选择合适的位置防守"
+	}
+	"Here they come!"
+	{
+		"chi"		"来了，他们来了！"
+	}
+	"The military will be any second here! Make your stand!"
+	{
+		"chi"		"救援马上到达！做好防守！"
+	}
+	"Were here! Get behind the barricade. Well take you somewhere safe!"
+	{
+		"chi"		"援军已到！前往支援点，军队会带你们去安全的地方！"
+	}
+}
