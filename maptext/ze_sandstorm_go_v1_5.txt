@@ -203,23 +203,27 @@
 	"** Victory in 200 seconds. **"
 	{
 		"chi"		"**200秒后人类胜利 **"
-		"DoorCountdown"		"200"
+		"DoorCountDown"		"-1" 
 	}
 	"** Victory in 150 seconds. **"
 	{
 		"chi"		"** 150秒后人类胜利 **"
+		"DoorCountDown"		"-1" 
 	}
 	"** Victory in 100 seconds. **"
 	{
 		"chi"		"** 100秒后人类胜利 **"
+		"DoorCountDown"		"-1"
 	}
 	"** Victory in 50 seconds. **"
 	{
 		"chi"		"** 50秒后人类胜利 **"
+		"DoorCountDown"		"-1"
 	}
 	"** Victory in 10 seconds. **"
 	{
 		"chi"		"** 10秒后人类胜利 **"
+		"DoorCountDown"		"-1"
 	}
 	">>>Respawn wall break in 20 sec<<<"
 	{
@@ -252,17 +256,14 @@
 	"** The doors will open in 25 seconds **"
 	{
 		"chi"		"**大门25秒后开启 **"
-		"DoorCountdown"		"25"
 	}
 	"** The door will open in 30 seconds **"
 	{
 		"chi"		"**大门30秒后开启 **"
-		"DoorCountdown"		"30"
 	}
 	"** Bomb explodes in 20 seconds **"
 	{
 		"chi"		"**炸弹在20秒后爆炸 **"
-		"DoorCountdown"		"20"
 	}
 	">> STAGE 2 <<"
 	{
@@ -271,12 +272,10 @@
 	"** Teleport will open in 20 seconds **"
 	{
 		"chi"		"**传送将在20秒后开启 **"
-		"DoorCountdown"		"20"
 	}
 	"** Elevator leaves in 20 seconds **"
 	{
 		"chi"		"**电梯将在20秒后离开 **"
-		"DoorCountdown"		"20"
 	}
 	">> STAGE 3 <<"
 	{
@@ -289,7 +288,6 @@
 	"** Meteorite arrives in 17 seconds. **"
 	{
 		"chi"		"**陨石20秒后到达 **"
-		"DoorCountdown"		"20"
 	}
 	">> STAGE 5 <<"
 	{
@@ -298,7 +296,6 @@
 	"** Teleport will open in 20 seconds. **"
 	{
 		"chi"		"**传送点20秒后激活 **"
-		"DoorCountdown"		"20"
 	}
 	"** Teleport will open on 10 seconds **"
 	{
@@ -319,7 +316,6 @@
 	"** Hold for 10 seconds. **"
 	{
 		"chi"		"**守住10秒 **"
-		"DoorCountdown"		"10"
 	}
 	">> ZM ROUND <<"
 	{
@@ -333,24 +329,20 @@
 	{
 		"chi"		"**感谢您的参与！ **"
 	}
-	"**Old Version**"
-	{
-		"chi"		"** **"
-	}
 	"** AND NOW YOU WILL DIE! **"
 	{
-		"chi"		"** **"
-	}
-	">>*** ITS TIME TO CHOOSE A LEVEL! ***<<"
-	{
-		"chi"		"** **"
+		"chi"		"**现在，你将会死！**"
 	}
 	">| ADMIN ROOM |< Level changed to 3. Kill all in 5 seconds."
 	{
-		"chi"		"** **"
+		"chi"		"**管理员选择了第三关.5秒后杀死所有人 **"
 	}
 	">| ADMIN ROOM |< Level changed to 2. Kill all in 5 seconds."
 	{
-		"chi"		"** **"
+		"chi"		"**管理员选择了第二关.5秒后杀死所有人 **"
+	}
+	">| ADMIN ROOM |< Level changed to 1. Kill all in 5 seconds."
+	{
+		"chi"		"**管理员选择了第一关.5秒后杀死所有人**"
 	}
 }
