@@ -1,215 +1,299 @@
 "Console_T"
 {
-    "* * * Admin has pressed 1st world * * *"
-    {
-        "chi" "** **"
-    }
-    "* * * Admin has pressed 2nd world * * *"
-    {
-        "chi" "** **"
-    }
-    "* * * Admin has pressed 3rd world * * *"
-    {
-        "chi" "** **"
-    }
-    "* * * Admin has pressed 4th world * * *"
-    {
-        "chi" "** **"
-    }
-    "* * * Beam * * *"
-    {
-        "chi" "** **"
-    }
-    "* * * Beams * * *"
-    {
-        "chi" "** **"
-    }
-    "* * * Block will move in 5 seconds * * *"
-    {
-        "chi" "** **"
-    }
-    "* * * Break the core of temple * * *"
-    {
-        "chi" "** **"
-    }
-    "* * * Center breaks in 30 seconds * * *"
-    {
-        "chi" "** **"
-    }
-    "* * * Chicken is Dead * * *"
-    {
-        "chi" "** **"
-    }
-    "* * * DO NOT TOUCH ORANGE BLOCKS ! * * *"
-    {
-        "chi" "** **"
-    }
-    "* * * Door opens in 20 seconds * * *"
-    {
-        "chi" "** **"
-    }
-    "* * * Door opens in 5 seconds * * *"
-    {
-        "chi" "** **"
-    }
-    "* * * Door will open in 15 seconds * * *"
-    {
-        "chi" "** **"
-    }
-    "* * * Door will open in 40 seconds * * *"
-    {
-        "chi" "** **"
-    }
-    "* * * Failed Spawn * * *"
-    {
-        "chi" "** **"
-    }
-    "* * * Fall * * *"
-    {
-        "chi" "** **"
-    }
-    "* * * Fall Wall * * *"
-    {
-        "chi" "** **"
-    }
-    "* * * Falling Balls * * *"
-    {
-        "chi" "** **"
-    }
-    "* * * Falling Walls * * *"
-    {
-        "chi" "** **"
-    }
-    "* * * Fire Balls (3 times) * * *"
-    {
-        "chi" "** **"
-    }
-    "* * * Hurt * * *"
-    {
-        "chi" "** **"
-    }
-    "* * * Invisible wall break in 20 seconds * * *"
-    {
-        "chi" "** **"
-    }
-    "* * * Invisible wall breaks in 20 seconds * * *"
-    {
-        "chi" "** **"
-    }
-    "* * * Invisible wall breaks in 25 seconds * * *"
-    {
-        "chi" "** **"
-    }
-    "* * * Invisible wall breaks in 30 seconds * * *"
-    {
-        "chi" "** **"
-    }
-    "* * * Kill the chicken * * *"
-    {
-        "chi" "** **"
-    }
-    "* * * Kill Zombies * * *"
-    {
-        "chi" "** **"
-    }
-    "* * * Left * * *"
-    {
-        "chi" "** **"
-    }
-    "* * * Mini * * *"
-    {
-        "chi" "** **"
-    }
-    "* * * Player has picked up Barrier * * *"
-    {
-        "chi" "** **"
-    }
-    "* * * Player has picked up Heal * * *"
-    {
-        "chi" "** **"
-    }
-    "* * * Player has picked up ZBoost * * *"
-    {
-        "chi" "** **"
-    }
-    "* * * Player picked up ZField * * *"
-    {
-        "chi" "** **"
-    }
-    "* * * Push enable in 15 seconds * * *"
-    {
-        "chi" "** **"
-    }
-    "* * * Right * * *"
-    {
-        "chi" "** **"
-    }
-    "* * * Ring * * *"
-    {
-        "chi" "** **"
-    }
-    "* * * Rings * * *"
-    {
-        "chi" "** **"
-    }
-    "* * * Secret blades are enabled * * *"
-    {
-        "chi" "** **"
-    }
-    "* * * Secret button has been pressed * * *"
-    {
-        "chi" "** **"
-    }
-    "* * * Side breaks in 5 seconds * * *"
-    {
-        "chi" "** **"
-    }
-    "* * * Teleport enables in 20 seconds * * *"
-    {
-        "chi" "** **"
-    }
-    "* * * Teleport will be enabled soon * * *"
-    {
-        "chi" "** **"
-    }
-    "* * * The way opens in 15 seconds * * *"
-    {
-        "chi" "** **"
-    }
-    "* * * The way will appear soon... Defend ! * * *"
-    {
-        "chi" "** **"
-    }
-    "* * * The way will open in 20 seconds * * *"
-    {
-        "chi" "** **"
-    }
-    "* * * Upper * * *"
-    {
-        "chi" "** **"
-    }
-    "* * * Wall explodes in 10 seconds * * *"
-    {
-        "chi" "** **"
-    }
-    "* * * You can touch orange blocks now * * *"
-    {
-        "chi" "** **"
-    }
-    "* * * Zombie * * *"
-    {
-        "chi" "** **"
-    }
-    "* * * Zombie nuke in 15 seconds * * *"
-    {
-        "chi" "** **"
-    }
-    "* * * Zombies * * *"
-    {
-        "chi" "** **"
-    }
-    "* * * Zombies Win * * *"
-    {
-        "chi" "** **"
-    }
+	"+++++The elevator will be active after 30 seconds.+++++"
+	{
+		"chi"		"** **"
+	}
+	"+++++After 5 seconds, the zombie gate will break. After 10 seconds, the human door will break.+++++"
+	{
+		"chi"		"** **"
+	}
+	"+++++Defend the door for 20 seconds.+++++"
+	{
+		"chi"		"** **"
+	}
+	"+++++Lasers will turn off after 30 seconds.+++++"
+	{
+		"chi"		"** **"
+	}
+	"+++++Get on the truck on the left.+++++"
+	{
+		"chi"		"** **"
+	}
+	"+++++After 10 seconds, you will enter the final area..+++++"
+	{
+		"chi"		"** **"
+	}
+	"+++++Board the incoming helicopter and defend it.+++++"
+	{
+		"chi"		"** **"
+	}
+	"sync_version"
+	{
+		"syncvalue"		"5523"
+	}
+	"* * * Invisible wall break in 20 seconds * * *"
+	{
+		"chi"		"** **"
+	}
+	"* * * Block will move after 5 seconds * * *"
+	{
+		"chi"		"** **"
+	}
+	"* * * The way will open in 20 seconds * * *"
+	{
+		"chi"		"** **"
+	}
+	"* * * Invisible wall break in 30 seconds * * *"
+	{
+		"chi"		"** **"
+	}
+	"* * * DO NOT TOUCH ORANGE BLOCKS ! * * *"
+	{
+		"chi"		"** **"
+	}
+	"* * * Invisible wall break in 25 seconds * * *"
+	{
+		"chi"		"** **"
+	}
+	"* * * You can touch orange blocks * * *"
+	{
+		"chi"		"** **"
+	}
+	"* * * Push enable in 15 seconds * * *"
+	{
+		"chi"		"** **"
+	}
+	"* * * The way will appear.. defend ! * * *"
+	{
+		"chi"		"** **"
+	}
+	"* * * Door will open in 40 seconds * * *"
+	{
+		"chi"		"** **"
+	}
+	"* * * Door will open in 15 seconds * * *"
+	{
+		"chi"		"** **"
+	}
+	"* * * Player picked up heal * * *"
+	{
+		"chi"		"** **"
+	}
+	"* * * The way clear in 15 seconds * * *"
+	{
+		"chi"		"** **"
+	}
+	"* * * Wall explode in 10 seconds * * *"
+	{
+		"chi"		"** **"
+	}
+	"* * * Player picked up barrier * * *"
+	{
+		"chi"		"** **"
+	}
+	"* * * Left * * *"
+	{
+		"chi"		"** **"
+	}
+	"* * * Right * * *"
+	{
+		"chi"		"** **"
+	}
+	"* * * Center break in 30 seconds * * *"
+	{
+		"chi"		"** **"
+	}
+	"* * * Side break in 5 seconds * * *"
+	{
+		"chi"		"** **"
+	}
+	"* * * Door open in 20 seconds * * *"
+	{
+		"chi"		"** **"
+	}
+	"* * * Door open in 5 seconds * * *"
+	{
+		"chi"		"** **"
+	}
+	"* * * Kill the chicken * * *"
+	{
+		"chi"		"** **"
+	}
+	"* * * Zombie * * *"
+	{
+		"chi"		"** **"
+	}
+	"* * * Hurt * * *"
+	{
+		"chi"		"** **"
+	}
+	"* * * Fire Ball * * *"
+	{
+		"chi"		"** **"
+	}
+	"* * * Chicken Dead * * *"
+	{
+		"chi"		"** **"
+	}
+	"* * * Teleport will enable * * *"
+	{
+		"chi"		"** **"
+	}
+	"* * * Break the core of temple * * *"
+	{
+		"chi"		"** **"
+	}
+	"* * * The way will clear in 15 seconds * * *"
+	{
+		"chi"		"** **"
+	}
+	"* * * Teleport will enable in 20 seconds * * *"
+	{
+		"chi"		"** **"
+	}
+	"* * * Zombies * * *"
+	{
+		"chi"		"** **"
+	}
+	"* * * Upper * * *"
+	{
+		"chi"		"** **"
+	}
+	"* * * Fall Wall * * *"
+	{
+		"chi"		"** **"
+	}
+	"* * * Ring * * *"
+	{
+		"chi"		"** **"
+	}
+	"* * * Mini * * *"
+	{
+		"chi"		"** **"
+	}
+	"* * * Fall * * *"
+	{
+		"chi"		"** **"
+	}
+	"* * * Kill Zombies * * *"
+	{
+		"chi"		"** **"
+	}
+	"* * * Zombie nuke in 15 seconds * * *"
+	{
+		"chi"		"** **"
+	}
+	"* * * Beam * * *"
+	{
+		"chi"		"** **"
+	}
+	"* * * Admin pressed 3rd world.. * * *"
+	{
+		"chi"		"** **"
+	}
+	"* * * Zombie Win * * *"
+	{
+		"chi"		"** **"
+	}
+	"* * * Admin pressed 2nd world.. * * *"
+	{
+		"chi"		"** **"
+	}
+	"* * * Player picked up ZField * * *"
+	{
+		"chi"		"** **"
+	}
+	"* * * Player picked up ZBoost * * *"
+	{
+		"chi"		"** **"
+	}
+	"* * * Block will move in 5 seconds * * *"
+	{
+		"chi"		"** **"
+	}
+	"* * * Invisible wall breaks in 30 seconds * * *"
+	{
+		"chi"		"** **"
+	}
+	"* * * Invisible wall breaks in 25 seconds * * *"
+	{
+		"chi"		"** **"
+	}
+	"* * * You can touch orange blocks now * * *"
+	{
+		"chi"		"** **"
+	}
+	"* * * The way will appear soon... Defend ! * * *"
+	{
+		"chi"		"** **"
+	}
+	"* * * Player has picked up Heal * * *"
+	{
+		"chi"		"** **"
+	}
+	"* * * Invisible wall breaks in 20 seconds * * *"
+	{
+		"chi"		"** **"
+	}
+	"* * * The way opens in 15 seconds * * *"
+	{
+		"chi"		"** **"
+	}
+	"* * * Wall explodes in 10 seconds * * *"
+	{
+		"chi"		"** **"
+	}
+	"* * * Player has picked up Barrier * * *"
+	{
+		"chi"		"** **"
+	}
+	"* * * Center breaks in 30 seconds * * *"
+	{
+		"chi"		"** **"
+	}
+	"* * * Side breaks in 5 seconds * * *"
+	{
+		"chi"		"** **"
+	}
+	"* * * Door opens in 20 seconds * * *"
+	{
+		"chi"		"** **"
+	}
+	"* * * Door opens in 5 seconds * * *"
+	{
+		"chi"		"** **"
+	}
+	"* * * Fire Balls (3 times) * * *"
+	{
+		"chi"		"** **"
+	}
+	"* * * Chicken is Dead * * *"
+	{
+		"chi"		"** **"
+	}
+	"* * * Teleport will be enabled soon * * *"
+	{
+		"chi"		"** **"
+	}
+	"* * * Teleport enables in 20 seconds * * *"
+	{
+		"chi"		"** **"
+	}
+	"* * * Falling Walls * * *"
+	{
+		"chi"		"** **"
+	}
+	"* * * Beams * * *"
+	{
+		"chi"		"** **"
+	}
+	"* * * Rings * * *"
+	{
+		"chi"		"** **"
+	}
+	"* * * Falling Balls * * *"
+	{
+		"chi"		"** **"
+	}
 }
