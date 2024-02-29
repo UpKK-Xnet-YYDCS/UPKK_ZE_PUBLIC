@@ -30,19 +30,19 @@
 	}
 	"The door opening in 15s"
 	{
-		"chi"		"** 门还有15秒打开 **"
+		"chi"		"** 门还有 15 秒打开 **"
 	}
 	"Find a way to turn off the gas"
 	{
-		"chi"		"** 路上有毒气泄露，想办法关闭毒气 **"
+		"chi"		"** 毒气阻挡了我们的退路 **"
 	}
 	"Put the valve on and turn it"
 	{
-		"chi"		"** 找到阀门装上并转动 **"
+		"chi"		"** 找到货架的物品装上并转动旁边的阀门 **"
 	}
 	"The doors opening in 30s"
 	{
-		"chi"		"** 一层大门还有30秒开启 **"
+		"chi"		"** 一层大门还有 30 秒开启 **"
 	}
 	"Door is opening"
 	{
@@ -62,7 +62,7 @@
 	}
 	"We need to hack the computer and upload the virus!"
 	{
-		"chi"		"** 去机房电脑上传病毒！**"
+		"chi"		"** 去机房控制台上传病毒！**"
 	}
 	"Bad feelings..."
 	{
@@ -70,11 +70,11 @@
 	}
 	"GET ON THE ELEVATOR"
 	{
-		"chi"		"** 快进入电梯 **"
+		"chi"		"** 快上电梯 **"
 	}
 	"Find a way to get into the room!"
 	{
-		"chi"		"** 想办法进入房间！ **"
+		"chi"		"** 进入前面的安全屋！**"
 	}
 	"Stay inside the room until the zombies outside get teleport!"
 	{
@@ -86,38 +86,42 @@
 	}
 	"we need to turn on the stovepipe to break a way!"
 	{
-		"chi"		"** 快找到突围的道路！ **"
+		"chi"		"** 快找到突围的道路！**"
 	}
 	"Get on the roof!!!"
 	{
-		"chi"		"** 快跳上屋顶！ **"
+		"chi"		"** 跳到最高处防守！**"
 	}
 	"Break the laser power switch!"
 	{
-		"chi"		"** 破坏激光电源开关！ **"
+		"chi"		"** 摧毁激光电闸！**"
 	}
 	"Watch out!"
 	{
-		"chi"		"** 小心! (落后的人等待电梯下落后再跳过去) **"
+		"chi"		"** 小心(落后的人等待电梯下落后再跳过去) **"
 	}
 	"Get inside !"
 	{
-		"chi"		"** 快进去！ **"
+		"chi"		"** 快进去！**"
 	}
 	"we still alive.."
 	{
 		"chi"		"** 我们还活着.. **"
 	}
-	"Let's get out of here."
+	"Lets get out of here."
 	{
-		"chi"		"** 整顿好重新出发吧 **"
+		"chi"		"** 收拾好装备重新出发吧.. **"
 	}
 	"Rampage Mode on"
 	{
-		"chi"		"** ass♂we♂can **"
+		"chi"		"** ass ♂ we ♂ can **"
 	}
 	"Prepare to fight until the end."
 	{
 		"chi"		"** TaTaKai，ITsuMoTaTaKai **"
+	}
+	"GET ON THE HELICOPTER"
+	{
+		"chi"		"** 快上直升机！**"
 	}
 }
