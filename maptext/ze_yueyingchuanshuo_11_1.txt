@@ -1,185 +1,203 @@
 "Console_T"
 {
-	"sync_version"
-	{
-		"syncvalue"		"34605"
-	}
-	"You need to defend for 23 seconds."
-	{
-		"chi"		"**我们需要防守23秒**"
-	}
-	"you need hold 25s"
-	{
-		"chi"		"**防守25秒**"
-	}
-	"we need hold 40s"
-	{
-		"chi"		"**我们需要再守40秒**"
-	}
-	"you need hold 20s"
-	{
-		"chi"		"**再守20秒**"
-	}
-	"hold 20s"
-	{
-		"chi"		"**防守20秒**"
-	}
-	"Zombies are still transmitted after 5S"
-	{
-		"chi"		"**僵尸5秒后传送**"
-	}
-	"you need hold 35s"
-	{
-		"chi"		"**防守35秒**"
-	}
-	"you need hold 30s"
-	{
-		"chi"		"**防守30秒**"
-	}
-	"you need hold 10s"
-	{
-		"chi"		"**防守10秒**"
-	}
-	"Something seems to have disappeared"
-	{
-		"chi"		"**某些东西似乎消失了**"
-	}
-	"you need hold 15s"
-	{
-		"chi"		"**防守15秒**"
-	}
-	"There seems to be no road above"
-	{
-		"chi"		"**上面似乎没有路**"
-	}
-	"I am optimistic about the road under your feet. How come back? Do you understand?"
-	{
-		"chi"		"**你知道撤退的路线吗？提示：看脚底下我们刚刚走过的路！所以你明白了吗？**"
-	}
-	"Zombies approaching the road"
-	{
-		"chi"		"**僵尸侧路梯子已开放**"
-	}
-	"you need hold 32s"
-	{
-		"chi"		"**防守32秒**"
-	}
-	"you need hold 45s"
-	{
-		"chi"		"**防守45秒**"
-	}
-	"you need hold 22s"
-	{
-		"chi"		"**防守22秒**"
-	}
-	"Congratulations on your victory, EX mode is waiting for you."
-	{
-		"chi"		"**祝贺你成功通关，EXTREME模式即将到来...**"
-	}
-	"Warning: zombies open near the road"
-	{
-		"chi"		"**僵尸侧路已开启**"
-	}
-	"Warning: trap is activated"
-	{
-		"chi"		"**陷阱已激活 3**"
-	}
-	"Warning: Zombie launches near the road"
-	{
-		"chi"		"**僵尸侧路已开启**"
-	}
-	"you need hold 40s"
-	{
-		"chi"		"**防守40秒**"
-	}
-	"you need hold 18s"
-	{
-		"chi"		"**防守18秒**"
-	}
-	"zombie coming watch you back"
-	{
-		"chi"		"**僵尸传送了，准备手雷**"
-	}
-	"Zombies are still transmitted after 7S"
-	{
-		"chi"		"**僵尸7秒后传送**"
-	}
-	"Wooden boat leaves after 7S"
-	{
-		"chi"		"**木船7秒后离开**"
-	}
-	"Zombie transfer has started"
-	{
-		"chi"		"**僵尸即将传送...**"
-	}
-	"Zombie transmission also has 13S"
-	{
-		"chi"		"**僵尸13秒后传送**"
-	}
-	"I remember here, here is my back mountain"
-	{
-		"chi"		"**我记得这里，这里是牛家山 作者:牛肉粉 翻译:血色的龙琉璃**"
-	}
-	"From here you can reach my house directly"
-	{
-		"chi"		"**从这里走可以直接到达我家**"
-	}
-	"Something weird was triggered"
-	{
-		"chi"		"**彩蛋已被触发**"
-	}
-	"Something strange will happen"
-	{
-		"chi"		"**请把背景音乐打开 XD**"
-	}
-	"tip:You cant pass on the chessboard You must pass on the chess piece"
-	{
-		"chi"		"**你不能直接通过棋盘，你必须站在棋子上前进**"
-	}
-	"Zombie checkerboard teleport"
-	{
-		"chi"		"**僵尸现在可以站在棋盘上行走**"
-	}
-	"you need hold 14s"
-	{
-		"chi"		"**防守14秒**"
-	}
-	"Zombie shortcut open"
-	{
-		"chi"		"**僵尸侧路开启**"
-	}
-	"It looks like youve found the board. Give me some time and Ill get him"
-	{
-		"chi"		"**看起来你已经找到了木板,给我一些时间去得到它**"
-	}
-	"Zombie teleportation will teleport in 5 seconds"
-	{
-		"chi"		"**僵尸5秒后传送**"
-	}
-	"The cave is blocked, damn it"
-	{
-		"chi"		"**洞穴被堵死了，该死**"
-	}
-	"Wait a minute, I seem to have seen this sword before"
-	{
-		"chi"		"**等一下，我之前好像见过这把剑**"
-	}
-	"Ill inject strength into this sword"
-	{
-		"chi"		"**我将为剑注入神力**"
-	}
-	"Zombies will be teleported in 3 seconds"
-	{
-		"chi"		"**僵尸3秒后传送**"
-	}
-	"999"
-	{
-		"chi"		"**999**"
-		"DoorCountDown"		"-1"
-	}
-	"1"
-	{
-		"chi"		"**1**"
-		"DoorCountDown"		"-1"
-	}
+    "After the right road meets, wait for the left team mate"
+    {
+        "chi" "右边的道路开启后，请等待左边的队友"
+    }
+    "Be prepared as if something is rising"
+    {
+        "chi" "做好准备，好像有东西在升起"
+    }
+    "From here you can reach my house directly"
+    {
+        "chi" "从这里你可以直接到达我的家"
+    }
+    "Gather on the left and wait for the meeting"
+    {
+        "chi" "左边集合，等待汇合"
+    }
+    "hold 20s"
+    {
+        "chi" "防守20秒"
+    }
+    "I am optimistic about the road under your feet. How come back? Do you understand?"
+    {
+        "chi" "看好你脚下的路。怎么回来？你知道吗？"
+    }
+    "I feel the earth shaking"
+    {
+        "chi" "我感觉到地面在震动"
+    }
+    "I remember here, here is my back mountain"
+    {
+        "chi" "我记得这里，这里是牛家山，作者:牛肉粉 翻译:血色的龙琉璃"
+    }
+    "I saw the hilt. I found a chance to get ready for the sword"
+    {
+        "chi" "我看到了剑柄，我有机会得到这把剑"
+    }
+    "I'll inject strength into this sword"
+    {
+        "chi" "我会将力量注入这把剑"
+    }
+    "Initiate the zombie side in 4 seconds"
+    {
+        "chi" "4秒后开启僵尸侧路"
+    }
+    "It looks like you've found the board. Give me some time and I'll get him"
+    {
+        "chi" "看起来你找到了板子。给我一些时间，我会得到它"
+    }
+    "No, the mountain is shaking"
+    {
+        "chi" "不，山在震动"
+    }
+    "Please hold here for 18 seconds"
+    {
+        "chi" "请在这里等待18秒"
+    }
+    "Something seems to have disappeared"
+    {
+        "chi" "好像有东西消失了"
+    }
+    "Something strange will happen"
+    {
+        "chi" "会发生一些奇怪的事情"
+    }
+    "The cave is blocked, damn it"
+    {
+        "chi" "洞穴被堵住了，该死"
+    }
+    "The first door on the left will open in 20 seconds"
+    {
+        "chi" "左边的第一扇门将在20秒内打开"
+    }
+    "The first door on the right will open in 20 seconds"
+    {
+        "chi" "右边的第一扇门将在20秒内打开"
+    }
+    "The second door on the left will open in 20 seconds"
+    {
+        "chi" "左边的第二扇门将在20秒内打开"
+    }
+    "The second door on the right will open in 20 seconds"
+    {
+        "chi" "右边的第二扇门将在20秒内打开"
+    }
+    "There seems to be no road above"
+    {
+        "chi" "上面似乎没有路"
+    }
+    "tip:You can't pass on the chessboard You must pass on the chess piece"
+    {
+        "chi" "提示：你不能在棋盘上通过，你必须通过棋子"
+    }
+    "Very good. You made it through in 20 seconds"
+    {
+        "chi" "很好，20秒后通过"
+    }
+    "Wait a minute, I seem to have seen this sword before"
+    {
+        "chi" "等一下，我似乎以前见过这把剑"
+    }
+    "Warning: trap is activated"
+    {
+        "chi" "陷阱被激活，3秒"
+    }
+    "Warning: Zombie launches near the road"
+    {
+        "chi" "僵尸侧路出现"
+    }
+    "Warning: zombies open near the road"
+    {
+        "chi" "僵尸侧路开启"
+    }
+    "we need hold 40s"
+    {
+        "chi" "我们需要防守40秒"
+    }
+    "Wooden boat leaves after 7S"
+    {
+        "chi" "木船在7秒后离开"
+    }
+    "you need hold 14s"
+    {
+        "chi" "防守14秒"
+    }
+    "you need hold 15s"
+    {
+        "chi" "防守15秒"
+    }
+    "you need hold 20s"
+    {
+        "chi" "防守20秒"
+    }
+    "you need hold 22s"
+    {
+        "chi" "防守22秒"
+    }
+    "you need hold 25s"
+    {
+        "chi" "防守25秒"
+    }
+    "you need hold 30s"
+    {
+        "chi" "防守30秒"
+    }
+    "you need hold 40s"
+    {
+        "chi" "防守40秒"
+    }
+    "you need hold 45s"
+    {
+        "chi" "防守45秒"
+    }
+    "you need hold 60s"
+    {
+        "chi" "防守60秒"
+    }
+    "You need to defend for 23 seconds."
+    {
+        "chi" "你需要防守23秒。"
+    }
+    "Zombie checkerboard teleport"
+    {
+        "chi" "在棋盘的僵尸被传送"
+    }
+    "zombie coming watch you back"
+    {
+        "chi" "僵尸来了，注意你的后方"
+    }
+    "Zombie shortcut open"
+    {
+        "chi" "僵尸侧路开启"
+    }
+    "Zombie teleport will turn on in 30 seconds"
+    {
+        "chi" "僵尸传送将在30秒后开启"
+    }
+    "Zombie teleportation will teleport in 5 seconds"
+    {
+        "chi" "僵尸将在5秒后传送"
+    }
+    "Zombie transfer has started"
+    {
+        "chi" "僵尸已传送"
+    }
+    "Zombie transmission also has 13S"
+    {
+        "chi" "僵尸传送还有13秒"
+    }
+    "Zombies approaching the road"
+    {
+        "chi" "僵尸正在接近"
+    }
+    "Zombies are still transmitted after 5S"
+    {
+        "chi" "5秒后僵尸传送"
+    }
+    "Zombies are still transmitted after 7S"
+    {
+        "chi" "7秒后僵尸传送"
+    }
 }
