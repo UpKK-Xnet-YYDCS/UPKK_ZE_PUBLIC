@@ -1,0 +1,286 @@
+[
+    {
+        "DefIndex": 16,
+        "Name": "M4A1",
+        "WeaponName": "weapon_m4a1",
+        "Price": 3100,
+        "Command": "M4A4"
+    },
+    {
+        "DefIndex": 60,
+        "Name": "M4A1-S",
+        "WeaponName": "weapon_m4a1_silencer",
+        "Price": 2900,
+        "Command": "M4A1;m4a1s"
+    },
+    {
+        "DefIndex": 10,
+        "Name": "Famas",
+        "WeaponName": "weapon_famas",
+        "Price": 2050,
+        "Command": "Famas"
+    },
+    {
+        "DefIndex": 8,
+        "Name": "AUG",
+        "WeaponName": "weapon_aug",
+        "Price": 3300,
+        "Command": "AUG"
+    },
+    {
+        "DefIndex": 7,
+        "Name": "AK-47",
+        "WeaponName": "weapon_ak47",
+        "Price": 2700,
+        "Command": "AK47"
+    },
+    {
+        "DefIndex": 13,
+        "Name": "Galil",
+        "WeaponName": "weapon_galilar",
+        "Price": 1800,
+        "Command": "Galil"
+    },
+    {
+        "DefIndex": 11,
+        "Name": "Sg553",
+        "WeaponName": "weapon_sg556",
+        "Price": 3000,
+        "Command": "Sg553"
+    },
+    {
+        "DefIndex": 38,
+        "Name": "Scar-20",
+        "WeaponName": "weapon_scar20",
+        "Price": 5000,
+        "Command": "Scar20"
+    },
+    {
+        "DefIndex": 9,
+        "Name": "AWP",
+        "WeaponName": "weapon_awp",
+        "Price": 4750,
+        "Command": "AWP"
+    },
+    {
+        "DefIndex": 40,
+        "Name": "SSG08",
+        "WeaponName": "weapon_ssg08",
+        "Price": 1700,
+        "Command": "SSG08"
+    },
+    {
+        "DefIndex": 28,
+        "Name": "G3SG1",
+        "WeaponName": "weapon_g3sg1",
+        "Price": 5000,
+        "Command": "G3SG1"
+    },
+    {
+        "DefIndex": 34,
+        "Name": "MP9",
+        "WeaponName": "weapon_mp9",
+        "Price": 1250,
+        "Command": "MP9"
+    },
+    {
+        "DefIndex": 33,
+        "Name": "MP7",
+        "WeaponName": "weapon_mp7",
+        "Price": 1500,
+        "Command": "MP7"
+    },
+    {
+        "DefIndex": 23,
+        "Name": "MP5-SD",
+        "WeaponName": "weapon_mp5sd",
+        "Price": 1500,
+        "Command": "MP5"
+    },
+    {
+        "DefIndex": 24,
+        "Name": "UMP-45",
+        "WeaponName": "weapon_ump45",
+        "Price": 1200,
+        "Command": "UMP45"
+    },
+    {
+        "DefIndex": 19,
+        "Name": "P90",
+        "WeaponName": "weapon_p90",
+        "Price": 2350,
+        "Command": "P90"
+    },
+    {
+        "DefIndex": 26,
+        "Name": "PP-19 Bizon",
+        "WeaponName": "weapon_bizon",
+        "Price": 1400,
+        "Command": "PP"
+    },
+    {
+        "DefIndex": 17,
+        "Name": "MAC-10",
+        "WeaponName": "weapon_mac10",
+        "Price": 1050,
+        "Command": "MAC10"
+    },
+    {
+        "DefIndex": 61,
+        "Name": "USP-S",
+        "WeaponName": "weapon_usp_silencer",
+        "Price": 200,
+        "Command": "USP"
+    },
+    {
+        "DefIndex": 32,
+        "Name": "P2000",
+        "WeaponName": "weapon_hkp2000",
+        "Price": 200,
+        "Command": "P2000"
+    },
+    {
+        "DefIndex": 4,
+        "Name": "Glock-18",
+        "WeaponName": "weapon_glock",
+        "Price": 200,
+        "Command": "Glock"
+    },
+    {
+        "DefIndex": 2,
+        "Name": "Dual Berettas",
+        "WeaponName": "weapon_elite",
+        "Price": 300,
+        "Command": "Dualb"
+    },
+    {
+        "DefIndex": 36,
+        "Name": "P250",
+        "WeaponName": "weapon_p250",
+        "Price": 300,
+        "Command": "P250"
+    },
+    {
+        "DefIndex": 3,
+        "Name": "Five-SeveN",
+        "WeaponName": "weapon_fiveseven",
+        "Price": 500,
+        "Command": "Fives"
+    },
+    {
+        "DefIndex": 63,
+        "Name": "Tec-9",
+        "WeaponName": "weapon_tec9",
+        "Price": 500,
+        "Command": "Tec9"
+    },
+    {
+        "DefIndex": 64,
+        "Name": "R8 Revolver",
+        "WeaponName": "weapon_revolver",
+        "Price": 600,
+        "Command": "R8 Revolver"
+    },
+    {
+        "DefIndex": 1,
+        "Name": "Desert Eagle",
+        "WeaponName": "weapon_deagle",
+        "Price": 700,
+        "Command": "DesertEagle"
+    },
+    {
+        "DefIndex": 35,
+        "Name": "Nova",
+        "WeaponName": "weapon_nova",
+        "Price": 1050,
+        "Command": "Nova",
+        "Enable":false
+    },
+    {
+        "DefIndex": 27,
+        "Name": "XM1014",
+        "WeaponName": "weapon_xm1014",
+        "Price": 2000,
+        "Command": "XM1014",
+        "Enable":false
+    },
+    {
+        "DefIndex": 29,
+        "Name": "MAG-7",
+        "WeaponName": "weapon_mag7",
+        "Price": 1300,
+        "Command": "MAG-7",
+        "Enable":false
+    },
+    {
+        "DefIndex": 25,
+        "Name": "Sawed-Off",
+        "WeaponName": "weapon_sawedoff",
+        "Price": 1100,
+        "Command": "Sawed-Off",
+        "Enable":false
+    },
+    {
+        "DefIndex": 14,
+        "Name": "M249",
+        "WeaponName": "weapon_m249",
+        "Price": 5200,
+        "Command": "M249"
+    },
+    {
+        "DefIndex": 28,
+        "Name": "Negev",
+        "WeaponName": "weapon_negev",
+        "Price": 1700,
+        "Command": "Negev"
+    },
+    {
+        "DefIndex": 31,
+        "Name": "Zeus x27",
+        "WeaponName": "weapon_taser",
+        "Price": 200,
+        "Command": "Zeus"
+    },
+    {
+        "DefIndex": 44,
+        "Name": "High Explosive Grenade",
+        "WeaponName": "weapon_hegrenade",
+        "Price": 2000,
+        "Command": "he"
+    },
+    {
+        "DefIndex": 46,
+        "Name": "Molotov",
+        "WeaponName": "weapon_molotov",
+        "Price": 2500,
+        "Command": "mov;fire"
+    },
+    {
+        "DefIndex": 48,
+        "Name": "Incendiary Grenade",
+        "WeaponName": "weapon_incgrenade",
+        "Price": 600,
+        "Command": "Ig"
+    },
+    {
+        "DefIndex": 45,
+        "Name": "Smoke Grenade",
+        "WeaponName": "weapon_smokegrenade",
+        "Price": 300,
+        "Command": "sg"
+    },
+    {
+        "DefIndex": 43,
+        "Name": "Flashbang",
+        "WeaponName": "weapon_flashbang",
+        "Price": 200,
+        "Command": "fb"
+    },
+    {
+        "DefIndex": 47,
+        "Name": "Decoy Grenade",
+        "WeaponName": "weapon_decoy",
+        "Price": 50,
+        "Command": "Dg"
+    }
+]
