@@ -1,7 +1,7 @@
 [
     {
         "DefIndex": 16,
-        "Name": "M4A1",
+        "Name": "M4A4",
         "WeaponName": "weapon_m4a1",
         "Price": 3100,
         "Command": "M4A4"
@@ -67,7 +67,7 @@
         "Name": "SSG08",
         "WeaponName": "weapon_ssg08",
         "Price": 1700,
-        "Command": "SSG08"
+        "Command": "SSG08;scout"
     },
     {
         "DefIndex": 28,
@@ -116,7 +116,7 @@
         "Name": "PP-19 Bizon",
         "WeaponName": "weapon_bizon",
         "Price": 1400,
-        "Command": "PP"
+        "Command": "PP;PP19;Bizon"
     },
     {
         "DefIndex": 17,
@@ -151,7 +151,7 @@
         "Name": "Dual Berettas",
         "WeaponName": "weapon_elite",
         "Price": 300,
-        "Command": "Dualb"
+        "Command": "Dualb;elite"
     },
     {
         "DefIndex": 36,
@@ -165,7 +165,7 @@
         "Name": "Five-SeveN",
         "WeaponName": "weapon_fiveseven",
         "Price": 500,
-        "Command": "Fives"
+        "Command": "Fives;57"
     },
     {
         "DefIndex": 63,
@@ -179,7 +179,7 @@
         "Name": "R8 Revolver",
         "WeaponName": "weapon_revolver",
         "Price": 600,
-        "Command": "R8 Revolver"
+        "Command": "R8 Revolver:r8"
     },
     {
         "DefIndex": 1,
@@ -233,13 +233,14 @@
         "WeaponName": "weapon_negev",
         "Price": 1700,
         "Command": "Negev"
+        "Enable":false
     },
     {
         "DefIndex": 31,
         "Name": "Zeus x27",
         "WeaponName": "weapon_taser",
         "Price": 200,
-        "Command": "Zeus"
+        "Command": "Zeus;taser"
     },
     {
         "DefIndex": 44,
@@ -267,20 +268,20 @@
         "Name": "Smoke Grenade",
         "WeaponName": "weapon_smokegrenade",
         "Price": 300,
-        "Command": "sg"
+        "Command": "sg;smoke"
     },
     {
         "DefIndex": 43,
         "Name": "Flashbang",
         "WeaponName": "weapon_flashbang",
         "Price": 200,
-        "Command": "fb"
+        "Command": "fb;flash"
     },
     {
         "DefIndex": 47,
         "Name": "Decoy Grenade",
         "WeaponName": "weapon_decoy",
         "Price": 50,
-        "Command": "Dg"
+        "Command": "Dg;decoy"
     }
 ]
