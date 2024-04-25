@@ -70,7 +70,7 @@
         "Command": "SSG08"
     },
     {
-        "DefIndex": 28,
+        "DefIndex": 11,
         "Name": "G3SG1",
         "WeaponName": "weapon_g3sg1",
         "Price": 5000,
@@ -168,18 +168,25 @@
         "Command": "Fives"
     },
     {
-        "DefIndex": 63,
+        "DefIndex": 30,
         "Name": "Tec-9",
         "WeaponName": "weapon_tec9",
         "Price": 500,
         "Command": "Tec9"
     },
     {
+        "DefIndex": 63,
+        "Name": "CZ75",
+        "WeaponName": "weapon_cz75a",
+        "Price": 500,
+        "Command": "cz75;cz75a"
+    },
+    {
         "DefIndex": 64,
         "Name": "R8 Revolver",
         "WeaponName": "weapon_revolver",
         "Price": 600,
-        "Command": "R8 Revolver"
+        "Command": "R8"
     },
     {
         "DefIndex": 1,
