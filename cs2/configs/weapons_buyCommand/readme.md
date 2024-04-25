@@ -25,7 +25,7 @@
 -  比如 command: "fire;mov" !zbuy fire !zbuy mov
 -  购买 zbuy mov
 
-# 限制手雷数量参数 注意下个回合生效
+# 限制手雷数量参数 注意下个回合生效(可以在地图参数中配置)
 ```css_hegrenade_limit 5```  
 ```css_molotov_limit 5```
 
