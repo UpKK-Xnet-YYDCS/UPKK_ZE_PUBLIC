@@ -1,0 +1,76 @@
+{
+	"Human": {
+		"HumanClass1": {
+			"enabled": true,
+			"team_default": true,
+			"health": 100,
+			"models": [
+				{
+					"modelname": "characters/models/s2ze/master_chief/master_chief_nohitbox.vmdl",
+					"color": "255 255 255",
+					"skins": 0
+				}
+			],
+			"scale": 1.0,
+			"speed": 1.0,
+			"gravity": 1.0,
+			"admin_flag": ""
+		}
+	},
+	"Zombie": {
+		"ZombieClass1": {
+			"enabled": true,
+			"team_default": true,
+			"health": 30000,
+			"models": [
+				{
+					"modelname": "characters/models/s2ze/chris_walker/chris_walker.vmdl",
+					"color": "255 150 150",
+					"skins": 0
+				}
+			],
+			"scale": 1.05,
+			"speed": 1.12,
+			"gravity": 1.0,
+			"admin_flag": "",
+			"health_regen_count": 555,
+			"health_regen_interval": 5.0
+		},
+		"ZombieClass2": {
+			"enabled": true,
+			"team_default": true,
+			"health": 20000,
+			"models": [
+				{
+					"modelname": "characters/models/s2ze/chris_walker/chris_walker.vmdl",
+					"color": "255 150 150",
+					"skins": 0
+				}
+			],
+			"scale": 1.05,
+			"speed": 1.12,
+			"gravity": 1.0,
+			"admin_flag": "",
+			"health_regen_count": 250,
+			"health_regen_interval": 5.0
+		},
+		"MotherZombie": {
+			"enabled": true,
+			"team_default": false,
+			"health": 40000,
+			"models": [
+				{
+					"modelname": "characters/models/s2ze/chris_walker/chris_walker.vmdl",
+					"color": "255 100 100",
+					"skins": 0
+				}
+			],
+			"scale": 1.15,
+			"speed": 1.12,
+			"gravity": 1.0,
+			"admin_flag": "",
+			"health_regen_count": 500,
+			"health_regen_interval": 5.0
+		}
+	}
+}
