@@ -29,11 +29,11 @@
   "LanguageMessages": {
     "map_name": {
       "US": "Current map: {MAP}",
-      "CN": "{GRAY}当前时间: {RED}{TIME} {GRAY}当前地图: {RED}{MAP}"
+      "CN": "{LIME}当前时间: {RED}{TIME} {GRAY}当前地图: {RED}{MAP}"
     },
     "current_time": {
-      "US": "{GRAY}Current time: {RED}{TIME}",
-      "CN": "{GRAY}当前时间: {RED}{TIME} {GRAY}当前地图: {RED}{MAP}"
+      "US": "{LIME}Current time: {RED}{TIME}",
+      "CN": "{LIME}当前时间: {RED}{TIME} {GRAY}当前地图: {RED}{MAP}"
     }
   },
   "MapsName": {
