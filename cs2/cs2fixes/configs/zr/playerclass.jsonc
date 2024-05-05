@@ -21,7 +21,7 @@
 		"ZombieClass1": {
 			"enabled": true,
 			"team_default": true,
-			"health": 30000,
+			"health": 15000,
 			"models": [
 				{
 					"modelname": "characters/models/s2ze/chris_walker/chris_walker.vmdl",
@@ -33,7 +33,7 @@
 			"speed": 1.12,
 			"gravity": 1.0,
 			"admin_flag": "",
-			"health_regen_count": 555,
+			"health_regen_count": 250,
 			"health_regen_interval": 5.0
 		},
 		"ZombieClass2": {
@@ -57,7 +57,7 @@
 		"MotherZombie": {
 			"enabled": true,
 			"team_default": false,
-			"health": 40000,
+			"health": 28888,
 			"models": [
 				{
 					"modelname": "characters/models/s2ze/chris_walker/chris_walker.vmdl",
@@ -69,7 +69,7 @@
 			"speed": 1.12,
 			"gravity": 1.0,
 			"admin_flag": "",
-			"health_regen_count": 500,
+			"health_regen_count": 350,
 			"health_regen_interval": 5.0
 		}
 	}
