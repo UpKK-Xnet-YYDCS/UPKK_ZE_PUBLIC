@@ -1,0 +1,48 @@
+{
+  "PrintToCenterHtml": false,
+  "WelcomeMessage": {
+    "MessageType": 0,
+    "Message": "Welcome, {BLUE}{PLAYERNAME}",
+    "DisplayDelay": 5
+  },
+  "Ads": [
+    {
+      "Interval": 35,
+      "Messages": [
+        {
+          "Chat": "{map_name}"
+        },
+        {
+          "Chat": "{current_time}"
+        }
+      ]
+    },
+    {
+      "Interval": 40,
+      "Messages": [
+        {
+          "Chat": "{RED}!store 购买使用皮肤 {GRAY}!yd 地图名 预定地图 !hide 隐藏玩家 控制台输入  {LIGHTPURPLE}snd_musicvolume 0 将关闭地图音乐 snd_musicvolume 0.5则将音量减少一半 请在控制台启用开发者控制台后按~"
+        },
+        {
+          "Chat": "{GRAY}当前时间: {RED}{TIME} {GRAY}当前地图: {RED}{MAP}"
+        }
+      ]
+    }
+  ],
+  "Panel": null,
+  "DefaultLang": "CN",
+  "LanguageMessages": {
+    "map_name": {
+      "US": "Current map: {MAP}",
+      "CN": "{GRAY}当前时间: {RED}{TIME} {GRAY}当前地图: {RED}{MAP}"
+    },
+    "current_time": {
+      "US": "{GRAY}Current time: {RED}{TIME}",
+      "CN": "{GRAY}当前时间: {RED}{TIME} {GRAY}当前地图: {RED}{MAP}"
+    }
+  },
+  "MapsName": {
+    "de_mirage": "Mirage",
+    "de_dust": "Dust II"
+  }
+}
