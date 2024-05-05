@@ -3,14 +3,14 @@
     "AllowExtend": true,
     "ExtendTimeStep": 18.0,
     "ExtendLimit": 20,
-    "ExcludeMaps":  0,
+    "ExcludeMaps":  10,
     "IncludeMaps": 5,
     "IncludeCurrent": false,
     "DontChangeRTV": true,
     "VoteDuration": 20.0,
     "IgnoreSpec": true,
     "AllowRtv": true,
-    "RTVPercent": 0.35,
+    "RTVPercent": 0.32,
     "RTVDelay": 1.0,
     "EnforceTimeLimit": false
 }
