@@ -21,7 +21,7 @@
 		"ZombieClass1": {
 			"enabled": true,
 			"team_default": true,
-			"health": 10000,
+			"health": 13000,
 			"models": [
 				{
 					"modelname": "characters/models/exg/snow/snow.vmdl",
@@ -33,13 +33,13 @@
 			"speed": 1.12,
 			"gravity": 1.0,
 			"admin_flag": "",
-			"health_regen_count": 200,
+			"health_regen_count": 300,
 			"health_regen_interval": 5.0
 		},
 		"ZombieClass2": {
 			"enabled": true,
 			"team_default": true,
-			"health": 10000,
+			"health": 13000,
 			"models": [
 				{
 					"modelname": "characters/models/exg/snow/snow.vmdl",
@@ -51,7 +51,7 @@
 			"speed": 1.12,
 			"gravity": 1.0,
 			"admin_flag": "",
-			"health_regen_count": 200,
+			"health_regen_count": 300,
 			"health_regen_interval": 5.0
 		},
 		"MotherZombie": {
