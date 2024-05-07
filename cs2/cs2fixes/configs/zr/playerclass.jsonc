@@ -57,7 +57,7 @@
 		"MotherZombie": {
 			"enabled": true,
 			"team_default": false,
-			"health": 16888,
+			"health": 25000,
 			"models": [
 				{
 					"modelname": "characters/models/s2ze/chris_walker/chris_walker.vmdl",
@@ -65,11 +65,11 @@
 					"skins": 0
 				}
 			],
-			"scale": 1.15,
-			"speed": 1.12,
+			"scale": 1.0,
+			"speed": 1.25,
 			"gravity": 1.0,
 			"admin_flag": "",
-			"health_regen_count": 200,
+			"health_regen_count": 300,
 			"health_regen_interval": 5.0
 		}
 	}
