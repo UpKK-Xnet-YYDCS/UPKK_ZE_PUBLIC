@@ -54,6 +54,24 @@
 			"health_regen_count": 300,
 			"health_regen_interval": 5.0
 		},
+		"ZombieClass3": {
+			"enabled": true,
+			"team_default": true,
+			"health": 13000,
+			"models": [
+				{
+					"modelname": "characters/models/police/93xpolice.vmdl",
+					"color": "255 255 255",
+					"skins": 0
+				}
+			],
+			"scale": 1.0,
+			"speed": 1.15,
+			"gravity": 1.0,
+			"admin_flag": "",
+			"health_regen_count": 300,
+			"health_regen_interval": 5.0
+		},
 		"MotherZombie": {
 			"enabled": true,
 			"team_default": false,
