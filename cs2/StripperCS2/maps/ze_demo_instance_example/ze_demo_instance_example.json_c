@@ -1,0 +1,306 @@
+
+{
+    // Translate map to English using DeepL + ChatGPT
+    "modify": [
+        {
+            "match": {
+                "io": [
+                    {
+                        "overrideparam": "say *** 意識の深層へ 30 秒 ***"
+                    }
+                ]
+            },
+            "replace": {
+                "io": {
+                    "overrideparam": "say *** Proceed into the depths of consciousness in 30 seconds ***"
+                }
+            }
+        },
+        {
+            "match": {
+                "io": [
+                    {
+                        "overrideparam": "say *** 意識の深層へ 40 秒 ***"
+                    }
+                ]
+            },
+            "replace": {
+                "io": {
+                    "overrideparam": "say *** Proceed into the depths of consciousness in 40 seconds ***"
+                }
+            }
+        },
+        {
+            "match": {
+                "io": [
+                    {
+                        "overrideparam": "say *** 意識の深層へ 20 秒 ***"
+                    }
+                ]
+            },
+            "replace": {
+                "io": {
+                    "overrideparam": "say *** Proceed into the depths of consciousness in 20 seconds ***"
+                }
+            }
+        },
+        {
+            "match": {
+                "io": [
+                    {
+                        "overrideparam": "say *** 意識の深層へ 10 秒 ***"
+                    }
+                ]
+            },
+            "replace": {
+                "io": {
+                    "overrideparam": "say *** Proceed into the depths of consciousness in 10 seconds ***"
+                }
+            }
+        },
+        {
+            "match": {
+                "io": [
+                    {
+                        "overrideparam": "say *** 更なる深層へ 30 秒 ***"
+                    }
+                ]
+            },
+            "replace": {
+                "io": {
+                    "overrideparam": "say *** Go deeper in 30 seconds ***"
+                }
+            }
+        },
+        {
+            "match": {
+                "io": [
+                    {
+                        "overrideparam": "say *** 更なる深層へ 10 秒 ***"
+                    }
+                ]
+            },
+            "replace": {
+                "io": {
+                    "overrideparam": "say *** Go deeper in 10 seconds ***"
+                }
+            }
+        },
+        {
+            "match": {
+                "io": [
+                    {
+                        "overrideparam": "say *** 無意識の境地へ 30 秒 ***"
+                    }
+                ]
+            },
+            "replace": {
+                "io": {
+                    "overrideparam": "say *** Enter the state of unconsciousness in 30 seconds ***"
+                }
+            }
+        },
+        {
+            "match": {
+                "io": [
+                    {
+                        "overrideparam": "say *** 無意識の境地へ 10 秒 ***"
+                    }
+                ]
+            },
+            "replace": {
+                "io": {
+                    "overrideparam": "say *** Enter the state of unconsciousness in 10 seconds ***"
+                }
+            }
+        },
+        {
+            "match": {
+                "io": [
+                    {
+                        "overrideparam": "say *** □□□□□□ 30 秒 ***"
+                    }
+                ]
+            },
+            "replace": {
+                "io": {
+                    "overrideparam": "say *** □□□□□□ 30 seconds ***"
+                }
+            }
+        },
+        {
+            "match": {
+                "io": [
+                    {
+                        "overrideparam": "say *** □□□□□□ 10 秒 ***"
+                    }
+                ]
+            },
+            "replace": {
+                "io": {
+                    "overrideparam": "say *** □□□□□□ 10 seconds ***"
+                }
+            }
+        },
+        {
+            "match": {
+                "message": "Maybe Last Message Nov. 6th, 1958 :\nこれは私という「アルビオン」の存在を意識的に記憶させるための処置である。\n実験が不結果に陥った場合、空容体の迅速抹消及び\n本部による重要インシデント処理「フラグメント・オプス」の強制実行。"
+            },
+            "replace": {
+                "message": "Maybe Last Message Nov. 6th, 1958 :\nThis is a procedure to consciously remember the existence\nof my \"Albion\". In the event of an unsuccessful experiment,\nrapid deletion of the vacuole and the enforced execution of the\ncritical incident processing \"Fragment Ops\" by Headquarters."
+            }
+        },
+        {
+            "match": {
+                "message": "/10頁/"
+            },
+            "replace": {
+                "message": "Page 10\nMost importantly, you don't want to lose sight of\n\"color.\" You don't want to wander around in the unconscious.\nFortunately, the unconscious seems to be composed of blank, colorless structures.\nBy being constantly aware of it, a colored consciousness is created.\nColor is a tool that serves as a guide for one's consciousness.\nIf you get lost, first find the color."
+            }
+        },
+        {
+            "match": {
+                "message": "/11頁/"
+            },
+            "replace": {
+                "message": "Page 11\nI was finally beginning to see the end point of the\nCelestial Space, which would have gone on forever.\nAt the same time, I had lost track of my ego and my body.\nDoes this mean that I am getting closer to my destination?"
+            }
+        },
+        {
+            "match": {
+                "message": "/12頁/"
+            },
+            "replace": {
+                "message": "Page 12\nMy consciousness is fading.\nMaybe my memory is also becoming faintly fragmented.\nEither way, the Fragment Ops will be executed."
+            }
+        },
+        {
+            "match": {
+                "message": "/13/"
+            },
+            "replace": {
+                "message": "Page 13\nThere is only one thing I do in an empty place.\nTo remove the presence that corrupts people's unconsciousness."
+            }
+        },
+        {
+            "match": {
+                "message": "/14頁/"
+            },
+            "replace": {
+                "message": "Page 14\nOnce my ego and body have all ceased to exist, my body\nwill be processed and erased along with my history.\nI will be part of the empty place.\nThe chances of a successful escape are probably astronomically low.\nIn other words, this is a one-way ticket.\nFragment Ops is the ultimate experiment of my life."
+            }
+        },
+        {
+            "match": {
+                "message": "/15頁/"
+            },
+            "replace": {
+                "message": "Page 15\nI have no regrets.\nI would give as much of myself as I could if it meant\nmy body was used for research. If I could die in this place\nthat I should have aimed for, I would be delighted."
+            }
+        },
+        {
+            "match": {
+                "message": "/16頁/"
+            },
+            "replace": {
+                "message": "Page 16\nWhat exactly is an empty place?\nIs it heaven?\nOr is it a hell, filled only with darkness?"
+            }
+        },
+        {
+            "match": {
+                "message": "/17頁/"
+            },
+            "replace": {
+                "message": "Page 17\nWithout memory □□□□□□□□\n□ locate □□□□□□□.\nPurpose □□□□□□□□□□□."
+            }
+        },
+        {
+            "match": {
+                "message": "/1頁/"
+            },
+            "replace": {
+                "message": "Page 1\nThis is a space formed by my own unconsciousness.\nI call this white, clean place \"Celestial\".\nIt is cutting edge research and a space that should serve as a\nshortcut to my ultimate goal, the \"empty place.\""
+            }
+        },
+        {
+            "match": {
+                "message": "/2頁/"
+            },
+            "replace": {
+                "message": "Page 2\nOctober 23, 1958\nIn the midst of the endless Cold War between the U.S. and the Soviet Union,\nour research was on the verge of completion. The biological unconscious.\nPeople refer to it as \"the sixth sense\" or \"lucid dreaming\".\nMy research aims to \"freely sense the unconscious.\""
+            }
+        },
+        {
+            "match": {
+                "message": "/3頁/"
+            },
+            "replace": {
+                "message": "Page 3\nThis began with multiple objectives. The first is a\ncountermeasure against brainwashing technology weapons by the Soviet Union\nand other hostile countries. The military is already planning to develop a\n\"highly concentrated micro-shutter generator\". By incorporating the \"CERAPHIC\"\nfree brainwashing protocol device we have created, it will be possible to block\nany factors related to mind control."
+            }
+        },
+        {
+            "match": {
+                "message": "/4頁/"
+            },
+            "replace": {
+                "message": "Page 4\nThe second related to my field of psychiatry. It is\nthe next generation of psychotherapy that uses the\naforementioned \"CERAPHIC\" to cure mentally ill patients\n(mainly depression and schizophrenia) by removing the\ndetrimental factors lurking within their unconscious mind.\nHowever, these have only mediocre results."
+            }
+        },
+        {
+            "match": {
+                "message": "/5頁/"
+            },
+            "replace": {
+                "message": "Page 5\nNow, I am attempting a further shift. It is called\n\"Reaching the World that Forms the Unconscious.\""
+            }
+        },
+        {
+            "match": {
+                "message": "/6頁/"
+            },
+            "replace": {
+                "message": "Page 6\nSince the beginning of the Cold War, it has been impossible to escape the chaotic\nconsciousness of people, which is becoming more and more heteronormative at an accelerated rate.\nI suspect that this is due to unconscious connections. People collide with each other in a network that does\nnot exist, sprouting a negative unconscious, taking up arms, and awakening to carnage."
+            }
+        },
+        {
+            "match": {
+                "message": "/7頁/"
+            },
+            "replace": {
+                "message": "Page 7\nThe invisible strings are bound to humans\nand other living creatures by something that is\nneither an emotion nor even a concept.\nThe emptiness bears resemelance to a God."
+            }
+        },
+        {
+            "match": {
+                "message": "/8頁/"
+            },
+            "replace": {
+                "message": "Page 8\nTo get to the empty place, the first step is to become\naware of one's unconscious. To do this, I must make my unconscious\nremember who I am. All I need is a shell and a color."
+            }
+        },
+        {
+            "match": {
+                "message": "/9頁/"
+            },
+            "replace": {
+                "message": "Page 9\nA shell is like an adaptation suit.\nJust like you would wear a space suit to operate in outer space,\nto operate in the unconscious you need a corresponding shell.\nIf we are crushed by the unconscious, it is equivalent\nto losing the ego and the body itself."
+            }
+        },
+        {
+            "match": {
+                "message": "/□□頁/"
+            },
+            "replace": {
+                "message": "Page □□\n□□□□□□□□□□□□□□.\n□□□□□□□□□□□□□□□□□\n□□□□□, □□□□."
+            }
+        },
+        {
+            "match": {
+                "message": "長きに渡る実験から、人々には不定の周期で無意識の乱れが生じることが証明されている。\nそう、幾度となく起きた人類戦争は「空の場所」から始まったのだと私は確信している。"
+            },
+            "replace": {
+                "message": "From the long-term experiments, it has been proven that unconscious disturbances occur in people at irregular intervals.\nYes, from the failures that have occurred repeatedly, we have learned from them and evolved.\nThe harsh treatment called Fragment Ops ultimately adjusts the state of unconsciousness.\nAs part of that, I am here now."
+            }
+        }
+    ]
+}
