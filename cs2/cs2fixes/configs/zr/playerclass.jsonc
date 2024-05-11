@@ -18,7 +18,25 @@
 		}
 	},
 	"Zombie": {
-		"ZombieClass1": {
+		"zjunko": {
+			"enabled": true,
+			"team_default": true,
+			"health": 13000,
+			"models": [
+				{
+					"modelname": "characters/models/upkk/junko/zjunko.vmdl",
+					"color": "255 255 255",
+					"skins": 0
+				}
+			],
+			"scale": 1.0,
+			"speed": 1.05,
+			"gravity": 0.8,
+			"admin_flag": "",
+			"health_regen_count": 300,
+			"health_regen_interval": 5.0
+		},
+		"zpolice": {
 			"enabled": true,
 			"team_default": true,
 			"health": 13000,
