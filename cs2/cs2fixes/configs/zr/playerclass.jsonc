@@ -21,7 +21,7 @@
 		"zjunko": {
 			"enabled": true,
 			"team_default": true,
-			"health": 13000,
+			"health": 10000,
 			"models": [
 				{
 					"modelname": "characters/models/upkk/junko/zjunko.vmdl",
@@ -36,10 +36,28 @@
 			"health_regen_count": 300,
 			"health_regen_interval": 5.0
 		},
+		"zmizuno": {
+			"enabled": true,
+			"team_default": true,
+			"health": 10000,
+			"models": [
+				{
+					"modelname": "characters/models/upkk/mizuno/zmizuno.vmdl",
+					"color": "255 255 255",
+					"skins": 0
+				}
+			],
+			"scale": 1.0,
+			"speed": 1.1,
+			"gravity": 0.9,
+			"admin_flag": "",
+			"health_regen_count": 800,
+			"health_regen_interval": 5.0
+		},
 		"zpolice": {
 			"enabled": true,
 			"team_default": true,
-			"health": 13000,
+			"health": 6000,
 			"models": [
 				{
 					"modelname": "characters/models/police/93xpolice.vmdl",
@@ -48,8 +66,26 @@
 				}
 			],
 			"scale": 1.0,
-			"speed": 1.15,
+			"speed": 1.2,
 			"gravity": 1.0,
+			"admin_flag": "",
+			"health_regen_count": 300,
+			"health_regen_interval": 5.0
+		},
+		"zwalk": {
+			"enabled": true,
+			"team_default": true,
+			"health": 15000,
+			"models": [
+				{
+					"modelname": "characters/models/s2ze/chris_walker/chris_walker.vmdl",
+					"color": "255 255 255",
+					"skins": 0
+				}
+			],
+			"scale": 1.0,
+			"speed": 1.13,
+			"gravity": 1.05,
 			"admin_flag": "",
 			"health_regen_count": 300,
 			"health_regen_interval": 5.0
@@ -57,10 +93,10 @@
 		"MotherZombie": {
 			"enabled": true,
 			"team_default": false,
-			"health": 25000,
+			"health": 20000,
 			"models": [
 				{
-					"modelname": "characters/models/s2ze/chris_walker/chris_walker.vmdl",
+					"modelname": "characters/models/police/93xpolice.vmdl",
 					"color": "255 100 100",
 					"skins": 0
 				}
