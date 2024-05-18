@@ -1,198 +1,70 @@
 <!-- kv3 encoding:text:version{e21c7f3c-8a33-41c5-9977-a76d3a32aa0d} format:generic:version{7412167c-06e9-4698-aff2-e63eb59037e7} -->
 {
-    upkk.amb.base = 
-    {
-        type = "csgo_mega"
-        volume = 0.500000
-        occlusion_intensity = 0
-        distance_effect_mix = 0
-        restrict_source_reverb = true
-        disable_volume_culling = true
-        distance_volume_mapping_curve = 
-        [
-            
-            [
-                0,
-                0.750000,
-                0,
-                0,
-                2,
-                3,
-            ],
-            
-            [
-                512,
-                0.500000,
-                0,
-                0,
-                2,
-                3,
-            ],
-            
-            [
-                1024,
-                0.400000,
-                0,
-                0,
-                2,
-                3,
-            ],
-            
-            [
-                2048,
-                0.250000,
-                0,
-                0,
-                2,
-                3,
-            ],
-            
-            [
-                4096,
-                0,
-                0,
-                0,
-                2,
-                3,
-            ],
-        ]
-    }
+	upkk.amb.base = 
+	{
+		type = "csgo_mega"
+		volume = 0.5
+		occlusion_intensity = 0
+		distance_effect_mix = 0
+		restrict_source_reverb = true
+		disable_volume_culling = true
+		distance_volume_mapping_curve = 
+		[
+            [0, 0.75, 0, 0, 2, 3],      // 距离为0时，音量为1
+            [512, 0.5, 0, 0, 2, 3], // 距离为512时，音量为0.5
+            [1024, 0.4, 0, 0, 2, 3], // 距离为1024时，音量为0.4
+            [2048, 0.25, 0, 0, 2, 3], // 距离为2048时，音量为0.25
+            [4096, 0, 0, 0, 2, 3]    // 距离为4096时，音量为0
+		]
+	}
     upkk.amb.all = 
-    {
-        type = "csgo_mega"
-        volume = 0.500000
-        occlusion_intensity = 0
-        distance_effect_mix = 0
-        restrict_source_reverb = true
-        disable_volume_culling = true
-        distance_volume_mapping_curve = 
-        [
-            
-            [
-                0,
-                0.500000,
-                0,
-                0,
-                2,
-                3,
-            ],
-            
-            [
-                1024,
-                0.500000,
-                0,
-                0,
-                2,
-                3,
-            ],
-            
-            [
-                2048,
-                0.500000,
-                0,
-                0,
-                2,
-                3,
-            ],
-            
-            [
-                4096,
-                0.500000,
-                0,
-                0,
-                2,
-                3,
-            ],
-            
-            [
-                99999,
-                0.500000,
-                0,
-                0,
-                2,
-                3,
-            ],
-        ]
-    }
+	{
+		type = "csgo_mega"
+		volume = 0.5
+		occlusion_intensity = 0
+		distance_effect_mix = 0
+		restrict_source_reverb = true
+		disable_volume_culling = true
+		distance_volume_mapping_curve = 
+		[
+            [0, 0.5, 0, 0, 2, 3],  
+            [1024, 0.5, 0, 0, 2, 3],
+            [2048, 0.5, 0, 0, 2, 3], 
+            [4096, 0.5, 0, 0, 2, 3],  
+            [99999, 0.5, 0, 0, 2, 3],  
+		]
+	}
     upkk.amb.self = 
-    {
-        type = "csgo_mega"
-        volume = 0.500000
-        occlusion_intensity = 0
-        distance_effect_mix = 0
-        restrict_source_reverb = true
-        disable_volume_culling = true
-        distance_volume_mapping_curve = 
-        [
-            
-            [
-                0,
-                0.500000,
-                0,
-                0,
-                2,
-                3,
-            ],
-            
-            [
-                60,
-                0.000000,
-                0,
-                0,
-                2,
-                3,
-            ],
-        ]
-    }
+	{
+		type = "csgo_mega"
+		volume = 0.5
+		occlusion_intensity = 0
+		distance_effect_mix = 0
+		restrict_source_reverb = true
+		disable_volume_culling = true
+		distance_volume_mapping_curve = 
+		[
+            [0, 0.5, 0, 0, 2, 3],  
+            [60, 0.0, 0, 0, 2, 3],
+		]
+	}
     upkk.amb.smallrange = 
-    {
-        type = "csgo_mega"
-        volume = 0.600000
-        occlusion_intensity = 0
-        distance_effect_mix = 0
-        restrict_source_reverb = true
-        disable_volume_culling = true
-        distance_volume_mapping_curve = 
-        [
-            
-            [
-                0,
-                0.600000,
-                0,
-                0,
-                2,
-                3,
-            ],
-            
-            [
-                256,
-                0.400000,
-                0,
-                0,
-                2,
-                3,
-            ],
-            
-            [
-                512,
-                0.300000,
-                0,
-                0,
-                2,
-                3,
-            ],
-            
-            [
-                1024,
-                0.000000,
-                0,
-                0,
-                2,
-                3,
-            ],
-        ]
-    }
-    upkk.amb.grenade = 
+	{
+		type = "csgo_mega"
+		volume = 0.6
+		occlusion_intensity = 0
+		distance_effect_mix = 0
+		restrict_source_reverb = true
+		disable_volume_culling = true
+		distance_volume_mapping_curve = 
+		[
+            [0, 0.6, 0, 0, 2, 3],      // 距离为0时，音量为1
+            [256, 0.4, 0, 0, 2, 3], // 距离为512时，音量为0.5
+            [512, 0.3, 0, 0, 2, 3], // 距离为1024时，音量为0.4
+            [1024, 0.0, 0, 0, 2, 3], // 距离为2048时，音量为0.25
+		]
+	}
+	upkk.amb.grenade = 
     {
         base = "upkk.amb.base"
         vsnd_files_track_01 = 
@@ -204,7 +76,6 @@
             "sounds/xnet/replace/grenade/grenade6.vsnd",
             "sounds/xnet/replace/grenade/grenade7.vsnd",
         ]
-        vsnd_duration = 1.515102
     }
     upkk.amb.female_die = 
     {
@@ -216,42 +87,40 @@
             "sounds/xnet/replace/death/death3.vsnd",
             "sounds/xnet/replace/death/death4.vsnd",
         ]
-        vsnd_duration = 1.018775
     }
     upkk.amb.radio_back = 
     {
-        volume = 0.400000
+        volume = 0.4
         base = "upkk.amb.smallrange"
         vsnd_files_track_01 = 
         [
             "sounds/xnet/replace/radio/back.vsnd",
         ]
-        vsnd_duration = 0.417959
     }
     upkk.amb.radio_go = 
     {
-        volume = 0.400000
+        volume = 0.4
         base = "upkk.amb.smallrange"
         vsnd_files_track_01 = 
         [
             "sounds/xnet/replace/radio/thanks.vsnd",
         ]
-        vsnd_duration = 1.018775
     }
     upkk.amb.radio_thanks = 
     {
-        volume = 0.400000
+        volume = 0.4
         base = "upkk.amb.smallrange"
         vsnd_files_track_01 = 
         [
-            "sounds/xnet/replace/radio/go.vsnd",
+            "sounds/xnet/replace/radio/thanks.vsnd",
         ]
-        vsnd_duration = 1.515102
     }
+
     upkk.amb.cheers = 
     {
         base = "upkk.amb.base"
-        volume = 0.400000
+        volume = 0.4
+        
         vsnd_files_track_01 = 
         [
             "sounds/xnet/cheer/red1.vsnd",
@@ -266,13 +135,13 @@
             "sounds/xnet/cheer/red8.vsnd",
             "sounds/xnet/cheer/red9.vsnd",
         ]
-        vsnd_duration = 4.858776
     }
     upkk.amb.cheers_global = 
     {
         base = "upkk.amb.all"
-        volume = 0.500000
+        volume = 0.5
         pitch = 1
+
         vsnd_files_track_01 = 
         [
             "sounds/xnet/cheer/red1.vsnd",
@@ -287,6 +156,5 @@
             "sounds/xnet/cheer/red8.vsnd",
             "sounds/xnet/cheer/red9.vsnd",
         ]
-        vsnd_duration = 4.858776
     }
 }
