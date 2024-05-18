@@ -11,10 +11,10 @@
 		distance_volume_mapping_curve = 
 		[
             [0, 0.8, 0, 0, 2, 3],      // 距离为0时，音量为0.8
-            [512, 0.7, 0, 0, 2, 3], // 距离为512时，音量为0.7
+            [256, 0.7, 0, 0, 2, 3], // 距离为256时，音量为0.7
+            [512, 0.6, 0, 0, 2, 3], // 距离为512时，音量为0.6
             [1024, 0.5, 0, 0, 2, 3], // 距离为1024时，音量为0.5
-            [2048, 0.4, 0, 0, 2, 3], // 距离为2048时，音量为0.4
-            [4096, 0, 0, 0, 2, 3]    // 距离为4096时，音量为0
+            [2048, 0.3, 0, 0, 2, 3]    // 距离为4096时，音量为0.3
 		]
 	}
     upkk.amb.all = 
@@ -103,7 +103,7 @@
         base = "upkk.amb.smallrange"
         vsnd_files_track_01 = 
         [
-            "sounds/xnet/replace/radio/thanks.vsnd",
+            "sounds/xnet/replace/radio/go.vsnd",
         ]
     }
     upkk.amb.radio_thanks = 
@@ -119,7 +119,7 @@
     upkk.amb.cheers = 
     {
         base = "upkk.amb.base"
-        volume = 0.7
+        volume = 0.8
         
         vsnd_files_track_01 = 
         [
