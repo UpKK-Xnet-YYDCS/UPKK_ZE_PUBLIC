@@ -3,65 +3,65 @@
 	upkk.amb.base = 
 	{
 		type = "csgo_mega"
-		volume = 0.5
+		volume = 0.8
 		occlusion_intensity = 0
 		distance_effect_mix = 0
 		restrict_source_reverb = true
 		disable_volume_culling = true
 		distance_volume_mapping_curve = 
 		[
-            [0, 0.75, 0, 0, 2, 3],      // 距离为0时，音量为0.75
-            [512, 0.5, 0, 0, 2, 3], // 距离为512时，音量为0.5
-            [1024, 0.4, 0, 0, 2, 3], // 距离为1024时，音量为0.4
-            [2048, 0.25, 0, 0, 2, 3], // 距离为2048时，音量为0.25
+            [0, 0.8, 0, 0, 2, 3],      // 距离为0时，音量为0.8
+            [512, 0.7, 0, 0, 2, 3], // 距离为512时，音量为0.7
+            [1024, 0.5, 0, 0, 2, 3], // 距离为1024时，音量为0.5
+            [2048, 0.4, 0, 0, 2, 3], // 距离为2048时，音量为0.4
             [4096, 0, 0, 0, 2, 3]    // 距离为4096时，音量为0
 		]
 	}
     upkk.amb.all = 
 	{
 		type = "csgo_mega"
-		volume = 0.5
+		volume = 0.7
 		occlusion_intensity = 0
 		distance_effect_mix = 0
 		restrict_source_reverb = true
 		disable_volume_culling = true
 		distance_volume_mapping_curve = 
 		[
-            [0, 0.5, 0, 0, 2, 3],  
-            [1024, 0.5, 0, 0, 2, 3],
-            [2048, 0.5, 0, 0, 2, 3], 
-            [4096, 0.5, 0, 0, 2, 3],  
-            [99999, 0.5, 0, 0, 2, 3],  
+            [0, 0.7, 0, 0, 2, 3],  
+            [1024, 0.7, 0, 0, 2, 3],
+            [2048, 0.7, 0, 0, 2, 3], 
+            [4096, 0.7, 0, 0, 2, 3],  
+            [99999, 0.7, 0, 0, 2, 3],  
 		]
 	}
     upkk.amb.self = 
 	{
 		type = "csgo_mega"
-		volume = 0.5
+		volume = 0.8
 		occlusion_intensity = 0
 		distance_effect_mix = 0
 		restrict_source_reverb = true
 		disable_volume_culling = true
 		distance_volume_mapping_curve = 
 		[
-            [0, 0.5, 0, 0, 2, 3],  
+            [0, 0.8, 0, 0, 2, 3],  
             [60, 0.0, 0, 0, 2, 3],
 		]
 	}
     upkk.amb.smallrange = 
 	{
 		type = "csgo_mega"
-		volume = 0.6
+		volume = 0.8
 		occlusion_intensity = 0
 		distance_effect_mix = 0
 		restrict_source_reverb = true
 		disable_volume_culling = true
 		distance_volume_mapping_curve = 
 		[
-            [0, 0.6, 0, 0, 2, 3],      // 距离为0时，音量为0.6
-            [256, 0.4, 0, 0, 2, 3], // 距离为512时，音量为0.4
-            [512, 0.3, 0, 0, 2, 3], // 距离为1024时，音量为0.3
-            [1024, 0.0, 0, 0, 2, 3], // 距离为1024时，音量为0.0
+            [0, 0.8, 0, 0, 2, 3],      // 距离为0时，音量为0.8
+            [256, 0.7, 0, 0, 2, 3], // 距离为256时，音量为0.7
+            [512, 0.6, 0, 0, 2, 3], // 距离为512时，音量为0.6
+            [1024, 0.5, 0, 0, 2, 3], // 距离为1024时，音量为0.5
 		]
 	}
 	upkk.amb.grenade = 
@@ -90,7 +90,7 @@
     }
     upkk.amb.radio_back = 
     {
-        volume = 0.4
+        volume = 0.8
         base = "upkk.amb.smallrange"
         vsnd_files_track_01 = 
         [
@@ -99,7 +99,7 @@
     }
     upkk.amb.radio_go = 
     {
-        volume = 0.4
+        volume = 0.8
         base = "upkk.amb.smallrange"
         vsnd_files_track_01 = 
         [
@@ -108,7 +108,7 @@
     }
     upkk.amb.radio_thanks = 
     {
-        volume = 0.4
+        volume = 0.8
         base = "upkk.amb.smallrange"
         vsnd_files_track_01 = 
         [
@@ -119,7 +119,7 @@
     upkk.amb.cheers = 
     {
         base = "upkk.amb.base"
-        volume = 0.4
+        volume = 0.7
         
         vsnd_files_track_01 = 
         [
@@ -139,7 +139,7 @@
     upkk.amb.cheers_global = 
     {
         base = "upkk.amb.all"
-        volume = 0.5
+        volume = 0.7
         pitch = 1
 
         vsnd_files_track_01 = 
