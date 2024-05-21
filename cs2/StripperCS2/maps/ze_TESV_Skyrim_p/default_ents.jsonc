@@ -1,0 +1,1239 @@
+{
+    // 文本翻译
+    "modify": [
+        {
+            "match": {
+                "io": [
+                    {
+                        "overrideparam": "say >> Kill the remaining Zombies! <<"
+                    }
+                ]
+            },
+            "replace": {
+                "io": {
+                    "overrideparam": "say *** 杀死剩余的僵尸！ ***"
+                }
+            }
+        },
+        {
+            "match": {
+                "io": [
+                    {
+                        "overrideparam": "say >> We need to inform the Jarl of Whiterun that the dragons are attacking! <<"
+                    }
+                ]
+            },
+            "replace": {
+                "io": {
+                    "overrideparam": "say *** 我们需要通知怀特伦的领主，龙正在进攻！ ***"
+                }
+            }
+        },
+        {
+            "match": {
+                "io": [
+                    {
+                        "overrideparam": "say >> City door opens in 35 seconds! <<"
+                    }
+                ]
+            },
+            "replace": {
+                "io": {
+                    "overrideparam": "say *** 城市门35s后打开！ ***"
+                }
+            }
+        },
+        {
+            "match": {
+                "io": [
+                    {
+                        "overrideparam": "say >> Hold them back for 25 more seconds! <<"
+                    }
+                ]
+            },
+            "replace": {
+                "io": {
+                    "overrideparam": "say *** 再守25s！ ***"
+                }
+            }
+        },
+        {
+            "match": {
+                "io": [
+                    {
+                        "overrideparam": "say >> Defend the bridge until door opens! <<"
+                    }
+                ]
+            },
+            "replace": {
+                "io": {
+                    "overrideparam": "say *** 守住这座桥直到门开！ ***"
+                }
+            }
+        },
+        {
+            "match": {
+                "io": [
+                    {
+                        "overrideparam": "say >> IT'S A DRAGON! <<"
+                    }
+                ]
+            },
+            "replace": {
+                "io": {
+                    "overrideparam": "say *** 是条龙！ ***"
+                }
+            }
+        },
+        {
+            "match": {
+                "io": [
+                    {
+                        "overrideparam": "say >> SHOOT IT! <<"
+                    }
+                ]
+            },
+            "replace": {
+                "io": {
+                    "overrideparam": "say *** 开枪！ ***"
+                }
+            }
+        },
+        {
+            "match": {
+                "io": [
+                    {
+                        "overrideparam": "say >> THE DRAGON IS GOING TO KILL US ALL !!! <<"
+                    }
+                ]
+            },
+            "replace": {
+                "io": {
+                    "overrideparam": "say *** 龙要杀了我们！！！ ***"
+                }
+            }
+        },
+        {
+            "match": {
+                "io": [
+                    {
+                        "overrideparam": "say >> Exit through the secret door! <<"
+                    }
+                ]
+            },
+            "replace": {
+                "io": {
+                    "overrideparam": "say *** 从暗门出去！ ***"
+                }
+            }
+        },
+        {
+            "match": {
+                "io": [
+                    {
+                        "overrideparam": "say >> Dragon has been spotted outside Whiterun! <<"
+                    }
+                ]
+            },
+            "replace": {
+                "io": {
+                    "overrideparam": "say *** 龙在Whiterun城外出现了！ ***"
+                }
+            }
+        },
+        {
+            "match": {
+                "io": [
+                    {
+                        "overrideparam": "say >> Go through the balcony door! <<"
+                    }
+                ]
+            },
+            "replace": {
+                "io": {
+                    "overrideparam": "say *** 穿过阳台门！ ***"
+                }
+            }
+        },
+        {
+            "match": {
+                "io": [
+                    {
+                        "overrideparam": "say >> Stage Completed! <<"
+                    }
+                ]
+            },
+            "replace": {
+                "io": {
+                    "overrideparam": "say *** 关卡完成！ ***"
+                }
+            }
+        },
+        {
+            "match": {
+                "io": [
+                    {
+                        "overrideparam": "say >> Run for the bridge of Dragons Reach!! <<"
+                    }
+                ]
+            },
+            "replace": {
+                "io": {
+                    "overrideparam": "say *** 上桥！ ***"
+                }
+            }
+        },
+        {
+            "match": {
+                "io": [
+                    {
+                        "overrideparam": "say >> City door opens in 25 seconds! <<"
+                    }
+                ]
+            },
+            "replace": {
+                "io": {
+                    "overrideparam": "say *** 城市大门25s后开放！ ***"
+                }
+            }
+        },
+        {
+            "match": {
+                "io": [
+                    {
+                        "overrideparam": "say >> HOLD THEM BACK! <<"
+                    }
+                ]
+            },
+            "replace": {
+                "io": {
+                    "overrideparam": "say *** 守住！ ***"
+                }
+            }
+        },
+        {
+            "match": {
+                "io": [
+                    {
+                        "overrideparam": "say >> We need to get away from these dragons! <<"
+                    }
+                ]
+            },
+            "replace": {
+                "io": {
+                    "overrideparam": "say *** 我们需要躲开这些龙！ ***"
+                }
+            }
+        },
+        {
+            "match": {
+                "io": [
+                    {
+                        "overrideparam": "say >> Go through the house to the sewers! <<"
+                    }
+                ]
+            },
+            "replace": {
+                "io": {
+                    "overrideparam": "say *** 穿过房子到下水道！ ***"
+                }
+            }
+        },
+        {
+            "match": {
+                "io": [
+                    {
+                        "overrideparam": "say >> Door Opens In 20 Seconds! <<"
+                    }
+                ]
+            },
+            "replace": {
+                "io": {
+                    "overrideparam": "say *** 还有20s门开 ***"
+                }
+            }
+        },
+        {
+            "match": {
+                "io": [
+                    {
+                        "overrideparam": "say >> Fall Back Now! <<"
+                    }
+                ]
+            },
+            "replace": {
+                "io": {
+                    "overrideparam": "say *** 快跑！ ***"
+                }
+            }
+        },
+        {
+            "match": {
+                "io": [
+                    {
+                        "overrideparam": "say >> We need to hold the Plains District for 45 seconds HOLD THEM BACK! <<"
+                    }
+                ]
+            },
+            "replace": {
+                "io": {
+                    "overrideparam": "say *** 大我们需要守住平原区 45 秒 守住他们！ ***"
+                }
+            }
+        },
+        {
+            "match": {
+                "io": [
+                    {
+                        "overrideparam": "say >> Door Closes in 25 seconds <<"
+                    }
+                ]
+            },
+            "replace": {
+                "io": {
+                    "overrideparam": "say *** 25s后门关 ***"
+                }
+            }
+        },
+        {
+            "match": {
+                "io": [
+                    {
+                        "overrideparam": "say >> Keep Defending! <<"
+                    }
+                ]
+            },
+            "replace": {
+                "io": {
+                    "overrideparam": "say *** 继续守！ ***"
+                }
+            }
+        },
+        {
+            "match": {
+                "io": [
+                    {
+                        "overrideparam": "say >> Door Closes in 15 seconds <<"
+                    }
+                ]
+            },
+            "replace": {
+                "io": {
+                    "overrideparam": "say *** 15s门关 ***"
+                }
+            }
+        },
+        {
+            "match": {
+                "io": [
+                    {
+                        "overrideparam": "say >> Door Closes in 5 seconds <<"
+                    }
+                ]
+            },
+            "replace": {
+                "io": {
+                    "overrideparam": "say *** 5s门关 ***"
+                }
+            }
+        },
+        {
+            "match": {
+                "io": [
+                    {
+                        "overrideparam": "say >> The dragon is fleeing! <<"
+                    }
+                ]
+            },
+            "replace": {
+                "io": {
+                    "overrideparam": "say *** 龙在逃跑！ ***"
+                }
+            }
+        },
+        {
+            "match": {
+                "io": [
+                    {
+                        "overrideparam": "say >> Run towards the tower now! <<"
+                    }
+                ]
+            },
+            "replace": {
+                "io": {
+                    "overrideparam": "say *** 现在朝对面塔楼跑！ ***"
+                }
+            }
+        },
+        {
+            "match": {
+                "io": [
+                    {
+                        "overrideparam": "say >> Hold here for 30 seconds! <<"
+                    }
+                ]
+            },
+            "replace": {
+                "io": {
+                    "overrideparam": "say *** 在这里守30s！ ***"
+                }
+            }
+        },
+        {
+            "match": {
+                "io": [
+                    {
+                        "overrideparam": "say >> City gate closes in 50 seconds <<"
+                    }
+                ]
+            },
+            "replace": {
+                "io": {
+                    "overrideparam": "say *** 城门在 50s 后关闭 ***"
+                }
+            }
+        },
+        {
+            "match": {
+                "io": [
+                    {
+                        "overrideparam": "say >> Defend until someone gets the key from the other room! <<"
+                    }
+                ]
+            },
+            "replace": {
+                "io": {
+                    "overrideparam": "say *** 守到有人拿到钥匙！ ***"
+                }
+            }
+        },
+        {
+            "match": {
+                "io": [
+                    {
+                        "overrideparam": "say >> Run for the helgen keep NOW! <<"
+                    }
+                ]
+            },
+            "replace": {
+                "io": {
+                    "overrideparam": "say *** 现在向海尔根要塞跑！ ***"
+                }
+            }
+        },
+        {
+            "match": {
+                "io": [
+                    {
+                        "overrideparam": "say >> We killed the Dragonpriest! <<"
+                    }
+                ]
+            },
+            "replace": {
+                "io": {
+                    "overrideparam": "say *** 我们杀死了龙祭司！ ***"
+                }
+            }
+        },
+        {
+            "match": {
+                "io": [
+                    {
+                        "overrideparam": "say >> Hold the zombies back until the teleporter activates! <<"
+                    }
+                ]
+            },
+            "replace": {
+                "io": {
+                    "overrideparam": "say *** 守住僵尸，等到传送激活！***"
+                }
+            }
+        },
+        {
+            "match": {
+                "io": [
+                    {
+                        "overrideparam": "say >> The teleporter is working JUMP INTO IT!  <<"
+                    }
+                ]
+            },
+            "replace": {
+                "io": {
+                    "overrideparam": "say *** 传送好了，跳进去！ ***"
+                }
+            }
+        },
+        {
+            "match": {
+                "io": [
+                    {
+                        "overrideparam": "say >> Kill the Dragonpriest! <<"
+                    }
+                ]
+            },
+            "replace": {
+                "io": {
+                    "overrideparam": "say *** 杀死龙祭祀！ ***"
+                }
+            }
+        },
+        {
+            "match": {
+                "io": [
+                    {
+                        "overrideparam": "say >> Elevator leaves in 20 seconds! <<"
+                    }
+                ]
+            },
+            "replace": {
+                "io": {
+                    "overrideparam": "say *** 电梯20s后离开！ ***"
+                }
+            }
+        },
+        {
+            "match": {
+                "io": [
+                    {
+                        "overrideparam": "say >> Elevator leaves in 5 seconds! <<"
+                    }
+                ]
+            },
+            "replace": {
+                "io": {
+                    "overrideparam": "say *** 还有5s！ ***"
+                }
+            }
+        },
+        {
+            "match": {
+                "io": [
+                    {
+                        "overrideparam": "say >> USE THE ELDER SCROLL NOW <<"
+                    }
+                ]
+            },
+            "replace": {
+                "io": {
+                    "overrideparam": "say *** 现在使用上古卷轴！ ***"
+                }
+            }
+        },
+        {
+            "match": {
+                "io": [
+                    {
+                        "overrideparam": "say >> You Have Defeated Alduin <<"
+                    }
+                ]
+            },
+            "replace": {
+                "io": {
+                    "overrideparam": "say *** 你打败了奥杜因 ***"
+                }
+            }
+        },
+        {
+            "match": {
+                "io": [
+                    {
+                        "overrideparam": "say ** YOU HAVE BEATEN THE MAP CONGRATULATIONS !!! **"
+                    }
+                ]
+            },
+            "replace": {
+                "io": {
+                    "overrideparam": "say *** 你通关了地图！恭喜！！！ ***"
+                }
+            }
+        },
+        {
+            "match": {
+                "io": [
+                    {
+                        "overrideparam": "say ** MAP BY P'A'SS AND KIM !!! **"
+                    }
+                ]
+            },
+            "replace": {
+                "io": {
+                    "overrideparam": "say *** 地图作者：P'A'SS AND KIM 翻译：秋刀鱼 ***"
+                }
+            }
+        },
+        {
+            "match": {
+                "io": [
+                    {
+                        "overrideparam": "say >> Kill The Remaining Zombie! <<"
+                    }
+                ]
+            },
+            "replace": {
+                "io": {
+                    "overrideparam": "say *** 杀死剩余的僵尸！ ***"
+                }
+            }
+        },
+        {
+            "match": {
+                "io": [
+                    {
+                        "overrideparam": "say >> We need to hold the Plains District for 40 seconds HOLD THEM BACK! <<"
+                    }
+                ]
+            },
+            "replace": {
+                "io": {
+                    "overrideparam": "say *** 说>>我们需要守住平原区 40 秒 << ***"
+                }
+            }
+        },
+        {
+            "match": {
+                "io": [
+                    {
+                        "overrideparam": "say *** THE ELDER SCROLL MADE IT TO THE END ***"
+                    }
+                ]
+            },
+            "replace": {
+                "io": {
+                    "overrideparam": "say *** 拿到了上古卷轴 ***"
+                }
+            }
+        },
+        {
+            "match": {
+                "io": [
+                    {
+                        "overrideparam": "say *** YOU CAN NOW USE IT ON NEXT STAGE **"
+                    }
+                ]
+            },
+            "replace": {
+                "io": {
+                    "overrideparam": "say *** 你能在下一关中使用它了 ***"
+                }
+            }
+        },
+        {
+            "match": {
+                "io": [
+                    {
+                        "overrideparam": "say >> Admin Pressed Kill All button! <<"
+                    }
+                ]
+            },
+            "replace": {
+                "io": {
+                    "overrideparam": "say *** Admin按下了处死！ ***"
+                }
+            }
+        },
+        {
+            "match": {
+                "io": [
+                    {
+                        "overrideparam": "say >> Door Opens in 45 seconds <<"
+                    }
+                ]
+            },
+            "replace": {
+                "io": {
+                    "overrideparam": "say *** 45s后门开 ***"
+                }
+            }
+        },
+        {
+            "match": {
+                "io": [
+                    {
+                        "overrideparam": "say >> Go Downstairs to the Treasure room and take the Elder Scroll! <<"
+                    }
+                ]
+            },
+            "replace": {
+                "io": {
+                    "overrideparam": "say *** 下楼去宝藏室拿上古卷轴！（注意陷阱 ***"
+                }
+            }
+        },
+        {
+            "match": {
+                "io": [
+                    {
+                        "overrideparam": "say >> Find a way to open the Door! <<"
+                    }
+                ]
+            },
+            "replace": {
+                "io": {
+                    "overrideparam": "say *** 找到开门的方法 ***"
+                }
+            }
+        },
+        {
+            "match": {
+                "io": [
+                    {
+                        "overrideparam": "say >> Elevator leaves in 30 seconds! <<"
+                    }
+                ]
+            },
+            "replace": {
+                "io": {
+                    "overrideparam": "say *** 电梯30s后离开！ ***"
+                }
+            }
+        },
+        {
+            "match": {
+                "io": [
+                    {
+                        "overrideparam": "say >> Elevator leaves in 10 seconds! <<"
+                    }
+                ]
+            },
+            "replace": {
+                "io": {
+                    "overrideparam": "say *** 电梯10s后离开！ ***"
+                }
+            }
+        },
+        {
+            "match": {
+                "io": [
+                    {
+                        "overrideparam": "say >> Elevator leaves in 5 seconds! <<"
+                    }
+                ]
+            },
+            "replace": {
+                "io": {
+                    "overrideparam": "say *** 电梯5s后离开！上电梯！ ***"
+                }
+            }
+        },
+        {
+            "match": {
+                "io": [
+                    {
+                        "overrideparam": "say >> Elevator is leaving! <<"
+                    }
+                ]
+            },
+            "replace": {
+                "io": {
+                    "overrideparam": "say *** 电梯上升中！ ***"
+                }
+            }
+        },
+        {
+            "match": {
+                "io": [
+                    {
+                        "overrideparam": "say >> Run for the Mead Hall <<"
+                    }
+                ]
+            },
+            "replace": {
+                "io": {
+                    "overrideparam": "say *** 向Mead Hall跑 ***"
+                }
+            }
+        },
+        {
+            "match": {
+                "io": [
+                    {
+                        "overrideparam": "say *** Door opens in 25 seconds! ***"
+                    }
+                ]
+            },
+            "replace": {
+                "io": {
+                    "overrideparam": "say *** 还有25s开门！ ***"
+                }
+            }
+        },
+        {
+            "match": {
+                "io": [
+                    {
+                        "overrideparam": "say *** FALL BACK ***"
+                    }
+                ]
+            },
+            "replace": {
+                "io": {
+                    "overrideparam": "say *** 撤退！ ***"
+                }
+            }
+        },
+        {
+            "match": {
+                "io": [
+                    {
+                        "overrideparam": "say *** We got the key! ***"
+                    }
+                ]
+            },
+            "replace": {
+                "io": {
+                    "overrideparam": "say *** 我们拿到了钥匙！ ***"
+                }
+            }
+        },
+        {
+            "match": {
+                "io": [
+                    {
+                        "overrideparam": "say *** Kill the remaining zombies! ***"
+                    }
+                ]
+            },
+            "replace": {
+                "io": {
+                    "overrideparam": "say *** 杀死剩下的僵尸 ***"
+                }
+            }
+        },
+        {
+            "match": {
+                "io": [
+                    {
+                        "overrideparam": "say *** Stage Completed ***"
+                    }
+                ]
+            },
+            "replace": {
+                "io": {
+                    "overrideparam": "say *** 关卡完成 ***"
+                }
+            }
+        },
+        {
+            "match": {
+                "io": [
+                    {
+                        "overrideparam": "say >> Defend the bridge don't let the zombies on the other side! <<"
+                    }
+                ]
+            },
+            "replace": {
+                "io": {
+                    "overrideparam": "say *** 守住桥！ ***"
+                }
+            }
+        },
+        {
+            "match": {
+                "io": [
+                    {
+                        "overrideparam": "say >> Fall back Now!! <<"
+                    }
+                ]
+            },
+            "replace": {
+                "io": {
+                    "overrideparam": "say *** 撤退！ ***"
+                }
+            }
+        },
+        {
+            "match": {
+                "io": [
+                    {
+                        "overrideparam": "say >>> Doors open in 25 seconds <<<"
+                    }
+                ]
+            },
+            "replace": {
+                "io": {
+                    "overrideparam": "say *** 25s后门开 ***"
+                }
+            }
+        },
+        {
+            "match": {
+                "io": [
+                    {
+                        "overrideparam": "say *** Hold for just 25 seconds more! ***"
+                    }
+                ]
+            },
+            "replace": {
+                "io": {
+                    "overrideparam": "say *** 再守25s！ ***"
+                }
+            }
+        },
+        {
+            "match": {
+                "io": [
+                    {
+                        "overrideparam": "say *** Lever has been pulled! ***"
+                    }
+                ]
+            },
+            "replace": {
+                "io": {
+                    "overrideparam": "say *** 拉杆按下了！ ***"
+                }
+            }
+        },
+        {
+            "match": {
+                "io": [
+                    {
+                        "overrideparam": "say *** Door will open in 30 seconds ***"
+                    }
+                ]
+            },
+            "replace": {
+                "io": {
+                    "overrideparam": "say *** 30s门开 ***"
+                }
+            }
+        },
+        {
+            "match": {
+                "io": [
+                    {
+                        "overrideparam": "say *** You have found the switch! ***"
+                    }
+                ]
+            },
+            "replace": {
+                "io": {
+                    "overrideparam": "say *** 你找到了开关！ ***"
+                }
+            }
+        },
+        {
+            "match": {
+                "io": [
+                    {
+                        "overrideparam": "say *** Hold the bridges for 30 seconds *** "
+                    }
+                ]
+            },
+            "replace": {
+                "io": {
+                    "overrideparam": "say *** 守住桥30s ***"
+                }
+            }
+        },
+        {
+            "match": {
+                "io": [
+                    {
+                        "overrideparam": "say *** Hold the cave for 30 seconds *** <<"
+                    }
+                ]
+            },
+            "replace": {
+                "io": {
+                    "overrideparam": "say *** 山洞守30s ***"
+                }
+            }
+        },
+        {
+            "match": {
+                "io": [
+                    {
+                        "overrideparam": "say *** Seems like the lever is broken ***"
+                    }
+                ]
+            },
+            "replace": {
+                "io": {
+                    "overrideparam": "say *** 拉杆看起来好像坏了 ***"
+                }
+            }
+        },
+        {
+            "match": {
+                "io": [
+                    {
+                        "overrideparam": "say *** Find a way to fix it! ***"
+                    }
+                ]
+            },
+            "replace": {
+                "io": {
+                    "overrideparam": "say *** 想办法修好它！ ***"
+                }
+            }
+        },
+        {
+            "match": {
+                "io": [
+                    {
+                        "overrideparam": "say *** There should be a switch for that door somewhere! ***"
+                    }
+                ]
+            },
+            "replace": {
+                "io": {
+                    "overrideparam": "say *** 应该有个开门的开关在某处！ ***"
+                }
+            }
+        },
+        {
+            "match": {
+                "io": [
+                    {
+                        "overrideparam": "say *** Good job ***"
+                    }
+                ]
+            },
+            "replace": {
+                "io": {
+                    "overrideparam": "say *** 干得好！ ***"
+                }
+            }
+        },
+        {
+            "match": {
+                "io": [
+                    {
+                        "overrideparam": "say *** The doors will now open a bit faster! ***"
+                    }
+                ]
+            },
+            "replace": {
+                "io": {
+                    "overrideparam": "say *** 门应该快开了！ ***"
+                }
+            }
+        },
+        {
+            "match": {
+                "io": [
+                    {
+                        "overrideparam": "say *** Hold for 45 seconds OR find a way to make it open faster ***"
+                    }
+                ]
+            },
+            "replace": {
+                "io": {
+                    "overrideparam": "say *** 守住45s或者找个方法让门开快一点 ***"
+                }
+            }
+        },
+        {
+            "match": {
+                "io": [
+                    {
+                        "overrideparam": "say >>> KILL THE REMAINING ZOMBIES <<<"
+                    }
+                ]
+            },
+            "replace": {
+                "io": {
+                    "overrideparam": "say *** 杀死活着的僵尸 ***"
+                }
+            }
+        },
+        {
+            "match": {
+                "io": [
+                    {
+                        "overrideparam": "say >> Stage 2 Whiterun <<"
+                    }
+                ]
+            },
+            "replace": {
+                "io": {
+                    "overrideparam": "say *** 关卡2 Whiterun ***"
+                }
+            }
+        },
+        {
+            "match": {
+                "io": [
+                    {
+                        "overrideparam": "say >> Stage 5 Sovngarde <<"
+                    }
+                ]
+            },
+            "replace": {
+                "io": {
+                    "overrideparam": "say *** 关卡5 Sovngarde ***"
+                }
+            }
+        },
+        {
+            "match": {
+                "io": [
+                    {
+                        "overrideparam": "say *** Map By P'a'ss and Kim ***"
+                    }
+                ]
+            },
+            "replace": {
+                "io": {
+                    "overrideparam": "say *** 地图作者：P'A'SS AND KIM 翻译：秋刀鱼 ***"
+                }
+            }
+        },
+        {
+            "match": {
+                "io": [
+                    {
+                        "overrideparam": "say >> Stage 1 Helgen <<"
+                    }
+                ]
+            },
+            "replace": {
+                "io": {
+                    "overrideparam": "say *** 关卡1 Helgen ***"
+                }
+            }
+        },
+        {
+            "match": {
+                "io": [
+                    {
+                        "overrideparam": "say >> Stage 4 Dwemer ruins <<"
+                    }
+                ]
+            },
+            "replace": {
+                "io": {
+                    "overrideparam": "say *** 关卡4 Dwemer ruins ***"
+                }
+            }
+        },
+        {
+            "match": {
+                "io": [
+                    {
+                        "overrideparam": "say >> Stage 3 Road To Dwemer Ruins <<"
+                    }
+                ]
+            },
+            "replace": {
+                "io": {
+                    "overrideparam": "say *** 关卡3 Road To Dwemer Ruins ***"
+                }
+            }
+        },
+        {
+            "match": {
+                "io": [
+                    {
+                        "overrideparam": "say >> WARMUP ROUND <<"
+                    }
+                ]
+            },
+            "replace": {
+                "io": {
+                    "overrideparam": "say *** 热身回合 ***"
+                }
+            }
+        },
+        {
+            "match": {
+                "io": [
+                    {
+                        "overrideparam": "say >>> After winning a round you will get 100 points which equals with 1 level  <<<"
+                    }
+                ]
+            },
+            "replace": {
+                "io": {
+                    "overrideparam": "say 每过一关的人类都会获得100分"
+                }
+            }
+        },
+        {
+            "match": {
+                "io": [
+                    {
+                        "overrideparam": "say >>> Level 1 item requires 100 points Level 2 item requires 200 points and so on. <<<"
+                    }
+                ]
+            },
+            "replace": {
+                "io": {
+                    "overrideparam": "say 1 级皮肤需要 100 分，2 级皮肤需要 200 分，依此类推。"
+                }
+            }
+        },
+        {
+            "match": {
+                "io": [
+                    {
+                        "overrideparam": "say >>> When round starts you have small amount of time to pick an item before the zombies spawn <<<"
+                    }
+                ]
+            },
+            "replace": {
+                "io": {
+                    "overrideparam": "say 回合开始时，僵尸母体出现前，您有很少的时间来获取皮肤*"
+                }
+            }
+        },
+        {
+            "match": {
+                "io": [
+                    {
+                        "overrideparam": "say >>> AFTER PICKING UP AN ITEM YOU CAN USE THEIR ATTACKS WITH EITHER LEFT OR RIGHT MOUSE CLICK <<<"
+                    }
+                ]
+            },
+            "replace": {
+                "io": {
+                    "overrideparam": "say 捡起皮肤后，您可以通过鼠标左键和右键使用它们的平A和技能"
+                }
+            }
+        },
+        {
+            "match": {
+                "io": [
+                    {
+                        "overrideparam": "say >>> Shooting the Zombie items in the head will push them back! <<<"
+                    }
+                ]
+            },
+            "replace": {
+                "io": {
+                    "overrideparam": "say 射击僵尸皮肤的头部会将它们击退！"
+                }
+            }
+        },
+        {
+            "match": {
+                "io": [
+                    {
+                        "overrideparam": "say >>> ONLY 1 OF EACH HUMAN ITEMS CAN BE TAKEN AT ONCE <<<"
+                    }
+                ]
+            },
+            "replace": {
+                "io": {
+                    "overrideparam": "say 每种人类皮肤每局只能拿一次"
+                }
+            }
+        },
+        {
+            "match": {
+                "io": [
+                    {
+                        "overrideparam": "say >> The dragon is fleeing! Run to the Helgen keep! <<"
+                    }
+                ]
+            },
+            "replace": {
+                "io": {
+                    "overrideparam": "say 巨龙正在逃跑！跑到海尔根要塞！"
+                }
+            }
+        }
+        
+    
+    ]
+}
