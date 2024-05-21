@@ -1,0 +1,145 @@
+{
+    // 文本翻译
+    "modify": [
+        {
+            "match": {
+                "io": [
+                    {
+                        "overrideparam": "say ~~ Keep away from the door 45S ~~"
+                    }
+                ]
+            },
+            "replace": {
+                "io": {
+                    "overrideparam": "say *** 守住45s，不要贴门 不要贴门 不要贴门 ***"
+                }
+            }
+        },
+        {
+            "match": {
+                "io": [
+                    {
+                        "overrideparam": "say ~~60s~~"
+                    }
+                ]
+            },
+            "replace": {
+                "io": {
+                    "overrideparam": "say *** 守住60s ***"
+                }
+            }
+        },
+        {
+            "match": {
+                "io": [
+                    {
+                        "overrideparam": "say run~~~!!!"
+                    }
+                ]
+            },
+            "replace": {
+                "io": {
+                    "overrideparam": "say *** 快跑！快跑！快跑！ ***"
+                }
+            }
+        },
+        {
+            "match": {
+                "io": [
+                    {
+                        "overrideparam": "say ---60s---"
+                    }
+                ]
+            },
+            "replace": {
+                "io": {
+                    "overrideparam": "say *** 守住60s *** 开枪，人呢。"
+                }
+            }
+        },
+        {
+            "match": {
+                "io": [
+                    {
+                        "overrideparam": "say ~~15s~~"
+                    }
+                ]
+            },
+            "replace": {
+                "io": {
+                    "overrideparam": "say *** 还剩15s ***"
+                }
+            }
+        },
+        {
+            "match": {
+                "io": [
+                    {
+                        "overrideparam": "say 10s boom~"
+                    }
+                ]
+            },
+            "replace": {
+                "io": {
+                    "overrideparam": "say *** 10s后核爆 ***"
+                }
+            }
+        },
+        {
+            "match": {
+                "io": [
+                    {
+                        "overrideparam": "say ~~30s~~"
+                    }
+                ]
+            },
+            "replace": {
+                "io": {
+                    "overrideparam": "say *** 还剩30s  ***"
+                }
+            }
+        },
+        {
+            "match": {
+                "io": [
+                    {
+                        "overrideparam": "say ~~10s~~"
+                    }
+                ]
+            },
+            "replace": {
+                "io": {
+                    "overrideparam": "say *** 还剩10s ***"
+                }
+            }
+        },
+        {
+            "match": {
+                "io": [
+                    {
+                        "overrideparam": "say ---30s---"
+                    }
+                ]
+            },
+            "replace": {
+                "io": {
+                    "overrideparam": "say *** 30s后传送***"
+                }
+            }
+        },
+        {
+            "match": {
+                "io": [
+                    {
+                        "overrideparam": "say ---10s---"
+                    }
+                ]
+            },
+            "replace": {
+                "io": {
+                    "overrideparam": "say *** 还剩10s ***"
+                }
+            }
+        }
+    ]
+}
