@@ -1,0 +1,537 @@
+{
+    // 文本翻译
+    "modify": [
+        {
+            "match": {
+                "io": [
+                    {
+                        "overrideparam": "say Sponge builder has been picked up."
+                    }
+                ]
+            },
+            "replace": {
+                "io": {
+                    "overrideparam": "say *** 海绵建筑师已被拾起。 ***"
+                }
+            }
+        },
+        {
+            "match": {
+                "io": [
+                    {
+                        "overrideparam": "say Mouse trap has been picked up."
+                    }
+                ]
+            },
+            "replace": {
+                "io": {
+                    "overrideparam": "say *** 老鼠夹已被拾起。 ***"
+                }
+            }
+        },
+        {
+            "match": {
+                "io": [
+                    {
+                        "overrideparam": "say The path has been cleared."
+                    }
+                ]
+            },
+            "replace": {
+                "io": {
+                    "overrideparam": "say *** 路径已被清理。 ***"
+                }
+            }
+        },
+        {
+            "match": {
+                "io": [
+                    {
+                        "overrideparam": "say We can use the hairdryer to reach the shelf!"
+                    }
+                ]
+            },
+            "replace": {
+                "io": {
+                    "overrideparam": "say *** 我们可以用吹风机到达架子上！ ***"
+                }
+            }
+        },
+        {
+            "match": {
+                "io": [
+                    {
+                        "overrideparam": "say We are trapped! Resist!"
+                    }
+                ]
+            },
+            "replace": {
+                "io": {
+                    "overrideparam": "say *** 我们被困住了！抵抗！ ***"
+                }
+            }
+        },
+        {
+            "match": {
+                "io": [
+                    {
+                        "overrideparam": "say Fall back we can walk across the door."
+                    }
+                ]
+            },
+            "replace": {
+                "io": {
+                    "overrideparam": "say *** 后退，我们可以走过门。 ***"
+                }
+            }
+        },
+        {
+            "match": {
+                "io": [
+                    {
+                        "overrideparam": "say Hold on for a few seconds."
+                    }
+                ]
+            },
+            "replace": {
+                "io": {
+                    "overrideparam": "say *** 坚持几秒钟。 ***"
+                }
+            }
+        },
+        {
+            "match": {
+                "io": [
+                    {
+                        "overrideparam": "say Fall back!"
+                    }
+                ]
+            },
+            "replace": {
+                "io": {
+                    "overrideparam": "say *** 后退！ ***"
+                }
+            }
+        },
+        {
+            "match": {
+                "io": [
+                    {
+                        "overrideparam": "say That's it! Break the shelf support."
+                    }
+                ]
+            },
+            "replace": {
+                "io": {
+                    "overrideparam": "say *** 就是这样！打破架子支撑 ***"
+                }
+            }
+        },
+        {
+            "match": {
+                "io": [
+                    {
+                        "overrideparam": "say There is no way around."
+                    }
+                ]
+            },
+            "replace": {
+                "io": {
+                    "overrideparam": "say *** 没有绕过的路。 ***"
+                }
+            }
+        },
+        {
+            "match": {
+                "io": [
+                    {
+                        "overrideparam": "say We'll have to enter the boiler. Resist!"
+                    }
+                ]
+            },
+            "replace": {
+                "io": {
+                    "overrideparam": "say *** 我们必须进入锅炉。抵抗！ ***"
+                }
+            }
+        },
+        {
+            "match": {
+                "io": [
+                    {
+                        "overrideparam": "say We can enter through that hole! Fall back!"
+                    }
+                ]
+            },
+            "replace": {
+                "io": {
+                    "overrideparam": "say *** 我们可以通过那个洞进入！后退！ ***"
+                }
+            }
+        },
+        {
+            "match": {
+                "io": [
+                    {
+                        "overrideparam": "say Resist until the wall breaks."
+                    }
+                ]
+            },
+            "replace": {
+                "io": {
+                    "overrideparam": "say *** 抵抗，直到墙壁破裂。 ***"
+                }
+            }
+        },
+        {
+            "match": {
+                "io": [
+                    {
+                        "overrideparam": "say Fall back!"
+                    }
+                ]
+            },
+            "replace": {
+                "io": {
+                    "overrideparam": "say *** 后退！ ***"
+                }
+            }
+        },
+        {
+            "match": {
+                "io": [
+                    {
+                        "overrideparam": "say We have to clear the soap out of the way to be able to climb up."
+                    }
+                ]
+            },
+            "replace": {
+                "io": {
+                    "overrideparam": "say *** 我们必须清除肥皂才能爬上去。 ***"
+                }
+            }
+        },
+        {
+            "match": {
+                "io": [
+                    {
+                        "overrideparam": "say We'll have to jump outside and walk across the mirror."
+                    }
+                ]
+            },
+            "replace": {
+                "io": {
+                    "overrideparam": "say *** 我们必须跳到外面，走过镜子。 ***"
+                }
+            }
+        },
+        {
+            "match": {
+                "io": [
+                    {
+                        "overrideparam": "say We'll have to roll down the toilet paper to safely climb down."
+                    }
+                ]
+            },
+            "replace": {
+                "io": {
+                    "overrideparam": "say *** 我们必须卷起卫生纸才能安全地爬下来。 ***"
+                }
+            }
+        },
+        {
+            "match": {
+                "io": [
+                    {
+                        "overrideparam": "say Hold for 15 seconds."
+                    }
+                ]
+            },
+            "replace": {
+                "io": {
+                    "overrideparam": "say *** 坚持15秒。 ***"
+                }
+            }
+        },
+        {
+            "match": {
+                "io": [
+                    {
+                        "overrideparam": "say Final doors are going to close in 30 seconds! Resist!"
+                    }
+                ]
+            },
+            "replace": {
+                "io": {
+                    "overrideparam": "say *** 最后的门将在30秒内关闭！抵抗！ ***"
+                }
+            }
+        },
+        {
+            "match": {
+                "io": [
+                    {
+                        "overrideparam": "say The sponge has been defeated! Run!"
+                    }
+                ]
+            },
+            "replace": {
+                "io": {
+                    "overrideparam": "say *** 海绵已被击败！快跑 ***"
+                }
+            }
+        },
+        {
+            "match": {
+                "io": [
+                    {
+                        "overrideparam": "say Kill all zombies inside!"
+                    }
+                ]
+            },
+            "replace": {
+                "io": {
+                    "overrideparam": "say *** 杀死里面的所有僵尸！ ***"
+                }
+            }
+        },
+        {
+            "match": {
+                "io": [
+                    {
+                        "overrideparam": "say You have won the map! Congratulations!"
+                    }
+                ]
+            },
+            "replace": {
+                "io": {
+                    "overrideparam": "say *** 你赢了地图！恭喜！ ***"
+                }
+            }
+        },
+        {
+            "match": {
+                "io": [
+                    {
+                        "overrideparam": "say The path is blocked. Fall back!"
+                    }
+                ]
+            },
+            "replace": {
+                "io": {
+                    "overrideparam": "say *** 路径被阻塞了。后退！ ***"
+                }
+            }
+        },
+        {
+            "match": {
+                "io": [
+                    {
+                        "overrideparam": "say Seems like there is no way to escape."
+                    }
+                ]
+            },
+            "replace": {
+                "io": {
+                    "overrideparam": "say *** 似乎没有逃脱的办法。 ***"
+                }
+            }
+        },
+        {
+            "match": {
+                "io": [
+                    {
+                        "overrideparam": "say Resist for 30 seconds."
+                    }
+                ]
+            },
+            "replace": {
+                "io": {
+                    "overrideparam": "say *** 抵抗30秒。 ***"
+                }
+            }
+        },
+        {
+            "match": {
+                "io": [
+                    {
+                        "overrideparam": "say |Admin Room|***Map has changed difficulty to LEVEL 1 ***"
+                    }
+                ]
+            },
+            "replace": {
+                "io": {
+                    "overrideparam": "say 管理员房间***地图难度已更改为LEVEL 1***"
+                }
+            }
+        },
+        {
+            "match": {
+                "io": [
+                    {
+                        "overrideparam": "say |Admin Room| *** MAP SLAYING EVERYONE ***"
+                    }
+                ]
+            },
+            "replace": {
+                "io": {
+                    "overrideparam": "say 管理员房间***地图杀死所有人***"
+                }
+            }
+        },
+        {
+            "match": {
+                "io": [
+                    {
+                        "overrideparam": "say |Admin Room|***Map has changed difficulty to LEVEL 2 ***"
+                    }
+                ]
+            },
+            "replace": {
+                "io": {
+                    "overrideparam": "say 管理员房间***地图难度已更改为LEVEL 2***"
+                }
+            }
+        },
+        {
+            "match": {
+                "io": [
+                    {
+                        "overrideparam": "say Resist for 30 seconds."
+                    }
+                ]
+            },
+            "replace": {
+                "io": {
+                    "overrideparam": "say *** 抵抗30秒。 ***"
+                }
+            }
+        },
+        {
+            "match": {
+                "io": [
+                    {
+                        "overrideparam": "say Resist for 25 seconds."
+                    }
+                ]
+            },
+            "replace": {
+                "io": {
+                    "overrideparam": "say *** 抵抗25秒。 ***"
+                }
+            }
+        },
+        {
+            "match": {
+                "io": [
+                    {
+                        "overrideparam": "say You have won first level!"
+                    }
+                ]
+            },
+            "replace": {
+                "io": {
+                    "overrideparam": "say *** 你赢得了第一关！ ***"
+                }
+            }
+        },
+        {
+            "match": {
+                "io": [
+                    {
+                        "overrideparam": "say The Rubber Duck has been defeated."
+                    }
+                ]
+            },
+            "replace": {
+                "io": {
+                    "overrideparam": "say *** 橡皮鸭（93x最强boss）已被击败。 ***"
+                }
+            }
+        },
+        {
+            "match": {
+                "io": [
+                    {
+                        "overrideparam": "say Hold here until the blue sponge drops, then get in the tub!"
+                    }
+                ]
+            },
+            "replace": {
+                "io": {
+                    "overrideparam": "say *** 在蓝色海绵掉下来之前，请在这里等待，然后进入浴缸！ ***"
+                }
+            }
+        },
+        {
+            "match": {
+                "io": [
+                    {
+                        "overrideparam": "say >>> |LEVEL 3| <<<"
+                    }
+                ]
+            },
+            "replace": {
+                "io": {
+                    "overrideparam": "say *** 第三关 ***"
+                }
+            }
+        },
+        {
+            "match": {
+                "io": [
+                    {
+                        "overrideparam": "say Map made by Puklica & Cuniczek"
+                    }
+                ]
+            },
+            "replace": {
+                "io": {
+                    "overrideparam": "say *** 地图作者：Puklica & Cuniczek 翻译：秋刀鱼 ***"
+                }
+            }
+        },
+        {
+            "match": {
+                "io": [
+                    {
+                        "overrideparam": "say >>> |LEVEL 2| <<<"
+                    }
+                ]
+            },
+            "replace": {
+                "io": {
+                    "overrideparam": "say *** 第二关 ***"
+                }
+            }
+        },
+        {
+            "match": {
+                "io": [
+                    {
+                        "overrideparam": "say >>> |LEVEL 1| <<<"
+                    }
+                ]
+            },
+            "replace": {
+                "io": {
+                    "overrideparam": "say *** 第一关 ***"
+                }
+            }
+        },
+        {
+            "match": {
+                "io": [
+                    {
+                        "overrideparam": "say Toilet paper has been rolled down. Fall back!"
+                    }
+                ]
+            },
+            "replace": {
+                "io": {
+                    "overrideparam": "say *** 卫生纸已被卷下来。后退！ ***"
+                }
+            }
+        }
+    ]
+}
