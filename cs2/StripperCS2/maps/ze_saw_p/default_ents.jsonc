@@ -280,8 +280,21 @@
                     "overrideparam": "say *** 大门关闭中 ***"
                 }
             }
+        },
+        {
+            "match": {
+                "io": [
+                    {
+                        "overrideparam": "say >-Map By TaskuVaras-<"
+                    }
+                ]
+            },
+            "replace": {
+                "io": {
+                    "overrideparam": "say 地图作者：TaskuVaras。如果感觉画面灰蒙蒙很多小粒子，设置高级视频选项>高动态范围>品质即可消除。"
+                }
+            }
         }
-        
     
     ]
 }
