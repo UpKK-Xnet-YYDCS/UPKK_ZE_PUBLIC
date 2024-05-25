@@ -1,0 +1,1559 @@
+{
+    // 文本翻译
+    "modify": [
+        {
+            "match": {
+                "io": [
+                    {
+                        "overrideparam": "say ***JUMP INTO THE ORB!!***"
+                    }
+                ]
+            },
+            "replace": {
+                "io": {
+                    "overrideparam": "say *** 跳进球体！ ***"
+                }
+            }
+        },
+        {
+            "match": {
+                "io": [
+                    {
+                        "overrideparam": "say ***PORTAL COLLAPSING IN 10secs!! ***"
+                    }
+                ]
+            },
+            "replace": {
+                "io": {
+                    "overrideparam": "say *** 10s 后入口关闭  ***"
+                }
+            }
+        },
+        {
+            "match": {
+                "io": [
+                    {
+                        "overrideparam": "say ***All Switches ON!!***"
+                    }
+                ]
+            },
+            "replace": {
+                "io": {
+                    "overrideparam": "say *** 所有开关打开！ ***"
+                }
+            }
+        },
+        {
+            "match": {
+                "io": [
+                    {
+                        "overrideparam": "say ***LEVEL -- OPEN FIELD***"
+                    }
+                ]
+            },
+            "replace": {
+                "io": {
+                    "overrideparam": "say *** 开阔地 ***"
+                }
+            }
+        },
+        {
+            "match": {
+                "io": [
+                    {
+                        "overrideparam": "say ***Survive for 90secs***"
+                    }
+                ]
+            },
+            "replace": {
+                "io": {
+                    "overrideparam": "say *** 生存90s ***"
+                }
+            }
+        },
+        {
+            "match": {
+                "io": [
+                    {
+                        "overrideparam": "say ***Survive for 15secs***"
+                    }
+                ]
+            },
+            "replace": {
+                "io": {
+                    "overrideparam": "say *** 生存15s ***"
+                }
+            }
+        },
+        {
+            "match": {
+                "io": [
+                    {
+                        "overrideparam": "say ***Beware K.'s SlenderMan!*** "
+                    }
+                ]
+            },
+            "replace": {
+                "io": {
+                    "overrideparam": "say *** 当心面条人！ ***"
+                }
+            }
+        },
+        {
+            "match": {
+                "io": [
+                    {
+                        "overrideparam": "say ***C4 set to go off in 25secs!***"
+                    }
+                ]
+            },
+            "replace": {
+                "io": {
+                    "overrideparam": "say *** C4将在25s后爆炸！ ***"
+                }
+            }
+        },
+        {
+            "match": {
+                "io": [
+                    {
+                        "overrideparam": "say ***Defend for 35secs as the Carpet...refuels...?***"
+                    }
+                ]
+            },
+            "replace": {
+                "io": {
+                    "overrideparam": "say *** 在地毯......加油时防守 35 s？ ***"
+                }
+            }
+        },
+        {
+            "match": {
+                "io": [
+                    {
+                        "overrideparam": "say ***Carpet leaves in 5secs!***"
+                    }
+                ]
+            },
+            "replace": {
+                "io": {
+                    "overrideparam": "say *** 地毯在 5s 后离开！ ***"
+                }
+            }
+        },
+        {
+            "match": {
+                "io": [
+                    {
+                        "overrideparam": "say ***Carpet leaving in 3secs!***"
+                    }
+                ]
+            },
+            "replace": {
+                "io": {
+                    "overrideparam": "say *** 地毯在 3s 后离开！ ***"
+                }
+            }
+        },
+        {
+            "match": {
+                "io": [
+                    {
+                        "overrideparam": "say ***Elevator 1 coming in 10secs!***"
+                    }
+                ]
+            },
+            "replace": {
+                "io": {
+                    "overrideparam": "say *** 1 号电梯 10s后到达！ ***"
+                }
+            }
+        },
+        {
+            "match": {
+                "io": [
+                    {
+                        "overrideparam": "say ***Elevator 1 leaving in 5secs!***"
+                    }
+                ]
+            },
+            "replace": {
+                "io": {
+                    "overrideparam": "say *** 1号电梯5s后离开！ ***"
+                }
+            }
+        },
+        {
+            "match": {
+                "io": [
+                    {
+                        "overrideparam": "say ***Power lost. Shoot the doors!***"
+                    }
+                ]
+            },
+            "replace": {
+                "io": {
+                    "overrideparam": "say *** 失去动力。射击大门！ ***"
+                }
+            }
+        },
+        {
+            "match": {
+                "io": [
+                    {
+                        "overrideparam": "say ***Helicopter coming in 5secs!***"
+                    }
+                ]
+            },
+            "replace": {
+                "io": {
+                    "overrideparam": "say *** 直升机5s后到达！ ***"
+                }
+            }
+        },
+        {
+            "match": {
+                "io": [
+                    {
+                        "overrideparam": "say ***4***"
+                    }
+                ]
+            },
+            "replace": {
+                "io": {
+                    "overrideparam": "say *** 4 ***"
+                }
+            }
+        },
+        {
+            "match": {
+                "io": [
+                    {
+                        "overrideparam": "say ***3***"
+                    }
+                ]
+            },
+            "replace": {
+                "io": {
+                    "overrideparam": "say *** 3 ***"
+                }
+            }
+        },
+        {
+            "match": {
+                "io": [
+                    {
+                        "overrideparam": "say ***OH SH--!!***"
+                    }
+                ]
+            },
+            "replace": {
+                "io": {
+                    "overrideparam": "say *** 该死！ ***"
+                }
+            }
+        },
+        {
+            "match": {
+                "io": [
+                    {
+                        "overrideparam": "say ***Teleporter ERROR!***"
+                    }
+                ]
+            },
+            "replace": {
+                "io": {
+                    "overrideparam": "say *** 传送器错误！ ***"
+                }
+            }
+        },
+        {
+            "match": {
+                "io": [
+                    {
+                        "overrideparam": "say ***Teleporter will be fully charged in 20secs!***"
+                    }
+                ]
+            },
+            "replace": {
+                "io": {
+                    "overrideparam": "say *** 传送器将在20s后充满电！ ***"
+                }
+            }
+        },
+        {
+            "match": {
+                "io": [
+                    {
+                        "overrideparam": "say ***Take the Carpet and make your way to the escape door!*** "
+                    }
+                ]
+            },
+            "replace": {
+                "io": {
+                    "overrideparam": "say *** 乘坐地毯，前往逃生门！ ***"
+                }
+            }
+        },
+        {
+            "match": {
+                "io": [
+                    {
+                        "overrideparam": "say ***LEVEL -- CARPET ESCAPE***"
+                    }
+                ]
+            },
+            "replace": {
+                "io": {
+                    "overrideparam": "say *** 关卡 -- 地毯逃生 ***"
+                }
+            }
+        },
+        {
+            "match": {
+                "io": [
+                    {
+                        "overrideparam": "say ***FINAL LEVEL -- ZOMBIE MURDER****"
+                    }
+                ]
+            },
+            "replace": {
+                "io": {
+                    "overrideparam": "say *** 最后一关 -- 僵尸谋杀 ***"
+                }
+            }
+        },
+        {
+            "match": {
+                "io": [
+                    {
+                        "overrideparam": "say ***Zombies will arrive soon!***"
+                    }
+                ]
+            },
+            "replace": {
+                "io": {
+                    "overrideparam": "say *** 僵尸即将到达！ ***"
+                }
+            }
+        },
+        {
+            "match": {
+                "io": [
+                    {
+                        "overrideparam": "say ***Hold the sign for 20secs!***"
+                    }
+                ]
+            },
+            "replace": {
+                "io": {
+                    "overrideparam": "say *** 先守住20s！ ***"
+                }
+            }
+        },
+        {
+            "match": {
+                "io": [
+                    {
+                        "overrideparam": "say ***FINAL BOSS INCOMING!***"
+                    }
+                ]
+            },
+            "replace": {
+                "io": {
+                    "overrideparam": "say *** 最终BOSS来袭！ ***"
+                }
+            }
+        },
+        {
+            "match": {
+                "io": [
+                    {
+                        "overrideparam": "say ***ZOMBIE is about to collapse! GET OFF!***"
+                    }
+                ]
+            },
+            "replace": {
+                "io": {
+                    "overrideparam": "say *** 平台即将倒下！离开！ ***"
+                }
+            }
+        },
+        {
+            "match": {
+                "io": [
+                    {
+                        "overrideparam": "say ***JUMP OFF!***"
+                    }
+                ]
+            },
+            "replace": {
+                "io": {
+                    "overrideparam": "say *** 跳下来！ ***"
+                }
+            }
+        },
+        {
+            "match": {
+                "io": [
+                    {
+                        "overrideparam": "say ***Teleporting in 20secs!***"
+                    }
+                ]
+            },
+            "replace": {
+                "io": {
+                    "overrideparam": "say *** 20s后传送！ ***"
+                }
+            }
+        },
+        {
+            "match": {
+                "io": [
+                    {
+                        "overrideparam": "say ***3***"
+                    }
+                ]
+            },
+            "replace": {
+                "io": {
+                    "overrideparam": "say *** 3 ***"
+                }
+            }
+        },
+        {
+            "match": {
+                "io": [
+                    {
+                        "overrideparam": "say ***2***"
+                    }
+                ]
+            },
+            "replace": {
+                "io": {
+                    "overrideparam": "say *** 2 ***"
+                }
+            }
+        },
+        {
+            "match": {
+                "io": [
+                    {
+                        "overrideparam": "say ***1***"
+                    }
+                ]
+            },
+            "replace": {
+                "io": {
+                    "overrideparam": "say *** 1 ***"
+                }
+            }
+        },
+        {
+            "match": {
+                "io": [
+                    {
+                        "overrideparam": "say ***Teleporting in 20secs!***"
+                    }
+                ]
+            },
+            "replace": {
+                "io": {
+                    "overrideparam": "say *** 在20s内传送！ ***"
+                }
+            }
+        },
+        {
+            "match": {
+                "io": [
+                    {
+                        "overrideparam": "say ***Teleporting in 20secs!***"
+                    }
+                ]
+            },
+            "replace": {
+                "io": {
+                    "overrideparam": "say *** 20s后传送！ ***"
+                }
+            }
+        },
+        {
+            "match": {
+                "io": [
+                    {
+                        "overrideparam": "say ***LEVEL -- BOX WITH A LIGHT IN IT***"
+                    }
+                ]
+            },
+            "replace": {
+                "io": {
+                    "overrideparam": "say *** 关卡 -- 盒子里有一盏灯 ***"
+                }
+            }
+        },
+        {
+            "match": {
+                "io": [
+                    {
+                        "overrideparam": "say ***Map by SonicTheHitManHog/RelaxingWalls***"
+                    }
+                ]
+            },
+            "replace": {
+                "io": {
+                    "overrideparam": "say *** 地图作者：SonicTheHitManHog/RelaxingWalls，翻译：秋刀鱼 ***"
+                }
+            }
+        },
+        {
+            "match": {
+                "io": [
+                    {
+                        "overrideparam": "say ***Hold off as the zombies spawn until you're teleport to 1 of the 9 maps!***"
+                    }
+                ]
+            },
+            "replace": {
+                "io": {
+                    "overrideparam": "say *** 在僵尸出现时保持不动，直到你被传送到 9 张地图中的一张！ ***"
+                }
+            }
+        },
+        {
+            "match": {
+                "io": [
+                    {
+                        "overrideparam": "say ***Survive for 75secs!***"
+                    }
+                ]
+            },
+            "replace": {
+                "io": {
+                    "overrideparam": "say *** 存活 75s！ ***"
+                }
+            }
+        },
+        {
+            "match": {
+                "io": [
+                    {
+                        "overrideparam": "say ***Survive for 15secs!***"
+                    }
+                ]
+            },
+            "replace": {
+                "io": {
+                    "overrideparam": "say *** 存活 15s ***"
+                }
+            }
+        },
+        {
+            "match": {
+                "io": [
+                    {
+                        "overrideparam": "say ***LEVEL -- CLASSIC***"
+                    }
+                ]
+            },
+            "replace": {
+                "io": {
+                    "overrideparam": "say *** 关卡--经典 ***"
+                }
+            }
+        },
+        {
+            "match": {
+                "io": [
+                    {
+                        "overrideparam": "say ***Zombie will arrive in 20secs!***"
+                    }
+                ]
+            },
+            "replace": {
+                "io": {
+                    "overrideparam": "say *** 僵尸将在 20s后到达！ ***"
+                }
+            }
+        },
+        {
+            "match": {
+                "io": [
+                    {
+                        "overrideparam": "say ***Everyone HOLD the boxes while someone starts up the teleporter!***"
+                    }
+                ]
+            },
+            "replace": {
+                "io": {
+                    "overrideparam": "say *** 当有人启动传送时，所有人都贴住箱子！ ***"
+                }
+            }
+        },
+        {
+            "match": {
+                "io": [
+                    {
+                        "overrideparam": "say ***Hold W to go faster and S to slow down!***"
+                    }
+                ]
+            },
+            "replace": {
+                "io": {
+                    "overrideparam": "say *** 按住 W 加速，按住s 减速！ ***"
+                }
+            }
+        },
+        {
+            "match": {
+                "io": [
+                    {
+                        "overrideparam": "say ***Jump and be careful not to hit to many stoppers!***"
+                    }
+                ]
+            },
+            "replace": {
+                "io": {
+                    "overrideparam": "say *** 跳跃时要小心，不要撞到太多的阻挡物！ ***"
+                }
+            }
+        },
+        {
+            "match": {
+                "io": [
+                    {
+                        "overrideparam": "say ***LEVEL -- ICE CAP ESCAPE***"
+                    }
+                ]
+            },
+            "replace": {
+                "io": {
+                    "overrideparam": "say *** 关卡--冰帽逃生 ***"
+                }
+            }
+        },
+        {
+            "match": {
+                "io": [
+                    {
+                        "overrideparam": "say ***LEVEL-- CITY NIGHT ESCAPE***"
+                    }
+                ]
+            },
+            "replace": {
+                "io": {
+                    "overrideparam": "say *** 关卡--城市夜逃生 ***"
+                }
+            }
+        },
+        {
+            "match": {
+                "io": [
+                    {
+                        "overrideparam": "say ***Did someone see an awp?***"
+                    }
+                ]
+            },
+            "replace": {
+                "io": {
+                    "overrideparam": "say *** 有人看到awp吗？ ***"
+                }
+            }
+        },
+        {
+            "match": {
+                "io": [
+                    {
+                        "overrideparam": "say ***Good things come to those who wait...***"
+                    }
+                ]
+            },
+            "replace": {
+                "io": {
+                    "overrideparam": "say *** 等待的人有好报...... ***"
+                }
+            }
+        },
+        {
+            "match": {
+                "io": [
+                    {
+                        "overrideparam": "say ***Shoot wisely!***"
+                    }
+                ]
+            },
+            "replace": {
+                "io": {
+                    "overrideparam": "say *** 射击！ ***"
+                }
+            }
+        },
+        {
+            "match": {
+                "io": [
+                    {
+                        "overrideparam": "say ***LEVEL -- ZOMBIE DEATHRUN***"
+                    }
+                ]
+            },
+            "replace": {
+                "io": {
+                    "overrideparam": "say *** 关卡 -- 僵尸死亡逃亡 ***"
+                }
+            }
+        },
+        {
+            "match": {
+                "io": [
+                    {
+                        "overrideparam": "say ***Zombies try to trap the CTs!***"
+                    }
+                ]
+            },
+            "replace": {
+                "io": {
+                    "overrideparam": "say *** 僵尸试图困住 CT！ ***"
+                }
+            }
+        },
+        {
+            "match": {
+                "io": [
+                    {
+                        "overrideparam": "say ***Shoot wisely!***"
+                    }
+                ]
+            },
+            "replace": {
+                "io": {
+                    "overrideparam": "say *** 明智射击！ ***"
+                }
+            }
+        },
+        {
+            "match": {
+                "io": [
+                    {
+                        "overrideparam": "say ***CTs have 120secs to escape as the temple's curse spreads!*** "
+                    }
+                ]
+            },
+            "replace": {
+                "io": {
+                    "overrideparam": "say *** 神殿的诅咒扩散时，CT 有 120s时间逃跑！ ***"
+                }
+            }
+        },
+        {
+            "match": {
+                "io": [
+                    {
+                        "overrideparam": "say ***The curse has reached spawn!*** "
+                    }
+                ]
+            },
+            "replace": {
+                "io": {
+                    "overrideparam": "say *** 诅咒已到达出生点！ ***"
+                }
+            }
+        },
+        {
+            "match": {
+                "io": [
+                    {
+                        "overrideparam": "say ***The curse has reached the dual arch!*** "
+                    }
+                ]
+            },
+            "replace": {
+                "io": {
+                    "overrideparam": "say *** 诅咒已到达双拱门！ ***"
+                }
+            }
+        },
+        {
+            "match": {
+                "io": [
+                    {
+                        "overrideparam": "say ***The curse has reached Mona's Hallway!*** "
+                    }
+                ]
+            },
+            "replace": {
+                "io": {
+                    "overrideparam": "say *** 诅咒已到达莫娜走廊！  ***"
+                }
+            }
+        },
+        {
+            "match": {
+                "io": [
+                    {
+                        "overrideparam": "say ***CTs have 15secs to escape!*** "
+                    }
+                ]
+            },
+            "replace": {
+                "io": {
+                    "overrideparam": "say *** CTs 有 15s逃生时间！ ***"
+                }
+            }
+        },
+        {
+            "match": {
+                "io": [
+                    {
+                        "overrideparam": "say ***Wait here till everyone else makes it!*** "
+                    }
+                ]
+            },
+            "replace": {
+                "io": {
+                    "overrideparam": "say *** 在这里等待，直到其他人都成功逃脱！ ***"
+                }
+            }
+        },
+        {
+            "match": {
+                "io": [
+                    {
+                        "overrideparam": "say ***Good Luck!!***"
+                    }
+                ]
+            },
+            "replace": {
+                "io": {
+                    "overrideparam": "say *** 祝你好运！ ***"
+                }
+            }
+        },
+        {
+            "match": {
+                "io": [
+                    {
+                        "overrideparam": "say ***Teleporting to next map!***"
+                    }
+                ]
+            },
+            "replace": {
+                "io": {
+                    "overrideparam": "say *** 传送到下一张图！ ***"
+                }
+            }
+        },
+        {
+            "match": {
+                "io": [
+                    {
+                        "overrideparam": "say ***Teleporting to FINAL MAP!***"
+                    }
+                ]
+            },
+            "replace": {
+                "io": {
+                    "overrideparam": "say *** 传送到最终地图！ ***"
+                }
+            }
+        },
+        {
+            "match": {
+                "io": [
+                    {
+                        "overrideparam": "say ***Hurry through the warehouse while the carpet passes under!***"
+                    }
+                ]
+            },
+            "replace": {
+                "io": {
+                    "overrideparam": "say *** 当地毯从下方通过时，快速通过仓库！ ***"
+                }
+            }
+        },
+        {
+            "match": {
+                "io": [
+                    {
+                        "overrideparam": "say ***Door breaking in 10secs!***"
+                    }
+                ]
+            },
+            "replace": {
+                "io": {
+                    "overrideparam": "say *** 10s后破门！ ***"
+                }
+            }
+        },
+        {
+            "match": {
+                "io": [
+                    {
+                        "overrideparam": "say ***Don't Delay!***"
+                    }
+                ]
+            },
+            "replace": {
+                "io": {
+                    "overrideparam": "say *** 不要拖延！ ***"
+                }
+            }
+        },
+        {
+            "match": {
+                "io": [
+                    {
+                        "overrideparam": "say ***HOLD the first tunnel crates while the others gets the couch out of the maintenance path and break the barriers!***"
+                    }
+                ]
+            },
+            "replace": {
+                "io": {
+                    "overrideparam": "say *** 在其他人将沙发移出维修通道并打破障碍的同时，守住第一个通道的箱子！ ***"
+                }
+            }
+        },
+        {
+            "match": {
+                "io": [
+                    {
+                        "overrideparam": "say ***Hold final barrier for 15secs!***"
+                    }
+                ]
+            },
+            "replace": {
+                "io": {
+                    "overrideparam": "say *** 守住最后一道关卡 15s！ ***"
+                }
+            }
+        },
+        {
+            "match": {
+                "io": [
+                    {
+                        "overrideparam": "say ***Final barrier down!***"
+                    }
+                ]
+            },
+            "replace": {
+                "io": {
+                    "overrideparam": "say *** 关闭最后一道关卡 ***"
+                }
+            }
+        },
+        {
+            "match": {
+                "io": [
+                    {
+                        "overrideparam": "say ***LEVEL -- COUCH ESCAPE***"
+                    }
+                ]
+            },
+            "replace": {
+                "io": {
+                    "overrideparam": "say *** 关卡 - 沙发逃生 ***"
+                }
+            }
+        },
+        {
+            "match": {
+                "io": [
+                    {
+                        "overrideparam": "say ***Shoot the couch into the marked boxes to break the barriers and make your way to the escape tunnel in 180secs!***"
+                    }
+                ]
+            },
+            "replace": {
+                "io": {
+                    "overrideparam": "say *** 将沙发射入标记的方框内，打破障碍，在 180s内到达逃生通道！ ***"
+                }
+            }
+        },
+        {
+            "match": {
+                "io": [
+                    {
+                        "overrideparam": "say ***If the world is going to end at least you'll have a warm seat!***"
+                    }
+                ]
+            },
+            "replace": {
+                "io": {
+                    "overrideparam": "say *** 如果世界末日即将来临，至少你会有一个温暖的座位！ ***"
+                }
+            }
+        },
+        {
+            "match": {
+                "io": [
+                    {
+                        "overrideparam": "say ***Zombie barrier breaking in 20secs get moving!***"
+                    }
+                ]
+            },
+            "replace": {
+                "io": {
+                    "overrideparam": "say *** 20s内打破僵尸障碍，开始行动！ ***"
+                }
+            }
+        },
+        {
+            "match": {
+                "io": [
+                    {
+                        "overrideparam": "say ***Only 60secs left!***"
+                    }
+                ]
+            },
+            "replace": {
+                "io": {
+                    "overrideparam": "say *** 只剩60s！ ***"
+                }
+            }
+        },
+        {
+            "match": {
+                "io": [
+                    {
+                        "overrideparam": "say ***Hold these crates while someone breaks the barrier and gets the couch going!***"
+                    }
+                ]
+            },
+            "replace": {
+                "io": {
+                    "overrideparam": "say *** 守住这些箱子，有人会打破障碍，让沙发动起来！ ***"
+                }
+            }
+        },
+        {
+            "match": {
+                "io": [
+                    {
+                        "overrideparam": "say ***Barrier breaking in 5secs!***"
+                    }
+                ]
+            },
+            "replace": {
+                "io": {
+                    "overrideparam": "say *** 5s后打破障碍！ ***"
+                }
+            }
+        },
+        {
+            "match": {
+                "io": [
+                    {
+                        "overrideparam": "say ***Zombie drain open!***"
+                    }
+                ]
+            },
+            "replace": {
+                "io": {
+                    "overrideparam": "say *** 僵尸排水口打开！ ***"
+                }
+            }
+        },
+        {
+            "match": {
+                "io": [
+                    {
+                        "overrideparam": "say ***Hurry under! Zombie block planks breaking in 15secs!***"
+                    }
+                ]
+            },
+            "replace": {
+                "io": {
+                    "overrideparam": "say *** 在下面快点！僵尸阻挡木板在15s内断裂！ ***"
+                }
+            }
+        },
+        {
+            "match": {
+                "io": [
+                    {
+                        "overrideparam": "say ***CONGRATULATIONS -- ...Wait...F---!!***"
+                    }
+                ]
+            },
+            "replace": {
+                "io": {
+                    "overrideparam": "say *** ......等等......该死！ ***"
+                }
+            }
+        },
+        {
+            "match": {
+                "io": [
+                    {
+                        "overrideparam": "say ***Shoot it before your knocked off!!***"
+                    }
+                ]
+            },
+            "replace": {
+                "io": {
+                    "overrideparam": "say *** 在你被撞飞之前开枪！ ***"
+                }
+            }
+        },
+        {
+            "match": {
+                "io": [
+                    {
+                        "overrideparam": "say ***Watch out for...barrel...attacks...?***"
+                    }
+                ]
+            },
+            "replace": {
+                "io": {
+                    "overrideparam": "say *** 小心......桶......攻击......？ ***"
+                }
+            }
+        },
+        {
+            "match": {
+                "io": [
+                    {
+                        "overrideparam": "say ***Final attack will be charged in 60secs!!***"
+                    }
+                ]
+            },
+            "replace": {
+                "io": {
+                    "overrideparam": "say *** 最后一次攻击将在 60s后发动！ ***"
+                }
+            }
+        },
+        {
+            "match": {
+                "io": [
+                    {
+                        "overrideparam": "say ***CONGRATULATIONS -- THANK YOU FOR PLAYING!!***"
+                    }
+                ]
+            },
+            "replace": {
+                "io": {
+                    "overrideparam": "say *** 恭喜 -- 感谢您的参与！ ***"
+                }
+            }
+        },
+        {
+            "match": {
+                "io": [
+                    {
+                        "overrideparam": "say ***Escape Boat leaving in 35secs!***"
+                    }
+                ]
+            },
+            "replace": {
+                "io": {
+                    "overrideparam": "say *** 逃生艇将在 35s后离开 ***"
+                }
+            }
+        },
+        {
+            "match": {
+                "io": [
+                    {
+                        "overrideparam": "say ***Escape Boat engine failure!***"
+                    }
+                ]
+            },
+            "replace": {
+                "io": {
+                    "overrideparam": "say *** 逃生艇引擎故障！ ***"
+                }
+            }
+        },
+        {
+            "match": {
+                "io": [
+                    {
+                        "overrideparam": "say ***HOLD THE CRATES!***"
+                    }
+                ]
+            },
+            "replace": {
+                "io": {
+                    "overrideparam": "say *** 拿着箱子！ ***"
+                }
+            }
+        },
+        {
+            "match": {
+                "io": [
+                    {
+                        "overrideparam": "say ***...Take the Wash Bucket...?***"
+                    }
+                ]
+            },
+            "replace": {
+                "io": {
+                    "overrideparam": "say *** ......拿着洗衣桶......？ ***"
+                }
+            }
+        },
+        {
+            "match": {
+                "io": [
+                    {
+                        "overrideparam": "say ***LEVEL -- INTERSTELLAR ESCAPE 9***"
+                    }
+                ]
+            },
+            "replace": {
+                "io": {
+                    "overrideparam": "say *** 关卡 星际大逃亡 ***"
+                }
+            }
+        },
+        {
+            "match": {
+                "io": [
+                    {
+                        "overrideparam": "say ***Make your way from train to train until you reach the Black Express!***"
+                    }
+                ]
+            },
+            "replace": {
+                "io": {
+                    "overrideparam": "say *** 从一列火车到另一列火车，直到你到达黑色快车！ ***"
+                }
+            }
+        },
+        {
+            "match": {
+                "io": [
+                    {
+                        "overrideparam": "say ***Cargo door opening in 15secs!***"
+                    }
+                ]
+            },
+            "replace": {
+                "io": {
+                    "overrideparam": "say *** 货物门在 15s后打开！ ***"
+                }
+            }
+        },
+        {
+            "match": {
+                "io": [
+                    {
+                        "overrideparam": "say ***Boxcar door opening in 10secs!***"
+                    }
+                ]
+            },
+            "replace": {
+                "io": {
+                    "overrideparam": "say *** 10s后打开车厢门！ ***"
+                }
+            }
+        },
+        {
+            "match": {
+                "io": [
+                    {
+                        "overrideparam": "say ***Final express door opening in 25secs!***"
+                    }
+                ]
+            },
+            "replace": {
+                "io": {
+                    "overrideparam": "say *** 最后一扇快车门在 25s后打开！ ***"
+                }
+            }
+        },
+        {
+            "match": {
+                "io": [
+                    {
+                        "overrideparam": "say ***Final express door open!***"
+                    }
+                ]
+            },
+            "replace": {
+                "io": {
+                    "overrideparam": "say *** 最终门打开！ ***"
+                }
+            }
+        },
+        {
+            "match": {
+                "io": [
+                    {
+                        "overrideparam": "say ***Final attack charged!!***"
+                    }
+                ]
+            },
+            "replace": {
+                "io": {
+                    "overrideparam": "say *** 最后一次攻击发动！ ***"
+                }
+            }
+        },
+        {
+            "match": {
+                "io": [
+                    {
+                        "overrideparam": "say ***TEXT ATTACK FIRED!!***"
+                    }
+                ]
+            },
+            "replace": {
+                "io": {
+                    "overrideparam": "say *** 文字攻击发射！ ***"
+                }
+            }
+        },
+        {
+            "match": {
+                "io": [
+                    {
+                        "overrideparam": "say ***BACKSPACE!!!***"
+                    }
+                ]
+            },
+            "replace": {
+                "io": {
+                    "overrideparam": "say *** 后退！ ***"
+                }
+            }
+        },
+        {
+            "match": {
+                "io": [
+                    {
+                        "overrideparam": "say ***Switch Activated!***"
+                    }
+                ]
+            },
+            "replace": {
+                "io": {
+                    "overrideparam": "say *** 开关已激活！ ***"
+                }
+            }
+        },
+        {
+            "match": {
+                "io": [
+                    {
+                        "overrideparam": "say ***Valves unlocked in 35secs!***"
+                    }
+                ]
+            },
+            "replace": {
+                "io": {
+                    "overrideparam": "say *** 35s后阀门解锁！ ***"
+                }
+            }
+        },
+        {
+            "match": {
+                "io": [
+                    {
+                        "overrideparam": "say ***LEVEL -- FAIL NADES***"
+                    }
+                ]
+            },
+            "replace": {
+                "io": {
+                    "overrideparam": "say *** 关卡--RUSH B ***"
+                }
+            }
+        },
+        {
+            "match": {
+                "io": [
+                    {
+                        "overrideparam": "say ***Zombie will arrive in 10secs!***"
+                    }
+                ]
+            },
+            "replace": {
+                "io": {
+                    "overrideparam": "say *** 僵尸将在10s后到达！ ***"
+                }
+            }
+        },
+        {
+            "match": {
+                "io": [
+                    {
+                        "overrideparam": "say ***Split up on each side or group up on one! Just keep the zombies back until the valves on both sides are unlocked!*** "
+                    }
+                ]
+            },
+            "replace": {
+                "io": {
+                    "overrideparam": "say *** 分头行动或一组行动！让僵尸退后，直到两边的阀门都被打开！ ***"
+                }
+            }
+        },
+        {
+            "match": {
+                "io": [
+                    {
+                        "overrideparam": "say ***Valves are stuck! BREAK THEM! Only 20secs to destroy both!***"
+                    }
+                ]
+            },
+            "replace": {
+                "io": {
+                    "overrideparam": "say ***阀门卡住了！打破它们！只有20s时间摧毁两个阀门！ ***"
+                }
+            }
+        },
+        {
+            "match": {
+                "io": [
+                    {
+                        "overrideparam": "say ***If one side overrun start chucking nades over to break the valve!***"
+                    }
+                ]
+            },
+            "replace": {
+                "io": {
+                    "overrideparam": "say *** 如果一侧被攻破，就开始扔手雷炸破阀门！ ***"
+                }
+            }
+        },
+        {
+            "match": {
+                "io": [
+                    {
+                        "overrideparam": "say ***HURRY UP!!!***"
+                    }
+                ]
+            },
+            "replace": {
+                "io": {
+                    "overrideparam": "say *** 快点！！！ ***"
+                }
+            }
+        },
+        {
+            "match": {
+                "io": [
+                    {
+                        "overrideparam": "say ***Switch 1 Unlocked!***"
+                    }
+                ]
+            },
+            "replace": {
+                "io": {
+                    "overrideparam": "say *** 1号开关已解锁！ ***"
+                }
+            }
+        },
+        {
+            "match": {
+                "io": [
+                    {
+                        "overrideparam": "say ***Turn on all 4 to FINISH IT OFF and activate the Orb Teleport!***"
+                    }
+                ]
+            },
+            "replace": {
+                "io": {
+                    "overrideparam": "say *** 打开所有 4 个开关，将其关闭并激活球形传送装置！ ***"
+                }
+            }
+        },
+        {
+            "match": {
+                "io": [
+                    {
+                        "overrideparam": "say ***CT's will have to jump off and activate the switches!***"
+                    }
+                ]
+            },
+            "replace": {
+                "io": {
+                    "overrideparam": "say *** CT必须跳下并激活开关！ ***"
+                }
+            }
+        },
+        {
+            "match": {
+                "io": [
+                    {
+                        "overrideparam": "say ***The Boss has been weakened But it will recover in 60secs and use its final attack!***"
+                    }
+                ]
+            },
+            "replace": {
+                "io": {
+                    "overrideparam": "say *** BOSS已被削弱，但它将在 60s后恢复并使用最后一击！ ***"
+                }
+            }
+        },
+        {
+            "match": {
+                "io": [
+                    {
+                        "overrideparam": "say ***Shoot the Block!***"
+                    }
+                ]
+            },
+            "replace": {
+                "io": {
+                    "overrideparam": "say *** 射击阻挡！ ***"
+                }
+            }
+        },
+        {
+            "match": {
+                "io": [
+                    {
+                        "overrideparam": "say ***Hold until the escape helicopter comes in pick you up!***"
+                    }
+                ]
+            },
+            "replace": {
+                "io": {
+                    "overrideparam": "say *** 等待逃生直升机来接你 ***"
+                }
+            }
+        },
+        {
+            "match": {
+                "io": [
+                    {
+                        "overrideparam": "say ***Fall Back Balcony open!***"
+                    }
+                ]
+            },
+            "replace": {
+                "io": {
+                    "overrideparam": "say *** 阳台门开了！ ***"
+                }
+            }
+        },
+        {
+            "match": {
+                "io": [
+                    {
+                        "overrideparam": "say ***Couch Only! Take the alleyway!"
+                    }
+                ]
+            },
+            "replace": {
+                "io": {
+                    "overrideparam": "say *** 只能使用沙发！走小巷！ ***"
+                }
+            }
+        },
+        {
+            "match": {
+                "io": [
+                    {
+                        "overrideparam": "say ***Emergency doors closing in 10secs!***"
+                    }
+                ]
+            },
+            "replace": {
+                "io": {
+                    "overrideparam": "say *** 应急门10s后关闭！ ***"
+                }
+            }
+        }
+    ]
+}
