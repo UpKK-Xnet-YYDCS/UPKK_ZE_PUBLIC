@@ -24,7 +24,7 @@
           "Chat": "{RED}!store 购买使用皮肤 {GRAY}!yd 地图名 预定地图  控制台输入  {LIGHTPURPLE}snd_musicvolume 0 将关闭地图音乐 snd_musicvolume 0.5则将音量减少一半 游戏设置-启用开发者控制台后按~"
         },
         {
-          "Chat": "{GRAY}当前时间: {RED}{TIME} {GRAY}当前地图: {RED}{MAP}"
+          "Chat": "{GRAY}当前时间: {RED}{TIME} {PURPLE}当前地图: {RED}{MAP}"
         }
       ]
     },
@@ -50,11 +50,11 @@
   "LanguageMessages": {
     "map_name": {
       "US": "Current map: {MAP}",
-      "CN": "{LIGHTPURPLE}当前时间: {RED}{TIME} {GRAY}当前地图: {RED}{MAP} 控制台输入  {LIGHTPURPLE}snd_musicvolume 0 将关闭地图音乐 snd_musicvolume 0.5则将音量减少一半 游戏设置-启用开发者控制台后按~"
+      "CN": "{LIGHTPURPLE}当前时间: {RED}{TIME} {PURPLE}当前地图: {RED}{MAP} 控制台输入  {LIGHTPURPLE}snd_musicvolume 0 将关闭地图音乐 snd_musicvolume 0.5则将音量减少一半 游戏设置-启用开发者控制台后按~"
     },
     "current_time": {
       "US": "{LIGHTPURPLE}Current time: {RED}{TIME}",
-      "CN": "{LIGHTPURPLE}当前时间: {RED}{TIME} {GRAY}当前地图: {RED}{MAP} 控制台输入  {LIGHTPURPLE}snd_musicvolume 0 将关闭地图音乐 snd_musicvolume 0.5则将音量减少一半 游戏设置-启用开发者控制台后按~"
+      "CN": "{LIGHTPURPLE}当前时间: {RED}{TIME} {PURPLE}当前地图: {RED}{MAP} 控制台输入  {LIGHTPURPLE}snd_musicvolume 0 将关闭地图音乐 snd_musicvolume 0.5则将音量减少一半 游戏设置-启用开发者控制台后按~"
     }
   },
   "MapsName": {
