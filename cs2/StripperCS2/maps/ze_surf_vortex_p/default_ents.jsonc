@@ -1,0 +1,285 @@
+{
+    // 文本翻译
+    "modify": [
+        {
+            "match": {
+                "io": [
+                    {
+                        "overrideparam": "say ***Teleport activates in 20 seconds***"
+                    }
+                ]
+            },
+            "replace": {
+                "io": {
+                    "overrideparam": "say *** 传送在20s后激活 ***"
+                }
+            }
+        },
+        {
+            "match": {
+                "io": [
+                    {
+                        "overrideparam": "say ***shorcut open***"
+                    }
+                ]
+            },
+            "replace": {
+                "io": {
+                    "overrideparam": "say *** 捷径打开 ***"
+                }
+            }
+        },
+        {
+            "match": {
+                "io": [
+                    {
+                        "overrideparam": "say ***Second teleport fixed in 30 seconds***"
+                    }
+                ]
+            },
+            "replace": {
+                "io": {
+                    "overrideparam": "say *** 第二次传送在30s内修复 ***"
+                }
+            }
+        },
+        {
+            "match": {
+                "io": [
+                    {
+                        "overrideparam": "say ***5 second left***"
+                    }
+                ]
+            },
+            "replace": {
+                "io": {
+                    "overrideparam": "say *** 还剩5s ***"
+                }
+            }
+        },
+        {
+            "match": {
+                "io": [
+                    {
+                        "overrideparam": "say ***Try to find second button***"
+                    }
+                ]
+            },
+            "replace": {
+                "io": {
+                    "overrideparam": "say *** 尝试找到第二个按钮 ***"
+                }
+            }
+        },
+        {
+            "match": {
+                "io": [
+                    {
+                        "overrideparam": "say ***zombies are coming***"
+                    }
+                ]
+            },
+            "replace": {
+                "io": {
+                    "overrideparam": "say *** 僵尸来了 ***"
+                }
+            }
+        },
+        {
+            "match": {
+                "io": [
+                    {
+                        "overrideparam": "say ***Resist for 60 seconds***"
+                    }
+                ]
+            },
+            "replace": {
+                "io": {
+                    "overrideparam": "say *** 抵抗60s ***"
+                }
+            }
+        },
+        {
+            "match": {
+                "io": [
+                    {
+                        "overrideparam": "say ***Find Another Button***"
+                    }
+                ]
+            },
+            "replace": {
+                "io": {
+                    "overrideparam": "say *** 找到另一个按钮 ***"
+                }
+            }
+        },
+        {
+            "match": {
+                "io": [
+                    {
+                        "overrideparam": "say *** Resist 60 seconds ***"
+                    }
+                ]
+            },
+            "replace": {
+                "io": {
+                    "overrideparam": "say *** 抵抗60s ***"
+                }
+            }
+        },
+        {
+            "match": {
+                "io": [
+                    {
+                        "overrideparam": "say ***Teleport error fixed in 30 seconds***"
+                    }
+                ]
+            },
+            "replace": {
+                "io": {
+                    "overrideparam": "say *** 传送错误在30s内修复 ***"
+                }
+            }
+        },
+        {
+            "match": {
+                "io": [
+                    {
+                        "overrideparam": "say ***Watermelon***"
+                    }
+                ]
+            },
+            "replace": {
+                "io": {
+                    "overrideparam": "say *** 西瓜 ***"
+                }
+            }
+        },
+        {
+            "match": {
+                "io": [
+                    {
+                        "overrideparam": "say ***Zombies are coming!***"
+                    }
+                ]
+            },
+            "replace": {
+                "io": {
+                    "overrideparam": "say *** 僵尸来了！ ***"
+                }
+            }
+        },
+        {
+            "match": {
+                "io": [
+                    {
+                        "overrideparam": "say ***READY TO RUN***"
+                    }
+                ]
+            },
+            "replace": {
+                "io": {
+                    "overrideparam": "say *** 准备跑 ***"
+                }
+            }
+        },
+        {
+            "match": {
+                "io": [
+                    {
+                        "overrideparam": "say ***Watch out!***"
+                    }
+                ]
+            },
+            "replace": {
+                "io": {
+                    "overrideparam": "say *** 小心！ ***"
+                }
+            }
+        },
+        {
+            "match": {
+                "io": [
+                    {
+                        "overrideparam": "say ***Resist for 30 seconds***"
+                    }
+                ]
+            },
+            "replace": {
+                "io": {
+                    "overrideparam": "say *** 抵抗30s ***"
+                }
+            }
+        },
+        {
+            "match": {
+                "io": [
+                    {
+                        "overrideparam": "say ***Ready for final surf***"
+                    }
+                ]
+            },
+            "replace": {
+                "io": {
+                    "overrideparam": "say *** 准备好最后滑翔了吗 ***"
+                }
+            }
+        },
+        {
+            "match": {
+                "io": [
+                    {
+                        "overrideparam": "say ***Map by Reflelia***"
+                    }
+                ]
+            },
+            "replace": {
+                "io": {
+                    "overrideparam": "say *** 地图作者：Reflelia 地图翻译：秋刀鱼 ***"
+                }
+            }
+        },
+        {
+            "match": {
+                "io": [
+                    {
+                        "overrideparam": "say ***5 seconds left***"
+                    }
+                ]
+            },
+            "replace": {
+                "io": {
+                    "overrideparam": "say *** 还剩5s钟 ***"
+                }
+            }
+        },
+        {
+            "match": {
+                "io": [
+                    {
+                        "overrideparam": "say ***Detonation in 3 seconds***"
+                    }
+                ]
+            },
+            "replace": {
+                "io": {
+                    "overrideparam": "say *** 三s后爆炸 ***"
+                }
+            }
+        },
+        {
+            "match": {
+                "io": [
+                    {
+                        "overrideparam": "say ***Resist 45 seconds***"
+                    }
+                ]
+            },
+            "replace": {
+                "io": {
+                    "overrideparam": "say *** 抵抗45s ***"
+                }
+            }
+        }
+    ]
+}
