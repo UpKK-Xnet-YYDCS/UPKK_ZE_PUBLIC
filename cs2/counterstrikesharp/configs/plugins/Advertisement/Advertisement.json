@@ -1,5 +1,10 @@
 {
   "PrintToCenterHtml": false,
+  "WelcomeMessage": {
+    "MessageType": 0,
+    "Message": "Welcome, {BLUE}{PLAYERNAME}",
+    "DisplayDelay": 5
+  },
   "Ads": [
     {
       "Interval": 35,
@@ -39,11 +44,13 @@
   "DefaultLang": "CN",
   "LanguageMessages": {
     "map_name": {
+      "RU": "\u0422\u0435\u043A\u0443\u0449\u0430\u044F \u043A\u0430\u0440\u0442\u0430: {MAP}",
       "US": "Current map: {MAP}",
       "CN": "{LIME}当前时间: {RED}{TIME} {GRAY}当前地图: {RED}{MAP}"
     },
     "current_time": {
-      "US": "{LIME}Current time: {RED}{TIME}",
+      "RU": "{GRAY}\u0422\u0435\u043A\u0443\u0449\u0435\u0435 \u0432\u0440\u0435\u043C\u044F: {RED}{TIME}",
+      "US": "{GRAY}Current time: {RED}{TIME}",
       "CN": "{LIME}当前时间: {RED}{TIME} {GRAY}当前地图: {RED}{MAP}"
     }
   },
