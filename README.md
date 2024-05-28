@@ -13,6 +13,7 @@
 
 2. `sm_gitsync_check_cureentmap_user` 指令可以检查同步情况含文件MD5/CRC 修改时间等 [权限等级:`任何玩家` 间隔限制 `300秒`]
 3. `sm_gitsync_check_cureentmap` 指令可以检查同步情况含文件MD5/CRC 修改时间等 [权限等级:`OP` 或 已认证`Mapper`用户]
+4. `css_gitsync_check_cureentmap` cs2指令可以检查同步情况含文件MD5 修改时间等 [权限等级:`OP`]
 
 ## 参数修改规则
 
