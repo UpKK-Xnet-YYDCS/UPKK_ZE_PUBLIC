@@ -21,7 +21,7 @@
       "Interval": 40,
       "Messages": [
         {
-          "Chat": "{RED}!store 购买使用皮肤 {PURPLE}!yd 地图名 预定地图 !hide 隐藏玩家 控制台输入  {LIGHTPURPLE}snd_musicvolume 0 将关闭地图音乐 snd_musicvolume 0.5则将音量减少一半 游戏设置-启用开发者控制台后按~"
+          "Chat": "{RED}!store 购买使用皮肤 {PURPLE}!yd 地图名 预定地图 !hide 隐藏玩家 控制台输入  {LIGHTPURPLE}snd_musicvolume 0 将关闭地图音乐 snd_musicvolume 0.5则将音量减少一半 snd_voipvolume 2 提高语音音量 游戏设置-启用开发者控制台后按~"
         },
         {
           "Chat": "{LIME}当前时间: {RED}{TIME} {PURPLE}当前地图: {RED}{MAP}"
