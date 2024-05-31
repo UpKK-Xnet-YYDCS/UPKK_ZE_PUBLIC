@@ -1,26 +1,283 @@
 {
-  "[HARD MODE]": {
-    "translation": ""
-  },
-  "** MAP BY SLAYERDRAGON **": {
-    "translation": "地图作者：SLAYERDRAGON"
-  },
-  "** Defend untill the guards open the airport. **": {
-    "translation": ""
-  },
-  "** Airport opened. **": {
-    "translation": ""
-  },
-  "** Defend 25 seconds untill the guards open the hallway. **": {
-    "translation": ""
-  },
-  "** Defend here so the guards will open the gates to the city! **": {
-    "translation": ""
-  },
-  "** Cover here till the rock explodes **": {
-    "translation": ""
-  },
-  "** 5 Seconds left **": {
-    "translation": ""
-  }
+	"** MAP BY SLAYERDRAGON **"
+	{
+		"translation":		"**作者：SLAYERDRAGON**"
+	},
+	"[NORMAL MODE]"
+	{
+		"translation":		"**普通难度[NORMAL]**"
+	},
+	"** Defend untill the guards open the airport. **"
+	{
+		"translation":		"**坚守至守卫将机场开放**"
+	},
+	"** Airport opened. **"
+	{
+		"translation":		"**机场开放**"
+	},
+	"** Defend 25 seconds untill the guards open the hallway. **"
+	{
+		"translation":		"**防守25秒，直到守卫开放道路**"
+		"DoorCountDown":	"0"
+	},
+	"** A player has learned Wind magick. **"
+	{
+		"translation":		"**一名玩家捡起了飓风权杖（召唤飓风环绕保护玩家，跟随法杖移动）**"
+	},
+	"** 5 Seconds left **"
+	{
+		"translation":		"**还剩5秒**"
+	},
+	"** Defend here so the guards will open the gates to the city! **"
+	{
+		"translation":		"**守住这里，直到守卫开放前往城市的道路**"
+		"DoorCountDown":	"20"
+	},
+	"** Cover here till the rock explodes **"
+	{
+		"translation":		"**守住25秒-直到石头爆炸**"
+		"DoorCountDown":	"25"
+	},
+	"** The elevator will leave in 20 seconds **"
+	{
+		"translation":		"**电梯将在20秒后离开!**"
+		"DoorCountDown":	"0"
+	},
+	"** The elevator will leave in 5 seconds **"
+	{
+		"translation":		"**电梯将在5秒后离开!**"
+	},
+	"** The first door will open in 10 seconds **"
+	{
+		"translation":		"**第一道门将在10秒后打开**"
+		"DoorCountDown":	"0"
+	},
+	"** The second door will open in 15 seconds **"
+	{
+		"translation":		"**第二道门将在15秒后打开**"
+	},
+	"** A player has learned Heal magick. **"
+	{
+		"translation":		"**一名玩家捡起了治疗权杖（召唤一处圣光，将队友奶成250）**"
+		"DoorCountDown":	"-1"
+	},
+	"** Keep defending!! **"
+	{
+		"translation":		"**继续防守！！！**"
+	},
+	"** Nades do more damage **"
+	{
+		"translation":		"**手雷可以造成大量伤害**"
+	},
+	"** METEOR INBOUND **"
+	{
+		"translation":		"**陨石将至**"
+		"DoorCountDown":	"5"
+	},
+	"** USE ELECTRO TO  BREAK IT **"
+	{
+		"translation":		"**使用闪电击碎陨石，或向两侧躲避**"
+	},
+	"** The dragon has been defeated **"
+	{
+		"translation":		"**龙已经被打败了**"
+	},
+	"** Cover 10 seconds till the rock explodes **"
+	{
+		"translation":		"**防守10秒直到石头炸开**"
+	},
+	"** Go to the end of the road! **"
+	{
+		"translation":		"**向路的尽头前进**"
+	},
+	"** 50 SECS REMAINING **"
+	{
+		"translation":		"**还有50秒**"
+	},
+	"** Congratulations - You won [NORMAL] **"
+	{
+		"translation":		"**恭喜：你已经征服普通难度**"
+	},
+	"[HARD MODE]"
+	{
+		"translation":		"**困难难度[HARD]**"
+	},
+	"** A player has learned Holy magick. **"
+	{
+		"translation":		"**一位玩家捡起了神圣权杖（尘归尘，土归土）**"
+	},
+	"** A player has learned Earth magick. **"
+	{
+		"translation":		"**一位玩家捡起了大地权杖（向前方释放一层岩石用以防御）**"
+	},
+	"** Cover 20 seconds till the rock explodes **"
+	{
+		"translation":		"**防守20秒直到石头爆炸**"
+		"DoorCountDown":	"0"
+	},
+	"** A player has learned Fire magick. **"
+	{
+		"translation":		"**一位玩家捡起了烈焰权杖（所到之处，寸草不生）**"
+	},
+	"** A player has learned Water magick. **"
+	{
+		"translation":		"**一名玩家捡起了水花权杖**"
+	},
+	"** FIRE NOVA INBOUND **"
+	{
+		"translation":		"**大火来袭**"
+		"DoorCountDown":	"5"
+	},
+	"** USE WATER TO DODGE IT  **"
+	{
+		"translation":		"**使用水来解决或用奶来抵抗**"
+	},
+	"** Congratulations - You won [HARD] **"
+	{
+		"translation":		"**恭喜：你已经征服了困难难度**"
+	},
+	"[EXTREME MODE]"
+	{
+		"translation":		"**极限难度[EXTREME]**"
+	},
+	"** Cover 30 seconds till the rock explodes **"
+	{
+		"translation":		"**防守30秒直到石头爆炸**"
+		"DoorCountDown":	"0"
+	},
+	"** 70 SECS REMAINING **"
+	{
+		"translation":		"**还有70秒**"
+	},
+	"** 40 SECS REMAINING **"
+	{
+		"translation":		"**还有40秒**"
+	},
+	"** 30 SECS REMAINING **"
+	{
+		"translation":		"**还有30秒**"
+	},
+	"** 20 SECS REMAINING **"
+	{
+		"translation":		"**还有20秒**"
+	},
+	"** 10 SECS REMAINING **"
+	{
+		"translation":		"**还有10秒**"
+	},
+	"** 5 SECS REMAINING **"
+	{
+		"translation":		"**还有5秒**"
+	},
+	"** 60 SECS REMAINING **"
+	{
+		"translation":		"**还有60秒**"
+	},
+	"[ADMIN] Selected [HARD MODE] for next round. Restarting round in 5 seconds."
+	{
+		"translation":		"**已选择极限关卡 5秒后重新开始**"
+	},
+	"** Congratulations - You won [EXTREME] **"
+	{
+		"translation":		"**恭喜：你已经征服了极限难度[EXTREME]**"
+	},
+	"[EPIC MODE]"
+	{
+		"translation":		"**史诗难度[EPIC]**"
+	},
+	"** Teleporter will be ready in 20 seconds! **"
+	{
+		"translation":		"**20秒后开启传送**"
+		"DoorCountDown":	"0"
+	},
+	"** Teleporter will be ready in 5 seconds! **"
+	{
+		"translation":		"**5秒后开启传送**"
+	},
+	"** Door will open in 5 seconds **"
+	{
+		"translation":		"**大门5秒后开启**"
+	},
+	"** Second door will open in 10 seconds **"
+	{
+		"translation":		"**第二道门10秒后开启**"
+	},
+	"** Hold 10 more seconds!! **"
+	{
+		"translation":		"**坚守10秒等待大门关闭**"
+	},
+	"** The guardians are dead!! Run back to the entrance!! **"
+	{
+		"translation":		"**守护者已被击败从入口处返回**"
+	},
+	"** The healer is down!! **"
+	{
+		"translation":		"**医疗卫兵已倒下**"
+	},
+	"** The battlemage is down!! **"
+	{
+		"translation":		"**战斗法师已倒下**"
+	},
+	"** ZM JAIL OPEN **"
+	{
+		"translation":		"**僵尸出笼！！！**"
+	},
+	"** Defend here for 30 seconds **"
+	{
+		"translation":		"**坚守30秒**"
+		"DoorCountDown":	"0"
+	},
+	"** The airship reactors are going to explode!! **"
+	{
+		"translation":		"**空艇的反应堆即将爆炸**"
+	},
+	"** CHAOS is using a deathwall - RUN FASTER!! **"
+	{
+		"translation":		"**轮回王开启了死墙，你们要加油！！**"
+	},
+	"** Chaos has been defeated - RUN !!!!! **"
+	{
+		"translation":		"**你们已经击败轮回王！—跑！！！**"
+	},
+	"** Congratulations - You won [EPIC] **"
+	{
+		"translation":		"**恭喜：你已经征服了史诗难度**"
+	},
+	"[GOD MODE]"
+	{
+		"translation":		"**上帝难度[GOD]**"
+	},
+	"** 5 more seconds **"
+	{
+		"translation":		"**还剩5秒**"
+	},
+	"** A player has learned Electro magick. **"
+	{
+		"translation":		"**一位玩家捡起了雷电权杖（雷电将会制裁它们）**"
+	},
+	"[ADMIN] Selected [GOD MODE] for next round. Restarting round in 5 seconds."
+	{
+		"translation":		"**已选择天神难度，5秒后重新开始**"
+	},
+	"[ADMIN] Selected [EPIC MODE] for next round. Restarting round in 5 seconds."
+	{
+		"translation":		"**已选择史诗难度，5秒后重新开始**"
+	},
+	"** Zombies Have Escaped **"
+	{
+		"translation":		"**僵尸上来了，人类GG**"
+	},
+	"** The dragon has been defeated! GOGOGO **"
+	{
+		"translation":		"**巨龙已死，逃离这个地方**"
+	},
+
+	"** Increase Laser Speed For This Round **"
+	{
+		"translation":		"**当前回合的刀速加快。**"
+	},
+	"** Remove Chaos Maximun Hp **"
+	{
+		"translation":		"**移除轮回王的血量上限。**"
+	}
 }
