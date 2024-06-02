@@ -38,7 +38,7 @@
 	},
 	"** The first door will open in 10 seconds **":{
 		"translation": "**第一道门将在10秒后打开**",
-		"DoorCountDown": 0
+		"DoorCountDown": -1
 	},
 	"** The second door will open in 15 seconds **":{
 		"translation": "**第二道门将在15秒后打开**"
