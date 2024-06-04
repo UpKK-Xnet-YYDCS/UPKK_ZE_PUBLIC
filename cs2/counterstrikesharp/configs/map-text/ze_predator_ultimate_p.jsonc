@@ -13,18 +13,23 @@
   },
   "*** 还剩5s ***": {
     "translation": ""
+    "DoorCountDown": -1
   },
   "*** 还剩 4s ***": {
     "translation": ""
+    "DoorCountDown": -1
   },
   "*** 还剩 3s ***": {
     "translation": ""
+    "DoorCountDown": -1
   },
   "*** 还剩 2s ***": {
     "translation": ""
+    "DoorCountDown": -1
   },
   "*** 还剩 1s ***": {
     "translation": ""
+    "DoorCountDown": -1
   },
   "*** 快跑！ ***": {
     "translation": ""
@@ -97,6 +102,7 @@
   },
   "*** 直升机 5s 后离开 ***": {
     "translation": ""
+    "DoorCountDown": -1
   },
   "*** 起飞 ***": {
     "translation": ""
@@ -117,7 +123,7 @@
     "translation": ""
   },
   "***PLAYER PICKED UP CLAYMORE MINES***": {
-    "translation": ""
+    "translation": "**** 有人捡起了 CLAYMORE MINES ***"
   },
   "*** 你完成了正常难度 ***": {
     "translation": ""
@@ -129,7 +135,7 @@
     "translation": ""
   },
   "***PLAYER PICKED UP MINI GUN***": {
-    "translation": ""
+    "translation": "*** 有人捡起了迷你机枪 ***"
   },
   "*** 守住波德里亚 15s ***": {
     "translation": ""
@@ -138,7 +144,7 @@
     "translation": ""
   },
   "***PLAYER PICKED UP AMMO DISPENSER***": {
-    "translation": ""
+    "translation": "*** 有人捡起了弹药 ***"
   },
   "*** 快跑！！！！！！！ ***": {
     "translation": ""
@@ -192,7 +198,7 @@
     "translation": ""
   },
   "***HOLD FOR 20 SECONDS***": {
-    "translation": ""
+    "translation": "*** 守住 20s ***"
   },
   "*** 是捕食者！ ***": {
     "translation": ""
@@ -201,13 +207,13 @@
     "translation": ""
   },
   "***THE PREDATOR IS CHARGING AN ATTACK!***": {
-    "translation": ""
+    "translation": "*** 铁血战士正在变换攻击 ***"
   },
   "*** 你打断了捕食者的攻击 ***": {
     "translation": ""
   },
   "***YOU ARE TOO SLOW!***": {
-    "translation": ""
+    "translation": "*** 太慢了 ***"
   },
   "***HOLD ON TO YOUR HELMETS!***": {
     "translation": ""
