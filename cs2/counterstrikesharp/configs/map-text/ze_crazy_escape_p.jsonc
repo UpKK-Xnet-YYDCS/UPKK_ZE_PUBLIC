@@ -1,17 +1,435 @@
 {
-  "### 地图由 NARAKA 创建,Asterism整理翻译 ###": {
-    "translation": ""
+  "### 1 ###": {
+      "translation": "### 1s ###"
   },
-  "### 特别感谢：Moltard ###": {
-    "translation": ""
+  "### 10 SECONDS REMAINING ###": {
+      "translation": "### 剩余10秒 ###"
   },
-  "### 语法更正者： ###": {
-    "translation": ""
+  "### 10 SECONDS REMAININGS ###": {
+      "translation": "### 剩余10秒 ###"
+  },
+  "### 2 ###": {
+      "translation": "### 2s ###"
+  },
+  "### 20 SECONDS REMAINING ###": {
+      "translation": "### 剩余20秒 ###"
+  },
+  "### 3 ###": {
+      "translation": "### 3s ###"
+  },
+  "### 30 SECONDS REMAINING ###": {
+      "translation": "### 剩余30秒 ###"
+  },
+  "### 5 SECONDS UNTL THE NEXT TELEPORT ###": {
+      "translation": "### 距离下次传送还有5秒 ###"
+  },
+  "### 50 SECONDS REMAINING ###": {
+      "translation": "### 剩余50秒 ###"
+  },
+  "### ACTIVATE SPINNING THING !! IF THIS THING BREAKS ###": {
+      "translation": "### 激活旋转装置！！如果这个东西坏了 ###"
+  },
+  "### ADMIN HAS SELECTED NUKE TO RESTART THE ROUND ###": {
+      "translation": "### 管理员选择了核弹重启回合 ###"
+  },
+  "### ADMIN HAS SELECTED PART : I ###": {
+      "translation": "### 管理员选择了关卡：I ###"
+  },
+  "### ADMIN HAS SELECTED PART : II ###": {
+      "translation": "### 管理员选择了关卡：II ###"
+  },
+  "### ADMIN HAS SELECTED PART : III ###": {
+      "translation": "### 管理员选择了关卡：III ###"
+  },
+  "### ALL ZOMBIES AND HUMANS IN BOSS AREA ###": {
+      "translation": "### 所有僵尸和人类在Boss区域 ###"
+  },
+  "### AND SHOOT THOSE ZOMBIES  ### ": {
+      "translation": "### 射击那些僵尸 ###"
+  },
+  "### AND WATCH SOME TRIMS RELAXX !!! ###": {
+      "translation": "### 放松一下看看一些修剪片段吧！！！ ###"
+  },
+  "### AT THE END OF YOUR MAP : HMM OKIEEE ^^ ###": {
+      "translation": "### 在你的地图结束时：嗯，好吧^^ ###"
+  },
+  "### AUUU I'M SO SORRY HAHHAA ###": {
+      "translation": "### 哎呀，对不起哈哈哈 ###"
+  },
+  "### BE READY IN 5 SECONDS ###": {
+      "translation": "### 准备好，5秒内开始 ###"
+  },
+  "### BEFORE HE RELEASES THE ZOMBIES IN 90 SECONDS ###": {
+      "translation": "### 在他释放僵尸之前的90秒 ###"
+  },
+  "### BOTH BUTTONS ACTIVATED ###": {
+      "translation": "### 两个按钮已激活 ###"
+  },
+  "### BOTH BUTTONS DESTROYED ###": {
+      "translation": "### 两个按钮已被摧毁 ###"
+  },
+  "### BRIDGE BREAKS IN 50 SECONDS ###": {
+      "translation": "### 桥将在50秒内断裂 ###"
+  },
+  "### BRIDGES WILL BREAK BEFORE ZOMBIES ARE TELEPORTED ###": {
+      "translation": "### 桥梁将在僵尸被传送之前断裂 ###"
+  },
+  "### DEFEND THE 2 DUCTS!! ZOMBIES CAN COME FROM THERE ###": {
+      "translation": "### 防守两个通风口！！僵尸可以从那里来 ###"
+  },
+  "### DEFEND YOU NOOBS ###": {
+      "translation": "### 防守，你们这些菜鸟 ###"
+  },
+  "### DON'T CROSS THE RED LINE, IT IS NOT A HOLY AREA ###": {
+      "translation": "### 不要越过红线，这不是一个神圣的区域 ###"
+  },
+  "### DON'T LET ZOMBIES TOUCH THE TV OR YOU WILL LOSE ###": {
+      "translation": "### 不要让僵尸碰到电视，否则你会失败 ###"
+  },
+  "### DONT DELAY OR BE PUNISHED ###": {
+      "translation": "### 不要拖延，否则会被惩罚 ###"
+  },
+  "### DONT DELAY OR YOU WILL TELEPORT WITH ZOMBIES ###": {
+      "translation": "### 不要拖延，否则你会和僵尸一起传送 ###"
+  },
+  "### DONT LET ZOMBIES ON THE PLATFORM !!! ###": {
+      "translation": "### 不要让僵尸上平台！！！ ###"
+  },
+  "### DOOR BREAKS IN 30 SECONDS ###": {
+      "translation": "### 门将在30秒内断裂 ###"
+  },
+  "### FALL BACK NOW TELEPORT THE REST IN 10 SECONDS ###": {
+      "translation": "### 现在撤退，10秒内传送其他人 ###"
+  },
+  "### FOR HUMAN: FENCES BREAK IN 5 SECONDS  ###": {
+      "translation": "### 对人类：围栏将在5秒内断裂 ###"
+  },
+  "### FOR ZOMBIE: FENCES BREAK IN 10 SECONDS  ###": {
+      "translation": "### 对僵尸：围栏将在10秒内断裂 ###"
+  },
+  "### GET TO THE TOP OF THE TOWER ###": {
+      "translation": "### 到达塔顶 ###"
+  },
+  "### GOOD JOB BUT THIS NOT THE END ###": {
+      "translation": "### 干得好，但这不是结束 ###"
+  },
+  "### GOOD LUCK HUMAN !!! ###": {
+      "translation": "### 祝你好运，人类！！！ ###"
+  },
+  "### GRAMMAR CORRECTION BY: ###": {
+      "translation": "### 语法校正由： ###"
+  },
+  "### HIDE AND HOLD FOR 75 SECONDS ###": {
+      "translation": "### 躲藏并防守75秒 ###"
+  },
+  "### HOLD AND DEFEND FOR 30 SECONDS ###": {
+      "translation": "### 防守30秒 ###"
+  },
+  "### HOLD FOR 40 SECONDS ###": {
+      "translation": "### 防守40秒 ###"
+  },
+  "### HOLD HERE AND SHOOT FOR 30 SECONDS ###": {
+      "translation": "### 在这里防守并射击30秒 ###"
+  },
+  "### HOLD HERE AND SHOOT MADAFAKA ###": {
+      "translation": "### 在这里防守并射击混蛋 ###"
+  },
+  "### HOLD HERE FOR 30 SECONDS ###": {
+      "translation": "### 在这里防守30秒 ###"
+  },
+  "### HOLD THIS LAST PLACE FOR 1 MINUTE ###": {
+      "translation": "### 在这个最后的地方防守60秒 ###"
+  },
+  "### HOLD THIS LAST POSTION FOR 30 SECONDS ###": {
+      "translation": "### 在这个最后的位置防守30秒 ###"
+  },
+  "### HUMAN DONT DELAY U GONNA FACE UR DESTINY SOON ###": {
+      "translation": "### 人类不要拖延，你很快就会面对你的命运 ###"
+  },
+  "### HUMANS AND ZOMBIES NOT IN GREEN LIGHT ZONE ###": {
+      "translation": "### 人类和僵尸不在绿灯区内 ###"
+  },
+  "### HUMANS GET TELEPORTED WITH ZOMBIES AUTOMATICALLY ###": {
+      "translation": "### 人类将自动与僵尸一起传送 ###"
+  },
+  "### HUMANS NOT IN THE GREEN LIGHT ZONE ###": {
+      "translation": "### 人类不在绿灯区内 ###"
+  },
+  "### HUMANS WILL BE TELEPORTED IN 20 SECONDS ###": {
+      "translation": "### 人类将在20秒内被传送 ###"
+  },
+  "### HUMANS WILL BE TELEPORTED TO THE FINAL DESTINATION IN 10 SECONDS ##": {
+      "translation": "### 人类将在10秒内被传送到最终目的地 ###"
+  },
+  "### HUMANS, DO NOT DELAY ###": {
+      "translation": "### 人类，不要拖延 ###"
+  },
+  "### I'LL BE BACK AGAIN ###": {
+      "translation": "### 我会回来的 ###"
+  },
+  "### IN 10 SECONDS ###": {
+      "translation": "### 剩余10秒 ###"
+  },
+  "### IN 15 SECONDS ###": {
+      "translation": "### 剩余15秒 ###"
+  },
+  "### IT WOULD BE GREAT IF YOU CAN ADD THE LASER ###": {
+      "translation": "### 如果你能添加跳刀，那就太好了 ###"
+  },
+  "### JUMP PLEASE THANK YOU ###": {
+      "translation": "### 请跳跃，谢谢 ###",
+      "DoorCountDown": 3
+  },
+  "### KAABOOOMMMMM ###": {
+      "translation": "### 砰！！ ###"
+  },
+  "### LEFT BUTTON HAS BEEN PRESSED ###": {
+      "translation": "### 左按钮已按下 ###"
+  },
+  "### LOL I TOLD YOU NOT TO TOUCH PILLARS ###": {
+      "translation": "### 哈哈我告诉过你不要碰柱子 ###"
+  },
+  "### LOOK UP AND YOU KNOW THAT PLATFORM GONNA TRIM US HARD ###": {
+      "translation": "### 向上看，你知道那个平台会狠狠地巨魔我们 ###"
+  },
+  "### MADUDU FAKA MADAFAKAA HUEHUE ###": {
+      "translation": "### 混蛋混蛋哈哈哈 ###"
+  },
+  "### MAKE YOUR WAY TO THE OTHER SIDE ###": {
+      "translation": "### 前往另一边 ###"
+  },
+  "### MAP CREATED BY NARAKA  ###": {
+      "translation": "### 地图由Naraka制作，翻译Asteri3m ###"
+  },
+  "### NARAKA BECOMES IMMORTAL AND RELEASES THE ZOMBIES ###": {
+      "translation": "### Naraka变得不朽并释放僵尸 ###"
+  },
+  "### NARAKA UNLEASHES HIS POWER ###": {
+      "translation": "### Naraka释放了他的力量 ###"
+  },
+  "### NOW PREPARE TO FACE YOUR INEVITABLE DEATH  ###": {
+      "translation": "### 现在准备面对你的死亡 ###"
+  },
+  "### NUKE IN 1 SECONDS ###": {
+      "translation": "### 核弹将在1秒内引爆 ###"
+  },
+  "### NUKE IN 2 SECONDS ###": {
+      "translation": "### 核弹将在2秒内引爆 ###"
+  },
+  "### NUKE IN 3 SECONDS ###": {
+      "translation": "### 核弹将在3秒内引爆 ###"
+  },
+  "### NUKE IN 4 SECONDS ###": {
+      "translation": "### 核弹将在4秒内引爆 ###"
+  },
+  "### NUKE IN 5 SECONDS ###": {
+      "translation": "### 核弹将在5秒内引爆 ###"
+  },
+  "### OH MY WALL U REFUGEE U GONNA PAY FOR IT !! ###": {
+      "translation": "### 哦我的墙，你这个难民你会为此付出代价的！！ ###"
+  },
+  "### ONE OF GFL ADMINS SAID TO ME ###": {
+      "translation": "### GFL的一个管理员对我说 ###"
+  },
+  "### OTHERWISE YOU WILL BE TELEPORTED TO JAIL ###": {
+      "translation": "### 否则你会被传送到监狱 ###"
+  },
+  "### PLEASE LOOK DOWN THANK YOU ###": {
+      "translation": "### 请向下看，谢谢 ###",
+      "DoorCountDown": 3
+  },
+  "### PRESS S PLEASE THANK YOU ###": {
+      "translation": "### 请按S，谢谢 ###",
+      "DoorCountDown": 3
+  },
+  "### PRESS THE BUTTON ON THE OTHER SIDE ###": {
+      "translation": "### 按下另一边的按钮 ###"
+  },
+  "### PRESS W PLEASE THANKS YOU ###": {
+      "translation": "### 请按W，谢谢 ###",
+      "DoorCountDown": 3
+  },
+  "### REACH THE OTHER SIDE BEFORE ZOMBIES !!! ###": {
+      "translation": "### 在僵尸之前到达另一边！！！ ###"
+  },
+  "### RIGHT BUTTON HAS BEEN PRESSED ###": {
+      "translation": "### 右按钮已按下 ###"
+  },
+  "### RUN TO THE OTHER SIDE  ###": {
+      "translation": "### 跑到另一边 ###"
+  },
+  "### SHOOT THESE 2 BUTTONS PLEASE ###": {
+      "translation": "### 请射击这两个按钮 ###"
+  },
+  "### SINNER INCOMING IN 10 SECONDS ###": {
+      "translation": "### 罪人将在10秒内到达 ###"
+  },
+  "### SINNER IS DEAD ###": {
+      "translation": "### 罪人已死 ###"
+  },
+  "### SINNER: YOUR SINS ARE GONNA HURT YOU!! FACE IT ###": {
+      "translation": "### 罪人：你的罪行会伤害你！！面对它 ###"
+  },
+  "### SOMETHING SCARY INS COMING ###": {
+      "translation": "### 有些可怕的东西即将到来 ###"
+  },
+  "### SPECIAL THANKS : Moltard ###": {
+      "translation": "### 特别感谢：Moltard ###"
+  },
+  "### STAY IN THE GREEN LIGHT FOR TELEPORT ###": {
+      "translation": "### 在绿灯区内等待传送 ###"
+  },
+  "### STAY IN THE GREEN LIGHT ZONE ###": {
+      "translation": "### 在绿灯区内等待 ###"
+  },
+  "### TELEPORT IN 10 SECONDS ###": {
+      "translation": "### 传送将在10秒内进行 ###"
+  },
+  "### TELEPORT INCOMING IN 10 SECONDS !! ###": {
+      "translation": "### 传送将在10秒内进行！！ ###"
+  },
+  "### TELEPORT INCOMING IN 30 SECONDS ###": {
+      "translation": "### 传送将在30秒内进行 ###"
+  },
+  "### TELEPORT INCOMING IN 5 SECONDS ###": {
+      "translation": "### 传送将在5秒内进行 ###"
+  },
+  "### TELEPORTING THE REST IN 5 SECONDS ###": {
+      "translation": "### 5秒内传送 ###"
+  },
+  "### TELEPORTING THE REST OF MAP IN 5 SECONDS ###": {
+      "translation": "### 5秒内传送 ###"
+  },
+  "### THANK YOU FOR YOUR PATIENT NOW GO !! ###": {
+      "translation": "### 感谢你的耐心，现在走吧！！ ###"
+  },
+  "### THAT IS A SINNER KILL HIM ###": {
+      "translation": "### 那是一个罪人，杀了他 ###"
+  },
+  "### THE HOLY CROSSES HAVE DISAPPEARED ###": {
+      "translation": "### 圣十字架已经消失 ###"
+  },
+  "### THE SINNER WILL UNLEASH THE ZOMBIES IN 60 SECONDS ###": {
+      "translation": "### 罪人将在60秒内释放僵尸 ###"
+  },
+  "### THE TOWER IS GONNA EXPLODE !! ###": {
+      "translation": "### 塔即将爆炸！！ ###"
+  },
+  "### THE WALL IS BROKEN NOW CLIMB ###": {
+      "translation": "### 墙已破，现在爬上去 ###"
+  },
+  "### THE WALL WILL DISAPPEAR AND NARAKA WILL COME ###": {
+      "translation": "### 墙将消失，Naraka将出现 ###"
+  },
+  "### THEY WILL TELEPORT YOU BACKK LOL ###": {
+      "translation": "### 他们会把你传送回来哈哈 ###"
+  },
+  "### TIP: DEFEND 3 WAYS PLEASE THATS ALL ###": {
+      "translation": "### 提示：请防守3个方向，仅此而已 ###"
+  },
+  "### TIP: DON'T TOUCH THE CAUTION PILLARS ###": {
+      "translation": "### 提示：不要触碰警告柱 ###"
+  },
+  "### TIP: JUST DONT EDGE U RETARD !! OR U WILL GET AIDS ###": {
+      "translation": "### 提示：不要靠边，白痴！！否则你会得艾滋病 ###"
+  },
+  "### TIP: YOU CAN SHOOT ZOMBIE OFF THE PLATFORM ###": {
+      "translation": "### 提示：你可以把僵尸从平台上射下来 ###"
+  },
+  "### TOWER WILL EXPLODE IN 10 SECONDS ###": {
+      "translation": "### 塔将在10秒内爆炸 ###"
+  },
+  "### Thanks to ACME who found the bug here! ###": {
+      "translation": "### 感谢ACME发现了这里的bug！ ###"
+  },
+  "### WAIT HERE FOR A BIT ###": {
+      "translation": "### 在这里稍等一下 ###"
+  },
+  "### WAIT HERE TO RACE AGAINST ZOMBIES IN 5 SECONDS ###": {
+      "translation": "### 在这里等待5秒，与僵尸竞赛 ###"
+  },
+  "### WAIT UNTIL THE DOOR OPENS ###": {
+      "translation": "### 等待门打开 ###"
+  },
+  "### WARNING *** TOWER WILL EXPLODE IN 30 SECONDS ###": {
+      "translation": "### 警告***塔将在30秒内爆炸 ###"
+  },
+  "### WELCOME TO CRAZY ESCAPE ###": {
+      "translation": "### 欢迎来到疯狂逃亡 ###"
+  },
+  "### WHEN EVERYONE IS HERE, NARAKA WILL SPAWN ###": {
+      "translation": "### 当所有人都在这里时，Naraka将出现 ###"
+  },
+  "### WHEN SINNER APPEARS ON THE CROSS, SHOOT IT ###": {
+      "translation": "### 当罪人出现在十字架上时，射击它 ###"
+  },
+  "### WHILE DEFENDING AGAINST ZOMBIES ###": {
+      "translation": "### 一边防御僵尸一边 ###"
+  },
+  "### WILL BE TELEPORTED TO BOSS JAIL ###": {
+      "translation": "### 将被传送到Boss监狱 ###"
+  },
+  "### WILL BE TELEPORTED TO THE FINAL DESTINATION ###": {
+      "translation": "### 将被传送到最终目的地 ###"
+  },
+  "### WILL BE TELEPORTED WITH ZOMBIES ###": {
+      "translation": "### 将与僵尸一起传送 ###"
+  },
+  "### YOU ALL HAVE 2 MINUTES BEFORE ###": {
+      "translation": "### 你们还有120秒 ###"
+  },
+  "### YOU CAN BE SURE ###": {
+      "translation": "### 你可以确定 ###"
+  },
+  "### YOU HAVE 90 SECONDS BEFORE ###": {
+      "translation": "### 你们还有90秒 ###"
+  },
+  "### YOU LET ZOMBIES WATCH TV SO U LOSE NOOB ###": {
+      "translation": "### 你让僵尸看到电视，所以你输了，菜鸟 ###"
+  },
+  "### YOU NOOOBBB ###": {
+      "translation": "### 你这个菜鸟 ###"
+  },
+  "### YOU SEE THAT TRUMP'S WALL !! SHOOT ITTT ###": {
+      "translation": "### 你看到那堵特朗普的墙了吗！！射击它 ###"
+  },
+  "### YOU THINK YOU ARE PRO LASER DODGER ? U MAD ? ###": {
+      "translation": "### 你以为你是跳刀高手？你疯了吗？ ###"
+  },
+  "### YOUR DEATH INCOMINGG SHOOT AND NADE HIM ###": {
+      "translation": "### 你的死亡即将来临，射击并投掷手榴弹他 ###"
+  },
+  "### ZOMBIES ARE HERE !! ###": {
+      "translation": "### 僵尸来了！！ ###"
+  },
+  "### ZOMBIES CAN TRY TO BREAK THAT THING TO ###": {
+      "translation": "### 僵尸可以尝试打破那个东西 ###"
+  },
+  "### ZOMBIES HAVE ARRIVED ###": {
+      "translation": "### 僵尸已到达 ###"
+  },
+  "### ZOMBIES IN COMING !! HOLD THIS PLATFORM FOR 30 SECONDS ###": {
+      "translation": "### 僵尸即将到来！！在这个平台上防守30秒 ###"
+  },
+  "### ZOMBIES INCOMING IN 10 SECONDS ###": {
+      "translation": "### 僵尸将在10秒内到达 ###"
+  },
+  "### ZOMBIES PLEASE KINDLY WAIT FOR A SEC ###": {
+      "translation": "### 僵尸请稍等一下 ###"
+  },
+  "### ZOMBIES WAIT FOR 10 SECONDS ###": {
+      "translation": "### 僵尸等待10秒 ###"
+  },
+  "### ZOMBIES WILL BE TELEPORTED IN 30 SECONDS ###": {
+      "translation": "### 僵尸将在30秒内被传送 ###"
+  },
+  "### ZOMBIES WILL BE TELEPORTED SOON ### ": {
+      "translation": "### 僵尸即将被传送 ###"
   },
   "### [GFL] : reduct [SMALL LOAN] ###": {
-    "translation": ""
+      "translation": "### [GFL]：reduct [SMALL LOAN] ###"
   },
-  "### 欢迎来到疯狂逃亡 ###": {
-    "translation": ""
+  ">>> HE'S DEAD. DEFEND UNTIL DOOR BREAKS <<<": {
+      "translation": ">>> 他死了。防守直到门破裂 <<<"
   }
 }
