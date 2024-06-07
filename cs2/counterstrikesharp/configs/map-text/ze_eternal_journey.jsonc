@@ -1,35 +1,221 @@
 {
-  ">>*** MAP BY STK ***<<": {
-    "translation": ""
+  "** 1 **": {
+    "translation": "** 1s **"
   },
-  "** WARMUP ROUND **": {
-    "translation": ""
+  "** 2 **": {
+    "translation": "** 2s **"
   },
-  ">>> STAGE 1 <<<": {
-    "translation": ""
+  "** 3 **": {
+    "translation": "** 3s **"
   },
-  "** A player has picked up Freeze Staff **": {
-    "translation": ""
+  "** 4 **": {
+    "translation": "** 4s **"
   },
-  "** Hold for 30 seconds **": {
-    "translation": ""
-  },
-  "** A player has picked up Tornado Staff **": {
-    "translation": ""
+  "** 5 **": {
+    "translation": "** 5s **"
   },
   "** 5 seconds left **": {
-    "translation": ""
+    "translation": "** 剩余5秒 **"
   },
-  "** FALL BACK **": {
-    "translation": ""
+  "** 5 seconds left**": {
+    "translation": "** 剩余5秒 **"
+  },
+  "** A player has picked up Earth Staff **": {
+    "translation": "** 一名玩家捡起了土 **"
   },
   "** A player has picked up Fire Staff **": {
-    "translation": ""
+    "translation": "** 一名玩家捡起了火 **"
+  },
+  "** A player has picked up Freeze Staff **": {
+    "translation": "** 一名玩家捡起了冰 **"
   },
   "** A player has picked up Heal Staff **": {
-    "translation": ""
+    "translation": "** 一名玩家捡起了治疗 **"
+  },
+  "** A player has picked up Tornado Staff **": {
+    "translation": "** 一名玩家捡起了风 **"
+  },
+  "** A player has picked up Ultimate Staff **": {
+    "translation": "** 一名玩家捡起了终极 **"
+  },
+  "** FALL BACK **": {
+    "translation": "** 撤退 **"
+  },
+  "** Hold 10 seconds **": {
+    "translation": "** 防守10秒 **"
+  },
+  "** Hold 15 seconds **": {
+    "translation": "** 防守15秒 **"
+  },
+  "** Hold 20 seconds **": {
+    "translation": "** 防守20秒 **"
+  },
+  "** Hold 25 seconds **": {
+    "translation": "** 防守25秒 **"
+  },
+  "** Hold 30 seconds **": {
+    "translation": "** 防守30秒 **"
+  },
+  "** Hold for 10 seconds **": {
+    "translation": "** 防守10秒 **"
+  },
+  "** Hold for 15 seconds **": {
+    "translation": "** 防守15秒 **"
   },
   "** Hold for 20 seconds **": {
-    "translation": ""
+    "translation": "** 防守20秒 **"
+  },
+  "** Hold for 30 seconds **": {
+    "translation": "** 防守30秒 **"
+  },
+  "** IT'S TIME TO CHOOSE A LEVEL!!! **": {
+    "translation": "** 该选择一个关卡了！！！ **"
+  },
+  "** Kill him or he kills you!!! **": {
+    "translation": "** 杀了他，否则他会杀了你！！！ **"
+  },
+  "** THANKS FOR PLAYING! **": {
+    "translation": "** 感谢游玩！ **"
+  },
+  "** Teleport will open in 25 seconds **": {
+    "translation": "** 传送将在25秒内开启 **"
+  },
+  "** Teleport will open in 30 seconds **": {
+    "translation": "** 传送将在30秒内开启 **"
+  },
+  "** The doors will open in 20 seconds **": {
+    "translation": "** 门将在20秒内开启 **"
+  },
+  "** The doors will open in 25 seconds **": {
+    "translation": "** 门将在25秒内开启 **"
+  },
+  "** Victory in 10 seconds. **": {
+    "translation": "** 胜利在10秒内到来。 **"
+  },
+  "** Victory in 100 seconds. **": {
+    "translation": "** 胜利在100秒内到来。 **"
+  },
+  "** Victory in 150 seconds. **": {
+    "translation": "** 胜利在150秒内到来。 **"
+  },
+  "** Victory in 200 seconds. **": {
+    "translation": "** 胜利在200秒内到来。 **"
+  },
+  "** Victory in 230 seconds. **": {
+    "translation": "** 胜利在230秒内到来。 **"
+  },
+  "** Victory in 50 seconds. **": {
+    "translation": "** 胜利在50秒内到来。 **"
+  },
+  "** Victory! **": {
+    "translation": "** 胜利！ **"
+  },
+  "** WARMUP ROUND **": {
+    "translation": "** 热身回合 **"
+  },
+  "** YOU WON STAGE 1 **": {
+    "translation": "** 你赢得了关卡1 **"
+  },
+  "** YOU WON STAGE 2 **": {
+    "translation": "** 你赢得了关卡2 **"
+  },
+  "** YOU WON STAGE 3 **": {
+    "translation": "** 你赢得了关卡3 **"
+  },
+  "** YOU WON STAGE 4 **": {
+    "translation": "** 你赢得了关卡4 **"
+  },
+  "** YOU WON STAGE 5 **": {
+    "translation": "** 你赢得了关卡5 **"
+  },
+  "** YOU WON ZM ROUND **": {
+    "translation": "** 你赢得了ZM关 **"
+  },
+  "*** 5 seconds left ***": {
+    "translation": "*** 剩余5秒 ***"
+  },
+  "*** FALL BACK ***": {
+    "translation": "*** 撤退 ***"
+  },
+  "*** Grenades do more damage (5 seconds) ***": {
+    "translation": "*** 手榴弹造成更多伤害 5秒 ***"
+  },
+  "*** Grenades do more damage. ***": {
+    "translation": "*** 手榴弹造成更多伤害 ***"
+  },
+  "*** He's dead. Run. ***": {
+    "translation": "*** 他死了。快跑。 ***"
+  },
+  "*** Hold 20 seconds. ***": {
+    "translation": "*** 防守20秒。 ***"
+  },
+  "*** Shoot on the Crystals!!! ***": {
+    "translation": "*** 射击水晶！！！ ***"
+  },
+  ">> BOSS USED ELECTRO <<": {
+    "translation": ">> BOSS 使用了电 3秒 <<"
+  },
+  ">> BOSS USED FIRE <<": {
+    "translation": ">> BOSS 使用了火 3秒 <<"
+  },
+  ">> BOSS USED FREEZE <<": {
+    "translation": ">> BOSS 使用了冰冻 3秒 <<"
+  },
+  ">> BOSS USED GRAVITY <<": {
+    "translation": ">> BOSS 使用了黑洞 3秒 <<"
+  },
+  ">> BOSS USED TENTACLES <<": {
+    "translation": ">> BOSS 使用了触手 3秒 <<"
+  },
+  ">> BOSS USED TORNADO <<": {
+    "translation": ">> BOSS 使用了风 3秒 <<"
+  },
+  ">> BOSS USED ULTIMATE <<": {
+    "translation": ">> BOSS 使用了终极 3秒 <<"
+  },
+  ">>*** MAP BY STK ***<<": {
+    "translation": ">>*** 地图由 STK 制作  翻译：Asteri3m***<<"
+  },
+  ">>> STAGE 1 <<<": {
+    "translation": ">>> 关卡 1 <<<"
+  },
+  ">>> STAGE 2 <<<": {
+    "translation": ">>> 关卡 2 <<<"
+  },
+  ">>> STAGE 3 <<<": {
+    "translation": ">>> 关卡 3 <<<"
+  },
+  ">>> STAGE 4<<<": {
+    "translation": ">>> 关卡 4<<<"
+  },
+  ">>> STAGE 5<<<": {
+    "translation": ">>> 关卡 5<<<"
+  },
+  ">>> THANKS FOR PLAYING <<<": {
+    "translation": ">>> 感谢游玩 <<<"
+  },
+  ">>> ZM ROUND <<<": {
+    "translation": ">>> ZM关 <<<"
+  },
+  "[ADMIN ROOM] Level changed to 1. Kill all in 5 sec!": {
+    "translation": "[管理员房间] 关卡切换到1，5秒内杀死所有人！"
+  },
+  "[ADMIN ROOM] Level changed to 2. Kill all in 5 sec!": {
+    "translation": "[管理员房间] 关卡切换到2，5秒内杀死所有人！"
+  },
+  "[ADMIN ROOM] Level changed to 3. Kill all in 5 sec!": {
+    "translation": "[管理员房间] 关卡切换到3，5秒内杀死所有人！"
+  },
+  "[ADMIN ROOM] Level changed to 4. Kill all in 5 sec!": {
+    "translation": "[管理员房间] 关卡切换到4，5秒内杀死所有人！"
+  },
+  "[ADMIN ROOM] Level changed to 5. Kill all in 5 sec!": {
+    "translation": "[管理员房间] 关卡切换到5，5秒内杀死所有人！"
+  },
+  "[ADMIN ROOM] Level changed to 6(ZM ROUND). Kill all in 5 sec!": {
+    "translation": "[管理员房间] 关卡切换到6（ZM关），5秒内杀死所有人！"
+  },
+  "||| ZOMBIE ESCAPED! STAGE FAILED! |||": {
+    "translation": "||| 僵尸已逃脱！关卡失败！ |||"
   }
 }
