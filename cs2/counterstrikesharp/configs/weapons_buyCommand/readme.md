@@ -21,6 +21,7 @@
 
 
 # !zbuy 购买武器
+-  如Enable为0 则不会出现在!guns菜单中
 -  command支持多个
 -  比如 command: "fire;mov" !zbuy fire !zbuy mov
 -  购买 zbuy mov
