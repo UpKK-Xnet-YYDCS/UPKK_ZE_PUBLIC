@@ -13,9 +13,11 @@
   },
   "*** 还剩5s ***": {
     "translation": ""
+    "DoorCountDown": -1
   },
   "*** 还剩 4s ***": {
     "translation": ""
+    "DoorCountDown": -1
   },
   "*** 还剩 3s ***": {
     "translation": ""
@@ -33,16 +35,16 @@
     "translation": ""
   },
   "***FIRST AID PICKED UP***": {
-    "translation": ""
+    "translation": "捡起了急救包"
   },
   "*** 守住这个区域 10s ***": {
     "translation": ""
   },
   "*** MOVE IT ***": {
-    "translation": ""
+    "translation": "行动！"
   },
   "*** 它是捕食者！ ***": {
-    "translation": ""
+    "translation": "他是铁血战士！"
   },
   "*** 杀了它 ***": {
     "translation": ""
@@ -63,16 +65,17 @@
     "translation": ""
   },
   "***PLAYER PICKED UP GRENADE LAUNCHER***": {
-    "translation": ""
+    "translation": "捡起榴弹炮"
   },
   "***HOLD FOR 30 SECONDS***": {
-    "translation": ""
+    "translation": "守住30s"
   },
   "***5 SECONDS LEFT***": {
-    "translation": ""
+    "translation": "还有5s"
+    "DoorCountDown": -1
   },
   "***MOVE IT***": {
-    "translation": ""
+    "translation": "行动！"
   },
   "*** 把所有人传送到克里夫的藏身处 ***": {
     "translation": ""
@@ -97,6 +100,7 @@
   },
   "*** 直升机 5s 后离开 ***": {
     "translation": ""
+    "DoorCountDown": -1
   },
   "*** 起飞 ***": {
     "translation": ""
@@ -117,13 +121,13 @@
     "translation": ""
   },
   "***PLAYER PICKED UP IMPULSOR***": {
-    "translation": ""
+    "translation": "捡起了脉冲枪"
   },
   "*** 守住阿兹特克废墟 25s ***": {
     "translation": ""
   },
   "***PLAYER PICKED UP FLAMETHROWER***": {
-    "translation": ""
+    "translation": "捡起喷火器"
   },
   "*** 守住波德里亚 15s ***": {
     "translation": ""
@@ -153,7 +157,7 @@
     "translation": ""
   },
   "***YOU HAVE DEFEATED THE PREDATOR!***": {
-    "translation": ""
+    "translation": "你打败了铁血战士"
   },
   "*** 你完成了困难难度 ***": {
     "translation": ""
@@ -177,10 +181,10 @@
     "translation": ""
   },
   "***C4 ACTIVATED***": {
-    "translation": ""
+    "translation": "激活C4炸弹"
   },
   "***HOLD FOR 20 SECONDS***": {
-    "translation": ""
+    "translation": "守住20s"
   },
   "*** 是捕食者！ ***": {
     "translation": ""
@@ -189,25 +193,25 @@
     "translation": ""
   },
   "***THE PREDATOR IS CHARGING AN ATTACK!***": {
-    "translation": ""
+    "translation": "铁血战士正在调整攻击"
   },
   "***HOLD ON TO YOUR HELMETS!***": {
-    "translation": ""
+    "translation": "稳住"
   },
   "***YOU MUST PRESS ALL 4 ORBS TO SURVIVE!***": {
-    "translation": ""
+    "translation": "按下4个ORBS"
   },
   "*** 你杀了掠夺者 ***": {
     "translation": ""
   },
   "***RUN TOWARDS THE ELEVATOR!***": {
-    "translation": ""
+    "translation": "朝电梯跑！"
   },
   "***YOU ARE TOO SLOW!***": {
-    "translation": ""
+    "translation": "活力不对！"
   },
   "***PLAYER PICKED UP ALIEN DEVICE***": {
-    "translation": ""
+    "translation": "捡起外星装置"
   },
   "*** 直升机在路上了 ***": {
     "translation": ""
@@ -258,10 +262,10 @@
     "translation": ""
   },
   "***THE CORE IS GOING UNSTABLE***": {
-    "translation": ""
+    "translation": "核心要崩坏了"
   },
   "***RUN TOWARDS THE FINAL ROOM***": {
-    "translation": ""
+    "translation": "往最后面房间跑"
   },
   "*** 这是你的最后一战 ***": {
     "translation": ""
