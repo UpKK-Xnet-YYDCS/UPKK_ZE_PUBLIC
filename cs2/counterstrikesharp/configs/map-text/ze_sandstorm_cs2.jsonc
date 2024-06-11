@@ -1,11 +1,212 @@
 {
-  ">>> WARMUP ROUND <<<": {
-    "translation": ""
+  "** 10 seconds left **": {
+    "translation": "** 还剩10秒 **"
   },
-  ">>*** MAP BY STK ***<<": {
-    "translation": ""
+  "** 5 seconds left **": {
+    "translation": "** 还剩5秒 **"
+  },
+  "** 5 seconds left. **": {
+    "translation": "** 还剩5秒。**"
+  },
+  "** A player has picked up Earth Staff **": {
+    "translation": "** 一名玩家捡到了土 **"
+  },
+  "** A player has picked up Fire Staff **": {
+    "translation": "** 一名玩家捡到了火 **"
+  },
+  "** A player has picked up Heal Staff **": {
+    "translation": "** 一名玩家捡到了治疗 **"
+  },
+  "** A player has picked up Quicksand Staff **": {
+    "translation": "** 一名玩家捡到了流沙 **"
+  },
+  "** A player has picked up SandStorm Staff **": {
+    "translation": "** 一名玩家捡到了沙尘暴 **"
+  },
+  "** A player has picked up Tornado Staff **": {
+    "translation": "** 一名玩家捡到了风 **"
+  },
+  "** AND NOW YOU WILL DIE! **": {
+    "translation": "** 现在你将死去！**"
+  },
+  "** Bomb explodes in 20 seconds **": {
+    "translation": "** 20秒后炸弹爆炸 **"
+  },
+  "** Do not come to the edge of the platform! **": {
+    "translation": "** 不要靠近平台边缘！**"
+  },
+  "** Elevator leaves in 20 seconds **": {
+    "translation": "** 20秒后电梯将离开 **"
+  },
+  "** FALL BACK **": {
+    "translation": "** 后退 **"
+  },
+  "** Hold Zombies for 10 seconds **": {
+    "translation": "** 防守僵尸10秒 **"
+  },
+  "** Hold for 10 seconds. **": {
+    "translation": "** 防守10秒。**"
+  },
+  "** Hold for 15 seconds. **": {
+    "translation": "** 防守15秒。**"
+  },
+  "** Hold for 20 seconds. **": {
+    "translation": "** 防守20秒。**"
+  },
+  "** Hold zombies for 10 seconds **": {
+    "translation": "** 防守僵尸10秒 **"
+  },
+  "** Hold zombies for 15 seconds **": {
+    "translation": "** 防守僵尸15秒 **"
+  },
+  "** Humans have become immortal!!! **": {
+    "translation": "** 人类已经变得不朽了！！！**"
+  },
+  "** Kill him or he kills you!!! **": {
+    "translation": "** 杀了他，否则他会杀了你！！！**"
+  },
+  "** Kill the remaining zombies! **": {
+    "translation": "** 杀死剩余的僵尸！**"
+  },
+  "** Meteorite arrives in 17 seconds. **": {
+    "translation": "** 17秒后陨石到达。**"
+  },
+  "** Press on the 4 obelisks to open the door **": {
+    "translation": "** 按下4个方尖碑以打开门 **"
+  },
+  "** Run into the center and break the crystal!!! **": {
+    "translation": "** 跑到中心并打破水晶！！！**"
+  },
+  "** Teleport will open in 15 seconds **": {
+    "translation": "** 15秒后传送门将打开 **"
+  },
+  "** Teleport will open in 20 seconds **": {
+    "translation": "** 20秒后传送门将打开 **"
+  },
+  "** Teleport will open in 20 seconds. **": {
+    "translation": "** 20秒后传送门将打开。**"
+  },
+  "** Teleport will open on 10 seconds **": {
+    "translation": "** 10秒后传送门将打开 **"
+  },
+  "** The door will open in 30 seconds **": {
+    "translation": "** 30秒后门将打开 **"
+  },
+  "** The doors will open in 10 seconds **": {
+    "translation": "** 10秒后门将打开 **"
+  },
+  "** The doors will open in 15 seconds **": {
+    "translation": "** 15秒后门将打开 **"
+  },
+  "** The doors will open in 20 seconds **": {
+    "translation": "** 20秒后门将打开 **"
+  },
+  "** The doors will open in 25 seconds **": {
+    "translation": "** 25秒后门将打开 **"
+  },
+  "** The doors will open on 15 seconds **": {
+    "translation": "** 15秒后门将打开 **"
+  },
+  "** Victory in 10 seconds. **": {
+    "translation": "** 10秒后胜利。**"
+  },
+  "** Victory in 100 seconds. **": {
+    "translation": "** 100秒后胜利。**"
+  },
+  "** Victory in 150 seconds. **": {
+    "translation": "** 150秒后胜利。**"
+  },
+  "** Victory in 200 seconds. **": {
+    "translation": "** 200秒后胜利。**"
+  },
+  "** Victory in 230 seconds. **": {
+    "translation": "** 230秒后胜利。**"
+  },
+  "** Victory in 50 seconds. **": {
+    "translation": "** 50秒后胜利。**"
+  },
+  "** YOU WON STAGE 2 **": {
+    "translation": "** 你赢了关卡2 **"
+  },
+  "** YOU WON STAGE 3 **": {
+    "translation": "** 你赢了关卡3 **"
+  },
+  "** Zombies have 1 HP! **": {
+    "translation": "** 僵尸只有1点生命值！**"
+  },
+  "*** Grenades do more damage (4 SECONDS). ***": {
+    "translation": "*** 高爆手雷造成更多伤害，4秒 ***"
+  },
+  "*** Grenades do more damage. (8 SECONDS)***": {
+    "translation": "*** 高爆手雷造成更多伤害，8秒 ***"
+  },
+  "*** Grenades do more damage. ***": {
+    "translation": "*** 高爆手雷造成更多伤害 ***"
+  },
+  "*** He's dead. Run. ***": {
+    "translation": "*** 他死了。快跑。***"
+  },
+  "*** YOU WON STAGE 1 ***": {
+    "translation": "*** 你赢了关卡1 ***"
+  },
+  "*** YOU WON STAGE 4 ***": {
+    "translation": "*** 你赢了关卡4 ***"
+  },
+  "*** YOU WON STAGE 5 ***": {
+    "translation": "*** 你赢了关卡5 ***"
   },
   ">> STAGE 1 <<": {
-    "translation": ""
+    "translation": ">> 关卡1 <<"
+  },
+  ">> STAGE 2 <<": {
+    "translation": ">> 关卡2 <<"
+  },
+  ">> STAGE 3 <<": {
+    "translation": ">> 关卡3 <<"
+  },
+  ">> STAGE 4 <<": {
+    "translation": ">> 关卡4 <<"
+  },
+  ">> STAGE 5 <<": {
+    "translation": ">> 关卡5 <<"
+  },
+  ">> VICTORY <<": {
+    "translation": ">> 胜利 <<"
+  },
+  ">> ZM ROUND <<": {
+    "translation": ">> ZM关 <<"
+  },
+  ">>*** IT'S TIME TO CHOOSE A LEVEL! ***<<": {
+    "translation": ">>*** 现在是选择关卡的时间！***<<"
+  },
+  ">>*** MAP BY STK ***<<": {
+    "translation": ">>*** 地图由STK制作 翻译：Asteri3m ***<<"
+  },
+  ">>*** THANKS FOR PLAYING! ***<<": {
+    "translation": ">>*** 感谢游玩！***<<"
+  },
+  ">>> WARMUP ROUND <<<": {
+    "translation": ">>> 热身回合 <<<"
+  },
+  ">| ADMIN ROOM |< Level changed to 1. Kill all in 5 seconds.": {
+    "translation": ">| 管理员房间 |< 关卡切换到1。5秒内杀死所有人。"
+  },
+  ">| ADMIN ROOM |< Level changed to 2. Kill all in 5 seconds.": {
+    "translation": ">| 管理员房间 |< 关卡切换到2。5秒内杀死所有人。"
+  },
+  ">| ADMIN ROOM |< Level changed to 3. Kill all in 5 seconds.": {
+    "translation": ">| 管理员房间 |< 关卡切换到3。5秒内杀死所有人。"
+  },
+  ">| ADMIN ROOM |< Level changed to 4. Kill all in 5 seconds.": {
+    "translation": ">| 管理员房间 |< 关卡切换到4。5秒内杀死所有人。"
+  },
+  ">| ADMIN ROOM |< Level changed to 5. Kill all in 5 seconds.": {
+    "translation": ">| 管理员房间 |< 关卡切换到5。5秒内杀死所有人。"
+  },
+  ">| ADMIN ROOM |< Level changed to ZM(6). Kill all in 5 seconds.": {
+    "translation": ">| 管理员房间 |< 关卡切换到ZM关（6）。5秒内杀死所有人。"
+  },
+  "|||||YOU LOSE|||||": {
+    "translation": "你输了"
   }
 }
