@@ -36,25 +36,25 @@
     "translation": "蒸汽已关闭"
   },
   "BLAST DOORS <<< 30 >>>": {
-    "translation": "防爆门 <<< 30 >>>"
+    "translation": " <<< 30s >>>"
   },
   "BLAST DOORS <<< 25 >>>": {
-    "translation": "防爆门 <<< 25 >>>"
+    "translation": " <<< 25s >>>"
   },
   "BLAST DOORS <<< 20 >>>": {
-    "translation": "防爆门 <<< 20 >>>"
+    "translation": " <<< 20s >>>"
   },
   "BLAST DOORS <<< 15 >>>": {
-    "translation": "防爆门 <<< 15 >>>"
+    "translation": " <<< 15s >>>"
   },
   "BLAST DOORS <<< 10 >>>": {
-    "translation": "防爆门 <<< 10 >>>"
+    "translation": " <<< 10s >>>"
   },
   "BLAST DOORS <<< 05 >>>": {
-    "translation": "防爆门 <<< 05 >>>"
+    "translation": " <<< 5s >>>"
   },
   "BLAST DOORS <<< 00 >>>": {
-    "translation": "防爆门 <<< 00 >>>"
+    "translation": " <<< 00 >>>"
   },
   "The doors opening in 30s": {
     "translation": "门将在30秒后打开"
@@ -90,22 +90,22 @@
     "translation": "远离中间激光！"
   },
   "DOOR OPEN <<< 30 >>>": {
-    "translation": "隔离门 <<< 30 >>>"
+    "translation": " <<< 30s >>>"
   },
   "DOOR OPEN <<< 25 >>>": {
-    "translation": "隔离门 <<< 25 >>>"
+    "translation": " <<< 25s >>>"
   },
   "DOOR OPEN <<< 20 >>>": {
-    "translation": "隔离门 <<< 20 >>>"
+    "translation": " <<< 20s >>>"
   },
   "DOOR OPEN <<< 15 >>>": {
-    "translation": "隔离门 <<< 15 >>>"
+    "translation": " <<< 15s >>>"
   },
   "DOOR OPEN <<< 10 >>>": {
-    "translation": "隔离门 <<< 10 >>>"
+    "translation": " <<< 10s >>>"
   },
   "DOOR OPEN <<< 05 >>>": {
-    "translation": "隔离门 <<< 05 >>>"
+    "translation": " <<< 5s >>>"
   },
   "DOOR OPEN <<< 00 >>>": {
     "translation": "隔离门 <<< 00 >>>"
@@ -154,7 +154,8 @@
     "DoorCountDown": -1
   },
   "DEFEND 40 SECONDS": {
-    "translation": "防守40秒"
+    "translation": "防守40秒",
+    "DoorCountDown": -1
   },
   "Prepare for your LAST FIGHT": {
     "translation": "背水一战！"
@@ -169,7 +170,7 @@
     "translation": "作者：Trazix||翻译：落木尘影"
   },
   "Ported by TuPu": {
-    "translation": "CS2移植：王小明"
+    "translation": "移植：王小明"
   },
   "To be continute...": {
     "translation": "未完待续..."
