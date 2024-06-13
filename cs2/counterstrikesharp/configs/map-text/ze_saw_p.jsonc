@@ -33,7 +33,7 @@
     "translation": ""
   },
   ">-Door opening in 30 sec-<": {
-    "translation": ""
+    "translation": "30s后开门"
   },
   "*** 守住50s ***": {
     "translation": ""
@@ -42,7 +42,8 @@
     "translation": ""
   },
   "*** 火炉门20s开 ***": {
-    "translation": ""
+    "translation": "",
+    "DoorCountDown": -1
   },
   "*** 防守30s ***": {
     "translation": ""
@@ -57,7 +58,7 @@
     "translation": ""
   },
   ">- bomb shelter opening -<": {
-    "translation": ""
+    "translation": "庇护所大门开启中"
   },
   "*** 大门关闭中 ***": {
     "translation": ""
