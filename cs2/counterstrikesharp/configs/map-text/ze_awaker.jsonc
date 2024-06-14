@@ -1,59 +1,94 @@
 {
-  "Lv1": {
-    "translation": ""
-  },
-  "20s": {
-    "translation": ""
-  },
-  "15s": {
-    "translation": ""
-  },
-  "gravity cd60s": {
-    "translation": ""
-  },
-  "10s": {
-    "translation": ""
-  },
-  "25s": {
-    "translation": ""
-  },
-  "Shield    cd80s": {
-    "translation": ""
-  },
-  "60s": {
-    "translation": ""
-  },
-  "30s": {
-    "translation": ""
+  ". . .": {
+    "translation": ". . ."
   },
   "...": {
-    "translation": ""
-  },
-  "Lv2": {
-    "translation": ""
-  },
-  "A new place. Looks like that thing's still following me": {
-    "translation": ""
+    "translation": "..."
   },
   "100s": {
-    "translation": ""
+    "translation": "100秒"
   },
-  ". . .": {
-    "translation": ""
+  "10s": {
+    "translation": "10秒"
   },
-  "45s": {
-    "translation": ""
+  "110s": {
+    "translation": "110秒"
+  },
+  "15s": {
+    "translation": "15秒"
+  },
+  "20s": {
+    "translation": "20秒"
+  },
+  "25s": {
+    "translation": "25秒"
   },
   "29s": {
-    "translation": ""
+    "translation": "29秒"
+  },
+  "30s": {
+    "translation": "30秒"
+  },
+  "45s": {
+    "translation": "45秒"
   },
   "50s": {
-    "translation": ""
+    "translation": "50秒"
+  },
+  "60s": {
+    "translation": "60秒"
+  },
+  "A new place. Looks like that thing's still following me": {
+    "translation": "一个新地方。看起来那东西还在跟着我"
+  },
+  "Let's see where this elevator takes me": {
+    "translation": "看看这个电梯会带我去哪里"
+  },
+  "Lv1": {
+    "translation": "第一关"
+  },
+  "Lv2": {
+    "translation": "第二关"
+  },
+  "Lv3": {
+    "translation": "第三关"
   },
   "RTV": {
-    "translation": ""
+    "translation": "RTV关"
   },
-  "RRRRRRRRTTTTTTTTTVVVVVVVVV": {
-    "translation": ""
+  "Shield    cd80s": {
+    "translation": "护盾 冷却80秒",
+    "DoorCountDown": -1
+  },
+  "[. . . . . . .]": {
+    "translation": "[. . . . . . .]"
+  },
+  "[. . . . .]": {
+    "translation": "[. . . . .]"
+  },
+  "[. . . ]": {
+    "translation": "[. . . ]"
+  },
+  "admin set Rtv1": {
+    "translation": "管理员设置 Rtv1"
+  },
+  "admin set Rtv2": {
+    "translation": "管理员设置 Rtv2"
+  },
+  "admin set lv1": {
+    "translation": "管理员设置 Lv1"
+  },
+  "admin set lv2": {
+    "translation": "管理员设置 Lv2"
+  },
+  "admin set lv3": {
+    "translation": "管理员设置 Lv3"
+  },
+  "gravity cd60s": {
+    "translation": "黑洞 冷却60秒",
+    "DoorCountDown": -1
+  },
+  "too late": {
+    "translation": "太晚了"
   }
 }
