@@ -1,307 +1,401 @@
 {
-  "*** 难度-正常 ***": {
-    "translation": ""
-  },
-  "*** 渗透并保卫游击队驻地 ***": {
-    "translation": ""
-  },
-  "*** 守住 50s ***": {
-    "translation": ""
-  },
-  "*** 后退 ***": {
-    "translation": ""
-  },
-  "*** 还剩5s ***": {
-    "translation": ""
-  },
-  "*** 还剩 4s ***": {
-    "translation": ""
-  },
-  "*** 还剩 3s ***": {
-    "translation": ""
-  },
-  "*** 还剩 2s ***": {
-    "translation": ""
-  },
-  "*** 还剩 1s ***": {
-    "translation": ""
-  },
-  "*** 快跑！ ***": {
-    "translation": ""
-  },
-  "*** 传送每个人到化合物 ***": {
-    "translation": ""
-  },
-  "***FIRST AID PICKED UP***": {
-    "translation": "捡起了急救包"
-  },
-  "*** 守住这个区域 10s ***": {
-    "translation": ""
-  },
-  "*** MOVE IT ***": {
-    "translation": "行动！"
-  },
-  "*** 它是捕食者！ ***": {
-    "translation": "他是铁血战士！"
-  },
-  "*** 杀了它 ***": {
-    "translation": ""
-  },
-  "*** 躲避激光 ***": {
-    "translation": ""
-  },
-  "*** 看起来它正在为另一次地面踩踏做准备 ***": {
-    "translation": ""
-  },
-  "*** 快开枪！！！ ***": {
-    "translation": ""
-  },
-  "*** 它跑了 ***": {
-    "translation": ""
-  },
-  "*** 干得好 ***": {
-    "translation": ""
-  },
-  "***PLAYER PICKED UP GRENADE LAUNCHER***": {
-    "translation": "捡起榴弹炮"
-  },
-  "***HOLD FOR 30 SECONDS***": {
-    "translation": "守住30s"
-  },
-  "***5 SECONDS LEFT***": {
-    "translation": "还有5s"
-  },
-  "***MOVE IT***": {
-    "translation": "行动！"
-  },
-  "*** 把所有人传送到克里夫的藏身处 ***": {
-    "translation": ""
-  },
-  "*** 守住这个区域 40s ***": {
-    "translation": ""
-  },
-  "*** 把所有人传送到废墟 ***": {
-    "translation": ""
-  },
-  "*** 还剩20秒 ***": {
-    "translation": ""
-  },
-  "*** 还剩10s ***": {
-    "translation": ""
-  },
-  "*** 直升机已经在路上了！ ***": {
-    "translation": ""
-  },
-  "*** 直升机 10s 后离开 ***": {
-    "translation": ""
-  },
-  "*** 直升机 5s 后离开 ***": {
-    "translation": ""
-  },
-  "*** 起飞 ***": {
-    "translation": ""
-  },
-  "*** 核弹爆炸了 ***": {
-    "translation": ""
-  },
-  "*** 哦不！核弹爆炸了！ ***": {
-    "translation": ""
-  },
-  "*** 你完成了正常难度 ***": {
-    "translation": ""
-  },
-  "*** 加载困难难度 ***": {
-    "translation": ""
-  },
-  "*** 难度-困难 ***": {
-    "translation": ""
-  },
-  "***PLAYER PICKED UP IMPULSOR***": {
-    "translation": "捡起了脉冲枪"
-  },
-  "*** 守住阿兹特克废墟 25s ***": {
-    "translation": ""
-  },
-  "***PLAYER PICKED UP FLAMETHROWER***": {
-    "translation": "捡起喷火器"
-  },
-  "*** 守住波德里亚 15s ***": {
-    "translation": ""
-  },
-  "*** 快跑！！！！！！！ ***": {
-    "translation": ""
-  },
-  "*** 守住 30s ***": {
-    "translation": ""
-  },
-  "*** 5 ***": {
-    "translation": "",
-    "DoorCountDown": -1
-  },
-  "*** 4 ***": {
-    "translation": "",
-    "DoorCountDown": -1
-  },
-  "*** 3 ***": {
-    "translation": ""
-  },
-  "*** 2 ***": {
-    "translation": ""
-  },
-  "*** 1 ***": {
-    "translation": ""
-  },
-  "*** 进去吧 ***": {
-    "translation": ""
-  },
-  "***YOU HAVE DEFEATED THE PREDATOR!***": {
-    "translation": "你打败了铁血战士"
-  },
-  "*** 你完成了困难难度 ***": {
-    "translation": ""
-  },
-  "*** 加载超高难度 ***": {
-    "translation": ""
-  },
-  "*** 难度-超高 ***": {
-    "translation": ""
-  },
-  "*** 电梯正在预热 ***": {
-    "translation": ""
-  },
-  "*** 电梯在路上了 ***": {
-    "translation": ""
-  },
-  "*** 电梯来了 ***": {
-    "translation": ""
-  },
-  "*** 将每个人传送到复杂的电梯 ***": {
-    "translation": ""
-  },
-  "***C4 ACTIVATED***": {
-    "translation": "激活C4炸弹"
-  },
-  "***HOLD FOR 20 SECONDS***": {
-    "translation": "守住20s"
-  },
-  "*** 是捕食者！ ***": {
-    "translation": ""
-  },
-  "*** 传送每个人到复杂的核心 ***": {
-    "translation": ""
-  },
   "***THE PREDATOR IS CHARGING AN ATTACK!***": {
-    "translation": "铁血战士正在调整攻击"
-  },
-  "***HOLD ON TO YOUR HELMETS!***": {
-    "translation": "稳住"
-  },
-  "***YOU MUST PRESS ALL 4 ORBS TO SURVIVE!***": {
-    "translation": "按下4个ORBS"
-  },
-  "*** 你杀了掠夺者 ***": {
-    "translation": ""
-  },
-  "***RUN TOWARDS THE ELEVATOR!***": {
-    "translation": "朝电梯跑！"
+    "translation": "铁血战士正在发起攻击！"
   },
   "***YOU ARE TOO SLOW!***": {
-    "translation": "火力不对！"
+    "translation": "你太慢了！"
   },
-  "***PLAYER PICKED UP ALIEN DEVICE***": {
-    "translation": "捡起外星装置"
+  "***HOLD ON TO YOUR HELMETS!***": {
+    "translation": "抓住你的头盔！"
   },
-  "*** 直升机在路上了 ***": {
-    "translation": ""
+  "***YOU MUST PRESS ALL 4 ORBS TO SURVIVE!***": {
+    "translation": "你必须按下所有4个球体才能生存！"
   },
-  "*** 直升机来了！动起来。 ***": {
-    "translation": ""
-  },
-  "*** 你完成了超高难度 ***": {
-    "translation": ""
-  },
-  "*** 加载终极难度 ***": {
-    "translation": ""
-  },
-  "*** 祝你好运 ***": {
-    "translation": ""
-  },
-  "*** 难度-极限 ***": {
-    "translation": ""
-  },
-  "*** 进电梯 ***": {
-    "translation": ""
-  },
-  "*** 守住这个区域 20s ***": {
-    "translation": ""
-  },
-  "*** 还剩 15s ***": {
-    "translation": ""
-  },
-  "*** 将所有人传送到飞船入口 ***": {
-    "translation": ""
-  },
-  "*** 进入传送器 ***": {
-    "translation": ""
-  },
-  "*** 将所有人传送到飞船核心 ***": {
-    "translation": ""
-  },
-  "*** 掠夺者愤怒了 ***": {
-    "translation": ""
-  },
-  "*** 宇宙飞船开始坍塌了 ***": {
-    "translation": ""
-  },
-  "*** 必须有人跳进核心 ***": {
-    "translation": ""
-  },
-  "*** 僵尸桥启动 ***": {
-    "translation": ""
+  "***RUN TOWARDS THE ELEVATOR!***": {
+    "translation": "朝电梯跑去！"
   },
   "***THE CORE IS GOING UNSTABLE***": {
-    "translation": "核心要崩坏了"
+    "translation": "核心正在变得不稳定"
   },
   "***RUN TOWARDS THE FINAL ROOM***": {
-    "translation": "往最后面房间跑"
+    "translation": "跑向最后一个房间"
   },
-  "*** 这是你的最后一战 ***": {
-    "translation": ""
+  "***YOU HAVE DEFEATED THE PREDATOR!***": {
+    "translation": "你打败了铁血战士！"
   },
-  "*** 坚守阵地 ***": {
-    "translation": ""
+  "***C4 ACTIVATED***": {
+    "translation": "C4激活"
   },
-  "*** 用无限弹药继续射击 ***": {
-    "translation": ""
+  "***HOLD FOR 20 SECONDS***": {
+    "translation": "守住20秒"
   },
-  "*** 地图 by PER30010 / LUFFAREN 翻译 by 秋刀鱼***": {
-    "translation": ""
+  "***MOVE IT***": {
+    "translation": "行动"
   },
-  "*** 你是终极僵尸逃脱大师 ***": {
-    "translation": ""
+  "***FIRST AID PICKED UP***": {
+    "translation": "捡起急救包"
   },
-  "*** 感谢您的游玩 ***": {
-    "translation": ""
-  },
-  "*** 地图重置 ***": {
-    "translation": ""
-  },
-  "*** 哦不！小心点 ***": {
-    "translation": ""
-  },
-  "*** 你本可以阻止攻击的... ***": {
-    "translation": ""
-  },
-  "***PLAYER PICKED UP AMMO DISPENSER***": {
-    "translation": "玩家捡起了弹药"
-  },
-  "***PLAYER PICKED UP ALIEN SAMPLE***": {
-    "translation": "捡起ALIEN SAMPLE"
-  },
-  "***PLAYER PICKED UP PUSH GUN***": {
-    "translation": "捡起推力"
+  "***PLAYER PICKED UP GRENADE LAUNCHER***": {
+    "translation": "玩家拿起手榴弹发射器"
   },
   "***PLAYER PICKED UP CLAYMORE MINES***": {
-    "translation": "捡起CLAYMORE MINES"
+    "translation": "玩家捡起克莱摩尔的地雷"
+  },
+  "***HOLD FOR 30 SECONDS***": {
+    "translation": "守住30秒"
+  },
+  "***5 SECONDS LEFT***": {
+    "translation": "还剩5秒",
+    "DoorCountDown": -1
+  },
+  "***PLAYER PICKED UP AMMO DISPENSER***": {
+    "translation": "玩家拿起弹药分配器"
+  },
+  "***PLAYER PICKED UP MINI GUN***": {
+    "translation": "玩家拿起迷你枪"
+  },
+  "***PLAYER PICKED UP ALIEN SAMPLE***": {
+    "translation": "玩家采集了外星人样本"
+  },
+  "***PLAYER PICKED UP FLAMETHROWER***": {
+    "translation": "玩家拿起火焰喷射器"
+  },
+  "***PLAYER PICKED UP ALIEN DEVICE***": {
+    "translation": "玩家拿起了外星设备"
+  },
+  "***PLAYER PICKED UP PUSH GUN***": {
+    "translation": "玩家拿起推枪"
+  },
+  "***PLAYER PICKED UP IMPULSOR***": {
+    "translation": "玩家拿起了impulso"
+  },
+  "***PLAYER PICKED UP GAUSS RIFLE***": {
+    "translation": "玩家拿起高斯步枪"
+  },
+  "***ELEVATOR'S HERE***": {
+    "translation": "电梯到了"
+  },
+  "***YOU KILLED THE PREDATOR***": {
+    "translation": "你杀死了铁血战士"
+  },
+  "***ITS THE PREDATOR!***": {
+    "translation": "它是铁血战士！"
+  },
+  "***CHOPPER LEAVING IN 10 SECONDS***": {
+    "translation": "直升机10秒钟后离开"
+  },
+  "***CHOPPER LEAVING IN 5 SECONDS***": {
+    "translation": "直升机5秒钟后离开",
+    "DoorCountDown": -1
+  },
+  "***CHOPPER IS LEAVING***": {
+    "translation": "直升机要离开了"
+  },
+  "***THIS IS YOUR FINAL STAND***": {
+    "translation": "这是你的最后一站"
+  },
+  "***HOLD YOUR GROUND***": {
+    "translation": "坚守阵地"
+  },
+  "***KEEP FIRING WITH UNLIMITED AMMO***": {
+    "translation": "用无限的弹药继续射击"
+  },
+  "***ELEVATOR IS ON THE WAY***": {
+    "translation": "电梯在路上"
+  },
+  "***ELEVATOR IS WARMING UP***": {
+    "translation": "电梯正在预热"
+  },
+  "***HOLD 30 SECONDS***": {
+    "translation": "守住30秒"
+  },
+  "***10 SECONDS LEFT***": {
+    "translation": "守住10秒",
+    "DoorCountDown": -1
+  },
+  "***5***": {
+    "translation": "",
+    "DoorCountDown": -1
+  },
+  "***4***": {
+    "translation": "",
+    "DoorCountDown": -1
+  },
+  "***1***": {
+    "translation": ""
+  },
+  "***2***": {
+    "translation": ""
+  },
+  "***3***": {
+    "translation": ""
+  },
+  "***IT'S RUNNING AWAY***": {
+    "translation": "它正在逃跑"
+  },
+  "***WELL DONE***": {
+    "translation": "做得好"
+  },
+  "***IT LOOKS LIKE IT'S PREPARING FOR ANOTHER GROUNDSTOMP***": {
+    "translation": "看起来它正在为另一场战斗做准备"
+  },
+  "***SHOOT IT BEFORE IT'S TOO LATE***": {
+    "translation": "趁现在还来得及开枪"
+  },
+  "***KILL IT***": {
+    "translation": "杀死它"
+  },
+  "***INFILTRATE AND DEFEND THE GUERILLA COMPOUND***": {
+    "translation": "渗透并保卫游击队大院"
+  },
+  "***HOLD FOR 50 SECONDS***": {
+    "translation": "守住50秒"
+  },
+  "***FALL BACK***": {
+    "translation": "后退"
+  },
+  "***OH NO!     WATCH OUT!***": {
+    "translation": "小心"
+  },
+  "***YOU COULD HAVE STOPPED THE ATTACK THOUGH...***": {
+    "translation": "你本可以阻止袭击的。。。"
+  },
+  "***IT'S RUNNING AWAY***": {
+    "translation": "它正在逃跑"
+  },
+  "***DODGE THE LASERS***": {
+    "translation": "躲避激光"
+  },
+  "***ITS A PREDATOR!***": {
+    "translation": "它是铁血战士！"
+  },
+  "***HOLD BOULDERAREA FOR 15 SECONDS***": {
+    "translation": "抱石区守住15秒"
+  },
+  "***HOLD THIS AREA FOR 10 SECONDS***": {
+    "translation": "守住这个区域10秒"
+  },
+  "***THE CHOPPER IS ON IT'S WAY!***": {
+    "translation": "直升机在路上！"
+  },
+  "***HOLD THIS AREA FOR 20 SECONDS***": {
+    "translation": "守住这个区域20秒"
+  },
+  "***15 SECONDS LEFT***": {
+    "translation": "还剩15秒",
+    "DoorCountDown": -1
+  },
+  "***10 SECONDS LEFT***": {
+    "translation": "还剩10秒",
+    "DoorCountDown": -1
+  },
+  "***5 SECONDS LEFT***": {
+    "translation": "还剩5秒",
+    "DoorCountDown": -1
+  },
+  "***RUN***": {
+    "translation": "跑"
+  },
+  "***5 SECONDS LEFT***": {
+    "translation": "5",
+    "DoorCountDown": -1
+  },
+  "***4 SECONDS LEFT***": {
+    "translation": "4",
+    "DoorCountDown": -1
+  },
+  "***3 SECONDS LEFT***": {
+    "translation": "3",
+    "DoorCountDown": -1
+  },
+  "***2 SECONDS LEFT***": {
+    "translation": "2"
+  },
+  "***1 SECONDS LEFT***": {
+    "translation": "1"
+  },
+  "***GET INSIDE THE TRANSPORTER***": {
+    "translation": "进入运输车"
+  },
+  "***HOLD AZTEC-RUINS FOR 25 SECONDS***": {
+    "translation": "守住AZTEC-RUINS 25秒"
+  },
+  "***5 SECONDS LEFT***": {
+    "translation": "还剩5秒",
+    "DoorCountDown": -1
+  },
+  "***RUN !***": {
+    "translation": "快跑！"
+  },
+  "***HOLD THIS AREA FOR 40 SECONDS***": {
+    "translation": "守住这个区域40秒"
+  },
+  "***20 SECONDS LEFT***": {
+    "translation": "还剩20秒",
+    "DoorCountDown": -1
+  },
+  "***10 SECONDS LEFT***": {
+    "translation": "还剩10秒",
+    "DoorCountDown": -1
+  },
+  "***5 SECONDS LEFT***": {
+    "translation": "还剩5秒",
+    "DoorCountDown": -1
+  },
+  "***HOLD THIS AREA FOR 40 SECONDS***": {
+    "translation": "守住这个区域40秒"
+  },
+  "***CHOPPER IS ON IT'S WAY***": {
+    "translation": "直升机在路上"
+  },
+  "***THE CHOPPER IS HERE! MOVE IT!***": {
+    "translation": "直升机来了！行动！"
+  },
+  "***CHOPPER LEAVES IN 10 SECONDS***": {
+    "translation": "直升机10秒钟后离开",
+    "DoorCountDown": -1
+  },
+  "***CHOPPER LEAVES IN 5 SECONDS***": {
+    "translation": "直升机5秒钟后起飞",
+    "DoorCountDown": -1
+  },
+  "***CHOPPER IS LEAVING***": {
+    "translation": "直升机要离开了"
+  },
+  "***HOLD 30 SECONDS***": {
+    "translation": "守住30秒"
+  },
+  "***5 SECONDS LEFT***": {
+    "translation": "还剩5秒",
+    "DoorCountDown": -1
+  },
+  "***GET IN THE ELEVATOR***": {
+    "translation": "上电梯"
+  },
+  "***YOU FAILED***": {
+    "translation": "你失败了"
+  },
+  "***A ZOMBIE GOT INSIDE THE CHOPPER***": {
+    "translation": "一个僵尸钻进了直升机"
+  },
+  "***THE SPACESHIP IS STARTING TO COLLAPSE***": {
+    "translation": "宇宙飞船开始坍塌"
+  },
+  "***THE PREDATOR IS IN RAGEMODE***": {
+    "translation": "铁血战士处于混乱状态"
+  },
+  "***ZOMBIE BRIDGE ACTIVATED***": {
+    "translation": "僵尸桥激活"
+  },
+  "***SOMEONE MUST JUMP INTO THE CORE***": {
+    "translation": "必须有人跳进核心"
+  },
+  "ZOMBIES ARE RELEASED!": {
+    "translation": "僵尸被释放了！"
+  },
+  "YOU TOOK TOO LONG!": {
+    "translation": "你花的时间太长了！"
+  },
+  "***RUN! GO BEFORE ITS TOO LATE!***": {
+    "translation": "快跑！趁现在还来得及！"
+  },
+  "***OH NO! THE NUKE EXPLODED!***": {
+    "translation": "哦，不！核武器爆炸了！"
+  },
+  "***THE NUKE HAS EXPLODED***": {
+    "translation": "核武器爆炸了"
+  },
+  "***YOU INTERUPTED THE PREDATORS ATTACK***": {
+    "translation": "你打断了铁血战士的攻击"
+  },
+  "***TELEPORTING EVERYONE TO COMPOUND***": {
+    "translation": "将僵尸传送到大院"
+  },
+  "***TELEPORTING EVERYONE TO CLIFF HIDEOUT***": {
+    "translation": "传送僵尸到悬崖隐蔽处"
+  },
+  "***TELEPORTING EVERYONE TO RUINS***": {
+    "translation": "传送僵尸到废墟"
+  },
+  "***DIFFICULTY --- HARD***": {
+    "translation": "难度-困难"
+  },
+  "***DIFFICULTY --- ULTIMATE***": {
+    "translation": "难度-极限"
+  },
+  "***DIFFICULTY --- HYPER***": {
+    "translation": "难度-超难"
+  },
+  "***DIFFICULTY --- NORMAL***": {
+    "translation": "难度-正常"
+  },
+  "***THANK YOU FOR PLAYING***": {
+    "translation": "谢谢你的游玩"
+  },
+  "***MAP BY --- PER30010 / LUFFAREN***": {
+    "translation": "地图作者：PER30010 / LUFFAREN 翻译：秋刀鱼"
+  },
+  "***YOU ARE THE ULTIMATE ZOMBIE ESCAPE MASTER***": {
+    "translation": "你是僵尸逃跑大师"
+  },
+  "***MAP RESET***": {
+    "translation": "地图重置"
+  },
+  "***TELEPORTING EVERYONE TO COMPLEX ELEVATOR***": {
+    "translation": "将僵尸传送到复杂的电梯"
+  },
+  "***TELEPORTING EVERYONE TO COMPLEX CORE***": {
+    "translation": "将僵尸传送到复杂核心"
+  },
+  "***TELEPORTING EVERYONE TO SPACESHIP ENTRANCE***": {
+    "translation": "传送僵尸到宇宙飞船入口"
+  },
+  "***TELEPORTING EVERYONE TO SPACESHIP CORE***": {
+    "translation": "将僵尸传送到宇宙飞船核心"
+  },
+  "***YOU COMPLETED NORMAL***": {
+    "translation": "正常难度通关"
+  },
+  "***MOVING ON TO HARD***": {
+    "translation": "加载困难难度"
+  },
+  "***MOVING ON TO HYPER***": {
+    "translation": "加载超难难度"
+  },
+  "***YOU COMPLETED HARD***": {
+    "translation": "困难难度通关"
+  },
+  "***YOU COMPLETED HYPER***": {
+    "translation": "超难难度通关"
+  },
+  "***MOVING ON TO ULTIMATE***": {
+    "translation": "加载终极难度"
+  },
+  "***GOOD LUCK...***": {
+    "translation": "祝你好运"
+  },
+  "***NUKE BUTTON PRESSED***": {
+    "translation": "核弹按钮按下"
+  },
+  "***SOMEONE IS CHANGING DIFFICULTY INSIDE THE DEVROOM***": {
+    "translation": "管理员改变了关卡"
+  },
+  "Weather: Clear": {
+    "translation": "天气-晴朗"
+  },
+  "Weather: rain_normal": {
+    "translation": "天气-小雨"
+  },
+  "Weather: rain_heavy": {
+    "translation": "天气-大雨"
+  },
+  "Weather: night_normal": {
+    "translation": "天气-晚上"
+  },
+  "Weather: night_rain": {
+    "translation": "天气-晚上暴雨"
+  },
+  "Weather: thunder": {
+    "translation": "天气-打雷"
   }
 }
