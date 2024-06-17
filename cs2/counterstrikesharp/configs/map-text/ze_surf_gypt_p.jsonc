@@ -1,104 +1,110 @@
 {
   "*** ELEVATOR LEAVING IN 15 SECONDS ***": {
-    "translation": ""
+    "translation": "电梯15s后离开"
   },
   "*** ELEVATOR LEAVING IN 5 SECONDS ***": {
-    "translation": ""
+    "translation": "电梯5s后离开",
+    "DoorCountDown": -1
   },
   "*** GO TO WHERE THE GREEN LIGHT IS SHINING! ***": {
-    "translation": ""
+    "translation": "去绿色光亮区域"
   },
   "*** ZOMBIES WILL BE RELEASED SOON, SURF AWAY! ***": {
-    "translation": ""
+    "translation": "尸笼不久就会打开，快划！"
   },
   "*** ACTIVATE C4 ON THE DOOR TO CONTINUE ***": {
-    "translation": ""
+    "translation": "激活门上的c4炸弹"
   },
   "*** WOODEN BLOCK WILL BE DESTROYED SOON, ACTIVATE C4 WHEN POSSIBLE! ***": {
-    "translation": ""
+    "translation": "挡不了僵尸多久的，必要时激活C4"
   },
   "*** EXPLOSIVES HAVE BEEN SET, DETONATION WILL FOLLOW SOON! ***": {
-    "translation": ""
+    "translation": "炸药已经设置好，很快就会引爆！"
   },
   "*** 5 SECONDS LEFT UNTIL DETONATION! ***": {
-    "translation": ""
+    "translation": "还有5s爆炸"
   },
   "*** C4 DETONATED, GO GO GO! ***": {
-    "translation": ""
+    "translation": "C4炸了，快跑快跑快跑！"
   },
   "*** ACTIVATE THE CONSOLE AFTER THE LAVA***": {
-    "translation": ""
+    "translation": "跳过岩浆激活控制台"
   },
   "*** WALL WILL BREAK DOWN IN 30 SECONDS *** DEFEND THE LAVA ***": {
-    "translation": ""
+    "translation": "守住岩浆，30s后面对僵尸左手墙碎"
   },
   "*** WALL BREAKS IN 5 SECONDS ***": {
-    "translation": ""
+    "translation": "还有5s墙碎",
+    "DoorCountDown": -1
   },
   "*** WALL HAS BROKEN DOWN, RUN TO THE TELEPORT ***": {
-    "translation": ""
+    "translation": "墙碎了，进传送"
   },
   "*** ZOMBIE TELEPORT IN 16 SECONDS ***": {
-    "translation": ""
+    "translation": "16s后僵尸传送"
   },
   "*** HOLD UNTIL WE GET TELEPORTED ***": {
-    "translation": ""
+    "translation": "守住直到我们被传送"
   },
   "*** ZOMBIE TELEPORT IN 8 SECONDS ***": {
-    "translation": ""
+    "translation": "8s后僵尸传送"
   },
   "*** ZOMBIE TELEPORT INCOMING SHORTLY! ***": {
-    "translation": ""
+    "translation": "僵尸来喽"
   },
   "*** GATE ON RAMP WILL OPEN SOON ***": {
-    "translation": ""
+    "translation": "匝道上的大门即将开放"
   },
   "*** PRESS BUTTON ON THE CONSOLE TO ENABLE THE ELEVATOR ***": {
-    "translation": ""
+    "translation": "控制台能激活电梯"
   },
   "*** BOXES SHORTCUT WILL OPEN IN 10 SECONDS ***": {
-    "translation": ""
+    "translation": "僵尸近路10s打开"
   },
   "*** ELEVATOR ACTIVATED, LEAVING IN 30 SECONDS ***": {
-    "translation": ""
+    "translation": "30s后电梯激活"
   },
   "*** ELEVATOR LEAVING IN 20 SECONDS ***": {
-    "translation": ""
+    "translation": "20s后电梯激活",
+    "DoorCountDown": -1
   },
   "*** ELEVATOR LEAVING IN 10 SECONDS ***": {
-    "translation": ""
+    "translation": "10s后电梯激活",
+    "DoorCountDown": -1
   },
   "*** ELEVATOR LEAVING IN 3 SECONDS ***": {
-    "translation": ""
+    "translation": "3s后电梯激活",
+    "DoorCountDown": -1
   },
   "*** HOLD HERE FOR 25 SECONDS UNTIL GLASS WALL APPEARS ***": {
-    "translation": ""
+    "translation": "守住25s"
   },
   "*** PLAYER HAS PICKED UP RED TRAIL ***": {
-    "translation": ""
+    "translation": "红色足迹被捡起"
   },
   "*** PLAYER HAS PICKED UP GREEN TRAIL ***": {
-    "translation": ""
+    "translation": "绿色足迹被捡起"
   },
   "*** PLAYER HAS PICKED UP BLUE TRAIL ***": {
-    "translation": ""
+    "translation": "蓝色足迹被捡起"
   },
   "*** SOMEONE HAS PICKED UP [Pompje's Pizza Boye] ***": {
     "translation": ""
   },
   "*** GO GO GO, ZOMBIES RELEASED SHORTLY ***": {
-    "translation": ""
+    "translation": "快跑快跑快跑"
   },
   "*** ZOMBIES RELEASED ***": {
-    "translation": ""
+    "translation": "僵尸来喽"
   },
   "*** DOORS BREAK IN 30 SECONDS ***": {
-    "translation": ""
+    "translation": "30s后门开"
   },
   "*** DOORS BREAK IN 5 SECONDS ***": {
-    "translation": ""
+    "translation": "5s",
+    "DoorCountDown": -1
   },
   "*** LAST DOOR WILL CLOSE IN 30 SECONDS ***": {
-    "translation": ""
+    "translation": "最终大门30s后关闭"
   }
 }
