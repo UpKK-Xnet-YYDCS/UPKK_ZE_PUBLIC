@@ -1,53 +1,60 @@
 {
   "MAP MADE BY GARGANTUA": {
-    "translation": ""
-  },
-  "++ SECRET BOAT LEAVING IN 5 SECONDS ++": {
-    "translation": ""
-  },
-  "++ SECRET BOAT IS LEAVING!! ++": {
-    "translation": ""
-  },
-  "++ GATE 1 WILL OPEN IN 60 SECONDS ++": {
-    "translation": ""
-  },
-  "++ GATE 1 WILL OPEN IN 45 SECONDS ++": {
-    "translation": ""
+    "translation": "地图作者：GARGANTUA 翻译：秋刀鱼"
   },
   "++ GATE 1 WILL OPEN IN 30 SECONDS ++": {
-    "translation": ""
+    "translation": "一号闸门将在30秒后打开",
+    "DoorCounterDown": -1
   },
   "++ GATE 1 WILL OPEN IN 15 SECONDS ++": {
-    "translation": ""
-  },
-  "++ GATE 1 WILL OPEN IN 10 SECONDS ++": {
-    "translation": ""
-  },
-  "++ GATE 1 WILL OPEN IN 5 SECONDS ++": {
-    "translation": ""
+    "translation": "一号闸门将在15秒后打开",
+    "DoorCounterDown": -1
   },
   "++ GATE 1 IS NOW OPEN!! ++": {
-    "translation": ""
+    "translation": "一号闸门开了"
   },
-  "++ GATE 2 WILL OPEN IN 10 SECONDS ++": {
-    "translation": ""
+  "++ GATE 1 WILL OPEN IN 10 SECONDS ++": {
+    "translation": "一号闸门将在10秒内打开",
+    "DoorCounterDown": -1
   },
-  "++ GATE 2 WILL OPEN IN 5 SECONDS ++": {
-    "translation": ""
+  "++ GATE 1 WILL OPEN IN 5 SECONDS ++": {
+    "translation": "一号闸门将在5秒内打开"
+  },
+  "++ GATE 1 WILL OPEN IN 60 SECONDS ++": {
+    "translation": "一号闸门将在60秒内打开"
+  },
+  "++ GATE 1 WILL OPEN IN 45 SECONDS ++": {
+    "translation": "一号闸门将在45秒内打开",
+    "DoorCounterDown": -1
   },
   "++ GATE 2 IS NOW OPEN!! ++": {
-    "translation": ""
+    "translation": "二号闸门开了"
   },
   "++ BOATS ARE LEAVING IN 30 SECONDS ++": {
-    "translation": ""
-  },
-  "++ BOATS ARE LEAVING IN 15 SECONDS ++": {
-    "translation": ""
-  },
-  "++ BOATS ARE LEAVING IN 10 SECONDS ++": {
-    "translation": ""
+    "translation": "船只将在30秒后离开"
   },
   "++ BOATS ARE LEAVING!! ++": {
-    "translation": ""
+    "translation": " 船只正在离开！"
+  },
+  "++ BOATS ARE LEAVING IN 15 SECONDS ++": {
+    "translation": "船在15秒内离开",
+    "DoorCounterDown": -1
+  },
+  "++ BOATS ARE LEAVING IN 10 SECONDS ++": {
+    "translation": "船在10秒内离开",
+    "DoorCounterDown": -1
+  },
+  "++ GATE 2 WILL OPEN IN 10 SECONDS ++": {
+    "translation": "二号闸门将在10秒后打开"
+  },
+  "++ GATE 2 WILL OPEN IN 5 SECONDS ++": {
+    "translation": "二号闸门将在5秒后打开",
+    "DoorCounterDown": -1
+  },
+  "++ SECRET BOAT LEAVING IN 5 SECONDS ++": {
+    "translation": "秘密船只将在5秒后离开 "
+  },
+  "++ SECRET BOAT IS LEAVING!! ++": {
+    "translation": "秘密船只正在离开！！"
   }
 }
