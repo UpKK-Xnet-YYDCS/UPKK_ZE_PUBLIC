@@ -1,102 +1,87 @@
 {
-  "< ze_Illusory_World >": {
-    "translation": "",
-    "DoorCountDown": null
-  },
-  "< Map by BlackRock. >": {
-    "translation": "",
-    "DoorCountDown": null
-  },
-  "< CS2 Port by @Seth. >": {
-    "translation": "",
-    "DoorCountDown": null
-  },
-  "Open the hole in 40 seconds": {
-    "translation": "",
-    "DoorCountDown": null
-  },
-  "Transfer AFK player in 10 seconds": {
-    "translation": "",
-    "DoorCountDown": null
-  },
   "Human Heal -Heal 200 hp,speed up 3 sec and Immune infection 5 sec. 65 cd.": {
-    "translation": "",
-    "DoorCountDown": null
-  },
-  "Open the stone gate in 20 seconds": {
-    "translation": "",
-    "DoorCountDown": null
-  },
-  "Defeat the guardian of ancient will": {
-    "translation": "",
-    "DoorCountDown": null
-  },
-  "Zombie Flamethrower -Shoot flame 3 sec. 80 cd": {
-    "translation": "",
-    "DoorCountDown": null
-  },
-  "Human Fire -Freeze zombie 9 sec. 50 cd.": {
-    "translation": "",
-    "DoorCountDown": null
-  },
-  "The slate will open in 20 seconds": {
-    "translation": "",
-    "DoorCountDown": null
-  },
-  "Send AFK player to level 1 in 15 seconds": {
-    "translation": "",
-    "DoorCountDown": null
-  },
-  "The iron door will break down in 30 seconds": {
-    "translation": "",
-    "DoorCountDown": null
-  },
-  "After 20 seconds, the stone slabs on both sides were destroyed": {
-    "translation": "",
-    "DoorCountDown": null
-  },
-  "Send AFK player to level 2 in 5 seconds": {
-    "translation": "",
-    "DoorCountDown": null
-  },
-  "Turn on the last transfer after 30 seconds and close after 10 seconds": {
-    "translation": "",
-    "DoorCountDown": null
-  },
-  "<< 30 >>": {
-    "translation": "",
-    "DoorCountDown": null
-  },
-  "<< The door of satan open 40 second >>": {
-    "translation": "",
-    "DoorCountDown": null
-  },
-  "Trigger the final battle in 5 seconds": {
-    "translation": "",
-    "DoorCountDown": null
-  },
-  "Ready to die?": {
-    "translation": "",
-    "DoorCountDown": null
-  },
-  "Zombie Snow -Slow human around you for 3 sec. 30 cd": {
-    "translation": "",
-    "DoorCountDown": null
+    "translation": "人类治疗-治疗200hp，加速3秒，免疫感染5秒。65 cd。",
+    "DoorCountDown": -1
   },
   "Human Ice -Freeze zombie 6 sec. 60 cd": {
-    "translation": "",
-    "DoorCountDown": null
+    "translation": "人类冰冻术-冰冻僵尸6秒。60 cd",
+    "DoorCountDown": -1
+  },
+  "Human Fire -Freeze zombie 9 sec. 50 cd.": {
+    "translation": "人类之火-冰冻僵尸9秒。50 cd。",
+    "DoorCountDown": -1
+  },
+  "The slate will open in 20 seconds": {
+    "translation": "石板将在20秒后打开"
+  },
+  "Zombie Snow -Slow human around you for 3 sec. 30 cd": {
+    "translation": "僵尸雪-使周围的人类减速3秒。30 cd",
+    "DoorCountDown": -1
   },
   "Zombie Speed -Speed up zombie around you for 3 sec. 60 cd": {
-    "translation": "",
-    "DoorCountDown": null
+    "translation": "僵尸加速-加速周围的僵尸，持续3秒。60 cd",
+    "DoorCountDown": -1
   },
-  "<--Press E to attack,Top head E to use ultimate.-->": {
-    "translation": "",
-    "DoorCountDown": null
+  "Zombie Flamethrower -Shoot flame 3 sec. 80 cd": {
+    "translation": "僵尸喷火器-喷射火焰，持续3秒。80 cd",
+    "DoorCountDown": -1
+  },
+  "<< The door of satan open 40 second >>": {
+    "translation": "<< 撒旦之门开启40秒 >>"
+  },
+  "<< 30 >>": {
+    "translation": "30S",
+    "DoorCountDown": -1
+  },
+  "Trigger the final battle in 5 seconds": {
+    "translation": "5 秒后触发最终决战"
+  },
+  "Ready to die?": {
+    "translation": "准备好去死了吗？"
+  },
+  "After 5 seconds, the platform will rise to meet the final challenge": {
+    "translation": "5秒后，平台将升起，迎接最后的挑战"
+  },
+  "Open the hole in 40 seconds": {
+    "translation": "在40秒内打开洞口"
+  },
+  "Transfer AFK player in 10 seconds": {
+    "translation": "在10秒内转移AFK玩家"
+  },
+  "Open the stone gate in 20 seconds": {
+    "translation": "在20秒内打开石门"
+  },
+  "Defeat the guardian of ancient will": {
+    "translation": "击败古代意志的守护者"
+  },
+  "Send AFK player to level 2 in 5 seconds": {
+    "translation": "在5秒内将AFK玩家传送"
+  },
+  "The iron door will break down in 30 seconds": {
+    "translation": "铁门将在30秒内破碎"
+  },
+  "Send AFK player to level 1 in 15 seconds": {
+    "translation": "15秒后将AFK玩家传送"
+  },
+  "After 20 seconds, the stone slabs on both sides were destroyed": {
+    "translation": "20秒后，两侧的石板被摧毁"
+  },
+  "Turn on the last transfer after 30 seconds and close after 10 seconds": {
+    "translation": "30秒后开启最后一次传送，10秒后关闭"
+  },
+  "< ze_Illusory_World >": {
+    "translation": "< Ze_Illusory_World >"
+  },
+  "< Map by BlackRock. >": {
+    "translation": "< 地图由 BlackRock 制作。翻译：秋刀鱼>"
+  },
+  "< CS2 Port by @Seth. >": {
+    "translation": "< CS2 移植 @Seth. >"
   },
   "<--A human has picked White Knight-->": {
-    "translation": "",
-    "DoorCountDown": null
+    "translation": "<--一个人类选中了白骑士--> <--按 E 攻击，头顶 E 使用终极技能。"
+  },
+  "<--Press E to attack,Top head E to use ultimate.-->": {
+    "translation": "<--按 E 攻击，头顶 E 使用终极技能。"
   }
 }
