@@ -1,20 +1,25 @@
 {
   "*** Map by Soft Serve ***": {
-    "translation": ""
+    "translation": "地图作者 Soft Serve"
   },
   "*** 5 seconds left ***": {
-    "translation": ""
-  },
-  "*** Nuke in 30 seconds ***": {
-    "translation": ""
-  },
-  "*** Nuke in 20 seconds ***": {
-    "translation": ""
+    "translation": " 还剩5秒 "
   },
   "*** Nuke in 10 seconds ***": {
-    "translation": ""
+    "translation": "10秒后核爆",
+    "DoorCountDown": -1
+  },
+  "*** Nuke in 30 seconds ***": {
+    "translation": "30秒后核爆"
+  },
+  "*** Nuke in 20 seconds ***": {
+    "translation": "20秒后核爆",
+    "DoorCountDown": -1
+  },
+  "*** Humans have failed to escape! ***": {
+    "translation": "人类失败"
   },
   "*** Humans have escaped! ***": {
-    "translation": ""
+    "translation": "人类逃脱成功"
   }
 }
