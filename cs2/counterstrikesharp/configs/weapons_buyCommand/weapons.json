@@ -367,5 +367,14 @@
         "Command": "Dg;decoy",
         "Slot": "3",
         "Enable":true
+    },
+    {
+        "DefIndex": 57,
+        "Name": "Health Shot",
+        "WeaponName": "weapon_healthshot",
+        "Price": 5000,
+        "Command": "health;xz",
+        "Slot": "4",
+        "Enable": true
     }
 ]
