@@ -1,125 +1,143 @@
 {
-  "Warping all players to Siberia in 15 seconds.": {
-    "translation": ""
-  },
-  "Objective. Find and destroy the source of the outbreak.": {
-    "translation": ""
-  },
-  "Overriding security breach 30 seconds": {
-    "translation": ""
+  "The promixity mine can be used every 24 seconds.": {
+    "translation": "提莫 每 24秒 能种 共产主义之雷 1次",
+    "DoorCountDown": -1
   },
   "Proximity mine obtained!": {
-    "translation": ""
-  },
-  "The promixity mine can be used every 24 seconds.": {
-    "translation": ""
-  },
-  "10 seconds left": {
-    "translation": ""
-  },
-  "Door is now open. Get inside the dam!": {
-    "translation": ""
-  },
-  "Zombie spawns are advancing in 20 seconds": {
-    "translation": ""
-  },
-  "Reducing steam pressure 10 seconds": {
-    "translation": ""
-  },
-  "Steam pressure at 66%": {
-    "translation": ""
-  },
-  "Steam pressure at 33%": {
-    "translation": ""
-  },
-  "Steam pressure at 0%": {
-    "translation": ""
-  },
-  "Zombie spawns advancing in 15 seconds": {
-    "translation": ""
-  },
-  "Dam door opening in 20 seconds": {
-    "translation": ""
-  },
-  "Dam door closing in 5 seconds": {
-    "translation": ""
-  },
-  "Push gun obtained!": {
-    "translation": ""
-  },
-  "The push gun can be used every 45 seconds.": {
-    "translation": ""
+    "translation": "共产主义之雷GET"
   },
   "Door opening in 20 seconds": {
-    "translation": ""
-  },
-  "Door opening in 10 seconds": {
-    "translation": ""
+    "translation": "门将在20秒后开启"
   },
   "Door closing in 10 seconds": {
-    "translation": ""
-  },
-  "Zombie spawns advancing in 25 seconds": {
-    "translation": ""
-  },
-  "Door opening in 30 seconds": {
-    "translation": ""
-  },
-  "Dam door closing in 10 seconds": {
-    "translation": ""
-  },
-  "Arming C4 in 30 seconds": {
-    "translation": ""
-  },
-  "C4 armed in 10 seconds": {
-    "translation": ""
-  },
-  "C4 in now armed": {
-    "translation": ""
-  },
-  "New objective. Reach the top of the dam for extraction": {
-    "translation": ""
-  },
-  "Zombie spawn advancing in 15 seconds": {
-    "translation": ""
-  },
-  "Elevator doors opening in 20 seconds": {
-    "translation": ""
-  },
-  "Elevator doors closing in 10 seconds": {
-    "translation": ""
-  },
-  "Time portal will open in 50 seconds": {
-    "translation": ""
-  },
-  "Zombie spawn advancing in 10 seconds": {
-    "translation": ""
-  },
-  "TIP: Zombies can pass through our portal.": {
-    "translation": ""
-  },
-  "TIP: It would be wise to stay and defend a bit until the explosion occurs.": {
-    "translation": ""
-  },
-  "30 seconds": {
-    "translation": ""
-  },
-  "10 seconds": {
-    "translation": ""
-  },
-  "C4 exploding in 10 seconds": {
-    "translation": ""
+    "translation": "门将在10秒后关闭",
+    "DoorCountDown": -1
   },
   "An infected got through our portal! Push them back!": {
-    "translation": ""
+    "translation": "一个临时（丧）工（尸）正在通过后宫沃兹高阶法师肉丸 59.99美元传送萌，把它们送回总部"
+  },
+  "The push gun can be used every 45 seconds.": {
+    "translation": "每 45秒 可以用一次 噗嘘淦 记得看情况射临时（丧）工（尸）哦",
+    "DoorCountDown": -1
+  },
+  "Push gun obtained!": {
+    "translation": "噗嘘淦 拿到"
   },
   "An infected has passed through our portal.": {
-    "translation": ""
+    "translation": "一个临时（丧）工（尸）已经通过了我们的后宫沃兹高阶法师肉丸 59.99美元传送萌"
+  },
+  "Warping all players to Siberia in 15 seconds.": {
+    "translation": "15秒 后传送玩家至 steam冬日特卖 西伯利亚"
+  },
+  "Objective. Find and destroy the source of the outbreak.": {
+    "translation": "任务:找到并摧毁steam临时（丧）工（尸）的源头 初期翻译：EVANGELION 后期翻译修改：肉丸"
+  },
+  "Zombie spawns advancing in 25 seconds": {
+    "translation": "临时（丧）工（尸）将会在25秒后赶上"
+  },
+  "Zombie spawn advancing in 15 seconds": {
+    "translation": "临时（丧）工（尸）将会在15秒后赶上!",
+    "DoorCountDown": -1
+  },
+  "Zombie spawns are advancing in 20 seconds": {
+    "translation": "临时（丧）工（尸）将会在20秒后赶上!",
+    "DoorCountDown": -1
+  },
+  "Zombie spawns advancing in 15 seconds": {
+    "translation": "临时（丧）工（尸）将会在15秒后赶上",
+    "DoorCountDown": -1
+  },
+  "Time portal will open in 50 seconds": {
+    "translation": "50秒后启动后宫沃兹高阶法师肉丸五十九点九九美元传送门!"
+  },
+  "30 seconds": {
+    "translation": "30秒"
+  },
+  "10 seconds": {
+    "translation": "10秒",
+    "DoorCountDown": -1
+  },
+  "Zombie spawn advancing in 10 seconds": {
+    "translation": "僵尸将会在10秒后赶上!",
+    "DoorCountDown": -1
+  },
+  "C4 exploding in 10 seconds": {
+    "translation": "GTX690战术核C4将在10秒后爆炸!"
+  },
+  "TIP: Zombies can pass through our portal.": {
+    "translation": "提示:临时（丧）工（尸）可以通过我们的后宫沃兹高阶法师肉丸 59.99美元传送萌"
+  },
+  "TIP: It would be wise to stay and defend a bit until the explosion occurs.": {
+    "translation": "提示:在炸毁steam西伯利亚总部前 丢诱饵什么的 别吝啬美元了 买买买 不买不是人"
+  },
+  "Door opening in 30 seconds": {
+    "translation": "门将在30秒后开启"
+  },
+  "Door opening in 10 seconds": {
+    "translation": "门将在10秒后开启",
+    "DoorCountDown": -1
+  },
+  "Elevator doors opening in 20 seconds": {
+    "translation": "20秒后开启steam员工电梯!"
+  },
+  "Elevator doors closing in 10 seconds": {
+    "translation": "10秒后关闭steam员工电梯门!"
+  },
+  "Steam pressure at 33%": {
+    "translation": "steam 冬日特卖 33%折扣 快去按 3号阀门"
+  },
+  "Steam pressure at 0%": {
+    "translation": "steam 冬日特卖 0%折扣 快冲出大门 买买买"
+  },
+  "Dam door opening in 20 seconds": {
+    "translation": "真理门将在20秒后开启!"
+  },
+  "Dam door closing in 5 seconds": {
+    "translation": "门将在5秒后关闭!"
+  },
+  "Dam door closing in 10 seconds": {
+    "translation": "门将在10秒后关闭!",
+    "DoorCountDown": -1
+  },
+  "Reducing steam pressure 10 seconds": {
+    "translation": "持续 10秒，steam 冬日打（压）折（压） ！"
+  },
+  "Steam pressure at 66%": {
+    "translation": "steam 冬日特卖 66%折扣 快去按 2号阀门"
+  },
+  "Overriding security breach 30 seconds": {
+    "translation": "还有 30秒 后边大门打开"
+  },
+  "10 seconds left": {
+    "translation": "还有10秒",
+    "DoorCountDown": -1
+  },
+  "Door is now open. Get inside the dam!": {
+    "translation": "门开了!进入steam 内（水）部（坝）!"
   },
   "-Hardcore Mode-": {
+    "translation": "困难模式"
+  },
+  "-Hardcore Mode- has been set.": {
+    "translation": ""
+  },
+  "-Hardcore Mode- has been unset.": {
     "translation": ""
   },
   "You have less than 15 seconds to whipe out the remaining infected or face death!": {
-    "translation": ""
+    "translation": "你还剩15秒来清除所有剩余僵尸"
+  },
+  "Arming C4 in 30 seconds": {
+    "translation": "预计30秒，安装GTX690战术核C4 （淦你大爷的 匹配这么久 T早灭队了）"
+  },
+  "C4 armed in 10 seconds": {
+    "translation": "还有10秒",
+    "DoorCountDown": -1
+  },
+  "C4 in now armed": {
+    "translation": "安放GTX690战术核C4成功"
+  },
+  "New objective. Reach the top of the dam for extraction": {
+    "translation": "新任务:到达水坝的顶部领打折卷"
   }
 }
