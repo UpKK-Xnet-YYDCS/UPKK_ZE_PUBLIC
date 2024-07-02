@@ -1,50 +1,71 @@
 {
-  "> 20 <": {
-    "translation": ""
+  "> 10 <": {
+    "translation": "> 10s <"
   },
   "> 15 <": {
-    "translation": ""
+    "translation": "> 15s <"
   },
-  "> 10 <": {
-    "translation": ""
+  "> 20 <": {
+    "translation": "> 20s <"
   },
   "> 5 <": {
-    "translation": ""
-  },
-  "| 30 |": {
-    "translation": ""
-  },
-  "| 25 |": {
-    "translation": ""
-  },
-  "| 20 |": {
-    "translation": ""
-  },
-  "| 15 |": {
-    "translation": ""
+    "translation": "> 5s <"
   },
   "| 10 |": {
-    "translation": ""
+    "translation": "| 10s |"
+  },
+  "| 120 SECONDS LEFT |": {
+    "translation": "| 120s |"
+  },
+  "| 15 |": {
+    "translation": "| 15s |"
+  },
+  "| 20 |": {
+    "translation": "| 20s |"
+  },
+  "| 25 |": {
+    "translation": "| 25s |"
+  },
+  "| 30 |": {
+    "translation": "| 30s |"
   },
   "| 5 |": {
-    "translation": ""
-  },
-  "| Zombie heal |": {
-    "translation": ""
-  },
-  "| Zombie gravity |": {
-    "translation": ""
+    "translation": "| 5s |"
   },
   "| BEAM |": {
-    "translation": ""
+    "translation": "| 激光 |"
   },
-  "| Zombie beam |": {
-    "translation": ""
-  },
-  "| Zombie stars |": {
-    "translation": ""
+  "| CUBE |": {
+    "translation": "| 魔方 |"
   },
   "| SHIELD |": {
-    "translation": ""
+    "translation": "| 护盾 |"
+  },
+  "| STAGE 1 SET AS NEXT STAGE |": {
+    "translation": "| 第1关设为下一关 |"
+  },
+  "| STAGE 2 SET AS NEXT STAGE |": {
+    "translation": "| 第2关设为下一关 |"
+  },
+  "| STAGE 3 SET AS NEXT STAGE |": {
+    "translation": "| 第3关设为下一关 |"
+  },
+  "| STAGE 4 SET AS NEXT STAGE |": {
+    "translation": "| 第4关设为下一关 |"
+  },
+  "| SURVIVE FOR 40 SECONDS |": {
+    "translation": "| 生存40s |"
+  },
+  "| Zombie beam |": {
+    "translation": "| 僵尸激光 |"
+  },
+  "| Zombie gravity |": {
+    "translation": "| 僵尸黑洞 |"
+  },
+  "| Zombie heal |": {
+    "translation": "| 僵尸治疗 |"
+  },
+  "| Zombie stars |": {
+    "translation": "| 僵尸秒杀 |"
   }
 }
