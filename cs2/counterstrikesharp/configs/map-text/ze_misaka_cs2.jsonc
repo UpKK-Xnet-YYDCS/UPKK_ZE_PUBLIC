@@ -1,6 +1,6 @@
 {
   "** Something may happen in 20 seconds... **": {
-    "translation": "** 可能会在20秒内发生一些事情... **"
+    "translation": "** 20秒内可能会发生一些事情... **"
   },
   "** The wall will break in 12 seconds **": {
     "translation": "** 墙会在12秒内破裂 **"
@@ -24,7 +24,7 @@
     "translation": "*** 四面楚歌 ***"
   },
   "*** Hold for the final 45 seconds ***": {
-    "translation": "*** 坚持最后的45秒 ***"
+    "translation": "*** 防守最后的45秒 ***"
   },
   "*** Insane III Complete ***": {
     "translation": "*** 疯狂III完成 ***"
@@ -108,7 +108,7 @@
     "translation": "<< 小心! 你只有120秒来击败Boss >>"
   },
   "<< Be Careful, only shooting the head of the guard may cause damage >>": {
-    "translation": "<< 小心，只有射击守卫的头部才可能造成伤害 >>"
+    "translation": "<< 小心，只有射击守卫的头部才能造成伤害 >>"
   },
   "<< Be careful about the abnormal gravity >>": {
     "translation": "<< 小心异常的吸力 >>"
@@ -333,7 +333,8 @@
     "translation": "<< Boss战将在10秒后开始 >>"
   },
   "<< boss is defeated >>": {
-    "translation": "<< Boss被击败 >>"
+    "translation": "<< Boss被击败 >>",
+    "ClearTimer": true
   },
   "<< climb to the top and shooting the guard, so that the teleport can be activated >>": {
     "translation": "<< 爬到顶端并射击守卫，这样传送门才能激活 >>"
@@ -354,19 +355,19 @@
     "translation": "<< 躲避跳刀!!! >>"
   },
   "<< hold for 15 seconds >>": {
-    "translation": "<< 坚持15秒 >>"
+    "translation": "<< 防守15秒 >>"
   },
   "<< hold for 15 seconds until the guards permit us to go >>": {
-    "translation": "<< 坚持15秒直到守卫允许我们通过 >>"
+    "translation": "<< 防守15秒直到守卫允许我们通过 >>"
   },
   "<< hold for 25 seconds >>": {
-    "translation": "<< 坚持25秒 >>"
+    "translation": "<< 防守25秒 >>"
   },
   "<< hold for 30 seconds >>": {
-    "translation": "<< 坚持30秒 >>"
+    "translation": "<< 防守30秒 >>"
   },
   "<< hold for 55 seconds >>": {
-    "translation": "<< 坚持55秒 >>"
+    "translation": "<< 防守55秒 >>"
   },
   "<< human teleported >>": {
     "translation": "<< 人类已传送 >>"
@@ -499,6 +500,6 @@
     "translation": "<< 你只有25秒到达终点 >>"
   },
   "** Something may happen in 20 seconds... ** ": {
-    "translation": ""
+    "translation": "** 20秒内可能会发生一些事情... **"
   }
 }
