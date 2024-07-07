@@ -1121,12 +1121,12 @@
 		"filename"		"ze_secret_garden"
 		"updatedname"		"ze_secret_garden"
 	}
-	"ze_obj_encounter"
+	"ze_obj_encounter_a"
 	{
 		"workshop_id"		"3177085312"
 		"enabled"		"1"
-		"filename"		"ze_obj_encounter"
-		"updatedname"		"ze_obj_encounter"
+		"filename"		"ze_obj_encounter_a"
+		"updatedname"		"ze_obj_encounter_a"
 	}
 	"ze_stalkermonolith"
 	{
@@ -1582,5 +1582,61 @@
 		"enabled"		"1"
 		"filename"		"ze_Lightnight"
 		"updatedname"		"ze_Lightnight"
+	}
+	"ze_obj_encounter_b1_test"
+	{
+		"workshop_id"		"3259618066"
+		"enabled"		"1"
+		"filename"		"ze_obj_encounter_b1"
+		"updatedname"		"ze_obj_encounter_b1"
+	}
+	"ze_summer_house"
+	{
+		"workshop_id"		"3273903663"
+		"enabled"		"1"
+		"filename"		"ze_summer_house"
+		"updatedname"		"ze_summer_house"
+	}
+	"ze_shenzhimudi_initial_y"
+	{
+		"workshop_id"		"3279330405"
+		"enabled"		"1"
+		"filename"		"ze_shenzhimudi_initial_y"
+		"updatedname"		"ze_shenzhimudi_initial_y"
+	}
+	"ze_paranoia_cs2"
+	{
+		"workshop_id"		"3280216789"
+		"enabled"		"1"
+		"filename"		"ze_paranoia_cs2"
+		"updatedname"		"ze_paranoia_cs2"
+	}
+	"ze_geometric"
+	{
+		"workshop_id"		"3281834374"
+		"enabled"		"1"
+		"filename"		"ze_geometric"
+		"updatedname"		"ze_geometric"
+	}
+	"ze_diverted_destiny"
+	{
+		"workshop_id"		"3282400800"
+		"enabled"		"1"
+		"filename"		"ze_diverted_destiny"
+		"updatedname"		"ze_diverted_destiny"
+	}
+	"ze_Obf_Rescape"
+	{
+		"workshop_id"		"3283167200"
+		"enabled"		"1"
+		"filename"		"ze_Obf_Rescape"
+		"updatedname"		"ze_Obf_Rescape"
+	}
+	"ze_infiltration_final_p"
+	{
+		"workshop_id"		"3283238776"
+		"enabled"		"1"
+		"filename"		"ze_infiltration_final_p"
+		"updatedname"		"ze_infiltration_final_p"
 	}
 }
