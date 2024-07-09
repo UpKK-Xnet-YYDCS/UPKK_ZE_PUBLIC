@@ -1,68 +1,215 @@
 {
-  ">> WARMUP ROUND <<": {
-    "translation": ""
+  "*** 10 seconds left before Santa unleashes zombies! ***": {
+    "translation": "*** 10秒后圣诞老人将释放僵尸！ ***"
   },
-  ">> 40 SECONDS LEFT <<": {
-    "translation": ""
+  "*** ADMINISTRATOR HAS CHOSEN LEVEL 1 ***": {
+    "translation": "*** 管理员已选择 1 级 ***"
   },
-  ">> 30 SECONDS LEFT <<": {
-    "translation": ""
+  "*** ADMINISTRATOR HAS CHOSEN LEVEL 2 ***": {
+    "translation": "*** 管理员已选择 2 级 ***"
   },
-  ">> 20 SECONDS LEFT <<": {
-    "translation": ""
-  },
-  ">> Map by Taskuvaras / Fixed with Moltard <<": {
-    "translation": ""
-  },
-  ">> 10 SECONDS LEFT <<": {
-    "translation": ""
-  },
-  ">> WARMUP ROUND END <<": {
-    "translation": ""
-  },
-  ">> LEVEL: 1 <<": {
-    "translation": ""
-  },
-  "***Door opening in 20 seconds***": {
-    "translation": ""
-  },
-  "***Hold here until we find a way to blow the bridge***": {
-    "translation": ""
-  },
-  "***The train is stuck and wont start***": {
-    "translation": ""
-  },
-  "***Take the left path***": {
-    "translation": ""
-  },
-  "***Defend until we open the gate***": {
-    "translation": ""
-  },
-  "***The door is open***": {
-    "translation": ""
-  },
-  "***THE GATES ARE CLOSED***": {
-    "translation": ""
+  "*** ADMINISTRATOR HAS CHOSEN LEVEL 3 ***": {
+    "translation": "*** 管理员已选择 3 级 ***"
   },
   "***1 PLAYER HAS TO GO TO PRESS THE BUTTON***": {
-    "translation": ""
+    "translation": "***必须要有1 名玩家去按下按钮***"
   },
-  "***Exit Door will open in 20 seconds***": {
-    "translation": ""
+  "***5 seconds left***": {
+    "translation": "***还剩 5 秒***"
   },
-  "***Station doors are closing!!***": {
-    "translation": ""
+  "***C4 is planted***": {
+    "translation": "***已安放 C4***"
   },
-  "***Exit Door will open in 10 seconds***": {
-    "translation": ""
+  "***DOOR IS OPEN! GET INSIDE!!***": {
+    "translation": "***门已打开！快进去！！***"
   },
-  "***Exit Door is open***": {
-    "translation": ""
-  },
-  ">> PLAYER HAS PICKED UP GRAVITY <<": {
-    "translation": ""
+  "***Defend few seconds***": {
+    "translation": "***防守几秒钟***"
   },
   "***Defend for 10 seconds***": {
+    "translation": "***防守 10 秒***"
+  },
+  "***Defend for 20 seconds***": {
+    "translation": "***防守 20 秒***"
+  },
+  "***Defend until we open the gate***": {
+    "translation": "***防守直到我们打开大门***"
+  },
+  "***Defend! Something is coming!***": {
+    "translation": "***防守！有东西要来了！***"
+  },
+  "***Door opening in 20 seconds***": {
+    "translation": "***门将在 20 秒后打开***"
+  },
+  "***Door will open in 30 seconds!***": {
+    "translation": "***门将在 30 秒后打开！***"
+  },
+  "***Doors closing in 30 seconds***": {
+    "translation": "***门将在 30 秒后关闭***"
+  },
+  "***Elevator doors closing in 10 seconds***": {
+    "translation": "***电梯门将在 10 秒后关闭***"
+  },
+  "***Elevator doors closing in 5 seconds***": {
+    "translation": "***电梯门将在 5 秒后关闭***"
+  },
+  "***Elevator leaving in 20 seconds***": {
+    "translation": "***电梯将在 20 秒后离开***"
+  },
+  "***Elevator leaving in 7 seconds***": {
+    "translation": "***电梯将在 7 秒后离开***"
+  },
+  "***Exit Door is open***": {
+    "translation": "***出口门已打开***"
+  },
+  "***Exit Door will open in 10 seconds***": {
+    "translation": "***出口门将在 10 秒后打开***"
+  },
+  "***Exit Door will open in 20 seconds***": {
+    "translation": "***出口门将在 20 秒后打开***"
+  },
+  "***Find a way to open the door of the station***": {
+    "translation": "***找到打开车站门的方法***"
+  },
+  "***Hold for 10 seconds***": {
+    "translation": "***坚持 10 秒***"
+  },
+  "***Hold for 15 seconds***": {
+    "translation": "***坚持 15 秒***"
+  },
+  "***Hold for 20 seconds***": {
+    "translation": "***坚持 20 秒***"
+  },
+  "***Hold for 30 seconds***": {
+    "translation": "***坚持 30 秒***"
+  },
+  "***Hold for 5 seconds***": {
+    "translation": "***坚持 5 秒***"
+  },
+  "***Hold here until we find a way to blow the bridge***": {
+    "translation": "***坚守这里，直到我们找到炸毁桥梁的方法***"
+  },
+  "***KILL THEM TO COMPLETE LEVEL***": {
+    "translation": "***杀死他们以完成关卡***"
+  },
+  "***Make your way to the Gingerbread House!!***": {
+    "translation": "***前往姜饼屋！！***"
+  },
+  "***Plant the C4 to blow the way***": {
+    "translation": "***用C4炸开这里***"
+  },
+  "***Plant the c4 on each side of the train by pressing E ***": {
+    "translation": "***按 E 键在火车两侧放置 C4 ***"
+  },
+  "***Station Doors are open***": {
+    "translation": "***车站门已打开***"
+  },
+  "***Station Doors will open in 10 seconds***": {
+    "translation": "***车站门将在 10 秒后打开***"
+  },
+  "***Station doors are closing!!***": {
+    "translation": "***车站门正在关闭！！***"
+  },
+  "***THE GATES ARE CLOSED***": {
+    "translation": "***大门已关闭***"
+  },
+  "***Take the left path***": {
+    "translation": "***走左边的路***"
+  },
+  "***The door is open***": {
+    "translation": "***门已打开***"
+  },
+  "***The train is blocking the path***": {
+    "translation": "***火车挡住了路***"
+  },
+  "***The train is stuck and wont start***": {
+    "translation": "***火车卡住了，无法启动***"
+  },
+  "***We need to blow it up***": {
+    "translation": "***我们需要炸毁它***"
+  },
+  "***ZOMBIES IN SAFE ZONE!!!***": {
+    "translation": "***僵尸在安全区！！！***"
+  },
+  "**Level completed**": {
+    "translation": "**关卡完成**"
+  },
+  "**Sleigh leaving in 10 seconds**": {
+    "translation": "**雪橇将在 10 秒后离开**"
+  },
+  "**Sleigh leaving in 20 seconds**": {
+    "translation": "**雪橇将在 20 秒后离开**"
+  },
+  "**Sleigh leaving in 5 seconds**": {
+    "translation": "**雪橇将在 5 秒后离开**"
+  },
+  ">> 10 SECONDS LEFT <<": {
+    "translation": ">> 还剩 10 秒 <<"
+  },
+  ">> 20 SECONDS LEFT <<": {
+    "translation": ">> 还剩 20 秒 <<"
+  },
+  ">> 30 SECONDS LEFT <<": {
+    "translation": ">> 还剩 30 秒 <<"
+  },
+  ">> 40 SECONDS LEFT <<": {
+    "translation": ">> 还剩 40 秒 <<"
+  },
+  ">> CROSS THE ACID POOL <<": {
+    "translation": ">> 穿过酸池 <<"
+  },
+  ">> LEVEL FAILED <<": {
+    "translation": ">> 关卡失败 <<"
+  },
+  ">> LEVEL: 1 <<": {
+    "translation": ">> 关卡：1 <<"
+  },
+  ">> LEVEL: 2 <<": {
+    "translation": ">> 关卡：2 <<"
+  },
+  ">> LEVEL: 3 <<": {
+    "translation": ">> 关卡：3 <<"
+  },
+  ">> Map by Taskuvaras / Fixed with Moltard <<": {
+    "translation": ">> 地图由 Taskuvaras 制作 / 由 Moltard 修复 / 翻译：Ayanami♪ <<"
+  },
+  ">> Map will reset <<": {
+    "translation": ">> 地图将重置 <<"
+  },
+  ">> NUKE LAUNCHED <<": {
+    "translation": ">> 核弹发射 <<"
+  },
+  ">> PLAYER HAS PICKED UP GRAVITY <<": {
+    "translation": ">> 玩家已获得重力 <<"
+  },
+  ">> PLAYER HAS PICKED UP HEAL <<": {
+    "translation": ">> 玩家已获得治疗 <<"
+  },
+  ">> SECRET MUSIC 1 PLAYING <<": {
+    "translation": ">> 秘密音乐 1 正在播放 <<"
+  },
+  ">> SECRET MUSIC 2 PLAYING <<": {
+    "translation": ">> 秘密音乐 2 正在播放 <<"
+  },
+  ">> Saviors of Christmas, well done!!! <<": {
+    "translation": ">> 圣诞救世主，干得好！！！ <<"
+  },
+  ">> There is an error in the level system <<": {
+    "translation": ">> 关卡系统出现错误 <<"
+  },
+  ">> WARMUP ROUND <<": {
+    "translation": ">> 热身回合 <<"
+  },
+  ">> WARMUP ROUND END <<": {
+    "translation": ">> 热身回合结束 <<"
+  },
+  ">> ZOMBIE ABOARD !! YOU FAILED !! <<": {
+    "translation": ">> 僵尸上来了！！你失败了！！ <<"
+  },
+  ">> ZOMBIES INSIDE THE ELEVATOR <<": {
+    "translation": ">> 电梯内有僵尸 <<"
+  },
+  "[Bug] End bug": {
     "translation": ""
   }
 }
