@@ -1,32 +1,39 @@
 {
-  "*** Make your way to train station and leave the city. ***": {
-    "translation": ""
-  },
-  "*** Trains are leaving in one minute. ***": {
-    "translation": ""
-  },
-  "*** Trains are leaving in 30s. ***": {
-    "translation": ""
-  },
-  "*** Trains are leaving!!! ***": {
-    "translation": ""
-  },
-  "*** Nuke will be launched in 30s. ***": {
-    "translation": ""
-  },
-  "*** Heli is leaving in one minute. ***": {
-    "translation": ""
-  },
-  "*** Heli is leaving in 30s. ***": {
-    "translation": ""
-  },
-  "*** Heli is leaving!!! ***": {
-    "translation": ""
+  "*** Generator room will close in 2s. ***": {
+    "translation": "*** 发电机房将在 2 秒后关闭。 ***",
+    "DoorCountDown": 2
   },
   "*** Generator room will open in 8s. ***": {
-    "translation": ""
+    "translation": "*** 发电机房将在 8 秒后打开。 ***"
+  },
+  "*** Heli is leaving in 30s. ***": {
+    "translation": "*** 直升机将在 30 秒后起飞。 ***"
+  },
+  "*** Heli is leaving in one minute. ***": {
+    "translation": "*** 直升机将在 60 秒后起飞。 ***"
+  },
+  "*** Heli is leaving!!! ***": {
+    "translation": "*** 直升机正在起飞！！！ ***"
+  },
+  "*** Make your way to train station and leave the city. ***": {
+    "translation": "*** 前往火车站并离开城市。 ***"
+  },
+  "*** Nuke will be launched in 30s. ***": {
+    "translation": "*** 核弹将在 30 秒后发射。 ***"
+  },
+  "*** Trains are leaving in 30s. ***": {
+    "translation": "*** 火车将在 30 秒后出发。 ***"
+  },
+  "*** Trains are leaving in one minute. ***": {
+    "translation": "*** 火车将在 60 秒后出发。 ***"
+  },
+  "*** Trains are leaving!!! ***": {
+    "translation": "*** 火车正在出发！！！ ***"
+  },
+  ".. Train station gate close in 10 seconds!!": {
+    "translation": ".. 火车站大门将在 10 秒后关闭！！"
   },
   ".. Train station gate open in 5 seconds!!": {
-    "translation": ""
+    "translation": ".. 火车站大门将在 5 秒后打开！！"
   }
 }
