@@ -1,131 +1,158 @@
 {
-  "- STAGE SQUARE -": {
-    "translation": ""
+  "*Current Power: 0*": {
+    "translation": "*当前能量：0*"
   },
-  "Current BGM: MAZRDOLL::#V[Sempronius]   -AcuticNotes": {
-    "translation": ""
-  },
-  "<< Hold for 25 seconds >>": {
-    "translation": ""
-  },
-  "<< Hold for 30 seconds >>": {
-    "translation": ""
-  },
-  "<< Hold for 15 seconds >>": {
-    "translation": ""
-  },
-  "<< Shooting the square to recharge the power of the lift >>": {
-    "translation": ""
-  },
-  "<< The lift will RE-recharge if the power is more than 100 >>": {
-    "translation": ""
-  },
-  "<< TIPS: red square will get 10 power >>": {
-    "translation": ""
-  },
-  "<< TIPS: green square will get 20 power >>": {
-    "translation": ""
-  },
-  "<< TIPS: blue square will get 30 power >>": {
-    "translation": ""
-  },
-  "<< TIPS: white square will refresh other square >>": {
-    "translation": ""
-  },
-  "*Current Power: 30*": {
-    "translation": ""
-  },
-  "*Current Power: 50*": {
-    "translation": ""
-  },
-  "*Current Power: 80*": {
-    "translation": ""
+  "*Current Power: 10*": {
+    "translation": "*当前能量：10*"
   },
   "*Current Power: 100*": {
-    "translation": ""
-  },
-  "COMPLETE!!!": {
-    "translation": ""
-  },
-  "<< Platform will move in 8 seconds >>": {
-    "translation": ""
+    "translation": "*当前能量：100*"
   },
   "*Current Power: 20*": {
-    "translation": ""
+    "translation": "*当前能量：20*"
+  },
+  "*Current Power: 30*": {
+    "translation": "*当前能量：30*"
   },
   "*Current Power: 40*": {
-    "translation": ""
+    "translation": "*当前能量：40*"
   },
-  "*Current Power: 70*": {
-    "translation": ""
+  "*Current Power: 50*": {
+    "translation": "*当前能量：50*"
   },
   "*Current Power: 60*": {
-    "translation": ""
+    "translation": "*当前能量：60*"
+  },
+  "*Current Power: 70*": {
+    "translation": "*当前能量：70*"
+  },
+  "*Current Power: 80*": {
+    "translation": "*当前能量：80*"
   },
   "*Current Power: 90*": {
-    "translation": ""
-  },
-  "<< Admin select stage square >>": {
-    "translation": ""
-  },
-  "<< Admin select stage circle >>": {
-    "translation": ""
-  },
-  "- STAGE CIRCLE -": {
-    "translation": ""
-  },
-  "Current BGM: Abst:Re:Act   -AcuticNotes": {
-    "translation": ""
-  },
-  "<< Hold for 35 seconds >>": {
-    "translation": ""
-  },
-  "<< Hold for 60 seconds >>": {
-    "translation": ""
-  },
-  "<< STAGE COMPLETE >>": {
-    "translation": ""
-  },
-  "- STAGE TRIANGLE -": {
-    "translation": ""
-  },
-  "Current BGM: OutVid   -AcuticNotes": {
-    "translation": ""
-  },
-  "<< 10 seconds >>": {
-    "translation": ""
-  },
-  "- THE FINAL -": {
-    "translation": ""
-  },
-  "<< Hold for 35 seconds>>": {
-    "translation": ""
-  },
-  "<< Hold for 20 seconds >>": {
-    "translation": ""
-  },
-  "<< End in 120 seconds >>": {
-    "translation": ""
-  },
-  "<< Warning: 20 seconds left >>": {
-    "translation": ""
+    "translation": "*当前能量：90*"
   },
   "- R...T...V... -": {
-    "translation": ""
+    "translation": "- R...T...V... -"
   },
-  "<< ... >>": {
-    "translation": ""
+  "- STAGE CIRCLE -": {
+    "translation": "- 关卡：圆形 -"
   },
-  "-Slooooww -": {
-    "translation": ""
+  "- STAGE SQUARE -": {
+    "translation": "- 关卡：方形 -"
   },
-  "<< slow...... >>": {
-    "translation": ""
+  "- STAGE TRIANGLE -": {
+    "translation": "- 关卡：三角形 -"
+  },
+  "- THE FINAL -": {
+    "translation": "- 最终关卡 -"
   },
   "- You will regret for no RTV -": {
-    "translation": ""
+    "translation": "- 你将会后悔没有 RTV -"
+  },
+  "-Slooooww -": {
+    "translation": "- 太慢了 -"
+  },
+  "<< ... >>": {
+    "translation": "<< ... >>"
+  },
+  "<< 10 seconds >>": {
+    "translation": "<< 10 秒 >>"
+  },
+  "<< Admin select stage circle >>": {
+    "translation": "<< 管理员选择了关卡：圆形 >>"
+  },
+  "<< Admin select stage square >>": {
+    "translation": "<< 管理员选择了关卡：方形 >>"
+  },
+  "<< Admin select stage triangle >>": {
+    "translation": "<< 管理员选择了关卡：三角形 >>"
+  },
+  "<< Admin select the final stage >>": {
+    "translation": "<< 管理员选择了最终关卡 >>"
+  },
+  "<< End in 120 seconds >>": {
+    "translation": "<< 120 秒后结束 >>"
+  },
+  "<< Fog enable >>": {
+    "translation": "<< 启用烟雾 >>"
+  },
+  "<< Hold for 15 seconds >>": {
+    "translation": "<< 坚持 15 秒 >>"
+  },
+  "<< Hold for 20 seconds >>": {
+    "translation": "<< 坚持 20 秒 >>"
+  },
+  "<< Hold for 25 seconds >>": {
+    "translation": "<< 坚持 25 秒 >>"
+  },
+  "<< Hold for 30 seconds >>": {
+    "translation": "<< 坚持 30 秒 >>"
+  },
+  "<< Hold for 35 seconds >>": {
+    "translation": "<< 坚持 35 秒 >>"
+  },
+  "<< Hold for 35 seconds>>": {
+    "translation": "<< 坚持 35 秒 >>"
+  },
+  "<< Hold for 60 seconds >>": {
+    "translation": "<< 坚持 60 秒 >>"
+  },
+  "<< Platform will move in 8 seconds >>": {
+    "translation": "<< 平台将在 8 秒后移动 >>"
+  },
+  "<< RTV plz >>": {
+    "translation": "<< RTV plz >>"
+  },
+  "<< RTV2 >>": {
+    "translation": "<< RTV2 >>"
+  },
+  "<< RTV3 >>": {
+    "translation": "<< RTV3 >>"
+  },
+  "<< STAGE COMPLETE >>": {
+    "translation": "<< 阶段完成 翻译：Ayanami♪ >>"
+  },
+  "<< Shooting the square to recharge the power of the lift >>": {
+    "translation": "<< 射击方块以补充升降机的能量 >>"
+  },
+  "<< TIPS: blue square will get 30 power >>": {
+    "translation": "<< 提示：蓝色方块将获得 30 能量 >>"
+  },
+  "<< TIPS: green square will get 20 power >>": {
+    "translation": "<< 提示：绿色方块将获得 20 能量 >>"
+  },
+  "<< TIPS: red square will get 10 power >>": {
+    "translation": "<< 提示：红色方块将获得 10 能量 >>"
+  },
+  "<< TIPS: white square will refresh other square >>": {
+    "translation": "<< 提示：白色方块将刷新其他方块 >>"
+  },
+  "<< The lift will RE-recharge if the power is more than 100 >>": {
+    "translation": "<< 如果能量超过 100，升降机将超负荷（能量归零） >>"
+  },
+  "<< Warning: 20 seconds left >>": {
+    "translation": "<< 警告：还剩 20 秒 >>"
   },
   "<< quiet before the storm...... >>": {
-    "translation": ""
+    "translation": "<< 暴风雨前的宁静...... >>"
+  },
+  "<< slow...... >>": {
+    "translation": "<< 缓慢...... >>"
+  },
+  "COMPLETE!!!": {
+    "translation": "完成！！！"
+  },
+  "Current BGM: Abst:Re:Act   -AcuticNotes": {
+    "translation": "当前 BGM：Abst:Re:Act   -AcuticNotes"
+  },
+  "Current BGM: MAZRDOLL::#V[Sempronius]   -AcuticNotes": {
+    "translation": "当前 BGM：MAZRDOLL::#V[Sempronius]   -AcuticNotes"
+  },
+  "Current BGM: OutVid   -AcuticNotes": {
+    "translation": "当前 BGM：OutVid   -AcuticNotes"
+  },
+  "OVERLOAD!!!": {
+    "translation": "超负荷！！！（能量超出100，需重新充能）"
   }
 }
