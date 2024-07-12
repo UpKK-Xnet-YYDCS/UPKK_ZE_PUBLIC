@@ -10,7 +10,7 @@
       "Interval": 65,
       "Messages": [
         {
-          "Chat": "{RED}!store{DEFAULT} 购买使用皮肤 {LIME}!inv{LIGHTRED}打开商店个人库存 (如果您想装备皮肤!inv更合适)  {OLIVE}社区论坛地址:{LIME}bbs.upkk.{LIME}c{LIGHTRED}o{LIME}m"
+          "Chat": "{RED}[X社区] {LIME}!store {DEFAULT}购买使用皮肤 {LIME}!inv {DEFAULT}打开商店个人库存 (如果您想装备皮肤!inv更合适)"
         }
       ]
     },
@@ -18,16 +18,16 @@
       "Interval": 50,
       "Messages": [
         {
-          "Chat": "{RED}!store 购买使用皮肤{LIME}!inv 打开商店个人库存 {PURPLE}!yd 地图名 预定地图 !hide 隐藏玩家 控制台输入  {LIGHTPURPLE}snd_musicvolume 0 将关闭地图音乐 snd_musicvolume 0.5则将音量减少一半 snd_voipvolume 2 提高语音音量 游戏设置-启用开发者控制台后按~"
+          "Chat": "{RED}[X社区] {PURPLE}!yd 地图名 预定地图 !hide 隐藏玩家 控制台输入 {LIGHTPURPLE}snd_musicvolume 0 将关闭地图音乐 snd_musicvolume 0.5 将音量减少一半 snd_voipvolume 2 提高语音音量 开启控制台的方法:游戏设置-游戏-启用开发者控制台 启用后按~键打开"
         },
         {
           "Chat": "{LIME}当前时间: {RED}{TIME} {PURPLE}当前地图: {RED}{MAP}"
         },
         {
-          "Chat": "{RED}[X社区]{PURPLE}欢迎加入X社区僵尸逃跑QQ群：{LIGHTPURPLE}606809103 {PURPLE}交流讨论游戏相关内容"
+          "Chat": "{RED}[X社区] {PURPLE}欢迎加入X社区僵尸逃跑QQ群：{LIGHTPURPLE}606809103 {PURPLE}交流讨论游戏相关内容"
         },
         {
-          "Chat": "{RED}[X社区]{PURPLE}萌新玩家请访问X社区官方论坛：{ORANGE}bbs.upkk.com {PURPLE}查看社区规则与最新活动"
+          "Chat": "{RED}[X社区] {PURPLE}萌新玩家请访问X社区官方论坛：{ORANGE}bbs.upkk.com {PURPLE}查看社区规则与最新活动"
         },
         {
           "Chat": "{RED}[X社区] {PURPLE} < !vl 名字 > 投票指挥官 < !glow @me > 指挥高亮 < !defend > 脚底放置一个标点 < !tracer @me > 指挥弹道激光 <!beacon @me> 脚底光圈 < !leaders >显示所有指挥  <!leaderhelp> 显示指挥插件帮助指令 提示：可以给别人上效果，例如 #userid 或者 名字 以及 @me"
