@@ -7,7 +7,7 @@
   },
   "Ads": [
     {
-      "Interval": 65,
+      "Interval": 60,
       "Messages": [
         {
           "Chat": "{RED}[X社区] {LIME}!store {DEFAULT}购买使用皮肤 {LIME}!inv {DEFAULT}打开商店个人库存 (如果您想装备皮肤!inv更合适)"
@@ -18,7 +18,7 @@
       "Interval": 50,
       "Messages": [
         {
-          "Chat": "{RED}[X社区] {PURPLE}!yd 地图名 预定地图 !hide 隐藏玩家 {LIGHTPURPLE}控制台输入 snd_musicvolume 0 将关闭地图音乐 snd_musicvolume 0.5 将音量减少一半 snd_voipvolume 2 提高语音音量 开启控制台的方法：游戏设置-游戏-启用开发者控制台 启用后按~键打开"
+          "Chat": "{RED}[X社区] {PURPLE}控制台输入 snd_musicvolume 0 将关闭地图音乐 snd_musicvolume 0.5 将音量减少一半 snd_voipvolume 2 提高语音音量 开启控制台的方法：游戏设置-游戏-启用开发者控制台 启用后按~键打开"
         },
         {
           "Chat": "{RED}[X社区] {LIME}当前时间: {RED}{TIME} {PURPLE}当前地图: {RED}{MAP}"
@@ -31,6 +31,14 @@
         },
         {
           "Chat": "{RED}[X社区] {GREEN}指挥系统 < !vl 名字 > 投票指挥官 < !glow @me > 指挥高亮 < !defend > 脚底放置一个标点 < !tracer @me > 指挥弹道激光 <!beacon @me> 脚底光圈 < !leaders >显示所有指挥  <!leaderhelp> 显示指挥插件帮助指令 提示：可以给别人上效果，例如 #userid 或者 名字 以及 @me"
+        }
+      ]
+    },
+    {
+      "Interval": 51,
+      "Messages": [
+        {
+          "Chat": "{RED}[X社区] {LIME}CS2有语音BUG，听不见人说话需要大退重启游戏"
         }
       ]
     },
