@@ -138,12 +138,8 @@
   "** Bomb has been planted  **  Run **": {
     "translation": "** 炸弹已安装 ** 跑 **"
   },
-  "** COLOR DUE TO EXTREME DIFFICULTY ** Type mat_colorcorrection 0 if you want to turn it off**": {
-    "translation": "** 极限难度开启了视觉效果，如果你想关闭，请输入 mat_colorcorrection 0 **"
-  },
-  "** DOOR OPENS IN 35 S ** Go to the control room and try to open it earlier **": {
-    "translation": "** 门将在35秒内打开 ** 控制室有提前开门的方法，找到它 **",
-    "DoorCountDown": -1
+  "** COLOR DUE TO EXTREME DIFFICULTY **": {
+    "translation": "** 极限难度开启了视觉效果 **"
   },
   "** DOOR OPENS IN 5 s **": {
     "translation": "** 门将在5秒内打开 **",
@@ -271,8 +267,7 @@
     "translation": "** 门已开 **"
   },
   "**Door is opening in 10 seconds**": {
-    "translation": "** 门将在10秒内打开 **",
-    "DoorCountDown": -1
+    "translation": "** 门将在10秒内打开 **"
   },
   "**Door is opening in 5**": {
     "translation": "** 门将在5秒内打开 **"
@@ -298,12 +293,10 @@
     "translation": "** 大门将在30秒内打开 **"
   },
   "** DOOR OPENS IN 35 S **": {
-    "translation": ""
+    "translation": "** 门将在35秒内打开 **",
+    "DoorCountDown": -1
   },
   "** Go to the control room and try to open it earlier **": {
-    "translation": ""
-  },
-  "** COLOR DUE TO EXTREME DIFFICULTY **": {
-    "translation": ""
+      "translation": "** 门将在35秒内打开 ** 控制室有提前开门的方法，找到它 **"
   }
 }
