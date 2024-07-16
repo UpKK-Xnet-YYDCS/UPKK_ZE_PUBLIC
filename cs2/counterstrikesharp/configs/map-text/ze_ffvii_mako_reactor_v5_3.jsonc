@@ -1,39 +1,51 @@
 {
   "**  10 SECONDS LEFT **": {
-    "translation": "** 剩余10秒 **"
+    "translation": "** 剩余10秒 **",
+    "DoorCountDown": -1
   },
   "**  100 SECONDS LEFT **": {
-    "translation": "** 剩余100秒 **"
+    "translation": "** 剩余100秒 **",
+    "DoorCountDown": -1
   },
   "**  110 SECONDS LEFT **": {
-    "translation": "** 剩余110秒 **"
+    "translation": "** 剩余110秒 **",
+    "DoorCountDown": -1
   },
   "**  120 SECONDS LEFT **": {
-    "translation": "** 剩余120秒 **"
+    "translation": "** 剩余120秒 **",
+    "DoorCountDown": -1
   },
   "**  20 SECONDS LEFT **": {
-    "translation": "** 剩余20秒 **"
+    "translation": "** 剩余20秒 **",
+    "DoorCountDown": -1
   },
   "**  30 SECONDS LEFT **": {
-    "translation": "** 剩余30秒 **"
+    "translation": "** 剩余30秒 **",
+    "DoorCountDown": -1
   },
   "**  40 SECONDS LEFT **": {
-    "translation": "** 剩余40秒 **"
+    "translation": "** 剩余40秒 **",
+    "DoorCountDown": -1
   },
   "**  50 SECONDS LEFT **": {
-    "translation": "** 剩余50秒 **"
+    "translation": "** 剩余50秒 **",
+    "DoorCountDown": -1
   },
   "**  60 SECONDS LEFT **": {
-    "translation": "** 剩余60秒 **"
+    "translation": "** 剩余60秒 **",
+    "DoorCountDown": -1
   },
   "**  70 SECONDS LEFT **": {
-    "translation": "** 剩余70秒 **"
+    "translation": "** 剩余70秒 **",
+    "DoorCountDown": -1
   },
   "**  80 SECONDS LEFT **": {
-    "translation": "** 剩余80秒 **"
+    "translation": "** 剩余80秒 **",
+    "DoorCountDown": -1
   },
   "**  90 SECONDS LEFT **": {
-    "translation": "** 剩余90秒 **"
+    "translation": "** 剩余90秒 **",
+    "DoorCountDown": -1
   },
   "** ... Cloud is planting the bomb ** ": {
     "translation": "** ... 克劳德正在安装炸弹 ** "
@@ -84,7 +96,7 @@
     "translation": "** 管理员按下了“全体击杀”按钮 **"
   },
   "** ALL COWBELLS HAVE BEEN BROKEN ** BAHAMUT WILL NOT USE MATERIAS **  ": {
-    "translation": "** 所有彩蛋已被打碎** 巴哈姆特将不会释放小型技能 **  "
+    "translation": "** 所有彩蛋已找到** 巴哈姆特将不会释放小型技能 **  "
   },
   "** BAHAMUT HAS CAST EARTH ** BREAK THE WALL! **": {
     "translation": "** 巴哈姆特使用了土 ** 打破它！ **"
@@ -118,7 +130,7 @@
     "translation": "** 巴哈姆特将在7秒后消灭我们所有人！不要停止射击 **"
   },
   "** Bahamut is going to cast Mega Flare !! Shoot !! **": {
-    "translation": "** 巴哈姆特准备使用巨型闪光！！射击！！ **"
+    "translation": "** 巴哈姆特想要杀了我们！！射击！！ **"
   },
   "** Bahamut is in attack position ** Keep firing !! **": {
     "translation": "** 巴哈姆特进入攻击姿态 ** 继续开火！！ **"
@@ -130,7 +142,8 @@
     "translation": "** 极限难度开启了视觉效果，如果你想关闭，请输入 mat_colorcorrection 0 **"
   },
   "** DOOR OPENS IN 35 S ** Go to the control room and try to open it earlier **": {
-    "translation": "** 门将在35秒内打开 ** 控制室有提前开门的方法，找到它 **"
+    "translation": "** 门将在35秒内打开 ** 控制室有提前开门的方法，找到它 **",
+    "DoorCountDown": -1
   },
   "** DOOR OPENS IN 5 s **": {
     "translation": "** 门将在5秒内打开 **",
@@ -204,16 +217,20 @@
     "translation": "** 我们已到达核心... **"
   },
   "** Well done! Door is opening in 10 seconds **": {
-    "translation": "** 做得好！门将在10秒内打开 **"
+    "translation": "** 做得好！门将在10秒内打开 **",
+    "DoorCountDown": -1
   },
   "** YOU ARE THE MASTERS OF MAKO REACTOR! ** ": {
-    "translation": "** 恭喜-你已征服本神图！ **"
+    "translation": "** 恭喜-你已征服本神图！ **",
+    "ClearTimer": true
   },
   "** YOU DID IT! YOU WON EXTREME ! YOU OWN! ** ": {
-    "translation": "** 你做到了！你赢得了极限！你太棒了！ **"
+    "translation": "** 你做到了！你赢得了极限模式！你太棒了！ **",
+    "ClearTimer": true
   },
   "** You did it ! You won at the HARDEST difficult ** Time to EXTREME mode ** Good luck ! ** ": {
-    "translation": "** 你做到了！你在最困难的模式下赢了 ** 现在是极限模式 ** 祝你好运！ **"
+    "translation": "** 你做到了！你赢得了困难模式 ** 下回合是极限模式 ** 祝你好运！ **",
+    "ClearTimer": true
   },
   "** ZOMBIES HAVE INFECTED THE BUNKER **": {
     "translation": "** 僵尸已逃脱-你输了 **"
@@ -231,7 +248,8 @@
     "translation": "**** 地图制作：Hannibal[SPA] (Rafuron) 翻译：Asteri3m ****"
   },
   "**Bahamut has been defeated ! ** Go go! Run upstairs ! **": {
-    "translation": "** 巴哈姆特被击败了！ ** 快跑！上楼梯！ **"
+    "translation": "** 巴哈姆特被击败了！ ** 快跑！上楼梯！ **",
+    "ClearTimer": true
   },
   "**CURRENT DIFFICULTY ** >> EXTREME << **": {
     "translation": "** 当前难度 ** >> 极限 << **"
@@ -246,26 +264,29 @@
     "translation": "** 当前难度 ** >> 普通 << **"
   },
   "**Congratulations ! You beat NORMAL mode ! The challenge begins at HARD mode ! **": {
-    "translation": "** 恭喜！你已通关普通模式！下回合将挑战从困难模式开始！ **"
+    "translation": "** 恭喜！你赢得了普通模式！下回合是困难模式！ **",
+    "ClearTimer": true
   },
   "**Door is open**": {
     "translation": "** 门已开 **"
   },
   "**Door is opening in 10 seconds**": {
-    "translation": "** 门将在10秒内打开 **"
+    "translation": "** 门将在10秒内打开 **",
+    "DoorCountDown": -1
   },
   "**Door is opening in 5**": {
     "translation": "** 门将在5秒内打开 **"
   },
   "**Door opening in 10 seconds**": {
-    "translation": "** 门将在10秒内打开 **"
+    "translation": "** 中门将在10秒内打开 **"
   },
   "**Elevator is leaving in 10s**": {
     "translation": "** 电梯将在10秒内离开 **",
     "DoorCountDown": -1
   },
   "**Its dead ** Go go! Run upstairs ! **": {
-    "translation": "** 它死了 ** 快跑！跑上楼梯！ **"
+    "translation": "** 它死了 ** 快跑！跑上楼梯！ **",
+    "ClearTimer": true
   },
   "**Keep shooting ! We dont know what it can do **": {
     "translation": "** 继续射击！我们不知道它会做什么 **"
@@ -274,6 +295,6 @@
     "translation": "** 做得好！你中断了萨菲罗斯的攻击 **"
   },
   "**Superior door opening in 30 seconds**": {
-    "translation": "** 上层门将在30秒内打开 **"
+    "translation": "** 大门将在30秒内打开 **"
   }
 }
