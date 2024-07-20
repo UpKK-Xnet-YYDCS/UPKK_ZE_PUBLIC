@@ -1,92 +1,140 @@
 {
-  "[Map] AFK teleport open in 50 seconds": {
-    "translation": ""
-  },
-  "[Map] Zombie teleport open in 40 seconds": {
-    "translation": ""
-  },
-  "[Map] Human teleport open in 10 seconds": {
-    "translation": ""
-  },
-  "[story] An unidentified virus strain is rapidly spreading across the world.": {
-    "translation": ""
-  },
-  "[story] Infectors will attack all alive and laughing uncontrollably.": {
-    "translation": ""
-  },
-  "[story] After disaster outbreak one week,almost all of the countries are in a state of anarchy.": {
-    "translation": ""
-  },
-  "[story] Survivor named it 'Crazy Disease'.": {
-    "translation": ""
-  },
-  "[Map] Human have 30 seconds to ready": {
-    "translation": ""
-  },
-  "[story] 3:36 PM Forgotten Forest": {
-    "translation": ""
-  },
-  "[Radio] ...(hiss)...This is Command Center...come in,over.": {
-    "translation": ""
-  },
-  "[Captain.Li] This is Alpha,we have arrived location nearly and we have contacted with part of Delta,over.": {
-    "translation": ""
-  },
-  "[Radio] More survivors have lost contact with us.It doesn't well.How about Dr.He and others.": {
-    "translation": ""
-  },
-  "[Captain.Li] Dr.He is ok.Team Alpha can still finish mission.": {
-    "translation": ""
-  },
-  "[Radio] Ok,Good luck to you...(hiss)...Detected infectors move to you...": {
-    "translation": ""
-  },
-  "[Map] Game and Zombie start in 10 seconds": {
-    "translation": ""
-  },
-  "[Dr.He] They are coming.It seems that this is the origin of the disaster.": {
-    "translation": ""
-  },
-  "[Captain.Li] Let's go,we must find that crystal to finish all of this.": {
-    "translation": ""
-  },
-  "[Map] Game start": {
-    "translation": ""
+  "ZE_ACT_CHARACTER_RELIC": {
+    "translation": "ZE_ACT_CHARACTER_RELIC 翻译：Ayanami♪"
   },
   "[Captain.Li] Doctor,you think that meteor is important of this?": {
-    "translation": ""
+    "translation": "[Captain.Li] 博士，你认为陨石对这件事很重要吗？"
   },
-  "[Map] Be careful! ZM can across fire area but HM can not!": {
-    "translation": ""
+  "[Captain.Li] Dr.He is ok.Team Alpha can still finish mission.": {
+    "translation": "[Captain.Li] Dr.He 没事。Alpha 小组仍然可以完成任务。"
   },
-  "[Map] Shoot barries to open road": {
-    "translation": ""
+  "[Captain.Li] Let's go,we must find that crystal to finish all of this.": {
+    "translation": "[Captain.Li] 我们走吧，我们必须找到那颗水晶才能完成这一切。"
   },
-  "[Dr.He] Not sure,but in all probability.Before disaster outbreak we have received many messages.": {
+  "[Captain.Li] Ok,we have arrived relic,let's go to find truth!Damn,why these infectors can't killed?": {
+    "translation": "[Captain.Li] 好的，我们已经到达遗迹，让我们去寻找真相！该死，为什么这些感染者杀不死？"
+  },
+  "[Captain.Li] This is Alpha,we have arrived location nearly and we have contacted with part of Delta,over.": {
+    "translation": "[Captain.Li] 这是 Alpha，我们已经到达了接近目的地，并且已经与 Delta 的部分地区取得了联系，完毕。"
+  },
+  "[Dr.He] Here is where the meteorite landed and disaster outbreak from here and in same time Crnobog go this relic build some facilities.": {
+    "translation": "[Dr.He] 这里是陨石降落的地方，灾难从这里爆发，同时 Crnobog 去这个遗迹建造了一些设施。"
+  },
+  "": {
     "translation": ""
   },
   "[Dr.He] In start of this we all ignore it and just think it is a riot.But soon almost all of area is out of control.": {
-    "translation": ""
-  },
-  "[Dr.He] Here is where the meteorite landed and disaster outbreak from here and in same time Crnobog go this relic build some facilities.": {
-    "translation": ""
-  },
-  "[Dr.He] So I think they Caused this.": {
-    "translation": ""
-  },
-  "[Captain.Li] Ok,we have arrived relic,let's go to find truth!Damn,why these infectors can't killed?": {
-    "translation": ""
+    "translation": "[Dr.He] 一开始我们都忽略了它，只是认为这是一场暴乱。但很快几乎所有地区都失控了。"
   },
   "[Dr.He] Maybe he has known we arrive and these infectors are all reformed.": {
-    "translation": ""
+    "translation": "[Dr.He] 也许他已经知道我们来了，这些感染者都进行改造了。"
   },
-  "ZE_ACT_CHARACTER_RELIC": {
-    "translation": ""
+  "[Dr.He] Not sure,but in all probability.Before disaster outbreak we have received many messages.": {
+    "translation": "[Dr.He] 不确定，但很有可能。灾难爆发前我们收到了很多消息。"
+  },
+  "[Dr.He] So I think they Caused this.": {
+    "translation": "[Dr.He] 所以我认为是他们造成的。"
+  },
+  "[Dr.He] They are coming.It seems that this is the origin of the disaster.": {
+    "translation": "[Dr.He] 他们来了。看来这就是灾难的根源。"
+  },
+  "[Map] A player picked Mortar.Are you gunner?": {
+    "translation": "[地图] 一名玩家拾取了迫击炮。你是炮手吗？"
+  },
+  "[Map] A player picked saw.Are you logger?": {
+    "translation": "[地图] 一名玩家拾取了锯子。你是伐木工吗？"
+  },
+  "[Map] A player picked shotgun.It never gets old.": {
+    "translation": "[地图] 一名玩家拾取了霰弹枪。永远不会过时。"
+  },
+  "[Map] AFK teleport open in 10 seconds": {
+    "translation": "[地图] AFK 传送将在 10 秒后打开"
+  },
+  "[Map] AFK teleport open in 15 seconds": {
+    "translation": "[地图] AFK 传送将在 15 秒后打开"
+  },
+  "[Map] AFK teleport open in 20 seconds": {
+    "translation": "[地图] AFK 传送将在 20 秒后打开"
+  },
+  "[Map] AFK teleport open in 50 seconds": {
+    "translation": "[地图] AFK 传送将在 50 秒后打开"
+  },
+  "[Map] Be careful! ZM can across fire area but HM can not!": {
+    "translation": "[地图] 小心！僵尸可以穿越火线，但人类不能！"
   },
   "[Map] Detected ZM you have failed": {
-    "translation": ""
+    "translation": "[地图] 检测到僵尸，您失败了"
+  },
+  "[Map] Elevator open in 10 seconds": {
+    "translation": "[地图] 电梯将在 10 秒后打开"
+  },
+  "[Map] Game and Zombie start in 10 seconds": {
+    "translation": "[地图] 游戏将在 10 秒后开始"
+  },
+  "[Map] Game start": {
+    "translation": "[地图] 游戏开始"
+  },
+  "[Map] Human have 30 seconds to ready": {
+    "translation": "[地图] 人类有 30 秒的时间准备就绪"
+  },
+  "[Map] Human teleport open in 10 seconds": {
+    "translation": "[地图] 人类 10 秒后传送"
+  },
+  "[Map] Nuke in 30 seconds": {
+    "translation": "[地图] 核弹将在 30 秒后发射"
+  },
+  "[Map] Shoot barries to open road": {
+    "translation": "[地图] 射击障碍物以打开道路"
   },
   "[Map] Some ZM get speed up.Evolution ZM coming.": {
-    "translation": ""
+    "translation": "[地图] 一些僵尸获得了加速。进化僵尸即将到来。"
+  },
+  "[Map] Team Delta has been saved ": {
+    "translation": "[地图] Delta 队已获救"
+  },
+  "[Map] The door open in 15 seconds": {
+    "translation": "[地图] 门将在 15 秒后打开"
+  },
+  "[Map] The door open in 20 seconds": {
+    "translation": "[地图] 门将在 20 秒后打开"
+  },
+  "[Map] The door open in 25 seconds": {
+    "translation": "[地图] 门将在 25 秒后打开"
+  },
+  "[Map] The door open in 30 seconds": {
+    "translation": "[地图] 门将在 30 秒后打开"
+  },
+  "[Map] The door will open in 30 seconds": {
+    "translation": "[地图] 门将在 30 秒后打开"
+  },
+  "[Map] TowerGuard can press lever now": {
+    "translation": "[地图] TowerGuard 现在可以按下控制杆了"
+  },
+  "[Map] Zombie teleport open in 40 seconds": {
+    "translation": "[地图] 僵尸 40 秒后传送"
+  },
+  "[Radio] ...(hiss)...This is Command Center...come in,over.": {
+    "translation": "[无线电] ...（嘶嘶声）...这是指挥中心...进来，过来。"
+  },
+  "[Radio] More survivors have lost contact with us.It doesn't well.How about Dr.He and others.": {
+    "translation": "[无线电] 更多的幸存者与我们失去了联系。情况不妙。何医生和其他人怎么样了。"
+  },
+  "[Radio] Ok,Good luck to you...(hiss)...Detected infectors move to you...": {
+    "translation": "[无线电] 好的，祝你好运……（嘶嘶声）……检测到的感染者正在向你移动……"
+  },
+  "[story] 3:36 PM Forgotten Forest": {
+    "translation": "[故事] 下午 3:36 被遗忘的森林"
+  },
+  "[story] After disaster outbreak one week,almost all of the countries are in a state of anarchy.": {
+    "translation": "[故事] 灾难爆发一周后，几乎所有国家都处于无政府状态。"
+  },
+  "[story] An unidentified virus strain is rapidly spreading across the world.": {
+    "translation": "[故事] 一种不明病毒株正在全球迅速蔓延。"
+  },
+  "[story] Infectors will attack all alive and laughing uncontrollably.": {
+    "translation": "[故事] 感染者会不受控制地攻击所有活着的人和笑声。"
+  },
+  "[story] Survivor named it 'Crazy Disease'.": {
+    "translation": "[故事] 幸存者将其命名为“疯狂疾病”。"
   }
 }
