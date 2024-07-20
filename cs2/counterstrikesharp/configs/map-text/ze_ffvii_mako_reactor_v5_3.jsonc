@@ -1,50 +1,49 @@
 {
   "**  10 SECONDS LEFT **": {
-    "translation": "** 剩余10秒 **",
+    "translation": "**警告：剩余10秒 **",
     "DoorCountDown": -1
   },
   "**  100 SECONDS LEFT **": {
-    "translation": "** 剩余100秒 **",
+    "translation": "**警告： 剩余100秒 **",
     "DoorCountDown": -1
   },
   "**  110 SECONDS LEFT **": {
-    "translation": "** 剩余110秒 **",
+    "translation": "**警告： 剩余110秒 **",
     "DoorCountDown": -1
   },
   "**  120 SECONDS LEFT **": {
-    "translation": "** 剩余120秒 **",
+    "translation": "**警告： 剩余120秒 **",
     "DoorCountDown": -1
   },
   "**  20 SECONDS LEFT **": {
-    "translation": "** 剩余20秒 **",
-    "DoorCountDown": -1
+    "translation": "**警告： 剩余20秒 **"
   },
   "**  30 SECONDS LEFT **": {
-    "translation": "** 剩余30秒 **",
+    "translation": "**警告： 剩余30秒 **",
     "DoorCountDown": -1
   },
   "**  40 SECONDS LEFT **": {
-    "translation": "** 剩余40秒 **",
+    "translation": "**警告： 剩余40秒 **",
     "DoorCountDown": -1
   },
   "**  50 SECONDS LEFT **": {
-    "translation": "** 剩余50秒 **",
+    "translation": "**警告： 剩余50秒 **",
     "DoorCountDown": -1
   },
   "**  60 SECONDS LEFT **": {
-    "translation": "** 剩余60秒 **",
+    "translation": "**警告： 剩余60秒 **",
     "DoorCountDown": -1
   },
   "**  70 SECONDS LEFT **": {
-    "translation": "** 剩余70秒 **",
+    "translation": "**警告： 剩余70秒 **",
     "DoorCountDown": -1
   },
   "**  80 SECONDS LEFT **": {
-    "translation": "** 剩余80秒 **",
+    "translation": "**警告： 剩余80秒 **",
     "DoorCountDown": -1
   },
   "**  90 SECONDS LEFT **": {
-    "translation": "** 剩余90秒 **",
+    "translation": "**警告： 剩余90秒 **",
     "DoorCountDown": -1
   },
   "** ... Cloud is planting the bomb ** ": {
@@ -213,8 +212,7 @@
     "translation": "** 我们已到达核心... **"
   },
   "** Well done! Door is opening in 10 seconds **": {
-    "translation": "** 做得好！门将在10秒内打开 **",
-    "DoorCountDown": -1
+    "translation": "** 做得好！门将在10秒内打开 **"
   },
   "** YOU ARE THE MASTERS OF MAKO REACTOR! ** ": {
     "translation": "** 恭喜-你已征服本神图！ **",
@@ -273,11 +271,11 @@
     "translation": "** 门将在5秒内打开 **"
   },
   "**Door opening in 10 seconds**": {
-    "translation": "** 中门将在10秒内打开 **"
+    "translation": "** 中门将在10秒内打开 **",
+    "DoorCountDown": -1
   },
   "**Elevator is leaving in 10s**": {
-    "translation": "** 电梯将在10秒内离开 **",
-    "DoorCountDown": -1
+    "translation": "** 电梯将在10秒内离开 **"
   },
   "**Its dead ** Go go! Run upstairs ! **": {
     "translation": "** 它死了 ** 快跑！跑上楼梯！ **",
@@ -293,8 +291,7 @@
     "translation": "** 大门将在30秒内打开 **"
   },
   "** DOOR OPENS IN 35 S **": {
-    "translation": "** 门将在35秒内打开 **",
-    "DoorCountDown": -1
+    "translation": "** 门将在35秒内打开 **"
   },
   "** Go to the control room and try to open it earlier **": {
       "translation": "** 控制室有提前开门的方法，找到它 **"
