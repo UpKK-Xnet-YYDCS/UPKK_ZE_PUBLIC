@@ -1,38 +1,44 @@
 {
-  "*** MAP BY P'A'SS ***": {
-    "translation": ""
-  },
-  "*** Door opens in 30 seconds ***": {
-    "translation": ""
-  },
-  "*** KEEP HOLDING***": {
-    "translation": ""
+  "*** DOOR IS OPENING ***": {
+    "translation": "*** 门正在开启 ***"
   },
   "*** DOOR IS OPENING***": {
-    "translation": ""
+    "translation": "*** 门正在开启 ***"
   },
-  "*** Elevator is powering up! ***": {
-    "translation": ""
-  },
-  "*** Elevator leaves in 5 seconds ***": {
-    "translation": ""
+  "*** Door opens in 30 seconds ***": {
+    "translation": "*** 门将在30秒后开启 ***"
   },
   "*** Door should open soon! ***": {
-    "translation": ""
+    "translation": "*** 门应该很快就会开启！ ***"
+  },
+  "*** Elevator is powering up! ***": {
+    "translation": "*** 电梯正在启动！ ***"
+  },
+  "*** Elevator leaves in 5 seconds ***": {
+    "translation": "*** 电梯将在5秒后离开 ***"
+  },
+  "*** KEEP HOLDING***": {
+    "translation": "*** 继续防守 ***"
+  },
+  "*** MAP BY P'A'SS ***": {
+    "translation": "*** P'A'SS制作地图 翻译：Asteri3m ***"
   },
   "*** RESIST ***": {
-    "translation": ""
-  },
-  "*** Warehouse door opens in 30 seconds ***": {
-    "translation": ""
-  },
-  "*** DOOR IS OPENING ***": {
-    "translation": ""
-  },
-  "*** This is the final hold ***": {
-    "translation": ""
+    "translation": "*** 抵抗 ***"
   },
   "*** The ship will leave soon! ***": {
-    "translation": ""
+    "translation": "*** 飞船即将离开！ ***"
+  },
+  "*** This is the final hold ***": {
+    "translation": "*** 这是最后的防守 ***"
+  },
+  "*** Warehouse door opens in 30 seconds ***": {
+    "translation": "*** 仓库门将在30秒后开启 ***"
+  },
+  "*** YOU FAIL ***": {
+    "translation": "*** 你失败了 ***"
+  },
+  "*** ZOMBIES ON THE SHIP ***": {
+    "translation": "*** 僵尸上了船 ***"
   }
 }
