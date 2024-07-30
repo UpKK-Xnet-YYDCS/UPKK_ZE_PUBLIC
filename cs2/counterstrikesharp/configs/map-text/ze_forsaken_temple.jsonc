@@ -3,7 +3,8 @@
     "translation": "** 10秒 **"
   },
   "** 1000 scores have been rewarded to those got in and survived lasers for more than 5 seconds **": {
-    "translation": "** 跳刀坚持超过5秒且存活的人获得1000分奖励 **"
+    "translation": "** 跳刀坚持超过5秒且存活的人获得1000分奖励 **",
+    "DoorCountDown": -1
   },
   "** 120 SECONDS LEFT **": {
     "translation": "** 120秒 **"
@@ -69,19 +70,19 @@
     "translation": "** 躲避跳刀并击败Boss **"
   },
   "** Dancing Claw **": {
-    "translation": "** 3秒，舞爪 - 使用奶 **"
+    "translation": "** 3秒，舞爪 - 准备使用奶 **"
   },
   "** Defend 20s **": {
     "translation": "** 防守20秒 **"
   },
   "** Divine Tears **": {
-    "translation": "** 神圣之泪 **"
+    "translation": "** 3秒，神圣之泪 - 蹲下 **"
   },
   "** Divine Tears - crouch **": {
     "translation": "** 3秒，神圣之泪 - 蹲下 **"
   },
   "** Do not follow ZE path! Survive until nuke! **": {
-    "translation": "** 不要沿着ZE路径走！直到核弹爆炸前存活下来！ **"
+    "translation": "** 不要当成常规的关卡玩！直到核弹爆炸前存活下来！ **"
   },
   "** Door is closing in 10s **": {
     "translation": "** 门将在10秒内关闭 **"
@@ -231,7 +232,7 @@
     "translation": "** 撤退！ **"
   },
   "** Ricochet **": {
-    "translation": "** 冲撞 **"
+    "translation": "** 3秒，冲撞 - 硬抗或者看准攻击提前跳跃躲避伤害 **"
   },
   "** Ricochet - jump **": {
     "translation": "** 3秒，冲撞 - 硬抗或者看准攻击提前跳跃躲避伤害 **"
@@ -291,7 +292,7 @@
     "translation": "** 使用钥匙解锁它 **"
   },
   "** Vampire **": {
-    "translation": "** 吸血 **"
+    "translation": "** 3秒，吸血 - 停止射击 **"
   },
   "** Vampire - stop shooting **": {
     "translation": "** 3秒，吸血 - 停止射击 **"
@@ -318,7 +319,7 @@
     "translation": "** 热身 - 60秒 **"
   },
   "** Weight of the Land **": {
-    "translation": "** 大地之力 **"
+    "translation": "** 3秒，大地之力 - 四周散开 **"
   },
   "** Weight of the Land - move away **": {
     "translation": "** 3秒，大地之力 - 四周散开 **"
