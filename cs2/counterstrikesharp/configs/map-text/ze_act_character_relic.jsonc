@@ -1,291 +1,189 @@
 {
-  "ZE_ACT_CHARACTER_RELIC": {
-    "translation": "ZE_ACT_CHARACTER_RELIC 翻译：Ayanami♪"
-  },
-  "[Captain.Li] Doctor,you think that meteor is important of this?": {
-    "translation": "[Captain.Li] 博士，你认为陨石对这件事很重要吗？"
-  },
-  "[Captain.Li] Dr.He is ok.Team Alpha can still finish mission.": {
-    "translation": "[Captain.Li] Dr.He 没事。Alpha 小组仍然可以完成任务。"
-  },
-  "[Captain.Li] Let's go,we must find that crystal to finish all of this.": {
-    "translation": "[Captain.Li] 我们走吧，我们必须找到那颗水晶才能完成这一切。"
-  },
-  "[Captain.Li] Ok,we have arrived relic,let's go to find truth!Damn,why these infectors can't killed?": {
-    "translation": "[Captain.Li] 好的，我们已经到达遗迹，让我们去寻找真相！该死，为什么这些感染者杀不死？"
-  },
-  "[Captain.Li] This is Alpha,we have arrived location nearly and we have contacted with part of Delta,over.": {
-    "translation": "[Captain.Li] 这是 Alpha，我们已经到达了接近目的地，并且已经与 Delta 的部分地区取得了联系，完毕。"
-  },
-  "[Dr.He] Here is where the meteorite landed and disaster outbreak from here and in same time Crnobog go this relic build some facilities.": {
-    "translation": "[Dr.He] 这里是陨石降落的地方，灾难从这里爆发，同时 Crnobog 去这个遗迹建造了一些设施。"
-  },
-  "[Dr.He] In start of this we all ignore it and just think it is a riot.But soon almost all of area is out of control.": {
-    "translation": "[Dr.He] 一开始我们都忽略了它，只是认为这是一场暴乱。但很快几乎所有地区都失控了。"
-  },
-  "[Dr.He] Maybe he has known we arrive and these infectors are all reformed.": {
-    "translation": "[Dr.He] 也许他已经知道我们来了，这些感染者都进行改造了。"
-  },
-  "[Dr.He] Not sure,but in all probability.Before disaster outbreak we have received many messages.": {
-    "translation": "[Dr.He] 不确定，但很有可能。灾难爆发前我们收到了很多消息。"
-  },
-  "[Dr.He] So I think they Caused this.": {
-    "translation": "[Dr.He] 所以我认为是他们造成的。"
-  },
-  "[Dr.He] They are coming.It seems that this is the origin of the disaster.": {
-    "translation": "[Dr.He] 他们来了。看来这就是灾难的根源。"
-  },
-  "[Map] A player picked Mortar.Are you gunner?": {
-    "translation": "一名玩家拾取了迫击炮。你是炮手吗？"
-  },
-  "[Map] A player picked saw.Are you logger?": {
-    "translation": "一名玩家拾取了锯子。你是伐木工吗？"
-  },
-  "[Map] A player picked shotgun.It never gets old.": {
-    "translation": "一名玩家拾取了霰弹枪。永远不会过时。"
-  },
-  "[Map] AFK teleport open in 10 seconds": {
-    "translation": "AFK 传送将在 10 秒后打开"
-  },
-  "[Map] AFK teleport open in 15 seconds": {
-    "translation": "AFK 传送将在 15 秒后打开"
-  },
-  "[Map] AFK teleport open in 20 seconds": {
-    "translation": "AFK 传送将在 20 秒后打开"
-  },
-  "[Map] AFK teleport open in 50 seconds": {
-    "translation": "AFK 传送将在 50 秒后打开"
-  },
-  "[Map] Be careful! ZM can across fire area but HM can not!": {
-    "translation": "[提示] 小心！僵尸可以穿越火灾区域，但人类不能！"
-  },
-  "[Map] Detected ZM you have failed": {
-    "translation": "检测到僵尸，您失败了"
-  },
-  "[Map] Elevator open in 10 seconds": {
-    "translation": "电梯将在 10 秒后打开"
-  },
-  "[Map] Game and Zombie start in 10 seconds": {
-    "translation": "游戏将在 10 秒后开始"
-  },
-  "[Map] Game start": {
-    "translation": "游戏开始"
-  },
-  "[Map] Human have 30 seconds to ready": {
-    "translation": "人类有 30 秒的时间准备就绪"
-  },
-  "[Map] Human teleport open in 10 seconds": {
-    "translation": "人类职业选择 10 秒后开启"
-  },
-  "[Map] Nuke in 30 seconds": {
-    "translation": "核弹将在 30 秒后发射"
-  },
-  "[Map] Shoot barries to open road": {
-    "translation": "[提示] 射击障碍物以打开道路"
-  },
-  "[Map] Some ZM get speed up.Evolution ZM coming.": {
-    "translation": "[提示] 一些僵尸获得了加速。进化僵尸即将到来。"
-  },
-  "[Map] Team Delta has been saved ": {
-    "translation": "Delta 队已获救"
-  },
-  "[Map] The door open in 15 seconds": {
-    "translation": "门将在 15 秒后打开"
-  },
-  "[Map] The door open in 20 seconds": {
-    "translation": "门将在 20 秒后打开"
-  },
-  "[Map] The door open in 25 seconds": {
-    "translation": "门将在 25 秒后打开"
-  },
-  "[Map] The door open in 30 seconds": {
-    "translation": "门将在 30 秒后打开"
-  },
-  "[Map] The door will open in 30 seconds": {
-    "translation": "门将在 30 秒后打开"
-  },
-  "[Map] TowerGuard can press lever now": {
-    "translation": "[提示] 哨站守卫 现在可以按下控制杆了"
-  },
-  "[Map] Zombie teleport open in 40 seconds": {
-    "translation": "僵尸 40 秒后传送"
-  },
-  "[Radio] ...(hiss)...This is Command Center...come in,over.": {
-    "translation": "[无线电] ...（嘶嘶声）...这是指挥中心...进来，过来。"
-  },
-  "[Radio] More survivors have lost contact with us.It doesn't well.How about Dr.He and others.": {
-    "translation": "[无线电] 更多的幸存者与我们失去了联系。情况不妙。何医生和其他人怎么样了。"
-  },
-  "[Radio] Ok,Good luck to you...(hiss)...Detected infectors move to you...": {
-    "translation": "[无线电] 好的，祝你好运……（嘶嘶声）……检测到的感染者正在向你移动……"
-  },
-  "[story] 3:36 PM Forgotten Forest": {
-    "translation": "[故事] 下午 3:36 被遗忘的森林"
-  },
-  "[story] After disaster outbreak one week,almost all of the countries are in a state of anarchy.": {
-    "translation": "[故事] 灾难爆发一周后，几乎所有国家都处于无政府状态。"
-  },
-  "[story] An unidentified virus strain is rapidly spreading across the world.": {
-    "translation": "[故事] 一种不明病毒株正在全球迅速蔓延。"
-  },
-  "[story] Infectors will attack all alive and laughing uncontrollably.": {
-    "translation": "[故事] 感染者会不受控制地攻击所有活着的人和笑声。"
-  },
-  "[story] Survivor named it 'Crazy Disease'.": {
-    "translation": "[故事] 幸存者将其命名为“疯狂疾病”。"
-  },
   "*** ZE_ACT_CHARACTER_RELIC ***": {
     "translation": ""
   },
+  "[Map] AFK teleport open in 50 seconds": {
+    "translation": ""
+  },
+  "[Map] Zombie teleport open in 40 seconds": {
+    "translation": ""
+  },
+  "[Map] Human teleport open in 10 seconds": {
+    "translation": ""
+  },
+  "[story] An unidentified virus strain is rapidly spreading across the world.": {
+    "translation": ""
+  },
   "*** Map By Ts ***": {
-    "translation": "地图作者：Ts 翻译：Ayanami♪""
+    "translation": ""
   },
   "*** Because some reason,map just use 2k compile. ***": {
-    "translation": "*** 由于某些原因，地图只使用2k编译。 ***"
+    "translation": ""
   },
   "*** Sorry to all player ***": {
-    "translation": "*** 向所有玩家致歉 ***"
+    "translation": ""
   },
   "*** This maybe let you get a bad experience. ***": {
-    "translation": "*** 这可能会让您获得不好的体验。 ***"
+    "translation": ""
+  },
+  "[story] Infectors will attack all alive and laughing uncontrollably.": {
+    "translation": ""
   },
   "*** I will do my best to fix it. ***": {
-    "translation": "*** 我会尽力修复它。 ***"
+    "translation": ""
+  },
+  "[story] After disaster outbreak one week,almost all of the countries are in a state of anarchy.": {
+    "translation": ""
+  },
+  "ZE_ACT_CHARACTER_RELIC": {
+    "translation": ""
+  },
+  "[story] Survivor named it 'Crazy Disease'.": {
+    "translation": ""
+  },
+  "[Map] Human have 30 seconds to ready": {
+    "translation": ""
+  },
+  "[story] 3:36 PM Forgotten Forest": {
+    "translation": ""
+  },
+  "[Radio] ...(hiss)...This is Command Center...come in,over.": {
+    "translation": ""
+  },
+  "[Captain.Li] This is Alpha,we have arrived location nearly and we have contacted with part of Delta,over.": {
+    "translation": ""
+  },
+  "[Radio] More survivors have lost contact with us.It doesn't well.How about Dr.He and others.": {
+    "translation": ""
+  },
+  "[Captain.Li] Dr.He is ok.Team Alpha can still finish mission.": {
+    "translation": ""
+  },
+  "[Radio] Ok,Good luck to you...(hiss)...Detected infectors move to you...": {
+    "translation": ""
+  },
+  "[Map] Game and Zombie start in 10 seconds": {
+    "translation": ""
+  },
+  "[Dr.He] They are coming.It seems that this is the origin of the disaster.": {
+    "translation": ""
+  },
+  "[Captain.Li] Let's go,we must find that crystal to finish all of this.": {
+    "translation": ""
+  },
+  "[Map] A player picked shotgun.It never gets old.": {
+    "translation": ""
+  },
+  "[Map] Game start": {
+    "translation": ""
+  },
+  "[Captain.Li] Doctor,you think that meteor is important of this?": {
+    "translation": ""
+  },
+  "[Map] Be careful! ZM can across fire area but HM can not!": {
+    "translation": ""
+  },
+  "[Map] Shoot barries to open road": {
+    "translation": ""
+  },
+  "[Dr.He] Not sure,but in all probability.Before disaster outbreak we have received many messages.": {
+    "translation": ""
+  },
+  "[Map] Some ZM get speed up.Evolution ZM coming.": {
+    "translation": ""
+  },
+  "[Dr.He] In start of this we all ignore it and just think it is a riot.But soon almost all of area is out of control.": {
+    "translation": ""
+  },
+  "[Dr.He] Here is where the meteorite landed and disaster outbreak from here and in same time Crnobog go this relic build some facilities.": {
+    "translation": ""
+  },
+  "[Dr.He] So I think they Caused this.": {
+    "translation": ""
+  },
+  "[Captain.Li] Ok,we have arrived relic,let's go to find truth!Damn,why these infectors can't killed?": {
+    "translation": ""
+  },
+  "[Dr.He] Maybe he has known we arrive and these infectors are all reformed.": {
+    "translation": ""
+  },
+  "[Map] Detected ZM you have failed": {
+    "translation": ""
+  },
+  "[Map] The door will open in 30 seconds": {
+    "translation": ""
+  },
+  "[Map] A player picked Mortar.Are you gunner?": {
+    "translation": ""
+  },
+  "[Map] The door open in 30 seconds": {
+    "translation": ""
+  },
+  "[Map] A player picked saw.Are you logger?": {
+    "translation": ""
+  },
+  "[Map] Team Delta has been saved ": {
+    "translation": ""
+  },
+  "[Map] AFK teleport open in 15 seconds": {
+    "translation": ""
+  },
+  "[Map] The door open in 20 seconds": {
+    "translation": ""
+  },
+  "[Map] TowerGuard can press lever now": {
+    "translation": ""
+  },
+  "[Map] The door open in 25 seconds": {
+    "translation": ""
+  },
+  "[Map] AFK teleport open in 10 seconds": {
+    "translation": ""
+  },
+  "[Map] The door open in 15 seconds": {
+    "translation": ""
+  },
+  "[Map] Elevator open in 10 seconds": {
+    "translation": ""
+  },
+  "[Map] AFK teleport open in 20 seconds": {
+    "translation": ""
   },
   "[Map] AFK teleport open in 30 seconds.": {
-    "translation": "AFK传送将在 30 秒后开启。"
+    "translation": ""
   },
   "[Map] Zombie teleport open in 10 seconds.": {
-    "translation": "僵尸能力强化 10 秒后开启。"
+    "translation": ""
   },
   "[Map] Human teleport open in 10 seconds.": {
-    "translation": "人类职业选择 10 秒后开启。"
-  },
-  "[Map] Game start in 5 seconds.": {
-    "translation": "游戏将在 5 秒后开始"
-  },
-  "[Map] DoorKeeper save in 7 seconds.": {
-    "translation": "破门手在7秒后获救"
-  },
-  "[Map] Logger save in 7 seconds.": {
-    "translation": "伐木工在7秒后获救"
-  },
-  "[Map] Firer save in 7 seconds.": {
-    "translation": "喷火工兵在7秒后获救"
-  },
-  "[Map] Doctor save in 7 seconds.": {
-    "translation": "医生在7秒后获救"
-  },
-  "[Map] Fourth floor main door open in 30 seconds.": {
-    "translation": "四楼正门 30 秒后打开"
-  },
-  "[Map] Fireman has ready!The door open in 15 seconds. ": {
-    "translation": "消防员已做好准备！15秒后门打开"
-  },
-  "[Map] Third floor main door open in 30 seconds": {
-    "translation": "三楼主门 30 秒后打开"
-  },
-  "[Map] Magican save in 7 seconds": {
-    "translation": "遗迹法师在7秒后获救"
-  },
-  "[Map] Second floor side door open in 5 seconds": {
-    "translation": "二楼侧门 5 秒开启"
-  },
-  "[Map] HM get Ammo.In second floor ZM get HP.": {
-    "translation": "人类获得弹药。在二楼的僵尸获得HP加成"
-  },
-  "[Map] Second floor main door open in 30 seconds.": {
-    "translation": "二楼主门 30 秒后打开"
-  },
-  "[Map] First floor second door open in 10 seconds": {
-    "translation": "一楼第二扇门 10 秒后打开"
-  },
-  "[Map] Main gate open in 15 seconds.": {
-    "translation": "正门 15 秒后打开。"
-  },
-  "[Map] First floor first door open in 10 seconds": {
-    "translation": "一楼第一扇门10秒后打开"
-  },
-  "[Map] Veteran save in 5 seconds.": {
-    "translation": "老兵在7秒后获救"
-  },
-  "[Map] Dynamiter save in 7 seconds.": {
-    "translation": "爆破手在7秒后获救"
-  },
-  "[Map] AFK TP in 15 seconds.": {
-    "translation": "AFK传送将在 15 秒后开启"
-  },
-  "[Map] Side door open in 10 seconds.": {
-    "translation": "侧门 10 秒后打开"
-  },
-  "[Map] Fireman has ready!The door open in 10 seconds. ": {
-    "translation": "消防员已做好准备！10秒后门打开。"
-  },
-  "[Map] Hall side door open in 20 seconds": {
-    "translation": "大厅侧门 20 秒后打开"
-  },
-  "[Map] Hall main door open in 20 seconds": {
-    "translation": "大厅大门 20 秒后开启"
-  },
-  "[Map] Magic Room close in 10 seconds.": {
-    "translation": "法杖房间 10 秒后关闭"
-  },
-  "[Map] Careful if human get a item,zombie also will get a item!": {
-    "translation": "注意！如果人类解锁一件神器，僵尸也会解锁一件神器！"
-  },
-  "[Map] Now Magician has 30 second to choose open which room.": {
-    "translation": "现在遗迹法师有30秒的时间来选择打开哪个房间"
-  },
-  "[Map] Mid hall side door open in 3 seconds.": {
-    "translation": "中厅侧门 3 秒后打开"
-  },
-  "[Dr.He] Careful!We need to stop ZM touch this area 18 seconds.": {
-    "translation": "[Dr.He] 小心！我们需要阻止僵尸触碰该区域 18 秒。"
-  },
-  "[Dr.He] Or they will get high speed!": {
-    "translation": "[Dr.He] 否则他们会速度变快!"
-  },
-  "[Map] Mid hall high door close in 10 seconds.": {
-    "translation": "中厅高门 10 秒后关闭"
-  },
-  "[Map] ZM speed area has closed!": {
-    "translation": "僵尸加速区域已关闭！"
-  },
-  "[Map] Mid hall low door open in 10 seconds.": {
-    "translation": "中厅低门 10 秒后开启"
-  },
-  "[Dr.He] Careful!We need to stop ZM touch this area 22 seconds.": {
-    "translation": "[Dr.He] 小心！我们需要阻止僵尸触碰该区域 22 秒。"
-  },
-  "[Map] Bracket door open in 30 seconds.": {
-    "translation": "支架门 30 秒后打开"
-  },
-  "[Map] Back hall door open in 20 seconds.": {
-    "translation": "后厅门 20 秒后打开"
-  },
-  "[Dr.He] Careful!We need to stop ZM touch this area 15 seconds.": {
-    "translation": "[Dr.He] 小心！我们需要阻止僵尸触碰该区域 15 秒。"
-  },
-  "[Map] Fence break in  seconds.": {
     "translation": ""
   },
   "multi sus": {
     "translation": ""
   },
+  "[Map] Game start in 5 seconds.": {
+    "translation": ""
+  },
+  "[Map] DoorKeeper save in 7 seconds.": {
+    "translation": ""
+  },
+  "[Map] Logger save in 7 seconds.": {
+    "translation": ""
+  },
+  "[Map] Firer save in 7 seconds.": {
+    "translation": ""
+  },
+  "[Map] Doctor save in 7 seconds.": {
+    "translation": ""
+  },
+  "[Map] Fireman has ready!The door open in 15 seconds. ": {
+    "translation": ""
+  },
+  "[Map] Fourth floor main door open in 30 seconds.": {
+    "translation": ""
+  },
   "butt sus": {
     "translation": ""
-  },
-  "caonima2": {
-    "translation": ""
-  },
-  "[Map] Final door open in 15 seconds.": {
-    "translation": "最后一扇门将在 15 秒后打开"
-  },
-  "[Map] Nuke in 45 seconds.": {
-    "translation": "45 秒后核爆"
-  },
-  "[Map] Bridge break in 15 seconds.": {
-    "translation": "15 秒后桥梁断裂"
   },
   "caonima": {
     "translation": ""
@@ -294,6 +192,93 @@
     "translation": ""
   },
   "trigger sus": {
+    "translation": ""
+  },
+  "[Map] Dynamiter save in 7 seconds.": {
+    "translation": ""
+  },
+  "[Map] Third floor main door open in 30 seconds": {
+    "translation": ""
+  },
+  "[Map] Magican save in 7 seconds": {
+    "translation": ""
+  },
+  "[Map] Second floor side door open in 5 seconds": {
+    "translation": ""
+  },
+  "[Map] HM get Ammo.In second floor ZM get HP.": {
+    "translation": ""
+  },
+  "[Map] Second floor main door open in 30 seconds.": {
+    "translation": ""
+  },
+  "[Map] First floor first door open in 10 seconds": {
+    "translation": ""
+  },
+  "[Map] First floor second door open in 10 seconds": {
+    "translation": ""
+  },
+  "[Map] Veteran save in 5 seconds.": {
+    "translation": ""
+  },
+  "[Map] Main gate open in 15 seconds.": {
+    "translation": ""
+  },
+  "[Map] AFK TP in 15 seconds.": {
+    "translation": ""
+  },
+  "[Map] Side door open in 10 seconds.": {
+    "translation": ""
+  },
+  "[Map] Hall side door open in 20 seconds": {
+    "translation": ""
+  },
+  "[Map] Fireman has ready!The door open in 10 seconds. ": {
+    "translation": ""
+  },
+  "[Map] Hall main door open in 20 seconds": {
+    "translation": ""
+  },
+  "[Map] Magic Room close in 10 seconds.": {
+    "translation": ""
+  },
+  "[Map] Careful if human get a item,zombie also will get a item!": {
+    "translation": ""
+  },
+  "[Map] Now Magician has 30 second to choose open which room.": {
+    "translation": ""
+  },
+  "[Map] Mid hall side door open in 3 seconds.": {
+    "translation": ""
+  },
+  "[Dr.He] Careful!We need to stop ZM touch this area 18 seconds.": {
+    "translation": ""
+  },
+  "[Dr.He] Or they will get high speed!": {
+    "translation": ""
+  },
+  "[Map] Mid hall high door close in 10 seconds.": {
+    "translation": ""
+  },
+  "[Map] ZM speed area has closed!": {
+    "translation": ""
+  },
+  "[Map] Mid hall low door open in 10 seconds.": {
+    "translation": ""
+  },
+  "[Map] Bracket door open in 30 seconds.": {
+    "translation": ""
+  },
+  "caonima2": {
+    "translation": ""
+  },
+  "[Dr.He] Careful!We need to stop ZM touch this area 22 seconds.": {
+    "translation": ""
+  },
+  "[Map] Back hall door open in 20 seconds.": {
+    "translation": ""
+  },
+  "[Dr.He] Careful!We need to stop ZM touch this area 15 seconds.": {
     "translation": ""
   }
 }
