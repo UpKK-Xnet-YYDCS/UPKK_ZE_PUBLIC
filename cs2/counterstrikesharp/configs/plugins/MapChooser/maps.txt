@@ -1059,7 +1059,7 @@
 	{
 		"workshop_id"		"3137495751"
 		"enabled"		"1"
-		"filename"		"ze_sky_bridge"
+		"filename"		"ze_sky_bridge_a01_fix3"
 		"updatedname"		"ze_sky_bridge"
 	}
 	"ze_waterpark"
@@ -1548,9 +1548,9 @@
 	"ze_obj_encounter_b1_test"
 	{
 		"workshop_id"		"3259618066"
-		"enabled"		"1"
+		"enabled"		"0"
 		"filename"		"ze_obj_encounter_b1"
-		"updatedname"		"ze_obj_encounter_b1"
+		"updatedname"		"ze_obj_encounter_b1_test"
 	}
 	"ze_summer_house"
 	{
@@ -1696,7 +1696,7 @@
 	{
 		"workshop_id"		"3294459795"
 		"enabled"		"1"
-		"filename"		"ze_undertale_sansfinal"
+		"filename"		"ze_undertale_sans_fin"
 		"updatedname"		"ze_undertale_sans_final"
 	}
 	"ze_FFVII_Snow_Cosmo"
@@ -1747,5 +1747,89 @@
 		"enabled"		"1"
 		"filename"		"ze_sumai_facility"
 		"updatedname"		"SUMAI Facility [Lite]"
+	}
+	"ze_lemonade"
+	{
+		"workshop_id"		"3148678988"
+		"enabled"		"1"
+		"filename"		"ze_lemonade"
+		"updatedname"		"ze_lemonade"
+	}
+	"ze_pogworld"
+	{
+		"workshop_id"		"3162998843"
+		"enabled"		"1"
+		"filename"		"ze_pogworld"
+		"updatedname"		"ze_pogworld"
+	}
+	"ze_1way_tunnel"
+	{
+		"workshop_id"		"3217363701"
+		"enabled"		"1"
+		"filename"		"ze_1way_tunnel"
+		"updatedname"		"ze_1way_tunnel"
+	}
+	"ze_DaBaDeeDaBaDie"
+	{
+		"workshop_id"		"3255751584"
+		"enabled"		"1"
+		"filename"		"ze_dabadeedabadie"
+		"updatedname"		"ze_DaBaDeeDaBaDie"
+	}
+	"ze_MORELL_April_Vacation_p"
+	{
+		"workshop_id"		"3208765636"
+		"enabled"		"1"
+		"filename"		"ze_morell_april_vaca"
+		"updatedname"		"ze_MORELL_April_Vacation_p"
+	}
+	"ze_eizures_b1_1"
+	{
+		"workshop_id"		"3102196028"
+		"enabled"		"1"
+		"filename"		"ze_eizures_b1_1"
+		"updatedname"		"ze_eizures_b1_1"
+	}
+	"ze_dormitory_uestc_cs2"
+	{
+		"workshop_id"		"3088434789"
+		"enabled"		"1"
+		"filename"		"ze_dormitory_uestc"
+		"updatedname"		"ze_dormitory_uestc_cs2"
+	}
+	"ze_Box_Defend"
+	{
+		"workshop_id"		"3133817890"
+		"enabled"		"1"
+		"filename"		"ze_box_defend_v1_4"
+		"updatedname"		"ze_Box_Defend"
+	}
+	"ze_silent_hill_3_dawn"
+	{
+		"workshop_id"		"3303188199"
+		"enabled"		"1"
+		"filename"		"ze_silent_hill_3_dawn"
+		"updatedname"		"ze_silent_hill_3_dawn"
+	}
+	"ze_silent_hill_3_flee"
+	{
+		"workshop_id"		"3303191928"
+		"enabled"		"1"
+		"filename"		"ze_silent_hill_3_flee"
+		"updatedname"		"ze_silent_hill_3_flee"
+	}
+	"ze_Industrial_Dejavu"
+	{
+		"workshop_id"		"3303378356"
+		"enabled"		"1"
+		"filename"		"ze_industrial_dejavu"
+		"updatedname"		"ze_Industrial_Dejavu"
+	}
+	"ze_tilex_ultimate"
+	{
+		"workshop_id"		"3303473135"
+		"enabled"		"1"
+		"filename"		"ze_tilex_ultimate"
+		"updatedname"		"ze_tilex_ultimate"
 	}
 }
