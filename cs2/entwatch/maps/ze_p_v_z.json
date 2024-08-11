@@ -1,0 +1,29 @@
+[
+	{
+		"Name": "向日葵",
+		"ShortName": "向日葵",
+		"Color": "{default}",
+		"HammerID": 498,
+		"GlowColor": [0,0,255,255],
+		"FilterID": 0,
+		"FilterValue": "",
+		"BlockPickup": false,
+		"AllowTransfer": true,
+		"ForceDrop": false,
+		"Chat": true,
+		"Hud": true,
+		"TriggerID": 0,
+		"UsePriority": true,
+		"AbilityList": [
+			{
+				"Name": "heal",
+				"ButtonID": 4750,
+				"ButtonClass": "func_button",
+				"Chat_Uses": true,
+				"Mode": 2,
+				"MaxUses": 0,
+				"CoolDown": 30
+			}
+		]
+	}
+]
