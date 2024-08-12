@@ -52,6 +52,32 @@
 				"CoolDown": 60
 			}
 		]
+	},	{
+		"Name": "奶/Heal Magic",
+		"ShortName": "奶",
+		"Color": "{default}",
+		"HammerID": 7271,
+		"GlowColor": [255,255,255,255],
+		"FilterID": 0,
+		"FilterValue": "",
+		"BlockPickup": false,
+		"AllowTransfer": true,
+		"ForceDrop": false,
+		"Chat": true,
+		"Hud": true,
+		"TriggerID": 0,
+		"UsePriority": true,
+		"AbilityList": [
+			{
+				"Name": "",
+				"ButtonID": 0,
+				"ButtonClass": "func_button",
+				"Chat_Uses": true,
+				"Mode": 2,
+				"MaxUses": 0,
+				"CoolDown": 60
+			}
+		]
 	},
 	{
 		"Name": "水/Water Magic",
@@ -189,8 +215,8 @@
 		]
 	},
     {
-		"Name": "[ZM]冰/[ZM]Ice",
-		"ShortName": "[ZM]冰",
+		"Name": "ZM 冰/ZM Ice",
+		"ShortName": "ZM 冰",
 		"Color": "{default}",
 		"HammerID": 11537,
 		"GlowColor": [255,255,255,255],
@@ -225,8 +251,8 @@
 		]
 	},
     {
-		"Name": "[ZM]黑洞/[ZM]Gravity",
-		"ShortName": "[ZM]黑洞",
+		"Name": "ZM 黑洞/ZM Gravity",
+		"ShortName": "ZM 黑洞",
 		"Color": "{default}",
 		"HammerID": 11542,
 		"GlowColor": [255,255,255,255],
@@ -261,8 +287,8 @@
 		]
 	},
     {
-		"Name": "[ZM]隐身/[ZM]Stealth",
-		"ShortName": "[ZM]Stealth",
+		"Name": "ZM 隐身/ZM Stealth",
+		"ShortName": "ZM Stealth",
 		"Color": "{default}",
 		"HammerID": 11543,
 		"GlowColor": [255,255,255,255],
@@ -297,8 +323,8 @@
 		]
 	},
     {
-		"Name": "[ZM]护盾/[ZM]Shield",
-		"ShortName": "[ZM]护盾",
+		"Name": "ZM 护盾/ZM Shield",
+		"ShortName": "ZM 护盾",
 		"Color": "{default}",
 		"HammerID": 11544,
 		"GlowColor": [255,255,255,255],
@@ -486,11 +512,11 @@
 			{
 				"Name": "",
 				"ButtonID": 0,
-				"ButtonClass": "game_ui::PressedBack",
-				"Chat_Uses": true,
-				"Mode": 2,
+				"ButtonClass": "",
+				"Chat_Uses": false,
+				"Mode": 1,
 				"MaxUses": 0,
-				"CoolDown": 60
+				"CoolDown": 0
 			}
 		]
 	}
