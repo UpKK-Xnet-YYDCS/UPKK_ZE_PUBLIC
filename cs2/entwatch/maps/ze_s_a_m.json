@@ -205,8 +205,8 @@
 		"UsePriority": true,
 		"AbilityList": [
 			{
-				"Name": "Item_ZMIce_Button_1",
-				"ButtonID": 0,
+				"Name": "技能1",
+				"ButtonID": 7428,
 				"ButtonClass": "func_button",
 				"Chat_Uses": true,
 				"Mode": 2,
@@ -214,8 +214,8 @@
 				"CoolDown": 80
 			},
             {
-				"Name": "Item_ZMIce_Button_2",
-				"ButtonID": 0,
+				"Name": "技能2",
+				"ButtonID": 7438,
 				"ButtonClass": "func_button",
 				"Chat_Uses": true,
 				"Mode": 2,
@@ -241,8 +241,8 @@
 		"UsePriority": true,
 		"AbilityList": [
 			{
-				"Name": "Item_ZMGravity_Button_1",
-				"ButtonID": 0,
+				"Name": "技能1",
+				"ButtonID": 7460,
 				"ButtonClass": "func_button",
 				"Chat_Uses": true,
 				"Mode": 2,
@@ -250,8 +250,8 @@
 				"CoolDown": 80
 			},
             {
-				"Name": "Item_ZMGravity_Button_2",
-				"ButtonID": 0,
+				"Name": "技能2",
+				"ButtonID": 7469,
 				"ButtonClass": "func_button",
 				"Chat_Uses": true,
 				"Mode": 2,
@@ -277,8 +277,8 @@
 		"UsePriority": true,
 		"AbilityList": [
 			{
-				"Name": "Item_ZMStealth_Button_1",
-				"ButtonID": 0,
+				"Name": "技能1",
+				"ButtonID": 7498,
 				"ButtonClass": "func_button",
 				"Chat_Uses": true,
 				"Mode": 2,
@@ -286,8 +286,8 @@
 				"CoolDown": 80
 			},
             {
-				"Name": "Item_ZMStealth_Button_2",
-				"ButtonID": 0,
+				"Name": "技能2",
+				"ButtonID": 7508,
 				"ButtonClass": "func_button",
 				"Chat_Uses": true,
 				"Mode": 2,
@@ -313,8 +313,8 @@
 		"UsePriority": true,
 		"AbilityList": [
 			{
-				"Name": "Item_ZMShield_Button_1",
-				"ButtonID": 0,
+				"Name": "技能1",
+				"ButtonID": 7527,
 				"ButtonClass": "func_button",
 				"Chat_Uses": true,
 				"Mode": 2,
@@ -322,8 +322,8 @@
 				"CoolDown": 80
 			},
             {
-				"Name": "Item_ZMShield_Button_2",
-				"ButtonID": 0,
+				"Name": "技能2",
+				"ButtonID": 7536,
 				"ButtonClass": "func_button",
 				"Chat_Uses": true,
 				"Mode": 2,
@@ -349,7 +349,7 @@
 		"UsePriority": false,
 		"AbilityList": [
             {
-				"Name": "技能",
+				"Name": "",
 				"ButtonID": 0,
 				"ButtonClass": "func_button",
 				"Chat_Uses": true,
@@ -403,7 +403,7 @@
 		"UsePriority": false,
 		"AbilityList": [
             {
-				"Name": "技能",
+				"Name": "",
 				"ButtonID": 0,
 				"ButtonClass": "func_button",
 				"Chat_Uses": true,
@@ -484,7 +484,7 @@
 		"UsePriority": false,
 		"AbilityList": [
 			{
-				"Name": "技能",
+				"Name": "",
 				"ButtonID": 0,
 				"ButtonClass": "game_ui::PressedBack",
 				"Chat_Uses": true,
