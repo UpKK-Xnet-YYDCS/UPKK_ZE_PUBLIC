@@ -1,7 +1,7 @@
 [
 	{
-		"Name": "Quicksand",
-		"ShortName": "Quicksand",
+		"Name": "流沙权杖/Quicksand",
+		"ShortName": "流沙权杖",
 		"Color": "{blue}",
 		"HammerID": 11145,
 		"GlowColor": [0,0,255,255],
@@ -27,8 +27,8 @@
 		]
 	},
 	{
-		"Name": "Earth",
-		"ShortName": "Earth",
+		"Name": "大地权杖/Earth",
+		"ShortName": "大地权杖",
 		"Color": "{orange}",
 		"HammerID": 11116,
 		"GlowColor": [255,140,0,255],
@@ -54,8 +54,8 @@
 		]
 	},
 	{
-		"Name": "Tornado",
-		"ShortName": "Tornado",
+		"Name": "暴风权杖/Tornado",
+		"ShortName": "暴风权杖",
 		"Color": "{default}",
 		"HammerID": 11162,
 		"GlowColor": [255,255,255,255],
@@ -81,8 +81,8 @@
 		]
 	},
 	{
-		"Name": "Fire",
-		"ShortName": "Fire",
+		"Name": "烈火权杖/Fire",
+		"ShortName": "烈火权杖",
 		"Color": "{red}",
 		"HammerID": 11184,
 		"GlowColor": [255,30,30,255],
@@ -108,8 +108,8 @@
 		]
 	},
 	{
-		"Name": "Heal",
-		"ShortName": "Heal",
+		"Name": "治愈权杖/Heal",
+		"ShortName": "治愈权杖",
 		"Color": "{default}",
 		"HammerID": 11196,
 		"GlowColor": [255,255,255,255],
@@ -135,8 +135,8 @@
 		]
 	},
 	{
-		"Name": "SandStorm",
-		"ShortName": "SandStorm",
+		"Name": "沙暴权杖/SandStorm",
+		"ShortName": "沙暴权杖",
 		"Color": "{yellow}",
 		"HammerID": 11127,
 		"GlowColor": [199,223,7,255],
@@ -151,7 +151,7 @@
 		"UsePriority": true,
 		"AbilityList": [
 			{
-				"Name": "Ultima",
+				"Name": "终极",
 				"ButtonID": 0,
 				"ButtonClass": "func_button",
 				"Chat_Uses": true,
@@ -162,8 +162,8 @@
 		]
 	},
 	{
-		"Name": "Antlion",
-		"ShortName": "Antlion",
+		"Name": "[ZM]蚁狮/[ZM]Antlion",
+		"ShortName": "[ZM]蚁狮",
 		"Color": "{lime}",
 		"HammerID": 11895,
 		"GlowColor": [119,234,7,255],
@@ -198,8 +198,8 @@
 		]
 	},
 	{
-		"Name": "[ZM]Dark",
-		"ShortName": "[ZM]Dark",
+		"Name": "[ZM]黑洞/[ZM]Dark",
+		"ShortName": "[ZM]黑洞",
 		"Color": "{purple}",
 		"HammerID": 11854,
 		"GlowColor": [128,0,128,255],
@@ -225,8 +225,8 @@
 		]
 	},
 	{
-		"Name": "[ZM]Fire",
-		"ShortName": "[ZM]Fire",
+		"Name": "[ZM]火/[ZM]Fire",
+		"ShortName": "[ZM]火",
 		"Color": "{darkorange}",
 		"HammerID": 11828,
 		"GlowColor": [240,94,35,255],
