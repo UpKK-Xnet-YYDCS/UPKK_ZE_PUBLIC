@@ -79,5 +79,455 @@
 				"CoolDown": 60
 			}
 		]
+	},
+    {
+		"Name": "黑洞/Gravity Magic",
+		"ShortName": "黑洞",
+		"Color": "{default}",
+		"HammerID": 7307,
+		"GlowColor": [255,255,255,255],
+		"FilterID": 0,
+		"FilterValue": "",
+		"BlockPickup": false,
+		"AllowTransfer": true,
+		"ForceDrop": false,
+		"Chat": true,
+		"Hud": true,
+		"TriggerID": 0,
+		"UsePriority": true,
+		"AbilityList": [
+			{
+				"Name": "",
+				"ButtonID": 0,
+				"ButtonClass": "func_button",
+				"Chat_Uses": true,
+				"Mode": 2,
+				"MaxUses": 0,
+				"CoolDown": 60
+			}
+		]
+	},
+    {
+		"Name": "风/Tornado Magic",
+		"ShortName": "风",
+		"Color": "{default}",
+		"HammerID": 7337,
+		"GlowColor": [255,255,255,255],
+		"FilterID": 0,
+		"FilterValue": "",
+		"BlockPickup": false,
+		"AllowTransfer": true,
+		"ForceDrop": false,
+		"Chat": true,
+		"Hud": true,
+		"TriggerID": 0,
+		"UsePriority": true,
+		"AbilityList": [
+			{
+				"Name": "",
+				"ButtonID": 0,
+				"ButtonClass": "func_button",
+				"Chat_Uses": true,
+				"Mode": 2,
+				"MaxUses": 0,
+				"CoolDown": 60
+			}
+		]
+	},
+    {
+		"Name": "终极/Ultima Magic",
+		"ShortName": "终极",
+		"Color": "{default}",
+		"HammerID": 7368,
+		"GlowColor": [255,255,255,255],
+		"FilterID": 0,
+		"FilterValue": "",
+		"BlockPickup": false,
+		"AllowTransfer": true,
+		"ForceDrop": false,
+		"Chat": true,
+		"Hud": true,
+		"TriggerID": 0,
+		"UsePriority": true,
+		"AbilityList": [
+			{
+				"Name": "",
+				"ButtonID": 0,
+				"ButtonClass": "func_button",
+				"Chat_Uses": true,
+				"Mode": 3,
+				"MaxUses": 1,
+				"CoolDown": 0
+			}
+		]
+	},
+    {
+		"Name": "复制/Trace Magic",
+		"ShortName": "复制",
+		"Color": "{default}",
+		"HammerID": 7406,
+		"GlowColor": [255,255,255,255],
+		"FilterID": 0,
+		"FilterValue": "",
+		"BlockPickup": false,
+		"AllowTransfer": true,
+		"ForceDrop": false,
+		"Chat": true,
+		"Hud": true,
+		"TriggerID": 0,
+		"UsePriority": true,
+		"AbilityList": [
+			{
+				"Name": "",
+				"ButtonID": 0,
+				"ButtonClass": "func_button",
+				"Chat_Uses": true,
+				"Mode": 2,
+				"MaxUses": 0,
+				"CoolDown": 100
+			}
+		]
+	},
+    {
+		"Name": "[ZM]冰/[ZM]Ice",
+		"ShortName": "[ZM]冰",
+		"Color": "{default}",
+		"HammerID": 11537,
+		"GlowColor": [255,255,255,255],
+		"FilterID": 0,
+		"FilterValue": "",
+		"BlockPickup": false,
+		"AllowTransfer": true,
+		"ForceDrop": false,
+		"Chat": true,
+		"Hud": true,
+		"TriggerID": 0,
+		"UsePriority": true,
+		"AbilityList": [
+			{
+				"Name": "Item_ZMIce_Button_1",
+				"ButtonID": 0,
+				"ButtonClass": "func_button",
+				"Chat_Uses": true,
+				"Mode": 2,
+				"MaxUses": 0,
+				"CoolDown": 80
+			},
+            {
+				"Name": "Item_ZMIce_Button_2",
+				"ButtonID": 0,
+				"ButtonClass": "func_button",
+				"Chat_Uses": true,
+				"Mode": 2,
+				"MaxUses": 0,
+				"CoolDown": 60
+			}
+		]
+	},
+    {
+		"Name": "[ZM]黑洞/[ZM]Gravity",
+		"ShortName": "[ZM]黑洞",
+		"Color": "{default}",
+		"HammerID": 11542,
+		"GlowColor": [255,255,255,255],
+		"FilterID": 0,
+		"FilterValue": "",
+		"BlockPickup": false,
+		"AllowTransfer": true,
+		"ForceDrop": false,
+		"Chat": true,
+		"Hud": true,
+		"TriggerID": 0,
+		"UsePriority": true,
+		"AbilityList": [
+			{
+				"Name": "Item_ZMGravity_Button_1",
+				"ButtonID": 0,
+				"ButtonClass": "func_button",
+				"Chat_Uses": true,
+				"Mode": 2,
+				"MaxUses": 0,
+				"CoolDown": 80
+			},
+            {
+				"Name": "Item_ZMGravity_Button_2",
+				"ButtonID": 0,
+				"ButtonClass": "func_button",
+				"Chat_Uses": true,
+				"Mode": 2,
+				"MaxUses": 0,
+				"CoolDown": 60
+			}
+		]
+	},
+    {
+		"Name": "[ZM]隐身/[ZM]Stealth",
+		"ShortName": "[ZM]Stealth",
+		"Color": "{default}",
+		"HammerID": 11543,
+		"GlowColor": [255,255,255,255],
+		"FilterID": 0,
+		"FilterValue": "",
+		"BlockPickup": false,
+		"AllowTransfer": true,
+		"ForceDrop": false,
+		"Chat": true,
+		"Hud": true,
+		"TriggerID": 0,
+		"UsePriority": true,
+		"AbilityList": [
+			{
+				"Name": "Item_ZMStealth_Button_1",
+				"ButtonID": 0,
+				"ButtonClass": "func_button",
+				"Chat_Uses": true,
+				"Mode": 2,
+				"MaxUses": 0,
+				"CoolDown": 80
+			},
+            {
+				"Name": "Item_ZMStealth_Button_2",
+				"ButtonID": 0,
+				"ButtonClass": "func_button",
+				"Chat_Uses": true,
+				"Mode": 2,
+				"MaxUses": 0,
+				"CoolDown": 60
+			}
+		]
+	},
+    {
+		"Name": "[ZM]护盾/[ZM]Shield",
+		"ShortName": "[ZM]护盾",
+		"Color": "{default}",
+		"HammerID": 11544,
+		"GlowColor": [255,255,255,255],
+		"FilterID": 0,
+		"FilterValue": "",
+		"BlockPickup": false,
+		"AllowTransfer": true,
+		"ForceDrop": false,
+		"Chat": true,
+		"Hud": true,
+		"TriggerID": 0,
+		"UsePriority": true,
+		"AbilityList": [
+			{
+				"Name": "Item_ZMShield_Button_1",
+				"ButtonID": 0,
+				"ButtonClass": "func_button",
+				"Chat_Uses": true,
+				"Mode": 2,
+				"MaxUses": 0,
+				"CoolDown": 80
+			},
+            {
+				"Name": "Item_ZMShield_Button_2",
+				"ButtonID": 0,
+				"ButtonClass": "func_button",
+				"Chat_Uses": true,
+				"Mode": 2,
+				"MaxUses": 0,
+				"CoolDown": 60
+			}
+		]
+	},
+    {
+		"Name": "Kirito",
+		"ShortName": "Kirito",
+		"Color": "{default}",
+		"HammerID": 11545,
+		"GlowColor": [255,255,255,255],
+		"FilterID": 0,
+		"FilterValue": "",
+		"BlockPickup": false,
+		"AllowTransfer": false,
+		"ForceDrop": false,
+		"Chat": true,
+		"Hud": true,
+		"TriggerID": 0,
+		"UsePriority": false,
+		"AbilityList": [
+            {
+				"Name": "攻击1",
+				"ButtonID": 0,
+				"ButtonClass": "game_ui::PressedAttack",
+				"Chat_Uses": false,
+				"Mode": 2,
+				"MaxUses": 0,
+				"CoolDown": 2
+			},
+			{
+				"Name": "攻击2",
+				"ButtonID": 0,
+				"ButtonClass": "game_ui::PressedAttack2",
+				"Chat_Uses": false,
+				"Mode": 2,
+				"MaxUses": 0,
+				"CoolDown": 8
+			},
+            {
+				"Name": "技能",
+				"ButtonID": 0,
+				"ButtonClass": "func_button",
+				"Chat_Uses": true,
+				"Mode": 4,
+				"MaxUses": 3,
+				"CoolDown": 60
+			}
+		]
+	},
+    {
+		"Name": "火把/Torch",
+		"ShortName": "火把",
+		"Color": "{default}",
+		"HammerID": 10860,
+		"GlowColor": [255,255,255,255],
+		"FilterID": 0,
+		"FilterValue": "",
+		"BlockPickup": false,
+		"AllowTransfer": true,
+		"ForceDrop": false,
+		"Chat": true,
+		"Hud": true,
+		"TriggerID": 0,
+		"UsePriority": true,
+		"AbilityList": [
+			{
+				"Name": "",
+				"ButtonID": 0,
+				"ButtonClass": "",
+				"Chat_Uses": false,
+				"Mode": 0,
+				"MaxUses": 0,
+				"CoolDown": 0
+			}
+		]
+	},
+    {
+		"Name": "Asuna",
+		"ShortName": "Asuna",
+		"Color": "{default}",
+		"HammerID": 11546,
+		"GlowColor": [255,255,255,255],
+		"FilterID": 0,
+		"FilterValue": "",
+		"BlockPickup": false,
+		"AllowTransfer": false,
+		"ForceDrop": false,
+		"Chat": true,
+		"Hud": true,
+		"TriggerID": 0,
+		"UsePriority": false,
+		"AbilityList": [
+            {
+				"Name": "攻击1",
+				"ButtonID": 0,
+				"ButtonClass": "game_ui::PressedAttack",
+				"Chat_Uses": false,
+				"Mode": 2,
+				"MaxUses": 0,
+				"CoolDown": 2
+			},
+			{
+				"Name": "攻击2",
+				"ButtonID": 0,
+				"ButtonClass": "game_ui::PressedAttack2",
+				"Chat_Uses": false,
+				"Mode": 2,
+				"MaxUses": 0,
+				"CoolDown": 6
+			},
+            {
+				"Name": "技能",
+				"ButtonID": 0,
+				"ButtonClass": "func_button",
+				"Chat_Uses": true,
+				"Mode": 4,
+				"MaxUses": 2,
+				"CoolDown": 60
+			}
+		]
+	},
+    {
+		"Name": "水晶1/S1_Crystal",
+		"ShortName": "水晶",
+		"Color": "{default}",
+		"HammerID": 6723,
+		"GlowColor": [255,255,255,255],
+		"FilterID": 0,
+		"FilterValue": "",
+		"BlockPickup": false,
+		"AllowTransfer": true,
+		"ForceDrop": false,
+		"Chat": true,
+		"Hud": true,
+		"TriggerID": 0,
+		"UsePriority": true,
+		"AbilityList": [
+			{
+				"Name": "",
+				"ButtonID": 0,
+				"ButtonClass": "",
+				"Chat_Uses": false,
+				"Mode": 0,
+				"MaxUses": 0,
+				"CoolDown": 0
+			}
+		]
+	},
+    {
+		"Name": "水晶5/S5_Crystal",
+		"ShortName": "水晶",
+		"Color": "{default}",
+		"HammerID": 10679,
+		"GlowColor": [255,255,255,255],
+		"FilterID": 0,
+		"FilterValue": "",
+		"BlockPickup": false,
+		"AllowTransfer": true,
+		"ForceDrop": false,
+		"Chat": true,
+		"Hud": true,
+		"TriggerID": 0,
+		"UsePriority": true,
+		"AbilityList": [
+			{
+				"Name": "",
+				"ButtonID": 0,
+				"ButtonClass": "",
+				"Chat_Uses": false,
+				"Mode": 0,
+				"MaxUses": 0,
+				"CoolDown": 0
+			}
+		]
+	},
+    {
+		"Name": "Alice",
+		"ShortName": "Alice",
+		"Color": "{default}",
+		"HammerID": 11645,
+		"GlowColor": [255,255,255,255],
+		"FilterID": 0,
+		"FilterValue": "",
+		"BlockPickup": false,
+		"AllowTransfer": false,
+		"ForceDrop": false,
+		"Chat": true,
+		"Hud": true,
+		"TriggerID": 0,
+		"UsePriority": false,
+		"AbilityList": [
+			{
+				"Name": "技能",
+				"ButtonID": 0,
+				"ButtonClass": "game_ui::PressedBack",
+				"Chat_Uses": true,
+				"Mode": 2,
+				"MaxUses": 0,
+				"CoolDown": 60
+			}
+		]
 	}
 ]
