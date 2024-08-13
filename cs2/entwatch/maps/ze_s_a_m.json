@@ -374,8 +374,26 @@
 		"TriggerID": 0,
 		"UsePriority": false,
 		"AbilityList": [
-            {
+			{
 				"Name": "",
+				"ButtonID": 0,
+				"ButtonClass": "game_ui::PressedAttack",
+				"Chat_Uses": false,
+				"Mode": 2,
+				"MaxUses": 0,
+				"CoolDown": 2
+			},
+			{
+				"Name": "",
+				"ButtonID": 0,
+				"ButtonClass": "game_ui::PressedAttack2",
+				"Chat_Uses": false,
+				"Mode": 2,
+				"MaxUses": 0,
+				"CoolDown": 8
+			},
+            {
+				"Name": "大招",
 				"ButtonID": 0,
 				"ButtonClass": "func_button",
 				"Chat_Uses": true,
