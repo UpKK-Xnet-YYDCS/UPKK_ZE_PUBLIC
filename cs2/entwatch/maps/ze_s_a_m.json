@@ -231,7 +231,7 @@
 		"UsePriority": true,
 		"AbilityList": [
 			{
-				"Name": "技能1",
+				"Name": "",
 				"ButtonID": 7428,
 				"ButtonClass": "func_button",
 				"Chat_Uses": true,
@@ -239,8 +239,8 @@
 				"MaxUses": 0,
 				"CoolDown": 80
 			},
-            {
-				"Name": "技能2",
+			{
+				"Name": "",
 				"ButtonID": 7438,
 				"ButtonClass": "func_button",
 				"Chat_Uses": true,
@@ -267,7 +267,7 @@
 		"UsePriority": true,
 		"AbilityList": [
 			{
-				"Name": "技能1",
+				"Name": "",
 				"ButtonID": 7460,
 				"ButtonClass": "func_button",
 				"Chat_Uses": true,
@@ -275,8 +275,8 @@
 				"MaxUses": 0,
 				"CoolDown": 80
 			},
-            {
-				"Name": "技能2",
+			{
+				"Name": "",
 				"ButtonID": 7469,
 				"ButtonClass": "func_button",
 				"Chat_Uses": true,
@@ -303,7 +303,7 @@
 		"UsePriority": true,
 		"AbilityList": [
 			{
-				"Name": "技能1",
+				"Name": "",
 				"ButtonID": 7498,
 				"ButtonClass": "func_button",
 				"Chat_Uses": true,
@@ -311,8 +311,8 @@
 				"MaxUses": 0,
 				"CoolDown": 80
 			},
-            {
-				"Name": "技能2",
+			{
+				"Name": "",
 				"ButtonID": 7508,
 				"ButtonClass": "func_button",
 				"Chat_Uses": true,
@@ -339,7 +339,7 @@
 		"UsePriority": true,
 		"AbilityList": [
 			{
-				"Name": "技能1",
+				"Name": "",
 				"ButtonID": 7527,
 				"ButtonClass": "func_button",
 				"Chat_Uses": true,
@@ -347,8 +347,8 @@
 				"MaxUses": 0,
 				"CoolDown": 80
 			},
-            {
-				"Name": "技能2",
+			{
+				"Name": "",
 				"ButtonID": 7536,
 				"ButtonClass": "func_button",
 				"Chat_Uses": true,
@@ -376,8 +376,17 @@
 		"AbilityList": [
 			{
 				"Name": "",
+				"ButtonID": 7575,
+				"ButtonClass": "func_button",
+				"Chat_Uses": true,
+				"Mode": 4,
+				"MaxUses": 3,
+				"CoolDown": 60
+			},
+			{
+				"Name": "",
 				"ButtonID": 0,
-				"ButtonClass": "game_ui::PressedAttack",
+				"ButtonClass": "game_ui:PressedAttack",
 				"Chat_Uses": false,
 				"Mode": 2,
 				"MaxUses": 0,
@@ -391,15 +400,6 @@
 				"Mode": 2,
 				"MaxUses": 0,
 				"CoolDown": 8
-			},
-            {
-				"Name": "大招",
-				"ButtonID": 7575,
-				"ButtonClass": "func_button",
-				"Chat_Uses": true,
-				"Mode": 4,
-				"MaxUses": 3,
-				"CoolDown": 60
 			}
 		]
 	},
@@ -446,14 +446,32 @@
 		"TriggerID": 0,
 		"UsePriority": false,
 		"AbilityList": [
-            {
+			{
 				"Name": "",
 				"ButtonID": 0,
-				"ButtonClass": "",
+				"ButtonClass": "func_button",
+				"Chat_Uses": true,
+				"Mode": 4,
+				"MaxUses": 2,
+				"CoolDown": 60
+			},
+			{
+				"Name": "",
+				"ButtonID": 0,
+				"ButtonClass": "game_ui::PressedAttack",
 				"Chat_Uses": false,
-				"Mode": 1,
+				"Mode": 2,
 				"MaxUses": 0,
-				"CoolDown": 0
+				"CoolDown": 2
+			},
+			{
+				"Name": "",
+				"ButtonID": 0,
+				"ButtonClass": "game_ui::PressedAttack2",
+				"Chat_Uses": false,
+				"Mode": 2,
+				"MaxUses": 0,
+				"CoolDown": 6
 			}
 		]
 	},
