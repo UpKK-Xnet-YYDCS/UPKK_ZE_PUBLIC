@@ -322,59 +322,5 @@
 				"CoolDown": 0
 			}
 		]
-	},
-	{
-		"Name": "ZM陆行鸟",
-		"ShortName": "ZM陆行鸟",
-		"Color": "{pink}",
-		"HammerID": 1354,
-		"GlowColor": [255,255,255,255],
-		"FilterID": 0,
-		"FilterValue": "",
-		"BlockPickup": false,
-		"AllowTransfer": false,
-		"ForceDrop": true,
-		"Chat": true,
-		"Hud": true,
-		"TriggerID": 0,
-		"UsePriority": true,
-		"AbilityList": [
-			{
-				"Name": "",
-				"ButtonID": 0,
-				"ButtonClass": "func_button",
-				"Chat_Uses": true,
-				"Mode": 1,
-				"MaxUses": 0,
-				"CoolDown": 0
-			}
-		]
-	},
-	{
-		"Name": "ZM超级僵尸",
-		"ShortName": "ZM超级僵尸",
-		"Color": "{pink}",
-		"HammerID": 1264,
-		"GlowColor": [255,255,255,255],
-		"FilterID": 0,
-		"FilterValue": "",
-		"BlockPickup": false,
-		"AllowTransfer": false,
-		"ForceDrop": true,
-		"Chat": true,
-		"Hud": true,
-		"TriggerID": 0,
-		"UsePriority": true,
-		"AbilityList": [
-			{
-				"Name": "",
-				"ButtonID": 0,
-				"ButtonClass": "func_button",
-				"Chat_Uses": true,
-				"Mode": 1,
-				"MaxUses": 0,
-				"CoolDown": 0
-			}
-		]
 	}
 ]
