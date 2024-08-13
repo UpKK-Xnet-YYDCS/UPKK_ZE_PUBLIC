@@ -405,8 +405,8 @@
 		]
 	},
     {
-		"Name": "fashi_weapon",
-		"ShortName": "fashi_weapon",
+		"Name": "圣女",
+		"ShortName": "圣女",
 		"Color": "{default}",
 		"HammerID": 16038,
 		"GlowColor": [255,255,255,255],
@@ -423,17 +423,17 @@
 			{
 				"Name": "",
 				"ButtonID": 0,
-				"ButtonClass": "game_ui::PressedAttack2",
-				"Chat_Uses": true,
-				"Mode": 2,
+				"ButtonClass": "",
+				"Chat_Uses": false,
+				"Mode": 1,
 				"MaxUses": 0,
-				"CoolDown": 80
+				"CoolDown": 0
 			}
 		]
 	},
     {
-		"Name": "laozhe_weapon",
-		"ShortName": "laozhe_weapon",
+		"Name": "隐秘老者",
+		"ShortName": "隐秘老者",
 		"Color": "{default}",
 		"HammerID": 16072,
 		"GlowColor": [255,255,255,255],
@@ -468,8 +468,8 @@
 		]
 	},
     {
-		"Name": "heiyan_weapon",
-		"ShortName": "heiyan_weapon",
+		"Name": "Heiyan",
+		"ShortName": "Heiyan",
 		"Color": "{default}",
 		"HammerID": 16128,
 		"GlowColor": [255,255,255,255],
