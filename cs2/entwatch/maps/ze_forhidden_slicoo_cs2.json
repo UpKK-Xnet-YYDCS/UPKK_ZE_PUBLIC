@@ -270,8 +270,8 @@
 		]
 	},
     {
-		"Name": "附魔SSG08",
-		"ShortName": "附魔SSG08",
+		"Name": "重力弓",
+		"ShortName": "重力弓",
 		"Color": "{default}",
 		"HammerID": 4207,
 		"GlowColor": [255,255,255,255],
@@ -369,7 +369,7 @@
 			{
 				"Name": "",
 				"ButtonID": 0,
-				"ButtonClass": "func_button",
+				"ButtonClass": "",
 				"Chat_Uses": false,
 				"Mode": 1,
 				"MaxUses": 0,
