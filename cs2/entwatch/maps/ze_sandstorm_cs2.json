@@ -174,11 +174,11 @@
 		"ForceDrop": true,
 		"Chat": true,
 		"Hud": true,
-		"TriggerID": 0,
+		"TriggerID": 11896,
 		"UsePriority": false,
 		"AbilityList": [
 			{
-				"Name": "Attack",
+				"Name": "",
 				"ButtonID": 0,
 				"ButtonClass": "game_ui::PressedAttack",
 				"Chat_Uses": false,
@@ -187,7 +187,7 @@
 				"CoolDown": 2
 			},
 			{
-				"Name": "Jump",
+				"Name": "",
 				"ButtonID": 0,
 				"ButtonClass": "game_ui::PressedAttack2",
 				"Chat_Uses": true,
