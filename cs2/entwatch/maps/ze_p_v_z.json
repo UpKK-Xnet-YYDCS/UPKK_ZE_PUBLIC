@@ -135,87 +135,6 @@
 		]
 	},
 	{
-		"Name": "铁栅门僵尸/Screen Door Zombie",
-		"ShortName": "铁栅门僵尸",
-		"Color": "{default}",
-		"HammerID": 560,
-		"GlowColor": [255,0,0,255],
-		"FilterID": 0,
-		"FilterValue": "",
-		"BlockPickup": false,
-		"AllowTransfer": true,
-		"ForceDrop": false,
-		"Chat": true,
-		"Hud": true,
-		"TriggerID": 591,
-		"UsePriority": true,
-		"AbilityList": [
-			{
-				"Name": "",
-				"ButtonID": 0,
-				"ButtonClass": "",
-				"Chat_Uses": false,
-				"Mode": 0,
-				"MaxUses": 0,
-				"CoolDown": 0
-			}
-		]
-	},
-	{
-		"Name": "读报僵尸/Newspaper Zombie",
-		"ShortName": "读报僵尸",
-		"Color": "{default}",
-		"HammerID": 564,
-		"GlowColor": [255,0,0,255],
-		"FilterID": 0,
-		"FilterValue": "",
-		"BlockPickup": false,
-		"AllowTransfer": true,
-		"ForceDrop": false,
-		"Chat": true,
-		"Hud": true,
-		"TriggerID": 593,
-		"UsePriority": true,
-		"AbilityList": [
-			{
-				"Name": "",
-				"ButtonID": 0,
-				"ButtonClass": "",
-				"Chat_Uses": false,
-				"Mode": 0,
-				"MaxUses": 0,
-				"CoolDown": 0
-			}
-		]
-	},
-	{
-		"Name": "雪橇车僵尸/Zomboni",
-		"ShortName": "雪橇车僵尸",
-		"Color": "{default}",
-		"HammerID": 570,
-		"GlowColor": [255,0,0,255],
-		"FilterID": 0,
-		"FilterValue": "",
-		"BlockPickup": false,
-		"AllowTransfer": true,
-		"ForceDrop": false,
-		"Chat": true,
-		"Hud": true,
-		"TriggerID": 595,
-		"UsePriority": true,
-		"AbilityList": [
-			{
-				"Name": "",
-				"ButtonID": 0,
-				"ButtonClass": "",
-				"Chat_Uses": false,
-				"Mode": 0,
-				"MaxUses": 0,
-				"CoolDown": 0
-			}
-		]
-	},
-	{
 		"Name": "寒冰菇/Ice shroom",
 		"ShortName": "寒冰菇",
 		"Color": "{default}",
@@ -229,60 +148,6 @@
 		"Chat": true,
 		"Hud": true,
 		"TriggerID": 0,
-		"UsePriority": true,
-		"AbilityList": [
-			{
-				"Name": "",
-				"ButtonID": 0,
-				"ButtonClass": "func_button",
-				"Chat_Uses": true,
-				"Mode": 3,
-				"MaxUses": 1,
-				"CoolDown": 0
-			}
-		]
-	},
-	{
-		"Name": "豌豆射手僵尸/Peashooter Zombie",
-		"ShortName": "豌豆射手僵尸",
-		"Color": "{default}",
-		"HammerID": 669,
-		"GlowColor": [255,0,0,255],
-		"FilterID": 0,
-		"FilterValue": "",
-		"BlockPickup": false,
-		"AllowTransfer": true,
-		"ForceDrop": false,
-		"Chat": true,
-		"Hud": true,
-		"TriggerID": 672,
-		"UsePriority": true,
-		"AbilityList": [
-			{
-				"Name": "",
-				"ButtonID": 0,
-				"ButtonClass": "func_button",
-				"Chat_Uses": false,
-				"Mode": 2,
-				"MaxUses": 0,
-				"CoolDown": 8
-			}
-		]
-	},
-	{
-		"Name": "玩偶匣僵尸/Jack in the Box Zombie",
-		"ShortName": "玩偶匣僵尸",
-		"Color": "{default}",
-		"HammerID": 726,
-		"GlowColor": [255,0,0,255],
-		"FilterID": 0,
-		"FilterValue": "",
-		"BlockPickup": false,
-		"AllowTransfer": true,
-		"ForceDrop": false,
-		"Chat": true,
-		"Hud": true,
-		"TriggerID": 727,
 		"UsePriority": true,
 		"AbilityList": [
 			{
@@ -513,33 +378,6 @@
 		]
 	},
 	{
-		"Name": "旗帜僵尸/Flag Zombie",
-		"ShortName": "旗帜僵尸",
-		"Color": "{default}",
-		"HammerID": 4214,
-		"GlowColor": [255,0,0,255],
-		"FilterID": 0,
-		"FilterValue": "",
-		"BlockPickup": false,
-		"AllowTransfer": true,
-		"ForceDrop": false,
-		"Chat": true,
-		"Hud": true,
-		"TriggerID": 4215,
-		"UsePriority": true,
-		"AbilityList": [
-			{
-				"Name": "",
-				"ButtonID": 0,
-				"ButtonClass": "func_button",
-				"Chat_Uses": true,
-				"Mode": 2,
-				"MaxUses": 0,
-				"CoolDown": 75
-			}
-		]
-	},
-	{
 		"Name": "西瓜投手/Melon pult",
 		"ShortName": "西瓜投手",
 		"Color": "{default}",
@@ -590,6 +428,168 @@
 				"Mode": 2,
 				"MaxUses": 0,
 				"CoolDown": 8
+			}
+		]
+	},
+	{
+		"Name": "铁栅门僵尸/Screen Door Zombie",
+		"ShortName": "铁栅门僵尸",
+		"Color": "{default}",
+		"HammerID": 560,
+		"GlowColor": [255,0,0,255],
+		"FilterID": 0,
+		"FilterValue": "",
+		"BlockPickup": false,
+		"AllowTransfer": true,
+		"ForceDrop": false,
+		"Chat": true,
+		"Hud": true,
+		"TriggerID": 591,
+		"UsePriority": true,
+		"AbilityList": [
+			{
+				"Name": "",
+				"ButtonID": 0,
+				"ButtonClass": "",
+				"Chat_Uses": false,
+				"Mode": 0,
+				"MaxUses": 0,
+				"CoolDown": 0
+			}
+		]
+	},
+	{
+		"Name": "读报僵尸/Newspaper Zombie",
+		"ShortName": "读报僵尸",
+		"Color": "{default}",
+		"HammerID": 564,
+		"GlowColor": [255,0,0,255],
+		"FilterID": 0,
+		"FilterValue": "",
+		"BlockPickup": false,
+		"AllowTransfer": true,
+		"ForceDrop": false,
+		"Chat": true,
+		"Hud": true,
+		"TriggerID": 593,
+		"UsePriority": true,
+		"AbilityList": [
+			{
+				"Name": "",
+				"ButtonID": 0,
+				"ButtonClass": "",
+				"Chat_Uses": false,
+				"Mode": 0,
+				"MaxUses": 0,
+				"CoolDown": 0
+			}
+		]
+	},
+	{
+		"Name": "雪橇车僵尸/Zomboni",
+		"ShortName": "雪橇车僵尸",
+		"Color": "{default}",
+		"HammerID": 570,
+		"GlowColor": [255,0,0,255],
+		"FilterID": 0,
+		"FilterValue": "",
+		"BlockPickup": false,
+		"AllowTransfer": true,
+		"ForceDrop": false,
+		"Chat": true,
+		"Hud": true,
+		"TriggerID": 595,
+		"UsePriority": true,
+		"AbilityList": [
+			{
+				"Name": "",
+				"ButtonID": 0,
+				"ButtonClass": "",
+				"Chat_Uses": false,
+				"Mode": 0,
+				"MaxUses": 0,
+				"CoolDown": 0
+			}
+		]
+	},
+	{
+		"Name": "豌豆射手僵尸/Peashooter Zombie",
+		"ShortName": "豌豆射手僵尸",
+		"Color": "{default}",
+		"HammerID": 669,
+		"GlowColor": [255,0,0,255],
+		"FilterID": 0,
+		"FilterValue": "",
+		"BlockPickup": false,
+		"AllowTransfer": true,
+		"ForceDrop": false,
+		"Chat": true,
+		"Hud": true,
+		"TriggerID": 672,
+		"UsePriority": true,
+		"AbilityList": [
+			{
+				"Name": "",
+				"ButtonID": 0,
+				"ButtonClass": "func_button",
+				"Chat_Uses": false,
+				"Mode": 2,
+				"MaxUses": 0,
+				"CoolDown": 8
+			}
+		]
+	},
+	{
+		"Name": "玩偶匣僵尸/Jack in the Box Zombie",
+		"ShortName": "玩偶匣僵尸",
+		"Color": "{default}",
+		"HammerID": 726,
+		"GlowColor": [255,0,0,255],
+		"FilterID": 0,
+		"FilterValue": "",
+		"BlockPickup": false,
+		"AllowTransfer": true,
+		"ForceDrop": false,
+		"Chat": true,
+		"Hud": true,
+		"TriggerID": 727,
+		"UsePriority": true,
+		"AbilityList": [
+			{
+				"Name": "",
+				"ButtonID": 0,
+				"ButtonClass": "func_button",
+				"Chat_Uses": true,
+				"Mode": 3,
+				"MaxUses": 1,
+				"CoolDown": 0
+			}
+		]
+	},
+	{
+		"Name": "旗帜僵尸/Flag Zombie",
+		"ShortName": "旗帜僵尸",
+		"Color": "{default}",
+		"HammerID": 4214,
+		"GlowColor": [255,0,0,255],
+		"FilterID": 0,
+		"FilterValue": "",
+		"BlockPickup": false,
+		"AllowTransfer": true,
+		"ForceDrop": false,
+		"Chat": true,
+		"Hud": true,
+		"TriggerID": 4215,
+		"UsePriority": true,
+		"AbilityList": [
+			{
+				"Name": "",
+				"ButtonID": 0,
+				"ButtonClass": "func_button",
+				"Chat_Uses": true,
+				"Mode": 2,
+				"MaxUses": 0,
+				"CoolDown": 75
 			}
 		]
 	}
