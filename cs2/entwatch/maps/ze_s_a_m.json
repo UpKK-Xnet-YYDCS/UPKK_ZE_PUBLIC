@@ -214,6 +214,168 @@
 			}
 		]
 	},
+	{
+		"Name": "火把/Torch",
+		"ShortName": "火把",
+		"Color": "{default}",
+		"HammerID": 10860,
+		"GlowColor": [255,255,255,255],
+		"FilterID": 0,
+		"FilterValue": "",
+		"BlockPickup": false,
+		"AllowTransfer": true,
+		"ForceDrop": false,
+		"Chat": true,
+		"Hud": true,
+		"TriggerID": 0,
+		"UsePriority": true,
+		"AbilityList": [
+			{
+				"Name": "",
+				"ButtonID": 0,
+				"ButtonClass": "",
+				"Chat_Uses": false,
+				"Mode": 0,
+				"MaxUses": 0,
+				"CoolDown": 0
+			}
+		]
+	},
+	{
+		"Name": "Kirito",
+		"ShortName": "Kirito",
+		"Color": "{default}",
+		"HammerID": 11545,
+		"GlowColor": [255,255,255,255],
+		"FilterID": 0,
+		"FilterValue": "",
+		"BlockPickup": false,
+		"AllowTransfer": false,
+		"ForceDrop": false,
+		"Chat": true,
+		"Hud": true,
+		"TriggerID": 0,
+		"UsePriority": false,
+		"AbilityList": [
+			{
+				"Name": "",
+				"ButtonID": 7575,
+				"ButtonClass": "func_button",
+				"Chat_Uses": true,
+				"Mode": 4,
+				"MaxUses": 3,
+				"CoolDown": 60
+			}
+		]
+	},
+    {
+		"Name": "Asuna",
+		"ShortName": "Asuna",
+		"Color": "{default}",
+		"HammerID": 11546,
+		"GlowColor": [255,255,255,255],
+		"FilterID": 0,
+		"FilterValue": "",
+		"BlockPickup": false,
+		"AllowTransfer": false,
+		"ForceDrop": false,
+		"Chat": true,
+		"Hud": true,
+		"TriggerID": 0,
+		"UsePriority": false,
+		"AbilityList": [
+			{
+				"Name": "",
+				"ButtonID": 11115,
+				"ButtonClass": "func_button",
+				"Chat_Uses": true,
+				"Mode": 4,
+				"MaxUses": 2,
+				"CoolDown": 60
+			}
+		]
+	},
+    {
+		"Name": "水晶1/S1_Crystal",
+		"ShortName": "水晶1",
+		"Color": "{default}",
+		"HammerID": 6723,
+		"GlowColor": [255,255,255,255],
+		"FilterID": 0,
+		"FilterValue": "",
+		"BlockPickup": false,
+		"AllowTransfer": true,
+		"ForceDrop": false,
+		"Chat": true,
+		"Hud": true,
+		"TriggerID": 0,
+		"UsePriority": true,
+		"AbilityList": [
+			{
+				"Name": "",
+				"ButtonID": 0,
+				"ButtonClass": "",
+				"Chat_Uses": false,
+				"Mode": 0,
+				"MaxUses": 0,
+				"CoolDown": 0
+			}
+		]
+	},
+    {
+		"Name": "水晶5/S5_Crystal",
+		"ShortName": "水晶5",
+		"Color": "{default}",
+		"HammerID": 10679,
+		"GlowColor": [255,255,255,255],
+		"FilterID": 0,
+		"FilterValue": "",
+		"BlockPickup": false,
+		"AllowTransfer": true,
+		"ForceDrop": false,
+		"Chat": true,
+		"Hud": true,
+		"TriggerID": 0,
+		"UsePriority": true,
+		"AbilityList": [
+			{
+				"Name": "",
+				"ButtonID": 0,
+				"ButtonClass": "",
+				"Chat_Uses": false,
+				"Mode": 0,
+				"MaxUses": 0,
+				"CoolDown": 0
+			}
+		]
+	},
+    {
+		"Name": "Alice",
+		"ShortName": "Alice",
+		"Color": "{default}",
+		"HammerID": 11645,
+		"GlowColor": [255,255,255,255],
+		"FilterID": 0,
+		"FilterValue": "",
+		"BlockPickup": false,
+		"AllowTransfer": false,
+		"ForceDrop": false,
+		"Chat": true,
+		"Hud": true,
+		"TriggerID": 0,
+		"UsePriority": false,
+		"AbilityList": [
+			{
+				"Name": "",
+				"ButtonID": 0,
+				"ButtonClass": "",
+				"Chat_Uses": false,
+				"Mode": 1,
+				"MaxUses": 0,
+				"CoolDown": 0
+			}
+		]
+	},
     {
 		"Name": "ZM 冰/ZM Ice",
 		"ShortName": "ZM 冰",
@@ -355,168 +517,6 @@
 				"Mode": 2,
 				"MaxUses": 0,
 				"CoolDown": 60
-			}
-		]
-	},
-    {
-		"Name": "Kirito",
-		"ShortName": "Kirito",
-		"Color": "{default}",
-		"HammerID": 11545,
-		"GlowColor": [255,255,255,255],
-		"FilterID": 0,
-		"FilterValue": "",
-		"BlockPickup": false,
-		"AllowTransfer": false,
-		"ForceDrop": false,
-		"Chat": true,
-		"Hud": true,
-		"TriggerID": 0,
-		"UsePriority": false,
-		"AbilityList": [
-			{
-				"Name": "",
-				"ButtonID": 7575,
-				"ButtonClass": "func_button",
-				"Chat_Uses": true,
-				"Mode": 4,
-				"MaxUses": 3,
-				"CoolDown": 60
-			}
-		]
-	},
-    {
-		"Name": "火把/Torch",
-		"ShortName": "火把",
-		"Color": "{default}",
-		"HammerID": 10860,
-		"GlowColor": [255,255,255,255],
-		"FilterID": 0,
-		"FilterValue": "",
-		"BlockPickup": false,
-		"AllowTransfer": true,
-		"ForceDrop": false,
-		"Chat": true,
-		"Hud": true,
-		"TriggerID": 0,
-		"UsePriority": true,
-		"AbilityList": [
-			{
-				"Name": "",
-				"ButtonID": 0,
-				"ButtonClass": "",
-				"Chat_Uses": false,
-				"Mode": 0,
-				"MaxUses": 0,
-				"CoolDown": 0
-			}
-		]
-	},
-    {
-		"Name": "Asuna",
-		"ShortName": "Asuna",
-		"Color": "{default}",
-		"HammerID": 11546,
-		"GlowColor": [255,255,255,255],
-		"FilterID": 0,
-		"FilterValue": "",
-		"BlockPickup": false,
-		"AllowTransfer": false,
-		"ForceDrop": false,
-		"Chat": true,
-		"Hud": true,
-		"TriggerID": 0,
-		"UsePriority": false,
-		"AbilityList": [
-			{
-				"Name": "",
-				"ButtonID": 11115,
-				"ButtonClass": "func_button",
-				"Chat_Uses": true,
-				"Mode": 4,
-				"MaxUses": 2,
-				"CoolDown": 60
-			}
-		]
-	},
-    {
-		"Name": "水晶1/S1_Crystal",
-		"ShortName": "水晶",
-		"Color": "{default}",
-		"HammerID": 6723,
-		"GlowColor": [255,255,255,255],
-		"FilterID": 0,
-		"FilterValue": "",
-		"BlockPickup": false,
-		"AllowTransfer": true,
-		"ForceDrop": false,
-		"Chat": true,
-		"Hud": true,
-		"TriggerID": 0,
-		"UsePriority": true,
-		"AbilityList": [
-			{
-				"Name": "",
-				"ButtonID": 0,
-				"ButtonClass": "",
-				"Chat_Uses": false,
-				"Mode": 0,
-				"MaxUses": 0,
-				"CoolDown": 0
-			}
-		]
-	},
-    {
-		"Name": "水晶5/S5_Crystal",
-		"ShortName": "水晶",
-		"Color": "{default}",
-		"HammerID": 10679,
-		"GlowColor": [255,255,255,255],
-		"FilterID": 0,
-		"FilterValue": "",
-		"BlockPickup": false,
-		"AllowTransfer": true,
-		"ForceDrop": false,
-		"Chat": true,
-		"Hud": true,
-		"TriggerID": 0,
-		"UsePriority": true,
-		"AbilityList": [
-			{
-				"Name": "",
-				"ButtonID": 0,
-				"ButtonClass": "",
-				"Chat_Uses": false,
-				"Mode": 0,
-				"MaxUses": 0,
-				"CoolDown": 0
-			}
-		]
-	},
-    {
-		"Name": "Alice",
-		"ShortName": "Alice",
-		"Color": "{default}",
-		"HammerID": 11645,
-		"GlowColor": [255,255,255,255],
-		"FilterID": 0,
-		"FilterValue": "",
-		"BlockPickup": false,
-		"AllowTransfer": false,
-		"ForceDrop": false,
-		"Chat": true,
-		"Hud": true,
-		"TriggerID": 0,
-		"UsePriority": false,
-		"AbilityList": [
-			{
-				"Name": "",
-				"ButtonID": 0,
-				"ButtonClass": "",
-				"Chat_Uses": false,
-				"Mode": 1,
-				"MaxUses": 0,
-				"CoolDown": 0
 			}
 		]
 	}
