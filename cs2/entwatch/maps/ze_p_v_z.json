@@ -1,6 +1,6 @@
 [
 	{
-		"Name": "向日葵/Sunflower",
+		"Name": "向日葵",
 		"ShortName": "向日葵",
 		"Color": "{default}",
 		"HammerID": 498,
@@ -13,7 +13,7 @@
 		"Chat": true,
 		"Hud": true,
 		"TriggerID": 0,
-		"UsePriority": false,
+		"UsePriority": true,
 		"AbilityList": [
 			{
 				"Name": "",
@@ -23,6 +23,600 @@
 				"Mode": 2,
 				"MaxUses": 0,
 				"CoolDown": 30
+			}
+		]
+	},
+	{
+		"Name": "土/Earth Magic",
+		"ShortName": "土",
+		"Color": "{default}",
+		"HammerID": 7218,
+		"GlowColor": [255,255,255,255],
+		"FilterID": 0,
+		"FilterValue": "",
+		"BlockPickup": false,
+		"AllowTransfer": true,
+		"ForceDrop": false,
+		"Chat": true,
+		"Hud": true,
+		"TriggerID": 0,
+		"UsePriority": true,
+		"AbilityList": [
+			{
+				"Name": "",
+				"ButtonID": 0,
+				"ButtonClass": "func_button",
+				"Chat_Uses": true,
+				"Mode": 2,
+				"MaxUses": 0,
+				"CoolDown": 60
+			}
+		]
+	},
+	{
+		"Name": "豌豆射手/Peashooter",
+		"ShortName": "豌豆射手",
+		"Color": "{default}",
+		"HammerID": 502,
+		"GlowColor": [255,255,255,255],
+		"FilterID": 0,
+		"FilterValue": "",
+		"BlockPickup": false,
+		"AllowTransfer": true,
+		"ForceDrop": false,
+		"Chat": true,
+		"Hud": true,
+		"TriggerID": 0,
+		"UsePriority": true,
+		"AbilityList": [
+			{
+				"Name": "",
+				"ButtonID": 0,
+				"ButtonClass": "func_button",
+				"Chat_Uses": false,
+				"Mode": 2,
+				"MaxUses": 0,
+				"CoolDown": 6
+			}
+		]
+	},
+	{
+		"Name": "坚果墙/Wall nut",
+		"ShortName": "坚果墙",
+		"Color": "{default}",
+		"HammerID": 516,
+		"GlowColor": [255,255,255,255],
+		"FilterID": 0,
+		"FilterValue": "",
+		"BlockPickup": false,
+		"AllowTransfer": true,
+		"ForceDrop": false,
+		"Chat": true,
+		"Hud": true,
+		"TriggerID": 0,
+		"UsePriority": true,
+		"AbilityList": [
+			{
+				"Name": "",
+				"ButtonID": 0,
+				"ButtonClass": "func_button",
+				"Chat_Uses": true,
+				"Mode": 2,
+				"MaxUses": 0,
+				"CoolDown": 60
+			}
+		]
+	},
+	{
+		"Name": "土豆雷/Potato Mine",
+		"ShortName": "土豆雷",
+		"Color": "{default}",
+		"HammerID": 525,
+		"GlowColor": [255,255,255,255],
+		"FilterID": 0,
+		"FilterValue": "",
+		"BlockPickup": false,
+		"AllowTransfer": true,
+		"ForceDrop": false,
+		"Chat": true,
+		"Hud": true,
+		"TriggerID": 0,
+		"UsePriority": true,
+		"AbilityList": [
+			{
+				"Name": "",
+				"ButtonID": 0,
+				"ButtonClass": "func_button",
+				"Chat_Uses": true,
+				"Mode": 2,
+				"MaxUses": 0,
+				"CoolDown": 45
+			}
+		]
+	},
+	{
+		"Name": "毁灭菇/Doom shroom",
+		"ShortName": "毁灭菇",
+		"Color": "{default}",
+		"HammerID": 537,
+		"GlowColor": [255,255,255,255],
+		"FilterID": 0,
+		"FilterValue": "",
+		"BlockPickup": false,
+		"AllowTransfer": true,
+		"ForceDrop": false,
+		"Chat": true,
+		"Hud": true,
+		"TriggerID": 0,
+		"UsePriority": true,
+		"AbilityList": [
+			{
+				"Name": "",
+				"ButtonID": 0,
+				"ButtonClass": "func_button",
+				"Chat_Uses": true,
+				"Mode": 3,
+				"MaxUses": 1,
+				"CoolDown": 0
+			}
+		]
+	},
+	{
+		"Name": "寒冰菇/Ice shroom",
+		"ShortName": "寒冰菇",
+		"Color": "{default}",
+		"HammerID": 645,
+		"GlowColor": [255,255,255,255],
+		"FilterID": 0,
+		"FilterValue": "",
+		"BlockPickup": false,
+		"AllowTransfer": true,
+		"ForceDrop": false,
+		"Chat": true,
+		"Hud": true,
+		"TriggerID": 0,
+		"UsePriority": true,
+		"AbilityList": [
+			{
+				"Name": "",
+				"ButtonID": 0,
+				"ButtonClass": "func_button",
+				"Chat_Uses": true,
+				"Mode": 3,
+				"MaxUses": 1,
+				"CoolDown": 0
+			}
+		]
+	},
+	{
+		"Name": "包裹/Package",
+		"ShortName": "包裹",
+		"Color": "{default}",
+		"HammerID": 957,
+		"GlowColor": [255,255,255,255],
+		"FilterID": 0,
+		"FilterValue": "",
+		"BlockPickup": false,
+		"AllowTransfer": true,
+		"ForceDrop": false,
+		"Chat": true,
+		"Hud": true,
+		"TriggerID": 0,
+		"UsePriority": true,
+		"AbilityList": [
+			{
+				"Name": "",
+				"ButtonID": 0,
+				"ButtonClass": "",
+				"Chat_Uses": false,
+				"Mode": 0,
+				"MaxUses": 0,
+				"CoolDown": 0
+			}
+		]
+	},
+	{
+		"Name": "睡莲/Lily Pad",
+		"ShortName": "睡莲",
+		"Color": "{default}",
+		"HammerID": 1561,
+		"GlowColor": [255,255,255,255],
+		"FilterID": 0,
+		"FilterValue": "",
+		"BlockPickup": false,
+		"AllowTransfer": true,
+		"ForceDrop": false,
+		"Chat": true,
+		"Hud": true,
+		"TriggerID": 0,
+		"UsePriority": true,
+		"AbilityList": [
+			{
+				"Name": "",
+				"ButtonID": 0,
+				"ButtonClass": "func_button",
+				"Chat_Uses": true,
+				"Mode": 4,
+				"MaxUses": 4,
+				"CoolDown": 12
+			}
+		]
+	},
+	{
+		"Name": "大嘴花/Chomper",
+		"ShortName": "大嘴花",
+		"Color": "{default}",
+		"HammerID": 1585,
+		"GlowColor": [255,255,255,255],
+		"FilterID": 0,
+		"FilterValue": "",
+		"BlockPickup": false,
+		"AllowTransfer": true,
+		"ForceDrop": false,
+		"Chat": true,
+		"Hud": true,
+		"TriggerID": 0,
+		"UsePriority": true,
+		"AbilityList": [
+			{
+				"Name": "",
+				"ButtonID": 0,
+				"ButtonClass": "func_button",
+				"Chat_Uses": true,
+				"Mode": 2,
+				"MaxUses": 0,
+				"CoolDown": 65
+			}
+		]
+	},
+	{
+		"Name": "西瓜投手/Melon pult",
+		"ShortName": "西瓜投手",
+		"Color": "{default}",
+		"HammerID": 2884,
+		"GlowColor": [255,255,255,255],
+		"FilterID": 0,
+		"FilterValue": "",
+		"BlockPickup": false,
+		"AllowTransfer": true,
+		"ForceDrop": false,
+		"Chat": true,
+		"Hud": true,
+		"TriggerID": 0,
+		"UsePriority": true,
+		"AbilityList": [
+			{
+				"Name": "",
+				"ButtonID": 0,
+				"ButtonClass": "func_button",
+				"Chat_Uses": false,
+				"Mode": 2,
+				"MaxUses": 0,
+				"CoolDown": 15
+			}
+		]
+	},
+	{
+		"Name": "三叶草/Blover",
+		"ShortName": "三叶草",
+		"Color": "{default}",
+		"HammerID": 2902,
+		"GlowColor": [255,255,255,255],
+		"FilterID": 0,
+		"FilterValue": "",
+		"BlockPickup": false,
+		"AllowTransfer": true,
+		"ForceDrop": false,
+		"Chat": true,
+		"Hud": true,
+		"TriggerID": 0,
+		"UsePriority": true,
+		"AbilityList": [
+			{
+				"Name": "",
+				"ButtonID": 0,
+				"ButtonClass": "func_button",
+				"Chat_Uses": true,
+				"Mode": 2,
+				"MaxUses": 0,
+				"CoolDown": 65
+			}
+		]
+	},
+	{
+		"Name": "寒冰射手/Snow Pea",
+		"ShortName": "寒冰射手",
+		"Color": "{default}",
+		"HammerID": 3824,
+		"GlowColor": [255,255,255,255],
+		"FilterID": 0,
+		"FilterValue": "",
+		"BlockPickup": false,
+		"AllowTransfer": true,
+		"ForceDrop": false,
+		"Chat": true,
+		"Hud": true,
+		"TriggerID": 0,
+		"UsePriority": true,
+		"AbilityList": [
+			{
+				"Name": "",
+				"ButtonID": 0,
+				"ButtonClass": "func_button",
+				"Chat_Uses": false,
+				"Mode": 2,
+				"MaxUses": 0,
+				"CoolDown": 6
+			}
+		]
+	},
+	{
+		"Name": "火爆辣椒/Jalapeno",
+		"ShortName": "火爆辣椒",
+		"Color": "{default}",
+		"HammerID": 3878,
+		"GlowColor": [255,255,255,255],
+		"FilterID": 0,
+		"FilterValue": "",
+		"BlockPickup": false,
+		"AllowTransfer": true,
+		"ForceDrop": false,
+		"Chat": true,
+		"Hud": true,
+		"TriggerID": 0,
+		"UsePriority": true,
+		"AbilityList": [
+			{
+				"Name": "",
+				"ButtonID": 0,
+				"ButtonClass": "func_button",
+				"Chat_Uses": true,
+				"Mode": 2,
+				"MaxUses": 0,
+				"CoolDown": 75
+			}
+		]
+	},
+	{
+		"Name": "玉米投手/Kernel pult",
+		"ShortName": "玉米投手",
+		"Color": "{default}",
+		"HammerID": 4171,
+		"GlowColor": [255,255,255,255],
+		"FilterID": 0,
+		"FilterValue": "",
+		"BlockPickup": false,
+		"AllowTransfer": true,
+		"ForceDrop": false,
+		"Chat": true,
+		"Hud": true,
+		"TriggerID": 0,
+		"UsePriority": true,
+		"AbilityList": [
+			{
+				"Name": "",
+				"ButtonID": 0,
+				"ButtonClass": "func_button",
+				"Chat_Uses": false,
+				"Mode": 2,
+				"MaxUses": 0,
+				"CoolDown": 6
+			}
+		]
+	},
+	{
+		"Name": "西瓜投手/Melon pult",
+		"ShortName": "西瓜投手",
+		"Color": "{default}",
+		"HammerID": 4230,
+		"GlowColor": [255,255,255,255],
+		"FilterID": 0,
+		"FilterValue": "",
+		"BlockPickup": false,
+		"AllowTransfer": true,
+		"ForceDrop": false,
+		"Chat": true,
+		"Hud": true,
+		"TriggerID": 0,
+		"UsePriority": true,
+		"AbilityList": [
+			{
+				"Name": "",
+				"ButtonID": 0,
+				"ButtonClass": "func_button",
+				"Chat_Uses": false,
+				"Mode": 2,
+				"MaxUses": 0,
+				"CoolDown": 15
+			}
+		]
+	},
+	{
+		"Name": "大喷菇/Fume shroom",
+		"ShortName": "大喷菇",
+		"Color": "{default}",
+		"HammerID": 4766,
+		"GlowColor": [255,255,255,255],
+		"FilterID": 0,
+		"FilterValue": "",
+		"BlockPickup": false,
+		"AllowTransfer": true,
+		"ForceDrop": false,
+		"Chat": true,
+		"Hud": true,
+		"TriggerID": 0,
+		"UsePriority": true,
+		"AbilityList": [
+			{
+				"Name": "",
+				"ButtonID": 0,
+				"ButtonClass": "func_button",
+				"Chat_Uses": false,
+				"Mode": 2,
+				"MaxUses": 0,
+				"CoolDown": 8
+			}
+		]
+	},
+	{
+		"Name": "铁栅门僵尸/Screen Door Zombie",
+		"ShortName": "铁栅门僵尸",
+		"Color": "{default}",
+		"HammerID": 560,
+		"GlowColor": [255,0,0,255],
+		"FilterID": 0,
+		"FilterValue": "",
+		"BlockPickup": false,
+		"AllowTransfer": true,
+		"ForceDrop": false,
+		"Chat": true,
+		"Hud": true,
+		"TriggerID": 591,
+		"UsePriority": true,
+		"AbilityList": [
+			{
+				"Name": "",
+				"ButtonID": 0,
+				"ButtonClass": "",
+				"Chat_Uses": false,
+				"Mode": 0,
+				"MaxUses": 0,
+				"CoolDown": 0
+			}
+		]
+	},
+	{
+		"Name": "读报僵尸/Newspaper Zombie",
+		"ShortName": "读报僵尸",
+		"Color": "{default}",
+		"HammerID": 564,
+		"GlowColor": [255,0,0,255],
+		"FilterID": 0,
+		"FilterValue": "",
+		"BlockPickup": false,
+		"AllowTransfer": true,
+		"ForceDrop": false,
+		"Chat": true,
+		"Hud": true,
+		"TriggerID": 593,
+		"UsePriority": true,
+		"AbilityList": [
+			{
+				"Name": "",
+				"ButtonID": 0,
+				"ButtonClass": "",
+				"Chat_Uses": false,
+				"Mode": 0,
+				"MaxUses": 0,
+				"CoolDown": 0
+			}
+		]
+	},
+	{
+		"Name": "雪橇车僵尸/Zomboni",
+		"ShortName": "雪橇车僵尸",
+		"Color": "{default}",
+		"HammerID": 570,
+		"GlowColor": [255,0,0,255],
+		"FilterID": 0,
+		"FilterValue": "",
+		"BlockPickup": false,
+		"AllowTransfer": true,
+		"ForceDrop": false,
+		"Chat": true,
+		"Hud": true,
+		"TriggerID": 595,
+		"UsePriority": true,
+		"AbilityList": [
+			{
+				"Name": "",
+				"ButtonID": 0,
+				"ButtonClass": "",
+				"Chat_Uses": false,
+				"Mode": 0,
+				"MaxUses": 0,
+				"CoolDown": 0
+			}
+		]
+	},
+	{
+		"Name": "豌豆射手僵尸/Peashooter Zombie",
+		"ShortName": "豌豆射手僵尸",
+		"Color": "{default}",
+		"HammerID": 669,
+		"GlowColor": [255,0,0,255],
+		"FilterID": 0,
+		"FilterValue": "",
+		"BlockPickup": false,
+		"AllowTransfer": true,
+		"ForceDrop": false,
+		"Chat": true,
+		"Hud": true,
+		"TriggerID": 672,
+		"UsePriority": true,
+		"AbilityList": [
+			{
+				"Name": "",
+				"ButtonID": 0,
+				"ButtonClass": "func_button",
+				"Chat_Uses": false,
+				"Mode": 2,
+				"MaxUses": 0,
+				"CoolDown": 8
+			}
+		]
+	},
+	{
+		"Name": "玩偶匣僵尸/Jack in the Box Zombie",
+		"ShortName": "玩偶匣僵尸",
+		"Color": "{default}",
+		"HammerID": 726,
+		"GlowColor": [255,0,0,255],
+		"FilterID": 0,
+		"FilterValue": "",
+		"BlockPickup": false,
+		"AllowTransfer": true,
+		"ForceDrop": false,
+		"Chat": true,
+		"Hud": true,
+		"TriggerID": 727,
+		"UsePriority": true,
+		"AbilityList": [
+			{
+				"Name": "",
+				"ButtonID": 0,
+				"ButtonClass": "func_button",
+				"Chat_Uses": true,
+				"Mode": 3,
+				"MaxUses": 1,
+				"CoolDown": 0
+			}
+		]
+	},
+	{
+		"Name": "旗帜僵尸/Flag Zombie",
+		"ShortName": "旗帜僵尸",
+		"Color": "{default}",
+		"HammerID": 4214,
+		"GlowColor": [255,0,0,255],
+		"FilterID": 0,
+		"FilterValue": "",
+		"BlockPickup": false,
+		"AllowTransfer": true,
+		"ForceDrop": false,
+		"Chat": true,
+		"Hud": true,
+		"TriggerID": 4215,
+		"UsePriority": true,
+		"AbilityList": [
+			{
+				"Name": "",
+				"ButtonID": 0,
+				"ButtonClass": "func_button",
+				"Chat_Uses": true,
+				"Mode": 2,
+				"MaxUses": 0,
+				"CoolDown": 75
 			}
 		]
 	}
