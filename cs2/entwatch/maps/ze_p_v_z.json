@@ -13,11 +13,11 @@
 		"Chat": true,
 		"Hud": true,
 		"TriggerID": 0,
-		"UsePriority": true,
+		"UsePriority": false,
 		"AbilityList": [
 			{
 				"Name": "",
-				"ButtonID": 0,
+				"ButtonID": 4750,
 				"ButtonClass": "func_button",
 				"Chat_Uses": true,
 				"Mode": 2,
