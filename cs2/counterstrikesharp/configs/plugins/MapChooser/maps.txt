@@ -393,8 +393,8 @@
 	"ze_Boatescape_Ultimate"
 	{
 		"workshop_id"		"3217056098"
-		"enabled"		"0"
-		"filename"		"ze_Boatescape_Ultimate"
+		"enabled"		"1"
+		"filename"		"ze_boatescape_ultimate"
 	}
 	"ze_postal"
 	{
@@ -784,13 +784,13 @@
 	{
 		"workshop_id"		"3159658783"
 		"enabled"		"1"
-		"filename"		"ze_DYSTOPIA_p"
+		"filename"		"ze_dystopia_p"
 	}
 	"ze_FORiUS_just_RUN_p"
 	{
 		"workshop_id"		"3173196031"
 		"enabled"		"1"
-		"filename"		"ze_FORiUS_just_RUN_p"
+		"filename"		"ze_forius_just_run_p"
 	}
 	"ze_greencity_p"
 	{
@@ -1838,5 +1838,40 @@
 		"enabled"		"1"
 		"filename"		"ze_ffxiv_the_orbonne"
 		"updatedname"		"ze_ffxiv_the_orbonne_monastery_demo"
+	}
+	"ze_sky_defend_v1"
+	{
+		"workshop_id"		"3286133969"
+		"enabled"		"1"
+		"filename"		"ze_sky_defend"
+		"updatedname"		"ze_sky_defend_v1"
+	}
+	"ze_shenzhimudi_dawn_y3"
+	{
+		"workshop_id"		"3303404537"
+		"enabled"		"1"
+		"filename"		"ze_shenzhimudi_dawn_ysn1"
+		"updatedname"		"ze_shenzhimudi_dawn_y3"
+	}
+	"ze_Steyliff_Grove"
+	{
+		"workshop_id"		"3304076935"
+		"enabled"		"1"
+		"filename"		"ze_steyliff_grove"
+		"updatedname"		"ze_Steyliff_Grove"
+	}
+	"ze_urban_laby_of_death_p"
+	{
+		"workshop_id"		"3304571694"
+		"enabled"		"1"
+		"filename"		"ze_urban_laby_of_death_p"
+		"updatedname"		"ze_urban_laby_of_death_p"
+	}
+	"ze_jurassic_life"
+	{
+		"workshop_id"		"3306638579"
+		"enabled"		"1"
+		"filename"		"ze_jurassic_life"
+		"updatedname"		"ze_jurassic_life"
 	}
 }
