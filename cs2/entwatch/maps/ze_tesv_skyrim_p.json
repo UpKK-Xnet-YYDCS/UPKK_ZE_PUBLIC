@@ -1,6 +1,6 @@
 [
 	{
-		"Name": "奶杖",
+		"Name": "治疗法杖/Heal",
 		"ShortName": "奶杖",
 		"Color": "{blue}",
 		"HammerID": 401,
@@ -17,17 +17,17 @@
 		"AbilityList": [
 			{
 				"Name": "",
-				"ButtonID": 416,
+				"ButtonID": 0,
 				"ButtonClass": "func_button",
 				"Chat_Uses": true,
-				"Mode": 2,
+				"Mode": 4,
 				"MaxUses": 2,
 				"CoolDown": 20
 			}
 		]
 	},
 	{
-		"Name": "冰杖",
+		"Name": "寒冰法杖/ice",
 		"ShortName": "冰杖",
 		"Color": "{blue}",
 		"HammerID": 225,
@@ -44,18 +44,18 @@
 		"AbilityList": [
 			{
 				"Name": "",
-				"ButtonID": 1432,
+				"ButtonID": 0,
 				"ButtonClass": "func_button",
 				"Chat_Uses": true,
-				"Mode": 2,
+				"Mode": 4,
 				"MaxUses": 2,
 				"CoolDown": 10
 			}
 		]
 	},
 	{
-		"Name": "上古卷轴/Elder Scroll",
-		"ShortName": "上古卷轴",
+		"Name": "上古卷轴 Lv4/Elder Scroll Lv4",
+		"ShortName": "上古卷轴 Lv4",
 		"Color": "{blue}",
 		"HammerID": 406,
 		"GlowColor": [255,255,255,255],
@@ -63,7 +63,7 @@
 		"FilterValue": "",
 		"BlockPickup": false,
 		"AllowTransfer": true,
-		"ForceDrop": true,
+		"ForceDrop": false,
 		"Chat": true,
 		"Hud": true,
 		"TriggerID": 0,
@@ -81,8 +81,8 @@
 		]
 	},
 	{
-		"Name": "上古卷轴/Elder Scroll",
-		"ShortName": "上古卷轴",
+		"Name": "上古卷轴 Lv5/Elder Scroll Lv5",
+		"ShortName": "上古卷轴 Lv5",
 		"Color": "{blue}",
 		"HammerID": 723,
 		"GlowColor": [255,255,255,255],
@@ -90,7 +90,7 @@
 		"FilterValue": "",
 		"BlockPickup": false,
 		"AllowTransfer": true,
-		"ForceDrop": true,
+		"ForceDrop": false,
 		"Chat": true,
 		"Hud": true,
 		"TriggerID": 0,
@@ -98,11 +98,11 @@
 		"AbilityList": [
 			{
 				"Name": "",
-				"ButtonID": 653,
+				"ButtonID": 0,
 				"ButtonClass": "func_button",
 				"Chat_Uses": true,
-				"Mode": 0,
-				"MaxUses": 0,
+				"Mode": 3,
+				"MaxUses": 1,
 				"CoolDown": 0
 			}
 		]
@@ -124,11 +124,11 @@
 		"UsePriority": false,
 		"AbilityList": [
 			{
-				"Name": "回血",
+				"Name": "",
 				"ButtonID": 0,
 				"ButtonClass": "game_ui::PressedAttack2",
 				"Chat_Uses": true,
-				"Mode": 4,
+				"Mode": 2,
 				"MaxUses": 0,
 				"CoolDown": 40
 			}
@@ -143,7 +143,7 @@
 		"FilterID": 0,
 		"FilterValue": "",
 		"BlockPickup": false,
-		"AllowTransfer": true,
+		"AllowTransfer": false,
 		"ForceDrop": false,
 		"Chat": true,
 		"Hud": true,
@@ -151,11 +151,11 @@
 		"UsePriority": false,
 		"AbilityList": [
 			{
-				"Name": "喷射",
+				"Name": "",
 				"ButtonID": 0,
 				"ButtonClass": "game_ui::PressedAttack2",
 				"Chat_Uses": true,
-				"Mode": 4,
+				"Mode": 2,
 				"MaxUses": 0,
 				"CoolDown": 40
 			}
@@ -170,7 +170,7 @@
 		"FilterID": 0,
 		"FilterValue": "",
 		"BlockPickup": false,
-		"AllowTransfer": true,
+		"AllowTransfer": false,
 		"ForceDrop": false,
 		"Chat": true,
 		"Hud": true,
@@ -178,11 +178,11 @@
 		"UsePriority": false,
 		"AbilityList": [
 			{
-				"Name": "裸",
+				"Name": "",
 				"ButtonID": 0,
 				"ButtonClass": "game_ui::PressedAttack2",
 				"Chat_Uses": true,
-				"Mode": 4,
+				"Mode": 2,
 				"MaxUses": 2,
 				"CoolDown":60
 			}
@@ -198,7 +198,7 @@
 		"FilterID": 0,
 		"FilterValue": "",
 		"BlockPickup": false,
-		"AllowTransfer": true,
+		"AllowTransfer": false,
 		"ForceDrop": false,
 		"Chat": true,
 		"Hud": true,
@@ -206,11 +206,11 @@
 		"UsePriority": false,
 		"AbilityList": [
 			{
-				"Name": "裸",
+				"Name": "",
 				"ButtonID": 0,
 				"ButtonClass": "game_ui::PressedAttack2",
 				"Chat_Uses": true,
-				"Mode": 4,
+				"Mode": 2,
 				"MaxUses": 0,
 				"CoolDown": 60
 			}
@@ -226,7 +226,7 @@
 		"FilterID": 0,
 		"FilterValue": "",
 		"BlockPickup": false,
-		"AllowTransfer": true,
+		"AllowTransfer": false,
 		"ForceDrop": false,
 		"Chat": true,
 		"Hud": true,
@@ -234,11 +234,11 @@
 		"UsePriority": false,
 		"AbilityList": [
 						{
-				"Name": "射箭",
+				"Name": "",
 				"ButtonID": 0,
 				"ButtonClass": "game_ui::PressedAttack2",
 				"Chat_Uses": true,
-				"Mode": 4,
+				"Mode": 2,
 				"MaxUses": 0,
 				"CoolDown": 10
 			}
@@ -254,7 +254,7 @@
 		"FilterID": 0,
 		"FilterValue": "",
 		"BlockPickup": false,
-		"AllowTransfer": true,
+		"AllowTransfer": false,
 		"ForceDrop": false,
 		"Chat": true,
 		"Hud": true,
@@ -262,11 +262,11 @@
 		"UsePriority": false,
 		"AbilityList": [
 			{
-				"Name": "蓄力拍",
+				"Name": "",
 				"ButtonID": 0,
 				"ButtonClass": "game_ui::PressedAttack2",
 				"Chat_Uses": true,
-				"Mode": 4,
+				"Mode": 2,
 				"MaxUses": 0,
 				"CoolDown": 15
 			}
@@ -282,7 +282,7 @@
 		"FilterID": 0,
 		"FilterValue": "",
 		"BlockPickup": false,
-		"AllowTransfer": true,
+		"AllowTransfer": false,
 		"ForceDrop": false,
 		"Chat": true,
 		"Hud": true,
@@ -294,8 +294,8 @@
 				"ButtonID": 0,
 				"ButtonClass": "game_ui::PressedAttack2",
 				"Chat_Uses": true,
-				"Mode": 4,
-				"MaxUses": 0,
+				"Mode": 3,
+				"MaxUses": 1,
 				"CoolDown": 0
 			}
 
@@ -310,7 +310,7 @@
 		"FilterID": 0,
 		"FilterValue": "",
 		"BlockPickup": false,
-		"AllowTransfer": true,
+		"AllowTransfer": false,
 		"ForceDrop": false,
 		"Chat": true,
 		"Hud": true,
@@ -318,11 +318,11 @@
 		"UsePriority": false,
 		"AbilityList": [
 			{
-				"Name": "回血",
+				"Name": "",
 				"ButtonID": 0,
 				"ButtonClass": "game_ui::PressedAttack2",
 				"Chat_Uses": true,
-				"Mode": 4,
+				"Mode": 2,
 				"MaxUses": 0,
 				"CoolDown": 35
 			}
@@ -338,7 +338,7 @@
 		"FilterID": 0,
 		"FilterValue": "",
 		"BlockPickup": false,
-		"AllowTransfer": true,
+		"AllowTransfer": false,
 		"ForceDrop": false,
 		"Chat": true,
 		"Hud": true,
@@ -350,7 +350,7 @@
 				"ButtonID": 0,
 				"ButtonClass": "game_ui::PressedAttack2",
 				"Chat_Uses": true,
-				"Mode": 4,
+				"Mode": 2,
 				"MaxUses": 0,
 				"CoolDown": 25
 			}
