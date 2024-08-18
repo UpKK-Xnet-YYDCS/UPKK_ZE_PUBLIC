@@ -442,7 +442,7 @@
 	{
 		"workshop_id"		"3160547491"
 		"enabled"		"1"
-		"filename"		"ze_Obf_Filth"
+		"filename"		"ze_obf_filth_v1"
 	}
 	"ze_k19_escape_p"
 	{
@@ -1591,7 +1591,7 @@
 	{
 		"workshop_id"		"3283167200"
 		"enabled"		"1"
-		"filename"		"ze_Obf_Rescape"
+		"filename"		"ze_obf_rescape"
 		"updatedname"		"ze_Obf_Rescape"
 	}
 	"ze_infiltration_final_p"
@@ -1901,5 +1901,19 @@
 		"enabled"		"1"
 		"filename"		"ze_magus_v2_4"
 		"updatedname"		"ze_magus_v2_4"
+	}
+	"ze_ffvii_cosmo_canyon_t"
+	{
+		"workshop_id"		"3310260547"
+		"enabled"		"1"
+		"filename"		"ze_ffvii_cosmo_canyon_t"
+		"updatedname"		"ze_ffvii_cosmo_canyon_t"
+	}
+	"ze_Obf_Insane"
+	{
+		"workshop_id"		"3310660027"
+		"enabled"		"1"
+		"filename"		"ze_obf_insane"
+		"updatedname"		"ze_Obf_Insane"
 	}
 }
