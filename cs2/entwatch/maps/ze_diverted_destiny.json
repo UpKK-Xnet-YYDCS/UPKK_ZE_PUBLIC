@@ -1,42 +1,42 @@
 [
 	{
-		"Name": "DDR",
-		"ShortName": "DDR",
+		"Name": "向日葵",
+		"ShortName": "向日葵",
 		"Color": "{default}",
-		"HammerID": 857,
-		"GlowColor": [255,255,255,255],
+		"HammerID": 498,
+		"GlowColor": [0,0,255,255],
 		"FilterID": 0,
 		"FilterValue": "",
 		"BlockPickup": false,
 		"AllowTransfer": true,
-		"ForceDrop": true,
+		"ForceDrop": false,
 		"Chat": true,
 		"Hud": true,
-		"TriggerID": 858,
+		"TriggerID": 0,
 		"UsePriority": true,
 		"AbilityList": [
 			{
 				"Name": "",
-				"ButtonID": 0,
-				"ButtonClass": "",
-				"Chat_Uses": false,
-				"Mode": 0,
+				"ButtonID": 4750,
+				"ButtonClass": "func_button",
+				"Chat_Uses": true,
+				"Mode": 2,
 				"MaxUses": 0,
-				"CoolDown": 0
+				"CoolDown": 30
 			}
 		]
 	},
 	{
-		"Name": "奶3/Heal3",
-		"ShortName": "奶3",
+		"Name": "土/Earth Magic",
+		"ShortName": "土",
 		"Color": "{default}",
-		"HammerID": 151,
-		"GlowColor": [255,255,255,255],
+		"HammerID": 7218,
+		"GlowColor": [0,0,255,255],
 		"FilterID": 0,
 		"FilterValue": "",
 		"BlockPickup": false,
 		"AllowTransfer": true,
-		"ForceDrop": true,
+		"ForceDrop": false,
 		"Chat": true,
 		"Hud": true,
 		"TriggerID": 0,
@@ -49,21 +49,21 @@
 				"Chat_Uses": true,
 				"Mode": 2,
 				"MaxUses": 0,
-				"CoolDown": 20
+				"CoolDown": 60
 			}
 		]
 	},
-    {
-		"Name": "奶2/Heal2",
-		"ShortName": "奶2",
+	{
+		"Name": "豌豆射手/Peashooter",
+		"ShortName": "豌豆射手",
 		"Color": "{default}",
-		"HammerID": 380,
-		"GlowColor": [255,255,255,255],
+		"HammerID": 502,
+		"GlowColor": [0,0,255,255],
 		"FilterID": 0,
 		"FilterValue": "",
 		"BlockPickup": false,
 		"AllowTransfer": true,
-		"ForceDrop": true,
+		"ForceDrop": false,
 		"Chat": true,
 		"Hud": true,
 		"TriggerID": 0,
@@ -73,64 +73,64 @@
 				"Name": "",
 				"ButtonID": 0,
 				"ButtonClass": "func_button",
-				"Chat_Uses": true,
-				"Mode": 2,
-				"MaxUses": 0,
-				"CoolDown": 20
-			}
-		]
-	},
-    {
-		"Name": "奶1/Heal1",
-		"ShortName": "奶1",
-		"Color": "{default}",
-		"HammerID": 163,
-		"GlowColor": [255,255,255,255],
-		"FilterID": 0,
-		"FilterValue": "",
-		"BlockPickup": false,
-		"AllowTransfer": true,
-		"ForceDrop": true,
-		"Chat": true,
-		"Hud": true,
-		"TriggerID": 0,
-		"UsePriority": true,
-		"AbilityList": [
-			{
-				"Name": "",
-				"ButtonID": 0,
-				"ButtonClass": "func_button",
-				"Chat_Uses": true,
-				"Mode": 2,
-				"MaxUses": 0,
-				"CoolDown": 20
-			}
-		]
-	},
-    {
-		"Name": "Abyss",
-		"ShortName": "Abyss",
-		"Color": "{default}",
-		"HammerID": 214,
-		"GlowColor": [255,255,255,255],
-		"FilterID": 0,
-		"FilterValue": "",
-		"BlockPickup": false,
-		"AllowTransfer": true,
-		"ForceDrop": true,
-		"Chat": true,
-		"Hud": true,
-		"TriggerID": 0,
-		"UsePriority": true,
-		"AbilityList": [
-			{
-				"Name": "",
-				"ButtonID": 0,
-				"ButtonClass": "",
 				"Chat_Uses": false,
 				"Mode": 2,
 				"MaxUses": 0,
-				"CoolDown": 40
+				"CoolDown": 6
+			}
+		]
+	},
+	{
+		"Name": "坚果墙/Wall nut",
+		"ShortName": "坚果墙",
+		"Color": "{default}",
+		"HammerID": 516,
+		"GlowColor": [0,0,255,255],
+		"FilterID": 0,
+		"FilterValue": "",
+		"BlockPickup": false,
+		"AllowTransfer": true,
+		"ForceDrop": false,
+		"Chat": true,
+		"Hud": true,
+		"TriggerID": 0,
+		"UsePriority": true,
+		"AbilityList": [
+			{
+				"Name": "",
+				"ButtonID": 0,
+				"ButtonClass": "func_button",
+				"Chat_Uses": true,
+				"Mode": 2,
+				"MaxUses": 0,
+				"CoolDown": 60
+			}
+		]
+	},
+	{
+		"Name": "土豆雷/Potato Mine",
+		"ShortName": "土豆雷",
+		"Color": "{default}",
+		"HammerID": 525,
+		"GlowColor": [0,0,255,255],
+		"FilterID": 0,
+		"FilterValue": "",
+		"BlockPickup": false,
+		"AllowTransfer": true,
+		"ForceDrop": false,
+		"Chat": true,
+		"Hud": true,
+		"TriggerID": 0,
+		"UsePriority": true,
+		"AbilityList": [
+			{
+				"Name": "",
+				"ButtonID": 0,
+				"ButtonClass": "func_button",
+				"Chat_Uses": true,
+				"Mode": 2,
+				"MaxUses": 0,
+				"CoolDown": 45
 			}
 		]
 	}

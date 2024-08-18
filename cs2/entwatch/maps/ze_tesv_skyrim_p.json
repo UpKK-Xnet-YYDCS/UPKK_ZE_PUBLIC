@@ -9,7 +9,7 @@
 		"FilterValue": "",
 		"BlockPickup": false,
 		"AllowTransfer": true,
-		"ForceDrop": false,
+		"ForceDrop": true,
 		"Chat": true,
 		"Hud": true,
 		"TriggerID": 0,
@@ -36,7 +36,7 @@
 		"FilterValue": "",
 		"BlockPickup": false,
 		"AllowTransfer": true,
-		"ForceDrop": false,
+		"ForceDrop": true,
 		"Chat": true,
 		"Hud": true,
 		"TriggerID": 0,
@@ -63,7 +63,7 @@
 		"FilterValue": "",
 		"BlockPickup": false,
 		"AllowTransfer": true,
-		"ForceDrop": false,
+		"ForceDrop": true,
 		"Chat": true,
 		"Hud": true,
 		"TriggerID": 0,
@@ -90,7 +90,7 @@
 		"FilterValue": "",
 		"BlockPickup": false,
 		"AllowTransfer": true,
-		"ForceDrop": false,
+		"ForceDrop": true,
 		"Chat": true,
 		"Hud": true,
 		"TriggerID": 0,
@@ -121,7 +121,7 @@
 		"Chat": true,
 		"Hud": true,
 		"TriggerID": 0,
-		"UsePriority": true,
+		"UsePriority": false,
 		"AbilityList": [
 			{
 				"Name": "回血",
@@ -148,7 +148,7 @@
 		"Chat": true,
 		"Hud": true,
 		"TriggerID": 0,
-		"UsePriority": true,
+		"UsePriority": false,
 		"AbilityList": [
 			{
 				"Name": "喷射",
@@ -175,7 +175,7 @@
 		"Chat": true,
 		"Hud": true,
 		"TriggerID": 0,
-		"UsePriority": true,
+		"UsePriority": false,
 		"AbilityList": [
 			{
 				"Name": "裸",
@@ -203,7 +203,7 @@
 		"Chat": true,
 		"Hud": true,
 		"TriggerID": 0,
-		"UsePriority": true,
+		"UsePriority": false,
 		"AbilityList": [
 			{
 				"Name": "裸",
@@ -231,7 +231,7 @@
 		"Chat": true,
 		"Hud": true,
 		"TriggerID": 0,
-		"UsePriority": true,
+		"UsePriority": false,
 		"AbilityList": [
 						{
 				"Name": "射箭",
@@ -259,7 +259,7 @@
 		"Chat": true,
 		"Hud": true,
 		"TriggerID": 0,
-		"UsePriority": true,
+		"UsePriority": false,
 		"AbilityList": [
 			{
 				"Name": "蓄力拍",
@@ -274,7 +274,7 @@
 		]
 	},
 {
-		"Name": "龙祭祀/",
+		"Name": "龙祭祀",
 		"ShortName": "龙祭祀",
 		"Color": "{pink}",
 		"HammerID": 29313,
@@ -287,7 +287,7 @@
 		"Chat": true,
 		"Hud": true,
 		"TriggerID": 0,
-		"UsePriority": true,
+		"UsePriority": false,
 		"AbilityList": [
 						{
 				"Name": "",
@@ -315,7 +315,7 @@
 		"Chat": true,
 		"Hud": true,
 		"TriggerID": 0,
-		"UsePriority": true,
+		"UsePriority": false,
 		"AbilityList": [
 			{
 				"Name": "回血",
@@ -343,7 +343,7 @@
 		"Chat": true,
 		"Hud": true,
 		"TriggerID": 0,
-		"UsePriority": true,
+		"UsePriority": false,
 		"AbilityList": [
 			{
 				"Name": "",
@@ -354,8 +354,6 @@
 				"MaxUses": 0,
 				"CoolDown": 25
 			}
-
-
 		]
 	}
 ]
