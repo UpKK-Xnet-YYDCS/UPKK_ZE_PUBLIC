@@ -1,9 +1,9 @@
 [
 	{
-		"Name": "红色火球/Red Fireball",
-		"ShortName": "红色火球",
+		"Name": "火/Fire",
+		"ShortName": "火",
 		"Color": "{default}",
-		"HammerID": 36976,
+		"HammerID": 2246,
 		"GlowColor": [255,255,255,255],
 		"FilterID": 0,
 		"FilterValue": "",
@@ -22,15 +22,15 @@
 				"Chat_Uses": true,
 				"Mode": 2,
 				"MaxUses": 0,
-				"CoolDown": 20
+				"CoolDown": 60
 			}
 		]
 	},
-	{
-		"Name": "绿色火球/Green Fireball",
-		"ShortName": "绿色火球",
+    {
+		"Name": "冰/Freeze",
+		"ShortName": "冰",
 		"Color": "{default}",
-		"HammerID": 37003,
+		"HammerID": 3588,
 		"GlowColor": [255,255,255,255],
 		"FilterID": 0,
 		"FilterValue": "",
@@ -49,15 +49,15 @@
 				"Chat_Uses": true,
 				"Mode": 2,
 				"MaxUses": 0,
-				"CoolDown": 20
+				"CoolDown": 65
 			}
 		]
 	},
-	{
-		"Name": "蓝色火球/Blue Fireball",
-		"ShortName": "蓝色火球",
+    {
+		"Name": "奶/Heal",
+		"ShortName": "奶",
 		"Color": "{default}",
-		"HammerID": 37092,
+		"HammerID": 3591,
 		"GlowColor": [255,255,255,255],
 		"FilterID": 0,
 		"FilterValue": "",
@@ -76,15 +76,15 @@
 				"Chat_Uses": true,
 				"Mode": 2,
 				"MaxUses": 0,
-				"CoolDown": 20
+				"CoolDown": 60
 			}
 		]
 	},
-	{
-		"Name": "黄色火球/Yellow Fireball",
-		"ShortName": "黄色火球",
+    {
+		"Name": "风/Tornado",
+		"ShortName": "风",
 		"Color": "{default}",
-		"HammerID": 37110,
+		"HammerID": 3608,
 		"GlowColor": [255,255,255,255],
 		"FilterID": 0,
 		"FilterValue": "",
@@ -103,15 +103,15 @@
 				"Chat_Uses": true,
 				"Mode": 2,
 				"MaxUses": 0,
-				"CoolDown": 20
+				"CoolDown": 65
 			}
 		]
 	},
-	{
-		"Name": "锤子/Hammer",
-		"ShortName": "锤子",
+    {
+		"Name": "土/Earth",
+		"ShortName": "土",
 		"Color": "{default}",
-		"HammerID": 41946,
+		"HammerID": 3617,
 		"GlowColor": [255,255,255,255],
 		"FilterID": 0,
 		"FilterValue": "",
@@ -128,17 +128,17 @@
 				"ButtonID": 0,
 				"ButtonClass": "func_button",
 				"Chat_Uses": true,
-				"Mode": 1,
+				"Mode": 2,
 				"MaxUses": 0,
-				"CoolDown": 0
+				"CoolDown": 60
 			}
 		]
 	},
-	{
-		"Name": "传送/Warp",
-		"ShortName": "传送",
+    {
+		"Name": "终极/Ultimate",
+		"ShortName": "终极",
 		"Color": "{default}",
-		"HammerID": 47686,
+		"HammerID": 3984,
 		"GlowColor": [255,255,255,255],
 		"FilterID": 0,
 		"FilterValue": "",
@@ -161,128 +161,20 @@
 			}
 		]
 	},
-	{
-		"Name": "战利品/Loot",
-		"ShortName": "战利品",
+    {
+		"Name": "ZM 火/ZM Fire",
+		"ShortName": "ZM 火",
 		"Color": "{default}",
-		"HammerID": 47815,
+		"HammerID": 3641,
 		"GlowColor": [255,255,255,255],
 		"FilterID": 0,
 		"FilterValue": "",
 		"BlockPickup": false,
-		"AllowTransfer": true,
+		"AllowTransfer": false,
 		"ForceDrop": true,
 		"Chat": true,
 		"Hud": true,
-		"TriggerID": 0,
-		"UsePriority": true,
-		"AbilityList": [
-			{
-				"Name": "",
-				"ButtonID": 0,
-				"ButtonClass": "func_button",
-				"Chat_Uses": true,
-				"Mode": 2,
-				"MaxUses": 0,
-				"CoolDown": 5
-			}
-		]
-	},
-	{
-		"Name": "火墙/Firewall",
-		"ShortName": "火墙",
-		"Color": "{default}",
-		"HammerID": 47995,
-		"GlowColor": [255,255,255,255],
-		"FilterID": 0,
-		"FilterValue": "",
-		"BlockPickup": false,
-		"AllowTransfer": true,
-		"ForceDrop": true,
-		"Chat": true,
-		"Hud": true,
-		"TriggerID": 0,
-		"UsePriority": true,
-		"AbilityList": [
-			{
-				"Name": "",
-				"ButtonID": 0,
-				"ButtonClass": "func_button",
-				"Chat_Uses": true,
-				"Mode": 2,
-				"MaxUses": 0,
-				"CoolDown": 90
-			}
-		]
-	},
-	{
-		"Name": "水仙/Water Nymph",
-		"ShortName": "水仙",
-		"Color": "{default}",
-		"HammerID": 48185,
-		"GlowColor": [255,255,255,255],
-		"FilterID": 0,
-		"FilterValue": "",
-		"BlockPickup": false,
-		"AllowTransfer": true,
-		"ForceDrop": true,
-		"Chat": true,
-		"Hud": true,
-		"TriggerID": 0,
-		"UsePriority": true,
-		"AbilityList": [
-			{
-				"Name": "",
-				"ButtonID": 0,
-				"ButtonClass": "func_button",
-				"Chat_Uses": false,
-				"Mode": 2,
-				"MaxUses": 0,
-				"CoolDown": 1
-			}
-		]
-	},
-	{
-		"Name": "钢管/metal pipe",
-		"ShortName": "钢管",
-		"Color": "{default}",
-		"HammerID": 48636,
-		"GlowColor": [255,255,255,255],
-		"FilterID": 0,
-		"FilterValue": "",
-		"BlockPickup": false,
-		"AllowTransfer": true,
-		"ForceDrop": true,
-		"Chat": true,
-		"Hud": true,
-		"TriggerID": 0,
-		"UsePriority": true,
-		"AbilityList": [
-			{
-				"Name": "",
-				"ButtonID": 0,
-				"ButtonClass": "func_button",
-				"Chat_Uses": true,
-				"Mode": 2,
-				"MaxUses": 0,
-				"CoolDown": 45
-			}
-		]
-	},
-	{
-		"Name": "奶/Heal",
-		"ShortName": "奶",
-		"Color": "{default}",
-		"HammerID": 36459,
-		"GlowColor": [255,255,255,255],
-		"FilterID": 0,
-		"FilterValue": "",
-		"BlockPickup": false,
-		"AllowTransfer": true,
-		"ForceDrop": true,
-		"Chat": true,
-		"Hud": true,
-		"TriggerID": 0,
+		"TriggerID": 3642,
 		"UsePriority": true,
 		"AbilityList": [
 			{
@@ -296,44 +188,17 @@
 			}
 		]
 	},
-	{
-		"Name": "火焰/Flame",
-		"ShortName": "火焰",
-		"Color": "{default}",
-		"HammerID": 36478,
-		"GlowColor": [255,255,255,255],
-		"FilterID": 0,
-		"FilterValue": "",
-		"BlockPickup": false,
-		"AllowTransfer": true,
-		"ForceDrop": true,
-		"Chat": true,
-		"Hud": true,
-		"TriggerID": 0,
-		"UsePriority": true,
-		"AbilityList": [
-			{
-				"Name": "",
-				"ButtonID": 0,
-				"ButtonClass": "func_button",
-				"Chat_Uses": true,
-				"Mode": 2,
-				"MaxUses": 0,
-				"CoolDown": 60
-			}
-		]
-	},
-	{
-		"Name": "ZM 黑洞/Zombie Gravity",
+    {
+		"Name": "ZM 黑洞/ZM Gravity",
 		"ShortName": "ZM 黑洞",
 		"Color": "{default}",
-		"HammerID": 41673,
+		"HammerID": 3660,
 		"GlowColor": [255,255,255,255],
 		"FilterID": 0,
 		"FilterValue": "",
 		"BlockPickup": false,
-		"AllowTransfer": true,
-		"ForceDrop": false,
+		"AllowTransfer": false,
+		"ForceDrop": true,
 		"Chat": true,
 		"Hud": true,
 		"TriggerID": 0,
@@ -346,20 +211,20 @@
 				"Chat_Uses": true,
 				"Mode": 2,
 				"MaxUses": 0,
-				"CoolDown": 90
+				"CoolDown": 60
 			}
 		]
 	},
-	{
-		"Name": "ZM 奶/Zombie Heal",
-		"ShortName": "ZM 奶",
+    {
+		"Name": "ZM 冰/ZM Freeze",
+		"ShortName": "ZM 冰",
 		"Color": "{default}",
-		"HammerID": 41694,
+		"HammerID": 3689,
 		"GlowColor": [255,255,255,255],
 		"FilterID": 0,
 		"FilterValue": "",
 		"BlockPickup": false,
-		"AllowTransfer": true,
+		"AllowTransfer": false,
 		"ForceDrop": false,
 		"Chat": true,
 		"Hud": true,
@@ -377,57 +242,57 @@
 			}
 		]
 	},
-	{
-		"Name": "ZM 飞行/Zombie Flight",
-		"ShortName": "ZM 飞行",
+    {
+		"Name": "格拉斯贝恩/ZM Skin 1",
+		"ShortName": "格拉斯贝恩",
 		"Color": "{default}",
-		"HammerID": 47771,
+		"HammerID": 3693,
 		"GlowColor": [255,255,255,255],
 		"FilterID": 0,
 		"FilterValue": "",
 		"BlockPickup": false,
-		"AllowTransfer": true,
+		"AllowTransfer": false,
 		"ForceDrop": false,
 		"Chat": true,
 		"Hud": true,
-		"TriggerID": 47772,
-		"UsePriority": true,
+		"TriggerID": 3691,
+		"UsePriority": false,
 		"AbilityList": [
 			{
-				"Name": "",
+				"Name": "高跳",
 				"ButtonID": 0,
 				"ButtonClass": "func_button",
 				"Chat_Uses": true,
 				"Mode": 2,
 				"MaxUses": 0,
-				"CoolDown": 45
+				"CoolDown": 40
 			}
 		]
 	},
-	{
-		"Name": "ZM 火球/Zombie Fireball",
-		"ShortName": "ZM 火球",
+    {
+		"Name": "科若姆.科尔瓦哈/ZM Skin 2",
+		"ShortName": "科若姆.科尔瓦哈",
 		"Color": "{default}",
-		"HammerID": 47790,
+		"HammerID": 3723,
 		"GlowColor": [255,255,255,255],
 		"FilterID": 0,
 		"FilterValue": "",
 		"BlockPickup": false,
-		"AllowTransfer": true,
+		"AllowTransfer": false,
 		"ForceDrop": false,
 		"Chat": true,
 		"Hud": true,
-		"TriggerID": 47795,
-		"UsePriority": true,
+		"TriggerID": 3750,
+		"UsePriority": false,
 		"AbilityList": [
 			{
-				"Name": "",
+				"Name": "暗影发射",
 				"ButtonID": 0,
 				"ButtonClass": "func_button",
 				"Chat_Uses": true,
 				"Mode": 2,
 				"MaxUses": 0,
-				"CoolDown": 30
+				"CoolDown": 50
 			}
 		]
 	}
