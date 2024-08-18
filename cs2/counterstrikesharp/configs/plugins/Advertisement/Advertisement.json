@@ -28,6 +28,9 @@
         },
         {
           "Chat": "{RED}[X社区] {LIME}按Z键（默认无线电按键）使用快捷指令"
+        },
+        {
+          "Chat": "{RED}[X社区] {PURPLE} 如果您需要开启神器hud 则可以输入 {LIME}!ehud 3 开启 !ehud 0 关闭 也可通过!ehud_pos x y z 数值调整位置(默认为 {ORANGE}!ehud_pos 80 50 50) "
         }
       ]
     }
