@@ -54,8 +54,8 @@
 		]
 	},
 	{
-		"Name": "ZM致盲",
-		"ShortName": "ZM致盲",
+		"Name": "ZM混乱",
+		"ShortName": "ZM混乱",
 		"Color": "{pink}",
 		"HammerID": 4394,
 		"GlowColor": [255,255,255,255],
@@ -374,6 +374,33 @@
 				"Mode": 2,
 				"MaxUses": 0,
 				"CoolDown": 70
+			}
+		]
+	},
+	{
+		"Name": "ZM仙人掌",
+		"ShortName": "ZM仙人掌",
+		"Color": "{pink}",
+		"HammerID": 17789,
+		"GlowColor": [255,255,255,255],
+		"FilterID": 0,
+		"FilterValue": "",
+		"BlockPickup": false,
+		"AllowTransfer": false,
+		"ForceDrop": true,
+		"Chat": true,
+		"Hud": true,
+		"TriggerID": 0,
+		"UsePriority": true,
+		"AbilityList": [
+			{
+				"Name": "",
+				"ButtonID": 0,
+				"ButtonClass": "func_button",
+				"Chat_Uses": true,
+				"Mode": 1,
+				"MaxUses": 0,
+				"CoolDown": 0
 			}
 		]
 	}
