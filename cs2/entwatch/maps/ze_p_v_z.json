@@ -529,8 +529,8 @@
 		"UsePriority": true,
 		"AbilityList": [
 			{
-				"Name": "",
-				"ButtonID": 0,
+				"Name": "zb_pea_shooter_button",
+				"ButtonID": 661,
 				"ButtonClass": "func_button",
 				"Chat_Uses": false,
 				"Mode": 2,
