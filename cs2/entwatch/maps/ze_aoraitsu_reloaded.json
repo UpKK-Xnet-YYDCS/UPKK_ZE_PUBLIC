@@ -1,0 +1,250 @@
+[
+	{
+		"Name": "OBJ",	
+		"ShortName": "油桶",
+		"Color": "{default}",
+		"HammerID": 3751,
+		"GlowColor": [255,255,255,255],
+		"FilterID": 0,
+		"FilterValue": "",
+		"BlockPickup": false,
+		"AllowTransfer": true,
+		"ForceDrop": true,
+		"Chat": true,
+		"Hud": true,
+		"TriggerID": 0,
+		"UsePriority": true,
+		"AbilityList": [	
+			{
+				"Name": "item_obj_button",
+				"ButtonID": 3748,
+				"ButtonClass": "func_button",
+				"Chat_Uses": true,
+				"Mode": 2,
+				"MaxUses": 0,
+				"CoolDown": 50
+			}
+		]
+	},
+	{
+		"Name": "方块墙",
+		"ShortName": "方块墙",
+		"Color": "{default}",
+		"HammerID": 1220,
+		"GlowColor": [255,255,255,255],
+		"FilterID": 0,
+		"FilterValue": "",
+		"BlockPickup": false,
+		"AllowTransfer": true,
+		"ForceDrop": true,	
+		"Chat": true,
+		"Hud": true,
+		"TriggerID": 0,
+		"UsePriority": true,
+		"AbilityList": [	
+			{
+				"Name": "item_wall_buttom",
+				"ButtonID": 3281,	
+				"ButtonClass": "func_button",
+				"Chat_Uses": true,
+				"Mode": 2,
+				"MaxUses": 0,
+				"CoolDown": 40
+			}
+		]
+	},
+	{
+		"Name": "推力",
+		"ShortName": "推力",
+		"Color": "{default}",
+		"HammerID": 3375,
+		"GlowColor": [255,255,255,255],
+		"FilterID": 0,
+		"FilterValue": "",
+		"BlockPickup": false,
+		"AllowTransfer": true,
+		"ForceDrop": true,	
+		"Chat": true,
+		"Hud": true,
+		"TriggerID": 0,
+		"UsePriority": true,
+		"AbilityList": [	
+			{
+				"Name": "item_push_button",
+				"ButtonID": 2515,	
+				"ButtonClass": "func_button",
+				"Chat_Uses": true,
+				"Mode": 2,
+				"MaxUses": 0,
+				"CoolDown": 60
+			}
+		]
+	},
+
+	{
+		"Name": "定身球",
+		"ShortName": "定身球",
+		"Color": "{default}",
+		"HammerID": 5457,
+		"GlowColor": [255,255,255,255],
+		"FilterID": 0,
+		"FilterValue": "",
+		"BlockPickup": false,
+		"AllowTransfer": true,
+		"ForceDrop": true,	
+		"Chat": true,
+		"Hud": true,
+		"TriggerID": 0,
+		"UsePriority": true,
+		"AbilityList": [	
+			{
+				"Name": "item_ball_button",
+				"ButtonID": 5460,	
+				"ButtonClass": "func_button",
+				"Chat_Uses": true,
+				"Mode": 2,
+				"MaxUses": 0,
+				"CoolDown": 35
+			}
+		]
+	},
+
+	{
+		"Name": "护盾",
+		"ShortName": "护盾",
+		"Color": "{default}",
+		"HammerID": 3296,
+		"GlowColor": [255,255,255,255],
+		"FilterID": 0,
+		"FilterValue": "",
+		"BlockPickup": false,
+		"AllowTransfer": true,
+		"ForceDrop": true,	
+		"Chat": true,
+		"Hud": true,
+		"TriggerID": 0,
+		"UsePriority": true,
+		"AbilityList": [	
+			{
+				"Name": "item_shield_button",
+				"ButtonID": 3278,	
+				"ButtonClass": "func_button",
+				"Chat_Uses": true,
+				"Mode": 2,
+				"MaxUses": 0,
+				"CoolDown": 60
+			}
+		]
+	},
+
+	{
+		"Name": "伤害球",
+		"ShortName": "伤害球",
+		"Color": "{default}",
+		"HammerID": 4083,
+		"GlowColor": [255,255,255,255],
+		"FilterID": 0,
+		"FilterValue": "",
+		"BlockPickup": false,
+		"AllowTransfer": true,
+		"ForceDrop": true,	
+		"Chat": true,
+		"Hud": true,
+		"TriggerID": 0,
+		"UsePriority": true,
+		"AbilityList": [	
+			{
+				"Name": "item_zmred_button",
+				"ButtonID": 4079,	
+				"ButtonClass": "func_button",
+				"Chat_Uses": true,
+				"Mode": 2,
+				"MaxUses": 0,
+				"CoolDown": 10
+			}
+		]
+	},
+
+	{
+		"Name": "ZM冰",
+		"ShortName": "ZM冰",
+		"Color": "{default}",
+		"HammerID": 3213,
+		"GlowColor": [255,255,255,255],
+		"FilterID": 0,
+		"FilterValue": "",
+		"BlockPickup": false,
+		"AllowTransfer": true,
+		"ForceDrop": true,	
+		"Chat": true,
+		"Hud": true,
+		"TriggerID": 0,
+		"UsePriority": true,
+		"AbilityList": [	
+			{
+				"Name": "item_zmball_button",
+				"ButtonID": 3214,	
+				"ButtonClass": "func_button",
+				"Chat_Uses": true,
+				"Mode": 2,
+				"MaxUses": 0,
+				"CoolDown": 45
+			}
+		]
+	},
+
+	{
+		"Name": "ZM奶",
+		"ShortName": "ZM奶",
+		"Color": "{default}",
+		"HammerID": 2709,
+		"GlowColor": [255,255,255,255],
+		"FilterID": 0,
+		"FilterValue": "",
+		"BlockPickup": false,
+		"AllowTransfer": true,
+		"ForceDrop": true,	
+		"Chat": true,
+		"Hud": true,
+		"TriggerID": 0,
+		"UsePriority": true,
+		"AbilityList": [	
+			{
+				"Name": "item_zm_heal_button",
+				"ButtonID": 3933,	
+				"ButtonClass": "func_button",
+				"Chat_Uses": true,
+				"Mode": 2,
+				"MaxUses": 0,
+				"CoolDown": 50
+			}
+		]
+	},
+	{
+		"Name": "ZM秒杀",
+		"ShortName": "ZM秒杀",
+		"Color": "{default}",
+		"HammerID": 22055,
+		"GlowColor": [255,255,255,255],
+		"FilterID": 0,
+		"FilterValue": "",
+		"BlockPickup": false,
+		"AllowTransfer": true,
+		"ForceDrop": true,	
+		"Chat": true,
+		"Hud": true,
+		"TriggerID": 0,
+		"UsePriority": true,
+		"AbilityList": [	
+			{
+				"Name": "item_zm_kill_button",
+				"ButtonID": 22060,	
+				"ButtonClass": "func_button",
+				"Chat_Uses": true,
+				"Mode": 2,
+				"MaxUses": 0,
+				"CoolDown": 80
+			}
+		]
+	}
+]
