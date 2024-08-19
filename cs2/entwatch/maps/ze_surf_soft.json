@@ -1,0 +1,29 @@
+[
+	{
+		"Name": "冰",	
+		"ShortName": "冰",
+		"Color": "{default}",
+		"HammerID": 510,
+		"GlowColor": [255,255,255,255],
+		"FilterID": 0,
+		"FilterValue": "",
+		"BlockPickup": false,
+		"AllowTransfer": true,
+		"ForceDrop": true,	
+		"Chat": true,
+		"Hud": true,
+		"TriggerID": 0,
+		"UsePriority": true,
+		"AbilityList": [	
+			{
+				"Name": "",
+				"ButtonID": 0,	
+				"ButtonClass": "func_button",
+				"Chat_Uses": true,	
+				"Mode": 3,
+				"MaxUses": 1,	
+				"CoolDown": 0
+			}
+		]
+	}
+]
