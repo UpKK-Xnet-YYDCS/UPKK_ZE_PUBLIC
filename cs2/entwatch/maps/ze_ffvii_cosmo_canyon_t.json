@@ -16,9 +16,9 @@
 		"UsePriority": true,
 		"AbilityList": [
 			{
-				"Name": "",
-				"ButtonID": 0,
-				"ButtonClass": "func_button",
+				"Name": "Item_Ultima_Button",
+				"ButtonID": 3465,
+				"ButtonClass": "func_physbox",
 				"Chat_Uses": true,
 				"Mode": 4,
 				"MaxUses": 1,
@@ -43,9 +43,9 @@
 		"UsePriority": true,
 		"AbilityList": [
 			{
-				"Name": "",
-				"ButtonID": 0,
-				"ButtonClass": "func_button",
+				"Name": "Item_Earth_Button",
+				"ButtonID": 1879,
+				"ButtonClass": "func_physbox",
 				"Chat_Uses": true,
 				"Mode": 2,
 				"MaxUses": 0,
@@ -97,9 +97,9 @@
 		"UsePriority": true,
 		"AbilityList": [
 			{
-				"Name": "",
-				"ButtonID": 0,
-				"ButtonClass": "func_button",
+				"Name": "Item_Fire_Button",
+				"ButtonID": 2553,
+				"ButtonClass": "func_physbox",
 				"Chat_Uses": true,
 				"Mode": 2,
 				"MaxUses": 0,
@@ -124,9 +124,9 @@
 		"UsePriority": true,
 		"AbilityList": [
 			{
-				"Name": "",
-				"ButtonID": 0,
-				"ButtonClass": "func_button",
+				"Name": "Item_Electro_Button",
+				"ButtonID": 2421,
+				"ButtonClass": "func_physbox",
 				"Chat_Uses": true,
 				"Mode": 5,
 				"MaxUses": 2,
@@ -151,9 +151,9 @@
 		"UsePriority": true,
 		"AbilityList": [
 			{
-				"Name": "",
-				"ButtonID": 0,
-				"ButtonClass": "func_button",
+				"Name": "Item_Bio_Button",
+				"ButtonID": 4262,
+				"ButtonClass": "func_physbox",
 				"Chat_Uses": true,
 				"Mode": 2,
 				"MaxUses": 0,
@@ -178,9 +178,9 @@
 		"UsePriority": true,
 		"AbilityList": [
 			{
-				"Name": "",
-				"ButtonID": 0,
-				"ButtonClass": "func_button",
+				"Name": "Item_Wind_Button",
+				"ButtonID": 4185,
+				"ButtonClass": "func_physbox",
 				"Chat_Uses": true,
 				"Mode": 2,
 				"MaxUses": 0,
@@ -205,9 +205,9 @@
 		"UsePriority": true,
 		"AbilityList": [
 			{
-				"Name": "",
-				"ButtonID": 0,
-				"ButtonClass": "func_button",
+				"Name": "Item_Gravity_Button",
+				"ButtonID": 4784,
+				"ButtonClass": "func_physbox",
 				"Chat_Uses": true,
 				"Mode": 2,
 				"MaxUses": 0,
@@ -232,9 +232,9 @@
 		"UsePriority": true,
 		"AbilityList": [
 			{
-				"Name": "",
-				"ButtonID": 0,
-				"ButtonClass": "func_button",
+				"Name": "Item_Sleep_Button",
+				"ButtonID": 7561,
+				"ButtonClass": "func_physbox",
 				"Chat_Uses": false,
 				"Mode": 2,
 				"MaxUses": 0,
@@ -286,8 +286,8 @@
 		"UsePriority": true,
 		"AbilityList": [
 			{
-				"Name": "",
-				"ButtonID": 0,
+				"Name": "Potion_Button",
+				"ButtonID": 3776,
 				"ButtonClass": "func_button",
 				"Chat_Uses": true,
 				"Mode": 3,
@@ -313,9 +313,9 @@
 		"UsePriority": true,
 		"AbilityList": [
 			{
-				"Name": "",
-				"ButtonID": 0,
-				"ButtonClass": "func_button",
+				"Name": "Item_Heal_Button",
+				"ButtonID": 1657,
+				"ButtonClass": "func_physbox",
 				"Chat_Uses": true,
 				"Mode": 2,
 				"MaxUses": 0,
