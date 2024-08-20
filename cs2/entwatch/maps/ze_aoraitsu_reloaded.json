@@ -246,5 +246,32 @@
 				"CoolDown": 80
 			}
 		]
+	},
+	{
+		"Name": "治疗",
+		"ShortName": "奶",
+		"Color": "{default}",
+		"HammerID": 1310,
+		"GlowColor": [255,255,255,255],
+		"FilterID": 0,
+		"FilterValue": "",
+		"BlockPickup": false,
+		"AllowTransfer": true,
+		"ForceDrop": true,	
+		"Chat": true,
+		"Hud": true,
+		"TriggerID": 0,
+		"UsePriority": true,
+		"AbilityList": [	
+			{
+				"Name": "human_heal_button",
+				"ButtonID": 3537,	
+				"ButtonClass": "func_button",
+				"Chat_Uses": true,
+				"Mode": 2,
+				"MaxUses": 0,
+				"CoolDown": 70
+			}
+		]
 	}
 ]
