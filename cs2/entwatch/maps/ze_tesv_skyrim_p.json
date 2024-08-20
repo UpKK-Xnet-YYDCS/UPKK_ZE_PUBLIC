@@ -43,8 +43,8 @@
 		"UsePriority": true,
 		"AbilityList": [
 			{
-				"Name": "",
-				"ButtonID": 0,
+				"Name": "special_1_button",
+				"ButtonID": 703,
 				"ButtonClass": "func_button",
 				"Chat_Uses": true,
 				"Mode": 4,
