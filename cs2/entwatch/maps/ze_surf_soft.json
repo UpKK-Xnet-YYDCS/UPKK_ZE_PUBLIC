@@ -16,8 +16,8 @@
 		"UsePriority": true,
 		"AbilityList": [	
 			{
-				"Name": "",
-				"ButtonID": 0,	
+				"Name": "Ice_button",
+				"ButtonID": 512,	
 				"ButtonClass": "func_button",
 				"Chat_Uses": true,	
 				"Mode": 3,
