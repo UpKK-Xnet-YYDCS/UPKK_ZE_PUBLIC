@@ -44,7 +44,7 @@
 		"AbilityList": [
 			{
 				"Name": "",
-				"ButtonID": 0,
+				"ButtonID": 149,
 				"ButtonClass": "func_button",
 				"Chat_Uses": true,
 				"Mode": 2,
@@ -71,7 +71,7 @@
 		"AbilityList": [
 			{
 				"Name": "",
-				"ButtonID": 0,
+				"ButtonID": 381,
 				"ButtonClass": "func_button",
 				"Chat_Uses": true,
 				"Mode": 2,
@@ -98,7 +98,7 @@
 		"AbilityList": [
 			{
 				"Name": "",
-				"ButtonID": 0,
+				"ButtonID": 161,
 				"ButtonClass": "func_button",
 				"Chat_Uses": true,
 				"Mode": 2,
@@ -124,8 +124,8 @@
 		"UsePriority": true,
 		"AbilityList": [
 			{
-				"Name": "",
-				"ButtonID": 0,
+				"Name": "habyss_button",
+				"ButtonID": 212,
 				"ButtonClass": "",
 				"Chat_Uses": false,
 				"Mode": 2,
