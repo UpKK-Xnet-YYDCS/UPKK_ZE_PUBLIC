@@ -16,8 +16,8 @@
 		"UsePriority": true,
 		"AbilityList": [
 			{
-				"Name": "",
-				"ButtonID": 0,
+				"Name": "heal_button",
+				"ButtonID": 402,
 				"ButtonClass": "func_button",
 				"Chat_Uses": true,
 				"Mode": 4,
