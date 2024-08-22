@@ -4,7 +4,7 @@
 		"ShortName": "盾",
 		"Color": "{default}",
 		"HammerID": 134,
-		"GlowColor": [255,182,193,255],
+		"GlowColor": [255,255,255,255],
 		"FilterID": 0,
 		"FilterValue": "",
 		"BlockPickup": false,
@@ -16,8 +16,8 @@
 		"UsePriority": true,
 		"AbilityList": [	
 			{
-				"Name": "",
-				"ButtonID": 0,
+				"Name": "item_shield_trigger",
+				"ButtonID": 131,
 				"ButtonClass": "func_button",
 				"Chat_Uses": true,
 				"Mode": 2,
@@ -43,8 +43,8 @@
 		"UsePriority": true,
 		"AbilityList": [	
 			{
-				"Name": "",
-				"ButtonID": 0,	
+				"Name": "Wind_button",
+				"ButtonID": 357,	
 				"ButtonClass": "func_button",
 				"Chat_Uses": true,
 				"Mode": 2,
