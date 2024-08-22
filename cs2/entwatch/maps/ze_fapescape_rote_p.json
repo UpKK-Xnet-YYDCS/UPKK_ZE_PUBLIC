@@ -16,9 +16,9 @@
 		"UsePriority": true,
 		"AbilityList": [
 			{
-				"Name": "",
-				"ButtonID": 0,
-				"ButtonClass": "func_button",
+				"Name": "item_cyka3",
+				"ButtonID": 332,
+				"ButtonClass": "func_physbox",
 				"Chat_Uses": true,
 				"Mode": 4,
 				"MaxUses": 8,
@@ -43,9 +43,9 @@
 		"UsePriority": true,
 		"AbilityList": [
 			{
-				"Name": "",
-				"ButtonID": 0,
-				"ButtonClass": "func_button",
+				"Name": "item_cannon2",
+				"ButtonID": 3743,
+				"ButtonClass": "func_physbox",
 				"Chat_Uses": false,
 				"Mode": 1,
 				"MaxUses": 0,
@@ -70,9 +70,9 @@
 		"UsePriority": true,
 		"AbilityList": [
 			{
-				"Name": "",
-				"ButtonID": 0,
-				"ButtonClass": "func_button",
+				"Name": "item_blockade2",
+				"ButtonID": 3652,
+				"ButtonClass": "func_physbox",
 				"Chat_Uses": true,
 				"Mode": 4,
 				"MaxUses": 10,
@@ -97,9 +97,9 @@
 		"UsePriority": true,
 		"AbilityList": [
 			{
-				"Name": "",
-				"ButtonID": 0,
-				"ButtonClass": "func_button",
+				"Name": "item_launcher2",
+				"ButtonID": 3711,
+				"ButtonClass": "func_physbox",
 				"Chat_Uses": true,
 				"Mode": 4,
 				"MaxUses": 10,
@@ -124,9 +124,9 @@
 		"UsePriority": true,
 		"AbilityList": [
 			{
-				"Name": "",
-				"ButtonID": 0,
-				"ButtonClass": "func_button",
+				"Name": "item_flame2",
+				"ButtonID": 3687,
+				"ButtonClass": "func_physbox",
 				"Chat_Uses": true,
 				"Mode": 4,
 				"MaxUses": 8,
@@ -151,9 +151,9 @@
 		"UsePriority": true,
 		"AbilityList": [
 			{
-				"Name": "",
-				"ButtonID": 0,
-				"ButtonClass": "func_button",
+				"Name": "item_push2",
+				"ButtonID": 3665,
+				"ButtonClass": "func_physbox",
 				"Chat_Uses": true,
 				"Mode": 2,
 				"MaxUses": 0,
@@ -178,9 +178,9 @@
 		"UsePriority": true,
 		"AbilityList": [
 			{
-				"Name": "",
-				"ButtonID": 0,
-				"ButtonClass": "func_button",
+				"Name": "item_electric5",
+				"ButtonID": 3679,
+				"ButtonClass": "func_physbox",
 				"Chat_Uses": false,
 				"Mode": 1,
 				"MaxUses": 0,
@@ -205,9 +205,9 @@
 		"UsePriority": true,
 		"AbilityList": [
 			{
-				"Name": "",
-				"ButtonID": 0,
-				"ButtonClass": "func_button",
+				"Name": "item_ammo2",
+				"ButtonID": 3700,
+				"ButtonClass": "func_physbox",
 				"Chat_Uses": true,
 				"Mode": 2,
 				"MaxUses": 0,
@@ -232,9 +232,9 @@
 		"UsePriority": true,
 		"AbilityList": [
 			{
-				"Name": "",
-				"ButtonID": 0,
-				"ButtonClass": "func_button",
+				"Name": "item_heal2",
+				"ButtonID": 3635,
+				"ButtonClass": "func_physbox",
 				"Chat_Uses": true,
 				"Mode": 4,
 				"MaxUses": 2,
@@ -259,9 +259,9 @@
 		"UsePriority": true,
 		"AbilityList": [
 			{
-				"Name": "",
-				"ButtonID": 0,
-				"ButtonClass": "func_button",
+				"Name": "item_pipe2",
+				"ButtonID": 3718,
+				"ButtonClass": "func_physbox",
 				"Chat_Uses": true,
 				"Mode": 4,
 				"MaxUses": 5,
@@ -286,9 +286,9 @@
 		"UsePriority": true,
 		"AbilityList": [
 			{
-				"Name": "",
-				"ButtonID": 0,
-				"ButtonClass": "func_button",
+				"Name": "banana_button",
+				"ButtonID": 4378,
+				"ButtonClass": "func_physbox",
 				"Chat_Uses": true,
 				"Mode": 4,
 				"MaxUses": 15,
@@ -313,9 +313,9 @@
 		"UsePriority": true,
 		"AbilityList": [
 			{
-				"Name": "",
-				"ButtonID": 0,
-				"ButtonClass": "func_button",
+				"Name": "item_steam3",
+				"ButtonID": 4387,
+				"ButtonClass": "func_physbox",
 				"Chat_Uses": true,
 				"Mode": 4,
 				"MaxUses": 8,
