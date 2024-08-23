@@ -2,29 +2,26 @@
   "ZE_Aooka3": {
     "translation": "青岡3"
   },
-  "---ZE_Aooka---": {
-    "translation": "---青岡3---"
-  },
   "Map by vueru": {
-    "translation": "**地图作者: vueru  翻译: 冰雪葬泪**"
+    "translation": "**地图作者: vueru  文本翻译，神器拾取提示，BOSS技能提示: 冰雪葬泪 2021.09.25**"
   },
   "<r.i.p ??? ???,??????,P???A???F???F???>": {
     "translation": "**R.I.P????,,P???A???F???F???**"
   },
   "< Meat - Ice Blade >": {
-    "translation": "**5秒，< 不朽虫王 - 冰刃(左右躲避前方飞来的冰刃) >**"
+    "translation": "**8秒，< 不朽虫王 - 冰刃(左右躲避前方飞来的冰刃) >**"
   },
   "< Meat - Waters >": {
-    "translation": "**5秒，< 不朽虫王 - 水漩涡(抵抗出现中场的漩涡推力) >**"
+    "translation": "**8秒，< 不朽虫王 - 水漩涡(抵抗出现中场的漩涡推力) >**"
   },
   "< Meat - Sand Dust >": {
-    "translation": "**5秒，< 不朽虫王 - 沙尘沉降(蹲下以躲避) >**"
+    "translation": "**8秒，< 不朽虫王 - 沙尘沉降(蹲下以躲避) >**"
   },
   "< Meat - Space Cocoon >": {
-    "translation": "**5秒，< 不朽虫王 - 空间转移(去最前面或者最后面躲避传送) >**"
+    "translation": "**8秒，< 不朽虫王 - 空间转移(去最前面或者最后面躲避传送) >**"
   },
   "< Meat - Fire >": {
-    "translation": "**5秒，< 不朽虫王 - 火场(跳上两边台阶上以躲避) >**"
+    "translation": "**8秒，< 不朽虫王 - 火场(跳上两边台阶上以躲避) >**"
   },
   "< Izzo! >": {
     "translation": "**Izzo!(来自卯月) 隐藏神器触发！**"
@@ -89,35 +86,23 @@
   "* Stage IV *": {
     "translation": "**第四关**"
   },
-  "> Stage I <": {
-    "translation": "> 第一关 <"
-  },
-  "> Stage II <": {
-    "translation": "> 第二关 <"
-  },
-  "> Stage III <": {
-    "translation": "> 第三关 <"
-  },
-  "> Stage IV <": {
-    "translation": "> 第四关 <"
-  },
   "< Spider - Twins >": {
-    "translation": "**< 灾厄蛛后 - 双生工虫 >**"
+    "translation": "**9秒，< 灾厄蛛后 - 双生工虫 （场地前后随机交替出现伤害区域） >**"
   },
   "< Spider - Dark Light >": {
-    "translation": "**< 灾厄蛛后 - 黑暗光芒 >**"
+    "translation": "**12秒，< 灾厄蛛后 - 黑暗光芒 （先远离场地上出现的金色区域,四周出现紫色特效后再进入金色区域） >**"
   },
   "< Soul - Electric >": {
-    "translation": "**< 灵魂 - 电球(避开正前方的电球) >**"
+    "translation": "**5秒，< 灵魂 - 电球 （避开正前方的电球） >**"
   },
   "< Soul - Nibble Away Up >": {
-    "translation": "**< 灵魂 - 蚕食 >**"
+    "translation": "**10秒，< 灵魂 - 蚕食 （秒杀技能,在倒计时还剩6的时候使用金轮神器,走进入金轮范围内以躲避）>**"
   },
   "< Enter the Gold range to avoid damage >": {
     "translation": "**进入金轮的范围内躲避伤害**"
   },
   "< Soul - Rise Nibble Away Up >": {
-    "translation": "**< 灵魂 - 蚕食 >**"
+    "translation": "**< 灵魂 - 蚕食 （秒杀技能,使用金轮神器,走进入金轮范围内以躲避） >**"
   },
   ">* 10 seconds *<": {
     "translation": "**10秒**"
@@ -126,28 +111,28 @@
     "translation": "**5秒**"
   },
   "< Spider - Lock Star >": {
-    "translation": "**< 灾厄蛛后 - 锁星 >**"
+    "translation": "**6秒，< 灾厄蛛后 - 锁星 （BOSS会吸收伤害回血,停止射击和使用伤害神器,同时待在场地正中间） >**"
   },
   "< Spider - Solution Star >": {
-    "translation": "**< 灾厄蛛后 - 解星 >**"
+    "translation": "**3秒，< 灾厄蛛后 - 解星 （BOSS伤害吸收效果解除,等死星提示出来远离场地中间） >**"
   },
   "< Spider - Gemini >": {
-    "translation": "**< 灾厄蛛后 - 双星 >**"
+    "translation": "**10秒，< 灾厄蛛后 - 双星 （锁星→解星→死星）>**"
   },
   "< Spider - Death Star >": {
-    "translation": "**< 灾厄蛛后 - 死星 >**"
+    "translation": "**3秒，< 灾厄蛛后 - 死星 （远离场地正中间） >**"
   },
   "< Spider - Ask Spirit >": {
     "translation": "**< 灾厄蛛后 - 灵魂吸取 >**"
   },
   "< Spider - Heavenly Sin >": {
-    "translation": "**< 灾厄蛛后 - 天罚 >**"
+    "translation": "**4秒，< 灾厄蛛后 - 天罚 （恢复825血量,提前蹲下,下个技能必定天罚）>**"
   },
   "< Spider - Time Cocoon >": {
-    "translation": "**< 灾厄蛛后 - 时间束缚 >**"
+    "translation": "**12秒，< 灾厄蛛后 - 时间束缚 （从面对BOSS左上角开始,顺时针依次移动3次 即左上-右上-右下-左下）>**"
   },
   "< Spider - Sand Wind >": {
-    "translation": "**< 灾厄蛛后 - 沙暴之风 >**"
+    "translation": "**8秒，< 灾厄蛛后 - 沙暴之风 （按S抵抗BOSS的吸力） >**"
   },
   "<Defend until the gate is closed>": {
     "translation": "**防守至门关闭**"
@@ -171,22 +156,22 @@
     "translation": "**墙壁将在20秒后碎裂**"
   },
   "< Boot - Starfall >": {
-    "translation": "**5秒，< 追猎傀儡 - 星落(在星星落地前站在外圈,星星落地后站在内圈) >**"
+    "translation": "**10秒，< 追猎傀儡 - 星落(在星星落地前站在外圈,星星落地后站在内圈) >**"
   },
   "< Boot - Snow >": {
-    "translation": "**5秒，< 追猎傀儡 - 雪圈(在玩家脚下依次出现2个雪圈) >**"
+    "translation": "**10秒，< 追猎傀儡 - 雪圈(在玩家脚下依次出现多个雪圈) >**"
   },
   "< Boot - Repair >": {
-    "translation": "**5秒，< 追猎傀儡 - 修理(停止射击和使用伤害神器,否则给BOSS加血) >**"
+    "translation": "**10秒，< 追猎傀儡 - 修理(停止射击和使用伤害神器,否则给BOSS加血) >**"
   },
   "< Boot - Vortex >": {
-    "translation": "**5秒，< 追猎傀儡 - 漩涡(抵抗场地中间出现的漩涡吸力) >**"
+    "translation": "**8秒，< 追猎傀儡 - 漩涡(抵抗场地中间出现的漩涡吸力) >**"
   },
   "< Boot - Poison >": {
-    "translation": "**5秒，< 追猎傀儡 - 毒气(先站在内圈躲避外圈毒气,然后站在外圈躲避内圈毒气) >**"
+    "translation": "**15秒，< 追猎傀儡 - 毒气(先站在内圈躲避外圈毒气,然后站在外圈躲避内圈毒气) >**"
   },
   "< Boot - Mire >": {
-    "translation": "**5秒，< 追猎傀儡 - 泥沼(站在外圈台阶上躲避伤害和减跳高) >**"
+    "translation": "**10秒，< 追猎傀儡 - 泥沼(站在外圈台阶上躲避伤害和减跳高) >**"
   },
   "<Barrier is gone !!>": {
     "translation": "**障碍物已清除!!!**"
@@ -201,25 +186,25 @@
     "translation": "**传送水晶是坏的? 15秒后地板碎裂后跳下去**"
   },
   "< Meat - Holy >": {
-    "translation": "**< 不朽虫王 - 神圣 >**"
+    "translation": "**5秒，< 不朽虫王 - 神圣 （秒杀技能,站在场地四个角落以躲避） >**"
   },
   "< Meat - Ultima >": {
-    "translation": "**< 不朽虫王 - 终极 >**"
+    "translation": "**5秒，< 不朽虫王 - 终极 （秒杀技能,紧贴门的两个门角以躲避 !!是贴着门的位置!!） >**"
   },
   "< Meat - Thunder >": {
-    "translation": "**< 不朽虫王 - 雷电 >**"
+    "translation": "**10秒，< 不朽虫王 - 雷电 （背靠门口面对BOSS看左右两边,去正前方没有电球的一边的场地中央） >**"
   },
   "< Meat - Fire of Shield >": {
-    "translation": "**< 不朽虫王 - 火盾 >**"
+    "translation": "**8秒，< 不朽虫王 - 火盾 （BOSS伤害吸收回血,停止射击和使用伤害神器,且随机出现半场火） >**"
   },
   "< Meat - Fire of Cure >": {
-    "translation": "**< 不朽虫王 - 火疗 >**"
+    "translation": "**8秒，< 不朽虫王 - 火疗 （恢复部分血量,随机出现半场火） >**"
   },
   "< Meat - Gravity >": {
-    "translation": "**< 不朽虫王 - 黑洞 >**"
+    "translation": "**8秒，< 不朽虫王 - 黑洞 （抵抗来自BOSS的吸力） >**"
   },
   "< Meat - Wind >": {
-    "translation": "**< 不朽虫王 - 飓风 >**"
+    "translation": "**8秒，< 不朽虫王 - 飓风 （抵抗来自门口的推力） >**"
   },
   "<Meat wakes up in 10 seconds>": {
     "translation": "**不朽虫王10秒后苏醒**"
@@ -231,46 +216,46 @@
     "translation": "**大门将在35秒后打开**"
   },
   "< A zombie has acquired Shackles Magick >": {
-    "translation": "**一个僵尸拾取了虚弱神器**"
+    "translation": "**一个僵尸拾取了虚弱神器，按E使用时发射出一个移动紫球，将触碰的人类减速和减跳高，debuff持续15，持续时间: 球移动时到消失**"
   },
   "< A zombie has acquired Lure Magick >": {
-    "translation": "**一个僵尸拾取了黑洞神器**"
+    "translation": "**一个僵尸拾取了黑洞神器，按E使用时吸引住持有者正前方的人类，持续时间: 5**"
   },
   "< A zombie has acquired Shield Magick >": {
-    "translation": "**一个僵尸拾取了护盾神器**"
+    "translation": "**一个僵尸拾取了护盾神器，按E使用时在持有者周围跟随圆柱形护盾，生效时持有者1.7倍速度加成，无视人类的子弹伤害，持续时间: 5**"
   },
   "< A zombie has acquired Rise Magick >": {
-    "translation": "**一个僵尸拾取了加速神器**"
+    "translation": "**一个僵尸拾取了加速神器，按E使用时生成跟随范围加速效果，持有者自身无加速效果，持续时间: 5**"
   },
   "< A zombie has acquired IceFire Magick >": {
-    "translation": "**一个僵尸拾取了冰火神器**"
+    "translation": "**一个僵尸拾取了冰火神器，按E使用时正前方生成火冰伤害，给触碰者5的减速和燃烧效果，持续时间: 1**"
   },
   "< A zombie has acquired End Magick >": {
-    "translation": "**一个僵尸拾取了死亡宣告神器**"
+    "translation": "**一个僵尸拾取了死亡宣告神器，按E使用时立刻减速(0.9倍)持有者正前方的人类，并延迟秒杀，延时时间: 7**"
   },
   "** A player has acquired Water Magick **": {
-    "translation": "**一名人类拾取了水神器**"
+    "translation": "**一名人类拾取了水神器，按E使用时在持有者正面生成一个定点水漩涡，吸引僵尸，若此时使用电神器，水将附带减速和高伤害效果，持续时间: 7，能对第一、二、三、四BOSS造成300点伤害，不要在第二、三关BOSS使用修理或者护盾技能时使用，否则给BOSS加血**"
   },
   "** A player has acquired Wind Magick **": {
-    "translation": "**一名人类拾取了风神器**"
+    "translation": "**一名人类拾取了风神器，按E使用时在持有者周围形成跟随环形风，推开僵尸，n若此时使用火神器，风将附带燃烧效果，持续时间: 7**"
   },
   "** A player has acquired Present Magick **": {
-    "translation": "**一名人类拾取了礼物神器**"
+    "translation": "**一名人类拾取了礼物神器，按E使用时生成跟随补给圈，效果1: 无限弹药，效果2: 恢复速度和跳高为1.0倍，持续时间: 5**"
   },
   "** A player has acquired Electric Magick **": {
-    "translation": "**一名人类拾取了电神器**"
+    "translation": "**一名人类拾取了电神器，按E使用时在持有者正面生成一个跟随直线电光减速僵尸，在使用水神器时使用电神器能增加对应神器效果，持续时间: 3，能对第一、二、三、四关BOSS造成75点伤害，不要在第二、三关BOSS使用修理或者护盾技能时使用，否则给BOSS加血**"
   },
   "** A player has acquired Ice Magick **": {
-    "translation": "**一名人类拾取了冰神器**"
+    "translation": "**一名人类拾取了冰神器，按E使用时在持有者周围生成固定冰圈，冻住僵尸，持续时间: 7，能对第一、二、三、四关BOSS造成300点伤害，不要在第二、三关BOSS使用修理或者护盾技能时使用，否则给BOSS加血**"
   },
   "** A player has acquired Fire Magick **": {
-    "translation": "**一名人类拾取了火神器**"
+    "translation": "**一名人类拾取了火神器，按E使用时在持有者正面生成一个跟随直线火燃烧并伤害僵尸，在使用风神器时使用火神器能增加对应神器效果，持续时间: 7，能对第一、二、三、四关BOSS造成75点伤害，不要在第二、三关BOSS使用修理或者护盾技能时使用，否则给BOSS加血**"
   },
   "** A player has acquired Gold Magick **": {
-    "translation": "**一名人类拾取了金轮神器**"
+    "translation": "**一名人类拾取了金轮神器，按E使用时在正面生成一个定点圆柱形屏障，持续时间: 7，第三关BOSS战适当时机时使用能消除开局和结尾以及BOSS的黑暗光芒技能秒杀效果**"
   },
   "** A player has acquired Heal Magick **": {
-    "translation": "**一名人类拾取了奶神器**"
+    "translation": "**一名人类拾取了奶神器，按E使用时在持有者周围形成跟随治疗圈将人类恢复到225血和给与在奶里人类的防抓效果，持续时间: 7**"
   },
   "<Zombie Item is Disable>": {
     "translation": "**僵尸神器已禁用**"
