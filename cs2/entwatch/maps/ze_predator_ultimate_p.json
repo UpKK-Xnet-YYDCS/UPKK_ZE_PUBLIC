@@ -1,0 +1,299 @@
+[
+	{
+		"Name": "奶/Heal",
+		"ShortName": "奶",
+		"Color": "{default}",
+		"HammerID": 19424,
+		"GlowColor": [255,255,255,255],
+		"FilterID": 0,
+		"FilterValue": "",
+		"BlockPickup": false,
+		"AllowTransfer": true,
+		"ForceDrop": true,
+		"Chat": true,
+		"Hud": true,
+		"TriggerID": 0,
+		"UsePriority": true,
+		"AbilityList": [
+			{
+				"Name": "firstaid_button",
+				"ButtonID": 19410,
+				"ButtonClass": "func_physbox",
+				"Chat_Uses": true,
+				"Mode": 4,
+				"MaxUses": 1,
+				"CoolDown": 5
+			}
+		]
+	},
+    {
+		"Name": "榴弹枪/Grenade Launcher",
+		"ShortName": "榴弹枪",
+		"Color": "{default}",
+		"HammerID": 19443,
+		"GlowColor": [255,255,255,255],
+		"FilterID": 0,
+		"FilterValue": "",
+		"BlockPickup": false,
+		"AllowTransfer": true,
+		"ForceDrop": true,
+		"Chat": true,
+		"Hud": true,
+		"TriggerID": 0,
+		"UsePriority": true,
+		"AbilityList": [
+			{
+				"Name": "w_nade_button",
+				"ButtonID": 19444,
+				"ButtonClass": "func_physbox",
+				"Chat_Uses": true,
+				"Mode": 3,
+				"MaxUses": 18,
+				"CoolDown": 0
+			}
+		]
+	},
+    {
+		"Name": "地雷/Claymore Mines",
+		"ShortName": "地雷",
+		"Color": "{default}",
+		"HammerID": 19465,
+		"GlowColor": [255,255,255,255],
+		"FilterID": 0,
+		"FilterValue": "",
+		"BlockPickup": false,
+		"AllowTransfer": true,
+		"ForceDrop": true,
+		"Chat": true,
+		"Hud": true,
+		"TriggerID": 0,
+		"UsePriority": true,
+		"AbilityList": [
+			{
+				"Name": "w_claymore_button_1",
+				"ButtonID": 19462,
+				"ButtonClass": "func_physbox",
+				"Chat_Uses": true,
+				"Mode": 3,
+				"MaxUses": 10,
+				"CoolDown": 0
+			}
+		]
+	},
+    {
+		"Name": "弹药箱/Ammo Dispenser",
+		"ShortName": "弹药箱",
+		"Color": "{default}",
+		"HammerID": 19734,
+		"GlowColor": [255,255,255,255],
+		"FilterID": 0,
+		"FilterValue": "",
+		"BlockPickup": false,
+		"AllowTransfer": true,
+		"ForceDrop": true,
+		"Chat": true,
+		"Hud": true,
+		"TriggerID": 0,
+		"UsePriority": true,
+		"AbilityList": [
+			{
+				"Name": "w_ammo_button_1",
+				"ButtonID": 19511,
+				"ButtonClass": "func_physbox",
+				"Chat_Uses": true,
+				"Mode": 4,
+				"MaxUses": 1,
+				"CoolDown": 20
+			}
+		]
+	},
+    {
+		"Name": "加特林/Minigun",
+		"ShortName": "加特林",
+		"Color": "{default}",
+		"HammerID": 19531,
+		"GlowColor": [255,255,255,255],
+		"FilterID": 0,
+		"FilterValue": "",
+		"BlockPickup": false,
+		"AllowTransfer": true,
+		"ForceDrop": true,
+		"Chat": true,
+		"Hud": true,
+		"TriggerID": 0,
+		"UsePriority": true,
+		"AbilityList": [
+			{
+				"Name": "",
+				"ButtonID": 0,
+				"ButtonClass": "",
+				"Chat_Uses": false,
+				"Mode": 1,
+				"MaxUses": 0,
+				"CoolDown": 0
+			}
+		]
+	},
+    {
+		"Name": "样本/Alien Sample",
+		"ShortName": "样本",
+		"Color": "{default}",
+		"HammerID": 19535,
+		"GlowColor": [255,255,255,255],
+		"FilterID": 0,
+		"FilterValue": "",
+		"BlockPickup": false,
+		"AllowTransfer": true,
+		"ForceDrop": true,
+		"Chat": true,
+		"Hud": true,
+		"TriggerID": 0,
+		"UsePriority": true,
+		"AbilityList": [
+			{
+				"Name": "w_acid_button_1",
+				"ButtonID": 19420,
+				"ButtonClass": "func_physbox",
+				"Chat_Uses": true,
+				"Mode": 4,
+				"MaxUses": 1,
+				"CoolDown": 15
+			}
+		]
+	},
+    {
+		"Name": "喷火器/Flamethrower",
+		"ShortName": "喷火器",
+		"Color": "{default}",
+		"HammerID": 19553,
+		"GlowColor": [255,255,255,255],
+		"FilterID": 0,
+		"FilterValue": "",
+		"BlockPickup": false,
+		"AllowTransfer": true,
+		"ForceDrop": true,
+		"Chat": true,
+		"Hud": true,
+		"TriggerID": 0,
+		"UsePriority": true,
+		"AbilityList": [
+			{
+				"Name": "w_flame_button_1",
+				"ButtonID": 19550,
+				"ButtonClass": "func_physbox",
+				"Chat_Uses": false,
+				"Mode": 1,
+				"MaxUses": 0,
+				"CoolDown": 0
+			}
+		]
+	},
+    {
+		"Name": "装置/Alien Device",
+		"ShortName": "装置",
+		"Color": "{default}",
+		"HammerID": 19560,
+		"GlowColor": [255,255,255,255],
+		"FilterID": 0,
+		"FilterValue": "",
+		"BlockPickup": false,
+		"AllowTransfer": true,
+		"ForceDrop": true,
+		"Chat": true,
+		"Hud": true,
+		"TriggerID": 0,
+		"UsePriority": true,
+		"AbilityList": [
+			{
+				"Name": "w_alien_button",
+				"ButtonID": 19558,
+				"ButtonClass": "func_physbox",
+				"Chat_Uses": true,
+				"Mode": 3,
+				"MaxUses": 1,
+				"CoolDown": 0
+			}
+		]
+	},
+    {
+		"Name": "推力枪/Push Gun",
+		"ShortName": "推力枪",
+		"Color": "{default}",
+		"HammerID": 19569,
+		"GlowColor": [255,255,255,255],
+		"FilterID": 0,
+		"FilterValue": "",
+		"BlockPickup": false,
+		"AllowTransfer": true,
+		"ForceDrop": true,
+		"Chat": true,
+		"Hud": true,
+		"TriggerID": 0,
+		"UsePriority": true,
+		"AbilityList": [
+			{
+				"Name": "w_pushgun_button",
+				"ButtonID": 19573,
+				"ButtonClass": "func_physbox",
+				"Chat_Uses": true,
+				"Mode": 2,
+				"MaxUses": 0,
+				"CoolDown": 15
+			}
+		]
+	},
+    {
+		"Name": "脉冲器/Impulsor",
+		"ShortName": "脉冲器",
+		"Color": "{default}",
+		"HammerID": 19605,
+		"GlowColor": [255,255,255,255],
+		"FilterID": 0,
+		"FilterValue": "",
+		"BlockPickup": false,
+		"AllowTransfer": true,
+		"ForceDrop": true,
+		"Chat": true,
+		"Hud": true,
+		"TriggerID": 0,
+		"UsePriority": true,
+		"AbilityList": [
+			{
+				"Name": "",
+				"ButtonID": 0,
+				"ButtonClass": "",
+				"Chat_Uses": false,
+				"Mode": 1,
+				"MaxUses": 0,
+				"CoolDown": 0
+			}
+		]
+	},
+    {
+		"Name": "高斯枪/Gauss Rifle",
+		"ShortName": "高斯枪",
+		"Color": "{default}",
+		"HammerID": 19515,
+		"GlowColor": [255,255,255,255],
+		"FilterID": 0,
+		"FilterValue": "",
+		"BlockPickup": false,
+		"AllowTransfer": true,
+		"ForceDrop": true,
+		"Chat": true,
+		"Hud": true,
+		"TriggerID": 0,
+		"UsePriority": true,
+		"AbilityList": [
+			{
+				"Name": "w_gauss_button_1",
+				"ButtonID": 19622,
+				"ButtonClass": "func_physbox",
+				"Chat_Uses": true,
+				"Mode": 2,
+				"MaxUses": 0,
+				"CoolDown": 100
+			}
+		]
+	}
+]
