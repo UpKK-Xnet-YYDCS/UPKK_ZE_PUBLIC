@@ -16,8 +16,8 @@
 		"UsePriority": true,
 		"AbilityList": [
 			{
-				"Name": "",
-				"ButtonID": 0,
+				"Name": "Force_Heal_Button",
+				"ButtonID": 1975,
 				"ButtonClass": "func_button",
 				"Chat_Uses": true,
 				"Mode": 2,
@@ -43,8 +43,8 @@
 		"UsePriority": true,
 		"AbilityList": [
 			{
-				"Name": "",
-				"ButtonID": 0,
+				"Name": "Force_Rage_Button",
+				"ButtonID": 1986,
 				"ButtonClass": "func_button",
 				"Chat_Uses": true,
 				"Mode": 3,
@@ -70,8 +70,8 @@
 		"UsePriority": true,
 		"AbilityList": [
 			{
-				"Name": "",
-				"ButtonID": 0,
+				"Name": "Force_Grip_Button",
+				"ButtonID": 1993,
 				"ButtonClass": "func_button",
 				"Chat_Uses": true,
 				"Mode": 2,
@@ -97,8 +97,8 @@
 		"UsePriority": true,
 		"AbilityList": [
 			{
-				"Name": "",
-				"ButtonID": 0,
+				"Name": "Force_Lightning_Button",
+				"ButtonID": 2000,
 				"ButtonClass": "func_button",
 				"Chat_Uses": true,
 				"Mode": 2,
@@ -124,8 +124,8 @@
 		"UsePriority": true,
 		"AbilityList": [
 			{
-				"Name": "",
-				"ButtonID": 0,
+				"Name": "Force_Push_Button",
+				"ButtonID": 2209,
 				"ButtonClass": "func_button",
 				"Chat_Uses": true,
 				"Mode": 2,
@@ -151,8 +151,8 @@
 		"UsePriority": true,
 		"AbilityList": [
 			{
-				"Name": "",
-				"ButtonID": 0,
+				"Name": "Force_Speed_Button",
+				"ButtonID": 6740,
 				"ButtonClass": "func_button",
 				"Chat_Uses": true,
 				"Mode": 2,
