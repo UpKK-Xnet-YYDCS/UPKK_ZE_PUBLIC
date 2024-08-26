@@ -24,6 +24,9 @@
         },
         {
           "Chat": "{ads_7}"
+        },
+        {
+          "Chat": "{ads_8}"
         }
       ]
     }
@@ -61,7 +64,7 @@
       "KR": "{RED}[X 커뮤니티] {LIME}현재 시간: {RED}{TIME} {PURPLE}현재 맵: {RED}{MAP}"
     },
     "ads_3": {
-      "CN": "{RED}[X社区] {PURPLE}欢迎加入X社区僵尸逃跑QQ群：{LIGHTPURPLE}606809103 {PURPLE}萌新玩家请访问官方论坛 {ORANGE}bbs.upkk.com {PURPLE}交流讨论游戏相关内容，并查看社区规则与最新活动。",
+      "CN": "{RED}[X社区] {PURPLE}欢迎加入X社区僵尸逃跑QQ群：{LIGHTPURPLE}606809103 {PURPLE}萌新玩家请访问官方论坛 {ORANGE}bbs.upkk.{PURPLE}c{ORANGE}o{LIME}m {PURPLE}交流讨论游戏相关内容，并查看社区规则与最新活动。",
       "US": "{RED}[X Community] {PURPLE}Join the X Community Zombie Escape QQ group: {LIGHTPURPLE}606809103 {PURPLE}New players, please visit the official forum {ORANGE}bbs.upkk.com {PURPLE}for discussions and to check the community rules and latest events.",
       "TW": "{RED}[X社區] {PURPLE}歡迎加入X社區殭屍逃跑QQ群：{LIGHTPURPLE}606809103 {PURPLE}新玩家請訪問官方論壇 {ORANGE}bbs.upkk.com {PURPLE}進行討論並查看社區規則和最新活動。",
       "JP": "{RED}[Xコミュニティ] {PURPLE}XコミュニティゾンビエスケープQQグループに参加してください：{LIGHTPURPLE}606809103 {PURPLE}新しいプレイヤーは、公式フォーラム{ORANGE}bbs.upkk.com {PURPLE}を訪れて、議論し、コミュニティルールと最新のイベントを確認してください。",
@@ -94,6 +97,13 @@
       "TW": "{RED}[X社區] {PURPLE} 如果您需要開啟神器hud 則可以輸入 {LIME}!ehud 3 開啟 !ehud 0 關閉 也可通過!ehud_pos x y z 數值調整位置(默認為 {ORANGE}!ehud_pos 80 50 50)",
       "JP": "{RED}[Xコミュニティ] {PURPLE}HUDを有効にする必要がある場合は、{LIME}!ehud 3を入力して有効にし、!ehud 0を入力して無効にします。また、!ehud_pos x y z で位置を調整できます（デフォルト：{ORANGE}!ehud_pos 80 50 50）",
       "KR": "{RED}[X 커뮤니티] {PURPLE}HUD를 활성화해야하는 경우 {LIME}!ehud 3를 입력하여 활성화하고 !ehud 0을 입력하여 비활성화하세요. 또한 !ehud_pos x y z로 위치를 조정할 수 있습니다 (기본값: {ORANGE}!ehud_pos 80 50 50)"
+    },
+    "ads_8": {
+      "CN": "{RED}[X社区] {PURPLE} 如果您需要切换按钮开始提示 可以输入 {GREEN}!bw 进行开关",
+      "US": "{RED}[X Community] {PURPLE}If you need to toggle the button start prompt, you can enter {GREEN}!bw to switch it on or off.",
+      "TW": "{RED}[X社區] {PURPLE} 如果您需要切換按鈕開始提示 可以輸入 {GREEN}!bw 進行開關",
+      "JP": "{RED}[Xコミュニティ] {PURPLE}ボタンの開始プロンプトを切り替える必要がある場合は、{GREEN}!bw を入力してオンまたはオフに切り替えることができます。",
+      "KR": "{RED}[X 커뮤니티] {PURPLE}버튼 시작 프롬프트를 전환해야 하는 경우 {GREEN}!bw 를 입력하여 켜거나 끌 수 있습니다."
     }
   },
   "MapsName": {
