@@ -1,0 +1,64 @@
+[
+	{
+		"Name": "Item_Human_Blizzard_Elite",
+		"ShortName": "Item_Human_Blizzard_Elite",
+		"Color": "{default}",
+		"HammerID": 16257,
+		"GlowColor": [255,255,255,255],
+		"FilterID": 0,
+		"FilterValue": "",
+		"BlockPickup": false,
+		"AllowTransfer": true,
+		"ForceDrop": true,
+		"Chat": true,
+		"Hud": true,
+		"TriggerID": 0,
+		"UsePriority": true,
+		"AbilityList": [
+			{
+				"Name": "Item_Human_Blizzard_Button",
+				"ButtonID": 16254,
+				"ButtonClass": "func_button",
+				"Chat_Uses": true,
+				"Mode": 7,
+				"MaxUses": 0,
+				"CoolDown": 0,
+				"Ignore": false,
+				"LockItem": false,
+				"MathID": 16258,
+				"MathNameFix": false
+			}
+		]
+	},
+	{
+		"Name": "Item_Human_Water_Elite",
+		"ShortName": "Item_Human_Water_Elite",
+		"Color": "{default}",
+		"HammerID": 16326,
+		"GlowColor": [255,255,255,255],
+		"FilterID": 0,
+		"FilterValue": "",
+		"BlockPickup": false,
+		"AllowTransfer": true,
+		"ForceDrop": true,
+		"Chat": true,
+		"Hud": true,
+		"TriggerID": 0,
+		"UsePriority": true,
+		"AbilityList": [
+			{
+				"Name": "Item_Human_Water_Button",
+				"ButtonID": 16329,
+				"ButtonClass": "func_button",
+				"Chat_Uses": true,
+				"Mode": 7,
+				"MaxUses": 0,
+				"CoolDown": 0,
+				"Ignore": false,
+				"LockItem": false,
+				"MathID": 16332,
+				"MathNameFix": false
+			}
+		]
+	}
+]
