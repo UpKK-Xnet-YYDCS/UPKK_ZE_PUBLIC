@@ -78,19 +78,6 @@
 		"UsePriority": true,
 		"AbilityList": [
 			{
-				"Name": "Item_Human_Thunder_Button",
-				"ButtonID": 16338,
-				"ButtonClass": "func_button",
-				"Chat_Uses": true,
-				"Mode": 6,
-				"MaxUses": 0,
-				"CoolDown": 0,
-				"Ignore": false,
-				"LockItem": false,
-				"MathID": 16346,
-				"MathNameFix": false
-			},
-			{
 				"Name": "Item_Human_Thunder_Switch",
 				"ButtonID": 16344,
 				"ButtonClass": "func_button",
@@ -101,6 +88,19 @@
 				"Ignore": false,
 				"LockItem": false,
 				"MathID": 16353,
+				"MathNameFix": false
+			},
+			{
+				"Name": "Item_Human_Thunder_Button",
+				"ButtonID": 16338,
+				"ButtonClass": "func_button",
+				"Chat_Uses": true,
+				"Mode": 6,
+				"MaxUses": 0,
+				"CoolDown": 0,
+				"Ignore": false,
+				"LockItem": false,
+				"MathID": 16346,
 				"MathNameFix": false
 			}
 		]
