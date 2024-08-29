@@ -318,7 +318,7 @@
         "DefIndex": 44,
         "Name": "High Explosive Grenade",
         "WeaponName": "weapon_hegrenade",
-        "Price": 2000,
+        "Price": 3000,
         "Command": "he",
         "Slot": "3",
         "Enable":true
@@ -327,7 +327,7 @@
         "DefIndex": 46,
         "Name": "Molotov",
         "WeaponName": "weapon_molotov",
-        "Price": 2500,
+        "Price": 5000,
         "Command": "mov;fire",
         "Slot": "3",
         "Enable":true
