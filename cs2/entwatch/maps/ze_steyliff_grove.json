@@ -1,7 +1,7 @@
 [
 	{
-		"Name": "Item_Human_Blizzard_Elite",
-		"ShortName": "Item_Human_Blizzard_Elite",
+		"Name": "暴雪/Blizzard",
+		"ShortName": "暴雪",
 		"Color": "{default}",
 		"HammerID": 16257,
 		"GlowColor": [255,255,255,255],
@@ -31,8 +31,8 @@
 		]
 	},
 	{
-		"Name": "Item_Human_Water_Elite",
-		"ShortName": "Item_Human_Water_Elite",
+		"Name": "水花/Water",
+		"ShortName": "水花",
 		"Color": "{default}",
 		"HammerID": 16326,
 		"GlowColor": [255,255,255,255],
@@ -62,8 +62,8 @@
 		]
 	},
 	{
-		"Name": "Item_Human_Thunder_Elite",
-		"ShortName": "Item_Human_Thunder_Elite",
+		"Name": "雷电/Thunder",
+		"ShortName": "雷电",
 		"Color": "{default}",
 		"HammerID": 16340,
 		"GlowColor": [255,255,255,255],
@@ -106,8 +106,8 @@
 		]
 	},
 	{
-		"Name": "Item_Human_Fire_Elite",
-		"ShortName": "",
+		"Name": "火焰/Fire",
+		"ShortName": "火焰",
 		"Color": "{default}",
 		"HammerID": 16392,
 		"GlowColor": [255,255,255,255],
@@ -150,8 +150,8 @@
 		]
 	},
 	{
-		"Name": "Item_Human_Cure_Elite",
-		"ShortName": "",
+		"Name": "疗伤/Cure",
+		"ShortName": "疗伤",
 		"Color": "{default}",
 		"HammerID": 16494,
 		"GlowColor": [255,255,255,255],
@@ -194,16 +194,16 @@
 		]
 	},
 	{
-		"Name": "Item_Zombie_Ward_Knife",
-		"ShortName": "",
+		"Name": "ZM 护罩/Zombie Ward",
+		"ShortName": "ZM 护罩",
 		"Color": "{default}",
 		"HammerID": 16604,
 		"GlowColor": [255,255,255,255],
 		"FilterID": 0,
 		"FilterValue": "",
 		"BlockPickup": false,
-		"AllowTransfer": true,
-		"ForceDrop": true,
+		"AllowTransfer": false,
+		"ForceDrop": false,
 		"Chat": true,
 		"Hud": true,
 		"TriggerID": 16602,
@@ -225,16 +225,16 @@
 		]
 	},
 	{
-		"Name": "Item_Zombie_Frazzle_Knife",
-		"ShortName": "",
+		"Name": "ZM 混乱/Zombie Frazzle",
+		"ShortName": "ZM 混乱",
 		"Color": "{default}",
 		"HammerID": 16618,
 		"GlowColor": [255,255,255,255],
 		"FilterID": 0,
 		"FilterValue": "",
 		"BlockPickup": false,
-		"AllowTransfer": true,
-		"ForceDrop": true,
+		"AllowTransfer": false,
+		"ForceDrop": false,
 		"Chat": true,
 		"Hud": true,
 		"TriggerID": 16616,
@@ -256,16 +256,16 @@
 		]
 	},
 	{
-		"Name": "Item_Zombie_Despair_Knife",
-		"ShortName": "",
+		"Name": "ZM 绝望/Zombie Despair",
+		"ShortName": "ZM 绝望",
 		"Color": "{default}",
 		"HammerID": 16640,
 		"GlowColor": [255,255,255,255],
 		"FilterID": 0,
 		"FilterValue": "",
 		"BlockPickup": false,
-		"AllowTransfer": true,
-		"ForceDrop": true,
+		"AllowTransfer": false,
+		"ForceDrop": false,
 		"Chat": true,
 		"Hud": true,
 		"TriggerID": 16638,
@@ -287,16 +287,16 @@
 		]
 	},
 	{
-		"Name": "Item_Zombie_Foul_Knife",
-		"ShortName": "",
+		"Name": "ZM 污秽/Zombie Foul",
+		"ShortName": "ZM 污秽",
 		"Color": "{default}",
 		"HammerID": 16698,
 		"GlowColor": [255,255,255,255],
 		"FilterID": 0,
 		"FilterValue": "",
 		"BlockPickup": false,
-		"AllowTransfer": true,
-		"ForceDrop": true,
+		"AllowTransfer": false,
+		"ForceDrop": false,
 		"Chat": true,
 		"Hud": true,
 		"TriggerID": 16673,
@@ -318,16 +318,16 @@
 		]
 	},
 	{
-		"Name": "Item_Zombie_Impact_Knife",
-		"ShortName": "",
+		"Name": "ZM 冲击/Zombie Impact",
+		"ShortName": "ZM 冲击",
 		"Color": "{default}",
 		"HammerID": 16718,
 		"GlowColor": [255,255,255,255],
 		"FilterID": 0,
 		"FilterValue": "",
 		"BlockPickup": false,
-		"AllowTransfer": true,
-		"ForceDrop": true,
+		"AllowTransfer": false,
+		"ForceDrop": false,
 		"Chat": true,
 		"Hud": true,
 		"TriggerID": 16716,
@@ -349,16 +349,16 @@
 		]
 	},
 	{
-		"Name": "Item_Zombie_Gravity_Knife",
-		"ShortName": "",
+		"Name": "ZM 黑洞/Zombie Gravity",
+		"ShortName": "ZM 黑洞",
 		"Color": "{default}",
 		"HammerID": 16741,
 		"GlowColor": [255,255,255,255],
 		"FilterID": 0,
 		"FilterValue": "",
 		"BlockPickup": false,
-		"AllowTransfer": true,
-		"ForceDrop": true,
+		"AllowTransfer": false,
+		"ForceDrop": false,
 		"Chat": true,
 		"Hud": true,
 		"TriggerID": 16739,
@@ -380,21 +380,34 @@
 		]
 	},
 	{
-		"Name": "Item_Zombie_Umbral_Knife",
-		"ShortName": "",
+		"Name": "ZM 阴影/Zombie Umbral",
+		"ShortName": "ZM 阴影",
 		"Color": "{default}",
 		"HammerID": 16809,
 		"GlowColor": [255,255,255,255],
 		"FilterID": 0,
 		"FilterValue": "",
 		"BlockPickup": false,
-		"AllowTransfer": true,
-		"ForceDrop": true,
+		"AllowTransfer": false,
+		"ForceDrop": false,
 		"Chat": true,
 		"Hud": true,
 		"TriggerID": 16807,
 		"UsePriority": true,
 		"AbilityList": [
+			{
+				"Name": "",
+				"ButtonID": 0,
+				"ButtonClass": "",
+				"Chat_Uses": false,
+				"Mode": 7,
+				"MaxUses": 0,
+				"CoolDown": 0,
+				"Ignore": false,
+				"LockItem": false,
+				"MathID": 16825,
+				"MathNameFix": false
+			},
 			{
 				"Name": "Item_Zombie_Umbral_Button",
 				"ButtonID": 16804,
@@ -411,16 +424,16 @@
 		]
 	},
 	{
-		"Name": "Item_Zombie_Siphon_Knife",
-		"ShortName": "",
+		"Name": "ZM 吸取/Zombie Siphon",
+		"ShortName": "ZM 吸取",
 		"Color": "{default}",
 		"HammerID": 16839,
 		"GlowColor": [255,255,255,255],
 		"FilterID": 0,
 		"FilterValue": "",
 		"BlockPickup": false,
-		"AllowTransfer": true,
-		"ForceDrop": true,
+		"AllowTransfer": false,
+		"ForceDrop": false,
 		"Chat": true,
 		"Hud": true,
 		"TriggerID": 16837,
@@ -442,8 +455,8 @@
 		]
 	},
 	{
-		"Name": "Item_Human_Aero_Elite",
-		"ShortName": "",
+		"Name": "劲风/Aero",
+		"ShortName": "劲风",
 		"Color": "{default}",
 		"HammerID": 16851,
 		"GlowColor": [255,255,255,255],
@@ -473,8 +486,8 @@
 		]
 	},
 	{
-		"Name": "Item_Human_Elixir2_Elite",
-		"ShortName": "",
+		"Name": "圣灵药2/Elixir2",
+		"ShortName": "圣灵药2",
 		"Color": "{default}",
 		"HammerID": 16902,
 		"GlowColor": [255,255,255,255],
@@ -504,8 +517,8 @@
 		]
 	},
 	{
-		"Name": "Item_Human_Elixir1_Elite",
-		"ShortName": "",
+		"Name": "圣灵药1/Elixir1",
+		"ShortName": "圣灵药1",
 		"Color": "{default}",
 		"HammerID": 16888,
 		"GlowColor": [255,255,255,255],
@@ -535,8 +548,8 @@
 		]
 	},
 	{
-		"Name": "Item_Human_Dia1_Elite",
-		"ShortName": "",
+		"Name": "光明1/Dia1",
+		"ShortName": "光明1",
 		"Color": "{default}",
 		"HammerID": 16913,
 		"GlowColor": [255,255,255,255],
@@ -566,8 +579,8 @@
 		]
 	},
 	{
-		"Name": "Item_Human_Dia2_Elite",
-		"ShortName": "",
+		"Name": "光明2/Dia2",
+		"ShortName": "光明2",
 		"Color": "{default}",
 		"HammerID": 16921,
 		"GlowColor": [255,255,255,255],
@@ -597,21 +610,34 @@
 		]
 	},
 	{
-		"Name": "Item_Zombie_Malefic_Knife",
-		"ShortName": "",
+		"Name": "ZM 邪咒/Zombie Malefic",
+		"ShortName": "ZM 邪咒",
 		"Color": "{default}",
 		"HammerID": 17073,
 		"GlowColor": [255,255,255,255],
 		"FilterID": 0,
 		"FilterValue": "",
 		"BlockPickup": false,
-		"AllowTransfer": true,
-		"ForceDrop": true,
+		"AllowTransfer": false,
+		"ForceDrop": false,
 		"Chat": true,
 		"Hud": true,
 		"TriggerID": 17071,
 		"UsePriority": true,
 		"AbilityList": [
+			{
+				"Name": "",
+				"ButtonID": 0,
+				"ButtonClass": "",
+				"Chat_Uses": false,
+				"Mode": 7,
+				"MaxUses": 0,
+				"CoolDown": 0,
+				"Ignore": false,
+				"LockItem": false,
+				"MathID": 17075,
+				"MathNameFix": false
+			},
 			{
 				"Name": "Item_Zombie_Malefic_Button",
 				"ButtonID": 17068,
@@ -628,8 +654,8 @@
 		]
 	},
 	{
-		"Name": "Item_Human_Benefic_Elite",
-		"ShortName": "",
+		"Name": "恩惠/Benefic",
+		"ShortName": "恩惠",
 		"Color": "{default}",
 		"HammerID": 17116,
 		"GlowColor": [255,255,255,255],
@@ -644,8 +670,8 @@
 		"UsePriority": true,
 		"AbilityList": [
 			{
-				"Name": "Item_Human_Benefic_Button",
-				"ButtonID": 17118,
+				"Name": "Item_Human_Benefic_Switch",
+				"ButtonID": 17124,
 				"ButtonClass": "func_button",
 				"Chat_Uses": true,
 				"Mode": 6,
@@ -655,12 +681,25 @@
 				"LockItem": false,
 				"MathID": 17120,
 				"MathNameFix": false
+			},
+			{
+				"Name": "Item_Human_Benefic_Button",
+				"ButtonID": 17118,
+				"ButtonClass": "func_button",
+				"Chat_Uses": true,
+				"Mode": 1,
+				"MaxUses": 0,
+				"CoolDown": 0,
+				"Ignore": false,
+				"LockItem": false,
+				"MathID": 0,
+				"MathNameFix": false
 			}
 		]
 	},
 	{
-		"Name": "Item_Human_Summons_Elite",
-		"ShortName": "",
+		"Name": "召唤/Summons",
+		"ShortName": "召唤",
 		"Color": "{default}",
 		"HammerID": 17212,
 		"GlowColor": [255,255,255,255],
@@ -690,8 +729,8 @@
 		]
 	},
 	{
-		"Name": "Item_Human_Elusive_Elite",
-		"ShortName": "",
+		"Name": "幻影/Elusive",
+		"ShortName": "幻影",
 		"Color": "{default}",
 		"HammerID": 17295,
 		"GlowColor": [255,255,255,255],
@@ -721,8 +760,8 @@
 		]
 	},
 	{
-		"Name": "Item_Human_Avant_Elite",
-		"ShortName": "前进或者后退",
+		"Name": "先驱/Avant",
+		"ShortName": "先驱",
 		"Color": "{default}",
 		"HammerID": 17307,
 		"GlowColor": [255,255,255,255],
@@ -752,8 +791,8 @@
 		]
 	},
 	{
-		"Name": "Item_Human_HolySword_Elite",
-		"ShortName": "",
+		"Name": "圣剑/HolySword",
+		"ShortName": "圣剑",
 		"Color": "{default}",
 		"HammerID": 17322,
 		"GlowColor": [255,255,255,255],
@@ -783,8 +822,8 @@
 		]
 	},
 	{
-		"Name": "Item_Human_DarkSword_Elite",
-		"ShortName": "",
+		"Name": "暗剑/DarkSword",
+		"ShortName": "暗剑",
 		"Color": "{default}",
 		"HammerID": 17337,
 		"GlowColor": [255,255,255,255],
