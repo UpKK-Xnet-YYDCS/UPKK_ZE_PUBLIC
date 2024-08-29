@@ -194,6 +194,360 @@
 		]
 	},
 	{
+		"Name": "劲风/Aero",
+		"ShortName": "劲风",
+		"Color": "{default}",
+		"HammerID": 16851,
+		"GlowColor": [255,255,255,255],
+		"FilterID": 0,
+		"FilterValue": "",
+		"BlockPickup": false,
+		"AllowTransfer": true,
+		"ForceDrop": true,
+		"Chat": true,
+		"Hud": true,
+		"TriggerID": 0,
+		"UsePriority": true,
+		"AbilityList": [
+			{
+				"Name": "Item_Human_Aero_Button",
+				"ButtonID": 16854,
+				"ButtonClass": "func_button",
+				"Chat_Uses": true,
+				"Mode": 6,
+				"MaxUses": 0,
+				"CoolDown": 0,
+				"Ignore": false,
+				"LockItem": false,
+				"MathID": 16857,
+				"MathNameFix": false
+			}
+		]
+	},
+	{
+		"Name": "圣灵药1/Elixir1",
+		"ShortName": "圣灵药1",
+		"Color": "{default}",
+		"HammerID": 16888,
+		"GlowColor": [255,255,255,255],
+		"FilterID": 0,
+		"FilterValue": "",
+		"BlockPickup": false,
+		"AllowTransfer": true,
+		"ForceDrop": true,
+		"Chat": true,
+		"Hud": true,
+		"TriggerID": 0,
+		"UsePriority": true,
+		"AbilityList": [
+			{
+				"Name": "Item_Human_Elixir1_Button",
+				"ButtonID": 16904,
+				"ButtonClass": "func_button",
+				"Chat_Uses": true,
+				"Mode": 3,
+				"MaxUses": 1,
+				"CoolDown": 0,
+				"Ignore": false,
+				"LockItem": false,
+				"MathID": 0,
+				"MathNameFix": false
+			}
+		]
+	},
+	{
+		"Name": "圣灵药2/Elixir2",
+		"ShortName": "圣灵药2",
+		"Color": "{default}",
+		"HammerID": 16902,
+		"GlowColor": [255,255,255,255],
+		"FilterID": 0,
+		"FilterValue": "",
+		"BlockPickup": false,
+		"AllowTransfer": true,
+		"ForceDrop": true,
+		"Chat": true,
+		"Hud": true,
+		"TriggerID": 0,
+		"UsePriority": true,
+		"AbilityList": [
+			{
+				"Name": "Item_Human_Elixir2_Button",
+				"ButtonID": 16886,
+				"ButtonClass": "func_button",
+				"Chat_Uses": true,
+				"Mode": 3,
+				"MaxUses": 1,
+				"CoolDown": 0,
+				"Ignore": false,
+				"LockItem": false,
+				"MathID": 0,
+				"MathNameFix": false
+			}
+		]
+	},
+	{
+		"Name": "光明1/Dia1",
+		"ShortName": "光明1",
+		"Color": "{default}",
+		"HammerID": 16913,
+		"GlowColor": [255,255,255,255],
+		"FilterID": 0,
+		"FilterValue": "",
+		"BlockPickup": false,
+		"AllowTransfer": true,
+		"ForceDrop": true,
+		"Chat": true,
+		"Hud": true,
+		"TriggerID": 0,
+		"UsePriority": true,
+		"AbilityList": [
+			{
+				"Name": "Item_Human_Dia1_Button",
+				"ButtonID": 16911,
+				"ButtonClass": "func_button",
+				"Chat_Uses": true,
+				"Mode": 3,
+				"MaxUses": 1,
+				"CoolDown": 0,
+				"Ignore": false,
+				"LockItem": false,
+				"MathID": 0,
+				"MathNameFix": false
+			}
+		]
+	},
+	{
+		"Name": "光明2/Dia2",
+		"ShortName": "光明2",
+		"Color": "{default}",
+		"HammerID": 16921,
+		"GlowColor": [255,255,255,255],
+		"FilterID": 0,
+		"FilterValue": "",
+		"BlockPickup": false,
+		"AllowTransfer": true,
+		"ForceDrop": true,
+		"Chat": true,
+		"Hud": true,
+		"TriggerID": 0,
+		"UsePriority": true,
+		"AbilityList": [
+			{
+				"Name": "Item_Human_Dia2_Button",
+				"ButtonID": 16919,
+				"ButtonClass": "func_button",
+				"Chat_Uses": true,
+				"Mode": 3,
+				"MaxUses": 1,
+				"CoolDown": 0,
+				"Ignore": false,
+				"LockItem": false,
+				"MathID": 0,
+				"MathNameFix": false
+			}
+		]
+	},
+	{
+		"Name": "恩惠/Benefic",
+		"ShortName": "恩惠",
+		"Color": "{default}",
+		"HammerID": 17116,
+		"GlowColor": [255,255,255,255],
+		"FilterID": 0,
+		"FilterValue": "",
+		"BlockPickup": false,
+		"AllowTransfer": true,
+		"ForceDrop": true,
+		"Chat": true,
+		"Hud": true,
+		"TriggerID": 0,
+		"UsePriority": true,
+		"AbilityList": [
+			{
+				"Name": "Item_Human_Benefic_Switch",
+				"ButtonID": 17124,
+				"ButtonClass": "func_button",
+				"Chat_Uses": true,
+				"Mode": 6,
+				"MaxUses": 0,
+				"CoolDown": 0,
+				"Ignore": false,
+				"LockItem": false,
+				"MathID": 17120,
+				"MathNameFix": false
+			},
+			{
+				"Name": "Item_Human_Benefic_Button",
+				"ButtonID": 17118,
+				"ButtonClass": "func_button",
+				"Chat_Uses": true,
+				"Mode": 1,
+				"MaxUses": 0,
+				"CoolDown": 0,
+				"Ignore": false,
+				"LockItem": false,
+				"MathID": 0,
+				"MathNameFix": false
+			}
+		]
+	},
+	{
+		"Name": "召唤/Summons",
+		"ShortName": "召唤",
+		"Color": "{default}",
+		"HammerID": 17212,
+		"GlowColor": [255,255,255,255],
+		"FilterID": 0,
+		"FilterValue": "",
+		"BlockPickup": false,
+		"AllowTransfer": true,
+		"ForceDrop": true,
+		"Chat": true,
+		"Hud": true,
+		"TriggerID": 0,
+		"UsePriority": true,
+		"AbilityList": [
+			{
+				"Name": "Item_Human_Summons_Button",
+				"ButtonID": 17207,
+				"ButtonClass": "func_button",
+				"Chat_Uses": true,
+				"Mode": 3,
+				"MaxUses": 1,
+				"CoolDown": 0,
+				"Ignore": false,
+				"LockItem": false,
+				"MathID": 0,
+				"MathNameFix": false
+			}
+		]
+	},
+	{
+		"Name": "幻影/Elusive",
+		"ShortName": "幻影",
+		"Color": "{default}",
+		"HammerID": 17295,
+		"GlowColor": [255,255,255,255],
+		"FilterID": 0,
+		"FilterValue": "",
+		"BlockPickup": false,
+		"AllowTransfer": true,
+		"ForceDrop": true,
+		"Chat": true,
+		"Hud": true,
+		"TriggerID": 0,
+		"UsePriority": true,
+		"AbilityList": [
+			{
+				"Name": "Item_Human_Elusive_Button",
+				"ButtonID": 17299,
+				"ButtonClass": "func_button",
+				"Chat_Uses": true,
+				"Mode": 3,
+				"MaxUses": 1,
+				"CoolDown": 0,
+				"Ignore": false,
+				"LockItem": false,
+				"MathID": 0,
+				"MathNameFix": false
+			}
+		]
+	},
+	{
+		"Name": "先驱/Avant",
+		"ShortName": "先驱",
+		"Color": "{default}",
+		"HammerID": 17307,
+		"GlowColor": [255,255,255,255],
+		"FilterID": 0,
+		"FilterValue": "",
+		"BlockPickup": false,
+		"AllowTransfer": true,
+		"ForceDrop": true,
+		"Chat": true,
+		"Hud": true,
+		"TriggerID": 0,
+		"UsePriority": true,
+		"AbilityList": [
+			{
+				"Name": "Item_Human_Avant_Button",
+				"ButtonID": 17311,
+				"ButtonClass": "func_button",
+				"Chat_Uses": true,
+				"Mode": 2,
+				"MaxUses": 0,
+				"CoolDown": 15,
+				"Ignore": false,
+				"LockItem": false,
+				"MathID": 0,
+				"MathNameFix": false
+			}
+		]
+	},
+	{
+		"Name": "圣剑/HolySword",
+		"ShortName": "圣剑",
+		"Color": "{default}",
+		"HammerID": 17322,
+		"GlowColor": [255,255,255,255],
+		"FilterID": 0,
+		"FilterValue": "",
+		"BlockPickup": false,
+		"AllowTransfer": true,
+		"ForceDrop": true,
+		"Chat": true,
+		"Hud": true,
+		"TriggerID": 0,
+		"UsePriority": true,
+		"AbilityList": [
+			{
+				"Name": "Item_Human_HolySword_Button",
+				"ButtonID": 17324,
+				"ButtonClass": "func_button",
+				"Chat_Uses": true,
+				"Mode": 6,
+				"MaxUses": 0,
+				"CoolDown": 0,
+				"Ignore": false,
+				"LockItem": false,
+				"MathID": 17326,
+				"MathNameFix": false
+			}
+		]
+	},
+	{
+		"Name": "暗剑/DarkSword",
+		"ShortName": "暗剑",
+		"Color": "{default}",
+		"HammerID": 17337,
+		"GlowColor": [255,255,255,255],
+		"FilterID": 0,
+		"FilterValue": "",
+		"BlockPickup": false,
+		"AllowTransfer": true,
+		"ForceDrop": true,
+		"Chat": true,
+		"Hud": true,
+		"TriggerID": 0,
+		"UsePriority": true,
+		"AbilityList": [
+			{
+				"Name": "Item_Human_DarkSword_Button",
+				"ButtonID": 17339,
+				"ButtonClass": "func_button",
+				"Chat_Uses": true,
+				"Mode": 6,
+				"MaxUses": 0,
+				"CoolDown": 0,
+				"Ignore": false,
+				"LockItem": false,
+				"MathID": 17342,
+				"MathNameFix": false
+			}
+		]
+	},
+	{
 		"Name": "ZM 护罩/Zombie Ward",
 		"ShortName": "ZM 护罩",
 		"Color": "{default}",
@@ -455,161 +809,6 @@
 		]
 	},
 	{
-		"Name": "劲风/Aero",
-		"ShortName": "劲风",
-		"Color": "{default}",
-		"HammerID": 16851,
-		"GlowColor": [255,255,255,255],
-		"FilterID": 0,
-		"FilterValue": "",
-		"BlockPickup": false,
-		"AllowTransfer": true,
-		"ForceDrop": true,
-		"Chat": true,
-		"Hud": true,
-		"TriggerID": 0,
-		"UsePriority": true,
-		"AbilityList": [
-			{
-				"Name": "Item_Human_Aero_Button",
-				"ButtonID": 16854,
-				"ButtonClass": "func_button",
-				"Chat_Uses": true,
-				"Mode": 6,
-				"MaxUses": 0,
-				"CoolDown": 0,
-				"Ignore": false,
-				"LockItem": false,
-				"MathID": 16857,
-				"MathNameFix": false
-			}
-		]
-	},
-	{
-		"Name": "圣灵药2/Elixir2",
-		"ShortName": "圣灵药2",
-		"Color": "{default}",
-		"HammerID": 16902,
-		"GlowColor": [255,255,255,255],
-		"FilterID": 0,
-		"FilterValue": "",
-		"BlockPickup": false,
-		"AllowTransfer": true,
-		"ForceDrop": true,
-		"Chat": true,
-		"Hud": true,
-		"TriggerID": 0,
-		"UsePriority": true,
-		"AbilityList": [
-			{
-				"Name": "Item_Human_Elixir2_Button",
-				"ButtonID": 16886,
-				"ButtonClass": "func_button",
-				"Chat_Uses": true,
-				"Mode": 3,
-				"MaxUses": 1,
-				"CoolDown": 0,
-				"Ignore": false,
-				"LockItem": false,
-				"MathID": 0,
-				"MathNameFix": false
-			}
-		]
-	},
-	{
-		"Name": "圣灵药1/Elixir1",
-		"ShortName": "圣灵药1",
-		"Color": "{default}",
-		"HammerID": 16888,
-		"GlowColor": [255,255,255,255],
-		"FilterID": 0,
-		"FilterValue": "",
-		"BlockPickup": false,
-		"AllowTransfer": true,
-		"ForceDrop": true,
-		"Chat": true,
-		"Hud": true,
-		"TriggerID": 0,
-		"UsePriority": true,
-		"AbilityList": [
-			{
-				"Name": "Item_Human_Elixir1_Button",
-				"ButtonID": 16904,
-				"ButtonClass": "func_button",
-				"Chat_Uses": true,
-				"Mode": 3,
-				"MaxUses": 1,
-				"CoolDown": 0,
-				"Ignore": false,
-				"LockItem": false,
-				"MathID": 0,
-				"MathNameFix": false
-			}
-		]
-	},
-	{
-		"Name": "光明1/Dia1",
-		"ShortName": "光明1",
-		"Color": "{default}",
-		"HammerID": 16913,
-		"GlowColor": [255,255,255,255],
-		"FilterID": 0,
-		"FilterValue": "",
-		"BlockPickup": false,
-		"AllowTransfer": true,
-		"ForceDrop": true,
-		"Chat": true,
-		"Hud": true,
-		"TriggerID": 0,
-		"UsePriority": true,
-		"AbilityList": [
-			{
-				"Name": "Item_Human_Dia1_Button",
-				"ButtonID": 16911,
-				"ButtonClass": "func_button",
-				"Chat_Uses": true,
-				"Mode": 3,
-				"MaxUses": 1,
-				"CoolDown": 0,
-				"Ignore": false,
-				"LockItem": false,
-				"MathID": 0,
-				"MathNameFix": false
-			}
-		]
-	},
-	{
-		"Name": "光明2/Dia2",
-		"ShortName": "光明2",
-		"Color": "{default}",
-		"HammerID": 16921,
-		"GlowColor": [255,255,255,255],
-		"FilterID": 0,
-		"FilterValue": "",
-		"BlockPickup": false,
-		"AllowTransfer": true,
-		"ForceDrop": true,
-		"Chat": true,
-		"Hud": true,
-		"TriggerID": 0,
-		"UsePriority": true,
-		"AbilityList": [
-			{
-				"Name": "Item_Human_Dia2_Button",
-				"ButtonID": 16919,
-				"ButtonClass": "func_button",
-				"Chat_Uses": true,
-				"Mode": 3,
-				"MaxUses": 1,
-				"CoolDown": 0,
-				"Ignore": false,
-				"LockItem": false,
-				"MathID": 0,
-				"MathNameFix": false
-			}
-		]
-	},
-	{
 		"Name": "ZM 邪咒/Zombie Malefic",
 		"ShortName": "ZM 邪咒",
 		"Color": "{default}",
@@ -649,205 +848,6 @@
 				"Ignore": false,
 				"LockItem": false,
 				"MathID": 17067,
-				"MathNameFix": false
-			}
-		]
-	},
-	{
-		"Name": "恩惠/Benefic",
-		"ShortName": "恩惠",
-		"Color": "{default}",
-		"HammerID": 17116,
-		"GlowColor": [255,255,255,255],
-		"FilterID": 0,
-		"FilterValue": "",
-		"BlockPickup": false,
-		"AllowTransfer": true,
-		"ForceDrop": true,
-		"Chat": true,
-		"Hud": true,
-		"TriggerID": 0,
-		"UsePriority": true,
-		"AbilityList": [
-			{
-				"Name": "Item_Human_Benefic_Switch",
-				"ButtonID": 17124,
-				"ButtonClass": "func_button",
-				"Chat_Uses": true,
-				"Mode": 6,
-				"MaxUses": 0,
-				"CoolDown": 0,
-				"Ignore": false,
-				"LockItem": false,
-				"MathID": 17120,
-				"MathNameFix": false
-			},
-			{
-				"Name": "Item_Human_Benefic_Button",
-				"ButtonID": 17118,
-				"ButtonClass": "func_button",
-				"Chat_Uses": true,
-				"Mode": 1,
-				"MaxUses": 0,
-				"CoolDown": 0,
-				"Ignore": false,
-				"LockItem": false,
-				"MathID": 0,
-				"MathNameFix": false
-			}
-		]
-	},
-	{
-		"Name": "召唤/Summons",
-		"ShortName": "召唤",
-		"Color": "{default}",
-		"HammerID": 17212,
-		"GlowColor": [255,255,255,255],
-		"FilterID": 0,
-		"FilterValue": "",
-		"BlockPickup": false,
-		"AllowTransfer": true,
-		"ForceDrop": true,
-		"Chat": true,
-		"Hud": true,
-		"TriggerID": 0,
-		"UsePriority": true,
-		"AbilityList": [
-			{
-				"Name": "Item_Human_Summons_Button",
-				"ButtonID": 17207,
-				"ButtonClass": "func_button",
-				"Chat_Uses": true,
-				"Mode": 3,
-				"MaxUses": 1,
-				"CoolDown": 0,
-				"Ignore": false,
-				"LockItem": false,
-				"MathID": 0,
-				"MathNameFix": false
-			}
-		]
-	},
-	{
-		"Name": "幻影/Elusive",
-		"ShortName": "幻影",
-		"Color": "{default}",
-		"HammerID": 17295,
-		"GlowColor": [255,255,255,255],
-		"FilterID": 0,
-		"FilterValue": "",
-		"BlockPickup": false,
-		"AllowTransfer": true,
-		"ForceDrop": true,
-		"Chat": true,
-		"Hud": true,
-		"TriggerID": 0,
-		"UsePriority": true,
-		"AbilityList": [
-			{
-				"Name": "Item_Human_Elusive_Button",
-				"ButtonID": 17299,
-				"ButtonClass": "func_button",
-				"Chat_Uses": true,
-				"Mode": 3,
-				"MaxUses": 1,
-				"CoolDown": 0,
-				"Ignore": false,
-				"LockItem": false,
-				"MathID": 0,
-				"MathNameFix": false
-			}
-		]
-	},
-	{
-		"Name": "先驱/Avant",
-		"ShortName": "先驱",
-		"Color": "{default}",
-		"HammerID": 17307,
-		"GlowColor": [255,255,255,255],
-		"FilterID": 0,
-		"FilterValue": "",
-		"BlockPickup": false,
-		"AllowTransfer": true,
-		"ForceDrop": true,
-		"Chat": true,
-		"Hud": true,
-		"TriggerID": 0,
-		"UsePriority": true,
-		"AbilityList": [
-			{
-				"Name": "Item_Human_Avant_Button",
-				"ButtonID": 17311,
-				"ButtonClass": "func_button",
-				"Chat_Uses": true,
-				"Mode": 2,
-				"MaxUses": 0,
-				"CoolDown": 15,
-				"Ignore": false,
-				"LockItem": false,
-				"MathID": 0,
-				"MathNameFix": false
-			}
-		]
-	},
-	{
-		"Name": "圣剑/HolySword",
-		"ShortName": "圣剑",
-		"Color": "{default}",
-		"HammerID": 17322,
-		"GlowColor": [255,255,255,255],
-		"FilterID": 0,
-		"FilterValue": "",
-		"BlockPickup": false,
-		"AllowTransfer": true,
-		"ForceDrop": true,
-		"Chat": true,
-		"Hud": true,
-		"TriggerID": 0,
-		"UsePriority": true,
-		"AbilityList": [
-			{
-				"Name": "Item_Human_HolySword_Button",
-				"ButtonID": 17324,
-				"ButtonClass": "func_button",
-				"Chat_Uses": true,
-				"Mode": 6,
-				"MaxUses": 0,
-				"CoolDown": 0,
-				"Ignore": false,
-				"LockItem": false,
-				"MathID": 17326,
-				"MathNameFix": false
-			}
-		]
-	},
-	{
-		"Name": "暗剑/DarkSword",
-		"ShortName": "暗剑",
-		"Color": "{default}",
-		"HammerID": 17337,
-		"GlowColor": [255,255,255,255],
-		"FilterID": 0,
-		"FilterValue": "",
-		"BlockPickup": false,
-		"AllowTransfer": true,
-		"ForceDrop": true,
-		"Chat": true,
-		"Hud": true,
-		"TriggerID": 0,
-		"UsePriority": true,
-		"AbilityList": [
-			{
-				"Name": "Item_Human_DarkSword_Button",
-				"ButtonID": 17339,
-				"ButtonClass": "func_button",
-				"Chat_Uses": true,
-				"Mode": 6,
-				"MaxUses": 0,
-				"CoolDown": 0,
-				"Ignore": false,
-				"LockItem": false,
-				"MathID": 17342,
 				"MathNameFix": false
 			}
 		]
