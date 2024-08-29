@@ -365,8 +365,8 @@
 		"UsePriority": true,
 		"AbilityList": [
 			{
-				"Name": "Item_Human_Benefic_Switch",
-				"ButtonID": 17124,
+				"Name": "Item_Human_Benefic_Button",
+				"ButtonID": 17118,
 				"ButtonClass": "func_button",
 				"Chat_Uses": true,
 				"Mode": 6,
@@ -375,19 +375,6 @@
 				"Ignore": false,
 				"LockItem": false,
 				"MathID": 17120,
-				"MathNameFix": false
-			},
-			{
-				"Name": "Item_Human_Benefic_Button",
-				"ButtonID": 17118,
-				"ButtonClass": "func_button",
-				"Chat_Uses": true,
-				"Mode": 1,
-				"MaxUses": 0,
-				"CoolDown": 0,
-				"Ignore": false,
-				"LockItem": false,
-				"MathID": 0,
 				"MathNameFix": false
 			}
 		]
