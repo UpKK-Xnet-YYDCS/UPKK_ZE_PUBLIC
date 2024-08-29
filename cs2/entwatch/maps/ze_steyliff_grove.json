@@ -742,7 +742,7 @@
 		"FilterID": 0,
 		"FilterValue": "",
 		"BlockPickup": false,
-		"AllowTransfer": false,
+		"AllowTransfer": true,
 		"ForceDrop": false,
 		"Chat": true,
 		"Hud": true,
