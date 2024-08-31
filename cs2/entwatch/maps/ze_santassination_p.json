@@ -171,13 +171,13 @@
 		"UsePriority": true,
 		"AbilityList": [
 			{
-				"Name": "item_button_6",
-				"ButtonID": 543,
-				"ButtonClass": "func_button",
+				"Name": "",
+				"ButtonID": 0,
+				"ButtonClass": "",
 				"Chat_Uses": false,
-				"Mode": 2,
+				"Mode": 1,
 				"MaxUses": 0,
-				"CoolDown": 7,
+				"CoolDown": 0,
 				"Ignore": false,
 				"LockItem": false,
 				"MathID": 0,
