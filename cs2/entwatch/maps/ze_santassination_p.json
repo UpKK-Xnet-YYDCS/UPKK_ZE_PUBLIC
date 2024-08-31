@@ -47,9 +47,9 @@
 		"UsePriority": true,
 		"AbilityList": [
 			{
-				"Name": "item_button_2",
-				"ButtonID": 3516,
-				"ButtonClass": "func_button",
+				"Name": "",
+				"ButtonID": 0,
+				"ButtonClass": "",
 				"Chat_Uses": false,
 				"Mode": 1,
 				"MaxUses": 0,
@@ -78,16 +78,16 @@
 		"UsePriority": true,
 		"AbilityList": [
 			{
-				"Name": "item_button_3",
-				"ButtonID": 3587,
-				"ButtonClass": "func_button",
+				"Name": "",
+				"ButtonID": 0,
+				"ButtonClass": "",
 				"Chat_Uses": false,
-				"Mode": 6,
+				"Mode": 1,
 				"MaxUses": 0,
 				"CoolDown": 0,
 				"Ignore": false,
 				"LockItem": false,
-				"MathID": 3601,
+				"MathID": 0,
 				"MathNameFix": false
 			}
 		]
@@ -165,8 +165,8 @@
 		"BlockPickup": false,
 		"AllowTransfer": true,
 		"ForceDrop": true,
-		"Chat": true,
-		"Hud": true,
+		"Chat": false,
+		"Hud": false,
 		"TriggerID": 0,
 		"UsePriority": true,
 		"AbilityList": [
