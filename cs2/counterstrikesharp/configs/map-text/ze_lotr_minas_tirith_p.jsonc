@@ -41,8 +41,8 @@
   "** THE BOATS ARE COMMING ** PREPARE YOURSELVES **": {
     "translation": "** 船已经来了**准备防守僵尸**"
   },
-  "** RESIST 20 SECONDS! **": {
-    "translation": "** 守住23秒**"
+  "** RESIST 25 SECONDS! **": {
+    "translation": "** 守住25秒**"
   },
   "** RETREAT !! RIVER ZONE IS LOST **": {
     "translation": "** 快撤退！！我们失去了河岸防守区，这里守不住了 **"
@@ -53,8 +53,8 @@
   "** OSGILIATH IS LOST ** RETREAT ! **": {
     "translation": "** 奥斯吉力亚斯守不住了** 快撤退！ **"
   },
-  "** TAKE THE HORSES (USE AND FORWARDS KEY) **": {
-    "translation": "** 快上马！(大跳上马对马背按E按3次W加速，或者卡在马头前) **"
+  "** TAKE THE HORSES  **": {
+    "translation": "** 快上马！**"
   },
   "** ORCS HAVE IRRUPTED THROUGH OUR DEFENSES ** RETREAT **": {
     "translation": "** 兽人冲破了我们的防线 ** 快撤退 **"
@@ -195,7 +195,7 @@
     "translation": "** 防守主大门，为了接下来可以继续到达米纳斯顶部防守 **"
   },
   "** THE GHOST ARMY IS COMING! PREPARE YOURSELVES FOR THE LAST DEFENSE ! **": {
-    "translation": "** 150秒，幽灵军队正在赶来！为最后的决战做好准备 **"
+    "translation": "** 140秒，幽灵军队正在赶来！为最后的决战做好准备 **"
   },
   "** Thanks to Kaemon **": {
     "translation": "** 感谢Kaemon **"
@@ -218,13 +218,13 @@
   "** WARMUP ROUND ** MASSIVE NUKE IN 60 SECONDS **": {
     "translation": "** 热身回合 ** 核爆将60秒后启用 **"
   },
-  "** Tip 1 : press +use on pickable objects to build barricades **": {
+  "** Tip 1 : press +use on pickable objects to build barricades ** ": {
     "translation": "** 提示1：按E键可使用拾取到的障碍物 **"
   },
-  "** Tip 2 : reach and win the end of a stage to level up **": {
+  "** Tip 2 : reach and win the end of a stage to level up ** ": {
     "translation": "** 提示2：到达并赢得关卡胜利可以提高可拾取的神器等级 **"
   },
-  "** Tip 3 : take items at zombie and human shops in spawn **": {
+  "** Tip 3 : take items at zombie and human shops in spawn ** ": {
     "translation": "** 提示3：在僵尸和人类神器商店可以凭神器等级获取神器 **"
   },
   "** Tip 4 : your current level is always displayed on new rounds or your kill score divided by 100 approximately **": {
@@ -302,10 +302,10 @@
   "** This is the first round. . **": {
     "translation": "** 这是第一回合 **"
   },
-  "** WARMUP ROUND ** ROUND RESTART IN 60 SECONDS **": {
+  "** WARMUP ROUND ** ROUND RESTART IN 60 SECONDS ** ": {
     "translation": "** 热身回合 ** 60秒后重新开始游戏 **"
   },
-  "** WARMUP ROUND ** ROUND RESTART IN 10 SECONDS **": {
+  "** WARMUP ROUND ** ROUND RESTART IN 10 SECONDS ** ": {
     "translation": "** 热身回合 ** 10秒后重新开始游戏 **"
   },
   "** WARMUP ROUND IS OVER! **": {
@@ -322,26 +322,5 @@
   },
   "** KILL THE REMAINING ZOMBIES **": {
     "translation": "** 杀死剩下的僵尸 **"
-  },
-  "** Tip 1 : press +use on pickable objects to build barricades ** ": {
-    "translation": ""
-  },
-  "** WARMUP ROUND ** ROUND RESTART IN 60 SECONDS ** ": {
-    "translation": ""
-  },
-  "** Tip 2 : reach and win the end of a stage to level up ** ": {
-    "translation": ""
-  },
-  "** Tip 3 : take items at zombie and human shops in spawn ** ": {
-    "translation": ""
-  },
-  "** WARMUP ROUND ** ROUND RESTART IN 10 SECONDS ** ": {
-    "translation": ""
-  },
-  "** RESIST 25 SECONDS! **": {
-    "translation": ""
-  },
-  "** TAKE THE HORSES  **": {
-    "translation": ""
   }
 }
