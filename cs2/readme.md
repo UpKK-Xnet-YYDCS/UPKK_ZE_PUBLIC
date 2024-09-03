@@ -26,7 +26,7 @@
     "filename"          "ze_greencity_p"
     "RestrictedTimes"   "08:00-12:00;14:00-23:00"
     "MinPlayers"        "33"
-}
+}```
 
 
 # 地图预定
