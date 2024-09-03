@@ -6,6 +6,29 @@
 |  cs2fixes |  ZR模式的僵尸配置 cf2f管理等 |
 
 
+# 地图配置 [MapChooser](https://github.com/UpKK-Xnet-YYDCS/UPKK_ZE_PUBLIC/blob/master/cs2/counterstrikesharp/configs/plugins/MapChooser/README.md)
+
+
+| Key            | Value          |
+|----------------|----------------|
+| workshop_id    | 3194922441     |
+| enabled        | 1              |
+| filename       | ze_greencity_p |
+| RestrictedTimes| 08:00-12:00;14:00-23:00 |
+| MinPlayers     | 33             |
+
+
+```plaintext
+"ze_greencity_p"
+{
+    "workshop_id"        "3194922441"
+    "enabled"           "1"
+    "filename"          "ze_greencity_p"
+    "RestrictedTimes"   "08:00-12:00;14:00-23:00"
+    "MinPlayers"        "33"
+}
+
+
 # 地图预定
 - !yd 地图名已支持
 
