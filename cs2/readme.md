@@ -6,7 +6,7 @@
 |  cs2fixes |  ZR模式的僵尸配置 cf2f管理等 |
 
 
-# 地图配置 [MapChooser](https://github.com/UpKK-Xnet-YYDCS/UPKK_ZE_PUBLIC/blob/master/cs2/counterstrikesharp/configs/plugins/MapChooser/README.md)
+# 地图配置 [MapChooser](https://github.com/UpKK-Xnet-YYDCS/UPKK_ZE_PUBLIC/blob/master/cs2/counterstrikesharp/configs/plugins/MapChooser)
 
 
 | Key            | Value          |
