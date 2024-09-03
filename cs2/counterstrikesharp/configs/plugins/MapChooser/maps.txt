@@ -1948,6 +1948,9 @@
 		"enabled"		"1"
 		"filename"		"ze_lotr_minas_tirith_p"
 		"updatedname"		"ze_LOTR_Minas_Tirith_p"
+		"search"		"米那斯;魔戒3"
+		"RestrictedTimes"		"00:00-17:00;22:00-00:00"
+		"MinPlayers"		"32"
 	}
 	"ze_flying_world"
 	{
@@ -1976,6 +1979,9 @@
 		"enabled"		"1"
 		"filename"		"ze_santassination_p"
 		"updatedname"		"ze_santassination_p"
+		"search"		"狮子王"
+		"RestrictedTimes"		"00:00-17:00"
+		"MinPlayers"		"32"
 	}
 	"ze_rooftop_rogue_ws"
 	{
