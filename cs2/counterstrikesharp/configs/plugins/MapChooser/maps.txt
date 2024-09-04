@@ -5,6 +5,9 @@
 		"workshop_id"		"3120465300"
 		"enabled"		"1"
 		"filename"		"ze_frostdrake_tower_p"
+		"updatedname"		"ze_frostdrake_tower_p"
+		"search"		"寒霜高塔;冰龙"
+		"MinPlayers"		"32"
 	}
 	"ze_otakuroom"
 	{
@@ -305,6 +308,9 @@
 		"workshop_id"		"3093361377"
 		"enabled"		"1"
 		"filename"		"ze_surf_danger_p"
+		"updatedname"		"ze_surf_danger_p"
+		"search"		"危险滑翔"
+		"RestrictedTimes"	"00:00-12:00;20:00-00:00"
 	}
 	"ze_thousand_steps_p"
 	{
@@ -354,12 +360,18 @@
 		"workshop_id"		"3105755546"
 		"enabled"		"1"
 		"filename"		"ze_surf_vortex_p"
+		"updatedname"		"ze_surf_vortex_p"
+		"search"		"漩涡滑翔"
+		"RestrictedTimes"	"00:00-12:00;20:00-00:00"
 	}
 	"ze_surf_saltfish_cs2"
 	{
 		"workshop_id"		"3124799228"
 		"enabled"		"1"
 		"filename"		"ze_surf_saltfish_cs2"
+		"updatedname"		"ze_surf_saltfish_cs2"
+		"search"		"咸鱼滑翔"
+		"RestrictedTimes"	"00:00-12:00;20:00-00:00"
 	}
 	"ze_minecraft_journey_v1"
 	{
@@ -390,6 +402,9 @@
 		"workshop_id"		"3224375193"
 		"enabled"		"1"
 		"filename"		"ze_surf_sparks"
+		"updatedname"		"ze_surf_sparks"
+		"search"		"海上风情滑翔"
+		"RestrictedTimes"	"00:00-18:00;20:00-00:00"
 	}
 	"ze_Boatescape_Ultimate"
 	{
@@ -673,6 +688,9 @@
 		"workshop_id"		"3082188705"
 		"enabled"		"1"
 		"filename"		"ze_surf_gypt_p"
+		"updatedname"		"ze_surf_gypt_p"
+		"search"		"大金字塔滑翔"
+		"RestrictedTimes"	"00:00-12:00;20:00-00:00"
 	}
 	"ze_ALIEN_mountain_escape_p"
 	{
@@ -857,6 +875,9 @@
 		"workshop_id"		"3236908736"
 		"enabled"		"1"
 		"filename"		"ze_surf_sahok"
+		"updatedname"		"ze_surf_sahok"
+		"search"		"密室滑翔"
+		"RestrictedTimes"	"00:00-12:00;20:00-00:00"
 	}
 	"ze_siberia_1990_p"
 	{
@@ -919,6 +940,9 @@
 		"workshop_id"		"3248498691"
 		"enabled"		"0"
 		"filename"		"ze_surf_shonyudo_v1"
+		"updatedname"		"ze_surf_shonyudo_v1_cs2"
+		"search"		"山涧幽谷大滑翔v1;钟乳洞滑翔v1"
+		"RestrictedTimes"	"00:00-12:00;20:00-00:00"
 	}
 	"ze_Arcana_Heart"
 	{
@@ -1100,7 +1124,9 @@
 		"workshop_id"		"3170338275"
 		"enabled"		"1"
 		"filename"		"ze_surf_okitsu_shonyudo"
-		"updatedname"		"ze_surfokitsushonyudo"
+		"updatedname"		"ze_surf_okitsu_shonyudo"
+		"search"		"山涧幽谷大滑翔;钟乳洞滑翔"
+		"RestrictedTimes"	"00:00-18:00;20:00-00:00"
 	}
 	"ze_secret_garden"
 	{
@@ -1138,6 +1164,8 @@
 		"enabled"		"1"
 		"filename"		"ze_surf_concrete"
 		"updatedname"		"ze_surf_concrete"
+		"search"		"带土滑翔"
+		"RestrictedTimes"	"00:00-18:00;20:00-00:00"
 	}
 	"ze_Aware"
 	{
@@ -1376,6 +1404,8 @@
 		"enabled"		"1"
 		"filename"		"ze_surf_soft_cs2"
 		"updatedname"		"ze_surf_soft_cs2"
+		"search"		"电波滑翔"
+		"RestrictedTimes"	"00:00-18:00;20:00-00:00"
 	}
 	"ze_simple_teamplay_p"
 	{
@@ -1711,6 +1741,8 @@
 		"enabled"		"1"
 		"filename"		"ze_surf_hp"
 		"updatedname"		"ze_surf_hp"
+		"search"		"卖血滑翔"
+		"RestrictedTimes"	"00:00-12:00;20:00-00:00"
 	}
 	"ze_undertale_sans_final"
 	{
@@ -1953,6 +1985,8 @@
 		"enabled"		"1"
 		"filename"		"ze_surf_sky_islands"
 		"updatedname"		"ze_surf_sky_islands"
+		"search"		"浮岛滑翔"
+		"RestrictedTimes"	"00:00-18:00;20:00-00:00"
 	}
 	"ze_honkai_impact_tqs"
 	{
