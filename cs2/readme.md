@@ -14,7 +14,7 @@
 | workshop_id     | 3274462953                      | ID for the map workshop                       |
 | enabled         | 1                              | 1 开启 0 禁用                                  |
 | filename        | ze_p_v_z                        | 地图文件名                                     |
-| RestrictedTimes | 08:00-12:00;14:00-23:00         | 禁用时间段 支持多个 (即不在这些时间段都可以玩) |
+| RestrictedTimes | 08:00-12:00;14:00-23:00         | 禁用时间段 支持多个 (即不在这些时间段都可以玩)  24:00是不合法的时间会导致无法解析 | 
 | MinPlayers      | 16                             | 最低需要玩家                                   |
 | search          | "植物;pvz"                       | 预定搜索多关键词                               |
 
