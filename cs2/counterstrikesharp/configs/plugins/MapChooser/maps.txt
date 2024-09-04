@@ -7,7 +7,6 @@
 		"filename"		"ze_frostdrake_tower_p"
 		"updatedname"		"ze_frostdrake_tower_p"
 		"search"		"寒霜高塔;冰龙"
-		"MinPlayers"		"32"
 	}
 	"ze_otakuroom"
 	{
@@ -446,7 +445,9 @@
 	{
 		"workshop_id"		"3217227843"
 		"enabled"		"1"
-		"filename"		"ze_S_A_M"
+		"filename"		"ze_s_a_m"
+		"updatedname"		"ze_S_A_M"
+		"RestrictedTimes"	"00:00-17:00"
 	}
 	"ze_Requiem"
 	{
@@ -2002,7 +2003,7 @@
 		"filename"		"ze_lotr_minas_tirith_p"
 		"updatedname"		"ze_LOTR_Minas_Tirith_p"
 		"search"		"米那斯;魔戒3"
-		"RestrictedTimes"	"00:00-17:00;22:00-23:59"
+		"RestrictedTimes"	"00:00-17:00"
 		"MinPlayers"		"32"
 	}
 	"ze_flying_world"
