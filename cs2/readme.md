@@ -5,7 +5,6 @@
 |  counterstrikesharp |  绝大多数插件配置,以及地图禁用等 |
 |  cs2fixes |  ZR模式的僵尸配置 cf2f管理等 |
 
-
 # 地图配置 [MapChooser](https://github.com/UpKK-Xnet-YYDCS/UPKK_ZE_PUBLIC/blob/master/cs2/counterstrikesharp/configs/plugins/MapChooser)
 
 
@@ -18,7 +17,7 @@
 | MinPlayers      | 16                             | 最低需要玩家(如果先前已被预定 则不起限制作用)                                   |
 | search          | "植物;pvz"                       | 预定搜索多关键词                               |
 
-
+# 配置样本
 ```plaintext
 	"ze_p_v_z"
 	{
@@ -30,6 +29,7 @@
         	"RestrictedTimes" 	"01:00-06:00;14:00-23:50"
 	}
 ```
+
 
 # 地图预定
 - !yd 地图名已支持
