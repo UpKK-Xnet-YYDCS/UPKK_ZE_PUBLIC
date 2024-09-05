@@ -1946,6 +1946,7 @@
 		"enabled"		"1"
 		"filename"		"ze_deadcore"
 		"updatedname"		"ze_deadcore"
+		"search"		"死亡核心"
 	}
 	"ze_fapescape_katrina"
 	{
@@ -2038,7 +2039,7 @@
 		"filename"		"ze_santassination_p"
 		"updatedname"		"ze_santassination_p"
 		"search"		"狮子王"
-		"RestrictedTimes"	"12:00-23:00"
+		"RestrictedTimes"	"00:00-23:59"
 		"MinPlayers"		"32"
 	}
 	"ze_rooftop_rogue_ws"
