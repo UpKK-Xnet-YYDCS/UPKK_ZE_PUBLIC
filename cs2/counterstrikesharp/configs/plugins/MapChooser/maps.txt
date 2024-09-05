@@ -726,8 +726,12 @@
 	"ze_onahole_p"
 	{
 		"workshop_id"		"3166586820"
-		"enabled"		"0"
+		"enabled"		"1"
 		"filename"		"ze_onahole_p"
+		"updatedname"		"ze_onahole_p"
+		"search"		"mako杯"
+		"RestrictedTimes"	"00:00-23:59"
+		"MinPlayers"		"32"
 	}
 	"ze_only_up"
 	{
@@ -1690,7 +1694,7 @@
 	"ze_FFVII_Mako_Reactor_v5_3"
 	{
 		"workshop_id"		"3289746748"
-		"enabled"		"0"
+		"enabled"		"1"
 		"filename"		"ze_FFVII_Mako_v5_3"
 		"updatedname"		"ze_FFVII_Mako_Reactor_v5_3"
 	}
