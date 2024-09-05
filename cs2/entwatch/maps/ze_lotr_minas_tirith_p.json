@@ -26,7 +26,7 @@
 				"Ignore": false,
 				"LockItem": false,
 				"MathID": 147,
-				"MathNameFix": false
+				"MathNameFix": true
 			}
 		]
 	},
@@ -540,7 +540,7 @@
 		"Chat": true,
 		"Hud": true,
 		"TriggerID": 0,
-		"UsePriority": true,
+		"UsePriority": false,
 		"AbilityList": [
 			{
 				"Name": "prop_explosive_temp1_2",
@@ -652,7 +652,7 @@
 	},
     {
 		"Name": "油/Oil Vase",
-		"ShortName": "item_oil_1",
+		"ShortName": "油",
 		"Color": "{default}",
 		"HammerID": 865,
 		"GlowColor": [255,255,255,255],
