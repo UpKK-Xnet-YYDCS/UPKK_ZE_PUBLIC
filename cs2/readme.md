@@ -27,7 +27,7 @@
 		"filename"		"ze_p_v_z"
 		"updatedname"		"ze_p_v_z"
 		"search"		"植物;pvz"
-        	"RestrictedTimes" "01:00-06:00;14:00-23:50"
+        	"RestrictedTimes" 	"01:00-06:00;14:00-23:50"
 	}
 ```
 
