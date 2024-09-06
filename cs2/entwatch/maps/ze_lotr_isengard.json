@@ -1,0 +1,188 @@
+[
+	{
+		"Name": "ZM 蜘蛛/ZM Spider",
+		"ShortName": "ZM 蜘蛛",
+		"Color": "{default}",
+		"HammerID": 20309,
+		"GlowColor": [255,255,255,255],
+		"FilterID": 0,
+		"FilterValue": "",
+		"BlockPickup": false,
+		"AllowTransfer": false,
+		"ForceDrop": false,
+		"Chat": true,
+		"Hud": true,
+		"TriggerID": 0,
+		"UsePriority": false,
+		"AbilityList": [
+			{
+				"Name": "",
+				"ButtonID": 0,
+				"ButtonClass": "",
+				"Chat_Uses": false,
+				"Mode": 1,
+				"MaxUses": 0,
+				"CoolDown": 0,
+				"Ignore": false,
+				"LockItem": false,
+				"MathID": 0,
+				"MathNameFix": false
+			}
+		]
+	},
+    {
+		"Name": "树人/Ent",
+		"ShortName": "树人",
+		"Color": "{default}",
+		"HammerID": 20501,
+		"GlowColor": [255,255,255,255],
+		"FilterID": 0,
+		"FilterValue": "",
+		"BlockPickup": false,
+		"AllowTransfer": false,
+		"ForceDrop": false,
+		"Chat": true,
+		"Hud": true,
+		"TriggerID": 0,
+		"UsePriority": false,
+		"AbilityList": [
+			{
+				"Name": "",
+				"ButtonID": 0,
+				"ButtonClass": "",
+				"Chat_Uses": false,
+				"Mode": 1,
+				"MaxUses": 0,
+				"CoolDown": 0,
+				"Ignore": false,
+				"LockItem": false,
+				"MathID": 0,
+				"MathNameFix": false
+			}
+		]
+	},
+    {
+		"Name": "障碍物/Barricade",
+		"ShortName": "障碍物",
+		"Color": "{default}",
+		"HammerID": 20532,
+		"GlowColor": [255,255,255,255],
+		"FilterID": 0,
+		"FilterValue": "",
+		"BlockPickup": false,
+		"AllowTransfer": true,
+		"ForceDrop": true,
+		"Chat": true,
+		"Hud": true,
+		"TriggerID": 0,
+		"UsePriority": true,
+		"AbilityList": [
+			{
+				"Name": "stage_1_barricade_1_16",
+				"ButtonID": 20529,
+				"ButtonClass": "func_button",
+				"Chat_Uses": true,
+				"Mode": 3,
+				"MaxUses": 1,
+				"CoolDown": 0,
+				"Ignore": false,
+				"LockItem": false,
+				"MathID": 0,
+				"MathNameFix": false
+			}
+		]
+	},
+    {
+		"Name": "甘道夫/Gandalf",
+		"ShortName": "甘道夫",
+		"Color": "{default}",
+		"HammerID": 20790,
+		"GlowColor": [255,255,255,255],
+		"FilterID": 0,
+		"FilterValue": "",
+		"BlockPickup": false,
+		"AllowTransfer": false,
+		"ForceDrop": false,
+		"Chat": true,
+		"Hud": true,
+		"TriggerID": 0,
+		"UsePriority": false,
+		"AbilityList": [
+			{
+				"Name": "",
+				"ButtonID": 0,
+				"ButtonClass": "",
+				"Chat_Uses": false,
+				"Mode": 0,
+				"MaxUses": 0,
+				"CoolDown": 0,
+				"Ignore": false,
+				"LockItem": false,
+				"MathID": 0,
+				"MathNameFix": false
+			}
+		]
+	},
+    {
+		"Name": "治疗/Heal",
+		"ShortName": "治疗",
+		"Color": "{default}",
+		"HammerID": 20877,
+		"GlowColor": [255,255,255,255],
+		"FilterID": 0,
+		"FilterValue": "",
+		"BlockPickup": false,
+		"AllowTransfer": true,
+		"ForceDrop": true,
+		"Chat": true,
+		"Hud": true,
+		"TriggerID": 0,
+		"UsePriority": true,
+		"AbilityList": [
+			{
+				"Name": "Heal_button",
+				"ButtonID": 20875,
+				"ButtonClass": "func_button",
+				"Chat_Uses": true,
+				"Mode": 3,
+				"MaxUses": 1,
+				"CoolDown": 0,
+				"Ignore": false,
+				"LockItem": false,
+				"MathID": 0,
+				"MathNameFix": false
+			}
+		]
+	},
+    {
+		"Name": "火把/Torch",
+		"ShortName": "火把",
+		"Color": "{default}",
+		"HammerID": 2643,
+		"GlowColor": [255,255,255,255],
+		"FilterID": 0,
+		"FilterValue": "",
+		"BlockPickup": false,
+		"AllowTransfer": true,
+		"ForceDrop": true,
+		"Chat": true,
+		"Hud": true,
+		"TriggerID": 0,
+		"UsePriority": true,
+		"AbilityList": [
+			{
+				"Name": "",
+				"ButtonID": 0,
+				"ButtonClass": "",
+				"Chat_Uses": false,
+				"Mode": 0,
+				"MaxUses": 0,
+				"CoolDown": 0,
+				"Ignore": false,
+				"LockItem": false,
+				"MathID": 0,
+				"MathNameFix": false
+			}
+		]
+	}
+]
