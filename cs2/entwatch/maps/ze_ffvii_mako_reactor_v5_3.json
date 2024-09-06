@@ -74,9 +74,13 @@
 				"ButtonID": 0,
 				"ButtonClass": "func_button",
 				"Chat_Uses": true,
-				"Mode": 5,
-				"MaxUses": 3,
-				"CoolDown": 55
+				"Mode": 6,
+				"MaxUses": 0,
+				"CoolDown": 0,
+				"Ignore": false,
+				"LockItem": false,
+				"MathID": 678,
+				"MathNameFix": false
 			}
 		]
 	},
