@@ -39,6 +39,8 @@
 | `css_update_ws`               | 更新服务器 Workshop 地图                      |需要ID参数                          | 需要管理员权限 `@css/ban`     |
 | `css_reload_maplist`          | 重新加载地图列表                               |                                    | 需要管理员权限 `@css/ban`     |
 | `css_clean_crashmaprecover`   | 清空崩溃恢复文件（crash map recover 文件）      |                                    | 需要管理员权限 `@css/ban`     |
+| `css_setnextmap`          	| 设置下一张地图以名称为准 跳过地图投票            |   css_setnextmap <MapName>         | 需要管理员权限 `@css/ban`     |
+| `css_setnextmapwsid`   	| 设置下一张地图以工坊ID为准 跳过地图投票          |  css_setnextmapwsid <WSID>        | 需要管理员权限 `@css/ban`     |
 | `css_mapinfo`                 | 显示当前地图信息                               | 仅限客户端使用                      | 无权限要求                   |
 
 ### Console Command 详细说明
