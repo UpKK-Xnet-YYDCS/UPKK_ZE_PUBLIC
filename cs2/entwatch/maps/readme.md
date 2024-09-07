@@ -44,7 +44,7 @@
 			{
 				"Name": "",
 				"ButtonID": 0,
-				"ButtonClass": "game_ui::PressedAttack",	//神器按钮为game_ui的神器属性 ( 实体用法请参考 https://github.com/Source2ZE/CS2Fixes/wiki/Custom-Mapping-Features#outputs )这里PressedAttack代表按下攻击键(也就是鼠标左键)触发事件
+				"ButtonClass": "game_ui::PressedAttack",	//神器按钮为game_ui的神器属性示例 ( game_ui实体用法请参考 https://github.com/Source2ZE/CS2Fixes/wiki/Custom-Mapping-Features#outputs 这里PressedAttack代表按下攻击键也就是鼠标左键来触发事件) 目前服务器缺少一个插件，神器按钮为game_ui的cd暂时无法显示。
 				"Chat_Uses": false,
 				"Mode": 0
 				"MaxUses": 0,
