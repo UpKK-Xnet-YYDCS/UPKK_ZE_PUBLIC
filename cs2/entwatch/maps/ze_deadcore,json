@@ -1,0 +1,110 @@
+[
+	{
+		"Name": "1号光炮",	
+		"ShortName": "1号光炮",
+		"Color": "{default}",
+		"HammerID": 5082,
+		"GlowColor": [255,255,255,255],
+		"FilterID": 0,
+		"FilterValue": "",
+		"BlockPickup": false,
+		"AllowTransfer": true,
+		"ForceDrop": true,
+		"Chat": true,
+		"Hud": true,
+		"TriggerID": 0,
+		"UsePriority": true,
+		"AbilityList": [	
+			{
+				"Name": "cannon1_button1",
+				"ButtonID": 4634,
+				"ButtonClass": "func_physbox",
+				"Chat_Uses": true,
+				"Mode": 0,
+				"MaxUses": 0,
+				"CoolDown": 0
+			},
+			{
+				"Name": "cannon1_button",
+				"ButtonID": 5476,
+				"ButtonClass": "func_button",
+				"Chat_Uses": true,
+				"Mode": 0,
+				"MaxUses": 0,
+				"CoolDown": 0
+			}
+		]
+	},
+	{
+		"Name": "2号光炮",	
+		"ShortName": "2号光炮",
+		"Color": "{default}",
+		"HammerID": 4712,
+		"GlowColor": [255,255,255,255],
+		"FilterID": 0,
+		"FilterValue": "",
+		"BlockPickup": false,
+		"AllowTransfer": true,
+		"ForceDrop": true,
+		"Chat": true,
+		"Hud": true,
+		"TriggerID": 0,
+		"UsePriority": true,
+		"AbilityList": [	
+			{
+				"Name": "cannon2_button1",
+				"ButtonID": 4713,
+				"ButtonClass": "func_physbox",
+				"Chat_Uses": true,
+				"Mode": 0,
+				"MaxUses": 0,
+				"CoolDown": 0
+			},
+			{
+				"Name": "cannon2_button",
+				"ButtonID": 5472,
+				"ButtonClass": "func_button",
+				"Chat_Uses": true,
+				"Mode": 0,
+				"MaxUses": 0,
+				"CoolDown": 0
+			}
+		]
+	},
+	{
+		"Name": "3号光炮",	
+		"ShortName": "3号光炮",
+		"Color": "{default}",
+		"HammerID": 728,
+		"GlowColor": [255,255,255,255],
+		"FilterID": 0,
+		"FilterValue": "",
+		"BlockPickup": false,
+		"AllowTransfer": true,
+		"ForceDrop": true,
+		"Chat": true,
+		"Hud": true,
+		"TriggerID": 0,
+		"UsePriority": true,
+		"AbilityList": [	
+			{
+				"Name": "cannon3_button1",
+				"ButtonID": 726,
+				"ButtonClass": "func_physbox",
+				"Chat_Uses": true,
+				"Mode": 0,
+				"MaxUses": 0,
+				"CoolDown": 0
+			},
+			{
+				"Name": "cannon3_button",
+				"ButtonID": 5474,
+				"ButtonClass": "func_button",
+				"Chat_Uses": true,
+				"Mode": 0,
+				"MaxUses": 0,
+				"CoolDown": 0
+			}
+		]
+	}
+]
