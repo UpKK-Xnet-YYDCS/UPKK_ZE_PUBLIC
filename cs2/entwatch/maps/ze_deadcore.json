@@ -19,7 +19,7 @@
 				"Name": "cannon1_button1",
 				"ButtonID": 4634,
 				"ButtonClass": "func_physbox",
-				"Chat_Uses": true,
+				"Chat_Uses": false,
 				"Mode": 0,
 				"MaxUses": 0,
 				"CoolDown": 0
@@ -28,7 +28,7 @@
 				"Name": "cannon1_button",
 				"ButtonID": 5476,
 				"ButtonClass": "func_button",
-				"Chat_Uses": true,
+				"Chat_Uses": false,
 				"Mode": 0,
 				"MaxUses": 0,
 				"CoolDown": 0
@@ -55,7 +55,7 @@
 				"Name": "cannon2_button1",
 				"ButtonID": 4713,
 				"ButtonClass": "func_physbox",
-				"Chat_Uses": true,
+				"Chat_Uses": false,
 				"Mode": 0,
 				"MaxUses": 0,
 				"CoolDown": 0
@@ -64,7 +64,7 @@
 				"Name": "cannon2_button",
 				"ButtonID": 5472,
 				"ButtonClass": "func_button",
-				"Chat_Uses": true,
+				"Chat_Uses": false,
 				"Mode": 0,
 				"MaxUses": 0,
 				"CoolDown": 0
@@ -91,7 +91,7 @@
 				"Name": "cannon3_button1",
 				"ButtonID": 726,
 				"ButtonClass": "func_physbox",
-				"Chat_Uses": true,
+				"Chat_Uses": false,
 				"Mode": 0,
 				"MaxUses": 0,
 				"CoolDown": 0
@@ -100,7 +100,7 @@
 				"Name": "cannon3_button",
 				"ButtonID": 5474,
 				"ButtonClass": "func_button",
-				"Chat_Uses": true,
+				"Chat_Uses": false,
 				"Mode": 0,
 				"MaxUses": 0,
 				"CoolDown": 0
