@@ -1,123 +1,120 @@
 {
-  "PrintToCenterHtml": false,
-  "Ads": [
-    {
-      "Interval": 65,
-      "Messages": [
-        {
-          "Chat": "{ads_1}"
-        },
-        {
-          "Chat": "{ads_2}"
-        },
-        {
-          "Chat": "{ads_3}"
-        },
-        {
-          "Chat": "{ads_4}"
-        },
-        {
-          "Chat": "{ads_5}"
-        },
-        {
-          "Chat": "{ads_6}"
-        },
-        {
-          "Chat": "{ads_7}"
-        },
-        {
-          "Chat": "{ads_8}"
-        },
-        {
-          "Chat": "{ads_9}"
-        }
-      ]
-    }
-  ],
-  "Panel": null,
-  "DefaultLang": "CN",
-  "MessageType": 0,
-  "LanguageMessages": {
-    "map_name": {
-      "US": "Current map: {MAP}",
-      "CN": "{LIME}当前时间: {RED}{TIME} {PURPLE}当前地图: {RED}{MAP}",
-      "TW": "{LIME}當前時間: {RED}{TIME} {PURPLE}當前地圖: {RED}{MAP}",
-      "JP": "{LIME}現在の時間: {RED}{TIME} {PURPLE}現在のマップ: {RED}{MAP}",
-      "KR": "{LIME}현재 시간: {RED}{TIME} {PURPLE}현재 맵: {RED}{MAP}"
-    },
-    "current_time": {
-      "US": "{GRAY}Current time: {RED}{TIME}",
-      "CN": "{LIME}当前时间: {RED}{TIME} 当前地图: {RED}{MAP}",
-      "TW": "{LIME}當前時間: {RED}{TIME} 當前地圖: {RED}{MAP}",
-      "JP": "{LIME}現在の時間: {RED}{TIME} 現在のマップ: {RED}{MAP}",
-      "KR": "{LIME}현재 시간: {RED}{TIME} 현재 맵: {RED}{MAP}"
-    },
-    "ads_1": {
-      "CN": "{RED}[X社区] {LIME}!store {DEFAULT}购买使用皮肤 {LIME}!inv {DEFAULT}打开商店个人库存 (如果您想装备皮肤!inv更合适)",
-      "US": "{RED}[X Community] {LIME}!store {DEFAULT}to buy and use skins {LIME}!inv {DEFAULT}to open your inventory (use !inv to equip skins)",
-      "TW": "{RED}[X社區] {LIME}!store {DEFAULT}購買使用皮膚 {LIME}!inv {DEFAULT}打開商店個人庫存 (如果您想裝備皮膚!inv更合適)",
-      "JP": "{RED}[Xコミュニティ] {LIME}!store {DEFAULT}スキンを購入して使用するには、{LIME}!inv {DEFAULT}インベントリを開きます (スキンを装備するには、!inv を使用します)",
-      "KR": "{RED}[X 커뮤니티] {LIME}!store {DEFAULT}스킨을 구매하고 사용하려면 {LIME}!inv {DEFAULT}인벤토리를 열려면 (스킨을 장착하려면 !inv 를 사용하십시오)"
-    },
-    "ads_2": {
-      "CN": "{RED}[X社区] {LIME}当前时间: {RED}{TIME} {PURPLE}当前地图: {RED}{MAP}",
-      "US": "{RED}[X Community] {LIME}Current time: {RED}{TIME} {PURPLE}Current map: {RED}{MAP}",
-      "TW": "{RED}[X社區] {LIME}當前時間: {RED}{TIME} {PURPLE}當前地圖: {RED}{MAP}",
-      "JP": "{RED}[Xコミュニティ] {LIME}現在の時間: {RED}{TIME} {PURPLE}現在のマップ: {RED}{MAP}",
-      "KR": "{RED}[X 커뮤니티] {LIME}현재 시간: {RED}{TIME} {PURPLE}현재 맵: {RED}{MAP}"
-    },
-    "ads_3": {
-      "CN": "{RED}[X社区] {PURPLE}欢迎加入X社区僵尸逃跑QQ群：{LIGHTPURPLE}606809103 {PURPLE}萌新玩家请访问官方论坛 {ORANGE}bbs.upkk.{PURPLE}c{ORANGE}o{LIME}m {PURPLE}交流讨论游戏相关内容，并查看社区规则与最新活动。",
-      "US": "{RED}[X Community] {PURPLE}Join the X Community Zombie Escape QQ group: {LIGHTPURPLE}606809103 {PURPLE}New players, please visit the official forum {ORANGE}bbs.upkk.com {PURPLE}for discussions and to check the community rules and latest events.",
-      "TW": "{RED}[X社區] {PURPLE}歡迎加入X社區殭屍逃跑QQ群：{LIGHTPURPLE}606809103 {PURPLE}新玩家請訪問官方論壇 {ORANGE}bbs.upkk.com {PURPLE}進行討論並查看社區規則和最新活動。",
-      "JP": "{RED}[Xコミュニティ] {PURPLE}XコミュニティゾンビエスケープQQグループに参加してください：{LIGHTPURPLE}606809103 {PURPLE}新しいプレイヤーは、公式フォーラム{ORANGE}bbs.upkk.com {PURPLE}を訪れて、議論し、コミュニティルールと最新のイベントを確認してください。",
-      "KR": "{RED}[X 커뮤니티] {PURPLE}X 커뮤니티 좀비 탈출 QQ 그룹에 가입하세요: {LIGHTPURPLE}606809103 {PURPLE}새로운 플레이어는 공식 포럼 {ORANGE}bbs.upkk.com {PURPLE}을 방문하여 토론하고 커뮤니티 규칙과 최신 이벤트를 확인하세요."
-    },
-    "ads_4": {
-      "CN": "{RED}[X社区] {BLUE}地图指挥流程中请勿插麦、卡麦、喧哗，违者将受到管理员处罚！",
-      "US": "{RED}[X Community] {BLUE}Please do not interrupt or speak over the map commands, offenders will be punished by the admins!",
-      "TW": "{RED}[X社區] {BLUE}在地圖指揮過程中，請勿打斷或插話，違者將受到管理員處罰！",
-      "JP": "{RED}[Xコミュニティ] {BLUE}地図コマンドを妨害したり話しかけたりしないでください、違反者は管理者によって罰せられます！",
-      "KR": "{RED}[X 커뮤니티] {BLUE}지도 명령을 방해하거나 말을 하지 마십시오, 위반자는 관리자에 의해 처벌받을 것입니다!"
-    },
-    "ads_5": {
-      "CN": "{RED}[X社区] {LIME}不喜欢当前地图？聊天框输入 {LIGHTPURPLE}!RTV {LIME}或按 {LIGHTPURPLE}Z-9-8 {LIME}快捷指令进行投票更换！",
-      "US": "{RED}[X Community] {LIME}Don't like the current map? Type {LIGHTPURPLE}!RTV {LIME}or press {LIGHTPURPLE}Z-9-8 {LIME}to vote for a change!",
-      "TW": "{RED}[X社區] {LIME}不喜歡當前地圖？ 輸入聊天框 {LIGHTPURPLE}!RTV {LIME}或按 {LIGHTPURPLE}Z-9-8 {LIME}快捷指令投票更換！",
-      "JP": "{RED}[Xコミュニティ] {LIME}現在のマップが好きではありませんか？ {LIGHTPURPLE}!RTV {LIME}と入力するか、{LIGHTPURPLE}Z-9-8 {LIME}を押して変更に投票してください！",
-      "KR": "{RED}[X 커뮤니티] {LIME}현재 맵이 마음에 들지 않나요? {LIGHTPURPLE}!RTV {LIME}를 입력하거나 {LIGHTPURPLE}Z-9-8 {LIME}을 눌러 변경에 투표하세요!"
-    },
-    "ads_6": {
-      "CN": "{RED}[X社区] {LIME}按Z键（默认无线电按键）使用快捷指令",
-      "US": "{RED}[X Community] {LIME}Press Z (default radio key) to use quick commands",
-      "TW": "{RED}[X社區] {LIME}按Z鍵（默認無線電鍵）使用快捷指令",
-      "JP": "{RED}[Xコミュニティ] {LIME}Zキー（デフォルトのラジオキー）を押してクイックコマンドを使用します",
-      "KR": "{RED}[X 커뮤니티] {LIME}단축 명령을 사용하려면 Z 키 (기본 무전 키)를 누르세요."
-    },
-    "ads_7": {
-      "CN": "{RED}[X社区] {PURPLE} 如果您需要开启神器hud 则可以输入 {LIME}!ehud 3 开启 !ehud 0 关闭 也可通过!ehud_pos x y z 数值调整位置(默认为 {ORANGE}!ehud_pos 80 50 50)",
-      "US": "{RED}[X Community] {PURPLE}If you need to enable the HUD, enter {LIME}!ehud 3 to enable, !ehud 0 to disable. You can also adjust the position with !ehud_pos x y z (default: {ORANGE}!ehud_pos 80 50 50)",
-      "TW": "{RED}[X社區] {PURPLE} 如果您需要開啟神器hud 則可以輸入 {LIME}!ehud 3 開啟 !ehud 0 關閉 也可通過!ehud_pos x y z 數值調整位置(默認為 {ORANGE}!ehud_pos 80 50 50)",
-      "JP": "{RED}[Xコミュニティ] {PURPLE}HUDを有効にする必要がある場合は、{LIME}!ehud 3を入力して有効にし、!ehud 0を入力して無効にします。また、!ehud_pos x y z で位置を調整できます（デフォルト：{ORANGE}!ehud_pos 80 50 50）",
-      "KR": "{RED}[X 커뮤니티] {PURPLE}HUD를 활성화해야하는 경우 {LIME}!ehud 3를 입력하여 활성화하고 !ehud 0을 입력하여 비활성화하세요. 또한 !ehud_pos x y z로 위치를 조정할 수 있습니다 (기본값: {ORANGE}!ehud_pos 80 50 50)"
-    },
-    "ads_8": {
-      "CN": "{RED}[X社区] {PURPLE} 如果您需要切换按钮开始提示 可以输入 {GREEN}!bw 进行开关",
-      "US": "{RED}[X Community] {PURPLE}If you need to toggle the button start prompt, you can enter {GREEN}!bw to switch it on or off.",
-      "TW": "{RED}[X社區] {PURPLE} 如果您需要切換按鈕開始提示 可以輸入 {GREEN}!bw 進行開關",
-      "JP": "{RED}[Xコミュニティ] {PURPLE}ボタンの開始プロンプトを切り替える必要がある場合は、{GREEN}!bw を入力してオンまたはオフに切り替えることができます。",
-      "KR": "{RED}[X 커뮤니티] {PURPLE}버튼 시작 프롬프트를 전환해야 하는 경우 {GREEN}!bw 를 입력하여 켜거나 끌 수 있습니다."
-    },
-    "ads_9": {
-      "CN": "{RED}[X社区] {BLUE}服务器内禁止播放音频！凡卡麦、炸麦、扰乱、辱骂等播放音频行为直接封禁！",
-      "US": "{RED}[X Community] {BLUE}Microphone audio is prohibited on tihs server! Any behavior involving voice spamming, loud or disruptive sounds, or abusive language will result in an immediate ban!",
-      "TW": "{RED}[X社區] {BLUE}伺服器内禁止播放任何音频！凡是卡麦、爆麦、干扰或辱骂等音频行为，一律直接封禁！",
-      "JP": "{RED}[Xコミュニティ] {BLUE}このサーバーではマイク音声は禁止されています。音声スパム、大音量または妨害的な音、または暴言を含む行為は、即時禁止となります！",
-      "KR": "{RED}[X 커뮤니티] {BLUE}이 서버에서는 마이크 오디오가 금지되어 있습니다! 음성 스패밍, 큰 소리 또는 방해가 되는 소리, 또는 모욕적인 언어와 관련된 모든 행동은 즉시 금지됩니다!"
-    }
-  },
-  "MapsName": {
-    "de_mirage": "Mirage",
-    "de_dust": "Dust II"
-  }
+	"PrintToCenterHtml": false,
+	"Ads": [{
+		"Interval": 65,
+		"Messages": [{
+				"Chat": "{ads_1}"
+			},
+			{
+				"Chat": "{ads_2}"
+			},
+			{
+				"Chat": "{ads_3}"
+			},
+			{
+				"Chat": "{ads_4}"
+			},
+			{
+				"Chat": "{ads_5}"
+			},
+			{
+				"Chat": "{ads_6}"
+			},
+			{
+				"Chat": "{ads_7}"
+			},
+			{
+				"Chat": "{ads_8}"
+			},
+			{
+				"Chat": "{ads_9}"
+			}
+		]
+	}],
+	"Panel": null,
+	"DefaultLang": "CN",
+	"MessageType": 0,
+	"LanguageMessages": {
+		"map_name": {
+			"US": "Current map: {MAP}",
+			"CN": "{LIME}当前时间: {RED}{TIME} {PURPLE}当前地图: {RED}{MAP}",
+			"TW": "{LIME}當前時間: {RED}{TIME} {PURPLE}當前地圖: {RED}{MAP}",
+			"JP": "{LIME}現在の時間: {RED}{TIME} {PURPLE}現在のマップ: {RED}{MAP}",
+			"KR": "{LIME}현재 시간: {RED}{TIME} {PURPLE}현재 맵: {RED}{MAP}"
+		},
+		"current_time": {
+			"US": "{GRAY}Current time: {RED}{TIME}",
+			"CN": "{LIME}当前时间: {RED}{TIME} 当前地图: {RED}{MAP}",
+			"TW": "{LIME}當前時間: {RED}{TIME} 當前地圖: {RED}{MAP}",
+			"JP": "{LIME}現在の時間: {RED}{TIME} 現在のマップ: {RED}{MAP}",
+			"KR": "{LIME}현재 시간: {RED}{TIME} 현재 맵: {RED}{MAP}"
+		},
+		"ads_1": {
+			"CN": "{RED}[X社区] {LIME}!store {DEFAULT}购买使用皮肤 {LIME}!inv {DEFAULT}打开商店个人库存 (如果您想装备皮肤!inv更合适)",
+			"US": "{RED}[X Community] {LIME}!store {DEFAULT}to buy and use skins {LIME}!inv {DEFAULT}to open your inventory (use !inv to equip skins)",
+			"TW": "{RED}[X社區] {LIME}!store {DEFAULT}購買使用皮膚 {LIME}!inv {DEFAULT}打開商店個人庫存 (如果您想裝備皮膚!inv更合適)",
+			"JP": "{RED}[Xコミュニティ] {LIME}!store {DEFAULT}スキンを購入して使用するには、{LIME}!inv {DEFAULT}インベントリを開きます (スキンを装備するには、!inv を使用します)",
+			"KR": "{RED}[X 커뮤니티] {LIME}!store {DEFAULT}스킨을 구매하고 사용하려면 {LIME}!inv {DEFAULT}인벤토리를 열려면 (스킨을 장착하려면 !inv 를 사용하십시오)"
+		},
+		"ads_2": {
+			"CN": "{RED}[X社区] {LIME}当前时间: {RED}{TIME} {PURPLE}当前地图: {RED}{MAP}",
+			"US": "{RED}[X Community] {LIME}Current time: {RED}{TIME} {PURPLE}Current map: {RED}{MAP}",
+			"TW": "{RED}[X社區] {LIME}當前時間: {RED}{TIME} {PURPLE}當前地圖: {RED}{MAP}",
+			"JP": "{RED}[Xコミュニティ] {LIME}現在の時間: {RED}{TIME} {PURPLE}現在のマップ: {RED}{MAP}",
+			"KR": "{RED}[X 커뮤니티] {LIME}현재 시간: {RED}{TIME} {PURPLE}현재 맵: {RED}{MAP}"
+		},
+		"ads_3": {
+			"CN": "{RED}[X社区] {PURPLE}欢迎加入X社区僵尸逃跑QQ群：{LIGHTPURPLE}606809103 {PURPLE}萌新玩家请访问官方论坛 {ORANGE}bbs.upkk.{PURPLE}c{ORANGE}o{LIME}m {PURPLE}交流讨论游戏相关内容，并查看社区规则与最新活动。",
+			"US": "{RED}[X Community] {PURPLE}Join the X Community Zombie Escape QQ group: {LIGHTPURPLE}606809103 {PURPLE}New players, please visit the official forum {ORANGE}bbs.upkk.com {PURPLE}for discussions and to check the community rules and latest events.",
+			"TW": "{RED}[X社區] {PURPLE}歡迎加入X社區殭屍逃跑QQ群：{LIGHTPURPLE}606809103 {PURPLE}新玩家請訪問官方論壇 {ORANGE}bbs.upkk.com {PURPLE}進行討論並查看社區規則和最新活動。",
+			"JP": "{RED}[Xコミュニティ] {PURPLE}XコミュニティゾンビエスケープQQグループに参加してください：{LIGHTPURPLE}606809103 {PURPLE}新しいプレイヤーは、公式フォーラム{ORANGE}bbs.upkk.com {PURPLE}を訪れて、議論し、コミュニティルールと最新のイベントを確認してください。",
+			"KR": "{RED}[X 커뮤니티] {PURPLE}X 커뮤니티 좀비 탈출 QQ 그룹에 가입하세요: {LIGHTPURPLE}606809103 {PURPLE}새로운 플레이어는 공식 포럼 {ORANGE}bbs.upkk.com {PURPLE}을 방문하여 토론하고 커뮤니티 규칙과 최신 이벤트를 확인하세요."
+		},
+		"ads_4": {
+			"CN": "{RED}[X社区] {BLUE}地图指挥流程中请勿插麦、卡麦、喧哗，违者将受到管理员处罚！",
+			"US": "{RED}[X Community] {BLUE}Please do not interrupt or speak over the map commands, offenders will be punished by the admins!",
+			"TW": "{RED}[X社區] {BLUE}在地圖指揮過程中，請勿打斷或插話，違者將受到管理員處罰！",
+			"JP": "{RED}[Xコミュニティ] {BLUE}地図コマンドを妨害したり話しかけたりしないでください、違反者は管理者によって罰せられます！",
+			"KR": "{RED}[X 커뮤니티] {BLUE}지도 명령을 방해하거나 말을 하지 마십시오, 위반자는 관리자에 의해 처벌받을 것입니다!"
+		},
+		"ads_5": {
+			"CN": "{RED}[X社区] {LIME}不喜欢当前地图？聊天框输入 {LIGHTPURPLE}!RTV {LIME}或按 {LIGHTPURPLE}Z-9-8 {LIME}快捷指令进行投票更换！",
+			"US": "{RED}[X Community] {LIME}Don't like the current map? Type {LIGHTPURPLE}!RTV {LIME}or press {LIGHTPURPLE}Z-9-8 {LIME}to vote for a change!",
+			"TW": "{RED}[X社區] {LIME}不喜歡當前地圖？ 輸入聊天框 {LIGHTPURPLE}!RTV {LIME}或按 {LIGHTPURPLE}Z-9-8 {LIME}快捷指令投票更換！",
+			"JP": "{RED}[Xコミュニティ] {LIME}現在のマップが好きではありませんか？ {LIGHTPURPLE}!RTV {LIME}と入力するか、{LIGHTPURPLE}Z-9-8 {LIME}を押して変更に投票してください！",
+			"KR": "{RED}[X 커뮤니티] {LIME}현재 맵이 마음에 들지 않나요? {LIGHTPURPLE}!RTV {LIME}를 입력하거나 {LIGHTPURPLE}Z-9-8 {LIME}을 눌러 변경에 투표하세요!"
+		},
+		"ads_6": {
+			"CN": "{RED}[X社区] {LIME}按Z键（默认无线电按键）使用快捷指令",
+			"US": "{RED}[X Community] {LIME}Press Z (default radio key) to use quick commands",
+			"TW": "{RED}[X社區] {LIME}按Z鍵（默認無線電鍵）使用快捷指令",
+			"JP": "{RED}[Xコミュニティ] {LIME}Zキー（デフォルトのラジオキー）を押してクイックコマンドを使用します",
+			"KR": "{RED}[X 커뮤니티] {LIME}단축 명령을 사용하려면 Z 키 (기본 무전 키)를 누르세요."
+		},
+		"ads_7": {
+			"CN": "{RED}[X社区] {PURPLE} 如果您需要开启神器hud 则可以输入 {LIME}!ehud 3 开启 !ehud 0 关闭 也可通过!ehud_pos x y z 数值调整位置(默认为 {ORANGE}!ehud_pos 80 50 50)",
+			"US": "{RED}[X Community] {PURPLE}If you need to enable the HUD, enter {LIME}!ehud 3 to enable, !ehud 0 to disable. You can also adjust the position with !ehud_pos x y z (default: {ORANGE}!ehud_pos 80 50 50)",
+			"TW": "{RED}[X社區] {PURPLE} 如果您需要開啟神器hud 則可以輸入 {LIME}!ehud 3 開啟 !ehud 0 關閉 也可通過!ehud_pos x y z 數值調整位置(默認為 {ORANGE}!ehud_pos 80 50 50)",
+			"JP": "{RED}[Xコミュニティ] {PURPLE}HUDを有効にする必要がある場合は、{LIME}!ehud 3を入力して有効にし、!ehud 0を入力して無効にします。また、!ehud_pos x y z で位置を調整できます（デフォルト：{ORANGE}!ehud_pos 80 50 50）",
+			"KR": "{RED}[X 커뮤니티] {PURPLE}HUD를 활성화해야하는 경우 {LIME}!ehud 3를 입력하여 활성화하고 !ehud 0을 입력하여 비활성화하세요. 또한 !ehud_pos x y z로 위치를 조정할 수 있습니다 (기본값: {ORANGE}!ehud_pos 80 50 50)"
+		},
+		"ads_8": {
+			"CN": "{RED}[X社区] {PURPLE} 如果您需要切换按钮开始提示 可以输入 {GREEN}!bw 进行开关",
+			"US": "{RED}[X Community] {PURPLE}If you need to toggle the button start prompt, you can enter {GREEN}!bw to switch it on or off.",
+			"TW": "{RED}[X社區] {PURPLE} 如果您需要切換按鈕開始提示 可以輸入 {GREEN}!bw 進行開關",
+			"JP": "{RED}[Xコミュニティ] {PURPLE}ボタンの開始プロンプトを切り替える必要がある場合は、{GREEN}!bw を入力してオンまたはオフに切り替えることができます。",
+			"KR": "{RED}[X 커뮤니티] {PURPLE}버튼 시작 프롬프트를 전환해야 하는 경우 {GREEN}!bw 를 입력하여 켜거나 끌 수 있습니다."
+		},
+		"ads_9": {
+			"CN": "{RED}[X社区] {BLUE}服务器内禁止播放音频！凡卡麦、炸麦、扰乱、辱骂等播放音频行为直接封禁！",
+			"US": "{RED}[X Community] {BLUE}Microphone audio is prohibited on tihs server! Any behavior involving voice spamming, loud or disruptive sounds, or abusive language will result in an immediate ban!",
+			"TW": "{RED}[X社區] {BLUE}伺服器内禁止播放任何音频！凡是卡麦、爆麦、干扰或辱骂等音频行为，一律直接封禁！",
+			"JP": "{RED}[Xコミュニティ] {BLUE}このサーバーではマイク音声は禁止されています。音声スパム、大音量または妨害的な音、または暴言を含む行為は、即時禁止となります！",
+			"KR": "{RED}[X 커뮤니티] {BLUE}이 서버에서는 마이크 오디오가 금지되어 있습니다! 음성 스패밍, 큰 소리 또는 방해가 되는 소리, 또는 모욕적인 언어와 관련된 모든 행동은 즉시 금지됩니다!"
+		}
+	},
+	"MapsName": {
+		"de_mirage": "Mirage",
+		"de_dust": "Dust II"
+	}
 }
