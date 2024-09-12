@@ -36,7 +36,7 @@
 | `css_debug_votemaplist`       | 输出当前可用于投票的地图列表                    |                                    | 需要管理员权限 `@css/ban`     |
 | `css_force_rtv`               | 强制启动 RTV 换图投票                          |                                    | 需要管理员权限 `@css/ban`     |
 | `css_random_map`              | 随机切换地图                                  |                                    | 需要管理员权限 `@css/ban`     |
-| `css_update_ws`               | 更新服务器 Workshop 地图                      |需要ID参数                          | 需要管理员权限 `@css/ban`     |
+| `css_update_wsmapid`          | 更新服务器 1个 Workshop 地图                      |需要ID参数                          | 需要管理员权限 `@css/ban`     |
 | `css_reload_maplist`          | 重新加载地图列表                               |                                    | 需要管理员权限 `@css/ban`     |
 | `css_clean_crashmaprecover`   | 清空崩溃恢复文件（crash map recover 文件）      |                                    | 需要管理员权限 `@css/ban`     |
 | `css_setnextmap`          	| 设置下一张地图以名称为准 跳过地图投票            |   css_setnextmap <MapName>         | 需要管理员权限 `@css/ban`     |
