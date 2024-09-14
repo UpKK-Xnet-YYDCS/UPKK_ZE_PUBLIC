@@ -335,7 +335,7 @@
 		"workshop_id"		"3083693391"
 		"enabled"		"1"
 		"filename"		"ze_trap_escape_p"
-		"updatedname"		"MAY_CRASH"
+		"updatedname"		"ze_trap_escape_p"
 	}
 	"ze_voodoo_islands_p"
 	{
@@ -364,12 +364,12 @@
 		"search"		"漩涡滑翔"
 		"RestrictedTimes"	"00:00-12:00;20:00-23:59"
 	}
-	"ze_surf_saltfish_cs2"
+	"ze_surf_saltfish"
 	{
 		"workshop_id"		"3124799228"
 		"enabled"		"1"
-		"filename"		"ze_surf_saltfish_cs2"
-		"updatedname"		"ze_surf_saltfish_cs2"
+		"filename"		"ze_surf_saltfish"
+		"updatedname"		"ze_surf_saltfish"
 		"search"		"咸鱼滑翔"
 		"RestrictedTimes"	"00:00-12:00;20:00-23:59"
 	}
@@ -397,12 +397,12 @@
 		"enabled"		"1"
 		"filename"		"ze_minecraft_p"
 	}
-	"ze_surf_sparks"
+	"ze_surf_sparks_cs2"
 	{
 		"workshop_id"		"3224375193"
 		"enabled"		"1"
 		"filename"		"ze_surf_sparks"
-		"updatedname"		"ze_surf_sparks"
+		"updatedname"		"ze_surf_sparks_cs2"
 		"search"		"海上风情滑翔"
 		"RestrictedTimes"	"00:00-18:00;20:00-23:59"
 	}
@@ -412,11 +412,12 @@
 		"enabled"		"1"
 		"filename"		"ze_boatescape_ultimate"
 	}
-	"ze_postal"
+	"ze_postal_p"
 	{
 		"workshop_id"		"3218547242"
 		"enabled"		"1"
-		"filename"		"ze_postal"
+		"filename"		"ze_postal_p"
+		"updatedname"		"ze_postal_p"
 	}
 	"ze_slender_escape_p"
 	{
@@ -450,11 +451,12 @@
 		"updatedname"		"ze_S_A_M"
 		"RestrictedTimes"	"00:00-17:00"
 	}
-	"ze_Requiem"
+	"ze_requiem_test"
 	{
 		"workshop_id"		"3134550710"
 		"enabled"		"1"
-		"filename"		"ze_Requiem"
+		"filename"		"ze_requiem_test"
+		"updatedname"		"ze_requiem_test"
 	}
 	"ze_Obf_Filth"
 	{
@@ -518,12 +520,14 @@
 		"enabled"		"1"
 		"filename"		"ze_umbrellazombie_v1"
 	}
-	"ze_chronicle"
+	"ze_chronicle_a"
 	{
 		"workshop_id"		"3136049641"
 		"enabled"		"1"
-		"filename"		"ze_chronicle"
+		"filename"		"ze_chronicle_a"
+		"updatedname"		"ze_chronicle_a"
 	}
+
 	"ze_obj_rampage_v1_2"
 	{
 		"workshop_id"		"3159812985"
@@ -937,7 +941,7 @@
 		"workshop_id"		"3247766438"
 		"enabled"		"1"
 		"filename"		"ze_popkart"
-		"updatedname"		"ze_popkart"
+		"updatedname"		"ze_popkart_b3"
 	}
 	"ze_surf_shonyudo_v1_cs2"
 	{
@@ -966,11 +970,12 @@
 		"enabled"		"1"
 		"filename"		"ze_Bathroom"
 	}
-	"ze_jiangnan_town_cs2"
+	"ze_jiangnan_town_v3_1"
 	{
 		"workshop_id"        "3250118774"
 		"enabled"        "1"
-		"filename"        "ze_jiangnan_town_cs2"
+		"filename"        "ze_jiangnan_town_v3_1"
+		"updatedname"        "ze_jiangnan_town_v3_1"
 	}
 	"ze_ApertureScience_p"
 	{
@@ -1198,12 +1203,12 @@
 		"filename"		"ze_atl_lgnition_a1"
 		"updatedname"		"ze_atl_lgnition_a1"
 	}
-	"ze_omochix_cs2"
+	"ze_omochi_cs2"
 	{
 		"workshop_id"		"3238552190"
 		"enabled"		"1"
-		"filename"		"ze_omochix_cs2"
-		"updatedname"		"ze_omochix_cs2"
+		"filename"		"ze_omochi_cs2"
+		"updatedname"		"ze_omochi_cs2"
 	}
 	"ze_Fabulous"
 	{
@@ -1322,14 +1327,14 @@
 		"workshop_id"		"3262920150"
 		"enabled"		"1"
 		"filename"		"ze_aot_trost"
-		"updatedname"		"ze_aot_trost"
+		"updatedname"		"ze_aot_trost_v6r"
 	}
 	"ze_forhidden_slicoo"
 	{
 		"workshop_id"		"3261709847"
 		"enabled"		"1"
 		"filename"		"ze_forhidden_slicoo"
-		"updatedname"		"ze_forhidden_slicoo"
+		"updatedname"		"ze_forhidden_slicoo_cs2"
 	}
 	"ze_gods_wrath_p"
 	{
@@ -1373,12 +1378,12 @@
 		"filename"		"ze_sky_fantasy"
 		"updatedname"		"ze_sky_fantasy"
 	}
-	"ze_silent_hill_blackblood_XYY"
+	"ze_silent_hill_blackblood"
 	{
 		"workshop_id"		"3267382742"
 		"enabled"		"1"
 		"filename"		"ze_silent_blackblood"
-		"updatedname"		"ze_silent_hill_blackblood_XYY"
+		"updatedname"		"ze_silent_hill_blackblood"
 		"search"		"寂静岭;黑血;silent"
 	}
 	"ze_trainescape_p"
@@ -1407,7 +1412,7 @@
 		"workshop_id"		"3264289850"
 		"enabled"		"1"
 		"filename"		"ze_surf_soft_cs2"
-		"updatedname"		"ze_surf_soft_cs2"
+		"updatedname"		"ze_surf_soft"
 		"search"		"电波滑翔"
 		"RestrictedTimes"	"00:00-18:00;20:00-23:59"
 	}
@@ -1422,15 +1427,15 @@
 	{
 		"workshop_id"		"3268041581"
 		"enabled"		"1"
-		"filename"		"ze_mkzk_scarab_cs2"
-		"updatedname"		"ze_mkzk_scarab_cs2"
+		"filename"		"ze_mkzk_scarab_v4"
+		"updatedname"		"ze_mkzk_scarab_v4"
 	}
 	"ze_omen"
 	{
 		"workshop_id"		"3267175222"
 		"enabled"		"1"
 		"filename"		"ze_omen"
-		"updatedname"		"ze_omen"
+		"updatedname"		"ze_omen_cs2"
 	}
 	"ze_evil_mansion_p"
 	{
@@ -1481,12 +1486,12 @@
 	    "filename"        "ze_sorrento_arknights"
 	    "updatedname"        "ze_sorrento_arknights_cs2_l"
 	}
-	"ze_silent_hill_2_illusion_XYY"
+	"ze_silent_hill_2_illusion"
 	{
 		"workshop_id"		"3272284666"
 		"enabled"		"1"
 		"filename"		"ze_silent2_illusion"
-		"updatedname"		"ze_silent_hill_2_illusion_XYY"
+		"updatedname"		"ze_silent_hill_2_illusion"
 		"search"		"寂静岭;幻境;silent"
 	}
 	"ze_ardenweald"
@@ -1594,7 +1599,7 @@
 		"workshop_id"		"3280980480"
 		"enabled"		"1"
 		"filename"		"ze_Lightnight"
-		"updatedname"		"ze_Lightnight"
+		"updatedname"		"ze_lightnight_v1"
 	}
 	"ze_obj_encounter"
 	{
@@ -1654,12 +1659,12 @@
 		"filename"		"ze_infiltration_final"
 		"updatedname"		"ze_infiltration_final_p"
 	}
-	"ze_starlight_revue_cs2"
+	"ze_starligt_revue_cs2"
 	{
 		"workshop_id"		"3285481137"
 		"enabled"		"1"
-		"filename"		"ze_starlight_revue_cs2"
-		"updatedname"		"ze_starlight_revue_cs2"
+		"filename"		"ze_starligt_revue_cs2"
+		"updatedname"		"ze_starligt_revue_cs2"
 	}
 	"ze_fond_dream"
 	{
@@ -1798,12 +1803,12 @@
 		"filename"		"ze_xenovation"
 		"updatedname"		"ze_xenovation"
 	}
-	"SUMAI Facility [Lite]"
+	"ze_sumai_facility_lite"
 	{
 		"workshop_id"		"3197712518"
 		"enabled"		"1"
 		"filename"		"ze_sumai_facility"
-		"updatedname"		"SUMAI Facility [Lite]"
+		"updatedname"		"ze_sumai_facility_lite"
 	}
 	"ze_lemonade"
 	{
@@ -1898,12 +1903,12 @@
 		"filename"		"ze_tilex_ultimate_p"
 		"updatedname"		"ze_tilex_ultimate_p"
 	}
-	"ze_ffxiv_the_orbonne_monastery_demo"
+	"ze_ffxiv_the_orbonne_monastery"
 	{
 		"workshop_id"		"3302617978"
 		"enabled"		"1"
 		"filename"		"ze_ffxiv_the_orbonne"
-		"updatedname"		"ze_ffxiv_the_orbonne_monastery_demo"
+		"updatedname"		"ze_ffxiv_the_orbonne_monastery"
 	}
 	"ze_sky_defend_v1"
 	{
