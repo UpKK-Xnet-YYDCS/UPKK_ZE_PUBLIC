@@ -17,9 +17,10 @@
 
 | Key             | Value                          | Comment                                        |
 |-----------------|--------------------------------|------------------------------------------------|
-| workshop_id     | 3274462953                      | ID for the map workshop                       |
-| enabled         | 1                              | 1 开启 0 禁用                                  |
+| workshop_id     | 3274462953                      | ID for the map workshop host_workshop_map     |
+| enabled         | 1                              | 1 开启 0 禁用                                   |
 | filename        | ze_p_v_z                        | 地图文件名                                     |
+| updatedname     | 地图准确名称                     | 调用需要 如 ds_workshop_changelevel 地图名      |
 | RestrictedTimes | 08:00-12:00;14:00-23:00         | 禁用时间段 支持多个 (即不在这些时间段都可以玩)  24:00是不合法的时间会导致无法解析(如果先前已被预定 则不起限制作用)      | 
 | MinPlayers      | 16                             | 最低需要玩家(如果先前已被预定 则不起限制作用)                                   |
 | search          | "植物;pvz"                       | 预定搜索多关键词                               |
