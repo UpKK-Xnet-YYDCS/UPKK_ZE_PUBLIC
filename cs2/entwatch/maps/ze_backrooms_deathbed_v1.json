@@ -10,7 +10,7 @@
 		"BlockPickup": false,
 		"AllowTransfer": true,
 		"ForceDrop": true,
-		"Chat": true,
+		"Chat": false,
 		"Hud": true,
 		"TriggerID": 0,
 		"UsePriority": true,
@@ -19,10 +19,14 @@
 				"Name": "Item_Flashlight_Button",
 				"ButtonID": 5700,
 				"ButtonClass": "func_button",
-				"Chat_Uses": true,
-				"Mode": 1,
+				"Chat_Uses": false,
+				"Mode": 6,
 				"MaxUses": 0,
-				"CoolDown": 0
+				"CoolDown": 0,
+				"Ignore": false,
+				"LockItem": false,
+				"MathID": 5693,
+				"MathNameFix": false
 			}
 		]
 	},
@@ -37,7 +41,7 @@
 		"BlockPickup": false,
 		"AllowTransfer": true,
 		"ForceDrop": true,
-		"Chat": true,
+		"Chat": false,
 		"Hud": true,
 		"TriggerID": 0,
 		"UsePriority": true,
@@ -46,10 +50,14 @@
 				"Name": "Item_Flashlight_Button2",
 				"ButtonID": 5723,
 				"ButtonClass": "func_button",
-				"Chat_Uses": true,
-				"Mode": 1,
+				"Chat_Uses": false,
+				"Mode": 6,
 				"MaxUses": 0,
-				"CoolDown": 0
+				"CoolDown": 0,
+				"Ignore": false,
+				"LockItem": false,
+				"MathID": 5714,
+				"MathNameFix": false
 			}
 		]
 	}
