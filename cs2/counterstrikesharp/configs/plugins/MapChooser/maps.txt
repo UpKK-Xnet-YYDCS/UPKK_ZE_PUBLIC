@@ -462,7 +462,6 @@
 		"filename"		"ze_obf_filth_v1"
 		"updatedname"		"ze_Obf_Filth"
 		"RestrictedTimes"	"00:00-19:00;22:00-23:59"
-		"MinPlayers"		"40"
 	}
 	"ze_k19_escape_p"
 	{
@@ -2014,7 +2013,7 @@
 		"filename"		"ze_lotr_minas_tirith_p"
 		"updatedname"		"ze_LOTR_Minas_Tirith_p"
 		"search"		"米那斯;魔戒3"
-		"RestrictedTimes"	"00:00-17:00"
+		"RestrictedTimes"	"02:00-17:00"
 	}
 	"ze_flying_world"
 	{
@@ -2044,7 +2043,8 @@
 		"filename"		"ze_santassination_p"
 		"updatedname"		"ze_santassination_p"
 		"search"		"狮子王"
-		"RestrictedTimes"	"02:00-22:00"
+		"RestrictedTimes"	"02:00-17:00"
+		"MinPlayers"		"32"
 	}
 	"ze_rooftop_rogue_ws"
 	{
