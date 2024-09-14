@@ -80,7 +80,6 @@
 			}
 		]
 	},
-
 	{
 		"Name": "定身球",
 		"ShortName": "定身球",
@@ -108,7 +107,6 @@
 			}
 		]
 	},
-
 	{
 		"Name": "护盾",
 		"ShortName": "护盾",
@@ -136,7 +134,6 @@
 			}
 		]
 	},
-
 	{
 		"Name": "伤害球",
 		"ShortName": "伤害球",
@@ -164,7 +161,6 @@
 			}
 		]
 	},
-
 	{
 		"Name": "ZM冰",
 		"ShortName": "ZM冰",
@@ -192,7 +188,6 @@
 			}
 		]
 	},
-
 	{
 		"Name": "ZM奶",
 		"ShortName": "ZM奶",
@@ -271,6 +266,114 @@
 				"Mode": 2,
 				"MaxUses": 0,
 				"CoolDown": 70
+			}
+		]
+	},
+	{
+		"Name": "人类1号传送",
+		"ShortName": "传送1",
+		"Color": "{default}",
+		"HammerID": 2595,
+		"GlowColor": [255,255,255,255],
+		"FilterID": 0,
+		"FilterValue": "",
+		"BlockPickup": false,
+		"AllowTransfer": true,
+		"ForceDrop": true,	
+		"Chat": true,
+		"Hud": true,
+		"TriggerID": 0,
+		"UsePriority": true,
+		"AbilityList": [	
+			{
+				"Name": "item_tp_button1",
+				"ButtonID": 2603,	
+				"ButtonClass": "func_button",
+				"Chat_Uses": true,
+				"Mode": 2,
+				"MaxUses": 0,
+				"CoolDown": 120
+			}
+		]
+	},
+	{
+		"Name": "人类2号传送",
+		"ShortName": "传送2",
+		"Color": "{default}",
+		"HammerID": 4092,
+		"GlowColor": [255,255,255,255],
+		"FilterID": 0,
+		"FilterValue": "",
+		"BlockPickup": false,
+		"AllowTransfer": true,
+		"ForceDrop": true,	
+		"Chat": true,
+		"Hud": true,
+		"TriggerID": 0,
+		"UsePriority": true,
+		"AbilityList": [	
+			{
+				"Name": "item_tp_button2",
+				"ButtonID": 4094,	
+				"ButtonClass": "func_button",
+				"Chat_Uses": true,
+				"Mode": 2,
+				"MaxUses": 0,
+				"CoolDown": 120
+			}
+		]
+	},
+	{
+		"Name": "ZM1号传送",
+		"ShortName": "ZM传送1",
+		"Color": "{default}",
+		"HammerID": 3687,
+		"GlowColor": [255,255,255,255],
+		"FilterID": 0,
+		"FilterValue": "",
+		"BlockPickup": false,
+		"AllowTransfer": true,
+		"ForceDrop": true,	
+		"Chat": true,
+		"Hud": true,
+		"TriggerID": 0,
+		"UsePriority": true,
+		"AbilityList": [	
+			{
+				"Name": "item_zm_tp_button1",
+				"ButtonID": 3675,	
+				"ButtonClass": "func_button",
+				"Chat_Uses": true,
+				"Mode": 2,
+				"MaxUses": 0,
+				"CoolDown": 120
+			}
+		]
+	},
+	{
+		"Name": "ZM2号传送",
+		"ShortName": "ZM传送2",
+		"Color": "{default}",
+		"HammerID": 2302,
+		"GlowColor": [255,255,255,255],
+		"FilterID": 0,
+		"FilterValue": "",
+		"BlockPickup": false,
+		"AllowTransfer": true,
+		"ForceDrop": true,	
+		"Chat": true,
+		"Hud": true,
+		"TriggerID": 0,
+		"UsePriority": true,
+		"AbilityList": [	
+			{
+				"Name": "item_zm_tp_button2",
+				"ButtonID": 2299,	
+				"ButtonClass": "func_button",
+				"Chat_Uses": true,
+				"Mode": 2,
+				"MaxUses": 0,
+				"CoolDown": 120
 			}
 		]
 	}
