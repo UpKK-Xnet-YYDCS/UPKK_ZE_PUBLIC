@@ -1,0 +1,33 @@
+[
+	{
+		"Name": "终极/Ultima",
+		"ShortName": "终极",
+		"Color": "{default}",
+		"HammerID": 92,
+		"GlowColor": [255,255,255,255],
+		"FilterID": 0,
+		"FilterValue": "",
+		"BlockPickup": false,
+		"AllowTransfer": true,
+		"ForceDrop": true,
+		"Chat": true,
+		"Hud": true,
+		"TriggerID": 0,
+		"UsePriority": true,
+		"AbilityList": [
+			{
+				"Name": "lampshade_button",
+				"ButtonID": 94,
+				"ButtonClass": "func_button",
+				"Chat_Uses": true,
+				"Mode": 3,
+				"MaxUses": 1,
+				"CoolDown": 0,
+				"Ignore": false,
+				"LockItem": false,
+				"MathID": 0,
+				"MathNameFix": false
+			}
+		]
+	}
+]
