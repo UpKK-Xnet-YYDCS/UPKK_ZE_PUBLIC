@@ -1592,7 +1592,6 @@
 		"filename"		"ze_p_v_z"
 		"updatedname"		"ze_p_v_z_vo"
 		"search"		"植物;pvz"
-
 	}
 	"ze_Lightnight"
 	{
@@ -2049,8 +2048,7 @@
 		"filename"		"ze_santassination_p"
 		"updatedname"		"ze_santassination_p"
 		"search"		"狮子王"
-		"RestrictedTimes"	"02:00-17:00"
-		"MinPlayers"		"32"
+		"RestrictedTimes"	"00:00-19:00;23:00-23:59"
 	}
 	"ze_rooftop_rogue_ws"
 	{
@@ -2121,5 +2119,19 @@
 		"enabled"		"1"
 		"filename"		"ze_insanitycity_t"
 		"updatedname"		"ze_insanitycity_t"
+	}
+	"ze_blackmesa_remix_cs2"
+	{
+		"workshop_id"		"3329668908"
+		"enabled"		"1"
+		"filename"		"ze_blackmesa_remix_cs2"
+		"updatedname"		"ze_blackmesa_remix_cs2"
+	}
+	"ze_aepp_nano_grid2_p"
+	{
+		"workshop_id"		"3331937749"
+		"enabled"		"1"
+		"filename"		"ze_aepp_nano_grid2_p"
+		"updatedname"		"ze_aepp_nano_grid2_p"
 	}
 }
