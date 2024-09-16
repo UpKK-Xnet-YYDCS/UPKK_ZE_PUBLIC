@@ -17,8 +17,8 @@
 		"AbilityList": [
 			{
 				"Name": "Item_Ultima_Button",
-				"ButtonID": 3465,
-				"ButtonClass": "func_physbox",
+				"ButtonID": 20815,
+				"ButtonClass": "func_button",
 				"Chat_Uses": true,
 				"Mode": 4,
 				"MaxUses": 1,
@@ -44,8 +44,8 @@
 		"AbilityList": [
 			{
 				"Name": "Item_Earth_Button",
-				"ButtonID": 1879,
-				"ButtonClass": "func_physbox",
+				"ButtonID": 20809,
+				"ButtonClass": "func_button",
 				"Chat_Uses": true,
 				"Mode": 2,
 				"MaxUses": 0,
@@ -98,8 +98,8 @@
 		"AbilityList": [
 			{
 				"Name": "Item_Fire_Button",
-				"ButtonID": 2553,
-				"ButtonClass": "func_physbox",
+				"ButtonID": 20813,
+				"ButtonClass": "func_button",
 				"Chat_Uses": true,
 				"Mode": 2,
 				"MaxUses": 0,
@@ -125,8 +125,8 @@
 		"AbilityList": [
 			{
 				"Name": "Item_Electro_Button",
-				"ButtonID": 2421,
-				"ButtonClass": "func_physbox",
+				"ButtonID": 20811,
+				"ButtonClass": "func_button",
 				"Chat_Uses": true,
 				"Mode": 5,
 				"MaxUses": 2,
@@ -152,8 +152,8 @@
 		"AbilityList": [
 			{
 				"Name": "Item_Bio_Button",
-				"ButtonID": 4262,
-				"ButtonClass": "func_physbox",
+				"ButtonID": 20819,
+				"ButtonClass": "func_button",
 				"Chat_Uses": true,
 				"Mode": 2,
 				"MaxUses": 0,
@@ -179,8 +179,8 @@
 		"AbilityList": [
 			{
 				"Name": "Item_Wind_Button",
-				"ButtonID": 4185,
-				"ButtonClass": "func_physbox",
+				"ButtonID": 20817,
+				"ButtonClass": "func_button",
 				"Chat_Uses": true,
 				"Mode": 2,
 				"MaxUses": 0,
@@ -206,8 +206,8 @@
 		"AbilityList": [
 			{
 				"Name": "Item_Gravity_Button",
-				"ButtonID": 4784,
-				"ButtonClass": "func_physbox",
+				"ButtonID": 20821,
+				"ButtonClass": "func_button",
 				"Chat_Uses": true,
 				"Mode": 2,
 				"MaxUses": 0,
@@ -233,9 +233,9 @@
 		"AbilityList": [
 			{
 				"Name": "Item_Sleep_Button",
-				"ButtonID": 7561,
-				"ButtonClass": "func_physbox",
-				"Chat_Uses": false,
+				"ButtonID": 20823,
+				"ButtonClass": "func_button",
+				"Chat_Uses": true,
 				"Mode": 2,
 				"MaxUses": 0,
 				"CoolDown": 60
@@ -314,8 +314,8 @@
 		"AbilityList": [
 			{
 				"Name": "Item_Heal_Button",
-				"ButtonID": 1657,
-				"ButtonClass": "func_physbox",
+				"ButtonID": 20807,
+				"ButtonClass": "func_button",
 				"Chat_Uses": true,
 				"Mode": 2,
 				"MaxUses": 0,
