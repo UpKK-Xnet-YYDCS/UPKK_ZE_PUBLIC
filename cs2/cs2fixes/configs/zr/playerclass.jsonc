@@ -92,19 +92,19 @@
 			"health_regen_count": 500,
 			"health_regen_interval": 5.0
 		},
-		"zpatrik": {
-			"enabled": false,
-			"team_default": false,
-			"health": 19000,
+		"zsnow": {
+			"enabled": true,
+			"team_default": true,
+			"health": 13000,
 			"models": [
 				{
-					"modelname": "characters/models/nozb1/patrik_player_model/patrik_player_model.vmdl",
+					"modelname": "characters/models/upkk/snow_v1/snow_v1.vmdl",
 					"color": "255 255 255",
 					"skins": 0
 				}
 			],
 			"scale": 1.0,
-			"speed": 1.1,
+			"speed": 1.15,
 			"gravity": 0.9,
 			"admin_flag": "",
 			"health_regen_count": 500,
