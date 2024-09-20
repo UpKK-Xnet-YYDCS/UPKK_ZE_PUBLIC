@@ -1959,6 +1959,7 @@
 		"filename"		"ze_deadcore"
 		"updatedname"		"ze_deadcore"
 		"search"		"死亡核心"
+		"RestrictedTimes"	"00:00-23:59"
 	}
 	"ze_fapescape_katrina"
 	{
@@ -2127,6 +2128,35 @@
 		"enabled"		"1"
 		"filename"		"ze_blackmesa_remix_cs2"
 		"updatedname"		"ze_blackmesa_remix_cs2"
+	}
+	"ze_raintime2_stormwindkeep_v2"
+	{
+		"workshop_id"		"3330181267"
+		"enabled"		"1"
+		"filename"		"ze_raintime2_v2"
+		"updatedname"		"ze_raintime2_stormwindkeep_v2"
+	}
+	"ze_minecraft_run"
+	{
+		"workshop_id"		"3330692980"
+		"enabled"		"1"
+		"filename"		"ze_minecraft_run"
+		"updatedname"		"ze_minecraft_run"
+	}
+	"ze_deadcore_r"
+	{
+		"workshop_id"		"3331345627"
+		"enabled"		"1"
+		"filename"		"ze_deadcore_r"
+		"updatedname"		"ze_deadcore_r"
+		"RestrictedTimes"	"00:00-23:59"
+	}
+	"ze_rt4_hessel_valley"
+	{
+		"workshop_id"		"3331546631"
+		"enabled"		"1"
+		"filename"		"ze_rt4_hessel_valley"
+		"updatedname"		"ze_rt4_hessel_valley"
 	}
 	"ze_aepp_nano_grid2_p"
 	{
