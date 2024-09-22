@@ -16,8 +16,8 @@
 		"UsePriority": true,
 		"AbilityList": [
 			{
-				"Name": "Item_Flashlight_Button",
-				"ButtonID": 5700,
+				"Name": "",
+				"ButtonID": 0,
 				"ButtonClass": "func_button",
 				"Chat_Uses": false,
 				"Mode": 7,
@@ -47,8 +47,8 @@
 		"UsePriority": true,
 		"AbilityList": [
 			{
-				"Name": "Item_Flashlight_Button2",
-				"ButtonID": 5723,
+				"Name": "",
+				"ButtonID": 0,
 				"ButtonClass": "func_button",
 				"Chat_Uses": false,
 				"Mode": 7,
