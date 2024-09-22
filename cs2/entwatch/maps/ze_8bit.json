@@ -1,0 +1,219 @@
+[
+	{
+		"Name": "奶/Heal",
+		"ShortName": "奶",
+		"Color": "{default}",
+		"HammerID": 4733,
+		"GlowColor": [255,255,255,255],
+		"FilterID": 0,
+		"FilterValue": "",
+		"BlockPickup": false,
+		"AllowTransfer": true,
+		"ForceDrop": true,
+		"Chat": true,
+		"Hud": true,
+		"TriggerID": 0,
+		"UsePriority": true,
+		"AbilityList": [
+			{
+				"Name": "Button_heal",
+				"ButtonID": 4734,
+				"ButtonClass": "func_button",
+				"Chat_Uses": true,
+				"Mode": 2,
+				"MaxUses": 0,
+				"CoolDown": 60,
+				"Ignore": false,
+				"LockItem": false,
+				"MathID": 0,
+				"MathNameFix": false
+			}
+		]
+	},
+    {
+		"Name": "电/electro",
+		"ShortName": "电",
+		"Color": "{default}",
+		"HammerID": 4739,
+		"GlowColor": [255,255,255,255],
+		"FilterID": 0,
+		"FilterValue": "",
+		"BlockPickup": false,
+		"AllowTransfer": true,
+		"ForceDrop": true,
+		"Chat": true,
+		"Hud": true,
+		"TriggerID": 0,
+		"UsePriority": true,
+		"AbilityList": [
+			{
+				"Name": "Button_electro",
+				"ButtonID": 4740,
+				"ButtonClass": "func_button",
+				"Chat_Uses": true,
+				"Mode": 2,
+				"MaxUses": 0,
+				"CoolDown": 50,
+				"Ignore": false,
+				"LockItem": false,
+				"MathID": 0,
+				"MathNameFix": false
+			}
+		]
+	},
+    {
+		"Name": "毁灭巨炮/Cannon Ultimate",
+		"ShortName": "毁灭巨炮",
+		"Color": "{default}",
+		"HammerID": 4970,
+		"GlowColor": [255,255,255,255],
+		"FilterID": 0,
+		"FilterValue": "",
+		"BlockPickup": false,
+		"AllowTransfer": true,
+		"ForceDrop": true,
+		"Chat": true,
+		"Hud": true,
+		"TriggerID": 0,
+		"UsePriority": true,
+		"AbilityList": [
+			{
+				"Name": "Button_cannon_ultimate",
+				"ButtonID": 4968,
+				"ButtonClass": "func_button",
+				"Chat_Uses": true,
+				"Mode": 3,
+				"MaxUses": 1,
+				"CoolDown": 0,
+				"Ignore": false,
+				"LockItem": false,
+				"MathID": 0,
+				"MathNameFix": false
+			}
+		]
+	},
+    {
+		"Name": "静止装置/Stopper Magick",
+		"ShortName": "静止装置",
+		"Color": "{default}",
+		"HammerID": 4988,
+		"GlowColor": [255,255,255,255],
+		"FilterID": 0,
+		"FilterValue": "",
+		"BlockPickup": false,
+		"AllowTransfer": true,
+		"ForceDrop": true,
+		"Chat": true,
+		"Hud": true,
+		"TriggerID": 0,
+		"UsePriority": true,
+		"AbilityList": [
+			{
+				"Name": "Button_Stopper",
+				"ButtonID": 4989,
+				"ButtonClass": "func_button",
+				"Chat_Uses": true,
+				"Mode": 2,
+				"MaxUses": 0,
+				"CoolDown": 60,
+				"Ignore": false,
+				"LockItem": false,
+				"MathID": 0,
+				"MathNameFix": false
+			}
+		]
+	},
+    {
+		"Name": "地雷/Mines",
+		"ShortName": "地雷",
+		"Color": "{default}",
+		"HammerID": 5019,
+		"GlowColor": [255,255,255,255],
+		"FilterID": 0,
+		"FilterValue": "",
+		"BlockPickup": false,
+		"AllowTransfer": true,
+		"ForceDrop": true,
+		"Chat": true,
+		"Hud": true,
+		"TriggerID": 0,
+		"UsePriority": true,
+		"AbilityList": [
+			{
+				"Name": "Button_Mine",
+				"ButtonID": 5020,
+				"ButtonClass": "func_button",
+				"Chat_Uses": true,
+				"Mode": 4,
+				"MaxUses": 8,
+				"CoolDown": 10,
+				"Ignore": false,
+				"LockItem": false,
+				"MathID": 0,
+				"MathNameFix": false
+			}
+		]
+	},
+    {
+		"Name": "喷火器/Fire Magick",
+		"ShortName": "喷火器",
+		"Color": "{default}",
+		"HammerID": 5038,
+		"GlowColor": [255,255,255,255],
+		"FilterID": 0,
+		"FilterValue": "",
+		"BlockPickup": false,
+		"AllowTransfer": true,
+		"ForceDrop": true,
+		"Chat": false,
+		"Hud": true,
+		"TriggerID": 0,
+		"UsePriority": true,
+		"AbilityList": [
+			{
+				"Name": "Button_Fire",
+				"ButtonID": 5039,
+				"ButtonClass": "func_button",
+				"Chat_Uses": false,
+				"Mode": 6,
+				"MaxUses": 0,
+				"CoolDown": 0,
+				"Ignore": false,
+				"LockItem": false,
+				"MathID": 5037,
+				"MathNameFix": false
+			}
+		]
+	},
+    {
+		"Name": "弹药/Ammo",
+		"ShortName": "弹药",
+		"Color": "{default}",
+		"HammerID": 5594,
+		"GlowColor": [255,255,255,255],
+		"FilterID": 0,
+		"FilterValue": "",
+		"BlockPickup": false,
+		"AllowTransfer": true,
+		"ForceDrop": true,
+		"Chat": true,
+		"Hud": true,
+		"TriggerID": 0,
+		"UsePriority": true,
+		"AbilityList": [
+			{
+				"Name": "Button_Ammo",
+				"ButtonID": 5595,
+				"ButtonClass": "func_button",
+				"Chat_Uses": true,
+				"Mode": 2,
+				"MaxUses": 0,
+				"CoolDown": 60,
+				"Ignore": false,
+				"LockItem": false,
+				"MathID": 0,
+				"MathNameFix": false
+			}
+		]
+	}
+]
