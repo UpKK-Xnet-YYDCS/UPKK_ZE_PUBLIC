@@ -37,7 +37,7 @@
 		"BlockPickup": false,
 		"AllowTransfer": true,
 		"ForceDrop": true,
-		"Chat": true,
+		"Chat": false,
 		"Hud": true,
 		"TriggerID": 0,
 		"UsePriority": true,
@@ -172,7 +172,7 @@
 		"BlockPickup": false,
 		"AllowTransfer": true,
 		"ForceDrop": true,
-		"Chat": true,
+		"Chat": false,
 		"Hud": true,
 		"TriggerID": 0,
 		"UsePriority": true,
@@ -182,9 +182,13 @@
 				"ButtonID": 3679,
 				"ButtonClass": "func_physbox",
 				"Chat_Uses": false,
-				"Mode": 1,
+				"Mode": 6,
 				"MaxUses": 0,
-				"CoolDown": 0
+				"CoolDown": 0,
+				"Ignore": false,
+				"LockItem": false,
+				"MathID": 3685,
+				"MathNameFix": false
 			}
 		]
 	},
@@ -236,9 +240,13 @@
 				"ButtonID": 3635,
 				"ButtonClass": "func_physbox",
 				"Chat_Uses": true,
-				"Mode": 4,
-				"MaxUses": 2,
-				"CoolDown": 20
+				"Mode": 7,
+				"MaxUses": 0,
+				"CoolDown": 0,
+				"Ignore": false,
+				"LockItem": false,
+				"MathID": 522,
+				"MathNameFix": false
 			}
 		]
 	},
