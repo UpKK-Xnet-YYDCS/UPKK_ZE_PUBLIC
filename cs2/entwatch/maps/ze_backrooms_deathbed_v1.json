@@ -29,36 +29,5 @@
 				"MathNameFix": false
 			}
 		]
-	},
-	{
-		"Name": "手电筒2/Flashlight2",
-		"ShortName": "手电筒2",
-		"Color": "{default}",
-		"HammerID": 5709,
-		"GlowColor": [255,255,255,255],
-		"FilterID": 0,
-		"FilterValue": "",
-		"BlockPickup": false,
-		"AllowTransfer": true,
-		"ForceDrop": true,
-		"Chat": false,
-		"Hud": true,
-		"TriggerID": 0,
-		"UsePriority": true,
-		"AbilityList": [
-			{
-				"Name": "",
-				"ButtonID": 0,
-				"ButtonClass": "func_button",
-				"Chat_Uses": false,
-				"Mode": 7,
-				"MaxUses": 0,
-				"CoolDown": 0,
-				"Ignore": false,
-				"LockItem": false,
-				"MathID": 5714,
-				"MathNameFix": false
-			}
-		]
 	}
 ]
