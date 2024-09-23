@@ -1,0 +1,56 @@
+[
+	{
+		"Name": "逝者的太刀",	
+		"ShortName": "太刀",
+		"Color": "{default}",
+		"HammerID": 11479,
+		"GlowColor": [255,255,255,255],
+		"FilterID": 0,
+		"FilterValue": "",
+		"BlockPickup": false,
+		"AllowTransfer": true,
+		"ForceDrop": true,
+		"Chat": true,
+		"Hud": true,
+		"TriggerID": 0,
+		"UsePriority": true,
+		"AbilityList": [	
+			{
+				"Name": "Item_Berserkeer_Button",
+				"ButtonID": 11480,
+				"ButtonClass": "func_button",
+				"Chat_Uses": true,
+				"Mode": 2,
+				"MaxUses": 0,
+				"CoolDown": 60
+			}
+		]
+	},
+	{
+		"Name": "虹锥",
+		"ShortName": "墙",
+		"Color": "{default}",
+		"HammerID": 6823,
+		"GlowColor": [255,255,255,255],
+		"FilterID": 0,
+		"FilterValue": "",
+		"BlockPickup": false,
+		"AllowTransfer": true,
+		"ForceDrop": true,	
+		"Chat": true,
+		"Hud": true,
+		"TriggerID": 0,
+		"UsePriority": true,
+		"AbilityList": [	
+			{
+				"Name": "Item_Wall_Button",
+				"ButtonID": 6824,	
+				"ButtonClass": "func_button",	
+				"Chat_Uses": true,
+				"Mode": 2,
+				"MaxUses": 0,
+				"CoolDown": 60
+			}
+		]
+	}
+]
