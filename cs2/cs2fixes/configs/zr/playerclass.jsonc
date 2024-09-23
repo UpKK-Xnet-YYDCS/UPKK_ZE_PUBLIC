@@ -23,7 +23,7 @@
 		"zjunko": {
 			"enabled": true,
 			"team_default": true,
-			"health": 10000,
+			"health": 8000,
 			"models": [
 				{
 					"modelname": "characters/models/upkk/junko/zjunko.vmdl",
@@ -53,7 +53,7 @@
 			"speed": 1.1,
 			"gravity": 0.9,
 			"admin_flag": "",
-			"health_regen_count": 800,
+			"health_regen_count": 1000,
 			"health_regen_interval": 5.0
 		},
 		"zpolice": {
@@ -68,7 +68,7 @@
 				}
 			],
 			"scale": 1.0,
-			"speed": 1.15,
+			"speed": 1.2,
 			"gravity": 1.0,
 			"admin_flag": "",
 			"health_regen_count": 500,
@@ -95,7 +95,7 @@
 		"zsnow": {
 			"enabled": true,
 			"team_default": true,
-			"health": 13000,
+			"health": 12000,
 			"models": [
 				{
 					"modelname": "characters/models/upkk/snow_v1/snow_v1.vmdl",
@@ -104,10 +104,10 @@
 				}
 			],
 			"scale": 1.0,
-			"speed": 1.15,
-			"gravity": 0.9,
+			"speed": 1.10,
+			"gravity": 0.95,
 			"admin_flag": "",
-			"health_regen_count": 1000,
+			"health_regen_count": 500,
 			"health_regen_interval": 5.0
 		},
 		"MotherZombie": {
@@ -125,7 +125,7 @@
 			"speed": 1.2,
 			"gravity": 1.0,
 			"admin_flag": "",
-			"health_regen_count": 500,
+			"health_regen_count": 1000,
 			"health_regen_interval": 5.0
 		}
 	}
