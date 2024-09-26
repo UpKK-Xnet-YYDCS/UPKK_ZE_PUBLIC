@@ -1,0 +1,434 @@
+[
+	{
+		"Name": "终极",
+		"ShortName": "终极",
+		"Color": "{pink}",
+		"HammerID": 7254,
+		"GlowColor": [255,255,255,255],
+		"FilterID": 0,
+		"FilterValue": "",
+		"BlockPickup": false,
+		"AllowTransfer": true,
+		"ForceDrop": true,
+		"Chat": true,
+		"Hud": true,
+		"TriggerID": 0,
+		"UsePriority": true,
+		"AbilityList": [
+			{
+				"Name": "Item_Ultima_Button",
+				"ButtonID": 7255,
+				"ButtonClass": "func_button",
+				"Chat_Uses": true,
+				"Mode": 4,
+				"MaxUses": 1,
+				"CoolDown": 20
+			}
+		]
+	},
+    {
+		"Name": "土",
+		"ShortName": "土",
+		"Color": "{pink}",
+		"HammerID": 7438,
+		"GlowColor": [255,255,255,255],
+		"FilterID": 0,
+		"FilterValue": "",
+		"BlockPickup": false,
+		"AllowTransfer": true,
+		"ForceDrop": true,
+		"Chat": true,
+		"Hud": true,
+		"TriggerID": 0,
+		"UsePriority": true,
+		"AbilityList": [
+			{
+				"Name": "Item_Earth_Button",
+				"ButtonID": 7435,
+				"ButtonClass": "func_button",
+				"Chat_Uses": true,
+				"Mode": 2,
+				"MaxUses": 0,
+				"CoolDown": 60
+			}
+		]
+	},
+	{
+		"Name": "火焰球",
+		"ShortName": "火焰球",
+		"Color": "{pink}",
+		"HammerID": 7428,
+		"GlowColor": [255,255,255,255],
+		"FilterID": 0,
+		"FilterValue": "",
+		"BlockPickup": false,
+		"AllowTransfer": true,
+		"ForceDrop": true,
+		"Chat": true,
+		"Hud": true,
+		"TriggerID": 0,
+		"UsePriority": true,
+		"AbilityList": [
+			{
+				"Name": "Fireball_Button",
+				"ButtonID": 7420,
+				"ButtonClass": "func_button",
+				"Chat_Uses": false,
+				"Mode": 2,
+				"MaxUses": 0,
+				"CoolDown": 10
+			}
+		]
+	},
+	{
+		"Name": "风",
+		"ShortName": "风",
+		"Color": "{pink}",
+		"HammerID": 7396,
+		"GlowColor": [255,255,255,255],
+		"FilterID": 0,
+		"FilterValue": "",
+		"BlockPickup": false,
+		"AllowTransfer": true,
+		"ForceDrop": true,
+		"Chat": true,
+		"Hud": true,
+		"TriggerID": 0,
+		"UsePriority": true,
+		"AbilityList": [
+			{
+				"Name": "Item_Wind_Button",
+				"ButtonID": 7416,
+				"ButtonClass": "func_button",
+				"Chat_Uses": true,
+				"Mode": 2,
+				"MaxUses": 0,
+				"CoolDown": 65
+			}
+		]
+	},
+	{
+		"Name": "电",
+		"ShortName": "电",
+		"Color": "{pink}",
+		"HammerID": 7383,
+		"GlowColor": [255,255,255,255],
+		"FilterID": 0,
+		"FilterValue": "",
+		"BlockPickup": false,
+		"AllowTransfer": true,
+		"ForceDrop": true,
+		"Chat": true,
+		"Hud": true,
+		"TriggerID": 0,
+		"UsePriority": true,
+		"AbilityList": [
+			{
+				"Name": "Item_Electro_Button",
+				"ButtonID": 7392,
+				"ButtonClass": "func_button",
+				"Chat_Uses": true,
+				"Mode": 2,
+				"MaxUses": 0,
+				"CoolDown": 60
+			}
+		]
+	},
+	{
+		"Name": "奶",
+		"ShortName": "奶",
+		"Color": "{pink}",
+		"HammerID": 7375,
+		"GlowColor": [255,255,255,255],
+		"FilterID": 0,
+		"FilterValue": "",
+		"BlockPickup": false,
+		"AllowTransfer": true,
+		"ForceDrop": true,
+		"Chat": true,
+		"Hud": true,
+		"TriggerID": 0,
+		"UsePriority": true,
+		"AbilityList": [
+			{
+				"Name": "Item_Heal_Button",
+				"ButtonID": 7380,
+				"ButtonClass": "func_button",
+				"Chat_Uses": true,
+				"Mode": 2,
+				"MaxUses": 0,
+				"CoolDown": 60
+			}
+		]
+	},
+	{
+		"Name": "复制",
+		"ShortName": "复制",
+		"Color": "{pink}",
+		"HammerID": 7326,
+		"GlowColor": [255,255,255,255],
+		"FilterID": 0,
+		"FilterValue": "",
+		"BlockPickup": false,
+		"AllowTransfer": true,
+		"ForceDrop": true,
+		"Chat": true,
+		"Hud": true,
+		"TriggerID": 0,
+		"UsePriority": true,
+		"AbilityList": [
+			{
+				"Name": "Item_Copy_Button",
+				"ButtonID": 7364,
+				"ButtonClass": "func_button",
+				"Chat_Uses": true,
+				"Mode": 2,
+				"MaxUses": 0,
+				"CoolDown": 55
+			}
+		]
+	},
+	{
+		"Name": "[僵尸]黑洞",
+		"ShortName": "[僵尸]黑洞",
+		"Color": "{pink}",
+		"HammerID": 7320,
+		"GlowColor": [255,255,255,255],
+		"FilterID": 0,
+		"FilterValue": "",
+		"BlockPickup": false,
+		"AllowTransfer": true,
+		"ForceDrop": true,
+		"Chat": true,
+		"Hud": true,
+		"TriggerID": 0,
+		"UsePriority": true,
+		"AbilityList": [
+			{
+				"Name": "Item_zmgravity_Button",
+				"ButtonID": 7321,
+				"ButtonClass": "func_button",
+				"Chat_Uses": true,
+				"Mode": 2,
+				"MaxUses": 0,
+				"CoolDown": 75
+			}
+		]
+	},
+	{
+		"Name": "[僵尸]秒杀",
+		"ShortName": "[僵尸]秒杀",
+		"Color": "{pink}",
+		"HammerID": 7294,
+		"GlowColor": [255,255,255,255],
+		"FilterID": 0,
+		"FilterValue": "",
+		"BlockPickup": false,
+		"AllowTransfer": true,
+		"ForceDrop": true,
+		"Chat": true,
+		"Hud": true,
+		"TriggerID": 0,
+		"UsePriority": true,
+		"AbilityList": [
+			{
+				"Name": "Item_znuke_Button",
+				"ButtonID": 7295,
+				"ButtonClass": "func_button",
+				"Chat_Uses": true,
+				"Mode": 2,
+				"MaxUses": 0,
+				"CoolDown": 60
+			}
+		]
+	},
+	{
+		"Name": "[僵尸]冰",
+		"ShortName": "[僵尸]冰",
+		"Color": "{pink}",
+		"HammerID": 7281,
+		"GlowColor": [255,255,255,255],
+		"FilterID": 0,
+		"FilterValue": "",
+		"BlockPickup": false,
+		"AllowTransfer": true,
+		"ForceDrop": true,
+		"Chat": true,
+		"Hud": true,
+		"TriggerID": 0,
+		"UsePriority": true,
+		"AbilityList": [
+			{
+				"Name": "Item_zice_Button",
+				"ButtonID": 7285,
+				"ButtonClass": "func_button",
+				"Chat_Uses": true,
+				"Mode": 2,
+				"MaxUses": 0,
+				"CoolDown": 55
+			}
+		]
+	},
+	{
+		"Name": "[僵尸]奶",
+		"ShortName": "[僵尸]奶",
+		"Color": "{pink}",
+		"HammerID": 7270,
+		"GlowColor": [255,255,255,255],
+		"FilterID": 0,
+		"FilterValue": "",
+		"BlockPickup": false,
+		"AllowTransfer": true,
+		"ForceDrop": true,
+		"Chat": true,
+		"Hud": true,
+		"TriggerID": 0,
+		"UsePriority": true,
+		"AbilityList": [
+			{
+				"Name": "Item_zmheal_Button",
+				"ButtonID": 7266,
+				"ButtonClass": "func_button",
+				"Chat_Uses": true,
+				"Mode": 2,
+				"MaxUses": 0,
+				"CoolDown": 50
+			}
+		]
+	},
+	{
+		"Name": "水",
+		"ShortName": "水",
+		"Color": "{pink}",
+		"HammerID": 7451,
+		"GlowColor": [255,255,255,255],
+		"FilterID": 0,
+		"FilterValue": "",
+		"BlockPickup": false,
+		"AllowTransfer": true,
+		"ForceDrop": true,
+		"Chat": true,
+		"Hud": true,
+		"TriggerID": 0,
+		"UsePriority": true,
+		"AbilityList": [
+			{
+				"Name": "Item_water_Button",
+				"ButtonID": 7448,
+				"ButtonClass": "func_button",
+				"Chat_Uses": true,
+				"Mode": 2,
+				"MaxUses": 0,
+				"CoolDown": 65
+			}
+		]
+	},
+	{
+		"Name": "[僵尸]伤害球1",
+		"ShortName": "[僵尸]伤害球1",
+		"Color": "{pink}",
+		"HammerID": 7991,
+		"GlowColor": [255,255,255,255],
+		"FilterID": 0,
+		"FilterValue": "",
+		"BlockPickup": false,
+		"AllowTransfer": true,
+		"ForceDrop": true,
+		"Chat": true,
+		"Hud": true,
+		"TriggerID": 0,
+		"UsePriority": true,
+		"AbilityList": [
+			{
+				"Name": "zm_ball_1_button",
+				"ButtonID": 7983,
+				"ButtonClass": "func_button",
+				"Chat_Uses": true,
+				"Mode": 2,
+				"MaxUses": 0,
+				"CoolDown": 15
+			}
+		]
+	},
+	{
+		"Name": "[僵尸]伤害球2",
+		"ShortName": "[僵尸]伤害球2",
+		"Color": "{pink}",
+		"HammerID": 8010,
+		"GlowColor": [255,255,255,255],
+		"FilterID": 0,
+		"FilterValue": "",
+		"BlockPickup": false,
+		"AllowTransfer": true,
+		"ForceDrop": true,
+		"Chat": true,
+		"Hud": true,
+		"TriggerID": 0,
+		"UsePriority": true,
+		"AbilityList": [
+			{
+				"Name": "zm_ball_2_button",
+				"ButtonID": 8002,
+				"ButtonClass": "func_button",
+				"Chat_Uses": true,
+				"Mode": 2,
+				"MaxUses": 0,
+				"CoolDown": 15
+			}
+		]
+	},
+	{
+		"Name": "[僵尸]伤害球3",
+		"ShortName": "[僵尸]伤害球3",
+		"Color": "{pink}",
+		"HammerID": 8029,
+		"GlowColor": [255,255,255,255],
+		"FilterID": 0,
+		"FilterValue": "",
+		"BlockPickup": false,
+		"AllowTransfer": true,
+		"ForceDrop": true,
+		"Chat": true,
+		"Hud": true,
+		"TriggerID": 0,
+		"UsePriority": true,
+		"AbilityList": [
+			{
+				"Name": "zm_ball_3_button",
+				"ButtonID": 8021,
+				"ButtonClass": "func_button",
+				"Chat_Uses": true,
+				"Mode": 2,
+				"MaxUses": 0,
+				"CoolDown": 15
+			}
+		]
+	},
+	{
+		"Name": "[僵尸]特斯拉",
+		"ShortName": "[僵尸]特斯拉",
+		"Color": "{pink}",
+		"HammerID": 8083,
+		"GlowColor": [255,255,255,255],
+		"FilterID": 0,
+		"FilterValue": "",
+		"BlockPickup": false,
+		"AllowTransfer": true,
+		"ForceDrop": true,
+		"Chat": true,
+		"Hud": true,
+		"TriggerID": 0,
+		"UsePriority": true,
+		"AbilityList": [
+			{
+				"Name": "",
+				"ButtonID": 0,
+				"ButtonClass": "",
+				"Chat_Uses": false,
+				"Mode": 0,
+				"MaxUses": 0,
+				"CoolDown": 0
+			}
+		]
+	}
+]
