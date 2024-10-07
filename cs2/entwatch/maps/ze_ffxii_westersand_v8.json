@@ -1,36 +1,9 @@
 [
 	{
-		"Name": "Solo Winner",
-		"ShortName": "Solo",
-		"Color": "{pink}",
-		"HammerID": ,
-		"GlowColor": [255,255,255,255],
-		"FilterID": 0,
-		"FilterValue": "",
-		"BlockPickup": false,
-		"AllowTransfer": true,
-		"ForceDrop": true,
-		"Chat": true,
-		"Hud": true,
-		"TriggerID": 0,
-		"UsePriority": true,
-		"AbilityList": [
-			{
-				"Name": "",
-				"ButtonID": 0,
-				"ButtonClass": "",
-				"Chat_Uses": true,
-				"Mode": 0,
-				"MaxUses": 0,
-				"CoolDown": 0
-			}
-		]
-	},
-	{
 		"Name": "水",
 		"ShortName": "水",
 		"Color": "{pink}",
-		"HammerID": ,
+		"HammerID": 2928,
 		"GlowColor": [255,255,255,255],
 		"FilterID": 0,
 		"FilterValue": "",
@@ -43,8 +16,8 @@
 		"UsePriority": true,
 		"AbilityList": [
 			{
-				"Name": "",
-				"ButtonID": 0,
+				"Name": "Staff_Water_Button",
+				"ButtonID": 2923,
 				"ButtonClass": "func_button",
 				"Chat_Uses": true,
 				"Mode": 2,
@@ -57,7 +30,7 @@
 		"Name": "电",
 		"ShortName": "电",
 		"Color": "{pink}",
-		"HammerID": ,
+		"HammerID": 2966,
 		"GlowColor": [255,255,255,255],
 		"FilterID": 0,
 		"FilterValue": "",
@@ -70,8 +43,8 @@
 		"UsePriority": true,
 		"AbilityList": [
 			{
-				"Name": "",
-				"ButtonID": 0,
+				"Name": "Staff_Electro_Button",
+				"ButtonID": 2970,
 				"ButtonClass": "func_button",
 				"Chat_Uses": true,
 				"Mode": 2,
@@ -84,7 +57,7 @@
 		"Name": "火",
 		"ShortName": "火",
 		"Color": "{pink}",
-		"HammerID": ,
+		"HammerID": 2936,
 		"GlowColor": [255,255,255,255],
 		"FilterID": 0,
 		"FilterValue": "",
@@ -97,8 +70,8 @@
 		"UsePriority": true,
 		"AbilityList": [
 			{
-				"Name": "",
-				"ButtonID": 0,
+				"Name": "Staff_Fire_Button",
+				"ButtonID": 2941,
 				"ButtonClass": "func_button",
 				"Chat_Uses": true,
 				"Mode": 2,
@@ -111,7 +84,7 @@
 		"Name": "终极",
 		"ShortName": "终极",
 		"Color": "{pink}",
-		"HammerID": ,
+		"HammerID": 2950,
 		"GlowColor": [255,255,255,255],
 		"FilterID": 0,
 		"FilterValue": "",
@@ -124,8 +97,8 @@
 		"UsePriority": true,
 		"AbilityList": [
 			{
-				"Name": "",
-				"ButtonID": 0,
+				"Name": "Staff_Holy_Button",
+				"ButtonID": 2943,
 				"ButtonClass": "func_button",
 				"Chat_Uses": true,
 				"Mode": 4,
@@ -138,7 +111,7 @@
 		"Name": "土",
 		"ShortName": "土",
 		"Color": "{pink}",
-		"HammerID": ,
+		"HammerID": 2961,
 		"GlowColor": [255,255,255,255],
 		"FilterID": 0,
 		"FilterValue": "",
@@ -151,8 +124,8 @@
 		"UsePriority": true,
 		"AbilityList": [
 			{
-				"Name": "",
-				"ButtonID": 0,
+				"Name": "Staff_Earth_Button",
+				"ButtonID": 2930,
 				"ButtonClass": "func_button",
 				"Chat_Uses": true,
 				"Mode": 2,
@@ -165,7 +138,7 @@
 		"Name": "治疗",
 		"ShortName": "治疗",
 		"Color": "{pink}",
-		"HammerID": ,
+		"HammerID": 2955,
 		"GlowColor": [255,255,255,255],
 		"FilterID": 0,
 		"FilterValue": "",
@@ -178,8 +151,8 @@
 		"UsePriority": true,
 		"AbilityList": [
 			{
-				"Name": "",
-				"ButtonID": 0,
+				"Name": "Staff_Heal_Button",
+				"ButtonID": 2956,
 				"ButtonClass": "func_button",
 				"Chat_Uses": true,
 				"Mode": 2,
@@ -192,7 +165,7 @@
 		"Name": "风",
 		"ShortName": "风",
 		"Color": "{pink}",
-		"HammerID": ,
+		"HammerID": 2976,
 		"GlowColor": [255,255,255,255],
 		"FilterID": 0,
 		"FilterValue": "",
@@ -205,8 +178,8 @@
 		"UsePriority": true,
 		"AbilityList": [
 			{
-				"Name": "",
-				"ButtonID": 0,
+				"Name": "Staff_Wind_Button",
+				"ButtonID": 2973,
 				"ButtonClass": "func_button",
 				"Chat_Uses": true,
 				"Mode": 2,
@@ -219,7 +192,7 @@
 		"Name": "ZM致盲",
 		"ShortName": "ZM致盲",
 		"Color": "{pink}",
-		"HammerID": ,
+		"HammerID": 2917,
 		"GlowColor": [255,255,255,255],
 		"FilterID": 0,
 		"FilterValue": "",
@@ -232,8 +205,8 @@
 		"UsePriority": true,
 		"AbilityList": [
 			{
-				"Name": "",
-				"ButtonID": 0,
+				"Name": "Knife_Blind_Button",
+				"ButtonID": 2918,
 				"ButtonClass": "func_button",
 				"Chat_Uses": true,
 				"Mode": 2,
@@ -246,7 +219,7 @@
 		"Name": "ZM隐身",
 		"ShortName": "ZM隐身",
 		"Color": "{pink}",
-		"HammerID": ,
+		"HammerID": 3007,
 		"GlowColor": [255,255,255,255],
 		"FilterID": 0,
 		"FilterValue": "",
@@ -259,8 +232,8 @@
 		"UsePriority": true,
 		"AbilityList": [
 			{
-				"Name": "",
-				"ButtonID": 0,
+				"Name": "Knife_Invis_Button",
+				"ButtonID": 3004,
 				"ButtonClass": "func_button",
 				"Chat_Uses": false,
 				"Mode": 2,
@@ -273,7 +246,7 @@
 		"Name": "ZM秒杀",
 		"ShortName": "ZM秒杀",
 		"Color": "{pink}",
-		"HammerID": ,
+		"HammerID": 2998,
 		"GlowColor": [255,255,255,255],
 		"FilterID": 0,
 		"FilterValue": "",
@@ -286,8 +259,8 @@
 		"UsePriority": true,
 		"AbilityList": [
 			{
-				"Name": "",
-				"ButtonID": 0,
+				"Name": "Knife_Warp_Button",
+				"ButtonID": 2999,
 				"ButtonClass": "func_button",
 				"Chat_Uses": true,
 				"Mode": 2,
@@ -300,7 +273,7 @@
 		"Name": "ZM黑洞",
 		"ShortName": "ZM黑洞",
 		"Color": "{pink}",
-		"HammerID": ,
+		"HammerID": 2901,
 		"GlowColor": [255,255,255,255],
 		"FilterID": 0,
 		"FilterValue": "",
@@ -313,8 +286,8 @@
 		"UsePriority": true,
 		"AbilityList": [
 			{
-				"Name": "",
-				"ButtonID": 0,
+				"Name": "Knife_Lure_Button",
+				"ButtonID": 2905,
 				"ButtonClass": "func_button",
 				"Chat_Uses": true,
 				"Mode": 2,
@@ -327,7 +300,7 @@
 		"Name": "ZM治疗",
 		"ShortName": "ZM治疗",
 		"Color": "{pink}",
-		"HammerID": ,
+		"HammerID": 3090,
 		"GlowColor": [255,255,255,255],
 		"FilterID": 0,
 		"FilterValue": "",
@@ -340,8 +313,8 @@
 		"UsePriority": true,
 		"AbilityList": [
 			{
-				"Name": "",
-				"ButtonID": 0,
+				"Name": "Knife_Heal_Button",
+				"ButtonID": 3084,
 				"ButtonClass": "func_button",
 				"Chat_Uses": true,
 				"Mode": 2,
@@ -354,7 +327,7 @@
 		"Name": "ZM护盾",
 		"ShortName": "ZM护盾",
 		"Color": "{pink}",
-		"HammerID": ,
+		"HammerID": 3042,
 		"GlowColor": [255,255,255,255],
 		"FilterID": 0,
 		"FilterValue": "",
@@ -367,8 +340,8 @@
 		"UsePriority": true,
 		"AbilityList": [
 			{
-				"Name": "",
-				"ButtonID": 0,
+				"Name": "Knife_Shield_Button",
+				"ButtonID": 3044,
 				"ButtonClass": "func_button",
 				"Chat_Uses": true,
 				"Mode": 2,
@@ -381,7 +354,7 @@
 		"Name": "ZM神火",
 		"ShortName": "ZM神火",
 		"Color": "{pink}",
-		"HammerID": ,
+		"HammerID": 3112,
 		"GlowColor": [255,255,255,255],
 		"FilterID": 0,
 		"FilterValue": "",
@@ -394,8 +367,8 @@
 		"UsePriority": true,
 		"AbilityList": [
 			{
-				"Name": "",
-				"ButtonID": 0,
+				"Name": "Knife_Fire_Button",
+				"ButtonID": 3108,
 				"ButtonClass": "func_button",
 				"Chat_Uses": true,
 				"Mode": 2,
@@ -408,7 +381,7 @@
 		"Name": "ZM冰霜",
 		"ShortName": "ZM冰霜",
 		"Color": "{pink}",
-		"HammerID": ,
+		"HammerID": 3114,
 		"GlowColor": [255,255,255,255],
 		"FilterID": 0,
 		"FilterValue": "",
@@ -421,8 +394,8 @@
 		"UsePriority": true,
 		"AbilityList": [
 			{
-				"Name": "",
-				"ButtonID": 0,
+				"Name": "Knife_Frost_Button",
+				"ButtonID": 3117,
 				"ButtonClass": "func_button",
 				"Chat_Uses": true,
 				"Mode": 2,
