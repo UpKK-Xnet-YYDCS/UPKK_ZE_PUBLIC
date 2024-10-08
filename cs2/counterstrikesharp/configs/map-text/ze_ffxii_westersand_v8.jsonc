@@ -1,6 +1,6 @@
 {
   "** [HARD MODE] **": {
-    "translation": "** [困难] **"
+    "translation": "** [困难模式] **"
   },
   "** MAP BY SLAYERDRAGON & NOCTALI **": {
     "translation": "** 地图作者：SLAYERDRAGON & NOCTALI 翻译：Asteri3m，Ayanami♪ **"
@@ -99,7 +99,7 @@
     "translation": "** 恭喜：你已经征服了 [困难] **"
   },
   "** [EXTREME MODE] **": {
-    "translation": "[极限]"
+    "translation": "[极限模式]"
   },
   "** Hold 20 seconds until the door opens **": {
     "translation": "** 防守20秒直到门打开 **"
@@ -153,7 +153,7 @@
     "translation": "** 恭喜：你已经征服了 [极限] **"
   },
   "** [EPIC MODE] **": {
-    "translation": "** [史诗] **"
+    "translation": "** [史诗模式] **"
   },
   "** Teleporters will be ready in 20 seconds ! **": {
     "translation": "** 传送器将在20秒内准备就绪！**"
@@ -199,6 +199,103 @@
     "translation": "** 恭喜：你已经征服了 [史诗] **"
   },
   "** [GOD MODE] **": {
-    "translation": "** [上帝] **"
+    "translation": "** [上帝模式] **"
+  },
+  "[ADMIN] Selected [GOD MODE] for next round.": {
+    "translation": "[管理员] 选择了[上帝模式]作为下一回合。"
+  },
+  "** Congratulations - You won [GODMODE] **": {
+    "translation": "** 恭喜：你已经征服了 [上帝] **"
+  },
+  "** THANKS FOR PLAYING **": {
+    "translation": "** 感谢游玩 **"
+  },
+  "** [ZM MODE] **": {
+    "translation": "[僵尸感染模式]"
+  },
+  "** NUKE IN 200 SECONDS **": {
+    "translation": "** 200秒后核爆 **"
+  },
+  "** NUKE IN 180 SECONDS **": {
+    "translation": "** 180秒后核爆 **"
+  },
+  "** NUKE IN 160 SECONDS **": {
+    "translation": "** 160秒后核爆 **"
+  },
+  "** NUKE IN 140 SECONDS **": {
+    "translation": "** 140秒后核爆 **"
+  },
+  "** NUKE IN 120 SECONDS **": {
+    "translation": "** 120秒后核爆 **"
+  },
+  "** NUKE IN 100 SECONDS **": {
+    "translation": "** 100秒后核爆 **"
+  },
+  "** NUKE IN 80 SECONDS **": {
+    "translation": "** 80秒后核爆 **"
+  },
+  "** NUKE IN 60 SECONDS **": {
+    "translation": "** 60秒后核爆 **"
+  },
+  "** NUKE IN 40 SECONDS **": {
+    "translation": "** 40秒后核爆 **"
+  },
+  "** TELEPORTING EVERYONE TO CHOCOBORACE IN 10 SEC **": {
+    "translation": "** 10秒，正在将所有人传送到陆行鸟赛跑 **"
+  },
+  "** TELEPORTING EVERYONE TO CHOCOBORACE **": {
+    "translation": "** 将所有人传送到陆行鸟赛跑 **"
+  },
+  "** ZOMBIES RELEASED IN 2 SECS **": {
+    "translation": "** 僵尸将在2秒后释放 **",
+    "DoorCountDown": 2
+  },
+  "** NUKE IN 20 SECONDS **": {
+    "translation": "** 20秒后核爆 **"
+  },
+  "** NUKE IN 10 SECONDS **": {
+    "translation": "** 10秒后核爆 **"
+  },
+  "[WINNER] Selected [GOD MODE] for next round.": {
+    "translation": "[胜者] 选择了[上帝模式]作为下一回合"
+  },
+  "** [INSANE DIFFICULTY ADDED] **": {
+    "translation": "** [增加了疯狂难度] **"
+  },
+  "[ADMIN] Added [INSANE DIFFICULTY] for next round.": {
+    "translation": "[管理员] 设置了下回合添加 [疯狂难度]。"
+  },
+  "[ADMIN] Removed [INSANE DIFFICULTY] for next round.": {
+    "translation": "[管理员] 设置了下回合移除 [疯狂难度]。"
+  },
+  "[ADMIN] Selected [HARD MODE] for next round.": {
+    "translation": "[管理员] 选择了[困难模式]作为下一回合。"
+  },
+  "[ADMIN] Selected [EXTREME MODE] for next round.": {
+    "translation": "[管理员] 选择了[极限模式]作为下一回合。"
+  },
+  "[ADMIN] Selected [EPIC MODE] for next round.": {
+    "translation": "[管理员] 选择了[史诗模式]作为下一回合。"
+  },
+  "[ADMIN] Selected [ZM MODE] for next round.": {
+    "translation": "[管理员] 选择了[僵尸感染模式]作为下一回合。"
+  },
+  "[ADMIN] Has set [EVENT MODE] for this map. Restarting round in 5 seconds.": {
+    "translation": "[管理员] 已为此地图设置 [连关模式]。5 秒后重新开始回合。"
+  },
+  "[WINNER] Selected [EPIC MODE] for next round.": {
+    "translation": "[胜者] 选择了[史诗模式]作为下一回合"
+  },
+  "[ADMIN] Restarting round in 5 seconds.": {
+    "translation": "[管理员] 5秒后重新开始回合。"
+  },
+  "[WINNER] Selected [EXTREME MODE] for next round": {
+    "translation": "[胜者] 选择了[极限模式]作为下一回合"
+  },
+  "[WINNER] Selected [HARD MODE] for next round": {
+    "translation": "[胜者] 选择了[困难模式]作为下一回合"
+  },
+  "[WINNER] Selected [NORMAL MODE] for next round": {
+    "translation": "[胜者] 选择了[普通模式]作为下一回合"
   }
 }
