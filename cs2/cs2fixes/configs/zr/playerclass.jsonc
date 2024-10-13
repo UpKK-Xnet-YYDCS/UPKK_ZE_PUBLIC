@@ -13,7 +13,7 @@
 			],
 			"scale": 1.0,
 			"speed": 1.0,
-			"gravity": 1.0,
+			"gravity": 0.95,
 			"admin_flag": ""
 		}
 	},
@@ -31,7 +31,7 @@
 			],
 			"scale": 1.0,
 			"speed": 1.1,
-			"gravity": 0.8,
+			"gravity": 0.85,
 			"admin_flag": "",
 			"health_regen_count": 500,
 			"health_regen_interval": 5.0
@@ -49,7 +49,7 @@
 			],
 			"scale": 1.0,
 			"speed": 1.1,
-			"gravity": 0.9,
+			"gravity": 0.95,
 			"admin_flag": "",
 			"health_regen_count": 1000,
 			"health_regen_interval": 5.0
