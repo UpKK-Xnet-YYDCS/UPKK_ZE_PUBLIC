@@ -25,5 +25,32 @@
 				"CoolDown": 3
 			}
 		]
+	},
+    {
+		"Name": "Bagette/法棍",
+		"ShortName": "法棍",
+		"Color": "{default}",
+		"HammerID": 31727,
+		"GlowColor": [255,255,255,255],
+		"FilterID": 0,
+		"FilterValue": "",
+		"BlockPickup": false,
+		"AllowTransfer": true,
+		"ForceDrop": true,
+		"Chat": true,
+		"Hud": true,
+		"TriggerID": 0,
+		"UsePriority": true,
+		"AbilityList": [
+			{
+				"Name": "",
+				"ButtonID": 0,
+				"ButtonClass": "",
+				"Chat_Uses": false,
+				"Mode": 0,
+				"MaxUses": 0,
+				"CoolDown": 0
+			}
+		]
 	}
 ]
