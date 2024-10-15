@@ -1,0 +1,29 @@
+[
+    {
+		"Name": "Heal/奶",
+		"ShortName": "奶",
+		"Color": "{default}",
+		"HammerID": 31769,
+		"GlowColor": [255,255,255,255],
+		"FilterID": 0,
+		"FilterValue": "",
+		"BlockPickup": false,
+		"AllowTransfer": true,
+		"ForceDrop": true,
+		"Chat": true,
+		"Hud": true,
+		"TriggerID": 0,
+		"UsePriority": true,
+		"AbilityList": [
+			{
+				"Name": "Item_Heal_Button",
+				"ButtonID": 31778,
+				"ButtonClass": "func_button",
+				"Chat_Uses": true,
+				"Mode": 4,
+				"MaxUses": 3,
+				"CoolDown": 3
+			}
+		]
+	}
+]
