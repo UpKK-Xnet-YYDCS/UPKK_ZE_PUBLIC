@@ -38,9 +38,6 @@
   "*** Door is open!!! ***": {
     "translation": "**门已打开**"
   },
-  "*** DOOR OPENING IN 30 SECONDS ***": {
-    "translation": "**门还有30秒后开启**"
-  },
   "*** Door opening in 5 seconds ***": {
     "translation": "**门还有5秒后开启，撤退时别忘记放神器或者宽口高爆窄口火**"
   },
@@ -56,17 +53,11 @@
   "*** Defend for 30 seconds ***": {
     "translation": "**守住30秒**"
   },
-  ">> OH NO!! ITS THE KNIGHT <<": {
-    "translation": "**哦！！不，是黑暗国王，别被它的剑打到，别忘记输出它**"
-  },
   ">> THE KNIGHT HAS BEEN DEFEATED !!! <<": {
     "translation": "**黑暗国王已被击败**"
   },
   "*** Castle Gate is opening ***": {
     "translation": "**城堡大门已开启**"
-  },
-  "*** GATE OPENING IN 25 SECONDS ***": {
-    "translation": "**25秒后二楼大门打开**"
   },
   "*** Gate opening in 5 seconds ***": {
     "translation": "**剩下5秒，撤退慢点拾取木板，小心吊桥门铁链的僵尸**"
@@ -606,12 +597,12 @@
     "translation": "**警告！检测到僵尸进入安全区域！！！**"
   },
   "*** Door opening in 30 seconds ***": {
-    "translation": ""
+    "translation": "门还有30秒后开启"
   },
   ">> OH NO!! IT'S THE KNIGHT <<": {
-    "translation": ""
+    "translation": "哦！！不，是黑暗国王，别被它的剑打到，别忘记输出它"
   },
   "*** Gate opening in 25 seconds ***": {
-    "translation": ""
+    "translation": "25秒后二楼大门打开"
   }
 }
