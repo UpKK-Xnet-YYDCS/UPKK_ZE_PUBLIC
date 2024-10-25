@@ -21,7 +21,7 @@
 		"zjunko": {
 			"enabled": true,
 			"team_default": true,
-			"health": 8000,
+			"health": 10000,
 			"models": [
 				{
 					"modelname": "characters/models/upkk/junko/zjunko.vmdl",
@@ -39,7 +39,7 @@
 		"zmizuno": {
 			"enabled": true,
 			"team_default": true,
-			"health": 10000,
+			"health": 12000,
 			"models": [
 				{
 					"modelname": "characters/models/upkk/mizuno/zmizuno.vmdl",
@@ -57,7 +57,7 @@
 		"zpolice": {
 			"enabled": true,
 			"team_default": true,
-			"health": 6000,
+			"health": 8000,
 			"models": [
 				{
 					"modelname": "characters/models/police/93xpolice.vmdl",
@@ -75,7 +75,7 @@
 		"zwalk": {
 			"enabled": true,
 			"team_default": true,
-			"health": 15000,
+			"health": 17000,
 			"models": [
 				{
 					"modelname": "characters/models/s2ze/chris_walker/chris_walker.vmdl",
@@ -93,7 +93,7 @@
 		"zsnow": {
 			"enabled": true,
 			"team_default": true,
-			"health": 12000,
+			"health": 14000,
 			"models": [
 				{
 					"modelname": "characters/models/upkk/snow_v1/snow_v1.vmdl",
@@ -111,7 +111,7 @@
 		"MotherZombie": {
 			"enabled": true,
 			"team_default": false,
-			"health": 15000,
+			"health": 21000,
 			"models": [
 				{
 					"modelname": "characters/models/police/93xpolice.vmdl",
