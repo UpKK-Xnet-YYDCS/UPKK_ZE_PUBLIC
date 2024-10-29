@@ -17,8 +17,7 @@
 		"ShortName": "",				//神器拾起后在hud显示的名称
 		"Color": "{default}",					//聊天消息颜色 例如:{default},{darkred},{green},{white},{blue}
 		"HammerID": 0,					//神器所对应weapon_实体的hammeruniqueid
-		"GlowColor": [0,0,0,0],			//rgba,神器高亮颜色
-		"Filter": "",            
+		"GlowColor": [0,0,0,0],			//rgba,神器高亮颜色           
 		"BlockPickup": false,			//锁定拾起，无特殊情况填false
 		"AllowTransfer": false,			//是否允许管理员传送该神器，皮肤神器和僵尸神器设置为false。
 		"ForceDrop": false,				//允许神器落地，手枪神器填true，刀神器填false，这个参数服务器已经删除，实际不生效。
@@ -31,6 +30,7 @@
 				"Name": "",				//神器按钮的targetname
 				"ButtonID": 0,			//神器按钮的hammeruniqueid
 				"ButtonClass": "",		//神器按钮的classname，常见的有func_button，func_physbox，game_ui，注意game_ui由cs2fix插件扩展，Source 2不存在该实体
+				"Filter": "",           //字符串，激活器的过滤值。对于filter_activator_attribute_int（以$开头）的值为 |$attribute|；对于filter_activator_context（包含:）的值为 |context:value|；其他情况下的值为filter_activator_name实体的filtername
 				"Chat_Uses": false,		//神器使用时聊天框提示(神器CD低于10秒请务必设置为false)
 				"Mode": 0,				//神器冷却模式. 0 = 没有神器按钮, 1 = 神器有按钮，防E保护 2 = 冷却, 3 = 次数, 4 = 次数+冷却, 5 = 多次使用后进入冷却, 6 = max_counter - 达到最小值时停止, 7 = max_counter - 达到最大值时停止, 8 = 使用血量控制开/关的按钮
 				"MaxUses": 0,			//最多使用次数，适用于mode 3,4,5
