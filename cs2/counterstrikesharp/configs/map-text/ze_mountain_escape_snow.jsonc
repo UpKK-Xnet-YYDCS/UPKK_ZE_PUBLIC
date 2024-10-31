@@ -1,164 +1,233 @@
 {
-  "***Modified by Reflelia***": {
-    "translation": ""
-  },
-  "***Special Thanks to Mentalspin***": {
-    "translation": ""
-  },
-  "***50 SECONDS LEFT***": {
-    "translation": ""
-  },
-  "***WARM UP ROUIND***": {
-    "translation": ""
-  },
-  "***40 SECONDS LEFT***": {
-    "translation": ""
-  },
-  "***30 SECONDS LEFT***": {
-    "translation": ""
-  },
-  "***20 SECONDS LEFT***": {
-    "translation": ""
+  "***1***": {
+    "translation": "***1***"
   },
   "***10 SECONDS LEFT***": {
-    "translation": ""
+    "translation": "***还剩10秒***"
   },
-  "***WARM UP ROUND END***": {
-    "translation": ""
-  },
-  "***Speed picked up***": {
-    "translation": ""
-  },
-  "***CURRENT MODE >>>NORMAL<<<***": {
-    "translation": ""
-  },
-  "***Nuke launched***": {
-    "translation": ""
-  },
-  "***Jump portal opened***": {
-    "translation": ""
-  },
-  "***5***": {
-    "translation": ""
-  },
-  "***4***": {
-    "translation": ""
-  },
-  "***3***": {
-    "translation": ""
+  "***10 seconds left***": {
+    "translation": "***还剩10秒***"
   },
   "***2***": {
-    "translation": ""
+    "translation": "***2***"
   },
-  "***1***": {
-    "translation": ""
+  "***20 SECONDS LEFT***": {
+    "translation": "***还剩20秒***"
   },
-  "***Nuke impact***": {
-    "translation": ""
+  "***3***": {
+    "translation": "***3***"
   },
-  "***bunnyhopping enable***": {
-    "translation": ""
+  "***30 SECONDS LEFT***": {
+    "translation": "***还剩30秒***"
   },
-  "***CURRENT MODE >>>CUSTOM<<<***": {
-    "translation": ""
+  "***30 seconds left***": {
+    "translation": "***还剩30秒***"
   },
-  "***Zombie picked up Freeze***": {
-    "translation": ""
+  "***4***": {
+    "translation": "***4***"
   },
-  "***grenade picked up***": {
-    "translation": ""
+  "***40 SECONDS LEFT***": {
+    "translation": "***还剩40秒***"
   },
-  "***Player picked up Radio***": {
-    "translation": ""
+  "***5***": {
+    "translation": "***5***"
   },
-  "[MUSIC] Pendulum - Crush": {
-    "translation": ""
-  },
-  "***Barrel picked up***": {
-    "translation": ""
-  },
-  "***Wind picked up***": {
-    "translation": ""
-  },
-  "***ChainSaw Picked up***": {
-    "translation": ""
-  },
-  "***Snow picked up***": {
-    "translation": ""
-  },
-  "***Zombie picked up Gravity***": {
-    "translation": ""
-  },
-  "***Heal picked up***": {
-    "translation": ""
-  },
-  "***Zombie picked up Jump***": {
-    "translation": ""
-  },
-  "[MUSIC] Waterflame - Glorious morning": {
-    "translation": ""
-  },
-  "***Rocket - Right click to shot***": {
-    "translation": ""
-  },
-  "[MUSIC] Kaneko Chiharu - Silent Blue": {
-    "translation": ""
-  },
-  "[MUSIC] a_hisa - floral": {
-    "translation": ""
-  },
-  "[MUSIC] Pendulum - Witchcraft": {
-    "translation": ""
-  },
-  "***Player Picked up Pulse***": {
-    "translation": ""
-  },
-  "***Ice picked up***": {
-    "translation": ""
-  },
-  "***Wall picked up***": {
-    "translation": ""
-  },
-  "***ADMIN CHANGED MODE [CUSTOM]***": {
-    "translation": ""
-  },
-  "***ADMIN CHANGED MODE [NORMAL]***": {
-    "translation": ""
-  },
-  "***ADMIN CHANGED MODE [SOFA]***": {
-    "translation": ""
-  },
-  "***ADMIN ENABLE ADDON MODE [FOG]***": {
-    "translation": ""
-  },
-  "[MUSIC] Pendulum - Encoder": {
-    "translation": ""
-  },
-  "***Zombie picked up Pizza***": {
-    "translation": ""
-  },
-  "***Helicopter 2 explode in 3s***": {
-    "translation": ""
+  "***50 SECONDS LEFT***": {
+    "translation": "***还剩50秒***"
   },
   "***A PLAYER BLOW UP WITH HELICOPTER***": {
-    "translation": ""
+    "translation": "***一名玩家被直升机炸飞***"
   },
-  "***Zombie picked up Laser***": {
-    "translation": ""
+  "***A PLAYER SLAIN BY A BARREL***": {
+    "translation": "***一名玩家被桶击杀***"
   },
-  "***Helicopter explode in 3s***": {
-    "translation": ""
+  "***A Train is coming...***": {
+    "translation": "***火车来了...***"
   },
-  "[MUSIC] SimplePlan - Last One Standing": {
-    "translation": ""
+  "***ADMIN CHANGED MODE [CUSTOM]***": {
+    "translation": "***管理员已更改模式 [自定义]***"
+  },
+  "***ADMIN CHANGED MODE [NORMAL]***": {
+    "translation": "***管理员已更改模式 [普通]***"
+  },
+  "***ADMIN CHANGED MODE [SOFA]***": {
+    "translation": "***管理员已更改模式 [沙发]***"
+  },
+  "***ADMIN ENABLE ADDON MODE [FOG]***": {
+    "translation": "***管理员启用附加模式 [雾]***"
+  },
+  "***ADMIN ENABLE ADDON MODE [LOW FRICTION]***": {
+    "translation": "***管理员启用附加模式 [低摩擦]***"
+  },
+  "***ADMIN ENABLE ADDON MODE [LOW GRAVITY]***": {
+    "translation": "***管理员启用附加模式 [低重力]***"
   },
   "***ADMIN ENABLE ADDON MODE [METEOR]***": {
-    "translation": ""
+    "translation": "***管理员启用附加模式 [天谴]***"
   },
-  "[MUSIC] Pendulum - Vulture": {
-    "translation": ""
+  "***AFK Teleport in 10 seconds***": {
+    "translation": "***挂机传送将在10秒后进行***"
+  },
+  "***AFK Teleport in 35 seconds***": {
+    "translation": "***挂机传送将在35秒后进行***"
+  },
+  "***AFK Teleport in 8 seconds***": {
+    "translation": "***挂机传送将在8秒后进行***"
+  },
+  "***All Boxes are broken***": {
+    "translation": "***所有箱子已被打破***"
+  },
+  "***Barrel picked up***": {
+    "translation": "***桶已被捡起***"
+  },
+  "***CURRENT MODE >>>CUSTOM<<<***": {
+    "translation": "***当前模式 >>>自定义<<<***"
+  },
+  "***CURRENT MODE >>>NORMAL<<<***": {
+    "translation": "***当前模式 >>>普通<<<***"
+  },
+  "***CURRENT MODE >>>SOFA<<<***": {
+    "translation": "***当前模式 >>>沙发<<<***"
+  },
+  "***ChainSaw Picked up***": {
+    "translation": "***电锯已被捡起***"
+  },
+  "***Heal picked up***": {
+    "translation": "***奶已被捡起***"
+  },
+  "***Helicopter 2 explode in 3s***": {
+    "translation": "***直升机将在3秒后爆炸***"
+  },
+  "***Helicopter explode in 3s***": {
+    "translation": "***直升机将在3秒后爆炸***"
+  },
+  "***Ice picked up***": {
+    "translation": "***冰已被捡起***"
+  },
+  "***Jump portal opened***": {
+    "translation": "***高空跳跃已开启***"
+  },
+  "***Level Failed***": {
+    "translation": "***关卡失败***"
+  },
+  "***Modified by Reflelia***": {
+    "translation": "***地图由Reflelia修改 翻译：Asteri3m***"
+  },
+  "***Nuke impact***": {
+    "translation": "***核弹爆炸***"
+  },
+  "***Nuke launched***": {
+    "translation": "***核弹已发射***"
+  },
+  "***Player Picked up Pulse***": {
+    "translation": "***玩家已捡起脉冲***"
+  },
+  "***Player picked up Radio***": {
+    "translation": "***玩家已捡起无线电***"
+  },
+  "***Resist for 30 seconds***": {
+    "translation": "***防守30秒***"
+  },
+  "***Rocket - Right click to shot***": {
+    "translation": "***火箭筒 - 右键射击***"
+  },
+  "***Snow picked up***": {
+    "translation": "***雪已被捡起***"
+  },
+  "***Special Thanks to Mentalspin***": {
+    "translation": "***特别感谢Mentalspin***"
+  },
+  "***Speed picked up***": {
+    "translation": "***加速已被捡起***"
+  },
+  "***Timed Out***": {
+    "translation": "***超时***"
+  },
+  "***Train aboarded***": {
+    "translation": "***火车来了***"
+  },
+  "***WARM UP ROUIND***": {
+    "translation": "***热身回合***"
+  },
+  "***WARM UP ROUND END***": {
+    "translation": "***热身回合结束***"
+  },
+  "***Wall picked up***": {
+    "translation": "***墙已被捡起***"
+  },
+  "***Wind picked up***": {
+    "translation": "***风已被捡起***"
+  },
+  "***You clear sofa mode***": {
+    "translation": "***你已通关沙发模式***"
+  },
+  "***Zombie picked up Freeze***": {
+    "translation": "***僵尸已捡起冰***"
+  },
+  "***Zombie picked up Gravity***": {
+    "translation": "***僵尸已捡起黑洞***"
+  },
+  "***Zombie picked up Jump***": {
+    "translation": "***僵尸已捡起高跳***"
+  },
+  "***Zombie picked up Laser***": {
+    "translation": "***僵尸已捡起激光***"
   },
   "***Zombie picked up Nuke***": {
-    "translation": ""
+    "translation": "***僵尸已捡起核弹***"
+  },
+  "***Zombie picked up Pizza***": {
+    "translation": "***僵尸已捡起披萨***"
+  },
+  "***bunnyhopping enable***": {
+    "translation": "***自动连跳已启用***"
+  },
+  "***grenade picked up***": {
+    "translation": "***手雷已被捡起***"
+  },
+  "[MUSIC]  Avicii - Waiting for Love": {
+    "translation": "[MUSIC]  Avicii - Waiting for Love"
+  },
+  "[MUSIC] Camellia vs Akira Complex - Reality Distortion": {
+    "translation": "[MUSIC] Camellia vs Akira Complex - Reality Distortion"
+  },
+  "[MUSIC] I'm Gonna Be - The Proclaimers Remix": {
+    "translation": "[MUSIC] I'm Gonna Be - The Proclaimers Remix"
+  },
+  "[MUSIC] Kaneko Chiharu - Silent Blue": {
+    "translation": "[MUSIC] Kaneko Chiharu - Silent Blue"
+  },
+  "[MUSIC] Kaneko Chiharu - TEmPTaTiON": {
+    "translation": "[MUSIC] Kaneko Chiharu - TEmPTaTiON"
+  },
+  "[MUSIC] Pendulum - Crush": {
+    "translation": "[MUSIC] Pendulum - Crush"
+  },
+  "[MUSIC] Pendulum - Encoder": {
+    "translation": "[MUSIC] Pendulum - Encoder"
+  },
+  "[MUSIC] Pendulum - Vulture": {
+    "translation": "[MUSIC] Pendulum - Vulture"
+  },
+  "[MUSIC] Pendulum - Witchcraft": {
+    "translation": "[MUSIC] Pendulum - Witchcraft"
+  },
+  "[MUSIC] SimplePlan - Last One Standing": {
+    "translation": "[MUSIC] SimplePlan - Last One Standing"
+  },
+  "[MUSIC] Talesweaver - Reminiscene": {
+    "translation": "[MUSIC] Talesweaver - Reminiscene"
+  },
+  "[MUSIC] Waterflame - Glorious morning": {
+    "translation": "[MUSIC] Waterflame - Glorious morning"
+  },
+  "[MUSIC] We Are Number One Remix but by The Living Tombstone": {
+    "translation": "[MUSIC] We Are Number One Remix but by The Living Tombstone"
+  },
+  "[MUSIC] a_hisa - Snow Cloud": {
+    "translation": "[MUSIC] a_hisa - Snow Cloud"
+  },
+  "[MUSIC] a_hisa - floral": {
+    "translation": "[MUSIC] a_hisa - floral"
   }
 }
