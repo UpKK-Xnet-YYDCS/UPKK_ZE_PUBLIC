@@ -3,16 +3,16 @@
     "translation": "*** 10秒后圣诞老人将释放僵尸！ ***"
   },
   "*** ADMINISTRATOR HAS CHOSEN LEVEL 1 ***": {
-    "translation": "*** 管理员已选择 1 级 ***"
+    "translation": "*** 管理员已选择第1关 ***"
   },
   "*** ADMINISTRATOR HAS CHOSEN LEVEL 2 ***": {
-    "translation": "*** 管理员已选择 2 级 ***"
+    "translation": "*** 管理员已选择第2关 ***"
   },
   "*** ADMINISTRATOR HAS CHOSEN LEVEL 3 ***": {
-    "translation": "*** 管理员已选择 3 级 ***"
+    "translation": "*** 管理员已选择第3关 ***"
   },
   "***1 PLAYER HAS TO GO TO PRESS THE BUTTON***": {
-    "translation": "***必须要有1 名玩家去按下按钮***"
+    "translation": "***必须要有1名玩家去按下按钮***"
   },
   "***5 seconds left***": {
     "translation": "***还剩 5 秒***"
@@ -162,13 +162,13 @@
     "translation": ">> 关卡失败 <<"
   },
   ">> LEVEL: 1 <<": {
-    "translation": ">> 关卡：1 <<"
+    "translation": ">> 第1关 <<"
   },
   ">> LEVEL: 2 <<": {
-    "translation": ">> 关卡：2 <<"
+    "translation": ">> 第2关 <<"
   },
   ">> LEVEL: 3 <<": {
-    "translation": ">> 关卡：3 <<"
+    "translation": ">> 第3关 <<"
   },
   ">> Map by Taskuvaras / Fixed with Moltard <<": {
     "translation": ">> 地图由 Taskuvaras 制作 / 由 Moltard 修复 / 翻译：Ayanami♪ <<"
@@ -180,16 +180,16 @@
     "translation": ">> 核弹发射 <<"
   },
   ">> PLAYER HAS PICKED UP GRAVITY <<": {
-    "translation": ">> 玩家已获得重力 <<"
+    "translation": ">> 玩家已获得黑洞 <<"
   },
   ">> PLAYER HAS PICKED UP HEAL <<": {
     "translation": ">> 玩家已获得治疗 <<"
   },
   ">> SECRET MUSIC 1 PLAYING <<": {
-    "translation": ">> 秘密音乐 1 正在播放 <<"
+    "translation": ">> 彩蛋音乐1正在播放 <<"
   },
   ">> SECRET MUSIC 2 PLAYING <<": {
-    "translation": ">> 秘密音乐 2 正在播放 <<"
+    "translation": ">> 彩蛋音乐2正在播放 <<"
   },
   ">> Saviors of Christmas, well done!!! <<": {
     "translation": ">> 圣诞救世主，干得好！！！ <<"
@@ -210,6 +210,6 @@
     "translation": ">> 电梯内有僵尸 <<"
   },
   "[Bug] End bug": {
-    "translation": ""
+    "translation": "[Bug] 错误结束"
   }
 }
