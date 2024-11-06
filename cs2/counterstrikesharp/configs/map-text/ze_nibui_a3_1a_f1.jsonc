@@ -1,86 +1,122 @@
 {
-  "***Elevator leaving in 40 seconds***": {
-    "translation": ""
-  },
-  "***Elevator leaving in 25 seconds***": {
-    "translation": ""
-  },
-  "***Elevator leaving in 10 seconds***": {
-    "translation": ""
-  },
-  "***Walls will break in 15 seconds***": {
-    "translation": ""
-  },
-  "***AFK tp in 15 seconds***": {
-    "translation": ""
-  },
-  "***AFK tp in 10 seconds***": {
-    "translation": ""
-  },
-  "***Walls will break in 20 seconds***": {
-    "translation": ""
-  },
-  "***Walls will break in 10 seconds***": {
-    "translation": ""
-  },
-  "*** 5... ***": {
-    "translation": ""
-  },
-  "*** ...4... ***": {
-    "translation": ""
-  },
-  "*** ...3... ***": {
-    "translation": ""
+  "*** ...1 ***": {
+    "translation": "***...1***"
   },
   "*** ...2... ***": {
-    "translation": ""
+    "translation": "***...2...***"
   },
-  "*** ...1 ***": {
-    "translation": ""
+  "*** ...3... ***": {
+    "translation": "***...3...***"
   },
-  "***Wall will break in 15 seconds***": {
-    "translation": ""
+  "*** ...4... ***": {
+    "translation": "***...4...***"
   },
-  "***Wall will break in 20 seconds***": {
-    "translation": ""
+  "*** 5... ***": {
+    "translation": "***5s...***"
   },
-  "***Wall will break in 10 seconds***": {
-    "translation": ""
+  "***AFK TP in 10 seconds***": {
+    "translation": "***挂机传送将在10秒后进行***"
   },
-  "***Door opens in 40 seconds***": {
-    "translation": ""
-  },
-  "***Door opens in 30 seconds***": {
-    "translation": ""
-  },
-  "***Door opens in 15 seconds***": {
-    "translation": ""
-  },
-  "***The door is opening***": {
-    "translation": ""
-  },
-  "***Elevator will leave in 15 seconds***": {
-    "translation": ""
-  },
-  "***Wall will break in 30 seconds***": {
-    "translation": ""
-  },
-  "***AFK TP in 40 seconds***": {
-    "translation": ""
+  "***AFK TP in 15 seconds***": {
+    "translation": "***挂机传送将在15秒后进行***"
   },
   "***AFK TP in 20 seconds***": {
-    "translation": ""
+    "translation": "***挂机传送将在20秒后进行***"
   },
-  "***Wall will break in 5 seconds***": {
-    "translation": ""
+  "***AFK TP in 40 seconds***": {
+    "translation": "***挂机传送将在40秒后进行***"
   },
-  "***Inner wall will break in 10 seconds***": {
-    "translation": ""
+  "***AFK tp in 10 seconds***": {
+    "translation": "***挂机传送将在10秒后进行***"
   },
-  "***The wall will break in 30 seconds***": {
-    "translation": ""
+  "***AFK tp in 15 seconds***": {
+    "translation": "***挂机传送将在15秒后进行***"
+  },
+  "***Cover here for 20 more seconds***": {
+    "translation": "***在这里再掩护20秒***"
+  },
+  "***Cover here for 40 seconds***": {
+    "translation": "***在这里掩护40秒***"
+  },
+  "***Door opens in 15 seconds***": {
+    "translation": "***门将在15秒后打开***"
+  },
+  "***Door opens in 30 seconds***": {
+    "translation": "***门将在30秒后打开***"
+  },
+  "***Door opens in 40 seconds***": {
+    "translation": "***门将在40秒后打开***"
+  },
+  "***Elevator leaving in 10 seconds***": {
+    "translation": "***电梯将在10秒后离开***"
+  },
+  "***Elevator leaving in 25 seconds***": {
+    "translation": "***电梯将在25秒后离开***"
+  },
+  "***Elevator leaving in 40 seconds***": {
+    "translation": "***电梯将在40秒后离开***"
+  },
+  "***Elevator will leave in 15 seconds***": {
+    "translation": "***电梯将在15秒后离开***"
+  },
+  "***Elevator will start in 20 seconds***": {
+    "translation": "***电梯将在20秒后启动***"
   },
   "***Elevators will start in 20 seconds***": {
-    "translation": ""
+    "translation": "***电梯将在20秒后启动***"
+  },
+  "***Final door will be closed in 30 seconds***": {
+    "translation": "***最终门将在30秒后关闭***"
+  },
+  "***Final ladder is open in 10 seconds***": {
+    "translation": "***最终梯子将在10秒后打开***"
+  },
+  "***Final nuke inbound***": {
+    "translation": "***核弹即将到来 翻译：Asteri3m***"
+  },
+  "***Inner wall will break in 10 seconds***": {
+    "translation": "***内墙将在10秒后破裂***"
+  },
+  "***Kill any remaining zombies inside***": {
+    "translation": "***杀死内部剩余的僵尸***"
+  },
+  "***Ladder shortcut open in 10 seconds***": {
+    "translation": "***梯子侧路将在10秒后打开***"
+  },
+  "***Second ladder shortcut open in 10 seconds***": {
+    "translation": "***第二个梯子侧路将在10秒后打开***"
+  },
+  "***The door is opening***": {
+    "translation": "***门正在打开***"
+  },
+  "***The wall will break in 30 seconds***": {
+    "translation": "***墙将在30秒后破裂***"
+  },
+  "***Wall will break in 10 seconds***": {
+    "translation": "***墙将在10秒后破裂***"
+  },
+  "***Wall will break in 15 seconds***": {
+    "translation": "***墙将在15秒后破裂***"
+  },
+  "***Wall will break in 20 seconds***": {
+    "translation": "***墙将在20秒后破裂***"
+  },
+  "***Wall will break in 25 seconds***": {
+    "translation": "***墙将在25秒后破裂***"
+  },
+  "***Wall will break in 30 seconds***": {
+    "translation": "***墙将在30秒后破裂***"
+  },
+  "***Wall will break in 5 seconds***": {
+    "translation": "***墙将在5秒后破裂***"
+  },
+  "***Walls will break in 10 seconds***": {
+    "translation": "***墙将在10秒后破裂***"
+  },
+  "***Walls will break in 15 seconds***": {
+    "translation": "***墙将在15秒后破裂***"
+  },
+  "***Walls will break in 20 seconds***": {
+    "translation": "***墙将在20秒后破裂***"
   }
 }
