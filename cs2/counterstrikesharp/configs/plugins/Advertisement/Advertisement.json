@@ -28,6 +28,9 @@
 			},
 			{
 				"Chat": "{ads_9}"
+			},
+			{
+				"Chat": "{ads_10}"
 			}
 		]
 	}],
@@ -111,6 +114,13 @@
 			"TW": "{RED}[X社區] {BLUE}伺服器内禁止播放任何音频！凡是卡麦、爆麦、干扰或辱骂等音频行为，一律直接封禁！",
 			"JP": "{RED}[Xコミュニティ] {BLUE}このサーバーではマイク音声は禁止されています。音声スパム、大音量または妨害的な音、または暴言を含む行為は、即時禁止となります！",
 			"KR": "{RED}[X 커뮤니티] {BLUE}이 서버에서는 마이크 오디오가 금지되어 있습니다! 음성 스패밍, 큰 소리 또는 방해가 되는 소리, 또는 모욕적인 언어와 관련된 모든 행동은 즉시 금지됩니다!"
+		},
+		"ads_10": {
+			"CN": "{RED}[X社区] {BLUE} 命中反馈可以输入 {ORANGE}!hm{GREEN} 开启或关闭",
+			"US": "{RED}[X Community] {BLUE} Hit feedback can be toggled on or off by type {ORANGE}!hm{GREEN}",
+			"TW": "{RED}[X社區] {BLUE} 命中反饋可以輸入 {ORANGE}!hm{GREEN} 開啟或關閉",
+			"JP": "{RED}[Xコミュニティ] {BLUE} ヒットフィードバックは {ORANGE}!hm{GREEN} を入力してオンまたはオフにできます",
+			"KR": "{RED}[X 커뮤니티] {BLUE} 타격 피드백은 {ORANGE}!hm{GREEN} 입력으로 켜거나 끌 수 있습니다"
 		}
 	},
 	"MapsName": {
