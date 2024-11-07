@@ -1,110 +1,186 @@
 {
-  "*** ROUND 1/5 ***": {
-    "translation": ""
-  },
-  "*** MAP BY JB_GAMBLE ***": {
-    "translation": ""
-  },
-  "*** LEFT ROUTE | HOLD HERE ***": {
-    "translation": ""
-  },
-  "*** LEFT ROUTE | FALL BACK ***": {
-    "translation": ""
-  },
-  "*** DOORS OPEN - 5 SECONDS ***": {
-    "translation": ""
-  },
-  "*** HOLD HERE ***": {
-    "translation": ""
-  },
-  "*** FALL BACK | FALL BACK ***": {
-    "translation": ""
-  },
-  "*** MASS TELEPORT IN 10 SECONDS ***": {
-    "translation": ""
-  },
-  "*** RIGHT ROUTE | HOLD HERE ***": {
-    "translation": ""
-  },
-  "*** RIGHT ROUTE | FALL BACK ***": {
-    "translation": ""
-  },
-  "*** DOOR OPEN - 5 SECONDS ***": {
-    "translation": ""
-  },
-  "*** FALL BACK ***": {
-    "translation": ""
-  },
-  "*** HOLD HERE! ***": {
-    "translation": ""
-  },
-  "*** MASS TELEPORT IN 10 SECONDS": {
-    "translation": ""
-  },
-  "*** ROUND 2/5 ***": {
-    "translation": ""
-  },
   "*** BOAT HERE ***": {
-    "translation": ""
-  },
-  "*** ROUND 3/5 ***": {
-    "translation": ""
-  },
-  "*** STAIRS OPEN ***": {
-    "translation": ""
-  },
-  "*** MINE OPEN ***": {
-    "translation": ""
-  },
-  "*** MASS TELEPORT IN 20 SECONDS ***": {
-    "translation": ""
-  },
-  "*** WAIT HERE ***": {
-    "translation": ""
-  },
-  "*** GOT THE GNOME! ***": {
-    "translation": ""
-  },
-  "*** MELON FOUND ***": {
-    "translation": ""
-  },
-  "*** LET'EM BURN ***": {
-    "translation": ""
-  },
-  "*** UNLOCKED | THE IGNITER ***": {
-    "translation": ""
-  },
-  "*** IGNITER - LEFT ROUTE ***": {
-    "translation": ""
-  },
-  "*** GOT THE IGNITER ***": {
-    "translation": ""
-  },
-  "*** SETS ZOMBIES ON FIRE ***": {
-    "translation": ""
-  },
-  "*** EXTINGUISHS FIRE ON HUMANS ***": {
-    "translation": ""
-  },
-  "*** STAY BACK !! ***": {
-    "translation": ""
-  },
-  "*** ITEM UNLOCK - FIRST AID KIT ***": {
-    "translation": ""
-  },
-  "*** ROUND 4/5 ***": {
-    "translation": ""
+    "translation": "***船在这里***"
   },
   "*** BRIDGE MIDDLE - OPEN ***": {
-    "translation": ""
+    "translation": "***中间桥-打开***"
   },
-  "*** TRAIN LEAVING ***": {
-    "translation": ""
+  "*** BROUGHT THE GNOME - BRIDGE ***": {
+    "translation": "***带来了小矮人-桥***"
   },
-  "*** ROUND 5/5 ***": {
-    "translation": ""
+  "*** BROUGHT THE GNOME - HUT ***": {
+    "translation": "***带来了小矮人-小屋***"
+  },
+  "*** BROUGHT THE GNOME - LIFT ***": {
+    "translation": "***带来了小矮人-升降机***"
+  },
+  "*** BROUGHT THE GNOME - MINE ***": {
+    "translation": "***带来了小矮人-矿***"
+  },
+  "*** BROUGHT THE GNOME - WATER ***": {
+    "translation": "***带来了小矮人-水***"
+  },
+  "*** COMBINE ADVISORS - SHOOT *** ": {
+    "translation": "***联合顾问-射击***"
+  },
+  "*** DEFEATED THE ADVISORS! ***": {
+    "translation": "***击败了顾问！***"
+  },
+  "*** DOOR OPEN - 5 SECONDS ***": {
+    "translation": "***门将在5秒后打开***"
+  },
+  "*** DOORS OPEN - 5 SECONDS ***": {
+    "translation": "***门将在5秒后打开***"
+  },
+  "*** EXTINGUISHS FIRE ON HUMANS ***": {
+    "translation": "***扑灭人类身上的火***"
+  },
+  "*** FALL BACK ***": {
+    "translation": "***撤退***"
+  },
+  "*** FALL BACK | FALL BACK ***": {
+    "translation": "***撤退|撤退***"
   },
   "*** FIRST AID ***": {
-    "translation": ""
+    "translation": "***急救***"
+  },
+  "*** GIVES UNLIMITED AMMO - 14 SECONDS ***": {
+    "translation": "***提供无限弹药-14秒***",
+    "DoorCountDown": -1
+  },
+  "*** GOT THE GNOME! ***": {
+    "translation": "***得到小矮人！***"
+  },
+  "*** GOT THE IGNITER ***": {
+    "translation": "***得到点火器***"
+  },
+  "*** GOT UNLIMITED AMMO CRATE ***": {
+    "translation": "***得到无限弹药箱***"
+  },
+  "*** HEADS UP ***": {
+    "translation": "***注意***"
+  },
+  "*** HOLD HERE ***": {
+    "translation": "***在这里防守***"
+  },
+  "*** HOLD HERE! ***": {
+    "translation": "***在这里防守！***"
+  },
+  "*** IGNITER - LEFT ROUTE ***": {
+    "translation": "***点火器-左侧路线***"
+  },
+  "*** INFO - RED LIGHTS - ADVISORS HEALTH *** ": {
+    "translation": "***信息-红灯-顾问生命值***"
+  },
+  "*** INFO - STAND ON ROCKS TO AVOID FIRE *** ": {
+    "translation": "***信息-站在岩石上以避免火焰***"
+  },
+  "*** ITEM UNLOCK - FIRST AID KIT ***": {
+    "translation": "***解锁物品-急救包***"
+  },
+  "*** ITEM UNLOCK - UNLIMITED AMMO CRATE ***": {
+    "translation": "***解锁物品-无限弹药箱***"
+  },
+  "*** JUMPED THE GAP ***": {
+    "translation": "***跳过间隙***"
+  },
+  "*** LEFT ROUTE | FALL BACK ***": {
+    "translation": "***左侧路线|撤退***"
+  },
+  "*** LEFT ROUTE | HOLD HERE ***": {
+    "translation": "***左侧路线|在这里防守***"
+  },
+  "*** LET'EM BURN ***": {
+    "translation": "***让他们燃烧***"
+  },
+  "*** LIFT LEAVING ***": {
+    "translation": "***升降机离开***"
+  },
+  "*** MAP BY JB_GAMBLE ***": {
+    "translation": "***地图作者：JB_GAMBLE 翻译：Asteri3m***"
+  },
+  "*** MAP COMPLETED ***": {
+    "translation": "***地图通关***"
+  },
+  "*** MASS TELEPORT IN 10 SECONDS": {
+    "translation": "***大规模传送将在10秒后进行***"
+  },
+  "*** MASS TELEPORT IN 10 SECONDS ***": {
+    "translation": "***大规模传送将在10秒后进行***"
+  },
+  "*** MASS TELEPORT IN 20 SECONDS ***": {
+    "translation": "***大规模传送将在20秒后进行***"
+  },
+  "*** MELON FOUND ***": {
+    "translation": "***找到西瓜***"
+  },
+  "*** MELON KILLER ***": {
+    "translation": "***西瓜杀手***"
+  },
+  "*** MINE OPEN ***": {
+    "translation": "***矿井开放***"
+  },
+  "*** MR B. HOP ***": {
+    "translation": "***B先生.快跳***"
+  },
+  "*** OVER 10 SURVIVED! ***": {
+    "translation": "***超过10人幸存！***"
+  },
+  "*** OVER 12 SURVIVED! ***": {
+    "translation": "***超过12人幸存！***"
+  },
+  "*** OVER 15 SURVIVED ***": {
+    "translation": "***超过15人幸存***"
+  },
+  "*** OVER 18 SURVIVED ***": {
+    "translation": "***超过18人幸存***"
+  },
+  "*** RIGHT ROUTE | FALL BACK ***": {
+    "translation": "***右侧路线|撤退***"
+  },
+  "*** RIGHT ROUTE | HOLD HERE ***": {
+    "translation": "***右侧路线|在这里防守***"
+  },
+  "*** ROUND 1/5 ***": {
+    "translation": "***第1/5轮***"
+  },
+  "*** ROUND 2/5 ***": {
+    "translation": "***第2/5轮***"
+  },
+  "*** ROUND 3/5 ***": {
+    "translation": "***第3/5轮***"
+  },
+  "*** ROUND 4/5 ***": {
+    "translation": "***第4/5轮***"
+  },
+  "*** ROUND 5/5 ***": {
+    "translation": "***第5/5轮***"
+  },
+  "*** SETS ZOMBIES ON FIRE ***": {
+    "translation": "***点燃僵尸***"
+  },
+  "*** STAIRS OPEN ***": {
+    "translation": "***楼梯打开***"
+  },
+  "*** STAY BACK !! ***": {
+    "translation": "***保持距离！！***"
+  },
+  "*** TELEPORT OPEN ***": {
+    "translation": "***传送开启***"
+  },
+  "*** TRAIN LEAVING ***": {
+    "translation": "***火车离开***"
+  },
+  "*** UNLIMITED AMMO CRATE - RIGHT ROUTE ***": {
+    "translation": "***无限弹药箱-右侧路线***"
+  },
+  "*** UNLOCKED | THE IGNITER ***": {
+    "translation": "***解锁|点火器***"
+  },
+  "*** WAIT HERE ***": {
+    "translation": "***在这里等待***"
+  },
+  "*** ZOMBIES IN TRAIN - YOU FAILED! ***": {
+    "translation": "***火车里有僵尸-你失败了！***"
   }
 }
