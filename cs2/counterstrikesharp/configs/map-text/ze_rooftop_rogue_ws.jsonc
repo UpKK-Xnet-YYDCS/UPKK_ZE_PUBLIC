@@ -1,59 +1,128 @@
 {
-  ">>> Stage1 <<<": {
-    "translation": ""
-  },
-  ">>> Map made by Moray <<<": {
-    "translation": ""
-  },
-  ">>> port by ws <<<": {
-    "translation": ""
-  },
-  ">>> Hold for 25 seconds <<<": {
-    "translation": ""
-  },
-  ">>> Hold for 30 seconds <<<": {
-    "translation": ""
-  },
   ">>> 10 seconds left <<<": {
-    "translation": ""
-  },
-  ">>> The elevator will leave in 10 seconds <<<": {
-    "translation": ""
-  },
-  ">>> The door will close in 15 seconds <<<": {
-    "translation": ""
-  },
-  ">>> The another pass has opened <<<": {
-    "translation": ""
-  },
-  ">>> Fence will close in 10 seconds <<<": {
-    "translation": ""
-  },
-  ">>> The elevator will leave in 30 seconds <<<": {
-    "translation": ""
+    "translation": ">>> 剩余 10 秒 <<<"
   },
   ">>> 10 seconds left<<<": {
-    "translation": ""
+    "translation": ">>> 剩余 10 秒 <<<"
+  },
+  ">>> Defend the gate <<<": {
+    "translation": ">>> 防守大门 <<<"
+  },
+  ">>> Defend the helipad <<<": {
+    "translation": ">>> 防守直升机停机坪 <<<"
+  },
+  ">>> Doors will close in 15 seconds <<<": {
+    "translation": ">>> 门将在 15 秒后关闭 <<<"
+  },
+  ">>> Fence will close in 10 seconds <<<": {
+    "translation": ">>> 围栏将在 10 秒后关闭 <<<"
+  },
+  ">>> Hold for 10 seconds <<<": {
+    "translation": ">>> 防守 10 秒 <<<"
   },
   ">>> Hold for 15 seconds <<<": {
-    "translation": ""
-  },
-  ">>> Stage1 Completed <<<": {
-    "translation": ""
-  },
-  ">>> Stage2 <<<": {
-    "translation": ""
-  },
-  ">>> Zombie teleport in 10 seconds <<<": {
-    "translation": ""
+    "translation": ">>> 防守 15 秒 <<<"
   },
   ">>> Hold for 20 seconds <<<": {
-    "translation": ""
+    "translation": ">>> 防守 20 秒 <<<"
   },
-  ">>> The window will close in 15 seconds <<<": {
-    "translation": ""
+  ">>> Hold for 25 seconds <<<": {
+    "translation": ">>> 防守 25 秒 <<<"
+  },
+  ">>> Hold for 30 seconds <<<": {
+    "translation": ">>> 防守 30 秒 <<<"
+  },
+  ">>> Hold for 35 seconds <<<": {
+    "translation": ">>> 防守 35 秒 <<<"
+  },
+  ">>> Hold for 40 seconds <<<": {
+    "translation": ">>> 防守 40 秒 <<<"
+  },
+  ">>> Hold here until the elevator comes <<<": {
+    "translation": ">>> 在电梯到达之前在这里坚守 <<<"
+  },
+  ">>> Map made by Moray <<<": {
+    "translation": ">>> 地图作者：Moray 翻译：Asteri3m <<<"
+  },
+  ">>> Rescue is coming <<<": {
+    "translation": ">>> 救援正在到来 <<<"
   },
   ">>> Round failed <<<": {
-    "translation": ""
+    "translation": ">>> 回合失败 <<<"
+  },
+  ">>> Shortcut will open in 10 seconds <<<": {
+    "translation": ">>> 侧路将在 10 秒后打开 <<<"
+  },
+  ">>> Shortcut will open in 5 seconds <<<": {
+    "translation": ">>> 侧路将在 5 秒后打开 <<<"
+  },
+  ">>> Stage1 <<<": {
+    "translation": ">>> 关卡 1 <<<"
+  },
+  ">>> Stage1 Activated <<<": {
+    "translation": ">>> 关卡 1 激活 <<<"
+  },
+  ">>> Stage1 Completed <<<": {
+    "translation": ">>> 关卡 1 完成 <<<"
+  },
+  ">>> Stage2 <<<": {
+    "translation": ">>> 关卡 2 <<<"
+  },
+  ">>> Stage2 Activated <<<": {
+    "translation": ">>> 关卡 2 激活 <<<"
+  },
+  ">>> Stage2 Completed <<<": {
+    "translation": ">>> 关卡 2 完成 <<<"
+  },
+  ">>> Stage3 <<<": {
+    "translation": ">>> 关卡 3 <<<"
+  },
+  ">>> Stage3 Activated <<<": {
+    "translation": ">>> 关卡 3 激活 <<<"
+  },
+  ">>> Stage3 Completed <<<": {
+    "translation": ">>> 关卡 3 完成 <<<"
+  },
+  ">>> Stage4 <<<": {
+    "translation": ">>> 关卡 4 <<<"
+  },
+  ">>> Stage4 Activated <<<": {
+    "translation": ">>> 关卡 4 激活 <<<"
+  },
+  ">>> Stage4 Completed <<<": {
+    "translation": ">>> 关卡 4 完成 <<<"
+  },
+  ">>> The another pass has opened <<<": {
+    "translation": ">>> 另一条路已打开 <<<"
+  },
+  ">>> The door will close in 15 seconds <<<": {
+    "translation": ">>> 门将在 15 秒后关闭 <<<"
+  },
+  ">>> The door will close in 25 seconds <<<": {
+    "translation": ">>> 门将在 25 秒后关闭 <<<"
+  },
+  ">>> The elevator is rising <<<": {
+    "translation": ">>> 电梯正在上升 <<<"
+  },
+  ">>> The elevator will leave in 10 seconds <<<": {
+    "translation": ">>> 电梯将在 10 秒后离开 <<<"
+  },
+  ">>> The elevator will leave in 30 seconds <<<": {
+    "translation": ">>> 电梯将在 30 秒后离开 <<<"
+  },
+  ">>> The elevator will leave in 40 seconds <<<": {
+    "translation": ">>> 电梯将在 40 秒后离开 <<<"
+  },
+  ">>> The window will close in 15 seconds <<<": {
+    "translation": ">>> 窗户将在 15 秒后关闭 <<<"
+  },
+  ">>> Zombie teleport in 10 seconds <<<": {
+    "translation": ">>> 僵尸将在 10 秒后传送 <<<"
+  },
+  ">>> Zombie teleport in 5 seconds <<<": {
+    "translation": ">>> 僵尸将在 5 秒后传送 <<<"
+  },
+  ">>> port by ws <<<": {
+    "translation": ">>> 移植：ws <<<"
   }
 }

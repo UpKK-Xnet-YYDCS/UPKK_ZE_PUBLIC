@@ -1,143 +1,190 @@
 {
-  ">>>LEVEL 1 : EVACUATION POINT : ELEVATORS<<<": {
-    "translation": ""
-  },
-  ">>COVER 30 SECONDS UNTIL C4 EXPLOSION<<": {
-    "translation": ""
-  },
-  ">>PREPARE TO RUN IN 5 SECONDS<<": {
-    "translation": ""
-  },
-  ">>RUN<<": {
-    "translation": ""
-  },
-  ">>FLOOR UNSTABLE ! TAKE CARE !<<": {
-    "translation": ""
-  },
-  ">>TAKE THE ELEVATORS<<": {
-    "translation": ""
-  },
-  ">>COVER THE ELEVATORS ENTRY 35 SECONDS<<": {
-    "translation": ""
-  },
-  ">>AFK TELEPORT<<": {
-    "translation": ""
-  },
-  ">>ELEVATORS OPEN ! 15 SECONDS LEFT<<": {
-    "translation": ""
-  },
-  ">>ELEVATORS LEAVING !<<": {
-    "translation": ""
-  },
-  ">>>NO ACCESS TO SPECIAL WEAPONS !! ZOMBIES IN THE ELEVATORS !!<<<": {
-    "translation": ""
-  },
-  ">>>>Grenade Launcher has been picked<<<<": {
-    "translation": ""
-  },
-  ">>>>Minigun has been picked<<<<": {
-    "translation": ""
-  },
   ">> RETURN TO COVER THE DOOR <<<": {
-    "translation": ""
-  },
-  "111": {
-    "translation": ""
-  },
-  ">>>YOU REACH THE LAST COVER POINT NEXT ROUND WILL START AT LEVEL 2<<<": {
-    "translation": ""
-  },
-  ">>>CT WIN - ACCESS TO SPECIAL WEAPONS GRANTED<<<": {
-    "translation": ""
-  },
-  ">>>LEVEL 2 : EVACUATION POINT : STREET<<<": {
-    "translation": ""
-  },
-  ">>>>Flamethrower has been picked<<<<": {
-    "translation": ""
-  },
-  ">>>>Only 15 Proxi Mines<<<<": {
-    "translation": ""
-  },
-  ">>>>Proxi Mine has been picked<<<<": {
-    "translation": ""
-  },
-  ">>>>Only one Shot - 10s of loading<<<<": {
-    "translation": ""
-  },
-  ">>>>Electro Gun has been picked<<<<": {
-    "translation": ""
-  },
-  ">>ZOMBIES TAKE THE STAIRS<<": {
-    "translation": ""
-  },
-  ">>>>Electro Gun shoot in 10s<<<<": {
-    "translation": ""
-  },
-  ">>ELEVATOR LEAVING IN 5 SECONDS<<": {
-    "translation": ""
-  },
-  ">>RUN TO THE COMMAND TENT TO START THE EXPLOSION<<": {
-    "translation": ""
-  },
-  ">>COVER THE EVACUATION AREA 45 SECONDS<<": {
-    "translation": ""
-  },
-  ">>NO ZOMBIES ALLOWED BEHIND THE CRATES<<": {
-    "translation": ""
-  },
-  ">>EXPLOSION IN 5 SECONDS<<": {
-    "translation": ""
-  },
-  ">>>YOU REACH THE LAST COVER POINT NEXT ROUND WILL START AT LEVEL 3<<<": {
-    "translation": ""
-  },
-  ">>>NO ACCESS TO SPECIAL WEAPONS !! ZOMBIES IN THE EVACUATION AREA !!<<<": {
-    "translation": ""
-  },
-  ">>>LEVEL 3 : EVACUATION POINT : ROOF<<<": {
-    "translation": ""
-  },
-  ">>COVER UNTIL CHOPPER ARRIVE<<": {
-    "translation": ""
-  },
-  ">>>YOU REACH THE LAST COVER POINT NEXT ROUND WILL START AT LEVEL 1<<<": {
-    "translation": ""
-  },
-  ">>THIS IS THE LAST CHOPPER<<": {
-    "translation": ""
-  },
-  ">>YOU ARE THE LAST SURVIVORS<<": {
-    "translation": ""
-  },
-  ">>EVERYONE HAVE BEEN EVACUATED<<": {
-    "translation": ""
-  },
-  ">>CHOPPER ON WAY<<": {
-    "translation": ""
-  },
-  ">>CHOPPER LEAVING IN 15 SECONDS<<": {
-    "translation": ""
+    "translation": ">>返回，掩护门<<<"
   },
   ">>5 SECONDS LEFT<<": {
-    "translation": ""
-  },
-  ">>EXTREME MODE ACTIVATED FOR NEXT ROUNDS<<": {
-    "translation": ""
-  },
-  ">>>EXTREME MODE ACTIVATED<<<": {
-    "translation": ""
-  },
-  ">>>>Only one use<<<<": {
-    "translation": ""
+    "translation": ">>剩余5秒<<"
   },
   ">>>>Ammo Dispenser has been picked<<<<": {
-    "translation": ""
+    "translation": ">>>>无限弹药已被拾取<<<<"
+  },
+  ">>>>Electro Gun has been picked<<<<": {
+    "translation": ">>>>电击枪已被拾取<<<<"
+  },
+  ">>>>Electro Gun shoot in 10s<<<<": {
+    "translation": ">>>>电击枪将在10秒后发射<<<<",
+    "DoorCountDown": -1
+  },
+  ">>>>Flamethrower has been picked<<<<": {
+    "translation": ">>>>喷火器已被拾取<<<<"
+  },
+  ">>>>Grenade Launcher has been picked<<<<": {
+    "translation": ">>>>榴弹发射器已被拾取<<<<"
+  },
+  ">>>>Minigun has been picked<<<<": {
+    "translation": ">>>>加特林已被拾取<<<<"
+  },
+  ">>>>Only 15 Proxi Mines<<<<": {
+    "translation": ">>>>仅有15个地雷<<<<"
+  },
+  ">>>>Only one Shot - 10s of loading<<<<": {
+    "translation": ">>>>仅能发射一次-装填时间10秒<<<<",
+    "DoorCountDown": -1
+  },
+  ">>>>Only one use<<<<": {
+    "translation": ">>>>仅能使用一次<<<<"
+  },
+  ">>>>Proxi Mine has been picked<<<<": {
+    "translation": ">>>>地雷已被拾取<<<<"
   },
   ">>>>UAV has been picked<<<<": {
-    "translation": ""
+    "translation": ">>>>无人机已被拾取<<<<"
+  },
+  ">>>CT WIN - ACCESS TO SPECIAL WEAPONS GRANTED<<<": {
+    "translation": ">>>人类胜利-授予特殊武器访问权限<<<"
+  },
+  ">>>EXTREME MODE ACTIVATED IN DEV ROOM<<<": {
+    "translation": ">>>极限模式已在开发室激活<<<"
+  },
+  ">>>EXTREME MODE ACTIVATED<<<": {
+    "translation": ">>>极限模式已激活<<<"
+  },
+  ">>>EXTREME MODE DESACTIVATED IN DEVROOM<<<": {
+    "translation": ">>>极限模式已在开发室已停用<<<"
+  },
+  ">>>KILLING EVERYONE<<<": {
+    "translation": ">>>杀死所有人<<<"
+  },
+  ">>>LEVEL 1 : EVACUATION POINT : ELEVATORS<<<": {
+    "translation": ">>>关卡1：撤离点：电梯<<<"
+  },
+  ">>>LEVEL 2 : EVACUATION POINT : STREET<<<": {
+    "translation": ">>>关卡2：撤离点：街道<<<"
+  },
+  ">>>LEVEL 3 : EVACUATION POINT : ROOF<<<": {
+    "translation": ">>>关卡3：撤离点：屋顶<<<"
+  },
+  ">>>LEVEL CHANGED IN DEVROOM FOR LEVEL 1<<<": {
+    "translation": ">>>在开发室中更改为关卡1<<<"
+  },
+  ">>>LEVEL CHANGED IN DEVROOM FOR LEVEL 2<<<": {
+    "translation": ">>>在开发室中更改为关卡2<<<"
+  },
+  ">>>LEVEL CHANGED IN DEVROOM FOR LEVEL 3<<<": {
+    "translation": ">>>在开发室中更改为关卡3<<<"
+  },
+  ">>>MAP BY LeGrem<<<": {
+    "translation": ">>>地图作者：LeGrem 翻译：Asteri3m<<<"
+  },
+  ">>>NO ACCESS TO SPECIAL WEAPONS !! ZOMBIES IN THE CHOPPER !!<<<": {
+    "translation": ">>>无法访问特殊武器！！直升机有僵尸！！<<<"
+  },
+  ">>>NO ACCESS TO SPECIAL WEAPONS !! ZOMBIES IN THE ELEVATORS !!<<<": {
+    "translation": ">>>无法访问特殊武器！！电梯中有僵尸！！<<<"
+  },
+  ">>>NO ACCESS TO SPECIAL WEAPONS !! ZOMBIES IN THE EVACUATION AREA !!<<<": {
+    "translation": ">>>无法访问特殊武器！！撤离区有僵尸！！<<<"
+  },
+  ">>>RESET ROUND<<<": {
+    "translation": ">>>重置回合<<<"
+  },
+  ">>>RESTART AT NORMAL LEVEL 1<<<": {
+    "translation": ">>>在正常模式关卡1重新开始<<<"
+  },
+  ">>>Thx to JorisCeoen for help with models<<<": {
+    "translation": ">>>感谢JorisCeoen在模型上的帮助<<<"
+  },
+  ">>>YOU REACH THE LAST COVER POINT NEXT ROUND WILL START AT LEVEL 1<<<": {
+    "translation": ">>>你到达了最后的掩护点，下个回合将在关卡1开始<<<"
+  },
+  ">>>YOU REACH THE LAST COVER POINT NEXT ROUND WILL START AT LEVEL 2<<<": {
+    "translation": ">>>你到达了最后的掩护点，下个回合将在关卡2开始<<<"
+  },
+  ">>>YOU REACH THE LAST COVER POINT NEXT ROUND WILL START AT LEVEL 3<<<": {
+    "translation": ">>>你到达了最后的掩护点，下个回合将在关卡3开始<<<"
+  },
+  ">>AFK TELEPORT<<": {
+    "translation": ">>挂机传送<<"
+  },
+  ">>But they won't wait for long time !<<": {
+    "translation": ">>但他们不会等太久！<<"
+  },
+  ">>CHOPPER LEAVING IN 15 SECONDS<<": {
+    "translation": ">>直升机将在15秒后离开<<"
+  },
+  ">>CHOPPER ON WAY<<": {
+    "translation": ">>直升机在路上<<"
+  },
+  ">>COVER 30 SECONDS UNTIL C4 EXPLOSION<<": {
+    "translation": ">>在C4爆炸前坚持30秒<<"
+  },
+  ">>COVER THE ELEVATORS ENTRY 35 SECONDS<<": {
+    "translation": ">>保护电梯入口35秒<<"
+  },
+  ">>COVER THE EVACUATION AREA 45 SECONDS<<": {
+    "translation": ">>保护撤离区45秒<<"
+  },
+  ">>COVER UNTIL CHOPPER ARRIVE<<": {
+    "translation": ">>在直升机到达之前保持防守<<"
+  },
+  ">>ELEVATOR LEAVING IN 5 SECONDS<<": {
+    "translation": ">>电梯将在5秒后离开<<"
+  },
+  ">>ELEVATORS LEAVING !<<": {
+    "translation": ">>电梯正在离开！<<"
+  },
+  ">>ELEVATORS OPEN ! 15 SECONDS LEFT<<": {
+    "translation": ">>电梯打开！剩余15秒<<"
+  },
+  ">>EVERYONE HAVE BEEN EVACUATED<<": {
+    "translation": ">>所有人已撤离<<"
+  },
+  ">>EXPLOSION IN 5 SECONDS<<": {
+    "translation": ">>爆炸将在5秒后发生<<"
+  },
+  ">>EXTREME MODE ACTIVATED FOR NEXT ROUNDS<<": {
+    "translation": ">>下一回合激活极限模式<<"
+  },
+  ">>FLOOR UNSTABLE ! TAKE CARE !<<": {
+    "translation": ">>地板不稳定！小心！<<"
+  },
+  ">>Let's go ! but be carefull ! there are still some zombies around us<<": {
+    "translation": ">>走吧！但要小心！周围仍然有一些僵尸<<"
+  },
+  ">>NO ZOMBIES ALLOWED BEHIND THE CRATES<<": {
+    "translation": ">>不允许僵尸在箱子后面<<"
+  },
+  ">>PREPARE TO RUN IN 5 SECONDS<<": {
+    "translation": ">>准备在5秒后跑<<"
+  },
+  ">>RUN TO THE COMMAND TENT TO START THE EXPLOSION<<": {
+    "translation": ">>跑到指挥帐篷去启动爆炸<<"
+  },
+  ">>RUN<<": {
+    "translation": ">>跑<<"
+  },
+  ">>TAKE THE ELEVATORS<<": {
+    "translation": ">>乘坐电梯<<"
+  },
+  ">>THIS IS THE LAST CHOPPER<<": {
+    "translation": ">>这是最后一架直升机<<"
+  },
+  ">>The last messages of the army invite us to evacuate to the parking in the middle of the city<<": {
+    "translation": ">>军队的最后消息邀请我们撤离到城市中央的停车场<<"
   },
   ">>UAV Launched<<": {
-    "translation": ""
+    "translation": ">>无人机已启动<<"
+  },
+  ">>YOU ARE THE LAST SURVIVORS<<": {
+    "translation": ">>你是最后的幸存者<<"
+  },
+  ">>You are the last survivors of the zombie infection<<": {
+    "translation": ">>你是僵尸感染中最后幸存者<<"
+  },
+  ">>ZOMBIES TAKE THE STAIRS<<": {
+    "translation": ">>僵尸正在上楼<<"
+  },
+  ">>黄金匕首=允许获取特殊武器<<": {
+    "translation": ">>黄金匕首=允许获取特殊武器<<"
   }
 }
