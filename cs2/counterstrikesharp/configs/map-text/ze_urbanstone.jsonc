@@ -1,158 +1,173 @@
 {
   "!!! BOX SPAWNER !!!": {
-    "translation": ""
-  },
-  "<< DEFEND HERE >>": {
-    "translation": ""
-  },
-  "<<< FALL BACK >>>": {
-    "translation": ""
-  },
-  "<< LEVEL 1 >>": {
-    "translation": ""
-  },
-  "<< CHECKPOINTS >>": {
-    "translation": ""
-  },
-  "<< CHECKPOINT 1 >>": {
-    "translation": ""
-  },
-  "<< DOOR OPEN 25 SECONDS >>": {
-    "translation": ""
-  },
-  "<< DOOR OPEN >>": {
-    "translation": ""
-  },
-  "<< DOOR CLOSING >>": {
-    "translation": ""
-  },
-  "<< PRESS AND HOLD >>": {
-    "translation": ""
-  },
-  "<<< CAUTION : FAN AUTOMATIC START >>>": {
-    "translation": ""
-  },
-  "<< DOOR OPEN 20 SECONDS >>": {
-    "translation": ""
-  },
-  "<< DOOR CLOSING 5 SECONDS >>": {
-    "translation": ""
-  },
-  "<< FALL BACK >>": {
-    "translation": ""
-  },
-  "< BREAK TRAM >": {
-    "translation": ""
-  },
-  "< CATCH CRATE >": {
-    "translation": ""
-  },
-  "< TO SPAWN CRATE >": {
-    "translation": ""
-  },
-  "<< CHECKPOINT 3 >>": {
-    "translation": ""
-  },
-  "<< CHECKPOINT 2 >>": {
-    "translation": ""
-  },
-  "< CATCH BOX  >": {
-    "translation": ""
-  },
-  "<< BOX SPAWNED >>": {
-    "translation": ""
-  },
-  "<< DOOR OPEN 15 SECONDS >>": {
-    "translation": ""
-  },
-  "<< DOOR OPENING 10 SECONDS >>": {
-    "translation": ""
-  },
-  "<< CHECKPOINT 4 >>": {
-    "translation": ""
-  },
-  "< FAN ACTIVATING >": {
-    "translation": ""
-  },
-  "< USE BLOCKS FOR COVER  >": {
-    "translation": ""
-  },
-  "<< FINAL DOOR CLOSING 20 SECONDS >>": {
-    "translation": ""
-  },
-  "<< LEVEL 1 - CHECKPOINTS WON >>": {
-    "translation": ""
-  },
-  "<< FINAL DOOR CLOSING 30 SECONDS >>": {
-    "translation": ""
-  },
-  "<< LEVEL 2 >>": {
-    "translation": ""
-  },
-  "<<< CHECKPOINT 1 >>>": {
-    "translation": ""
-  },
-  "<< DOOR OPENING 8 SECONDS >>": {
-    "translation": ""
-  },
-  "<<< DEFEND HERE >>>": {
-    "translation": ""
-  },
-  "<< DOOR OPENING 15 SECONDS >>": {
-    "translation": ""
-  },
-  "<<< CHECKPOINT 2 >>>": {
-    "translation": ""
-  },
-  "< PUSH CART >": {
-    "translation": ""
+    "translation": "!!!箱子生成器!!!"
   },
   "< 6 PLAYERS - MAX SPEED >": {
-    "translation": ""
+    "translation": "<6名玩家-最大速度>"
+  },
+  "< BREAK TRAM >": {
+    "translation": "<破坏电车>"
+  },
+  "< CATCH BOX  >": {
+    "translation": "<捕捉箱子>"
+  },
+  "< FAN ACTIVATING >": {
+    "translation": "<风扇正在启动>"
   },
   "< HUMANS - PROTECT THE CART >": {
-    "translation": ""
+    "translation": "<人类-保护手推车>"
   },
-  "< ZOMBIES - DESTROY THE CART >": {
-    "translation": ""
-  },
-  "<<< CHECKPOINT 3 >>>": {
-    "translation": ""
-  },
-  "<< LIFT LEAVING 15 SECONDS >>": {
-    "translation": ""
-  },
-  "<< LIFT LEAVING >>": {
-    "translation": ""
-  },
-  "<<< CHECKPOINT 4 >>>": {
-    "translation": ""
+  "< PUSH CART >": {
+    "translation": "<推动手推车>"
   },
   "< THROW NADE IN HOLE >": {
-    "translation": ""
+    "translation": "<往洞里扔手雷>"
+  },
+  "< TO SPAWN CRATE >": {
+    "translation": "<以生成箱子>"
+  },
+  "< USE BLOCKS FOR COVER  >": {
+    "translation": "<使用方块作为掩护>"
+  },
+  "< ZOMBIES - DESTROY THE CART >": {
+    "translation": "<僵尸-摧毁手推车>"
+  },
+  "<< BOX SPAWNED >>": {
+    "translation": "<<箱子已生成>>"
+  },
+  "<< CART DESTROYED >>": {
+    "translation": "<<手推车已被摧毁>>"
+  },
+  "<< CHECKPOINT 1 >>": {
+    "translation": "<<检查点1>>"
+  },
+  "<< CHECKPOINT 2 >>": {
+    "translation": "<<检查点2>>"
+  },
+  "<< CHECKPOINT 3 >>": {
+    "translation": "<<检查点3>>"
+  },
+  "<< CHECKPOINT 4 >>": {
+    "translation": "<<检查点4>>"
+  },
+  "<< CHECKPOINTS >>": {
+    "translation": "<<检查点>>"
+  },
+  "<< DEFEND HERE >>": {
+    "translation": "<<在这里防守>>"
+  },
+  "<< DOOR CLOSING 5 SECONDS >>": {
+    "translation": "<<门将在5秒后关闭>>"
+  },
+  "<< DOOR CLOSING >>": {
+    "translation": "<<门正在关闭>>"
   },
   "<< DOOR OPEN 10 SECONDS >>": {
-    "translation": ""
+    "translation": "<<门将在10秒后开启>>"
   },
-  "<<< DOOR OPEN >>>": {
-    "translation": ""
+  "<< DOOR OPEN 15 SECONDS >>": {
+    "translation": "<<门将在15秒后开启>>"
   },
-  "<< LEFT BRIDGE ACTIVE >>": {
-    "translation": ""
+  "<< DOOR OPEN 20 SECONDS >>": {
+    "translation": "<<门将在20秒后开启>>"
+  },
+  "<< DOOR OPEN 25 SECONDS >>": {
+    "translation": "<<门将在25秒后开启>>"
+  },
+  "<< DOOR OPEN >>": {
+    "translation": "<<门已开启>>"
+  },
+  "<< DOOR OPENING 10 SECONDS >>": {
+    "translation": "<<门将在10秒后开启>>"
+  },
+  "<< DOOR OPENING 15 SECONDS >>": {
+    "translation": "<<门将在15秒后开启>>"
   },
   "<< DOOR OPENING 20 SECONDS >>": {
-    "translation": ""
+    "translation": "<<门将在20秒后开启>>"
   },
-  "<<< CHECKPOINT 5 >>>": {
-    "translation": ""
+  "<< DOOR OPENING 8 SECONDS >>": {
+    "translation": "<<门将在8秒后开启>>"
+  },
+  "<< FALL BACK >>": {
+    "translation": "<<撤退>>"
+  },
+  "<< FINAL DOOR CLOSING 30 SECONDS >>": {
+    "translation": "<<最后一扇门将在30秒后关闭>>"
   },
   "<< KEEP ZOMBIES OFF TRAM >>": {
-    "translation": ""
+    "translation": "<<防守僵尸远离电车>>"
   },
-  "<<< LAST DOOR  OPEN >>>": {
-    "translation": ""
+  "<< LEFT BRIDGE ACTIVE >>": {
+    "translation": "<<左桥已激活>>"
+  },
+  "<< LEVEL 1 - CHECKPOINTS WON >>": {
+    "translation": "<<第一关-检查点已获得>>"
+  },
+  "<< LEVEL 1 - NO CHECKPOINTS WON >>": {
+    "translation": "<<第一关-未获得检查点>>"
+  },
+  "<< LEVEL 1 >>": {
+    "translation": "<<第一关 翻译：Asteri3m>>"
+  },
+  "<< LEVEL 2 >>": {
+    "translation": "<<第二关>>"
+  },
+  "<< LIFT LEAVING 15 SECONDS >>": {
+    "translation": "<<电梯将在15秒后离开>>"
+  },
+  "<< LIFT LEAVING >>": {
+    "translation": "<<电梯正在离开>>"
+  },
+  "<< MAP COMPLETE - CHECKPOINTS >>": {
+    "translation": "<<地图完成-检查点>>"
+  },
+  "<< MAP COMPLETE - NO CHECKPOINTS >>": {
+    "translation": "<<地图完成-未获得检查点>>"
+  },
+  "<< NO CHECKPOINTS >>": {
+    "translation": "<<未获得检查点>>"
+  },
+  "<< PRESS AND HOLD >>": {
+    "translation": "<<按住>>"
+  },
+  "<< RIGHT BRIDGE ACTIVE >>": {
+    "translation": "<<右桥已激活>>"
   },
   "<<< BUILD TOWER TO PLATFORM >>>": {
-    "translation": ""
+    "translation": "<<<建造塔到平台>>>"
+  },
+  "<<< CAUTION : FAN AUTOMATIC START >>>": {
+    "translation": "<<<注意：风扇自动启动>>>"
+  },
+  "<<< CHECKPOINT 1 >>>": {
+    "translation": "<<<检查点1>>>"
+  },
+  "<<< CHECKPOINT 2 >>>": {
+    "translation": "<<<检查点2>>>"
+  },
+  "<<< CHECKPOINT 3 >>>": {
+    "translation": "<<<检查点3>>>"
+  },
+  "<<< CHECKPOINT 4 >>>": {
+    "translation": "<<<检查点4>>>"
+  },
+  "<<< CHECKPOINT 5 >>>": {
+    "translation": "<<<检查点5>>>"
+  },
+  "<<< DEFEND HERE >>>": {
+    "translation": "<<<在这里防守>>>"
+  },
+  "<<< DOOR OPEN >>>": {
+    "translation": "<<<门已开启>>>"
+  },
+  "<<< FALL BACK >>>": {
+    "translation": "<<<撤退>>>"
+  },
+  "<<< LAST DOOR  OPEN >>>": {
+    "translation": "<<<最后一扇门已开启>>>"
+  },
+  "<<< ZOMBIE DETECTED >>>": {
+    "translation": "<<<检测到僵尸>>>"
   }
 }
