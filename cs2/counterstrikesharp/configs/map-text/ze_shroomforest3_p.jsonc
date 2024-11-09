@@ -122,15 +122,6 @@
   "*** Defend for 20 seconds ***": {
     "translation": "**在这个皮卡丘的尸骨里面防守20秒**"
   },
-  "*** DEFEND FOR 5 SECONDS ***": {
-    "translation": "**在这个皮卡丘的尸骨里面防守5秒，不要让僵尸进来**"
-  },
-  ">> OH NO!! ITS THE SPOOKY SCARY SKELETONS <<": {
-    "translation": "**喔，是卤粉钦定的骷髅舞蹈团**"
-  },
-  ">> KILL THEM BEFORE ITS TOO LATE <<": {
-    "translation": "**85秒内快点输出，别让他们召唤出大骷髅跳（踩）死我们**"
-  },
   ">> ALL 6 MINES USED <<": {
     "translation": "**6个地雷都被用完了**"
   },
@@ -157,9 +148,6 @@
   },
   "*** ELEVATOR LEAVING IN 20 seconds ***": {
     "translation": "**电梯还有20秒离开**"
-  },
-  "*** ELEVATOR LEAVING IN 5 SECONDS ***": {
-    "translation": "**电梯还有5秒离开**"
   },
   ">> PLAYER HAS PICKED UP BULBASAUR POKEBALL <<": {
     "translation": "**妙蛙种子（墙）被收服**"
@@ -203,14 +191,8 @@
   "*** SNORLAX IS MAKING US SLEEPY ***": {
     "translation": "**卡比兽释放了【催眠之力】**"
   },
-  "*** DEFEAT HIM BEFORE ITS TOO LATE ***": {
-    "translation": "**在45秒之前干掉它**"
-  },
   "*** SNORLAX IS GOING TO USE HYPERBEAM ***": {
     "translation": "**15秒 卡比兽即将使用破坏死光（注意两侧僵尸）**"
-  },
-  "*** SHOOT BEFORE ITS TOO LATE ***": {
-    "translation": "**赶紧干掉它，注意僵尸的进攻**"
   },
   "*** SNORLAX USED HYPERBEAM ***": {
     "translation": "**10秒 卡比兽释放了破坏死光**"
@@ -245,9 +227,6 @@
   },
   ">> PLAYER HAS PICKED UP PIKACHU POKEBALL <<": {
     "translation": "**皮卡丘已被收服**"
-  },
-  "*** ITS SUPER EFFECTIVE !!! ***": {
-    "translation": "**它超级有效**"
   },
   ">> ZOMBIES ABOARD!! LEVEL FAILED!! <<": {
     "translation": "**僵尸到达，关卡失败**"
@@ -291,9 +270,6 @@
   "*** NICE JOB!!! ***": {
     "translation": "**干得漂亮**"
   },
-  ">> POKEMON WONT FOLLOW YOU IN THIS CAVE <<": {
-    "translation": "**宝可梦逃掉了（神器不能用）**"
-  },
   "*** Doors opening in 30 seconds ***": {
     "translation": "**门还有30秒打开**"
   },
@@ -302,9 +278,6 @@
   },
   "*** Doors are open! RUN!! ***": {
     "translation": "**门开了**"
-  },
-  ">> ITS A SHINY PIKACHU !!! <<": {
-    "translation": "**是个闪光的皮卡丘**"
   },
   ">> CATCH HIM. HE IS OUR WAY OUT !!! <<": {
     "translation": "**赶紧用宝贝球收服它**"
@@ -399,9 +372,6 @@
   ">> DEFEND FOR 30 SECONDS <<": {
     "translation": "**守住30秒**"
   },
-  ">> OH NO!! ITS PIKACHU NAZI <<": {
-    "translation": "**不好，是元首皮卡丘**"
-  },
   ">> KILL HIM BEFORE HE GIVE BIRTH TO SATAN <<": {
     "translation": "**别让他把撒旦召唤出来**"
   },
@@ -423,14 +393,8 @@
   ">> SATAN OPENED A PORTAL TO HELL !!! <<": {
     "translation": "**撒旦开启了地狱之门**"
   },
-  "-- [ZOMBIES] Find Satans Powers to make him stronger --": {
-    "translation": "**【僵尸】给撒旦寻找5个力量（总共9种，终极固定，4个随机）**"
-  },
   ">> SATAN IS HEADING TO THE TIMEMACHINE ROOM !!! <<": {
     "translation": "**撒旦正藏在时间机器房间**"
-  },
-  ">> STOP HIM BEFORE ITS TOO LATE !! <<": {
-    "translation": "**在太迟之前阻止它**"
   },
   ">> OH NO !! SATAN IS IN THE TIMEMACHINE ! <<": {
     "translation": "**噢不撒旦正在启动时间机器**"
@@ -440,9 +404,6 @@
   },
   ">> KEEP ZOMBIES OUT OF THE ROOM <<": {
     "translation": "**把僵尸阻挡在门外**"
-  },
-  "-- [ZOMBIES] You can still find Satans Powers during the fight --": {
-    "translation": "**【僵尸】可以继续给撒旦寻找力量**"
   },
   "** Satan is immune to Grenades **": {
     "translation": "**撒旦已经对手雷吸血**"
@@ -464,9 +425,6 @@
   },
   ">> SATAN IS ESCAPING !! <<": {
     "translation": "**撒旦正在逃脱**"
-  },
-  ">> HE WONT GO FAR ! <<": {
-    "translation": "**它不会跑太远**"
   },
   ">> DEFEND 20 SECONDS !! <<": {
     "translation": "**把僵尸压制20秒，我们会追上撒旦**"
@@ -492,9 +450,6 @@
   ">> 40 SECONDS UNTIL SATAN DISAPPEAR INTO THE FUTURE ! <<": {
     "translation": "**撒旦将在40秒后逃出生天**"
   },
-  ">> WE NEED TO KILL HIM BEFORE ITS TOO LATE !! <<": {
-    "translation": "**我们必须在它逃掉之前将其击败**"
-  },
   ">> TOO LATE ! <<": {
     "translation": "**太慢了**"
   },
@@ -515,9 +470,6 @@
   },
   "** Satan control the Explosions **": {
     "translation": "**撒旦可以控制爆炸了（小心地雷）**"
-  },
-  "** Satans Speed Increased **": {
-    "translation": "**撒旦速度快起来了，别被坐飞机了**"
   },
   ">> Congratulations ! <<": {
     "translation": "**恭喜你**"
@@ -607,51 +559,51 @@
     "translation": "25秒后二楼大门打开"
   },
   "*** Defend for 5 seconds ***": {
-    "translation": ""
+    "translation": "在这个皮卡丘的尸骨里面防守5秒，不要让僵尸进来"
   },
   ">> OH NO!! IT'S THE SPOOKY SCARY SKELETONS <<": {
-    "translation": ""
+    "translation": "喔，是卤粉钦定的骷髅舞蹈团"
   },
   ">> KILL THEM BEFORE IT'S TOO LATE <<": {
-    "translation": ""
+    "translation": "85秒内快点输出，别让他们召唤出大骷髅跳（踩）死我们"
   },
   "*** ELEVATOR LEAVING IN 5 seconds ***": {
-    "translation": ""
+    "translation": "电梯还有5秒离开"
   },
   "*** DEFEAT HIM BEFORE IT'S TOO LATE ***": {
-    "translation": ""
+    "translation": "在45秒之前干掉它"
   },
   "*** SHOOT BEFORE IT'S TOO LATE ***": {
-    "translation": ""
+    "translation": "赶紧干掉它，注意僵尸的进攻"
   },
   "*** IT'S SUPER EFFECTIVE !!! ***": {
-    "translation": ""
+    "translation": "它超级有效"
   },
   ">> POKEMON WON'T FOLLOW YOU IN THIS CAVE <<": {
-    "translation": ""
+    "translation": "宝可梦逃掉了（神器不能用）"
   },
   ">> IT'S A SHINY PIKACHU !!! <<": {
-    "translation": ""
+    "translation": "是个闪光的皮卡丘"
   },
   ">> OH NO!! IT'S PIKACHU NAZI <<": {
-    "translation": ""
+    "translation": "不好，是元首皮卡丘"
   },
   "-- [ZOMBIES] Find Satan's Powers to make him stronger --": {
-    "translation": ""
+    "translation": "【僵尸】给撒旦寻找5个力量（总共9种，终极固定，4个随机）"
   },
   ">> STOP HIM BEFORE IT'S TOO LATE !! <<": {
-    "translation": ""
+    "translation": "在太迟之前阻止它"
   },
   "-- [ZOMBIES] You can still find Satan's Powers during the fight --": {
-    "translation": ""
+    "translation": "【僵尸】可以继续给撒旦寻找力量"
   },
   "** Satan's Speed Increased **": {
-    "translation": ""
+    "translation": "撒旦速度快起来了，别被坐飞机了"
   },
   ">> HE WON'T GO FAR ! <<": {
-    "translation": ""
+    "translation": "它不会跑太远"
   },
   ">> WE NEED TO KILL HIM BEFORE IT'S TOO LATE !! <<": {
-    "translation": ""
+    "translation": "我们必须在它逃掉之前将其击败"
   }
 }
