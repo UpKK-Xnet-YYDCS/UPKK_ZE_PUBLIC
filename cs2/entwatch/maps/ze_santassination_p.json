@@ -5,8 +5,6 @@
 		"Color": "{default}",
 		"HammerID": 3481,
 		"GlowColor": [255,255,255,255],
-		"FilterID": 0,
-		"FilterValue": "",
 		"BlockPickup": false,
 		"AllowTransfer": true,
 		"ForceDrop": true,
@@ -19,6 +17,7 @@
 				"Name": "item_button_1",
 				"ButtonID": 3478,
 				"ButtonClass": "func_button",
+				"Filter": "",
 				"Chat_Uses": false,
 				"Mode": 2,
 				"MaxUses": 0,
@@ -30,14 +29,12 @@
 			}
 		]
 	},
-    {
+	{
 		"Name": "激光枪/Beam Cannon",
 		"ShortName": "激光枪",
 		"Color": "{default}",
 		"HammerID": 3518,
 		"GlowColor": [255,255,255,255],
-		"FilterID": 0,
-		"FilterValue": "",
 		"BlockPickup": false,
 		"AllowTransfer": true,
 		"ForceDrop": true,
@@ -50,6 +47,7 @@
 				"Name": "item_button_2",
 				"ButtonID": 3516,
 				"ButtonClass": "func_button",
+				"Filter": "",
 				"Chat_Uses": false,
 				"Mode": 1,
 				"MaxUses": 0,
@@ -61,14 +59,12 @@
 			}
 		]
 	},
-    {
+	{
 		"Name": "迷你枪/Mini Cannon",
 		"ShortName": "迷你枪",
 		"Color": "{default}",
 		"HammerID": 3589,
 		"GlowColor": [255,255,255,255],
-		"FilterID": 0,
-		"FilterValue": "",
 		"BlockPickup": false,
 		"AllowTransfer": true,
 		"ForceDrop": true,
@@ -81,6 +77,7 @@
 				"Name": "item_button_3",
 				"ButtonID": 3587,
 				"ButtonClass": "func_button",
+				"Filter": "",
 				"Chat_Uses": false,
 				"Mode": 6,
 				"MaxUses": 0,
@@ -92,14 +89,12 @@
 			}
 		]
 	},
-    {
+	{
 		"Name": "牧尸人/Herder (Push)",
 		"ShortName": "牧尸人",
 		"Color": "{default}",
 		"HammerID": 3706,
 		"GlowColor": [255,255,255,255],
-		"FilterID": 0,
-		"FilterValue": "",
 		"BlockPickup": false,
 		"AllowTransfer": true,
 		"ForceDrop": true,
@@ -112,6 +107,7 @@
 				"Name": "item_button_4",
 				"ButtonID": 3702,
 				"ButtonClass": "func_button",
+				"Filter": "",
 				"Chat_Uses": false,
 				"Mode": 2,
 				"MaxUses": 0,
@@ -123,14 +119,12 @@
 			}
 		]
 	},
-    {
+	{
 		"Name": "屎疗/Healing Shitbox",
 		"ShortName": "屎疗",
 		"Color": "{default}",
 		"HammerID": 830,
 		"GlowColor": [255,255,255,255],
-		"FilterID": 0,
-		"FilterValue": "",
 		"BlockPickup": false,
 		"AllowTransfer": true,
 		"ForceDrop": true,
@@ -143,6 +137,7 @@
 				"Name": "item_button_5",
 				"ButtonID": 824,
 				"ButtonClass": "func_button",
+				"Filter": "",
 				"Chat_Uses": true,
 				"Mode": 3,
 				"MaxUses": 1,
@@ -154,14 +149,12 @@
 			}
 		]
 	},
-    {
+	{
 		"Name": "加速/Speeder",
 		"ShortName": "加速",
 		"Color": "{default}",
 		"HammerID": 547,
 		"GlowColor": [255,255,255,255],
-		"FilterID": 0,
-		"FilterValue": "",
 		"BlockPickup": false,
 		"AllowTransfer": true,
 		"ForceDrop": true,
@@ -174,6 +167,7 @@
 				"Name": "item_button_6",
 				"ButtonID": 543,
 				"ButtonClass": "func_button",
+				"Filter": "",
 				"Chat_Uses": false,
 				"Mode": 2,
 				"MaxUses": 0,
@@ -185,14 +179,12 @@
 			}
 		]
 	},
-    {
+	{
 		"Name": "Luff knife",
 		"ShortName": "Luff knife",
 		"Color": "{default}",
 		"HammerID": 3450,
 		"GlowColor": [255,255,255,255],
-		"FilterID": 0,
-		"FilterValue": "",
 		"BlockPickup": false,
 		"AllowTransfer": true,
 		"ForceDrop": true,
@@ -205,6 +197,7 @@
 				"Name": "",
 				"ButtonID": 0,
 				"ButtonClass": "",
+				"Filter": "",
 				"Chat_Uses": false,
 				"Mode": 0,
 				"MaxUses": 0,

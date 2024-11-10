@@ -5,8 +5,6 @@
 		"Color": "{default}",
 		"HammerID": 145,
 		"GlowColor": [255,255,255,255],
-		"FilterID": 0,
-		"FilterValue": "",
 		"BlockPickup": false,
 		"AllowTransfer": false,
 		"ForceDrop": false,
@@ -19,6 +17,7 @@
 				"Name": "",
 				"ButtonID": 0,
 				"ButtonClass": "",
+				"Filter": "",
 				"Chat_Uses": false,
 				"Mode": 6,
 				"MaxUses": 0,
@@ -30,14 +29,12 @@
 			}
 		]
 	},
-    {
+	{
 		"Name": "旗帜/Flag",
 		"ShortName": "旗帜",
 		"Color": "{default}",
 		"HammerID": 901,
 		"GlowColor": [255,255,255,255],
-		"FilterID": 0,
-		"FilterValue": "",
 		"BlockPickup": false,
 		"AllowTransfer": false,
 		"ForceDrop": false,
@@ -50,6 +47,7 @@
 				"Name": "",
 				"ButtonID": 0,
 				"ButtonClass": "",
+				"Filter": "",
 				"Chat_Uses": false,
 				"Mode": 0,
 				"MaxUses": 0,
@@ -61,14 +59,12 @@
 			}
 		]
 	},
-    {
+	{
 		"Name": "骑兵/Horse",
 		"ShortName": "骑兵",
 		"Color": "{default}",
 		"HammerID": 675,
 		"GlowColor": [255,255,255,255],
-		"FilterID": 0,
-		"FilterValue": "",
 		"BlockPickup": false,
 		"AllowTransfer": false,
 		"ForceDrop": false,
@@ -81,6 +77,7 @@
 				"Name": "",
 				"ButtonID": 0,
 				"ButtonClass": "",
+				"Filter": "",
 				"Chat_Uses": false,
 				"Mode": 0,
 				"MaxUses": 0,
@@ -92,14 +89,12 @@
 			}
 		]
 	},
-    {
+	{
 		"Name": "障碍物 木箱/Barricade",
 		"ShortName": "障碍物 木箱",
 		"Color": "{default}",
 		"HammerID": 749,
 		"GlowColor": [255,255,255,255],
-		"FilterID": 0,
-		"FilterValue": "",
 		"BlockPickup": false,
 		"AllowTransfer": true,
 		"ForceDrop": true,
@@ -112,6 +107,7 @@
 				"Name": "stage_1_barricade_1_0_2",
 				"ButtonID": 227,
 				"ButtonClass": "func_button",
+				"Filter": "",
 				"Chat_Uses": true,
 				"Mode": 3,
 				"MaxUses": 1,
@@ -123,14 +119,12 @@
 			}
 		]
 	},
-    {
+	{
 		"Name": "障碍物 桌子/Barricade",
 		"ShortName": "障碍物 桌子",
 		"Color": "{default}",
 		"HammerID": 753,
 		"GlowColor": [255,255,255,255],
-		"FilterID": 0,
-		"FilterValue": "",
 		"BlockPickup": false,
 		"AllowTransfer": true,
 		"ForceDrop": true,
@@ -143,6 +137,7 @@
 				"Name": "stage_1_barricade_1_12_2",
 				"ButtonID": 247,
 				"ButtonClass": "func_button",
+				"Filter": "",
 				"Chat_Uses": true,
 				"Mode": 3,
 				"MaxUses": 1,
@@ -154,14 +149,12 @@
 			}
 		]
 	},
-    {
+	{
 		"Name": "障碍物 木桶/Barricade",
 		"ShortName": "障碍物 木桶",
 		"Color": "{default}",
 		"HammerID": 750,
 		"GlowColor": [255,255,255,255],
-		"FilterID": 0,
-		"FilterValue": "",
 		"BlockPickup": false,
 		"AllowTransfer": true,
 		"ForceDrop": true,
@@ -174,6 +167,7 @@
 				"Name": "stage_1_barricade_1_2_2",
 				"ButtonID": 243,
 				"ButtonClass": "func_button",
+				"Filter": "",
 				"Chat_Uses": true,
 				"Mode": 3,
 				"MaxUses": 1,
@@ -185,14 +179,12 @@
 			}
 		]
 	},
-    {
+	{
 		"Name": "障碍物 大圆石/Barricade",
 		"ShortName": "障碍物 大圆石",
 		"Color": "{default}",
 		"HammerID": 751,
 		"GlowColor": [255,255,255,255],
-		"FilterID": 0,
-		"FilterValue": "",
 		"BlockPickup": false,
 		"AllowTransfer": true,
 		"ForceDrop": true,
@@ -205,6 +197,7 @@
 				"Name": "stage_1_barricade_1_6_2",
 				"ButtonID": 231,
 				"ButtonClass": "func_button",
+				"Filter": "",
 				"Chat_Uses": true,
 				"Mode": 3,
 				"MaxUses": 1,
@@ -216,14 +209,12 @@
 			}
 		]
 	},
-    {
+	{
 		"Name": "障碍物 巨石/Barricade",
 		"ShortName": "障碍物 巨石",
 		"Color": "{default}",
 		"HammerID": 754,
 		"GlowColor": [255,255,255,255],
-		"FilterID": 0,
-		"FilterValue": "",
 		"BlockPickup": false,
 		"AllowTransfer": true,
 		"ForceDrop": true,
@@ -236,6 +227,7 @@
 				"Name": "stage_1_barricade_1_18_2",
 				"ButtonID": 233,
 				"ButtonClass": "func_button",
+				"Filter": "",
 				"Chat_Uses": true,
 				"Mode": 3,
 				"MaxUses": 1,
@@ -247,14 +239,12 @@
 			}
 		]
 	},
-    {
+	{
 		"Name": "障碍物 干草包/Barricade",
 		"ShortName": "障碍物 干草包",
 		"Color": "{default}",
 		"HammerID": 752,
 		"GlowColor": [255,255,255,255],
-		"FilterID": 0,
-		"FilterValue": "",
 		"BlockPickup": false,
 		"AllowTransfer": true,
 		"ForceDrop": true,
@@ -267,6 +257,7 @@
 				"Name": "stage_1_barricade_1_9_2",
 				"ButtonID": 229,
 				"ButtonClass": "func_button",
+				"Filter": "",
 				"Chat_Uses": true,
 				"Mode": 3,
 				"MaxUses": 1,
@@ -278,14 +269,12 @@
 			}
 		]
 	},
-    {
+	{
 		"Name": "障碍物 木板/Barricade",
 		"ShortName": "障碍物 木板",
 		"Color": "{default}",
 		"HammerID": 755,
 		"GlowColor": [255,255,255,255],
-		"FilterID": 0,
-		"FilterValue": "",
 		"BlockPickup": false,
 		"AllowTransfer": true,
 		"ForceDrop": true,
@@ -298,6 +287,7 @@
 				"Name": "stage_1_barricade_1_27_2",
 				"ButtonID": 245,
 				"ButtonClass": "func_button",
+				"Filter": "",
 				"Chat_Uses": true,
 				"Mode": 3,
 				"MaxUses": 1,
@@ -309,14 +299,12 @@
 			}
 		]
 	},
-    {
+	{
 		"Name": "障碍物 木筐/Barricade",
 		"ShortName": "障碍物 木筐",
 		"Color": "{default}",
 		"HammerID": 756,
 		"GlowColor": [255,255,255,255],
-		"FilterID": 0,
-		"FilterValue": "",
 		"BlockPickup": false,
 		"AllowTransfer": true,
 		"ForceDrop": true,
@@ -329,6 +317,7 @@
 				"Name": "stage_1_barricade_1_33_2",
 				"ButtonID": 225,
 				"ButtonClass": "func_button",
+				"Filter": "",
 				"Chat_Uses": true,
 				"Mode": 3,
 				"MaxUses": 1,
@@ -340,14 +329,12 @@
 			}
 		]
 	},
-    {
+	{
 		"Name": "障碍物 栅栏/Barricade",
 		"ShortName": "障碍物 栅栏",
 		"Color": "{default}",
 		"HammerID": 757,
 		"GlowColor": [255,255,255,255],
-		"FilterID": 0,
-		"FilterValue": "",
 		"BlockPickup": false,
 		"AllowTransfer": true,
 		"ForceDrop": true,
@@ -360,6 +347,7 @@
 				"Name": "stage_1_barricade_1_36_2",
 				"ButtonID": 239,
 				"ButtonClass": "func_button",
+				"Filter": "",
 				"Chat_Uses": true,
 				"Mode": 3,
 				"MaxUses": 1,
@@ -371,14 +359,12 @@
 			}
 		]
 	},
-    {
+	{
 		"Name": "障碍物 书架/Barricade",
 		"ShortName": "障碍物 书架",
 		"Color": "{default}",
 		"HammerID": 758,
 		"GlowColor": [255,255,255,255],
-		"FilterID": 0,
-		"FilterValue": "",
 		"BlockPickup": false,
 		"AllowTransfer": true,
 		"ForceDrop": true,
@@ -391,6 +377,7 @@
 				"Name": "stage_1_barricade_1_39_2",
 				"ButtonID": 241,
 				"ButtonClass": "func_button",
+				"Filter": "",
 				"Chat_Uses": true,
 				"Mode": 3,
 				"MaxUses": 1,
@@ -402,14 +389,12 @@
 			}
 		]
 	},
-    {
+	{
 		"Name": "障碍物 长凳/Barricade",
 		"ShortName": "障碍物 长凳",
 		"Color": "{default}",
 		"HammerID": 759,
 		"GlowColor": [255,255,255,255],
-		"FilterID": 0,
-		"FilterValue": "",
 		"BlockPickup": false,
 		"AllowTransfer": true,
 		"ForceDrop": true,
@@ -422,6 +407,7 @@
 				"Name": "stage_1_barricade_1_42_2",
 				"ButtonID": 235,
 				"ButtonClass": "func_button",
+				"Filter": "",
 				"Chat_Uses": true,
 				"Mode": 3,
 				"MaxUses": 1,
@@ -433,14 +419,12 @@
 			}
 		]
 	},
-    {
+	{
 		"Name": "障碍物 坐便器/Barricade",
 		"ShortName": "障碍物 坐便器",
 		"Color": "{default}",
 		"HammerID": 760,
 		"GlowColor": [255,255,255,255],
-		"FilterID": 0,
-		"FilterValue": "",
 		"BlockPickup": false,
 		"AllowTransfer": true,
 		"ForceDrop": true,
@@ -453,6 +437,7 @@
 				"Name": "stage_1_barricade_1_45_2",
 				"ButtonID": 237,
 				"ButtonClass": "func_button",
+				"Filter": "",
 				"Chat_Uses": true,
 				"Mode": 3,
 				"MaxUses": 1,
@@ -464,14 +449,12 @@
 			}
 		]
 	},
-    {
+	{
 		"Name": "火把/Torch",
 		"ShortName": "火把",
 		"Color": "{default}",
 		"HammerID": 731,
 		"GlowColor": [255,255,255,255],
-		"FilterID": 0,
-		"FilterValue": "",
 		"BlockPickup": false,
 		"AllowTransfer": true,
 		"ForceDrop": true,
@@ -484,6 +467,7 @@
 				"Name": "",
 				"ButtonID": 0,
 				"ButtonClass": "",
+				"Filter": "",
 				"Chat_Uses": false,
 				"Mode": 0,
 				"MaxUses": 0,
@@ -495,14 +479,12 @@
 			}
 		]
 	},
-    {
+	{
 		"Name": "火把/Torch",
 		"ShortName": "火把",
 		"Color": "{default}",
 		"HammerID": 734,
 		"GlowColor": [255,255,255,255],
-		"FilterID": 0,
-		"FilterValue": "",
 		"BlockPickup": false,
 		"AllowTransfer": true,
 		"ForceDrop": true,
@@ -515,6 +497,7 @@
 				"Name": "",
 				"ButtonID": 0,
 				"ButtonClass": "",
+				"Filter": "",
 				"Chat_Uses": false,
 				"Mode": 0,
 				"MaxUses": 0,
@@ -526,14 +509,12 @@
 			}
 		]
 	},
-    {
+	{
 		"Name": "障碍物 炸药桶/Barricade",
 		"ShortName": "障碍物 炸药桶",
 		"Color": "{default}",
 		"HammerID": 736,
 		"GlowColor": [255,255,255,255],
-		"FilterID": 0,
-		"FilterValue": "",
 		"BlockPickup": false,
 		"AllowTransfer": true,
 		"ForceDrop": true,
@@ -546,6 +527,7 @@
 				"Name": "prop_explosive_temp1_2",
 				"ButtonID": 249,
 				"ButtonClass": "func_button",
+				"Filter": "",
 				"Chat_Uses": true,
 				"Mode": 3,
 				"MaxUses": 1,
@@ -557,14 +539,12 @@
 			}
 		]
 	},
-    {
+	{
 		"Name": "弹药桶/Ammo Barrel",
 		"ShortName": "弹药桶",
 		"Color": "{default}",
 		"HammerID": 351,
 		"GlowColor": [255,255,255,255],
-		"FilterID": 0,
-		"FilterValue": "",
 		"BlockPickup": false,
 		"AllowTransfer": false,
 		"ForceDrop": false,
@@ -577,6 +557,7 @@
 				"Name": "",
 				"ButtonID": 0,
 				"ButtonClass": "",
+				"Filter": "",
 				"Chat_Uses": false,
 				"Mode": 0,
 				"MaxUses": 0,
@@ -588,14 +569,12 @@
 			}
 		]
 	},
-    {
+	{
 		"Name": "甘道夫/Gandalf",
 		"ShortName": "甘道夫",
 		"Color": "{default}",
 		"HammerID": 683,
 		"GlowColor": [255,255,255,255],
-		"FilterID": 0,
-		"FilterValue": "",
 		"BlockPickup": false,
 		"AllowTransfer": false,
 		"ForceDrop": false,
@@ -608,6 +587,7 @@
 				"Name": "",
 				"ButtonID": 0,
 				"ButtonClass": "",
+				"Filter": "",
 				"Chat_Uses": false,
 				"Mode": 0,
 				"MaxUses": 0,
@@ -619,14 +599,12 @@
 			}
 		]
 	},
-    {
+	{
 		"Name": "白骑高达/The White Knight",
 		"ShortName": "白骑高达",
 		"Color": "{default}",
 		"HammerID": 695,
 		"GlowColor": [255,255,255,255],
-		"FilterID": 0,
-		"FilterValue": "",
 		"BlockPickup": false,
 		"AllowTransfer": false,
 		"ForceDrop": false,
@@ -639,6 +617,7 @@
 				"Name": "",
 				"ButtonID": 0,
 				"ButtonClass": "",
+				"Filter": "",
 				"Chat_Uses": false,
 				"Mode": 0,
 				"MaxUses": 0,
@@ -650,14 +629,12 @@
 			}
 		]
 	},
-    {
+	{
 		"Name": "油/Oil Vase",
 		"ShortName": "油",
 		"Color": "{default}",
 		"HammerID": 865,
 		"GlowColor": [255,255,255,255],
-		"FilterID": 0,
-		"FilterValue": "",
 		"BlockPickup": false,
 		"AllowTransfer": false,
 		"ForceDrop": false,
@@ -670,6 +647,7 @@
 				"Name": "",
 				"ButtonID": 0,
 				"ButtonClass": "",
+				"Filter": "",
 				"Chat_Uses": false,
 				"Mode": 7,
 				"MaxUses": 0,
@@ -681,14 +659,12 @@
 			}
 		]
 	},
-    {
+	{
 		"Name": "ZM 旗帜/Zombie Totem",
 		"ShortName": "ZM 旗帜",
 		"Color": "{default}",
 		"HammerID": 900,
 		"GlowColor": [255,255,255,255],
-		"FilterID": 0,
-		"FilterValue": "",
 		"BlockPickup": false,
 		"AllowTransfer": true,
 		"ForceDrop": true,
@@ -701,6 +677,7 @@
 				"Name": "",
 				"ButtonID": 0,
 				"ButtonClass": "",
+				"Filter": "",
 				"Chat_Uses": false,
 				"Mode": 0,
 				"MaxUses": 0,
@@ -712,14 +689,12 @@
 			}
 		]
 	},
-    {
+	{
 		"Name": "ZM 戒灵/Zombie Nazgul",
 		"ShortName": "ZM 戒灵",
 		"Color": "{default}",
 		"HammerID": 395,
 		"GlowColor": [255,255,255,255],
-		"FilterID": 0,
-		"FilterValue": "",
 		"BlockPickup": false,
 		"AllowTransfer": false,
 		"ForceDrop": false,
@@ -732,6 +707,7 @@
 				"Name": "",
 				"ButtonID": 0,
 				"ButtonClass": "",
+				"Filter": "",
 				"Chat_Uses": false,
 				"Mode": 0,
 				"MaxUses": 0,
@@ -743,14 +719,12 @@
 			}
 		]
 	},
-    {
+	{
 		"Name": "ZM 巨魔/Zombie Troll",
 		"ShortName": "ZM 巨魔",
 		"Color": "{default}",
 		"HammerID": 348,
 		"GlowColor": [255,255,255,255],
-		"FilterID": 0,
-		"FilterValue": "",
 		"BlockPickup": false,
 		"AllowTransfer": false,
 		"ForceDrop": false,
@@ -763,6 +737,7 @@
 				"Name": "",
 				"ButtonID": 0,
 				"ButtonClass": "",
+				"Filter": "",
 				"Chat_Uses": false,
 				"Mode": 0,
 				"MaxUses": 0,
@@ -774,14 +749,12 @@
 			}
 		]
 	},
-    {
+	{
 		"Name": "ZM 梯子/Zombie Ladder",
 		"ShortName": "ZM 梯子",
 		"Color": "{default}",
 		"HammerID": 157,
 		"GlowColor": [255,255,255,255],
-		"FilterID": 0,
-		"FilterValue": "",
 		"BlockPickup": false,
 		"AllowTransfer": false,
 		"ForceDrop": false,
@@ -794,6 +767,7 @@
 				"Name": "",
 				"ButtonID": 0,
 				"ButtonClass": "",
+				"Filter": "",
 				"Chat_Uses": false,
 				"Mode": 0,
 				"MaxUses": 0,
@@ -805,14 +779,12 @@
 			}
 		]
 	},
-    {
+	{
 		"Name": "ZM 梯子/Zombie Ladder",
 		"ShortName": "ZM 梯子",
 		"Color": "{default}",
 		"HammerID": 167,
 		"GlowColor": [255,255,255,255],
-		"FilterID": 0,
-		"FilterValue": "",
 		"BlockPickup": false,
 		"AllowTransfer": false,
 		"ForceDrop": false,
@@ -825,6 +797,7 @@
 				"Name": "",
 				"ButtonID": 0,
 				"ButtonClass": "",
+				"Filter": "",
 				"Chat_Uses": false,
 				"Mode": 0,
 				"MaxUses": 0,
@@ -836,14 +809,12 @@
 			}
 		]
 	},
-    {
+	{
 		"Name": "ZM 炎魔/Zombie Balrog",
 		"ShortName": "ZM 炎魔",
 		"Color": "{default}",
 		"HammerID": 716,
 		"GlowColor": [255,255,255,255],
-		"FilterID": 0,
-		"FilterValue": "",
 		"BlockPickup": false,
 		"AllowTransfer": false,
 		"ForceDrop": false,
@@ -856,6 +827,7 @@
 				"Name": "",
 				"ButtonID": 0,
 				"ButtonClass": "",
+				"Filter": "",
 				"Chat_Uses": false,
 				"Mode": 0,
 				"MaxUses": 0,
@@ -867,14 +839,12 @@
 			}
 		]
 	},
-    {
+	{
 		"Name": "ZM TNT/Zombie TNT Barrel",
 		"ShortName": "ZM TNT",
 		"Color": "{default}",
 		"HammerID": 1117,
 		"GlowColor": [255,255,255,255],
-		"FilterID": 0,
-		"FilterValue": "",
 		"BlockPickup": false,
 		"AllowTransfer": false,
 		"ForceDrop": false,
@@ -887,6 +857,7 @@
 				"Name": "",
 				"ButtonID": 0,
 				"ButtonClass": "",
+				"Filter": "",
 				"Chat_Uses": false,
 				"Mode": 0,
 				"MaxUses": 0,

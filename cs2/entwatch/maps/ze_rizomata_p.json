@@ -5,8 +5,6 @@
 		"Color": "{default}",
 		"HammerID": 738,
 		"GlowColor": [255,255,255,255],
-		"FilterID": 0,
-		"FilterValue": "",
 		"BlockPickup": false,
 		"AllowTransfer": false,
 		"ForceDrop": false,
@@ -19,6 +17,7 @@
 				"Name": "",
 				"ButtonID": 0,
 				"ButtonClass": "game_ui::PressedAttack2",
+				"Filter": "",
 				"Chat_Uses": true,
 				"Mode": 2,
 				"MaxUses": 0,
@@ -26,14 +25,12 @@
 			}
 		]
     },
-    {
+	{
 		"Name": "ZM 毒/Zombie Death",
 		"ShortName": "ZM 毒",
 		"Color": "{default}",
 		"HammerID": 732,
 		"GlowColor": [255,255,255,255],
-		"FilterID": 0,
-		"FilterValue": "",
 		"BlockPickup": false,
 		"AllowTransfer": false,
 		"ForceDrop": false,
@@ -46,6 +43,7 @@
 				"Name": "",
 				"ButtonID": 0,
 				"ButtonClass": "game_ui::PressedAttack2",
+				"Filter": "",
 				"Chat_Uses": true,
 				"Mode": 2,
 				"MaxUses": 0,
@@ -53,14 +51,12 @@
 			}
 		]
 	},
-    {
+	{
 		"Name": "ZM 诅咒/Zombie Curse",
 		"ShortName": "ZM 诅咒",
 		"Color": "{default}",
 		"HammerID": 735,
 		"GlowColor": [255,255,255,255],
-		"FilterID": 0,
-		"FilterValue": "",
 		"BlockPickup": false,
 		"AllowTransfer": false,
 		"ForceDrop": false,
@@ -73,6 +69,7 @@
 				"Name": "",
 				"ButtonID": 0,
 				"ButtonClass": "game_ui::PressedAttack2",
+				"Filter": "",
 				"Chat_Uses": true,
 				"Mode": 2,
 				"MaxUses": 0,
@@ -80,14 +77,12 @@
 			}
 		]
 	},
-    {
+	{
 		"Name": "风1/Wind1",
 		"ShortName": "风1",
 		"Color": "{default}",
 		"HammerID": 703,
 		"GlowColor": [255,255,255,255],
-		"FilterID": 0,
-		"FilterValue": "",
 		"BlockPickup": false,
 		"AllowTransfer": false,
 		"ForceDrop": false,
@@ -100,6 +95,7 @@
 				"Name": "wind_button",
 				"ButtonID": 698,
 				"ButtonClass": "func_physbox",
+				"Filter": "",
 				"Chat_Uses": true,
 				"Mode": 2,
 				"MaxUses": 0,
@@ -109,6 +105,7 @@
 				"Name": "大师风1",
 				"ButtonID": 0,
 				"ButtonClass": "game_ui::PressedAttack2",
+				"Filter": "",
 				"Chat_Uses": true,
 				"Mode": 2,
 				"MaxUses": 0,
@@ -116,14 +113,12 @@
 			}
 		]
 	},
-    {
+	{
 		"Name": "风2/Wind2",
 		"ShortName": "风2",
 		"Color": "{default}",
 		"HammerID": 667,
 		"GlowColor": [255,255,255,255],
-		"FilterID": 0,
-		"FilterValue": "",
 		"BlockPickup": false,
 		"AllowTransfer": false,
 		"ForceDrop": false,
@@ -136,6 +131,7 @@
 				"Name": "wind_button2",
 				"ButtonID": 660,
 				"ButtonClass": "func_physbox",
+				"Filter": "",
 				"Chat_Uses": true,
 				"Mode": 2,
 				"MaxUses": 0,
@@ -145,6 +141,7 @@
 				"Name": "大师风2",
 				"ButtonID": 0,
 				"ButtonClass": "game_ui::PressedAttack2",
+				"Filter": "",
 				"Chat_Uses": true,
 				"Mode": 2,
 				"MaxUses": 0,
@@ -152,14 +149,12 @@
 			}
 		]
 	},
-    {
+	{
 		"Name": "水1/Water 1",
 		"ShortName": "水1",
 		"Color": "{default}",
 		"HammerID": 1245,
 		"GlowColor": [255,255,255,255],
-		"FilterID": 0,
-		"FilterValue": "",
 		"BlockPickup": false,
 		"AllowTransfer": false,
 		"ForceDrop": false,
@@ -172,6 +167,7 @@
 				"Name": "water_button",
 				"ButtonID": 1239,
 				"ButtonClass": "func_physbox",
+				"Filter": "",
 				"Chat_Uses": true,
 				"Mode": 2,
 				"MaxUses": 0,
@@ -181,6 +177,7 @@
 				"Name": "大师水1",
 				"ButtonID": 0,
 				"ButtonClass": "game_ui::PressedAttack2",
+				"Filter": "",
 				"Chat_Uses": true,
 				"Mode": 2,
 				"MaxUses": 0,
@@ -188,14 +185,12 @@
 			}
 		]
 	},
-    {
+	{
 		"Name": "水2/Water 2",
 		"ShortName": "水2",
 		"Color": "{default}",
 		"HammerID": 1264,
 		"GlowColor": [255,255,255,255],
-		"FilterID": 0,
-		"FilterValue": "",
 		"BlockPickup": false,
 		"AllowTransfer": false,
 		"ForceDrop": false,
@@ -208,6 +203,7 @@
 				"Name": "water_button2",
 				"ButtonID": 1258,
 				"ButtonClass": "func_physbox",
+				"Filter": "",
 				"Chat_Uses": true,
 				"Mode": 2,
 				"MaxUses": 0,
@@ -217,6 +213,7 @@
 				"Name": "大师水2",
 				"ButtonID": 0,
 				"ButtonClass": "game_ui::PressedAttack2",
+				"Filter": "",
 				"Chat_Uses": true,
 				"Mode": 2,
 				"MaxUses": 0,
@@ -224,14 +221,12 @@
 			}
 		]
 	},
-    {
+	{
 		"Name": "奶1/Heal 1",
 		"ShortName": "奶1",
 		"Color": "{default}",
 		"HammerID": 1801,
 		"GlowColor": [255,255,255,255],
-		"FilterID": 0,
-		"FilterValue": "",
 		"BlockPickup": false,
 		"AllowTransfer": false,
 		"ForceDrop": false,
@@ -244,6 +239,7 @@
 				"Name": "heal_button",
 				"ButtonID": 1799,
 				"ButtonClass": "func_physbox",
+				"Filter": "",
 				"Chat_Uses": true,
 				"Mode": 2,
 				"MaxUses": 0,
@@ -253,6 +249,7 @@
 				"Name": "大师奶1",
 				"ButtonID": 0,
 				"ButtonClass": "game_ui::PressedAttack2",
+				"Filter": "",
 				"Chat_Uses": true,
 				"Mode": 2,
 				"MaxUses": 0,
@@ -260,14 +257,12 @@
 			}
 		]
 	},
-    {
+	{
 		"Name": "奶2/Heal 2",
 		"ShortName": "奶2",
 		"Color": "{default}",
 		"HammerID": 1594,
 		"GlowColor": [255,255,255,255],
-		"FilterID": 0,
-		"FilterValue": "",
 		"BlockPickup": false,
 		"AllowTransfer": false,
 		"ForceDrop": false,
@@ -280,6 +275,7 @@
 				"Name": "heal_button2",
 				"ButtonID": 1590,
 				"ButtonClass": "func_physbox",
+				"Filter": "",
 				"Chat_Uses": true,
 				"Mode": 2,
 				"MaxUses": 0,
@@ -289,6 +285,7 @@
 				"Name": "大师奶2",
 				"ButtonID": 0,
 				"ButtonClass": "game_ui::PressedAttack2",
+				"Filter": "",
 				"Chat_Uses": true,
 				"Mode": 2,
 				"MaxUses": 0,
@@ -296,14 +293,12 @@
 			}
 		]
 	},
-    {
+	{
 		"Name": "土1/Earth 1",
 		"ShortName": "土1",
 		"Color": "{default}",
 		"HammerID": 1816,
 		"GlowColor": [255,255,255,255],
-		"FilterID": 0,
-		"FilterValue": "",
 		"BlockPickup": false,
 		"AllowTransfer": false,
 		"ForceDrop": false,
@@ -316,6 +311,7 @@
 				"Name": "earth_button",
 				"ButtonID": 1817,
 				"ButtonClass": "func_physbox",
+				"Filter": "",
 				"Chat_Uses": true,
 				"Mode": 2,
 				"MaxUses": 0,
@@ -325,6 +321,7 @@
 				"Name": "大师土1",
 				"ButtonID": 0,
 				"ButtonClass": "game_ui::PressedAttack2",
+				"Filter": "",
 				"Chat_Uses": true,
 				"Mode": 2,
 				"MaxUses": 0,
@@ -332,14 +329,12 @@
 			}
 		]
 	},
-    {
+	{
 		"Name": "土2/Earth 2",
 		"ShortName": "土2",
 		"Color": "{default}",
 		"HammerID": 1603,
 		"GlowColor": [255,255,255,255],
-		"FilterID": 0,
-		"FilterValue": "",
 		"BlockPickup": false,
 		"AllowTransfer": false,
 		"ForceDrop": false,
@@ -352,6 +347,7 @@
 				"Name": "earth_button2",
 				"ButtonID": 1606,
 				"ButtonClass": "func_physbox",
+				"Filter": "",
 				"Chat_Uses": true,
 				"Mode": 2,
 				"MaxUses": 0,
@@ -361,6 +357,7 @@
 				"Name": "大师土2",
 				"ButtonID": 0,
 				"ButtonClass": "game_ui::PressedAttack2",
+				"Filter": "",
 				"Chat_Uses": true,
 				"Mode": 2,
 				"MaxUses": 0,

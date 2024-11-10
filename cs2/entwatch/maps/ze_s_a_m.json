@@ -5,8 +5,6 @@
 		"Color": "{default}",
 		"HammerID": 7218,
 		"GlowColor": [255,255,255,255],
-		"FilterID": 0,
-		"FilterValue": "",
 		"BlockPickup": false,
 		"AllowTransfer": true,
 		"ForceDrop": true,
@@ -19,6 +17,7 @@
 				"Name": "",
 				"ButtonID": 0,
 				"ButtonClass": "func_button",
+				"Filter": "",
 				"Chat_Uses": true,
 				"Mode": 2,
 				"MaxUses": 0,
@@ -32,8 +31,6 @@
 		"Color": "{default}",
 		"HammerID": 7232,
 		"GlowColor": [255,255,255,255],
-		"FilterID": 0,
-		"FilterValue": "",
 		"BlockPickup": false,
 		"AllowTransfer": true,
 		"ForceDrop": true,
@@ -46,6 +43,7 @@
 				"Name": "",
 				"ButtonID": 0,
 				"ButtonClass": "func_button",
+				"Filter": "",
 				"Chat_Uses": true,
 				"Mode": 2,
 				"MaxUses": 0,
@@ -58,8 +56,6 @@
 		"Color": "{default}",
 		"HammerID": 7271,
 		"GlowColor": [255,255,255,255],
-		"FilterID": 0,
-		"FilterValue": "",
 		"BlockPickup": false,
 		"AllowTransfer": true,
 		"ForceDrop": true,
@@ -72,6 +68,7 @@
 				"Name": "",
 				"ButtonID": 0,
 				"ButtonClass": "func_button",
+				"Filter": "",
 				"Chat_Uses": true,
 				"Mode": 2,
 				"MaxUses": 0,
@@ -85,8 +82,6 @@
 		"Color": "{default}",
 		"HammerID": 7281,
 		"GlowColor": [255,255,255,255],
-		"FilterID": 0,
-		"FilterValue": "",
 		"BlockPickup": false,
 		"AllowTransfer": true,
 		"ForceDrop": true,
@@ -99,6 +94,7 @@
 				"Name": "",
 				"ButtonID": 0,
 				"ButtonClass": "func_button",
+				"Filter": "",
 				"Chat_Uses": true,
 				"Mode": 2,
 				"MaxUses": 0,
@@ -106,14 +102,12 @@
 			}
 		]
 	},
-    {
+	{
 		"Name": "黑洞/Gravity Magic",
 		"ShortName": "黑洞",
 		"Color": "{default}",
 		"HammerID": 7307,
 		"GlowColor": [255,255,255,255],
-		"FilterID": 0,
-		"FilterValue": "",
 		"BlockPickup": false,
 		"AllowTransfer": true,
 		"ForceDrop": true,
@@ -126,6 +120,7 @@
 				"Name": "",
 				"ButtonID": 0,
 				"ButtonClass": "func_button",
+				"Filter": "",
 				"Chat_Uses": true,
 				"Mode": 2,
 				"MaxUses": 0,
@@ -133,14 +128,12 @@
 			}
 		]
 	},
-    {
+	{
 		"Name": "风/Tornado Magic",
 		"ShortName": "风",
 		"Color": "{default}",
 		"HammerID": 7337,
 		"GlowColor": [255,255,255,255],
-		"FilterID": 0,
-		"FilterValue": "",
 		"BlockPickup": false,
 		"AllowTransfer": true,
 		"ForceDrop": true,
@@ -153,6 +146,7 @@
 				"Name": "",
 				"ButtonID": 0,
 				"ButtonClass": "func_button",
+				"Filter": "",
 				"Chat_Uses": true,
 				"Mode": 2,
 				"MaxUses": 0,
@@ -160,14 +154,12 @@
 			}
 		]
 	},
-    {
+	{
 		"Name": "终极/Ultima Magic",
 		"ShortName": "终极",
 		"Color": "{default}",
 		"HammerID": 7368,
 		"GlowColor": [255,255,255,255],
-		"FilterID": 0,
-		"FilterValue": "",
 		"BlockPickup": false,
 		"AllowTransfer": true,
 		"ForceDrop": true,
@@ -180,6 +172,7 @@
 				"Name": "",
 				"ButtonID": 0,
 				"ButtonClass": "func_button",
+				"Filter": "",
 				"Chat_Uses": true,
 				"Mode": 3,
 				"MaxUses": 1,
@@ -187,14 +180,12 @@
 			}
 		]
 	},
-    {
+	{
 		"Name": "复制/Trace Magic",
 		"ShortName": "复制",
 		"Color": "{default}",
 		"HammerID": 7406,
 		"GlowColor": [255,255,255,255],
-		"FilterID": 0,
-		"FilterValue": "",
 		"BlockPickup": false,
 		"AllowTransfer": true,
 		"ForceDrop": true,
@@ -207,6 +198,7 @@
 				"Name": "",
 				"ButtonID": 0,
 				"ButtonClass": "func_button",
+				"Filter": "",
 				"Chat_Uses": true,
 				"Mode": 2,
 				"MaxUses": 0,
@@ -220,8 +212,6 @@
 		"Color": "{default}",
 		"HammerID": 10860,
 		"GlowColor": [255,255,255,255],
-		"FilterID": 0,
-		"FilterValue": "",
 		"BlockPickup": false,
 		"AllowTransfer": true,
 		"ForceDrop": true,
@@ -234,6 +224,7 @@
 				"Name": "",
 				"ButtonID": 0,
 				"ButtonClass": "",
+				"Filter": "",
 				"Chat_Uses": false,
 				"Mode": 0,
 				"MaxUses": 0,
@@ -247,8 +238,6 @@
 		"Color": "{default}",
 		"HammerID": 11545,
 		"GlowColor": [255,255,255,255],
-		"FilterID": 0,
-		"FilterValue": "",
 		"BlockPickup": false,
 		"AllowTransfer": false,
 		"ForceDrop": false,
@@ -261,6 +250,7 @@
 				"Name": "",
 				"ButtonID": 7575,
 				"ButtonClass": "func_button",
+				"Filter": "",
 				"Chat_Uses": true,
 				"Mode": 4,
 				"MaxUses": 3,
@@ -268,14 +258,12 @@
 			}
 		]
 	},
-    {
+	{
 		"Name": "Asuna",
 		"ShortName": "Asuna",
 		"Color": "{default}",
 		"HammerID": 11546,
 		"GlowColor": [255,255,255,255],
-		"FilterID": 0,
-		"FilterValue": "",
 		"BlockPickup": false,
 		"AllowTransfer": false,
 		"ForceDrop": false,
@@ -288,6 +276,7 @@
 				"Name": "",
 				"ButtonID": 11115,
 				"ButtonClass": "func_button",
+				"Filter": "",
 				"Chat_Uses": true,
 				"Mode": 4,
 				"MaxUses": 2,
@@ -295,14 +284,12 @@
 			}
 		]
 	},
-    {
+	{
 		"Name": "水晶1/S1_Crystal",
 		"ShortName": "水晶1",
 		"Color": "{default}",
 		"HammerID": 6723,
 		"GlowColor": [255,255,255,255],
-		"FilterID": 0,
-		"FilterValue": "",
 		"BlockPickup": false,
 		"AllowTransfer": true,
 		"ForceDrop": true,
@@ -315,6 +302,7 @@
 				"Name": "",
 				"ButtonID": 0,
 				"ButtonClass": "",
+				"Filter": "",
 				"Chat_Uses": false,
 				"Mode": 0,
 				"MaxUses": 0,
@@ -322,14 +310,12 @@
 			}
 		]
 	},
-    {
+	{
 		"Name": "水晶5/S5_Crystal",
 		"ShortName": "水晶5",
 		"Color": "{default}",
 		"HammerID": 10679,
 		"GlowColor": [255,255,255,255],
-		"FilterID": 0,
-		"FilterValue": "",
 		"BlockPickup": false,
 		"AllowTransfer": true,
 		"ForceDrop": true,
@@ -342,6 +328,7 @@
 				"Name": "",
 				"ButtonID": 0,
 				"ButtonClass": "",
+				"Filter": "",
 				"Chat_Uses": false,
 				"Mode": 0,
 				"MaxUses": 0,
@@ -349,14 +336,12 @@
 			}
 		]
 	},
-    {
+	{
 		"Name": "Alice",
 		"ShortName": "Alice",
 		"Color": "{default}",
 		"HammerID": 11645,
 		"GlowColor": [255,255,255,255],
-		"FilterID": 0,
-		"FilterValue": "",
 		"BlockPickup": false,
 		"AllowTransfer": false,
 		"ForceDrop": false,
@@ -369,6 +354,7 @@
 				"Name": "",
 				"ButtonID": 0,
 				"ButtonClass": "",
+				"Filter": "",
 				"Chat_Uses": false,
 				"Mode": 1,
 				"MaxUses": 0,
@@ -376,14 +362,12 @@
 			}
 		]
 	},
-    {
+	{
 		"Name": "ZM 冰/ZM Ice",
 		"ShortName": "ZM 冰",
 		"Color": "{default}",
 		"HammerID": 11537,
 		"GlowColor": [255,255,255,255],
-		"FilterID": 0,
-		"FilterValue": "",
 		"BlockPickup": false,
 		"AllowTransfer": true,
 		"ForceDrop": false,
@@ -396,6 +380,7 @@
 				"Name": "",
 				"ButtonID": 7428,
 				"ButtonClass": "func_button",
+				"Filter": "",
 				"Chat_Uses": true,
 				"Mode": 2,
 				"MaxUses": 0,
@@ -405,6 +390,7 @@
 				"Name": "",
 				"ButtonID": 7438,
 				"ButtonClass": "func_button",
+				"Filter": "",
 				"Chat_Uses": true,
 				"Mode": 2,
 				"MaxUses": 0,
@@ -412,14 +398,12 @@
 			}
 		]
 	},
-    {
+	{
 		"Name": "ZM 黑洞/ZM Gravity",
 		"ShortName": "ZM 黑洞",
 		"Color": "{default}",
 		"HammerID": 11542,
 		"GlowColor": [255,255,255,255],
-		"FilterID": 0,
-		"FilterValue": "",
 		"BlockPickup": false,
 		"AllowTransfer": true,
 		"ForceDrop": false,
@@ -432,6 +416,7 @@
 				"Name": "",
 				"ButtonID": 7460,
 				"ButtonClass": "func_button",
+				"Filter": "",
 				"Chat_Uses": true,
 				"Mode": 2,
 				"MaxUses": 0,
@@ -441,6 +426,7 @@
 				"Name": "",
 				"ButtonID": 7469,
 				"ButtonClass": "func_button",
+				"Filter": "",
 				"Chat_Uses": true,
 				"Mode": 2,
 				"MaxUses": 0,
@@ -448,14 +434,12 @@
 			}
 		]
 	},
-    {
+	{
 		"Name": "ZM 隐身/ZM Stealth",
 		"ShortName": "ZM 隐身",
 		"Color": "{default}",
 		"HammerID": 11543,
 		"GlowColor": [255,255,255,255],
-		"FilterID": 0,
-		"FilterValue": "",
 		"BlockPickup": false,
 		"AllowTransfer": true,
 		"ForceDrop": false,
@@ -468,6 +452,7 @@
 				"Name": "",
 				"ButtonID": 7498,
 				"ButtonClass": "func_button",
+				"Filter": "",
 				"Chat_Uses": true,
 				"Mode": 2,
 				"MaxUses": 0,
@@ -477,6 +462,7 @@
 				"Name": "",
 				"ButtonID": 7508,
 				"ButtonClass": "func_button",
+				"Filter": "",
 				"Chat_Uses": true,
 				"Mode": 2,
 				"MaxUses": 0,
@@ -484,14 +470,12 @@
 			}
 		]
 	},
-    {
+	{
 		"Name": "ZM 护盾/ZM Shield",
 		"ShortName": "ZM 护盾",
 		"Color": "{default}",
 		"HammerID": 11544,
 		"GlowColor": [255,255,255,255],
-		"FilterID": 0,
-		"FilterValue": "",
 		"BlockPickup": false,
 		"AllowTransfer": true,
 		"ForceDrop": false,
@@ -504,6 +488,7 @@
 				"Name": "",
 				"ButtonID": 7527,
 				"ButtonClass": "func_button",
+				"Filter": "",
 				"Chat_Uses": true,
 				"Mode": 2,
 				"MaxUses": 0,
@@ -513,6 +498,7 @@
 				"Name": "",
 				"ButtonID": 7536,
 				"ButtonClass": "func_button",
+				"Filter": "",
 				"Chat_Uses": true,
 				"Mode": 2,
 				"MaxUses": 0,

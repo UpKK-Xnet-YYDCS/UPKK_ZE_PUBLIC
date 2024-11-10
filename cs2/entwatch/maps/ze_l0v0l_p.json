@@ -5,8 +5,6 @@
 		"Color": "{default}",
 		"HammerID": 532,
 		"GlowColor": [255,255,255,255],
-		"FilterID": 0,
-		"FilterValue": "",
 		"BlockPickup": false,
 		"AllowTransfer": true,
 		"ForceDrop": true,
@@ -19,6 +17,7 @@
 				"Name": "heal_button",
 				"ButtonID": 530,
 				"ButtonClass": "func_button",
+				"Filter": "",
 				"Chat_Uses": true,
 				"Mode": 2,
 				"MaxUses": 0,
@@ -30,14 +29,12 @@
 			}
 		]
 	},
-    {
+	{
 		"Name": "弹药/Ammo",
 		"ShortName": "弹药",
 		"Color": "{default}",
 		"HammerID": 535,
 		"GlowColor": [255,255,255,255],
-		"FilterID": 0,
-		"FilterValue": "",
 		"BlockPickup": false,
 		"AllowTransfer": true,
 		"ForceDrop": true,
@@ -50,6 +47,7 @@
 				"Name": "ammo_button",
 				"ButtonID": 536,
 				"ButtonClass": "func_button",
+				"Filter": "",
 				"Chat_Uses": true,
 				"Mode": 2,
 				"MaxUses": 0,
@@ -61,14 +59,12 @@
 			}
 		]
 	},
-    {
+	{
 		"Name": "激光/Beam",
 		"ShortName": "激光",
 		"Color": "{default}",
 		"HammerID": 652,
 		"GlowColor": [255,255,255,255],
-		"FilterID": 0,
-		"FilterValue": "",
 		"BlockPickup": false,
 		"AllowTransfer": true,
 		"ForceDrop": true,
@@ -81,6 +77,7 @@
 				"Name": "beam_button",
 				"ButtonID": 648,
 				"ButtonClass": "func_button",
+				"Filter": "",
 				"Chat_Uses": true,
 				"Mode": 2,
 				"MaxUses": 0,
@@ -92,14 +89,12 @@
 			}
 		]
 	},
-    {
+	{
 		"Name": "风/Wind",
 		"ShortName": "风",
 		"Color": "{default}",
 		"HammerID": 656,
 		"GlowColor": [255,255,255,255],
-		"FilterID": 0,
-		"FilterValue": "",
 		"BlockPickup": false,
 		"AllowTransfer": true,
 		"ForceDrop": true,
@@ -112,6 +107,7 @@
 				"Name": "wind_button",
 				"ButtonID": 657,
 				"ButtonClass": "func_button",
+				"Filter": "",
 				"Chat_Uses": true,
 				"Mode": 2,
 				"MaxUses": 0,
@@ -123,14 +119,12 @@
 			}
 		]
 	},
-    {
+	{
 		"Name": "l0v0l",
 		"ShortName": "l0v0l",
 		"Color": "{default}",
 		"HammerID": 795,
 		"GlowColor": [255,255,255,255],
-		"FilterID": 0,
-		"FilterValue": "",
 		"BlockPickup": false,
 		"AllowTransfer": true,
 		"ForceDrop": true,
@@ -143,6 +137,7 @@
 				"Name": "",
 				"ButtonID": 0,
 				"ButtonClass": "",
+				"Filter": "",
 				"Chat_Uses": false,
 				"Mode": 0,
 				"MaxUses": 0,
@@ -154,14 +149,12 @@
 			}
 		]
 	},
-    {
+	{
 		"Name": "减速带/Slower Sphere",
 		"ShortName": "减速带",
 		"Color": "{default}",
 		"HammerID": 853,
 		"GlowColor": [255,255,255,255],
-		"FilterID": 0,
-		"FilterValue": "",
 		"BlockPickup": false,
 		"AllowTransfer": true,
 		"ForceDrop": true,
@@ -174,6 +167,7 @@
 				"Name": "poison_button",
 				"ButtonID": 851,
 				"ButtonClass": "func_button",
+				"Filter": "",
 				"Chat_Uses": true,
 				"Mode": 2,
 				"MaxUses": 0,
@@ -185,14 +179,12 @@
 			}
 		]
 	},
-    {
+	{
 		"Name": "火马桶/Fire Toilet",
 		"ShortName": "火马桶",
 		"Color": "{default}",
 		"HammerID": 931,
 		"GlowColor": [255,255,255,255],
-		"FilterID": 0,
-		"FilterValue": "",
 		"BlockPickup": false,
 		"AllowTransfer": true,
 		"ForceDrop": true,
@@ -205,6 +197,7 @@
 				"Name": "firet_button",
 				"ButtonID": 926,
 				"ButtonClass": "func_button",
+				"Filter": "",
 				"Chat_Uses": true,
 				"Mode": 2,
 				"MaxUses": 0,
@@ -216,14 +209,12 @@
 			}
 		]
 	},
-    {
+	{
 		"Name": "冰马桶/Ice Toilet",
 		"ShortName": "冰马桶",
 		"Color": "{default}",
 		"HammerID": 936,
 		"GlowColor": [255,255,255,255],
-		"FilterID": 0,
-		"FilterValue": "",
 		"BlockPickup": false,
 		"AllowTransfer": true,
 		"ForceDrop": true,
@@ -236,6 +227,7 @@
 				"Name": "icet_button",
 				"ButtonID": 933,
 				"ButtonClass": "func_button",
+				"Filter": "",
 				"Chat_Uses": true,
 				"Mode": 2,
 				"MaxUses": 0,
@@ -247,14 +239,12 @@
 			}
 		]
 	},
-    {
+	{
 		"Name": "电马桶/Electric Toilet",
 		"ShortName": "电马桶",
 		"Color": "{default}",
 		"HammerID": 941,
 		"GlowColor": [255,255,255,255],
-		"FilterID": 0,
-		"FilterValue": "",
 		"BlockPickup": false,
 		"AllowTransfer": true,
 		"ForceDrop": true,
@@ -267,6 +257,7 @@
 				"Name": "elect_button",
 				"ButtonID": 943,
 				"ButtonClass": "func_button",
+				"Filter": "",
 				"Chat_Uses": true,
 				"Mode": 2,
 				"MaxUses": 0,
@@ -278,14 +269,12 @@
 			}
 		]
 	},
-    {
+	{
 		"Name": "毒马桶/Poison Toilet",
 		"ShortName": "毒马桶",
 		"Color": "{default}",
 		"HammerID": 950,
 		"GlowColor": [255,255,255,255],
-		"FilterID": 0,
-		"FilterValue": "",
 		"BlockPickup": false,
 		"AllowTransfer": true,
 		"ForceDrop": true,
@@ -298,6 +287,7 @@
 				"Name": "poisont_button",
 				"ButtonID": 947,
 				"ButtonClass": "func_button",
+				"Filter": "",
 				"Chat_Uses": true,
 				"Mode": 2,
 				"MaxUses": 0,
@@ -309,14 +299,12 @@
 			}
 		]
 	},
-    {
+	{
 		"Name": "黑洞马桶/Gravity Toile",
 		"ShortName": "黑洞马桶",
 		"Color": "{default}",
 		"HammerID": 955,
 		"GlowColor": [255,255,255,255],
-		"FilterID": 0,
-		"FilterValue": "",
 		"BlockPickup": false,
 		"AllowTransfer": true,
 		"ForceDrop": true,
@@ -329,6 +317,7 @@
 				"Name": "gravityt_button",
 				"ButtonID": 952,
 				"ButtonClass": "func_button",
+				"Filter": "",
 				"Chat_Uses": true,
 				"Mode": 2,
 				"MaxUses": 0,
@@ -340,14 +329,12 @@
 			}
 		]
 	},
-    {
+	{
 		"Name": "土马桶/Earth Toilet",
 		"ShortName": "土马桶",
 		"Color": "{default}",
 		"HammerID": 961,
 		"GlowColor": [255,255,255,255],
-		"FilterID": 0,
-		"FilterValue": "",
 		"BlockPickup": false,
 		"AllowTransfer": true,
 		"ForceDrop": true,
@@ -360,6 +347,7 @@
 				"Name": "eartht_button",
 				"ButtonID": 959,
 				"ButtonClass": "func_button",
+				"Filter": "",
 				"Chat_Uses": true,
 				"Mode": 2,
 				"MaxUses": 0,
@@ -371,14 +359,12 @@
 			}
 		]
 	},
-    {
+	{
 		"Name": "水马桶/Water Toilet",
 		"ShortName": "水马桶",
 		"Color": "{default}",
 		"HammerID": 966,
 		"GlowColor": [255,255,255,255],
-		"FilterID": 0,
-		"FilterValue": "",
 		"BlockPickup": false,
 		"AllowTransfer": true,
 		"ForceDrop": true,
@@ -391,6 +377,7 @@
 				"Name": "watert_button",
 				"ButtonID": 963,
 				"ButtonClass": "func_button",
+				"Filter": "",
 				"Chat_Uses": true,
 				"Mode": 2,
 				"MaxUses": 0,
@@ -402,14 +389,12 @@
 			}
 		]
 	},
-    {
+	{
 		"Name": "风马桶/Wind Toilet",
 		"ShortName": "风马桶",
 		"Color": "{default}",
 		"HammerID": 975,
 		"GlowColor": [255,255,255,255],
-		"FilterID": 0,
-		"FilterValue": "",
 		"BlockPickup": false,
 		"AllowTransfer": true,
 		"ForceDrop": true,
@@ -422,6 +407,7 @@
 				"Name": "pusht_button",
 				"ButtonID": 972,
 				"ButtonClass": "func_button",
+				"Filter": "",
 				"Chat_Uses": true,
 				"Mode": 2,
 				"MaxUses": 0,
@@ -433,14 +419,12 @@
 			}
 		]
 	},
-    {
+	{
 		"Name": "ZM 黑洞/Zombie Gravity",
 		"ShortName": "ZM 黑洞",
 		"Color": "{default}",
 		"HammerID": 548,
 		"GlowColor": [255,255,255,255],
-		"FilterID": 0,
-		"FilterValue": "",
 		"BlockPickup": false,
 		"AllowTransfer": false,
 		"ForceDrop": false,
@@ -453,6 +437,7 @@
 				"Name": "",
 				"ButtonID": 0,
 				"ButtonClass": "",
+				"Filter": "",
 				"Chat_Uses": false,
 				"Mode": 1,
 				"MaxUses": 0,
@@ -464,14 +449,12 @@
 			}
 		]
 	},
-    {
+	{
 		"Name": "ZM 治疗/Zombie Heal",
 		"ShortName": "ZM 治疗",
 		"Color": "{default}",
 		"HammerID": 569,
 		"GlowColor": [255,255,255,255],
-		"FilterID": 0,
-		"FilterValue": "",
 		"BlockPickup": false,
 		"AllowTransfer": false,
 		"ForceDrop": false,
@@ -484,6 +467,7 @@
 				"Name": "",
 				"ButtonID": 0,
 				"ButtonClass": "",
+				"Filter": "",
 				"Chat_Uses": false,
 				"Mode": 1,
 				"MaxUses": 0,

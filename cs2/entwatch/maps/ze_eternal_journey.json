@@ -5,8 +5,6 @@
 		"Color": "{default}",
 		"HammerID": 2246,
 		"GlowColor": [255,255,255,255],
-		"FilterID": 0,
-		"FilterValue": "",
 		"BlockPickup": false,
 		"AllowTransfer": true,
 		"ForceDrop": true,
@@ -19,6 +17,7 @@
 				"Name": "",
 				"ButtonID": 0,
 				"ButtonClass": "func_button",
+				"Filter": "",
 				"Chat_Uses": true,
 				"Mode": 2,
 				"MaxUses": 0,
@@ -26,14 +25,12 @@
 			}
 		]
 	},
-    {
+	{
 		"Name": "冰/Freeze",
 		"ShortName": "冰",
 		"Color": "{default}",
 		"HammerID": 3588,
 		"GlowColor": [255,255,255,255],
-		"FilterID": 0,
-		"FilterValue": "",
 		"BlockPickup": false,
 		"AllowTransfer": true,
 		"ForceDrop": true,
@@ -46,6 +43,7 @@
 				"Name": "",
 				"ButtonID": 0,
 				"ButtonClass": "func_button",
+				"Filter": "",
 				"Chat_Uses": true,
 				"Mode": 2,
 				"MaxUses": 0,
@@ -53,14 +51,12 @@
 			}
 		]
 	},
-    {
+	{
 		"Name": "奶/Heal",
 		"ShortName": "奶",
 		"Color": "{default}",
 		"HammerID": 3591,
 		"GlowColor": [255,255,255,255],
-		"FilterID": 0,
-		"FilterValue": "",
 		"BlockPickup": false,
 		"AllowTransfer": true,
 		"ForceDrop": true,
@@ -73,6 +69,7 @@
 				"Name": "",
 				"ButtonID": 0,
 				"ButtonClass": "func_button",
+				"Filter": "",
 				"Chat_Uses": true,
 				"Mode": 2,
 				"MaxUses": 0,
@@ -80,14 +77,12 @@
 			}
 		]
 	},
-    {
+	{
 		"Name": "风/Tornado",
 		"ShortName": "风",
 		"Color": "{default}",
 		"HammerID": 3608,
 		"GlowColor": [255,255,255,255],
-		"FilterID": 0,
-		"FilterValue": "",
 		"BlockPickup": false,
 		"AllowTransfer": true,
 		"ForceDrop": true,
@@ -100,6 +95,7 @@
 				"Name": "",
 				"ButtonID": 0,
 				"ButtonClass": "func_button",
+				"Filter": "",
 				"Chat_Uses": true,
 				"Mode": 2,
 				"MaxUses": 0,
@@ -107,14 +103,12 @@
 			}
 		]
 	},
-    {
+	{
 		"Name": "土/Earth",
 		"ShortName": "土",
 		"Color": "{default}",
 		"HammerID": 3617,
 		"GlowColor": [255,255,255,255],
-		"FilterID": 0,
-		"FilterValue": "",
 		"BlockPickup": false,
 		"AllowTransfer": true,
 		"ForceDrop": true,
@@ -127,6 +121,7 @@
 				"Name": "",
 				"ButtonID": 0,
 				"ButtonClass": "func_button",
+				"Filter": "",
 				"Chat_Uses": true,
 				"Mode": 2,
 				"MaxUses": 0,
@@ -134,14 +129,12 @@
 			}
 		]
 	},
-    {
+	{
 		"Name": "终极/Ultimate",
 		"ShortName": "终极",
 		"Color": "{default}",
 		"HammerID": 3984,
 		"GlowColor": [255,255,255,255],
-		"FilterID": 0,
-		"FilterValue": "",
 		"BlockPickup": false,
 		"AllowTransfer": true,
 		"ForceDrop": true,
@@ -154,6 +147,7 @@
 				"Name": "",
 				"ButtonID": 0,
 				"ButtonClass": "func_button",
+				"Filter": "",
 				"Chat_Uses": true,
 				"Mode": 3,
 				"MaxUses": 1,
@@ -161,14 +155,12 @@
 			}
 		]
 	},
-    {
+	{
 		"Name": "ZM 火/ZM Fire",
 		"ShortName": "ZM 火",
 		"Color": "{default}",
 		"HammerID": 3641,
 		"GlowColor": [255,255,255,255],
-		"FilterID": 0,
-		"FilterValue": "",
 		"BlockPickup": false,
 		"AllowTransfer": false,
 		"ForceDrop": true,
@@ -181,6 +173,7 @@
 				"Name": "",
 				"ButtonID": 0,
 				"ButtonClass": "func_button",
+				"Filter": "",
 				"Chat_Uses": true,
 				"Mode": 2,
 				"MaxUses": 0,
@@ -188,14 +181,12 @@
 			}
 		]
 	},
-    {
+	{
 		"Name": "ZM 黑洞/ZM Gravity",
 		"ShortName": "ZM 黑洞",
 		"Color": "{default}",
 		"HammerID": 3660,
 		"GlowColor": [255,255,255,255],
-		"FilterID": 0,
-		"FilterValue": "",
 		"BlockPickup": false,
 		"AllowTransfer": false,
 		"ForceDrop": true,
@@ -208,6 +199,7 @@
 				"Name": "",
 				"ButtonID": 0,
 				"ButtonClass": "func_button",
+				"Filter": "",
 				"Chat_Uses": true,
 				"Mode": 2,
 				"MaxUses": 0,
@@ -215,14 +207,12 @@
 			}
 		]
 	},
-    {
+	{
 		"Name": "ZM 冰/ZM Freeze",
 		"ShortName": "ZM 冰",
 		"Color": "{default}",
 		"HammerID": 3689,
 		"GlowColor": [255,255,255,255],
-		"FilterID": 0,
-		"FilterValue": "",
 		"BlockPickup": false,
 		"AllowTransfer": false,
 		"ForceDrop": false,
@@ -235,6 +225,7 @@
 				"Name": "",
 				"ButtonID": 0,
 				"ButtonClass": "func_button",
+				"Filter": "",
 				"Chat_Uses": true,
 				"Mode": 2,
 				"MaxUses": 0,
@@ -242,14 +233,12 @@
 			}
 		]
 	},
-    {
+	{
 		"Name": "格拉斯贝恩/ZM Skin 1",
 		"ShortName": "格拉斯贝恩",
 		"Color": "{default}",
 		"HammerID": 3693,
 		"GlowColor": [255,255,255,255],
-		"FilterID": 0,
-		"FilterValue": "",
 		"BlockPickup": false,
 		"AllowTransfer": false,
 		"ForceDrop": false,
@@ -262,6 +251,7 @@
 				"Name": "zmskin1_button",
 				"ButtonID": 5396,
 				"ButtonClass": "func_physbox",
+				"Filter": "",
 				"Chat_Uses": true,
 				"Mode": 2,
 				"MaxUses": 0,
@@ -269,14 +259,12 @@
 			}
 		]
 	},
-    {
+	{
 		"Name": "科若姆.科尔瓦哈/ZM Skin 2",
 		"ShortName": "科若姆.科尔瓦哈",
 		"Color": "{default}",
 		"HammerID": 3723,
 		"GlowColor": [255,255,255,255],
-		"FilterID": 0,
-		"FilterValue": "",
 		"BlockPickup": false,
 		"AllowTransfer": false,
 		"ForceDrop": false,
@@ -289,6 +277,7 @@
 				"Name": "zmskin2_button",
 				"ButtonID": 5412,
 				"ButtonClass": "func_button",
+				"Filter": "",
 				"Chat_Uses": true,
 				"Mode": 2,
 				"MaxUses": 0,

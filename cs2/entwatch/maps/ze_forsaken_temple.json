@@ -5,8 +5,6 @@
 		"Color": "{default}",
 		"HammerID": 1627,
 		"GlowColor": [255,255,255,255],
-		"FilterID": 0,
-		"FilterValue": "",
 		"BlockPickup": false,
 		"AllowTransfer": true,
 		"ForceDrop": true,
@@ -19,6 +17,7 @@
 				"Name": "item_ammo_button",
 				"ButtonID": 1623,
 				"ButtonClass": "func_button",
+				"Filter": "",
 				"Chat_Uses": true,
 				"Mode": 2,
 				"MaxUses": 0,
@@ -26,14 +25,12 @@
 			}
 		]
 	},
-    {
+	{
 		"Name": "终极/Holy",
 		"ShortName": "终极",
 		"Color": "{default}",
 		"HammerID": 1669,
 		"GlowColor": [255,255,255,255],
-		"FilterID": 0,
-		"FilterValue": "",
 		"BlockPickup": false,
 		"AllowTransfer": true,
 		"ForceDrop": true,
@@ -46,6 +43,7 @@
 				"Name": "item_holy_button",
 				"ButtonID": 1665,
 				"ButtonClass": "func_button",
+				"Filter": "",
 				"Chat_Uses": true,
 				"Mode": 4,
 				"MaxUses": 1,
@@ -53,14 +51,12 @@
 			}
 		]
 	},
-    {
+	{
 		"Name": "火炎/Flame",
 		"ShortName": "火炎",
 		"Color": "{default}",
 		"HammerID": 3029,
 		"GlowColor": [255,255,255,255],
-		"FilterID": 0,
-		"FilterValue": "",
 		"BlockPickup": false,
 		"AllowTransfer": true,
 		"ForceDrop": true,
@@ -73,6 +69,7 @@
 				"Name": "",
 				"ButtonID": 0,
 				"ButtonClass": "",
+				"Filter": "",
 				"Chat_Uses": false,
 				"Mode": 0,
 				"MaxUses": 0,
@@ -80,14 +77,12 @@
 			}
 		]
 	},
-    {
+	{
 		"Name": "智慧水果/Fruit",
 		"ShortName": "智慧水果",
 		"Color": "{default}",
 		"HammerID": 3035,
 		"GlowColor": [255,255,255,255],
-		"FilterID": 0,
-		"FilterValue": "",
 		"BlockPickup": false,
 		"AllowTransfer": true,
 		"ForceDrop": true,
@@ -100,6 +95,7 @@
 				"Name": "",
 				"ButtonID": 0,
 				"ButtonClass": "",
+				"Filter": "",
 				"Chat_Uses": false,
 				"Mode": 0,
 				"MaxUses": 0,
@@ -107,14 +103,12 @@
 			}
 		]
 	},
-    {
+	{
 		"Name": "黑洞/Gravity",
 		"ShortName": "黑洞",
 		"Color": "{default}",
 		"HammerID": 3270,
 		"GlowColor": [255,255,255,255],
-		"FilterID": 0,
-		"FilterValue": "",
 		"BlockPickup": false,
 		"AllowTransfer": true,
 		"ForceDrop": true,
@@ -127,6 +121,7 @@
 				"Name": "item_gravity_button",
 				"ButtonID": 3268,
 				"ButtonClass": "func_button",
+				"Filter": "",
 				"Chat_Uses": true,
 				"Mode": 2,
 				"MaxUses": 0,
@@ -134,14 +129,12 @@
 			}
 		]
 	},
-    {
+	{
 		"Name": "暴风/Tornado",
 		"ShortName": "暴风",
 		"Color": "{default}",
 		"HammerID": 3280,
 		"GlowColor": [255,255,255,255],
-		"FilterID": 0,
-		"FilterValue": "",
 		"BlockPickup": false,
 		"AllowTransfer": true,
 		"ForceDrop": true,
@@ -154,6 +147,7 @@
 				"Name": "item_tornado_button",
 				"ButtonID": 3278,
 				"ButtonClass": "func_button",
+				"Filter": "",
 				"Chat_Uses": true,
 				"Mode": 2,
 				"MaxUses": 0,
@@ -161,14 +155,12 @@
 			}
 		]
 	},
-    {
+	{
 		"Name": "土/Earth",
 		"ShortName": "土",
 		"Color": "{default}",
 		"HammerID": 3291,
 		"GlowColor": [255,255,255,255],
-		"FilterID": 0,
-		"FilterValue": "",
 		"BlockPickup": false,
 		"AllowTransfer": true,
 		"ForceDrop": true,
@@ -181,6 +173,7 @@
 				"Name": "item_earth_button",
 				"ButtonID": 3289,
 				"ButtonClass": "func_button",
+				"Filter": "",
 				"Chat_Uses": true,
 				"Mode": 2,
 				"MaxUses": 0,
@@ -188,14 +181,12 @@
 			}
 		]
 	},
-    {
+	{
 		"Name": "火/Fire",
 		"ShortName": "火",
 		"Color": "{default}",
 		"HammerID": 3298,
 		"GlowColor": [255,255,255,255],
-		"FilterID": 0,
-		"FilterValue": "",
 		"BlockPickup": false,
 		"AllowTransfer": true,
 		"ForceDrop": true,
@@ -208,6 +199,7 @@
 				"Name": "item_fire_button",
 				"ButtonID": 3296,
 				"ButtonClass": "func_button",
+				"Filter": "",
 				"Chat_Uses": true,
 				"Mode": 2,
 				"MaxUses": 0,
@@ -215,14 +207,12 @@
 			}
 		]
 	},
-    {
+	{
 		"Name": "水/Water",
 		"ShortName": "水",
 		"Color": "{default}",
 		"HammerID": 3318,
 		"GlowColor": [255,255,255,255],
-		"FilterID": 0,
-		"FilterValue": "",
 		"BlockPickup": false,
 		"AllowTransfer": true,
 		"ForceDrop": true,
@@ -235,6 +225,7 @@
 				"Name": "item_water_button",
 				"ButtonID": 3316,
 				"ButtonClass": "func_button",
+				"Filter": "",
 				"Chat_Uses": true,
 				"Mode": 2,
 				"MaxUses": 0,
@@ -242,14 +233,12 @@
 			}
 		]
 	},
-    {
+	{
 		"Name": "电/Electro",
 		"ShortName": "电",
 		"Color": "{default}",
 		"HammerID": 3308,
 		"GlowColor": [255,255,255,255],
-		"FilterID": 0,
-		"FilterValue": "",
 		"BlockPickup": false,
 		"AllowTransfer": true,
 		"ForceDrop": true,
@@ -262,6 +251,7 @@
 				"Name": "item_electro_button",
 				"ButtonID": 3306,
 				"ButtonClass": "func_button",
+				"Filter": "",
 				"Chat_Uses": true,
 				"Mode": 2,
 				"MaxUses": 0,
@@ -269,14 +259,12 @@
 			}
 		]
 	},
-    {
+	{
 		"Name": "奶/Heal",
 		"ShortName": "奶",
 		"Color": "{default}",
 		"HammerID": 3329,
 		"GlowColor": [255,255,255,255],
-		"FilterID": 0,
-		"FilterValue": "",
 		"BlockPickup": false,
 		"AllowTransfer": true,
 		"ForceDrop": true,
@@ -289,6 +277,7 @@
 				"Name": "item_heal_button",
 				"ButtonID": 3327,
 				"ButtonClass": "func_button",
+				"Filter": "",
 				"Chat_Uses": true,
 				"Mode": 2,
 				"MaxUses": 0,
@@ -296,14 +285,12 @@
 			}
 		]
 	},
-    {
+	{
 		"Name": "假神器/Fake Item",
 		"ShortName": "??",
 		"Color": "{default}",
 		"HammerID": 1548,
 		"GlowColor": [255,255,255,255],
-		"FilterID": 0,
-		"FilterValue": "",
 		"BlockPickup": false,
 		"AllowTransfer": true,
 		"ForceDrop": true,
@@ -316,6 +303,7 @@
 				"Name": "",
 				"ButtonID": 0,
 				"ButtonClass": "",
+				"Filter": "",
 				"Chat_Uses": false,
 				"Mode": 0,
 				"MaxUses": 0,
@@ -323,14 +311,12 @@
 			}
 		]
 	},
-    {
+	{
 		"Name": "钥匙/Temple Key",
 		"ShortName": "钥匙",
 		"Color": "{default}",
 		"HammerID": 2554,
 		"GlowColor": [255,255,255,255],
-		"FilterID": 0,
-		"FilterValue": "",
 		"BlockPickup": false,
 		"AllowTransfer": true,
 		"ForceDrop": true,
@@ -343,6 +329,7 @@
 				"Name": "",
 				"ButtonID": 0,
 				"ButtonClass": "",
+				"Filter": "",
 				"Chat_Uses": false,
 				"Mode": 0,
 				"MaxUses": 0,
@@ -350,14 +337,12 @@
 			}
 		]
 	},
-    {
+	{
 		"Name": "ZM 黑洞/ZM Gravity",
 		"ShortName": "ZM 黑洞",
 		"Color": "{default}",
 		"HammerID": 3256,
 		"GlowColor": [255,255,255,255],
-		"FilterID": 0,
-		"FilterValue": "",
 		"BlockPickup": false,
 		"AllowTransfer": false,
 		"ForceDrop": false,
@@ -370,6 +355,7 @@
 				"Name": "item_zm_gravity_button",
 				"ButtonID": 3254,
 				"ButtonClass": "func_button",
+				"Filter": "",
 				"Chat_Uses": true,
 				"Mode": 2,
 				"MaxUses": 0,
@@ -377,14 +363,12 @@
 			}
 		]
 	},
-    {
+	{
 		"Name": "ZM 激光/ZM Beam",
 		"ShortName": "ZM 激光",
 		"Color": "{default}",
 		"HammerID": 3240,
 		"GlowColor": [255,255,255,255],
-		"FilterID": 0,
-		"FilterValue": "",
 		"BlockPickup": false,
 		"AllowTransfer": false,
 		"ForceDrop": false,
@@ -397,6 +381,7 @@
 				"Name": "item_zm_beam_button",
 				"ButtonID": 3238,
 				"ButtonClass": "func_button",
+				"Filter": "",
 				"Chat_Uses": true,
 				"Mode": 2,
 				"MaxUses": 0,
@@ -404,14 +389,12 @@
 			}
 		]
 	},
-    {
+	{
 		"Name": "ZM 奶/ZM Heal",
 		"ShortName": "ZM 奶",
 		"Color": "{default}",
 		"HammerID": 3232,
 		"GlowColor": [255,255,255,255],
-		"FilterID": 0,
-		"FilterValue": "",
 		"BlockPickup": false,
 		"AllowTransfer": false,
 		"ForceDrop": false,
@@ -424,6 +407,7 @@
 				"Name": "item_zm_heal_button",
 				"ButtonID": 3230,
 				"ButtonClass": "func_button",
+				"Filter": "",
 				"Chat_Uses": true,
 				"Mode": 2,
 				"MaxUses": 0,

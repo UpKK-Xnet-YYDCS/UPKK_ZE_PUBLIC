@@ -5,8 +5,6 @@
 		"Color": "{default}",
 		"HammerID": 764,
 		"GlowColor": [255,255,255,255],
-		"FilterID": 0,
-		"FilterValue": "",
 		"BlockPickup": false,
 		"AllowTransfer": true,
 		"ForceDrop": true,
@@ -19,6 +17,7 @@
 				"Name": "",
 				"ButtonID": 0,
 				"ButtonClass": "func_button",
+				"Filter": "",
 				"Chat_Uses": true,
 				"Mode": 2,
 				"MaxUses": 0,
@@ -32,8 +31,6 @@
 		"Color": "{default}",
 		"HammerID": 890,
 		"GlowColor": [255,255,255,255],
-		"FilterID": 0,
-		"FilterValue": "",
 		"BlockPickup": false,
 		"AllowTransfer": true,
 		"ForceDrop": true,
@@ -46,6 +43,7 @@
 				"Name": "",
 				"ButtonID": 0,
 				"ButtonClass": "func_button",
+				"Filter": "",
 				"Chat_Uses": true,
 				"Mode": 3,
 				"MaxUses": 1,
@@ -53,14 +51,12 @@
 			}
 		]
 	},
-    {
+	{
 		"Name": "奶/Heal",
 		"ShortName": "奶",
 		"Color": "{default}",
 		"HammerID": 895,
 		"GlowColor": [255,255,255,255],
-		"FilterID": 0,
-		"FilterValue": "",
 		"BlockPickup": false,
 		"AllowTransfer": true,
 		"ForceDrop": true,
@@ -73,6 +69,7 @@
 				"Name": "",
 				"ButtonID": 0,
 				"ButtonClass": "func_button",
+				"Filter": "",
 				"Chat_Uses": true,
 				"Mode": 2,
 				"MaxUses": 0,
@@ -80,14 +77,12 @@
 			}
 		]
 	},
-    {
+	{
 		"Name": "YEAH",
 		"ShortName": "YEAH",
 		"Color": "{default}",
 		"HammerID": 1102,
 		"GlowColor": [255,255,255,255],
-		"FilterID": 0,
-		"FilterValue": "",
 		"BlockPickup": false,
 		"AllowTransfer": true,
 		"ForceDrop": true,
@@ -100,6 +95,7 @@
 				"Name": "",
 				"ButtonID": 0,
 				"ButtonClass": "func_button",
+				"Filter": "",
 				"Chat_Uses": true,
 				"Mode": 2,
 				"MaxUses": 0,
@@ -107,14 +103,12 @@
 			}
 		]
 	},
-    {
+	{
 		"Name": "剑/Sword",
 		"ShortName": "剑",
 		"Color": "{default}",
 		"HammerID": 1116,
 		"GlowColor": [255,255,255,255],
-		"FilterID": 0,
-		"FilterValue": "",
 		"BlockPickup": false,
 		"AllowTransfer": true,
 		"ForceDrop": true,
@@ -127,6 +121,7 @@
 				"Name": "",
 				"ButtonID": 0,
 				"ButtonClass": "func_button",
+				"Filter": "",
 				"Chat_Uses": true,
 				"Mode": 2,
 				"MaxUses": 0,
@@ -134,14 +129,12 @@
 			}
 		]
 	},
-    {
+	{
 		"Name": "ZM 护盾/ZM Shield",
 		"ShortName": "ZM 护盾",
 		"Color": "{default}",
 		"HammerID": 869,
 		"GlowColor": [255,255,255,255],
-		"FilterID": 0,
-		"FilterValue": "",
 		"BlockPickup": false,
 		"AllowTransfer": true,
 		"ForceDrop": false,
@@ -154,6 +147,7 @@
 				"Name": "",
 				"ButtonID": 0,
 				"ButtonClass": "func_button",
+				"Filter": "",
 				"Chat_Uses": true,
 				"Mode": 2,
 				"MaxUses": 0,
@@ -161,14 +155,12 @@
 			}
 		]
 	},
-    {
+	{
 		"Name": "ZM 能量/ZM Energy",
 		"ShortName": "ZM 能量",
 		"Color": "{default}",
 		"HammerID": 18,
 		"GlowColor": [255,255,255,255],
-		"FilterID": 0,
-		"FilterValue": "",
 		"BlockPickup": false,
 		"AllowTransfer": true,
 		"ForceDrop": false,
@@ -181,6 +173,7 @@
 				"Name": "",
 				"ButtonID": 0,
 				"ButtonClass": "func_button",
+				"Filter": "",
 				"Chat_Uses": true,
 				"Mode": 2,
 				"MaxUses": 0,

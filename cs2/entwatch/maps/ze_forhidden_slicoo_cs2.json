@@ -5,8 +5,6 @@
 		"Color": "{default}",
 		"HammerID": 1895,
 		"GlowColor": [255,255,255,255],
-		"FilterID": 0,
-		"FilterValue": "",
 		"BlockPickup": false,
 		"AllowTransfer": false,
 		"ForceDrop": false,
@@ -19,6 +17,7 @@
 				"Name": "",
 				"ButtonID": 0,
 				"ButtonClass": "func_button",
+				"Filter": "",
 				"Chat_Uses": true,
 				"Mode": 2,
 				"MaxUses": 0,
@@ -26,14 +25,12 @@
 			}
 		]
 	},
-    {
+	{
 		"Name": "埃洛斯的诅咒",
 		"ShortName": "埃洛斯的诅咒",
 		"Color": "{default}",
 		"HammerID": 2518,
 		"GlowColor": [255,255,255,255],
-		"FilterID": 0,
-		"FilterValue": "",
 		"BlockPickup": false,
 		"AllowTransfer": true,
 		"ForceDrop": false,
@@ -46,6 +43,7 @@
 				"Name": "",
 				"ButtonID": 0,
 				"ButtonClass": "func_button",
+				"Filter": "",
 				"Chat_Uses": true,
 				"Mode": 2,
 				"MaxUses": 0,
@@ -53,14 +51,12 @@
 			}
 		]
 	},
-    {
+	{
 		"Name": "治疗法杖",
 		"ShortName": "治疗法杖",
 		"Color": "{default}",
 		"HammerID": 3399,
 		"GlowColor": [255,255,255,255],
-		"FilterID": 0,
-		"FilterValue": "",
 		"BlockPickup": false,
 		"AllowTransfer": true,
 		"ForceDrop": true,
@@ -73,6 +69,7 @@
 				"Name": "",
 				"ButtonID": 0,
 				"ButtonClass": "func_button",
+				"Filter": "",
 				"Chat_Uses": true,
 				"Mode": 2,
 				"MaxUses": 0,
@@ -80,14 +77,12 @@
 			}
 		]
 	},
-    {
+	{
 		"Name": "暴风雪",
 		"ShortName": "暴风雪",
 		"Color": "{default}",
 		"HammerID": 3488,
 		"GlowColor": [255,255,255,255],
-		"FilterID": 0,
-		"FilterValue": "",
 		"BlockPickup": false,
 		"AllowTransfer": true,
 		"ForceDrop": true,
@@ -100,6 +95,7 @@
 				"Name": "",
 				"ButtonID": 0,
 				"ButtonClass": "func_button",
+				"Filter": "",
 				"Chat_Uses": true,
 				"Mode": 2,
 				"MaxUses": 0,
@@ -107,14 +103,12 @@
 			}
 		]
 	},
-    {
+	{
 		"Name": "寒霜剑",
 		"ShortName": "寒霜剑",
 		"Color": "{default}",
 		"HammerID": 3480,
 		"GlowColor": [255,255,255,255],
-		"FilterID": 0,
-		"FilterValue": "",
 		"BlockPickup": false,
 		"AllowTransfer": true,
 		"ForceDrop": true,
@@ -127,6 +121,7 @@
 				"Name": "",
 				"ButtonID": 0,
 				"ButtonClass": "func_button",
+				"Filter": "",
 				"Chat_Uses": true,
 				"Mode": 2,
 				"MaxUses": 0,
@@ -134,14 +129,12 @@
 			}
 		]
 	},
-    {
+	{
 		"Name": "圣盾",
 		"ShortName": "圣盾",
 		"Color": "{default}",
 		"HammerID": 3508,
 		"GlowColor": [255,255,255,255],
-		"FilterID": 0,
-		"FilterValue": "",
 		"BlockPickup": false,
 		"AllowTransfer": true,
 		"ForceDrop": true,
@@ -154,6 +147,7 @@
 				"Name": "",
 				"ButtonID": 0,
 				"ButtonClass": "func_button",
+				"Filter": "",
 				"Chat_Uses": true,
 				"Mode": 2,
 				"MaxUses": 0,
@@ -161,14 +155,12 @@
 			}
 		]
 	},
-    {
+	{
 		"Name": "寒风",
 		"ShortName": "寒风",
 		"Color": "{default}",
 		"HammerID": 3413,
 		"GlowColor": [255,255,255,255],
-		"FilterID": 0,
-		"FilterValue": "",
 		"BlockPickup": false,
 		"AllowTransfer": true,
 		"ForceDrop": true,
@@ -181,6 +173,7 @@
 				"Name": "",
 				"ButtonID": 0,
 				"ButtonClass": "func_button",
+				"Filter": "",
 				"Chat_Uses": true,
 				"Mode": 2,
 				"MaxUses": 0,
@@ -188,14 +181,12 @@
 			}
 		]
 	},
-    {
+	{
 		"Name": "ZM 冰环",
 		"ShortName": "ZM 冰环",
 		"Color": "{default}",
 		"HammerID": 2889,
 		"GlowColor": [255,255,255,255],
-		"FilterID": 0,
-		"FilterValue": "",
 		"BlockPickup": false,
 		"AllowTransfer": false,
 		"ForceDrop": false,
@@ -208,6 +199,7 @@
 				"Name": "",
 				"ButtonID": 0,
 				"ButtonClass": "func_button",
+				"Filter": "",
 				"Chat_Uses": true,
 				"Mode": 2,
 				"MaxUses": 0,
@@ -215,14 +207,12 @@
 			}
 		]
 	},
-    {
+	{
 		"Name": "ZM 冰刺",
 		"ShortName": "ZM 冰刺",
 		"Color": "{default}",
 		"HammerID": 3400,
 		"GlowColor": [255,255,255,255],
-		"FilterID": 0,
-		"FilterValue": "",
 		"BlockPickup": false,
 		"AllowTransfer": false,
 		"ForceDrop": false,
@@ -235,6 +225,7 @@
 				"Name": "",
 				"ButtonID": 0,
 				"ButtonClass": "func_button",
+				"Filter": "",
 				"Chat_Uses": false,
 				"Mode": 1,
 				"MaxUses": 0,
@@ -242,14 +233,12 @@
 			}
 		]
 	},
-    {
+	{
 		"Name": "恶魔契约",
 		"ShortName": "恶魔契约",
 		"Color": "{default}",
 		"HammerID": 3547,
 		"GlowColor": [255,255,255,255],
-		"FilterID": 0,
-		"FilterValue": "",
 		"BlockPickup": false,
 		"AllowTransfer": false,
 		"ForceDrop": false,
@@ -262,6 +251,7 @@
 				"Name": "",
 				"ButtonID": 0,
 				"ButtonClass": "func_button",
+				"Filter": "",
 				"Chat_Uses": true,
 				"Mode": 1,
 				"MaxUses": 0,
@@ -269,14 +259,12 @@
 			}
 		]
 	},
-    {
+	{
 		"Name": "重力弓",
 		"ShortName": "重力弓",
 		"Color": "{default}",
 		"HammerID": 4207,
 		"GlowColor": [255,255,255,255],
-		"FilterID": 0,
-		"FilterValue": "",
 		"BlockPickup": false,
 		"AllowTransfer": true,
 		"ForceDrop": true,
@@ -289,6 +277,7 @@
 				"Name": "",
 				"ButtonID": 0,
 				"ButtonClass": "",
+				"Filter": "",
 				"Chat_Uses": false,
 				"Mode": 0,
 				"MaxUses": 0,
@@ -296,14 +285,12 @@
 			}
 		]
 	},
-    {
+	{
 		"Name": "冰垒",
 		"ShortName": "冰垒",
 		"Color": "{default}",
 		"HammerID": 3616,
 		"GlowColor": [255,255,255,255],
-		"FilterID": 0,
-		"FilterValue": "",
 		"BlockPickup": false,
 		"AllowTransfer": true,
 		"ForceDrop": true,
@@ -316,6 +303,7 @@
 				"Name": "",
 				"ButtonID": 0,
 				"ButtonClass": "func_button",
+				"Filter": "",
 				"Chat_Uses": true,
 				"Mode": 2,
 				"MaxUses": 0,
@@ -323,14 +311,12 @@
 			}
 		]
 	},
-    {
+	{
 		"Name": "精灵法师",
 		"ShortName": "精灵法师",
 		"Color": "{default}",
 		"HammerID": 2120,
 		"GlowColor": [255,255,255,255],
-		"FilterID": 0,
-		"FilterValue": "",
 		"BlockPickup": false,
 		"AllowTransfer": false,
 		"ForceDrop": false,
@@ -343,6 +329,7 @@
 				"Name": "",
 				"ButtonID": 0,
 				"ButtonClass": "",
+				"Filter": "",
 				"Chat_Uses": false,
 				"Mode": 1,
 				"MaxUses": 0,
@@ -350,14 +337,12 @@
 			}
 		]
 	},
-    {
+	{
 		"Name": "ZM 雷沃尔熊人",
 		"ShortName": "ZM 雷沃尔熊人",
 		"Color": "{default}",
 		"HammerID": 2999,
 		"GlowColor": [255,255,255,255],
-		"FilterID": 0,
-		"FilterValue": "",
 		"BlockPickup": false,
 		"AllowTransfer": false,
 		"ForceDrop": false,
@@ -370,6 +355,7 @@
 				"Name": "",
 				"ButtonID": 0,
 				"ButtonClass": "",
+				"Filter": "",
 				"Chat_Uses": false,
 				"Mode": 1,
 				"MaxUses": 0,
@@ -377,14 +363,12 @@
 			}
 		]
 	},
-    {
+	{
 		"Name": "冰垒",
 		"ShortName": "冰垒",
 		"Color": "{default}",
 		"HammerID": 3616,
 		"GlowColor": [255,255,255,255],
-		"FilterID": 0,
-		"FilterValue": "",
 		"BlockPickup": false,
 		"AllowTransfer": true,
 		"ForceDrop": true,
@@ -397,6 +381,7 @@
 				"Name": "",
 				"ButtonID": 0,
 				"ButtonClass": "func_button",
+				"Filter": "",
 				"Chat_Uses": true,
 				"Mode": 2,
 				"MaxUses": 0,
@@ -404,14 +389,12 @@
 			}
 		]
 	},
-    {
+	{
 		"Name": "圣女",
 		"ShortName": "圣女",
 		"Color": "{default}",
 		"HammerID": 16038,
 		"GlowColor": [255,255,255,255],
-		"FilterID": 0,
-		"FilterValue": "",
 		"BlockPickup": false,
 		"AllowTransfer": false,
 		"ForceDrop": false,
@@ -424,6 +407,7 @@
 				"Name": "",
 				"ButtonID": 0,
 				"ButtonClass": "",
+				"Filter": "",
 				"Chat_Uses": false,
 				"Mode": 1,
 				"MaxUses": 0,
@@ -431,14 +415,12 @@
 			}
 		]
 	},
-    {
+	{
 		"Name": "ZM 隐秘老者",
 		"ShortName": "ZM 隐秘老者",
 		"Color": "{default}",
 		"HammerID": 16072,
 		"GlowColor": [255,255,255,255],
-		"FilterID": 0,
-		"FilterValue": "",
 		"BlockPickup": false,
 		"AllowTransfer": false,
 		"ForceDrop": false,
@@ -451,6 +433,7 @@
 				"Name": "",
 				"ButtonID": 16080,
 				"ButtonClass": "func_button",
+				"Filter": "",
 				"Chat_Uses": true,
 				"Mode": 2,
 				"MaxUses": 0,
@@ -460,6 +443,7 @@
 				"Name": "attack",
 				"ButtonID": 0,
 				"ButtonClass": "game_ui::PressedAttack2",
+				"Filter": "",
 				"Chat_Uses": false,
 				"Mode": 2,
 				"MaxUses": 0,
@@ -467,14 +451,12 @@
 			}
 		]
 	},
-    {
+	{
 		"Name": "Heiyan",
 		"ShortName": "Heiyan",
 		"Color": "{default}",
 		"HammerID": 16128,
 		"GlowColor": [255,255,255,255],
-		"FilterID": 0,
-		"FilterValue": "",
 		"BlockPickup": false,
 		"AllowTransfer": false,
 		"ForceDrop": false,
@@ -487,6 +469,7 @@
 				"Name": "",
 				"ButtonID": 0,
 				"ButtonClass": "",
+				"Filter": "",
 				"Chat_Uses": false,
 				"Mode": 1,
 				"MaxUses": 0,

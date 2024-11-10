@@ -1,12 +1,10 @@
 [
-    {
+	{
 		"Name": "Heal/奶",
 		"ShortName": "奶",
 		"Color": "{default}",
 		"HammerID": 31769,
 		"GlowColor": [255,255,255,255],
-		"FilterID": 0,
-		"FilterValue": "",
 		"BlockPickup": false,
 		"AllowTransfer": true,
 		"ForceDrop": true,
@@ -19,6 +17,7 @@
 				"Name": "Item_Heal_Button",
 				"ButtonID": 31778,
 				"ButtonClass": "func_button",
+				"Filter": "",
 				"Chat_Uses": true,
 				"Mode": 4,
 				"MaxUses": 3,
@@ -26,14 +25,12 @@
 			}
 		]
 	},
-    {
+	{
 		"Name": "Bagette/法棍",
 		"ShortName": "法棍",
 		"Color": "{default}",
 		"HammerID": 31727,
 		"GlowColor": [255,255,255,255],
-		"FilterID": 0,
-		"FilterValue": "",
 		"BlockPickup": false,
 		"AllowTransfer": true,
 		"ForceDrop": true,
@@ -46,6 +43,7 @@
 				"Name": "",
 				"ButtonID": 0,
 				"ButtonClass": "",
+				"Filter": "",
 				"Chat_Uses": false,
 				"Mode": 0,
 				"MaxUses": 0,

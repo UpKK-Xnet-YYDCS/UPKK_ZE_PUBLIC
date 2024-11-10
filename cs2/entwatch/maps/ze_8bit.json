@@ -5,8 +5,6 @@
 		"Color": "{default}",
 		"HammerID": 4733,
 		"GlowColor": [255,255,255,255],
-		"FilterID": 0,
-		"FilterValue": "",
 		"BlockPickup": false,
 		"AllowTransfer": true,
 		"ForceDrop": true,
@@ -19,6 +17,7 @@
 				"Name": "Button_heal",
 				"ButtonID": 4734,
 				"ButtonClass": "func_button",
+				"Filter": "",
 				"Chat_Uses": true,
 				"Mode": 2,
 				"MaxUses": 0,
@@ -30,14 +29,12 @@
 			}
 		]
 	},
-    {
+	{
 		"Name": "电/electro",
 		"ShortName": "电",
 		"Color": "{default}",
 		"HammerID": 4739,
 		"GlowColor": [255,255,255,255],
-		"FilterID": 0,
-		"FilterValue": "",
 		"BlockPickup": false,
 		"AllowTransfer": true,
 		"ForceDrop": true,
@@ -50,6 +47,7 @@
 				"Name": "Button_electro",
 				"ButtonID": 4740,
 				"ButtonClass": "func_button",
+				"Filter": "",
 				"Chat_Uses": true,
 				"Mode": 2,
 				"MaxUses": 0,
@@ -61,14 +59,12 @@
 			}
 		]
 	},
-    {
+	{
 		"Name": "毁灭巨炮/Cannon Ultimate",
 		"ShortName": "毁灭巨炮",
 		"Color": "{default}",
 		"HammerID": 4970,
 		"GlowColor": [255,255,255,255],
-		"FilterID": 0,
-		"FilterValue": "",
 		"BlockPickup": false,
 		"AllowTransfer": true,
 		"ForceDrop": true,
@@ -81,6 +77,7 @@
 				"Name": "Button_cannon_ultimate",
 				"ButtonID": 4968,
 				"ButtonClass": "func_button",
+				"Filter": "",
 				"Chat_Uses": true,
 				"Mode": 3,
 				"MaxUses": 1,
@@ -92,14 +89,12 @@
 			}
 		]
 	},
-    {
+	{
 		"Name": "静止装置/Stopper Magick",
 		"ShortName": "静止装置",
 		"Color": "{default}",
 		"HammerID": 4988,
 		"GlowColor": [255,255,255,255],
-		"FilterID": 0,
-		"FilterValue": "",
 		"BlockPickup": false,
 		"AllowTransfer": true,
 		"ForceDrop": true,
@@ -112,6 +107,7 @@
 				"Name": "Button_Stopper",
 				"ButtonID": 4989,
 				"ButtonClass": "func_button",
+				"Filter": "",
 				"Chat_Uses": true,
 				"Mode": 2,
 				"MaxUses": 0,
@@ -123,14 +119,12 @@
 			}
 		]
 	},
-    {
+	{
 		"Name": "地雷/Mines",
 		"ShortName": "地雷",
 		"Color": "{default}",
 		"HammerID": 5019,
 		"GlowColor": [255,255,255,255],
-		"FilterID": 0,
-		"FilterValue": "",
 		"BlockPickup": false,
 		"AllowTransfer": true,
 		"ForceDrop": true,
@@ -143,6 +137,7 @@
 				"Name": "Button_Mine",
 				"ButtonID": 5020,
 				"ButtonClass": "func_button",
+				"Filter": "",
 				"Chat_Uses": true,
 				"Mode": 4,
 				"MaxUses": 8,
@@ -154,14 +149,12 @@
 			}
 		]
 	},
-    {
+	{
 		"Name": "喷火器/Fire Magick",
 		"ShortName": "喷火器",
 		"Color": "{default}",
 		"HammerID": 5038,
 		"GlowColor": [255,255,255,255],
-		"FilterID": 0,
-		"FilterValue": "",
 		"BlockPickup": false,
 		"AllowTransfer": true,
 		"ForceDrop": true,
@@ -174,6 +167,7 @@
 				"Name": "Button_Fire",
 				"ButtonID": 5039,
 				"ButtonClass": "func_button",
+				"Filter": "",
 				"Chat_Uses": false,
 				"Mode": 6,
 				"MaxUses": 0,
@@ -185,14 +179,12 @@
 			}
 		]
 	},
-    {
+	{
 		"Name": "弹药/Ammo",
 		"ShortName": "弹药",
 		"Color": "{default}",
 		"HammerID": 5594,
 		"GlowColor": [255,255,255,255],
-		"FilterID": 0,
-		"FilterValue": "",
 		"BlockPickup": false,
 		"AllowTransfer": true,
 		"ForceDrop": true,
@@ -205,6 +197,7 @@
 				"Name": "Button_Ammo",
 				"ButtonID": 5595,
 				"ButtonClass": "func_button",
+				"Filter": "",
 				"Chat_Uses": true,
 				"Mode": 2,
 				"MaxUses": 0,
