@@ -1,164 +1,296 @@
 {
-  "Stage 1 - Awakening": {
-    "translation": ""
+  "...": {
+    "translation": "..."
   },
-  "Lever found": {
-    "translation": ""
+  "1 minute left": {
+    "translation": "剩余60秒"
   },
-  "Temple door opens in 25 seconds": {
-    "translation": ""
+  "10 seconds left": {
+    "translation": "剩余10秒"
   },
-  "Temple door opens in 5 seconds": {
-    "translation": ""
-  },
-  "Defend until the door opens": {
-    "translation": ""
-  },
-  "Door is opening in 5 seconds": {
-    "translation": ""
-  },
-  "Door is opening": {
-    "translation": ""
-  },
-  "Hold until we get the gate open!": {
-    "translation": ""
-  },
-  "Gate opens in 10 seconds": {
-    "translation": ""
-  },
-  "Door opens in 20 seconds": {
-    "translation": ""
-  },
-  "Door opens in 5 seconds": {
-    "translation": ""
-  },
-  "Door opens in 10 seconds": {
-    "translation": ""
-  },
-  "Button pressed": {
-    "translation": ""
-  },
-  "Resist until the door opens!": {
-    "translation": ""
+  "30 seconds left": {
+    "translation": "剩余30秒"
   },
   "5 seconds left": {
-    "translation": ""
+    "translation": "剩余5秒"
   },
-  "The door has opened!": {
-    "translation": ""
+  "A car! We could make some use of it if it works...": {
+    "translation": "这有一辆车！如果它能工作，我们可以利用它…"
   },
-  "There is a platform incoming!": {
-    "translation": ""
+  "A fuel can has been found": {
+    "translation": "找到一个燃料罐"
   },
-  "Platform is here, get on it!": {
-    "translation": ""
+  "ADMINROOM - RESTARTING ROUND": {
+    "translation": "管理员房间-正在重启回合"
   },
-  "Defend for 25 seconds": {
-    "translation": ""
+  "ADMINROOM - STAGE 1 SET": {
+    "translation": "管理员房间-第一关"
   },
-  "Last door closing in 5 seconds": {
-    "translation": ""
+  "ADMINROOM - STAGE 2 SET": {
+    "translation": "管理员房间-第二关"
   },
-  "Last door is closing": {
-    "translation": ""
-  },
-  "Kill any remaining zombies!": {
-    "translation": ""
-  },
-  "STAGE 1 COMPLETE": {
-    "translation": ""
-  },
-  "Stage 2 - Inner Facility": {
-    "translation": ""
-  },
-  "Buttons pressed": {
-    "translation": ""
-  },
-  "Defend for 20 seconds": {
-    "translation": ""
-  },
-  "Elevator leaves in 20 seconds": {
-    "translation": ""
-  },
-  "Elevator leaves in 5 seconds": {
-    "translation": ""
-  },
-  "Fall back!": {
-    "translation": ""
-  },
-  "Defend until something happens": {
-    "translation": ""
-  },
-  "There are boxes incoming, we should get on them!": {
-    "translation": ""
-  },
-  "We cannot pass through the barrier! Get down!": {
-    "translation": ""
-  },
-  "Defend for 15 seconds": {
-    "translation": ""
-  },
-  "This place seems to have traps as well": {
-    "translation": ""
-  },
-  "We should be more careful": {
-    "translation": ""
-  },
-  "Gate opens in 15 seconds": {
-    "translation": ""
-  },
-  "Boxes will move again in 15 seconds": {
-    "translation": ""
-  },
-  "Door opens in 15 seconds": {
-    "translation": ""
-  },
-  "The boxes have stopped": {
-    "translation": ""
-  },
-  "We have to press both buttons to progress": {
-    "translation": ""
+  "ADMINROOM - STAGE 3 SET": {
+    "translation": "管理员房间-第三关"
   },
   "Boxes will move again in 10 seconds": {
-    "translation": ""
+    "translation": "箱子将在10秒后再次移动"
+  },
+  "Boxes will move again in 15 seconds": {
+    "translation": "箱子将在15秒后再次移动"
+  },
+  "Bring it back to the car!": {
+    "translation": "把它带回车里！"
+  },
+  "Button pressed": {
+    "translation": "按钮已按下"
+  },
+  "Buttons pressed": {
+    "translation": "按钮已按下"
+  },
+  "Defend for 15 seconds": {
+    "translation": "防守15秒"
+  },
+  "Defend for 20 seconds": {
+    "translation": "防守20秒"
+  },
+  "Defend for 25 seconds": {
+    "translation": "防守25秒"
+  },
+  "Defend until something happens": {
+    "translation": "防守直到发生某些事情"
+  },
+  "Defend until the door opens": {
+    "translation": "防守直到门打开"
+  },
+  "Defend until we get the car moving again!": {
+    "translation": "防守直到我们再次让车动起来！"
+  },
+  "Door is opening": {
+    "translation": "门正在开启"
+  },
+  "Door is opening in 40 seconds": {
+    "translation": "门将在40秒后开启"
+  },
+  "Door is opening in 5 seconds": {
+    "translation": "门将在5秒后开启"
+  },
+  "Door opens in 10 seconds": {
+    "translation": "门将在10秒后开启"
+  },
+  "Door opens in 15 seconds": {
+    "translation": "门将在15秒后开启"
+  },
+  "Door opens in 20 seconds": {
+    "translation": "门将在20秒后开启"
+  },
+  "Door opens in 25 seconds": {
+    "translation": "门将在25秒后开启"
+  },
+  "Door opens in 5 seconds": {
+    "translation": "门将在5秒后开启"
+  },
+  "Doors are opening": {
+    "translation": "门正在开启"
   },
   "Double doors open in 20 seconds": {
-    "translation": ""
+    "translation": "双扇门将在20秒后开启"
   },
   "Double doors open in 5 seconds": {
-    "translation": ""
+    "translation": "双扇门将在5秒后开启"
   },
-  "Hold until the door opens": {
-    "translation": ""
+  "Elevator leaves in 20 seconds": {
+    "translation": "电梯将在20秒后离开"
   },
-  "Get in! Door is closing in 5 seconds": {
-    "translation": ""
+  "Elevator leaves in 5 seconds": {
+    "translation": "电梯将在5秒后离开"
   },
-  "The gate should open soon! Keep holding!": {
-    "translation": ""
+  "Fall back!": {
+    "translation": "后退！"
   },
-  "The gate is about to open!": {
-    "translation": ""
+  "Find another button": {
+    "translation": "找另一个按钮"
   },
   "Gate is opening": {
-    "translation": ""
+    "translation": "大门正在开启"
   },
-  "The gate appears to be stuck": {
-    "translation": ""
+  "Gate opens in 10 seconds": {
+    "translation": "大门将在10秒后开启"
   },
-  "Hold until we figure something out": {
-    "translation": ""
+  "Gate opens in 15 seconds": {
+    "translation": "大门将在15秒后开启"
   },
-  "There are boxes incoming again!": {
-    "translation": ""
+  "Get in! Door is closing in 5 seconds": {
+    "translation": "快进来！门将在5秒后关闭"
   },
   "Get ready to jump": {
-    "translation": ""
+    "translation": "准备跳跃"
+  },
+  "Good job!": {
+    "translation": "干得好！"
+  },
+  "Hold until the door opens": {
+    "translation": "继续防守直到门打开"
+  },
+  "Hold until we break the boxes": {
+    "translation": "继续防守直到我们打破箱子"
+  },
+  "Hold until we figure something out": {
+    "translation": "继续防守直到我们想出解决办法"
+  },
+  "Hold until we get the gate open!": {
+    "translation": "继续防守直到我们打开大门！"
   },
   "JUMP!": {
-    "translation": ""
+    "translation": "跳！"
+  },
+  "Kill any remaining zombies!": {
+    "translation": "杀死逃离的僵尸！"
+  },
+  "Last door closing in 5 seconds": {
+    "translation": "最后一扇门将在5秒后关闭"
+  },
+  "Last door is closing": {
+    "translation": "最后一扇门正在关闭"
+  },
+  "Last door is opening in 10 seconds": {
+    "translation": "最后一扇门将在10秒后开启"
+  },
+  "Lever found": {
+    "translation": "杠杆已找到"
+  },
+  "Main sewer system doors opening soon": {
+    "translation": "主下水道系统的门即将开启"
+  },
+  "Map is starting": {
+    "translation": "游戏开始"
+  },
+  "Map starts in 30 seconds": {
+    "translation": "游戏将在30秒后开始"
+  },
+  "Platform called": {
+    "translation": "平台已呼叫"
+  },
+  "Platform is here, get on it!": {
+    "translation": "平台来了，快上去！"
+  },
+  "Resist until the door opens!": {
+    "translation": "抵抗直到门打开！"
+  },
+  "STAGE 1 COMPLETE": {
+    "translation": "第一关完成 翻译：Asteri3m"
+  },
+  "STAGE 2 COMPLETE": {
+    "translation": "第二关完成 翻译：Asteri3m"
+  },
+  "STAGE 3 COMPLETE": {
+    "translation": "第三关完成 翻译：Asteri3m"
+  },
+  "STAGE FAILED - OUT OF TIME": {
+    "translation": "关卡失败-超时"
+  },
+  "Search the boxes for a fuel canister": {
+    "translation": "在箱子中搜索燃料罐"
+  },
+  "Security system has been alerted": {
+    "translation": "安全系统已被警报"
+  },
+  "Stage 1 - Awakening": {
+    "translation": "第一关-觉醒"
+  },
+  "Stage 2 - Inner Facility": {
+    "translation": "第二关-内部设施"
+  },
+  "Stage 3 - Iron Fortress": {
+    "translation": "第三关-钢铁堡垒"
+  },
+  "Stage 4 -": {
+    "translation": "第四关-"
+  },
+  "TO BE CONTINUED...": {
+    "translation": "待续..."
+  },
+  "Temple door opens in 25 seconds": {
+    "translation": "神庙门将在25秒后开启"
+  },
+  "Temple door opens in 5 seconds": {
+    "translation": "神庙门将在5秒后开启"
+  },
+  "The boxes have stopped": {
+    "translation": "箱子已停止"
+  },
+  "The car has enough fuel for a little more!": {
+    "translation": "车的燃料还够用一点！"
+  },
+  "The car has ran out of fuel...": {
+    "translation": "车已经没油了…"
+  },
+  "The door has opened!": {
+    "translation": "门已开启！"
+  },
+  "The gate appears to be stuck": {
+    "translation": "大门似乎卡住了"
+  },
+  "The gate is about to open!": {
+    "translation": "大门即将打开！"
+  },
+  "The gate should open soon! Keep holding!": {
+    "translation": "大门应该很快就会打开！继续防守！"
+  },
+  "There are boxes incoming again!": {
+    "translation": "又有箱子来了！"
+  },
+  "There are boxes incoming, we should get on them!": {
+    "translation": "有箱子来了，我们应该上去！"
+  },
+  "There is a platform incoming!": {
+    "translation": "有个平台来了！"
+  },
+  "This is our last hold. Resist!": {
+    "translation": "这是我们的最后防守。抵抗！"
+  },
+  "This place seems to have traps as well": {
+    "translation": "这个地方似乎也有陷阱"
+  },
+  "Use the car to break the grates!": {
+    "translation": "用车子打破格栅！"
+  },
+  "Use the car to get the bridge down!": {
+    "translation": "用车子把桥放下来！"
+  },
+  "Warmup round": {
+    "translation": "热身回合"
   },
   "Watch out for barriers up ahead!": {
-    "translation": ""
+    "translation": "小心前方的障碍物！"
+  },
+  "Water levels lowering": {
+    "translation": "水位正在降低"
+  },
+  "Water levels rising": {
+    "translation": "水位正在上升"
+  },
+  "Water levels rising in 30 seconds": {
+    "translation": "水位将在30秒后上升"
+  },
+  "Water will rise again in 25 seconds": {
+    "translation": "水位将在25秒后再次上升"
+  },
+  "We cannot pass through the barrier! Get down!": {
+    "translation": "我们无法通过障碍物！趴下！"
+  },
+  "We have to press both buttons to progress": {
+    "translation": "我们必须按下两个按钮才能继续"
+  },
+  "We need to get the water level higher": {
+    "translation": "我们需要把水位提高"
+  },
+  "We only have about 4 minutes left to leave this place": {
+    "translation": "我们只有大约240秒的时间离开这个地方"
+  },
+  "We only have about 5 minutes left to leave this place": {
+    "translation": "我们只有大约300秒的时间离开这个地方"
+  },
+  "We should be more careful": {
+    "translation": "我们应该更加小心"
   }
 }
