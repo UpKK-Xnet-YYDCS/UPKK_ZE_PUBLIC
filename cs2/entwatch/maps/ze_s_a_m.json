@@ -236,7 +236,7 @@
 		"Name": "Kirito",
 		"ShortName": "Kirito",
 		"Color": "{default}",
-		"HammerID": 11545,
+		"HammerID": 12869,
 		"GlowColor": [255,255,255,255],
 		"BlockPickup": false,
 		"AllowTransfer": false,
@@ -248,12 +248,26 @@
 		"AbilityList": [
 			{
 				"Name": "",
-				"ButtonID": 7575,
+				"ButtonID": 0,
+				"ButtonClass": "",
+				"Filter": "",
+				"Chat_Uses": false,
+				"Mode": 7,
+				"MaxUses": 0,
+				"CoolDown": 0,
+				"Ignore": false,
+				"LockItem": false,
+				"MathID": 12891,
+				"MathNameFix": false
+			},
+			{
+				"Name": "S_Item_Kirito_Button_2",
+				"ButtonID": 12892,
 				"ButtonClass": "func_button",
 				"Filter": "",
 				"Chat_Uses": true,
-				"Mode": 4,
-				"MaxUses": 3,
+				"Mode": 2,
+				"MaxUses": 0,
 				"CoolDown": 60
 			}
 		]
