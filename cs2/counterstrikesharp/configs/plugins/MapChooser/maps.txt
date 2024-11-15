@@ -12,8 +12,8 @@
 	{
 		"workshop_id"		"3128321209"
 		"enabled"		"1"
-		"filename"		"ze_otakuroom"
-		"updatedname"		"ze_otakuroom_pt"
+		"filename"		"ze_otakuroom_pt"
+		"updatedname"		"ze_otakuroom"
 	}
 	"ze_abandoned_industry_p"
 	{
@@ -1235,13 +1235,6 @@
 		"filename"		"ze_minecratix"
 		"updatedname"		"ze_minecratix"
 	}
-	"ze_sagreen_cs2"
-	{
-		"workshop_id"		"3216713106"
-		"enabled"		"0"
-		"filename"		"ze_sagreen_cs2"
-		"updatedname"		"ze_sagreen_cs2"
-	}
 	"ze_kraznov_poopata_p"
 	{
 		"workshop_id"		"3256534578"
@@ -1312,12 +1305,12 @@
 		"filename"		"ze_ShroomForest2_p"
 		"updatedname"		"ze_ShroomForest2_p"
 	}
-	"ze_bluearchive_abydos_b1"
+	"ze_bluearchive_abydos"
 	{
 		"workshop_id"		"3261481731"
 		"enabled"		"1"
-		"filename"		"ze_bluearchive_abydos"
-		"updatedname"		"ze_bluearchive_abydos_b1"
+		"filename"		"ze_bluearchive_abydos_b1"
+		"updatedname"		"ze_bluearchive_abydos"
 	}
 	"ze_basic_geometric"
 	{
@@ -2062,12 +2055,12 @@
 		"filename"		"ze_rooftop_rogue_ws"
 		"updatedname"		"ze_rooftop_rogue_ws"
 	}
-	"ze_ny_marathon_p2"
+	"ze_ny_marathon_cs2"
 	{
 		"workshop_id"		"3321297949"
 		"enabled"		"1"
-		"filename"		"ze_ny_marathon_p2"
-		"updatedname"		"ze_ny_marathon_p2"
+		"filename"		"ze_ny_marathon_cs2"
+		"updatedname"		"ze_ny_marathon_cs2"
 	}
 	"ze_easy_escape_v4"
 	{
@@ -2429,12 +2422,12 @@
 		"filename"		"ze_embertwin_v1"
 		"updatedname"		"ze_embertwin_v1"
 	}
-	"ze_opti_variety_missions_cs2_l"
+	"ze_opti_variety_missions_p"
 	{
-		"workshop_id"		"3358886836"
+		"workshop_id"		"3364323435"
 		"enabled"		"1"
-		"filename"		"ze_opti_variety_missions_cs2_l"
-		"updatedname"		"ze_opti_variety_missions_cs2_l"
+		"filename"		"ze_opti_variety_missions_p"
+		"updatedname"		"ze_opti_variety_missions_p"
 	}
 	"ze_2049"
 	{
@@ -2498,5 +2491,26 @@
 		"enabled"		"1"
 		"filename"		"ze_djinn"
 		"updatedname"		"ze_Djinn"
+	}
+	"ze_luminous_escape"
+	{
+		"workshop_id"		"3365075321"
+		"enabled"		"1"
+		"filename"		"ze_luminous_escape"
+		"updatedname"		"ze_luminous_escape"
+	}
+	"ze_rtv_one_more_p"
+	{
+		"workshop_id"		"3365173481"
+		"enabled"		"1"
+		"filename"		"ze_rtv_one_more_p"
+		"updatedname"		"ze_rtv_one_more_p"
+	}
+	"ze_30_seconds_p"
+	{
+		"workshop_id"		"3365639552"
+		"enabled"		"1"
+		"filename"		"ze_30_seconds_p"
+		"updatedname"		"ze_30_seconds_p"
 	}
 }
