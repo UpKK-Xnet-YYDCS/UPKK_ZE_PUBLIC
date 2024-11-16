@@ -1,9 +1,9 @@
 [
     {
-        "Name": "wep_fire",
-        "ShortName": "wep_fire",
+        "Name": "item_wind_gun",
+        "ShortName": "item_wind_gun",
         "Color": "{default}",
-        "HammerID": "1428",
+        "HammerID": "1102",
         "GlowColor": [
             255,
             255,
@@ -31,10 +31,10 @@
         ]
     },
     {
-        "Name": "wep_dmg",
-        "ShortName": "wep_dmg",
+        "Name": "Item_Pistol",
+        "ShortName": "Item_Pistol",
         "Color": "{default}",
-        "HammerID": "1453",
+        "HammerID": "2479",
         "GlowColor": [
             255,
             255,
@@ -62,41 +62,10 @@
         ]
     },
     {
-        "Name": "wep_slow",
-        "ShortName": "wep_slow",
+        "Name": "Shackles_Knife",
+        "ShortName": "Shackles_Knife",
         "Color": "{default}",
-        "HammerID": "1482",
-        "GlowColor": [
-            255,
-            255,
-            255,
-            255
-        ],
-        "BlockPickup": false,
-        "AllowTransfer": true,
-        "ForceDrop": true,
-        "Chat": true,
-        "Hud": true,
-        "TriggerID": 0,
-        "UsePriority": true,
-        "AbilityList": [
-            {
-                "Name": "weapon_elite",
-                "ButtonID": 0,
-                "ButtonClass": "",
-                "Filter": "",
-                "Chat_Uses": true,
-                "Mode": 1,
-                "MaxUses": 0,
-                "CoolDown": 0
-            }
-        ]
-    },
-    {
-        "Name": "wep_zspeed",
-        "ShortName": "wep_zspeed",
-        "Color": "{default}",
-        "HammerID": "1509",
+        "HammerID": "2658",
         "GlowColor": [
             255,
             255,
@@ -124,10 +93,10 @@
         ]
     },
     {
-        "Name": "wep_zgravity",
-        "ShortName": "wep_zgravity",
+        "Name": "Shackles_Knife2",
+        "ShortName": "Shackles_Knife2",
         "Color": "{default}",
-        "HammerID": "1521",
+        "HammerID": "2702",
         "GlowColor": [
             255,
             255,
@@ -155,10 +124,165 @@
         ]
     },
     {
-        "Name": "wep_key_blue",
-        "ShortName": "wep_key_blue",
+        "Name": "item_zm1_knife",
+        "ShortName": "item_zm1_knife",
         "Color": "{default}",
-        "HammerID": "1877",
+        "HammerID": "1121",
+        "GlowColor": [
+            255,
+            255,
+            255,
+            255
+        ],
+        "BlockPickup": false,
+        "AllowTransfer": true,
+        "ForceDrop": true,
+        "Chat": true,
+        "Hud": true,
+        "TriggerID": 0,
+        "UsePriority": true,
+        "AbilityList": [
+            {
+                "Name": "weapon_knife",
+                "ButtonID": 0,
+                "ButtonClass": "",
+                "Filter": "",
+                "Chat_Uses": true,
+                "Mode": 1,
+                "MaxUses": 0,
+                "CoolDown": 0
+            }
+        ]
+    },
+    {
+        "Name": "item_zm2_knife",
+        "ShortName": "item_zm2_knife",
+        "Color": "{default}",
+        "HammerID": "894",
+        "GlowColor": [
+            255,
+            255,
+            255,
+            255
+        ],
+        "BlockPickup": false,
+        "AllowTransfer": true,
+        "ForceDrop": true,
+        "Chat": true,
+        "Hud": true,
+        "TriggerID": 0,
+        "UsePriority": true,
+        "AbilityList": [
+            {
+                "Name": "weapon_knife",
+                "ButtonID": 0,
+                "ButtonClass": "",
+                "Filter": "",
+                "Chat_Uses": true,
+                "Mode": 1,
+                "MaxUses": 0,
+                "CoolDown": 0
+            }
+        ]
+    },
+    {
+        "Name": "item_zm3_knife",
+        "ShortName": "item_zm3_knife",
+        "Color": "{default}",
+        "HammerID": "861",
+        "GlowColor": [
+            255,
+            255,
+            255,
+            255
+        ],
+        "BlockPickup": false,
+        "AllowTransfer": true,
+        "ForceDrop": true,
+        "Chat": true,
+        "Hud": true,
+        "TriggerID": 0,
+        "UsePriority": true,
+        "AbilityList": [
+            {
+                "Name": "weapon_knife",
+                "ButtonID": 0,
+                "ButtonClass": "",
+                "Filter": "",
+                "Chat_Uses": true,
+                "Mode": 1,
+                "MaxUses": 0,
+                "CoolDown": 0
+            }
+        ]
+    },
+    {
+        "Name": "item_zm4_knife",
+        "ShortName": "item_zm4_knife",
+        "Color": "{default}",
+        "HammerID": "871",
+        "GlowColor": [
+            255,
+            255,
+            255,
+            255
+        ],
+        "BlockPickup": false,
+        "AllowTransfer": true,
+        "ForceDrop": true,
+        "Chat": true,
+        "Hud": true,
+        "TriggerID": 0,
+        "UsePriority": true,
+        "AbilityList": [
+            {
+                "Name": "weapon_knife",
+                "ButtonID": 0,
+                "ButtonClass": "",
+                "Filter": "",
+                "Chat_Uses": true,
+                "Mode": 1,
+                "MaxUses": 0,
+                "CoolDown": 0
+            }
+        ]
+    },
+    {
+        "Name": "item_zm5_knife",
+        "ShortName": "item_zm5_knife",
+        "Color": "{default}",
+        "HammerID": "879",
+        "GlowColor": [
+            255,
+            255,
+            255,
+            255
+        ],
+        "BlockPickup": false,
+        "AllowTransfer": true,
+        "ForceDrop": true,
+        "Chat": true,
+        "Hud": true,
+        "TriggerID": 0,
+        "UsePriority": true,
+        "AbilityList": [
+            {
+                "Name": "weapon_knife",
+                "ButtonID": 0,
+                "ButtonClass": "",
+                "Filter": "",
+                "Chat_Uses": true,
+                "Mode": 1,
+                "MaxUses": 0,
+                "CoolDown": 0
+            }
+        ]
+    },
+    {
+        "Name": "item_hm5_elite",
+        "ShortName": "item_hm5_elite",
+        "Color": "{default}",
+        "HammerID": "770",
         "GlowColor": [
             255,
             255,
@@ -186,10 +310,10 @@
         ]
     },
     {
-        "Name": "wep_key_pink",
-        "ShortName": "wep_key_pink",
+        "Name": "item_hm1_elite",
+        "ShortName": "item_hm1_elite",
         "Color": "{default}",
-        "HammerID": "1881",
+        "HammerID": "787",
         "GlowColor": [
             255,
             255,
@@ -217,10 +341,10 @@
         ]
     },
     {
-        "Name": "wep_shadow",
-        "ShortName": "wep_shadow",
+        "Name": "item_hm3_elite",
+        "ShortName": "item_hm3_elite",
         "Color": "{default}",
-        "HammerID": "2117",
+        "HammerID": "821",
         "GlowColor": [
             255,
             255,
@@ -236,7 +360,7 @@
         "UsePriority": true,
         "AbilityList": [
             {
-                "Name": "weapon_bizon",
+                "Name": "weapon_elite",
                 "ButtonID": 0,
                 "ButtonClass": "",
                 "Filter": "",
@@ -248,10 +372,10 @@
         ]
     },
     {
-        "Name": "ep1_midran",
-        "ShortName": "ep1_midran",
+        "Name": "item_hm4_elite",
+        "ShortName": "item_hm4_elite",
         "Color": "{default}",
-        "HammerID": "2137",
+        "HammerID": "833",
         "GlowColor": [
             255,
             255,
@@ -267,286 +391,7 @@
         "UsePriority": true,
         "AbilityList": [
             {
-                "Name": "weapon_bizon",
-                "ButtonID": 0,
-                "ButtonClass": "",
-                "Filter": "",
-                "Chat_Uses": true,
-                "Mode": 1,
-                "MaxUses": 0,
-                "CoolDown": 0
-            }
-        ]
-    },
-    {
-        "Name": "wep_rold",
-        "ShortName": "wep_rold",
-        "Color": "{default}",
-        "HammerID": "2142",
-        "GlowColor": [
-            255,
-            255,
-            255,
-            255
-        ],
-        "BlockPickup": false,
-        "AllowTransfer": true,
-        "ForceDrop": true,
-        "Chat": true,
-        "Hud": true,
-        "TriggerID": 0,
-        "UsePriority": true,
-        "AbilityList": [
-            {
-                "Name": "weapon_bizon",
-                "ButtonID": 0,
-                "ButtonClass": "",
-                "Filter": "",
-                "Chat_Uses": true,
-                "Mode": 1,
-                "MaxUses": 0,
-                "CoolDown": 0
-            }
-        ]
-    },
-    {
-        "Name": "wep_colin",
-        "ShortName": "wep_colin",
-        "Color": "{default}",
-        "HammerID": "2147",
-        "GlowColor": [
-            255,
-            255,
-            255,
-            255
-        ],
-        "BlockPickup": false,
-        "AllowTransfer": true,
-        "ForceDrop": true,
-        "Chat": true,
-        "Hud": true,
-        "TriggerID": 0,
-        "UsePriority": true,
-        "AbilityList": [
-            {
-                "Name": "weapon_bizon",
-                "ButtonID": 0,
-                "ButtonClass": "",
-                "Filter": "",
-                "Chat_Uses": true,
-                "Mode": 1,
-                "MaxUses": 0,
-                "CoolDown": 0
-            }
-        ]
-    },
-    {
-        "Name": "wep_cosma",
-        "ShortName": "wep_cosma",
-        "Color": "{default}",
-        "HammerID": "2152",
-        "GlowColor": [
-            255,
-            255,
-            255,
-            255
-        ],
-        "BlockPickup": false,
-        "AllowTransfer": true,
-        "ForceDrop": true,
-        "Chat": true,
-        "Hud": true,
-        "TriggerID": 0,
-        "UsePriority": true,
-        "AbilityList": [
-            {
-                "Name": "weapon_bizon",
-                "ButtonID": 0,
-                "ButtonClass": "",
-                "Filter": "",
-                "Chat_Uses": true,
-                "Mode": 1,
-                "MaxUses": 0,
-                "CoolDown": 0
-            }
-        ]
-    },
-    {
-        "Name": "wep_elias",
-        "ShortName": "wep_elias",
-        "Color": "{default}",
-        "HammerID": "2157",
-        "GlowColor": [
-            255,
-            255,
-            255,
-            255
-        ],
-        "BlockPickup": false,
-        "AllowTransfer": true,
-        "ForceDrop": true,
-        "Chat": true,
-        "Hud": true,
-        "TriggerID": 0,
-        "UsePriority": true,
-        "AbilityList": [
-            {
-                "Name": "weapon_bizon",
-                "ButtonID": 0,
-                "ButtonClass": "",
-                "Filter": "",
-                "Chat_Uses": true,
-                "Mode": 1,
-                "MaxUses": 0,
-                "CoolDown": 0
-            }
-        ]
-    },
-    {
-        "Name": "wep_platin",
-        "ShortName": "wep_platin",
-        "Color": "{default}",
-        "HammerID": "2162",
-        "GlowColor": [
-            255,
-            255,
-            255,
-            255
-        ],
-        "BlockPickup": false,
-        "AllowTransfer": true,
-        "ForceDrop": true,
-        "Chat": true,
-        "Hud": true,
-        "TriggerID": 0,
-        "UsePriority": true,
-        "AbilityList": [
-            {
-                "Name": "weapon_bizon",
-                "ButtonID": 0,
-                "ButtonClass": "",
-                "Filter": "",
-                "Chat_Uses": true,
-                "Mode": 1,
-                "MaxUses": 0,
-                "CoolDown": 0
-            }
-        ]
-    },
-    {
-        "Name": "wep_lonefang",
-        "ShortName": "wep_lonefang",
-        "Color": "{default}",
-        "HammerID": "2167",
-        "GlowColor": [
-            255,
-            255,
-            255,
-            255
-        ],
-        "BlockPickup": false,
-        "AllowTransfer": true,
-        "ForceDrop": true,
-        "Chat": true,
-        "Hud": true,
-        "TriggerID": 0,
-        "UsePriority": true,
-        "AbilityList": [
-            {
-                "Name": "weapon_bizon",
-                "ButtonID": 0,
-                "ButtonClass": "",
-                "Filter": "",
-                "Chat_Uses": true,
-                "Mode": 1,
-                "MaxUses": 0,
-                "CoolDown": 0
-            }
-        ]
-    },
-    {
-        "Name": "wep_geo",
-        "ShortName": "wep_geo",
-        "Color": "{default}",
-        "HammerID": "2172",
-        "GlowColor": [
-            255,
-            255,
-            255,
-            255
-        ],
-        "BlockPickup": false,
-        "AllowTransfer": true,
-        "ForceDrop": true,
-        "Chat": true,
-        "Hud": true,
-        "TriggerID": 0,
-        "UsePriority": true,
-        "AbilityList": [
-            {
-                "Name": "weapon_bizon",
-                "ButtonID": 0,
-                "ButtonClass": "",
-                "Filter": "",
-                "Chat_Uses": true,
-                "Mode": 1,
-                "MaxUses": 0,
-                "CoolDown": 0
-            }
-        ]
-    },
-    {
-        "Name": "wep_enzi",
-        "ShortName": "wep_enzi",
-        "Color": "{default}",
-        "HammerID": "2177",
-        "GlowColor": [
-            255,
-            255,
-            255,
-            255
-        ],
-        "BlockPickup": false,
-        "AllowTransfer": true,
-        "ForceDrop": true,
-        "Chat": true,
-        "Hud": true,
-        "TriggerID": 0,
-        "UsePriority": true,
-        "AbilityList": [
-            {
-                "Name": "weapon_bizon",
-                "ButtonID": 0,
-                "ButtonClass": "",
-                "Filter": "",
-                "Chat_Uses": true,
-                "Mode": 1,
-                "MaxUses": 0,
-                "CoolDown": 0
-            }
-        ]
-    },
-    {
-        "Name": "wep_supa",
-        "ShortName": "wep_supa",
-        "Color": "{default}",
-        "HammerID": "2182",
-        "GlowColor": [
-            255,
-            255,
-            255,
-            255
-        ],
-        "BlockPickup": false,
-        "AllowTransfer": true,
-        "ForceDrop": true,
-        "Chat": true,
-        "Hud": true,
-        "TriggerID": 0,
-        "UsePriority": true,
-        "AbilityList": [
-            {
-                "Name": "weapon_bizon",
+                "Name": "weapon_elite",
                 "ButtonID": 0,
                 "ButtonClass": "",
                 "Filter": "",

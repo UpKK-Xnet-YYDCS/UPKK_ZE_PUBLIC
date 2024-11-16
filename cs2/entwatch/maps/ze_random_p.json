@@ -1,0 +1,281 @@
+[
+    {
+        "Name": "bush",
+        "ShortName": "bush",
+        "Color": "{default}",
+        "HammerID": "742",
+        "GlowColor": [
+            255,
+            255,
+            255,
+            255
+        ],
+        "BlockPickup": false,
+        "AllowTransfer": true,
+        "ForceDrop": true,
+        "Chat": true,
+        "Hud": true,
+        "TriggerID": 0,
+        "UsePriority": true,
+        "AbilityList": [
+            {
+                "Name": "weapon_hegrenade",
+                "ButtonID": 0,
+                "ButtonClass": "",
+                "Filter": "",
+                "Chat_Uses": true,
+                "Mode": 1,
+                "MaxUses": 0,
+                "CoolDown": 0
+            }
+        ]
+    },
+    {
+        "Name": "Box",
+        "ShortName": "Box",
+        "Color": "{default}",
+        "HammerID": "743",
+        "GlowColor": [
+            255,
+            255,
+            255,
+            255
+        ],
+        "BlockPickup": false,
+        "AllowTransfer": true,
+        "ForceDrop": true,
+        "Chat": true,
+        "Hud": true,
+        "TriggerID": 0,
+        "UsePriority": true,
+        "AbilityList": [
+            {
+                "Name": "weapon_hegrenade",
+                "ButtonID": 0,
+                "ButtonClass": "",
+                "Filter": "",
+                "Chat_Uses": true,
+                "Mode": 1,
+                "MaxUses": 0,
+                "CoolDown": 0
+            }
+        ]
+    },
+    {
+        "Name": "PT",
+        "ShortName": "PT",
+        "Color": "{default}",
+        "HammerID": "1128",
+        "GlowColor": [
+            255,
+            255,
+            255,
+            255
+        ],
+        "BlockPickup": false,
+        "AllowTransfer": true,
+        "ForceDrop": true,
+        "Chat": true,
+        "Hud": true,
+        "TriggerID": 0,
+        "UsePriority": true,
+        "AbilityList": [
+            {
+                "Name": "weapon_hegrenade",
+                "ButtonID": 0,
+                "ButtonClass": "",
+                "Filter": "",
+                "Chat_Uses": true,
+                "Mode": 1,
+                "MaxUses": 0,
+                "CoolDown": 0
+            }
+        ]
+    },
+    {
+        "Name": "LS",
+        "ShortName": "LS",
+        "Color": "{default}",
+        "HammerID": "1227",
+        "GlowColor": [
+            255,
+            255,
+            255,
+            255
+        ],
+        "BlockPickup": false,
+        "AllowTransfer": true,
+        "ForceDrop": true,
+        "Chat": true,
+        "Hud": true,
+        "TriggerID": 0,
+        "UsePriority": true,
+        "AbilityList": [
+            {
+                "Name": "weapon_hegrenade",
+                "ButtonID": 0,
+                "ButtonClass": "",
+                "Filter": "",
+                "Chat_Uses": true,
+                "Mode": 1,
+                "MaxUses": 0,
+                "CoolDown": 0
+            }
+        ]
+    },
+    {
+        "Name": "FL",
+        "ShortName": "FL",
+        "Color": "{default}",
+        "HammerID": "1406",
+        "GlowColor": [
+            255,
+            255,
+            255,
+            255
+        ],
+        "BlockPickup": false,
+        "AllowTransfer": true,
+        "ForceDrop": true,
+        "Chat": true,
+        "Hud": true,
+        "TriggerID": 0,
+        "UsePriority": true,
+        "AbilityList": [
+            {
+                "Name": "weapon_hegrenade",
+                "ButtonID": 0,
+                "ButtonClass": "",
+                "Filter": "",
+                "Chat_Uses": true,
+                "Mode": 1,
+                "MaxUses": 0,
+                "CoolDown": 0
+            }
+        ]
+    },
+    {
+        "Name": "broom",
+        "ShortName": "broom",
+        "Color": "{default}",
+        "HammerID": "1964",
+        "GlowColor": [
+            255,
+            255,
+            255,
+            255
+        ],
+        "BlockPickup": false,
+        "AllowTransfer": true,
+        "ForceDrop": true,
+        "Chat": true,
+        "Hud": true,
+        "TriggerID": 0,
+        "UsePriority": true,
+        "AbilityList": [
+            {
+                "Name": "weapon_hegrenade",
+                "ButtonID": 0,
+                "ButtonClass": "",
+                "Filter": "",
+                "Chat_Uses": true,
+                "Mode": 1,
+                "MaxUses": 0,
+                "CoolDown": 0
+            }
+        ]
+    },
+    {
+        "Name": "gyro",
+        "ShortName": "gyro",
+        "Color": "{default}",
+        "HammerID": "1965",
+        "GlowColor": [
+            255,
+            255,
+            255,
+            255
+        ],
+        "BlockPickup": false,
+        "AllowTransfer": true,
+        "ForceDrop": true,
+        "Chat": true,
+        "Hud": true,
+        "TriggerID": 0,
+        "UsePriority": true,
+        "AbilityList": [
+            {
+                "Name": "weapon_hegrenade",
+                "ButtonID": 0,
+                "ButtonClass": "",
+                "Filter": "",
+                "Chat_Uses": true,
+                "Mode": 1,
+                "MaxUses": 0,
+                "CoolDown": 0
+            }
+        ]
+    },
+    {
+        "Name": "tv",
+        "ShortName": "tv",
+        "Color": "{default}",
+        "HammerID": "1966",
+        "GlowColor": [
+            255,
+            255,
+            255,
+            255
+        ],
+        "BlockPickup": false,
+        "AllowTransfer": true,
+        "ForceDrop": true,
+        "Chat": true,
+        "Hud": true,
+        "TriggerID": 0,
+        "UsePriority": true,
+        "AbilityList": [
+            {
+                "Name": "weapon_hegrenade",
+                "ButtonID": 0,
+                "ButtonClass": "",
+                "Filter": "",
+                "Chat_Uses": true,
+                "Mode": 1,
+                "MaxUses": 0,
+                "CoolDown": 0
+            }
+        ]
+    },
+    {
+        "Name": "VM",
+        "ShortName": "VM",
+        "Color": "{default}",
+        "HammerID": "1994",
+        "GlowColor": [
+            255,
+            255,
+            255,
+            255
+        ],
+        "BlockPickup": false,
+        "AllowTransfer": true,
+        "ForceDrop": true,
+        "Chat": true,
+        "Hud": true,
+        "TriggerID": 0,
+        "UsePriority": true,
+        "AbilityList": [
+            {
+                "Name": "weapon_hegrenade",
+                "ButtonID": 0,
+                "ButtonClass": "",
+                "Filter": "",
+                "Chat_Uses": true,
+                "Mode": 1,
+                "MaxUses": 0,
+                "CoolDown": 0
+            }
+        ]
+    }
+]
