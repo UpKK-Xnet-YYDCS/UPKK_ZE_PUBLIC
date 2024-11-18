@@ -1683,12 +1683,12 @@
 		"filename"		"ze_FFVII_Mako_v6_p"
 		"updatedname"		"ze_FFVII_Mako_Reactor_v6_p"
 	}
-	"ze_mars_escape_xmas_p"
+	"ze_mars_escape_xmas"
 	{
 		"workshop_id"		"3104693607"
 		"enabled"		"1"
-		"filename"		"ze_mars_escape_xmas_p"
-		"updatedname"		"ze_mars_escape_xmas_p"
+		"filename"		"ze_mars_escape_xmas"
+		"updatedname"		"ze_mars_escape_xmas"
 	}
 	"ze_FFVII_Mako_Reactor_v5_3"
 	{
@@ -2520,13 +2520,6 @@
 		"filename"		"ze_rt1_torontoisland_cs2"
 		"updatedname"		"ze_rt1_torontoisland_cs2"
 	}
-	"ze_mars_escape_xmas"
-	{
-		"workshop_id"		"3363652806"
-		"enabled"		"1"
-		"filename"		"ze_mars_escape_xmas"
-		"updatedname"		"ze_mars_escape_xmas"
-	}
 	"ze_obj_ouroboros_aurora"
 	{
 		"workshop_id"		"3353097518"
@@ -2538,8 +2531,22 @@
 	"ze_pd2_crime_art"
 	{
 		"workshop_id"		"3366678704"
-		"enabled"		"0"
+		"enabled"		"1"
 		"filename"		"ze_pd2_crime_art"
 		"updatedname"		"ze_pd2_crime_art"
+	}
+	"ze_dnb_realms"
+	{
+		"workshop_id"		"3367623638"
+		"enabled"		"1"
+		"filename"		"ze_dnb_realms_a1"
+		"updatedname"		"ze_dnb_realms"
+	}
+	"ze_toaster_p"
+	{
+		"workshop_id"		"3367711562"
+		"enabled"		"1"
+		"filename"		"ze_toaster_p"
+		"updatedname"		"ze_toaster_p"
 	}
 }
