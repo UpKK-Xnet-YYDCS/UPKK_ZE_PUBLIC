@@ -4,12 +4,7 @@
 		"ShortName": "firegun",
 		"Color": "{default}",
 		"HammerID": "974",
-		"GlowColor": [
-			255,
-			255,
-			255,
-			255
-		],
+		"GlowColor": [255,255,255,255],
 		"BlockPickup": false,
 		"AllowTransfer": true,
 		"ForceDrop": true,

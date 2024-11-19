@@ -4,12 +4,7 @@
 		"ShortName": "heal_elite",
 		"Color": "{default}",
 		"HammerID": "31069",
-		"GlowColor": [
-			255,
-			255,
-			255,
-			255
-		],
+		"GlowColor": [255,255,255,255],
 		"BlockPickup": false,
 		"AllowTransfer": true,
 		"ForceDrop": true,
@@ -35,12 +30,7 @@
 		"ShortName": "item_wind_gun",
 		"Color": "{default}",
 		"HammerID": "31104",
-		"GlowColor": [
-			255,
-			255,
-			255,
-			255
-		],
+		"GlowColor": [255,255,255,255],
 		"BlockPickup": false,
 		"AllowTransfer": true,
 		"ForceDrop": true,
@@ -66,12 +56,7 @@
 		"ShortName": "item_zombie_speed",
 		"Color": "{default}",
 		"HammerID": "31121",
-		"GlowColor": [
-			255,
-			255,
-			255,
-			255
-		],
+		"GlowColor": [255,255,255,255],
 		"BlockPickup": false,
 		"AllowTransfer": true,
 		"ForceDrop": true,

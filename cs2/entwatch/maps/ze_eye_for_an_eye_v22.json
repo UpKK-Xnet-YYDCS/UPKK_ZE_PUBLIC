@@ -4,12 +4,7 @@
 		"ShortName": "fire_weapon",
 		"Color": "{default}",
 		"HammerID": "16991",
-		"GlowColor": [
-			255,
-			255,
-			255,
-			255
-		],
+		"GlowColor": [255,255,255,255],
 		"BlockPickup": false,
 		"AllowTransfer": true,
 		"ForceDrop": true,
@@ -35,12 +30,7 @@
 		"ShortName": "ice_weapon",
 		"Color": "{default}",
 		"HammerID": "17002",
-		"GlowColor": [
-			255,
-			255,
-			255,
-			255
-		],
+		"GlowColor": [255,255,255,255],
 		"BlockPickup": false,
 		"AllowTransfer": true,
 		"ForceDrop": true,
@@ -66,12 +56,7 @@
 		"ShortName": "eye_weapon",
 		"Color": "{default}",
 		"HammerID": "17020",
-		"GlowColor": [
-			255,
-			255,
-			255,
-			255
-		],
+		"GlowColor": [255,255,255,255],
 		"BlockPickup": false,
 		"AllowTransfer": true,
 		"ForceDrop": true,
@@ -97,12 +82,7 @@
 		"ShortName": "Item_Ammo",
 		"Color": "{default}",
 		"HammerID": "17033",
-		"GlowColor": [
-			255,
-			255,
-			255,
-			255
-		],
+		"GlowColor": [255,255,255,255],
 		"BlockPickup": false,
 		"AllowTransfer": true,
 		"ForceDrop": true,
@@ -128,12 +108,7 @@
 		"ShortName": "order_knife",
 		"Color": "{default}",
 		"HammerID": "17056",
-		"GlowColor": [
-			255,
-			255,
-			255,
-			255
-		],
+		"GlowColor": [255,255,255,255],
 		"BlockPickup": false,
 		"AllowTransfer": true,
 		"ForceDrop": true,
@@ -159,12 +134,7 @@
 		"ShortName": "Item_heal",
 		"Color": "{default}",
 		"HammerID": "17023",
-		"GlowColor": [
-			255,
-			255,
-			255,
-			255
-		],
+		"GlowColor": [255,255,255,255],
 		"BlockPickup": false,
 		"AllowTransfer": true,
 		"ForceDrop": true,

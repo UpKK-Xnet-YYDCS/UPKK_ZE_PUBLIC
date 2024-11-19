@@ -4,12 +4,7 @@
 		"ShortName": "Item_Train_Elite",
 		"Color": "{default}",
 		"HammerID": "1260",
-		"GlowColor": [
-			255,
-			255,
-			255,
-			255
-		],
+		"GlowColor": [255,255,255,255],
 		"BlockPickup": false,
 		"AllowTransfer": true,
 		"ForceDrop": true,
@@ -35,12 +30,7 @@
 		"ShortName": "Item_Heal_Elite",
 		"Color": "{default}",
 		"HammerID": "1981",
-		"GlowColor": [
-			255,
-			255,
-			255,
-			255
-		],
+		"GlowColor": [255,255,255,255],
 		"BlockPickup": false,
 		"AllowTransfer": true,
 		"ForceDrop": true,
@@ -66,12 +56,7 @@
 		"ShortName": "Item_Cirno_Kinfe",
 		"Color": "{default}",
 		"HammerID": "2190",
-		"GlowColor": [
-			255,
-			255,
-			255,
-			255
-		],
+		"GlowColor": [255,255,255,255],
 		"BlockPickup": false,
 		"AllowTransfer": true,
 		"ForceDrop": true,

@@ -4,12 +4,7 @@
 		"ShortName": "blackhole_gun",
 		"Color": "{default}",
 		"HammerID": "38724",
-		"GlowColor": [
-			255,
-			255,
-			255,
-			255
-		],
+		"GlowColor": [255,255,255,255],
 		"BlockPickup": false,
 		"AllowTransfer": true,
 		"ForceDrop": true,
@@ -35,12 +30,7 @@
 		"ShortName": "heal_gun",
 		"Color": "{default}",
 		"HammerID": "38786",
-		"GlowColor": [
-			255,
-			255,
-			255,
-			255
-		],
+		"GlowColor": [255,255,255,255],
 		"BlockPickup": false,
 		"AllowTransfer": true,
 		"ForceDrop": true,

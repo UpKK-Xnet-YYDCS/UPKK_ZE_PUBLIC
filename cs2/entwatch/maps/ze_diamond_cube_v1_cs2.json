@@ -4,12 +4,7 @@
 		"ShortName": "wall_item_gun&0000",
 		"Color": "{default}",
 		"HammerID": "201",
-		"GlowColor": [
-			255,
-			255,
-			255,
-			255
-		],
+		"GlowColor": [255,255,255,255],
 		"BlockPickup": false,
 		"AllowTransfer": true,
 		"ForceDrop": true,

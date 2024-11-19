@@ -4,12 +4,7 @@
 		"ShortName": "heal_el",
 		"Color": "{default}",
 		"HammerID": "405",
-		"GlowColor": [
-			255,
-			255,
-			255,
-			255
-		],
+		"GlowColor": [255,255,255,255],
 		"BlockPickup": false,
 		"AllowTransfer": true,
 		"ForceDrop": true,
@@ -35,12 +30,7 @@
 		"ShortName": "ice_el",
 		"Color": "{default}",
 		"HammerID": "427",
-		"GlowColor": [
-			255,
-			255,
-			255,
-			255
-		],
+		"GlowColor": [255,255,255,255],
 		"BlockPickup": false,
 		"AllowTransfer": true,
 		"ForceDrop": true,
@@ -66,12 +56,7 @@
 		"ShortName": "fire_el",
 		"Color": "{default}",
 		"HammerID": "949",
-		"GlowColor": [
-			255,
-			255,
-			255,
-			255
-		],
+		"GlowColor": [255,255,255,255],
 		"BlockPickup": false,
 		"AllowTransfer": true,
 		"ForceDrop": true,
@@ -97,12 +82,7 @@
 		"ShortName": "Item_Mech_Knife",
 		"Color": "{default}",
 		"HammerID": "5647",
-		"GlowColor": [
-			255,
-			255,
-			255,
-			255
-		],
+		"GlowColor": [255,255,255,255],
 		"BlockPickup": false,
 		"AllowTransfer": true,
 		"ForceDrop": true,
@@ -128,12 +108,7 @@
 		"ShortName": "heiyan_weapon",
 		"Color": "{default}",
 		"HammerID": "5697",
-		"GlowColor": [
-			255,
-			255,
-			255,
-			255
-		],
+		"GlowColor": [255,255,255,255],
 		"BlockPickup": false,
 		"AllowTransfer": true,
 		"ForceDrop": true,

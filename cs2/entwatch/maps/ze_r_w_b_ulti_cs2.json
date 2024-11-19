@@ -4,12 +4,7 @@
 		"ShortName": "item_halo",
 		"Color": "{default}",
 		"HammerID": "12375",
-		"GlowColor": [
-			255,
-			255,
-			255,
-			255
-		],
+		"GlowColor": [255,255,255,255],
 		"BlockPickup": false,
 		"AllowTransfer": true,
 		"ForceDrop": true,

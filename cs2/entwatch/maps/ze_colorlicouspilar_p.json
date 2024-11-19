@@ -4,12 +4,7 @@
 		"ShortName": "weapon",
 		"Color": "{default}",
 		"HammerID": "588",
-		"GlowColor": [
-			255,
-			255,
-			255,
-			255
-		],
+		"GlowColor": [255,255,255,255],
 		"BlockPickup": false,
 		"AllowTransfer": true,
 		"ForceDrop": true,
