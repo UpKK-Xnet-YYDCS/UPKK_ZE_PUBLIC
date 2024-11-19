@@ -24,7 +24,7 @@
 				"CoolDown": 30
 			}
 		]
-    },
+	},
 	{
 		"Name": "ZM 毒/Zombie Death",
 		"ShortName": "ZM 毒",
@@ -101,7 +101,7 @@
 				"MaxUses": 0,
 				"CoolDown": 50
 			},
-            {
+			{
 				"Name": "大师风1",
 				"ButtonID": 0,
 				"ButtonClass": "game_ui::PressedAttack2",
@@ -137,7 +137,7 @@
 				"MaxUses": 0,
 				"CoolDown": 50
 			},
-            {
+			{
 				"Name": "大师风2",
 				"ButtonID": 0,
 				"ButtonClass": "game_ui::PressedAttack2",
@@ -173,7 +173,7 @@
 				"MaxUses": 0,
 				"CoolDown": 50
 			},
-            {
+			{
 				"Name": "大师水1",
 				"ButtonID": 0,
 				"ButtonClass": "game_ui::PressedAttack2",
@@ -209,7 +209,7 @@
 				"MaxUses": 0,
 				"CoolDown": 50
 			},
-            {
+			{
 				"Name": "大师水2",
 				"ButtonID": 0,
 				"ButtonClass": "game_ui::PressedAttack2",
@@ -245,7 +245,7 @@
 				"MaxUses": 0,
 				"CoolDown": 55
 			},
-            {
+			{
 				"Name": "大师奶1",
 				"ButtonID": 0,
 				"ButtonClass": "game_ui::PressedAttack2",
@@ -281,7 +281,7 @@
 				"MaxUses": 0,
 				"CoolDown": 55
 			},
-            {
+			{
 				"Name": "大师奶2",
 				"ButtonID": 0,
 				"ButtonClass": "game_ui::PressedAttack2",
@@ -317,7 +317,7 @@
 				"MaxUses": 0,
 				"CoolDown": 50
 			},
-            {
+			{
 				"Name": "大师土1",
 				"ButtonID": 0,
 				"ButtonClass": "game_ui::PressedAttack2",
@@ -353,7 +353,7 @@
 				"MaxUses": 0,
 				"CoolDown": 50
 			},
-            {
+			{
 				"Name": "大师土2",
 				"ButtonID": 0,
 				"ButtonClass": "game_ui::PressedAttack2",

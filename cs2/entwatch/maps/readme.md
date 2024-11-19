@@ -17,7 +17,7 @@
 		"ShortName": "",				//神器拾起后在hud显示的名称
 		"Color": "{default}",					//聊天消息颜色 例如:{default},{darkred},{green},{white},{blue}
 		"HammerID": 0,					//神器所对应weapon_实体的hammeruniqueid
-		"GlowColor": [0,0,0,0],			//rgba,神器高亮颜色           
+		"GlowColor": [0,0,0,0],			//rgba,神器高亮颜色
 		"BlockPickup": false,			//锁定拾起，无特殊情况填false
 		"AllowTransfer": false,			//是否允许管理员传送该神器，皮肤神器和僵尸神器设置为false。
 		"ForceDrop": false,				//允许神器落地，手枪神器填true，刀神器填false，这个参数服务器已经删除，实际不生效。
