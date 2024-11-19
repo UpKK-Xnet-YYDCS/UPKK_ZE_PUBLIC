@@ -1,10 +1,15 @@
 [
 	{
-		"Name": "[PR#]push_elite",
-		"ShortName": "[PR#]push_elite",
+		"Name": "push_elite",
+		"ShortName": "push_elite",
 		"Color": "{default}",
-		"HammerID": "1734",
-		"GlowColor": [255,255,255,255],
+		"HammerID": "8133",
+		"GlowColor": [
+			255,
+			255,
+			255,
+			255
+		],
 		"BlockPickup": false,
 		"AllowTransfer": true,
 		"ForceDrop": true,
@@ -14,7 +19,7 @@
 		"UsePriority": true,
 		"AbilityList": [
 			{
-				"Name": "weapon_elite",
+				"Name": "weapon_deagle",
 				"ButtonID": 0,
 				"ButtonClass": "",
 				"Filter": "",
@@ -26,11 +31,16 @@
 		]
 	},
 	{
-		"Name": "[PR#]Item_wind_gun",
-		"ShortName": "[PR#]Item_wind_gun",
+		"Name": "Item_wind_gun",
+		"ShortName": "Item_wind_gun",
 		"Color": "{default}",
-		"HammerID": "2853",
-		"GlowColor": [255,255,255,255],
+		"HammerID": "8131",
+		"GlowColor": [
+			255,
+			255,
+			255,
+			255
+		],
 		"BlockPickup": false,
 		"AllowTransfer": true,
 		"ForceDrop": true,
@@ -40,7 +50,7 @@
 		"UsePriority": true,
 		"AbilityList": [
 			{
-				"Name": "weapon_elite",
+				"Name": "weapon_deagle",
 				"ButtonID": 0,
 				"ButtonClass": "",
 				"Filter": "",
@@ -52,11 +62,16 @@
 		]
 	},
 	{
-		"Name": "[PR#]Item_wall_gun",
-		"ShortName": "[PR#]Item_wall_gun",
+		"Name": "Item_wall_gun",
+		"ShortName": "Item_wall_gun",
 		"Color": "{default}",
-		"HammerID": "3049",
-		"GlowColor": [255,255,255,255],
+		"HammerID": "8132",
+		"GlowColor": [
+			255,
+			255,
+			255,
+			255
+		],
 		"BlockPickup": false,
 		"AllowTransfer": true,
 		"ForceDrop": true,
@@ -66,7 +81,38 @@
 		"UsePriority": true,
 		"AbilityList": [
 			{
-				"Name": "weapon_elite",
+				"Name": "weapon_deagle",
+				"ButtonID": 0,
+				"ButtonClass": "",
+				"Filter": "",
+				"Chat_Uses": true,
+				"Mode": 1,
+				"MaxUses": 0,
+				"CoolDown": 0
+			}
+		]
+	},
+	{
+		"Name": "Item_lightning_gun",
+		"ShortName": "Item_lightning_gun",
+		"Color": "{default}",
+		"HammerID": "8129",
+		"GlowColor": [
+			255,
+			255,
+			255,
+			255
+		],
+		"BlockPickup": false,
+		"AllowTransfer": true,
+		"ForceDrop": true,
+		"Chat": true,
+		"Hud": true,
+		"TriggerID": 0,
+		"UsePriority": true,
+		"AbilityList": [
+			{
+				"Name": "weapon_deagle",
 				"ButtonID": 0,
 				"ButtonClass": "",
 				"Filter": "",
@@ -81,8 +127,13 @@
 		"Name": "Item_health_gun",
 		"ShortName": "Item_health_gun",
 		"Color": "{default}",
-		"HammerID": "7878",
-		"GlowColor": [255,255,255,255],
+		"HammerID": "8130",
+		"GlowColor": [
+			255,
+			255,
+			255,
+			255
+		],
 		"BlockPickup": false,
 		"AllowTransfer": true,
 		"ForceDrop": true,
@@ -92,7 +143,7 @@
 		"UsePriority": true,
 		"AbilityList": [
 			{
-				"Name": "weapon_elite",
+				"Name": "weapon_deagle",
 				"ButtonID": 0,
 				"ButtonClass": "",
 				"Filter": "",
@@ -104,37 +155,16 @@
 		]
 	},
 	{
-		"Name": "[PR#]wk_knife",
-		"ShortName": "[PR#]wk_knife",
+		"Name": "wk_knife",
+		"ShortName": "wk_knife",
 		"Color": "{default}",
-		"HammerID": "1648",
-		"GlowColor": [255,255,255,255],
-		"BlockPickup": false,
-		"AllowTransfer": true,
-		"ForceDrop": true,
-		"Chat": true,
-		"Hud": true,
-		"TriggerID": 0,
-		"UsePriority": true,
-		"AbilityList": [
-			{
-				"Name": "weapon_knife",
-				"ButtonID": 0,
-				"ButtonClass": "",
-				"Filter": "",
-				"Chat_Uses": true,
-				"Mode": 1,
-				"MaxUses": 0,
-				"CoolDown": 0
-			}
-		]
-	},
-	{
-		"Name": "[PR#]Zombie_Position",
-		"ShortName": "[PR#]Zombie_Position",
-		"Color": "{default}",
-		"HammerID": "1719",
-		"GlowColor": [255,255,255,255],
+		"HammerID": "8134",
+		"GlowColor": [
+			255,
+			255,
+			255,
+			255
+		],
 		"BlockPickup": false,
 		"AllowTransfer": true,
 		"ForceDrop": true,
@@ -156,37 +186,16 @@
 		]
 	},
 	{
-		"Name": "[PR#]Item_lightning_gun",
-		"ShortName": "[PR#]Item_lightning_gun",
+		"Name": "Zombie_Gravity",
+		"ShortName": "Zombie_Gravity",
 		"Color": "{default}",
-		"HammerID": "2850",
-		"GlowColor": [255,255,255,255],
-		"BlockPickup": false,
-		"AllowTransfer": true,
-		"ForceDrop": true,
-		"Chat": true,
-		"Hud": true,
-		"TriggerID": 0,
-		"UsePriority": true,
-		"AbilityList": [
-			{
-				"Name": "weapon_elite",
-				"ButtonID": 0,
-				"ButtonClass": "",
-				"Filter": "",
-				"Chat_Uses": true,
-				"Mode": 1,
-				"MaxUses": 0,
-				"CoolDown": 0
-			}
-		]
-	},
-	{
-		"Name": "[PR#]Zombie_Gravity",
-		"ShortName": "[PR#]Zombie_Gravity",
-		"Color": "{default}",
-		"HammerID": "2904",
-		"GlowColor": [255,255,255,255],
+		"HammerID": "8137",
+		"GlowColor": [
+			255,
+			255,
+			255,
+			255
+		],
 		"BlockPickup": false,
 		"AllowTransfer": true,
 		"ForceDrop": true,
@@ -211,8 +220,13 @@
 		"Name": "Zombie_Blade",
 		"ShortName": "Zombie_Blade",
 		"Color": "{default}",
-		"HammerID": "7893",
-		"GlowColor": [255,255,255,255],
+		"HammerID": "8138",
+		"GlowColor": [
+			255,
+			255,
+			255,
+			255
+		],
 		"BlockPickup": false,
 		"AllowTransfer": true,
 		"ForceDrop": true,
@@ -234,11 +248,47 @@
 		]
 	},
 	{
-		"Name": "[PR#]item_zom",
-		"ShortName": "[PR#]item_zom",
+		"Name": "Zombie_Position",
+		"ShortName": "Zombie_Position",
 		"Color": "{default}",
-		"HammerID": "7911",
-		"GlowColor": [255,255,255,255],
+		"HammerID": "8139",
+		"GlowColor": [
+			255,
+			255,
+			255,
+			255
+		],
+		"BlockPickup": false,
+		"AllowTransfer": true,
+		"ForceDrop": true,
+		"Chat": true,
+		"Hud": true,
+		"TriggerID": 0,
+		"UsePriority": true,
+		"AbilityList": [
+			{
+				"Name": "weapon_knife",
+				"ButtonID": 0,
+				"ButtonClass": "",
+				"Filter": "",
+				"Chat_Uses": true,
+				"Mode": 1,
+				"MaxUses": 0,
+				"CoolDown": 0
+			}
+		]
+	},
+	{
+		"Name": "item_zom",
+		"ShortName": "item_zom",
+		"Color": "{default}",
+		"HammerID": "8140",
+		"GlowColor": [
+			255,
+			255,
+			255,
+			255
+		],
 		"BlockPickup": false,
 		"AllowTransfer": true,
 		"ForceDrop": true,
