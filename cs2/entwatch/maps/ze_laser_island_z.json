@@ -1,0 +1,343 @@
+[
+	{
+		"Name": "Zombie_Position",
+		"ShortName": "Zombie_Position",
+		"Color": "{default}",
+		"HammerID": "2418",
+		"GlowColor": [
+			255,
+			255,
+			255,
+			255
+		],
+		"BlockPickup": false,
+		"AllowTransfer": true,
+		"ForceDrop": true,
+		"Chat": true,
+		"Hud": true,
+		"TriggerID": 0,
+		"UsePriority": true,
+		"AbilityList": [
+			{
+				"Name": "weapon_knife",
+				"ButtonID": 0,
+				"ButtonClass": "",
+				"Filter": "",
+				"Chat_Uses": true,
+				"Mode": 1,
+				"MaxUses": 0,
+				"CoolDown": 0
+			}
+		]
+	},
+	{
+		"Name": "Zombie_Gravity",
+		"ShortName": "Zombie_Gravity",
+		"Color": "{default}",
+		"HammerID": "2451",
+		"GlowColor": [
+			255,
+			255,
+			255,
+			255
+		],
+		"BlockPickup": false,
+		"AllowTransfer": true,
+		"ForceDrop": true,
+		"Chat": true,
+		"Hud": true,
+		"TriggerID": 0,
+		"UsePriority": true,
+		"AbilityList": [
+			{
+				"Name": "weapon_knife",
+				"ButtonID": 0,
+				"ButtonClass": "",
+				"Filter": "",
+				"Chat_Uses": true,
+				"Mode": 1,
+				"MaxUses": 0,
+				"CoolDown": 0
+			}
+		]
+	},
+	{
+		"Name": "Zombie_Speed",
+		"ShortName": "Zombie_Speed",
+		"Color": "{default}",
+		"HammerID": "2474",
+		"GlowColor": [
+			255,
+			255,
+			255,
+			255
+		],
+		"BlockPickup": false,
+		"AllowTransfer": true,
+		"ForceDrop": true,
+		"Chat": true,
+		"Hud": true,
+		"TriggerID": 0,
+		"UsePriority": true,
+		"AbilityList": [
+			{
+				"Name": "weapon_knife",
+				"ButtonID": 0,
+				"ButtonClass": "",
+				"Filter": "",
+				"Chat_Uses": true,
+				"Mode": 1,
+				"MaxUses": 0,
+				"CoolDown": 0
+			}
+		]
+	},
+	{
+		"Name": "Item_Wall_Pistol",
+		"ShortName": "Item_Wall_Pistol",
+		"Color": "{default}",
+		"HammerID": "2536",
+		"GlowColor": [
+			255,
+			255,
+			255,
+			255
+		],
+		"BlockPickup": false,
+		"AllowTransfer": true,
+		"ForceDrop": true,
+		"Chat": true,
+		"Hud": true,
+		"TriggerID": 0,
+		"UsePriority": true,
+		"AbilityList": [
+			{
+				"Name": "weapon_elite",
+				"ButtonID": 0,
+				"ButtonClass": "",
+				"Filter": "",
+				"Chat_Uses": true,
+				"Mode": 1,
+				"MaxUses": 0,
+				"CoolDown": 0
+			}
+		]
+	},
+	{
+		"Name": "Item_Ice_Pistol",
+		"ShortName": "Item_Ice_Pistol",
+		"Color": "{default}",
+		"HammerID": "2548",
+		"GlowColor": [
+			255,
+			255,
+			255,
+			255
+		],
+		"BlockPickup": false,
+		"AllowTransfer": true,
+		"ForceDrop": true,
+		"Chat": true,
+		"Hud": true,
+		"TriggerID": 0,
+		"UsePriority": true,
+		"AbilityList": [
+			{
+				"Name": "weapon_elite",
+				"ButtonID": 0,
+				"ButtonClass": "",
+				"Filter": "",
+				"Chat_Uses": true,
+				"Mode": 1,
+				"MaxUses": 0,
+				"CoolDown": 0
+			}
+		]
+	},
+	{
+		"Name": "Item_Fire_Pistol",
+		"ShortName": "Item_Fire_Pistol",
+		"Color": "{default}",
+		"HammerID": "2560",
+		"GlowColor": [
+			255,
+			255,
+			255,
+			255
+		],
+		"BlockPickup": false,
+		"AllowTransfer": true,
+		"ForceDrop": true,
+		"Chat": true,
+		"Hud": true,
+		"TriggerID": 0,
+		"UsePriority": true,
+		"AbilityList": [
+			{
+				"Name": "weapon_elite",
+				"ButtonID": 0,
+				"ButtonClass": "",
+				"Filter": "",
+				"Chat_Uses": true,
+				"Mode": 1,
+				"MaxUses": 0,
+				"CoolDown": 0
+			}
+		]
+	},
+	{
+		"Name": "Item_Wind_Pistol",
+		"ShortName": "Item_Wind_Pistol",
+		"Color": "{default}",
+		"HammerID": "2580",
+		"GlowColor": [
+			255,
+			255,
+			255,
+			255
+		],
+		"BlockPickup": false,
+		"AllowTransfer": true,
+		"ForceDrop": true,
+		"Chat": true,
+		"Hud": true,
+		"TriggerID": 0,
+		"UsePriority": true,
+		"AbilityList": [
+			{
+				"Name": "weapon_elite",
+				"ButtonID": 0,
+				"ButtonClass": "",
+				"Filter": "",
+				"Chat_Uses": true,
+				"Mode": 1,
+				"MaxUses": 0,
+				"CoolDown": 0
+			}
+		]
+	},
+	{
+		"Name": "Item_Heal_Pistol",
+		"ShortName": "Item_Heal_Pistol",
+		"Color": "{default}",
+		"HammerID": "2412",
+		"GlowColor": [
+			255,
+			255,
+			255,
+			255
+		],
+		"BlockPickup": false,
+		"AllowTransfer": true,
+		"ForceDrop": true,
+		"Chat": true,
+		"Hud": true,
+		"TriggerID": 0,
+		"UsePriority": true,
+		"AbilityList": [
+			{
+				"Name": "weapon_elite",
+				"ButtonID": 0,
+				"ButtonClass": "",
+				"Filter": "",
+				"Chat_Uses": true,
+				"Mode": 1,
+				"MaxUses": 0,
+				"CoolDown": 0
+			}
+		]
+	},
+	{
+		"Name": "Zombie_Blade",
+		"ShortName": "Zombie_Blade",
+		"Color": "{default}",
+		"HammerID": "2502",
+		"GlowColor": [
+			255,
+			255,
+			255,
+			255
+		],
+		"BlockPickup": false,
+		"AllowTransfer": true,
+		"ForceDrop": true,
+		"Chat": true,
+		"Hud": true,
+		"TriggerID": 0,
+		"UsePriority": true,
+		"AbilityList": [
+			{
+				"Name": "weapon_knife",
+				"ButtonID": 0,
+				"ButtonClass": "",
+				"Filter": "",
+				"Chat_Uses": true,
+				"Mode": 1,
+				"MaxUses": 0,
+				"CoolDown": 0
+			}
+		]
+	},
+	{
+		"Name": "Item_Ultima_Pistol",
+		"ShortName": "Item_Ultima_Pistol",
+		"Color": "{default}",
+		"HammerID": "2524",
+		"GlowColor": [
+			255,
+			255,
+			255,
+			255
+		],
+		"BlockPickup": false,
+		"AllowTransfer": true,
+		"ForceDrop": true,
+		"Chat": true,
+		"Hud": true,
+		"TriggerID": 0,
+		"UsePriority": true,
+		"AbilityList": [
+			{
+				"Name": "weapon_elite",
+				"ButtonID": 0,
+				"ButtonClass": "",
+				"Filter": "",
+				"Chat_Uses": true,
+				"Mode": 1,
+				"MaxUses": 0,
+				"CoolDown": 0
+			}
+		]
+	},
+	{
+		"Name": "Item_PersonAmmo_Pistol",
+		"ShortName": "Item_PersonAmmo_Pistol",
+		"Color": "{default}",
+		"HammerID": "2741",
+		"GlowColor": [
+			255,
+			255,
+			255,
+			255
+		],
+		"BlockPickup": false,
+		"AllowTransfer": true,
+		"ForceDrop": true,
+		"Chat": true,
+		"Hud": true,
+		"TriggerID": 0,
+		"UsePriority": true,
+		"AbilityList": [
+			{
+				"Name": "weapon_elite",
+				"ButtonID": 0,
+				"ButtonClass": "",
+				"Filter": "",
+				"Chat_Uses": true,
+				"Mode": 1,
+				"MaxUses": 0,
+				"CoolDown": 0
+			}
+		]
+	}
+]
