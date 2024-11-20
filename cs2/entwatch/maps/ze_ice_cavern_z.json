@@ -4,12 +4,7 @@
 		"ShortName": "Wind_Item_Weapon",
 		"Color": "{default}",
 		"HammerID": "2523",
-		"GlowColor": [
-			255,
-			255,
-			255,
-			255
-		],
+		"GlowColor": [255,255,255,255],
 		"BlockPickup": false,
 		"AllowTransfer": true,
 		"ForceDrop": true,
@@ -35,12 +30,7 @@
 		"ShortName": "Heal_Item_Weapon",
 		"Color": "{default}",
 		"HammerID": "2537",
-		"GlowColor": [
-			255,
-			255,
-			255,
-			255
-		],
+		"GlowColor": [255,255,255,255],
 		"BlockPickup": false,
 		"AllowTransfer": true,
 		"ForceDrop": true,
@@ -66,12 +56,7 @@
 		"ShortName": "Ice_Item_Weapon",
 		"Color": "{default}",
 		"HammerID": "2659",
-		"GlowColor": [
-			255,
-			255,
-			255,
-			255
-		],
+		"GlowColor": [255,255,255,255],
 		"BlockPickup": false,
 		"AllowTransfer": true,
 		"ForceDrop": true,
