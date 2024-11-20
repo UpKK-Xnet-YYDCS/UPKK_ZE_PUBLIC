@@ -1,7 +1,7 @@
 [
 	{
-		"Name": "Item_Heal_Pistol",
-		"ShortName": "Item_Heal_Pistol",
+		"Name": "治疗/弹药",
+		"ShortName": "治疗/弹药",
 		"Color": "{default}",
 		"HammerID": "7400",
 		"GlowColor": [255,255,255,255],
@@ -14,14 +14,14 @@
 		"UsePriority": true,
 		"AbilityList": [
 			{
-				"Name": "weapon_p250",
-				"ButtonID": 0,
-				"ButtonClass": "",
+				"Name": "Item_Heal_Button",
+				"ButtonID": 7404,
+				"ButtonClass": "func_button",
 				"Filter": "",
 				"Chat_Uses": true,
-				"Mode": 1,
+				"Mode": 2,
 				"MaxUses": 0,
-				"CoolDown": 0
+				"CoolDown": 90
 			}
 		]
 	},
@@ -40,7 +40,7 @@
 		"UsePriority": true,
 		"AbilityList": [
 			{
-				"Name": "weapon_p250",
+				"Name": "",
 				"ButtonID": 0,
 				"ButtonClass": "",
 				"Filter": "",
@@ -52,8 +52,8 @@
 		]
 	},
 	{
-		"Name": "Item_Wind_Pistol",
-		"ShortName": "Item_Wind_Pistol",
+		"Name": "风",
+		"ShortName": "风",
 		"Color": "{default}",
 		"HammerID": "2492",
 		"GlowColor": [255,255,255,255],
@@ -66,20 +66,20 @@
 		"UsePriority": true,
 		"AbilityList": [
 			{
-				"Name": "weapon_p250",
-				"ButtonID": 0,
-				"ButtonClass": "",
+				"Name": "Item_Wind_Button",
+				"ButtonID": 7350,
+				"ButtonClass": "func_button",
 				"Filter": "",
 				"Chat_Uses": true,
-				"Mode": 1,
+				"Mode": 2,
 				"MaxUses": 0,
-				"CoolDown": 0
+				"CoolDown": 90
 			}
 		]
 	},
 	{
-		"Name": "Item_Fire_Pistol",
-		"ShortName": "Item_Fire_Pistol",
+		"Name": "火",
+		"ShortName": "火",
 		"Color": "{default}",
 		"HammerID": "7359",
 		"GlowColor": [255,255,255,255],
@@ -92,20 +92,20 @@
 		"UsePriority": true,
 		"AbilityList": [
 			{
-				"Name": "weapon_p250",
-				"ButtonID": 0,
-				"ButtonClass": "",
+				"Name": "Item_Fire_Button",
+				"ButtonID": 7363,
+				"ButtonClass": "func_button",
 				"Filter": "",
 				"Chat_Uses": true,
-				"Mode": 1,
+				"Mode": 2,
 				"MaxUses": 0,
-				"CoolDown": 0
+				"CoolDown": 90
 			}
 		]
 	},
 	{
-		"Name": "Item_Earth_Pistol",
-		"ShortName": "Item_Earth_Pistol",
+		"Name": "墙",
+		"ShortName": "墙",
 		"Color": "{default}",
 		"HammerID": "7378",
 		"GlowColor": [255,255,255,255],
@@ -118,20 +118,20 @@
 		"UsePriority": true,
 		"AbilityList": [
 			{
-				"Name": "weapon_p250",
-				"ButtonID": 0,
-				"ButtonClass": "",
+				"Name": "Item_Earth_Button",
+				"ButtonID": 7381,
+				"ButtonClass": "func_button",
 				"Filter": "",
 				"Chat_Uses": true,
-				"Mode": 1,
+				"Mode": 2,
 				"MaxUses": 0,
-				"CoolDown": 0
+				"CoolDown": 80
 			}
 		]
 	},
 	{
-		"Name": "Item_ZMGravity_Knife",
-		"ShortName": "Item_ZMGravity_Knife",
+		"Name": "僵尸黑洞",
+		"ShortName": "僵尸黑洞",
 		"Color": "{default}",
 		"HammerID": "7589",
 		"GlowColor": [255,255,255,255],
@@ -144,20 +144,20 @@
 		"UsePriority": true,
 		"AbilityList": [
 			{
-				"Name": "weapon_knife",
-				"ButtonID": 0,
-				"ButtonClass": "",
+				"Name": "Item_ZMGravity_Button_1",
+				"ButtonID": 7610,
+				"ButtonClass": "func_button",
 				"Filter": "",
 				"Chat_Uses": true,
-				"Mode": 1,
+				"Mode": 2,
 				"MaxUses": 0,
-				"CoolDown": 0
+				"CoolDown": 80
 			}
 		]
 	},
 	{
-		"Name": "Item_ZMIce_Knife",
-		"ShortName": "Item_ZMIce_Knife",
+		"Name": "僵尸冰",
+		"ShortName": "僵尸冰",
 		"Color": "{default}",
 		"HammerID": "7624",
 		"GlowColor": [255,255,255,255],
@@ -170,20 +170,20 @@
 		"UsePriority": true,
 		"AbilityList": [
 			{
-				"Name": "weapon_knife",
-				"ButtonID": 0,
-				"ButtonClass": "",
+				"Name": "Item_ZMIce_Button_1",
+				"ButtonID": 7627,
+				"ButtonClass": "func_button",
 				"Filter": "",
 				"Chat_Uses": true,
-				"Mode": 1,
+				"Mode": 2,
 				"MaxUses": 0,
-				"CoolDown": 0
+				"CoolDown": 80
 			}
 		]
 	},
 	{
-		"Name": "Item_ZMFire_Knife",
-		"ShortName": "Item_ZMFire_Knife",
+		"Name": "僵尸火",
+		"ShortName": "僵尸火",
 		"Color": "{default}",
 		"HammerID": "7636",
 		"GlowColor": [255,255,255,255],
@@ -196,14 +196,14 @@
 		"UsePriority": true,
 		"AbilityList": [
 			{
-				"Name": "weapon_knife",
-				"ButtonID": 0,
-				"ButtonClass": "",
+				"Name": "Item_ZMFire_Button_1",
+				"ButtonID": 7637,
+				"ButtonClass": "func_button",
 				"Filter": "",
 				"Chat_Uses": true,
-				"Mode": 1,
+				"Mode": 2,
 				"MaxUses": 0,
-				"CoolDown": 0
+				"CoolDown": 80
 			}
 		]
 	}
