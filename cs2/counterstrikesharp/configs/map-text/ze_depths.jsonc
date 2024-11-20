@@ -146,15 +146,6 @@
   "Kill any remaining zombies!": {
     "translation": "杀死逃离的僵尸！"
   },
-  "Last door closing in 5 seconds": {
-    "translation": "最后一扇门将在5秒后关闭"
-  },
-  "Last door is closing": {
-    "translation": "最后一扇门正在关闭"
-  },
-  "Last door is opening in 10 seconds": {
-    "translation": "最后一扇门将在10秒后开启"
-  },
   "Lever found": {
     "translation": "杠杆已找到"
   },
@@ -294,12 +285,15 @@
     "translation": "我们应该更加小心"
   },
   "Last doors are opening": {
-    "translation": ""
+    "translation": "最后的门正在打开"
   },
   "Last doors are closing in 10 seconds": {
-    "translation": ""
+    "translation": "最后的门将在10秒后关闭"
   },
   "Last doors are closing": {
-    "translation": ""
+    "translation": "最后的门正在关闭"
+  },
+  "Last doors closing in 5 seconds": {
+    "translation": "最后的门将在5秒后关闭"
   }
 }

@@ -9,10 +9,12 @@
     "translation": "*** 未能击败Boss ***"
   },
   ">> LOADING KILLER 10 SECONDS <<<": {
-    "translation": ">> 10秒后终极生效 <<<"
+    "translation": ">> 10秒后终极生效 <<<",
+    "DoorCountDown": -1
   },
   ">> LOADING KILLER 5 SECONDS <<<": {
-    "translation": ">> 5秒后终极生效 <<<"
+    "translation": ">> 5秒后终极生效 <<<",
+    "DoorCountDown": -1
   },
   ">>> 1 <<<": {
     "translation": ">>> 1 <<<"
@@ -36,7 +38,7 @@
     "translation": ">>> 3 <<<"
   },
   ">>> 3 MINUTES LEFT <<<": {
-    "translation": ">>> 剩余3分钟 <<<"
+    "translation": ">>> 剩余180秒 <<<"
   },
   ">>> 30 SECONDS LEFT <<<": {
     "translation": ">>> 剩余30秒 <<<"
@@ -231,7 +233,8 @@
     "translation": ">>> 是龙 <<<"
   },
   ">>> LOADING KILLER 20 SECONDS <<<": {
-    "translation": ">>> 20秒后终极生效 <<<"
+    "translation": ">>> 20秒后终极生效 <<<",
+    "DoorCountDown": -1
   },
   ">>> Map by Moray <<<": {
     "translation": ">>> 地图作者：Moray 翻译：Asteri3m <<<"
