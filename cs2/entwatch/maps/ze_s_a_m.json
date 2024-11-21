@@ -247,9 +247,9 @@
 		"UsePriority": false,
 		"AbilityList": [
 			{
-				"Name": "",
-				"ButtonID": 0,
-				"ButtonClass": "",
+				"Name": "S_Item_Kirito_Button_2",
+				"ButtonID": 12892,
+				"ButtonClass": "func_button",
 				"Filter": "",
 				"Chat_Uses": false,
 				"Mode": 7,
