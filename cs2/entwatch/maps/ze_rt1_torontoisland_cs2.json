@@ -1,7 +1,7 @@
 [
 	{
-		"Name": "push_elite",
-		"ShortName": "push_elite",
+		"Name": "环形风",
+		"ShortName": "环形风",
 		"Color": "{default}",
 		"HammerID": "8133",
 		"GlowColor": [255,255,255,255],
@@ -14,20 +14,20 @@
 		"UsePriority": true,
 		"AbilityList": [
 			{
-				"Name": "weapon_deagle",
-				"ButtonID": 0,
-				"ButtonClass": "",
-				"Filter": "",
+				"Name": "push_button",
+				"ButtonID": 1736,
+				"ButtonClass": "func_button",
+				"Filter": "player_push",
 				"Chat_Uses": true,
-				"Mode": 1,
+				"Mode": 2,
 				"MaxUses": 0,
-				"CoolDown": 0
+				"CoolDown": 60
 			}
 		]
 	},
 	{
-		"Name": "Item_wind_gun",
-		"ShortName": "Item_wind_gun",
+		"Name": "直线风",
+		"ShortName": "直线风",
 		"Color": "{default}",
 		"HammerID": "8131",
 		"GlowColor": [255,255,255,255],
@@ -40,20 +40,20 @@
 		"UsePriority": true,
 		"AbilityList": [
 			{
-				"Name": "weapon_deagle",
-				"ButtonID": 0,
-				"ButtonClass": "",
-				"Filter": "",
+				"Name": "Item_wind_button",
+				"ButtonID": 2856,
+				"ButtonClass": "func_button",
+				"Filter": "Wind_user",
 				"Chat_Uses": true,
-				"Mode": 1,
+				"Mode": 2,
 				"MaxUses": 0,
-				"CoolDown": 0
+				"CoolDown": 60
 			}
 		]
 	},
 	{
-		"Name": "Item_wall_gun",
-		"ShortName": "Item_wall_gun",
+		"Name": "墙",
+		"ShortName": "墙",
 		"Color": "{default}",
 		"HammerID": "8132",
 		"GlowColor": [255,255,255,255],
@@ -66,20 +66,20 @@
 		"UsePriority": true,
 		"AbilityList": [
 			{
-				"Name": "weapon_deagle",
-				"ButtonID": 0,
-				"ButtonClass": "",
-				"Filter": "",
+				"Name": "Item_wall_button",
+				"ButtonID": 3051,
+				"ButtonClass": "func_button",
+				"Filter": "Wall_user",
 				"Chat_Uses": true,
-				"Mode": 1,
+				"Mode": 2,
 				"MaxUses": 0,
-				"CoolDown": 0
+				"CoolDown": 60
 			}
 		]
 	},
 	{
-		"Name": "Item_lightning_gun",
-		"ShortName": "Item_lightning_gun",
+		"Name": "电",
+		"ShortName": "电",
 		"Color": "{default}",
 		"HammerID": "8129",
 		"GlowColor": [255,255,255,255],
@@ -92,20 +92,20 @@
 		"UsePriority": true,
 		"AbilityList": [
 			{
-				"Name": "weapon_deagle",
-				"ButtonID": 0,
-				"ButtonClass": "",
-				"Filter": "",
+				"Name": "Item_lightning_Button",
+				"ButtonID": 2845,
+				"ButtonClass": "func_button",
+				"Filter": "Lightning_user",
 				"Chat_Uses": true,
-				"Mode": 1,
+				"Mode": 2,
 				"MaxUses": 0,
-				"CoolDown": 0
+				"CoolDown": 60
 			}
 		]
 	},
 	{
-		"Name": "Item_health_gun",
-		"ShortName": "Item_health_gun",
+		"Name": "治疗",
+		"ShortName": "治疗",
 		"Color": "{default}",
 		"HammerID": "8130",
 		"GlowColor": [255,255,255,255],
@@ -118,20 +118,20 @@
 		"UsePriority": true,
 		"AbilityList": [
 			{
-				"Name": "weapon_deagle",
-				"ButtonID": 0,
-				"ButtonClass": "",
-				"Filter": "",
+				"Name": "Item_health_button",
+				"ButtonID": 7879,
+				"ButtonClass": "func_button",
+				"Filter": "Health_user",
 				"Chat_Uses": true,
-				"Mode": 1,
+				"Mode": 2,
 				"MaxUses": 0,
-				"CoolDown": 0
+				"CoolDown": 60
 			}
 		]
 	},
 	{
-		"Name": "wk_knife",
-		"ShortName": "wk_knife",
+		"Name": "骑士铠甲",
+		"ShortName": "骑士铠甲",
 		"Color": "{default}",
 		"HammerID": "8134",
 		"GlowColor": [255,255,255,255],
@@ -140,14 +140,14 @@
 		"ForceDrop": true,
 		"Chat": true,
 		"Hud": true,
-		"TriggerID": 0,
-		"UsePriority": true,
+		"TriggerID": 1649,
+		"UsePriority": false,
 		"AbilityList": [
 			{
-				"Name": "weapon_knife",
-				"ButtonID": 0,
-				"ButtonClass": "",
-				"Filter": "",
+				"Name": "wk_button",
+				"ButtonID": 1598,
+				"ButtonClass": "func_button",
+				"Filter": "wk_user",
 				"Chat_Uses": true,
 				"Mode": 1,
 				"MaxUses": 0,
@@ -156,8 +156,8 @@
 		]
 	},
 	{
-		"Name": "Zombie_Gravity",
-		"ShortName": "Zombie_Gravity",
+		"Name": "ZM 收割者/神力",
+		"ShortName": "ZM 收割者/神力",
 		"Color": "{default}",
 		"HammerID": "8137",
 		"GlowColor": [255,255,255,255],
@@ -166,24 +166,24 @@
 		"ForceDrop": true,
 		"Chat": true,
 		"Hud": true,
-		"TriggerID": 0,
+		"TriggerID": 2902,
 		"UsePriority": true,
 		"AbilityList": [
 			{
-				"Name": "weapon_knife",
-				"ButtonID": 0,
-				"ButtonClass": "",
-				"Filter": "",
+				"Name": "Zombie_Gravity_Button",
+				"ButtonID": 2877,
+				"ButtonClass": "func_button",
+				"Filter": "z_gravity_user",
 				"Chat_Uses": true,
-				"Mode": 1,
+				"Mode": 2,
 				"MaxUses": 0,
-				"CoolDown": 0
+				"CoolDown": 60
 			}
 		]
 	},
 	{
-		"Name": "Zombie_Blade",
-		"ShortName": "Zombie_Blade",
+		"Name": "ZM 驱逐者/刀",
+		"ShortName": "ZM 驱逐者/刀",
 		"Color": "{default}",
 		"HammerID": "8138",
 		"GlowColor": [255,255,255,255],
@@ -192,24 +192,24 @@
 		"ForceDrop": true,
 		"Chat": true,
 		"Hud": true,
-		"TriggerID": 0,
+		"TriggerID": 7918,
 		"UsePriority": true,
 		"AbilityList": [
 			{
-				"Name": "weapon_knife",
-				"ButtonID": 0,
-				"ButtonClass": "",
-				"Filter": "",
+				"Name": "Zombie_Blade_Button",
+				"ButtonID": 7894,
+				"ButtonClass": "func_button",
+				"Filter": "laser_user",
 				"Chat_Uses": true,
-				"Mode": 1,
+				"Mode": 2,
 				"MaxUses": 0,
-				"CoolDown": 0
+				"CoolDown": 20
 			}
 		]
 	},
 	{
-		"Name": "Zombie_Position",
-		"ShortName": "Zombie_Position",
+		"Name": "ZM 诅咒者/尸毒",
+		"ShortName": "ZM 诅咒者/尸毒",
 		"Color": "{default}",
 		"HammerID": "8139",
 		"GlowColor": [255,255,255,255],
@@ -218,24 +218,24 @@
 		"ForceDrop": true,
 		"Chat": true,
 		"Hud": true,
-		"TriggerID": 0,
+		"TriggerID": 1717,
 		"UsePriority": true,
 		"AbilityList": [
 			{
-				"Name": "weapon_knife",
-				"ButtonID": 0,
-				"ButtonClass": "",
-				"Filter": "",
+				"Name": "Zombie_Position_Button",
+				"ButtonID": 1703,
+				"ButtonClass": "func_button",
+				"Filter": "z_posi_user",
 				"Chat_Uses": true,
-				"Mode": 1,
+				"Mode": 2,
 				"MaxUses": 0,
-				"CoolDown": 0
+				"CoolDown": 90
 			}
 		]
 	},
 	{
-		"Name": "item_zom",
-		"ShortName": "item_zom",
+		"Name": "ZM 增益者",
+		"ShortName": "ZM 增益者",
 		"Color": "{default}",
 		"HammerID": "8140",
 		"GlowColor": [255,255,255,255],
@@ -244,18 +244,18 @@
 		"ForceDrop": true,
 		"Chat": true,
 		"Hud": true,
-		"TriggerID": 0,
+		"TriggerID": 8106,
 		"UsePriority": true,
 		"AbilityList": [
 			{
-				"Name": "weapon_knife",
-				"ButtonID": 0,
-				"ButtonClass": "",
-				"Filter": "",
+				"Name": "item_zom_button",
+				"ButtonID": 8108,
+				"ButtonClass": "func_button",
+				"Filter": "zom_user",
 				"Chat_Uses": true,
-				"Mode": 1,
+				"Mode": 2,
 				"MaxUses": 0,
-				"CoolDown": 0
+				"CoolDown": 90
 			}
 		]
 	}

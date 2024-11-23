@@ -1,0 +1,54 @@
+[
+	{
+		"Name": "weapon_winda",
+		"ShortName": "weapon_winda",
+		"Color": "{default}",
+		"HammerID": "31763",
+		"GlowColor": [255,255,255,255],
+		"BlockPickup": false,
+		"AllowTransfer": true,
+		"ForceDrop": true,
+		"Chat": true,
+		"Hud": true,
+		"TriggerID": 0,
+		"UsePriority": true,
+		"AbilityList": [
+			{
+				"Name": "weapon_elite",
+				"ButtonID": 0,
+				"ButtonClass": "",
+				"Filter": "",
+				"Chat_Uses": true,
+				"Mode": 1,
+				"MaxUses": 0,
+				"CoolDown": 0
+			}
+		]
+	},
+	{
+		"Name": "weapon_walla",
+		"ShortName": "weapon_walla",
+		"Color": "{default}",
+		"HammerID": "31758",
+		"GlowColor": [255,255,255,255],
+		"BlockPickup": false,
+		"AllowTransfer": true,
+		"ForceDrop": true,
+		"Chat": true,
+		"Hud": true,
+		"TriggerID": 0,
+		"UsePriority": true,
+		"AbilityList": [
+			{
+				"Name": "weapon_elite",
+				"ButtonID": 0,
+				"ButtonClass": "",
+				"Filter": "",
+				"Chat_Uses": true,
+				"Mode": 1,
+				"MaxUses": 0,
+				"CoolDown": 0
+			}
+		]
+	}
+]
