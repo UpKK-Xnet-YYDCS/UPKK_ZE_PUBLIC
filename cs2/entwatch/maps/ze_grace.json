@@ -1,7 +1,7 @@
 [
 	{
-		"Name": "Item_White_WP",
-		"ShortName": "Item_White_WP",
+		"Name": "花海复苏",
+		"ShortName": "花海复苏",
 		"Color": "{default}",
 		"HammerID": "11956",
 		"GlowColor": [0,255,0,1],
@@ -14,20 +14,20 @@
 		"UsePriority": true,
 		"AbilityList": [
 			{
-				"Name": "weapon_elite",
-				"ButtonID": 0,
-				"ButtonClass": "",
+				"Name": "Item_White_BT",
+				"ButtonID": 11983,
+				"ButtonClass": "func_button",
 				"Filter": "",
 				"Chat_Uses": true,
-				"Mode": 1,
+				"Mode": 2,
 				"MaxUses": 0,
-				"CoolDown": 0
+				"CoolDown": 50
 			}
 		]
 	},
 	{
-		"Name": "Item_Gold_WP",
-		"ShortName": "Item_Gold_WP",
+		"Name": "璀璨回响",
+		"ShortName": "璀璨回响",
 		"Color": "{default}",
 		"HammerID": "11958",
 		"GlowColor": [0,255,0,1],
@@ -40,14 +40,14 @@
 		"UsePriority": true,
 		"AbilityList": [
 			{
-				"Name": "weapon_elite",
-				"ButtonID": 0,
-				"ButtonClass": "",
+				"Name": "Item_Gold_BT",
+				"ButtonID": 11980,
+				"ButtonClass": "func_button",
 				"Filter": "",
 				"Chat_Uses": true,
-				"Mode": 1,
+				"Mode": 2,
 				"MaxUses": 0,
-				"CoolDown": 0
+				"CoolDown": 30
 			}
 		]
 	}
