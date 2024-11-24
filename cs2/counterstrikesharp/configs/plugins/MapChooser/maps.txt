@@ -1281,8 +1281,9 @@
 	{
 		"workshop_id"		"3251914993"
 		"enabled"		"1"
-		"filename"		"ze_Awaker"
+		"filename"		"ze_awaker"
 		"updatedname"		"ze_Awaker"
+		"RestrictedTimes"		"00:00-23:59"
 	}
 	"ze_overlord"
 	{
@@ -2329,6 +2330,7 @@
 		"enabled"		"1"
 		"filename"		"ze_last_man_standing_p"
 		"updatedname"		"ze_Last_Man_Standing_p"
+		"RestrictedTimes"		"00:00-23:59"
 	}
 	"ze_FFXII_Paramina_Rift"
 	{
