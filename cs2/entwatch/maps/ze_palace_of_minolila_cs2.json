@@ -133,7 +133,7 @@
 		"Name": "黑洞",
 		"ShortName": "黑洞",
 		"Color": "{pink}",
-		"HammerID": 317,
+		"HammerID": 251,
 		"GlowColor": [0,255,0,1],
 		"BlockPickup": false,
 		"AllowTransfer": true,
@@ -284,5 +284,5 @@
 				"CoolDown": 65
 			}
 		]
-	},
+	}
 ]
