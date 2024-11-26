@@ -22,26 +22,6 @@
 				"Mode": 2,
 				"MaxUses": 0,
 				"CoolDown": 55
-			},
-			{
-				"Name": "Item_Fire_Button",
-				"ButtonID": 58351,
-				"ButtonClass": "func_button",
-				"Filter": "f_fire:1",
-				"Chat_Uses": true,
-				"Mode": 1,
-				"MaxUses": 0,
-				"CoolDown": 0
-			},
-			{
-				"Name": "Item_Fire_Button",
-				"ButtonID": 58352,
-				"ButtonClass": "func_button",
-				"Filter": "f_fire:1",
-				"Chat_Uses": true,
-				"Mode": 1,
-				"MaxUses": 0,
-				"CoolDown": 0
 			}
 		]
 	},
@@ -68,26 +48,6 @@
 				"Mode": 2,
 				"MaxUses": 0,
 				"CoolDown": 55
-			},
-			{
-				"Name": "Item_Wind_Button",
-				"ButtonID": 58365,
-				"ButtonClass": "func_button",
-				"Filter": "f_wind:1",
-				"Chat_Uses": true,
-				"Mode": 1,
-				"MaxUses": 0,
-				"CoolDown": 0
-			},
-			{
-				"Name": "Item_Wind_Button",
-				"ButtonID": 58366,
-				"ButtonClass": "func_button",
-				"Filter": "f_wind:1",
-				"Chat_Uses": true,
-				"Mode": 1,
-				"MaxUses": 0,
-				"CoolDown": 0
 			}
 		]
 	},
@@ -114,26 +74,6 @@
 				"Mode": 5,
 				"MaxUses": 3,
 				"CoolDown": 55
-			},
-			{
-				"Name": "Item_Elec_Button",
-				"ButtonID": 58347,
-				"ButtonClass": "func_button",
-				"Filter": "f_elec:1",
-				"Chat_Uses": true,
-				"Mode": 1,
-				"MaxUses": 0,
-				"CoolDown": 0
-			},
-			{
-				"Name": "Item_Elec_Button",
-				"ButtonID": 58348,
-				"ButtonClass": "func_button",
-				"Filter": "f_elec:1",
-				"Chat_Uses": true,
-				"Mode": 1,
-				"MaxUses": 0,
-				"CoolDown": 0
 			}
 		]
 	},
@@ -160,26 +100,6 @@
 				"Mode": 2,
 				"MaxUses": 0,
 				"CoolDown": 55
-			},
-			{
-				"Name": "Item_Earth_Button",
-				"ButtonID": 58353,
-				"ButtonClass": "func_button",
-				"Filter": "f_earth:1",
-				"Chat_Uses": true,
-				"Mode": 1,
-				"MaxUses": 0,
-				"CoolDown": 0
-			},
-			{
-				"Name": "Item_Earth_Button",
-				"ButtonID": 58354,
-				"ButtonClass": "func_button",
-				"Filter": "f_earth:1",
-				"Chat_Uses": true,
-				"Mode": 1,
-				"MaxUses": 0,
-				"CoolDown": 0
 			}
 		]
 	},
@@ -206,26 +126,6 @@
 				"Mode": 2,
 				"MaxUses": 0,
 				"CoolDown": 55
-			},
-			{
-				"Name": "Item_Ice_Button",
-				"ButtonID": 58357,
-				"ButtonClass": "func_button",
-				"Filter": "f_ice:1",
-				"Chat_Uses": true,
-				"Mode": 1,
-				"MaxUses": 0,
-				"CoolDown": 0
-			},
-			{
-				"Name": "Item_Ice_Button",
-				"ButtonID": 58358,
-				"ButtonClass": "func_button",
-				"Filter": "f_ice:1",
-				"Chat_Uses": true,
-				"Mode": 1,
-				"MaxUses": 0,
-				"CoolDown": 0
 			}
 		]
 	},
@@ -252,26 +152,6 @@
 				"Mode": 4,
 				"MaxUses": 1,
 				"CoolDown": 20
-			},
-			{
-				"Name": "Item_Ultima_Button",
-				"ButtonID": 58345,
-				"ButtonClass": "func_button",
-				"Filter": "f_ultima:1",
-				"Chat_Uses": true,
-				"Mode": 1,
-				"MaxUses": 0,
-				"CoolDown": 0
-			},
-			{
-				"Name": "Item_Ultima_Button",
-				"ButtonID": 58346,
-				"ButtonClass": "func_button",
-				"Filter": "f_ultima:1",
-				"Chat_Uses": true,
-				"Mode": 1,
-				"MaxUses": 0,
-				"CoolDown": 0
 			}
 		]
 	},
@@ -324,26 +204,6 @@
 				"Mode": 2,
 				"MaxUses": 0,
 				"CoolDown": 55
-			},
-			{
-				"Name": "Item_Grav_Button",
-				"ButtonID": 58355,
-				"ButtonClass": "func_button",
-				"Filter": "f_grav:1",
-				"Chat_Uses": true,
-				"Mode": 1,
-				"MaxUses": 0,
-				"CoolDown": 0
-			},
-			{
-				"Name": "Item_Grav_Button",
-				"ButtonID": 58356,
-				"ButtonClass": "func_button",
-				"Filter": "f_grav:1",
-				"Chat_Uses": true,
-				"Mode": 1,
-				"MaxUses": 0,
-				"CoolDown": 0
 			}
 		]
 	}
