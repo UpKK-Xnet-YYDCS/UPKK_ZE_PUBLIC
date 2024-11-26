@@ -26,8 +26,8 @@
 		]
 	},
 	{
-		"Name": "slow_arc_arc_elite",
-		"ShortName": "slow_arc_arc_elite",
+		"Name": "减速弓",
+		"ShortName": "减速弓",
 		"Color": "{default}",
 		"HammerID": "346",
 		"GlowColor": [0,255,0,1],
@@ -40,20 +40,20 @@
 		"UsePriority": true,
 		"AbilityList": [
 			{
-				"Name": "weapon_elite",
-				"ButtonID": 0,
-				"ButtonClass": "",
+				"Name": "slow_arc_arc_button",
+				"ButtonID": 348,
+				"ButtonClass": "func_button",
 				"Filter": "",
-				"Chat_Uses": true,
-				"Mode": 0,
+				"Chat_Uses": false,
+				"Mode": 2,
 				"MaxUses": 0,
-				"CoolDown": 0
+				"CoolDown": 2
 			}
 		]
 	},
 	{
-		"Name": "z_freezer_knife",
-		"ShortName": "z_freezer_knife",
+		"Name": "ZM冰",
+		"ShortName": "ZM冰",
 		"Color": "{default}",
 		"HammerID": "363",
 		"GlowColor": [0,255,0,1],
@@ -66,20 +66,20 @@
 		"UsePriority": true,
 		"AbilityList": [
 			{
-				"Name": "weapon_knife",
-				"ButtonID": 0,
-				"ButtonClass": "",
+				"Name": "z_freezer_button",
+				"ButtonID": 364,
+				"ButtonClass": "func_button",
 				"Filter": "",
 				"Chat_Uses": true,
-				"Mode": 0,
+				"Mode": 2,
 				"MaxUses": 0,
-				"CoolDown": 0
+				"CoolDown": 50
 			}
 		]
 	},
 	{
-		"Name": "heal_elite",
-		"ShortName": "heal_elite",
+		"Name": "奶",
+		"ShortName": "奶",
 		"Color": "{default}",
 		"HammerID": "373",
 		"GlowColor": [0,255,0,1],
@@ -92,20 +92,20 @@
 		"UsePriority": true,
 		"AbilityList": [
 			{
-				"Name": "weapon_elite",
-				"ButtonID": 0,
-				"ButtonClass": "",
+				"Name": "heal_button",
+				"ButtonID": 375,
+				"ButtonClass": "func_button",
 				"Filter": "",
 				"Chat_Uses": true,
-				"Mode": 0,
+				"Mode": 2,
 				"MaxUses": 0,
-				"CoolDown": 0
+				"CoolDown": 140
 			}
 		]
 	},
 	{
-		"Name": "zgravity_knife",
-		"ShortName": "zgravity_knife",
+		"Name": "ZM黑洞",
+		"ShortName": "ZM黑洞",
 		"Color": "{default}",
 		"HammerID": "383",
 		"GlowColor": [0,255,0,1],
@@ -118,20 +118,20 @@
 		"UsePriority": true,
 		"AbilityList": [
 			{
-				"Name": "weapon_knife",
-				"ButtonID": 0,
-				"ButtonClass": "",
+				"Name": "zgravity_button",
+				"ButtonID": 380,
+				"ButtonClass": "func_button",
 				"Filter": "",
 				"Chat_Uses": true,
-				"Mode": 0,
+				"Mode": 2,
 				"MaxUses": 0,
-				"CoolDown": 0
+				"CoolDown": 70
 			}
 		]
 	},
 	{
-		"Name": "z_dragon_knife",
-		"ShortName": "z_dragon_knife",
+		"Name": "ZM龙息",
+		"ShortName": "ZM龙息",
 		"Color": "{default}",
 		"HammerID": "410",
 		"GlowColor": [0,255,0,1],
@@ -144,20 +144,20 @@
 		"UsePriority": true,
 		"AbilityList": [
 			{
-				"Name": "weapon_knife",
-				"ButtonID": 0,
-				"ButtonClass": "",
+				"Name": "z_dragon_button",
+				"ButtonID": 401,
+				"ButtonClass": "func_button",
 				"Filter": "",
 				"Chat_Uses": true,
-				"Mode": 0,
+				"Mode": 2,
 				"MaxUses": 0,
-				"CoolDown": 0
+				"CoolDown": 85
 			}
 		]
 	},
 	{
-		"Name": "arc_elite",
-		"ShortName": "arc_elite",
+		"Name": "寒霜弓",
+		"ShortName": "寒霜弓",
 		"Color": "{default}",
 		"HammerID": "420",
 		"GlowColor": [0,255,0,1],
@@ -170,20 +170,20 @@
 		"UsePriority": true,
 		"AbilityList": [
 			{
-				"Name": "weapon_elite",
-				"ButtonID": 0,
-				"ButtonClass": "",
+				"Name": "arc_button",
+				"ButtonID": 417,
+				"ButtonClass": "func_button",
 				"Filter": "",
 				"Chat_Uses": true,
-				"Mode": 0,
+				"Mode": 2,
 				"MaxUses": 0,
-				"CoolDown": 0
+				"CoolDown": 50
 			}
 		]
 	},
 	{
-		"Name": "fire_arc_elite",
-		"ShortName": "fire_arc_elite",
+		"Name": "火焰弓",
+		"ShortName": "火焰弓",
 		"Color": "{default}",
 		"HammerID": "440",
 		"GlowColor": [0,255,0,1],
@@ -196,20 +196,20 @@
 		"UsePriority": true,
 		"AbilityList": [
 			{
-				"Name": "weapon_elite",
-				"ButtonID": 0,
-				"ButtonClass": "",
+				"Name": "fire_arc_button",
+				"ButtonID": 443,
+				"ButtonClass": "func_button",
 				"Filter": "",
 				"Chat_Uses": true,
-				"Mode": 0,
+				"Mode": 2,
 				"MaxUses": 0,
-				"CoolDown": 0
+				"CoolDown": 25
 			}
 		]
 	},
 	{
-		"Name": "electric_arc_elite",
-		"ShortName": "electric_arc_elite",
+		"Name": "闪电弓",
+		"ShortName": "闪电弓",
 		"Color": "{default}",
 		"HammerID": "461",
 		"GlowColor": [0,255,0,1],
@@ -222,14 +222,14 @@
 		"UsePriority": true,
 		"AbilityList": [
 			{
-				"Name": "weapon_elite",
-				"ButtonID": 0,
-				"ButtonClass": "",
+				"Name": "electric_arc_button",
+				"ButtonID": 464,
+				"ButtonClass": "func_button",
 				"Filter": "",
 				"Chat_Uses": true,
-				"Mode": 0,
+				"Mode": 2,
 				"MaxUses": 0,
-				"CoolDown": 0
+				"CoolDown": 25
 			}
 		]
 	}
