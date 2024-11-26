@@ -29,9 +29,9 @@
 				"ButtonClass": "func_button",
 				"Filter": "f_fire:1",
 				"Chat_Uses": true,
-				"Mode": 2,
+				"Mode": 1,
 				"MaxUses": 0,
-				"CoolDown": 55
+				"CoolDown": 0
 			},
 			{
 				"Name": "Item_Fire_Button",
@@ -39,9 +39,9 @@
 				"ButtonClass": "func_button",
 				"Filter": "f_fire:1",
 				"Chat_Uses": true,
-				"Mode": 2,
+				"Mode": 1,
 				"MaxUses": 0,
-				"CoolDown": 55
+				"CoolDown": 0
 			}
 		]
 	},
@@ -75,9 +75,9 @@
 				"ButtonClass": "func_button",
 				"Filter": "f_wind:1",
 				"Chat_Uses": true,
-				"Mode": 2,
+				"Mode": 1,
 				"MaxUses": 0,
-				"CoolDown": 55
+				"CoolDown": 0
 			},
 			{
 				"Name": "Item_Wind_Button",
@@ -85,9 +85,9 @@
 				"ButtonClass": "func_button",
 				"Filter": "f_wind:1",
 				"Chat_Uses": true,
-				"Mode": 2,
+				"Mode": 1,
 				"MaxUses": 0,
-				"CoolDown": 55
+				"CoolDown": 0
 			}
 		]
 	},
@@ -111,8 +111,8 @@
 				"ButtonClass": "func_button",
 				"Filter": "f_elec:1",
 				"Chat_Uses": true,
-				"Mode": 2,
-				"MaxUses": 0,
+				"Mode": 5,
+				"MaxUses": 3,
 				"CoolDown": 55
 			},
 			{
@@ -121,9 +121,9 @@
 				"ButtonClass": "func_button",
 				"Filter": "f_elec:1",
 				"Chat_Uses": true,
-				"Mode": 2,
+				"Mode": 1,
 				"MaxUses": 0,
-				"CoolDown": 55
+				"CoolDown": 0
 			},
 			{
 				"Name": "Item_Elec_Button",
@@ -131,9 +131,9 @@
 				"ButtonClass": "func_button",
 				"Filter": "f_elec:1",
 				"Chat_Uses": true,
-				"Mode": 2,
+				"Mode": 1,
 				"MaxUses": 0,
-				"CoolDown": 55
+				"CoolDown": 0
 			}
 		]
 	},
@@ -167,9 +167,9 @@
 				"ButtonClass": "func_button",
 				"Filter": "f_earth:1",
 				"Chat_Uses": true,
-				"Mode": 2,
+				"Mode": 1,
 				"MaxUses": 0,
-				"CoolDown": 55
+				"CoolDown": 0
 			},
 			{
 				"Name": "Item_Earth_Button",
@@ -177,9 +177,9 @@
 				"ButtonClass": "func_button",
 				"Filter": "f_earth:1",
 				"Chat_Uses": true,
-				"Mode": 2,
+				"Mode": 1,
 				"MaxUses": 0,
-				"CoolDown": 55
+				"CoolDown": 0
 			}
 		]
 	},
@@ -213,9 +213,9 @@
 				"ButtonClass": "func_button",
 				"Filter": "f_ice:1",
 				"Chat_Uses": true,
-				"Mode": 2,
+				"Mode": 1,
 				"MaxUses": 0,
-				"CoolDown": 55
+				"CoolDown": 0
 			},
 			{
 				"Name": "Item_Ice_Button",
@@ -223,9 +223,9 @@
 				"ButtonClass": "func_button",
 				"Filter": "f_ice:1",
 				"Chat_Uses": true,
-				"Mode": 2,
+				"Mode": 1,
 				"MaxUses": 0,
-				"CoolDown": 55
+				"CoolDown": 0
 			}
 		]
 	},
@@ -259,9 +259,9 @@
 				"ButtonClass": "func_button",
 				"Filter": "f_ultima:1",
 				"Chat_Uses": true,
-				"Mode": 4,
-				"MaxUses": 1,
-				"CoolDown": 20
+				"Mode": 1,
+				"MaxUses": 0,
+				"CoolDown": 0
 			},
 			{
 				"Name": "Item_Ultima_Button",
@@ -269,9 +269,9 @@
 				"ButtonClass": "func_button",
 				"Filter": "f_ultima:1",
 				"Chat_Uses": true,
-				"Mode": 4,
-				"MaxUses": 1,
-				"CoolDown": 20
+				"Mode": 1,
+				"MaxUses": 0,
+				"CoolDown": 0
 			}
 		]
 	},
@@ -331,9 +331,9 @@
 				"ButtonClass": "func_button",
 				"Filter": "f_grav:1",
 				"Chat_Uses": true,
-				"Mode": 2,
+				"Mode": 1,
 				"MaxUses": 0,
-				"CoolDown": 55
+				"CoolDown": 0
 			},
 			{
 				"Name": "Item_Grav_Button",
@@ -341,9 +341,9 @@
 				"ButtonClass": "func_button",
 				"Filter": "f_grav:1",
 				"Chat_Uses": true,
-				"Mode": 2,
+				"Mode": 1,
 				"MaxUses": 0,
-				"CoolDown": 55
+				"CoolDown": 0
 			}
 		]
 	}
