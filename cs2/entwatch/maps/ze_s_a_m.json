@@ -247,17 +247,17 @@
 		"UsePriority": false,
 		"AbilityList": [
 			{
-				"Name": "",
-				"ButtonID": 0,
-				"ButtonClass": "",
-				"Filter": "",
+				"Name": "S_Item_Kirito_Box",
+				"ButtonID": 12881,
+				"ButtonClass": "func_physbox",
+				"Filter": "kirito:1",
 				"Chat_Uses": false,
 				"Mode": 6,
 				"MaxUses": 0,
 				"CoolDown": 0,
 				"Ignore": false,
 				"LockItem": false,
-				"MathID": 12872,
+				"MathID": 12866,
 				"MathNameFix": false
 			},
 			{
@@ -287,17 +287,17 @@
 		"UsePriority": false,
 		"AbilityList": [
 			{
-				"Name": "",
-				"ButtonID": 0,
-				"ButtonClass": "",
-				"Filter": "",
+				"Name": "Item_Kirito_Box",
+				"ButtonID": 7614,
+				"ButtonClass": "func_physbox",
+				"Filter": "kirito:1",
 				"Chat_Uses": false,
 				"Mode": 6,
 				"MaxUses": 0,
 				"CoolDown": 0,
 				"Ignore": false,
 				"LockItem": false,
-				"MathID": 11679,
+				"MathID": 7616,
 				"MathNameFix": false
 			},
 			{
