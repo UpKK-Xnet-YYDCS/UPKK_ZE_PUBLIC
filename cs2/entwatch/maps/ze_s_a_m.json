@@ -233,8 +233,8 @@
 		]
 	},
 	{
-		"Name": "Kirito",
-		"ShortName": "Kirito",
+		"Name": "S_Kirito",
+		"ShortName": "S_Kirito",
 		"Color": "{default}",
 		"HammerID": 12869,
 		"GlowColor": [0,255,0,1],
@@ -247,42 +247,69 @@
 		"UsePriority": false,
 		"AbilityList": [
 			{
-				"Name": "S_Item_Kirito_Button_2",
-				"ButtonID": 12892,
-				"ButtonClass": "func_button",
+				"Name": "",
+				"ButtonID": 0,
+				"ButtonClass": "",
 				"Filter": "",
 				"Chat_Uses": false,
-				"Mode": 7,
+				"Mode": 6,
 				"MaxUses": 0,
 				"CoolDown": 0,
 				"Ignore": false,
 				"LockItem": false,
-				"MathID": 12891,
+				"MathID": 12872,
 				"MathNameFix": false
 			},
 			{
 				"Name": "S_Item_Kirito_Button_2",
 				"ButtonID": 12892,
 				"ButtonClass": "func_button",
-				"Filter": "",
+				"Filter": "kirito:1",
 				"Chat_Uses": true,
-				"Mode": 2,
-				"MaxUses": 0,
+				"Mode": 4,
+				"MaxUses": 2,
 				"CoolDown": 60
-			},
+			}
+		]
+	},
+	{
+		"Name": "Kirito",
+		"ShortName": "Kirito",
+		"Color": "{default}",
+		"HammerID": 11545,
+		"GlowColor": [0,255,0,1],
+		"BlockPickup": false,
+		"AllowTransfer": false,
+		"ForceDrop": false,
+		"Chat": true,
+		"Hud": true,
+		"TriggerID": 0,
+		"UsePriority": false,
+		"AbilityList": [
 			{
 				"Name": "",
 				"ButtonID": 0,
 				"ButtonClass": "",
 				"Filter": "",
 				"Chat_Uses": false,
-				"Mode": 7,
+				"Mode": 6,
 				"MaxUses": 0,
 				"CoolDown": 0,
 				"Ignore": false,
 				"LockItem": false,
-				"MathID": 12856,
+				"MathID": 11679,
 				"MathNameFix": false
+			},
+			{
+				
+				"Name": "Item_Kirito_Button_2",
+				"ButtonID": 7575,
+				"ButtonClass": "func_button",
+				"Filter": "kirito:1",
+				"Chat_Uses": false,
+				"Mode": 4,
+				"MaxUses": 3,
+				"CoolDown": 60
 			}
 		]
 	},
