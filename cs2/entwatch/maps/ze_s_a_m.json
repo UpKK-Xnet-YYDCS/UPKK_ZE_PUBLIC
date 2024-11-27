@@ -328,10 +328,24 @@
 		"UsePriority": false,
 		"AbilityList": [
 			{
-				"Name": "",
+				"Name": "Item_Asuna_Box",
+				"ButtonID": 11122,
+				"ButtonClass": "func_physbox",
+				"Filter": "asuna:1",
+				"Chat_Uses": false,
+				"Mode": 6,
+				"MaxUses": 0,
+				"CoolDown": 0,
+				"Ignore": false,
+				"LockItem": false,
+				"MathID": 11135,
+				"MathNameFix": false
+			},
+			{
+				"Name": "Item_Asuna_Button_2",
 				"ButtonID": 11115,
 				"ButtonClass": "func_button",
-				"Filter": "",
+				"Filter": "asuna:1",
 				"Chat_Uses": true,
 				"Mode": 4,
 				"MaxUses": 2,
