@@ -1,7 +1,7 @@
 [
 	{
-		"Name": "i_trail_elite",
-		"ShortName": "i_trail_elite",
+		"Name": "足迹/trail",
+		"ShortName": "足迹",
 		"Color": "{default}",
 		"HammerID": "12016",
 		"GlowColor": [0,255,0,1],
@@ -14,20 +14,20 @@
 		"UsePriority": true,
 		"AbilityList": [
 			{
-				"Name": "weapon_glock",
+				"Name": "",
 				"ButtonID": 0,
 				"ButtonClass": "",
 				"Filter": "",
-				"Chat_Uses": true,
-				"Mode": 1,
+				"Chat_Uses": false,
+				"Mode": 0,
 				"MaxUses": 0,
 				"CoolDown": 0
 			}
 		]
 	},
 	{
-		"Name": "i_fuel_elites",
-		"ShortName": "i_fuel_elites",
+		"Name": "燃料/fuel",
+		"ShortName": "燃料",
 		"Color": "{default}",
 		"HammerID": "5363",
 		"GlowColor": [0,255,0,1],
@@ -40,19 +40,19 @@
 		"UsePriority": true,
 		"AbilityList": [
 			{
-				"Name": "weapon_elite",
+				"Name": "",
 				"ButtonID": 0,
 				"ButtonClass": "",
 				"Filter": "",
-				"Chat_Uses": true,
-				"Mode": 1,
+				"Chat_Uses": false,
+				"Mode": 0,
 				"MaxUses": 0,
 				"CoolDown": 0
 			}
 		]
 	},
 	{
-		"Name": "i_push_elite",
+		"Name": "推力/push",
 		"ShortName": "i_push_elite",
 		"Color": "{default}",
 		"HammerID": "11782",
@@ -60,20 +60,20 @@
 		"BlockPickup": false,
 		"AllowTransfer": true,
 		"ForceDrop": true,
-		"Chat": true,
+		"Chat": false,
 		"Hud": true,
 		"TriggerID": 0,
 		"UsePriority": true,
 		"AbilityList": [
 			{
-				"Name": "weapon_p250",
-				"ButtonID": 0,
-				"ButtonClass": "",
-				"Filter": "",
-				"Chat_Uses": true,
-				"Mode": 1,
+				"Name": "i_push_button",
+				"ButtonID": 11783,
+				"ButtonClass": "func_physbox",
+				"Filter": "push_user:1",
+				"Chat_Uses": false,
+				"Mode": 2,
 				"MaxUses": 0,
-				"CoolDown": 0
+				"CoolDown": 40
 			}
 		]
 	}
