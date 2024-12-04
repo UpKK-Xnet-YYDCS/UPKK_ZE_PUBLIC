@@ -1,9 +1,9 @@
 {
     "VoteStartTime": 3.0,
     "AllowExtend": true,
-    "ExtendTimeStep": 18.0,
+    "ExtendTimeStep": 20.0,
     "ExtendLimit": 5,
-    "ExcludeMaps":  30,
+    "ExcludeMaps": 30,
     "IncludeMaps": 5,
     "IncludeCurrent": false,
     "DontChangeRTV": true,
