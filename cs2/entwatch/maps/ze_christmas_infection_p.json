@@ -1,444 +1,444 @@
 [
-    {
-        "Name": "BallGenOutElites",
-        "ShortName": "BallGenOutElites",
-        "Color": "{default}",
-        "HammerID": "1032",
+	{
+		"Name": "BallGenOutElites",
+		"ShortName": "BallGenOutElites",
+		"Color": "{default}",
+		"HammerID": "1032",
 		"GlowColor": [0,255,0,1],
-        "BlockPickup": false,
-        "AllowTransfer": true,
-        "ForceDrop": true,
-        "Chat": true,
-        "Hud": true,
-        "TriggerID": 0,
-        "UsePriority": true,
-        "AbilityList": [
-            {
-                "Name": "weapon_elite",
-                "ButtonID": 0,
-                "ButtonClass": "",
-                "Filter": "",
-                "Chat_Uses": true,
-                "Mode": 1,
-                "MaxUses": 0,
-                "CoolDown": 0
-            }
-        ]
-    },
-    {
-        "Name": "Gigante_Knife",
-        "ShortName": "Gigante_Knife",
-        "Color": "{default}",
-        "HammerID": "4460",
+		"BlockPickup": false,
+		"AllowTransfer": true,
+		"ForceDrop": true,
+		"Chat": true,
+		"Hud": true,
+		"TriggerID": 0,
+		"UsePriority": true,
+		"AbilityList": [
+			{
+				"Name": "weapon_elite",
+				"ButtonID": 0,
+				"ButtonClass": "",
+				"Filter": "",
+				"Chat_Uses": true,
+				"Mode": 1,
+				"MaxUses": 0,
+				"CoolDown": 0
+			}
+		]
+	},
+	{
+		"Name": "Gigante_Knife",
+		"ShortName": "Gigante_Knife",
+		"Color": "{default}",
+		"HammerID": "4460",
 		"GlowColor": [0,255,0,1],
-        "BlockPickup": false,
-        "AllowTransfer": true,
-        "ForceDrop": true,
-        "Chat": true,
-        "Hud": true,
-        "TriggerID": 0,
-        "UsePriority": true,
-        "AbilityList": [
-            {
-                "Name": "weapon_knife",
-                "ButtonID": 0,
-                "ButtonClass": "",
-                "Filter": "",
-                "Chat_Uses": true,
-                "Mode": 1,
-                "MaxUses": 0,
-                "CoolDown": 0
-            }
-        ]
-    },
-    {
-        "Name": "LanternGun",
-        "ShortName": "LanternGun",
-        "Color": "{default}",
-        "HammerID": "4480",
+		"BlockPickup": false,
+		"AllowTransfer": true,
+		"ForceDrop": true,
+		"Chat": true,
+		"Hud": true,
+		"TriggerID": 0,
+		"UsePriority": true,
+		"AbilityList": [
+			{
+				"Name": "weapon_knife",
+				"ButtonID": 0,
+				"ButtonClass": "",
+				"Filter": "",
+				"Chat_Uses": true,
+				"Mode": 1,
+				"MaxUses": 0,
+				"CoolDown": 0
+			}
+		]
+	},
+	{
+		"Name": "LanternGun",
+		"ShortName": "LanternGun",
+		"Color": "{default}",
+		"HammerID": "4480",
 		"GlowColor": [0,255,0,1],
-        "BlockPickup": false,
-        "AllowTransfer": true,
-        "ForceDrop": true,
-        "Chat": true,
-        "Hud": true,
-        "TriggerID": 0,
-        "UsePriority": true,
-        "AbilityList": [
-            {
-                "Name": "weapon_elite",
-                "ButtonID": 0,
-                "ButtonClass": "",
-                "Filter": "",
-                "Chat_Uses": true,
-                "Mode": 1,
-                "MaxUses": 0,
-                "CoolDown": 0
-            }
-        ]
-    },
-    {
-        "Name": "SnowGun",
-        "ShortName": "SnowGun",
-        "Color": "{default}",
-        "HammerID": "4502",
+		"BlockPickup": false,
+		"AllowTransfer": true,
+		"ForceDrop": true,
+		"Chat": true,
+		"Hud": true,
+		"TriggerID": 0,
+		"UsePriority": true,
+		"AbilityList": [
+			{
+				"Name": "weapon_elite",
+				"ButtonID": 0,
+				"ButtonClass": "",
+				"Filter": "",
+				"Chat_Uses": true,
+				"Mode": 1,
+				"MaxUses": 0,
+				"CoolDown": 0
+			}
+		]
+	},
+	{
+		"Name": "SnowGun",
+		"ShortName": "SnowGun",
+		"Color": "{default}",
+		"HammerID": "4502",
 		"GlowColor": [0,255,0,1],
-        "BlockPickup": false,
-        "AllowTransfer": true,
-        "ForceDrop": true,
-        "Chat": true,
-        "Hud": true,
-        "TriggerID": 0,
-        "UsePriority": true,
-        "AbilityList": [
-            {
-                "Name": "weapon_elite",
-                "ButtonID": 0,
-                "ButtonClass": "",
-                "Filter": "",
-                "Chat_Uses": true,
-                "Mode": 1,
-                "MaxUses": 0,
-                "CoolDown": 0
-            }
-        ]
-    },
-    {
-        "Name": "FogZombie",
-        "ShortName": "FogZombie",
-        "Color": "{default}",
-        "HammerID": "4521",
+		"BlockPickup": false,
+		"AllowTransfer": true,
+		"ForceDrop": true,
+		"Chat": true,
+		"Hud": true,
+		"TriggerID": 0,
+		"UsePriority": true,
+		"AbilityList": [
+			{
+				"Name": "weapon_elite",
+				"ButtonID": 0,
+				"ButtonClass": "",
+				"Filter": "",
+				"Chat_Uses": true,
+				"Mode": 1,
+				"MaxUses": 0,
+				"CoolDown": 0
+			}
+		]
+	},
+	{
+		"Name": "FogZombie",
+		"ShortName": "FogZombie",
+		"Color": "{default}",
+		"HammerID": "4521",
 		"GlowColor": [0,255,0,1],
-        "BlockPickup": false,
-        "AllowTransfer": true,
-        "ForceDrop": true,
-        "Chat": true,
-        "Hud": true,
-        "TriggerID": 0,
-        "UsePriority": true,
-        "AbilityList": [
-            {
-                "Name": "weapon_knife",
-                "ButtonID": 0,
-                "ButtonClass": "",
-                "Filter": "",
-                "Chat_Uses": true,
-                "Mode": 1,
-                "MaxUses": 0,
-                "CoolDown": 0
-            }
-        ]
-    },
-    {
-        "Name": "TornadoGun",
-        "ShortName": "TornadoGun",
-        "Color": "{default}",
-        "HammerID": "4542",
+		"BlockPickup": false,
+		"AllowTransfer": true,
+		"ForceDrop": true,
+		"Chat": true,
+		"Hud": true,
+		"TriggerID": 0,
+		"UsePriority": true,
+		"AbilityList": [
+			{
+				"Name": "weapon_knife",
+				"ButtonID": 0,
+				"ButtonClass": "",
+				"Filter": "",
+				"Chat_Uses": true,
+				"Mode": 1,
+				"MaxUses": 0,
+				"CoolDown": 0
+			}
+		]
+	},
+	{
+		"Name": "TornadoGun",
+		"ShortName": "TornadoGun",
+		"Color": "{default}",
+		"HammerID": "4542",
 		"GlowColor": [0,255,0,1],
-        "BlockPickup": false,
-        "AllowTransfer": true,
-        "ForceDrop": true,
-        "Chat": true,
-        "Hud": true,
-        "TriggerID": 0,
-        "UsePriority": true,
-        "AbilityList": [
-            {
-                "Name": "weapon_knife",
-                "ButtonID": 0,
-                "ButtonClass": "",
-                "Filter": "",
-                "Chat_Uses": true,
-                "Mode": 1,
-                "MaxUses": 0,
-                "CoolDown": 0
-            }
-        ]
-    },
-    {
-        "Name": "MineGun",
-        "ShortName": "MineGun",
-        "Color": "{default}",
-        "HammerID": "4562",
+		"BlockPickup": false,
+		"AllowTransfer": true,
+		"ForceDrop": true,
+		"Chat": true,
+		"Hud": true,
+		"TriggerID": 0,
+		"UsePriority": true,
+		"AbilityList": [
+			{
+				"Name": "weapon_knife",
+				"ButtonID": 0,
+				"ButtonClass": "",
+				"Filter": "",
+				"Chat_Uses": true,
+				"Mode": 1,
+				"MaxUses": 0,
+				"CoolDown": 0
+			}
+		]
+	},
+	{
+		"Name": "MineGun",
+		"ShortName": "MineGun",
+		"Color": "{default}",
+		"HammerID": "4562",
 		"GlowColor": [0,255,0,1],
-        "BlockPickup": false,
-        "AllowTransfer": true,
-        "ForceDrop": true,
-        "Chat": true,
-        "Hud": true,
-        "TriggerID": 0,
-        "UsePriority": true,
-        "AbilityList": [
-            {
-                "Name": "weapon_elite",
-                "ButtonID": 0,
-                "ButtonClass": "",
-                "Filter": "",
-                "Chat_Uses": true,
-                "Mode": 1,
-                "MaxUses": 0,
-                "CoolDown": 0
-            }
-        ]
-    },
-    {
-        "Name": "IceGun",
-        "ShortName": "IceGun",
-        "Color": "{default}",
-        "HammerID": "4587",
+		"BlockPickup": false,
+		"AllowTransfer": true,
+		"ForceDrop": true,
+		"Chat": true,
+		"Hud": true,
+		"TriggerID": 0,
+		"UsePriority": true,
+		"AbilityList": [
+			{
+				"Name": "weapon_elite",
+				"ButtonID": 0,
+				"ButtonClass": "",
+				"Filter": "",
+				"Chat_Uses": true,
+				"Mode": 1,
+				"MaxUses": 0,
+				"CoolDown": 0
+			}
+		]
+	},
+	{
+		"Name": "IceGun",
+		"ShortName": "IceGun",
+		"Color": "{default}",
+		"HammerID": "4587",
 		"GlowColor": [0,255,0,1],
-        "BlockPickup": false,
-        "AllowTransfer": true,
-        "ForceDrop": true,
-        "Chat": true,
-        "Hud": true,
-        "TriggerID": 0,
-        "UsePriority": true,
-        "AbilityList": [
-            {
-                "Name": "weapon_elite",
-                "ButtonID": 0,
-                "ButtonClass": "",
-                "Filter": "",
-                "Chat_Uses": true,
-                "Mode": 1,
-                "MaxUses": 0,
-                "CoolDown": 0
-            }
-        ]
-    },
-    {
-        "Name": "IceBoom",
-        "ShortName": "IceBoom",
-        "Color": "{default}",
-        "HammerID": "4592",
+		"BlockPickup": false,
+		"AllowTransfer": true,
+		"ForceDrop": true,
+		"Chat": true,
+		"Hud": true,
+		"TriggerID": 0,
+		"UsePriority": true,
+		"AbilityList": [
+			{
+				"Name": "weapon_elite",
+				"ButtonID": 0,
+				"ButtonClass": "",
+				"Filter": "",
+				"Chat_Uses": true,
+				"Mode": 1,
+				"MaxUses": 0,
+				"CoolDown": 0
+			}
+		]
+	},
+	{
+		"Name": "IceBoom",
+		"ShortName": "IceBoom",
+		"Color": "{default}",
+		"HammerID": "4592",
 		"GlowColor": [0,255,0,1],
-        "BlockPickup": false,
-        "AllowTransfer": true,
-        "ForceDrop": true,
-        "Chat": true,
-        "Hud": true,
-        "TriggerID": 0,
-        "UsePriority": true,
-        "AbilityList": [
-            {
-                "Name": "weapon_knife",
-                "ButtonID": 0,
-                "ButtonClass": "",
-                "Filter": "",
-                "Chat_Uses": true,
-                "Mode": 1,
-                "MaxUses": 0,
-                "CoolDown": 0
-            }
-        ]
-    },
-    {
-        "Name": "TreeGun",
-        "ShortName": "TreeGun",
-        "Color": "{default}",
-        "HammerID": "4631",
+		"BlockPickup": false,
+		"AllowTransfer": true,
+		"ForceDrop": true,
+		"Chat": true,
+		"Hud": true,
+		"TriggerID": 0,
+		"UsePriority": true,
+		"AbilityList": [
+			{
+				"Name": "weapon_knife",
+				"ButtonID": 0,
+				"ButtonClass": "",
+				"Filter": "",
+				"Chat_Uses": true,
+				"Mode": 1,
+				"MaxUses": 0,
+				"CoolDown": 0
+			}
+		]
+	},
+	{
+		"Name": "TreeGun",
+		"ShortName": "TreeGun",
+		"Color": "{default}",
+		"HammerID": "4631",
 		"GlowColor": [0,255,0,1],
-        "BlockPickup": false,
-        "AllowTransfer": true,
-        "ForceDrop": true,
-        "Chat": true,
-        "Hud": true,
-        "TriggerID": 0,
-        "UsePriority": true,
-        "AbilityList": [
-            {
-                "Name": "weapon_elite",
-                "ButtonID": 0,
-                "ButtonClass": "",
-                "Filter": "",
-                "Chat_Uses": true,
-                "Mode": 1,
-                "MaxUses": 0,
-                "CoolDown": 0
-            }
-        ]
-    },
-    {
-        "Name": "lanzaLlamas",
-        "ShortName": "lanzaLlamas",
-        "Color": "{default}",
-        "HammerID": "4642",
+		"BlockPickup": false,
+		"AllowTransfer": true,
+		"ForceDrop": true,
+		"Chat": true,
+		"Hud": true,
+		"TriggerID": 0,
+		"UsePriority": true,
+		"AbilityList": [
+			{
+				"Name": "weapon_elite",
+				"ButtonID": 0,
+				"ButtonClass": "",
+				"Filter": "",
+				"Chat_Uses": true,
+				"Mode": 1,
+				"MaxUses": 0,
+				"CoolDown": 0
+			}
+		]
+	},
+	{
+		"Name": "lanzaLlamas",
+		"ShortName": "lanzaLlamas",
+		"Color": "{default}",
+		"HammerID": "4642",
 		"GlowColor": [0,255,0,1],
-        "BlockPickup": false,
-        "AllowTransfer": true,
-        "ForceDrop": true,
-        "Chat": true,
-        "Hud": true,
-        "TriggerID": 0,
-        "UsePriority": true,
-        "AbilityList": [
-            {
-                "Name": "weapon_elite",
-                "ButtonID": 0,
-                "ButtonClass": "",
-                "Filter": "",
-                "Chat_Uses": true,
-                "Mode": 1,
-                "MaxUses": 0,
-                "CoolDown": 0
-            }
-        ]
-    },
-    {
-        "Name": "Healer",
-        "ShortName": "Healer",
-        "Color": "{default}",
-        "HammerID": "4670",
+		"BlockPickup": false,
+		"AllowTransfer": true,
+		"ForceDrop": true,
+		"Chat": true,
+		"Hud": true,
+		"TriggerID": 0,
+		"UsePriority": true,
+		"AbilityList": [
+			{
+				"Name": "weapon_elite",
+				"ButtonID": 0,
+				"ButtonClass": "",
+				"Filter": "",
+				"Chat_Uses": true,
+				"Mode": 1,
+				"MaxUses": 0,
+				"CoolDown": 0
+			}
+		]
+	},
+	{
+		"Name": "Healer",
+		"ShortName": "Healer",
+		"Color": "{default}",
+		"HammerID": "4670",
 		"GlowColor": [0,255,0,1],
-        "BlockPickup": false,
-        "AllowTransfer": true,
-        "ForceDrop": true,
-        "Chat": true,
-        "Hud": true,
-        "TriggerID": 0,
-        "UsePriority": true,
-        "AbilityList": [
-            {
-                "Name": "weapon_knife",
-                "ButtonID": 0,
-                "ButtonClass": "",
-                "Filter": "",
-                "Chat_Uses": true,
-                "Mode": 1,
-                "MaxUses": 0,
-                "CoolDown": 0
-            }
-        ]
-    },
-    {
-        "Name": "TramplKnife",
-        "ShortName": "TramplKnife",
-        "Color": "{default}",
-        "HammerID": "4695",
+		"BlockPickup": false,
+		"AllowTransfer": true,
+		"ForceDrop": true,
+		"Chat": true,
+		"Hud": true,
+		"TriggerID": 0,
+		"UsePriority": true,
+		"AbilityList": [
+			{
+				"Name": "weapon_knife",
+				"ButtonID": 0,
+				"ButtonClass": "",
+				"Filter": "",
+				"Chat_Uses": true,
+				"Mode": 1,
+				"MaxUses": 0,
+				"CoolDown": 0
+			}
+		]
+	},
+	{
+		"Name": "TramplKnife",
+		"ShortName": "TramplKnife",
+		"Color": "{default}",
+		"HammerID": "4695",
 		"GlowColor": [0,255,0,1],
-        "BlockPickup": false,
-        "AllowTransfer": true,
-        "ForceDrop": true,
-        "Chat": true,
-        "Hud": true,
-        "TriggerID": 0,
-        "UsePriority": true,
-        "AbilityList": [
-            {
-                "Name": "weapon_knife",
-                "ButtonID": 0,
-                "ButtonClass": "",
-                "Filter": "",
-                "Chat_Uses": true,
-                "Mode": 1,
-                "MaxUses": 0,
-                "CoolDown": 0
-            }
-        ]
-    },
-    {
-        "Name": "HatGun",
-        "ShortName": "HatGun",
-        "Color": "{default}",
-        "HammerID": "1179",
+		"BlockPickup": false,
+		"AllowTransfer": true,
+		"ForceDrop": true,
+		"Chat": true,
+		"Hud": true,
+		"TriggerID": 0,
+		"UsePriority": true,
+		"AbilityList": [
+			{
+				"Name": "weapon_knife",
+				"ButtonID": 0,
+				"ButtonClass": "",
+				"Filter": "",
+				"Chat_Uses": true,
+				"Mode": 1,
+				"MaxUses": 0,
+				"CoolDown": 0
+			}
+		]
+	},
+	{
+		"Name": "HatGun",
+		"ShortName": "HatGun",
+		"Color": "{default}",
+		"HammerID": "1179",
 		"GlowColor": [0,255,0,1],
-        "BlockPickup": false,
-        "AllowTransfer": true,
-        "ForceDrop": true,
-        "Chat": true,
-        "Hud": true,
-        "TriggerID": 0,
-        "UsePriority": true,
-        "AbilityList": [
-            {
-                "Name": "weapon_elite",
-                "ButtonID": 0,
-                "ButtonClass": "",
-                "Filter": "",
-                "Chat_Uses": true,
-                "Mode": 1,
-                "MaxUses": 0,
-                "CoolDown": 0
-            }
-        ]
-    },
-    {
-        "Name": "PenisGun",
-        "ShortName": "PenisGun",
-        "Color": "{default}",
-        "HammerID": "1180",
+		"BlockPickup": false,
+		"AllowTransfer": true,
+		"ForceDrop": true,
+		"Chat": true,
+		"Hud": true,
+		"TriggerID": 0,
+		"UsePriority": true,
+		"AbilityList": [
+			{
+				"Name": "weapon_elite",
+				"ButtonID": 0,
+				"ButtonClass": "",
+				"Filter": "",
+				"Chat_Uses": true,
+				"Mode": 1,
+				"MaxUses": 0,
+				"CoolDown": 0
+			}
+		]
+	},
+	{
+		"Name": "PenisGun",
+		"ShortName": "PenisGun",
+		"Color": "{default}",
+		"HammerID": "1180",
 		"GlowColor": [0,255,0,1],
-        "BlockPickup": false,
-        "AllowTransfer": true,
-        "ForceDrop": true,
-        "Chat": true,
-        "Hud": true,
-        "TriggerID": 0,
-        "UsePriority": true,
-        "AbilityList": [
-            {
-                "Name": "weapon_elite",
-                "ButtonID": 0,
-                "ButtonClass": "",
-                "Filter": "",
-                "Chat_Uses": true,
-                "Mode": 1,
-                "MaxUses": 0,
-                "CoolDown": 0
-            }
-        ]
-    },
-    {
-        "Name": "BananaGun",
-        "ShortName": "BananaGun",
-        "Color": "{default}",
-        "HammerID": "1205",
+		"BlockPickup": false,
+		"AllowTransfer": true,
+		"ForceDrop": true,
+		"Chat": true,
+		"Hud": true,
+		"TriggerID": 0,
+		"UsePriority": true,
+		"AbilityList": [
+			{
+				"Name": "weapon_elite",
+				"ButtonID": 0,
+				"ButtonClass": "",
+				"Filter": "",
+				"Chat_Uses": true,
+				"Mode": 1,
+				"MaxUses": 0,
+				"CoolDown": 0
+			}
+		]
+	},
+	{
+		"Name": "BananaGun",
+		"ShortName": "BananaGun",
+		"Color": "{default}",
+		"HammerID": "1205",
 		"GlowColor": [0,255,0,1],
-        "BlockPickup": false,
-        "AllowTransfer": true,
-        "ForceDrop": true,
-        "Chat": true,
-        "Hud": true,
-        "TriggerID": 0,
-        "UsePriority": true,
-        "AbilityList": [
-            {
-                "Name": "weapon_elite",
-                "ButtonID": 0,
-                "ButtonClass": "",
-                "Filter": "",
-                "Chat_Uses": true,
-                "Mode": 1,
-                "MaxUses": 0,
-                "CoolDown": 0
-            }
-        ]
-    },
-    {
-        "Name": "ZombieKing",
-        "ShortName": "ZombieKing",
-        "Color": "{default}",
-        "HammerID": "1271",
+		"BlockPickup": false,
+		"AllowTransfer": true,
+		"ForceDrop": true,
+		"Chat": true,
+		"Hud": true,
+		"TriggerID": 0,
+		"UsePriority": true,
+		"AbilityList": [
+			{
+				"Name": "weapon_elite",
+				"ButtonID": 0,
+				"ButtonClass": "",
+				"Filter": "",
+				"Chat_Uses": true,
+				"Mode": 1,
+				"MaxUses": 0,
+				"CoolDown": 0
+			}
+		]
+	},
+	{
+		"Name": "ZombieKing",
+		"ShortName": "ZombieKing",
+		"Color": "{default}",
+		"HammerID": "1271",
 		"GlowColor": [0,255,0,1],
-        "BlockPickup": false,
-        "AllowTransfer": true,
-        "ForceDrop": true,
-        "Chat": true,
-        "Hud": true,
-        "TriggerID": 0,
-        "UsePriority": true,
-        "AbilityList": [
-            {
-                "Name": "weapon_knife",
-                "ButtonID": 0,
-                "ButtonClass": "",
-                "Filter": "",
-                "Chat_Uses": true,
-                "Mode": 1,
-                "MaxUses": 0,
-                "CoolDown": 0
-            }
-        ]
-    }
+		"BlockPickup": false,
+		"AllowTransfer": true,
+		"ForceDrop": true,
+		"Chat": true,
+		"Hud": true,
+		"TriggerID": 0,
+		"UsePriority": true,
+		"AbilityList": [
+			{
+				"Name": "weapon_knife",
+				"ButtonID": 0,
+				"ButtonClass": "",
+				"Filter": "",
+				"Chat_Uses": true,
+				"Mode": 1,
+				"MaxUses": 0,
+				"CoolDown": 0
+			}
+		]
+	}
 ]
