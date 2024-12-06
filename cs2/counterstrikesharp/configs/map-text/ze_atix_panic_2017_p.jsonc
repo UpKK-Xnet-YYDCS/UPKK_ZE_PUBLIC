@@ -1,6 +1,7 @@
 {
   "++ 15 seconds to choose ++": {
-    "translation": "++ 15秒内选择 ++"
+    "translation": "++ 15秒内选择 ++",
+    "DoorCountDown": -1
   },
   "++ 20 SECONDS UNTIL THE HELICOPTER LEAVES ++": {
     "translation": "++ 20秒后直升机将离开 ++"
@@ -9,7 +10,8 @@
     "translation": "++ 30秒后到达 ++"
   },
   "++ 60 seconds until the secret is disabled ++": {
-    "translation": "++ 60秒后彩蛋将失效 ++"
+    "translation": "++ 60秒后彩蛋将失效 ++",
+    "DoorCountDown": -1
   },
   "++ ALL FLOORS ARE UNLOCKED ++": {
     "translation": "++ 所有楼层已解锁 ++"
@@ -45,6 +47,6 @@
     "translation": "++ 按错按钮！ ++"
   },
   "++ ZOMBIE BARRIERS ARE EASIER TO BREAK NOW ++": {
-    "translation": "++ 僵尸屏障现在更容易破坏 ++"
+    "translation": "++ 现在僵尸更容易破坏围栏 ++"
   }
 }
