@@ -53,11 +53,11 @@
 			"KR": "{LIME}현재 시간: {RED}{TIME} 현재 맵: {RED}{MAP}"
 		},
 		"ads_1": {
-			"CN": "{RED}[X社区]{ORANGE}!store - {PURPLE}打开商店菜单，{LIME}!inv - {PURPLE}以库存模式打开商店菜单 (推荐装备皮肤时使用)",
-			"US": "{RED}[X Community]{ORANGE}!store - {PURPLE}Open store menu, {LIME}!inv - {PURPLE}Open store menu on inventory mode",
-			"TW": "{RED}[X社區]{ORANGE}!store - {PURPLE}打開商店菜單，{LIME}!inv - {PURPLE}以庫存模式打開商店菜單（建議裝備皮膚時使用）",
-			"JP": "{RED}[Xコミュニティ]{ORANGE}!store - {PURPLE}ストアメニューを開く, {LIME}!inv - {PURPLE}インベントリモードでストアメニューを開く",
-			"KR": "{RED}[X 커뮤니티]{ORANGE}!store - {PURPLE}상점 메뉴를 열기, {LIME}!inv - {PURPLE}인벤토리 모드로 상점 메뉴를 열기"
+			"CN": "{RED}[X社区]{ORANGE}!store {PURPLE}打开商店菜单 {ORANGE}!inv {PURPLE}以库存模式打开商店菜单 (推荐装备皮肤时使用)",
+			"US": "{RED}[X Community]{ORANGE}!store {PURPLE}Open store menu,{ORANGE}!inv {PURPLE}Open store menu on inventory mode",
+			"TW": "{RED}[X社區]{ORANGE}!store {PURPLE}打開商店菜單 {ORANGE}!inv {PURPLE}以庫存模式打開商店菜單（建議裝備皮膚時使用）",
+			"JP": "{RED}[Xコミュニティ]{ORANGE}!store {PURPLE}ストアメニューを開く,{ORANGE}!inv {PURPLE}インベントリモードでストアメニューを開く",
+			"KR": "{RED}[X 커뮤니티]{ORANGE}!store {PURPLE}상점 메뉴를 열기,{ORANGE}!inv {PURPLE}인벤토리 모드로 상점 메뉴를 열기"
 		},
 		"ads_2": {
 			"CN": "{RED}[X社区] {LIME}当前时间: {RED}{TIME} {PURPLE}当前地图: {RED}{MAP}",
