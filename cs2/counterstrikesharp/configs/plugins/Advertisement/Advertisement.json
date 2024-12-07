@@ -53,11 +53,11 @@
 			"KR": "{LIME}현재 시간: {RED}{TIME} 현재 맵: {RED}{MAP}"
 		},
 		"ads_1": {
-			"CN": "{RED}[X社区] {LIME}!store {DEFAULT}购买使用皮肤 {LIME}!inv {DEFAULT}打开商店个人库存 (如果您想装备皮肤!inv更合适)",
-			"US": "{RED}[X Community] {LIME}!store {DEFAULT}to buy and use skins {LIME}!inv {DEFAULT}to open your inventory (use !inv to equip skins)",
-			"TW": "{RED}[X社區] {LIME}!store {DEFAULT}購買使用皮膚 {LIME}!inv {DEFAULT}打開商店個人庫存 (如果您想裝備皮膚!inv更合適)",
-			"JP": "{RED}[Xコミュニティ] {LIME}!store {DEFAULT}スキンを購入して使用するには、{LIME}!inv {DEFAULT}インベントリを開きます (スキンを装備するには、!inv を使用します)",
-			"KR": "{RED}[X 커뮤니티] {LIME}!store {DEFAULT}스킨을 구매하고 사용하려면 {LIME}!inv {DEFAULT}인벤토리를 열려면 (스킨을 장착하려면 !inv 를 사용하십시오)"
+			"CN": "{RED}[X社区]{ORANGE}!store - {PURPLE}打开商店菜单，{LIME}!inv - {PURPLE}以库存模式打开商店菜单 (推荐装备皮肤时使用)",
+			"US": "{RED}[X Community]{ORANGE}!store - {PURPLE}Open store menu, {LIME}!inv - {PURPLE}Open store menu on inventory mode",
+			"TW": "{RED}[X社區]{ORANGE}!store - {PURPLE}打開商店菜單，{LIME}!inv - {PURPLE}以庫存模式打開商店菜單（建議裝備皮膚時使用）",
+			"JP": "{RED}[Xコミュニティ]{ORANGE}!store - {PURPLE}ストアメニューを開く, {LIME}!inv - {PURPLE}インベントリモードでストアメニューを開く",
+			"KR": "{RED}[X 커뮤니티]{ORANGE}!store - {PURPLE}상점 메뉴를 열기, {LIME}!inv - {PURPLE}인벤토리 모드로 상점 메뉴를 열기"
 		},
 		"ads_2": {
 			"CN": "{RED}[X社区] {LIME}当前时间: {RED}{TIME} {PURPLE}当前地图: {RED}{MAP}",
