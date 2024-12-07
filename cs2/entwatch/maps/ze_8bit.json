@@ -17,15 +17,11 @@
 				"Name": "Button_heal",
 				"ButtonID": 4734,
 				"ButtonClass": "func_button",
-				"Filter": "",
+				"Filter": "$Player_Heal",
 				"Chat_Uses": true,
 				"Mode": 2,
 				"MaxUses": 0,
-				"CoolDown": 60,
-				"Ignore": false,
-				"LockItem": false,
-				"MathID": 0,
-				"MathNameFix": false
+				"CoolDown": 60
 			}
 		]
 	},
@@ -47,15 +43,11 @@
 				"Name": "Button_electro",
 				"ButtonID": 4740,
 				"ButtonClass": "func_button",
-				"Filter": "",
+				"Filter": "$Player_Electro",
 				"Chat_Uses": true,
 				"Mode": 2,
 				"MaxUses": 0,
-				"CoolDown": 50,
-				"Ignore": false,
-				"LockItem": false,
-				"MathID": 0,
-				"MathNameFix": false
+				"CoolDown": 50
 			}
 		]
 	},
@@ -77,15 +69,11 @@
 				"Name": "Button_cannon_ultimate",
 				"ButtonID": 4968,
 				"ButtonClass": "func_button",
-				"Filter": "",
+				"Filter": "$Player_Cannon_ultimate",
 				"Chat_Uses": true,
 				"Mode": 3,
 				"MaxUses": 1,
-				"CoolDown": 0,
-				"Ignore": false,
-				"LockItem": false,
-				"MathID": 0,
-				"MathNameFix": false
+				"CoolDown": 0
 			}
 		]
 	},
@@ -107,15 +95,11 @@
 				"Name": "Button_Stopper",
 				"ButtonID": 4989,
 				"ButtonClass": "func_button",
-				"Filter": "",
+				"Filter": "$Player_Stopper",
 				"Chat_Uses": true,
 				"Mode": 2,
 				"MaxUses": 0,
-				"CoolDown": 60,
-				"Ignore": false,
-				"LockItem": false,
-				"MathID": 0,
-				"MathNameFix": false
+				"CoolDown": 60
 			}
 		]
 	},
@@ -137,15 +121,11 @@
 				"Name": "Button_Mine",
 				"ButtonID": 5020,
 				"ButtonClass": "func_button",
-				"Filter": "",
+				"Filter": "$Player_Mine",
 				"Chat_Uses": true,
 				"Mode": 4,
 				"MaxUses": 8,
-				"CoolDown": 10,
-				"Ignore": false,
-				"LockItem": false,
-				"MathID": 0,
-				"MathNameFix": false
+				"CoolDown": 10
 			}
 		]
 	},
@@ -167,7 +147,7 @@
 				"Name": "Button_Fire",
 				"ButtonID": 5039,
 				"ButtonClass": "func_button",
-				"Filter": "",
+				"Filter": "$Player_Fire",
 				"Chat_Uses": false,
 				"Mode": 6,
 				"MaxUses": 0,
@@ -197,15 +177,11 @@
 				"Name": "Button_Ammo",
 				"ButtonID": 5595,
 				"ButtonClass": "func_button",
-				"Filter": "",
+				"Filter": "$Player_Ammo",
 				"Chat_Uses": true,
 				"Mode": 2,
 				"MaxUses": 0,
-				"CoolDown": 60,
-				"Ignore": false,
-				"LockItem": false,
-				"MathID": 0,
-				"MathNameFix": false
+				"CoolDown": 60
 			}
 		]
 	}
