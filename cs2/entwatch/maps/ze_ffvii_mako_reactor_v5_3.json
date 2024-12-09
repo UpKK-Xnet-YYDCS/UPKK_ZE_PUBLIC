@@ -14,10 +14,10 @@
 		"UsePriority": false,
 		"AbilityList": [
 			{
-				"Name": "",
-				"ButtonID": 0,
+				"Name": "magia_cura_button",
+				"ButtonID": 643,
 				"ButtonClass": "func_button",
-				"Filter": "",
+				"Filter": "portador_heal",
 				"Chat_Uses": true,
 				"Mode": 2,
 				"MaxUses": 0,
@@ -40,10 +40,10 @@
 		"UsePriority": false,
 		"AbilityList": [
 			{
-				"Name": "",
-				"ButtonID": 0,
+				"Name": "hielo_f_button",
+				"ButtonID": 596,
 				"ButtonClass": "func_button",
-				"Filter": "",
+				"Filter": "portador_ice",
 				"Chat_Uses": true,
 				"Mode": 2,
 				"MaxUses": 0,
@@ -96,10 +96,10 @@
 		"UsePriority": false,
 		"AbilityList": [
 			{
-				"Name": "",
-				"ButtonID": 0,
+				"Name": "magia_viento_button",
+				"ButtonID": 627,
 				"ButtonClass": "func_button",
-				"Filter": "",
+				"Filter": "portador_viento",
 				"Chat_Uses": true,
 				"Mode": 2,
 				"MaxUses": 0,
@@ -122,10 +122,10 @@
 		"UsePriority": false,
 		"AbilityList": [
 			{
-				"Name": "",
-				"ButtonID": 0,
+				"Name": "magia_tierra_button",
+				"ButtonID": 636,
 				"ButtonClass": "func_button",
-				"Filter": "",
+				"Filter": "portador_earth",
 				"Chat_Uses": true,
 				"Mode": 2,
 				"MaxUses": 0,
@@ -148,10 +148,10 @@
 		"UsePriority": false,
 		"AbilityList": [
 			{
-				"Name": "",
-				"ButtonID": 0,
+				"Name": "1b",
+				"ButtonID": 612,
 				"ButtonClass": "func_button",
-				"Filter": "",
+				"Filter": "portador_fire",
 				"Chat_Uses": true,
 				"Mode": 2,
 				"MaxUses": 0,
@@ -174,10 +174,10 @@
 		"UsePriority": false,
 		"AbilityList": [
 			{
-				"Name": "",
-				"ButtonID": 0,
+				"Name": "boton_ultima",
+				"ButtonID": 573,
 				"ButtonClass": "func_button",
-				"Filter": "",
+				"Filter": "portador_ultima",
 				"Chat_Uses": true,
 				"Mode": 4,
 				"MaxUses": 1,
@@ -200,10 +200,10 @@
 		"UsePriority": false,
 		"AbilityList": [
 			{
-				"Name": "",
-				"ButtonID": 0,
+				"Name": "magia_gravedad_button",
+				"ButtonID": 709,
 				"ButtonClass": "func_button",
-				"Filter": "",
+				"Filter": "portador_gravedad",
 				"Chat_Uses": true,
 				"Mode": 2,
 				"MaxUses": 0,
