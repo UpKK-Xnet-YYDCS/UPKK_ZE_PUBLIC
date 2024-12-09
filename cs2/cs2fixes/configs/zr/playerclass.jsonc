@@ -75,7 +75,7 @@
 		"zwalk": {
 			"enabled": true,
 			"team_default": true,
-			"health": 17000,
+			"health": 18888,
 			"models": [
 				{
 					"modelname": "characters/models/s2ze/chris_walker/chris_walker.vmdl",
@@ -93,7 +93,7 @@
 		"zsnow": {
 			"enabled": true,
 			"team_default": true,
-			"health": 14000,
+			"health": 14888,
 			"models": [
 				{
 					"modelname": "characters/models/upkk/snow_v1/snow_v1.vmdl",
@@ -111,7 +111,7 @@
 		"MotherZombie": {
 			"enabled": true,
 			"team_default": false,
-			"health": 21000,
+			"health": 20000,
 			"models": [
 				{
 					"modelname": "characters/models/police/93xpolice.vmdl",
