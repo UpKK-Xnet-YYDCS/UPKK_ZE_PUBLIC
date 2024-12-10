@@ -1,0 +1,392 @@
+[
+	{
+		"Name": "圣经/Bible",
+		"ShortName": "圣经",
+		"Color": "{default}",
+		"HammerID": 8589,
+		"GlowColor": [0,255,0,1],
+		"BlockPickup": false,
+		"AllowTransfer": true,
+		"ForceDrop": true,
+		"Chat": true,
+		"Hud": true,
+		"TriggerID": 0,
+		"UsePriority": true,
+		"AbilityList": [
+			{
+				"Name": "bible_button",
+				"ButtonID": 8586,
+				"ButtonClass": "func_button",
+				"Filter": "",
+				"Chat_Uses": true,
+				"Mode": 2,
+				"MaxUses": 0,
+				"CoolDown": 70
+			}
+		]
+	},
+	{
+		"Name": "弩炮/Ballista",
+		"ShortName": "弩炮",
+		"Color": "{default}",
+		"HammerID": 8626,
+		"GlowColor": [0,255,0,1],
+		"BlockPickup": false,
+		"AllowTransfer": true,
+		"ForceDrop": true,
+		"Chat": true,
+		"Hud": true,
+		"TriggerID": 0,
+		"UsePriority": true,
+		"AbilityList": [
+			{
+				"Name": "ballista_button",
+				"ButtonID": 8623,
+				"ButtonClass": "func_button",
+				"Filter": "",
+				"Chat_Uses": true,
+				"Mode": 2,
+				"MaxUses": 0,
+				"CoolDown": 60
+			}
+		]
+	},
+	{
+		"Name": "弹药/Ammo",
+		"ShortName": "弹药",
+		"Color": "{default}",
+		"HammerID": 8645,
+		"GlowColor": [0,255,0,1],
+		"BlockPickup": false,
+		"AllowTransfer": true,
+		"ForceDrop": true,
+		"Chat": true,
+		"Hud": true,
+		"TriggerID": 0,
+		"UsePriority": true,
+		"AbilityList": [
+			{
+				"Name": "ammo_button",
+				"ButtonID": 8717,
+				"ButtonClass": "func_button",
+				"Filter": "",
+				"Chat_Uses": true,
+				"Mode": 2,
+				"MaxUses": 0,
+				"CoolDown": 60
+			}
+		]
+	},
+	{
+		"Name": "阴影权杖/Shade",
+		"ShortName": "阴影权杖",
+		"Color": "{default}",
+		"HammerID": 8641,
+		"GlowColor": [0,255,0,1],
+		"BlockPickup": false,
+		"AllowTransfer": true,
+		"ForceDrop": true,
+		"Chat": true,
+		"Hud": true,
+		"TriggerID": 0,
+		"UsePriority": true,
+		"AbilityList": [
+			{
+				"Name": "shade_button",
+				"ButtonID": 8695,
+				"ButtonClass": "func_button",
+				"Filter": "",
+				"Chat_Uses": true,
+				"Mode": 4,
+				"MaxUses": 2,
+				"CoolDown": 60
+			}
+		]
+	},
+	{
+		"Name": "恐惧权杖/Sacred",
+		"ShortName": "恐惧权杖",
+		"Color": "{default}",
+		"HammerID": 8635,
+		"GlowColor": [0,255,0,1],
+		"BlockPickup": false,
+		"AllowTransfer": true,
+		"ForceDrop": true,
+		"Chat": true,
+		"Hud": true,
+		"TriggerID": 0,
+		"UsePriority": true,
+		"AbilityList": [
+			{
+				"Name": "sacred_button",
+				"ButtonID": 8632,
+				"ButtonClass": "func_button",
+				"Filter": "",
+				"Chat_Uses": true,
+				"Mode": 2,
+				"MaxUses": 1,
+				"CoolDown": 60
+			}
+		]
+	},
+	{
+		"Name": "治疗权杖/Heal",
+		"ShortName": "治疗权杖",
+		"Color": "{default}",
+		"HammerID": 8630,
+		"GlowColor": [0,255,0,1],
+		"BlockPickup": false,
+		"AllowTransfer": true,
+		"ForceDrop": true,
+		"Chat": true,
+		"Hud": true,
+		"TriggerID": 0,
+		"UsePriority": true,
+		"AbilityList": [
+			{
+				"Name": "heal_button",
+				"ButtonID": 8682,
+				"ButtonClass": "func_button",
+				"Filter": "",
+				"Chat_Uses": true,
+				"Mode": 2,
+				"MaxUses": 0,
+				"CoolDown": 60
+			}
+		]
+	},
+	{
+		"Name": "飓风权杖/Wind",
+		"ShortName": "飓风权杖",
+		"Color": "{default}",
+		"HammerID": 8725,
+		"GlowColor": [0,255,0,1],
+		"BlockPickup": false,
+		"AllowTransfer": true,
+		"ForceDrop": true,
+		"Chat": true,
+		"Hud": true,
+		"TriggerID": 0,
+		"UsePriority": true,
+		"AbilityList": [
+			{
+				"Name": "tornado_button",
+				"ButtonID": 8723,
+				"ButtonClass": "func_button",
+				"Filter": "",
+				"Chat_Uses": true,
+				"Mode": 2,
+				"MaxUses": 0,
+				"CoolDown": 60
+			}
+		]
+	},
+	{
+		"Name": "毒液权杖/Venom",
+		"ShortName": "毒液权杖",
+		"Color": "{default}",
+		"HammerID": 8719,
+		"GlowColor": [0,255,0,1],
+		"BlockPickup": false,
+		"AllowTransfer": true,
+		"ForceDrop": true,
+		"Chat": true,
+		"Hud": true,
+		"TriggerID": 0,
+		"UsePriority": true,
+		"AbilityList": [
+			{
+				"Name": "venom_button",
+				"ButtonID": 8721,
+				"ButtonClass": "func_button",
+				"Filter": "",
+				"Chat_Uses": true,
+				"Mode": 2,
+				"MaxUses": 0,
+				"CoolDown": 60
+			}
+		]
+	},
+	{
+		"Name": "水晶权杖/Crystal",
+		"ShortName": "水晶权杖",
+		"Color": "{default}",
+		"HammerID": 8729,
+		"GlowColor": [0,255,0,1],
+		"BlockPickup": false,
+		"AllowTransfer": true,
+		"ForceDrop": true,
+		"Chat": true,
+		"Hud": true,
+		"TriggerID": 0,
+		"UsePriority": true,
+		"AbilityList": [
+			{
+				"Name": "crystal_button",
+				"ButtonID": 8727,
+				"ButtonClass": "func_button",
+				"Filter": "",
+				"Chat_Uses": true,
+				"Mode": 2,
+				"MaxUses": 0,
+				"CoolDown": 75
+			}
+		]
+	},
+	{
+		"Name": "流星权杖/Meteor",
+		"ShortName": "流星权杖",
+		"Color": "{default}",
+		"HammerID": 8734,
+		"GlowColor": [0,255,0,1],
+		"BlockPickup": false,
+		"AllowTransfer": true,
+		"ForceDrop": true,
+		"Chat": true,
+		"Hud": true,
+		"TriggerID": 0,
+		"UsePriority": true,
+		"AbilityList": [
+			{
+				"Name": "meteor_button",
+				"ButtonID": 8731,
+				"ButtonClass": "func_button",
+				"Filter": "",
+				"Chat_Uses": true,
+				"Mode": 2,
+				"MaxUses": 0,
+				"CoolDown": 50
+			}
+		]
+	},
+	{
+		"Name": "ZM虚空术/ZM Abyss",
+		"ShortName": "ZM虚空术",
+		"Color": "{default}",
+		"HammerID": 9023,
+		"GlowColor": [0,255,0,1],
+		"BlockPickup": false,
+		"AllowTransfer": true,
+		"ForceDrop": true,
+		"Chat": true,
+		"Hud": true,
+		"TriggerID": 0,
+		"UsePriority": true,
+		"AbilityList": [
+			{
+				"Name": "abyss_button",
+				"ButtonID": 9024,
+				"ButtonClass": "func_button",
+				"Filter": "",
+				"Chat_Uses": false,
+				"Mode": 2,
+				"MaxUses": 0,
+				"CoolDown": 75
+			}
+		]
+	},
+	{
+		"Name": "ZM断头台/ZM Guillotine",
+		"ShortName": "ZM断头台",
+		"Color": "{default}",
+		"HammerID": 9036,
+		"GlowColor": [0,255,0,1],
+		"BlockPickup": false,
+		"AllowTransfer": true,
+		"ForceDrop": true,
+		"Chat": true,
+		"Hud": true,
+		"TriggerID": 0,
+		"UsePriority": true,
+		"AbilityList": [
+			{
+				"Name": "guillotine_button",
+				"ButtonID": 9041,
+				"ButtonClass": "func_button",
+				"Filter": "",
+				"Chat_Uses": false,
+				"Mode": 2,
+				"MaxUses": 0,
+				"CoolDown": 75
+			}
+		]
+	},
+	{
+		"Name": "ZM妖术/ZM Necromancy",
+		"ShortName": "ZM妖术",
+		"Color": "{default}",
+		"HammerID": 9094,
+		"GlowColor": [0,255,0,1],
+		"BlockPickup": false,
+		"AllowTransfer": true,
+		"ForceDrop": true,
+		"Chat": true,
+		"Hud": true,
+		"TriggerID": 0,
+		"UsePriority": true,
+		"AbilityList": [
+			{
+				"Name": "necromancy_button",
+				"ButtonID": 9091,
+				"ButtonClass": "func_button",
+				"Filter": "",
+				"Chat_Uses": false,
+				"Mode": 2,
+				"MaxUses": 0,
+				"CoolDown": 60
+			}
+		]
+	},
+	{
+		"Name": "ZM炸药桶/ZM Barrel",
+		"ShortName": "ZM炸药桶",
+		"Color": "{default}",
+		"HammerID": 9111,
+		"GlowColor": [0,255,0,1],
+		"BlockPickup": false,
+		"AllowTransfer": true,
+		"ForceDrop": true,
+		"Chat": true,
+		"Hud": true,
+		"TriggerID": 0,
+		"UsePriority": true,
+		"AbilityList": [
+			{
+				"Name": "barrel_button",
+				"ButtonID": 9114,
+				"ButtonClass": "func_button",
+				"Filter": "",
+				"Chat_Uses": false,
+				"Mode": 2,
+				"MaxUses": 0,
+				"CoolDown": 45
+			}
+		]
+	},
+	{
+		"Name": "ZM祈血术/ZM Bloodorb",
+		"ShortName": "ZM祈血术",
+		"Color": "{default}",
+		"HammerID": 9126,
+		"GlowColor": [0,255,0,1],
+		"BlockPickup": false,
+		"AllowTransfer": true,
+		"ForceDrop": true,
+		"Chat": true,
+		"Hud": true,
+		"TriggerID": 0,
+		"UsePriority": true,
+		"AbilityList": [
+			{
+				"Name": "bloodorb_button",
+				"ButtonID": 9121,
+				"ButtonClass": "func_button",
+				"Filter": "",
+				"Chat_Uses": false,
+				"Mode": 2,
+				"MaxUses": 0,
+				"CoolDown": 60
+			}
+		]
+	}
+]
