@@ -1,0 +1,26 @@
+{
+	"Name": "无限弹药",
+	"ShortName": "无限弹药",
+	"Color": "{default}",
+	"HammerID": "6842",
+	"GlowColor": [0,255,0,1],
+	"BlockPickup": false,
+	"AllowTransfer": true,
+	"ForceDrop": true,
+	"Chat": false,
+	"Hud": true,
+	"TriggerID": 0,
+	"UsePriority": true,
+	"AbilityList": [
+		{
+			"Name": "Item_Button",
+			"ButtonID": 6843,
+			"ButtonClass": "func_button",
+			"Filter": "hasAmmo:1",
+			"Chat_Uses": true,
+			"Mode": 1,
+			"MaxUses": 0,
+			"CoolDown": 0
+		}
+	]
+}
