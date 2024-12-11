@@ -2027,7 +2027,7 @@
 		"filename"		"ze_lotr_minas_tirith_p"
 		"updatedname"		"ze_LOTR_Minas_Tirith_p"
 		"search"		"米那斯;魔戒3"
-		"RestrictedTimes"	"02:00-17:00"
+		"RestrictedTimes"	"00:00-23:59"
 	}
 	"ze_flying_world"
 	{
@@ -2770,6 +2770,5 @@
 		"enabled"		"1"
 		"filename"		"ze_lotr_minas_tirith"
 		"updatedname"		"ze_lotr_minas_tirith_recompile"
-		"RestrictedTimes"	"00:00-23:59"
 	}
 }
