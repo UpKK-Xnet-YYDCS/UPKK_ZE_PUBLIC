@@ -2027,7 +2027,6 @@
 		"filename"		"ze_lotr_minas_tirith_p"
 		"updatedname"		"ze_LOTR_Minas_Tirith_p"
 		"search"		"米那斯;魔戒3"
-		"RestrictedTimes"	"00:00-23:59"
 	}
 	"ze_flying_world"
 	{
@@ -2777,5 +2776,12 @@
 		"enabled"		"1"
 		"filename"		"ze_chicago_bean_gassy_fart_life"
 		"updatedname"		"ze_chicago_bean_gassy_fart_life"
+	}
+	"ze_stalker_ultimate_z"
+	{
+		"workshop_id"		"3383028817"
+		"enabled"		"1"
+		"filename"		"ze_stalker_ultimate_z"
+		"updatedname"		"ze_stalker_ultimate_z"
 	}
 }
