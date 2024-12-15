@@ -342,8 +342,8 @@
 			{
 				"Name": "elves_button",
 				"ButtonID": 1501,
-				"ButtonClass": "elves_user:1",
-				"Filter": "func_button",
+				"ButtonClass": "func_button",
+				"Filter": "elves_user:1",
 				"Chat_Uses": false,
 				"Mode": 1,
 				"MaxUses": 0,
@@ -482,7 +482,7 @@
 			{
 				"Name": "heiyan_luanshe_button",
 				"ButtonID": 16160,
-				"ButtonClass": "",
+				"ButtonClass": "func_button",
 				"Filter": "heiyan:1",
 				"Chat_Uses": false,
 				"Mode": 1,
@@ -492,7 +492,7 @@
 			{
 				"Name": "heiyan_atk2_button",
 				"ButtonID": 16179,
-				"ButtonClass": "",
+				"ButtonClass": "func_button",
 				"Filter": "heiyan:1",
 				"Chat_Uses": false,
 				"Mode": 1,
