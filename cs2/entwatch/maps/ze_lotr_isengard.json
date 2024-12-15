@@ -10,22 +10,18 @@
 		"ForceDrop": false,
 		"Chat": true,
 		"Hud": true,
-		"TriggerID": 0,
+		"TriggerID": 20295,
 		"UsePriority": false,
 		"AbilityList": [
 			{
 				"Name": "",
 				"ButtonID": 0,
 				"ButtonClass": "",
-				"Filter": "",
+				"Filter": "$spider_attr",
 				"Chat_Uses": false,
 				"Mode": 1,
 				"MaxUses": 0,
-				"CoolDown": 0,
-				"Ignore": false,
-				"LockItem": false,
-				"MathID": 0,
-				"MathNameFix": false
+				"CoolDown": 0
 			}
 		]
 	},
@@ -40,22 +36,18 @@
 		"ForceDrop": false,
 		"Chat": true,
 		"Hud": true,
-		"TriggerID": 0,
+		"TriggerID": 3483,
 		"UsePriority": false,
 		"AbilityList": [
 			{
-				"Name": "",
-				"ButtonID": 0,
-				"ButtonClass": "",
-				"Filter": "",
+				"Name": "turret_button",
+				"ButtonID": 20525,
+				"ButtonClass": "func_button",
+				"Filter": "$ent_attr",
 				"Chat_Uses": false,
-				"Mode": 1,
-				"MaxUses": 0,
-				"CoolDown": 0,
-				"Ignore": false,
-				"LockItem": false,
-				"MathID": 0,
-				"MathNameFix": false
+				"Mode": 4,
+				"MaxUses": 4,
+				"CoolDown": 20
 			}
 		]
 	},
@@ -81,11 +73,7 @@
 				"Chat_Uses": true,
 				"Mode": 3,
 				"MaxUses": 1,
-				"CoolDown": 0,
-				"Ignore": false,
-				"LockItem": false,
-				"MathID": 0,
-				"MathNameFix": false
+				"CoolDown": 0
 			}
 		]
 	},
@@ -100,7 +88,7 @@
 		"ForceDrop": false,
 		"Chat": true,
 		"Hud": true,
-		"TriggerID": 0,
+		"TriggerID": 3600,
 		"UsePriority": false,
 		"AbilityList": [
 			{
@@ -109,13 +97,9 @@
 				"ButtonClass": "",
 				"Filter": "",
 				"Chat_Uses": false,
-				"Mode": 0,
+				"Mode": 1,
 				"MaxUses": 0,
-				"CoolDown": 0,
-				"Ignore": false,
-				"LockItem": false,
-				"MathID": 0,
-				"MathNameFix": false
+				"CoolDown": 0
 			}
 		]
 	},
@@ -137,15 +121,11 @@
 				"Name": "Heal_button",
 				"ButtonID": 20875,
 				"ButtonClass": "func_button",
-				"Filter": "",
+				"Filter": "$heal_owner",
 				"Chat_Uses": true,
 				"Mode": 3,
 				"MaxUses": 1,
-				"CoolDown": 0,
-				"Ignore": false,
-				"LockItem": false,
-				"MathID": 0,
-				"MathNameFix": false
+				"CoolDown": 0
 			}
 		]
 	},
@@ -171,11 +151,7 @@
 				"Chat_Uses": false,
 				"Mode": 0,
 				"MaxUses": 0,
-				"CoolDown": 0,
-				"Ignore": false,
-				"LockItem": false,
-				"MathID": 0,
-				"MathNameFix": false
+				"CoolDown": 0
 			}
 		]
 	}
