@@ -1,0 +1,210 @@
+[
+	{
+		"Name": "勋章",
+		"ShortName": "勋章",
+		"Color": "{default}",
+		"HammerID": "9669",
+		"GlowColor": [0,255,0,1],
+		"BlockPickup": false,
+		"AllowTransfer": true,
+		"ForceDrop": true,
+		"Chat": true,
+		"Hud": true,
+		"TriggerID": 0,
+		"UsePriority": true,
+		"AbilityList": [
+			{
+				"Name": "tlacitko_medailon",
+				"ButtonID": 9666,
+				"ButtonClass": "func_button",
+				"Filter": "medailon_player",
+				"Chat_Uses": true,
+				"Mode": 4,
+				"MaxUses": 1,
+				"CoolDown": 15
+			}
+		]
+	},
+	{
+		"Name": "墙",
+		"ShortName": "墙",
+		"Color": "{default}",
+		"HammerID": "9806",
+		"GlowColor": [0,255,0,1],
+		"BlockPickup": false,
+		"AllowTransfer": true,
+		"ForceDrop": true,
+		"Chat": true,
+		"Hud": true,
+		"TriggerID": 0,
+		"UsePriority": true,
+		"AbilityList": [
+			{
+				"Name": "tlacitko_zataras",
+				"ButtonID": 9808,
+				"ButtonClass": "func_button",
+				"Filter": "zbran_zataras_filtr",
+				"Chat_Uses": true,
+				"Mode": 2,
+				"MaxUses": 0,
+				"CoolDown": 56
+			}
+		]
+	},
+	{
+		"Name": "大保健",
+		"ShortName": "大保健",
+		"Color": "{default}",
+		"HammerID": "9815",
+		"GlowColor": [0,255,0,1],
+		"BlockPickup": false,
+		"AllowTransfer": true,
+		"ForceDrop": true,
+		"Chat": true,
+		"Hud": true,
+		"TriggerID": 0,
+		"UsePriority": true,
+		"AbilityList": [
+			{
+				"Name": "tlacitko_mec",
+				"ButtonID": 9817,
+				"ButtonClass": "func_button",
+				"Filter": "zbran_mece_filtr",
+				"Chat_Uses": true,
+				"Mode": 2,
+				"MaxUses": 0,
+				"CoolDown": 56
+			}
+		]
+	},
+	{
+		"Name": "炸弹桶",
+		"ShortName": "炸弹桶",
+		"Color": "{default}",
+		"HammerID": "9826",
+		"GlowColor": [0,255,0,1],
+		"BlockPickup": false,
+		"AllowTransfer": true,
+		"ForceDrop": true,
+		"Chat": true,
+		"Hud": true,
+		"TriggerID": 0,
+		"UsePriority": true,
+		"AbilityList": [
+			{
+				"Name": "tlacitko_sudy",
+				"ButtonID": 9828,
+				"ButtonClass": "func_button",
+				"Filter": "zbran_sudy_filtr",
+				"Chat_Uses": true,
+				"Mode": 2,
+				"MaxUses": 0,
+				"CoolDown": 56
+			}
+		]
+	},
+	{
+		"Name": "泡泡",
+		"ShortName": "泡泡",
+		"Color": "{default}",
+		"HammerID": "9847",
+		"GlowColor": [0,255,0,1],
+		"BlockPickup": false,
+		"AllowTransfer": true,
+		"ForceDrop": true,
+		"Chat": true,
+		"Hud": true,
+		"TriggerID": 0,
+		"UsePriority": true,
+		"AbilityList": [
+			{
+				"Name": "tlacitko_buble",
+				"ButtonID": 9849,
+				"ButtonClass": "func_button",
+				"Filter": "zbran_buble_filtr",
+				"Chat_Uses": true,
+				"Mode": 2,
+				"MaxUses": 0,
+				"CoolDown": 56
+			}
+		]
+	},
+	{
+		"Name": "治疗",
+		"ShortName": "治疗",
+		"Color": "{default}",
+		"HammerID": "9862",
+		"GlowColor": [0,255,0,1],
+		"BlockPickup": false,
+		"AllowTransfer": true,
+		"ForceDrop": true,
+		"Chat": true,
+		"Hud": true,
+		"TriggerID": 0,
+		"UsePriority": true,
+		"AbilityList": [
+			{
+				"Name": "tlacitko_heal",
+				"ButtonID": 9864,
+				"ButtonClass": "func_button",
+				"Filter": "zbran_heal_filtr",
+				"Chat_Uses": true,
+				"Mode": 2,
+				"MaxUses": 0,
+				"CoolDown": 56
+			}
+		]
+	},
+	{
+		"Name": "最后的勋章",
+		"ShortName": "最后的勋章",
+		"Color": "{default}",
+		"HammerID": "10344",
+		"GlowColor": [0,255,0,1],
+		"BlockPickup": false,
+		"AllowTransfer": true,
+		"ForceDrop": true,
+		"Chat": true,
+		"Hud": true,
+		"TriggerID": 0,
+		"UsePriority": true,
+		"AbilityList": [
+			{
+				"Name": "",
+				"ButtonID": 0,
+				"ButtonClass": "",
+				"Filter": "",
+				"Chat_Uses": false,
+				"Mode": 0,
+				"MaxUses": 0,
+				"CoolDown": 0
+			}
+		]
+	},
+	{
+		"Name": "ZM 船长",
+		"ShortName": "ZM 船长",
+		"Color": "{default}",
+		"HammerID": "10408",
+		"GlowColor": [0,255,0,1],
+		"BlockPickup": false,
+		"AllowTransfer": false,
+		"ForceDrop": false,
+		"Chat": true,
+		"Hud": true,
+		"TriggerID": 10412,
+		"UsePriority": false,
+		"AbilityList": [
+			{
+				"Name": "",
+				"ButtonID": 0,
+				"ButtonClass": "",
+				"Filter": "barbossa_player",
+				"Chat_Uses": false,
+				"Mode": 0,
+				"MaxUses": 0,
+				"CoolDown": 0
+			}
+		]
+	}
+]
