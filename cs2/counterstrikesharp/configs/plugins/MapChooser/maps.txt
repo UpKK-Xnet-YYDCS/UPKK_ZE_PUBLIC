@@ -2796,4 +2796,12 @@
 		"filename"		"ze_pirates_port_royal"
 		"updatedname"		"ze_Pirates_Port_Royal"
 	}
+	"ze_obj_redemption"
+	{
+		"workshop_id"		"3383451059"
+		"enabled"		"1"
+		"filename"		"ze_obj_redemption"
+		"updatedname"		"ze_obj_redemption"
+		"RestrictedTimes"	"00:00-12:00;23:00-23:59"
+	}
 }
