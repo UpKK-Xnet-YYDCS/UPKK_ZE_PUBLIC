@@ -1,0 +1,29 @@
+name: JSON Lint
+
+on: [push, pull_request]
+
+jobs:
+  json-lint:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v2
+
+    - name: Install jq
+      run: sudo apt-get install -y jq
+
+    - name: Get list of changed files
+      id: changed_files
+      run: |
+        git fetch origin
+        git diff --name-only ${{ github.event.before }} ${{ github.sha }} > changed_files.txt
+
+    - name: Validate JSON files
+      run: |
+        for file in $(cat changed_files.txt); do
+          if [[ $file == cs2/counterstrikesharp/configs/map-text/*.json ]]; then
+            echo "Validating $file"
+            jq empty "$file" || exit 1
+          fi
+        done
