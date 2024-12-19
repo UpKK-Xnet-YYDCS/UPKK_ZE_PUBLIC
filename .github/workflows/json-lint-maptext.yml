@@ -1,4 +1,4 @@
-name: JSON Lint Maptext
+name: JSON Lint
 
 on: [push, pull_request]
 
@@ -23,6 +23,11 @@ jobs:
       id: validate_json
       run: |
         for file in $(cat changed_files.txt); do
+          # Check if the file is newly created
+          if git diff --diff-filter=A --name-only | grep -q "$file"; then
+            echo "Skipping validation for newly created file $file"
+            continue
+          fi
           if [[ $file == cs2/counterstrikesharp/configs/map-text/*.json ]]; then
             echo "Validating $file"
             jq empty "$file" || { echo "Validation failed for $file"; echo $file >> invalid_files.txt; }
@@ -34,6 +39,11 @@ jobs:
       run: |
         if [ -f invalid_files.txt ]; then
           for file in $(cat invalid_files.txt); do
+            # Check if the file is newly created
+            if git diff --diff-filter=A --name-only | grep -q "$file"; then
+              echo "Skipping revert for newly created file $file"
+              continue
+            fi
             echo "Reverting $file"
             git checkout HEAD~1 -- "$file"
           done
