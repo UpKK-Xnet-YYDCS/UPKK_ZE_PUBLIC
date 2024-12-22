@@ -1,214 +1,214 @@
 [
-	{
-		"Name": "治疗",
-		"ShortName": "治疗",
-		"Color": "{pink}",
-		"HammerID": 642,
-		"GlowColor": [0,255,0,1],
-		"BlockPickup": false,
-		"AllowTransfer": true,
-		"ForceDrop": true,
-		"Chat": true,
-		"Hud": true,
-		"TriggerID": 0,
-		"UsePriority": false,
-		"AbilityList": [
-			{
-				"Name": "magia_cura_button",
-				"ButtonID": 643,
-				"ButtonClass": "func_button",
-				"Filter": "portador_heal",
-				"Chat_Uses": true,
-				"Mode": 2,
-				"MaxUses": 0,
-				"CoolDown": 50
-			}
-		]
-	},
-	{
-		"Name": "冰",
-		"ShortName": "冰",
-		"Color": "{pink}",
-		"HammerID": 585,
-		"GlowColor": [0,255,0,1],
-		"BlockPickup": false,
-		"AllowTransfer": true,
-		"ForceDrop": true,
-		"Chat": true,
-		"Hud": true,
-		"TriggerID": 0,
-		"UsePriority": false,
-		"AbilityList": [
-			{
-				"Name": "hielo_f_button",
-				"ButtonID": 596,
-				"ButtonClass": "func_button",
-				"Filter": "portador_ice",
-				"Chat_Uses": true,
-				"Mode": 2,
-				"MaxUses": 0,
-				"CoolDown": 55
-			}
-		]
-	},
-	{
-		"Name": "电",
-		"ShortName": "电",
-		"Color": "{pink}",
-		"HammerID": 676,
-		"GlowColor": [0,255,0,1],
-		"BlockPickup": false,
-		"AllowTransfer": true,
-		"ForceDrop": true,
-		"Chat": true,
-		"Hud": true,
-		"TriggerID": 0,
-		"UsePriority": false,
-		"AbilityList": [
-			{
-				"Name": "rayo_bot",
-				"ButtonID": 674,
-				"ButtonClass": "func_button",
-				"Filter": "portador_electro",
-				"Chat_Uses": true,
-				"Mode": 6,
-				"MaxUses": 0,
-				"CoolDown": 0,
-				"Ignore": false,
-				"LockItem": false,
-				"MathID": 678,
-				"MathNameFix": false
-			}
-		]
-	},
-	{
-		"Name": "风",
-		"ShortName": "风",
-		"Color": "{pink}",
-		"HammerID": 622,
-		"GlowColor": [0,255,0,1],
-		"BlockPickup": false,
-		"AllowTransfer": true,
-		"ForceDrop": true,
-		"Chat": true,
-		"Hud": true,
-		"TriggerID": 0,
-		"UsePriority": false,
-		"AbilityList": [
-			{
-				"Name": "magia_viento_button",
-				"ButtonID": 627,
-				"ButtonClass": "func_button",
-				"Filter": "portador_viento",
-				"Chat_Uses": true,
-				"Mode": 2,
-				"MaxUses": 0,
-				"CoolDown": 55
-			}
-		]
-	},
-	{
-		"Name": "土",
-		"ShortName": "土",
-		"Color": "{pink}",
-		"HammerID": 634,
-		"GlowColor": [0,255,0,1],
-		"BlockPickup": false,
-		"AllowTransfer": true,
-		"ForceDrop": true,
-		"Chat": true,
-		"Hud": true,
-		"TriggerID": 0,
-		"UsePriority": false,
-		"AbilityList": [
-			{
-				"Name": "magia_tierra_button",
-				"ButtonID": 636,
-				"ButtonClass": "func_button",
-				"Filter": "portador_earth",
-				"Chat_Uses": true,
-				"Mode": 2,
-				"MaxUses": 0,
-				"CoolDown": 55
-			}
-		]
-	},
-	{
-		"Name": "火",
-		"ShortName": "火",
-		"Color": "{pink}",
-		"HammerID": 607,
-		"GlowColor": [0,255,0,1],
-		"BlockPickup": false,
-		"AllowTransfer": true,
-		"ForceDrop": true,
-		"Chat": true,
-		"Hud": true,
-		"TriggerID": 0,
-		"UsePriority": false,
-		"AbilityList": [
-			{
-				"Name": "1b",
-				"ButtonID": 612,
-				"ButtonClass": "func_button",
-				"Filter": "portador_fire",
-				"Chat_Uses": true,
-				"Mode": 2,
-				"MaxUses": 0,
-				"CoolDown": 55
-			}
-		]
-	},
-	{
-		"Name": "终极",
-		"ShortName": "终极",
-		"Color": "{pink}",
-		"HammerID": 572,
-		"GlowColor": [0,255,0,1],
-		"BlockPickup": false,
-		"AllowTransfer": true,
-		"ForceDrop": true,
-		"Chat": true,
-		"Hud": true,
-		"TriggerID": 0,
-		"UsePriority": false,
-		"AbilityList": [
-			{
-				"Name": "boton_ultima",
-				"ButtonID": 573,
-				"ButtonClass": "func_button",
-				"Filter": "portador_ultima",
-				"Chat_Uses": true,
-				"Mode": 4,
-				"MaxUses": 1,
-				"CoolDown": 20
-			}
-		]
-	},
-	{
-		"Name": "黑洞",
-		"ShortName": "黑洞",
-		"Color": "{pink}",
-		"HammerID": 711,
-		"GlowColor": [0,255,0,1],
-		"BlockPickup": false,
-		"AllowTransfer": true,
-		"ForceDrop": true,
-		"Chat": true,
-		"Hud": true,
-		"TriggerID": 0,
-		"UsePriority": false,
-		"AbilityList": [
-			{
-				"Name": "magia_gravedad_button",
-				"ButtonID": 709,
-				"ButtonClass": "func_button",
-				"Filter": "portador_gravedad",
-				"Chat_Uses": true,
-				"Mode": 2,
-				"MaxUses": 0,
-				"CoolDown": 55
-			}
-		]
-	}
+  {
+    "Name": "治疗",
+    "ShortName": "治疗",
+    "Color": "{pink}",
+    "HammerID": 642,
+    "GlowColor": [0,255,0,1],
+    "BlockPickup": false,
+    "AllowTransfer": true,
+    "ForceDrop": true,
+    "Chat": true,
+    "Hud": true,
+    "TriggerID": 0,
+    "UsePriority": false,
+    "AbilityList": [
+      {
+        "Name": "magia_cura_button",
+        "ButtonID": 643,
+        "ButtonClass": "func_button",
+        "Filter": "portador_heal",
+        "Chat_Uses": true,
+        "Mode": 2,
+        "MaxUses": 0,
+        "CoolDown": 50
+      }
+    ]
+  },
+  {
+    "Name": "冰",
+    "ShortName": "冰",
+    "Color": "{pink}",
+    "HammerID": 585,
+    "GlowColor": [0,255,0,1],
+    "BlockPickup": false,
+    "AllowTransfer": true,
+    "ForceDrop": true,
+    "Chat": true,
+    "Hud": true,
+    "TriggerID": 0,
+    "UsePriority": false,
+    "AbilityList": [
+      {
+        "Name": "hielo_f_button",
+        "ButtonID": 596,
+        "ButtonClass": "func_button",
+        "Filter": "portador_ice",
+        "Chat_Uses": true,
+        "Mode": 2,
+        "MaxUses": 0,
+        "CoolDown": 55
+      }
+    ]
+  },
+  {
+    "Name": "电",
+    "ShortName": "电",
+    "Color": "{pink}",
+    "HammerID": 676,
+    "GlowColor": [0,255,0,1],
+    "BlockPickup": false,
+    "AllowTransfer": true,
+    "ForceDrop": true,
+    "Chat": true,
+    "Hud": true,
+    "TriggerID": 0,
+    "UsePriority": false,
+    "AbilityList": [
+      {
+        "Name": "rayo_bot",
+        "ButtonID": 674,
+        "ButtonClass": "func_button",
+        "Filter": "portador_electro",
+        "Chat_Uses": true,
+        "Mode": 6,
+        "MaxUses": 0,
+        "CoolDown": 0,
+        "Ignore": false,
+        "LockItem": false,
+        "MathID": 678,
+        "MathNameFix": false
+      }
+    ]
+  },
+  {
+    "Name": "风",
+    "ShortName": "风",
+    "Color": "{pink}",
+    "HammerID": 622,
+    "GlowColor": [0,255,0,1],
+    "BlockPickup": false,
+    "AllowTransfer": true,
+    "ForceDrop": true,
+    "Chat": true,
+    "Hud": true,
+    "TriggerID": 0,
+    "UsePriority": false,
+    "AbilityList": [
+      {
+        "Name": "magia_viento_button",
+        "ButtonID": 627,
+        "ButtonClass": "func_button",
+        "Filter": "portador_viento",
+        "Chat_Uses": true,
+        "Mode": 2,
+        "MaxUses": 0,
+        "CoolDown": 55
+      }
+    ]
+  },
+  {
+    "Name": "土",
+    "ShortName": "土",
+    "Color": "{pink}",
+    "HammerID": 634,
+    "GlowColor": [0,255,0,1],
+    "BlockPickup": false,
+    "AllowTransfer": true,
+    "ForceDrop": true,
+    "Chat": true,
+    "Hud": true,
+    "TriggerID": 0,
+    "UsePriority": false,
+    "AbilityList": [
+      {
+        "Name": "magia_tierra_button",
+        "ButtonID": 636,
+        "ButtonClass": "func_button",
+        "Filter": "portador_earth",
+        "Chat_Uses": true,
+        "Mode": 2,
+        "MaxUses": 0,
+        "CoolDown": 55
+      }
+    ]
+  },
+  {
+    "Name": "火",
+    "ShortName": "火",
+    "Color": "{pink}",
+    "HammerID": 607,
+    "GlowColor": [0,255,0,1],
+    "BlockPickup": false,
+    "AllowTransfer": true,
+    "ForceDrop": true,
+    "Chat": true,
+    "Hud": true,
+    "TriggerID": 0,
+    "UsePriority": false,
+    "AbilityList": [
+      {
+        "Name": "1b",
+        "ButtonID": 612,
+        "ButtonClass": "func_button",
+        "Filter": "portador_fire",
+        "Chat_Uses": true,
+        "Mode": 2,
+        "MaxUses": 0,
+        "CoolDown": 55
+      }
+    ]
+  },
+  {
+    "Name": "终极",
+    "ShortName": "终极",
+    "Color": "{pink}",
+    "HammerID": 572,
+    "GlowColor": [0,255,0,1],
+    "BlockPickup": false,
+    "AllowTransfer": true,
+    "ForceDrop": true,
+    "Chat": true,
+    "Hud": true,
+    "TriggerID": 0,
+    "UsePriority": false,
+    "AbilityList": [
+      {
+        "Name": "boton_ultima",
+        "ButtonID": 573,
+        "ButtonClass": "func_button",
+        "Filter": "portador_ultima",
+        "Chat_Uses": true,
+        "Mode": 4,
+        "MaxUses": 1,
+        "CoolDown": 20
+      }
+    ]
+  },
+  {
+    "Name": "黑洞",
+    "ShortName": "黑洞",
+    "Color": "{pink}",
+    "HammerID": 711,
+    "GlowColor": [0,255,0,1],
+    "BlockPickup": false,
+    "AllowTransfer": true,
+    "ForceDrop": true,
+    "Chat": true,
+    "Hud": true,
+    "TriggerID": 0,
+    "UsePriority": false,
+    "AbilityList": [
+      {
+        "Name": "magia_gravedad_button",
+        "ButtonID": 709,
+        "ButtonClass": "func_button",
+        "Filter": "portador_gravedad",
+        "Chat_Uses": true,
+        "Mode": 2,
+        "MaxUses": 0,
+        "CoolDown": 55
+      }
+    ]
+  }
 ]

@@ -1,318 +1,318 @@
 [
-	{
-		"Name": "超级大炮/Uber Cannon",
-		"ShortName": "超级大炮",
-		"Color": "{default}",
-		"HammerID": 108,
-		"GlowColor": [0,255,0,1],
-		"BlockPickup": false,
-		"AllowTransfer": true,
-		"ForceDrop": true,
-		"Chat": true,
-		"Hud": true,
-		"TriggerID": 0,
-		"UsePriority": true,
-		"AbilityList": [
-			{
-				"Name": "uber_button",
-				"ButtonID": 105,
-				"ButtonClass": "func_physbox",
-				"Filter": "uber:1",
-				"Chat_Uses": true,
-				"Mode": 2,
-				"MaxUses": 0,
-				"CoolDown": 150
-			}
-		]
-	},
-	{
-		"Name": "推力枪/Push Gun",
-		"ShortName": "推力枪",
-		"Color": "{default}",
-		"HammerID": 755,
-		"GlowColor": [0,255,0,1],
-		"BlockPickup": false,
-		"AllowTransfer": true,
-		"ForceDrop": true,
-		"Chat": true,
-		"Hud": true,
-		"TriggerID": 0,
-		"UsePriority": true,
-		"AbilityList": [
-			{
-				"Name": "pushgun_button",
-				"ButtonID": 756,
-				"ButtonClass": "func_physbox",
-				"Filter": "push:1",
-				"Chat_Uses": true,
-				"Mode": 2,
-				"MaxUses": 0,
-				"CoolDown": 45
-			}
-		]
-	},
-	{
-		"Name": "喷火器/Flamethrower",
-		"ShortName": "喷火器",
-		"Color": "{default}",
-		"HammerID": 810,
-		"GlowColor": [0,255,0,1],
-		"BlockPickup": false,
-		"AllowTransfer": true,
-		"ForceDrop": true,
-		"Chat": false,
-		"Hud": true,
-		"TriggerID": 0,
-		"UsePriority": true,
-		"AbilityList": [
-			{
-				"Name": "flamebutton",
-				"ButtonID": 804,
-				"ButtonClass": "func_physbox",
-				"Filter": "flamethrower:1",
-				"Chat_Uses": false,
-				"Mode": 6,
-				"MaxUses": 0,
-				"CoolDown": 0,
-				"Ignore": false,
-				"LockItem": false,
-				"MathID": 809,
-				"MathNameFix": false
-			}
-		]
-	},
-	{
-		"Name": "地雷/Explosive Mines",
-		"ShortName": "地雷",
-		"Color": "{default}",
-		"HammerID": 744,
-		"GlowColor": [0,255,0,1],
-		"BlockPickup": false,
-		"AllowTransfer": true,
-		"ForceDrop": true,
-		"Chat": false,
-		"Hud": true,
-		"TriggerID": 0,
-		"UsePriority": true,
-		"AbilityList": [
-			{
-				"Name": "Minespawner_Button",
-				"ButtonID": 742,
-				"ButtonClass": "func_physbox",
-				"Filter": "mineboom:1",
-				"Chat_Uses": true,
-				"Mode": 4,
-				"MaxUses": 5,
-				"CoolDown": 2
-			}
-		]
-	},
-	{
-		"Name": "手雷/Grenade Spawner",
-		"ShortName": "手雷",
-		"Color": "{default}",
-		"HammerID": 736,
-		"GlowColor": [0,255,0,1],
-		"BlockPickup": false,
-		"AllowTransfer": true,
-		"ForceDrop": true,
-		"Chat": false,
-		"Hud": true,
-		"TriggerID": 0,
-		"UsePriority": true,
-		"AbilityList": [
-			{
-				"Name": "nade_button",
-				"ButtonID": 737,
-				"ButtonClass": "func_physbox",
-				"Filter": "nades:1",
-				"Chat_Uses": true,
-				"Mode": 4,
-				"MaxUses": 8,
-				"CoolDown": 5
-			}
-		]
-	},
-	{
-		"Name": "奶/Heal",
-		"ShortName": "奶",
-		"Color": "{default}",
-		"HammerID": 752,
-		"GlowColor": [0,255,0,1],
-		"BlockPickup": false,
-		"AllowTransfer": true,
-		"ForceDrop": true,
-		"Chat": true,
-		"Hud": true,
-		"TriggerID": 0,
-		"UsePriority": true,
-		"AbilityList": [
-			{
-				"Name": "Heal_button",
-				"ButtonID": 753,
-				"ButtonClass": "func_physbox",
-				"Filter": "heal:1",
-				"Chat_Uses": true,
-				"Mode": 3,
-				"MaxUses": 1,
-				"CoolDown": 0
-			}
-		]
-	},
-	{
-		"Name": "乐高墙/Lego Maker",
-		"ShortName": "乐高墙",
-		"Color": "{default}",
-		"HammerID": 783,
-		"GlowColor": [0,255,0,1],
-		"BlockPickup": false,
-		"AllowTransfer": true,
-		"ForceDrop": true,
-		"Chat": false,
-		"Hud": true,
-		"TriggerID": 0,
-		"UsePriority": true,
-		"AbilityList": [
-			{
-				"Name": "blockade_button",
-				"ButtonID": 781,
-				"ButtonClass": "func_physbox",
-				"Filter": "blockage:1",
-				"Chat_Uses": true,
-				"Mode": 4,
-				"MaxUses": 10,
-				"CoolDown": 3
-			}
-		]
-	},
-	{
-		"Name": "弹药箱/Ammo Box",
-		"ShortName": "弹药箱",
-		"Color": "{default}",
-		"HammerID": 2142,
-		"GlowColor": [0,255,0,1],
-		"BlockPickup": false,
-		"AllowTransfer": true,
-		"ForceDrop": true,
-		"Chat": true,
-		"Hud": true,
-		"TriggerID": 0,
-		"UsePriority": true,
-		"AbilityList": [
-			{
-				"Name": "ammo_button",
-				"ButtonID": 2157,
-				"ButtonClass": "func_physbox",
-				"Filter": "kuulid:1",
-				"Chat_Uses": true,
-				"Mode": 2,
-				"MaxUses": 0,
-				"CoolDown": 60
-			}
-		]
-	},
-	{
-		"Name": "手炮/Hand Cannon",
-		"ShortName": "手炮",
-		"Color": "{default}",
-		"HammerID": 2186,
-		"GlowColor": [0,255,0,1],
-		"BlockPickup": false,
-		"AllowTransfer": true,
-		"ForceDrop": true,
-		"Chat": false,
-		"Hud": true,
-		"TriggerID": 0,
-		"UsePriority": true,
-		"AbilityList": [
-			{
-				"Name": "cannon_button",
-				"ButtonID": 2184,
-				"ButtonClass": "func_physbox",
-				"Filter": "kahur:1",
-				"Chat_Uses": false,
-				"Mode": 1,
-				"MaxUses": 0,
-				"CoolDown": 0
-			}
-		]
-	},
-	{
-		"Name": "香蕉/Banana Gun",
-		"ShortName": "香蕉",
-		"Color": "{default}",
-		"HammerID": 2541,
-		"GlowColor": [0,255,0,1],
-		"BlockPickup": false,
-		"AllowTransfer": true,
-		"ForceDrop": true,
-		"Chat": false,
-		"Hud": true,
-		"TriggerID": 0,
-		"UsePriority": true,
-		"AbilityList": [
-			{
-				"Name": "banana_button",
-				"ButtonID": 2542,
-				"ButtonClass": "func_physbox",
-				"Filter": "banana:1",
-				"Chat_Uses": true,
-				"Mode": 4,
-				"MaxUses": 15,
-				"CoolDown": 2
-			}
-		]
-	},
-	{
-		"Name": "Kim",
-		"ShortName": "Kim",
-		"Color": "{default}",
-		"HammerID": 1256,
-		"GlowColor": [0,255,0,1],
-		"BlockPickup": false,
-		"AllowTransfer": true,
-		"ForceDrop": true,
-		"Chat": false,
-		"Hud": true,
-		"TriggerID": 0,
-		"UsePriority": true,
-		"AbilityList": [
-			{
-				"Name": "",
-				"ButtonID": 0,
-				"ButtonClass": "",
-				"Filter": "",
-				"Chat_Uses": false,
-				"Mode": 0,
-				"MaxUses": 0,
-				"CoolDown": 0
-			}
-		]
-	},
-	{
-		"Name": "Pass",
-		"ShortName": "Pass",
-		"Color": "{default}",
-		"HammerID": 1268,
-		"GlowColor": [0,255,0,1],
-		"BlockPickup": false,
-		"AllowTransfer": true,
-		"ForceDrop": true,
-		"Chat": false,
-		"Hud": true,
-		"TriggerID": 0,
-		"UsePriority": true,
-		"AbilityList": [
-			{
-				"Name": "",
-				"ButtonID": 0,
-				"ButtonClass": "",
-				"Filter": "",
-				"Chat_Uses": false,
-				"Mode": 0,
-				"MaxUses": 0,
-				"CoolDown": 0
-			}
-		]
-	}
+  {
+    "Name": "超级大炮/Uber Cannon",
+    "ShortName": "超级大炮",
+    "Color": "{default}",
+    "HammerID": 108,
+    "GlowColor": [0,255,0,1],
+    "BlockPickup": false,
+    "AllowTransfer": true,
+    "ForceDrop": true,
+    "Chat": true,
+    "Hud": true,
+    "TriggerID": 0,
+    "UsePriority": true,
+    "AbilityList": [
+      {
+        "Name": "uber_button",
+        "ButtonID": 105,
+        "ButtonClass": "func_physbox",
+        "Filter": "uber:1",
+        "Chat_Uses": true,
+        "Mode": 2,
+        "MaxUses": 0,
+        "CoolDown": 150
+      }
+    ]
+  },
+  {
+    "Name": "推力枪/Push Gun",
+    "ShortName": "推力枪",
+    "Color": "{default}",
+    "HammerID": 755,
+    "GlowColor": [0,255,0,1],
+    "BlockPickup": false,
+    "AllowTransfer": true,
+    "ForceDrop": true,
+    "Chat": true,
+    "Hud": true,
+    "TriggerID": 0,
+    "UsePriority": true,
+    "AbilityList": [
+      {
+        "Name": "pushgun_button",
+        "ButtonID": 756,
+        "ButtonClass": "func_physbox",
+        "Filter": "push:1",
+        "Chat_Uses": true,
+        "Mode": 2,
+        "MaxUses": 0,
+        "CoolDown": 45
+      }
+    ]
+  },
+  {
+    "Name": "喷火器/Flamethrower",
+    "ShortName": "喷火器",
+    "Color": "{default}",
+    "HammerID": 810,
+    "GlowColor": [0,255,0,1],
+    "BlockPickup": false,
+    "AllowTransfer": true,
+    "ForceDrop": true,
+    "Chat": false,
+    "Hud": true,
+    "TriggerID": 0,
+    "UsePriority": true,
+    "AbilityList": [
+      {
+        "Name": "flamebutton",
+        "ButtonID": 804,
+        "ButtonClass": "func_physbox",
+        "Filter": "flamethrower:1",
+        "Chat_Uses": false,
+        "Mode": 6,
+        "MaxUses": 0,
+        "CoolDown": 0,
+        "Ignore": false,
+        "LockItem": false,
+        "MathID": 809,
+        "MathNameFix": false
+      }
+    ]
+  },
+  {
+    "Name": "地雷/Explosive Mines",
+    "ShortName": "地雷",
+    "Color": "{default}",
+    "HammerID": 744,
+    "GlowColor": [0,255,0,1],
+    "BlockPickup": false,
+    "AllowTransfer": true,
+    "ForceDrop": true,
+    "Chat": false,
+    "Hud": true,
+    "TriggerID": 0,
+    "UsePriority": true,
+    "AbilityList": [
+      {
+        "Name": "Minespawner_Button",
+        "ButtonID": 742,
+        "ButtonClass": "func_physbox",
+        "Filter": "mineboom:1",
+        "Chat_Uses": true,
+        "Mode": 4,
+        "MaxUses": 5,
+        "CoolDown": 2
+      }
+    ]
+  },
+  {
+    "Name": "手雷/Grenade Spawner",
+    "ShortName": "手雷",
+    "Color": "{default}",
+    "HammerID": 736,
+    "GlowColor": [0,255,0,1],
+    "BlockPickup": false,
+    "AllowTransfer": true,
+    "ForceDrop": true,
+    "Chat": false,
+    "Hud": true,
+    "TriggerID": 0,
+    "UsePriority": true,
+    "AbilityList": [
+      {
+        "Name": "nade_button",
+        "ButtonID": 737,
+        "ButtonClass": "func_physbox",
+        "Filter": "nades:1",
+        "Chat_Uses": true,
+        "Mode": 4,
+        "MaxUses": 8,
+        "CoolDown": 5
+      }
+    ]
+  },
+  {
+    "Name": "奶/Heal",
+    "ShortName": "奶",
+    "Color": "{default}",
+    "HammerID": 752,
+    "GlowColor": [0,255,0,1],
+    "BlockPickup": false,
+    "AllowTransfer": true,
+    "ForceDrop": true,
+    "Chat": true,
+    "Hud": true,
+    "TriggerID": 0,
+    "UsePriority": true,
+    "AbilityList": [
+      {
+        "Name": "Heal_button",
+        "ButtonID": 753,
+        "ButtonClass": "func_physbox",
+        "Filter": "heal:1",
+        "Chat_Uses": true,
+        "Mode": 3,
+        "MaxUses": 1,
+        "CoolDown": 0
+      }
+    ]
+  },
+  {
+    "Name": "乐高墙/Lego Maker",
+    "ShortName": "乐高墙",
+    "Color": "{default}",
+    "HammerID": 783,
+    "GlowColor": [0,255,0,1],
+    "BlockPickup": false,
+    "AllowTransfer": true,
+    "ForceDrop": true,
+    "Chat": false,
+    "Hud": true,
+    "TriggerID": 0,
+    "UsePriority": true,
+    "AbilityList": [
+      {
+        "Name": "blockade_button",
+        "ButtonID": 781,
+        "ButtonClass": "func_physbox",
+        "Filter": "blockage:1",
+        "Chat_Uses": true,
+        "Mode": 4,
+        "MaxUses": 10,
+        "CoolDown": 3
+      }
+    ]
+  },
+  {
+    "Name": "弹药箱/Ammo Box",
+    "ShortName": "弹药箱",
+    "Color": "{default}",
+    "HammerID": 2142,
+    "GlowColor": [0,255,0,1],
+    "BlockPickup": false,
+    "AllowTransfer": true,
+    "ForceDrop": true,
+    "Chat": true,
+    "Hud": true,
+    "TriggerID": 0,
+    "UsePriority": true,
+    "AbilityList": [
+      {
+        "Name": "ammo_button",
+        "ButtonID": 2157,
+        "ButtonClass": "func_physbox",
+        "Filter": "kuulid:1",
+        "Chat_Uses": true,
+        "Mode": 2,
+        "MaxUses": 0,
+        "CoolDown": 60
+      }
+    ]
+  },
+  {
+    "Name": "手炮/Hand Cannon",
+    "ShortName": "手炮",
+    "Color": "{default}",
+    "HammerID": 2186,
+    "GlowColor": [0,255,0,1],
+    "BlockPickup": false,
+    "AllowTransfer": true,
+    "ForceDrop": true,
+    "Chat": false,
+    "Hud": true,
+    "TriggerID": 0,
+    "UsePriority": true,
+    "AbilityList": [
+      {
+        "Name": "cannon_button",
+        "ButtonID": 2184,
+        "ButtonClass": "func_physbox",
+        "Filter": "kahur:1",
+        "Chat_Uses": false,
+        "Mode": 1,
+        "MaxUses": 0,
+        "CoolDown": 0
+      }
+    ]
+  },
+  {
+    "Name": "香蕉/Banana Gun",
+    "ShortName": "香蕉",
+    "Color": "{default}",
+    "HammerID": 2541,
+    "GlowColor": [0,255,0,1],
+    "BlockPickup": false,
+    "AllowTransfer": true,
+    "ForceDrop": true,
+    "Chat": false,
+    "Hud": true,
+    "TriggerID": 0,
+    "UsePriority": true,
+    "AbilityList": [
+      {
+        "Name": "banana_button",
+        "ButtonID": 2542,
+        "ButtonClass": "func_physbox",
+        "Filter": "banana:1",
+        "Chat_Uses": true,
+        "Mode": 4,
+        "MaxUses": 15,
+        "CoolDown": 2
+      }
+    ]
+  },
+  {
+    "Name": "Kim",
+    "ShortName": "Kim",
+    "Color": "{default}",
+    "HammerID": 1256,
+    "GlowColor": [0,255,0,1],
+    "BlockPickup": false,
+    "AllowTransfer": true,
+    "ForceDrop": true,
+    "Chat": false,
+    "Hud": true,
+    "TriggerID": 0,
+    "UsePriority": true,
+    "AbilityList": [
+      {
+        "Name": "",
+        "ButtonID": 0,
+        "ButtonClass": "",
+        "Filter": "",
+        "Chat_Uses": false,
+        "Mode": 0,
+        "MaxUses": 0,
+        "CoolDown": 0
+      }
+    ]
+  },
+  {
+    "Name": "Pass",
+    "ShortName": "Pass",
+    "Color": "{default}",
+    "HammerID": 1268,
+    "GlowColor": [0,255,0,1],
+    "BlockPickup": false,
+    "AllowTransfer": true,
+    "ForceDrop": true,
+    "Chat": false,
+    "Hud": true,
+    "TriggerID": 0,
+    "UsePriority": true,
+    "AbilityList": [
+      {
+        "Name": "",
+        "ButtonID": 0,
+        "ButtonClass": "",
+        "Filter": "",
+        "Chat_Uses": false,
+        "Mode": 0,
+        "MaxUses": 0,
+        "CoolDown": 0
+      }
+    ]
+  }
 ]

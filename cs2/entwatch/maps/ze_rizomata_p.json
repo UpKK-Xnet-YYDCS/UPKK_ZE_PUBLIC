@@ -1,368 +1,368 @@
 [
-	{
-		"Name": "ZM 加速/Zombie Haste",
-		"ShortName": "ZM 加速",
-		"Color": "{default}",
-		"HammerID": 738,
-		"GlowColor": [0,255,0,1],
-		"BlockPickup": false,
-		"AllowTransfer": false,
-		"ForceDrop": false,
-		"Chat": true,
-		"Hud": true,
-		"TriggerID": 739,
-		"UsePriority": true,
-		"AbilityList": [
-			{
-				"Name": "",
-				"ButtonID": 0,
-				"ButtonClass": "game_ui::PressedAttack2",
-				"Filter": "",
-				"Chat_Uses": true,
-				"Mode": 2,
-				"MaxUses": 0,
-				"CoolDown": 30
-			}
-		]
-	},
-	{
-		"Name": "ZM 毒/Zombie Death",
-		"ShortName": "ZM 毒",
-		"Color": "{default}",
-		"HammerID": 732,
-		"GlowColor": [0,255,0,1],
-		"BlockPickup": false,
-		"AllowTransfer": false,
-		"ForceDrop": false,
-		"Chat": true,
-		"Hud": true,
-		"TriggerID": 733,
-		"UsePriority": true,
-		"AbilityList": [
-			{
-				"Name": "",
-				"ButtonID": 0,
-				"ButtonClass": "game_ui::PressedAttack2",
-				"Filter": "",
-				"Chat_Uses": true,
-				"Mode": 2,
-				"MaxUses": 0,
-				"CoolDown": 10
-			}
-		]
-	},
-	{
-		"Name": "ZM 诅咒/Zombie Curse",
-		"ShortName": "ZM 诅咒",
-		"Color": "{default}",
-		"HammerID": 735,
-		"GlowColor": [0,255,0,1],
-		"BlockPickup": false,
-		"AllowTransfer": false,
-		"ForceDrop": false,
-		"Chat": true,
-		"Hud": true,
-		"TriggerID": 736,
-		"UsePriority": true,
-		"AbilityList": [
-			{
-				"Name": "",
-				"ButtonID": 0,
-				"ButtonClass": "game_ui::PressedAttack2",
-				"Filter": "",
-				"Chat_Uses": true,
-				"Mode": 2,
-				"MaxUses": 0,
-				"CoolDown": 60
-			}
-		]
-	},
-	{
-		"Name": "风1/Wind1",
-		"ShortName": "风1",
-		"Color": "{default}",
-		"HammerID": 703,
-		"GlowColor": [0,255,0,1],
-		"BlockPickup": false,
-		"AllowTransfer": false,
-		"ForceDrop": false,
-		"Chat": true,
-		"Hud": true,
-		"TriggerID": 784,
-		"UsePriority": true,
-		"AbilityList": [
-			{
-				"Name": "wind_button",
-				"ButtonID": 698,
-				"ButtonClass": "func_physbox",
-				"Filter": "",
-				"Chat_Uses": true,
-				"Mode": 2,
-				"MaxUses": 0,
-				"CoolDown": 50
-			},
-			{
-				"Name": "大师风1",
-				"ButtonID": 0,
-				"ButtonClass": "game_ui::PressedAttack2",
-				"Filter": "",
-				"Chat_Uses": true,
-				"Mode": 2,
-				"MaxUses": 0,
-				"CoolDown": 20
-			}
-		]
-	},
-	{
-		"Name": "风2/Wind2",
-		"ShortName": "风2",
-		"Color": "{default}",
-		"HammerID": 667,
-		"GlowColor": [0,255,0,1],
-		"BlockPickup": false,
-		"AllowTransfer": false,
-		"ForceDrop": false,
-		"Chat": true,
-		"Hud": true,
-		"TriggerID": 746,
-		"UsePriority": true,
-		"AbilityList": [
-			{
-				"Name": "wind_button2",
-				"ButtonID": 660,
-				"ButtonClass": "func_physbox",
-				"Filter": "",
-				"Chat_Uses": true,
-				"Mode": 2,
-				"MaxUses": 0,
-				"CoolDown": 50
-			},
-			{
-				"Name": "大师风2",
-				"ButtonID": 0,
-				"ButtonClass": "game_ui::PressedAttack2",
-				"Filter": "",
-				"Chat_Uses": true,
-				"Mode": 2,
-				"MaxUses": 0,
-				"CoolDown": 20
-			}
-		]
-	},
-	{
-		"Name": "水1/Water 1",
-		"ShortName": "水1",
-		"Color": "{default}",
-		"HammerID": 1245,
-		"GlowColor": [0,255,0,1],
-		"BlockPickup": false,
-		"AllowTransfer": false,
-		"ForceDrop": false,
-		"Chat": true,
-		"Hud": true,
-		"TriggerID": 1278,
-		"UsePriority": true,
-		"AbilityList": [
-			{
-				"Name": "water_button",
-				"ButtonID": 1239,
-				"ButtonClass": "func_physbox",
-				"Filter": "",
-				"Chat_Uses": true,
-				"Mode": 2,
-				"MaxUses": 0,
-				"CoolDown": 50
-			},
-			{
-				"Name": "大师水1",
-				"ButtonID": 0,
-				"ButtonClass": "game_ui::PressedAttack2",
-				"Filter": "",
-				"Chat_Uses": true,
-				"Mode": 2,
-				"MaxUses": 0,
-				"CoolDown": 40
-			}
-		]
-	},
-	{
-		"Name": "水2/Water 2",
-		"ShortName": "水2",
-		"Color": "{default}",
-		"HammerID": 1264,
-		"GlowColor": [0,255,0,1],
-		"BlockPickup": false,
-		"AllowTransfer": false,
-		"ForceDrop": false,
-		"Chat": true,
-		"Hud": true,
-		"TriggerID": 1284,
-		"UsePriority": true,
-		"AbilityList": [
-			{
-				"Name": "water_button2",
-				"ButtonID": 1258,
-				"ButtonClass": "func_physbox",
-				"Filter": "",
-				"Chat_Uses": true,
-				"Mode": 2,
-				"MaxUses": 0,
-				"CoolDown": 50
-			},
-			{
-				"Name": "大师水2",
-				"ButtonID": 0,
-				"ButtonClass": "game_ui::PressedAttack2",
-				"Filter": "",
-				"Chat_Uses": true,
-				"Mode": 2,
-				"MaxUses": 0,
-				"CoolDown": 40
-			}
-		]
-	},
-	{
-		"Name": "奶1/Heal 1",
-		"ShortName": "奶1",
-		"Color": "{default}",
-		"HammerID": 1801,
-		"GlowColor": [0,255,0,1],
-		"BlockPickup": false,
-		"AllowTransfer": false,
-		"ForceDrop": false,
-		"Chat": true,
-		"Hud": true,
-		"TriggerID": 1677,
-		"UsePriority": true,
-		"AbilityList": [
-			{
-				"Name": "heal_button",
-				"ButtonID": 1799,
-				"ButtonClass": "func_physbox",
-				"Filter": "",
-				"Chat_Uses": true,
-				"Mode": 2,
-				"MaxUses": 0,
-				"CoolDown": 55
-			},
-			{
-				"Name": "大师奶1",
-				"ButtonID": 0,
-				"ButtonClass": "game_ui::PressedAttack2",
-				"Filter": "",
-				"Chat_Uses": true,
-				"Mode": 2,
-				"MaxUses": 0,
-				"CoolDown": 30
-			}
-		]
-	},
-	{
-		"Name": "奶2/Heal 2",
-		"ShortName": "奶2",
-		"Color": "{default}",
-		"HammerID": 1594,
-		"GlowColor": [0,255,0,1],
-		"BlockPickup": false,
-		"AllowTransfer": false,
-		"ForceDrop": false,
-		"Chat": true,
-		"Hud": true,
-		"TriggerID": 1577,
-		"UsePriority": true,
-		"AbilityList": [
-			{
-				"Name": "heal_button2",
-				"ButtonID": 1590,
-				"ButtonClass": "func_physbox",
-				"Filter": "",
-				"Chat_Uses": true,
-				"Mode": 2,
-				"MaxUses": 0,
-				"CoolDown": 55
-			},
-			{
-				"Name": "大师奶2",
-				"ButtonID": 0,
-				"ButtonClass": "game_ui::PressedAttack2",
-				"Filter": "",
-				"Chat_Uses": true,
-				"Mode": 2,
-				"MaxUses": 0,
-				"CoolDown": 30
-			}
-		]
-	},
-	{
-		"Name": "土1/Earth 1",
-		"ShortName": "土1",
-		"Color": "{default}",
-		"HammerID": 1816,
-		"GlowColor": [0,255,0,1],
-		"BlockPickup": false,
-		"AllowTransfer": false,
-		"ForceDrop": false,
-		"Chat": true,
-		"Hud": true,
-		"TriggerID": 1663,
-		"UsePriority": true,
-		"AbilityList": [
-			{
-				"Name": "earth_button",
-				"ButtonID": 1817,
-				"ButtonClass": "func_physbox",
-				"Filter": "",
-				"Chat_Uses": true,
-				"Mode": 2,
-				"MaxUses": 0,
-				"CoolDown": 50
-			},
-			{
-				"Name": "大师土1",
-				"ButtonID": 0,
-				"ButtonClass": "game_ui::PressedAttack2",
-				"Filter": "",
-				"Chat_Uses": true,
-				"Mode": 2,
-				"MaxUses": 0,
-				"CoolDown": 10
-			}
-		]
-	},
-	{
-		"Name": "土2/Earth 2",
-		"ShortName": "土2",
-		"Color": "{default}",
-		"HammerID": 1603,
-		"GlowColor": [0,255,0,1],
-		"BlockPickup": false,
-		"AllowTransfer": false,
-		"ForceDrop": false,
-		"Chat": true,
-		"Hud": true,
-		"TriggerID": 1575,
-		"UsePriority": true,
-		"AbilityList": [
-			{
-				"Name": "earth_button2",
-				"ButtonID": 1606,
-				"ButtonClass": "func_physbox",
-				"Filter": "",
-				"Chat_Uses": true,
-				"Mode": 2,
-				"MaxUses": 0,
-				"CoolDown": 50
-			},
-			{
-				"Name": "大师土2",
-				"ButtonID": 0,
-				"ButtonClass": "game_ui::PressedAttack2",
-				"Filter": "",
-				"Chat_Uses": true,
-				"Mode": 2,
-				"MaxUses": 0,
-				"CoolDown": 10
-			}
-		]
-	}
+  {
+    "Name": "ZM 加速/Zombie Haste",
+    "ShortName": "ZM 加速",
+    "Color": "{default}",
+    "HammerID": 738,
+    "GlowColor": [0,255,0,1],
+    "BlockPickup": false,
+    "AllowTransfer": false,
+    "ForceDrop": false,
+    "Chat": true,
+    "Hud": true,
+    "TriggerID": 739,
+    "UsePriority": true,
+    "AbilityList": [
+      {
+        "Name": "",
+        "ButtonID": 0,
+        "ButtonClass": "game_ui::PressedAttack2",
+        "Filter": "",
+        "Chat_Uses": true,
+        "Mode": 2,
+        "MaxUses": 0,
+        "CoolDown": 30
+      }
+    ]
+  },
+  {
+    "Name": "ZM 毒/Zombie Death",
+    "ShortName": "ZM 毒",
+    "Color": "{default}",
+    "HammerID": 732,
+    "GlowColor": [0,255,0,1],
+    "BlockPickup": false,
+    "AllowTransfer": false,
+    "ForceDrop": false,
+    "Chat": true,
+    "Hud": true,
+    "TriggerID": 733,
+    "UsePriority": true,
+    "AbilityList": [
+      {
+        "Name": "",
+        "ButtonID": 0,
+        "ButtonClass": "game_ui::PressedAttack2",
+        "Filter": "",
+        "Chat_Uses": true,
+        "Mode": 2,
+        "MaxUses": 0,
+        "CoolDown": 10
+      }
+    ]
+  },
+  {
+    "Name": "ZM 诅咒/Zombie Curse",
+    "ShortName": "ZM 诅咒",
+    "Color": "{default}",
+    "HammerID": 735,
+    "GlowColor": [0,255,0,1],
+    "BlockPickup": false,
+    "AllowTransfer": false,
+    "ForceDrop": false,
+    "Chat": true,
+    "Hud": true,
+    "TriggerID": 736,
+    "UsePriority": true,
+    "AbilityList": [
+      {
+        "Name": "",
+        "ButtonID": 0,
+        "ButtonClass": "game_ui::PressedAttack2",
+        "Filter": "",
+        "Chat_Uses": true,
+        "Mode": 2,
+        "MaxUses": 0,
+        "CoolDown": 60
+      }
+    ]
+  },
+  {
+    "Name": "风1/Wind1",
+    "ShortName": "风1",
+    "Color": "{default}",
+    "HammerID": 703,
+    "GlowColor": [0,255,0,1],
+    "BlockPickup": false,
+    "AllowTransfer": false,
+    "ForceDrop": false,
+    "Chat": true,
+    "Hud": true,
+    "TriggerID": 784,
+    "UsePriority": true,
+    "AbilityList": [
+      {
+        "Name": "wind_button",
+        "ButtonID": 698,
+        "ButtonClass": "func_physbox",
+        "Filter": "",
+        "Chat_Uses": true,
+        "Mode": 2,
+        "MaxUses": 0,
+        "CoolDown": 50
+      },
+      {
+        "Name": "大师风1",
+        "ButtonID": 0,
+        "ButtonClass": "game_ui::PressedAttack2",
+        "Filter": "",
+        "Chat_Uses": true,
+        "Mode": 2,
+        "MaxUses": 0,
+        "CoolDown": 20
+      }
+    ]
+  },
+  {
+    "Name": "风2/Wind2",
+    "ShortName": "风2",
+    "Color": "{default}",
+    "HammerID": 667,
+    "GlowColor": [0,255,0,1],
+    "BlockPickup": false,
+    "AllowTransfer": false,
+    "ForceDrop": false,
+    "Chat": true,
+    "Hud": true,
+    "TriggerID": 746,
+    "UsePriority": true,
+    "AbilityList": [
+      {
+        "Name": "wind_button2",
+        "ButtonID": 660,
+        "ButtonClass": "func_physbox",
+        "Filter": "",
+        "Chat_Uses": true,
+        "Mode": 2,
+        "MaxUses": 0,
+        "CoolDown": 50
+      },
+      {
+        "Name": "大师风2",
+        "ButtonID": 0,
+        "ButtonClass": "game_ui::PressedAttack2",
+        "Filter": "",
+        "Chat_Uses": true,
+        "Mode": 2,
+        "MaxUses": 0,
+        "CoolDown": 20
+      }
+    ]
+  },
+  {
+    "Name": "水1/Water 1",
+    "ShortName": "水1",
+    "Color": "{default}",
+    "HammerID": 1245,
+    "GlowColor": [0,255,0,1],
+    "BlockPickup": false,
+    "AllowTransfer": false,
+    "ForceDrop": false,
+    "Chat": true,
+    "Hud": true,
+    "TriggerID": 1278,
+    "UsePriority": true,
+    "AbilityList": [
+      {
+        "Name": "water_button",
+        "ButtonID": 1239,
+        "ButtonClass": "func_physbox",
+        "Filter": "",
+        "Chat_Uses": true,
+        "Mode": 2,
+        "MaxUses": 0,
+        "CoolDown": 50
+      },
+      {
+        "Name": "大师水1",
+        "ButtonID": 0,
+        "ButtonClass": "game_ui::PressedAttack2",
+        "Filter": "",
+        "Chat_Uses": true,
+        "Mode": 2,
+        "MaxUses": 0,
+        "CoolDown": 40
+      }
+    ]
+  },
+  {
+    "Name": "水2/Water 2",
+    "ShortName": "水2",
+    "Color": "{default}",
+    "HammerID": 1264,
+    "GlowColor": [0,255,0,1],
+    "BlockPickup": false,
+    "AllowTransfer": false,
+    "ForceDrop": false,
+    "Chat": true,
+    "Hud": true,
+    "TriggerID": 1284,
+    "UsePriority": true,
+    "AbilityList": [
+      {
+        "Name": "water_button2",
+        "ButtonID": 1258,
+        "ButtonClass": "func_physbox",
+        "Filter": "",
+        "Chat_Uses": true,
+        "Mode": 2,
+        "MaxUses": 0,
+        "CoolDown": 50
+      },
+      {
+        "Name": "大师水2",
+        "ButtonID": 0,
+        "ButtonClass": "game_ui::PressedAttack2",
+        "Filter": "",
+        "Chat_Uses": true,
+        "Mode": 2,
+        "MaxUses": 0,
+        "CoolDown": 40
+      }
+    ]
+  },
+  {
+    "Name": "奶1/Heal 1",
+    "ShortName": "奶1",
+    "Color": "{default}",
+    "HammerID": 1801,
+    "GlowColor": [0,255,0,1],
+    "BlockPickup": false,
+    "AllowTransfer": false,
+    "ForceDrop": false,
+    "Chat": true,
+    "Hud": true,
+    "TriggerID": 1677,
+    "UsePriority": true,
+    "AbilityList": [
+      {
+        "Name": "heal_button",
+        "ButtonID": 1799,
+        "ButtonClass": "func_physbox",
+        "Filter": "",
+        "Chat_Uses": true,
+        "Mode": 2,
+        "MaxUses": 0,
+        "CoolDown": 55
+      },
+      {
+        "Name": "大师奶1",
+        "ButtonID": 0,
+        "ButtonClass": "game_ui::PressedAttack2",
+        "Filter": "",
+        "Chat_Uses": true,
+        "Mode": 2,
+        "MaxUses": 0,
+        "CoolDown": 30
+      }
+    ]
+  },
+  {
+    "Name": "奶2/Heal 2",
+    "ShortName": "奶2",
+    "Color": "{default}",
+    "HammerID": 1594,
+    "GlowColor": [0,255,0,1],
+    "BlockPickup": false,
+    "AllowTransfer": false,
+    "ForceDrop": false,
+    "Chat": true,
+    "Hud": true,
+    "TriggerID": 1577,
+    "UsePriority": true,
+    "AbilityList": [
+      {
+        "Name": "heal_button2",
+        "ButtonID": 1590,
+        "ButtonClass": "func_physbox",
+        "Filter": "",
+        "Chat_Uses": true,
+        "Mode": 2,
+        "MaxUses": 0,
+        "CoolDown": 55
+      },
+      {
+        "Name": "大师奶2",
+        "ButtonID": 0,
+        "ButtonClass": "game_ui::PressedAttack2",
+        "Filter": "",
+        "Chat_Uses": true,
+        "Mode": 2,
+        "MaxUses": 0,
+        "CoolDown": 30
+      }
+    ]
+  },
+  {
+    "Name": "土1/Earth 1",
+    "ShortName": "土1",
+    "Color": "{default}",
+    "HammerID": 1816,
+    "GlowColor": [0,255,0,1],
+    "BlockPickup": false,
+    "AllowTransfer": false,
+    "ForceDrop": false,
+    "Chat": true,
+    "Hud": true,
+    "TriggerID": 1663,
+    "UsePriority": true,
+    "AbilityList": [
+      {
+        "Name": "earth_button",
+        "ButtonID": 1817,
+        "ButtonClass": "func_physbox",
+        "Filter": "",
+        "Chat_Uses": true,
+        "Mode": 2,
+        "MaxUses": 0,
+        "CoolDown": 50
+      },
+      {
+        "Name": "大师土1",
+        "ButtonID": 0,
+        "ButtonClass": "game_ui::PressedAttack2",
+        "Filter": "",
+        "Chat_Uses": true,
+        "Mode": 2,
+        "MaxUses": 0,
+        "CoolDown": 10
+      }
+    ]
+  },
+  {
+    "Name": "土2/Earth 2",
+    "ShortName": "土2",
+    "Color": "{default}",
+    "HammerID": 1603,
+    "GlowColor": [0,255,0,1],
+    "BlockPickup": false,
+    "AllowTransfer": false,
+    "ForceDrop": false,
+    "Chat": true,
+    "Hud": true,
+    "TriggerID": 1575,
+    "UsePriority": true,
+    "AbilityList": [
+      {
+        "Name": "earth_button2",
+        "ButtonID": 1606,
+        "ButtonClass": "func_physbox",
+        "Filter": "",
+        "Chat_Uses": true,
+        "Mode": 2,
+        "MaxUses": 0,
+        "CoolDown": 50
+      },
+      {
+        "Name": "大师土2",
+        "ButtonID": 0,
+        "ButtonClass": "game_ui::PressedAttack2",
+        "Filter": "",
+        "Chat_Uses": true,
+        "Mode": 2,
+        "MaxUses": 0,
+        "CoolDown": 10
+      }
+    ]
+  }
 ]

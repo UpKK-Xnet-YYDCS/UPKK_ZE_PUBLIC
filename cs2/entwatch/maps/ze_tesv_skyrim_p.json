@@ -1,346 +1,340 @@
 [
-	{
-		"Name": "治疗法杖/Heal",
-		"ShortName": "奶杖",
-		"Color": "{blue}",
-		"HammerID": 401,
-		"GlowColor": [0,255,0,1],
-		"BlockPickup": false,
-		"AllowTransfer": true,
-		"ForceDrop": true,
-		"Chat": true,
-		"Hud": true,
-		"TriggerID": 0,
-		"UsePriority": true,
-		"AbilityList": [
-			{
-				"Name": "heal_button",
-				"ButtonID": 402,
-				"ButtonClass": "func_button",
-				"Filter": "",
-				"Chat_Uses": true,
-				"Mode": 4,
-				"MaxUses": 2,
-				"CoolDown": 20
-			}
-		]
-	},
-	{
-		"Name": "寒冰法杖/ice",
-		"ShortName": "冰杖",
-		"Color": "{blue}",
-		"HammerID": 225,
-		"GlowColor": [0,255,0,1],
-		"BlockPickup": false,
-		"AllowTransfer": true,
-		"ForceDrop": true,
-		"Chat": true,
-		"Hud": true,
-		"TriggerID": 0,
-		"UsePriority": true,
-		"AbilityList": [
-			{
-				"Name": "special_1_button",
-				"ButtonID": 703,
-				"ButtonClass": "func_button",
-				"Filter": "",
-				"Chat_Uses": true,
-				"Mode": 4,
-				"MaxUses": 2,
-				"CoolDown": 10
-			}
-		]
-	},
-	{
-		"Name": "上古卷轴 Lv4/Elder Scroll Lv4",
-		"ShortName": "上古卷轴 Lv4",
-		"Color": "{blue}",
-		"HammerID": 406,
-		"GlowColor": [0,255,0,1],
-		"BlockPickup": false,
-		"AllowTransfer": true,
-		"ForceDrop": false,
-		"Chat": true,
-		"Hud": true,
-		"TriggerID": 0,
-		"UsePriority": true,
-		"AbilityList": [
-			{
-				"Name": "",
-				"ButtonID": 0,
-				"ButtonClass": "func_button",
-				"Filter": "",
-				"Chat_Uses": true,
-				"Mode": 0,
-				"MaxUses": 0,
-				"CoolDown": 0
-			}
-		]
-	},
-	{
-		"Name": "上古卷轴 Lv5/Elder Scroll Lv5",
-		"ShortName": "上古卷轴 Lv5",
-		"Color": "{blue}",
-		"HammerID": 723,
-		"GlowColor": [0,255,0,1],
-		"BlockPickup": false,
-		"AllowTransfer": true,
-		"ForceDrop": false,
-		"Chat": true,
-		"Hud": true,
-		"TriggerID": 0,
-		"UsePriority": true,
-		"AbilityList": [
-			{
-				"Name": "",
-				"ButtonID": 0,
-				"ButtonClass": "func_button",
-				"Filter": "",
-				"Chat_Uses": true,
-				"Mode": 3,
-				"MaxUses": 1,
-				"CoolDown": 0
-			}
-		]
-	},
-	{
-		"Name": "小法",
-		"ShortName": "小法",
-		"Color": "{blue}",
-		"HammerID": 29494,
-		"GlowColor": [0,255,0,1],
-		"BlockPickup": false,
-		"AllowTransfer": true,
-		"ForceDrop": false,
-		"Chat": true,
-		"Hud": true,
-		"TriggerID": 0,
-		"UsePriority": false,
-		"AbilityList": [
-			{
-				"Name": "",
-				"ButtonID": 0,
-				"ButtonClass": "game_ui::PressedAttack2",
-				"Filter": "",
-				"Chat_Uses": true,
-				"Mode": 2,
-				"MaxUses": 0,
-				"CoolDown": 40
-			}
-		]
-	},
-	{
-		"Name": "大卫",
-		"ShortName": "大卫",
-		"Color": "{blue}",
-		"HammerID": 29435,
-		"GlowColor": [0,255,0,1],
-		"BlockPickup": false,
-		"AllowTransfer": false,
-		"ForceDrop": false,
-		"Chat": true,
-		"Hud": true,
-		"TriggerID": 0,
-		"UsePriority": false,
-		"AbilityList": [
-			{
-				"Name": "",
-				"ButtonID": 0,
-				"ButtonClass": "game_ui::PressedAttack2",
-				"Filter": "",
-				"Chat_Uses": true,
-				"Mode": 2,
-				"MaxUses": 0,
-				"CoolDown": 40
-			}
-		]
-	},
-	{
-		"Name": "魔神",
-		"ShortName": "魔神",
-		"Color": "{blue}",
-		"HammerID": 29402,
-		"GlowColor": [0,255,0,1],
-		"BlockPickup": false,
-		"AllowTransfer": false,
-		"ForceDrop": false,
-		"Chat": true,
-		"Hud": true,
-		"TriggerID": 0,
-		"UsePriority": false,
-		"AbilityList": [
-			{
-				"Name": "",
-				"ButtonID": 0,
-				"ButtonClass": "game_ui::PressedAttack2",
-				"Filter": "",
-				"Chat_Uses": true,
-				"Mode": 2,
-				"MaxUses": 2,
-				"CoolDown":60
-			}
-
-		]
-	},
-	{
-		"Name": "大法",
-		"ShortName": "大法",
-		"Color": "{blue}",
-		"HammerID": 29372,
-		"GlowColor": [0,255,0,1],
-		"BlockPickup": false,
-		"AllowTransfer": false,
-		"ForceDrop": false,
-		"Chat": true,
-		"Hud": true,
-		"TriggerID": 0,
-		"UsePriority": false,
-		"AbilityList": [
-			{
-				"Name": "",
-				"ButtonID": 0,
-				"ButtonClass": "game_ui::PressedAttack2",
-				"Filter": "",
-				"Chat_Uses": true,
-				"Mode": 2,
-				"MaxUses": 0,
-				"CoolDown": 60
-			}
-
-		]
-	},
-	{
-		"Name": "夜莺",
-		"ShortName": "夜莺",
-		"Color": "{blue}",
-		"HammerID": 29345,
-		"GlowColor": [0,255,0,1],
-		"BlockPickup": false,
-		"AllowTransfer": false,
-		"ForceDrop": false,
-		"Chat": true,
-		"Hud": true,
-		"TriggerID": 0,
-		"UsePriority": false,
-		"AbilityList": [
-						{
-				"Name": "",
-				"ButtonID": 0,
-				"ButtonClass": "game_ui::PressedAttack2",
-				"Filter": "",
-				"Chat_Uses": true,
-				"Mode": 2,
-				"MaxUses": 0,
-				"CoolDown": 10
-			}
-
-		]
-	},
-{
-		"Name": "巨人",
-		"ShortName": "巨人",
-		"Color": "{pink}",
-		"HammerID": 29267,
-		"GlowColor": [0,255,0,1],
-		"BlockPickup": false,
-		"AllowTransfer": false,
-		"ForceDrop": false,
-		"Chat": true,
-		"Hud": true,
-		"TriggerID": 0,
-		"UsePriority": false,
-		"AbilityList": [
-			{
-				"Name": "",
-				"ButtonID": 0,
-				"ButtonClass": "game_ui::PressedAttack2",
-				"Filter": "",
-				"Chat_Uses": true,
-				"Mode": 2,
-				"MaxUses": 0,
-				"CoolDown": 15
-			}
-
-		]
-	},
-{
-		"Name": "龙祭祀",
-		"ShortName": "龙祭祀",
-		"Color": "{pink}",
-		"HammerID": 29313,
-		"GlowColor": [0,255,0,1],
-		"BlockPickup": false,
-		"AllowTransfer": false,
-		"ForceDrop": false,
-		"Chat": true,
-		"Hud": true,
-		"TriggerID": 0,
-		"UsePriority": false,
-		"AbilityList": [
-						{
-				"Name": "",
-				"ButtonID": 0,
-				"ButtonClass": "game_ui::PressedAttack2",
-				"Filter": "",
-				"Chat_Uses": true,
-				"Mode": 3,
-				"MaxUses": 1,
-				"CoolDown": 0
-			}
-
-		]
-	},
-{
-		"Name": "猴子",
-		"ShortName": "猴子",
-		"Color": "{pink}",
-		"HammerID": 29179,
-		"GlowColor": [0,255,0,1],
-		"BlockPickup": false,
-		"AllowTransfer": false,
-		"ForceDrop": false,
-		"Chat": true,
-		"Hud": true,
-		"TriggerID": 0,
-		"UsePriority": false,
-		"AbilityList": [
-			{
-				"Name": "",
-				"ButtonID": 0,
-				"ButtonClass": "game_ui::PressedAttack2",
-				"Filter": "",
-				"Chat_Uses": true,
-				"Mode": 2,
-				"MaxUses": 0,
-				"CoolDown": 35
-			}
-
-		]
-	},
-{
-		"Name": "狼人",
-		"ShortName": "狼人",
-		"Color": "{pink}",
-		"HammerID": 29224,
-		"GlowColor": [0,255,0,1],
-		"BlockPickup": false,
-		"AllowTransfer": false,
-		"ForceDrop": false,
-		"Chat": true,
-		"Hud": true,
-		"TriggerID": 0,
-		"UsePriority": false,
-		"AbilityList": [
-			{
-				"Name": "",
-				"ButtonID": 0,
-				"ButtonClass": "game_ui::PressedAttack2",
-				"Filter": "",
-				"Chat_Uses": true,
-				"Mode": 2,
-				"MaxUses": 0,
-				"CoolDown": 25
-			}
-		]
-	}
+  {
+    "Name": "治疗法杖/Heal",
+    "ShortName": "奶杖",
+    "Color": "{blue}",
+    "HammerID": 401,
+    "GlowColor": [0,255,0,1],
+    "BlockPickup": false,
+    "AllowTransfer": true,
+    "ForceDrop": true,
+    "Chat": true,
+    "Hud": true,
+    "TriggerID": 0,
+    "UsePriority": true,
+    "AbilityList": [
+      {
+        "Name": "heal_button",
+        "ButtonID": 402,
+        "ButtonClass": "func_button",
+        "Filter": "",
+        "Chat_Uses": true,
+        "Mode": 4,
+        "MaxUses": 2,
+        "CoolDown": 20
+      }
+    ]
+  },
+  {
+    "Name": "寒冰法杖/ice",
+    "ShortName": "冰杖",
+    "Color": "{blue}",
+    "HammerID": 225,
+    "GlowColor": [0,255,0,1],
+    "BlockPickup": false,
+    "AllowTransfer": true,
+    "ForceDrop": true,
+    "Chat": true,
+    "Hud": true,
+    "TriggerID": 0,
+    "UsePriority": true,
+    "AbilityList": [
+      {
+        "Name": "special_1_button",
+        "ButtonID": 703,
+        "ButtonClass": "func_button",
+        "Filter": "",
+        "Chat_Uses": true,
+        "Mode": 4,
+        "MaxUses": 2,
+        "CoolDown": 10
+      }
+    ]
+  },
+  {
+    "Name": "上古卷轴 Lv4/Elder Scroll Lv4",
+    "ShortName": "上古卷轴 Lv4",
+    "Color": "{blue}",
+    "HammerID": 406,
+    "GlowColor": [0,255,0,1],
+    "BlockPickup": false,
+    "AllowTransfer": true,
+    "ForceDrop": false,
+    "Chat": true,
+    "Hud": true,
+    "TriggerID": 0,
+    "UsePriority": true,
+    "AbilityList": [
+      {
+        "Name": "",
+        "ButtonID": 0,
+        "ButtonClass": "func_button",
+        "Filter": "",
+        "Chat_Uses": true,
+        "Mode": 0,
+        "MaxUses": 0,
+        "CoolDown": 0
+      }
+    ]
+  },
+  {
+    "Name": "上古卷轴 Lv5/Elder Scroll Lv5",
+    "ShortName": "上古卷轴 Lv5",
+    "Color": "{blue}",
+    "HammerID": 723,
+    "GlowColor": [0,255,0,1],
+    "BlockPickup": false,
+    "AllowTransfer": true,
+    "ForceDrop": false,
+    "Chat": true,
+    "Hud": true,
+    "TriggerID": 0,
+    "UsePriority": true,
+    "AbilityList": [
+      {
+        "Name": "",
+        "ButtonID": 0,
+        "ButtonClass": "func_button",
+        "Filter": "",
+        "Chat_Uses": true,
+        "Mode": 3,
+        "MaxUses": 1,
+        "CoolDown": 0
+      }
+    ]
+  },
+  {
+    "Name": "小法",
+    "ShortName": "小法",
+    "Color": "{blue}",
+    "HammerID": 29494,
+    "GlowColor": [0,255,0,1],
+    "BlockPickup": false,
+    "AllowTransfer": true,
+    "ForceDrop": false,
+    "Chat": true,
+    "Hud": true,
+    "TriggerID": 0,
+    "UsePriority": false,
+    "AbilityList": [
+      {
+        "Name": "",
+        "ButtonID": 0,
+        "ButtonClass": "game_ui::PressedAttack2",
+        "Filter": "",
+        "Chat_Uses": true,
+        "Mode": 2,
+        "MaxUses": 0,
+        "CoolDown": 40
+      }
+    ]
+  },
+  {
+    "Name": "大卫",
+    "ShortName": "大卫",
+    "Color": "{blue}",
+    "HammerID": 29435,
+    "GlowColor": [0,255,0,1],
+    "BlockPickup": false,
+    "AllowTransfer": false,
+    "ForceDrop": false,
+    "Chat": true,
+    "Hud": true,
+    "TriggerID": 0,
+    "UsePriority": false,
+    "AbilityList": [
+      {
+        "Name": "",
+        "ButtonID": 0,
+        "ButtonClass": "game_ui::PressedAttack2",
+        "Filter": "",
+        "Chat_Uses": true,
+        "Mode": 2,
+        "MaxUses": 0,
+        "CoolDown": 40
+      }
+    ]
+  },
+  {
+    "Name": "魔神",
+    "ShortName": "魔神",
+    "Color": "{blue}",
+    "HammerID": 29402,
+    "GlowColor": [0,255,0,1],
+    "BlockPickup": false,
+    "AllowTransfer": false,
+    "ForceDrop": false,
+    "Chat": true,
+    "Hud": true,
+    "TriggerID": 0,
+    "UsePriority": false,
+    "AbilityList": [
+      {
+        "Name": "",
+        "ButtonID": 0,
+        "ButtonClass": "game_ui::PressedAttack2",
+        "Filter": "",
+        "Chat_Uses": true,
+        "Mode": 2,
+        "MaxUses": 2,
+        "CoolDown": 60
+      }
+    ]
+  },
+  {
+    "Name": "大法",
+    "ShortName": "大法",
+    "Color": "{blue}",
+    "HammerID": 29372,
+    "GlowColor": [0,255,0,1],
+    "BlockPickup": false,
+    "AllowTransfer": false,
+    "ForceDrop": false,
+    "Chat": true,
+    "Hud": true,
+    "TriggerID": 0,
+    "UsePriority": false,
+    "AbilityList": [
+      {
+        "Name": "",
+        "ButtonID": 0,
+        "ButtonClass": "game_ui::PressedAttack2",
+        "Filter": "",
+        "Chat_Uses": true,
+        "Mode": 2,
+        "MaxUses": 0,
+        "CoolDown": 60
+      }
+    ]
+  },
+  {
+    "Name": "夜莺",
+    "ShortName": "夜莺",
+    "Color": "{blue}",
+    "HammerID": 29345,
+    "GlowColor": [0,255,0,1],
+    "BlockPickup": false,
+    "AllowTransfer": false,
+    "ForceDrop": false,
+    "Chat": true,
+    "Hud": true,
+    "TriggerID": 0,
+    "UsePriority": false,
+    "AbilityList": [
+      {
+        "Name": "",
+        "ButtonID": 0,
+        "ButtonClass": "game_ui::PressedAttack2",
+        "Filter": "",
+        "Chat_Uses": true,
+        "Mode": 2,
+        "MaxUses": 0,
+        "CoolDown": 10
+      }
+    ]
+  },
+  {
+    "Name": "巨人",
+    "ShortName": "巨人",
+    "Color": "{pink}",
+    "HammerID": 29267,
+    "GlowColor": [0,255,0,1],
+    "BlockPickup": false,
+    "AllowTransfer": false,
+    "ForceDrop": false,
+    "Chat": true,
+    "Hud": true,
+    "TriggerID": 0,
+    "UsePriority": false,
+    "AbilityList": [
+      {
+        "Name": "",
+        "ButtonID": 0,
+        "ButtonClass": "game_ui::PressedAttack2",
+        "Filter": "",
+        "Chat_Uses": true,
+        "Mode": 2,
+        "MaxUses": 0,
+        "CoolDown": 15
+      }
+    ]
+  },
+  {
+    "Name": "龙祭祀",
+    "ShortName": "龙祭祀",
+    "Color": "{pink}",
+    "HammerID": 29313,
+    "GlowColor": [0,255,0,1],
+    "BlockPickup": false,
+    "AllowTransfer": false,
+    "ForceDrop": false,
+    "Chat": true,
+    "Hud": true,
+    "TriggerID": 0,
+    "UsePriority": false,
+    "AbilityList": [
+      {
+        "Name": "",
+        "ButtonID": 0,
+        "ButtonClass": "game_ui::PressedAttack2",
+        "Filter": "",
+        "Chat_Uses": true,
+        "Mode": 3,
+        "MaxUses": 1,
+        "CoolDown": 0
+      }
+    ]
+  },
+  {
+    "Name": "猴子",
+    "ShortName": "猴子",
+    "Color": "{pink}",
+    "HammerID": 29179,
+    "GlowColor": [0,255,0,1],
+    "BlockPickup": false,
+    "AllowTransfer": false,
+    "ForceDrop": false,
+    "Chat": true,
+    "Hud": true,
+    "TriggerID": 0,
+    "UsePriority": false,
+    "AbilityList": [
+      {
+        "Name": "",
+        "ButtonID": 0,
+        "ButtonClass": "game_ui::PressedAttack2",
+        "Filter": "",
+        "Chat_Uses": true,
+        "Mode": 2,
+        "MaxUses": 0,
+        "CoolDown": 35
+      }
+    ]
+  },
+  {
+    "Name": "狼人",
+    "ShortName": "狼人",
+    "Color": "{pink}",
+    "HammerID": 29224,
+    "GlowColor": [0,255,0,1],
+    "BlockPickup": false,
+    "AllowTransfer": false,
+    "ForceDrop": false,
+    "Chat": true,
+    "Hud": true,
+    "TriggerID": 0,
+    "UsePriority": false,
+    "AbilityList": [
+      {
+        "Name": "",
+        "ButtonID": 0,
+        "ButtonClass": "game_ui::PressedAttack2",
+        "Filter": "",
+        "Chat_Uses": true,
+        "Mode": 2,
+        "MaxUses": 0,
+        "CoolDown": 25
+      }
+    ]
+  }
 ]

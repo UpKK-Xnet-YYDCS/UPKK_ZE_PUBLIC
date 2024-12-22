@@ -1,132 +1,132 @@
 [
-	{
-		"Name": "烤面包机",
-		"ShortName": "烤面包机",
-		"Color": "{default}",
-		"HammerID": "624",
-		"GlowColor": [0,255,0,1],
-		"BlockPickup": false,
-		"AllowTransfer": true,
-		"ForceDrop": true,
-		"Chat": true,
-		"Hud": true,
-		"TriggerID": 0,
-		"UsePriority": true,
-		"AbilityList": [
-			{
-				"Name": "i_item_button&0000",
-				"ButtonID": 622,
-				"ButtonClass": "func_button",
-				"Filter": "",
-				"Chat_Uses": false,
-				"Mode": 1,
-				"MaxUses": 0,
-				"CoolDown": 0
-			}
-		]
-	},
-	{
-		"Name": "花生酱",
-		"ShortName": "花生酱",
-		"Color": "{default}",
-		"HammerID": "642",
-		"GlowColor": [0,255,0,1],
-		"BlockPickup": false,
-		"AllowTransfer": true,
-		"ForceDrop": true,
-		"Chat": true,
-		"Hud": true,
-		"TriggerID": 0,
-		"UsePriority": true,
-		"AbilityList": [
-			{
-				"Name": "i_item_button1&0000",
-				"ButtonID": 640,
-				"ButtonClass": "func_button",
-				"Filter": "",
-				"Chat_Uses": false,
-				"Mode": 2,
-				"MaxUses": 0,
-				"CoolDown": 5
-			}
-		]
-	},
-	{
-		"Name": "酸牛奶",
-		"ShortName": "酸牛奶",
-		"Color": "{default}",
-		"HammerID": "650",
-		"GlowColor": [0,255,0,1],
-		"BlockPickup": false,
-		"AllowTransfer": true,
-		"ForceDrop": true,
-		"Chat": true,
-		"Hud": true,
-		"TriggerID": 0,
-		"UsePriority": true,
-		"AbilityList": [
-			{
-				"Name": "i_item_button2&0000",
-				"ButtonID": 648,
-				"ButtonClass": "func_button",
-				"Filter": "",
-				"Chat_Uses": false,
-				"Mode": 2,
-				"MaxUses": 0,
-				"CoolDown": 6
-			}
-		]
-	},
-	{
-		"Name": "胡椒粉",
-		"ShortName": "胡椒粉",
-		"Color": "{default}",
-		"HammerID": "658",
-		"GlowColor": [0,255,0,1],
-		"BlockPickup": false,
-		"AllowTransfer": true,
-		"ForceDrop": true,
-		"Chat": true,
-		"Hud": true,
-		"TriggerID": 0,
-		"UsePriority": true,
-		"AbilityList": [
-			{
-				"Name": "i_item_button3&0000",
-				"ButtonID": 656,
-				"ButtonClass": "func_button",
-				"Filter": "",
-				"Chat_Uses": false,
-				"Mode": 2,
-				"MaxUses": 0,
-				"CoolDown": 11
-			}
-		]
-	},
-	{
-		"Name": "铁腚",
-		"ShortName": "铁腚",
-		"Color": "{default}",
-		"HammerID": "671",
-		"GlowColor": [0,255,0,1],
-		"BlockPickup": false,
-		"AllowTransfer": true,
-		"ForceDrop": true,
-		"Chat": true,
-		"Hud": true,
-		"TriggerID": 0,
-		"UsePriority": true,
-		"AbilityList": [
-			{
-				"Name": "i_item_button4&0000",
-				"ButtonID": 669,
-				"ButtonClass": "func_button",
-				"Filter": "",
-				"Chat_Uses": false,
-				"Mode": 2,
-				"MaxUses": 0,
-				"CoolDown": 10
-			}
-		]
-	}
+  {
+    "Name": "烤面包机",
+    "ShortName": "烤面包机",
+    "Color": "{default}",
+    "HammerID": "624",
+    "GlowColor": [0,255,0,1],
+    "BlockPickup": false,
+    "AllowTransfer": true,
+    "ForceDrop": true,
+    "Chat": true,
+    "Hud": true,
+    "TriggerID": 0,
+    "UsePriority": true,
+    "AbilityList": [
+      {
+        "Name": "i_item_button&0000",
+        "ButtonID": 622,
+        "ButtonClass": "func_button",
+        "Filter": "",
+        "Chat_Uses": false,
+        "Mode": 1,
+        "MaxUses": 0,
+        "CoolDown": 0
+      }
+    ]
+  },
+  {
+    "Name": "花生酱",
+    "ShortName": "花生酱",
+    "Color": "{default}",
+    "HammerID": "642",
+    "GlowColor": [0,255,0,1],
+    "BlockPickup": false,
+    "AllowTransfer": true,
+    "ForceDrop": true,
+    "Chat": true,
+    "Hud": true,
+    "TriggerID": 0,
+    "UsePriority": true,
+    "AbilityList": [
+      {
+        "Name": "i_item_button1&0000",
+        "ButtonID": 640,
+        "ButtonClass": "func_button",
+        "Filter": "",
+        "Chat_Uses": false,
+        "Mode": 2,
+        "MaxUses": 0,
+        "CoolDown": 5
+      }
+    ]
+  },
+  {
+    "Name": "酸牛奶",
+    "ShortName": "酸牛奶",
+    "Color": "{default}",
+    "HammerID": "650",
+    "GlowColor": [0,255,0,1],
+    "BlockPickup": false,
+    "AllowTransfer": true,
+    "ForceDrop": true,
+    "Chat": true,
+    "Hud": true,
+    "TriggerID": 0,
+    "UsePriority": true,
+    "AbilityList": [
+      {
+        "Name": "i_item_button2&0000",
+        "ButtonID": 648,
+        "ButtonClass": "func_button",
+        "Filter": "",
+        "Chat_Uses": false,
+        "Mode": 2,
+        "MaxUses": 0,
+        "CoolDown": 6
+      }
+    ]
+  },
+  {
+    "Name": "胡椒粉",
+    "ShortName": "胡椒粉",
+    "Color": "{default}",
+    "HammerID": "658",
+    "GlowColor": [0,255,0,1],
+    "BlockPickup": false,
+    "AllowTransfer": true,
+    "ForceDrop": true,
+    "Chat": true,
+    "Hud": true,
+    "TriggerID": 0,
+    "UsePriority": true,
+    "AbilityList": [
+      {
+        "Name": "i_item_button3&0000",
+        "ButtonID": 656,
+        "ButtonClass": "func_button",
+        "Filter": "",
+        "Chat_Uses": false,
+        "Mode": 2,
+        "MaxUses": 0,
+        "CoolDown": 11
+      }
+    ]
+  },
+  {
+    "Name": "铁腚",
+    "ShortName": "铁腚",
+    "Color": "{default}",
+    "HammerID": "671",
+    "GlowColor": [0,255,0,1],
+    "BlockPickup": false,
+    "AllowTransfer": true,
+    "ForceDrop": true,
+    "Chat": true,
+    "Hud": true,
+    "TriggerID": 0,
+    "UsePriority": true,
+    "AbilityList": [
+      {
+        "Name": "i_item_button4&0000",
+        "ButtonID": 669,
+        "ButtonClass": "func_button",
+        "Filter": "",
+        "Chat_Uses": false,
+        "Mode": 2,
+        "MaxUses": 0,
+        "CoolDown": 10
+      }
+    ]
+  }
 ]

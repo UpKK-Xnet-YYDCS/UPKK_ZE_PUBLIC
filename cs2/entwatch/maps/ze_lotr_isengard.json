@@ -1,158 +1,158 @@
 [
-	{
-		"Name": "ZM 蜘蛛/ZM Spider",
-		"ShortName": "ZM 蜘蛛",
-		"Color": "{default}",
-		"HammerID": 20309,
-		"GlowColor": [0,255,0,1],
-		"BlockPickup": false,
-		"AllowTransfer": false,
-		"ForceDrop": false,
-		"Chat": true,
-		"Hud": true,
-		"TriggerID": 20295,
-		"UsePriority": false,
-		"AbilityList": [
-			{
-				"Name": "",
-				"ButtonID": 0,
-				"ButtonClass": "",
-				"Filter": "$spider_attr",
-				"Chat_Uses": false,
-				"Mode": 1,
-				"MaxUses": 0,
-				"CoolDown": 0
-			}
-		]
-	},
-	{
-		"Name": "树人/Ent",
-		"ShortName": "树人",
-		"Color": "{default}",
-		"HammerID": 20501,
-		"GlowColor": [0,255,0,1],
-		"BlockPickup": false,
-		"AllowTransfer": false,
-		"ForceDrop": false,
-		"Chat": true,
-		"Hud": true,
-		"TriggerID": 3483,
-		"UsePriority": false,
-		"AbilityList": [
-			{
-				"Name": "turret_button",
-				"ButtonID": 20525,
-				"ButtonClass": "func_button",
-				"Filter": "$ent_attr",
-				"Chat_Uses": false,
-				"Mode": 4,
-				"MaxUses": 4,
-				"CoolDown": 20
-			}
-		]
-	},
-	{
-		"Name": "障碍物/Barricade",
-		"ShortName": "障碍物",
-		"Color": "{default}",
-		"HammerID": 20532,
-		"GlowColor": [0,255,0,1],
-		"BlockPickup": false,
-		"AllowTransfer": true,
-		"ForceDrop": true,
-		"Chat": true,
-		"Hud": true,
-		"TriggerID": 0,
-		"UsePriority": true,
-		"AbilityList": [
-			{
-				"Name": "stage_1_barricade_1_16",
-				"ButtonID": 20529,
-				"ButtonClass": "func_button",
-				"Filter": "",
-				"Chat_Uses": true,
-				"Mode": 3,
-				"MaxUses": 1,
-				"CoolDown": 0
-			}
-		]
-	},
-	{
-		"Name": "甘道夫/Gandalf",
-		"ShortName": "甘道夫",
-		"Color": "{default}",
-		"HammerID": 20790,
-		"GlowColor": [0,255,0,1],
-		"BlockPickup": false,
-		"AllowTransfer": false,
-		"ForceDrop": false,
-		"Chat": true,
-		"Hud": true,
-		"TriggerID": 3600,
-		"UsePriority": false,
-		"AbilityList": [
-			{
-				"Name": "",
-				"ButtonID": 0,
-				"ButtonClass": "",
-				"Filter": "",
-				"Chat_Uses": false,
-				"Mode": 1,
-				"MaxUses": 0,
-				"CoolDown": 0
-			}
-		]
-	},
-	{
-		"Name": "治疗/Heal",
-		"ShortName": "治疗",
-		"Color": "{default}",
-		"HammerID": 20877,
-		"GlowColor": [0,255,0,1],
-		"BlockPickup": false,
-		"AllowTransfer": true,
-		"ForceDrop": true,
-		"Chat": true,
-		"Hud": true,
-		"TriggerID": 0,
-		"UsePriority": true,
-		"AbilityList": [
-			{
-				"Name": "Heal_button",
-				"ButtonID": 20875,
-				"ButtonClass": "func_button",
-				"Filter": "$heal_owner",
-				"Chat_Uses": true,
-				"Mode": 3,
-				"MaxUses": 1,
-				"CoolDown": 0
-			}
-		]
-	},
-	{
-		"Name": "火把/Torch",
-		"ShortName": "火把",
-		"Color": "{default}",
-		"HammerID": 2643,
-		"GlowColor": [0,255,0,1],
-		"BlockPickup": false,
-		"AllowTransfer": true,
-		"ForceDrop": true,
-		"Chat": true,
-		"Hud": true,
-		"TriggerID": 0,
-		"UsePriority": true,
-		"AbilityList": [
-			{
-				"Name": "",
-				"ButtonID": 0,
-				"ButtonClass": "",
-				"Filter": "",
-				"Chat_Uses": false,
-				"Mode": 0,
-				"MaxUses": 0,
-				"CoolDown": 0
-			}
-		]
-	}
+  {
+    "Name": "ZM 蜘蛛/ZM Spider",
+    "ShortName": "ZM 蜘蛛",
+    "Color": "{default}",
+    "HammerID": 20309,
+    "GlowColor": [0,255,0,1],
+    "BlockPickup": false,
+    "AllowTransfer": false,
+    "ForceDrop": false,
+    "Chat": true,
+    "Hud": true,
+    "TriggerID": 20295,
+    "UsePriority": false,
+    "AbilityList": [
+      {
+        "Name": "",
+        "ButtonID": 0,
+        "ButtonClass": "",
+        "Filter": "$spider_attr",
+        "Chat_Uses": false,
+        "Mode": 1,
+        "MaxUses": 0,
+        "CoolDown": 0
+      }
+    ]
+  },
+  {
+    "Name": "树人/Ent",
+    "ShortName": "树人",
+    "Color": "{default}",
+    "HammerID": 20501,
+    "GlowColor": [0,255,0,1],
+    "BlockPickup": false,
+    "AllowTransfer": false,
+    "ForceDrop": false,
+    "Chat": true,
+    "Hud": true,
+    "TriggerID": 3483,
+    "UsePriority": false,
+    "AbilityList": [
+      {
+        "Name": "turret_button",
+        "ButtonID": 20525,
+        "ButtonClass": "func_button",
+        "Filter": "$ent_attr",
+        "Chat_Uses": false,
+        "Mode": 4,
+        "MaxUses": 4,
+        "CoolDown": 20
+      }
+    ]
+  },
+  {
+    "Name": "障碍物/Barricade",
+    "ShortName": "障碍物",
+    "Color": "{default}",
+    "HammerID": 20532,
+    "GlowColor": [0,255,0,1],
+    "BlockPickup": false,
+    "AllowTransfer": true,
+    "ForceDrop": true,
+    "Chat": true,
+    "Hud": true,
+    "TriggerID": 0,
+    "UsePriority": true,
+    "AbilityList": [
+      {
+        "Name": "stage_1_barricade_1_16",
+        "ButtonID": 20529,
+        "ButtonClass": "func_button",
+        "Filter": "",
+        "Chat_Uses": true,
+        "Mode": 3,
+        "MaxUses": 1,
+        "CoolDown": 0
+      }
+    ]
+  },
+  {
+    "Name": "甘道夫/Gandalf",
+    "ShortName": "甘道夫",
+    "Color": "{default}",
+    "HammerID": 20790,
+    "GlowColor": [0,255,0,1],
+    "BlockPickup": false,
+    "AllowTransfer": false,
+    "ForceDrop": false,
+    "Chat": true,
+    "Hud": true,
+    "TriggerID": 3600,
+    "UsePriority": false,
+    "AbilityList": [
+      {
+        "Name": "",
+        "ButtonID": 0,
+        "ButtonClass": "",
+        "Filter": "",
+        "Chat_Uses": false,
+        "Mode": 1,
+        "MaxUses": 0,
+        "CoolDown": 0
+      }
+    ]
+  },
+  {
+    "Name": "治疗/Heal",
+    "ShortName": "治疗",
+    "Color": "{default}",
+    "HammerID": 20877,
+    "GlowColor": [0,255,0,1],
+    "BlockPickup": false,
+    "AllowTransfer": true,
+    "ForceDrop": true,
+    "Chat": true,
+    "Hud": true,
+    "TriggerID": 0,
+    "UsePriority": true,
+    "AbilityList": [
+      {
+        "Name": "Heal_button",
+        "ButtonID": 20875,
+        "ButtonClass": "func_button",
+        "Filter": "$heal_owner",
+        "Chat_Uses": true,
+        "Mode": 3,
+        "MaxUses": 1,
+        "CoolDown": 0
+      }
+    ]
+  },
+  {
+    "Name": "火把/Torch",
+    "ShortName": "火把",
+    "Color": "{default}",
+    "HammerID": 2643,
+    "GlowColor": [0,255,0,1],
+    "BlockPickup": false,
+    "AllowTransfer": true,
+    "ForceDrop": true,
+    "Chat": true,
+    "Hud": true,
+    "TriggerID": 0,
+    "UsePriority": true,
+    "AbilityList": [
+      {
+        "Name": "",
+        "ButtonID": 0,
+        "ButtonClass": "",
+        "Filter": "",
+        "Chat_Uses": false,
+        "Mode": 0,
+        "MaxUses": 0,
+        "CoolDown": 0
+      }
+    ]
+  }
 ]

@@ -1,28 +1,28 @@
 [
-	{
-		"Name": "冰",	
-		"ShortName": "冰",
-		"Color": "{default}",
-		"HammerID": 510,
-		"GlowColor": [0,255,0,1],
-		"BlockPickup": false,
-		"AllowTransfer": true,
-		"ForceDrop": true,	
-		"Chat": true,
-		"Hud": true,
-		"TriggerID": 0,
-		"UsePriority": true,
-		"AbilityList": [	
-			{
-				"Name": "Ice_button",
-				"ButtonID": 512,	
-				"ButtonClass": "func_button",
-				"Filter": "",
-				"Chat_Uses": true,	
-				"Mode": 3,
-				"MaxUses": 1,	
-				"CoolDown": 0
-			}
-		]
-	}
+  {
+    "Name": "冰",
+    "ShortName": "冰",
+    "Color": "{default}",
+    "HammerID": 510,
+    "GlowColor": [0,255,0,1],
+    "BlockPickup": false,
+    "AllowTransfer": true,
+    "ForceDrop": true,
+    "Chat": true,
+    "Hud": true,
+    "TriggerID": 0,
+    "UsePriority": true,
+    "AbilityList": [
+      {
+        "Name": "Ice_button",
+        "ButtonID": 512,
+        "ButtonClass": "func_button",
+        "Filter": "",
+        "Chat_Uses": true,
+        "Mode": 3,
+        "MaxUses": 1,
+        "CoolDown": 0
+      }
+    ]
+  }
 ]

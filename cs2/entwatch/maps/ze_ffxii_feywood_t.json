@@ -1,350 +1,350 @@
 [
-	{
-		"Name": "陆行鸟",
-		"ShortName": "陆行鸟",
-		"Color": "{pink}",
-		"HammerID": 4359,
-		"GlowColor": [0,255,0,1],
-		"BlockPickup": false,
-		"AllowTransfer": true,
-		"ForceDrop": true,
-		"Chat": true,
-		"Hud": true,
-		"TriggerID": 0,
-		"UsePriority": true,
-		"AbilityList": [
-			{
-				"Name": "",
-				"ButtonID": 0,
-				"ButtonClass": "",
-				"Filter": "Chocobo_Owner:1",
-				"Chat_Uses": true,
-				"Mode": 1,
-				"MaxUses": 0,
-				"CoolDown": 0
-			}
-		]
-	},
-	{
-		"Name": "补给",
-		"ShortName": "补给",
-		"Color": "{pink}",
-		"HammerID": 4342,
-		"GlowColor": [0,255,0,1],
-		"BlockPickup": false,
-		"AllowTransfer": true,
-		"ForceDrop": true,
-		"Chat": true,
-		"Hud": true,
-		"TriggerID": 0,
-		"UsePriority": true,
-		"AbilityList": [
-			{
-				"Name": "Item_Berserk_Button",
-				"ButtonID": 4337,
-				"ButtonClass": "func_button",
-				"Filter": "Berserk_Owner:1",
-				"Chat_Uses": true,
-				"Mode": 2,
-				"MaxUses": 0,
-				"CoolDown": 0
-			},
-			{
-				"Name": "Item_Berserk_Switch",
-				"ButtonID": 11858,
-				"ButtonClass": "func_button",
-				"Filter": "Berserk_Owner:1",
-				"Chat_Uses": true,
-				"Mode": 2,
-				"MaxUses": 0,
-				"CoolDown": 0
-			}
-		]
-	},
-	{
-		"Name": "火",
-		"ShortName": "火",
-		"Color": "{pink}",
-		"HammerID": 2526,
-		"GlowColor": [0,255,0,1],
-		"BlockPickup": false,
-		"AllowTransfer": true,
-		"ForceDrop": true,
-		"Chat": true,
-		"Hud": true,
-		"TriggerID": 0,
-		"UsePriority": true,
-		"AbilityList": [
-			{
-				"Name": "Item_Fire_Button",
-				"ButtonID": 2528,
-				"ButtonClass": "func_button",
-				"Filter": "Fire_Owner:1",
-				"Chat_Uses": true,
-				"Mode": 2,
-				"MaxUses": 0,
-				"CoolDown": 55
-			}
-		]
-	},
-	{
-		"Name": "电",
-		"ShortName": "电",
-		"Color": "{pink}",
-		"HammerID": 2558,
-		"GlowColor": [0,255,0,1],
-		"BlockPickup": false,
-		"AllowTransfer": true,
-		"ForceDrop": true,
-		"Chat": true,
-		"Hud": true,
-		"TriggerID": 0,
-		"UsePriority": true,
-		"AbilityList": [
-			{
-				"Name": "Item_Electro_Button",
-				"ButtonID": 2561,
-				"ButtonClass": "func_button",
-				"Filter": "Electro_Owner:1",
-				"Chat_Uses": true,
-				"Mode": 2,
-				"MaxUses": 0,
-				"CoolDown": 55
-			}
-		]
-	},
-	{
-		"Name": "冰",
-		"ShortName": "冰",
-		"Color": "{pink}",
-		"HammerID": 2567,
-		"GlowColor": [0,255,0,1],
-		"BlockPickup": false,
-		"AllowTransfer": true,
-		"ForceDrop": true,
-		"Chat": true,
-		"Hud": true,
-		"TriggerID": 0,
-		"UsePriority": true,
-		"AbilityList": [
-			{
-				"Name": "Item_Blizzard_Button",
-				"ButtonID": 2569,
-				"ButtonClass": "func_button",
-				"Filter": "Blizzard_Owner:1",
-				"Chat_Uses": true,
-				"Mode": 2,
-				"MaxUses": 0,
-				"CoolDown": 55
-			}
-		]
-	},
-	{
-		"Name": "黑洞",
-		"ShortName": "黑洞",
-		"Color": "{pink}",
-		"HammerID": 2576,
-		"GlowColor": [0,255,0,1],
-		"BlockPickup": false,
-		"AllowTransfer": true,
-		"ForceDrop": true,
-		"Chat": true,
-		"Hud": true,
-		"TriggerID": 0,
-		"UsePriority": true,
-		"AbilityList": [
-			{
-				"Name": "Item_Darkaga_Button",
-				"ButtonID": 2577,
-				"ButtonClass": "func_button",
-				"Filter": "Darkaga_Owner:1",
-				"Chat_Uses": true,
-				"Mode": 2,
-				"MaxUses": 0,
-				"CoolDown": 55
-			}
-		]
-	},
-	{
-		"Name": "风",
-		"ShortName": "风",
-		"Color": "{pink}",
-		"HammerID": 2584,
-		"GlowColor": [0,255,0,1],
-		"BlockPickup": false,
-		"AllowTransfer": true,
-		"ForceDrop": true,
-		"Chat": true,
-		"Hud": true,
-		"TriggerID": 0,
-		"UsePriority": true,
-		"AbilityList": [
-			{
-				"Name": "Item_Wind_Button",
-				"ButtonID": 2585,
-				"ButtonClass": "func_button",
-				"Filter": "Wind_Owner:1",
-				"Chat_Uses": true,
-				"Mode": 2,
-				"MaxUses": 0,
-				"CoolDown": 55
-			}
-		]
-	},
-	{
-		"Name": "治疗",
-		"ShortName": "治疗",
-		"Color": "{pink}",
-		"HammerID": 2518,
-		"GlowColor": [0,255,0,1],
-		"BlockPickup": false,
-		"AllowTransfer": true,
-		"ForceDrop": true,
-		"Chat": true,
-		"Hud": true,
-		"TriggerID": 0,
-		"UsePriority": true,
-		"AbilityList": [
-			{
-				"Name": "Item_Heal_Button",
-				"ButtonID": 2522,
-				"ButtonClass": "func_button",
-				"Filter": "Heal_Owner:1",
-				"Chat_Uses": true,
-				"Mode": 2,
-				"MaxUses": 0,
-				"CoolDown": 55
-			}
-		]
-	},
-	{
-		"Name": "ZM 治疗",
-		"ShortName": "ZM 治疗",
-		"Color": "{pink}",
-		"HammerID": 2614,
-		"GlowColor": [0,255,0,1],
-		"BlockPickup": false,
-		"AllowTransfer": false,
-		"ForceDrop": false,
-		"Chat": true,
-		"Hud": true,
-		"TriggerID": 2609,
-		"UsePriority": true,
-		"AbilityList": [
-			{
-				"Name": "Item_Z_Heal_Button",
-				"ButtonID": 2611,
-				"ButtonClass": "func_button",
-				"Filter": "Heal_Z_Owner:1",
-				"Chat_Uses": false,
-				"Mode": 2,
-				"MaxUses": 0,
-				"CoolDown": 60
-			}
-		]
-	},
-	{
-		"Name": "ZM 火",
-		"ShortName": "ZM 火",
-		"Color": "{pink}",
-		"HammerID": 2630,
-		"GlowColor": [0,255,0,1],
-		"BlockPickup": false,
-		"AllowTransfer": false,
-		"ForceDrop": false,
-		"Chat": true,
-		"Hud": true,
-		"TriggerID": 2628,
-		"UsePriority": true,
-		"AbilityList": [
-			{
-				"Name": "Item_Z_Fire_Button",
-				"ButtonID": 2631,
-				"ButtonClass": "func_button",
-				"Filter": "Fire_Z_Owner:1",
-				"Chat_Uses": true,
-				"Mode": 2,
-				"MaxUses": 0,
-				"CoolDown": 60
-			}
-		]
-	},
-	{
-		"Name": "ZM 黑洞",
-		"ShortName": "ZM 黑洞",
-		"Color": "{pink}",
-		"HammerID": 2652,
-		"GlowColor": [0,255,0,1],
-		"BlockPickup": false,
-		"AllowTransfer": false,
-		"ForceDrop": false,
-		"Chat": true,
-		"Hud": true,
-		"TriggerID": 2650,
-		"UsePriority": true,
-		"AbilityList": [
-			{
-				"Name": "Item_Z_Darkaga_Button",
-				"ButtonID": 2647,
-				"ButtonClass": "func_button",
-				"Filter": "Darkaga_Z_Owner:1",
-				"Chat_Uses": true,
-				"Mode": 2,
-				"MaxUses": 0,
-				"CoolDown": 60
-			}
-		]
-	},
-	{
-		"Name": "ZM 秒杀",
-		"ShortName": "ZM 秒杀",
-		"Color": "{pink}",
-		"HammerID": 2663,
-		"GlowColor": [0,255,0,1],
-		"BlockPickup": false,
-		"AllowTransfer": false,
-		"ForceDrop": false,
-		"Chat": true,
-		"Hud": true,
-		"TriggerID": 2660,
-		"UsePriority": true,
-		"AbilityList": [
-			{
-				"Name": "Item_Z_Warp_Button",
-				"ButtonID": 2658,
-				"ButtonClass": "func_button",
-				"Filter": "Warp_Z_Owner:1",
-				"Chat_Uses": true,
-				"Mode": 2,
-				"MaxUses": 0,
-				"CoolDown": 60
-			}
-		]
-	},
-	{
-		"Name": "ZM 陆行鸟",
-		"ShortName": "ZM 陆行鸟",
-		"Color": "{pink}",
-		"HammerID": 4358,
-		"GlowColor": [0,255,0,1],
-		"BlockPickup": false,
-		"AllowTransfer": false,
-		"ForceDrop": false,
-		"Chat": true,
-		"Hud": true,
-		"TriggerID": 4356,
-		"UsePriority": true,
-		"AbilityList": [
-			{
-				"Name": "",
-				"ButtonID": 0,
-				"ButtonClass": "",
-				"Filter": "Chocobo_Z_Owner:1",
-				"Chat_Uses": true,
-				"Mode": 1,
-				"MaxUses": 0,
-				"CoolDown": 0
-			}
-		]
-	}
+  {
+    "Name": "陆行鸟",
+    "ShortName": "陆行鸟",
+    "Color": "{pink}",
+    "HammerID": 4359,
+    "GlowColor": [0,255,0,1],
+    "BlockPickup": false,
+    "AllowTransfer": true,
+    "ForceDrop": true,
+    "Chat": true,
+    "Hud": true,
+    "TriggerID": 0,
+    "UsePriority": true,
+    "AbilityList": [
+      {
+        "Name": "",
+        "ButtonID": 0,
+        "ButtonClass": "",
+        "Filter": "Chocobo_Owner:1",
+        "Chat_Uses": true,
+        "Mode": 1,
+        "MaxUses": 0,
+        "CoolDown": 0
+      }
+    ]
+  },
+  {
+    "Name": "补给",
+    "ShortName": "补给",
+    "Color": "{pink}",
+    "HammerID": 4342,
+    "GlowColor": [0,255,0,1],
+    "BlockPickup": false,
+    "AllowTransfer": true,
+    "ForceDrop": true,
+    "Chat": true,
+    "Hud": true,
+    "TriggerID": 0,
+    "UsePriority": true,
+    "AbilityList": [
+      {
+        "Name": "Item_Berserk_Button",
+        "ButtonID": 4337,
+        "ButtonClass": "func_button",
+        "Filter": "Berserk_Owner:1",
+        "Chat_Uses": true,
+        "Mode": 2,
+        "MaxUses": 0,
+        "CoolDown": 0
+      },
+      {
+        "Name": "Item_Berserk_Switch",
+        "ButtonID": 11858,
+        "ButtonClass": "func_button",
+        "Filter": "Berserk_Owner:1",
+        "Chat_Uses": true,
+        "Mode": 2,
+        "MaxUses": 0,
+        "CoolDown": 0
+      }
+    ]
+  },
+  {
+    "Name": "火",
+    "ShortName": "火",
+    "Color": "{pink}",
+    "HammerID": 2526,
+    "GlowColor": [0,255,0,1],
+    "BlockPickup": false,
+    "AllowTransfer": true,
+    "ForceDrop": true,
+    "Chat": true,
+    "Hud": true,
+    "TriggerID": 0,
+    "UsePriority": true,
+    "AbilityList": [
+      {
+        "Name": "Item_Fire_Button",
+        "ButtonID": 2528,
+        "ButtonClass": "func_button",
+        "Filter": "Fire_Owner:1",
+        "Chat_Uses": true,
+        "Mode": 2,
+        "MaxUses": 0,
+        "CoolDown": 55
+      }
+    ]
+  },
+  {
+    "Name": "电",
+    "ShortName": "电",
+    "Color": "{pink}",
+    "HammerID": 2558,
+    "GlowColor": [0,255,0,1],
+    "BlockPickup": false,
+    "AllowTransfer": true,
+    "ForceDrop": true,
+    "Chat": true,
+    "Hud": true,
+    "TriggerID": 0,
+    "UsePriority": true,
+    "AbilityList": [
+      {
+        "Name": "Item_Electro_Button",
+        "ButtonID": 2561,
+        "ButtonClass": "func_button",
+        "Filter": "Electro_Owner:1",
+        "Chat_Uses": true,
+        "Mode": 2,
+        "MaxUses": 0,
+        "CoolDown": 55
+      }
+    ]
+  },
+  {
+    "Name": "冰",
+    "ShortName": "冰",
+    "Color": "{pink}",
+    "HammerID": 2567,
+    "GlowColor": [0,255,0,1],
+    "BlockPickup": false,
+    "AllowTransfer": true,
+    "ForceDrop": true,
+    "Chat": true,
+    "Hud": true,
+    "TriggerID": 0,
+    "UsePriority": true,
+    "AbilityList": [
+      {
+        "Name": "Item_Blizzard_Button",
+        "ButtonID": 2569,
+        "ButtonClass": "func_button",
+        "Filter": "Blizzard_Owner:1",
+        "Chat_Uses": true,
+        "Mode": 2,
+        "MaxUses": 0,
+        "CoolDown": 55
+      }
+    ]
+  },
+  {
+    "Name": "黑洞",
+    "ShortName": "黑洞",
+    "Color": "{pink}",
+    "HammerID": 2576,
+    "GlowColor": [0,255,0,1],
+    "BlockPickup": false,
+    "AllowTransfer": true,
+    "ForceDrop": true,
+    "Chat": true,
+    "Hud": true,
+    "TriggerID": 0,
+    "UsePriority": true,
+    "AbilityList": [
+      {
+        "Name": "Item_Darkaga_Button",
+        "ButtonID": 2577,
+        "ButtonClass": "func_button",
+        "Filter": "Darkaga_Owner:1",
+        "Chat_Uses": true,
+        "Mode": 2,
+        "MaxUses": 0,
+        "CoolDown": 55
+      }
+    ]
+  },
+  {
+    "Name": "风",
+    "ShortName": "风",
+    "Color": "{pink}",
+    "HammerID": 2584,
+    "GlowColor": [0,255,0,1],
+    "BlockPickup": false,
+    "AllowTransfer": true,
+    "ForceDrop": true,
+    "Chat": true,
+    "Hud": true,
+    "TriggerID": 0,
+    "UsePriority": true,
+    "AbilityList": [
+      {
+        "Name": "Item_Wind_Button",
+        "ButtonID": 2585,
+        "ButtonClass": "func_button",
+        "Filter": "Wind_Owner:1",
+        "Chat_Uses": true,
+        "Mode": 2,
+        "MaxUses": 0,
+        "CoolDown": 55
+      }
+    ]
+  },
+  {
+    "Name": "治疗",
+    "ShortName": "治疗",
+    "Color": "{pink}",
+    "HammerID": 2518,
+    "GlowColor": [0,255,0,1],
+    "BlockPickup": false,
+    "AllowTransfer": true,
+    "ForceDrop": true,
+    "Chat": true,
+    "Hud": true,
+    "TriggerID": 0,
+    "UsePriority": true,
+    "AbilityList": [
+      {
+        "Name": "Item_Heal_Button",
+        "ButtonID": 2522,
+        "ButtonClass": "func_button",
+        "Filter": "Heal_Owner:1",
+        "Chat_Uses": true,
+        "Mode": 2,
+        "MaxUses": 0,
+        "CoolDown": 55
+      }
+    ]
+  },
+  {
+    "Name": "ZM 治疗",
+    "ShortName": "ZM 治疗",
+    "Color": "{pink}",
+    "HammerID": 2614,
+    "GlowColor": [0,255,0,1],
+    "BlockPickup": false,
+    "AllowTransfer": false,
+    "ForceDrop": false,
+    "Chat": true,
+    "Hud": true,
+    "TriggerID": 2609,
+    "UsePriority": true,
+    "AbilityList": [
+      {
+        "Name": "Item_Z_Heal_Button",
+        "ButtonID": 2611,
+        "ButtonClass": "func_button",
+        "Filter": "Heal_Z_Owner:1",
+        "Chat_Uses": false,
+        "Mode": 2,
+        "MaxUses": 0,
+        "CoolDown": 60
+      }
+    ]
+  },
+  {
+    "Name": "ZM 火",
+    "ShortName": "ZM 火",
+    "Color": "{pink}",
+    "HammerID": 2630,
+    "GlowColor": [0,255,0,1],
+    "BlockPickup": false,
+    "AllowTransfer": false,
+    "ForceDrop": false,
+    "Chat": true,
+    "Hud": true,
+    "TriggerID": 2628,
+    "UsePriority": true,
+    "AbilityList": [
+      {
+        "Name": "Item_Z_Fire_Button",
+        "ButtonID": 2631,
+        "ButtonClass": "func_button",
+        "Filter": "Fire_Z_Owner:1",
+        "Chat_Uses": true,
+        "Mode": 2,
+        "MaxUses": 0,
+        "CoolDown": 60
+      }
+    ]
+  },
+  {
+    "Name": "ZM 黑洞",
+    "ShortName": "ZM 黑洞",
+    "Color": "{pink}",
+    "HammerID": 2652,
+    "GlowColor": [0,255,0,1],
+    "BlockPickup": false,
+    "AllowTransfer": false,
+    "ForceDrop": false,
+    "Chat": true,
+    "Hud": true,
+    "TriggerID": 2650,
+    "UsePriority": true,
+    "AbilityList": [
+      {
+        "Name": "Item_Z_Darkaga_Button",
+        "ButtonID": 2647,
+        "ButtonClass": "func_button",
+        "Filter": "Darkaga_Z_Owner:1",
+        "Chat_Uses": true,
+        "Mode": 2,
+        "MaxUses": 0,
+        "CoolDown": 60
+      }
+    ]
+  },
+  {
+    "Name": "ZM 秒杀",
+    "ShortName": "ZM 秒杀",
+    "Color": "{pink}",
+    "HammerID": 2663,
+    "GlowColor": [0,255,0,1],
+    "BlockPickup": false,
+    "AllowTransfer": false,
+    "ForceDrop": false,
+    "Chat": true,
+    "Hud": true,
+    "TriggerID": 2660,
+    "UsePriority": true,
+    "AbilityList": [
+      {
+        "Name": "Item_Z_Warp_Button",
+        "ButtonID": 2658,
+        "ButtonClass": "func_button",
+        "Filter": "Warp_Z_Owner:1",
+        "Chat_Uses": true,
+        "Mode": 2,
+        "MaxUses": 0,
+        "CoolDown": 60
+      }
+    ]
+  },
+  {
+    "Name": "ZM 陆行鸟",
+    "ShortName": "ZM 陆行鸟",
+    "Color": "{pink}",
+    "HammerID": 4358,
+    "GlowColor": [0,255,0,1],
+    "BlockPickup": false,
+    "AllowTransfer": false,
+    "ForceDrop": false,
+    "Chat": true,
+    "Hud": true,
+    "TriggerID": 4356,
+    "UsePriority": true,
+    "AbilityList": [
+      {
+        "Name": "",
+        "ButtonID": 0,
+        "ButtonClass": "",
+        "Filter": "Chocobo_Z_Owner:1",
+        "Chat_Uses": true,
+        "Mode": 1,
+        "MaxUses": 0,
+        "CoolDown": 0
+      }
+    ]
+  }
 ]

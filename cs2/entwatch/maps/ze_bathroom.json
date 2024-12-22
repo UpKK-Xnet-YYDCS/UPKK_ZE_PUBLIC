@@ -1,54 +1,54 @@
 [
-	{
-		"Name": "海绵墙/Sponge builder",
-		"ShortName": "海绵墙",
-		"Color": "{default}",
-		"HammerID": 1589,
-		"GlowColor": [0,255,0,1],
-		"BlockPickup": false,
-		"AllowTransfer": true,
-		"ForceDrop": true,
-		"Chat": true,
-		"Hud": true,
-		"TriggerID": 0,
-		"UsePriority": true,
-		"AbilityList": [
-			{
-				"Name": "tlacitko_houba",
-				"ButtonID": 1590,
-				"ButtonClass": "func_button",
-				"Filter": "zbran_houba_filtr",
-				"Chat_Uses": true,
-				"Mode": 2,
-				"MaxUses": 0,
-				"CoolDown": 52
-			}
-		]
-	},
-	{
-		"Name": "捕鼠夹/Mouse trap",
-		"ShortName": "捕鼠夹",
-		"Color": "{default}",
-		"HammerID": 1793,
-		"GlowColor": [0,255,0,1],
-		"BlockPickup": false,
-		"AllowTransfer": true,
-		"ForceDrop": true,
-		"Chat": true,
-		"Hud": true,
-		"TriggerID": 0,
-		"UsePriority": true,
-		"AbilityList": [
-			{
-				"Name": "tlacitko_pasticka",
-				"ButtonID": 1794,
-				"ButtonClass": "func_button",
-				"Filter": "zbran_pasticka_filtr",
-				"Chat_Uses": true,
-				"Mode": 2,
-				"MaxUses": 0,
-				"CoolDown": 42
-			}
-		]
-	}
+  {
+    "Name": "海绵墙/Sponge builder",
+    "ShortName": "海绵墙",
+    "Color": "{default}",
+    "HammerID": 1589,
+    "GlowColor": [0,255,0,1],
+    "BlockPickup": false,
+    "AllowTransfer": true,
+    "ForceDrop": true,
+    "Chat": true,
+    "Hud": true,
+    "TriggerID": 0,
+    "UsePriority": true,
+    "AbilityList": [
+      {
+        "Name": "tlacitko_houba",
+        "ButtonID": 1590,
+        "ButtonClass": "func_button",
+        "Filter": "zbran_houba_filtr",
+        "Chat_Uses": true,
+        "Mode": 2,
+        "MaxUses": 0,
+        "CoolDown": 52
+      }
+    ]
+  },
+  {
+    "Name": "捕鼠夹/Mouse trap",
+    "ShortName": "捕鼠夹",
+    "Color": "{default}",
+    "HammerID": 1793,
+    "GlowColor": [0,255,0,1],
+    "BlockPickup": false,
+    "AllowTransfer": true,
+    "ForceDrop": true,
+    "Chat": true,
+    "Hud": true,
+    "TriggerID": 0,
+    "UsePriority": true,
+    "AbilityList": [
+      {
+        "Name": "tlacitko_pasticka",
+        "ButtonID": 1794,
+        "ButtonClass": "func_button",
+        "Filter": "zbran_pasticka_filtr",
+        "Chat_Uses": true,
+        "Mode": 2,
+        "MaxUses": 0,
+        "CoolDown": 42
+      }
+    ]
+  }
 ]

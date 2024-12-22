@@ -1,322 +1,322 @@
 [
-	{
-		"Name": "Cyka",
-		"ShortName": "Cyka",
-		"Color": "{default}",
-		"HammerID": 330,
-		"GlowColor": [0,255,0,1],
-		"BlockPickup": false,
-		"AllowTransfer": true,
-		"ForceDrop": true,
-		"Chat": true,
-		"Hud": true,
-		"TriggerID": 0,
-		"UsePriority": true,
-		"AbilityList": [
-			{
-				"Name": "item_cyka3",
-				"ButtonID": 332,
-				"ButtonClass": "func_physbox",
-				"Filter": "cyka:1",
-				"Chat_Uses": true,
-				"Mode": 4,
-				"MaxUses": 8,
-				"CoolDown": 10
-			}
-		]
-	},
-	{
-		"Name": "加农炮/EyeTech Cannon",
-		"ShortName": "加农炮",
-		"Color": "{default}",
-		"HammerID": 3742,
-		"GlowColor": [0,255,0,1],
-		"BlockPickup": false,
-		"AllowTransfer": true,
-		"ForceDrop": true,
-		"Chat": false,
-		"Hud": true,
-		"TriggerID": 0,
-		"UsePriority": true,
-		"AbilityList": [
-			{
-				"Name": "item_cannon2",
-				"ButtonID": 3743,
-				"ButtonClass": "func_physbox",
-				"Filter": "cannon:1",
-				"Chat_Uses": false,
-				"Mode": 1,
-				"MaxUses": 0,
-				"CoolDown": 0
-			}
-		]
-	},
-	{
-		"Name": "乐高墙/Lego Maker",
-		"ShortName": "乐高墙",
-		"Color": "{default}",
-		"HammerID": 3657,
-		"GlowColor": [0,255,0,1],
-		"BlockPickup": false,
-		"AllowTransfer": true,
-		"ForceDrop": true,
-		"Chat": false,
-		"Hud": true,
-		"TriggerID": 0,
-		"UsePriority": true,
-		"AbilityList": [
-			{
-				"Name": "item_blockade2",
-				"ButtonID": 3652,
-				"ButtonClass": "func_physbox",
-				"Filter": "blockade:1",
-				"Chat_Uses": true,
-				"Mode": 4,
-				"MaxUses": 10,
-				"CoolDown": 2
-			}
-		]
-	},
-	{
-		"Name": "榴弹枪/EyeTech Launcher",
-		"ShortName": "榴弹枪",
-		"Color": "{default}",
-		"HammerID": 3710,
-		"GlowColor": [0,255,0,1],
-		"BlockPickup": false,
-		"AllowTransfer": true,
-		"ForceDrop": true,
-		"Chat": false,
-		"Hud": true,
-		"TriggerID": 0,
-		"UsePriority": true,
-		"AbilityList": [
-			{
-				"Name": "item_launcher2",
-				"ButtonID": 3711,
-				"ButtonClass": "func_physbox",
-				"Filter": "launcher:1",
-				"Chat_Uses": true,
-				"Mode": 4,
-				"MaxUses": 10,
-				"CoolDown": 2
-			}
-		]
-	},
-	{
-		"Name": "喷火器/Flamethrower",
-		"ShortName": "喷火器",
-		"Color": "{default}",
-		"HammerID": 3686,
-		"GlowColor": [0,255,0,1],
-		"BlockPickup": false,
-		"AllowTransfer": true,
-		"ForceDrop": true,
-		"Chat": true,
-		"Hud": true,
-		"TriggerID": 0,
-		"UsePriority": true,
-		"AbilityList": [
-			{
-				"Name": "item_flame2",
-				"ButtonID": 3687,
-				"ButtonClass": "func_physbox",
-				"Filter": "flamethrower:1",
-				"Chat_Uses": true,
-				"Mode": 4,
-				"MaxUses": 8,
-				"CoolDown": 10
-			}
-		]
-	},
-	{
-		"Name": "推力枪/Push Gun",
-		"ShortName": "推力枪",
-		"Color": "{default}",
-		"HammerID": 3664,
-		"GlowColor": [0,255,0,1],
-		"BlockPickup": false,
-		"AllowTransfer": true,
-		"ForceDrop": true,
-		"Chat": true,
-		"Hud": true,
-		"TriggerID": 0,
-		"UsePriority": true,
-		"AbilityList": [
-			{
-				"Name": "item_push2",
-				"ButtonID": 3665,
-				"ButtonClass": "func_physbox",
-				"Filter": "push:1",
-				"Chat_Uses": true,
-				"Mode": 2,
-				"MaxUses": 0,
-				"CoolDown": 35
-			}
-		]
-	},
-	{
-		"Name": "电/Electro Gun",
-		"ShortName": "电",
-		"Color": "{default}",
-		"HammerID": 3673,
-		"GlowColor": [0,255,0,1],
-		"BlockPickup": false,
-		"AllowTransfer": true,
-		"ForceDrop": true,
-		"Chat": false,
-		"Hud": true,
-		"TriggerID": 0,
-		"UsePriority": true,
-		"AbilityList": [
-			{
-				"Name": "item_electric5",
-				"ButtonID": 3679,
-				"ButtonClass": "func_physbox",
-				"Filter": "electric:1",
-				"Chat_Uses": false,
-				"Mode": 6,
-				"MaxUses": 0,
-				"CoolDown": 0,
-				"Ignore": false,
-				"LockItem": false,
-				"MathID": 3685,
-				"MathNameFix": false
-			}
-		]
-	},
-	{
-		"Name": "弹药/Ammo Box",
-		"ShortName": "弹药",
-		"Color": "{default}",
-		"HammerID": 3699,
-		"GlowColor": [0,255,0,1],
-		"BlockPickup": false,
-		"AllowTransfer": true,
-		"ForceDrop": true,
-		"Chat": true,
-		"Hud": true,
-		"TriggerID": 0,
-		"UsePriority": true,
-		"AbilityList": [
-			{
-				"Name": "item_ammo2",
-				"ButtonID": 3700,
-				"ButtonClass": "func_physbox",
-				"Filter": "ammowep:1",
-				"Chat_Uses": true,
-				"Mode": 2,
-				"MaxUses": 0,
-				"CoolDown": 60
-			}
-		]
-	},
-	{
-		"Name": "奶/Heal",
-		"ShortName": "奶",
-		"Color": "{default}",
-		"HammerID": 3640,
-		"GlowColor": [0,255,0,1],
-		"BlockPickup": false,
-		"AllowTransfer": true,
-		"ForceDrop": true,
-		"Chat": true,
-		"Hud": true,
-		"TriggerID": 0,
-		"UsePriority": true,
-		"AbilityList": [
-			{
-				"Name": "item_heal2",
-				"ButtonID": 3635,
-				"ButtonClass": "func_physbox",
-				"Filter": "heal:1",
-				"Chat_Uses": true,
-				"Mode": 7,
-				"MaxUses": 0,
-				"CoolDown": 0,
-				"Ignore": false,
-				"LockItem": false,
-				"MathID": 522,
-				"MathNameFix": false
-			}
-		]
-	},
-	{
-		"Name": "地雷/Pipe Bombs",
-		"ShortName": "地雷",
-		"Color": "{default}",
-		"HammerID": 3717,
-		"GlowColor": [0,255,0,1],
-		"BlockPickup": false,
-		"AllowTransfer": true,
-		"ForceDrop": true,
-		"Chat": false,
-		"Hud": true,
-		"TriggerID": 0,
-		"UsePriority": true,
-		"AbilityList": [
-			{
-				"Name": "item_pipe2",
-				"ButtonID": 3718,
-				"ButtonClass": "func_physbox",
-				"Filter": "pipe:1",
-				"Chat_Uses": true,
-				"Mode": 4,
-				"MaxUses": 5,
-				"CoolDown": 1
-			}
-		]
-	},
-	{
-		"Name": "香蕉/Banana",
-		"ShortName": "香蕉",
-		"Color": "{default}",
-		"HammerID": 4377,
-		"GlowColor": [0,255,0,1],
-		"BlockPickup": false,
-		"AllowTransfer": true,
-		"ForceDrop": true,
-		"Chat": false,
-		"Hud": true,
-		"TriggerID": 0,
-		"UsePriority": true,
-		"AbilityList": [
-			{
-				"Name": "banana_button",
-				"ButtonID": 4378,
-				"ButtonClass": "func_physbox",
-				"Filter": "banana:1",
-				"Chat_Uses": true,
-				"Mode": 4,
-				"MaxUses": 15,
-				"CoolDown": 5
-			}
-		]
-	},
-	{
-		"Name": "Steam",
-		"ShortName": "Steam",
-		"Color": "{default}",
-		"HammerID": 4386,
-		"GlowColor": [0,255,0,1],
-		"BlockPickup": false,
-		"AllowTransfer": true,
-		"ForceDrop": true,
-		"Chat": true,
-		"Hud": true,
-		"TriggerID": 0,
-		"UsePriority": true,
-		"AbilityList": [
-			{
-				"Name": "item_steam3",
-				"ButtonID": 4387,
-				"ButtonClass": "func_physbox",
-				"Filter": "steam:1",
-				"Chat_Uses": true,
-				"Mode": 4,
-				"MaxUses": 8,
-				"CoolDown": 10
-			}
-		]
-	}
+  {
+    "Name": "Cyka",
+    "ShortName": "Cyka",
+    "Color": "{default}",
+    "HammerID": 330,
+    "GlowColor": [0,255,0,1],
+    "BlockPickup": false,
+    "AllowTransfer": true,
+    "ForceDrop": true,
+    "Chat": true,
+    "Hud": true,
+    "TriggerID": 0,
+    "UsePriority": true,
+    "AbilityList": [
+      {
+        "Name": "item_cyka3",
+        "ButtonID": 332,
+        "ButtonClass": "func_physbox",
+        "Filter": "cyka:1",
+        "Chat_Uses": true,
+        "Mode": 4,
+        "MaxUses": 8,
+        "CoolDown": 10
+      }
+    ]
+  },
+  {
+    "Name": "加农炮/EyeTech Cannon",
+    "ShortName": "加农炮",
+    "Color": "{default}",
+    "HammerID": 3742,
+    "GlowColor": [0,255,0,1],
+    "BlockPickup": false,
+    "AllowTransfer": true,
+    "ForceDrop": true,
+    "Chat": false,
+    "Hud": true,
+    "TriggerID": 0,
+    "UsePriority": true,
+    "AbilityList": [
+      {
+        "Name": "item_cannon2",
+        "ButtonID": 3743,
+        "ButtonClass": "func_physbox",
+        "Filter": "cannon:1",
+        "Chat_Uses": false,
+        "Mode": 1,
+        "MaxUses": 0,
+        "CoolDown": 0
+      }
+    ]
+  },
+  {
+    "Name": "乐高墙/Lego Maker",
+    "ShortName": "乐高墙",
+    "Color": "{default}",
+    "HammerID": 3657,
+    "GlowColor": [0,255,0,1],
+    "BlockPickup": false,
+    "AllowTransfer": true,
+    "ForceDrop": true,
+    "Chat": false,
+    "Hud": true,
+    "TriggerID": 0,
+    "UsePriority": true,
+    "AbilityList": [
+      {
+        "Name": "item_blockade2",
+        "ButtonID": 3652,
+        "ButtonClass": "func_physbox",
+        "Filter": "blockade:1",
+        "Chat_Uses": true,
+        "Mode": 4,
+        "MaxUses": 10,
+        "CoolDown": 2
+      }
+    ]
+  },
+  {
+    "Name": "榴弹枪/EyeTech Launcher",
+    "ShortName": "榴弹枪",
+    "Color": "{default}",
+    "HammerID": 3710,
+    "GlowColor": [0,255,0,1],
+    "BlockPickup": false,
+    "AllowTransfer": true,
+    "ForceDrop": true,
+    "Chat": false,
+    "Hud": true,
+    "TriggerID": 0,
+    "UsePriority": true,
+    "AbilityList": [
+      {
+        "Name": "item_launcher2",
+        "ButtonID": 3711,
+        "ButtonClass": "func_physbox",
+        "Filter": "launcher:1",
+        "Chat_Uses": true,
+        "Mode": 4,
+        "MaxUses": 10,
+        "CoolDown": 2
+      }
+    ]
+  },
+  {
+    "Name": "喷火器/Flamethrower",
+    "ShortName": "喷火器",
+    "Color": "{default}",
+    "HammerID": 3686,
+    "GlowColor": [0,255,0,1],
+    "BlockPickup": false,
+    "AllowTransfer": true,
+    "ForceDrop": true,
+    "Chat": true,
+    "Hud": true,
+    "TriggerID": 0,
+    "UsePriority": true,
+    "AbilityList": [
+      {
+        "Name": "item_flame2",
+        "ButtonID": 3687,
+        "ButtonClass": "func_physbox",
+        "Filter": "flamethrower:1",
+        "Chat_Uses": true,
+        "Mode": 4,
+        "MaxUses": 8,
+        "CoolDown": 10
+      }
+    ]
+  },
+  {
+    "Name": "推力枪/Push Gun",
+    "ShortName": "推力枪",
+    "Color": "{default}",
+    "HammerID": 3664,
+    "GlowColor": [0,255,0,1],
+    "BlockPickup": false,
+    "AllowTransfer": true,
+    "ForceDrop": true,
+    "Chat": true,
+    "Hud": true,
+    "TriggerID": 0,
+    "UsePriority": true,
+    "AbilityList": [
+      {
+        "Name": "item_push2",
+        "ButtonID": 3665,
+        "ButtonClass": "func_physbox",
+        "Filter": "push:1",
+        "Chat_Uses": true,
+        "Mode": 2,
+        "MaxUses": 0,
+        "CoolDown": 35
+      }
+    ]
+  },
+  {
+    "Name": "电/Electro Gun",
+    "ShortName": "电",
+    "Color": "{default}",
+    "HammerID": 3673,
+    "GlowColor": [0,255,0,1],
+    "BlockPickup": false,
+    "AllowTransfer": true,
+    "ForceDrop": true,
+    "Chat": false,
+    "Hud": true,
+    "TriggerID": 0,
+    "UsePriority": true,
+    "AbilityList": [
+      {
+        "Name": "item_electric5",
+        "ButtonID": 3679,
+        "ButtonClass": "func_physbox",
+        "Filter": "electric:1",
+        "Chat_Uses": false,
+        "Mode": 6,
+        "MaxUses": 0,
+        "CoolDown": 0,
+        "Ignore": false,
+        "LockItem": false,
+        "MathID": 3685,
+        "MathNameFix": false
+      }
+    ]
+  },
+  {
+    "Name": "弹药/Ammo Box",
+    "ShortName": "弹药",
+    "Color": "{default}",
+    "HammerID": 3699,
+    "GlowColor": [0,255,0,1],
+    "BlockPickup": false,
+    "AllowTransfer": true,
+    "ForceDrop": true,
+    "Chat": true,
+    "Hud": true,
+    "TriggerID": 0,
+    "UsePriority": true,
+    "AbilityList": [
+      {
+        "Name": "item_ammo2",
+        "ButtonID": 3700,
+        "ButtonClass": "func_physbox",
+        "Filter": "ammowep:1",
+        "Chat_Uses": true,
+        "Mode": 2,
+        "MaxUses": 0,
+        "CoolDown": 60
+      }
+    ]
+  },
+  {
+    "Name": "奶/Heal",
+    "ShortName": "奶",
+    "Color": "{default}",
+    "HammerID": 3640,
+    "GlowColor": [0,255,0,1],
+    "BlockPickup": false,
+    "AllowTransfer": true,
+    "ForceDrop": true,
+    "Chat": true,
+    "Hud": true,
+    "TriggerID": 0,
+    "UsePriority": true,
+    "AbilityList": [
+      {
+        "Name": "item_heal2",
+        "ButtonID": 3635,
+        "ButtonClass": "func_physbox",
+        "Filter": "heal:1",
+        "Chat_Uses": true,
+        "Mode": 7,
+        "MaxUses": 0,
+        "CoolDown": 0,
+        "Ignore": false,
+        "LockItem": false,
+        "MathID": 522,
+        "MathNameFix": false
+      }
+    ]
+  },
+  {
+    "Name": "地雷/Pipe Bombs",
+    "ShortName": "地雷",
+    "Color": "{default}",
+    "HammerID": 3717,
+    "GlowColor": [0,255,0,1],
+    "BlockPickup": false,
+    "AllowTransfer": true,
+    "ForceDrop": true,
+    "Chat": false,
+    "Hud": true,
+    "TriggerID": 0,
+    "UsePriority": true,
+    "AbilityList": [
+      {
+        "Name": "item_pipe2",
+        "ButtonID": 3718,
+        "ButtonClass": "func_physbox",
+        "Filter": "pipe:1",
+        "Chat_Uses": true,
+        "Mode": 4,
+        "MaxUses": 5,
+        "CoolDown": 1
+      }
+    ]
+  },
+  {
+    "Name": "香蕉/Banana",
+    "ShortName": "香蕉",
+    "Color": "{default}",
+    "HammerID": 4377,
+    "GlowColor": [0,255,0,1],
+    "BlockPickup": false,
+    "AllowTransfer": true,
+    "ForceDrop": true,
+    "Chat": false,
+    "Hud": true,
+    "TriggerID": 0,
+    "UsePriority": true,
+    "AbilityList": [
+      {
+        "Name": "banana_button",
+        "ButtonID": 4378,
+        "ButtonClass": "func_physbox",
+        "Filter": "banana:1",
+        "Chat_Uses": true,
+        "Mode": 4,
+        "MaxUses": 15,
+        "CoolDown": 5
+      }
+    ]
+  },
+  {
+    "Name": "Steam",
+    "ShortName": "Steam",
+    "Color": "{default}",
+    "HammerID": 4386,
+    "GlowColor": [0,255,0,1],
+    "BlockPickup": false,
+    "AllowTransfer": true,
+    "ForceDrop": true,
+    "Chat": true,
+    "Hud": true,
+    "TriggerID": 0,
+    "UsePriority": true,
+    "AbilityList": [
+      {
+        "Name": "item_steam3",
+        "ButtonID": 4387,
+        "ButtonClass": "func_physbox",
+        "Filter": "steam:1",
+        "Chat_Uses": true,
+        "Mode": 4,
+        "MaxUses": 8,
+        "CoolDown": 10
+      }
+    ]
+  }
 ]

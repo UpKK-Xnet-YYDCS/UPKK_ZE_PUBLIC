@@ -1,418 +1,418 @@
 [
-	{
-		"Name": "油桶",	
-		"ShortName": "油桶",
-		"Color": "{default}",
-		"HammerID": 3751,
-		"GlowColor": [0,255,0,1],
-		"BlockPickup": false,
-		"AllowTransfer": true,
-		"ForceDrop": true,
-		"Chat": true,
-		"Hud": true,
-		"TriggerID": 0,
-		"UsePriority": true,
-		"AbilityList": [	
-			{
-				"Name": "item_obj_button",
-				"ButtonID": 3748,
-				"ButtonClass": "func_button",
-				"Filter": "item_obj_user",
-				"Chat_Uses": true,
-				"Mode": 2,
-				"MaxUses": 0,
-				"CoolDown": 50
-			}
-		]
-	},
-	{
-		"Name": "方块墙",
-		"ShortName": "方块墙",
-		"Color": "{default}",
-		"HammerID": 1220,
-		"GlowColor": [0,255,0,1],
-		"BlockPickup": false,
-		"AllowTransfer": true,
-		"ForceDrop": true,	
-		"Chat": true,
-		"Hud": true,
-		"TriggerID": 0,
-		"UsePriority": true,
-		"AbilityList": [	
-			{
-				"Name": "item_wall_buttom",
-				"ButtonID": 3281,	
-				"ButtonClass": "func_button",
-				"Filter": "item_wall_user",
-				"Chat_Uses": true,
-				"Mode": 2,
-				"MaxUses": 0,
-				"CoolDown": 60
-			}
-		]
-	},
-	{
-		"Name": "推力",
-		"ShortName": "推力",
-		"Color": "{default}",
-		"HammerID": 3375,
-		"GlowColor": [0,255,0,1],
-		"BlockPickup": false,
-		"AllowTransfer": true,
-		"ForceDrop": true,	
-		"Chat": true,
-		"Hud": true,
-		"TriggerID": 0,
-		"UsePriority": true,
-		"AbilityList": [	
-			{
-				"Name": "item_push_button",
-				"ButtonID": 2515,	
-				"ButtonClass": "func_button",
-				"Filter": "item_push_user",
-				"Chat_Uses": true,
-				"Mode": 2,
-				"MaxUses": 0,
-				"CoolDown": 60
-			}
-		]
-	},
-	{
-		"Name": "定身球",
-		"ShortName": "定身球",
-		"Color": "{default}",
-		"HammerID": 5457,
-		"GlowColor": [0,255,0,1],
-		"BlockPickup": false,
-		"AllowTransfer": true,
-		"ForceDrop": true,	
-		"Chat": true,
-		"Hud": true,
-		"TriggerID": 0,
-		"UsePriority": true,
-		"AbilityList": [	
-			{
-				"Name": "item_ball_button",
-				"ButtonID": 5460,	
-				"ButtonClass": "func_button",
-				"Filter": "item_ball_user",
-				"Chat_Uses": true,
-				"Mode": 2,
-				"MaxUses": 0,
-				"CoolDown": 35
-			}
-		]
-	},
-	{
-		"Name": "护盾",
-		"ShortName": "护盾",
-		"Color": "{default}",
-		"HammerID": 3296,
-		"GlowColor": [0,255,0,1],
-		"BlockPickup": false,
-		"AllowTransfer": true,
-		"ForceDrop": true,	
-		"Chat": true,
-		"Hud": true,
-		"TriggerID": 0,
-		"UsePriority": true,
-		"AbilityList": [	
-			{
-				"Name": "item_shield_button",
-				"ButtonID": 3278,	
-				"ButtonClass": "func_button",
-				"Filter": "item_shield_userf",
-				"Chat_Uses": true,
-				"Mode": 2,
-				"MaxUses": 0,
-				"CoolDown": 60
-			}
-		]
-	},
-	{
-		"Name": "ZM 伤害球",
-		"ShortName": "ZM 伤害球",
-		"Color": "{default}",
-		"HammerID": 4083,
-		"GlowColor": [0,255,0,1],
-		"BlockPickup": false,
-		"AllowTransfer": false,
-		"ForceDrop": false,	
-		"Chat": true,
-		"Hud": true,
-		"TriggerID": 4001,
-		"UsePriority": true,
-		"AbilityList": [	
-			{
-				"Name": "item_zmred_button",
-				"ButtonID": 4079,	
-				"ButtonClass": "func_button",
-				"Filter": "item_zmred_user",
-				"Chat_Uses": true,
-				"Mode": 2,
-				"MaxUses": 0,
-				"CoolDown": 10
-			}
-		]
-	},
-	{
-		"Name": "ZM 冰冻球",
-		"ShortName": "ZM 冰冻球",
-		"Color": "{default}",
-		"HammerID": 3213,
-		"GlowColor": [0,255,0,1],
-		"BlockPickup": false,
-		"AllowTransfer": false,
-		"ForceDrop": false,	
-		"Chat": true,
-		"Hud": true,
-		"TriggerID": 3211,
-		"UsePriority": true,
-		"AbilityList": [	
-			{
-				"Name": "item_zmball_button",
-				"ButtonID": 3214,	
-				"ButtonClass": "func_button",
-				"Filter": "item_zmball_user",
-				"Chat_Uses": true,
-				"Mode": 2,
-				"MaxUses": 0,
-				"CoolDown": 45
-			}
-		]
-	},
-	{
-		"Name": "ZM 治疗",
-		"ShortName": "ZM 治疗",
-		"Color": "{default}",
-		"HammerID": 2709,
-		"GlowColor": [0,255,0,1],
-		"BlockPickup": false,
-		"AllowTransfer": false,
-		"ForceDrop": false,	
-		"Chat": true,
-		"Hud": true,
-		"TriggerID": 1360,
-		"UsePriority": true,
-		"AbilityList": [	
-			{
-				"Name": "item_zm_heal_button",
-				"ButtonID": 3933,	
-				"ButtonClass": "func_button",
-				"Filter": "item_zm_heal_user",
-				"Chat_Uses": true,
-				"Mode": 2,
-				"MaxUses": 0,
-				"CoolDown": 50
-			}
-		]
-	},
-	{
-		"Name": "ZM 秒杀",
-		"ShortName": "ZM 秒杀",
-		"Color": "{default}",
-		"HammerID": 22055,
-		"GlowColor": [0,255,0,1],
-		"BlockPickup": false,
-		"AllowTransfer": false,
-		"ForceDrop": false,	
-		"Chat": true,
-		"Hud": true,
-		"TriggerID": 22056,
-		"UsePriority": true,
-		"AbilityList": [	
-			{
-				"Name": "item_zm_kill_button",
-				"ButtonID": 22060,	
-				"ButtonClass": "func_button",
-				"Filter": "item_zm_kill_user",
-				"Chat_Uses": true,
-				"Mode": 2,
-				"MaxUses": 0,
-				"CoolDown": 80
-			}
-		]
-	},
-	{
-		"Name": "治疗",
-		"ShortName": "治疗",
-		"Color": "{default}",
-		"HammerID": 1310,
-		"GlowColor": [0,255,0,1],
-		"BlockPickup": false,
-		"AllowTransfer": true,
-		"ForceDrop": true,	
-		"Chat": true,
-		"Hud": true,
-		"TriggerID": 0,
-		"UsePriority": true,
-		"AbilityList": [	
-			{
-				"Name": "human_heal_button",
-				"ButtonID": 3537,	
-				"ButtonClass": "func_button",
-				"Filter": "item_heal_user",
-				"Chat_Uses": true,
-				"Mode": 2,
-				"MaxUses": 0,
-				"CoolDown": 70
-			}
-		]
-	},
-	{
-		"Name": "人类1号传送",
-		"ShortName": "传送1",
-		"Color": "{default}",
-		"HammerID": 2595,
-		"GlowColor": [0,255,0,1],
-		"BlockPickup": false,
-		"AllowTransfer": true,
-		"ForceDrop": true,	
-		"Chat": true,
-		"Hud": true,
-		"TriggerID": 0,
-		"UsePriority": true,
-		"AbilityList": [	
-			{
-				"Name": "item_tp_button1",
-				"ButtonID": 2603,	
-				"ButtonClass": "func_button",
-				"Filter": "item_tp1_user",
-				"Chat_Uses": true,
-				"Mode": 2,
-				"MaxUses": 0,
-				"CoolDown": 120
-			}
-		]
-	},
-	{
-		"Name": "人类2号传送",
-		"ShortName": "传送2",
-		"Color": "{default}",
-		"HammerID": 4092,
-		"GlowColor": [0,255,0,1],
-		"BlockPickup": false,
-		"AllowTransfer": true,
-		"ForceDrop": true,	
-		"Chat": true,
-		"Hud": true,
-		"TriggerID": 0,
-		"UsePriority": true,
-		"AbilityList": [	
-			{
-				"Name": "item_tp_button2",
-				"ButtonID": 4094,	
-				"ButtonClass": "func_button",
-				"Filter": "item_tp2_user",
-				"Chat_Uses": true,
-				"Mode": 2,
-				"MaxUses": 0,
-				"CoolDown": 120
-			}
-		]
-	},
-	{
-		"Name": "ZM 1号传送",
-		"ShortName": "ZM 传送1",
-		"Color": "{default}",
-		"HammerID": 3687,
-		"GlowColor": [0,255,0,1],
-		"BlockPickup": false,
-		"AllowTransfer": false,
-		"ForceDrop": false,	
-		"Chat": true,
-		"Hud": true,
-		"TriggerID": 3658,
-		"UsePriority": true,
-		"AbilityList": [	
-			{
-				"Name": "item_zm_tp_button1",
-				"ButtonID": 3675,	
-				"ButtonClass": "func_button",
-				"Filter": "item_zm_tp1_user",
-				"Chat_Uses": true,
-				"Mode": 2,
-				"MaxUses": 0,
-				"CoolDown": 120
-			}
-		]
-	},
-	{
-		"Name": "ZM 2号传送",
-		"ShortName": "ZM 传送2",
-		"Color": "{default}",
-		"HammerID": 2302,
-		"GlowColor": [0,255,0,1],
-		"BlockPickup": false,
-		"AllowTransfer": false,
-		"ForceDrop": false,	
-		"Chat": true,
-		"Hud": true,
-		"TriggerID": 3648,
-		"UsePriority": true,
-		"AbilityList": [	
-			{
-				"Name": "item_zm_tp_button2",
-				"ButtonID": 2299,	
-				"ButtonClass": "func_button",
-				"Filter": "item_zm_tp2_user",
-				"Chat_Uses": true,
-				"Mode": 2,
-				"MaxUses": 0,
-				"CoolDown": 120
-			}
-		]
-	},
-	{
-		"Name": "ZM 黑洞",
-		"ShortName": "ZM 黑洞",
-		"Color": "{default}",
-		"HammerID": 3601,
-		"GlowColor": [0,255,0,1],
-		"BlockPickup": false,
-		"AllowTransfer": false,
-		"ForceDrop": false,	
-		"Chat": true,
-		"Hud": true,
-		"TriggerID": 3605,
-		"UsePriority": true,
-		"AbilityList": [	
-			{
-				"Name": "item_zm_push_button",
-				"ButtonID": 3608,	
-				"ButtonClass": "func_button",
-				"Filter": "item_zm_gra_user",
-				"Chat_Uses": true,
-				"Mode": 2,
-				"MaxUses": 0,
-				"CoolDown": 55
-			}
-		]
-	},
-	{
-		"Name": "喇叭",
-		"ShortName": "喇叭",
-		"Color": "{default}",
-		"HammerID": 5547,
-		"GlowColor": [0,255,0,1],
-		"BlockPickup": false,
-		"AllowTransfer": false,
-		"ForceDrop": false,	
-		"Chat": true,
-		"Hud": true,
-		"TriggerID": 5545,
-		"UsePriority": true,
-		"AbilityList": [	
-			{
-				"Name": "item_laba_button",
-				"ButtonID": 5543,	
-				"ButtonClass": "func_button",
-				"Filter": "item_laba_user",
-				"Chat_Uses": true,
-				"Mode": 2,
-				"MaxUses": 0,
-				"CoolDown": 15
-			}
-		]
-	}
+  {
+    "Name": "油桶",
+    "ShortName": "油桶",
+    "Color": "{default}",
+    "HammerID": 3751,
+    "GlowColor": [0,255,0,1],
+    "BlockPickup": false,
+    "AllowTransfer": true,
+    "ForceDrop": true,
+    "Chat": true,
+    "Hud": true,
+    "TriggerID": 0,
+    "UsePriority": true,
+    "AbilityList": [
+      {
+        "Name": "item_obj_button",
+        "ButtonID": 3748,
+        "ButtonClass": "func_button",
+        "Filter": "item_obj_user",
+        "Chat_Uses": true,
+        "Mode": 2,
+        "MaxUses": 0,
+        "CoolDown": 50
+      }
+    ]
+  },
+  {
+    "Name": "方块墙",
+    "ShortName": "方块墙",
+    "Color": "{default}",
+    "HammerID": 1220,
+    "GlowColor": [0,255,0,1],
+    "BlockPickup": false,
+    "AllowTransfer": true,
+    "ForceDrop": true,
+    "Chat": true,
+    "Hud": true,
+    "TriggerID": 0,
+    "UsePriority": true,
+    "AbilityList": [
+      {
+        "Name": "item_wall_buttom",
+        "ButtonID": 3281,
+        "ButtonClass": "func_button",
+        "Filter": "item_wall_user",
+        "Chat_Uses": true,
+        "Mode": 2,
+        "MaxUses": 0,
+        "CoolDown": 60
+      }
+    ]
+  },
+  {
+    "Name": "推力",
+    "ShortName": "推力",
+    "Color": "{default}",
+    "HammerID": 3375,
+    "GlowColor": [0,255,0,1],
+    "BlockPickup": false,
+    "AllowTransfer": true,
+    "ForceDrop": true,
+    "Chat": true,
+    "Hud": true,
+    "TriggerID": 0,
+    "UsePriority": true,
+    "AbilityList": [
+      {
+        "Name": "item_push_button",
+        "ButtonID": 2515,
+        "ButtonClass": "func_button",
+        "Filter": "item_push_user",
+        "Chat_Uses": true,
+        "Mode": 2,
+        "MaxUses": 0,
+        "CoolDown": 60
+      }
+    ]
+  },
+  {
+    "Name": "定身球",
+    "ShortName": "定身球",
+    "Color": "{default}",
+    "HammerID": 5457,
+    "GlowColor": [0,255,0,1],
+    "BlockPickup": false,
+    "AllowTransfer": true,
+    "ForceDrop": true,
+    "Chat": true,
+    "Hud": true,
+    "TriggerID": 0,
+    "UsePriority": true,
+    "AbilityList": [
+      {
+        "Name": "item_ball_button",
+        "ButtonID": 5460,
+        "ButtonClass": "func_button",
+        "Filter": "item_ball_user",
+        "Chat_Uses": true,
+        "Mode": 2,
+        "MaxUses": 0,
+        "CoolDown": 35
+      }
+    ]
+  },
+  {
+    "Name": "护盾",
+    "ShortName": "护盾",
+    "Color": "{default}",
+    "HammerID": 3296,
+    "GlowColor": [0,255,0,1],
+    "BlockPickup": false,
+    "AllowTransfer": true,
+    "ForceDrop": true,
+    "Chat": true,
+    "Hud": true,
+    "TriggerID": 0,
+    "UsePriority": true,
+    "AbilityList": [
+      {
+        "Name": "item_shield_button",
+        "ButtonID": 3278,
+        "ButtonClass": "func_button",
+        "Filter": "item_shield_userf",
+        "Chat_Uses": true,
+        "Mode": 2,
+        "MaxUses": 0,
+        "CoolDown": 60
+      }
+    ]
+  },
+  {
+    "Name": "ZM 伤害球",
+    "ShortName": "ZM 伤害球",
+    "Color": "{default}",
+    "HammerID": 4083,
+    "GlowColor": [0,255,0,1],
+    "BlockPickup": false,
+    "AllowTransfer": false,
+    "ForceDrop": false,
+    "Chat": true,
+    "Hud": true,
+    "TriggerID": 4001,
+    "UsePriority": true,
+    "AbilityList": [
+      {
+        "Name": "item_zmred_button",
+        "ButtonID": 4079,
+        "ButtonClass": "func_button",
+        "Filter": "item_zmred_user",
+        "Chat_Uses": true,
+        "Mode": 2,
+        "MaxUses": 0,
+        "CoolDown": 10
+      }
+    ]
+  },
+  {
+    "Name": "ZM 冰冻球",
+    "ShortName": "ZM 冰冻球",
+    "Color": "{default}",
+    "HammerID": 3213,
+    "GlowColor": [0,255,0,1],
+    "BlockPickup": false,
+    "AllowTransfer": false,
+    "ForceDrop": false,
+    "Chat": true,
+    "Hud": true,
+    "TriggerID": 3211,
+    "UsePriority": true,
+    "AbilityList": [
+      {
+        "Name": "item_zmball_button",
+        "ButtonID": 3214,
+        "ButtonClass": "func_button",
+        "Filter": "item_zmball_user",
+        "Chat_Uses": true,
+        "Mode": 2,
+        "MaxUses": 0,
+        "CoolDown": 45
+      }
+    ]
+  },
+  {
+    "Name": "ZM 治疗",
+    "ShortName": "ZM 治疗",
+    "Color": "{default}",
+    "HammerID": 2709,
+    "GlowColor": [0,255,0,1],
+    "BlockPickup": false,
+    "AllowTransfer": false,
+    "ForceDrop": false,
+    "Chat": true,
+    "Hud": true,
+    "TriggerID": 1360,
+    "UsePriority": true,
+    "AbilityList": [
+      {
+        "Name": "item_zm_heal_button",
+        "ButtonID": 3933,
+        "ButtonClass": "func_button",
+        "Filter": "item_zm_heal_user",
+        "Chat_Uses": true,
+        "Mode": 2,
+        "MaxUses": 0,
+        "CoolDown": 50
+      }
+    ]
+  },
+  {
+    "Name": "ZM 秒杀",
+    "ShortName": "ZM 秒杀",
+    "Color": "{default}",
+    "HammerID": 22055,
+    "GlowColor": [0,255,0,1],
+    "BlockPickup": false,
+    "AllowTransfer": false,
+    "ForceDrop": false,
+    "Chat": true,
+    "Hud": true,
+    "TriggerID": 22056,
+    "UsePriority": true,
+    "AbilityList": [
+      {
+        "Name": "item_zm_kill_button",
+        "ButtonID": 22060,
+        "ButtonClass": "func_button",
+        "Filter": "item_zm_kill_user",
+        "Chat_Uses": true,
+        "Mode": 2,
+        "MaxUses": 0,
+        "CoolDown": 80
+      }
+    ]
+  },
+  {
+    "Name": "治疗",
+    "ShortName": "治疗",
+    "Color": "{default}",
+    "HammerID": 1310,
+    "GlowColor": [0,255,0,1],
+    "BlockPickup": false,
+    "AllowTransfer": true,
+    "ForceDrop": true,
+    "Chat": true,
+    "Hud": true,
+    "TriggerID": 0,
+    "UsePriority": true,
+    "AbilityList": [
+      {
+        "Name": "human_heal_button",
+        "ButtonID": 3537,
+        "ButtonClass": "func_button",
+        "Filter": "item_heal_user",
+        "Chat_Uses": true,
+        "Mode": 2,
+        "MaxUses": 0,
+        "CoolDown": 70
+      }
+    ]
+  },
+  {
+    "Name": "人类1号传送",
+    "ShortName": "传送1",
+    "Color": "{default}",
+    "HammerID": 2595,
+    "GlowColor": [0,255,0,1],
+    "BlockPickup": false,
+    "AllowTransfer": true,
+    "ForceDrop": true,
+    "Chat": true,
+    "Hud": true,
+    "TriggerID": 0,
+    "UsePriority": true,
+    "AbilityList": [
+      {
+        "Name": "item_tp_button1",
+        "ButtonID": 2603,
+        "ButtonClass": "func_button",
+        "Filter": "item_tp1_user",
+        "Chat_Uses": true,
+        "Mode": 2,
+        "MaxUses": 0,
+        "CoolDown": 120
+      }
+    ]
+  },
+  {
+    "Name": "人类2号传送",
+    "ShortName": "传送2",
+    "Color": "{default}",
+    "HammerID": 4092,
+    "GlowColor": [0,255,0,1],
+    "BlockPickup": false,
+    "AllowTransfer": true,
+    "ForceDrop": true,
+    "Chat": true,
+    "Hud": true,
+    "TriggerID": 0,
+    "UsePriority": true,
+    "AbilityList": [
+      {
+        "Name": "item_tp_button2",
+        "ButtonID": 4094,
+        "ButtonClass": "func_button",
+        "Filter": "item_tp2_user",
+        "Chat_Uses": true,
+        "Mode": 2,
+        "MaxUses": 0,
+        "CoolDown": 120
+      }
+    ]
+  },
+  {
+    "Name": "ZM 1号传送",
+    "ShortName": "ZM 传送1",
+    "Color": "{default}",
+    "HammerID": 3687,
+    "GlowColor": [0,255,0,1],
+    "BlockPickup": false,
+    "AllowTransfer": false,
+    "ForceDrop": false,
+    "Chat": true,
+    "Hud": true,
+    "TriggerID": 3658,
+    "UsePriority": true,
+    "AbilityList": [
+      {
+        "Name": "item_zm_tp_button1",
+        "ButtonID": 3675,
+        "ButtonClass": "func_button",
+        "Filter": "item_zm_tp1_user",
+        "Chat_Uses": true,
+        "Mode": 2,
+        "MaxUses": 0,
+        "CoolDown": 120
+      }
+    ]
+  },
+  {
+    "Name": "ZM 2号传送",
+    "ShortName": "ZM 传送2",
+    "Color": "{default}",
+    "HammerID": 2302,
+    "GlowColor": [0,255,0,1],
+    "BlockPickup": false,
+    "AllowTransfer": false,
+    "ForceDrop": false,
+    "Chat": true,
+    "Hud": true,
+    "TriggerID": 3648,
+    "UsePriority": true,
+    "AbilityList": [
+      {
+        "Name": "item_zm_tp_button2",
+        "ButtonID": 2299,
+        "ButtonClass": "func_button",
+        "Filter": "item_zm_tp2_user",
+        "Chat_Uses": true,
+        "Mode": 2,
+        "MaxUses": 0,
+        "CoolDown": 120
+      }
+    ]
+  },
+  {
+    "Name": "ZM 黑洞",
+    "ShortName": "ZM 黑洞",
+    "Color": "{default}",
+    "HammerID": 3601,
+    "GlowColor": [0,255,0,1],
+    "BlockPickup": false,
+    "AllowTransfer": false,
+    "ForceDrop": false,
+    "Chat": true,
+    "Hud": true,
+    "TriggerID": 3605,
+    "UsePriority": true,
+    "AbilityList": [
+      {
+        "Name": "item_zm_push_button",
+        "ButtonID": 3608,
+        "ButtonClass": "func_button",
+        "Filter": "item_zm_gra_user",
+        "Chat_Uses": true,
+        "Mode": 2,
+        "MaxUses": 0,
+        "CoolDown": 55
+      }
+    ]
+  },
+  {
+    "Name": "喇叭",
+    "ShortName": "喇叭",
+    "Color": "{default}",
+    "HammerID": 5547,
+    "GlowColor": [0,255,0,1],
+    "BlockPickup": false,
+    "AllowTransfer": false,
+    "ForceDrop": false,
+    "Chat": true,
+    "Hud": true,
+    "TriggerID": 5545,
+    "UsePriority": true,
+    "AbilityList": [
+      {
+        "Name": "item_laba_button",
+        "ButtonID": 5543,
+        "ButtonClass": "func_button",
+        "Filter": "item_laba_user",
+        "Chat_Uses": true,
+        "Mode": 2,
+        "MaxUses": 0,
+        "CoolDown": 15
+      }
+    ]
+  }
 ]

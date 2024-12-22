@@ -1,504 +1,504 @@
 [
-	{
-		"Name": "ZM 生命分离",
-		"ShortName": "ZM 生命分离",
-		"Color": "{default}",
-		"HammerID": 1895,
-		"GlowColor": [0,255,0,1],
-		"BlockPickup": false,
-		"AllowTransfer": false,
-		"ForceDrop": false,
-		"Chat": true,
-		"Hud": true,
-		"TriggerID": 2893,
-		"UsePriority": true,
-		"AbilityList": [
-			{
-				"Name": "life_tap_button",
-				"ButtonID": 1711,
-				"ButtonClass": "func_button",
-				"Filter": "zitem_life_tap_user:1",
-				"Chat_Uses": true,
-				"Mode": 2,
-				"MaxUses": 0,
-				"CoolDown": 70
-			}
-		]
-	},
-	{
-		"Name": "埃洛斯的诅咒",
-		"ShortName": "埃洛斯的诅咒",
-		"Color": "{default}",
-		"HammerID": 2518,
-		"GlowColor": [0,255,0,1],
-		"BlockPickup": false,
-		"AllowTransfer": true,
-		"ForceDrop": false,
-		"Chat": true,
-		"Hud": true,
-		"TriggerID": 0,
-		"UsePriority": true,
-		"AbilityList": [
-			{
-				"Name": "elos_curse_button",
-				"ButtonID": 2520,
-				"ButtonClass": "func_button",
-				"Filter": "hitem_elos_curse_user:1",
-				"Chat_Uses": false,
-				"Mode": 7,
-				"MaxUses": 0,
-				"CoolDown": 0,
-				"Ignore": false,
-				"LockItem": false,
-				"MathID": 2523,
-				"MathNameFix": false
-			},
-			{
-				"Name": "elos_curse_button",
-				"ButtonID": 2520,
-				"ButtonClass": "func_button",
-				"Filter": "hitem_elos_curse_user:1",
-				"Chat_Uses": true,
-				"Mode": 2,
-				"MaxUses": 0,
-				"CoolDown": 20
-			}
-		]
-	},
-	{
-		"Name": "治疗法杖",
-		"ShortName": "治疗法杖",
-		"Color": "{default}",
-		"HammerID": 3399,
-		"GlowColor": [0,255,0,1],
-		"BlockPickup": false,
-		"AllowTransfer": true,
-		"ForceDrop": true,
-		"Chat": true,
-		"Hud": true,
-		"TriggerID": 0,
-		"UsePriority": true,
-		"AbilityList": [
-			{
-				"Name": "heal_button",
-				"ButtonID": 3604,
-				"ButtonClass": "func_button",
-				"Filter": "hitem_heal_user:1",
-				"Chat_Uses": true,
-				"Mode": 2,
-				"MaxUses": 0,
-				"CoolDown": 60
-			}
-		]
-	},
-	{
-		"Name": "暴风雪",
-		"ShortName": "暴风雪",
-		"Color": "{default}",
-		"HammerID": 3488,
-		"GlowColor": [0,255,0,1],
-		"BlockPickup": false,
-		"AllowTransfer": true,
-		"ForceDrop": true,
-		"Chat": true,
-		"Hud": true,
-		"TriggerID": 0,
-		"UsePriority": true,
-		"AbilityList": [
-			{
-				"Name": "blizzard_button",
-				"ButtonID": 3489,
-				"ButtonClass": "func_button",
-				"Filter": "hitem_blizzard_user:1",
-				"Chat_Uses": true,
-				"Mode": 2,
-				"MaxUses": 0,
-				"CoolDown": 140
-			}
-		]
-	},
-	{
-		"Name": "寒霜剑",
-		"ShortName": "寒霜剑",
-		"Color": "{default}",
-		"HammerID": 3480,
-		"GlowColor": [0,255,0,1],
-		"BlockPickup": false,
-		"AllowTransfer": true,
-		"ForceDrop": true,
-		"Chat": true,
-		"Hud": true,
-		"TriggerID": 0,
-		"UsePriority": true,
-		"AbilityList": [
-			{
-				"Name": "frost_path_button",
-				"ButtonID": 3527,
-				"ButtonClass": "func_button",
-				"Filter": "hitem_frost_path_user:1",
-				"Chat_Uses": true,
-				"Mode": 2,
-				"MaxUses": 0,
-				"CoolDown": 30
-			}
-		]
-	},
-	{
-		"Name": "圣盾",
-		"ShortName": "圣盾",
-		"Color": "{default}",
-		"HammerID": 3508,
-		"GlowColor": [0,255,0,1],
-		"BlockPickup": false,
-		"AllowTransfer": true,
-		"ForceDrop": true,
-		"Chat": true,
-		"Hud": true,
-		"TriggerID": 0,
-		"UsePriority": true,
-		"AbilityList": [
-			{
-				"Name": "shield_button",
-				"ButtonID": 3510,
-				"ButtonClass": "func_button",
-				"Filter": "hitem_shield_user:1",
-				"Chat_Uses": true,
-				"Mode": 2,
-				"MaxUses": 0,
-				"CoolDown": 120
-			}
-		]
-	},
-	{
-		"Name": "寒风",
-		"ShortName": "寒风",
-		"Color": "{default}",
-		"HammerID": 3413,
-		"GlowColor": [0,255,0,1],
-		"BlockPickup": false,
-		"AllowTransfer": true,
-		"ForceDrop": true,
-		"Chat": true,
-		"Hud": true,
-		"TriggerID": 0,
-		"UsePriority": true,
-		"AbilityList": [
-			{
-				"Name": "ice_wind_button",
-				"ButtonID": 3414,
-				"ButtonClass": "func_button",
-				"Filter": "hitem_wind_user:1",
-				"Chat_Uses": true,
-				"Mode": 2,
-				"MaxUses": 0,
-				"CoolDown": 60
-			}
-		]
-	},
-	{
-		"Name": "ZM 冰环",
-		"ShortName": "ZM 冰环",
-		"Color": "{default}",
-		"HammerID": 2889,
-		"GlowColor": [0,255,0,1],
-		"BlockPickup": false,
-		"AllowTransfer": false,
-		"ForceDrop": false,
-		"Chat": true,
-		"Hud": true,
-		"TriggerID": 3057,
-		"UsePriority": true,
-		"AbilityList": [
-			{
-				"Name": "Circle_of_Winter_button",
-				"ButtonID": 3059,
-				"ButtonClass": "func_button",
-				"Filter": "zitem_Circle_of_Winter_user:1",
-				"Chat_Uses": true,
-				"Mode": 2,
-				"MaxUses": 0,
-				"CoolDown": 70
-			}
-		]
-	},
-	{
-		"Name": "ZM 冰刺",
-		"ShortName": "ZM 冰刺",
-		"Color": "{default}",
-		"HammerID": 3400,
-		"GlowColor": [0,255,0,1],
-		"BlockPickup": false,
-		"AllowTransfer": false,
-		"ForceDrop": false,
-		"Chat": false,
-		"Hud": true,
-		"TriggerID": 3431,
-		"UsePriority": true,
-		"AbilityList": [
-			{
-				"Name": "item_flycutter_button",
-				"ButtonID": 3438,
-				"ButtonClass": "func_button",
-				"Filter": "zitem_flycutter_user:1",
-				"Chat_Uses": false,
-				"Mode": 1,
-				"MaxUses": 0,
-				"CoolDown": 0
-			}
-		]
-	},
-	{
-		"Name": "恶魔契约",
-		"ShortName": "恶魔契约",
-		"Color": "{default}",
-		"HammerID": 3547,
-		"GlowColor": [0,255,0,1],
-		"BlockPickup": false,
-		"AllowTransfer": false,
-		"ForceDrop": false,
-		"Chat": false,
-		"Hud": true,
-		"TriggerID": 3541,
-		"UsePriority": false,
-		"AbilityList": [
-			{
-				"Name": "devilian_button",
-				"ButtonID": 3538,
-				"ButtonClass": "func_button",
-				"Filter": "hitem_devilian_user:1",
-				"Chat_Uses": true,
-				"Mode": 1,
-				"MaxUses": 0,
-				"CoolDown": 0
-			}
-		]
-	},
-	{
-		"Name": "重力弓",
-		"ShortName": "重力弓",
-		"Color": "{default}",
-		"HammerID": 4207,
-		"GlowColor": [0,255,0,1],
-		"BlockPickup": false,
-		"AllowTransfer": true,
-		"ForceDrop": true,
-		"Chat": true,
-		"Hud": true,
-		"TriggerID": 0,
-		"UsePriority": true,
-		"AbilityList": [
-			{
-				"Name": "",
-				"ButtonID": 0,
-				"ButtonClass": "",
-				"Filter": "hitem_zhongli_user:1",
-				"Chat_Uses": false,
-				"Mode": 0,
-				"MaxUses": 0,
-				"CoolDown": 0
-			}
-		]
-	},
-	{
-		"Name": "冰垒",
-		"ShortName": "冰垒",
-		"Color": "{default}",
-		"HammerID": 3616,
-		"GlowColor": [0,255,0,1],
-		"BlockPickup": false,
-		"AllowTransfer": true,
-		"ForceDrop": true,
-		"Chat": true,
-		"Hud": true,
-		"TriggerID": 0,
-		"UsePriority": true,
-		"AbilityList": [
-			{
-				"Name": "ice_barrier_button",
-				"ButtonID": 3202,
-				"ButtonClass": "func_button",
-				"Filter": "hitem_ice_barrier_user:1",
-				"Chat_Uses": true,
-				"Mode": 2,
-				"MaxUses": 0,
-				"CoolDown": 10
-			}
-		]
-	},
-	{
-		"Name": "精灵法师",
-		"ShortName": "精灵法师",
-		"Color": "{default}",
-		"HammerID": 2120,
-		"GlowColor": [0,255,0,1],
-		"BlockPickup": false,
-		"AllowTransfer": false,
-		"ForceDrop": false,
-		"Chat": false,
-		"Hud": true,
-		"TriggerID": 1493,
-		"UsePriority": false,
-		"AbilityList": [
-			{
-				"Name": "elves_button",
-				"ButtonID": 1501,
-				"ButtonClass": "func_button",
-				"Filter": "elves_user:1",
-				"Chat_Uses": false,
-				"Mode": 1,
-				"MaxUses": 0,
-				"CoolDown": 0
-			}
-		]
-	},
-	{
-		"Name": "ZM 雷沃尔熊人",
-		"ShortName": "ZM 雷沃尔熊人",
-		"Color": "{default}",
-		"HammerID": 2999,
-		"GlowColor": [0,255,0,1],
-		"BlockPickup": false,
-		"AllowTransfer": false,
-		"ForceDrop": false,
-		"Chat": false,
-		"Hud": true,
-		"TriggerID": 0,
-		"UsePriority": false,
-		"AbilityList": [
-			{
-				"Name": "grzzly_Thunder_bolt_1_button",
-				"ButtonID": 2992,
-				"ButtonClass": "func_button",
-				"Filter": "zitem_grzzly_user:1",
-				"Chat_Uses": false,
-				"Mode": 1,
-				"MaxUses": 0,
-				"CoolDown": 0
-			},
-			{
-				"Name": "grzzly_uit_button",
-				"ButtonID": 3015,
-				"ButtonClass": "func_button",
-				"Filter": "zitem_grzzly_user:1",
-				"Chat_Uses": false,
-				"Mode": 1,
-				"MaxUses": 0,
-				"CoolDown": 0
-			}
-		]
-	},
-	{
-		"Name": "冰垒",
-		"ShortName": "冰垒",
-		"Color": "{default}",
-		"HammerID": 3616,
-		"GlowColor": [0,255,0,1],
-		"BlockPickup": false,
-		"AllowTransfer": true,
-		"ForceDrop": true,
-		"Chat": true,
-		"Hud": true,
-		"TriggerID": 0,
-		"UsePriority": true,
-		"AbilityList": [
-			{
-				"Name": "ice_barrier_button",
-				"ButtonID": 3202,
-				"ButtonClass": "func_button",
-				"Filter": "hitem_ice_barrier_user:1",
-				"Chat_Uses": true,
-				"Mode": 2,
-				"MaxUses": 0,
-				"CoolDown": 10
-			}
-		]
-	},
-	{
-		"Name": "圣女",
-		"ShortName": "圣女",
-		"Color": "{default}",
-		"HammerID": 16038,
-		"GlowColor": [0,255,0,1],
-		"BlockPickup": false,
-		"AllowTransfer": false,
-		"ForceDrop": false,
-		"Chat": false,
-		"Hud": true,
-		"TriggerID": 0,
-		"UsePriority": false,
-		"AbilityList": [
-			{
-				"Name": "fashi_button1",
-				"ButtonID": 16045,
-				"ButtonClass": "func_button",
-				"Filter": "fashi_user:1",
-				"Chat_Uses": false,
-				"Mode": 1,
-				"MaxUses": 0,
-				"CoolDown": 0
-			}
-		]
-	},
-	{
-		"Name": "ZM 隐秘老者",
-		"ShortName": "ZM 隐秘老者",
-		"Color": "{default}",
-		"HammerID": 16072,
-		"GlowColor": [0,255,0,1],
-		"BlockPickup": false,
-		"AllowTransfer": false,
-		"ForceDrop": false,
-		"Chat": false,
-		"Hud": true,
-		"TriggerID": 0,
-		"UsePriority": false,
-		"AbilityList": [
-			{
-				"Name": "laozhe_button1",
-				"ButtonID": 16080,
-				"ButtonClass": "func_button",
-				"Filter": "laozhe_user:1",
-				"Chat_Uses": true,
-				"Mode": 2,
-				"MaxUses": 0,
-				"CoolDown": 60
-			}
-		]
-	},
-	{
-		"Name": "黑岩",
-		"ShortName": "黑岩",
-		"Color": "{default}",
-		"HammerID": 16128,
-		"GlowColor": [0,255,0,1],
-		"BlockPickup": false,
-		"AllowTransfer": false,
-		"ForceDrop": false,
-		"Chat": false,
-		"Hud": true,
-		"TriggerID": 0,
-		"UsePriority": false,
-		"AbilityList": [
-			{
-				"Name": "heiyan_luanshe_button",
-				"ButtonID": 16160,
-				"ButtonClass": "func_button",
-				"Filter": "heiyan:1",
-				"Chat_Uses": false,
-				"Mode": 1,
-				"MaxUses": 0,
-				"CoolDown": 0
-			},
-			{
-				"Name": "heiyan_atk2_button",
-				"ButtonID": 16179,
-				"ButtonClass": "func_button",
-				"Filter": "heiyan:1",
-				"Chat_Uses": false,
-				"Mode": 1,
-				"MaxUses": 0,
-				"CoolDown": 0
-			}
-		]
-	}
+  {
+    "Name": "ZM 生命分离",
+    "ShortName": "ZM 生命分离",
+    "Color": "{default}",
+    "HammerID": 1895,
+    "GlowColor": [0,255,0,1],
+    "BlockPickup": false,
+    "AllowTransfer": false,
+    "ForceDrop": false,
+    "Chat": true,
+    "Hud": true,
+    "TriggerID": 2893,
+    "UsePriority": true,
+    "AbilityList": [
+      {
+        "Name": "life_tap_button",
+        "ButtonID": 1711,
+        "ButtonClass": "func_button",
+        "Filter": "zitem_life_tap_user:1",
+        "Chat_Uses": true,
+        "Mode": 2,
+        "MaxUses": 0,
+        "CoolDown": 70
+      }
+    ]
+  },
+  {
+    "Name": "埃洛斯的诅咒",
+    "ShortName": "埃洛斯的诅咒",
+    "Color": "{default}",
+    "HammerID": 2518,
+    "GlowColor": [0,255,0,1],
+    "BlockPickup": false,
+    "AllowTransfer": true,
+    "ForceDrop": false,
+    "Chat": true,
+    "Hud": true,
+    "TriggerID": 0,
+    "UsePriority": true,
+    "AbilityList": [
+      {
+        "Name": "elos_curse_button",
+        "ButtonID": 2520,
+        "ButtonClass": "func_button",
+        "Filter": "hitem_elos_curse_user:1",
+        "Chat_Uses": false,
+        "Mode": 7,
+        "MaxUses": 0,
+        "CoolDown": 0,
+        "Ignore": false,
+        "LockItem": false,
+        "MathID": 2523,
+        "MathNameFix": false
+      },
+      {
+        "Name": "elos_curse_button",
+        "ButtonID": 2520,
+        "ButtonClass": "func_button",
+        "Filter": "hitem_elos_curse_user:1",
+        "Chat_Uses": true,
+        "Mode": 2,
+        "MaxUses": 0,
+        "CoolDown": 20
+      }
+    ]
+  },
+  {
+    "Name": "治疗法杖",
+    "ShortName": "治疗法杖",
+    "Color": "{default}",
+    "HammerID": 3399,
+    "GlowColor": [0,255,0,1],
+    "BlockPickup": false,
+    "AllowTransfer": true,
+    "ForceDrop": true,
+    "Chat": true,
+    "Hud": true,
+    "TriggerID": 0,
+    "UsePriority": true,
+    "AbilityList": [
+      {
+        "Name": "heal_button",
+        "ButtonID": 3604,
+        "ButtonClass": "func_button",
+        "Filter": "hitem_heal_user:1",
+        "Chat_Uses": true,
+        "Mode": 2,
+        "MaxUses": 0,
+        "CoolDown": 60
+      }
+    ]
+  },
+  {
+    "Name": "暴风雪",
+    "ShortName": "暴风雪",
+    "Color": "{default}",
+    "HammerID": 3488,
+    "GlowColor": [0,255,0,1],
+    "BlockPickup": false,
+    "AllowTransfer": true,
+    "ForceDrop": true,
+    "Chat": true,
+    "Hud": true,
+    "TriggerID": 0,
+    "UsePriority": true,
+    "AbilityList": [
+      {
+        "Name": "blizzard_button",
+        "ButtonID": 3489,
+        "ButtonClass": "func_button",
+        "Filter": "hitem_blizzard_user:1",
+        "Chat_Uses": true,
+        "Mode": 2,
+        "MaxUses": 0,
+        "CoolDown": 140
+      }
+    ]
+  },
+  {
+    "Name": "寒霜剑",
+    "ShortName": "寒霜剑",
+    "Color": "{default}",
+    "HammerID": 3480,
+    "GlowColor": [0,255,0,1],
+    "BlockPickup": false,
+    "AllowTransfer": true,
+    "ForceDrop": true,
+    "Chat": true,
+    "Hud": true,
+    "TriggerID": 0,
+    "UsePriority": true,
+    "AbilityList": [
+      {
+        "Name": "frost_path_button",
+        "ButtonID": 3527,
+        "ButtonClass": "func_button",
+        "Filter": "hitem_frost_path_user:1",
+        "Chat_Uses": true,
+        "Mode": 2,
+        "MaxUses": 0,
+        "CoolDown": 30
+      }
+    ]
+  },
+  {
+    "Name": "圣盾",
+    "ShortName": "圣盾",
+    "Color": "{default}",
+    "HammerID": 3508,
+    "GlowColor": [0,255,0,1],
+    "BlockPickup": false,
+    "AllowTransfer": true,
+    "ForceDrop": true,
+    "Chat": true,
+    "Hud": true,
+    "TriggerID": 0,
+    "UsePriority": true,
+    "AbilityList": [
+      {
+        "Name": "shield_button",
+        "ButtonID": 3510,
+        "ButtonClass": "func_button",
+        "Filter": "hitem_shield_user:1",
+        "Chat_Uses": true,
+        "Mode": 2,
+        "MaxUses": 0,
+        "CoolDown": 120
+      }
+    ]
+  },
+  {
+    "Name": "寒风",
+    "ShortName": "寒风",
+    "Color": "{default}",
+    "HammerID": 3413,
+    "GlowColor": [0,255,0,1],
+    "BlockPickup": false,
+    "AllowTransfer": true,
+    "ForceDrop": true,
+    "Chat": true,
+    "Hud": true,
+    "TriggerID": 0,
+    "UsePriority": true,
+    "AbilityList": [
+      {
+        "Name": "ice_wind_button",
+        "ButtonID": 3414,
+        "ButtonClass": "func_button",
+        "Filter": "hitem_wind_user:1",
+        "Chat_Uses": true,
+        "Mode": 2,
+        "MaxUses": 0,
+        "CoolDown": 60
+      }
+    ]
+  },
+  {
+    "Name": "ZM 冰环",
+    "ShortName": "ZM 冰环",
+    "Color": "{default}",
+    "HammerID": 2889,
+    "GlowColor": [0,255,0,1],
+    "BlockPickup": false,
+    "AllowTransfer": false,
+    "ForceDrop": false,
+    "Chat": true,
+    "Hud": true,
+    "TriggerID": 3057,
+    "UsePriority": true,
+    "AbilityList": [
+      {
+        "Name": "Circle_of_Winter_button",
+        "ButtonID": 3059,
+        "ButtonClass": "func_button",
+        "Filter": "zitem_Circle_of_Winter_user:1",
+        "Chat_Uses": true,
+        "Mode": 2,
+        "MaxUses": 0,
+        "CoolDown": 70
+      }
+    ]
+  },
+  {
+    "Name": "ZM 冰刺",
+    "ShortName": "ZM 冰刺",
+    "Color": "{default}",
+    "HammerID": 3400,
+    "GlowColor": [0,255,0,1],
+    "BlockPickup": false,
+    "AllowTransfer": false,
+    "ForceDrop": false,
+    "Chat": false,
+    "Hud": true,
+    "TriggerID": 3431,
+    "UsePriority": true,
+    "AbilityList": [
+      {
+        "Name": "item_flycutter_button",
+        "ButtonID": 3438,
+        "ButtonClass": "func_button",
+        "Filter": "zitem_flycutter_user:1",
+        "Chat_Uses": false,
+        "Mode": 1,
+        "MaxUses": 0,
+        "CoolDown": 0
+      }
+    ]
+  },
+  {
+    "Name": "恶魔契约",
+    "ShortName": "恶魔契约",
+    "Color": "{default}",
+    "HammerID": 3547,
+    "GlowColor": [0,255,0,1],
+    "BlockPickup": false,
+    "AllowTransfer": false,
+    "ForceDrop": false,
+    "Chat": false,
+    "Hud": true,
+    "TriggerID": 3541,
+    "UsePriority": false,
+    "AbilityList": [
+      {
+        "Name": "devilian_button",
+        "ButtonID": 3538,
+        "ButtonClass": "func_button",
+        "Filter": "hitem_devilian_user:1",
+        "Chat_Uses": true,
+        "Mode": 1,
+        "MaxUses": 0,
+        "CoolDown": 0
+      }
+    ]
+  },
+  {
+    "Name": "重力弓",
+    "ShortName": "重力弓",
+    "Color": "{default}",
+    "HammerID": 4207,
+    "GlowColor": [0,255,0,1],
+    "BlockPickup": false,
+    "AllowTransfer": true,
+    "ForceDrop": true,
+    "Chat": true,
+    "Hud": true,
+    "TriggerID": 0,
+    "UsePriority": true,
+    "AbilityList": [
+      {
+        "Name": "",
+        "ButtonID": 0,
+        "ButtonClass": "",
+        "Filter": "hitem_zhongli_user:1",
+        "Chat_Uses": false,
+        "Mode": 0,
+        "MaxUses": 0,
+        "CoolDown": 0
+      }
+    ]
+  },
+  {
+    "Name": "冰垒",
+    "ShortName": "冰垒",
+    "Color": "{default}",
+    "HammerID": 3616,
+    "GlowColor": [0,255,0,1],
+    "BlockPickup": false,
+    "AllowTransfer": true,
+    "ForceDrop": true,
+    "Chat": true,
+    "Hud": true,
+    "TriggerID": 0,
+    "UsePriority": true,
+    "AbilityList": [
+      {
+        "Name": "ice_barrier_button",
+        "ButtonID": 3202,
+        "ButtonClass": "func_button",
+        "Filter": "hitem_ice_barrier_user:1",
+        "Chat_Uses": true,
+        "Mode": 2,
+        "MaxUses": 0,
+        "CoolDown": 10
+      }
+    ]
+  },
+  {
+    "Name": "精灵法师",
+    "ShortName": "精灵法师",
+    "Color": "{default}",
+    "HammerID": 2120,
+    "GlowColor": [0,255,0,1],
+    "BlockPickup": false,
+    "AllowTransfer": false,
+    "ForceDrop": false,
+    "Chat": false,
+    "Hud": true,
+    "TriggerID": 1493,
+    "UsePriority": false,
+    "AbilityList": [
+      {
+        "Name": "elves_button",
+        "ButtonID": 1501,
+        "ButtonClass": "func_button",
+        "Filter": "elves_user:1",
+        "Chat_Uses": false,
+        "Mode": 1,
+        "MaxUses": 0,
+        "CoolDown": 0
+      }
+    ]
+  },
+  {
+    "Name": "ZM 雷沃尔熊人",
+    "ShortName": "ZM 雷沃尔熊人",
+    "Color": "{default}",
+    "HammerID": 2999,
+    "GlowColor": [0,255,0,1],
+    "BlockPickup": false,
+    "AllowTransfer": false,
+    "ForceDrop": false,
+    "Chat": false,
+    "Hud": true,
+    "TriggerID": 0,
+    "UsePriority": false,
+    "AbilityList": [
+      {
+        "Name": "grzzly_Thunder_bolt_1_button",
+        "ButtonID": 2992,
+        "ButtonClass": "func_button",
+        "Filter": "zitem_grzzly_user:1",
+        "Chat_Uses": false,
+        "Mode": 1,
+        "MaxUses": 0,
+        "CoolDown": 0
+      },
+      {
+        "Name": "grzzly_uit_button",
+        "ButtonID": 3015,
+        "ButtonClass": "func_button",
+        "Filter": "zitem_grzzly_user:1",
+        "Chat_Uses": false,
+        "Mode": 1,
+        "MaxUses": 0,
+        "CoolDown": 0
+      }
+    ]
+  },
+  {
+    "Name": "冰垒",
+    "ShortName": "冰垒",
+    "Color": "{default}",
+    "HammerID": 3616,
+    "GlowColor": [0,255,0,1],
+    "BlockPickup": false,
+    "AllowTransfer": true,
+    "ForceDrop": true,
+    "Chat": true,
+    "Hud": true,
+    "TriggerID": 0,
+    "UsePriority": true,
+    "AbilityList": [
+      {
+        "Name": "ice_barrier_button",
+        "ButtonID": 3202,
+        "ButtonClass": "func_button",
+        "Filter": "hitem_ice_barrier_user:1",
+        "Chat_Uses": true,
+        "Mode": 2,
+        "MaxUses": 0,
+        "CoolDown": 10
+      }
+    ]
+  },
+  {
+    "Name": "圣女",
+    "ShortName": "圣女",
+    "Color": "{default}",
+    "HammerID": 16038,
+    "GlowColor": [0,255,0,1],
+    "BlockPickup": false,
+    "AllowTransfer": false,
+    "ForceDrop": false,
+    "Chat": false,
+    "Hud": true,
+    "TriggerID": 0,
+    "UsePriority": false,
+    "AbilityList": [
+      {
+        "Name": "fashi_button1",
+        "ButtonID": 16045,
+        "ButtonClass": "func_button",
+        "Filter": "fashi_user:1",
+        "Chat_Uses": false,
+        "Mode": 1,
+        "MaxUses": 0,
+        "CoolDown": 0
+      }
+    ]
+  },
+  {
+    "Name": "ZM 隐秘老者",
+    "ShortName": "ZM 隐秘老者",
+    "Color": "{default}",
+    "HammerID": 16072,
+    "GlowColor": [0,255,0,1],
+    "BlockPickup": false,
+    "AllowTransfer": false,
+    "ForceDrop": false,
+    "Chat": false,
+    "Hud": true,
+    "TriggerID": 0,
+    "UsePriority": false,
+    "AbilityList": [
+      {
+        "Name": "laozhe_button1",
+        "ButtonID": 16080,
+        "ButtonClass": "func_button",
+        "Filter": "laozhe_user:1",
+        "Chat_Uses": true,
+        "Mode": 2,
+        "MaxUses": 0,
+        "CoolDown": 60
+      }
+    ]
+  },
+  {
+    "Name": "黑岩",
+    "ShortName": "黑岩",
+    "Color": "{default}",
+    "HammerID": 16128,
+    "GlowColor": [0,255,0,1],
+    "BlockPickup": false,
+    "AllowTransfer": false,
+    "ForceDrop": false,
+    "Chat": false,
+    "Hud": true,
+    "TriggerID": 0,
+    "UsePriority": false,
+    "AbilityList": [
+      {
+        "Name": "heiyan_luanshe_button",
+        "ButtonID": 16160,
+        "ButtonClass": "func_button",
+        "Filter": "heiyan:1",
+        "Chat_Uses": false,
+        "Mode": 1,
+        "MaxUses": 0,
+        "CoolDown": 0
+      },
+      {
+        "Name": "heiyan_atk2_button",
+        "ButtonID": 16179,
+        "ButtonClass": "func_button",
+        "Filter": "heiyan:1",
+        "Chat_Uses": false,
+        "Mode": 1,
+        "MaxUses": 0,
+        "CoolDown": 0
+      }
+    ]
+  }
 ]

@@ -1,314 +1,314 @@
 [
-	{
-		"Name": "水",
-		"ShortName": "水",
-		"Color": "{pink}",
-		"HammerID": 796,
-		"GlowColor": [0,255,0,1],
-		"BlockPickup": false,
-		"AllowTransfer": true,
-		"ForceDrop": true,
-		"Chat": true,
-		"Hud": true,
-		"TriggerID": 0,
-		"UsePriority": true,
-		"AbilityList": [
-			{
-				"Name": "Staff_Water_Button",
-				"ButtonID": 791,
-				"ButtonClass": "func_button",
-				"Filter": "$Player_Staff_Water",
-				"Chat_Uses": true,
-				"Mode": 2,
-				"MaxUses": 0,
-				"CoolDown": 65
-			}
-		]
-	},
-	{
-		"Name": "电",
-		"ShortName": "电",
-		"Color": "{pink}",
-		"HammerID": 828,
-		"GlowColor": [0,255,0,1],
-		"BlockPickup": false,
-		"AllowTransfer": true,
-		"ForceDrop": true,
-		"Chat": true,
-		"Hud": true,
-		"TriggerID": 0,
-		"UsePriority": true,
-		"AbilityList": [
-			{
-				"Name": "Staff_Electro_Button",
-				"ButtonID": 832,
-				"ButtonClass": "func_button",
-				"Filter": "$Player_Staff_Electro",
-				"Chat_Uses": true,
-				"Mode": 2,
-				"MaxUses": 0,
-				"CoolDown": 60
-			}
-		]
-	},
-	{
-		"Name": "火",
-		"ShortName": "火",
-		"Color": "{pink}",
-		"HammerID": 803,
-		"GlowColor": [0,255,0,1],
-		"BlockPickup": false,
-		"AllowTransfer": true,
-		"ForceDrop": true,
-		"Chat": true,
-		"Hud": true,
-		"TriggerID": 0,
-		"UsePriority": true,
-		"AbilityList": [
-			{
-				"Name": "Staff_Fire_Button",
-				"ButtonID": 807,
-				"ButtonClass": "func_button",
-				"Filter": "$Player_Staff_Fire",
-				"Chat_Uses": true,
-				"Mode": 2,
-				"MaxUses": 0,
-				"CoolDown": 60
-			}
-		]
-	},
-	{
-		"Name": "终极",
-		"ShortName": "终极",
-		"Color": "{pink}",
-		"HammerID": 816,
-		"GlowColor": [0,255,0,1],
-		"BlockPickup": false,
-		"AllowTransfer": true,
-		"ForceDrop": true,
-		"Chat": true,
-		"Hud": true,
-		"TriggerID": 0,
-		"UsePriority": true,
-		"AbilityList": [
-			{
-				"Name": "Staff_Holy_Button",
-				"ButtonID": 809,
-				"ButtonClass": "func_button",
-				"Filter": "$Player_Staff_Holy",
-				"Chat_Uses": true,
-				"Mode": 4,
-				"MaxUses": 1,
-				"CoolDown": 20
-			}
-		]
-	},
-	{
-		"Name": "土",
-		"ShortName": "土",
-		"Color": "{pink}",
-		"HammerID": 823,
-		"GlowColor": [0,255,0,1],
-		"BlockPickup": false,
-		"AllowTransfer": true,
-		"ForceDrop": true,
-		"Chat": true,
-		"Hud": true,
-		"TriggerID": 0,
-		"UsePriority": true,
-		"AbilityList": [
-			{
-				"Name": "Staff_Earth_Button",
-				"ButtonID": 797,
-				"ButtonClass": "func_button",
-				"Filter": "$Player_Staff_Earth",
-				"Chat_Uses": true,
-				"Mode": 2,
-				"MaxUses": 0,
-				"CoolDown": 65
-			}
-		]
-	},
-	{
-		"Name": "奶",
-		"ShortName": "奶",
-		"Color": "{pink}",
-		"HammerID": 818,
-		"GlowColor": [0,255,0,1],
-		"BlockPickup": false,
-		"AllowTransfer": true,
-		"ForceDrop": true,
-		"Chat": true,
-		"Hud": true,
-		"TriggerID": 0,
-		"UsePriority": true,
-		"AbilityList": [
-			{
-				"Name": "Staff_Heal_Button",
-				"ButtonID": 819,
-				"ButtonClass": "func_button",
-				"Filter": "$Player_Staff_Heal",
-				"Chat_Uses": true,
-				"Mode": 2,
-				"MaxUses": 0,
-				"CoolDown": 60
-			}
-		]
-	},
-	{
-		"Name": "风",
-		"ShortName": "风",
-		"Color": "{pink}",
-		"HammerID": 838,
-		"GlowColor": [0,255,0,1],
-		"BlockPickup": false,
-		"AllowTransfer": true,
-		"ForceDrop": true,
-		"Chat": true,
-		"Hud": true,
-		"TriggerID": 0,
-		"UsePriority": true,
-		"AbilityList": [
-			{
-				"Name": "Staff_Wind_Button",
-				"ButtonID": 834,
-				"ButtonClass": "func_button",
-				"Filter": "$Player_Staff_Wind",
-				"Chat_Uses": true,
-				"Mode": 2,
-				"MaxUses": 0,
-				"CoolDown": 65
-			}
-		]
-	},
-	{
-		"Name": "ZM 致盲",
-		"ShortName": "ZM 致盲",
-		"Color": "{pink}",
-		"HammerID": 486,
-		"GlowColor": [0,255,0,1],
-		"BlockPickup": false,
-		"AllowTransfer": false,
-		"ForceDrop": false,
-		"Chat": true,
-		"Hud": true,
-		"TriggerID": 484,
-		"UsePriority": true,
-		"AbilityList": [
-			{
-				"Name": "Knife_Blind_Button",
-				"ButtonID": 487,
-				"ButtonClass": "func_button",
-				"Filter": "$Player_Knife_Blind",
-				"Chat_Uses": true,
-				"Mode": 2,
-				"MaxUses": 0,
-				"CoolDown": 60
-			}
-		]
-	},
-	{
-		"Name": "ZM 隐身",
-		"ShortName": "ZM 隐身",
-		"Color": "{pink}",
-		"HammerID": 1078,
-		"GlowColor": [0,255,0,1],
-		"BlockPickup": false,
-		"AllowTransfer": false,
-		"ForceDrop": false,
-		"Chat": true,
-		"Hud": true,
-		"TriggerID": 1079,
-		"UsePriority": true,
-		"AbilityList": [
-			{
-				"Name": "Knife_Invis_Button",
-				"ButtonID": 1076,
-				"ButtonClass": "func_button",
-				"Filter": "$Player_Knife_Invis",
-				"Chat_Uses": false,
-				"Mode": 2,
-				"MaxUses": 0,
-				"CoolDown": 75
-			}
-		]
-	},
-	{
-		"Name": "ZM 秒杀",
-		"ShortName": "ZM 秒杀",
-		"Color": "{pink}",
-		"HammerID": 1070,
-		"GlowColor": [0,255,0,1],
-		"BlockPickup": false,
-		"AllowTransfer": false,
-		"ForceDrop": false,
-		"Chat": true,
-		"Hud": true,
-		"TriggerID": 1068,
-		"UsePriority": true,
-		"AbilityList": [
-			{
-				"Name": "Knife_Warp_Button",
-				"ButtonID": 1071,
-				"ButtonClass": "func_button",
-				"Filter": "$Player_Knife_Warp",
-				"Chat_Uses": true,
-				"Mode": 2,
-				"MaxUses": 0,
-				"CoolDown": 75
-			}
-		]
-	},
-	{
-		"Name": "ZM 黑洞",
-		"ShortName": "ZM 黑洞",
-		"Color": "{pink}",
-		"HammerID": 464,
-		"GlowColor": [0,255,0,1],
-		"BlockPickup": false,
-		"AllowTransfer": false,
-		"ForceDrop": false,
-		"Chat": true,
-		"Hud": true,
-		"TriggerID": 462,
-		"UsePriority": true,
-		"AbilityList": [
-			{
-				"Name": "Knife_Lure_Button",
-				"ButtonID": 467,
-				"ButtonClass": "func_button",
-				"Filter": "$Player_Knife_Lure",
-				"Chat_Uses": true,
-				"Mode": 2,
-				"MaxUses": 0,
-				"CoolDown": 90
-			}
-		]
-	},
-	{
-		"Name": "ZM 陆行鸟",
-		"ShortName": "ZM 陆行鸟",
-		"Color": "{pink}",
-		"HammerID": 1354,
-		"GlowColor": [0,255,0,1],
-		"BlockPickup": false,
-		"AllowTransfer": false,
-		"ForceDrop": false,
-		"Chat": true,
-		"Hud": true,
-		"TriggerID": 1352,
-		"UsePriority": true,
-		"AbilityList": [
-			{
-				"Name": "",
-				"ButtonID": 0,
-				"ButtonClass": "",
-				"Filter": "$Player_Knife_Choc",
-				"Chat_Uses": true,
-				"Mode": 1,
-				"MaxUses": 0,
-				"CoolDown": 0
-			}
-		]
-	}
+  {
+    "Name": "水",
+    "ShortName": "水",
+    "Color": "{pink}",
+    "HammerID": 796,
+    "GlowColor": [0,255,0,1],
+    "BlockPickup": false,
+    "AllowTransfer": true,
+    "ForceDrop": true,
+    "Chat": true,
+    "Hud": true,
+    "TriggerID": 0,
+    "UsePriority": true,
+    "AbilityList": [
+      {
+        "Name": "Staff_Water_Button",
+        "ButtonID": 791,
+        "ButtonClass": "func_button",
+        "Filter": "$Player_Staff_Water",
+        "Chat_Uses": true,
+        "Mode": 2,
+        "MaxUses": 0,
+        "CoolDown": 65
+      }
+    ]
+  },
+  {
+    "Name": "电",
+    "ShortName": "电",
+    "Color": "{pink}",
+    "HammerID": 828,
+    "GlowColor": [0,255,0,1],
+    "BlockPickup": false,
+    "AllowTransfer": true,
+    "ForceDrop": true,
+    "Chat": true,
+    "Hud": true,
+    "TriggerID": 0,
+    "UsePriority": true,
+    "AbilityList": [
+      {
+        "Name": "Staff_Electro_Button",
+        "ButtonID": 832,
+        "ButtonClass": "func_button",
+        "Filter": "$Player_Staff_Electro",
+        "Chat_Uses": true,
+        "Mode": 2,
+        "MaxUses": 0,
+        "CoolDown": 60
+      }
+    ]
+  },
+  {
+    "Name": "火",
+    "ShortName": "火",
+    "Color": "{pink}",
+    "HammerID": 803,
+    "GlowColor": [0,255,0,1],
+    "BlockPickup": false,
+    "AllowTransfer": true,
+    "ForceDrop": true,
+    "Chat": true,
+    "Hud": true,
+    "TriggerID": 0,
+    "UsePriority": true,
+    "AbilityList": [
+      {
+        "Name": "Staff_Fire_Button",
+        "ButtonID": 807,
+        "ButtonClass": "func_button",
+        "Filter": "$Player_Staff_Fire",
+        "Chat_Uses": true,
+        "Mode": 2,
+        "MaxUses": 0,
+        "CoolDown": 60
+      }
+    ]
+  },
+  {
+    "Name": "终极",
+    "ShortName": "终极",
+    "Color": "{pink}",
+    "HammerID": 816,
+    "GlowColor": [0,255,0,1],
+    "BlockPickup": false,
+    "AllowTransfer": true,
+    "ForceDrop": true,
+    "Chat": true,
+    "Hud": true,
+    "TriggerID": 0,
+    "UsePriority": true,
+    "AbilityList": [
+      {
+        "Name": "Staff_Holy_Button",
+        "ButtonID": 809,
+        "ButtonClass": "func_button",
+        "Filter": "$Player_Staff_Holy",
+        "Chat_Uses": true,
+        "Mode": 4,
+        "MaxUses": 1,
+        "CoolDown": 20
+      }
+    ]
+  },
+  {
+    "Name": "土",
+    "ShortName": "土",
+    "Color": "{pink}",
+    "HammerID": 823,
+    "GlowColor": [0,255,0,1],
+    "BlockPickup": false,
+    "AllowTransfer": true,
+    "ForceDrop": true,
+    "Chat": true,
+    "Hud": true,
+    "TriggerID": 0,
+    "UsePriority": true,
+    "AbilityList": [
+      {
+        "Name": "Staff_Earth_Button",
+        "ButtonID": 797,
+        "ButtonClass": "func_button",
+        "Filter": "$Player_Staff_Earth",
+        "Chat_Uses": true,
+        "Mode": 2,
+        "MaxUses": 0,
+        "CoolDown": 65
+      }
+    ]
+  },
+  {
+    "Name": "奶",
+    "ShortName": "奶",
+    "Color": "{pink}",
+    "HammerID": 818,
+    "GlowColor": [0,255,0,1],
+    "BlockPickup": false,
+    "AllowTransfer": true,
+    "ForceDrop": true,
+    "Chat": true,
+    "Hud": true,
+    "TriggerID": 0,
+    "UsePriority": true,
+    "AbilityList": [
+      {
+        "Name": "Staff_Heal_Button",
+        "ButtonID": 819,
+        "ButtonClass": "func_button",
+        "Filter": "$Player_Staff_Heal",
+        "Chat_Uses": true,
+        "Mode": 2,
+        "MaxUses": 0,
+        "CoolDown": 60
+      }
+    ]
+  },
+  {
+    "Name": "风",
+    "ShortName": "风",
+    "Color": "{pink}",
+    "HammerID": 838,
+    "GlowColor": [0,255,0,1],
+    "BlockPickup": false,
+    "AllowTransfer": true,
+    "ForceDrop": true,
+    "Chat": true,
+    "Hud": true,
+    "TriggerID": 0,
+    "UsePriority": true,
+    "AbilityList": [
+      {
+        "Name": "Staff_Wind_Button",
+        "ButtonID": 834,
+        "ButtonClass": "func_button",
+        "Filter": "$Player_Staff_Wind",
+        "Chat_Uses": true,
+        "Mode": 2,
+        "MaxUses": 0,
+        "CoolDown": 65
+      }
+    ]
+  },
+  {
+    "Name": "ZM 致盲",
+    "ShortName": "ZM 致盲",
+    "Color": "{pink}",
+    "HammerID": 486,
+    "GlowColor": [0,255,0,1],
+    "BlockPickup": false,
+    "AllowTransfer": false,
+    "ForceDrop": false,
+    "Chat": true,
+    "Hud": true,
+    "TriggerID": 484,
+    "UsePriority": true,
+    "AbilityList": [
+      {
+        "Name": "Knife_Blind_Button",
+        "ButtonID": 487,
+        "ButtonClass": "func_button",
+        "Filter": "$Player_Knife_Blind",
+        "Chat_Uses": true,
+        "Mode": 2,
+        "MaxUses": 0,
+        "CoolDown": 60
+      }
+    ]
+  },
+  {
+    "Name": "ZM 隐身",
+    "ShortName": "ZM 隐身",
+    "Color": "{pink}",
+    "HammerID": 1078,
+    "GlowColor": [0,255,0,1],
+    "BlockPickup": false,
+    "AllowTransfer": false,
+    "ForceDrop": false,
+    "Chat": true,
+    "Hud": true,
+    "TriggerID": 1079,
+    "UsePriority": true,
+    "AbilityList": [
+      {
+        "Name": "Knife_Invis_Button",
+        "ButtonID": 1076,
+        "ButtonClass": "func_button",
+        "Filter": "$Player_Knife_Invis",
+        "Chat_Uses": false,
+        "Mode": 2,
+        "MaxUses": 0,
+        "CoolDown": 75
+      }
+    ]
+  },
+  {
+    "Name": "ZM 秒杀",
+    "ShortName": "ZM 秒杀",
+    "Color": "{pink}",
+    "HammerID": 1070,
+    "GlowColor": [0,255,0,1],
+    "BlockPickup": false,
+    "AllowTransfer": false,
+    "ForceDrop": false,
+    "Chat": true,
+    "Hud": true,
+    "TriggerID": 1068,
+    "UsePriority": true,
+    "AbilityList": [
+      {
+        "Name": "Knife_Warp_Button",
+        "ButtonID": 1071,
+        "ButtonClass": "func_button",
+        "Filter": "$Player_Knife_Warp",
+        "Chat_Uses": true,
+        "Mode": 2,
+        "MaxUses": 0,
+        "CoolDown": 75
+      }
+    ]
+  },
+  {
+    "Name": "ZM 黑洞",
+    "ShortName": "ZM 黑洞",
+    "Color": "{pink}",
+    "HammerID": 464,
+    "GlowColor": [0,255,0,1],
+    "BlockPickup": false,
+    "AllowTransfer": false,
+    "ForceDrop": false,
+    "Chat": true,
+    "Hud": true,
+    "TriggerID": 462,
+    "UsePriority": true,
+    "AbilityList": [
+      {
+        "Name": "Knife_Lure_Button",
+        "ButtonID": 467,
+        "ButtonClass": "func_button",
+        "Filter": "$Player_Knife_Lure",
+        "Chat_Uses": true,
+        "Mode": 2,
+        "MaxUses": 0,
+        "CoolDown": 90
+      }
+    ]
+  },
+  {
+    "Name": "ZM 陆行鸟",
+    "ShortName": "ZM 陆行鸟",
+    "Color": "{pink}",
+    "HammerID": 1354,
+    "GlowColor": [0,255,0,1],
+    "BlockPickup": false,
+    "AllowTransfer": false,
+    "ForceDrop": false,
+    "Chat": true,
+    "Hud": true,
+    "TriggerID": 1352,
+    "UsePriority": true,
+    "AbilityList": [
+      {
+        "Name": "",
+        "ButtonID": 0,
+        "ButtonClass": "",
+        "Filter": "$Player_Knife_Choc",
+        "Chat_Uses": true,
+        "Mode": 1,
+        "MaxUses": 0,
+        "CoolDown": 0
+      }
+    ]
+  }
 ]

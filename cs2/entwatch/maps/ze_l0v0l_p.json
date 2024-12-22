@@ -1,482 +1,482 @@
 [
-	{
-		"Name": "奶/Heal",
-		"ShortName": "奶",
-		"Color": "{default}",
-		"HammerID": 532,
-		"GlowColor": [0,255,0,1],
-		"BlockPickup": false,
-		"AllowTransfer": true,
-		"ForceDrop": true,
-		"Chat": true,
-		"Hud": true,
-		"TriggerID": 0,
-		"UsePriority": true,
-		"AbilityList": [
-			{
-				"Name": "heal_button",
-				"ButtonID": 530,
-				"ButtonClass": "func_button",
-				"Filter": "",
-				"Chat_Uses": true,
-				"Mode": 2,
-				"MaxUses": 0,
-				"CoolDown": 65,
-				"Ignore": false,
-				"LockItem": false,
-				"MathID": 0,
-				"MathNameFix": false
-			}
-		]
-	},
-	{
-		"Name": "弹药/Ammo",
-		"ShortName": "弹药",
-		"Color": "{default}",
-		"HammerID": 535,
-		"GlowColor": [0,255,0,1],
-		"BlockPickup": false,
-		"AllowTransfer": true,
-		"ForceDrop": true,
-		"Chat": true,
-		"Hud": true,
-		"TriggerID": 0,
-		"UsePriority": true,
-		"AbilityList": [
-			{
-				"Name": "ammo_button",
-				"ButtonID": 536,
-				"ButtonClass": "func_button",
-				"Filter": "",
-				"Chat_Uses": true,
-				"Mode": 2,
-				"MaxUses": 0,
-				"CoolDown": 65,
-				"Ignore": false,
-				"LockItem": false,
-				"MathID": 0,
-				"MathNameFix": false
-			}
-		]
-	},
-	{
-		"Name": "激光/Beam",
-		"ShortName": "激光",
-		"Color": "{default}",
-		"HammerID": 652,
-		"GlowColor": [0,255,0,1],
-		"BlockPickup": false,
-		"AllowTransfer": true,
-		"ForceDrop": true,
-		"Chat": true,
-		"Hud": true,
-		"TriggerID": 0,
-		"UsePriority": true,
-		"AbilityList": [
-			{
-				"Name": "beam_button",
-				"ButtonID": 648,
-				"ButtonClass": "func_button",
-				"Filter": "",
-				"Chat_Uses": true,
-				"Mode": 2,
-				"MaxUses": 0,
-				"CoolDown": 65,
-				"Ignore": false,
-				"LockItem": false,
-				"MathID": 0,
-				"MathNameFix": false
-			}
-		]
-	},
-	{
-		"Name": "风/Wind",
-		"ShortName": "风",
-		"Color": "{default}",
-		"HammerID": 656,
-		"GlowColor": [0,255,0,1],
-		"BlockPickup": false,
-		"AllowTransfer": true,
-		"ForceDrop": true,
-		"Chat": true,
-		"Hud": true,
-		"TriggerID": 0,
-		"UsePriority": true,
-		"AbilityList": [
-			{
-				"Name": "wind_button",
-				"ButtonID": 657,
-				"ButtonClass": "func_button",
-				"Filter": "",
-				"Chat_Uses": true,
-				"Mode": 2,
-				"MaxUses": 0,
-				"CoolDown": 60,
-				"Ignore": false,
-				"LockItem": false,
-				"MathID": 0,
-				"MathNameFix": false
-			}
-		]
-	},
-	{
-		"Name": "l0v0l",
-		"ShortName": "l0v0l",
-		"Color": "{default}",
-		"HammerID": 795,
-		"GlowColor": [0,255,0,1],
-		"BlockPickup": false,
-		"AllowTransfer": true,
-		"ForceDrop": true,
-		"Chat": true,
-		"Hud": true,
-		"TriggerID": 0,
-		"UsePriority": true,
-		"AbilityList": [
-			{
-				"Name": "",
-				"ButtonID": 0,
-				"ButtonClass": "",
-				"Filter": "",
-				"Chat_Uses": false,
-				"Mode": 0,
-				"MaxUses": 0,
-				"CoolDown": 0,
-				"Ignore": false,
-				"LockItem": false,
-				"MathID": 0,
-				"MathNameFix": false
-			}
-		]
-	},
-	{
-		"Name": "减速带/Slower Sphere",
-		"ShortName": "减速带",
-		"Color": "{default}",
-		"HammerID": 853,
-		"GlowColor": [0,255,0,1],
-		"BlockPickup": false,
-		"AllowTransfer": true,
-		"ForceDrop": true,
-		"Chat": true,
-		"Hud": true,
-		"TriggerID": 0,
-		"UsePriority": true,
-		"AbilityList": [
-			{
-				"Name": "poison_button",
-				"ButtonID": 851,
-				"ButtonClass": "func_button",
-				"Filter": "",
-				"Chat_Uses": true,
-				"Mode": 2,
-				"MaxUses": 0,
-				"CoolDown": 70,
-				"Ignore": false,
-				"LockItem": false,
-				"MathID": 0,
-				"MathNameFix": false
-			}
-		]
-	},
-	{
-		"Name": "火马桶/Fire Toilet",
-		"ShortName": "火马桶",
-		"Color": "{default}",
-		"HammerID": 931,
-		"GlowColor": [0,255,0,1],
-		"BlockPickup": false,
-		"AllowTransfer": true,
-		"ForceDrop": true,
-		"Chat": true,
-		"Hud": true,
-		"TriggerID": 0,
-		"UsePriority": true,
-		"AbilityList": [
-			{
-				"Name": "firet_button",
-				"ButtonID": 926,
-				"ButtonClass": "func_button",
-				"Filter": "",
-				"Chat_Uses": true,
-				"Mode": 2,
-				"MaxUses": 0,
-				"CoolDown": 75,
-				"Ignore": false,
-				"LockItem": false,
-				"MathID": 0,
-				"MathNameFix": false
-			}
-		]
-	},
-	{
-		"Name": "冰马桶/Ice Toilet",
-		"ShortName": "冰马桶",
-		"Color": "{default}",
-		"HammerID": 936,
-		"GlowColor": [0,255,0,1],
-		"BlockPickup": false,
-		"AllowTransfer": true,
-		"ForceDrop": true,
-		"Chat": true,
-		"Hud": true,
-		"TriggerID": 0,
-		"UsePriority": true,
-		"AbilityList": [
-			{
-				"Name": "icet_button",
-				"ButtonID": 933,
-				"ButtonClass": "func_button",
-				"Filter": "",
-				"Chat_Uses": true,
-				"Mode": 2,
-				"MaxUses": 0,
-				"CoolDown": 75,
-				"Ignore": false,
-				"LockItem": false,
-				"MathID": 0,
-				"MathNameFix": false
-			}
-		]
-	},
-	{
-		"Name": "电马桶/Electric Toilet",
-		"ShortName": "电马桶",
-		"Color": "{default}",
-		"HammerID": 941,
-		"GlowColor": [0,255,0,1],
-		"BlockPickup": false,
-		"AllowTransfer": true,
-		"ForceDrop": true,
-		"Chat": true,
-		"Hud": true,
-		"TriggerID": 0,
-		"UsePriority": true,
-		"AbilityList": [
-			{
-				"Name": "elect_button",
-				"ButtonID": 943,
-				"ButtonClass": "func_button",
-				"Filter": "",
-				"Chat_Uses": true,
-				"Mode": 2,
-				"MaxUses": 0,
-				"CoolDown": 75,
-				"Ignore": false,
-				"LockItem": false,
-				"MathID": 0,
-				"MathNameFix": false
-			}
-		]
-	},
-	{
-		"Name": "毒马桶/Poison Toilet",
-		"ShortName": "毒马桶",
-		"Color": "{default}",
-		"HammerID": 950,
-		"GlowColor": [0,255,0,1],
-		"BlockPickup": false,
-		"AllowTransfer": true,
-		"ForceDrop": true,
-		"Chat": true,
-		"Hud": true,
-		"TriggerID": 0,
-		"UsePriority": true,
-		"AbilityList": [
-			{
-				"Name": "poisont_button",
-				"ButtonID": 947,
-				"ButtonClass": "func_button",
-				"Filter": "",
-				"Chat_Uses": true,
-				"Mode": 2,
-				"MaxUses": 0,
-				"CoolDown": 65,
-				"Ignore": false,
-				"LockItem": false,
-				"MathID": 0,
-				"MathNameFix": false
-			}
-		]
-	},
-	{
-		"Name": "黑洞马桶/Gravity Toile",
-		"ShortName": "黑洞马桶",
-		"Color": "{default}",
-		"HammerID": 955,
-		"GlowColor": [0,255,0,1],
-		"BlockPickup": false,
-		"AllowTransfer": true,
-		"ForceDrop": true,
-		"Chat": true,
-		"Hud": true,
-		"TriggerID": 0,
-		"UsePriority": true,
-		"AbilityList": [
-			{
-				"Name": "gravityt_button",
-				"ButtonID": 952,
-				"ButtonClass": "func_button",
-				"Filter": "",
-				"Chat_Uses": true,
-				"Mode": 2,
-				"MaxUses": 0,
-				"CoolDown": 75,
-				"Ignore": false,
-				"LockItem": false,
-				"MathID": 0,
-				"MathNameFix": false
-			}
-		]
-	},
-	{
-		"Name": "土马桶/Earth Toilet",
-		"ShortName": "土马桶",
-		"Color": "{default}",
-		"HammerID": 961,
-		"GlowColor": [0,255,0,1],
-		"BlockPickup": false,
-		"AllowTransfer": true,
-		"ForceDrop": true,
-		"Chat": true,
-		"Hud": true,
-		"TriggerID": 0,
-		"UsePriority": true,
-		"AbilityList": [
-			{
-				"Name": "eartht_button",
-				"ButtonID": 959,
-				"ButtonClass": "func_button",
-				"Filter": "",
-				"Chat_Uses": true,
-				"Mode": 2,
-				"MaxUses": 0,
-				"CoolDown": 75,
-				"Ignore": false,
-				"LockItem": false,
-				"MathID": 0,
-				"MathNameFix": false
-			}
-		]
-	},
-	{
-		"Name": "水马桶/Water Toilet",
-		"ShortName": "水马桶",
-		"Color": "{default}",
-		"HammerID": 966,
-		"GlowColor": [0,255,0,1],
-		"BlockPickup": false,
-		"AllowTransfer": true,
-		"ForceDrop": true,
-		"Chat": true,
-		"Hud": true,
-		"TriggerID": 0,
-		"UsePriority": true,
-		"AbilityList": [
-			{
-				"Name": "watert_button",
-				"ButtonID": 963,
-				"ButtonClass": "func_button",
-				"Filter": "",
-				"Chat_Uses": true,
-				"Mode": 2,
-				"MaxUses": 0,
-				"CoolDown": 75,
-				"Ignore": false,
-				"LockItem": false,
-				"MathID": 0,
-				"MathNameFix": false
-			}
-		]
-	},
-	{
-		"Name": "风马桶/Wind Toilet",
-		"ShortName": "风马桶",
-		"Color": "{default}",
-		"HammerID": 975,
-		"GlowColor": [0,255,0,1],
-		"BlockPickup": false,
-		"AllowTransfer": true,
-		"ForceDrop": true,
-		"Chat": true,
-		"Hud": true,
-		"TriggerID": 0,
-		"UsePriority": true,
-		"AbilityList": [
-			{
-				"Name": "pusht_button",
-				"ButtonID": 972,
-				"ButtonClass": "func_button",
-				"Filter": "",
-				"Chat_Uses": true,
-				"Mode": 2,
-				"MaxUses": 0,
-				"CoolDown": 75,
-				"Ignore": false,
-				"LockItem": false,
-				"MathID": 0,
-				"MathNameFix": false
-			}
-		]
-	},
-	{
-		"Name": "ZM 黑洞/Zombie Gravity",
-		"ShortName": "ZM 黑洞",
-		"Color": "{default}",
-		"HammerID": 548,
-		"GlowColor": [0,255,0,1],
-		"BlockPickup": false,
-		"AllowTransfer": false,
-		"ForceDrop": false,
-		"Chat": false,
-		"Hud": true,
-		"TriggerID": 546,
-		"UsePriority": true,
-		"AbilityList": [
-			{
-				"Name": "",
-				"ButtonID": 0,
-				"ButtonClass": "",
-				"Filter": "",
-				"Chat_Uses": false,
-				"Mode": 1,
-				"MaxUses": 0,
-				"CoolDown": 0,
-				"Ignore": false,
-				"LockItem": false,
-				"MathID": 0,
-				"MathNameFix": false
-			}
-		]
-	},
-	{
-		"Name": "ZM 治疗/Zombie Heal",
-		"ShortName": "ZM 治疗",
-		"Color": "{default}",
-		"HammerID": 569,
-		"GlowColor": [0,255,0,1],
-		"BlockPickup": false,
-		"AllowTransfer": false,
-		"ForceDrop": false,
-		"Chat": true,
-		"Hud": true,
-		"TriggerID": 0,
-		"UsePriority": true,
-		"AbilityList": [
-			{
-				"Name": "",
-				"ButtonID": 0,
-				"ButtonClass": "",
-				"Filter": "",
-				"Chat_Uses": false,
-				"Mode": 1,
-				"MaxUses": 0,
-				"CoolDown": 0,
-				"Ignore": false,
-				"LockItem": false,
-				"MathID": 0,
-				"MathNameFix": false
-			}
-		]
-	}
+  {
+    "Name": "奶/Heal",
+    "ShortName": "奶",
+    "Color": "{default}",
+    "HammerID": 532,
+    "GlowColor": [0,255,0,1],
+    "BlockPickup": false,
+    "AllowTransfer": true,
+    "ForceDrop": true,
+    "Chat": true,
+    "Hud": true,
+    "TriggerID": 0,
+    "UsePriority": true,
+    "AbilityList": [
+      {
+        "Name": "heal_button",
+        "ButtonID": 530,
+        "ButtonClass": "func_button",
+        "Filter": "",
+        "Chat_Uses": true,
+        "Mode": 2,
+        "MaxUses": 0,
+        "CoolDown": 65,
+        "Ignore": false,
+        "LockItem": false,
+        "MathID": 0,
+        "MathNameFix": false
+      }
+    ]
+  },
+  {
+    "Name": "弹药/Ammo",
+    "ShortName": "弹药",
+    "Color": "{default}",
+    "HammerID": 535,
+    "GlowColor": [0,255,0,1],
+    "BlockPickup": false,
+    "AllowTransfer": true,
+    "ForceDrop": true,
+    "Chat": true,
+    "Hud": true,
+    "TriggerID": 0,
+    "UsePriority": true,
+    "AbilityList": [
+      {
+        "Name": "ammo_button",
+        "ButtonID": 536,
+        "ButtonClass": "func_button",
+        "Filter": "",
+        "Chat_Uses": true,
+        "Mode": 2,
+        "MaxUses": 0,
+        "CoolDown": 65,
+        "Ignore": false,
+        "LockItem": false,
+        "MathID": 0,
+        "MathNameFix": false
+      }
+    ]
+  },
+  {
+    "Name": "激光/Beam",
+    "ShortName": "激光",
+    "Color": "{default}",
+    "HammerID": 652,
+    "GlowColor": [0,255,0,1],
+    "BlockPickup": false,
+    "AllowTransfer": true,
+    "ForceDrop": true,
+    "Chat": true,
+    "Hud": true,
+    "TriggerID": 0,
+    "UsePriority": true,
+    "AbilityList": [
+      {
+        "Name": "beam_button",
+        "ButtonID": 648,
+        "ButtonClass": "func_button",
+        "Filter": "",
+        "Chat_Uses": true,
+        "Mode": 2,
+        "MaxUses": 0,
+        "CoolDown": 65,
+        "Ignore": false,
+        "LockItem": false,
+        "MathID": 0,
+        "MathNameFix": false
+      }
+    ]
+  },
+  {
+    "Name": "风/Wind",
+    "ShortName": "风",
+    "Color": "{default}",
+    "HammerID": 656,
+    "GlowColor": [0,255,0,1],
+    "BlockPickup": false,
+    "AllowTransfer": true,
+    "ForceDrop": true,
+    "Chat": true,
+    "Hud": true,
+    "TriggerID": 0,
+    "UsePriority": true,
+    "AbilityList": [
+      {
+        "Name": "wind_button",
+        "ButtonID": 657,
+        "ButtonClass": "func_button",
+        "Filter": "",
+        "Chat_Uses": true,
+        "Mode": 2,
+        "MaxUses": 0,
+        "CoolDown": 60,
+        "Ignore": false,
+        "LockItem": false,
+        "MathID": 0,
+        "MathNameFix": false
+      }
+    ]
+  },
+  {
+    "Name": "l0v0l",
+    "ShortName": "l0v0l",
+    "Color": "{default}",
+    "HammerID": 795,
+    "GlowColor": [0,255,0,1],
+    "BlockPickup": false,
+    "AllowTransfer": true,
+    "ForceDrop": true,
+    "Chat": true,
+    "Hud": true,
+    "TriggerID": 0,
+    "UsePriority": true,
+    "AbilityList": [
+      {
+        "Name": "",
+        "ButtonID": 0,
+        "ButtonClass": "",
+        "Filter": "",
+        "Chat_Uses": false,
+        "Mode": 0,
+        "MaxUses": 0,
+        "CoolDown": 0,
+        "Ignore": false,
+        "LockItem": false,
+        "MathID": 0,
+        "MathNameFix": false
+      }
+    ]
+  },
+  {
+    "Name": "减速带/Slower Sphere",
+    "ShortName": "减速带",
+    "Color": "{default}",
+    "HammerID": 853,
+    "GlowColor": [0,255,0,1],
+    "BlockPickup": false,
+    "AllowTransfer": true,
+    "ForceDrop": true,
+    "Chat": true,
+    "Hud": true,
+    "TriggerID": 0,
+    "UsePriority": true,
+    "AbilityList": [
+      {
+        "Name": "poison_button",
+        "ButtonID": 851,
+        "ButtonClass": "func_button",
+        "Filter": "",
+        "Chat_Uses": true,
+        "Mode": 2,
+        "MaxUses": 0,
+        "CoolDown": 70,
+        "Ignore": false,
+        "LockItem": false,
+        "MathID": 0,
+        "MathNameFix": false
+      }
+    ]
+  },
+  {
+    "Name": "火马桶/Fire Toilet",
+    "ShortName": "火马桶",
+    "Color": "{default}",
+    "HammerID": 931,
+    "GlowColor": [0,255,0,1],
+    "BlockPickup": false,
+    "AllowTransfer": true,
+    "ForceDrop": true,
+    "Chat": true,
+    "Hud": true,
+    "TriggerID": 0,
+    "UsePriority": true,
+    "AbilityList": [
+      {
+        "Name": "firet_button",
+        "ButtonID": 926,
+        "ButtonClass": "func_button",
+        "Filter": "",
+        "Chat_Uses": true,
+        "Mode": 2,
+        "MaxUses": 0,
+        "CoolDown": 75,
+        "Ignore": false,
+        "LockItem": false,
+        "MathID": 0,
+        "MathNameFix": false
+      }
+    ]
+  },
+  {
+    "Name": "冰马桶/Ice Toilet",
+    "ShortName": "冰马桶",
+    "Color": "{default}",
+    "HammerID": 936,
+    "GlowColor": [0,255,0,1],
+    "BlockPickup": false,
+    "AllowTransfer": true,
+    "ForceDrop": true,
+    "Chat": true,
+    "Hud": true,
+    "TriggerID": 0,
+    "UsePriority": true,
+    "AbilityList": [
+      {
+        "Name": "icet_button",
+        "ButtonID": 933,
+        "ButtonClass": "func_button",
+        "Filter": "",
+        "Chat_Uses": true,
+        "Mode": 2,
+        "MaxUses": 0,
+        "CoolDown": 75,
+        "Ignore": false,
+        "LockItem": false,
+        "MathID": 0,
+        "MathNameFix": false
+      }
+    ]
+  },
+  {
+    "Name": "电马桶/Electric Toilet",
+    "ShortName": "电马桶",
+    "Color": "{default}",
+    "HammerID": 941,
+    "GlowColor": [0,255,0,1],
+    "BlockPickup": false,
+    "AllowTransfer": true,
+    "ForceDrop": true,
+    "Chat": true,
+    "Hud": true,
+    "TriggerID": 0,
+    "UsePriority": true,
+    "AbilityList": [
+      {
+        "Name": "elect_button",
+        "ButtonID": 943,
+        "ButtonClass": "func_button",
+        "Filter": "",
+        "Chat_Uses": true,
+        "Mode": 2,
+        "MaxUses": 0,
+        "CoolDown": 75,
+        "Ignore": false,
+        "LockItem": false,
+        "MathID": 0,
+        "MathNameFix": false
+      }
+    ]
+  },
+  {
+    "Name": "毒马桶/Poison Toilet",
+    "ShortName": "毒马桶",
+    "Color": "{default}",
+    "HammerID": 950,
+    "GlowColor": [0,255,0,1],
+    "BlockPickup": false,
+    "AllowTransfer": true,
+    "ForceDrop": true,
+    "Chat": true,
+    "Hud": true,
+    "TriggerID": 0,
+    "UsePriority": true,
+    "AbilityList": [
+      {
+        "Name": "poisont_button",
+        "ButtonID": 947,
+        "ButtonClass": "func_button",
+        "Filter": "",
+        "Chat_Uses": true,
+        "Mode": 2,
+        "MaxUses": 0,
+        "CoolDown": 65,
+        "Ignore": false,
+        "LockItem": false,
+        "MathID": 0,
+        "MathNameFix": false
+      }
+    ]
+  },
+  {
+    "Name": "黑洞马桶/Gravity Toile",
+    "ShortName": "黑洞马桶",
+    "Color": "{default}",
+    "HammerID": 955,
+    "GlowColor": [0,255,0,1],
+    "BlockPickup": false,
+    "AllowTransfer": true,
+    "ForceDrop": true,
+    "Chat": true,
+    "Hud": true,
+    "TriggerID": 0,
+    "UsePriority": true,
+    "AbilityList": [
+      {
+        "Name": "gravityt_button",
+        "ButtonID": 952,
+        "ButtonClass": "func_button",
+        "Filter": "",
+        "Chat_Uses": true,
+        "Mode": 2,
+        "MaxUses": 0,
+        "CoolDown": 75,
+        "Ignore": false,
+        "LockItem": false,
+        "MathID": 0,
+        "MathNameFix": false
+      }
+    ]
+  },
+  {
+    "Name": "土马桶/Earth Toilet",
+    "ShortName": "土马桶",
+    "Color": "{default}",
+    "HammerID": 961,
+    "GlowColor": [0,255,0,1],
+    "BlockPickup": false,
+    "AllowTransfer": true,
+    "ForceDrop": true,
+    "Chat": true,
+    "Hud": true,
+    "TriggerID": 0,
+    "UsePriority": true,
+    "AbilityList": [
+      {
+        "Name": "eartht_button",
+        "ButtonID": 959,
+        "ButtonClass": "func_button",
+        "Filter": "",
+        "Chat_Uses": true,
+        "Mode": 2,
+        "MaxUses": 0,
+        "CoolDown": 75,
+        "Ignore": false,
+        "LockItem": false,
+        "MathID": 0,
+        "MathNameFix": false
+      }
+    ]
+  },
+  {
+    "Name": "水马桶/Water Toilet",
+    "ShortName": "水马桶",
+    "Color": "{default}",
+    "HammerID": 966,
+    "GlowColor": [0,255,0,1],
+    "BlockPickup": false,
+    "AllowTransfer": true,
+    "ForceDrop": true,
+    "Chat": true,
+    "Hud": true,
+    "TriggerID": 0,
+    "UsePriority": true,
+    "AbilityList": [
+      {
+        "Name": "watert_button",
+        "ButtonID": 963,
+        "ButtonClass": "func_button",
+        "Filter": "",
+        "Chat_Uses": true,
+        "Mode": 2,
+        "MaxUses": 0,
+        "CoolDown": 75,
+        "Ignore": false,
+        "LockItem": false,
+        "MathID": 0,
+        "MathNameFix": false
+      }
+    ]
+  },
+  {
+    "Name": "风马桶/Wind Toilet",
+    "ShortName": "风马桶",
+    "Color": "{default}",
+    "HammerID": 975,
+    "GlowColor": [0,255,0,1],
+    "BlockPickup": false,
+    "AllowTransfer": true,
+    "ForceDrop": true,
+    "Chat": true,
+    "Hud": true,
+    "TriggerID": 0,
+    "UsePriority": true,
+    "AbilityList": [
+      {
+        "Name": "pusht_button",
+        "ButtonID": 972,
+        "ButtonClass": "func_button",
+        "Filter": "",
+        "Chat_Uses": true,
+        "Mode": 2,
+        "MaxUses": 0,
+        "CoolDown": 75,
+        "Ignore": false,
+        "LockItem": false,
+        "MathID": 0,
+        "MathNameFix": false
+      }
+    ]
+  },
+  {
+    "Name": "ZM 黑洞/Zombie Gravity",
+    "ShortName": "ZM 黑洞",
+    "Color": "{default}",
+    "HammerID": 548,
+    "GlowColor": [0,255,0,1],
+    "BlockPickup": false,
+    "AllowTransfer": false,
+    "ForceDrop": false,
+    "Chat": false,
+    "Hud": true,
+    "TriggerID": 546,
+    "UsePriority": true,
+    "AbilityList": [
+      {
+        "Name": "",
+        "ButtonID": 0,
+        "ButtonClass": "",
+        "Filter": "",
+        "Chat_Uses": false,
+        "Mode": 1,
+        "MaxUses": 0,
+        "CoolDown": 0,
+        "Ignore": false,
+        "LockItem": false,
+        "MathID": 0,
+        "MathNameFix": false
+      }
+    ]
+  },
+  {
+    "Name": "ZM 治疗/Zombie Heal",
+    "ShortName": "ZM 治疗",
+    "Color": "{default}",
+    "HammerID": 569,
+    "GlowColor": [0,255,0,1],
+    "BlockPickup": false,
+    "AllowTransfer": false,
+    "ForceDrop": false,
+    "Chat": true,
+    "Hud": true,
+    "TriggerID": 0,
+    "UsePriority": true,
+    "AbilityList": [
+      {
+        "Name": "",
+        "ButtonID": 0,
+        "ButtonClass": "",
+        "Filter": "",
+        "Chat_Uses": false,
+        "Mode": 1,
+        "MaxUses": 0,
+        "CoolDown": 0,
+        "Ignore": false,
+        "LockItem": false,
+        "MathID": 0,
+        "MathNameFix": false
+      }
+    ]
+  }
 ]
