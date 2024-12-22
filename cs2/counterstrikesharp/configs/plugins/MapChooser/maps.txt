@@ -2651,7 +2651,7 @@
 	}
 	"ze_rtcw_ominous_rumors_p"
 	{
-		"workshop_id"		"3374169784"
+		"workshop_id"		"3379185817"
 		"enabled"		"1"
 		"filename"		"ze_rtcw_ominous_rumors_p"
 		"updatedname"		"ze_rtcw_ominous_rumors_p"
@@ -2803,5 +2803,42 @@
 		"filename"		"ze_obj_redemption"
 		"updatedname"		"ze_obj_redemption"
 		"RestrictedTimes"	"00:00-12:00;23:00-23:59"
+	}
+	"ze_icecap_escape_ia_super"
+	{
+		"workshop_id"		"3383484740"
+		"enabled"		"1"
+		"filename"		"ze_icecap_escape_ia_super"
+		"updatedname"		"ze_icecap_escape_ia_super"
+	}
+	"ze_the_curse_of_blackwater"
+	{
+		"workshop_id"		"3385381348"
+		"enabled"		"1"
+		"filename"		"ze_the_curse_of_blackwater"
+		"updatedname"		"ze_the_curse_of_blackwater"
+	}
+	"ze_surf_happy"
+	{
+		"workshop_id"		"3386114661"
+		"enabled"		"1"
+		"filename"		"ze_surf_happy"
+		"updatedname"		"ze_surf_happy"
+		"search"		"快乐滑翔"
+		"RestrictedTimes"	"00:00-12:00;20:00-23:59"
+	}
+	"ze_apprehended"
+	{
+		"workshop_id"		"3386454337"
+		"enabled"		"1"
+		"filename"		"ze_apprehended"
+		"updatedname"		"ze_apprehended"
+	}
+	"ze_lila_panic_escape_p"
+	{
+		"workshop_id"		"3387818506"
+		"enabled"		"1"
+		"filename"		"ze_lila_panic_escape_p"
+		"updatedname"		"ze_lila_panic_escape_p"
 	}
 }
