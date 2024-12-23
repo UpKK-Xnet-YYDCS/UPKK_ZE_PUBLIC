@@ -1,0 +1,80 @@
+[
+  {
+    "Name": "小鸟游星野",
+    "ShortName": "小鸟游星野",
+    "Color": "{default}",
+    "HammerID": "17762",
+    "GlowColor": [0,255,0,1],
+    "BlockPickup": false,
+    "AllowTransfer": true,
+    "ForceDrop": true,
+    "Chat": true,
+    "Hud": true,
+    "TriggerID": 17763,
+    "UsePriority": false,
+    "AbilityList": [
+      {
+        "Name": "hoshino_EX_button",
+        "ButtonID": 17800,
+        "ButtonClass": "func_button",
+        "Filter": "hoshino:1",
+        "Chat_Uses": true,
+        "Mode": 2,
+        "MaxUses": 0,
+        "CoolDown": 60
+      }
+    ]
+  },
+  {
+    "Name": "阿洛娜免费十连抽",
+    "ShortName": "阿洛娜免费十连抽",
+    "Color": "{default}",
+    "HammerID": "18009",
+    "GlowColor": [0,255,0,1],
+    "BlockPickup": false,
+    "AllowTransfer": true,
+    "ForceDrop": true,
+    "Chat": true,
+    "Hud": true,
+    "TriggerID": 0,
+    "UsePriority": true,
+    "AbilityList": [
+      {
+        "Name": "arona_card_button",
+        "ButtonID": 18007,
+        "ButtonClass": "func_button",
+        "Filter": "arona_card_user:1",
+        "Chat_Uses": true,
+        "Mode": 2,
+        "MaxUses": 0,
+        "CoolDown": 40
+      }
+    ]
+  },
+  {
+    "Name": "奥空绫音",
+    "ShortName": "奥空绫音",
+    "Color": "{default}",
+    "HammerID": "18074",
+    "GlowColor": [0,255,0,1],
+    "BlockPickup": false,
+    "AllowTransfer": true,
+    "ForceDrop": true,
+    "Chat": true,
+    "Hud": true,
+    "TriggerID": 0,
+    "UsePriority": true,
+    "AbilityList": [
+      {
+        "Name": "ayane_healdrone_button",
+        "ButtonID": 18071,
+        "ButtonClass": "func_button",
+        "Filter": "ayane_healdrone_user:1",
+        "Chat_Uses": true,
+        "Mode": 2,
+        "MaxUses": 0,
+        "CoolDown": 60
+      }
+    ]
+  }
+]
