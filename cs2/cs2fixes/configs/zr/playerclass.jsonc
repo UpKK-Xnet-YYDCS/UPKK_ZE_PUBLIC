@@ -111,10 +111,10 @@
 		"MotherZombie": {
 			"enabled": true,
 			"team_default": false,
-			"health": 20000,
+			"health": 25250,
 			"models": [
 				{
-					"modelname": "characters/models/police/93xpolice.vmdl",
+					"modelname": "characters/models/upkk_male/santa/santa.vmdl",
 					"color": "255 100 100",
 					"skins": 0
 				}
