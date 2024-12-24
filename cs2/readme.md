@@ -53,6 +53,7 @@
 - !leaderhelp 显示帮助指令
 - !def b <可选参数 #玩家id或者玩家名> 放置b图标 也可以是BCDE (备注:输入一次后系统将记住您的图标 再次输入 !def 则会是相同的类型 例如 b)
 - !defauto 自动放置标记 固定模式 abcde 按顺序自动放置,此项绑定游戏 player_ping 因此鼠标中键有效.
-- !def_range 50~2000 允许设置放置标记的距离
+- !def_range 50~2000 允许设置放置标记的距离(Cookie储存)
+- !def_height 20~500 允许设置放置标记的高度(Cookie储存)
 - !defl 效果同上,区别就是图标会follow跟随头顶
 - 可以给别人上效果 例如#userid 或者 名字 以及 @me
