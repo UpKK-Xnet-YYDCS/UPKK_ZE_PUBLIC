@@ -26,8 +26,8 @@
     ]
   },
   {
-    "Name": "item_goliath_knife",
-    "ShortName": "item_goliath_knife",
+    "Name": "item_goliath_knife&0000",
+    "ShortName": "item_goliath_knife&0000",
     "Color": "{default}",
     "HammerID": "5093",
     "GlowColor": [0,255,0,1],
@@ -52,8 +52,8 @@
     ]
   },
   {
-    "Name": "item_dohva_knife",
-    "ShortName": "item_dohva_knife",
+    "Name": "item_dohva_knife&0000",
+    "ShortName": "item_dohva_knife&0000",
     "Color": "{default}",
     "HammerID": "5007",
     "GlowColor": [0,255,0,1],
@@ -78,8 +78,8 @@
     ]
   },
   {
-    "Name": "Item_kirito_knife",
-    "ShortName": "Item_kirito_knife",
+    "Name": "Item_kirito_knife&0000",
+    "ShortName": "Item_kirito_knife&0000",
     "Color": "{default}",
     "HammerID": "5238",
     "GlowColor": [0,255,0,1],
@@ -104,8 +104,8 @@
     ]
   },
   {
-    "Name": "item_neputn_knife",
-    "ShortName": "item_neputn_knife",
+    "Name": "item_neputn_knife&0000",
+    "ShortName": "item_neputn_knife&0000",
     "Color": "{default}",
     "HammerID": "5257",
     "GlowColor": [0,255,0,1],
@@ -130,8 +130,8 @@
     ]
   },
   {
-    "Name": "item_gandalf_knife",
-    "ShortName": "item_gandalf_knife",
+    "Name": "item_gandalf_knife&0000",
+    "ShortName": "item_gandalf_knife&0000",
     "Color": "{default}",
     "HammerID": "5311",
     "GlowColor": [0,255,0,1],
@@ -156,8 +156,8 @@
     ]
   },
   {
-    "Name": "item_balrog_knife",
-    "ShortName": "item_balrog_knife",
+    "Name": "item_balrog_knife&0000",
+    "ShortName": "item_balrog_knife&0000",
     "Color": "{default}",
     "HammerID": "5340",
     "GlowColor": [0,255,0,1],
@@ -182,8 +182,8 @@
     ]
   },
   {
-    "Name": "item_slow_knife",
-    "ShortName": "item_slow_knife",
+    "Name": "item_slow_knife&0000",
+    "ShortName": "item_slow_knife&0000",
     "Color": "{default}",
     "HammerID": "5355",
     "GlowColor": [0,255,0,1],
@@ -208,8 +208,34 @@
     ]
   },
   {
-    "Name": "item_giant_knife",
-    "ShortName": "item_giant_knife",
+    "Name": "item_dp_knife&0000",
+    "ShortName": "item_dp_knife&0000",
+    "Color": "{default}",
+    "HammerID": "5387",
+    "GlowColor": [0,255,0,1],
+    "BlockPickup": false,
+    "AllowTransfer": true,
+    "ForceDrop": true,
+    "Chat": true,
+    "Hud": true,
+    "TriggerID": 0,
+    "UsePriority": true,
+    "AbilityList": [
+      {
+        "Name": "weapon_knife",
+        "ButtonID": 0,
+        "ButtonClass": "func_button",
+        "Filter": "",
+        "Chat_Uses": true,
+        "Mode": 1,
+        "MaxUses": 0,
+        "CoolDown": 0
+      }
+    ]
+  },
+  {
+    "Name": "item_giant_knife&0000",
+    "ShortName": "item_giant_knife&0000",
     "Color": "{default}",
     "HammerID": "5406",
     "GlowColor": [0,255,0,1],
@@ -234,8 +260,8 @@
     ]
   },
   {
-    "Name": "item_Alex_knife",
-    "ShortName": "item_Alex_knife",
+    "Name": "item_Alex_knife&0000",
+    "ShortName": "item_Alex_knife&0000",
     "Color": "{default}",
     "HammerID": "5410",
     "GlowColor": [0,255,0,1],
@@ -260,8 +286,8 @@
     ]
   },
   {
-    "Name": "item_Xiaoxx_knife",
-    "ShortName": "item_Xiaoxx_knife",
+    "Name": "item_Xiaoxx_knife&0000",
+    "ShortName": "item_Xiaoxx_knife&0000",
     "Color": "{default}",
     "HammerID": "5480",
     "GlowColor": [0,255,0,1],
@@ -312,8 +338,8 @@
     ]
   },
   {
-    "Name": "item_daedric_knife",
-    "ShortName": "item_daedric_knife",
+    "Name": "item_daedric_knife&0000",
+    "ShortName": "item_daedric_knife&0000",
     "Color": "{default}",
     "HammerID": "5166",
     "GlowColor": [0,255,0,1],
@@ -327,6 +353,32 @@
     "AbilityList": [
       {
         "Name": "weapon_knife",
+        "ButtonID": 0,
+        "ButtonClass": "func_button",
+        "Filter": "",
+        "Chat_Uses": true,
+        "Mode": 1,
+        "MaxUses": 0,
+        "CoolDown": 0
+      }
+    ]
+  },
+  {
+    "Name": "Item_sabi1",
+    "ShortName": "Item_sabi1",
+    "Color": "{default}",
+    "HammerID": "1466",
+    "GlowColor": [0,255,0,1],
+    "BlockPickup": false,
+    "AllowTransfer": true,
+    "ForceDrop": true,
+    "Chat": true,
+    "Hud": true,
+    "TriggerID": 0,
+    "UsePriority": true,
+    "AbilityList": [
+      {
+        "Name": "weapon_elite",
         "ButtonID": 0,
         "ButtonClass": "func_button",
         "Filter": "",
@@ -416,10 +468,10 @@
     ]
   },
   {
-    "Name": "item_dp_knife",
-    "ShortName": "item_dp_knife",
+    "Name": "kirito_promax_knife",
+    "ShortName": "kirito_promax_knife",
     "Color": "{default}",
-    "HammerID": "5387",
+    "HammerID": "5809",
     "GlowColor": [0,255,0,1],
     "BlockPickup": false,
     "AllowTransfer": true,
@@ -442,10 +494,36 @@
     ]
   },
   {
-    "Name": "kirito_promax_knife",
-    "ShortName": "kirito_promax_knife",
+    "Name": "alex2_knife",
+    "ShortName": "alex2_knife",
     "Color": "{default}",
-    "HammerID": "5809",
+    "HammerID": "6061",
+    "GlowColor": [0,255,0,1],
+    "BlockPickup": false,
+    "AllowTransfer": true,
+    "ForceDrop": true,
+    "Chat": true,
+    "Hud": true,
+    "TriggerID": 0,
+    "UsePriority": true,
+    "AbilityList": [
+      {
+        "Name": "weapon_knife",
+        "ButtonID": 0,
+        "ButtonClass": "func_button",
+        "Filter": "",
+        "Chat_Uses": true,
+        "Mode": 1,
+        "MaxUses": 0,
+        "CoolDown": 0
+      }
+    ]
+  },
+  {
+    "Name": "gene_knife",
+    "ShortName": "gene_knife",
+    "Color": "{default}",
+    "HammerID": "6119",
     "GlowColor": [0,255,0,1],
     "BlockPickup": false,
     "AllowTransfer": true,
