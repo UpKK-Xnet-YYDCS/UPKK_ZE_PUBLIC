@@ -93,7 +93,7 @@
     "translation": "**守住，别让僵尸突破**"
   },
   ">> PLAYER HAS PICKED UP ELECTRO <<": {
-    "translation": ">>>电神器已被拾取（服务器已附加轻微减速）<<<"
+    "translation": ">>>电神器已被拾取<<<"
   },
   ">> PLAYER HAS PICKED UP FIRE <<": {
     "translation": "**火神器已被拾取**"
@@ -243,7 +243,7 @@
   "*** HOLD WHILE WE OPEN THE WAY ***": {
     "translation": "**15秒，守到我们把道路弄开**"
   },
-  ">> ITS A DEAD END !! <<": {
+  ">> IT'S A DEAD END !! <<": {
     "translation": "**不好，是死路**"
   },
   ">> THE MOLE WILL HELP US GET OUT <<": {
@@ -605,8 +605,5 @@
   },
   ">> WE NEED TO KILL HIM BEFORE IT'S TOO LATE !! <<": {
     "translation": "我们必须在它逃掉之前将其击败"
-  },
-  ">> IT'S A DEAD END !! <<": {
-    "translation": ""
   }
 }
