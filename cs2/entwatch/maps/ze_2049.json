@@ -1,7 +1,7 @@
 [
   {
-    "Name": "human_cone_elite",
-    "ShortName": "human_cone_elite",
+    "Name": "圆锥",
+    "ShortName": "圆锥",
     "Color": "{default}",
     "HammerID": "4185",
     "GlowColor": [0,255,0,1],
@@ -14,20 +14,20 @@
     "UsePriority": true,
     "AbilityList": [
       {
-        "Name": "weapon_p250",
-        "ButtonID": 0,
-        "ButtonClass": "",
-        "Filter": "",
+        "Name": "human_cone_button",
+        "ButtonID": 16906,
+        "ButtonClass": "func_button",
+        "Filter": "player_human_cone",
         "Chat_Uses": true,
-        "Mode": 1,
+        "Mode": 2,
         "MaxUses": 0,
-        "CoolDown": 0
+        "CoolDown": 70
       }
     ]
   },
   {
-    "Name": "human_beam_elite",
-    "ShortName": "human_beam_elite",
+    "Name": "激光",
+    "ShortName": "激光",
     "Color": "{default}",
     "HammerID": "4162",
     "GlowColor": [0,255,0,1],
@@ -40,20 +40,20 @@
     "UsePriority": true,
     "AbilityList": [
       {
-        "Name": "weapon_p250",
-        "ButtonID": 0,
-        "ButtonClass": "",
-        "Filter": "",
+        "Name": "human_beam_button",
+        "ButtonID": 16902,
+        "ButtonClass": "func_button",
+        "Filter": "player_human_beam",
         "Chat_Uses": true,
-        "Mode": 1,
+        "Mode": 2,
         "MaxUses": 0,
-        "CoolDown": 0
+        "CoolDown": 70
       }
     ]
   },
   {
-    "Name": "human_heal_elite",
-    "ShortName": "human_heal_elite",
+    "Name": "奶",
+    "ShortName": "奶",
     "Color": "{default}",
     "HammerID": "4169",
     "GlowColor": [0,255,0,1],
@@ -66,36 +66,36 @@
     "UsePriority": true,
     "AbilityList": [
       {
-        "Name": "weapon_p250",
-        "ButtonID": 0,
-        "ButtonClass": "",
-        "Filter": "",
+        "Name": "human_heal_button",
+        "ButtonID": 16910,
+        "ButtonClass": "func_button",
+        "Filter": "player_human_heal",
         "Chat_Uses": true,
-        "Mode": 1,
+        "Mode": 2,
         "MaxUses": 0,
-        "CoolDown": 0
+        "CoolDown": 80
       }
     ]
   },
   {
-    "Name": "human_slowball_elites",
-    "ShortName": "human_slowball_elites",
+    "Name": "减速球",
+    "ShortName": "减速球",
     "Color": "{default}",
     "HammerID": "4187",
     "GlowColor": [0,255,0,1],
     "BlockPickup": false,
     "AllowTransfer": true,
     "ForceDrop": true,
-    "Chat": true,
+    "Chat": false,
     "Hud": true,
     "TriggerID": 0,
     "UsePriority": true,
     "AbilityList": [
       {
-        "Name": "weapon_p250",
-        "ButtonID": 0,
-        "ButtonClass": "",
-        "Filter": "",
+        "Name": "human_slowball_button",
+        "ButtonID": 16914,
+        "ButtonClass": "func_button",
+        "Filter": "player_human_slowball",
         "Chat_Uses": true,
         "Mode": 1,
         "MaxUses": 0,
