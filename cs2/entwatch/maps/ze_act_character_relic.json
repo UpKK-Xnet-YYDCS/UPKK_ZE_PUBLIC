@@ -1,7 +1,7 @@
 [
   {
-    "Name": "Item_Tong_CZ75",
-    "ShortName": "Item_Tong_CZ75",
+    "Name": "钳子",
+    "ShortName": "钳子",
     "Color": "{default}",
     "HammerID": "18910",
     "GlowColor": [0,255,0,1],
@@ -14,20 +14,20 @@
     "UsePriority": true,
     "AbilityList": [
       {
-        "Name": "weapon_cz75a",
-        "ButtonID": 0,
-        "ButtonClass": "",
-        "Filter": "",
+        "Name": "Item_Tong_Button",
+        "ButtonID": 18921,
+        "ButtonClass": "func_button",
+        "Filter": "$Player_Item_Tong_User",
         "Chat_Uses": true,
-        "Mode": 1,
+        "Mode": 2,
         "MaxUses": 0,
-        "CoolDown": 0
+        "CoolDown": 15
       }
     ]
   },
   {
-    "Name": "Item_FireGun_Tec9",
-    "ShortName": "Item_FireGun_Tec9",
+    "Name": "喷火器",
+    "ShortName": "喷火器",
     "Color": "{default}",
     "HammerID": "18927",
     "GlowColor": [0,255,0,1],
@@ -40,20 +40,20 @@
     "UsePriority": true,
     "AbilityList": [
       {
-        "Name": "weapon_tec9",
-        "ButtonID": 0,
-        "ButtonClass": "",
-        "Filter": "",
+        "Name": "Item_FireGun_Button",
+        "ButtonID": 18928,
+        "ButtonClass": "func_button",
+        "Filter": "$Player_Item_FireGun",
         "Chat_Uses": true,
-        "Mode": 1,
+        "Mode": 2,
         "MaxUses": 0,
-        "CoolDown": 0
+        "CoolDown": 15
       }
     ]
   },
   {
-    "Name": "Item_Heal_Fn57",
-    "ShortName": "Item_Heal_Fn57",
+    "Name": "奶",
+    "ShortName": "奶",
     "Color": "{default}",
     "HammerID": "18940",
     "GlowColor": [0,255,0,1],
@@ -66,20 +66,20 @@
     "UsePriority": true,
     "AbilityList": [
       {
-        "Name": "weapon_fiveseven",
-        "ButtonID": 0,
-        "ButtonClass": "",
-        "Filter": "",
+        "Name": "Item_Heal_Button",
+        "ButtonID": 18941,
+        "ButtonClass": "func_button",
+        "Filter": "$Player_Item_Heal",
         "Chat_Uses": true,
-        "Mode": 1,
+        "Mode": 2,
         "MaxUses": 0,
-        "CoolDown": 0
+        "CoolDown": 45
       }
     ]
   },
   {
-    "Name": "Item_NoZombie_Elite",
-    "ShortName": "Item_NoZombie_Elite",
+    "Name": "免抓",
+    "ShortName": "免抓",
     "Color": "{default}",
     "HammerID": "18959",
     "GlowColor": [0,255,0,1],
@@ -92,20 +92,20 @@
     "UsePriority": true,
     "AbilityList": [
       {
-        "Name": "weapon_elite",
-        "ButtonID": 0,
-        "ButtonClass": "",
-        "Filter": "",
+        "Name": "Item_NoZombie_Button",
+        "ButtonID": 18960,
+        "ButtonClass": "func_button",
+        "Filter": "$Player_Item_NoZombie_User",
         "Chat_Uses": true,
-        "Mode": 1,
+        "Mode": 2,
         "MaxUses": 0,
-        "CoolDown": 0
+        "CoolDown": 60
       }
     ]
   },
   {
-    "Name": "Item_Wind_Elite",
-    "ShortName": "Item_Wind_Elite",
+    "Name": "风",
+    "ShortName": "风",
     "Color": "{default}",
     "HammerID": "18980",
     "GlowColor": [0,255,0,1],
@@ -118,20 +118,20 @@
     "UsePriority": true,
     "AbilityList": [
       {
-        "Name": "weapon_elite",
-        "ButtonID": 0,
-        "ButtonClass": "",
-        "Filter": "",
+        "Name": "Item_Wind_Button",
+        "ButtonID": 18981,
+        "ButtonClass": "func_button",
+        "Filter": "$Player_Item_Wind_User",
         "Chat_Uses": true,
-        "Mode": 1,
+        "Mode": 2,
         "MaxUses": 0,
-        "CoolDown": 0
+        "CoolDown": 60
       }
     ]
   },
   {
-    "Name": "Item_Ele_Elite",
-    "ShortName": "Item_Ele_Elite",
+    "Name": "电",
+    "ShortName": "电",
     "Color": "{default}",
     "HammerID": "18988",
     "GlowColor": [0,255,0,1],
@@ -144,98 +144,98 @@
     "UsePriority": true,
     "AbilityList": [
       {
-        "Name": "weapon_elite",
-        "ButtonID": 0,
-        "ButtonClass": "",
-        "Filter": "",
+        "Name": "Item_Ele_Button",
+        "ButtonID": 18989,
+        "ButtonClass": "func_button",
+        "Filter": "$Player_Item_Ele_User",
         "Chat_Uses": true,
-        "Mode": 1,
+        "Mode": 2,
         "MaxUses": 0,
-        "CoolDown": 0
+        "CoolDown": 60
       }
     ]
   },
   {
-    "Name": "Item_Warp_Knife",
-    "ShortName": "Item_Warp_Knife",
+    "Name": "ZM 秒杀",
+    "ShortName": "ZM 秒杀",
     "Color": "{default}",
     "HammerID": "19005",
     "GlowColor": [0,255,0,1],
     "BlockPickup": false,
-    "AllowTransfer": true,
-    "ForceDrop": true,
+    "AllowTransfer": false,
+    "ForceDrop": false,
     "Chat": true,
     "Hud": true,
-    "TriggerID": 0,
+    "TriggerID": 19008,
     "UsePriority": true,
     "AbilityList": [
       {
-        "Name": "weapon_knife",
-        "ButtonID": 0,
-        "ButtonClass": "",
-        "Filter": "",
+        "Name": "Item_Warp_Button",
+        "ButtonID": 19003,
+        "ButtonClass": "func_button",
+        "Filter": "$Player_Warp_User",
         "Chat_Uses": true,
-        "Mode": 1,
+        "Mode": 2,
         "MaxUses": 0,
-        "CoolDown": 0
+        "CoolDown": 60
       }
     ]
   },
   {
-    "Name": "Item_Black_Knife",
-    "ShortName": "Item_Black_Knife",
+    "Name": "ZM 黑洞",
+    "ShortName": "ZM 黑洞",
     "Color": "{default}",
     "HammerID": "19024",
     "GlowColor": [0,255,0,1],
     "BlockPickup": false,
-    "AllowTransfer": true,
-    "ForceDrop": true,
+    "AllowTransfer": false,
+    "ForceDrop": false,
     "Chat": true,
     "Hud": true,
-    "TriggerID": 0,
+    "TriggerID": 19022,
     "UsePriority": true,
     "AbilityList": [
       {
-        "Name": "weapon_knife",
-        "ButtonID": 0,
-        "ButtonClass": "",
-        "Filter": "",
+        "Name": "Item_Black_Button",
+        "ButtonID": 19027,
+        "ButtonClass": "func_button",
+        "Filter": "$Player_Black_User",
         "Chat_Uses": true,
-        "Mode": 1,
+        "Mode": 2,
         "MaxUses": 0,
-        "CoolDown": 0
+        "CoolDown": 60
       }
     ]
   },
   {
-    "Name": "Item_Slow_Knife",
-    "ShortName": "Item_Slow_Knife",
+    "Name": "ZM 减速",
+    "ShortName": "ZM 减速",
     "Color": "{default}",
     "HammerID": "19044",
     "GlowColor": [0,255,0,1],
     "BlockPickup": false,
-    "AllowTransfer": true,
-    "ForceDrop": true,
+    "AllowTransfer": false,
+    "ForceDrop": false,
     "Chat": true,
     "Hud": true,
-    "TriggerID": 0,
+    "TriggerID": 19045,
     "UsePriority": true,
     "AbilityList": [
       {
-        "Name": "weapon_knife",
-        "ButtonID": 0,
-        "ButtonClass": "",
-        "Filter": "",
+        "Name": "Item_Slow_Button",
+        "ButtonID": 19048,
+        "ButtonClass": "func_button",
+        "Filter": "$Player_Slow_User",
         "Chat_Uses": true,
-        "Mode": 1,
+        "Mode": 2,
         "MaxUses": 0,
-        "CoolDown": 0
+        "CoolDown": 60
       }
     ]
   },
   {
-    "Name": "Item_Ammo_Elite",
-    "ShortName": "Item_Ammo_Elite",
+    "Name": "弹药",
+    "ShortName": "弹药",
     "Color": "{default}",
     "HammerID": "19098",
     "GlowColor": [0,255,0,1],
@@ -248,20 +248,20 @@
     "UsePriority": true,
     "AbilityList": [
       {
-        "Name": "weapon_elite",
-        "ButtonID": 0,
-        "ButtonClass": "",
-        "Filter": "",
+        "Name": "Item_Ammo_Button",
+        "ButtonID": 19099,
+        "ButtonClass": "func_button",
+        "Filter": "$Player_Ammo_User",
         "Chat_Uses": true,
-        "Mode": 1,
+        "Mode": 2,
         "MaxUses": 0,
-        "CoolDown": 0
+        "CoolDown": 45
       }
     ]
   },
   {
-    "Name": "Item_Cannon_Glock",
-    "ShortName": "Item_Cannon_Glock",
+    "Name": "迫击炮",
+    "ShortName": "迫击炮",
     "Color": "{default}",
     "HammerID": "3472",
     "GlowColor": [0,255,0,1],
@@ -274,46 +274,50 @@
     "UsePriority": true,
     "AbilityList": [
       {
-        "Name": "weapon_glock",
-        "ButtonID": 0,
-        "ButtonClass": "",
-        "Filter": "",
+        "Name": "Item_Cannon_Button",
+        "ButtonID": 3473,
+        "ButtonClass": "func_button",
+        "Filter": "$Player_Item_Cannon_User",
         "Chat_Uses": true,
-        "Mode": 1,
+        "Mode": 2,
         "MaxUses": 0,
-        "CoolDown": 0
+        "CoolDown": 15
       }
     ]
   },
   {
-    "Name": "Item_Shotgun_Usp&0000",
-    "ShortName": "Item_Shotgun_Usp&0000",
+    "Name": "霰弹枪",
+    "ShortName": "霰弹枪",
     "Color": "{default}",
     "HammerID": "3492",
     "GlowColor": [0,255,0,1],
     "BlockPickup": false,
     "AllowTransfer": true,
     "ForceDrop": true,
-    "Chat": true,
+    "Chat": false,
     "Hud": true,
     "TriggerID": 0,
     "UsePriority": true,
     "AbilityList": [
       {
-        "Name": "weapon_usp_silencer",
-        "ButtonID": 0,
-        "ButtonClass": "",
-        "Filter": "",
+        "Name": "Item_Shotgun_Button",
+        "ButtonID": 3493,
+        "ButtonClass": "func_button",
+        "Filter": "$Player_Item_Shotgun_User",
         "Chat_Uses": true,
-        "Mode": 1,
+        "Mode": 6,
         "MaxUses": 0,
-        "CoolDown": 0
+        "CoolDown": 0,
+        "Ignore": false,
+        "LockItem": false,
+        "MathID": 3495,
+        "MathNameFix": false
       }
     ]
   },
   {
-    "Name": "Item_Saw_Deagle",
-    "ShortName": "Item_Saw_Deagle",
+    "Name": "电锯",
+    "ShortName": "电锯",
     "Color": "{default}",
     "HammerID": "3507",
     "GlowColor": [0,255,0,1],
@@ -326,14 +330,14 @@
     "UsePriority": true,
     "AbilityList": [
       {
-        "Name": "weapon_deagle",
-        "ButtonID": 0,
-        "ButtonClass": "",
-        "Filter": "",
+        "Name": "Item_Saw_Button",
+        "ButtonID": 3508,
+        "ButtonClass": "func_button",
+        "Filter": "$Player_Item_Saw_User",
         "Chat_Uses": true,
-        "Mode": 1,
+        "Mode": 2,
         "MaxUses": 0,
-        "CoolDown": 0
+        "CoolDown": 25
       }
     ]
   }
