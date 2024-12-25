@@ -144,10 +144,10 @@
     "UsePriority": true,
     "AbilityList": [
       {
-        "Name": "Item_gravity_Button",
-        "ButtonID": 323,
+        "Name": "item_gravity_button",
+        "ButtonID": 252,
         "ButtonClass": "func_button",
-        "Filter": "",
+        "Filter": "gravity_user",
         "Chat_Uses": true,
         "Mode": 2,
         "MaxUses": 0,
