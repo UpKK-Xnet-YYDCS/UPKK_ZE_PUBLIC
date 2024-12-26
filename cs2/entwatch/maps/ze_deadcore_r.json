@@ -1,7 +1,7 @@
 [
   {
-    "Name": "cannon1_elites",
-    "ShortName": "cannon1_elites",
+    "Name": "1号光炮",
+    "ShortName": "1号光炮",
     "Color": "{default}",
     "HammerID": "1499",
     "GlowColor": [0,255,0,1],
@@ -14,10 +14,10 @@
     "UsePriority": true,
     "AbilityList": [
       {
-        "Name": "weapon_elite",
-        "ButtonID": 0,
-        "ButtonClass": "",
-        "Filter": "",
+        "Name": "cannon1_button",
+        "ButtonID": 956,
+        "ButtonClass": "func_physbox",
+        "Filter": "cannon1:1",
         "Chat_Uses": true,
         "Mode": 1,
         "MaxUses": 0,
@@ -26,8 +26,8 @@
     ]
   },
   {
-    "Name": "cannon2_elites",
-    "ShortName": "cannon2_elites",
+    "Name": "2号光炮",
+    "ShortName": "2号光炮",
     "Color": "{default}",
     "HammerID": "1182",
     "GlowColor": [0,255,0,1],
@@ -40,10 +40,10 @@
     "UsePriority": true,
     "AbilityList": [
       {
-        "Name": "weapon_elite",
-        "ButtonID": 0,
-        "ButtonClass": "",
-        "Filter": "",
+        "Name": "cannon2_button",
+        "ButtonID": 1183,
+        "ButtonClass": "func_physbox",
+        "Filter": "cannon2:1",
         "Chat_Uses": true,
         "Mode": 1,
         "MaxUses": 0,
@@ -52,8 +52,8 @@
     ]
   },
   {
-    "Name": "cannon3_elites",
-    "ShortName": "cannon3_elites",
+    "Name": "3号光炮",
+    "ShortName": "3号光炮",
     "Color": "{default}",
     "HammerID": "1200",
     "GlowColor": [0,255,0,1],
@@ -66,10 +66,10 @@
     "UsePriority": true,
     "AbilityList": [
       {
-        "Name": "weapon_elite",
-        "ButtonID": 0,
-        "ButtonClass": "",
-        "Filter": "",
+        "Name": "cannon3_button",
+        "ButtonID": 1201,
+        "ButtonClass": "func_physbox",
+        "Filter": "cannon3:1",
         "Chat_Uses": true,
         "Mode": 1,
         "MaxUses": 0,
