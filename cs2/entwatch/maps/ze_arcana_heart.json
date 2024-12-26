@@ -1,7 +1,7 @@
 [
   {
-    "Name": "Item_Push_Elite",
-    "ShortName": "Item_Push_Elite",
+    "Name": "风",
+    "ShortName": "风",
     "Color": "{default}",
     "HammerID": "4310",
     "GlowColor": [0,255,0,1],
@@ -14,72 +14,72 @@
     "UsePriority": true,
     "AbilityList": [
       {
-        "Name": "weapon_p250",
-        "ButtonID": 0,
-        "ButtonClass": "",
-        "Filter": "",
+        "Name": "Item_Push_Button",
+        "ButtonID": 2511,
+        "ButtonClass": "func_button",
+        "Filter": "player_push",
         "Chat_Uses": true,
-        "Mode": 1,
+        "Mode": 2,
         "MaxUses": 0,
-        "CoolDown": 0
+        "CoolDown": 50
       }
     ]
   },
   {
-    "Name": "Item_ZHeal_Knife",
-    "ShortName": "Item_ZHeal_Knife",
+    "Name": "ZM 奶",
+    "ShortName": "ZM 奶",
     "Color": "{default}",
     "HammerID": "4570",
     "GlowColor": [0,255,0,1],
     "BlockPickup": false,
-    "AllowTransfer": true,
-    "ForceDrop": true,
+    "AllowTransfer": false,
+    "ForceDrop": false,
     "Chat": true,
     "Hud": true,
-    "TriggerID": 0,
+    "TriggerID": 3268,
     "UsePriority": true,
     "AbilityList": [
       {
-        "Name": "weapon_knife",
-        "ButtonID": 0,
-        "ButtonClass": "",
-        "Filter": "",
+        "Name": "Item_ZHeal_Button",
+        "ButtonID": 4356,
+        "ButtonClass": "func_button",
+        "Filter": "player_zheal",
         "Chat_Uses": true,
-        "Mode": 1,
+        "Mode": 2,
         "MaxUses": 0,
-        "CoolDown": 0
+        "CoolDown": 50
       }
     ]
   },
   {
-    "Name": "Item_ZWater_Knife",
-    "ShortName": "Item_ZWater_Knife",
+    "Name": "ZM 水流",
+    "ShortName": "ZM 水流",
     "Color": "{default}",
     "HammerID": "2958",
     "GlowColor": [0,255,0,1],
     "BlockPickup": false,
-    "AllowTransfer": true,
-    "ForceDrop": true,
+    "AllowTransfer": false,
+    "ForceDrop": false,
     "Chat": true,
     "Hud": true,
-    "TriggerID": 0,
+    "TriggerID": 2735,
     "UsePriority": true,
     "AbilityList": [
       {
-        "Name": "weapon_knife",
-        "ButtonID": 0,
-        "ButtonClass": "",
-        "Filter": "",
+        "Name": "Item_ZWater_Button",
+        "ButtonID": 2728,
+        "ButtonClass": "func_button",
+        "Filter": "player_zwater",
         "Chat_Uses": true,
-        "Mode": 1,
+        "Mode": 2,
         "MaxUses": 0,
-        "CoolDown": 0
+        "CoolDown": 70
       }
     ]
   },
   {
-    "Name": "Item_Heal_Elite",
-    "ShortName": "Item_Heal_Elite",
+    "Name": "奶",
+    "ShortName": "奶",
     "Color": "{default}",
     "HammerID": "3169",
     "GlowColor": [0,255,0,1],
@@ -92,46 +92,46 @@
     "UsePriority": true,
     "AbilityList": [
       {
-        "Name": "weapon_p250",
-        "ButtonID": 0,
-        "ButtonClass": "",
-        "Filter": "",
+        "Name": "Item_Heal_Button",
+        "ButtonID": 2857,
+        "ButtonClass": "func_button",
+        "Filter": "player_heal",
         "Chat_Uses": true,
-        "Mode": 1,
+        "Mode": 2,
         "MaxUses": 0,
-        "CoolDown": 0
+        "CoolDown": 80
       }
     ]
   },
   {
-    "Name": "Item_ZCube_Knife",
-    "ShortName": "Item_ZCube_Knife",
+    "Name": "ZM 方块",
+    "ShortName": "ZM 方块",
     "Color": "{default}",
     "HammerID": "2941",
     "GlowColor": [0,255,0,1],
     "BlockPickup": false,
-    "AllowTransfer": true,
-    "ForceDrop": true,
+    "AllowTransfer": false,
+    "ForceDrop": false,
     "Chat": true,
     "Hud": true,
-    "TriggerID": 0,
+    "TriggerID": 2008,
     "UsePriority": true,
     "AbilityList": [
       {
-        "Name": "weapon_knife",
-        "ButtonID": 0,
-        "ButtonClass": "",
-        "Filter": "",
+        "Name": "Item_ZCube_Button",
+        "ButtonID": 3697,
+        "ButtonClass": "func_button",
+        "Filter": "player_zcube",
         "Chat_Uses": true,
-        "Mode": 1,
+        "Mode": 2,
         "MaxUses": 0,
-        "CoolDown": 0
+        "CoolDown": 60
       }
     ]
   },
   {
-    "Name": "Item_Gravity_Elite",
-    "ShortName": "Item_Gravity_Elite",
+    "Name": "黑洞",
+    "ShortName": "黑洞",
     "Color": "{default}",
     "HammerID": "2845",
     "GlowColor": [0,255,0,1],
@@ -144,20 +144,20 @@
     "UsePriority": true,
     "AbilityList": [
       {
-        "Name": "weapon_p250",
-        "ButtonID": 0,
-        "ButtonClass": "",
-        "Filter": "",
+        "Name": "Item_Gravity_Button",
+        "ButtonID": 2848,
+        "ButtonClass": "func_button",
+        "Filter": "player_gravity",
         "Chat_Uses": true,
-        "Mode": 1,
+        "Mode": 2,
         "MaxUses": 0,
-        "CoolDown": 0
+        "CoolDown": 60
       }
     ]
   },
   {
-    "Name": "Item_Shield_Elite",
-    "ShortName": "Item_Shield_Elite",
+    "Name": "护盾",
+    "ShortName": "护盾",
     "Color": "{default}",
     "HammerID": "3792",
     "GlowColor": [0,255,0,1],
@@ -170,40 +170,40 @@
     "UsePriority": true,
     "AbilityList": [
       {
-        "Name": "weapon_p250",
-        "ButtonID": 0,
-        "ButtonClass": "",
-        "Filter": "",
+        "Name": "Item_Shield_Button",
+        "ButtonID": 2690,
+        "ButtonClass": "func_button",
+        "Filter": "player_shield",
         "Chat_Uses": true,
-        "Mode": 1,
+        "Mode": 2,
         "MaxUses": 0,
-        "CoolDown": 0
+        "CoolDown": 80
       }
     ]
   },
   {
-    "Name": "Item_ZReverse_Knife",
-    "ShortName": "Item_ZReverse_Knife",
+    "Name": "ZM 反转",
+    "ShortName": "ZM 反转",
     "Color": "{default}",
     "HammerID": "2029",
     "GlowColor": [0,255,0,1],
     "BlockPickup": false,
-    "AllowTransfer": true,
-    "ForceDrop": true,
+    "AllowTransfer": false,
+    "ForceDrop": false,
     "Chat": true,
     "Hud": true,
-    "TriggerID": 0,
+    "TriggerID": 999,
     "UsePriority": true,
     "AbilityList": [
       {
-        "Name": "weapon_knife",
-        "ButtonID": 0,
-        "ButtonClass": "",
-        "Filter": "",
+        "Name": "Item_ZReverse_Button",
+        "ButtonID": 4353,
+        "ButtonClass": "func_button",
+        "Filter": "player_zreverse",
         "Chat_Uses": true,
-        "Mode": 1,
+        "Mode": 2,
         "MaxUses": 0,
-        "CoolDown": 0
+        "CoolDown": 80
       }
     ]
   }
