@@ -1,7 +1,7 @@
 [
   {
-    "Name": "hum_wind_gun",
-    "ShortName": "hum_wind_gun",
+    "Name": "风",
+    "ShortName": "风",
     "Color": "{default}",
     "HammerID": "4362",
     "GlowColor": [0,255,0,1],
@@ -10,24 +10,24 @@
     "ForceDrop": true,
     "Chat": true,
     "Hud": true,
-    "TriggerID": 0,
+    "TriggerID": 4360,
     "UsePriority": true,
     "AbilityList": [
       {
-        "Name": "weapon_usp_silencer",
-        "ButtonID": 0,
-        "ButtonClass": "",
-        "Filter": "",
+        "Name": "hum_wind_button",
+        "ButtonID": 4358,
+        "ButtonClass": "func_button",
+        "Filter": "wind_user:1",
         "Chat_Uses": true,
-        "Mode": 1,
+        "Mode": 2,
         "MaxUses": 0,
-        "CoolDown": 0
+        "CoolDown": 80
       }
     ]
   },
   {
-    "Name": "hum_gar_gun",
-    "ShortName": "hum_gar_gun",
+    "Name": "黑洞",
+    "ShortName": "黑洞",
     "Color": "{default}",
     "HammerID": "4743",
     "GlowColor": [0,255,0,1],
@@ -36,24 +36,24 @@
     "ForceDrop": true,
     "Chat": true,
     "Hud": true,
-    "TriggerID": 0,
+    "TriggerID": 4744,
     "UsePriority": true,
     "AbilityList": [
       {
-        "Name": "weapon_usp_silencer",
-        "ButtonID": 0,
-        "ButtonClass": "",
-        "Filter": "",
+        "Name": "hun_gar_button",
+        "ButtonID": 4746,
+        "ButtonClass": "func_button",
+        "Filter": "gar_user:1",
         "Chat_Uses": true,
-        "Mode": 1,
+        "Mode": 2,
         "MaxUses": 0,
-        "CoolDown": 0
+        "CoolDown": 60
       }
     ]
   },
   {
-    "Name": "hum_heal_gun",
-    "ShortName": "hum_heal_gun",
+    "Name": "奶圈",
+    "ShortName": "奶圈",
     "Color": "{default}",
     "HammerID": "6383",
     "GlowColor": [0,255,0,1],
@@ -62,16 +62,16 @@
     "ForceDrop": true,
     "Chat": true,
     "Hud": true,
-    "TriggerID": 0,
+    "TriggerID": 6793,
     "UsePriority": true,
     "AbilityList": [
       {
-        "Name": "weapon_usp_silencer",
+        "Name": "",
         "ButtonID": 0,
         "ButtonClass": "",
         "Filter": "",
         "Chat_Uses": true,
-        "Mode": 1,
+        "Mode": 0,
         "MaxUses": 0,
         "CoolDown": 0
       }
