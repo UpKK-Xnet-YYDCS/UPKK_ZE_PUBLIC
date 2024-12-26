@@ -1,7 +1,7 @@
 [
   {
-    "Name": "w_holyg&0000",
-    "ShortName": "w_holyg&0000",
+    "Name": "圣气雷",
+    "ShortName": "圣气雷",
     "Color": "{default}",
     "HammerID": "1539",
     "GlowColor": [0,255,0,1],
@@ -14,10 +14,10 @@
     "UsePriority": true,
     "AbilityList": [
       {
-        "Name": "weapon_glock",
+        "Name": "",
         "ButtonID": 0,
         "ButtonClass": "",
-        "Filter": "",
+        "Filter": "f_holy:1",
         "Chat_Uses": true,
         "Mode": 1,
         "MaxUses": 0,
@@ -26,8 +26,8 @@
     ]
   },
   {
-    "Name": "w_earendil_light&0000",
-    "ShortName": "w_earendil_light&0000",
+    "Name": "芝加哥圣光",
+    "ShortName": "芝加哥圣光",
     "Color": "{default}",
     "HammerID": "2032",
     "GlowColor": [0,255,0,1],
@@ -40,10 +40,10 @@
     "UsePriority": true,
     "AbilityList": [
       {
-        "Name": "weapon_glock",
+        "Name": "",
         "ButtonID": 0,
         "ButtonClass": "",
-        "Filter": "",
+        "Filter": "f_earendil:1",
         "Chat_Uses": true,
         "Mode": 1,
         "MaxUses": 0,
@@ -52,8 +52,8 @@
     ]
   },
   {
-    "Name": "w_heal&0000",
-    "ShortName": "w_heal&0000",
+    "Name": "奶",
+    "ShortName": "奶",
     "Color": "{default}",
     "HammerID": "2055",
     "GlowColor": [0,255,0,1],
@@ -66,10 +66,10 @@
     "UsePriority": true,
     "AbilityList": [
       {
-        "Name": "weapon_glock",
+        "Name": "",
         "ButtonID": 0,
         "ButtonClass": "",
-        "Filter": "",
+        "Filter": "f_heal:1",
         "Chat_Uses": true,
         "Mode": 1,
         "MaxUses": 0,
