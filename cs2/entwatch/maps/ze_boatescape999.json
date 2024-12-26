@@ -1,7 +1,7 @@
 [
   {
-    "Name": "Item_Train_Elite",
-    "ShortName": "Item_Train_Elite",
+    "Name": "火车",
+    "ShortName": "火车",
     "Color": "{default}",
     "HammerID": "1260",
     "GlowColor": [0,255,0,1],
@@ -14,20 +14,20 @@
     "UsePriority": true,
     "AbilityList": [
       {
-        "Name": "weapon_p250",
-        "ButtonID": 0,
-        "ButtonClass": "",
-        "Filter": "",
+        "Name": "Item_Train_Button",
+        "ButtonID": 2245,
+        "ButtonClass": "func_button",
+        "Filter": "player_train",
         "Chat_Uses": true,
-        "Mode": 1,
+        "Mode": 2,
         "MaxUses": 0,
-        "CoolDown": 0
+        "CoolDown": 30
       }
     ]
   },
   {
-    "Name": "Item_Heal_Elite",
-    "ShortName": "Item_Heal_Elite",
+    "Name": "奶",
+    "ShortName": "奶",
     "Color": "{default}",
     "HammerID": "1981",
     "GlowColor": [0,255,0,1],
@@ -40,20 +40,20 @@
     "UsePriority": true,
     "AbilityList": [
       {
-        "Name": "weapon_p250",
-        "ButtonID": 0,
-        "ButtonClass": "",
-        "Filter": "",
+        "Name": "item_heal_button",
+        "ButtonID": 1984,
+        "ButtonClass": "func_button",
+        "Filter": "player_heal",
         "Chat_Uses": true,
-        "Mode": 1,
+        "Mode": 2,
         "MaxUses": 0,
-        "CoolDown": 0
+        "CoolDown": 60
       }
     ]
   },
   {
-    "Name": "Item_Cirno_Kinfe",
-    "ShortName": "Item_Cirno_Kinfe",
+    "Name": "琪露诺",
+    "ShortName": "琪露诺",
     "Color": "{default}",
     "HammerID": "2190",
     "GlowColor": [0,255,0,1],
@@ -66,10 +66,36 @@
     "UsePriority": true,
     "AbilityList": [
       {
-        "Name": "weapon_knife",
+        "Name": "",
         "ButtonID": 0,
         "ButtonClass": "",
-        "Filter": "",
+        "Filter": "cirno:1",
+        "Chat_Uses": true,
+        "Mode": 1,
+        "MaxUses": 0,
+        "CoolDown": 0
+      }
+    ]
+  },
+  {
+    "Name": "卫宫士郎",
+    "ShortName": "卫宫士郎",
+    "Color": "{default}",
+    "HammerID": "3640",
+    "GlowColor": [0,255,0,1],
+    "BlockPickup": false,
+    "AllowTransfer": true,
+    "ForceDrop": true,
+    "Chat": true,
+    "Hud": true,
+    "TriggerID": 0,
+    "UsePriority": true,
+    "AbilityList": [
+      {
+        "Name": "",
+        "ButtonID": 0,
+        "ButtonClass": "",
+        "Filter": "player_emiya",
         "Chat_Uses": true,
         "Mode": 1,
         "MaxUses": 0,
