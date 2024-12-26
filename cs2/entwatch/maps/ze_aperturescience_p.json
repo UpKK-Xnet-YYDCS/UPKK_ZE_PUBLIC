@@ -1,33 +1,7 @@
 [
   {
-    "Name": "Escape",
-    "ShortName": "Escape",
-    "Color": "{default}",
-    "HammerID": "2154",
-    "GlowColor": [0,255,0,1],
-    "BlockPickup": false,
-    "AllowTransfer": true,
-    "ForceDrop": true,
-    "Chat": true,
-    "Hud": true,
-    "TriggerID": 0,
-    "UsePriority": true,
-    "AbilityList": [
-      {
-        "Name": "weapon_hegrenade",
-        "ButtonID": 0,
-        "ButtonClass": "",
-        "Filter": "",
-        "Chat_Uses": true,
-        "Mode": 1,
-        "MaxUses": 0,
-        "CoolDown": 0
-      }
-    ]
-  },
-  {
-    "Name": "Portalgun1",
-    "ShortName": "Portalgun1",
+    "Name": "传送枪",
+    "ShortName": "传送枪",
     "Color": "{default}",
     "HammerID": "2448",
     "GlowColor": [0,255,0,1],
@@ -40,20 +14,20 @@
     "UsePriority": true,
     "AbilityList": [
       {
-        "Name": "weapon_m249",
+        "Name": "",
         "ButtonID": 0,
         "ButtonClass": "",
         "Filter": "",
         "Chat_Uses": true,
-        "Mode": 1,
+        "Mode": 0,
         "MaxUses": 0,
         "CoolDown": 0
       }
     ]
   },
   {
-    "Name": "Portalgun2",
-    "ShortName": "Portalgun2",
+    "Name": "传送枪2",
+    "ShortName": "传送枪2",
     "Color": "{default}",
     "HammerID": "2449",
     "GlowColor": [0,255,0,1],
@@ -66,20 +40,20 @@
     "UsePriority": true,
     "AbilityList": [
       {
-        "Name": "weapon_m4a1",
+        "Name": "",
         "ButtonID": 0,
         "ButtonClass": "",
         "Filter": "",
         "Chat_Uses": true,
-        "Mode": 1,
+        "Mode": 0,
         "MaxUses": 0,
         "CoolDown": 0
       }
     ]
   },
   {
-    "Name": "Portalgun3",
-    "ShortName": "Portalgun3",
+    "Name": "传送枪3",
+    "ShortName": "传送枪3",
     "Color": "{default}",
     "HammerID": "2450",
     "GlowColor": [0,255,0,1],
@@ -92,20 +66,20 @@
     "UsePriority": true,
     "AbilityList": [
       {
-        "Name": "weapon_ak47",
+        "Name": "",
         "ButtonID": 0,
         "ButtonClass": "",
         "Filter": "",
         "Chat_Uses": true,
-        "Mode": 1,
+        "Mode": 0,
         "MaxUses": 0,
         "CoolDown": 0
       }
     ]
   },
   {
-    "Name": "Portalgun4",
-    "ShortName": "Portalgun4",
+    "Name": "传送枪4",
+    "ShortName": "传送枪4",
     "Color": "{default}",
     "HammerID": "2451",
     "GlowColor": [0,255,0,1],
@@ -118,72 +92,20 @@
     "UsePriority": true,
     "AbilityList": [
       {
-        "Name": "weapon_xm1014",
+        "Name": "",
         "ButtonID": 0,
         "ButtonClass": "",
         "Filter": "",
         "Chat_Uses": true,
-        "Mode": 1,
+        "Mode": 0,
         "MaxUses": 0,
         "CoolDown": 0
       }
     ]
   },
   {
-    "Name": "P7B",
-    "ShortName": "P7B",
-    "Color": "{default}",
-    "HammerID": "2484",
-    "GlowColor": [0,255,0,1],
-    "BlockPickup": false,
-    "AllowTransfer": true,
-    "ForceDrop": true,
-    "Chat": true,
-    "Hud": true,
-    "TriggerID": 0,
-    "UsePriority": true,
-    "AbilityList": [
-      {
-        "Name": "weapon_hegrenade",
-        "ButtonID": 0,
-        "ButtonClass": "",
-        "Filter": "",
-        "Chat_Uses": true,
-        "Mode": 1,
-        "MaxUses": 0,
-        "CoolDown": 0
-      }
-    ]
-  },
-  {
-    "Name": "turret",
-    "ShortName": "turret",
-    "Color": "{default}",
-    "HammerID": "2705",
-    "GlowColor": [0,255,0,1],
-    "BlockPickup": false,
-    "AllowTransfer": true,
-    "ForceDrop": true,
-    "Chat": true,
-    "Hud": true,
-    "TriggerID": 0,
-    "UsePriority": true,
-    "AbilityList": [
-      {
-        "Name": "weapon_hegrenade",
-        "ButtonID": 0,
-        "ButtonClass": "",
-        "Filter": "",
-        "Chat_Uses": true,
-        "Mode": 1,
-        "MaxUses": 0,
-        "CoolDown": 0
-      }
-    ]
-  },
-  {
-    "Name": "Companioncube",
-    "ShortName": "Companioncube",
+    "Name": "同伴方块",
+    "ShortName": "同伴方块",
     "Color": "{default}",
     "HammerID": "3019",
     "GlowColor": [0,255,0,1],
@@ -196,20 +118,20 @@
     "UsePriority": true,
     "AbilityList": [
       {
-        "Name": "weapon_deagle",
+        "Name": "",
         "ButtonID": 0,
         "ButtonClass": "",
         "Filter": "",
         "Chat_Uses": true,
-        "Mode": 1,
+        "Mode": 0,
         "MaxUses": 0,
         "CoolDown": 0
       }
     ]
   },
   {
-    "Name": "Cake",
-    "ShortName": "Cake",
+    "Name": "蛋糕",
+    "ShortName": "蛋糕",
     "Color": "{default}",
     "HammerID": "3029",
     "GlowColor": [0,255,0,1],
@@ -222,12 +144,12 @@
     "UsePriority": true,
     "AbilityList": [
       {
-        "Name": "weapon_deagle",
+        "Name": "",
         "ButtonID": 0,
         "ButtonClass": "",
         "Filter": "",
         "Chat_Uses": true,
-        "Mode": 1,
+        "Mode": 0,
         "MaxUses": 0,
         "CoolDown": 0
       }
