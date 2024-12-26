@@ -1,7 +1,7 @@
 [
   {
-    "Name": "plasmid_wep_electro",
-    "ShortName": "plasmid_wep_electro",
+    "Name": "闪电质粒",
+    "ShortName": "闪电质粒",
     "Color": "{default}",
     "HammerID": "3039",
     "GlowColor": [0,255,0,1],
@@ -14,20 +14,34 @@
     "UsePriority": true,
     "AbilityList": [
       {
-        "Name": "weapon_elite",
-        "ButtonID": 0,
-        "ButtonClass": "",
-        "Filter": "",
+        "Name": "plasmid_button_electro",
+        "ButtonID": 3040,
+        "ButtonClass": "func_button",
+        "Filter": "electrouser",
         "Chat_Uses": true,
-        "Mode": 1,
+        "Mode": 6,
         "MaxUses": 0,
-        "CoolDown": 0
+        "CoolDown": 0,
+        "Ignore": false,
+        "LockItem": false,
+        "MathID": 3046,
+        "MathNameFix": true
+      },
+      {
+        "Name": "plasmid_button_electro",
+        "ButtonID": 3040,
+        "ButtonClass": "func_button",
+        "Filter": "electrouser",
+        "Chat_Uses": true,
+        "Mode": 2,
+        "MaxUses": 0,
+        "CoolDown": 11
       }
     ]
   },
   {
-    "Name": "plasmid_wep_incinerate",
-    "ShortName": "plasmid_wep_incinerate",
+    "Name": "焚化质粒",
+    "ShortName": "焚化质粒",
     "Color": "{default}",
     "HammerID": "3048",
     "GlowColor": [0,255,0,1],
@@ -40,20 +54,34 @@
     "UsePriority": true,
     "AbilityList": [
       {
-        "Name": "weapon_elite",
-        "ButtonID": 0,
-        "ButtonClass": "",
-        "Filter": "",
+        "Name": "plasmid_button_incinerate",
+        "ButtonID": 3049,
+        "ButtonClass": "func_button",
+        "Filter": "incinerateuser",
         "Chat_Uses": true,
-        "Mode": 1,
+        "Mode": 6,
         "MaxUses": 0,
-        "CoolDown": 0
+        "CoolDown": 0,
+        "Ignore": false,
+        "LockItem": false,
+        "MathID": 3055,
+        "MathNameFix": true
+      },
+      {
+        "Name": "plasmid_button_incinerate",
+        "ButtonID": 3049,
+        "ButtonClass": "func_button",
+        "Filter": "incinerateuser",
+        "Chat_Uses": true,
+        "Mode": 2,
+        "MaxUses": 0,
+        "CoolDown": 5
       }
     ]
   },
   {
-    "Name": "plasmid_wep_cyclone",
-    "ShortName": "plasmid_wep_cyclone",
+    "Name": "音爆质粒",
+    "ShortName": "音爆质粒",
     "Color": "{default}",
     "HammerID": "3058",
     "GlowColor": [0,255,0,1],
@@ -66,20 +94,34 @@
     "UsePriority": true,
     "AbilityList": [
       {
-        "Name": "weapon_elite",
-        "ButtonID": 0,
-        "ButtonClass": "",
-        "Filter": "",
+        "Name": "plasmid_button_cyclone",
+        "ButtonID": 3059,
+        "ButtonClass": "func_button",
+        "Filter": "cycloneuser",
         "Chat_Uses": true,
-        "Mode": 1,
+        "Mode": 6,
         "MaxUses": 0,
-        "CoolDown": 0
+        "CoolDown": 0,
+        "Ignore": false,
+        "LockItem": false,
+        "MathID": 3065,
+        "MathNameFix": true
+      },
+      {
+        "Name": "plasmid_button_cyclone",
+        "ButtonID": 3059,
+        "ButtonClass": "func_button",
+        "Filter": "cycloneuser",
+        "Chat_Uses": true,
+        "Mode": 2,
+        "MaxUses": 0,
+        "CoolDown": 10
       }
     ]
   },
   {
-    "Name": "plasmid_wep_insect",
-    "ShortName": "plasmid_wep_insect",
+    "Name": "蜂群质粒",
+    "ShortName": "蜂群质粒",
     "Color": "{default}",
     "HammerID": "3145",
     "GlowColor": [0,255,0,1],
@@ -92,33 +134,47 @@
     "UsePriority": true,
     "AbilityList": [
       {
-        "Name": "weapon_elite",
-        "ButtonID": 0,
-        "ButtonClass": "",
-        "Filter": "",
+        "Name": "plasmid_button_insect",
+        "ButtonID": 3146,
+        "ButtonClass": "func_button",
+        "Filter": "insectuser",
         "Chat_Uses": true,
-        "Mode": 1,
+        "Mode": 6,
         "MaxUses": 0,
-        "CoolDown": 0
+        "CoolDown": 0,
+        "Ignore": false,
+        "LockItem": false,
+        "MathID": 4334,
+        "MathNameFix": true
+      },
+      {
+        "Name": "plasmid_button_insect",
+        "ButtonID": 3146,
+        "ButtonClass": "func_button",
+        "Filter": "insectuser",
+        "Chat_Uses": true,
+        "Mode": 2,
+        "MaxUses": 0,
+        "CoolDown": 10
       }
     ]
   },
   {
-    "Name": "tonic_flashflare_wep",
-    "ShortName": "tonic_flashflare_wep",
+    "Name": "基因强化:闪电",
+    "ShortName": "基因强化:闪电",
     "Color": "{default}",
     "HammerID": "3516",
     "GlowColor": [0,255,0,1],
     "BlockPickup": false,
-    "AllowTransfer": true,
-    "ForceDrop": true,
+    "AllowTransfer": false,
+    "ForceDrop": false,
     "Chat": true,
     "Hud": true,
     "TriggerID": 0,
     "UsePriority": true,
     "AbilityList": [
       {
-        "Name": "weapon_knife",
+        "Name": "",
         "ButtonID": 0,
         "ButtonClass": "",
         "Filter": "",
@@ -130,21 +186,21 @@
     ]
   },
   {
-    "Name": "tonic_static_wep",
-    "ShortName": "tonic_static_wep",
+    "Name": "基因强化: 静电罩",
+    "ShortName": "基因强化: 静电罩",
     "Color": "{default}",
     "HammerID": "3521",
     "GlowColor": [0,255,0,1],
     "BlockPickup": false,
-    "AllowTransfer": true,
-    "ForceDrop": true,
+    "AllowTransfer": false,
+    "ForceDrop": false,
     "Chat": true,
     "Hud": true,
     "TriggerID": 0,
     "UsePriority": true,
     "AbilityList": [
       {
-        "Name": "weapon_knife",
+        "Name": "",
         "ButtonID": 0,
         "ButtonClass": "",
         "Filter": "",
@@ -156,50 +212,54 @@
     ]
   },
   {
-    "Name": "little_sister_wep",
-    "ShortName": "little_sister_wep",
+    "Name": "ZM 小妹妹",
+    "ShortName": "ZM 小妹妹",
     "Color": "{default}",
     "HammerID": "3550",
     "GlowColor": [0,255,0,1],
     "BlockPickup": false,
-    "AllowTransfer": true,
-    "ForceDrop": true,
+    "AllowTransfer": false,
+    "ForceDrop": false,
     "Chat": true,
     "Hud": true,
     "TriggerID": 0,
     "UsePriority": true,
     "AbilityList": [
       {
-        "Name": "weapon_knife",
+        "Name": "",
         "ButtonID": 0,
         "ButtonClass": "",
-        "Filter": "",
+        "Filter": "little_sister",
         "Chat_Uses": true,
-        "Mode": 1,
+        "Mode": 6,
         "MaxUses": 0,
-        "CoolDown": 0
+        "CoolDown": 0,
+        "Ignore": false,
+        "LockItem": false,
+        "MathID": 3553,
+        "MathNameFix": true
       }
     ]
   },
   {
-    "Name": "big_daddy_wep",
-    "ShortName": "big_daddy_wep",
+    "Name": "ZM 大老爹",
+    "ShortName": "ZM 大老爹",
     "Color": "{default}",
     "HammerID": "3557",
     "GlowColor": [0,255,0,1],
     "BlockPickup": false,
-    "AllowTransfer": true,
-    "ForceDrop": true,
+    "AllowTransfer": false,
+    "ForceDrop": false,
     "Chat": true,
     "Hud": true,
     "TriggerID": 0,
     "UsePriority": true,
     "AbilityList": [
       {
-        "Name": "weapon_knife",
+        "Name": "",
         "ButtonID": 0,
         "ButtonClass": "",
-        "Filter": "",
+        "Filter": "big_daddy",
         "Chat_Uses": true,
         "Mode": 1,
         "MaxUses": 0,
@@ -208,8 +268,8 @@
     ]
   },
   {
-    "Name": "plasmid_wep_gravity",
-    "ShortName": "plasmid_wep_gravity",
+    "Name": "重力质粒",
+    "ShortName": "重力质粒",
     "Color": "{default}",
     "HammerID": "4170",
     "GlowColor": [0,255,0,1],
@@ -222,20 +282,34 @@
     "UsePriority": true,
     "AbilityList": [
       {
-        "Name": "weapon_elite",
-        "ButtonID": 0,
-        "ButtonClass": "",
-        "Filter": "",
+        "Name": "plasmid_button_gravity",
+        "ButtonID": 4171,
+        "ButtonClass": "func_button",
+        "Filter": "gravityuser",
         "Chat_Uses": true,
-        "Mode": 1,
+        "Mode": 6,
         "MaxUses": 0,
-        "CoolDown": 0
+        "CoolDown": 0,
+        "Ignore": false,
+        "LockItem": false,
+        "MathID": 4177,
+        "MathNameFix": true
+      },
+      {
+        "Name": "plasmid_button_gravity",
+        "ButtonID": 4171,
+        "ButtonClass": "func_button",
+        "Filter": "gravityuser",
+        "Chat_Uses": true,
+        "Mode": 2,
+        "MaxUses": 0,
+        "CoolDown": 18
       }
     ]
   },
   {
-    "Name": "plasmid_wep_frost",
-    "ShortName": "plasmid_wep_frost",
+    "Name": "寒霜质粒",
+    "ShortName": "寒霜质粒",
     "Color": "{default}",
     "HammerID": "4182",
     "GlowColor": [0,255,0,1],
@@ -248,14 +322,28 @@
     "UsePriority": true,
     "AbilityList": [
       {
-        "Name": "weapon_elite",
-        "ButtonID": 0,
-        "ButtonClass": "",
-        "Filter": "",
+        "Name": "plasmid_button_frost",
+        "ButtonID": 4183,
+        "ButtonClass": "func_button",
+        "Filter": "frostuser",
         "Chat_Uses": true,
-        "Mode": 1,
+        "Mode": 6,
         "MaxUses": 0,
-        "CoolDown": 0
+        "CoolDown": 0,
+        "Ignore": false,
+        "LockItem": false,
+        "MathID": 4185,
+        "MathNameFix": true
+      },
+      {
+        "Name": "plasmid_button_frost",
+        "ButtonID": 4183,
+        "ButtonClass": "func_button",
+        "Filter": "frostuser",
+        "Chat_Uses": true,
+        "Mode": 2,
+        "MaxUses": 0,
+        "CoolDown": 13
       }
     ]
   }
