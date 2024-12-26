@@ -1,7 +1,7 @@
 [
   {
-    "Name": "weapon",
-    "ShortName": "weapon",
+    "Name": "棒球棒",
+    "ShortName": "棒球棒",
     "Color": "{default}",
     "HammerID": "588",
     "GlowColor": [0,255,0,1],
@@ -14,14 +14,14 @@
     "UsePriority": true,
     "AbilityList": [
       {
-        "Name": "weapon_elite",
-        "ButtonID": 0,
-        "ButtonClass": "",
-        "Filter": "",
+        "Name": "wbut",
+        "ButtonID": 199,
+        "ButtonClass": "func_button",
+        "Filter": "bat_user:1",
         "Chat_Uses": true,
-        "Mode": 1,
+        "Mode": 2,
         "MaxUses": 0,
-        "CoolDown": 0
+        "CoolDown": 11
       }
     ]
   }
