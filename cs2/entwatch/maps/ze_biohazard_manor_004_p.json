@@ -1,7 +1,7 @@
 [
   {
-    "Name": "firegun",
-    "ShortName": "firegun",
+    "Name": "火焰喷射器",
+    "ShortName": "火焰喷射器",
     "Color": "{default}",
     "HammerID": "974",
     "GlowColor": [0,255,0,1],
@@ -14,14 +14,18 @@
     "UsePriority": true,
     "AbilityList": [
       {
-        "Name": "weapon_elite",
-        "ButtonID": 0,
-        "ButtonClass": "",
-        "Filter": "",
+        "Name": "flameshot_button",
+        "ButtonID": 978,
+        "ButtonClass": "func_physbox",
+        "Filter": "flameshot:1",
         "Chat_Uses": true,
-        "Mode": 1,
+        "Mode": 6,
         "MaxUses": 0,
-        "CoolDown": 0
+        "CoolDown": 0,
+        "Ignore": false,
+        "LockItem": false,
+        "MathID": 983,
+        "MathNameFix": true
       }
     ]
   }
