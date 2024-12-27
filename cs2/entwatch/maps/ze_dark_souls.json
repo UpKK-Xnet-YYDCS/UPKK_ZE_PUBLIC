@@ -1,0 +1,812 @@
+[
+  {
+    "Name": "绿花草",
+    "ShortName": "绿花草",
+    "Color": "{default}",
+    "HammerID": "25904",
+    "GlowColor": [
+      0,
+      255,
+      0,
+      1
+    ],
+    "BlockPickup": false,
+    "AllowTransfer": true,
+    "ForceDrop": true,
+    "Chat": true,
+    "Hud": true,
+    "TriggerID": 0,
+    "UsePriority": true,
+    "AbilityList": [
+      {
+        "Name": "Item_Salad_Button",
+        "ButtonID": 25916,
+        "ButtonClass": "func_button",
+        "Filter": "",
+        "Chat_Uses": false,
+        "Mode": 6,
+        "MaxUses": 0,
+        "CoolDown": 0,
+        "Ignore": false,
+        "LockItem": false,
+        "MathID": 25908,
+        "MathNameFix": true
+      },
+      {
+        "Name": "Item_Salad_Button",
+        "ButtonID": 25916,
+        "ButtonClass": "func_button",
+        "Filter": "",
+        "Chat_Uses": true,
+        "Mode": 2,
+        "MaxUses": 0,
+        "CoolDown": 7
+      }
+    ]
+  },
+  {
+    "Name": "原素瓶",
+    "ShortName": "原素瓶",
+    "Color": "{default}",
+    "HammerID": "25937",
+    "GlowColor": [
+      0,
+      255,
+      0,
+      1
+    ],
+    "BlockPickup": false,
+    "AllowTransfer": true,
+    "ForceDrop": true,
+    "Chat": true,
+    "Hud": true,
+    "TriggerID": 0,
+    "UsePriority": true,
+    "AbilityList": [
+      {
+        "Name": "Item_EF_Button",
+        "ButtonID": 25950,
+        "ButtonClass": "func_button",
+        "Filter": "",
+        "Chat_Uses": false,
+        "Mode": 6,
+        "MaxUses": 0,
+        "CoolDown": 0,
+        "Ignore": false,
+        "LockItem": false,
+        "MathID": 25942,
+        "MathNameFix": true
+      },
+      {
+        "Name": "Item_EF_Button",
+        "ButtonID": 25950,
+        "ButtonClass": "func_button",
+        "Filter": "",
+        "Chat_Uses": true,
+        "Mode": 2,
+        "MaxUses": 0,
+        "CoolDown": 5
+      }
+    ]
+  },
+  {
+    "Name": "阳光疗愈",
+    "ShortName": "阳光疗愈",
+    "Color": "{default}",
+    "HammerID": "25954",
+    "GlowColor": [
+      0,
+      255,
+      0,
+      1
+    ],
+    "BlockPickup": false,
+    "AllowTransfer": true,
+    "ForceDrop": true,
+    "Chat": true,
+    "Hud": true,
+    "TriggerID": 0,
+    "UsePriority": true,
+    "AbilityList": [
+      {
+        "Name": "Item_SS_Button",
+        "ButtonID": 25965,
+        "ButtonClass": "func_button",
+        "Filter": "",
+        "Chat_Uses": false,
+        "Mode": 6,
+        "MaxUses": 0,
+        "CoolDown": 0,
+        "Ignore": false,
+        "LockItem": false,
+        "MathID": 25960,
+        "MathNameFix": true
+      },
+      {
+        "Name": "Item_SS_Button",
+        "ButtonID": 25965,
+        "ButtonClass": "func_button",
+        "Filter": "",
+        "Chat_Uses": true,
+        "Mode": 2,
+        "MaxUses": 0,
+        "CoolDown": 7
+      }
+    ]
+  },
+  {
+    "Name": "暗之球",
+    "ShortName": "暗之球",
+    "Color": "{default}",
+    "HammerID": "26020",
+    "GlowColor": [
+      0,
+      255,
+      0,
+      1
+    ],
+    "BlockPickup": false,
+    "AllowTransfer": true,
+    "ForceDrop": true,
+    "Chat": true,
+    "Hud": true,
+    "TriggerID": 0,
+    "UsePriority": true,
+    "AbilityList": [
+      {
+        "Name": "Item_DO_Button",
+        "ButtonID": 26039,
+        "ButtonClass": "func_button",
+        "Filter": "",
+        "Chat_Uses": false,
+        "Mode": 6,
+        "MaxUses": 0,
+        "CoolDown": 0,
+        "Ignore": false,
+        "LockItem": false,
+        "MathID": 26031,
+        "MathNameFix": true
+      },
+      {
+        "Name": "Item_DO_Button",
+        "ButtonID": 26039,
+        "ButtonClass": "func_button",
+        "Filter": "",
+        "Chat_Uses": true,
+        "Mode": 2,
+        "MaxUses": 0,
+        "CoolDown": 3
+      }
+    ]
+  },
+  {
+    "Name": "强力灵魂巨箭",
+    "ShortName": "强力灵魂巨箭",
+    "Color": "{default}",
+    "HammerID": "26044",
+    "GlowColor": [
+      0,
+      255,
+      0,
+      1
+    ],
+    "BlockPickup": false,
+    "AllowTransfer": true,
+    "ForceDrop": true,
+    "Chat": true,
+    "Hud": true,
+    "TriggerID": 0,
+    "UsePriority": true,
+    "AbilityList": [
+      {
+        "Name": "Item_GHSA_Button",
+        "ButtonID": 26063,
+        "ButtonClass": "func_button",
+        "Filter": "",
+        "Chat_Uses": false,
+        "Mode": 6,
+        "MaxUses": 0,
+        "CoolDown": 0,
+        "Ignore": false,
+        "LockItem": false,
+        "MathID": 26055,
+        "MathNameFix": true
+      },
+      {
+        "Name": "Item_GHSA_Button",
+        "ButtonID": 26063,
+        "ButtonClass": "func_button",
+        "Filter": "",
+        "Chat_Uses": true,
+        "Mode": 2,
+        "MaxUses": 0,
+        "CoolDown": 3
+      }
+    ]
+  },
+  {
+    "Name": "火球",
+    "ShortName": "火球",
+    "Color": "{default}",
+    "HammerID": "26109",
+    "GlowColor": [
+      0,
+      255,
+      0,
+      1
+    ],
+    "BlockPickup": false,
+    "AllowTransfer": true,
+    "ForceDrop": true,
+    "Chat": true,
+    "Hud": true,
+    "TriggerID": 0,
+    "UsePriority": true,
+    "AbilityList": [
+      {
+        "Name": "Item_FB_Button",
+        "ButtonID": 26128,
+        "ButtonClass": "func_button",
+        "Filter": "",
+        "Chat_Uses": false,
+        "Mode": 6,
+        "MaxUses": 0,
+        "CoolDown": 0,
+        "Ignore": false,
+        "LockItem": false,
+        "MathID": 26120,
+        "MathNameFix": true
+      },
+      {
+        "Name": "Item_FB_Button",
+        "ButtonID": 26128,
+        "ButtonClass": "func_button",
+        "Filter": "",
+        "Chat_Uses": true,
+        "Mode": 2,
+        "MaxUses": 0,
+        "CoolDown": 3
+      }
+    ]
+  },
+  {
+    "Name": "白龙吐息",
+    "ShortName": "白龙吐息",
+    "Color": "{default}",
+    "HammerID": "26133",
+    "GlowColor": [
+      0,
+      255,
+      0,
+      1
+    ],
+    "BlockPickup": false,
+    "AllowTransfer": true,
+    "ForceDrop": true,
+    "Chat": true,
+    "Hud": true,
+    "TriggerID": 0,
+    "UsePriority": true,
+    "AbilityList": [
+      {
+        "Name": "Item_WDB_Button",
+        "ButtonID": 26155,
+        "ButtonClass": "func_button",
+        "Filter": "",
+        "Chat_Uses": false,
+        "Mode": 6,
+        "MaxUses": 0,
+        "CoolDown": 0,
+        "Ignore": false,
+        "LockItem": false,
+        "MathID": 26143,
+        "MathNameFix": true
+      },
+      {
+        "Name": "Item_WDB_Button",
+        "ButtonID": 26155,
+        "ButtonClass": "func_button",
+        "Filter": "",
+        "Chat_Uses": true,
+        "Mode": 2,
+        "MaxUses": 0,
+        "CoolDown": 7
+      }
+    ]
+  },
+  {
+    "Name": "阳光之枪",
+    "ShortName": "阳光之枪",
+    "Color": "{default}",
+    "HammerID": "26161",
+    "GlowColor": [
+      0,
+      255,
+      0,
+      1
+    ],
+    "BlockPickup": false,
+    "AllowTransfer": true,
+    "ForceDrop": true,
+    "Chat": true,
+    "Hud": true,
+    "TriggerID": 0,
+    "UsePriority": true,
+    "AbilityList": [
+      {
+        "Name": "Item_LS_Button",
+        "ButtonID": 26180,
+        "ButtonClass": "func_button",
+        "Filter": "",
+        "Chat_Uses": false,
+        "Mode": 6,
+        "MaxUses": 0,
+        "CoolDown": 0,
+        "Ignore": false,
+        "LockItem": false,
+        "MathID": 26172,
+        "MathNameFix": true
+      },
+      {
+        "Name": "Item_LS_Button",
+        "ButtonID": 26180,
+        "ButtonClass": "func_button",
+        "Filter": "",
+        "Chat_Uses": true,
+        "Mode": 2,
+        "MaxUses": 0,
+        "CoolDown": 3
+      }
+    ]
+  },
+  {
+    "Name": "神怒",
+    "ShortName": "神怒",
+    "Color": "{default}",
+    "HammerID": "26185",
+    "GlowColor": [
+      0,
+      255,
+      0,
+      1
+    ],
+    "BlockPickup": false,
+    "AllowTransfer": true,
+    "ForceDrop": true,
+    "Chat": true,
+    "Hud": true,
+    "TriggerID": 0,
+    "UsePriority": true,
+    "AbilityList": [
+      {
+        "Name": "Item_WOTG_Button",
+        "ButtonID": 26203,
+        "ButtonClass": "func_button",
+        "Filter": "",
+        "Chat_Uses": false,
+        "Mode": 6,
+        "MaxUses": 0,
+        "CoolDown": 0,
+        "Ignore": false,
+        "LockItem": false,
+        "MathID": 26196,
+        "MathNameFix": true
+      },
+      {
+        "Name": "Item_WOTG_Button",
+        "ButtonID": 26203,
+        "ButtonClass": "func_button",
+        "Filter": "",
+        "Chat_Uses": true,
+        "Mode": 2,
+        "MaxUses": 0,
+        "CoolDown": 2
+      }
+    ]
+  },
+  {
+    "Name": "混沌风暴",
+    "ShortName": "混沌风暴",
+    "Color": "{default}",
+    "HammerID": "26207",
+    "GlowColor": [
+      0,
+      255,
+      0,
+      1
+    ],
+    "BlockPickup": false,
+    "AllowTransfer": true,
+    "ForceDrop": true,
+    "Chat": true,
+    "Hud": true,
+    "TriggerID": 0,
+    "UsePriority": true,
+    "AbilityList": [
+      {
+        "Name": "Item_ChSt_Button",
+        "ButtonID": 26223,
+        "ButtonClass": "func_button",
+        "Filter": "",
+        "Chat_Uses": false,
+        "Mode": 6,
+        "MaxUses": 0,
+        "CoolDown": 0,
+        "Ignore": false,
+        "LockItem": false,
+        "MathID": 26213,
+        "MathNameFix": true
+      },
+      {
+        "Name": "Item_ChSt_Button",
+        "ButtonID": 26223,
+        "ButtonClass": "func_button",
+        "Filter": "",
+        "Chat_Uses": true,
+        "Mode": 2,
+        "MaxUses": 0,
+        "CoolDown": 10
+      }
+    ]
+  },
+  {
+    "Name": "追踪者",
+    "ShortName": "追踪者",
+    "Color": "{default}",
+    "HammerID": "26228",
+    "GlowColor": [
+      0,
+      255,
+      0,
+      1
+    ],
+    "BlockPickup": false,
+    "AllowTransfer": true,
+    "ForceDrop": true,
+    "Chat": true,
+    "Hud": true,
+    "TriggerID": 0,
+    "UsePriority": true,
+    "AbilityList": [
+      {
+        "Name": "Item_DaSt_Button",
+        "ButtonID": 26245,
+        "ButtonClass": "func_button",
+        "Filter": "",
+        "Chat_Uses": false,
+        "Mode": 6,
+        "MaxUses": 0,
+        "CoolDown": 0,
+        "Ignore": false,
+        "LockItem": false,
+        "MathID": 26240,
+        "MathNameFix": true
+      },
+      {
+        "Name": "Item_DaSt_Button",
+        "ButtonID": 26245,
+        "ButtonClass": "func_button",
+        "Filter": "",
+        "Chat_Uses": true,
+        "Mode": 2,
+        "MaxUses": 0,
+        "CoolDown": 10
+      }
+    ]
+  },
+  {
+    "Name": "隐形身躯",
+    "ShortName": "隐形身躯",
+    "Color": "{default}",
+    "HammerID": "26250",
+    "GlowColor": [
+      0,
+      255,
+      0,
+      1
+    ],
+    "BlockPickup": false,
+    "AllowTransfer": true,
+    "ForceDrop": true,
+    "Chat": true,
+    "Hud": true,
+    "TriggerID": 0,
+    "UsePriority": true,
+    "AbilityList": [
+      {
+        "Name": "Item_HiBo_Button",
+        "ButtonID": 26263,
+        "ButtonClass": "func_button",
+        "Filter": "",
+        "Chat_Uses": false,
+        "Mode": 6,
+        "MaxUses": 0,
+        "CoolDown": 0,
+        "Ignore": false,
+        "LockItem": false,
+        "MathID": 26255,
+        "MathNameFix": true
+      },
+      {
+        "Name": "Item_HiBo_Button",
+        "ButtonID": 26263,
+        "ButtonClass": "func_button",
+        "Filter": "",
+        "Chat_Uses": true,
+        "Mode": 2,
+        "MaxUses": 0,
+        "CoolDown": 8
+      }
+    ]
+  },
+  {
+    "Name": "弹药",
+    "ShortName": "弹药",
+    "Color": "{default}",
+    "HammerID": "26306",
+    "GlowColor": [
+      0,
+      255,
+      0,
+      1
+    ],
+    "BlockPickup": false,
+    "AllowTransfer": true,
+    "ForceDrop": true,
+    "Chat": true,
+    "Hud": true,
+    "TriggerID": 0,
+    "UsePriority": true,
+    "AbilityList": [
+      {
+        "Name": "Item_GA_Button",
+        "ButtonID": 26315,
+        "ButtonClass": "func_button",
+        "Filter": "",
+        "Chat_Uses": false,
+        "Mode": 6,
+        "MaxUses": 0,
+        "CoolDown": 0,
+        "Ignore": false,
+        "LockItem": false,
+        "MathID": 26308,
+        "MathNameFix": true
+      },
+      {
+        "Name": "Item_GA_Button",
+        "ButtonID": 26315,
+        "ButtonClass": "func_button",
+        "Filter": "",
+        "Chat_Uses": true,
+        "Mode": 2,
+        "MaxUses": 0,
+        "CoolDown": 10
+      }
+    ]
+  },
+  {
+    "Name": "黑焰",
+    "ShortName": "黑焰",
+    "Color": "{default}",
+    "HammerID": "25970",
+    "GlowColor": [
+      0,
+      255,
+      0,
+      1
+    ],
+    "BlockPickup": false,
+    "AllowTransfer": true,
+    "ForceDrop": true,
+    "Chat": true,
+    "Hud": true,
+    "TriggerID": 0,
+    "UsePriority": true,
+    "AbilityList": [
+      {
+        "Name": "Item_BF_Button",
+        "ButtonID": 25992,
+        "ButtonClass": "func_button",
+        "Filter": "",
+        "Chat_Uses": false,
+        "Mode": 6,
+        "MaxUses": 0,
+        "CoolDown": 0,
+        "Ignore": false,
+        "LockItem": false,
+        "MathID": 25983,
+        "MathNameFix": true
+      },
+      {
+        "Name": "Item_BF_Button",
+        "ButtonID": 25992,
+        "ButtonClass": "func_button",
+        "Filter": "",
+        "Chat_Uses": true,
+        "Mode": 2,
+        "MaxUses": 0,
+        "CoolDown": 3
+      }
+    ]
+  },
+  {
+    "Name": "毒雾",
+    "ShortName": "毒雾",
+    "Color": "{default}",
+    "HammerID": "25997",
+    "GlowColor": [
+      0,
+      255,
+      0,
+      1
+    ],
+    "BlockPickup": false,
+    "AllowTransfer": true,
+    "ForceDrop": true,
+    "Chat": true,
+    "Hud": true,
+    "TriggerID": 0,
+    "UsePriority": true,
+    "AbilityList": [
+      {
+        "Name": "Item_PM_Button",
+        "ButtonID": 26009,
+        "ButtonClass": "func_button",
+        "Filter": "",
+        "Chat_Uses": false,
+        "Mode": 6,
+        "MaxUses": 0,
+        "CoolDown": 0,
+        "Ignore": false,
+        "LockItem": false,
+        "MathID": 26003,
+        "MathNameFix": true
+      },
+      {
+        "Name": "Item_PM_Button",
+        "ButtonID": 26009,
+        "ButtonClass": "func_button",
+        "Filter": "",
+        "Chat_Uses": true,
+        "Mode": 2,
+        "MaxUses": 0,
+        "CoolDown": 20
+      }
+    ]
+  },
+  {
+    "Name": "冲击",
+    "ShortName": "冲击",
+    "Color": "{default}",
+    "HammerID": "26068",
+    "GlowColor": [
+      0,
+      255,
+      0,
+      1
+    ],
+    "BlockPickup": false,
+    "AllowTransfer": true,
+    "ForceDrop": true,
+    "Chat": true,
+    "Hud": true,
+    "TriggerID": 0,
+    "UsePriority": true,
+    "AbilityList": [
+      {
+        "Name": "Item_GR_Button",
+        "ButtonID": 26103,
+        "ButtonClass": "func_button",
+        "Filter": "",
+        "Chat_Uses": false,
+        "Mode": 6,
+        "MaxUses": 0,
+        "CoolDown": 0,
+        "Ignore": false,
+        "LockItem": false,
+        "MathID": 26090,
+        "MathNameFix": true
+      },
+      {
+        "Name": "Item_GR_Button",
+        "ButtonID": 26103,
+        "ButtonClass": "func_button",
+        "Filter": "",
+        "Chat_Uses": true,
+        "Mode": 2,
+        "MaxUses": 0,
+        "CoolDown": 3
+      }
+    ]
+  },
+  {
+    "Name": "猛毒雾",
+    "ShortName": "猛毒雾",
+    "Color": "{default}",
+    "HammerID": "26268",
+    "GlowColor": [
+      0,
+      255,
+      0,
+      1
+    ],
+    "BlockPickup": false,
+    "AllowTransfer": true,
+    "ForceDrop": true,
+    "Chat": true,
+    "Hud": true,
+    "TriggerID": 0,
+    "UsePriority": true,
+    "AbilityList": [
+      {
+        "Name": "Item_TM_Button",
+        "ButtonID": 26280,
+        "ButtonClass": "func_button",
+        "Filter": "",
+        "Chat_Uses": false,
+        "Mode": 6,
+        "MaxUses": 0,
+        "CoolDown": 0,
+        "Ignore": false,
+        "LockItem": false,
+        "MathID": 26275,
+        "MathNameFix": true
+      },
+      {
+        "Name": "Item_TM_Button",
+        "ButtonID": 26280,
+        "ButtonClass": "func_button",
+        "Filter": "",
+        "Chat_Uses": true,
+        "Mode": 2,
+        "MaxUses": 0,
+        "CoolDown": 15
+      }
+    ]
+  },
+  {
+    "Name": "内在潜力",
+    "ShortName": "内在潜力",
+    "Color": "{default}",
+    "HammerID": "26284",
+    "GlowColor": [
+      0,
+      255,
+      0,
+      1
+    ],
+    "BlockPickup": false,
+    "AllowTransfer": true,
+    "ForceDrop": true,
+    "Chat": true,
+    "Hud": true,
+    "TriggerID": 0,
+    "UsePriority": true,
+    "AbilityList": [
+      {
+        "Name": "Item_PW_Button",
+        "ButtonID": 26301,
+        "ButtonClass": "func_button",
+        "Filter": "",
+        "Chat_Uses": false,
+        "Mode": 6,
+        "MaxUses": 0,
+        "CoolDown": 0,
+        "Ignore": false,
+        "LockItem": false,
+        "MathID": 26293,
+        "MathNameFix": true
+      },
+      {
+        "Name": "Item_PW_Button",
+        "ButtonID": 26301,
+        "ButtonClass": "func_button",
+        "Filter": "",
+        "Chat_Uses": true,
+        "Mode": 2,
+        "MaxUses": 0,
+        "CoolDown": 8
+      }
+    ]
+  }
+]
