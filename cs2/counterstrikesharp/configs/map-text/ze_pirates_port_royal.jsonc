@@ -1,21 +1,21 @@
 {
   "||| KRAKEN HAS SENT A BUBBLES ON YOU |||": {
-    "translation": "|||5秒，克拉肯对你使用了泡泡|||"
+    "translation": "|||3秒，克拉肯对你使用了泡泡|||"
   },
   "||| KRAKEN HAS SENT A WAVE ON YOU |||": {
-    "translation": "|||5秒，克拉肯对你使用了浪潮(切刀按住W)|||"
+    "translation": "|||3秒，克拉肯对你使用了浪潮(切刀按住W)|||"
   },
   "||| KRAKEN HAS SENT AN EXPLOSIVE ZOMBIE |||": {
-    "translation": "|||5秒，克拉肯对你扔了一只自爆僵尸 (注意躲避)|||"
+    "translation": "|||3秒，克拉肯对你扔了一只自爆僵尸 (注意躲避)|||"
   },
   "||| KRAKEN HAS THROWN BARREL ON YOU |||": {
-    "translation": "|||5秒，克拉肯对你扔出了桶 (注意躲避)|||"
+    "translation": "|||3秒，克拉肯对你扔出了桶 (注意躲避)|||"
   },
   "||| KRAKEN HAS THROWN BARRELS ON YOU |||": {
-    "translation": "|||5秒，克拉肯对你扔出了多个桶 (注意躲避)|||"
+    "translation": "|||3秒，克拉肯对你扔出了多个桶 (注意躲避)|||"
   },
   "||| KRAKEN HAS USED VORTEX |||": {
-    "translation": "|||5秒，克拉肯对你使用了涡旋 (切刀按住S，或者使用墙) |||"
+    "translation": "|||3秒，克拉肯对你使用了涡旋 (切刀按住S，或者使用墙) |||"
   },
   "!!! KILL ALL ZOMBIES !!!": {
     "translation": "!!!杀死所有僵尸!!!"
@@ -230,9 +230,6 @@
   ">>> IT'S KRAKEN. KILL HIM! <<<": {
     "translation": ">>>是克拉肯。杀了他！<<<"
   },
-  ">>> KRAKEN GOD! <<<": {
-    "translation": ">>>神.克拉肯！<<<"
-  },
   ">>> KRAKEN HAS USED WAVE TO CLEAR THE PATH <<<": {
     "translation": ">>>克拉肯使用浪潮清理了道路<<<"
   },
@@ -299,9 +296,6 @@
   ">>> |LEVEL 4| <<<": {
     "translation": ">>>|关卡4|<<<"
   },
-  ">>> |LEVEL 5 KRAKEN GOD!| <<<": {
-    "translation": ">>>|关卡5 神.克拉肯！|<<<"
-  },
   ">>> |LEVEL 5| <<<": {
     "translation": ">>>|关卡5|<<<"
   },
@@ -317,6 +311,9 @@
   "|Admin Room| ***Admin has changed difficulty to LEVEL 2 ***": {
     "translation": "|管理员房间|***管理员选择了第2关***"
   },
+  "|Admin Room| ***Admin has changed difficulty to-LEVEL 3 ***": {
+    "translation": "|管理员房间|***管理员选择了第3关***"
+  },
   "|Admin Room| ***Admin has changed difficulty to LEVEL 4 ***": {
     "translation": "|管理员房间|***管理员选择了第4关***"
   },
@@ -326,28 +323,25 @@
   "|Admin Room| ***Admin has changed difficulty to LEVEL 5 KRAKEN GOD ***": {
     "translation": "|管理员房间|***管理员选择了第5关 神.克拉肯***"
   },
-  "|Admin Room| ***Admin has changed difficulty to-LEVEL 3 ***": {
-    "translation": "|管理员房间|***管理员选择了第3关***"
-  },
   ">>> HOLD FOR 30 SEC <<<": {
-    "translation": ""
+    "translation": ">>> 防守30秒 <<<"
   },
   ">>> YOU WON THE MAP, BUT YOU DIDN’T KILL THE GOD KRAKEN. <<< ": {
-    "translation": ""
+    "translation": ">>> 你赢了，但你还没有杀死神.克拉肯 <<< "
   },
   ">>> |LEVEL 6 KRAKEN GOD!| <<<": {
-    "translation": ""
+    "translation": ">>> |关卡6 神.克拉肯！| <<<"
   },
   ">>> DOOR OPENS IN 15 SEC <<<": {
-    "translation": ""
+    "translation": ">>> 门在15秒内打开 <<<"
   },
   ">>> DOOR OPENS IN 20 SEC <<<": {
-    "translation": ""
+    "translation": ">>> 门在20秒内打开 <<<"
   },
   ">>> HOLD FOR 20 SEC <<<": {
-    "translation": ""
+    "translation": ">>> 防守20秒 <<<"
   },
   ">>> IT'S GOD KRAKEN. KILL HIM! <<<": {
-    "translation": ""
+    "translation": ">>> 是神.克拉肯。杀死它！ <<<"
   }
 }
