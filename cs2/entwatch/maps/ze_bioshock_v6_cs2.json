@@ -19,20 +19,6 @@
         "ButtonClass": "func_button",
         "Filter": "electrouser",
         "Chat_Uses": true,
-        "Mode": 6,
-        "MaxUses": 0,
-        "CoolDown": 0,
-        "Ignore": false,
-        "LockItem": false,
-        "MathID": 3046,
-        "MathNameFix": false
-      },
-      {
-        "Name": "plasmid_button_electro",
-        "ButtonID": 3040,
-        "ButtonClass": "func_button",
-        "Filter": "electrouser",
-        "Chat_Uses": true,
         "Mode": 2,
         "MaxUses": 0,
         "CoolDown": 11
@@ -53,20 +39,6 @@
     "TriggerID": 0,
     "UsePriority": true,
     "AbilityList": [
-      {
-        "Name": "plasmid_button_incinerate",
-        "ButtonID": 3049,
-        "ButtonClass": "func_button",
-        "Filter": "incinerateuser",
-        "Chat_Uses": true,
-        "Mode": 6,
-        "MaxUses": 0,
-        "CoolDown": 0,
-        "Ignore": false,
-        "LockItem": false,
-        "MathID": 3055,
-        "MathNameFix": false
-      },
       {
         "Name": "plasmid_button_incinerate",
         "ButtonID": 3049,
@@ -99,20 +71,6 @@
         "ButtonClass": "func_button",
         "Filter": "cycloneuser",
         "Chat_Uses": true,
-        "Mode": 6,
-        "MaxUses": 0,
-        "CoolDown": 0,
-        "Ignore": false,
-        "LockItem": false,
-        "MathID": 3065,
-        "MathNameFix": false
-      },
-      {
-        "Name": "plasmid_button_cyclone",
-        "ButtonID": 3059,
-        "ButtonClass": "func_button",
-        "Filter": "cycloneuser",
-        "Chat_Uses": true,
         "Mode": 2,
         "MaxUses": 0,
         "CoolDown": 10
@@ -133,20 +91,6 @@
     "TriggerID": 0,
     "UsePriority": true,
     "AbilityList": [
-      {
-        "Name": "plasmid_button_insect",
-        "ButtonID": 3146,
-        "ButtonClass": "func_button",
-        "Filter": "insectuser",
-        "Chat_Uses": true,
-        "Mode": 6,
-        "MaxUses": 0,
-        "CoolDown": 0,
-        "Ignore": false,
-        "LockItem": false,
-        "MathID": 4334,
-        "MathNameFix": false
-      },
       {
         "Name": "plasmid_button_insect",
         "ButtonID": 3146,
@@ -231,13 +175,9 @@
         "ButtonClass": "",
         "Filter": "little_sister",
         "Chat_Uses": true,
-        "Mode": 6,
+        "Mode": 1,
         "MaxUses": 0,
-        "CoolDown": 0,
-        "Ignore": false,
-        "LockItem": false,
-        "MathID": 3553,
-        "MathNameFix": false
+        "CoolDown": 0
       }
     ]
   },
@@ -287,13 +227,9 @@
         "ButtonClass": "func_button",
         "Filter": "gravityuser",
         "Chat_Uses": true,
-        "Mode": 6,
+        "Mode": 2,
         "MaxUses": 0,
-        "CoolDown": 0,
-        "Ignore": false,
-        "LockItem": false,
-        "MathID": 4173,
-        "MathNameFix": true
+        "CoolDown": 18
       }
     ]
   },
@@ -311,20 +247,6 @@
     "TriggerID": 0,
     "UsePriority": true,
     "AbilityList": [
-      {
-        "Name": "plasmid_button_frost",
-        "ButtonID": 4183,
-        "ButtonClass": "func_button",
-        "Filter": "frostuser",
-        "Chat_Uses": true,
-        "Mode": 6,
-        "MaxUses": 0,
-        "CoolDown": 0,
-        "Ignore": false,
-        "LockItem": false,
-        "MathID": 4185,
-        "MathNameFix": false
-      },
       {
         "Name": "plasmid_button_frost",
         "ButtonID": 4183,
