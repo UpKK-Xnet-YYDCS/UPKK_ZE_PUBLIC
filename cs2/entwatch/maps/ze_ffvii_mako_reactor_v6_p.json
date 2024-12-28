@@ -1,7 +1,7 @@
 [
   {
-    "Name": "item_bio_wpn",
-    "ShortName": "item_bio_wpn",
+    "Name": "毒",
+    "ShortName": "毒",
     "Color": "{default}",
     "HammerID": "1502",
     "GlowColor": [0,255,0,1],
@@ -14,20 +14,20 @@
     "UsePriority": true,
     "AbilityList": [
       {
-        "Name": "weapon_elite",
-        "ButtonID": 0,
-        "ButtonClass": "",
-        "Filter": "",
+        "Name": "item_bio_btn",
+        "ButtonID": 1500,
+        "ButtonClass": "func_button",
+        "Filter": "player_bio:1",
         "Chat_Uses": true,
-        "Mode": 1,
+        "Mode": 2,
         "MaxUses": 0,
-        "CoolDown": 0
+        "CoolDown": 75
       }
     ]
   },
   {
-    "Name": "item_barrier_wpn",
-    "ShortName": "item_barrier_wpn",
+    "Name": "盾",
+    "ShortName": "盾",
     "Color": "{default}",
     "HammerID": "1510",
     "GlowColor": [0,255,0,1],
@@ -40,20 +40,20 @@
     "UsePriority": true,
     "AbilityList": [
       {
-        "Name": "weapon_elite",
-        "ButtonID": 0,
-        "ButtonClass": "",
-        "Filter": "",
+        "Name": "item_barrier_btn",
+        "ButtonID": 1508,
+        "ButtonClass": "func_button",
+        "Filter": "player_barrier:1",
         "Chat_Uses": true,
-        "Mode": 1,
+        "Mode": 2,
         "MaxUses": 0,
-        "CoolDown": 0
+        "CoolDown": 75
       }
     ]
   },
   {
-    "Name": "item_ultima_wpn",
-    "ShortName": "item_ultima_wpn",
+    "Name": "终极",
+    "ShortName": "终极",
     "Color": "{default}",
     "HammerID": "1518",
     "GlowColor": [0,255,0,1],
@@ -66,20 +66,20 @@
     "UsePriority": true,
     "AbilityList": [
       {
-        "Name": "weapon_elite",
-        "ButtonID": 0,
-        "ButtonClass": "",
-        "Filter": "",
+        "Name": "item_ultima_btn",
+        "ButtonID": 1516,
+        "ButtonClass": "func_button",
+        "Filter": "player_ultima:1",
         "Chat_Uses": true,
-        "Mode": 1,
-        "MaxUses": 0,
-        "CoolDown": 0
+        "Mode": 4,
+        "MaxUses": 1,
+        "CoolDown": 20
       }
     ]
   },
   {
-    "Name": "item_wind_wpn",
-    "ShortName": "item_wind_wpn",
+    "Name": "风",
+    "ShortName": "风",
     "Color": "{default}",
     "HammerID": "1531",
     "GlowColor": [0,255,0,1],
@@ -92,20 +92,20 @@
     "UsePriority": true,
     "AbilityList": [
       {
-        "Name": "weapon_elite",
-        "ButtonID": 0,
-        "ButtonClass": "",
-        "Filter": "",
+        "Name": "item_wind_btn",
+        "ButtonID": 1529,
+        "ButtonClass": "func_button",
+        "Filter": "player_wind:1",
         "Chat_Uses": true,
-        "Mode": 1,
+        "Mode": 2,
         "MaxUses": 0,
-        "CoolDown": 0
+        "CoolDown": 75
       }
     ]
   },
   {
-    "Name": "item_heal_wpn",
-    "ShortName": "item_heal_wpn",
+    "Name": "奶",
+    "ShortName": "奶",
     "Color": "{default}",
     "HammerID": "1551",
     "GlowColor": [0,255,0,1],
@@ -118,20 +118,20 @@
     "UsePriority": true,
     "AbilityList": [
       {
-        "Name": "weapon_elite",
-        "ButtonID": 0,
-        "ButtonClass": "",
-        "Filter": "",
+        "Name": "item_heal_btn",
+        "ButtonID": 1549,
+        "ButtonClass": "func_button",
+        "Filter": "player_heal:1",
         "Chat_Uses": true,
-        "Mode": 1,
+        "Mode": 2,
         "MaxUses": 0,
-        "CoolDown": 0
+        "CoolDown": 75
       }
     ]
   },
   {
-    "Name": "item_ice_wpn",
-    "ShortName": "item_ice_wpn",
+    "Name": "冰",
+    "ShortName": "冰",
     "Color": "{default}",
     "HammerID": "1564",
     "GlowColor": [0,255,0,1],
@@ -144,20 +144,20 @@
     "UsePriority": true,
     "AbilityList": [
       {
-        "Name": "weapon_elite",
-        "ButtonID": 0,
-        "ButtonClass": "",
-        "Filter": "",
+        "Name": "item_ice_btn",
+        "ButtonID": 1562,
+        "ButtonClass": "func_button",
+        "Filter": "player_ice:1",
         "Chat_Uses": true,
-        "Mode": 1,
+        "Mode": 2,
         "MaxUses": 0,
-        "CoolDown": 0
+        "CoolDown": 75
       }
     ]
   },
   {
-    "Name": "item_water_wpn",
-    "ShortName": "item_water_wpn",
+    "Name": "水",
+    "ShortName": "水",
     "Color": "{default}",
     "HammerID": "1598",
     "GlowColor": [0,255,0,1],
@@ -170,20 +170,20 @@
     "UsePriority": true,
     "AbilityList": [
       {
-        "Name": "weapon_elite",
-        "ButtonID": 0,
-        "ButtonClass": "",
-        "Filter": "",
+        "Name": "item_water_btn",
+        "ButtonID": 1596,
+        "ButtonClass": "func_button",
+        "Filter": "player_barrier:1",
         "Chat_Uses": true,
-        "Mode": 1,
+        "Mode": 2,
         "MaxUses": 0,
-        "CoolDown": 0
+        "CoolDown": 75
       }
     ]
   },
   {
-    "Name": "item_fire_wpn",
-    "ShortName": "item_fire_wpn",
+    "Name": "火",
+    "ShortName": "火",
     "Color": "{default}",
     "HammerID": "1609",
     "GlowColor": [0,255,0,1],
@@ -196,20 +196,20 @@
     "UsePriority": true,
     "AbilityList": [
       {
-        "Name": "weapon_elite",
-        "ButtonID": 0,
-        "ButtonClass": "",
-        "Filter": "",
+        "Name": "item_fire_btn",
+        "ButtonID": 1607,
+        "ButtonClass": "func_button",
+        "Filter": "player_fire:1",
         "Chat_Uses": true,
-        "Mode": 1,
+        "Mode": 2,
         "MaxUses": 0,
-        "CoolDown": 0
+        "CoolDown": 75
       }
     ]
   },
   {
-    "Name": "item_electro_wpn",
-    "ShortName": "item_electro_wpn",
+    "Name": "电",
+    "ShortName": "电",
     "Color": "{default}",
     "HammerID": "1619",
     "GlowColor": [0,255,0,1],
@@ -222,20 +222,24 @@
     "UsePriority": true,
     "AbilityList": [
       {
-        "Name": "weapon_elite",
-        "ButtonID": 0,
-        "ButtonClass": "",
-        "Filter": "",
+        "Name": "item_electro_btn",
+        "ButtonID": 1617,
+        "ButtonClass": "func_button",
+        "Filter": "player_electro:1",
         "Chat_Uses": true,
-        "Mode": 1,
+        "Mode": 6,
         "MaxUses": 0,
-        "CoolDown": 0
+        "CoolDown": 0,
+        "Ignore": false,
+        "LockItem": false,
+        "MathID": 1625,
+        "MathNameFix": false
       }
     ]
   },
   {
-    "Name": "item_earth_wpn",
-    "ShortName": "item_earth_wpn",
+    "Name": "土",
+    "ShortName": "土",
     "Color": "{default}",
     "HammerID": "1628",
     "GlowColor": [0,255,0,1],
@@ -248,20 +252,20 @@
     "UsePriority": true,
     "AbilityList": [
       {
-        "Name": "weapon_elite",
-        "ButtonID": 0,
-        "ButtonClass": "",
-        "Filter": "",
+        "Name": "item_earth_btn",
+        "ButtonID": 1626,
+        "ButtonClass": "func_button",
+        "Filter": "player_earth:1",
         "Chat_Uses": true,
-        "Mode": 1,
+        "Mode": 2,
         "MaxUses": 0,
-        "CoolDown": 0
+        "CoolDown": 75
       }
     ]
   },
   {
-    "Name": "item_gravity_wpn",
-    "ShortName": "item_gravity_wpn",
+    "Name": "黑洞",
+    "ShortName": "黑洞",
     "Color": "{default}",
     "HammerID": "1636",
     "GlowColor": [0,255,0,1],
@@ -274,46 +278,20 @@
     "UsePriority": true,
     "AbilityList": [
       {
-        "Name": "weapon_elite",
-        "ButtonID": 0,
-        "ButtonClass": "",
-        "Filter": "",
+        "Name": "item_gravity_btn",
+        "ButtonID": 1634,
+        "ButtonClass": "func_button",
+        "Filter": "player_gravity:1",
         "Chat_Uses": true,
-        "Mode": 1,
+        "Mode": 2,
         "MaxUses": 0,
-        "CoolDown": 0
+        "CoolDown": 75
       }
     ]
   },
   {
-    "Name": "Zombie_Jail_Knife",
-    "ShortName": "Zombie_Jail_Knife",
-    "Color": "{default}",
-    "HammerID": "1854",
-    "GlowColor": [0,255,0,1],
-    "BlockPickup": false,
-    "AllowTransfer": true,
-    "ForceDrop": true,
-    "Chat": true,
-    "Hud": true,
-    "TriggerID": 0,
-    "UsePriority": true,
-    "AbilityList": [
-      {
-        "Name": "weapon_knife",
-        "ButtonID": 0,
-        "ButtonClass": "",
-        "Filter": "",
-        "Chat_Uses": true,
-        "Mode": 1,
-        "MaxUses": 0,
-        "CoolDown": 0
-      }
-    ]
-  },
-  {
-    "Name": "item_mimic_wpn",
-    "ShortName": "item_mimic_wpn",
+    "Name": "复制",
+    "ShortName": "复制",
     "Color": "{default}",
     "HammerID": "346",
     "GlowColor": [0,255,0,1],
@@ -326,14 +304,14 @@
     "UsePriority": true,
     "AbilityList": [
       {
-        "Name": "weapon_elite",
-        "ButtonID": 0,
-        "ButtonClass": "",
-        "Filter": "",
+        "Name": "item_mimic_btn",
+        "ButtonID": 343,
+        "ButtonClass": "func_button",
+        "Filter": "player_mimic:1",
         "Chat_Uses": true,
-        "Mode": 1,
+        "Mode": 2,
         "MaxUses": 0,
-        "CoolDown": 0
+        "CoolDown": 75
       }
     ]
   }
