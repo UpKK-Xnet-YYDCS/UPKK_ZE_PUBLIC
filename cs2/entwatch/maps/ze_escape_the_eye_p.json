@@ -1,33 +1,37 @@
 [
   {
-    "Name": "lanzaLlamas",
-    "ShortName": "lanzaLlamas",
+    "Name": "喷火器",
+    "ShortName": "喷火器",
     "Color": "{default}",
     "HammerID": "447",
     "GlowColor": [0,255,0,1],
     "BlockPickup": false,
     "AllowTransfer": true,
     "ForceDrop": true,
-    "Chat": true,
+    "Chat": false,
     "Hud": true,
     "TriggerID": 0,
     "UsePriority": true,
     "AbilityList": [
       {
-        "Name": "weapon_p250",
-        "ButtonID": 0,
-        "ButtonClass": "",
-        "Filter": "",
+        "Name": "control_lanzallamas",
+        "ButtonID": 433,
+        "ButtonClass": "func_physbox",
+        "Filter": "we1",
         "Chat_Uses": true,
-        "Mode": 1,
+        "Mode": 6,
         "MaxUses": 0,
-        "CoolDown": 0
+        "CoolDown": 0,
+        "Ignore": false,
+        "LockItem": false,
+        "MathID": 445,
+        "MathNameFix": false
       }
     ]
   },
   {
-    "Name": "PushGunElites",
-    "ShortName": "PushGunElites",
+    "Name": "推力枪",
+    "ShortName": "推力枪",
     "Color": "{default}",
     "HammerID": "498",
     "GlowColor": [0,255,0,1],
@@ -40,14 +44,14 @@
     "UsePriority": true,
     "AbilityList": [
       {
-        "Name": "weapon_p250",
-        "ButtonID": 0,
-        "ButtonClass": "",
-        "Filter": "",
+        "Name": "PushGunButton",
+        "ButtonID": 496,
+        "ButtonClass": "func_physbox",
+        "Filter": "push",
         "Chat_Uses": true,
-        "Mode": 1,
+        "Mode": 2,
         "MaxUses": 0,
-        "CoolDown": 0
+        "CoolDown": 66
       }
     ]
   }
