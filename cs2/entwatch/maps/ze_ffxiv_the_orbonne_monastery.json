@@ -1,7 +1,7 @@
 [
   {
-    "Name": "item_fire_wep",
-    "ShortName": "item_fire_wep",
+    "Name": "fire",
+    "ShortName": "fire",
     "Color": "{default}",
     "HammerID": "1498",
     "GlowColor": [0,255,0,1],
@@ -16,7 +16,7 @@
       {
         "Name": "weapon_elite",
         "ButtonID": 0,
-        "ButtonClass": "",
+        "ButtonClass": "func_button",
         "Filter": "",
         "Chat_Uses": true,
         "Mode": 1,
@@ -26,8 +26,8 @@
     ]
   },
   {
-    "Name": "pc_wep",
-    "ShortName": "pc_wep",
+    "Name": "pc",
+    "ShortName": "pc",
     "Color": "{default}",
     "HammerID": "1532",
     "GlowColor": [0,255,0,1],
@@ -42,7 +42,7 @@
       {
         "Name": "weapon_knife",
         "ButtonID": 0,
-        "ButtonClass": "",
+        "ButtonClass": "func_button",
         "Filter": "",
         "Chat_Uses": true,
         "Mode": 1,
@@ -52,8 +52,8 @@
     ]
   },
   {
-    "Name": "item_ice_wep",
-    "ShortName": "item_ice_wep",
+    "Name": "ice",
+    "ShortName": "ice",
     "Color": "{default}",
     "HammerID": "1542",
     "GlowColor": [0,255,0,1],
@@ -68,7 +68,7 @@
       {
         "Name": "weapon_elite",
         "ButtonID": 0,
-        "ButtonClass": "",
+        "ButtonClass": "func_button",
         "Filter": "",
         "Chat_Uses": true,
         "Mode": 1,
@@ -78,8 +78,8 @@
     ]
   },
   {
-    "Name": "item_gravity_wep",
-    "ShortName": "item_gravity_wep",
+    "Name": "gravity",
+    "ShortName": "gravity",
     "Color": "{default}",
     "HammerID": "1557",
     "GlowColor": [0,255,0,1],
@@ -94,7 +94,7 @@
       {
         "Name": "weapon_elite",
         "ButtonID": 0,
-        "ButtonClass": "",
+        "ButtonClass": "func_button",
         "Filter": "",
         "Chat_Uses": true,
         "Mode": 1,
@@ -104,8 +104,8 @@
     ]
   },
   {
-    "Name": "item_electric_wep",
-    "ShortName": "item_electric_wep",
+    "Name": "electric",
+    "ShortName": "electric",
     "Color": "{default}",
     "HammerID": "1581",
     "GlowColor": [0,255,0,1],
@@ -120,7 +120,7 @@
       {
         "Name": "weapon_elite",
         "ButtonID": 0,
-        "ButtonClass": "",
+        "ButtonClass": "func_button",
         "Filter": "",
         "Chat_Uses": true,
         "Mode": 1,
@@ -130,8 +130,8 @@
     ]
   },
   {
-    "Name": "item_heal_wep",
-    "ShortName": "item_heal_wep",
+    "Name": "heal",
+    "ShortName": "heal",
     "Color": "{default}",
     "HammerID": "1596",
     "GlowColor": [0,255,0,1],
@@ -146,7 +146,7 @@
       {
         "Name": "weapon_elite",
         "ButtonID": 0,
-        "ButtonClass": "",
+        "ButtonClass": "func_button",
         "Filter": "",
         "Chat_Uses": true,
         "Mode": 1,
@@ -156,8 +156,8 @@
     ]
   },
   {
-    "Name": "item_wind_wep",
-    "ShortName": "item_wind_wep",
+    "Name": "wind",
+    "ShortName": "wind",
     "Color": "{default}",
     "HammerID": "1609",
     "GlowColor": [0,255,0,1],
@@ -172,7 +172,7 @@
       {
         "Name": "weapon_elite",
         "ButtonID": 0,
-        "ButtonClass": "",
+        "ButtonClass": "func_button",
         "Filter": "",
         "Chat_Uses": true,
         "Mode": 1,
@@ -182,8 +182,8 @@
     ]
   },
   {
-    "Name": "zitem_warp_wep",
-    "ShortName": "zitem_warp_wep",
+    "Name": "ZM warp",
+    "ShortName": "ZM warp",
     "Color": "{default}",
     "HammerID": "1647",
     "GlowColor": [0,255,0,1],
@@ -198,7 +198,7 @@
       {
         "Name": "weapon_knife",
         "ButtonID": 0,
-        "ButtonClass": "",
+        "ButtonClass": "func_button",
         "Filter": "",
         "Chat_Uses": true,
         "Mode": 1,
@@ -208,8 +208,8 @@
     ]
   },
   {
-    "Name": "zitem_lure_wep",
-    "ShortName": "zitem_lure_wep",
+    "Name": "ZM lure",
+    "ShortName": "ZM lure",
     "Color": "{default}",
     "HammerID": "1668",
     "GlowColor": [0,255,0,1],
@@ -224,7 +224,7 @@
       {
         "Name": "weapon_knife",
         "ButtonID": 0,
-        "ButtonClass": "",
+        "ButtonClass": "func_button",
         "Filter": "",
         "Chat_Uses": true,
         "Mode": 1,
@@ -234,8 +234,8 @@
     ]
   },
   {
-    "Name": "zitem_confuse_wep",
-    "ShortName": "zitem_confuse_wep",
+    "Name": "ZM confuse",
+    "ShortName": "ZM confuse",
     "Color": "{default}",
     "HammerID": "1691",
     "GlowColor": [0,255,0,1],
@@ -250,7 +250,7 @@
       {
         "Name": "weapon_knife",
         "ButtonID": 0,
-        "ButtonClass": "",
+        "ButtonClass": "func_button",
         "Filter": "",
         "Chat_Uses": true,
         "Mode": 1,
@@ -260,8 +260,8 @@
     ]
   },
   {
-    "Name": "zitem_heal_wep",
-    "ShortName": "zitem_heal_wep",
+    "Name": "ZM heal",
+    "ShortName": "ZM heal",
     "Color": "{default}",
     "HammerID": "1705",
     "GlowColor": [0,255,0,1],
@@ -276,7 +276,7 @@
       {
         "Name": "weapon_knife",
         "ButtonID": 0,
-        "ButtonClass": "",
+        "ButtonClass": "func_button",
         "Filter": "",
         "Chat_Uses": true,
         "Mode": 1,
