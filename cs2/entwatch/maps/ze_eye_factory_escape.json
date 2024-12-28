@@ -1,163 +1,7 @@
 [
   {
-    "Name": "firegun",
-    "ShortName": "firegun",
-    "Color": "{default}",
-    "HammerID": "4637",
-    "GlowColor": [0,255,0,1],
-    "BlockPickup": false,
-    "AllowTransfer": true,
-    "ForceDrop": true,
-    "Chat": true,
-    "Hud": true,
-    "TriggerID": 0,
-    "UsePriority": true,
-    "AbilityList": [
-      {
-        "Name": "weapon_p250",
-        "ButtonID": 0,
-        "ButtonClass": "",
-        "Filter": "",
-        "Chat_Uses": true,
-        "Mode": 1,
-        "MaxUses": 0,
-        "CoolDown": 0
-      }
-    ]
-  },
-  {
-    "Name": "laser_gun",
-    "ShortName": "laser_gun",
-    "Color": "{default}",
-    "HammerID": "5212",
-    "GlowColor": [0,255,0,1],
-    "BlockPickup": false,
-    "AllowTransfer": true,
-    "ForceDrop": true,
-    "Chat": true,
-    "Hud": true,
-    "TriggerID": 0,
-    "UsePriority": true,
-    "AbilityList": [
-      {
-        "Name": "weapon_p250",
-        "ButtonID": 0,
-        "ButtonClass": "",
-        "Filter": "",
-        "Chat_Uses": true,
-        "Mode": 1,
-        "MaxUses": 0,
-        "CoolDown": 0
-      }
-    ]
-  },
-  {
-    "Name": "bazooka_gun",
-    "ShortName": "bazooka_gun",
-    "Color": "{default}",
-    "HammerID": "4638",
-    "GlowColor": [0,255,0,1],
-    "BlockPickup": false,
-    "AllowTransfer": true,
-    "ForceDrop": true,
-    "Chat": true,
-    "Hud": true,
-    "TriggerID": 0,
-    "UsePriority": true,
-    "AbilityList": [
-      {
-        "Name": "weapon_p250",
-        "ButtonID": 0,
-        "ButtonClass": "",
-        "Filter": "",
-        "Chat_Uses": true,
-        "Mode": 1,
-        "MaxUses": 0,
-        "CoolDown": 0
-      }
-    ]
-  },
-  {
-    "Name": "b_room3_c4",
-    "ShortName": "b_room3_c4",
-    "Color": "{default}",
-    "HammerID": "4713",
-    "GlowColor": [0,255,0,1],
-    "BlockPickup": false,
-    "AllowTransfer": true,
-    "ForceDrop": true,
-    "Chat": true,
-    "Hud": true,
-    "TriggerID": 0,
-    "UsePriority": true,
-    "AbilityList": [
-      {
-        "Name": "weapon_c4",
-        "ButtonID": 0,
-        "ButtonClass": "",
-        "Filter": "",
-        "Chat_Uses": true,
-        "Mode": 1,
-        "MaxUses": 0,
-        "CoolDown": 0
-      }
-    ]
-  },
-  {
-    "Name": "item_health_gun",
-    "ShortName": "item_health_gun",
-    "Color": "{default}",
-    "HammerID": "4952",
-    "GlowColor": [0,255,0,1],
-    "BlockPickup": false,
-    "AllowTransfer": true,
-    "ForceDrop": true,
-    "Chat": true,
-    "Hud": true,
-    "TriggerID": 0,
-    "UsePriority": true,
-    "AbilityList": [
-      {
-        "Name": "weapon_deagle",
-        "ButtonID": 0,
-        "ButtonClass": "",
-        "Filter": "",
-        "Chat_Uses": true,
-        "Mode": 1,
-        "MaxUses": 0,
-        "CoolDown": 0
-      }
-    ]
-  },
-  {
-    "Name": "order_knife",
-    "ShortName": "order_knife",
-    "Color": "{default}",
-    "HammerID": "9501",
-    "GlowColor": [0,255,0,1],
-    "BlockPickup": false,
-    "AllowTransfer": true,
-    "ForceDrop": true,
-    "Chat": true,
-    "Hud": true,
-    "TriggerID": 0,
-    "UsePriority": true,
-    "AbilityList": [
-      {
-        "Name": "weapon_knife",
-        "ButtonID": 0,
-        "ButtonClass": "",
-        "Filter": "",
-        "Chat_Uses": true,
-        "Mode": 1,
-        "MaxUses": 0,
-        "CoolDown": 0
-      }
-    ]
-  },
-  {
-    "Name": "Item_Ammo",
-    "ShortName": "Item_Ammo",
+    "Name": "弹药",
+    "ShortName": "弹药",
     "Color": "{default}",
     "HammerID": "13808",
     "GlowColor": [0,255,0,1],
@@ -170,7 +14,89 @@
     "UsePriority": true,
     "AbilityList": [
       {
-        "Name": "weapon_glock",
+        "Name": "Button_Ammo",
+        "ButtonID": 13821,
+        "ButtonClass": "func_button",
+        "Filter": "Player_Ammo1",
+        "Chat_Uses": true,
+        "Mode": 2,
+        "MaxUses": 0,
+        "CoolDown": 90
+      }
+    ]
+  },
+  {
+    "Name": "喷火器",
+    "ShortName": "喷火器",
+    "Color": "{default}",
+    "HammerID": "4637",
+    "GlowColor": [0,255,0,1],
+    "BlockPickup": false,
+    "AllowTransfer": true,
+    "ForceDrop": true,
+    "Chat": false,
+    "Hud": true,
+    "TriggerID": 0,
+    "UsePriority": true,
+    "AbilityList": [
+      {
+        "Name": "firegun_button",
+        "ButtonID": 4653,
+        "ButtonClass": "func_button",
+        "Filter": "firegun_user",
+        "Chat_Uses": true,
+        "Mode": 6,
+        "MaxUses": 0,
+        "CoolDown": 0,
+        "Ignore": false,
+        "LockItem": false,
+        "MathID": 4661,
+        "MathNameFix": false
+      }
+    ]
+  },
+  {
+    "Name": "火箭筒",
+    "ShortName": "火箭筒",
+    "Color": "{default}",
+    "HammerID": "4638",
+    "GlowColor": [0,255,0,1],
+    "BlockPickup": false,
+    "AllowTransfer": true,
+    "ForceDrop": true,
+    "Chat": true,
+    "Hud": true,
+    "TriggerID": 0,
+    "UsePriority": true,
+    "AbilityList": [
+      {
+        "Name": "bazooka_button",
+        "ButtonID": 4682,
+        "ButtonClass": "func_button",
+        "Filter": "bazooka_user",
+        "Chat_Uses": true,
+        "Mode": 4,
+        "MaxUses": 10,
+        "CoolDown": 7
+      }
+    ]
+  },
+  {
+    "Name": "C4炸弹",
+    "ShortName": "C4炸弹",
+    "Color": "{default}",
+    "HammerID": "4713",
+    "GlowColor": [0,255,0,1],
+    "BlockPickup": false,
+    "AllowTransfer": true,
+    "ForceDrop": true,
+    "Chat": true,
+    "Hud": true,
+    "TriggerID": 0,
+    "UsePriority": true,
+    "AbilityList": [
+      {
+        "Name": "",
         "ButtonID": 0,
         "ButtonClass": "",
         "Filter": "",
@@ -178,6 +104,58 @@
         "Mode": 1,
         "MaxUses": 0,
         "CoolDown": 0
+      }
+    ]
+  },
+  {
+    "Name": "奶",
+    "ShortName": "奶",
+    "Color": "{default}",
+    "HammerID": "4952",
+    "GlowColor": [0,255,0,1],
+    "BlockPickup": false,
+    "AllowTransfer": true,
+    "ForceDrop": true,
+    "Chat": true,
+    "Hud": true,
+    "TriggerID": 0,
+    "UsePriority": true,
+    "AbilityList": [
+      {
+        "Name": "item_health_button",
+        "ButtonID": 4956,
+        "ButtonClass": "func_button",
+        "Filter": "health_user",
+        "Chat_Uses": true,
+        "Mode": 2,
+        "MaxUses": 0,
+        "CoolDown": 90
+      }
+    ]
+  },
+  {
+    "Name": "黑洞",
+    "ShortName": "黑洞",
+    "Color": "{default}",
+    "HammerID": "14047",
+    "GlowColor": [0,255,0,1],
+    "BlockPickup": false,
+    "AllowTransfer": true,
+    "ForceDrop": true,
+    "Chat": true,
+    "Hud": true,
+    "TriggerID": 0,
+    "UsePriority": true,
+    "AbilityList": [
+      {
+        "Name": "gravity_button",
+        "ButtonID": 14049,
+        "ButtonClass": "func_button",
+        "Filter": "gravity_user",
+        "Chat_Uses": true,
+        "Mode": 2,
+        "MaxUses": 0,
+        "CoolDown": 120
       }
     ]
   }
