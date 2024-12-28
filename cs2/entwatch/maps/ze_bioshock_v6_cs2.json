@@ -282,7 +282,7 @@
     "UsePriority": true,
     "AbilityList": [
       {
-        "Name": "",
+        "Name": "plasmid_button_gravity",
         "ButtonID": 0,
         "ButtonClass": "",
         "Filter": "",
@@ -292,8 +292,8 @@
         "CoolDown": 0,
         "Ignore": false,
         "LockItem": false,
-        "MathID": 4177,
-        "MathNameFix": false
+        "MathID": 4173,
+        "MathNameFix": true
       }
     ]
   },
