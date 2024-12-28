@@ -1,7 +1,7 @@
 [
   {
-    "Name": "fire_weapon",
-    "ShortName": "fire_weapon",
+    "Name": "火",
+    "ShortName": "火",
     "Color": "{default}",
     "HammerID": "16991",
     "GlowColor": [0,255,0,1],
@@ -14,20 +14,20 @@
     "UsePriority": true,
     "AbilityList": [
       {
-        "Name": "weapon_glock",
-        "ButtonID": 0,
-        "ButtonClass": "",
-        "Filter": "",
+        "Name": "fire_button",
+        "ButtonID": 16989,
+        "ButtonClass": "func_button",
+        "Filter": "player_fire1",
         "Chat_Uses": true,
-        "Mode": 1,
+        "Mode": 2,
         "MaxUses": 0,
-        "CoolDown": 0
+        "CoolDown": 55
       }
     ]
   },
   {
-    "Name": "ice_weapon",
-    "ShortName": "ice_weapon",
+    "Name": "冰",
+    "ShortName": "冰",
     "Color": "{default}",
     "HammerID": "17002",
     "GlowColor": [0,255,0,1],
@@ -40,20 +40,20 @@
     "UsePriority": true,
     "AbilityList": [
       {
-        "Name": "weapon_glock",
-        "ButtonID": 0,
-        "ButtonClass": "",
-        "Filter": "",
+        "Name": "ice_button",
+        "ButtonID": 17005,
+        "ButtonClass": "func_button",
+        "Filter": "player_ice1",
         "Chat_Uses": true,
-        "Mode": 1,
+        "Mode": 2,
         "MaxUses": 0,
-        "CoolDown": 0
+        "CoolDown": 60
       }
     ]
   },
   {
-    "Name": "eye_weapon",
-    "ShortName": "eye_weapon",
+    "Name": "魔眼",
+    "ShortName": "魔眼",
     "Color": "{default}",
     "HammerID": "17020",
     "GlowColor": [0,255,0,1],
@@ -66,20 +66,20 @@
     "UsePriority": true,
     "AbilityList": [
       {
-        "Name": "weapon_deagle",
-        "ButtonID": 0,
-        "ButtonClass": "",
-        "Filter": "",
+        "Name": "key_button",
+        "ButtonID": 17010,
+        "ButtonClass": "func_button",
+        "Filter": "player_eye1",
         "Chat_Uses": true,
-        "Mode": 1,
-        "MaxUses": 0,
+        "Mode": 3,
+        "MaxUses": 1,
         "CoolDown": 0
       }
     ]
   },
   {
-    "Name": "Item_Ammo",
-    "ShortName": "Item_Ammo",
+    "Name": "弹药",
+    "ShortName": "弹药",
     "Color": "{default}",
     "HammerID": "17033",
     "GlowColor": [0,255,0,1],
@@ -92,46 +92,46 @@
     "UsePriority": true,
     "AbilityList": [
       {
-        "Name": "weapon_glock",
-        "ButtonID": 0,
-        "ButtonClass": "",
-        "Filter": "",
+        "Name": "Button_Ammo",
+        "ButtonID": 17046,
+        "ButtonClass": "func_button",
+        "Filter": "Player_Ammo1",
         "Chat_Uses": true,
-        "Mode": 1,
+        "Mode": 2,
         "MaxUses": 0,
-        "CoolDown": 0
+        "CoolDown": 60
       }
     ]
   },
   {
-    "Name": "order_knife",
-    "ShortName": "order_knife",
+    "Name": "ZM 戒律",
+    "ShortName": "ZM 戒律",
     "Color": "{default}",
     "HammerID": "17056",
     "GlowColor": [0,255,0,1],
     "BlockPickup": false,
-    "AllowTransfer": true,
-    "ForceDrop": true,
+    "AllowTransfer": false,
+    "ForceDrop": false,
     "Chat": true,
     "Hud": true,
-    "TriggerID": 0,
+    "TriggerID": 17059,
     "UsePriority": true,
     "AbilityList": [
       {
-        "Name": "weapon_knife",
-        "ButtonID": 0,
-        "ButtonClass": "",
-        "Filter": "",
+        "Name": "order_button",
+        "ButtonID": 17053,
+        "ButtonClass": "func_button",
+        "Filter": "player_order1",
         "Chat_Uses": true,
-        "Mode": 1,
+        "Mode": 2,
         "MaxUses": 0,
-        "CoolDown": 0
+        "CoolDown": 30
       }
     ]
   },
   {
-    "Name": "Item_heal",
-    "ShortName": "Item_heal",
+    "Name": "奶",
+    "ShortName": "奶",
     "Color": "{default}",
     "HammerID": "17023",
     "GlowColor": [0,255,0,1],
@@ -144,14 +144,14 @@
     "UsePriority": true,
     "AbilityList": [
       {
-        "Name": "weapon_glock",
-        "ButtonID": 0,
-        "ButtonClass": "",
-        "Filter": "",
+        "Name": "Button_heal",
+        "ButtonID": 17024,
+        "ButtonClass": "func_button",
+        "Filter": "player_heal1",
         "Chat_Uses": true,
-        "Mode": 1,
-        "MaxUses": 0,
-        "CoolDown": 0
+        "Mode": 4,
+        "MaxUses": 4,
+        "CoolDown": 5
       }
     ]
   }
