@@ -1,7 +1,7 @@
 [
   {
-    "Name": "electro_weapon",
-    "ShortName": "electro_weapon",
+    "Name": "毒",
+    "ShortName": "毒",
     "Color": "{default}",
     "HammerID": "1617",
     "GlowColor": [0,255,0,1],
@@ -14,20 +14,20 @@
     "UsePriority": true,
     "AbilityList": [
       {
-        "Name": "weapon_elite",
-        "ButtonID": 0,
-        "ButtonClass": "",
-        "Filter": "",
+        "Name": "electro_button",
+        "ButtonID": 4349,
+        "ButtonClass": "func_button",
+        "Filter": "filter_electro",
         "Chat_Uses": true,
-        "Mode": 1,
+        "Mode": 2,
         "MaxUses": 0,
-        "CoolDown": 0
+        "CoolDown": 50
       }
     ]
   },
   {
-    "Name": "heal_weapon",
-    "ShortName": "heal_weapon",
+    "Name": "奶",
+    "ShortName": "奶",
     "Color": "{default}",
     "HammerID": "1623",
     "GlowColor": [0,255,0,1],
@@ -40,20 +40,20 @@
     "UsePriority": true,
     "AbilityList": [
       {
-        "Name": "weapon_elite",
-        "ButtonID": 0,
-        "ButtonClass": "",
-        "Filter": "",
+        "Name": "heal_button",
+        "ButtonID": 4351,
+        "ButtonClass": "func_button",
+        "Filter": "filter_heal",
         "Chat_Uses": true,
-        "Mode": 1,
+        "Mode": 2,
         "MaxUses": 0,
-        "CoolDown": 0
+        "CoolDown": 50
       }
     ]
   },
   {
-    "Name": "wind_weapon",
-    "ShortName": "wind_weapon",
+    "Name": "风",
+    "ShortName": "风",
     "Color": "{default}",
     "HammerID": "1628",
     "GlowColor": [0,255,0,1],
@@ -66,20 +66,20 @@
     "UsePriority": true,
     "AbilityList": [
       {
-        "Name": "weapon_elite",
-        "ButtonID": 0,
-        "ButtonClass": "",
-        "Filter": "",
+        "Name": "wind_button",
+        "ButtonID": 4359,
+        "ButtonClass": "func_button",
+        "Filter": "filter_wind",
         "Chat_Uses": true,
-        "Mode": 1,
+        "Mode": 2,
         "MaxUses": 0,
-        "CoolDown": 0
+        "CoolDown": 65
       }
     ]
   },
   {
-    "Name": "fire_weapon",
-    "ShortName": "fire_weapon",
+    "Name": "火",
+    "ShortName": "火",
     "Color": "{default}",
     "HammerID": "1633",
     "GlowColor": [0,255,0,1],
@@ -92,20 +92,20 @@
     "UsePriority": true,
     "AbilityList": [
       {
-        "Name": "weapon_elite",
-        "ButtonID": 0,
-        "ButtonClass": "",
-        "Filter": "",
+        "Name": "fire_button",
+        "ButtonID": 4357,
+        "ButtonClass": "func_button",
+        "Filter": "filter_fire",
         "Chat_Uses": true,
-        "Mode": 1,
+        "Mode": 2,
         "MaxUses": 0,
-        "CoolDown": 0
+        "CoolDown": 50
       }
     ]
   },
   {
-    "Name": "gravity_weapon",
-    "ShortName": "gravity_weapon",
+    "Name": "土",
+    "ShortName": "土",
     "Color": "{default}",
     "HammerID": "1638",
     "GlowColor": [0,255,0,1],
@@ -118,20 +118,20 @@
     "UsePriority": true,
     "AbilityList": [
       {
-        "Name": "weapon_elite",
-        "ButtonID": 0,
-        "ButtonClass": "",
-        "Filter": "",
+        "Name": "gravity_button",
+        "ButtonID": 4353,
+        "ButtonClass": "func_button",
+        "Filter": "filter_gravity",
         "Chat_Uses": true,
-        "Mode": 1,
+        "Mode": 2,
         "MaxUses": 0,
-        "CoolDown": 0
+        "CoolDown": 75
       }
     ]
   },
   {
-    "Name": "ice_weapon",
-    "ShortName": "ice_weapon",
+    "Name": "冰",
+    "ShortName": "冰",
     "Color": "{default}",
     "HammerID": "1649",
     "GlowColor": [0,255,0,1],
@@ -144,33 +144,33 @@
     "UsePriority": true,
     "AbilityList": [
       {
-        "Name": "weapon_elite",
-        "ButtonID": 0,
-        "ButtonClass": "",
-        "Filter": "",
+        "Name": "ice_button",
+        "ButtonID": 4355,
+        "ButtonClass": "func_button",
+        "Filter": "filter_ice",
         "Chat_Uses": true,
-        "Mode": 1,
+        "Mode": 2,
         "MaxUses": 0,
-        "CoolDown": 0
+        "CoolDown": 65
       }
     ]
   },
   {
-    "Name": "crystal_pistol",
-    "ShortName": "crystal_pistol",
+    "Name": "水晶",
+    "ShortName": "水晶",
     "Color": "{default}",
     "HammerID": "632",
     "GlowColor": [0,255,0,1],
     "BlockPickup": false,
     "AllowTransfer": true,
     "ForceDrop": true,
-    "Chat": true,
+    "Chat": false,
     "Hud": true,
     "TriggerID": 0,
     "UsePriority": true,
     "AbilityList": [
       {
-        "Name": "weapon_elite",
+        "Name": "",
         "ButtonID": 0,
         "ButtonClass": "",
         "Filter": "",
