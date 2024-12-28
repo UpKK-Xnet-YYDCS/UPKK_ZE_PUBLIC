@@ -282,10 +282,10 @@
     "UsePriority": true,
     "AbilityList": [
       {
-        "Name": "plasmid_button_gravity",
-        "ButtonID": 4171,
-        "ButtonClass": "func_button",
-        "Filter": "gravityuser",
+        "Name": "",
+        "ButtonID": 0,
+        "ButtonClass": "",
+        "Filter": "",
         "Chat_Uses": true,
         "Mode": 6,
         "MaxUses": 0,
