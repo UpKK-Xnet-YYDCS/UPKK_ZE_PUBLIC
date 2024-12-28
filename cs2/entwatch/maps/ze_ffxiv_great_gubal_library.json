@@ -1,7 +1,7 @@
 [
   {
-    "Name": "Item_BLM_elite",
-    "ShortName": "Item_BLM_elite",
+    "Name": "黑魔法师",
+    "ShortName": "黑魔法师",
     "Color": "{default}",
     "HammerID": "15754",
     "GlowColor": [0,255,0,1],
@@ -14,202 +14,34 @@
     "UsePriority": true,
     "AbilityList": [
       {
-        "Name": "weapon_elite",
-        "ButtonID": 0,
-        "ButtonClass": "",
-        "Filter": "",
+        "Name": "Item_BLM_button",
+        "ButtonID": 15755,
+        "ButtonClass": "func_button",
+        "Filter": "Player_BLM:1",
         "Chat_Uses": true,
-        "Mode": 1,
+        "Mode": 6,
         "MaxUses": 0,
-        "CoolDown": 0
-      }
-    ]
-  },
-  {
-    "Name": "Item_ice_elite",
-    "ShortName": "Item_ice_elite",
-    "Color": "{default}",
-    "HammerID": "15839",
-    "GlowColor": [0,255,0,1],
-    "BlockPickup": false,
-    "AllowTransfer": true,
-    "ForceDrop": true,
-    "Chat": true,
-    "Hud": true,
-    "TriggerID": 0,
-    "UsePriority": true,
-    "AbilityList": [
+        "CoolDown": 0,
+        "Ignore": false,
+        "LockItem": false,
+        "MathID": 15763,
+        "MathNameFix": false
+      },
       {
-        "Name": "weapon_elite",
-        "ButtonID": 0,
-        "ButtonClass": "",
-        "Filter": "",
+        "Name": "Item_BLM_Lines_button",
+        "ButtonID": 15759,
+        "ButtonClass": "func_button",
+        "Filter": "Player_BLM:1",
         "Chat_Uses": true,
-        "Mode": 1,
+        "Mode": 2,
         "MaxUses": 0,
-        "CoolDown": 0
+        "CoolDown": 180
       }
     ]
   },
   {
-    "Name": "Item_Blackhole_elite",
-    "ShortName": "Item_Blackhole_elite",
-    "Color": "{default}",
-    "HammerID": "15866",
-    "GlowColor": [0,255,0,1],
-    "BlockPickup": false,
-    "AllowTransfer": true,
-    "ForceDrop": true,
-    "Chat": true,
-    "Hud": true,
-    "TriggerID": 0,
-    "UsePriority": true,
-    "AbilityList": [
-      {
-        "Name": "weapon_elite",
-        "ButtonID": 0,
-        "ButtonClass": "",
-        "Filter": "",
-        "Chat_Uses": true,
-        "Mode": 1,
-        "MaxUses": 0,
-        "CoolDown": 0
-      }
-    ]
-  },
-  {
-    "Name": "Item_SGE_elite",
-    "ShortName": "Item_SGE_elite",
-    "Color": "{default}",
-    "HammerID": "15874",
-    "GlowColor": [0,255,0,1],
-    "BlockPickup": false,
-    "AllowTransfer": true,
-    "ForceDrop": true,
-    "Chat": true,
-    "Hud": true,
-    "TriggerID": 0,
-    "UsePriority": true,
-    "AbilityList": [
-      {
-        "Name": "weapon_elite",
-        "ButtonID": 0,
-        "ButtonClass": "",
-        "Filter": "",
-        "Chat_Uses": true,
-        "Mode": 1,
-        "MaxUses": 0,
-        "CoolDown": 0
-      }
-    ]
-  },
-  {
-    "Name": "Item_fire_elite&0000",
-    "ShortName": "Item_fire_elite&0000",
-    "Color": "{default}",
-    "HammerID": "24577",
-    "GlowColor": [0,255,0,1],
-    "BlockPickup": false,
-    "AllowTransfer": true,
-    "ForceDrop": true,
-    "Chat": true,
-    "Hud": true,
-    "TriggerID": 0,
-    "UsePriority": true,
-    "AbilityList": [
-      {
-        "Name": "weapon_elite",
-        "ButtonID": 0,
-        "ButtonClass": "",
-        "Filter": "",
-        "Chat_Uses": true,
-        "Mode": 1,
-        "MaxUses": 0,
-        "CoolDown": 0
-      }
-    ]
-  },
-  {
-    "Name": "Item_Electricity_elite&0000",
-    "ShortName": "Item_Electricity_elite&0000",
-    "Color": "{default}",
-    "HammerID": "24669",
-    "GlowColor": [0,255,0,1],
-    "BlockPickup": false,
-    "AllowTransfer": true,
-    "ForceDrop": true,
-    "Chat": true,
-    "Hud": true,
-    "TriggerID": 0,
-    "UsePriority": true,
-    "AbilityList": [
-      {
-        "Name": "weapon_elite",
-        "ButtonID": 0,
-        "ButtonClass": "",
-        "Filter": "",
-        "Chat_Uses": true,
-        "Mode": 1,
-        "MaxUses": 0,
-        "CoolDown": 0
-      }
-    ]
-  },
-  {
-    "Name": "Item_Bio_elite&0000",
-    "ShortName": "Item_Bio_elite&0000",
-    "Color": "{default}",
-    "HammerID": "24683",
-    "GlowColor": [0,255,0,1],
-    "BlockPickup": false,
-    "AllowTransfer": true,
-    "ForceDrop": true,
-    "Chat": true,
-    "Hud": true,
-    "TriggerID": 0,
-    "UsePriority": true,
-    "AbilityList": [
-      {
-        "Name": "weapon_elite",
-        "ButtonID": 0,
-        "ButtonClass": "",
-        "Filter": "",
-        "Chat_Uses": true,
-        "Mode": 1,
-        "MaxUses": 0,
-        "CoolDown": 0
-      }
-    ]
-  },
-  {
-    "Name": "Item_Speed_elite&0000",
-    "ShortName": "Item_Speed_elite&0000",
-    "Color": "{default}",
-    "HammerID": "24713",
-    "GlowColor": [0,255,0,1],
-    "BlockPickup": false,
-    "AllowTransfer": true,
-    "ForceDrop": true,
-    "Chat": true,
-    "Hud": true,
-    "TriggerID": 0,
-    "UsePriority": true,
-    "AbilityList": [
-      {
-        "Name": "weapon_elite",
-        "ButtonID": 0,
-        "ButtonClass": "",
-        "Filter": "",
-        "Chat_Uses": true,
-        "Mode": 1,
-        "MaxUses": 0,
-        "CoolDown": 0
-      }
-    ]
-  },
-  {
-    "Name": "Item_SMN_elite",
-    "ShortName": "Item_SMN_elite",
+    "Name": "召唤师",
+    "ShortName": "召唤师",
     "Color": "{default}",
     "HammerID": "15788",
     "GlowColor": [0,255,0,1],
@@ -222,14 +54,314 @@
     "UsePriority": true,
     "AbilityList": [
       {
-        "Name": "weapon_elite",
-        "ButtonID": 0,
-        "ButtonClass": "",
-        "Filter": "",
+        "Name": "Item_SMN_button",
+        "ButtonID": 15790,
+        "ButtonClass": "func_button",
+        "Filter": "Player_SMN:1",
         "Chat_Uses": true,
-        "Mode": 1,
+        "Mode": 2,
         "MaxUses": 0,
+        "CoolDown": 45
+      }
+    ]
+  },
+  {
+    "Name": "冰",
+    "ShortName": "冰",
+    "Color": "{default}",
+    "HammerID": "15839",
+    "GlowColor": [0,255,0,1],
+    "BlockPickup": false,
+    "AllowTransfer": true,
+    "ForceDrop": true,
+    "Chat": true,
+    "Hud": true,
+    "TriggerID": 0,
+    "UsePriority": true,
+    "AbilityList": [
+      {
+        "Name": "Item_ice_button",
+        "ButtonID": 15840,
+        "ButtonClass": "func_button",
+        "Filter": "Player_ice:1",
+        "Chat_Uses": true,
+        "Mode": 2,
+        "MaxUses": 0,
+        "CoolDown": 65
+      }
+    ]
+  },
+  {
+    "Name": "黑洞",
+    "ShortName": "黑洞",
+    "Color": "{default}",
+    "HammerID": "15866",
+    "GlowColor": [0,255,0,1],
+    "BlockPickup": false,
+    "AllowTransfer": true,
+    "ForceDrop": true,
+    "Chat": true,
+    "Hud": true,
+    "TriggerID": 0,
+    "UsePriority": true,
+    "AbilityList": [
+      {
+        "Name": "Item_Blackhole_button",
+        "ButtonID": 15863,
+        "ButtonClass": "func_button",
+        "Filter": "Player_Blackhole:1",
+        "Chat_Uses": true,
+        "Mode": 4,
+        "MaxUses": 2,
+        "CoolDown": 60
+      }
+    ]
+  },
+  {
+    "Name": "贤者",
+    "ShortName": "贤者",
+    "Color": "{default}",
+    "HammerID": "15874",
+    "GlowColor": [0,255,0,1],
+    "BlockPickup": false,
+    "AllowTransfer": true,
+    "ForceDrop": true,
+    "Chat": true,
+    "Hud": true,
+    "TriggerID": 0,
+    "UsePriority": true,
+    "AbilityList": [
+      {
+        "Name": "Item_SGE_Heal_button",
+        "ButtonID": 15885,
+        "ButtonClass": "func_button",
+        "Filter": "Player_SGE:1",
+        "Chat_Uses": true,
+        "Mode": 6,
+        "MaxUses": 0,
+        "CoolDown": 0,
+        "Ignore": false,
+        "LockItem": false,
+        "MathID": 15891,
+        "MathNameFix": false
+      },
+      {
+        "Name": "Item_SGE_button",
+        "ButtonID": 15869,
+        "ButtonClass": "func_button",
+        "Filter": "Player_SGE:1",
+        "Chat_Uses": true,
+        "Mode": 2,
+        "MaxUses": 0,
+        "CoolDown": 20
+      }
+    ]
+  },
+  {
+    "Name": "火",
+    "ShortName": "火",
+    "Color": "{default}",
+    "HammerID": "24577",
+    "GlowColor": [0,255,0,1],
+    "BlockPickup": false,
+    "AllowTransfer": true,
+    "ForceDrop": true,
+    "Chat": true,
+    "Hud": true,
+    "TriggerID": 0,
+    "UsePriority": true,
+    "AbilityList": [
+      {
+        "Name": "Item_fire_button",
+        "ButtonID": 24580,
+        "ButtonClass": "func_button",
+        "Filter": "Player_fire:1",
+        "Chat_Uses": true,
+        "Mode": 3,
+        "MaxUses": 1,
         "CoolDown": 0
+      }
+    ]
+  },
+  {
+    "Name": "电",
+    "ShortName": "电",
+    "Color": "{default}",
+    "HammerID": "24669",
+    "GlowColor": [0,255,0,1],
+    "BlockPickup": false,
+    "AllowTransfer": true,
+    "ForceDrop": true,
+    "Chat": true,
+    "Hud": true,
+    "TriggerID": 0,
+    "UsePriority": true,
+    "AbilityList": [
+      {
+        "Name": "Item_Electricity_button",
+        "ButtonID": 24670,
+        "ButtonClass": "func_button",
+        "Filter": "Player_Electricity:1",
+        "Chat_Uses": true,
+        "Mode": 3,
+        "MaxUses": 1,
+        "CoolDown": 0
+      }
+    ]
+  },
+  {
+    "Name": "毒",
+    "ShortName": "毒",
+    "Color": "{default}",
+    "HammerID": "24683",
+    "GlowColor": [0,255,0,1],
+    "BlockPickup": false,
+    "AllowTransfer": true,
+    "ForceDrop": true,
+    "Chat": true,
+    "Hud": true,
+    "TriggerID": 0,
+    "UsePriority": true,
+    "AbilityList": [
+      {
+        "Name": "Item_Bio_button",
+        "ButtonID": 24679,
+        "ButtonClass": "func_button",
+        "Filter": "Player_Bio:1",
+        "Chat_Uses": true,
+        "Mode": 3,
+        "MaxUses": 1,
+        "CoolDown": 0
+      }
+    ]
+  },
+  {
+    "Name": "加速",
+    "ShortName": "加速",
+    "Color": "{default}",
+    "HammerID": "24713",
+    "GlowColor": [0,255,0,1],
+    "BlockPickup": false,
+    "AllowTransfer": true,
+    "ForceDrop": true,
+    "Chat": true,
+    "Hud": true,
+    "TriggerID": 0,
+    "UsePriority": true,
+    "AbilityList": [
+      {
+        "Name": "Item_Speed_button",
+        "ButtonID": 24709,
+        "ButtonClass": "func_button",
+        "Filter": "Player_Speed:1",
+        "Chat_Uses": true,
+        "Mode": 3,
+        "MaxUses": 1,
+        "CoolDown": 0
+      }
+    ]
+  },
+  {
+    "Name": "ZM 黑洞",
+    "ShortName": "ZM 黑洞",
+    "Color": "{default}",
+    "HammerID": "24853",
+    "GlowColor": [0,255,0,1],
+    "BlockPickup": false,
+    "AllowTransfer": false,
+    "ForceDrop": false,
+    "Chat": true,
+    "Hud": true,
+    "TriggerID": 24851,
+    "UsePriority": true,
+    "AbilityList": [
+      {
+        "Name": "ZM_Gravity_button",
+        "ButtonID": 24882,
+        "ButtonClass": "func_button",
+        "Filter": "ZM_Player_Gravity",
+        "Chat_Uses": true,
+        "Mode": 2,
+        "MaxUses": 0,
+        "CoolDown": 70
+      }
+    ]
+  },
+  {
+    "Name": "ZM 奶",
+    "ShortName": "ZM 奶",
+    "Color": "{default}",
+    "HammerID": "24910",
+    "GlowColor": [0,255,0,1],
+    "BlockPickup": false,
+    "AllowTransfer": false,
+    "ForceDrop": false,
+    "Chat": true,
+    "Hud": true,
+    "TriggerID": 24908,
+    "UsePriority": true,
+    "AbilityList": [
+      {
+        "Name": "ZM_Heal_button",
+        "ButtonID": 24914,
+        "ButtonClass": "func_button",
+        "Filter": "ZM_Player_Heal",
+        "Chat_Uses": true,
+        "Mode": 2,
+        "MaxUses": 0,
+        "CoolDown": 65
+      }
+    ]
+  },
+  {
+    "Name": "ZM 护盾",
+    "ShortName": "ZM 护盾",
+    "Color": "{default}",
+    "HammerID": "24952",
+    "GlowColor": [0,255,0,1],
+    "BlockPickup": false,
+    "AllowTransfer": false,
+    "ForceDrop": false,
+    "Chat": true,
+    "Hud": true,
+    "TriggerID": 24950,
+    "UsePriority": true,
+    "AbilityList": [
+      {
+        "Name": "ZM_shield_button",
+        "ButtonID": 24947,
+        "ButtonClass": "func_button",
+        "Filter": "ZM_Player_shield",
+        "Chat_Uses": true,
+        "Mode": 2,
+        "MaxUses": 0,
+        "CoolDown": 70
+      }
+    ]
+  },
+  {
+    "Name": "ZM 沉默",
+    "ShortName": "ZM 沉默",
+    "Color": "{default}",
+    "HammerID": "24970",
+    "GlowColor": [0,255,0,1],
+    "BlockPickup": false,
+    "AllowTransfer": false,
+    "ForceDrop": false,
+    "Chat": true,
+    "Hud": true,
+    "TriggerID": 24968,
+    "UsePriority": true,
+    "AbilityList": [
+      {
+        "Name": "ZM_silent_button",
+        "ButtonID": 24965,
+        "ButtonClass": "func_button",
+        "Filter": "ZM_Player_silent",
+        "Chat_Uses": true,
+        "Mode": 2,
+        "MaxUses": 0,
+        "CoolDown": 70
       }
     ]
   }
