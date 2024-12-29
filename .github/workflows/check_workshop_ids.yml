@@ -47,4 +47,3 @@ jobs:
         title: '禁用不可用的 Steam Workshop IDs'
         body: '部分 Steam Workshop IDs 不可用。已将其对应的 enabled 字段从 1 改为 0。请审核并确认更改。'
         branch: 'disable-unavailable-ids'
-        update-branch: true
