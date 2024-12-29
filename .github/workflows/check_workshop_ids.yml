@@ -1,8 +1,9 @@
-name: Check Steam Workshop IDs
+name: Check Added Steam Workshop IDs
 
 on:
-  schedule:
-    - cron: '0 0 * * 0'  # Runs every Sunday at midnight UTC
+  push:
+    paths:
+      - 'cs2/counterstrikesharp/configs/plugins/MapChooser/maps.txt'  # Runs on changes to the maps.txt file
   workflow_dispatch:  # Allows manual triggering
 
 jobs:
@@ -22,10 +23,30 @@ jobs:
       run: |
         python -m pip install requests
 
+    - name: Get changed lines
+      id: get_changes
+      run: |
+        git fetch origin
+        git diff origin/main -- cs2/counterstrikesharp/configs/plugins/MapChooser/maps.txt > changes.diff
+
+    - name: Extract added lines
+      id: extract_added_lines
+      run: |
+        grep '^+' changes.diff | grep -v '^+++' > added_lines.diff
+      continue-on-error: true
+
     - name: Run check script
       id: check_script
       run: |
-        python scripts/check_workshop_ids.py
+        cat added_lines.diff | python scripts/check_workshop_ids.py
+
+    - name: Output result
+      run: |
+        if [ "${{ steps.check_script.outputs.result }}" == "failure" ]; then
+          echo -e "\033[91mSome added Steam Workshop IDs are unavailable.\033[0m"
+        else:
+          echo -e "\033[92mAll added Steam Workshop IDs are available.\033[0m"
+        fi
 
     - name: Create Pull Request
       if: steps.check_script.outputs.result == 'failure'

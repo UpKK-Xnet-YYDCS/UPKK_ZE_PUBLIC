@@ -1,5 +1,5 @@
 import requests
-import json
+import sys
 
 def check_workshop_id(workshop_id):
     url = f"https://api.steampowered.com/ISteamRemoteStorage/GetPublishedFileDetails/v1/"
@@ -15,24 +15,24 @@ def check_workshop_id(workshop_id):
     return False
 
 def main():
-    with open('cs2/counterstrikesharp/configs/plugins/MapChooser/maps.txt', 'r', encoding='utf-8') as file:
-        lines = file.readlines()
+    # 获取新增的内容
+    added_lines = sys.stdin.read().splitlines()
 
     unavailable_ids = []
-    for line in lines:
+    available_ids = []
+    for line in added_lines:
         if 'workshop_id' in line:
             workshop_id = line.split('"')[3]
-            if not check_workshop_id(workshop_id):
+            if check_workshop_id(workshop_id):
+                available_ids.append(workshop_id)
+            else:
                 unavailable_ids.append(workshop_id)
 
     if unavailable_ids:
-        with open('cs2/counterstrikesharp/configs/plugins/MapChooser/maps.txt', 'w', encoding='utf-8') as file:
-            for line in lines:
-                if any(workshop_id in line for workshop_id in unavailable_ids):
-                    line = line.replace('"enabled"		"1"', '"enabled"		"0"')
-                file.write(line)
+        print(f"\033[91mUnavailable IDs: {', '.join(unavailable_ids)}\033[0m")
         print('::set-output name=result::failure')
     else:
+        print(f"\033[92mAvailable IDs: {', '.join(available_ids)}\033[0m")
         print('::set-output name=result::success')
 
 if __name__ == "__main__":
