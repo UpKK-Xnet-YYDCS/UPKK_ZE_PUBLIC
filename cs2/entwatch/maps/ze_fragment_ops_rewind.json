@@ -1,7 +1,7 @@
 [
   {
-    "Name": "[ITEM_FLASH_FIRE]",
-    "ShortName": "[ITEM_FLASH_FIRE]",
+    "Name": "闪光火焰",
+    "ShortName": "闪光火焰",
     "Color": "{default}",
     "HammerID": "11264",
     "GlowColor": [0,255,0,1],
@@ -14,36 +14,36 @@
     "UsePriority": true,
     "AbilityList": [
       {
-        "Name": "weapon_elite",
-        "ButtonID": 0,
-        "ButtonClass": "",
-        "Filter": "",
+        "Name": "[ITEM_FLASH_FIRE]SWITCH",
+        "ButtonID": 11259,
+        "ButtonClass": "func_physbox",
+        "Filter": "FILTER_ITEM_FLASH_FIRE:1",
         "Chat_Uses": true,
-        "Mode": 1,
+        "Mode": 2,
         "MaxUses": 0,
-        "CoolDown": 0
+        "CoolDown": 50
       }
     ]
   },
   {
-    "Name": "[ITEM_Z_KILLER_QUEEN]",
-    "ShortName": "[ITEM_Z_KILLER_QUEEN]",
+    "Name": "ZM 杀手皇后",
+    "ShortName": "ZM 杀手皇后",
     "Color": "{default}",
     "HammerID": "11281",
     "GlowColor": [0,255,0,1],
     "BlockPickup": false,
-    "AllowTransfer": true,
-    "ForceDrop": true,
+    "AllowTransfer": false,
+    "ForceDrop": false,
     "Chat": true,
     "Hud": true,
-    "TriggerID": 0,
+    "TriggerID": 11326,
     "UsePriority": true,
     "AbilityList": [
       {
-        "Name": "weapon_knife",
+        "Name": "",
         "ButtonID": 0,
         "ButtonClass": "",
-        "Filter": "",
+        "Filter": "FILTER_ITEM_Z_KILLER_QUEEN:1",
         "Chat_Uses": true,
         "Mode": 1,
         "MaxUses": 0,
@@ -52,24 +52,24 @@
     ]
   },
   {
-    "Name": "[ITEM_EARTH_HEAL]",
-    "ShortName": "[ITEM_EARTH_HEAL]",
+    "Name": "ZM 大地治愈",
+    "ShortName": "ZM 大地治愈",
     "Color": "{default}",
     "HammerID": "11310",
     "GlowColor": [0,255,0,1],
     "BlockPickup": false,
-    "AllowTransfer": true,
-    "ForceDrop": true,
+    "AllowTransfer": false,
+    "ForceDrop": false,
     "Chat": true,
     "Hud": true,
-    "TriggerID": 0,
+    "TriggerID": 11334,
     "UsePriority": true,
     "AbilityList": [
       {
-        "Name": "weapon_knife",
+        "Name": "",
         "ButtonID": 0,
         "ButtonClass": "",
-        "Filter": "",
+        "Filter": "FILTER_ITEM_EARTH_HEAL:1",
         "Chat_Uses": true,
         "Mode": 1,
         "MaxUses": 0,
@@ -78,8 +78,8 @@
     ]
   },
   {
-    "Name": "[ITEM_CHALLENGE]",
-    "ShortName": "[ITEM_CHALLENGE]",
+    "Name": "挑战状",
+    "ShortName": "挑战状",
     "Color": "{default}",
     "HammerID": "16944",
     "GlowColor": [0,255,0,1],
@@ -92,10 +92,10 @@
     "UsePriority": true,
     "AbilityList": [
       {
-        "Name": "weapon_elite",
+        "Name": "",
         "ButtonID": 0,
         "ButtonClass": "",
-        "Filter": "",
+        "Filter": "FILTER_ITEM_CHALLENGE:1",
         "Chat_Uses": true,
         "Mode": 1,
         "MaxUses": 0,
@@ -104,8 +104,8 @@
     ]
   },
   {
-    "Name": "[ITEM_SBS]",
-    "ShortName": "[ITEM_SBS]",
+    "Name": "七支刀",
+    "ShortName": "七支刀",
     "Color": "{default}",
     "HammerID": "17193",
     "GlowColor": [0,255,0,1],
@@ -118,14 +118,14 @@
     "UsePriority": true,
     "AbilityList": [
       {
-        "Name": "weapon_elite",
-        "ButtonID": 0,
-        "ButtonClass": "",
-        "Filter": "",
+        "Name": "[ITEM_SBS]SWITCH",
+        "ButtonID": 17195,
+        "ButtonClass": "func_physbox",
+        "Filter": "FILTER_ITEM_SBS:1",
         "Chat_Uses": true,
-        "Mode": 1,
+        "Mode": 2,
         "MaxUses": 0,
-        "CoolDown": 0
+        "CoolDown": 50
       }
     ]
   }
