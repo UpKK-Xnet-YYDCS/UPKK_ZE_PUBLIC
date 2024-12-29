@@ -21,7 +21,7 @@
 		"zjunko": {
 			"enabled": true,
 			"team_default": true,
-			"health": 10000,
+			"health": 11500,
 			"models": [
 				{
 					"modelname": "characters/models/upkk/junko/zjunko.vmdl",
@@ -33,13 +33,13 @@
 			"speed": 1.1,
 			"gravity": 0.9,
 			"admin_flag": "",
-			"health_regen_count": 500,
-			"health_regen_interval": 5.0
+			"health_regen_count": 540,
+			"health_regen_interval": 3.0
 		},
 		"zmizuno": {
 			"enabled": true,
 			"team_default": true,
-			"health": 12000,
+			"health": 13000,
 			"models": [
 				{
 					"modelname": "characters/models/upkk/mizuno/zmizuno.vmdl",
@@ -51,13 +51,13 @@
 			"speed": 1.1,
 			"gravity": 0.93,
 			"admin_flag": "",
-			"health_regen_count": 1000,
-			"health_regen_interval": 5.0
+			"health_regen_count": 600,
+			"health_regen_interval": 3.0
 		},
 		"zpolice": {
 			"enabled": true,
 			"team_default": true,
-			"health": 8000,
+			"health": 9000,
 			"models": [
 				{
 					"modelname": "characters/models/police/93xpolice.vmdl",
@@ -69,8 +69,8 @@
 			"speed": 1.2,
 			"gravity": 1.0,
 			"admin_flag": "",
-			"health_regen_count": 500,
-			"health_regen_interval": 5.0
+			"health_regen_count": 450,
+			"health_regen_interval": 3.0
 		},
 		"zwalk": {
 			"enabled": true,
@@ -84,16 +84,16 @@
 				}
 			],
 			"scale": 1.0,
-			"speed": 1.1,
-			"gravity": 1.05,
+			"speed": 1.08,
+			"gravity": 1.02,
 			"admin_flag": "",
-			"health_regen_count": 500,
-			"health_regen_interval": 5.0
+			"health_regen_count": 1200,
+			"health_regen_interval": 3.0
 		},
 		"zsnow": {
 			"enabled": true,
 			"team_default": true,
-			"health": 14888,
+			"health": 15888,
 			"models": [
 				{
 					"modelname": "characters/models/upkk/snow_v1/snow_v1.vmdl",
@@ -102,16 +102,16 @@
 				}
 			],
 			"scale": 1.0,
-			"speed": 1.1,
+			"speed": 1.12,
 			"gravity": 0.95,
 			"admin_flag": "",
-			"health_regen_count": 500,
-			"health_regen_interval": 5.0
+			"health_regen_count": 300,
+			"health_regen_interval": 3.0
 		},
 		"MotherZombie": {
 			"enabled": true,
 			"team_default": false,
-			"health": 25125,
+			"health": 28000,
 			"models": [
 				{
 					"modelname": "characters/models/police/93xpolice.vmdl",
@@ -123,8 +123,8 @@
 			"speed": 1.2,
 			"gravity": 1.0,
 			"admin_flag": "",
-			"health_regen_count": 1000,
-			"health_regen_interval": 5.0
+			"health_regen_count": 600,
+			"health_regen_interval": 2.0
 		}
 	}
 }
