@@ -62,14 +62,27 @@ jobs:
     - name: Create or update Pull Request
       if: failure()  # 仅在上一步失败时触发
       run: |
+        # 读取 PR 编号
         pr_number=$(cat pr_number.txt)
+        
+        # 如果没有找到对应分支的 PR，则创建新的 PR
         if [ "$pr_number" == "none" ]; then
           gh pr create \
-            --repo ${{ github.repository }} \
+            --repo UpKK-Xnet-YYDCS/UPKK_ZE_PUBLIC \
             --head disable-unavailable-ids \
             --base main \
             --title '禁用不可用的 Steam Workshop IDs' \
             --body '部分 Steam Workshop IDs 不可用。已将其对应的 enabled 字段从 1 改为 0。请审核并确认更改。'
         else
-          gh pr comment $pr_number --body '部分 Steam Workshop IDs 不可用。已将其对应的 enabled 字段从 1 改为 0。请审核并确认更改。'
-          gh pr ready-for-review $pr_number
+          # 如果已有 PR，则添加评论，并将其标记为准备审查
+          gh pr comment "$pr_number" --body '部分 Steam Workshop IDs 不可用。已将其对应的 enabled 字段从 1 改为 0。请审核并确认更改。'
+          gh pr ready-for-review "$pr_number"
+        fi
+      shell: /usr/bin/bash -e {0}
+      env:
+        pythonLocation: /opt/hostedtoolcache/Python/3.12.8/x64
+        PKG_CONFIG_PATH: /opt/hostedtoolcache/Python/3.12.8/x64/lib/pkgconfig
+        Python_ROOT_DIR: /opt/hostedtoolcache/Python/3.12.8/x64
+        Python2_ROOT_DIR: /opt/hostedtoolcache/Python/3.12.8/x64
+        Python3_ROOT_DIR: /opt/hostedtoolcache/Python/3.12.8/x64
+        LD_LIBRARY_PATH: /opt/hostedtoolcache/Python/3.12.8/x64/lib
