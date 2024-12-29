@@ -8,14 +8,16 @@ on:
   pull_request:
     paths:
       - 'cs2/counterstrikesharp/configs/map-text/**' # 监视此目录中的所有变化
-      - 'cs2/entwatch/maps/**' 
+      - 'cs2/entwatch/maps/**'
 
 jobs:
   validate-json:
     runs-on: ubuntu-latest
     steps:
     - name: Checkout repository
-      uses: actions/checkout@v2
+      uses: actions/checkout@v3
+      with:
+        fetch-depth: 0
 
     - name: List changed files
       id: list_changed_files
@@ -23,6 +25,9 @@ jobs:
         echo "Changed files:"
         git diff --name-only ${{ github.event.before }} ${{ github.sha }} > changed_files.txt
         cat changed_files.txt
+
+    - name: Install jsonlint-cli
+      run: npm install -g jsonlint-cli
 
     - name: Validate JSON and JSONC files
       run: |
@@ -33,7 +38,7 @@ jobs:
             if [[ $file == *.json ]]; then
               jq empty "$file" || exit 1
             elif [[ $file == *.jsonc ]]; then
-              npx jsonlint-cli "$file" || exit 1
+              jsonlint-cli "$file" || exit 1
             fi
           fi
         done < changed_files.txt
