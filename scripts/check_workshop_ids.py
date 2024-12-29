@@ -22,9 +22,8 @@ def update_maps_file(file_path, unavailable_ids):
             content = file.read()
 
             for workshop_id in unavailable_ids:
-                # 使用正则表达式查找并替换 enabled 字段，确保没有多余的空格
-                # 改进后的正则表达式更加严格，不会匹配前后的空格
-                pattern = re.compile(r'("workshop_id"\s*"\s*' + re.escape(workshop_id) + r'"\s*.*?"enabled"\s*":\s*)1(\s*})', re.DOTALL)
+                # 使用正则表达式查找并替换 enabled 字段
+                pattern = re.compile(r'("workshop_id"\s*"\s*' + re.escape(workshop_id) + r'"\s*.*?"enabled"\s*"\s*)1(\s*})', re.DOTALL)
                 content = pattern.sub(r'\10\2', content)
 
             # 将修改后的内容写回文件
@@ -32,12 +31,12 @@ def update_maps_file(file_path, unavailable_ids):
             file.write(content)
             file.truncate()
     except Exception as e:
-        print(f"Error updating file: {e}")
+        print(f"更新文件时出错: {e}")
         sys.exit(1)
 
 def main():
     if len(sys.argv) < 2:
-        print("Usage: python check_workshop_ids.py <file_path>")
+        print("用法: python check_workshop_ids.py <文件路径>")
         sys.exit(1)
 
     file_path = sys.argv[1]
@@ -46,15 +45,15 @@ def main():
         with open(file_path, 'r', encoding='utf-8') as file:
             content = file.read()
     except Exception as e:
-        print(f"Error reading file: {e}")
+        print(f"读取文件时出错: {e}")
         sys.exit(1)
 
-    # Regex to find workshop_id and filename pairs
+    # 正则表达式查找 workshop_id 和相关字段
     pattern = re.compile(r'"workshop_id"\s*"\s*(\d+)"\s*.*?"filename"\s*"\s*([^"]+)"\s*.*?"enabled"\s*"\s*(\d)"', re.DOTALL)
     matches = pattern.findall(content)
 
     if not matches:
-        print("No workshop IDs found in the file.")
+        print("文件中未找到任何 workshop IDs。")
         print('::set-output name=result::failure')
         sys.exit(1)
 
@@ -73,16 +72,16 @@ def main():
         if detail['result'] == 1:
             available_ids.append(f"{workshop_id} ({name}) with filename: {filename}")
         else:
-            if enabled == '1':  # Only consider workshop_ids with enabled field set to '1'
+            if enabled == '1':  # 仅考虑 enabled 字段为 '1' 的 workshop_ids
                 unavailable_ids.append(workshop_id)
-                print(f"\033[91mUnavailable ID: {workshop_id} ({name}) with filename: {filename}\033[0m")
+                print(f"\033[91m不可用 ID: {workshop_id} ({name}) 文件名: {filename}\033[0m")
 
     if unavailable_ids:
         update_maps_file(file_path, unavailable_ids)
         print('::set-output name=result::failure')
-        sys.exit(1)  # Ensure the script exits with a non-zero status code
+        sys.exit(1)  # 确保脚本以非零状态码退出
     else:
-        print(f"\033[92mAvailable IDs: {', '.join(available_ids)}\033[0m")
+        print(f"\033[92m可用 IDs: {', '.join(available_ids)}\033[0m")
         print('::set-output name=result::success')
 
 if __name__ == "__main__":
