@@ -1,7 +1,7 @@
 [
   {
-    "Name": "Det_weapon",
-    "ShortName": "Det_weapon",
+    "Name": "弹药",
+    "ShortName": "弹药",
     "Color": "{default}",
     "HammerID": "2072",
     "GlowColor": [0,255,0,1],
@@ -14,20 +14,20 @@
     "UsePriority": true,
     "AbilityList": [
       {
-        "Name": "weapon_elite",
-        "ButtonID": 0,
-        "ButtonClass": "",
-        "Filter": "",
+        "Name": "Det_Button",
+        "ButtonID": 2065,
+        "ButtonClass": "func_button",
+        "Filter": "det:1",
         "Chat_Uses": true,
-        "Mode": 1,
+        "Mode": 2,
         "MaxUses": 0,
-        "CoolDown": 0
+        "CoolDown": 55
       }
     ]
   },
   {
-    "Name": "yhlt_weapon",
-    "ShortName": "yhlt_weapon",
+    "Name": "冰",
+    "ShortName": "冰",
     "Color": "{default}",
     "HammerID": "6483",
     "GlowColor": [0,255,0,1],
@@ -40,14 +40,14 @@
     "UsePriority": true,
     "AbilityList": [
       {
-        "Name": "weapon_elite",
-        "ButtonID": 0,
-        "ButtonClass": "",
-        "Filter": "",
+        "Name": "yhlt_Button",
+        "ButtonID": 6486,
+        "ButtonClass": "func_button",
+        "Filter": "yhlt:1",
         "Chat_Uses": true,
-        "Mode": 1,
+        "Mode": 2,
         "MaxUses": 0,
-        "CoolDown": 0
+        "CoolDown": 55
       }
     ]
   }

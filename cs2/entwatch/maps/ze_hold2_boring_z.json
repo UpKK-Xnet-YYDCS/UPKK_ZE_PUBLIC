@@ -1,7 +1,7 @@
 [
   {
-    "Name": "Item_Musicbox_Pistol",
-    "ShortName": "Item_Musicbox_Pistol",
+    "Name": "音乐盒",
+    "ShortName": "音乐盒",
     "Color": "{default}",
     "HammerID": "41",
     "GlowColor": [0,255,0,1],
@@ -14,14 +14,42 @@
     "UsePriority": true,
     "AbilityList": [
       {
-        "Name": "weapon_elite",
-        "ButtonID": 0,
-        "ButtonClass": "",
-        "Filter": "",
+        "Name": "Item_Musicbox_Button",
+        "ButtonID": 42,
+        "ButtonClass": "func_button",
+        "Filter": "$User_Musicbox",
         "Chat_Uses": true,
-        "Mode": 1,
+        "Mode": 2,
         "MaxUses": 0,
-        "CoolDown": 0
+        "CoolDown": 120
+      },
+      {
+        "Name": "Item_Musicbox_Button_Top",
+        "ButtonID": 1457,
+        "ButtonClass": "func_button",
+        "Filter": "$User_Musicbox",
+        "Chat_Uses": true,
+        "Mode": 2,
+        "MaxUses": 0,
+        "CoolDown": 120,
+        "Ignore": false,
+        "LockItem": true,
+        "MathID": 0,
+        "MathNameFix": false
+      },
+      {
+        "Name": "Item_Musicbox_Button_Under",
+        "ButtonID": 1459,
+        "ButtonClass": "func_button",
+        "Filter": "$User_Musicbox",
+        "Chat_Uses": true,
+        "Mode": 2,
+        "MaxUses": 0,
+        "CoolDown": 120,
+        "Ignore": false,
+        "LockItem": true,
+        "MathID": 0,
+        "MathNameFix": false
       }
     ]
   }
