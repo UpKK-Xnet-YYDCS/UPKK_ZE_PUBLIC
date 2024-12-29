@@ -42,7 +42,6 @@ jobs:
       id: read_unavailable_ids
       run: |
         if [ -f unavailable_ids.txt ]; then
-          cat unavailable_ids.txt
           ids=$(cat unavailable_ids.txt)
           echo "unavailable_ids=$ids" >> $GITHUB_ENV
         fi
@@ -62,6 +61,12 @@ jobs:
       with:
         commit-message: '禁用不可用的 Steam Workshop IDs'
         title: '禁用不可用的 Steam Workshop IDs'
-        body: '部分 Steam Workshop IDs 不可用。已将其对应的 enabled 字段从 1 改为 0。\n\n不可用 ID 列表:\n${{ env.unavailable_ids }}\n请审核并确认更改。'
+        body: |
+          部分 Steam Workshop IDs 不可用。已将其对应的 enabled 字段从 1 改为 0。
+
+          不可用 ID 列表:
+          ${{ env.unavailable_ids }}
+          
+          请审核并确认更改。
         branch: 'disable-unavailable-ids'
         base: master
