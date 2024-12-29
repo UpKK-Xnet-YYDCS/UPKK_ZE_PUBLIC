@@ -23,15 +23,15 @@ def update_maps_file(file_path, unavailable_ids):
 
             for workshop_id in unavailable_ids:
                 # 使用正则表达式查找并替换 enabled 字段
-                pattern = re.compile(r'("workshop_id"\s*"\s*' + re.escape(workshop_id) + r'"\s*.*?"enabled"\s*"\s*)1(\s*})', re.DOTALL)
-                content = pattern.sub(r'\10\2', content)
+                pattern = re.compile(r'("workshop_id"\s*"\s*' + workshop_id + r'"\s*.*?"enabled"\s*")1(\s*")', re.DOTALL)
+                content = pattern.sub(r'\g<1>0\2', content)
 
             # 将修改后的内容写回文件
             file.seek(0)
             file.write(content)
             file.truncate()
     except Exception as e:
-        print(f"更新文件时出错: {e}")
+        print(f"Error updating file: {e}")
         sys.exit(1)
 
 def main():
@@ -70,7 +70,7 @@ def main():
         filename = file_map[workshop_id]
         enabled = enabled_map[workshop_id]
         if detail['result'] == 1:
-            available_ids.append(f"{workshop_id} ({name}) with filename: {filename}")
+            available_ids.append(f"{workshop_id} ({name}) 文件名: {filename}")
         else:
             if enabled == '1':  # 仅考虑 enabled 字段为 '1' 的 workshop_ids
                 unavailable_ids.append(workshop_id)
