@@ -1,7 +1,7 @@
 [
   {
-    "Name": "heal_weapon&0000",
-    "ShortName": "heal_weapon&0000",
+    "Name": "奶圈",
+    "ShortName": "奶圈",
     "Color": "{default}",
     "HammerID": "679",
     "GlowColor": [0,255,0,1],
@@ -14,62 +14,62 @@
     "UsePriority": true,
     "AbilityList": [
       {
-        "Name": "weapon_elite",
+        "Name": "",
         "ButtonID": 0,
         "ButtonClass": "",
         "Filter": "",
         "Chat_Uses": true,
-        "Mode": 1,
+        "Mode": 0,
         "MaxUses": 0,
         "CoolDown": 0
       }
     ]
   },
   {
-    "Name": "item1_gr_knife",
-    "ShortName": "item1_gr_knife",
+    "Name": "ZM 减速",
+    "ShortName": "ZM 减速",
     "Color": "{default}",
     "HammerID": "11685",
     "GlowColor": [0,255,0,1],
     "BlockPickup": false,
-    "AllowTransfer": true,
-    "ForceDrop": true,
+    "AllowTransfer": false,
+    "ForceDrop": false,
     "Chat": true,
     "Hud": true,
     "TriggerID": 0,
     "UsePriority": true,
     "AbilityList": [
       {
-        "Name": "weapon_knife",
+        "Name": "",
         "ButtonID": 0,
         "ButtonClass": "",
-        "Filter": "",
+        "Filter": "item1_gr:1",
         "Chat_Uses": true,
-        "Mode": 1,
+        "Mode": 0,
         "MaxUses": 0,
         "CoolDown": 0
       }
     ]
   },
   {
-    "Name": "item2_gr_knife",
-    "ShortName": "item2_gr_knife",
+    "Name": "ZM 减速2",
+    "ShortName": "ZM 减速2",
     "Color": "{default}",
     "HammerID": "11688",
     "GlowColor": [0,255,0,1],
     "BlockPickup": false,
-    "AllowTransfer": true,
-    "ForceDrop": true,
+    "AllowTransfer": false,
+    "ForceDrop": false,
     "Chat": true,
     "Hud": true,
     "TriggerID": 0,
     "UsePriority": true,
     "AbilityList": [
       {
-        "Name": "weapon_knife",
+        "Name": "",
         "ButtonID": 0,
         "ButtonClass": "",
-        "Filter": "",
+        "Filter": "item2_gr:1",
         "Chat_Uses": true,
         "Mode": 1,
         "MaxUses": 0,
@@ -78,26 +78,26 @@
     ]
   },
   {
-    "Name": "item3_gr_knife",
-    "ShortName": "item3_gr_knife",
+    "Name": "ZM 减速3",
+    "ShortName": "ZM 减速3",
     "Color": "{default}",
     "HammerID": "11690",
     "GlowColor": [0,255,0,1],
     "BlockPickup": false,
-    "AllowTransfer": true,
-    "ForceDrop": true,
+    "AllowTransfer": false,
+    "ForceDrop": false,
     "Chat": true,
     "Hud": true,
     "TriggerID": 0,
     "UsePriority": true,
     "AbilityList": [
       {
-        "Name": "weapon_knife",
+        "Name": "",
         "ButtonID": 0,
         "ButtonClass": "",
-        "Filter": "",
+        "Filter": "item3_gr:1",
         "Chat_Uses": true,
-        "Mode": 1,
+        "Mode": 0,
         "MaxUses": 0,
         "CoolDown": 0
       }
