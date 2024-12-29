@@ -21,35 +21,33 @@ jobs:
 
     - name: Install dependencies
       run: |
-        python -m pip install requests
+        python -m pip install --upgrade pip
+        pip install requests
 
-    - name: Get changed lines
-      id: get_changes
+    - name: Extract all Steam Workshop IDs
+      id: extract_ids
       run: |
-        git fetch origin
-        git diff origin/master -- cs2/counterstrikesharp/configs/plugins/MapChooser/maps.txt > changes.diff
-
-    - name: Extract added lines
-      id: extract_added_lines
-      run: |
-        grep '^+' changes.diff | grep -v '^+++' > added_lines.diff
-      continue-on-error: true
+        # Assuming each line in maps.txt contains a Steam Workshop ID
+        # Adjust the extraction method based on the actual format of maps.txt
+        grep -Eo '\b\d{17}\b' cs2/counterstrikesharp/configs/plugins/MapChooser/maps.txt > all_ids.txt
 
     - name: Run check script
       id: check_script
       run: |
-        cat added_lines.diff | python scripts/check_workshop_ids.py
+        python scripts/check_workshop_ids.py all_ids.txt
+      # Ensure your Python script exits with a non-zero status if any ID is invalid
 
     - name: Output result
       run: |
-        if [ "${{ steps.check_script.outputs.result }}" == "failure" ]; then
-          echo -e "\033[91mSome added Steam Workshop IDs are unavailable.\033[0m"
-        else:
-          echo -e "\033[92mAll added Steam Workshop IDs are available.\033[0m"
+        if [ "${{ steps.check_script.outcome }}" == "failure" ]; then
+          echo -e "\033[91mSome Steam Workshop IDs are unavailable.\033[0m"
+          exit 1
+        else
+          echo -e "\033[92mAll Steam Workshop IDs are available.\033[0m"
         fi
 
     - name: Create Pull Request
-      if: steps.check_script.outputs.result == 'failure'
+      if: failure()  # Trigger only if the previous steps failed
       uses: peter-evans/create-pull-request@v5
       with:
         commit-message: 'Disable unavailable Steam Workshop IDs'
