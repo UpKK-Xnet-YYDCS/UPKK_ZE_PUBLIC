@@ -27,7 +27,7 @@ jobs:
       id: get_changes
       run: |
         git fetch origin
-        git diff origin/main -- cs2/counterstrikesharp/configs/plugins/MapChooser/maps.txt > changes.diff
+        git diff origin/master -- cs2/counterstrikesharp/configs/plugins/MapChooser/maps.txt > changes.diff
 
     - name: Extract added lines
       id: extract_added_lines
