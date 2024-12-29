@@ -22,9 +22,10 @@ def update_maps_file(file_path, unavailable_ids):
             content = file.read()
 
             for workshop_id in unavailable_ids:
-                # 使用正则表达式查找并替换 enabled 字段
-                pattern = re.compile(r'("workshop_id"\s*"\s*' + workshop_id + r'"\s*.*?"enabled"\s*")1(")', re.DOTALL)
-                content = pattern.sub(r'\1 0\2', content)
+                # 使用正则表达式查找并替换 enabled 字段，确保没有多余的空格
+                # 改进后的正则表达式更加严格，不会匹配前后的空格
+                pattern = re.compile(r'("workshop_id"\s*"\s*' + re.escape(workshop_id) + r'"\s*.*?"enabled"\s*":\s*)1(\s*})', re.DOTALL)
+                content = pattern.sub(r'\10\2', content)
 
             # 将修改后的内容写回文件
             file.seek(0)
