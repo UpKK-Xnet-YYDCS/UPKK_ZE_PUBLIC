@@ -1,4 +1,4 @@
-name: Check Added Steam Workshop IDs
+name: Check Steam Workshop IDs
 
 on:
   push:
@@ -24,11 +24,6 @@ jobs:
         python -m pip install --upgrade pip
         pip install requests
 
-    - name: Extract all Steam Workshop IDs
-      id: extract_ids
-      run: |
-        grep -Pzo '"workshop_id"\s*"\K\d+(?=")' cs2/counterstrikesharp/configs/plugins/MapChooser/maps.txt > all_ids.txt
-
     - name: Run check script
       id: check_script
       run: |
@@ -40,7 +35,7 @@ jobs:
         if [ "${{ steps.check_script.outcome }}" == "failure" ]; then
           echo -e "\033[91mSome Steam Workshop IDs are unavailable.\033[0m"
           exit 1
-        else
+        else:
           echo -e "\033[92mAll Steam Workshop IDs are available.\033[0m"
         fi
 
@@ -50,5 +45,5 @@ jobs:
       with:
         commit-message: '禁用不可用的 Steam Workshop IDs'
         title: '禁用不可用的 Steam Workshop IDs'
-        body: '部分 Steam Workshop IDs 不可用。请审核并确认禁用。'
+        body: '部分 Steam Workshop IDs 不可用。已将其对应的 enabled 字段从 1 改为 0。请审核并确认更改。'
         branch: 'disable-unavailable-ids'
