@@ -39,8 +39,7 @@ jobs:
           exit 1
         else
           echo -e "\033[92mAll Steam Workshop IDs are available.\033[0m"
-        fi
-
+        
     - name: Install GitHub CLI
       if: failure()  # 仅在上一步失败时触发
       run: |
