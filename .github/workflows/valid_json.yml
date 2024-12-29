@@ -5,10 +5,14 @@ on:
     paths:
       - 'cs2/counterstrikesharp/configs/map-text/**' # 监视此目录中的所有变化
       - 'cs2/entwatch/maps/**'
+      - 'cs2/counterstrikesharp/configs/weapons_buyCommand/weapons.json' # 监视特定文件
+      - 'cs2/cs2fixes/configs/zr/playerclass.jsonc'
   pull_request:
     paths:
       - 'cs2/counterstrikesharp/configs/map-text/**' # 监视此目录中的所有变化
       - 'cs2/entwatch/maps/**'
+      - 'cs2/counterstrikesharp/configs/weapons_buyCommand/weapons.json'
+      - 'cs2/cs2fixes/configs/zr/playerclass.jsonc'
 
 jobs:
   validate-json:
