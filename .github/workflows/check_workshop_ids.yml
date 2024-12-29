@@ -41,9 +41,18 @@ jobs:
           echo -e "\033[92mAll Steam Workshop IDs are available.\033[0m"
         fi
 
-    - name: Set up GitHub CLI
+    - name: Install GitHub CLI
       if: failure()  # 仅在上一步失败时触发
-      uses: actions/setup-gh-cli@v1
+      run: |
+        sudo apt-key adv --keyserver keyserver.ubuntu.com --recv-key C99B11DEB97541F0
+        sudo apt-add-repository https://cli.github.com/packages
+        sudo apt-get update
+        sudo apt-get install gh -y
+
+    - name: Authenticate GitHub CLI
+      if: failure()  # 仅在上一步失败时触发
+      run: |
+        echo "${{ secrets.GITHUB_TOKEN }}" | gh auth login --with-token
 
     - name: Check for existing Pull Request
       if: failure()  # 仅在上一步失败时触发
@@ -63,5 +72,5 @@ jobs:
             --title '禁用不可用的 Steam Workshop IDs' \
             --body '部分 Steam Workshop IDs 不可用。已将其对应的 enabled 字段从 1 改为 0。请审核并确认更改。'
         else
-          gh pr update $pr_number \
-            --body '部分 Steam Workshop IDs 不可用。已将其对应的 enabled 字段从 1 改为 0。请审核并确认更改。'
+          gh pr comment $pr_number --body '部分 Steam Workshop IDs 不可用。已将其对应的 enabled 字段从 1 改为 0。请审核并确认更改。'
+          gh pr ready-for-review $pr_number
