@@ -41,11 +41,27 @@ jobs:
           echo -e "\033[92mAll Steam Workshop IDs are available.\033[0m"
         fi
 
-    - name: Create Pull Request
+    - name: Set up GitHub CLI
       if: failure()  # 仅在上一步失败时触发
-      uses: peter-evans/create-pull-request@v5
-      with:
-        commit-message: '禁用不可用的 Steam Workshop IDs'
-        title: '禁用不可用的 Steam Workshop IDs'
-        body: '部分 Steam Workshop IDs 不可用。已将其对应的 enabled 字段从 1 改为 0。请审核并确认更改。'
-        branch: 'disable-unavailable-ids'
+      uses: actions/setup-gh-cli@v1
+
+    - name: Check for existing Pull Request
+      if: failure()  # 仅在上一步失败时触发
+      id: check_pr
+      run: |
+        gh pr list --repo ${{ github.repository }} --head disable-unavailable-ids --json number --jq '.[0].number' > pr_number.txt || echo "none" > pr_number.txt
+
+    - name: Create or update Pull Request
+      if: failure()  # 仅在上一步失败时触发
+      run: |
+        pr_number=$(cat pr_number.txt)
+        if [ "$pr_number" == "none" ]; then
+          gh pr create \
+            --repo ${{ github.repository }} \
+            --head disable-unavailable-ids \
+            --base main \
+            --title '禁用不可用的 Steam Workshop IDs' \
+            --body '部分 Steam Workshop IDs 不可用。已将其对应的 enabled 字段从 1 改为 0。请审核并确认更改。'
+        else
+          gh pr update $pr_number \
+            --body '部分 Steam Workshop IDs 不可用。已将其对应的 enabled 字段从 1 改为 0。请审核并确认更改。'

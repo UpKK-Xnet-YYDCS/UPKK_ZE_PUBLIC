@@ -50,7 +50,7 @@ def main():
         sys.exit(1)
 
     # Regex to find workshop_id and filename pairs
-    pattern = re.compile(r'"workshop_id"\s*"\s*(\d+)"\s*.*?"filename"\s*"\s*([^"]+)"', re.DOTALL)
+    pattern = re.compile(r'"workshop_id"\s*"\s*(\d+)"\s*.*?"filename"\s*"\s*([^"]+)"\s*.*?"enabled"\s*"\s*(\d)"', re.DOTALL)
     matches = pattern.findall(content)
 
     if not matches:
@@ -60,6 +60,7 @@ def main():
 
     workshop_ids = [match[0] for match in matches]
     file_map = {match[0]: match[1] for match in matches}
+    enabled_map = {match[0]: match[2] for match in matches}
 
     details = check_workshop_ids(workshop_ids)
     unavailable_ids = []
@@ -68,11 +69,13 @@ def main():
         workshop_id = detail['publishedfileid']
         name = detail.get('title', 'Unknown Title')
         filename = file_map[workshop_id]
+        enabled = enabled_map[workshop_id]
         if detail['result'] == 1:
             available_ids.append(f"{workshop_id} ({name}) with filename: {filename}")
         else:
-            unavailable_ids.append(workshop_id)
-            print(f"\033[91mUnavailable ID: {workshop_id} ({name}) with filename: {filename}\033[0m")
+            if enabled == '1':  # Only consider workshop_ids with enabled field set to '1'
+                unavailable_ids.append(workshop_id)
+                print(f"\033[91mUnavailable ID: {workshop_id} ({name}) with filename: {filename}\033[0m")
 
     if unavailable_ids:
         update_maps_file(file_path, unavailable_ids)
