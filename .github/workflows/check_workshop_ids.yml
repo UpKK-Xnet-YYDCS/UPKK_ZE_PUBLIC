@@ -1,12 +1,10 @@
-name: Check Steam Workshop IDs
+name: Check Added Steam Workshop IDs
 
 on:
   push:
     paths:
       - 'cs2/counterstrikesharp/configs/plugins/MapChooser/maps.txt'  # 当 maps.txt 文件发生变化时触发
   workflow_dispatch:  # 允许手动触发
-  schedule:
-    - cron: '0 0 * * *'  # 每天午夜12点触发工作流
 
 jobs:
   check-workshop-ids:
@@ -26,6 +24,11 @@ jobs:
         python -m pip install --upgrade pip
         pip install requests
 
+    - name: Extract all Steam Workshop IDs
+      id: extract_ids
+      run: |
+        grep -oP '"workshop_id"\s*"\K\d+(?=")' cs2/counterstrikesharp/configs/plugins/MapChooser/maps.txt > all_ids.txt
+
     - name: Run check script
       id: check_script
       run: |
@@ -37,52 +40,16 @@ jobs:
         if [ "${{ steps.check_script.outcome }}" == "failure" ]; then
           echo -e "\033[91mSome Steam Workshop IDs are unavailable.\033[0m"
           exit 1
-        else
+        else:
           echo -e "\033[92mAll Steam Workshop IDs are available.\033[0m"
-        
-    - name: Install GitHub CLI
-      if: failure()  # 仅在上一步失败时触发
-      run: |
-        sudo apt-key adv --keyserver keyserver.ubuntu.com --recv-key C99B11DEB97541F0
-        sudo apt-add-repository https://cli.github.com/packages
-        sudo apt-get update
-        sudo apt-get install gh -y
-
-    - name: Authenticate GitHub CLI
-      if: failure()  # 仅在上一步失败时触发
-      run: |
-        echo "${{ secrets.GITHUB_TOKEN }}" | gh auth login --with-token
-
-    - name: Check for existing Pull Request
-      if: failure()  # 仅在上一步失败时触发
-      id: check_pr
-      run: |
-        gh pr list --repo ${{ github.repository }} --head disable-unavailable-ids --json number --jq '.[0].number' > pr_number.txt || echo "none" > pr_number.txt
-
-    - name: Create or update Pull Request
-      if: failure()  # 仅在上一步失败时触发
-      run: |
-        # 读取 PR 编号
-        pr_number=$(cat pr_number.txt)
-        
-        # 如果没有找到对应分支的 PR，则创建新的 PR
-        if [ "$pr_number" == "none" ]; then
-          gh pr create \
-            --repo UpKK-Xnet-YYDCS/UPKK_ZE_PUBLIC \
-            --head disable-unavailable-ids \
-            --base master \
-            --title '禁用不可用的 Steam Workshop IDs' \
-            --body '部分 Steam Workshop IDs 不可用。已将其对应的 enabled 字段从 1 改为 0。请审核并确认更改。'
-        else
-          # 如果已有 PR，则添加评论，并将其标记为准备审查
-          gh pr comment "$pr_number" --body '部分 Steam Workshop IDs 不可用。已将其对应的 enabled 字段从 1 改为 0。请审核并确认更改。'
-          gh pr ready-for-review "$pr_number"
         fi
-      shell: /usr/bin/bash -e {0}
-      env:
-        pythonLocation: /opt/hostedtoolcache/Python/3.12.8/x64
-        PKG_CONFIG_PATH: /opt/hostedtoolcache/Python/3.12.8/x64/lib/pkgconfig
-        Python_ROOT_DIR: /opt/hostedtoolcache/Python/3.12.8/x64
-        Python2_ROOT_DIR: /opt/hostedtoolcache/Python/3.12.8/x64
-        Python3_ROOT_DIR: /opt/hostedtoolcache/Python/3.12.8/x64
-        LD_LIBRARY_PATH: /opt/hostedtoolcache/Python/3.12.8/x64/lib
+
+    - name: Create Pull Request
+      if: failure()  # 仅在上一步失败时触发
+      uses: peter-evans/create-pull-request@v5
+      with:
+        commit-message: '禁用不可用的 Steam Workshop IDs'
+        title: '禁用不可用的 Steam Workshop IDs'
+        body: '部分 Steam Workshop IDs 不可用。已将其对应的 enabled 字段从 1 改为 0。请审核并确认更改。'
+        branch: 'disable-unavailable-ids'
+        update-branch: true
