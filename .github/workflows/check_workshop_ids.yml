@@ -13,6 +13,13 @@ jobs:
     steps:
     - name: 检出代码库
       uses: actions/checkout@v3
+      with:
+        ref: master  # 确保检出的是主分支
+
+    - name: 删除现有的 disable-unavailable-ids 分支
+      run: |
+        git branch -D disable-unavailable-ids || true
+        git push origin --delete disable-unavailable-ids || true
 
     - name: 设置 Python 环境
       uses: actions/setup-python@v4
@@ -47,3 +54,4 @@ jobs:
         title: '禁用不可用的 Steam Workshop IDs'
         body: '部分 Steam Workshop IDs 不可用。已将其对应的 enabled 字段从 1 改为 0。请审核并确认更改。'
         branch: 'disable-unavailable-ids'
+        base: master
