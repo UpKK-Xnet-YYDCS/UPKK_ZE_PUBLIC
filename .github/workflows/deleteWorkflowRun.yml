@@ -1,0 +1,33 @@
+name: Cleanup Workflow Runs
+
+on:
+  # Allows manual triggering of the workflow
+  workflow_dispatch:
+  # Runs at 00:00 every day
+  schedule:
+    - cron: '0 0 * * *'
+
+jobs:
+  cleanup:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v2
+
+    - name: Cleanup old workflow runs
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      run: |
+        # Set retention period to 1 day (i.e., cleanup runs older than 1 day)
+        retention_days=1
+        cutoff_date=$(date -d "-${retention_days} days" --utc +%Y-%m-%dT%H:%M:%SZ)
+
+        echo "Cutoff date: $cutoff_date"
+
+        # List all workflow runs and filter those older than cutoff date
+        workflow_runs=$(gh api repos/${{ github.repository }}/actions/runs --paginate -q ".workflow_runs[] | select(.updated_at < \"$cutoff_date\") | .id")
+
+        for run_id in $workflow_runs; do
+          echo "Deleting workflow run ID: $run_id"
+          gh api repos/${{ github.repository }}/actions/runs/$run_id -X DELETE
+        done
