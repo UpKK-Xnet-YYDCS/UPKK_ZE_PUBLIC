@@ -1,0 +1,37 @@
+name: Check Steam Workshop IDs
+
+on:
+  schedule:
+    - cron: '0 0 * * 0'  # Runs every Sunday at midnight UTC
+  workflow_dispatch:  # Allows manual triggering
+
+jobs:
+  check-workshop-ids:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v3
+
+    - name: Set up Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.x'
+
+    - name: Install dependencies
+      run: |
+        python -m pip install requests
+
+    - name: Run check script
+      id: check_script
+      run: |
+        python scripts/check_workshop_ids.py
+
+    - name: Create Pull Request
+      if: steps.check_script.outputs.result == 'failure'
+      uses: peter-evans/create-pull-request@v5
+      with:
+        commit-message: 'Disable unavailable Steam Workshop IDs'
+        title: 'Disable unavailable Steam Workshop IDs'
+        body: 'Some Steam Workshop IDs are unavailable. Please review and confirm disabling.'
+        branch: 'disable-unavailable-ids'
