@@ -1,33 +1,33 @@
 [
   {
-    "Name": "healing_pistol1",
-    "ShortName": "healing_pistol1",
+    "Name": "ZM 燃烧",
+    "ShortName": "ZM 燃烧",
     "Color": "{default}",
     "HammerID": "688",
     "GlowColor": [0,255,0,1],
     "BlockPickup": false,
-    "AllowTransfer": true,
-    "ForceDrop": true,
+    "AllowTransfer": false,
+    "ForceDrop": false,
     "Chat": true,
     "Hud": true,
     "TriggerID": 0,
     "UsePriority": true,
     "AbilityList": [
       {
-        "Name": "weapon_p250",
-        "ButtonID": 0,
-        "ButtonClass": "",
-        "Filter": "",
+        "Name": "healing_pistol1_btn",
+        "ButtonID": 711,
+        "ButtonClass": "func_button",
+        "Filter": "healing_pistol:1",
         "Chat_Uses": true,
-        "Mode": 1,
+        "Mode": 2,
         "MaxUses": 0,
-        "CoolDown": 0
+        "CoolDown": 40
       }
     ]
   },
   {
-    "Name": "deagle2",
-    "ShortName": "deagle2",
+    "Name": "弓",
+    "ShortName": "弓",
     "Color": "{default}",
     "HammerID": "716",
     "GlowColor": [0,255,0,1],
@@ -40,20 +40,20 @@
     "UsePriority": true,
     "AbilityList": [
       {
-        "Name": "weapon_deagle",
-        "ButtonID": 0,
-        "ButtonClass": "",
+        "Name": "arrowbutton",
+        "ButtonID": 714,
+        "ButtonClass": "func_button",
         "Filter": "",
         "Chat_Uses": true,
-        "Mode": 1,
+        "Mode": 2,
         "MaxUses": 0,
-        "CoolDown": 0
+        "CoolDown": 10
       }
     ]
   },
   {
-    "Name": "deagle3",
-    "ShortName": "deagle3",
+    "Name": "弓2",
+    "ShortName": "弓2",
     "Color": "{default}",
     "HammerID": "813",
     "GlowColor": [0,255,0,1],
@@ -66,14 +66,14 @@
     "UsePriority": true,
     "AbilityList": [
       {
-        "Name": "weapon_deagle",
-        "ButtonID": 0,
-        "ButtonClass": "",
+        "Name": "arrowbutton1",
+        "ButtonID": 808,
+        "ButtonClass": "func_button",
         "Filter": "",
         "Chat_Uses": true,
-        "Mode": 1,
+        "Mode": 2,
         "MaxUses": 0,
-        "CoolDown": 0
+        "CoolDown": 10
       }
     ]
   }
