@@ -37,7 +37,7 @@ jobs:
         if [ "${{ steps.check_script.outcome }}" == "failure" ]; then
           echo -e "\033[91mSome Steam Workshop IDs are unavailable.\033[0m"
           exit 1
-        else:
+        else
           echo -e "\033[92mAll Steam Workshop IDs are available.\033[0m"
         fi
 
