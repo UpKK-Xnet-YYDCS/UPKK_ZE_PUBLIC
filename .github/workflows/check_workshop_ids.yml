@@ -60,13 +60,13 @@ jobs:
       uses: peter-evans/create-pull-request@v5
       with:
         commit-message: '禁用不可用的 Steam Workshop IDs'
-        title: '禁用不可用的 Steam Workshop IDs'
+        title: '[自动]禁用不可用的 Steam Workshop IDs'
         body: |
-          部分 Steam Workshop IDs 不可用。已将其对应的 enabled 字段从 1 改为 0。
+          部分 Steam Workshop IDs 经系统检测当前不可用。已将其对应的 enabled 字段从 1 改为 0。
 
           不可用 ID 列表:
           ${{ env.unavailable_ids }}
           
-          请审核并确认更改。
+          可能是临时性的调整,请审核,并确认更改。
         branch: 'disable-unavailable-ids'
         base: master
