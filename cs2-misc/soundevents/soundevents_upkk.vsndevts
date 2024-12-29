@@ -3,248 +3,427 @@
 	upkk.amb.base = 
 	{
 		type = "csgo_mega"
-		volume = 1.0
+		volume = 1.000000
 		occlusion_intensity = 0
 		distance_effect_mix = 0
 		restrict_source_reverb = true
 		disable_volume_culling = true
 		distance_volume_mapping_curve = 
 		[
-            [0, 1.0, 0, 0, 2, 3],      // 距离为0时，音量为1.0
-            [30, 0.9, 0, 0, 2, 3], // 距离为30时，音量为0.8
-            [256, 0.7, 0, 0, 2, 3], // 距离为256时，音量为0.7
-            [512, 0.5, 0, 0, 2, 3], // 距离为512时，音量为0.6
-            [1024, 0.1, 0, 0, 2, 3], // 距离为1024时，音量为0.5
-            [2048, 0.0, 0, 0, 2, 3]    // 距离为2048时，音量为0.3
+			
+			[
+				0,
+				1.000000,
+				0,
+				0,
+				2,
+				3,
+			],
+			
+			[
+				30,
+				0.900000,
+				0,
+				0,
+				2,
+				3,
+			],
+			
+			[
+				256,
+				0.700000,
+				0,
+				0,
+				2,
+				3,
+			],
+			
+			[
+				512,
+				0.500000,
+				0,
+				0,
+				2,
+				3,
+			],
+			
+			[
+				1024,
+				0.100000,
+				0,
+				0,
+				2,
+				3,
+			],
+			
+			[
+				2048,
+				0.000000,
+				0,
+				0,
+				2,
+				3,
+			],
 		]
 	}
-    upkk.amb.all = 
+	upkk.amb.all = 
 	{
 		type = "csgo_mega"
-		volume = 0.7
+		volume = 0.700000
 		occlusion_intensity = 0
 		distance_effect_mix = 0
 		restrict_source_reverb = true
 		disable_volume_culling = true
 		distance_volume_mapping_curve = 
 		[
-            [0, 0.7, 0, 0, 2, 3],  
-            [1024, 0.7, 0, 0, 2, 3],
-            [2048, 0.7, 0, 0, 2, 3], 
-            [4096, 0.7, 0, 0, 2, 3],  
-            [99999, 0.7, 0, 0, 2, 3],  
+			
+			[
+				0,
+				0.700000,
+				0,
+				0,
+				2,
+				3,
+			],
+			
+			[
+				1024,
+				0.700000,
+				0,
+				0,
+				2,
+				3,
+			],
+			
+			[
+				2048,
+				0.700000,
+				0,
+				0,
+				2,
+				3,
+			],
+			
+			[
+				4096,
+				0.700000,
+				0,
+				0,
+				2,
+				3,
+			],
+			
+			[
+				99999,
+				0.700000,
+				0,
+				0,
+				2,
+				3,
+			],
 		]
 	}
-    upkk.amb.self = 
+	upkk.amb.self = 
 	{
 		type = "csgo_mega"
-		volume = 1.0
+		volume = 1.000000
 		occlusion_intensity = 0
 		distance_effect_mix = 0
 		restrict_source_reverb = true
 		disable_volume_culling = true
 		distance_volume_mapping_curve = 
 		[
-            [0, 1.0, 0, 0, 2, 3],      // 距离为0时，音量为1.0
-            [10, 1.0, 0, 0, 2, 3], // 距离为30时，音量为0.8
-            [11, 0.0, 0, 0, 2, 3], // 距离为256时，音量为0.7
-            [256, 0.0, 0, 0, 2, 3], // 距离为512时，音量为0.6
-            [512, 0.0, 0, 0, 2, 3], // 距离为1024时，音量为0.5
-            [9999, 0.0, 0, 0, 2, 3] 
+			
+			[
+				0,
+				1.000000,
+				0,
+				0,
+				2,
+				3,
+			],
+			
+			[
+				10,
+				1.000000,
+				0,
+				0,
+				2,
+				3,
+			],
+			
+			[
+				11,
+				0.000000,
+				0,
+				0,
+				2,
+				3,
+			],
+			
+			[
+				256,
+				0.000000,
+				0,
+				0,
+				2,
+				3,
+			],
+			
+			[
+				512,
+				0.000000,
+				0,
+				0,
+				2,
+				3,
+			],
+			
+			[
+				9999,
+				0.000000,
+				0,
+				0,
+				2,
+				3,
+			],
 		]
 	}
-    upkk.amb.smallrange = 
+	upkk.amb.smallrange = 
 	{
 		type = "csgo_mega"
-		volume = 0.8
+		volume = 0.800000
 		occlusion_intensity = 0
 		distance_effect_mix = 0
 		restrict_source_reverb = true
 		disable_volume_culling = true
 		distance_volume_mapping_curve = 
 		[
-            [0, 0.8, 0, 0, 2, 3],      // 距离为0时，音量为0.8
-            [256, 0.7, 0, 0, 2, 3], // 距离为256时，音量为0.7
-            [512, 0.6, 0, 0, 2, 3], // 距离为512时，音量为0.6
-            [1024, 0.5, 0, 0, 2, 3], // 距离为1024时，音量为0.5
+			
+			[
+				0,
+				0.800000,
+				0,
+				0,
+				2,
+				3,
+			],
+			
+			[
+				256,
+				0.700000,
+				0,
+				0,
+				2,
+				3,
+			],
+			
+			[
+				512,
+				0.600000,
+				0,
+				0,
+				2,
+				3,
+			],
+			
+			[
+				1024,
+				0.500000,
+				0,
+				0,
+				2,
+				3,
+			],
 		]
 	}
 	upkk.amb.grenade = 
-    {
-        base = "upkk.amb.base"
-        vsnd_files_track_01 = 
-        [
-            "sounds/xnet/replace/grenade/grenade1.vsnd",
-            "sounds/xnet/replace/grenade/grenade2.vsnd",
-            "sounds/xnet/replace/grenade/grenade3.vsnd",
-            "sounds/xnet/replace/grenade/grenade4.vsnd",
-            "sounds/xnet/replace/grenade/grenade5.vsnd",
-        ]
-    }
-    upkk.amb.female_die = 
-    {
-        base = "upkk.amb.base"
-        vsnd_files_track_01 = 
-        [
-            "sounds/xnet/replace/death/death1.vsnd",
-            "sounds/xnet/replace/death/death2.vsnd",
-            "sounds/xnet/replace/death/death3.vsnd",
-            "sounds/xnet/replace/death/death4.vsnd",
-        ]
-    }
-    upkk.amb.female_hurt = 
-    {
-        base = "upkk.amb.self"
-        vsnd_files_track_01 = 
-        [
-            "sounds/xnet/replace/hurt/hurt1.vsnd",
-            "sounds/xnet/replace/hurt/hurt2.vsnd",
-            "sounds/xnet/replace/hurt/hurt3.vsnd",
-        ]
-    }
-    upkk.amb.radio_back = 
-    {
-        base = "upkk.amb.base"
-        volume = 0.35
-        vsnd_files_track_01 = 
-        [
-            "sounds/xnet/replace/radio/fallback.vsnd",
-        ]
-    }
-    upkk.amb.radio_go = 
-    {
-        base = "upkk.amb.base"
-        volume = 0.35
-        vsnd_files_track_01 = 
-        [
-            "sounds/xnet/replace/radio/go.vsnd",
-        ]
-    }
-    upkk.amb.radio_thanks = 
-    {
-        base = "upkk.amb.base"
-        volume = 0.35
-        vsnd_files_track_01 = 
-        [
-            "sounds/xnet/replace/radio/thanks.vsnd",
-        ]
-    }
-  upkk.amb.radio_coverme = 
-    {
-        base = "upkk.amb.base"
-        volume = 0.35
-        vsnd_files_track_01 = 
-        [
-            "sounds/xnet/replace/radio/coverme1.vsnd",
-            "sounds/xnet/replace/radio/coverme2.vsnd",
-        ]
-    }
-  upkk.amb.radio_followme = 
-    {
-        base = "upkk.amb.base"
-        volume = 0.35
-        vsnd_files_track_01 = 
-        [
-            "sounds/xnet/replace/radio/followme.vsnd",
-        ]
-    }
-  upkk.amb.radio_needbackup = 
-    {
-        base = "upkk.amb.base"
-        volume = 0.35
-        vsnd_files_track_01 = 
-        [
-            "sounds/xnet/replace/radio/needbackup.vsnd",
-        ]
-    }
-  upkk.amb.radio_negative = 
-    {
-        base = "upkk.amb.base"
-        volume = 0.35
-        vsnd_files_track_01 = 
-        [
-            "sounds/xnet/replace/radio/negative1.vsnd",
-            "sounds/xnet/replace/radio/negative2.vsnd",
-            "sounds/xnet/replace/radio/negative3.vsnd",
-        ]
-    }
-  upkk.amb.radio_roger = 
-    {
-        base = "upkk.amb.base"
-        volume = 0.35
-        vsnd_files_track_01 = 
-        [
-            "sounds/xnet/replace/radio/roger1.vsnd",
-            "sounds/xnet/replace/radio/roger2.vsnd",
-        ]
-    }
-   upkk.amb.radio_sorry = 
-    {
-        base = "upkk.amb.base"
-        volume = 0.35
-        vsnd_files_track_01 = 
-        [
-            "sounds/xnet/replace/radio/sorry1.vsnd",
-            "sounds/xnet/replace/radio/sorry2.vsnd",
-        ]
-    }
-    upkk.amb.radio_enemyspot = 
-    {
-        base = "upkk.amb.base"
-        volume = 0.35
-        vsnd_files_track_01 = 
-        [
-            "sounds/xnet/replace/radio/enemyspot.vsnd",
-        ]
-    }
-
-    upkk.amb.cheers = 
-    {
-        base = "upkk.amb.base"
-        volume = 0.9
-        
-        vsnd_files_track_01 = 
-        [
-            "sounds/xnet/cheer/cheer_1.vsnd",
-            "sounds/xnet/cheer/cheer_2.vsnd",
-            "sounds/xnet/cheer/cheer_3.vsnd",
-            "sounds/xnet/cheer/cheer_4.vsnd",
-            "sounds/xnet/cheer/cheer_5.vsnd",
-            "sounds/xnet/cheer/cheer_6.vsnd",
-            "sounds/xnet/cheer/cheer_7.vsnd",
-            "sounds/xnet/cheer/cheer_8.vsnd",
-            "sounds/xnet/cheer/cheer_9.vsnd",
-            "sounds/xnet/cheer/cheer_10.vsnd",
-            "sounds/xnet/cheer/cheer_11.vsnd",
-            "sounds/xnet/cheer/cheer_12.vsnd",
-            "sounds/xnet/cheer/cheer_13.vsnd",
-            "sounds/xnet/cheer/cheer_14.vsnd",
-            "sounds/xnet/cheer/cheer_15.vsnd",
-        ]
-    }
-    upkk.amb.cheers_global = 
-    {
-        base = "upkk.amb.all"
-        volume = 0.7
-        pitch = 1
-
-        vsnd_files_track_01 = 
-        [
-            "sounds/xnet/cheer/cheer_1.vsnd",
-            "sounds/xnet/cheer/cheer_2.vsnd",
-            "sounds/xnet/cheer/cheer_3.vsnd",
-            "sounds/xnet/cheer/cheer_4.vsnd",
-            "sounds/xnet/cheer/cheer_5.vsnd",
-            "sounds/xnet/cheer/cheer_6.vsnd",
-            "sounds/xnet/cheer/cheer_7.vsnd",
-            "sounds/xnet/cheer/cheer_8.vsnd",
-            "sounds/xnet/cheer/cheer_9.vsnd",
-            "sounds/xnet/cheer/cheer_10.vsnd",
-            "sounds/xnet/cheer/cheer_11.vsnd",
-            "sounds/xnet/cheer/cheer_12.vsnd",
-            "sounds/xnet/cheer/cheer_13.vsnd",
-            "sounds/xnet/cheer/cheer_14.vsnd",
-            "sounds/xnet/cheer/cheer_15.vsnd",
-        ]
-    }
+	{
+		base = "upkk.amb.base"
+		vsnd_files_track_01 = 
+		[
+			"sounds/xnet/replace/grenade/grenade1.vsnd",
+			"sounds/xnet/replace/grenade/grenade2.vsnd",
+			"sounds/xnet/replace/grenade/grenade3.vsnd",
+			"sounds/xnet/replace/grenade/grenade4.vsnd",
+			"sounds/xnet/replace/grenade/grenade5.vsnd",
+		]
+		vsnd_duration = 1.023991
+	}
+	upkk.amb.female_die = 
+	{
+		base = "upkk.amb.base"
+		vsnd_files_track_01 = 
+		[
+			"sounds/xnet/replace/death/death1.vsnd",
+			"sounds/xnet/replace/death/death2.vsnd",
+			"sounds/xnet/replace/death/death3.vsnd",
+			"sounds/xnet/replace/death/death4.vsnd",
+		]
+		vsnd_duration = 1.018775
+	}
+	upkk.amb.female_hurt = 
+	{
+		base = "upkk.amb.self"
+		vsnd_files_track_01 = 
+		[
+			"sounds/xnet/replace/hurt/hurt1.vsnd",
+			"sounds/xnet/replace/hurt/hurt2.vsnd",
+			"sounds/xnet/replace/hurt/hurt3.vsnd",
+		]
+		vsnd_duration = 0.597324
+	}
+	upkk.amb.radio_back = 
+	{
+		base = "upkk.amb.base"
+		volume = 0.350000
+		vsnd_files_track_01 = 
+		[
+			"sounds/xnet/replace/radio/fallback.vsnd",
+		]
+		vsnd_duration = 1.088005
+	}
+	upkk.amb.radio_go = 
+	{
+		base = "upkk.amb.base"
+		volume = 0.350000
+		vsnd_files_track_01 = 
+		[
+			"sounds/xnet/replace/radio/go.vsnd",
+		]
+		vsnd_duration = 1.515102
+	}
+	upkk.amb.radio_thanks = 
+	{
+		base = "upkk.amb.base"
+		volume = 0.350000
+		vsnd_files_track_01 = 
+		[
+			"sounds/xnet/replace/radio/thanks.vsnd",
+		]
+		vsnd_duration = 1.018775
+	}
+	upkk.amb.radio_coverme = 
+	{
+		base = "upkk.amb.base"
+		volume = 0.350000
+		vsnd_files_track_01 = 
+		[
+			"sounds/xnet/replace/radio/coverme1.vsnd",
+			"sounds/xnet/replace/radio/coverme2.vsnd",
+		]
+		vsnd_duration = 1.118934
+	}
+	upkk.amb.radio_followme = 
+	{
+		base = "upkk.amb.base"
+		volume = 0.350000
+		vsnd_files_track_01 = 
+		[
+			"sounds/xnet/replace/radio/followme.vsnd",
+		]
+		vsnd_duration = 1.343991
+	}
+	upkk.amb.radio_needbackup = 
+	{
+		base = "upkk.amb.base"
+		volume = 0.350000
+		vsnd_files_track_01 = 
+		[
+			"sounds/xnet/replace/radio/needbackup.vsnd",
+		]
+		vsnd_duration = 1.134989
+	}
+	upkk.amb.radio_negative = 
+	{
+		base = "upkk.amb.base"
+		volume = 0.350000
+		vsnd_files_track_01 = 
+		[
+			"sounds/xnet/replace/radio/negative1.vsnd",
+			"sounds/xnet/replace/radio/negative2.vsnd",
+			"sounds/xnet/replace/radio/negative3.vsnd",
+		]
+		vsnd_duration = 1.597120
+	}
+	upkk.amb.radio_roger = 
+	{
+		base = "upkk.amb.base"
+		volume = 0.350000
+		vsnd_files_track_01 = 
+		[
+			"sounds/xnet/replace/radio/roger1.vsnd",
+			"sounds/xnet/replace/radio/roger2.vsnd",
+		]
+		vsnd_duration = 0.589637
+	}
+	upkk.amb.radio_sorry = 
+	{
+		base = "upkk.amb.base"
+		volume = 0.350000
+		vsnd_files_track_01 = 
+		[
+			"sounds/xnet/replace/radio/sorry1.vsnd",
+			"sounds/xnet/replace/radio/sorry2.vsnd",
+		]
+		vsnd_duration = 1.663991
+	}
+	upkk.amb.radio_enemyspot = 
+	{
+		base = "upkk.amb.base"
+		volume = 0.350000
+		vsnd_files_track_01 = 
+		[
+			"sounds/xnet/replace/radio/enemyspot.vsnd",
+		]
+	}
+	upkk.amb.cheers = 
+	{
+		base = "upkk.amb.base"
+		volume = 0.900000
+		vsnd_files_track_01 = 
+		[
+			"sounds/xnet/cheer/cheer_1.vsnd",
+			"sounds/xnet/cheer/cheer_2.vsnd",
+			"sounds/xnet/cheer/cheer_3.vsnd",
+			"sounds/xnet/cheer/cheer_4.vsnd",
+			"sounds/xnet/cheer/cheer_5.vsnd",
+			"sounds/xnet/cheer/cheer_6.vsnd",
+			"sounds/xnet/cheer/cheer_7.vsnd",
+			"sounds/xnet/cheer/cheer_8.vsnd",
+			"sounds/xnet/cheer/cheer_9.vsnd",
+			"sounds/xnet/cheer/cheer_10.vsnd",
+			"sounds/xnet/cheer/cheer_11.vsnd",
+			"sounds/xnet/cheer/cheer_12.vsnd",
+			"sounds/xnet/cheer/cheer_13.vsnd",
+			"sounds/xnet/cheer/cheer_14.vsnd",
+			"sounds/xnet/cheer/cheer_15.vsnd",
+		]
+		vsnd_duration = 4.957324
+	}
+	upkk.amb.cheers_global = 
+	{
+		base = "upkk.amb.all"
+		volume = 0.700000
+		pitch = 100
+		vsnd_files_track_01 = 
+		[
+			"sounds/xnet/cheer/cheer_1.vsnd",
+			"sounds/xnet/cheer/cheer_2.vsnd",
+			"sounds/xnet/cheer/cheer_3.vsnd",
+			"sounds/xnet/cheer/cheer_4.vsnd",
+			"sounds/xnet/cheer/cheer_5.vsnd",
+			"sounds/xnet/cheer/cheer_6.vsnd",
+			"sounds/xnet/cheer/cheer_7.vsnd",
+			"sounds/xnet/cheer/cheer_8.vsnd",
+			"sounds/xnet/cheer/cheer_9.vsnd",
+			"sounds/xnet/cheer/cheer_10.vsnd",
+			"sounds/xnet/cheer/cheer_11.vsnd",
+			"sounds/xnet/cheer/cheer_12.vsnd",
+			"sounds/xnet/cheer/cheer_13.vsnd",
+			"sounds/xnet/cheer/cheer_14.vsnd",
+			"sounds/xnet/cheer/cheer_15.vsnd",
+		]
+		vsnd_duration = 4.957324
+	}
 }
