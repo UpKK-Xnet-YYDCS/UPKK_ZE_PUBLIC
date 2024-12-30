@@ -5,6 +5,8 @@ on:
     paths:
       - 'cs2/counterstrikesharp/configs/plugins/MapChooser/maps.txt'  # 当 maps.txt 文件发生变化时触发
   workflow_dispatch:  # 允许手动触发
+  schedule:
+    - cron: '0 */6 * * *'  # 每 6 个小时触发一次
 
 jobs:
   check-workshop-ids:
