@@ -27,7 +27,7 @@
         "MathID": 25908,
         "MathNameFix": false,
         "MathFindSpawned": true,
-        "MathDontShowMax": false
+        "MathDontShowMax": true
       },
       {
         "Name": "Item_Salad_Button",
@@ -69,7 +69,7 @@
         "MathID": 25942,
         "MathNameFix": false,
         "MathFindSpawned": true,
-        "MathDontShowMax": false
+        "MathDontShowMax": true
       },
       {
         "Name": "Item_EF_Button",
@@ -111,7 +111,7 @@
         "MathID": 25960,
         "MathNameFix": false,
         "MathFindSpawned": true,
-        "MathDontShowMax": false
+        "MathDontShowMax": true
       },
       {
         "Name": "Item_SS_Button",
@@ -153,7 +153,7 @@
         "MathID": 26031,
         "MathNameFix": false,
         "MathFindSpawned": true,
-        "MathDontShowMax": false
+        "MathDontShowMax": true
       },
       {
         "Name": "Item_DO_Button",
@@ -195,7 +195,7 @@
         "MathID": 26055,
         "MathNameFix": false,
         "MathFindSpawned": true,
-        "MathDontShowMax": false
+        "MathDontShowMax": true
       },
       {
         "Name": "Item_GHSA_Button",
@@ -224,9 +224,9 @@
     "UsePriority": true,
     "AbilityList": [
       {
-        "Name": "",
-        "ButtonID": 0,
-        "ButtonClass": "",
+        "Name": "Item_FB_Button",
+        "ButtonID": 26128,
+        "ButtonClass": "func_button",
         "Filter": "",
         "Chat_Uses": false,
         "Mode": 6,
@@ -279,7 +279,7 @@
         "MathID": 26143,
         "MathNameFix": false,
         "MathFindSpawned": true,
-        "MathDontShowMax": false
+        "MathDontShowMax": true
       },
       {
         "Name": "Item_WDB_Button",
@@ -321,7 +321,7 @@
         "MathID": 26172,
         "MathNameFix": false,
         "MathFindSpawned": true,
-        "MathDontShowMax": false
+        "MathDontShowMax": true
       },
       {
         "Name": "Item_LS_Button",
@@ -363,7 +363,7 @@
         "MathID": 26196,
         "MathNameFix": false,
         "MathFindSpawned": true,
-        "MathDontShowMax": false
+        "MathDontShowMax": true
       },
       {
         "Name": "Item_WOTG_Button",
@@ -405,7 +405,7 @@
         "MathID": 26213,
         "MathNameFix": false,
         "MathFindSpawned": true,
-        "MathDontShowMax": false
+        "MathDontShowMax": true
       },
       {
         "Name": "Item_ChSt_Button",
@@ -447,7 +447,7 @@
         "MathID": 26240,
         "MathNameFix": false,
         "MathFindSpawned": true,
-        "MathDontShowMax": false
+        "MathDontShowMax": true
       },
       {
         "Name": "Item_DaSt_Button",
@@ -489,7 +489,7 @@
         "MathID": 26255,
         "MathNameFix": false,
         "MathFindSpawned": true,
-        "MathDontShowMax": false
+        "MathDontShowMax": true
       },
       {
         "Name": "Item_HiBo_Button",
@@ -531,7 +531,7 @@
         "MathID": 26308,
         "MathNameFix": false,
         "MathFindSpawned": true,
-        "MathDontShowMax": false
+        "MathDontShowMax": true
       },
       {
         "Name": "Item_GA_Button",
@@ -573,7 +573,7 @@
         "MathID": 25983,
         "MathNameFix": false,
         "MathFindSpawned": true,
-        "MathDontShowMax": false
+        "MathDontShowMax": true
       },
       {
         "Name": "Item_BF_Button",
@@ -615,7 +615,7 @@
         "MathID": 26003,
         "MathNameFix": false,
         "MathFindSpawned": true,
-        "MathDontShowMax": false
+        "MathDontShowMax": true
       },
       {
         "Name": "Item_PM_Button",
@@ -657,7 +657,7 @@
         "MathID": 26090,
         "MathNameFix": false,
         "MathFindSpawned": true,
-        "MathDontShowMax": false
+        "MathDontShowMax": true
       },
       {
         "Name": "Item_GR_Button",
@@ -699,7 +699,7 @@
         "MathID": 26275,
         "MathNameFix": false,
         "MathFindSpawned": true,
-        "MathDontShowMax": false
+        "MathDontShowMax": true
       },
       {
         "Name": "Item_TM_Button",
@@ -741,7 +741,7 @@
         "MathID": 26293,
         "MathNameFix": false,
         "MathFindSpawned": true,
-        "MathDontShowMax": false
+        "MathDontShowMax": true
       },
       {
         "Name": "Item_PW_Button",
