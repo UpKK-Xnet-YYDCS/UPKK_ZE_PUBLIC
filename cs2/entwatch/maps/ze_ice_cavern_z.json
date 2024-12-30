@@ -1,7 +1,7 @@
 [
   {
-    "Name": "Wind_Item_Weapon",
-    "ShortName": "Wind_Item_Weapon",
+    "Name": "风",
+    "ShortName": "风",
     "Color": "{default}",
     "HammerID": "2523",
     "GlowColor": [0,255,0,1],
@@ -14,20 +14,20 @@
     "UsePriority": true,
     "AbilityList": [
       {
-        "Name": "weapon_deagle",
-        "ButtonID": 0,
-        "ButtonClass": "",
-        "Filter": "",
+        "Name": "Wind_Item_Button",
+        "ButtonID": 2520,
+        "ButtonClass": "func_button",
+        "Filter": "$Player_Wind",
         "Chat_Uses": true,
-        "Mode": 1,
+        "Mode": 2,
         "MaxUses": 0,
-        "CoolDown": 0
+        "CoolDown": 50
       }
     ]
   },
   {
-    "Name": "Heal_Item_Weapon",
-    "ShortName": "Heal_Item_Weapon",
+    "Name": "奶",
+    "ShortName": "奶",
     "Color": "{default}",
     "HammerID": "2537",
     "GlowColor": [0,255,0,1],
@@ -40,20 +40,20 @@
     "UsePriority": true,
     "AbilityList": [
       {
-        "Name": "weapon_deagle",
-        "ButtonID": 0,
-        "ButtonClass": "",
-        "Filter": "",
+        "Name": "Heal_Item_Button",
+        "ButtonID": 2546,
+        "ButtonClass": "func_button",
+        "Filter": "$Player_Heal",
         "Chat_Uses": true,
-        "Mode": 1,
+        "Mode": 2,
         "MaxUses": 0,
-        "CoolDown": 0
+        "CoolDown": 50
       }
     ]
   },
   {
-    "Name": "Ice_Item_Weapon",
-    "ShortName": "Ice_Item_Weapon",
+    "Name": "冰墙",
+    "ShortName": "冰墙",
     "Color": "{default}",
     "HammerID": "2659",
     "GlowColor": [0,255,0,1],
@@ -66,14 +66,14 @@
     "UsePriority": true,
     "AbilityList": [
       {
-        "Name": "weapon_deagle",
-        "ButtonID": 0,
-        "ButtonClass": "",
-        "Filter": "",
+        "Name": "Ice_Item_Button",
+        "ButtonID": 2659,
+        "ButtonClass": "func_button",
+        "Filter": "$Player_Ice",
         "Chat_Uses": true,
-        "Mode": 1,
+        "Mode": 2,
         "MaxUses": 0,
-        "CoolDown": 0
+        "CoolDown": 50
       }
     ]
   }
