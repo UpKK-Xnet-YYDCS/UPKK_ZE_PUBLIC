@@ -1,7 +1,7 @@
 [
   {
-    "Name": "ct_1item_1&0000",
-    "ShortName": "ct_1item_1&0000",
+    "Name": "火箭筒",
+    "ShortName": "火箭筒",
     "Color": "{default}",
     "HammerID": "1562",
     "GlowColor": [0,255,0,1],
@@ -14,20 +14,20 @@
     "UsePriority": true,
     "AbilityList": [
       {
-        "Name": "weapon_elite",
-        "ButtonID": 0,
-        "ButtonClass": "",
-        "Filter": "",
+        "Name": "ct_1button_knife",
+        "ButtonID": 1556,
+        "ButtonClass": "func_button",
+        "Filter": "shooter_ct",
         "Chat_Uses": true,
-        "Mode": 1,
-        "MaxUses": 0,
+        "Mode": 3,
+        "MaxUses": 1,
         "CoolDown": 0
       }
     ]
   },
   {
-    "Name": "1_ct_1item_1&0000",
-    "ShortName": "1_ct_1item_1&0000",
+    "Name": "火箭筒2",
+    "ShortName": "火箭筒2",
     "Color": "{default}",
     "HammerID": "1581",
     "GlowColor": [0,255,0,1],
@@ -40,20 +40,20 @@
     "UsePriority": true,
     "AbilityList": [
       {
-        "Name": "weapon_elite",
-        "ButtonID": 0,
-        "ButtonClass": "",
-        "Filter": "",
+        "Name": "1_ct_1button_knife",
+        "ButtonID": 1575,
+        "ButtonClass": "func_button",
+        "Filter": "shooter_ct1",
         "Chat_Uses": true,
-        "Mode": 1,
-        "MaxUses": 0,
+        "Mode": 3,
+        "MaxUses": 1,
         "CoolDown": 0
       }
     ]
   },
   {
-    "Name": "2_ct_1item_1&0000",
-    "ShortName": "2_ct_1item_1&0000",
+    "Name": "火箭筒3",
+    "ShortName": "火箭筒3",
     "Color": "{default}",
     "HammerID": "1600",
     "GlowColor": [0,255,0,1],
@@ -66,36 +66,36 @@
     "UsePriority": true,
     "AbilityList": [
       {
-        "Name": "weapon_elite",
-        "ButtonID": 0,
-        "ButtonClass": "",
-        "Filter": "",
+        "Name": "2_ct_1button_knife",
+        "ButtonID": 1594,
+        "ButtonClass": "func_button",
+        "Filter": "shooter_ct2",
         "Chat_Uses": true,
-        "Mode": 1,
-        "MaxUses": 0,
+        "Mode": 3,
+        "MaxUses": 1,
         "CoolDown": 0
       }
     ]
   },
   {
-    "Name": "2shooter1_item_1",
-    "ShortName": "2shooter1_item_1",
+    "Name": "ZM 射手",
+    "ShortName": "ZM 射手",
     "Color": "{default}",
     "HammerID": "17700",
     "GlowColor": [0,255,0,1],
     "BlockPickup": false,
-    "AllowTransfer": true,
-    "ForceDrop": true,
-    "Chat": true,
+    "AllowTransfer": false,
+    "ForceDrop": false,
+    "Chat": false,
     "Hud": true,
-    "TriggerID": 0,
+    "TriggerID": 17701,
     "UsePriority": true,
     "AbilityList": [
       {
-        "Name": "weapon_knife",
-        "ButtonID": 0,
-        "ButtonClass": "",
-        "Filter": "",
+        "Name": "2shooter1_button_knife",
+        "ButtonID": 17718,
+        "ButtonClass": "func_button",
+        "Filter": "shooter2:1",
         "Chat_Uses": true,
         "Mode": 1,
         "MaxUses": 0,
@@ -104,24 +104,24 @@
     ]
   },
   {
-    "Name": "3shooter1_item_1",
-    "ShortName": "3shooter1_item_1",
+    "Name": "ZM 射手2",
+    "ShortName": "ZM 射手2",
     "Color": "{default}",
     "HammerID": "17721",
     "GlowColor": [0,255,0,1],
     "BlockPickup": false,
-    "AllowTransfer": true,
-    "ForceDrop": true,
-    "Chat": true,
+    "AllowTransfer": false,
+    "ForceDrop": false,
+    "Chat": false,
     "Hud": true,
-    "TriggerID": 0,
+    "TriggerID": 17722,
     "UsePriority": true,
     "AbilityList": [
       {
-        "Name": "weapon_knife",
-        "ButtonID": 0,
-        "ButtonClass": "",
-        "Filter": "",
+        "Name": "3shooter1_button_knife",
+        "ButtonID": 17739,
+        "ButtonClass": "func_button",
+        "Filter": "shooter3:1",
         "Chat_Uses": true,
         "Mode": 1,
         "MaxUses": 0,
@@ -130,76 +130,49 @@
     ]
   },
   {
-    "Name": "4shooter1_item_1",
-    "ShortName": "4shooter1_item_1",
+    "Name": "ZM 射手3",
+    "ShortName": "ZM 射手3",
     "Color": "{default}",
     "HammerID": "17742",
     "GlowColor": [0,255,0,1],
     "BlockPickup": false,
-    "AllowTransfer": true,
-    "ForceDrop": true,
-    "Chat": true,
+    "AllowTransfer": false,
+    "ForceDrop": false,
+    "Chat": false,
     "Hud": true,
-    "TriggerID": 0,
+    "TriggerID": 17743,
     "UsePriority": true,
     "AbilityList": [
       {
-        "Name": "weapon_knife",
-        "ButtonID": 0,
-        "ButtonClass": "",
-        "Filter": "",
+        "Name": "4shooter1_button_knife",
+        "ButtonID": 17760,
+        "ButtonClass": "func_button",
+        "Filter": "shooter4:1",
         "Chat_Uses": true,
         "Mode": 1,
         "MaxUses": 0,
         "CoolDown": 0
       }
     ]
-  },
-  {
-    "Name": "654shooter1_item_1",
-    "ShortName": "654shooter1_item_1",
-    "Color": "{default}",
-    "HammerID": "17766",
-    "GlowColor": [0,255,0,1],
-    "BlockPickup": false,
-    "AllowTransfer": true,
-    "ForceDrop": true,
-    "Chat": true,
-    "Hud": true,
-    "TriggerID": 0,
-    "UsePriority": true,
-    "AbilityList": [
-      {
-        "Name": "weapon_knife",
-        "ButtonID": 0,
-        "ButtonClass": "",
-        "Filter": "",
-        "Chat_Uses": true,
-        "Mode": 1,
-        "MaxUses": 0,
-        "CoolDown": 0
-      }
-    ]
-  },
-  {
-    "Name": "aoth2shooter1_item_1",
-    "ShortName": "aoth2shooter1_item_1",
+  },  {
+    "Name": "ZM 射手4",
+    "ShortName": "ZM 射手4",
     "Color": "{default}",
     "HammerID": "17787",
     "GlowColor": [0,255,0,1],
     "BlockPickup": false,
-    "AllowTransfer": true,
-    "ForceDrop": true,
-    "Chat": true,
+    "AllowTransfer": false,
+    "ForceDrop": false,
+    "Chat": false,
     "Hud": true,
-    "TriggerID": 0,
+    "TriggerID": 17788,
     "UsePriority": true,
     "AbilityList": [
       {
-        "Name": "weapon_knife",
-        "ButtonID": 0,
-        "ButtonClass": "",
-        "Filter": "",
+        "Name": "aoth2shooter1_button_knife",
+        "ButtonID": 17805,
+        "ButtonClass": "func_button",
+        "Filter": "shooter5:1",
         "Chat_Uses": true,
         "Mode": 1,
         "MaxUses": 0,
@@ -208,50 +181,24 @@
     ]
   },
   {
-    "Name": "aoth2shooter1_item_1",
-    "ShortName": "aoth2shooter1_item_1",
-    "Color": "{default}",
-    "HammerID": "17787",
-    "GlowColor": [0,255,0,1],
-    "BlockPickup": false,
-    "AllowTransfer": true,
-    "ForceDrop": true,
-    "Chat": true,
-    "Hud": true,
-    "TriggerID": 0,
-    "UsePriority": true,
-    "AbilityList": [
-      {
-        "Name": "weapon_knife",
-        "ButtonID": 0,
-        "ButtonClass": "",
-        "Filter": "",
-        "Chat_Uses": true,
-        "Mode": 1,
-        "MaxUses": 0,
-        "CoolDown": 0
-      }
-    ]
-  },
-  {
-    "Name": "654shooter1_item_1",
-    "ShortName": "654shooter1_item_1",
+    "Name": "ZM 射手5",
+    "ShortName": "ZM 射手5",
     "Color": "{default}",
     "HammerID": "17766",
     "GlowColor": [0,255,0,1],
     "BlockPickup": false,
-    "AllowTransfer": true,
-    "ForceDrop": true,
-    "Chat": true,
+    "AllowTransfer": false,
+    "ForceDrop": false,
+    "Chat": false,
     "Hud": true,
-    "TriggerID": 0,
+    "TriggerID": 17767,
     "UsePriority": true,
     "AbilityList": [
       {
-        "Name": "weapon_knife",
-        "ButtonID": 0,
-        "ButtonClass": "",
-        "Filter": "",
+        "Name": "654shooter1_button_knife",
+        "ButtonID": 17784,
+        "ButtonClass": "func_button",
+        "Filter": "shooter6:1",
         "Chat_Uses": true,
         "Mode": 1,
         "MaxUses": 0,
@@ -260,86 +207,8 @@
     ]
   },
   {
-    "Name": "4shooter1_item_1",
-    "ShortName": "4shooter1_item_1",
-    "Color": "{default}",
-    "HammerID": "17742",
-    "GlowColor": [0,255,0,1],
-    "BlockPickup": false,
-    "AllowTransfer": true,
-    "ForceDrop": true,
-    "Chat": true,
-    "Hud": true,
-    "TriggerID": 0,
-    "UsePriority": true,
-    "AbilityList": [
-      {
-        "Name": "weapon_knife",
-        "ButtonID": 0,
-        "ButtonClass": "",
-        "Filter": "",
-        "Chat_Uses": true,
-        "Mode": 1,
-        "MaxUses": 0,
-        "CoolDown": 0
-      }
-    ]
-  },
-  {
-    "Name": "3shooter1_item_1",
-    "ShortName": "3shooter1_item_1",
-    "Color": "{default}",
-    "HammerID": "17721",
-    "GlowColor": [0,255,0,1],
-    "BlockPickup": false,
-    "AllowTransfer": true,
-    "ForceDrop": true,
-    "Chat": true,
-    "Hud": true,
-    "TriggerID": 0,
-    "UsePriority": true,
-    "AbilityList": [
-      {
-        "Name": "weapon_knife",
-        "ButtonID": 0,
-        "ButtonClass": "",
-        "Filter": "",
-        "Chat_Uses": true,
-        "Mode": 1,
-        "MaxUses": 0,
-        "CoolDown": 0
-      }
-    ]
-  },
-  {
-    "Name": "2shooter1_item_1",
-    "ShortName": "2shooter1_item_1",
-    "Color": "{default}",
-    "HammerID": "17700",
-    "GlowColor": [0,255,0,1],
-    "BlockPickup": false,
-    "AllowTransfer": true,
-    "ForceDrop": true,
-    "Chat": true,
-    "Hud": true,
-    "TriggerID": 0,
-    "UsePriority": true,
-    "AbilityList": [
-      {
-        "Name": "weapon_knife",
-        "ButtonID": 0,
-        "ButtonClass": "",
-        "Filter": "",
-        "Chat_Uses": true,
-        "Mode": 1,
-        "MaxUses": 0,
-        "CoolDown": 0
-      }
-    ]
-  },
-  {
-    "Name": "light_elite1",
-    "ShortName": "light_elite1",
+    "Name": "灯",
+    "ShortName": "灯",
     "Color": "{default}",
     "HammerID": "977",
     "GlowColor": [0,255,0,1],
@@ -352,20 +221,20 @@
     "UsePriority": true,
     "AbilityList": [
       {
-        "Name": "weapon_elite",
+        "Name": "",
         "ButtonID": 0,
         "ButtonClass": "",
         "Filter": "",
         "Chat_Uses": true,
-        "Mode": 1,
+        "Mode": 0,
         "MaxUses": 0,
         "CoolDown": 0
       }
     ]
   },
   {
-    "Name": "light_elite2",
-    "ShortName": "light_elite2",
+    "Name": "灯2",
+    "ShortName": "灯2",
     "Color": "{default}",
     "HammerID": "979",
     "GlowColor": [0,255,0,1],
@@ -378,20 +247,20 @@
     "UsePriority": true,
     "AbilityList": [
       {
-        "Name": "weapon_elite",
+        "Name": "",
         "ButtonID": 0,
         "ButtonClass": "",
         "Filter": "",
         "Chat_Uses": true,
-        "Mode": 1,
+        "Mode": 0,
         "MaxUses": 0,
         "CoolDown": 0
       }
     ]
   },
   {
-    "Name": "light_elite3",
-    "ShortName": "light_elite3",
+    "Name": "灯3",
+    "ShortName": "灯3",
     "Color": "{default}",
     "HammerID": "982",
     "GlowColor": [0,255,0,1],
@@ -404,12 +273,12 @@
     "UsePriority": true,
     "AbilityList": [
       {
-        "Name": "weapon_elite",
+        "Name": "",
         "ButtonID": 0,
         "ButtonClass": "",
         "Filter": "",
         "Chat_Uses": true,
-        "Mode": 1,
+        "Mode": 0,
         "MaxUses": 0,
         "CoolDown": 0
       }
