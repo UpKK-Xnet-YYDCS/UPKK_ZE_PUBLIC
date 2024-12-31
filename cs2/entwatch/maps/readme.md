@@ -19,10 +19,10 @@
     "HammerID": 0,					//神器所对应weapon_实体的hammeruniqueid
     "GlowColor": [0,0,0,0],			//rgba,神器高亮颜色
     "BlockPickup": false,			//锁定拾起，无特殊情况填false
-    "AllowTransfer": false,			//是否允许管理员传送该神器，皮肤神器和僵尸神器设置为false。
-    "ForceDrop": false,				//允许神器落地，手枪神器填true，刀神器填false，这个参数服务器已经删除，实际不生效。
-    "Chat": false,					//神器拾起或丢弃时聊天框提示
-    "Hud": false,					//是否在hud显示
+    "AllowTransfer": true,			//是否允许管理员传送该神器，皮肤神器和僵尸神器设置为false。
+    "ForceDrop": true,				//允许神器落地，手枪神器填true，刀神器填false，这个参数服务器已经删除，实际不生效。
+    "Chat": true,					//神器拾起或丢弃时聊天框提示
+    "Hud": true,					//是否在hud显示
     "TriggerID": 0,					//设置一个被eban的玩家无法拾取神器的玩家触发的trigger，主要防止吞神器trigger导致正常玩家无法拾取。Trigger通常是绑定在神器的一个trigger_once或者trigger_multiple实体，该实体的io指向一个game_player_equip实体。
     "UsePriority": false,			//默认启用,可以禁用强制玩家按下特定神器上的按钮，如有bug请设置为false。
     "AbilityList": [				//神器属性配置
@@ -38,7 +38,9 @@
         "Ignore": false,		//隐藏该神器属性
         "LockItem": false,		//锁定神器按钮
         "MathID": 0,			//math_counter的hammeruniqueid，适用于mode 6,7
-        "MathNameFix": false	//修复 math_counter 的名称（使用标志：保留实体名称（不进行名称修复）->point_template/env_entity_maker），如果一关中生成多个相同的使用了math_counter控制CD的神器且hud显示不正确，比如狮子王的迷你机枪，那么请填true
+        "MathNameFix": false,	//修复math_counter的名称（使用point_template和env_entity_maker实体生成的神器，其实体的flag未勾选Preserve entity names - Don't do name fixup时填true）
+        "MathFindSpawned": false,	//武器生成后在地图上搜索math_counter（math_counter在回合开始时生成且不在point_template中时填true）
+        "MathDontShowMax": false	//不显示最大值（建议填true）
       },
       {
         "Name": "",
