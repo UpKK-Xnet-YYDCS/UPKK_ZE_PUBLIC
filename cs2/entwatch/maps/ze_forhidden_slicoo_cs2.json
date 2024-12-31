@@ -41,7 +41,7 @@
     "AbilityList": [
       {
         "Name": "elos_curse_button",
-        "ButtonID": 2520,
+        "ButtonID": -1,
         "ButtonClass": "func_button",
         "Filter": "hitem_elos_curse_user:1",
         "Chat_Uses": false,
@@ -51,7 +51,9 @@
         "Ignore": false,
         "LockItem": false,
         "MathID": 2523,
-        "MathNameFix": false
+        "MathNameFix": false,
+        "MathFindSpawned": false,
+        "MathDontShowMax": true
       },
       {
         "Name": "elos_curse_button",
