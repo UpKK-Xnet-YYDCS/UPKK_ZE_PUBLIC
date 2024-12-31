@@ -1,7 +1,7 @@
 [
   {
-    "Name": "heal_el",
-    "ShortName": "heal_el",
+    "Name": "奶",
+    "ShortName": "奶",
     "Color": "{default}",
     "HammerID": "405",
     "GlowColor": [0,255,0,1],
@@ -14,20 +14,20 @@
     "UsePriority": true,
     "AbilityList": [
       {
-        "Name": "weapon_elite",
-        "ButtonID": 0,
-        "ButtonClass": "",
-        "Filter": "",
+        "Name": "heal_bt",
+        "ButtonID": 400,
+        "ButtonClass": "func_button",
+        "Filter": "player_heal:1",
         "Chat_Uses": true,
-        "Mode": 1,
+        "Mode": 2,
         "MaxUses": 0,
-        "CoolDown": 0
+        "CoolDown": 65
       }
     ]
   },
   {
-    "Name": "ice_el",
-    "ShortName": "ice_el",
+    "Name": "冰",
+    "ShortName": "冰",
     "Color": "{default}",
     "HammerID": "427",
     "GlowColor": [0,255,0,1],
@@ -40,20 +40,20 @@
     "UsePriority": true,
     "AbilityList": [
       {
-        "Name": "weapon_elite",
-        "ButtonID": 0,
-        "ButtonClass": "",
-        "Filter": "",
+        "Name": "ice_bt",
+        "ButtonID": 415,
+        "ButtonClass": "func_button",
+        "Filter": "player_ice:1",
         "Chat_Uses": true,
-        "Mode": 1,
+        "Mode": 2,
         "MaxUses": 0,
-        "CoolDown": 0
+        "CoolDown": 60
       }
     ]
   },
   {
-    "Name": "fire_el",
-    "ShortName": "fire_el",
+    "Name": "火",
+    "ShortName": "火",
     "Color": "{default}",
     "HammerID": "949",
     "GlowColor": [0,255,0,1],
@@ -66,62 +66,72 @@
     "UsePriority": true,
     "AbilityList": [
       {
-        "Name": "weapon_elite",
-        "ButtonID": 0,
-        "ButtonClass": "",
-        "Filter": "",
+        "Name": "fire_bt",
+        "ButtonID": 946,
+        "ButtonClass": "func_button",
+        "Filter": "player_fire:1",
         "Chat_Uses": true,
-        "Mode": 1,
+        "Mode": 2,
         "MaxUses": 0,
-        "CoolDown": 0
+        "CoolDown": 50
       }
     ]
   },
   {
-    "Name": "Item_Mech_Knife",
-    "ShortName": "Item_Mech_Knife",
+    "Name": "高达",
+    "ShortName": "高达",
     "Color": "{default}",
     "HammerID": "5647",
     "GlowColor": [0,255,0,1],
     "BlockPickup": false,
-    "AllowTransfer": true,
-    "ForceDrop": true,
+    "AllowTransfer": false,
+    "ForceDrop": false,
     "Chat": true,
     "Hud": true,
-    "TriggerID": 0,
+    "TriggerID": 5653,
     "UsePriority": true,
     "AbilityList": [
       {
-        "Name": "weapon_knife",
-        "ButtonID": 0,
-        "ButtonClass": "",
-        "Filter": "",
+        "Name": "Item_Mech_Button",
+        "ButtonID": 5655,
+        "ButtonClass": "func_button",
+        "Filter": "Skin_Mech",
         "Chat_Uses": true,
-        "Mode": 1,
+        "Mode": 2,
         "MaxUses": 0,
-        "CoolDown": 0
+        "CoolDown": 120
       }
     ]
   },
   {
-    "Name": "heiyan_weapon",
-    "ShortName": "heiyan_weapon",
+    "Name": "黑岩",
+    "ShortName": "黑岩",
     "Color": "{default}",
     "HammerID": "5697",
     "GlowColor": [0,255,0,1],
     "BlockPickup": false,
     "AllowTransfer": true,
     "ForceDrop": true,
-    "Chat": true,
+    "Chat": false,
     "Hud": true,
     "TriggerID": 0,
     "UsePriority": true,
     "AbilityList": [
       {
-        "Name": "weapon_knife",
-        "ButtonID": 0,
-        "ButtonClass": "",
-        "Filter": "",
+        "Name": "heiyan_luanshe_button",
+        "ButtonID": 5717,
+        "ButtonClass": "func_button",
+        "Filter": "heiyan:1",
+        "Chat_Uses": true,
+        "Mode": 2,
+        "MaxUses": 0,
+        "CoolDown": 10
+      },
+      {
+        "Name": "heiyan_atk2_button",
+        "ButtonID": 5733,
+        "ButtonClass": "func_button",
+        "Filter": "heiyan:1",
         "Chat_Uses": true,
         "Mode": 1,
         "MaxUses": 0,
