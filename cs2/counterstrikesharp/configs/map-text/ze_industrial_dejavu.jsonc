@@ -1,12 +1,12 @@
 {
   "* Vortex zombie has been summoned. Press +USE (E) to activate.*": {
-    "translation": "*僵尸吸尘器已被拾取。按+USE(E)激活。*"
+    "translation": "*僵尸吸尘器已被拾取。按E使用。*"
   },
   "* Zombie heal has been picked up. Press +USE (E) to activate.*": {
-    "translation": "*僵尸治疗已被拾取。按+USE(E)激活。*"
+    "translation": "*僵尸奶已被拾取。按E使用。*"
   },
   "* Zombie rage has been picked up. Press +USE (E) to activate.*": {
-    "translation": "*僵尸狂怒已被拾取。按+USE(E)激活。*"
+    "translation": "*僵尸加速已被拾取。按E使用。*"
   },
   "*** 'cause I'm as free as a bird now... ***": {
     "translation": "***因为我现在像鸟儿一样自由...***"
@@ -93,7 +93,8 @@
     "translation": "***哦，不！！！这是一个看起来非常熟悉的BOSS！！！***"
   },
   "*** Pushgun has been taken. Press +USE (E) to activate. 60 seconds cooldown. ***": {
-    "translation": "***出门推力枪已被拾取。按+USE(E)激活。冷却时间60。***"
+    "translation": "***推力枪已被拾取。按E使用。冷却时间66秒***",
+    "DoorCountDown": -1
   },
   "*** RANDOM WEAPON SPAWNED BY ADMIN ***": {
     "translation": "***管理员随机生成神器***"
@@ -156,14 +157,14 @@
     "translation": "***撤离！！！***"
   },
   "**Flamethrower has been picked up. Press +Use (E) to activate**": {
-    "translation": "**火焰喷射器已被拾取。按+USE(E)激活**"
+    "translation": "**喷火器已被拾取。按E使用**"
   },
   "**Fuel lasts about 10 seconds. **": {
     "translation": "**续航10秒。**",
     "DoorCountDown": -1
   },
   "*Ammo Box has been picked up. Press +USE (E) to activate.*": {
-    "translation": "*弹药箱已被拾取。按+USE(E)激活。*"
+    "translation": "*弹药已被拾取。按E使用。*"
   },
   "*It has a 120 seconds cooldown.*": {
     "translation": "*冷却时间为120秒。*",
@@ -178,6 +179,6 @@
     "DoorCountDown": -1
   },
   "*Laser wall generator has been picked up. Press +USE (E) to activate.*": {
-    "translation": "*激光墙已被拾取。按+USE(E)激活。*"
+    "translation": "*激光墙已被拾取。按E使用。*"
   }
 }
