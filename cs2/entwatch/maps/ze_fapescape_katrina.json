@@ -71,13 +71,15 @@
         "ButtonClass": "func_button",
         "Filter": "filter_item_heal:1",
         "Chat_Uses": true,
-        "Mode": 7,
+        "Mode": 6,
         "MaxUses": 0,
         "CoolDown": 0,
         "Ignore": false,
         "LockItem": false,
         "MathID": 27702,
-        "MathNameFix": false
+        "MathNameFix": false,
+        "MathFindSpawned": true,
+        "MathDontShowMax": true
       }
     ]
   },
