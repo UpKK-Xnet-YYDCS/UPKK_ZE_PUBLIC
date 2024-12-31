@@ -1,0 +1,366 @@
+[
+  {
+    "Name": "星辰漂流",
+    "ShortName": "星辰漂流",
+    "Color": "{default}",
+    "HammerID": "4685",
+    "GlowColor": [0,255,0,1],
+    "BlockPickup": false,
+    "AllowTransfer": true,
+    "ForceDrop": true,
+    "Chat": true,
+    "Hud": true,
+    "TriggerID": 0,
+    "UsePriority": true,
+    "AbilityList": [
+      {
+        "Name": "xcpl_button",
+        "ButtonID": 4686,
+        "ButtonClass": "func_button",
+        "Filter": "xcpl:1",
+        "Chat_Uses": true,
+        "Mode": 2,
+        "MaxUses": 0,
+        "CoolDown": 30
+      }
+    ]
+  },
+  {
+    "Name": "盾墙",
+    "ShortName": "盾墙",
+    "Color": "{default}",
+    "HammerID": "4659",
+    "GlowColor": [0,255,0,1],
+    "BlockPickup": false,
+    "AllowTransfer": true,
+    "ForceDrop": true,
+    "Chat": true,
+    "Hud": true,
+    "TriggerID": 0,
+    "UsePriority": true,
+    "AbilityList": [
+      {
+        "Name": "dq_button",
+        "ButtonID": 4660,
+        "ButtonClass": "func_button",
+        "Filter": "dq:1",
+        "Chat_Uses": true,
+        "Mode": 2,
+        "MaxUses": 0,
+        "CoolDown": 80
+      }
+    ]
+  },
+  {
+    "Name": "圣洁鸣钟",
+    "ShortName": "圣洁鸣钟",
+    "Color": "{default}",
+    "HammerID": "4787",
+    "GlowColor": [0,255,0,1],
+    "BlockPickup": false,
+    "AllowTransfer": true,
+    "ForceDrop": true,
+    "Chat": true,
+    "Hud": true,
+    "TriggerID": 0,
+    "UsePriority": true,
+    "AbilityList": [
+      {
+        "Name": "healbutton",
+        "ButtonID": 4791,
+        "ButtonClass": "func_button",
+        "Filter": "gun_user:1",
+        "Chat_Uses": true,
+        "Mode": 2,
+        "MaxUses": 0,
+        "CoolDown": 60
+      }
+    ]
+  },
+  {
+    "Name": "ZM 烧尽",
+    "ShortName": "ZM 烧尽",
+    "Color": "{default}",
+    "HammerID": "4571",
+    "GlowColor": [0,255,0,1],
+    "BlockPickup": false,
+    "AllowTransfer": false,
+    "ForceDrop": false,
+    "Chat": true,
+    "Hud": true,
+    "TriggerID": 4800,
+    "UsePriority": true,
+    "AbilityList": [
+      {
+        "Name": "fire_buttton",
+        "ButtonID": 4572,
+        "ButtonClass": "func_button",
+        "Filter": "fire:1",
+        "Chat_Uses": true,
+        "Mode": 2,
+        "MaxUses": 0,
+        "CoolDown": 30
+      }
+    ]
+  },
+  {
+    "Name": "ZM 嗜血",
+    "ShortName": "ZM 嗜血",
+    "Color": "{default}",
+    "HammerID": "4612",
+    "GlowColor": [0,255,0,1],
+    "BlockPickup": false,
+    "AllowTransfer": false,
+    "ForceDrop": false,
+    "Chat": true,
+    "Hud": true,
+    "TriggerID": 4613,
+    "UsePriority": true,
+    "AbilityList": [
+      {
+        "Name": "speed_button",
+        "ButtonID": 4616,
+        "ButtonClass": "func_button",
+        "Filter": "speed:1",
+        "Chat_Uses": true,
+        "Mode": 2,
+        "MaxUses": 0,
+        "CoolDown": 80
+      }
+    ]
+  },
+  {
+    "Name": "ZM 冰霜巨龙之怒",
+    "ShortName": "ZM 冰霜巨龙之怒",
+    "Color": "{default}",
+    "HammerID": "4770",
+    "GlowColor": [0,255,0,1],
+    "BlockPickup": false,
+    "AllowTransfer": false,
+    "ForceDrop": false,
+    "Chat": true,
+    "Hud": true,
+    "TriggerID": 4768,
+    "UsePriority": true,
+    "AbilityList": [
+      {
+        "Name": "rage_button",
+        "ButtonID": 4772,
+        "ButtonClass": "func_button",
+        "Filter": "rage:1",
+        "Chat_Uses": true,
+        "Mode": 2,
+        "MaxUses": 0,
+        "CoolDown": 80
+      }
+    ]
+  },
+  {
+    "Name": "水手之矛",
+    "ShortName": "水手之矛",
+    "Color": "{default}",
+    "HammerID": "4630",
+    "GlowColor": [0,255,0,1],
+    "BlockPickup": false,
+    "AllowTransfer": true,
+    "ForceDrop": true,
+    "Chat": true,
+    "Hud": true,
+    "TriggerID": 0,
+    "UsePriority": true,
+    "AbilityList": [
+      {
+        "Name": "sszm_button",
+        "ButtonID": 4631,
+        "ButtonClass": "func_button",
+        "Filter": "sszm:1",
+        "Chat_Uses": true,
+        "Mode": 2,
+        "MaxUses": 0,
+        "CoolDown": 60
+      }
+    ]
+  },
+  {
+    "Name": "英勇",
+    "ShortName": "英勇",
+    "Color": "{default}",
+    "HammerID": "5165",
+    "GlowColor": [0,255,0,1],
+    "BlockPickup": false,
+    "AllowTransfer": true,
+    "ForceDrop": true,
+    "Chat": true,
+    "Hud": true,
+    "TriggerID": 0,
+    "UsePriority": true,
+    "AbilityList": [
+      {
+        "Name": "Item_Button",
+        "ButtonID": 5166,
+        "ButtonClass": "func_button",
+        "Filter": "yingyong:1",
+        "Chat_Uses": true,
+        "Mode": 2,
+        "MaxUses": 0,
+        "CoolDown": 60
+      }
+    ]
+  },
+  {
+    "Name": "升腾",
+    "ShortName": "升腾",
+    "Color": "{default}",
+    "HammerID": "5192",
+    "GlowColor": [0,255,0,1],
+    "BlockPickup": false,
+    "AllowTransfer": true,
+    "ForceDrop": true,
+    "Chat": true,
+    "Hud": true,
+    "TriggerID": 0,
+    "UsePriority": true,
+    "AbilityList": [
+      {
+        "Name": "stbutton",
+        "ButtonID": 5196,
+        "ButtonClass": "func_button",
+        "Filter": "st_user:1",
+        "Chat_Uses": true,
+        "Mode": 2,
+        "MaxUses": 0,
+        "CoolDown": 30
+      }
+    ]
+  },
+  {
+    "Name": "ZM 灾难狂欢",
+    "ShortName": "ZM 灾难狂欢",
+    "Color": "{default}",
+    "HammerID": "4720",
+    "GlowColor": [0,255,0,1],
+    "BlockPickup": false,
+    "AllowTransfer": false,
+    "ForceDrop": false,
+    "Chat": true,
+    "Hud": true,
+    "TriggerID": 4721,
+    "UsePriority": true,
+    "AbilityList": [
+      {
+        "Name": "znkh_button",
+        "ButtonID": 4725,
+        "ButtonClass": "func_button",
+        "Filter": "znkh:1",
+        "Chat_Uses": true,
+        "Mode": 2,
+        "MaxUses": 0,
+        "CoolDown": 40
+      }
+    ]
+  },
+  {
+    "Name": "ZM 枯萎凋零",
+    "ShortName": "ZM 枯萎凋零",
+    "Color": "{default}",
+    "HammerID": "4590",
+    "GlowColor": [0,255,0,1],
+    "BlockPickup": false,
+    "AllowTransfer": false,
+    "ForceDrop": false,
+    "Chat": true,
+    "Hud": true,
+    "TriggerID": 4591,
+    "UsePriority": true,
+    "AbilityList": [
+      {
+        "Name": "kwdl_button",
+        "ButtonID": 4596,
+        "ButtonClass": "func_button",
+        "Filter": "kwdl:1",
+        "Chat_Uses": true,
+        "Mode": 2,
+        "MaxUses": 0,
+        "CoolDown": 60
+      }
+    ]
+  },
+  {
+    "Name": "寒冰吐息",
+    "ShortName": "寒冰吐息",
+    "Color": "{default}",
+    "HammerID": "4702",
+    "GlowColor": [0,255,0,1],
+    "BlockPickup": false,
+    "AllowTransfer": true,
+    "ForceDrop": true,
+    "Chat": true,
+    "Hud": true,
+    "TriggerID": 0,
+    "UsePriority": true,
+    "AbilityList": [
+      {
+        "Name": "hbtx_button",
+        "ButtonID": 4700,
+        "ButtonClass": "func_button",
+        "Filter": "hbtx:1",
+        "Chat_Uses": true,
+        "Mode": 2,
+        "MaxUses": 0,
+        "CoolDown": 15
+      }
+    ]
+  },
+  {
+    "Name": "奉献",
+    "ShortName": "奉献",
+    "Color": "{default}",
+    "HammerID": "4620",
+    "GlowColor": [0,255,0,1],
+    "BlockPickup": false,
+    "AllowTransfer": true,
+    "ForceDrop": true,
+    "Chat": true,
+    "Hud": true,
+    "TriggerID": 0,
+    "UsePriority": true,
+    "AbilityList": [
+      {
+        "Name": "fx_button",
+        "ButtonID": 4621,
+        "ButtonClass": "func_button",
+        "Filter": "fx:1",
+        "Chat_Uses": true,
+        "Mode": 2,
+        "MaxUses": 0,
+        "CoolDown": 30
+      }
+    ]
+  },
+  {
+    "Name": "ZM swzw",
+    "ShortName": "ZM swzw",
+    "Color": "{default}",
+    "HammerID": "4605",
+    "GlowColor": [0,255,0,1],
+    "BlockPickup": false,
+    "AllowTransfer": false,
+    "ForceDrop": false,
+    "Chat": true,
+    "Hud": true,
+    "TriggerID": 4603,
+    "UsePriority": true,
+    "AbilityList": [
+      {
+        "Name": "swzw_button",
+        "ButtonID": 4606,
+        "ButtonClass": "func_button",
+        "Filter": "swzw:1",
+        "Chat_Uses": true,
+        "Mode": 2,
+        "MaxUses": 0,
+        "CoolDown": 40
+      }
+    ]
+  }
+]
