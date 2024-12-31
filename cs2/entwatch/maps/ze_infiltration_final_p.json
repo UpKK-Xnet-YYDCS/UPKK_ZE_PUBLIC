@@ -1,23 +1,23 @@
 [
   {
-    "Name": "deagle_1",
-    "ShortName": "deagle_1",
+    "Name": "自行车",
+    "ShortName": "自行车",
     "Color": "{default}",
     "HammerID": "126",
     "GlowColor": [0,255,0,1],
     "BlockPickup": false,
     "AllowTransfer": true,
     "ForceDrop": true,
-    "Chat": true,
+    "Chat": false,
     "Hud": true,
     "TriggerID": 0,
     "UsePriority": true,
     "AbilityList": [
       {
-        "Name": "weapon_p250",
-        "ButtonID": 0,
-        "ButtonClass": "",
-        "Filter": "",
+        "Name": "buttonBike",
+        "ButtonID": 124,
+        "ButtonClass": "func_button",
+        "Filter": "bikeguy:1",
         "Chat_Uses": true,
         "Mode": 1,
         "MaxUses": 0,
@@ -26,8 +26,8 @@
     ]
   },
   {
-    "Name": "weapon_deagle",
-    "ShortName": "weapon_deagle",
+    "Name": "激光枪",
+    "ShortName": "激光枪",
     "Color": "{default}",
     "HammerID": "91",
     "GlowColor": [0,255,0,1],
@@ -40,14 +40,14 @@
     "UsePriority": true,
     "AbilityList": [
       {
-        "Name": "weapon_p250",
-        "ButtonID": 0,
-        "ButtonClass": "",
+        "Name": "buttonGun",
+        "ButtonID": 92,
+        "ButtonClass": "func_button",
         "Filter": "",
         "Chat_Uses": true,
-        "Mode": 1,
+        "Mode": 2,
         "MaxUses": 0,
-        "CoolDown": 0
+        "CoolDown": 120
       }
     ]
   }
