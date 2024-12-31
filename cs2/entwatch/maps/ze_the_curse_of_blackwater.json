@@ -15,7 +15,7 @@
     "AbilityList": [
       {
         "Name": "Button_lantern",
-        "ButtonID": 3745,
+        "ButtonID": -1,
         "ButtonClass": "func_button",
         "Filter": "lanternuser",
         "Chat_Uses": true,
@@ -25,7 +25,9 @@
         "Ignore": false,
         "LockItem": false,
         "MathID": 8995,
-        "MathNameFix": false
+        "MathNameFix": false,
+        "MathFindSpawned": false,
+        "MathDontShowMax": true
       },
       {
         "Name": "Button_lantern",
@@ -55,7 +57,7 @@
     "AbilityList": [
       {
         "Name": "Button_heal",
-        "ButtonID": 3753,
+        "ButtonID": -1,
         "ButtonClass": "func_button",
         "Filter": "healer",
         "Chat_Uses": true,
@@ -65,7 +67,9 @@
         "Ignore": false,
         "LockItem": false,
         "MathID": 9000,
-        "MathNameFix": false
+        "MathNameFix": false,
+        "MathFindSpawned": false,
+        "MathDontShowMax": true
       },
       {
         "Name": "Button_heal",
@@ -80,8 +84,8 @@
     ]
   },
   {
-    "Name": "ZM Sofya",
-    "ShortName": "ZM Sofya",
+    "Name": "ZM 女鬼",
+    "ShortName": "ZM 女鬼",
     "Color": "{default}",
     "HammerID": "4359",
     "GlowColor": [0,255,0,1],
@@ -105,7 +109,9 @@
         "Ignore": false,
         "LockItem": false,
         "MathID": 4347,
-        "MathNameFix": false
+        "MathNameFix": false,
+        "MathFindSpawned": true,
+        "MathDontShowMax": true
       }
     ]
   }

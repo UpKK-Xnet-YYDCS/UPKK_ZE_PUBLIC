@@ -311,7 +311,9 @@
         "Ignore": false,
         "LockItem": false,
         "MathID": 3495,
-        "MathNameFix": false
+        "MathNameFix": false,
+        "MathFindSpawned": false,
+        "MathDontShowMax": true
       }
     ]
   },

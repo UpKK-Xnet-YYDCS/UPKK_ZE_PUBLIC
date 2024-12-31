@@ -259,7 +259,25 @@
         "Ignore": false,
         "LockItem": false,
         "MathID": 12866,
-        "MathNameFix": false
+        "MathNameFix": false,
+        "MathFindSpawned": false,
+        "MathDontShowMax": true
+      },
+      {
+        "Name": "S_Item_Kirito_Button_2",
+        "ButtonID": -1,
+        "ButtonClass": "func_button",
+        "Filter": "kirito:1",
+        "Chat_Uses": true,
+        "Mode": 6,
+        "MaxUses": 0,
+        "CoolDown": 0,
+        "Ignore": false,
+        "LockItem": false,
+        "MathID": 12891,
+        "MathNameFix": false,
+        "MathFindSpawned": false,
+        "MathDontShowMax": true
       },
       {
         "Name": "S_Item_Kirito_Button_2",
@@ -267,8 +285,8 @@
         "ButtonClass": "func_button",
         "Filter": "kirito:1",
         "Chat_Uses": true,
-        "Mode": 4,
-        "MaxUses": 2,
+        "Mode": 2,
+        "MaxUses": 0,
         "CoolDown": 60
       }
     ]
@@ -299,7 +317,25 @@
         "Ignore": false,
         "LockItem": false,
         "MathID": 7616,
-        "MathNameFix": false
+        "MathNameFix": false,
+        "MathFindSpawned": false,
+        "MathDontShowMax": true
+      },
+      {
+        "Name": "Item_Kirito_Button_2",
+        "ButtonID": -1,
+        "ButtonClass": "func_button",
+        "Filter": "kirito:1",
+        "Chat_Uses": false,
+        "Mode": 6,
+        "MaxUses": 0,
+        "CoolDown": 0,
+        "Ignore": false,
+        "LockItem": false,
+        "MathID": 7592,
+        "MathNameFix": false,
+        "MathFindSpawned": false,
+        "MathDontShowMax": true
       },
       {
         "Name": "Item_Kirito_Button_2",
@@ -307,8 +343,8 @@
         "ButtonClass": "func_button",
         "Filter": "kirito:1",
         "Chat_Uses": false,
-        "Mode": 4,
-        "MaxUses": 3,
+        "Mode": 2,
+        "MaxUses": 0,
         "CoolDown": 60
       }
     ]
@@ -339,7 +375,25 @@
         "Ignore": false,
         "LockItem": false,
         "MathID": 11135,
-        "MathNameFix": false
+        "MathNameFix": false,
+        "MathFindSpawned": false,
+        "MathDontShowMax": true
+      },
+      {
+        "Name": "Item_Asuna_Button_2",
+        "ButtonID": -1,
+        "ButtonClass": "func_button",
+        "Filter": "asuna:1",
+        "Chat_Uses": true,
+        "Mode": 6,
+        "MaxUses": 0,
+        "CoolDown": 0,
+        "Ignore": false,
+        "LockItem": false,
+        "MathID": 11150,
+        "MathNameFix": false,
+        "MathFindSpawned": false,
+        "MathDontShowMax": true
       },
       {
         "Name": "Item_Asuna_Button_2",
@@ -347,8 +401,8 @@
         "ButtonClass": "func_button",
         "Filter": "asuna:1",
         "Chat_Uses": true,
-        "Mode": 4,
-        "MaxUses": 2,
+        "Mode": 2,
+        "MaxUses": 0,
         "CoolDown": 60
       }
     ]

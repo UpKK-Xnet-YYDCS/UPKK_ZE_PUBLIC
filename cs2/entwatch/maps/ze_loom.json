@@ -14,10 +14,10 @@
     "UsePriority": true,
     "AbilityList": [
       {
-        "Name": "",
-        "ButtonID": 0,
-        "ButtonClass": "",
-        "Filter": "",
+        "Name": "tesla_item_button",
+        "ButtonID": -1,
+        "ButtonClass": "func_button",
+        "Filter": "lightning_user:1",
         "Chat_Uses": true,
         "Mode": 6,
         "MaxUses": 0,
@@ -25,7 +25,9 @@
         "Ignore": false,
         "LockItem": false,
         "MathID": 12014,
-        "MathNameFix": false
+        "MathNameFix": false,
+        "MathFindSpawned": false,
+        "MathDontShowMax": true
       }
     ]
   },
@@ -44,10 +46,10 @@
     "UsePriority": true,
     "AbilityList": [
       {
-        "Name": "",
-        "ButtonID": 0,
-        "ButtonClass": "",
-        "Filter": "",
+        "Name": "firework_item_button",
+        "ButtonID": -1,
+        "ButtonClass": "func_button",
+        "Filter": "firework_user:1",
         "Chat_Uses": true,
         "Mode": 6,
         "MaxUses": 0,
@@ -55,13 +57,15 @@
         "Ignore": false,
         "LockItem": false,
         "MathID": 12005,
-        "MathNameFix": false
+        "MathNameFix": false,
+        "MathFindSpawned": false,
+        "MathDontShowMax": true
       }
     ]
   },
   {
-    "Name": "ZM Smoke",
-    "ShortName": "ZM Smoke",
+    "Name": "ZM 迷雾",
+    "ShortName": "ZM 迷雾",
     "Color": "{default}",
     "HammerID": 12216,
     "GlowColor": [0,255,0,1],
@@ -77,29 +81,21 @@
         "Name": "smoke_release_button",
         "ButtonID": 12214,
         "ButtonClass": "func_button",
-        "Filter": "",
+        "Filter": "smoke_user:1",
         "Chat_Uses": true,
-        "Mode": 1,
+        "Mode": 2,
         "MaxUses": 0,
-        "CoolDown": 0,
-        "Ignore": false,
-        "LockItem": false,
-        "MathID": 0,
-        "MathNameFix": false
+        "CoolDown": 30
       },
       {
         "Name": "smoke_chase_button",
         "ButtonID": 12221,
         "ButtonClass": "func_button",
-        "Filter": "",
+        "Filter": "smoke_user:1",
         "Chat_Uses": true,
-        "Mode": 1,
+        "Mode": 2,
         "MaxUses": 0,
-        "CoolDown": 0,
-        "Ignore": false,
-        "LockItem": false,
-        "MathID": 0,
-        "MathNameFix": false
+        "CoolDown": 45
       }
     ]
   }

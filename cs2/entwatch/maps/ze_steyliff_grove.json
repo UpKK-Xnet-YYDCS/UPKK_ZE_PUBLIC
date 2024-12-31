@@ -25,7 +25,9 @@
         "Ignore": false,
         "LockItem": false,
         "MathID": 16258,
-        "MathNameFix": false
+        "MathNameFix": false,
+        "MathFindSpawned": false,
+        "MathDontShowMax": false
       }
     ]
   },
@@ -55,7 +57,9 @@
         "Ignore": false,
         "LockItem": false,
         "MathID": 16332,
-        "MathNameFix": false
+        "MathNameFix": false,
+        "MathFindSpawned": false,
+        "MathDontShowMax": false
       }
     ]
   },
@@ -85,7 +89,9 @@
         "Ignore": false,
         "LockItem": false,
         "MathID": 16353,
-        "MathNameFix": false
+        "MathNameFix": false,
+        "MathFindSpawned": false,
+        "MathDontShowMax": false
       },
       {
         "Name": "Item_Human_Thunder_Button",
@@ -99,7 +105,9 @@
         "Ignore": false,
         "LockItem": false,
         "MathID": 16346,
-        "MathNameFix": false
+        "MathNameFix": false,
+        "MathFindSpawned": false,
+        "MathDontShowMax": false
       }
     ]
   },
@@ -118,18 +126,20 @@
     "UsePriority": true,
     "AbilityList": [
       {
-        "Name": "",
-        "ButtonID": 0,
-        "ButtonClass": "",
+        "Name": "Item_Human_Fire_Button",
+        "ButtonID": -1,
+        "ButtonClass": "func_button",
         "Filter": "",
-        "Chat_Uses": false,
+        "Chat_Uses": true,
         "Mode": 6,
         "MaxUses": 0,
         "CoolDown": 0,
         "Ignore": false,
         "LockItem": false,
         "MathID": 16385,
-        "MathNameFix": false
+        "MathNameFix": false,
+        "MathFindSpawned": false,
+        "MathDontShowMax": false
       },
       {
         "Name": "Item_Human_Fire_Button",
@@ -143,7 +153,9 @@
         "Ignore": false,
         "LockItem": false,
         "MathID": 16400,
-        "MathNameFix": false
+        "MathNameFix": false,
+        "MathFindSpawned": false,
+        "MathDontShowMax": false
       }
     ]
   },
@@ -173,7 +185,9 @@
         "Ignore": false,
         "LockItem": false,
         "MathID": 16479,
-        "MathNameFix": false
+        "MathNameFix": false,
+        "MathFindSpawned": false,
+        "MathDontShowMax": false
       },
       {
         "Name": "Item_Human_Cure_Button",
@@ -187,7 +201,9 @@
         "Ignore": false,
         "LockItem": false,
         "MathID": 16481,
-        "MathNameFix": false
+        "MathNameFix": false,
+        "MathFindSpawned": false,
+        "MathDontShowMax": false
       }
     ]
   },
@@ -217,7 +233,9 @@
         "Ignore": false,
         "LockItem": false,
         "MathID": 16857,
-        "MathNameFix": false
+        "MathNameFix": false,
+        "MathFindSpawned": false,
+        "MathDontShowMax": false
       }
     ]
   },
@@ -243,11 +261,7 @@
         "Chat_Uses": true,
         "Mode": 3,
         "MaxUses": 1,
-        "CoolDown": 0,
-        "Ignore": false,
-        "LockItem": false,
-        "MathID": 0,
-        "MathNameFix": false
+        "CoolDown": 0
       }
     ]
   },
@@ -273,11 +287,7 @@
         "Chat_Uses": true,
         "Mode": 3,
         "MaxUses": 1,
-        "CoolDown": 0,
-        "Ignore": false,
-        "LockItem": false,
-        "MathID": 0,
-        "MathNameFix": false
+        "CoolDown": 0
       }
     ]
   },
@@ -307,7 +317,9 @@
         "Ignore": false,
         "LockItem": false,
         "MathID": 0,
-        "MathNameFix": false
+        "MathNameFix": false,
+        "MathFindSpawned": false,
+        "MathDontShowMax": false
       }
     ]
   },
@@ -337,7 +349,9 @@
         "Ignore": false,
         "LockItem": false,
         "MathID": 0,
-        "MathNameFix": false
+        "MathNameFix": false,
+        "MathFindSpawned": false,
+        "MathDontShowMax": false
       }
     ]
   },
@@ -363,11 +377,7 @@
         "Chat_Uses": true,
         "Mode": 1,
         "MaxUses": 0,
-        "CoolDown": 0,
-        "Ignore": false,
-        "LockItem": false,
-        "MathID": 0,
-        "MathNameFix": false
+        "CoolDown": 0
       },
       {
         "Name": "Item_Human_Benefic_Button",
@@ -381,7 +391,9 @@
         "Ignore": false,
         "LockItem": false,
         "MathID": 17120,
-        "MathNameFix": false
+        "MathNameFix": false,
+        "MathFindSpawned": false,
+        "MathDontShowMax": false
       }
     ]
   },
@@ -407,11 +419,7 @@
         "Chat_Uses": true,
         "Mode": 3,
         "MaxUses": 1,
-        "CoolDown": 0,
-        "Ignore": false,
-        "LockItem": false,
-        "MathID": 0,
-        "MathNameFix": false
+        "CoolDown": 0
       }
     ]
   },
@@ -437,11 +445,7 @@
         "Chat_Uses": true,
         "Mode": 3,
         "MaxUses": 1,
-        "CoolDown": 0,
-        "Ignore": false,
-        "LockItem": false,
-        "MathID": 0,
-        "MathNameFix": false
+        "CoolDown": 0
       }
     ]
   },
@@ -467,11 +471,7 @@
         "Chat_Uses": true,
         "Mode": 2,
         "MaxUses": 0,
-        "CoolDown": 15,
-        "Ignore": false,
-        "LockItem": false,
-        "MathID": 0,
-        "MathNameFix": false
+        "CoolDown": 15
       }
     ]
   },
@@ -501,7 +501,9 @@
         "Ignore": false,
         "LockItem": false,
         "MathID": 17326,
-        "MathNameFix": false
+        "MathNameFix": false,
+        "MathFindSpawned": false,
+        "MathDontShowMax": false
       }
     ]
   },
@@ -531,7 +533,9 @@
         "Ignore": false,
         "LockItem": false,
         "MathID": 17342,
-        "MathNameFix": false
+        "MathNameFix": false,
+        "MathFindSpawned": false,
+        "MathDontShowMax": false
       }
     ]
   },
@@ -561,7 +565,9 @@
         "Ignore": false,
         "LockItem": false,
         "MathID": 16605,
-        "MathNameFix": false
+        "MathNameFix": false,
+        "MathFindSpawned": false,
+        "MathDontShowMax": false
       }
     ]
   },
@@ -591,7 +597,9 @@
         "Ignore": false,
         "LockItem": false,
         "MathID": 16619,
-        "MathNameFix": false
+        "MathNameFix": false,
+        "MathFindSpawned": false,
+        "MathDontShowMax": false
       }
     ]
   },
@@ -621,7 +629,9 @@
         "Ignore": false,
         "LockItem": false,
         "MathID": 16641,
-        "MathNameFix": false
+        "MathNameFix": false,
+        "MathFindSpawned": false,
+        "MathDontShowMax": false
       }
     ]
   },
@@ -651,7 +661,9 @@
         "Ignore": false,
         "LockItem": false,
         "MathID": 16690,
-        "MathNameFix": false
+        "MathNameFix": false,
+        "MathFindSpawned": false,
+        "MathDontShowMax": false
       }
     ]
   },
@@ -681,7 +693,9 @@
         "Ignore": false,
         "LockItem": false,
         "MathID": 16719,
-        "MathNameFix": false
+        "MathNameFix": false,
+        "MathFindSpawned": false,
+        "MathDontShowMax": false
       }
     ]
   },
@@ -711,7 +725,9 @@
         "Ignore": false,
         "LockItem": false,
         "MathID": 16742,
-        "MathNameFix": false
+        "MathNameFix": false,
+        "MathFindSpawned": false,
+        "MathDontShowMax": false
       }
     ]
   },
@@ -741,7 +757,9 @@
         "Ignore": false,
         "LockItem": false,
         "MathID": 16825,
-        "MathNameFix": false
+        "MathNameFix": false,
+        "MathFindSpawned": false,
+        "MathDontShowMax": false
       },
       {
         "Name": "Item_Zombie_Umbral_Button",
@@ -755,7 +773,9 @@
         "Ignore": false,
         "LockItem": false,
         "MathID": 16810,
-        "MathNameFix": false
+        "MathNameFix": false,
+        "MathFindSpawned": false,
+        "MathDontShowMax": false
       }
     ]
   },
@@ -785,7 +805,9 @@
         "Ignore": false,
         "LockItem": false,
         "MathID": 16840,
-        "MathNameFix": false
+        "MathNameFix": false,
+        "MathFindSpawned": false,
+        "MathDontShowMax": false
       }
     ]
   },
@@ -804,9 +826,9 @@
     "UsePriority": true,
     "AbilityList": [
       {
-        "Name": "",
-        "ButtonID": 0,
-        "ButtonClass": "",
+        "Name": "Item_Zombie_Malefic_Button",
+        "ButtonID": -1,
+        "ButtonClass": "func_button",
         "Filter": "",
         "Chat_Uses": false,
         "Mode": 6,
@@ -815,7 +837,9 @@
         "Ignore": false,
         "LockItem": false,
         "MathID": 17075,
-        "MathNameFix": false
+        "MathNameFix": false,
+        "MathFindSpawned": false,
+        "MathDontShowMax": false
       },
       {
         "Name": "Item_Zombie_Malefic_Button",
@@ -829,7 +853,9 @@
         "Ignore": false,
         "LockItem": false,
         "MathID": 17067,
-        "MathNameFix": false
+        "MathNameFix": false,
+        "MathFindSpawned": false,
+        "MathDontShowMax": false
       }
     ]
   }
