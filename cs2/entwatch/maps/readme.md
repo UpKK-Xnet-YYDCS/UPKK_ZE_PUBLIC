@@ -39,7 +39,7 @@
         "LockItem": false,		//锁定神器按钮
         "MathID": 0,			//math_counter的hammeruniqueid，适用于mode 6,7
         "MathNameFix": false,	//修复math_counter的名称（使用point_template和env_entity_maker实体生成的神器，其实体的flag未勾选Preserve entity names - Don't do name fixup时填true）
-        "MathFindSpawned": false,	//武器生成后在地图上搜索math_counter（math_counter在回合开始时生成且不在point_template中时填true）
+        "MathFindSpawned": false,	//武器生成后在地图上搜索math_counter（math_counter在回合开始时生成且不在point_template时填true）
         "MathDontShowMax": false	//不显示最大值（建议填true）
       },
       {
@@ -58,8 +58,6 @@
     ]
   }
 ]
-
-
 
 [
   {
