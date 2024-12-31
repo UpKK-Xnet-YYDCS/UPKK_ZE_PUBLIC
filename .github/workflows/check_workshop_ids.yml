@@ -69,6 +69,6 @@ jobs:
           不可用 ID 列表:
           ${{ env.unavailable_ids }}
           
-          可能是临时性的调整,请审核,并确认更改。
+          可能是地图作者临时性的修改调整,请审核,并确认更改。
         branch: 'disable-unavailable-ids'
         base: master
