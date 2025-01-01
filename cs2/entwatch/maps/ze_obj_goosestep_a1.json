@@ -1,0 +1,54 @@
+[
+  {
+    "Name": "喷火器",
+    "ShortName": "喷火器",
+    "Color": "{default}",
+    "HammerID": "4692",
+    "GlowColor": [0,255,0,1],
+    "BlockPickup": false,
+    "AllowTransfer": true,
+    "ForceDrop": true,
+    "Chat": true,
+    "Hud": true,
+    "TriggerID": 0,
+    "UsePriority": true,
+    "AbilityList": [
+      {
+        "Name": "flame_button",
+        "ButtonID": 4695,
+        "ButtonClass": "func_button",
+        "Filter": "flame:1",
+        "Chat_Uses": true,
+        "Mode": 2,
+        "MaxUses": 0,
+        "CoolDown": 90
+      }
+    ]
+  },
+  {
+    "Name": "RPG",
+    "ShortName": "RPG",
+    "Color": "{default}",
+    "HammerID": "5239",
+    "GlowColor": [0,255,0,1],
+    "BlockPickup": false,
+    "AllowTransfer": true,
+    "ForceDrop": true,
+    "Chat": true,
+    "Hud": true,
+    "TriggerID": 0,
+    "UsePriority": true,
+    "AbilityList": [
+      {
+        "Name": "rpg_buttton",
+        "ButtonID": 5240,
+        "ButtonClass": "func_button",
+        "Filter": "rpg:1",
+        "Chat_Uses": true,
+        "Mode": 2,
+        "MaxUses": 0,
+        "CoolDown": 120
+      }
+    ]
+  }
+]
