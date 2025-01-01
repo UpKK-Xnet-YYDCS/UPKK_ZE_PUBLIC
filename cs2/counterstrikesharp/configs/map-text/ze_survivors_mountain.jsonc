@@ -1,50 +1,95 @@
 {
-  "<!!!> LEVEL 1  <!!!>": {
-    "translation": ""
-  },
-  "<!!!> COLD MOUNTAIN <!!!>": {
-    "translation": ""
-  },
-  "<!!!> THE COLD HURTS <!!!>": {
-    "translation": ""
-  },
-  "<!!!> FIRE BARRELS HEALS <!!!>": {
-    "translation": ""
-  },
-  "<> PREVIOUS FIRE EXTINGUISHING <>": {
-    "translation": ""
-  },
-  "<!!!> HOLD 50 SECONDS <!!!>": {
-    "translation": ""
-  },
-  "<!!!> HUMANS WIN <!!!>": {
-    "translation": ""
-  },
-  "<!!!> LEVEL 2 <!!!>": {
-    "translation": ""
-  },
-  "<!!!> TRAM LEAVING 60 SECONDS <!!!>": {
-    "translation": ""
-  },
-  "<!!!> TRAM LEAVING <!!!>": {
-    "translation": ""
-  },
-  "<!!!> LEVEL 3 <!!!>": {
-    "translation": ""
-  },
-  "!!! BUNKER OPEN IN 60 SECONDS !!!": {
-    "translation": ""
-  },
-  "!!! BUNKER OPEN !!!": {
-    "translation": ""
+  "!!! BUNKER CLOSING !!!": {
+    "translation": "!!! 掩体关闭 !!!"
   },
   "!!! BUNKER CLOSING IN 40 SECONDS !!!": {
-    "translation": ""
+    "translation": "!!! 掩体将在40秒后关闭 !!!"
   },
-  "!!! BUNKER CLOSING !!!": {
-    "translation": ""
+  "!!! BUNKER OPEN !!!": {
+    "translation": "!!! 掩体开启 !!!"
+  },
+  "!!! BUNKER OPEN IN 60 SECONDS !!!": {
+    "translation": "!!! 掩体将在60秒后开启 !!!"
+  },
+  "<!!!> CALL HELICOPTER <!!!>": {
+    "translation": "<!!!> 呼叫直升机 <!!!>"
+  },
+  "<!!!> COLD MOUNTAIN <!!!>": {
+    "translation": "<!!!> 冰雪山脉 <!!!>"
+  },
+  "<!!!> EASY COMPLETE <!!!>": {
+    "translation": "<!!!> 简单难度完成 <!!!>"
+  },
+  "<!!!> FALL BACK TO HELICOPTER <!!!>": {
+    "translation": "<!!!> 撤退到直升机 <!!!>"
+  },
+  "<!!!> FIRE BARRELS HEALS <!!!>": {
+    "translation": "<!!!> 火桶具有治疗效果 <!!!>"
+  },
+  "<!!!> HELICOPTER LEAVING <!!!>": {
+    "translation": "<!!!> 直升机正在离开 <!!!>"
+  },
+  "<!!!> HOLD 50 SECONDS <!!!>": {
+    "translation": "<!!!> 坚守50秒 <!!!>"
+  },
+  "<!!!> HUMANS WIN <!!!>": {
+    "translation": "<!!!> 人类胜利 翻译：Asteri3m <!!!>"
+  },
+  "<!!!> IN THE OPEN CONTAINER <!!!>": {
+    "translation": "<!!!> 在打开的集装箱里 <!!!>"
+  },
+  "<!!!> LEVEL 1  <!!!>": {
+    "translation": "<!!!> 第一关 <!!!>"
+  },
+  "<!!!> LEVEL 1 - EASY <!!!>": {
+    "translation": "<!!!> 第一关 - 简单难度 <!!!>"
+  },
+  "<!!!> LEVEL 2 - EASY <!!!>": {
+    "translation": "<!!!> 第二关 - 简单难度 <!!!>"
+  },
+  "<!!!> LEVEL 2 <!!!>": {
+    "translation": "<!!!> 第二关 <!!!>"
+  },
+  "<!!!> LEVEL 3 - EASY <!!!>": {
+    "translation": "<!!!> 第三关 - 简单难度 <!!!>"
+  },
+  "<!!!> LEVEL 3 <!!!>": {
+    "translation": "<!!!> 第三关 <!!!>"
+  },
+  "<!!!> LEVEL 4 - EASY <!!!>": {
+    "translation": "<!!!> 第四关 - 简单难度 <!!!>"
   },
   "<!!!> LEVEL 4 <!!!>": {
-    "translation": ""
+    "translation": "<!!!> 第四关 <!!!>"
+  },
+  "<!!!> LEVEL 5 - EASY <!!!>": {
+    "translation": "<!!!> 第五关 - 简单难度 <!!!>"
+  },
+  "<!!!> LEVEL 5 <!!!>": {
+    "translation": "<!!!> 第五关 <!!!>"
+  },
+  "<!!!> MAP COMPLETE <!!!>": {
+    "translation": "<!!!> 地图通关 <!!!>"
+  },
+  "<!!!> THE COLD HURTS <!!!>": {
+    "translation": "<!!!> 寒冷令人痛苦 <!!!>"
+  },
+  "<!!!> TRAM LEAVING 60 SECONDS <!!!>": {
+    "translation": "<!!!> 轨道车将在60秒后离开 <!!!>"
+  },
+  "<!!!> TRAM LEAVING <!!!>": {
+    "translation": "<!!!> 轨道车已离开 <!!!>"
+  },
+  "<!!!> USE THE RADIO <!!!>": {
+    "translation": "<!!!> 使用无线电 <!!!>"
+  },
+  "<!!!> WAIT FOR HELICOPTER <!!!>": {
+    "translation": "<!!!> 等待直升机 <!!!>"
+  },
+  "<!!!> ZOMBIES DETECTED | YOU FAILED <!!!>": {
+    "translation": "<!!!> 检测到僵尸 | 你失败了 <!!!>"
+  },
+  "<> PREVIOUS FIRE EXTINGUISHING <>": {
+    "translation": "<> 上一个桶的火已熄灭 <>"
   }
 }
