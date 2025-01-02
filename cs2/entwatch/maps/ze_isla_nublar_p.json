@@ -1,0 +1,92 @@
+[
+  {
+    "Name": "霰弹枪2",
+    "ShortName": "霰弹枪2",
+    "Color": "{default}",
+    "HammerID": "738",
+    "GlowColor": [0,255,0,1],
+    "BlockPickup": false,
+    "AllowTransfer": true,
+    "ForceDrop": true,
+    "Chat": false,
+    "Hud": true,
+    "TriggerID": 0,
+    "UsePriority": true,
+    "AbilityList": [
+      {
+        "Name": "spasbutton2",
+        "ButtonID": 834,
+        "ButtonClass": "func_button",
+        "Filter": "shotgunname2:1",
+        "Chat_Uses": true,
+        "Mode": 7,
+        "MaxUses": 0,
+        "CoolDown": 0,
+				"Ignore": false,
+        "LockItem": false,
+        "MathID": 739,
+        "MathNameFix": false,
+        "MathFindSpawned": true,
+        "MathDontShowMax": true
+      }
+    ]
+  },
+  {
+    "Name": "霰弹枪",
+    "ShortName": "霰弹枪",
+    "Color": "{default}",
+    "HammerID": "745",
+    "GlowColor": [0,255,0,1],
+    "BlockPickup": false,
+    "AllowTransfer": true,
+    "ForceDrop": true,
+    "Chat": false,
+    "Hud": true,
+    "TriggerID": 0,
+    "UsePriority": true,
+    "AbilityList": [
+      {
+        "Name": "spasbutton",
+        "ButtonID": 832,
+        "ButtonClass": "func_button",
+        "Filter": "shotgunname:1",
+        "Chat_Uses": true,
+        "Mode": 7,
+        "MaxUses": 0,
+        "CoolDown": 0,
+				"Ignore": false,
+        "LockItem": false,
+        "MathID": 743,
+        "MathNameFix": false,
+        "MathFindSpawned": true,
+        "MathDontShowMax": true
+      }
+    ]
+  },
+  {
+    "Name": "医疗包",
+    "ShortName": "医疗包",
+    "Color": "{default}",
+    "HammerID": "1273",
+    "GlowColor": [0,255,0,1],
+    "BlockPickup": false,
+    "AllowTransfer": true,
+    "ForceDrop": true,
+    "Chat": true,
+    "Hud": true,
+    "TriggerID": 0,
+    "UsePriority": true,
+    "AbilityList": [
+      {
+        "Name": "healthkitbutton",
+        "ButtonID": 25,
+        "ButtonClass": "func_button",
+        "Filter": "medkitname:1",
+        "Chat_Uses": true,
+        "Mode": 3,
+        "MaxUses": 1,
+        "CoolDown": 0
+      }
+    ]
+  }
+]

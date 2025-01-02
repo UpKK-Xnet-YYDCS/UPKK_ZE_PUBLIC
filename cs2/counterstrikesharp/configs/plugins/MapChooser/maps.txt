@@ -2918,4 +2918,26 @@
 		"filename"		"ze_obf_cats_run_v1_9"
 		"updatedname"		"ze_Obf_Cats_run_v1_9"
 	}
+	"ze_jurassicpark_escape_p"
+	{
+		"workshop_id"		"3397749308"
+		"enabled"		"1"
+		"filename"		"ze_jurassicpark_escape_p"
+		"updatedname"		"ze_jurassicpark_escape_p"
+	}
+	"ze_isla_nublar_p"
+	{
+		"workshop_id"		"3397783582"
+		"enabled"		"1"
+		"filename"		"ze_isla_nublar_p"
+		"updatedname"		"ze_isla_nublar_p"
+	}
+	"ze_obj_void"
+	{
+		"workshop_id"		"3397864348"
+		"enabled"		"1"
+		"filename"		"ze_obj_void_v1"
+		"updatedname"		"ze_obj_void"
+		"RestrictedTimes"	"00:00-12:00;23:00-23:59"
+	}
 }
