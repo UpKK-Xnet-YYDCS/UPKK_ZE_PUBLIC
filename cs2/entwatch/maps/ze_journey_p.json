@@ -1,7 +1,7 @@
 [
   {
-    "Name": "wep_thunder",
-    "ShortName": "wep_thunder",
+    "Name": "电",
+    "ShortName": "电",
     "Color": "{default}",
     "HammerID": "8197",
     "GlowColor": [0,255,0,1],
@@ -14,20 +14,20 @@
     "UsePriority": true,
     "AbilityList": [
       {
-        "Name": "weapon_elite",
-        "ButtonID": 0,
-        "ButtonClass": "",
-        "Filter": "",
+        "Name": "but_thunder",
+        "ButtonID": 8198,
+        "ButtonClass": "func_physbox",
+        "Filter": "thunderuser",
         "Chat_Uses": true,
-        "Mode": 1,
+        "Mode": 2,
         "MaxUses": 0,
-        "CoolDown": 0
+        "CoolDown": 20
       }
     ]
   },
   {
-    "Name": "wep_divine",
-    "ShortName": "wep_divine",
+    "Name": "神圣",
+    "ShortName": "神圣",
     "Color": "{default}",
     "HammerID": "8201",
     "GlowColor": [0,255,0,1],
@@ -40,20 +40,20 @@
     "UsePriority": true,
     "AbilityList": [
       {
-        "Name": "weapon_elite",
-        "ButtonID": 0,
-        "ButtonClass": "",
-        "Filter": "",
+        "Name": "but_divine",
+        "ButtonID": 8203,
+        "ButtonClass": "func_physbox",
+        "Filter": "divineuser",
         "Chat_Uses": true,
-        "Mode": 1,
+        "Mode": 2,
         "MaxUses": 0,
-        "CoolDown": 0
+        "CoolDown": 60
       }
     ]
   },
   {
-    "Name": "wep_heal",
-    "ShortName": "wep_heal",
+    "Name": "奶",
+    "ShortName": "奶",
     "Color": "{default}",
     "HammerID": "1030",
     "GlowColor": [0,255,0,1],
@@ -66,7 +66,7 @@
     "UsePriority": true,
     "AbilityList": [
       {
-        "Name": "weapon_elite",
+        "Name": "",
         "ButtonID": 0,
         "ButtonClass": "",
         "Filter": "",
@@ -78,8 +78,8 @@
     ]
   },
   {
-    "Name": "wep_abyss",
-    "ShortName": "wep_abyss",
+    "Name": "深渊",
+    "ShortName": "深渊",
     "Color": "{default}",
     "HammerID": "8205",
     "GlowColor": [0,255,0,1],
@@ -92,20 +92,20 @@
     "UsePriority": true,
     "AbilityList": [
       {
-        "Name": "weapon_elite",
-        "ButtonID": 0,
-        "ButtonClass": "",
-        "Filter": "",
+        "Name": "but_abyss",
+        "ButtonID": 8207,
+        "ButtonClass": "func_physbox",
+        "Filter": "abyssuser",
         "Chat_Uses": true,
-        "Mode": 1,
+        "Mode": 2,
         "MaxUses": 0,
-        "CoolDown": 0
+        "CoolDown": 60
       }
     ]
   },
   {
-    "Name": "wep_gust",
-    "ShortName": "wep_gust",
+    "Name": "风",
+    "ShortName": "风",
     "Color": "{default}",
     "HammerID": "8188",
     "GlowColor": [0,255,0,1],
@@ -118,20 +118,20 @@
     "UsePriority": true,
     "AbilityList": [
       {
-        "Name": "weapon_elite",
-        "ButtonID": 0,
-        "ButtonClass": "",
-        "Filter": "",
+        "Name": "but_gust",
+        "ButtonID": 8186,
+        "ButtonClass": "func_physbox",
+        "Filter": "gustuser",
         "Chat_Uses": true,
-        "Mode": 1,
+        "Mode": 2,
         "MaxUses": 0,
-        "CoolDown": 0
+        "CoolDown": 20
       }
     ]
   },
   {
-    "Name": "wep_flame",
-    "ShortName": "wep_flame",
+    "Name": "火",
+    "ShortName": "火",
     "Color": "{default}",
     "HammerID": "8189",
     "GlowColor": [0,255,0,1],
@@ -144,20 +144,20 @@
     "UsePriority": true,
     "AbilityList": [
       {
-        "Name": "weapon_elite",
-        "ButtonID": 0,
-        "ButtonClass": "",
-        "Filter": "",
+        "Name": "but_flame",
+        "ButtonID": 8190,
+        "ButtonClass": "func_physbox",
+        "Filter": "flameuser",
         "Chat_Uses": true,
-        "Mode": 1,
+        "Mode": 2,
         "MaxUses": 0,
-        "CoolDown": 0
+        "CoolDown": 20
       }
     ]
   },
   {
-    "Name": "wep_ice",
-    "ShortName": "wep_ice",
+    "Name": "冰",
+    "ShortName": "冰",
     "Color": "{default}",
     "HammerID": "8193",
     "GlowColor": [0,255,0,1],
@@ -170,14 +170,14 @@
     "UsePriority": true,
     "AbilityList": [
       {
-        "Name": "weapon_elite",
-        "ButtonID": 0,
-        "ButtonClass": "",
-        "Filter": "",
+        "Name": "but_ice",
+        "ButtonID": 8195,
+        "ButtonClass": "func_physbox",
+        "Filter": "iceuser",
         "Chat_Uses": true,
-        "Mode": 1,
+        "Mode": 2,
         "MaxUses": 0,
-        "CoolDown": 0
+        "CoolDown": 20
       }
     ]
   }
