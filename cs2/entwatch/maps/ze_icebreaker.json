@@ -93,7 +93,7 @@
     "AbilityList": [
       {
         "Name": "2shooter1_button_knife",
-        "ButtonID": 17718,
+        "ButtonID": -1,
         "ButtonClass": "func_button",
         "Filter": "shooter2:1",
         "Chat_Uses": true,
@@ -119,7 +119,7 @@
     "AbilityList": [
       {
         "Name": "3shooter1_button_knife",
-        "ButtonID": 17739,
+        "ButtonID": -1,
         "ButtonClass": "func_button",
         "Filter": "shooter3:1",
         "Chat_Uses": true,
@@ -145,7 +145,7 @@
     "AbilityList": [
       {
         "Name": "4shooter1_button_knife",
-        "ButtonID": 17760,
+        "ButtonID": -1,
         "ButtonClass": "func_button",
         "Filter": "shooter4:1",
         "Chat_Uses": true,
@@ -170,7 +170,7 @@
     "AbilityList": [
       {
         "Name": "aoth2shooter1_button_knife",
-        "ButtonID": 17805,
+        "ButtonID": -1,
         "ButtonClass": "func_button",
         "Filter": "shooter5:1",
         "Chat_Uses": true,
@@ -196,7 +196,7 @@
     "AbilityList": [
       {
         "Name": "654shooter1_button_knife",
-        "ButtonID": 17784,
+        "ButtonID": -1,
         "ButtonClass": "func_button",
         "Filter": "shooter6:1",
         "Chat_Uses": true,
