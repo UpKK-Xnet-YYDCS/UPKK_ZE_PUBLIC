@@ -1,7 +1,7 @@
 [
   {
-    "Name": "PenisGunElite",
-    "ShortName": "PenisGunElite",
+    "Name": "迪克",
+    "ShortName": "迪克",
     "Color": "{default}",
     "HammerID": "13",
     "GlowColor": [0,255,0,1],
@@ -14,46 +14,20 @@
     "UsePriority": true,
     "AbilityList": [
       {
-        "Name": "weapon_elite",
+        "Name": "",
         "ButtonID": 0,
         "ButtonClass": "",
         "Filter": "",
         "Chat_Uses": true,
-        "Mode": 1,
+        "Mode": 0,
         "MaxUses": 0,
         "CoolDown": 0
       }
     ]
   },
   {
-    "Name": "GunDrop",
-    "ShortName": "GunDrop",
-    "Color": "{default}",
-    "HammerID": "6024",
-    "GlowColor": [0,255,0,1],
-    "BlockPickup": false,
-    "AllowTransfer": true,
-    "ForceDrop": true,
-    "Chat": true,
-    "Hud": true,
-    "TriggerID": 0,
-    "UsePriority": true,
-    "AbilityList": [
-      {
-        "Name": "weapon_elite",
-        "ButtonID": 0,
-        "ButtonClass": "",
-        "Filter": "",
-        "Chat_Uses": true,
-        "Mode": 1,
-        "MaxUses": 0,
-        "CoolDown": 0
-      }
-    ]
-  },
-  {
-    "Name": "BasketballGun",
-    "ShortName": "BasketballGun",
+    "Name": "篮球",
+    "ShortName": "篮球",
     "Color": "{default}",
     "HammerID": "259",
     "GlowColor": [0,255,0,1],
@@ -66,12 +40,12 @@
     "UsePriority": true,
     "AbilityList": [
       {
-        "Name": "weapon_elite",
+        "Name": "",
         "ButtonID": 0,
         "ButtonClass": "",
         "Filter": "",
         "Chat_Uses": true,
-        "Mode": 1,
+        "Mode": 0,
         "MaxUses": 0,
         "CoolDown": 0
       }
