@@ -1,7 +1,7 @@
 [
   {
-    "Name": "Item_Gandalf_Gun&0000",
-    "ShortName": "Item_Gandalf_Gun&0000",
+    "Name": "甘道夫/弹飞",
+    "ShortName": "甘道夫/弹飞",
     "Color": "{default}",
     "HammerID": "1858",
     "GlowColor": [0,255,0,1],
@@ -14,35 +14,35 @@
     "UsePriority": true,
     "AbilityList": [
       {
-        "Name": "weapon_deagle",
-        "ButtonID": 0,
-        "ButtonClass": "",
-        "Filter": "",
+        "Name": "Item_Gandalf_Button",
+        "ButtonID": 1862,
+        "ButtonClass": "func_physbox",
+        "Filter": "player_gandalf:1",
         "Chat_Uses": true,
-        "Mode": 1,
+        "Mode": 2,
         "MaxUses": 0,
-        "CoolDown": 0
+        "CoolDown": 60
       }
     ]
   },
   {
-    "Name": "Item_Ring_Gun",
-    "ShortName": "Item_Ring_Gun",
+    "Name": "魔戒",
+    "ShortName": "魔戒",
     "Color": "{default}",
     "HammerID": "1878",
     "GlowColor": [0,255,0,1],
     "BlockPickup": false,
     "AllowTransfer": true,
     "ForceDrop": true,
-    "Chat": true,
+    "Chat": false,
     "Hud": true,
     "TriggerID": 0,
     "UsePriority": true,
     "AbilityList": [
       {
-        "Name": "weapon_deagle",
-        "ButtonID": 0,
-        "ButtonClass": "",
+        "Name": "Item_Ring_Detect",
+        "ButtonID": 1880,
+        "ButtonClass": "func_button",
         "Filter": "",
         "Chat_Uses": true,
         "Mode": 1,
@@ -52,8 +52,8 @@
     ]
   },
   {
-    "Name": "Item_Saruman_Gun&0000",
-    "ShortName": "Item_Saruman_Gun&0000",
+    "Name": "萨鲁曼/减速",
+    "ShortName": "萨鲁曼/减速",
     "Color": "{default}",
     "HammerID": "1852",
     "GlowColor": [0,255,0,1],
@@ -66,14 +66,14 @@
     "UsePriority": true,
     "AbilityList": [
       {
-        "Name": "weapon_deagle",
-        "ButtonID": 0,
-        "ButtonClass": "",
-        "Filter": "",
+        "Name": "Item_Saruman_Button",
+        "ButtonID": 1848,
+        "ButtonClass": "func_physbox",
+        "Filter": "player_saruman:1",
         "Chat_Uses": true,
-        "Mode": 1,
+        "Mode": 2,
         "MaxUses": 0,
-        "CoolDown": 0
+        "CoolDown": 50
       }
     ]
   }
