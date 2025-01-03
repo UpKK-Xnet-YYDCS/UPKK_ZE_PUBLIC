@@ -1,7 +1,7 @@
 [
   {
-    "Name": "CoolrGun",
-    "ShortName": "CoolrGun",
+    "Name": "冰冻枪",
+    "ShortName": "冰冻枪",
     "Color": "{default}",
     "HammerID": "853",
     "GlowColor": [0,255,0,1],
@@ -14,20 +14,20 @@
     "UsePriority": true,
     "AbilityList": [
       {
-        "Name": "weapon_elite",
-        "ButtonID": 0,
-        "ButtonClass": "",
-        "Filter": "",
+        "Name": "CoolrButt",
+        "ButtonID": 867,
+        "ButtonClass": "func_button",
+        "Filter": "we1",
         "Chat_Uses": true,
-        "Mode": 1,
+        "Mode": 2,
         "MaxUses": 0,
-        "CoolDown": 0
+        "CoolDown": 75
       }
     ]
   },
   {
-    "Name": "cadegun2",
-    "ShortName": "cadegun2",
+    "Name": "墙2",
+    "ShortName": "墙2",
     "Color": "{default}",
     "HammerID": "715",
     "GlowColor": [0,255,0,1],
@@ -40,20 +40,26 @@
     "UsePriority": true,
     "AbilityList": [
       {
-        "Name": "weapon_elite",
-        "ButtonID": 0,
-        "ButtonClass": "",
-        "Filter": "",
+        "Name": "cadegunbutton2",
+        "ButtonID": 718,
+        "ButtonClass": "func_button",
+        "Filter": "we3",
         "Chat_Uses": true,
-        "Mode": 1,
+        "Mode": 7,
         "MaxUses": 0,
-        "CoolDown": 0
+        "CoolDown": 0,
+        "Ignore": false,
+        "LockItem": false,
+        "MathID": 720,
+        "MathNameFix": false,
+        "MathFindSpawned": true,
+        "MathDontShowMax": true
       }
     ]
   },
   {
-    "Name": "cadegun",
-    "ShortName": "cadegun",
+    "Name": "墙",
+    "ShortName": "墙",
     "Color": "{default}",
     "HammerID": "580",
     "GlowColor": [0,255,0,1],
@@ -66,14 +72,20 @@
     "UsePriority": true,
     "AbilityList": [
       {
-        "Name": "weapon_elite",
-        "ButtonID": 0,
-        "ButtonClass": "",
-        "Filter": "",
+        "Name": "cadegunbutton",
+        "ButtonID": 576,
+        "ButtonClass": "func_button",
+        "Filter": "we2",
         "Chat_Uses": true,
-        "Mode": 1,
+        "Mode": 7,
         "MaxUses": 0,
-        "CoolDown": 0
+        "CoolDown": 0,
+        "Ignore": false,
+        "LockItem": false,
+        "MathID": 573,
+        "MathNameFix": false,
+        "MathFindSpawned": true,
+        "MathDontShowMax": true
       }
     ]
   }
