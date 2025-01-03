@@ -1,7 +1,7 @@
 [
   {
-    "Name": "dj_nade",
-    "ShortName": "dj_nade",
+    "Name": "DJ",
+    "ShortName": "DJ",
     "Color": "{default}",
     "HammerID": "438",
     "GlowColor": [0,255,0,1],
@@ -14,20 +14,20 @@
     "UsePriority": true,
     "AbilityList": [
       {
-        "Name": "weapon_hegrenade",
+        "Name": "",
         "ButtonID": 0,
-        "ButtonClass": "func_button",
+        "ButtonClass": "",
         "Filter": "",
         "Chat_Uses": true,
-        "Mode": 1,
+        "Mode": 0,
         "MaxUses": 0,
         "CoolDown": 0
       }
     ]
   },
   {
-    "Name": "Gun_Ammo",
-    "ShortName": "Gun_Ammo",
+    "Name": "弹药",
+    "ShortName": "弹药",
     "Color": "{default}",
     "HammerID": "822",
     "GlowColor": [0,255,0,1],
@@ -40,20 +40,20 @@
     "UsePriority": true,
     "AbilityList": [
       {
-        "Name": "weapon_elite",
-        "ButtonID": 0,
+        "Name": "Gun_Ammo_Btn",
+        "ButtonID": 819,
         "ButtonClass": "func_button",
-        "Filter": "",
+        "Filter": "ammo:1",
         "Chat_Uses": true,
-        "Mode": 1,
+        "Mode": 2,
         "MaxUses": 0,
-        "CoolDown": 0
+        "CoolDown": 40
       }
     ]
   },
   {
-    "Name": "Gun_Barrel",
-    "ShortName": "Gun_Barrel",
+    "Name": "火",
+    "ShortName": "火",
     "Color": "{default}",
     "HammerID": "51",
     "GlowColor": [0,255,0,1],
@@ -66,20 +66,20 @@
     "UsePriority": true,
     "AbilityList": [
       {
-        "Name": "weapon_p250",
-        "ButtonID": 0,
+        "Name": "BarrelButton",
+        "ButtonID": 54,
         "ButtonClass": "func_button",
-        "Filter": "",
+        "Filter": "barrel:1",
         "Chat_Uses": true,
-        "Mode": 1,
+        "Mode": 2,
         "MaxUses": 0,
-        "CoolDown": 0
+        "CoolDown": 50
       }
     ]
   },
   {
-    "Name": "Gun_Freeze",
-    "ShortName": "Gun_Freeze",
+    "Name": "冰",
+    "ShortName": "冰",
     "Color": "{default}",
     "HammerID": "57",
     "GlowColor": [0,255,0,1],
@@ -92,20 +92,20 @@
     "UsePriority": true,
     "AbilityList": [
       {
-        "Name": "weapon_fiveseven",
-        "ButtonID": 0,
+        "Name": "FreezeButton",
+        "ButtonID": 59,
         "ButtonClass": "func_button",
-        "Filter": "",
+        "Filter": "freeze:1",
         "Chat_Uses": true,
-        "Mode": 1,
+        "Mode": 2,
         "MaxUses": 0,
-        "CoolDown": 0
+        "CoolDown": 50
       }
     ]
   },
   {
-    "Name": "Gun_Laser",
-    "ShortName": "Gun_Laser",
+    "Name": "激光墙",
+    "ShortName": "激光墙",
     "Color": "{default}",
     "HammerID": "62",
     "GlowColor": [0,255,0,1],
@@ -118,35 +118,35 @@
     "UsePriority": true,
     "AbilityList": [
       {
-        "Name": "weapon_glock",
-        "ButtonID": 0,
+        "Name": "LaserButton",
+        "ButtonID": 64,
         "ButtonClass": "func_button",
-        "Filter": "",
+        "Filter": "laser:1",
         "Chat_Uses": true,
-        "Mode": 1,
+        "Mode": 2,
         "MaxUses": 0,
-        "CoolDown": 0
+        "CoolDown": 60
       }
     ]
   },
   {
-    "Name": "Knife_Zombieboss",
-    "ShortName": "Knife_Zombieboss",
+    "Name": "ZM 自爆",
+    "ShortName": "ZM 自爆",
     "Color": "{default}",
     "HammerID": "71",
     "GlowColor": [0,255,0,1],
     "BlockPickup": false,
-    "AllowTransfer": true,
-    "ForceDrop": true,
+    "AllowTransfer": false,
+    "ForceDrop": false,
     "Chat": true,
     "Hud": true,
-    "TriggerID": 0,
+    "TriggerID": 66,
     "UsePriority": true,
     "AbilityList": [
       {
-        "Name": "weapon_knife",
+        "Name": "",
         "ButtonID": 0,
-        "ButtonClass": "func_button",
+        "ButtonClass": "",
         "Filter": "",
         "Chat_Uses": true,
         "Mode": 1,
@@ -156,8 +156,8 @@
     ]
   },
   {
-    "Name": "Gun_Heal",
-    "ShortName": "Gun_Heal",
+    "Name": "奶",
+    "ShortName": "奶",
     "Color": "{default}",
     "HammerID": "75",
     "GlowColor": [0,255,0,1],
@@ -170,14 +170,14 @@
     "UsePriority": true,
     "AbilityList": [
       {
-        "Name": "weapon_tec9",
-        "ButtonID": 0,
+        "Name": "Gun_Heal_Btn",
+        "ButtonID": 73,
         "ButtonClass": "func_button",
-        "Filter": "",
+        "Filter": "heal:1",
         "Chat_Uses": true,
-        "Mode": 1,
+        "Mode": 2,
         "MaxUses": 0,
-        "CoolDown": 0
+        "CoolDown": 40
       }
     ]
   }
