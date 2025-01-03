@@ -1,7 +1,7 @@
 [
   {
-    "Name": "push_gun",
-    "ShortName": "push_gun",
+    "Name": "推力",
+    "ShortName": "推力",
     "Color": "{default}",
     "HammerID": "2426",
     "GlowColor": [0,255,0,1],
@@ -14,36 +14,36 @@
     "UsePriority": true,
     "AbilityList": [
       {
-        "Name": "weapon_usp_silencer",
-        "ButtonID": 0,
-        "ButtonClass": "",
-        "Filter": "",
+        "Name": "push_bt",
+        "ButtonID": 2422,
+        "ButtonClass": "func_button",
+        "Filter": "push_player:1",
         "Chat_Uses": true,
-        "Mode": 1,
+        "Mode": 2,
         "MaxUses": 0,
-        "CoolDown": 0
+        "CoolDown": 45
       }
     ]
   },
   {
-    "Name": "knife_shl",
-    "ShortName": "knife_shl",
+    "Name": "守护者",
+    "ShortName": "守护者",
     "Color": "{default}",
     "HammerID": "2440",
     "GlowColor": [0,255,0,1],
     "BlockPickup": false,
-    "AllowTransfer": true,
-    "ForceDrop": true,
+    "AllowTransfer": false,
+    "ForceDrop": false,
     "Chat": true,
     "Hud": true,
-    "TriggerID": 0,
+    "TriggerID": 2451,
     "UsePriority": true,
     "AbilityList": [
       {
-        "Name": "weapon_knife",
+        "Name": "",
         "ButtonID": 0,
         "ButtonClass": "",
-        "Filter": "",
+        "Filter": "shl_player:1",
         "Chat_Uses": true,
         "Mode": 1,
         "MaxUses": 0,
@@ -52,34 +52,34 @@
     ]
   },
   {
-    "Name": "knife_sword_zm",
-    "ShortName": "knife_sword_zm",
+    "Name": "ZM 飞剑",
+    "ShortName": "ZM 飞剑",
     "Color": "{default}",
     "HammerID": "2505",
     "GlowColor": [0,255,0,1],
     "BlockPickup": false,
-    "AllowTransfer": true,
-    "ForceDrop": true,
+    "AllowTransfer": false,
+    "ForceDrop": false,
     "Chat": true,
     "Hud": true,
-    "TriggerID": 0,
+    "TriggerID": 2503,
     "UsePriority": true,
     "AbilityList": [
       {
-        "Name": "weapon_knife",
-        "ButtonID": 0,
-        "ButtonClass": "",
-        "Filter": "",
+        "Name": "zm_j_bt",
+        "ButtonID": 2521,
+        "ButtonClass": "func_button",
+        "Filter": "zm_j_player:1",
         "Chat_Uses": true,
-        "Mode": 1,
+        "Mode": 2,
         "MaxUses": 0,
-        "CoolDown": 0
+        "CoolDown": 45
       }
     ]
   },
   {
-    "Name": "heal_gun",
-    "ShortName": "heal_gun",
+    "Name": "恢复",
+    "ShortName": "恢复",
     "Color": "{default}",
     "HammerID": "2538",
     "GlowColor": [0,255,0,1],
@@ -92,14 +92,14 @@
     "UsePriority": true,
     "AbilityList": [
       {
-        "Name": "weapon_usp_silencer",
-        "ButtonID": 0,
-        "ButtonClass": "",
-        "Filter": "",
+        "Name": "heal_bt",
+        "ButtonID": 2542,
+        "ButtonClass": "func_button",
+        "Filter": "heal_player:1",
         "Chat_Uses": true,
-        "Mode": 1,
+        "Mode": 2,
         "MaxUses": 0,
-        "CoolDown": 0
+        "CoolDown": 60
       }
     ]
   }
