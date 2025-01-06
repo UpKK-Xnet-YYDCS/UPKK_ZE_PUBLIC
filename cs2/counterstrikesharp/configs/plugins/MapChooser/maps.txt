@@ -2882,14 +2882,6 @@
 		"filename"		"ze_boralus"
 		"updatedname"		"ze_boralus"
 	}
-	"ze_obj_goosestep_a1"
-	{
-		"workshop_id"		"3367233005"
-		"enabled"		"1"
-		"filename"		"ze_obj_goosestep_a1"
-		"updatedname"		"ze_obj_goosestep_a1"
-		"RestrictedTimes"	"00:00-12:00;23:00-23:59"
-	}
 	"ze_gris"
 	{
 		"workshop_id"		"3389982625"
@@ -2974,5 +2966,27 @@
 		"enabled"		"1"
 		"filename"		"ze_honkai_impact_3rd_babel_z"
 		"updatedname"		"ze_honkai_impact_3rd_babel_z"
+	}
+	"ze_radio_building"
+	{
+		"workshop_id"		"3400976371"
+		"enabled"		"1"
+		"filename"		"ze_radio_building"
+		"updatedname"		"ze_radio_building"
+	}
+	"ze_something_ordinary"
+	{
+		"workshop_id"		"3400553142"
+		"enabled"		"1"
+		"filename"		"ze_something_ordinary"
+		"updatedname"		"ze_something_ordinary"
+	}
+	"ze_obj_goosestep_v1"
+	{
+		"workshop_id"		"3402037855"
+		"enabled"		"1"
+		"filename"		"ze_obj_goosestep_v1"
+		"updatedname"		"ze_obj_goosestep_v1"
+		"RestrictedTimes"	"00:00-12:00;23:00-23:59"
 	}
 }
