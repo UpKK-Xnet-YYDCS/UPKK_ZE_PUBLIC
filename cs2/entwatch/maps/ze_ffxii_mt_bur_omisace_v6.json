@@ -1,0 +1,620 @@
+[
+	{
+		"Name": "究极之剑(弹药)",
+		"ShortName": "究极之剑(弹药)",
+		"Color": "{default}",
+		"HammerID": 6436,
+		"GlowColor": [0,255,0,1],
+		"BlockPickup": false,
+		"AllowTransfer": true,
+		"ForceDrop": true,
+		"Chat": true,
+		"Hud": true,
+		"TriggerID": 0,
+		"UsePriority": true,
+		"AbilityList": [
+			{
+				"Name": "Item_ultimate_blade_Button",
+				"ButtonID": 6171,
+				"ButtonClass": "func_button",
+				"Filter": "",
+				"Chat_Uses": true,
+				"Mode": 4,
+				"MaxUses": 1,
+				"CoolDown": 4
+			}
+		]
+	},
+	{
+		"Name": "极限突破(终极)",
+		"ShortName": "极限突破(终极)",
+		"Color": "{default}",
+		"HammerID": 2613,
+		"GlowColor": [0,255,0,1],
+		"BlockPickup": false,
+		"AllowTransfer": true,
+		"ForceDrop": true,
+		"Chat": true,
+		"Hud": true,
+		"TriggerID": 0,
+		"UsePriority": true,
+		"AbilityList": [
+			{
+				"Name": "Item_limit_Button",
+				"ButtonID": 3065,
+				"ButtonClass": "func_button",
+				"Filter": "",
+				"Chat_Uses": true,
+				"Mode": 4,
+				"MaxUses": 1,
+				"CoolDown": 15
+			}
+		]
+	},
+	{
+		"Name": "血染盾墙",
+		"ShortName": "血染盾墙",
+		"Color": "{default}",
+		"HammerID": 5620,
+		"GlowColor": [0,255,0,1],
+		"BlockPickup": false,
+		"AllowTransfer": true,
+		"ForceDrop": true,
+		"Chat": true,
+		"Hud": true,
+		"TriggerID": 0,
+		"UsePriority": true,
+		"AbilityList": [
+			{
+				"Name": "Item_shield_Button",
+				"ButtonID": 3731,
+				"ButtonClass": "func_button",
+				"Filter": "",
+				"Chat_Uses": true,
+				"Mode": 2,
+				"MaxUses": 0,
+				"CoolDown": 75
+			}
+		]
+	},
+	{
+		"Name": "黑洞",
+		"ShortName": "黑洞",
+		"Color": "{default}",
+		"HammerID": 5390,
+		"GlowColor": [0,255,0,1],
+		"BlockPickup": false,
+		"AllowTransfer": true,
+		"ForceDrop": true,
+		"Chat": true,
+		"Hud": true,
+		"TriggerID": 0,
+		"UsePriority": true,
+		"AbilityList": [
+			{
+				"Name": "Item_dark_Button",
+				"ButtonID": 5383,
+				"ButtonClass": "func_button",
+				"Filter": "",
+				"Chat_Uses": true,
+				"Mode": 2,
+				"MaxUses": 0,
+				"CoolDown": 75
+			}
+		]
+	},
+	{
+		"Name": "水",
+		"ShortName": "水",
+		"Color": "{default}",
+		"HammerID": 4931,
+		"GlowColor": [0,255,0,1],
+		"BlockPickup": false,
+		"AllowTransfer": true,
+		"ForceDrop": true,
+		"Chat": true,
+		"Hud": true,
+		"TriggerID": 0,
+		"UsePriority": true,
+		"AbilityList": [
+			{
+				"Name": "Item_aqua_Button",
+				"ButtonID": 4908,
+				"ButtonClass": "func_button",
+				"Filter": "",
+				"Chat_Uses": true,
+				"Mode": 2,
+				"MaxUses": 0,
+				"CoolDown": 75
+			}
+		]
+	},
+	{
+		"Name": "雷电",
+		"ShortName": "雷电",
+		"Color": "{default}",
+		"HammerID": 5055,
+		"GlowColor": [0,255,0,1],
+		"BlockPickup": false,
+		"AllowTransfer": true,
+		"ForceDrop": true,
+		"Chat": true,
+		"Hud": true,
+		"TriggerID": 0,
+		"UsePriority": true,
+		"AbilityList": [
+			{
+				"Name": "Item_Thunder_Button",
+				"ButtonID": 4959,
+				"ButtonClass": "func_button",
+				"Filter": "",
+				"Chat_Uses": true,
+				"Mode": 2,
+				"MaxUses": 0,
+				"CoolDown": 75
+			}
+		]
+	},
+	{
+		"Name": "流沙",
+		"ShortName": "流沙",
+		"Color": "{default}",
+		"HammerID": 2757,
+		"GlowColor": [0,255,0,1],
+		"BlockPickup": false,
+		"AllowTransfer": true,
+		"ForceDrop": true,
+		"Chat": true,
+		"Hud": true,
+		"TriggerID": 0,
+		"UsePriority": true,
+		"AbilityList": [
+			{
+				"Name": "Item_Sand_Button",
+				"ButtonID": 4952,
+				"ButtonClass": "func_button",
+				"Filter": "",
+				"Chat_Uses": true,
+				"Mode": 2,
+				"MaxUses": 0,
+				"CoolDown": 75
+			}
+		]
+	},
+	{
+		"Name": "龙须(火球)",
+		"ShortName": "龙须(火球)",
+		"Color": "{default}",
+		"HammerID": 5192,
+		"GlowColor": [0,255,0,1],
+		"BlockPickup": false,
+		"AllowTransfer": true,
+		"ForceDrop": true,
+		"Chat": true,
+		"Hud": true,
+		"TriggerID": 0,
+		"UsePriority": true,
+		"AbilityList": [
+			{
+				"Name": "Item_Dragon_Whisker_Button",
+				"ButtonID": 5012,
+				"ButtonClass": "func_button",
+				"Filter": "",
+				"Chat_Uses": true,
+				"Mode": 2,
+				"MaxUses": 0,
+				"CoolDown": 80
+			}
+		]
+	},
+	{
+		"Name": "大剑",
+		"ShortName": "大剑",
+		"Color": "{default}",
+		"HammerID": 6055,
+		"GlowColor": [0,255,0,1],
+		"BlockPickup": false,
+		"AllowTransfer": true,
+		"ForceDrop": true,
+		"Chat": true,
+		"Hud": true,
+		"TriggerID": 0,
+		"UsePriority": true,
+		"AbilityList": [
+			{
+				"Name": "Item_Cortahombres_Button",
+				"ButtonID": 2673,
+				"ButtonClass": "func_button",
+				"Filter": "",
+				"Chat_Uses": true,
+				"Mode": 2,
+				"MaxUses": 0,
+				"CoolDown": 80
+			}
+		]
+	},
+	{
+		"Name": "天空法杖(免抓)",
+		"ShortName": "天空法杖(免抓)",
+		"Color": "{default}",
+		"HammerID": 3543,
+		"GlowColor": [0,255,0,1],
+		"BlockPickup": false,
+		"AllowTransfer": true,
+		"ForceDrop": true,
+		"Chat": true,
+		"Hud": true,
+		"TriggerID": 0,
+		"UsePriority": true,
+		"AbilityList": [
+			{
+				"Name": "Item_empyrean_rod_Button",
+				"ButtonID": 4848,
+				"ButtonClass": "func_button",
+				"Filter": "",
+				"Chat_Uses": true,
+				"Mode": 4,
+				"MaxUses": 1,
+				"CoolDown": 4
+			}
+		]
+	},
+	{
+		"Name": "水晶盾墙",
+		"ShortName": "水晶盾墙",
+		"Color": "{default}",
+		"HammerID": 5099,
+		"GlowColor": [0,255,0,1],
+		"BlockPickup": false,
+		"AllowTransfer": true,
+		"ForceDrop": true,
+		"Chat": true,
+		"Hud": true,
+		"TriggerID": 0,
+		"UsePriority": true,
+		"AbilityList": [
+			{
+				"Name": "Item_shield2_Button",
+				"ButtonID": 5103,
+				"ButtonClass": "func_button",
+				"Filter": "",
+				"Chat_Uses": true,
+				"Mode": 2,
+				"MaxUses": 0,
+				"CoolDown": 75
+			}
+		]
+	},
+	{
+		"Name": "洛克斯利之弓",
+		"ShortName": "洛克斯利之弓",
+		"Color": "{default}",
+		"HammerID": 5066,
+		"GlowColor": [0,255,0,1],
+		"BlockPickup": false,
+		"AllowTransfer": true,
+		"ForceDrop": true,
+		"Chat": true,
+		"Hud": true,
+		"TriggerID": 0,
+		"UsePriority": true,
+		"AbilityList": [
+			{
+				"Name": "Item_loxley_bow_Button",
+				"ButtonID": 5067,
+				"ButtonClass": "func_button",
+				"Filter": "",
+				"Chat_Uses": true,
+				"Mode": 2,
+				"MaxUses": 0,
+				"CoolDown": 80
+			}
+		]
+	},
+	{
+		"Name": "火",
+		"ShortName": "火",
+		"Color": "{default}",
+		"HammerID": 5387,
+		"GlowColor": [0,255,0,1],
+		"BlockPickup": false,
+		"AllowTransfer": true,
+		"ForceDrop": true,
+		"Chat": true,
+		"Hud": true,
+		"TriggerID": 0,
+		"UsePriority": true,
+		"AbilityList": [
+			{
+				"Name": "Item_fire_Button",
+				"ButtonID": 3470,
+				"ButtonClass": "func_button",
+				"Filter": "",
+				"Chat_Uses": true,
+				"Mode": 2,
+				"MaxUses": 0,
+				"CoolDown": 75
+			}
+		]
+	},
+	{
+		"Name": "毒",
+		"ShortName": "毒",
+		"Color": "{default}",
+		"HammerID": 5445,
+		"GlowColor": [0,255,0,1],
+		"BlockPickup": false,
+		"AllowTransfer": true,
+		"ForceDrop": true,
+		"Chat": true,
+		"Hud": true,
+		"TriggerID": 0,
+		"UsePriority": true,
+		"AbilityList": [
+			{
+				"Name": "Item_poison_Button",
+				"ButtonID": 5393,
+				"ButtonClass": "func_button",
+				"Filter": "",
+				"Chat_Uses": true,
+				"Mode": 2,
+				"MaxUses": 0,
+				"CoolDown": 75
+			}
+		]
+	},
+	{
+		"Name": "双手弩",
+		"ShortName": "双手弩",
+		"Color": "{default}",
+		"HammerID": 6129,
+		"GlowColor": [0,255,0,1],
+		"BlockPickup": false,
+		"AllowTransfer": true,
+		"ForceDrop": true,
+		"Chat": true,
+		"Hud": true,
+		"TriggerID": 0,
+		"UsePriority": true,
+		"AbilityList": [
+			{
+				"Name": "Item_Crossbow_Button",
+				"ButtonID": 5742,
+				"ButtonClass": "func_button",
+				"Filter": "",
+				"Chat_Uses": false,
+				"Mode": 0,
+				"MaxUses": 0,
+				"CoolDown": 0
+			}
+		]
+	},
+	{
+		"Name": "风",
+		"ShortName": "风",
+		"Color": "{default}",
+		"HammerID": 5648,
+		"GlowColor": [0,255,0,1],
+		"BlockPickup": false,
+		"AllowTransfer": true,
+		"ForceDrop": true,
+		"Chat": true,
+		"Hud": true,
+		"TriggerID": 0,
+		"UsePriority": true,
+		"AbilityList": [
+			{
+				"Name": "Item_wind_Button",
+				"ButtonID": 5955,
+				"ButtonClass": "func_button",
+				"Filter": "",
+				"Chat_Uses": true,
+				"Mode": 2,
+				"MaxUses": 0,
+				"CoolDown": 75
+			}
+		]
+	},
+	{
+		"Name": "奶",
+		"ShortName": "奶",
+		"Color": "{default}",
+		"HammerID": 4930,
+		"GlowColor": [0,255,0,1],
+		"BlockPickup": false,
+		"AllowTransfer": true,
+		"ForceDrop": true,
+		"Chat": true,
+		"Hud": true,
+		"TriggerID": 0,
+		"UsePriority": true,
+		"AbilityList": [
+			{
+				"Name": "Item_Heal_Button",
+				"ButtonID": 4927,
+				"ButtonClass": "func_button",
+				"Filter": "",
+				"Chat_Uses": true,
+				"Mode": 2,
+				"MaxUses": 0,
+				"CoolDown": 75
+			}
+		]
+	},
+	{
+		"Name": "[ZM]黑洞",
+		"ShortName": "[ZM]黑洞",
+		"Color": "{default}",
+		"HammerID": 3205,
+		"GlowColor": [0,255,0,1],
+		"BlockPickup": false,
+		"AllowTransfer": true,
+		"ForceDrop": true,
+		"Chat": true,
+		"Hud": true,
+		"TriggerID": 0,
+		"UsePriority": true,
+		"AbilityList": [
+			{
+				"Name": "Item_zm_gravity_Button",
+				"ButtonID": 3210,
+				"ButtonClass": "func_button",
+				"Filter": "",
+				"Chat_Uses": true,
+				"Mode": 2,
+				"MaxUses": 0,
+				"CoolDown": 65
+			}
+		]
+	},
+	{
+		"Name": "[ZM]多蕾丝",
+		"ShortName": "[ZM]多蕾丝",
+		"Color": "{default}",
+		"HammerID": 3275,
+		"GlowColor": [0,255,0,1],
+		"BlockPickup": false,
+		"AllowTransfer": true,
+		"ForceDrop": true,
+		"Chat": true,
+		"Hud": true,
+		"TriggerID": 0,
+		"UsePriority": true,
+		"AbilityList": [
+			{
+				"Name": "",
+				"ButtonID": 0,
+				"ButtonClass": "game_ui::PressedAttack",
+				"Filter": "",
+				"Chat_Uses": true,
+				"Mode": 2,
+				"MaxUses": 0,
+				"CoolDown": 70
+			},
+			{
+				"Name": "",
+				"ButtonID": 0,
+				"ButtonClass": "game_ui::PressedAttack2",
+				"Filter": "",
+				"Chat_Uses": true,
+				"Mode": 2,
+				"MaxUses": 0,
+				"CoolDown": 65
+			}
+		]
+	},
+	{
+		"Name": "[ZM]加布拉斯",
+		"ShortName": "[ZM]加布拉斯",
+		"Color": "{default}",
+		"HammerID": 3886,
+		"GlowColor": [0,255,0,1],
+		"BlockPickup": false,
+		"AllowTransfer": true,
+		"ForceDrop": true,
+		"Chat": true,
+		"Hud": true,
+		"TriggerID": 0,
+		"UsePriority": true,
+		"AbilityList": [
+			{
+				"Name": "",
+				"ButtonID": 0,
+				"ButtonClass": "game_ui::PressedAttack",
+				"Filter": "",
+				"Chat_Uses": true,
+				"Mode": 2,
+				"MaxUses": 0,
+				"CoolDown": 65
+			},
+			{
+				"Name": "",
+				"ButtonID": 0,
+				"ButtonClass": "game_ui::PressedAttack2",
+				"Filter": "",
+				"Chat_Uses": true,
+				"Mode": 2,
+				"MaxUses": 0,
+				"CoolDown": 65
+			}
+		]
+	},
+	{
+		"Name": "[ZM]隐身",
+		"ShortName": "[ZM]隐身",
+		"Color": "{default}",
+		"HammerID": 4925,
+		"GlowColor": [0,255,0,1],
+		"BlockPickup": false,
+		"AllowTransfer": true,
+		"ForceDrop": true,
+		"Chat": true,
+		"Hud": true,
+		"TriggerID": 0,
+		"UsePriority": true,
+		"AbilityList": [
+			{
+				"Name": "Item_zm_invisible_Button",
+				"ButtonID": 4922,
+				"ButtonClass": "func_button",
+				"Filter": "",
+				"Chat_Uses": true,
+				"Mode": 2,
+				"MaxUses": 0,
+				"CoolDown": 65
+			}
+		]
+	},
+	{
+		"Name": "[ZM]恐惧",
+		"ShortName": "[ZM]恐惧",
+		"Color": "{default}",
+		"HammerID": 3293,
+		"GlowColor": [0,255,0,1],
+		"BlockPickup": false,
+		"AllowTransfer": true,
+		"ForceDrop": true,
+		"Chat": true,
+		"Hud": true,
+		"TriggerID": 0,
+		"UsePriority": true,
+		"AbilityList": [
+			{
+				"Name": "Item_zm_fear_Button",
+				"ButtonID": 3091,
+				"ButtonClass": "func_button",
+				"Filter": "",
+				"Chat_Uses": true,
+				"Mode": 2,
+				"MaxUses": 0,
+				"CoolDown": 65
+			}
+		]
+	},
+	{
+		"Name": "[ZM]秒杀",
+		"ShortName": "[ZM]秒杀",
+		"Color": "{default}",
+		"HammerID": 3102,
+		"GlowColor": [0,255,0,1],
+		"BlockPickup": false,
+		"AllowTransfer": true,
+		"ForceDrop": true,
+		"Chat": true,
+		"Hud": true,
+		"TriggerID": 0,
+		"UsePriority": true,
+		"AbilityList": [
+			{
+				"Name": "Item_zm_damage_Button",
+				"ButtonID": 5179,
+				"ButtonClass": "func_button",
+				"Filter": "",
+				"Chat_Uses": true,
+				"Mode": 2,
+				"MaxUses": 0,
+				"CoolDown": 65
+			}
+		]
+	}
+]
