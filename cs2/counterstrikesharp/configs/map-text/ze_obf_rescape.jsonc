@@ -110,6 +110,9 @@
   "Ready to Move <<< 10 >>>": {
     "translation": "准备好 <<< 10s >>>"
   },
+  "Ready to Move <<< 05 >>>": {
+    "Blocked": true
+  },
   "The elevator door will reopen in 30 seconds": {
     "translation": "电梯门将在30秒后再打开"
   },
@@ -159,13 +162,13 @@
     "translation": "小心点，僵尸从侧路来了"
   },
   "prepare for your last rush": {
-    "translation": "你们有堵上一切的觉悟吗？"
+    "translation": "胜利就在前方，绝不能在这里倒下"
   },
   "Get Ready ?": {
-    "translation": "准备好了吗？"
+    "translation": "冲刺冲刺冲冲冲"
   },
   "The Water is going Up": {
-    "translation": "水位在上升"
+    "translation": "水漫延上来了"
   },
   "Last Fight <<< 10 >>>": {
     "translation": "冠军之路 <<< 10s >>>"
@@ -174,7 +177,7 @@
     "Blocked": true
   },
   "<Unknown Radio>Yes,that it!Keep running!": {
-    "translation": "<无线电>就是这样，别停下来，继续冲！"
+    "translation": "<无线电>nice，别停下来，继续冲！"
   },
   "<Unknown Radio>Once you get outside,all will be safe!": {
     "translation": "<无线电>只要冲出去，我们就安全了！"
@@ -206,10 +209,7 @@
   "Find a way up there before the doors are closed !": {
     "translation": "在门关上之前找到上去的路！"
   },
-  "Ready to Move <<< 05 >>>": {
-    "Blocked": true
-  },
   "Run": {
-    "translation": "跑"
+    "translation": "快跑"
   },
 }
