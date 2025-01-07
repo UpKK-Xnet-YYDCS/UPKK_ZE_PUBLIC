@@ -1,0 +1,340 @@
+[
+  {
+    "Name": "狂风",
+    "ShortName": "狂风",
+    "Color": "{default}",
+    "HammerID": "1444",
+    "GlowColor": [0,255,0,1],
+    "BlockPickup": false,
+    "AllowTransfer": true,
+    "ForceDrop": true,
+    "Chat": true,
+    "Hud": true,
+    "TriggerID": 0,
+    "UsePriority": true,
+    "AbilityList": [
+      {
+        "Name": "Item_wind_Button",
+        "ButtonID": 1449,
+        "ButtonClass": "func_button",
+        "Filter": "human_wind",
+        "Chat_Uses": true,
+        "Mode": 2,
+        "MaxUses": 0,
+        "CoolDown": 75
+      }
+    ]
+  },
+  {
+    "Name": "ZM 混乱",
+    "ShortName": "ZM 混乱",
+    "Color": "{default}",
+    "HammerID": "2533",
+    "GlowColor": [0,255,0,1],
+    "BlockPickup": false,
+    "AllowTransfer": false,
+    "ForceDrop": false,
+    "Chat": true,
+    "Hud": true,
+    "TriggerID": 2531,
+    "UsePriority": true,
+    "AbilityList": [
+      {
+        "Name": "item_confusion_butt",
+        "ButtonID": 2535,
+        "ButtonClass": "func_button",
+        "Filter": "",
+        "Chat_Uses": true,
+        "Mode": 2,
+        "MaxUses": 0,
+        "CoolDown": 120
+      }
+    ]
+  },
+  {
+    "Name": "极寒风暴",
+    "ShortName": "极寒风暴",
+    "Color": "{default}",
+    "HammerID": "2541",
+    "GlowColor": [0,255,0,1],
+    "BlockPickup": false,
+    "AllowTransfer": true,
+    "ForceDrop": true,
+    "Chat": true,
+    "Hud": true,
+    "TriggerID": 0,
+    "UsePriority": true,
+    "AbilityList": [
+      {
+        "Name": "Item_snowstorm_Button",
+        "ButtonID": 2544,
+        "ButtonClass": "func_button",
+        "Filter": "human_snow",
+        "Chat_Uses": true,
+        "Mode": 2,
+        "MaxUses": 0,
+        "CoolDown": 75
+      }
+    ]
+  },
+  {
+    "Name": "烈阳之炎",
+    "ShortName": "烈阳之炎",
+    "Color": "{default}",
+    "HammerID": "2579",
+    "GlowColor": [0,255,0,1],
+    "BlockPickup": false,
+    "AllowTransfer": true,
+    "ForceDrop": true,
+    "Chat": true,
+    "Hud": true,
+    "TriggerID": 0,
+    "UsePriority": true,
+    "AbilityList": [
+      {
+        "Name": "Item_Firebeam_Button",
+        "ButtonID": 2581,
+        "ButtonClass": "func_button",
+        "Filter": "human_fire",
+        "Chat_Uses": true,
+        "Mode": 2,
+        "MaxUses": 0,
+        "CoolDown": 75
+      }
+    ]
+  },
+  {
+    "Name": "ZM 黑暗治愈",
+    "ShortName": "ZM 黑暗治愈",
+    "Color": "{default}",
+    "HammerID": "2606",
+    "GlowColor": [0,255,0,1],
+    "BlockPickup": false,
+    "AllowTransfer": false,
+    "ForceDrop": false,
+    "Chat": true,
+    "Hud": true,
+    "TriggerID": 2604,
+    "UsePriority": true,
+    "AbilityList": [
+      {
+        "Name": "item_zm_heal_butt",
+        "ButtonID": 2608,
+        "ButtonClass": "func_button",
+        "Filter": "zm_heal",
+        "Chat_Uses": true,
+        "Mode": 2,
+        "MaxUses": 0,
+        "CoolDown": 120
+      }
+    ]
+  },
+  {
+    "Name": "ZM 冰封",
+    "ShortName": "ZM 冰封",
+    "Color": "{default}",
+    "HammerID": "2615",
+    "GlowColor": [0,255,0,1],
+    "BlockPickup": false,
+    "AllowTransfer": false,
+    "ForceDrop": false,
+    "Chat": true,
+    "Hud": true,
+    "TriggerID": 2613,
+    "UsePriority": true,
+    "AbilityList": [
+      {
+        "Name": "item_zm_Frozen_butt",
+        "ButtonID": 2623,
+        "ButtonClass": "func_button",
+        "Filter": "zm_frozen",
+        "Chat_Uses": true,
+        "Mode": 2,
+        "MaxUses": 0,
+        "CoolDown": 120
+      }
+    ]
+  },
+  {
+    "Name": "神圣召唤",
+    "ShortName": "神圣召唤",
+    "Color": "{default}",
+    "HammerID": "2637",
+    "GlowColor": [0,255,0,1],
+    "BlockPickup": false,
+    "AllowTransfer": true,
+    "ForceDrop": true,
+    "Chat": true,
+    "Hud": true,
+    "TriggerID": 0,
+    "UsePriority": true,
+    "AbilityList": [
+      {
+        "Name": "Item_NPC_Button",
+        "ButtonID": 2638,
+        "ButtonClass": "func_button",
+        "Filter": "human_light",
+        "Chat_Uses": true,
+        "Mode": 2,
+        "MaxUses": 0,
+        "CoolDown": 120
+      }
+    ]
+  },
+  {
+    "Name": "ZM 虚空召唤",
+    "ShortName": "ZM 虚空召唤",
+    "Color": "{default}",
+    "HammerID": "2667",
+    "GlowColor": [0,255,0,1],
+    "BlockPickup": false,
+    "AllowTransfer": false,
+    "ForceDrop": false,
+    "Chat": true,
+    "Hud": true,
+    "TriggerID": 2664,
+    "UsePriority": true,
+    "AbilityList": [
+      {
+        "Name": "item_zm_dhq_button",
+        "ButtonID": 2655,
+        "ButtonClass": "func_button",
+        "Filter": "zm_dhq",
+        "Chat_Uses": true,
+        "Mode": 2,
+        "MaxUses": 0,
+        "CoolDown": 120
+      }
+    ]
+  },
+  {
+    "Name": "神圣治愈",
+    "ShortName": "神圣治愈",
+    "Color": "{default}",
+    "HammerID": "2685",
+    "GlowColor": [0,255,0,1],
+    "BlockPickup": false,
+    "AllowTransfer": true,
+    "ForceDrop": true,
+    "Chat": true,
+    "Hud": true,
+    "TriggerID": 0,
+    "UsePriority": true,
+    "AbilityList": [
+      {
+        "Name": "Item_Heal_Button",
+        "ButtonID": 2681,
+        "ButtonClass": "func_button",
+        "Filter": "human_heal",
+        "Chat_Uses": true,
+        "Mode": 2,
+        "MaxUses": 0,
+        "CoolDown": 50
+      }
+    ]
+  },
+  {
+    "Name": "符华",
+    "ShortName": "符华",
+    "Color": "{default}",
+    "HammerID": "1402",
+    "GlowColor": [0,255,0,1],
+    "BlockPickup": false,
+    "AllowTransfer": false,
+    "ForceDrop": false,
+    "Chat": true,
+    "Hud": true,
+    "TriggerID": 1405,
+    "UsePriority": true,
+    "AbilityList": [
+      {
+        "Name": "wk_knife_fuhua_button",
+        "ButtonID": 1381,
+        "ButtonClass": "func_button",
+        "Filter": "wk_user",
+        "Chat_Uses": true,
+        "Mode": 2,
+        "MaxUses": 0,
+        "CoolDown": 40
+      }
+    ]
+  },
+  {
+    "Name": "圣神骑士铠甲",
+    "ShortName": "圣神骑士铠甲",
+    "Color": "{default}",
+    "HammerID": "2449",
+    "GlowColor": [0,255,0,1],
+    "BlockPickup": false,
+    "AllowTransfer": false,
+    "ForceDrop": false,
+    "Chat": true,
+    "Hud": true,
+    "TriggerID": 2461,
+    "UsePriority": true,
+    "AbilityList": [
+      {
+        "Name": "Item_gaoda_nai_butt",
+        "ButtonID": 2442,
+        "ButtonClass": "func_button",
+        "Filter": "wk_user",
+        "Chat_Uses": true,
+        "Mode": 2,
+        "MaxUses": 0,
+        "CoolDown": 50
+      }
+    ]
+  },
+  {
+    "Name": "火把",
+    "ShortName": "火把",
+    "Color": "{default}",
+    "HammerID": "4860",
+    "GlowColor": [0,255,0,1],
+    "BlockPickup": false,
+    "AllowTransfer": true,
+    "ForceDrop": true,
+    "Chat": true,
+    "Hud": true,
+    "TriggerID": 0,
+    "UsePriority": true,
+    "AbilityList": [
+      {
+        "Name": "",
+        "ButtonID": 0,
+        "ButtonClass": "",
+        "Filter": "",
+        "Chat_Uses": true,
+        "Mode": 0,
+        "MaxUses": 0,
+        "CoolDown": 0
+      }
+    ]
+  },
+  {
+    "Name": "火把2",
+    "ShortName": "火把2",
+    "Color": "{default}",
+    "HammerID": "4867",
+    "GlowColor": [0,255,0,1],
+    "BlockPickup": false,
+    "AllowTransfer": true,
+    "ForceDrop": true,
+    "Chat": true,
+    "Hud": true,
+    "TriggerID": 0,
+    "UsePriority": true,
+    "AbilityList": [
+      {
+        "Name": "",
+        "ButtonID": 0,
+        "ButtonClass": "",
+        "Filter": "",
+        "Chat_Uses": true,
+        "Mode": 0,
+        "MaxUses": 0,
+        "CoolDown": 0
+      }
+    ]
+  }
+]
