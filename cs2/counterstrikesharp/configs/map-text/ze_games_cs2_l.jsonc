@@ -1,173 +1,248 @@
 {
-  "-=[ Round starting in 10 seconds ]=-": {
-    "translation": ""
-  },
-  "-=[ Welcome to Zombie Games ]=-": {
-    "translation": ""
-  },
-  "-=[ Starting game: Obstacle Race ]=-": {
-    "translation": ""
-  },
-  "-=[ You have 1 minute to reach the end ]=-": {
-    "translation": ""
-  },
-  "-=[ You have 40 seconds ]=-": {
-    "translation": ""
-  },
-  "-=[ You have 20 more seconds ]=-": {
-    "translation": ""
-  },
-  "-=[ Hurry, 10 seconds left ]=-": {
-    "translation": ""
-  },
-  "-=[ 5 ]=-": {
-    "translation": ""
-  },
-  "-=[ 4 ]=-": {
-    "translation": ""
-  },
-  "-=[ 3 ]=-": {
-    "translation": ""
-  },
-  "-=[ 2 ]=-": {
-    "translation": ""
-  },
   "-=[ 1 ]=-": {
-    "translation": ""
-  },
-  "-=[ Autopick in 1 minute ]=-": {
-    "translation": ""
-  },
-  "-=[ Starting game: Drop ]=-": {
-    "translation": ""
-  },
-  "-=[ Starting Game: Castle Defence ]=-": {
-    "translation": ""
-  },
-  "-=[ Starting game: Slingshot ]=-": {
-    "translation": ""
-  },
-  "-=[ Survive 60 Seconds... ]=-": {
-    "translation": ""
-  },
-  "-=[ Hard Mode ]=-": {
-    "translation": ""
-  },
-  "-=[ Extreme Mode ]=-": {
-    "translation": ""
-  },
-  "-=[ Enter the Castle ]=-": {
-    "translation": ""
-  },
-  "-=[ Activating in 5 ]=-": {
-    "translation": ""
-  },
-  "-=[ Normal Mode ]=-": {
-    "translation": ""
-  },
-  "-=[ Doors closing in 5 seconds ]=-": {
-    "translation": ""
-  },
-  "-=[ Zombies are free ]=-": {
-    "translation": ""
-  },
-  "-=[ Hold for 30 seconds ]=-": {
-    "translation": ""
-  },
-  "-=[ Shoot the ladders down ]=-": {
-    "translation": ""
-  },
-  "-=[ The catapult is coming!!! ]=-": {
-    "translation": ""
-  },
-  "-=[ Castle gates open in 30 seconds ]=-": {
-    "translation": ""
-  },
-  "-=[ Fallback ]=-": {
-    "translation": ""
-  },
-  "-=[ Castle gates open in 15 seconds ]=-": {
-    "translation": ""
-  },
-  "-=[ Starting game: Murder in the dark ]=-": {
-    "translation": ""
-  },
-  "-=[ Starting game: Deathrun ]=-": {
-    "translation": ""
-  },
-  "-=[ Survive 60 seconds ]=-": {
-    "translation": ""
-  },
-  "-=[ Hold for 90 seconds ]=-": {
-    "translation": ""
-  },
-  "-=[ Zombies are blind!!!! ]=-": {
-    "translation": ""
-  },
-  "-=[ Castle gates are opening ]=-": {
-    "translation": ""
-  },
-  "-=[ Finishing in 30 seconds ]=-": {
-    "translation": ""
+    "translation": "** 1秒 **"
   },
   "-=[ 1 more minute ]=-": {
-    "translation": ""
+    "translation": "** 再等60秒 **"
   },
-  "-=[ Finishing in 5 ]=-": {
-    "translation": ""
+  "-=[ 2 ]=-": {
+    "translation": "** 2秒 **"
+  },
+  "-=[ 3 ]=-": {
+    "translation": "** 3秒 **"
   },
   "-=[ 30 more seconds... ]=-": {
-    "translation": ""
+    "translation": "** 还有30秒... **"
   },
-  "-=[ Finishing in 5... ]=-": {
-    "translation": ""
+  "-=[ 4 ]=-": {
+    "translation": "** 4秒 **"
   },
-  "-=[ Zombie spawn advanced ]=-": {
-    "translation": ""
+  "-=[ 5 ]=-": {
+    "translation": "** 5秒 **"
   },
-  "-=[ Starting game: Obstacle ]=-": {
-    "translation": ""
+  "-=[ Activating Trap ]=-": {
+    "translation": "** 激活陷阱 **"
   },
-  "-=[ Starting game: Low Gravity ]=-": {
-    "translation": ""
+  "-=[ Activating in 5 ]=-": {
+    "translation": "** 5秒后激活 **"
   },
-  "-=[ Survive 90 Seconds... ]=-": {
-    "translation": ""
+  "-=[ All Gems have been collected ]=-": {
+    "translation": "** 所有宝石已收集完毕 **"
   },
-  "-=[ Here come the zombies!!! ]=-": {
-    "translation": ""
+  "-=[ Autopick in 1 minute ]=-": {
+    "translation": "** 60秒后自动拾取 **"
   },
-  "-=[ Here come the zombies ]=-": {
-    "translation": ""
+  "-=[ Castle gates are opening ]=-": {
+    "translation": "** 城堡大门正在开启 **"
   },
-  "-=[ You have 60 seconds ]=-": {
-    "translation": ""
+  "-=[ Castle gates open in 15 seconds ]=-": {
+    "translation": "** 城堡大门将在15秒后打开 **"
   },
-  "-=[ Zombie spawn has advanced ]=-": {
-    "translation": ""
+  "-=[ Castle gates open in 30 seconds ]=-": {
+    "translation": "** 城堡大门将在30秒后打开 **"
   },
-  "-=[ Extreme Mode :: CT/T < 1 ]=-": {
-    "translation": ""
+  "-=[ Collect the gems in 45 seconds ]=-": {
+    "translation": "** 45秒内收集宝石 **"
   },
-  "-=[ The main gates are under attack ]=-": {
-    "translation": ""
+  "-=[ Doors closing in 5 seconds ]=-": {
+    "translation": "** 大门将在5秒后关闭 **"
   },
-  "-=[ The main gates have been penetrated ]=-": {
-    "translation": ""
+  "-=[ Doors opening in 5 ]=-": {
+    "translation": "** 大门将在5秒后打开 **"
   },
-  "-=[ Starting game: Conveyor ]=-": {
-    "translation": ""
+  "-=[ Easy Mode :: CT/T == 4 ]=-": {
+    "translation": "** 简单模式 :: CT/T == 4 **"
+  },
+  "-=[ Easy Mode :: CT/T > 4 ]=-": {
+    "translation": "** 简单模式 :: CT/T > 4 **"
   },
   "-=[ Easy Mode ]=-": {
-    "translation": ""
+    "translation": "** 简单模式 **"
   },
-  "-=[Normal Mode ]=-": {
-    "translation": ""
+  "-=[ Enter the Castle ]=-": {
+    "translation": "** 进入城堡 **"
   },
-  "-=[ Survive until next ratio mode ]=-": {
-    "translation": ""
+  "-=[ Extreme Mode :: CT/T < 1 ]=-": {
+    "translation": "** 极限模式 :: CT/T < 1 **"
+  },
+  "-=[ Extreme Mode ]=-": {
+    "translation": "** 极限模式 **"
+  },
+  "-=[ Fallback ]=-": {
+    "translation": "** 后退 **"
+  },
+  "-=[ Fallback up the ladders ]=-": {
+    "translation": "** 沿着梯子撤退 **"
   },
   "-=[ Finishing Game :: < 2 ]=-": {
-    "translation": ""
+    "translation": "** 游戏结束 :: < 2 **"
+  },
+  "-=[ Finishing Game :: == 2 ]=-": {
+    "translation": "** 游戏结束 :: == 2 **"
+  },
+  "-=[ Finishing in 30 seconds ]=-": {
+    "translation": "** 30秒后结束 **"
+  },
+  "-=[ Finishing in 5 ]=-": {
+    "translation": "** 5秒后结束 **"
+  },
+  "-=[ Finishing in 5... ]=-": {
+    "translation": "** 5秒后结束... **"
+  },
+  "-=[ Hard Mode :: CT/T == 1 ]=-": {
+    "translation": "** 困难模式 :: CT/T == 1 **"
+  },
+  "-=[ Hard Mode :: CT/T > 1 < 2 ]=-": {
+    "translation": "** 困难模式 :: CT/T > 1 < 2 **"
+  },
+  "-=[ Hard Mode ]=-": {
+    "translation": "** 困难模式 **"
+  },
+  "-=[ Here come the zombies ]=-": {
+    "translation": "** 僵尸来了 **"
+  },
+  "-=[ Here come the zombies!!! ]=-": {
+    "translation": "** 僵尸来了！！！ **"
+  },
+  "-=[ Hold 15 seconds ]=-": {
+    "translation": "** 防守15秒 **"
+  },
+  "-=[ Hold for 30 seconds ]=-": {
+    "translation": "** 防守30秒 **"
+  },
+  "-=[ Hold for 90 seconds ]=-": {
+    "translation": "** 防守90秒 **"
+  },
+  "-=[ Humans Win ]=-": {
+    "translation": "** 人类胜利 **"
+  },
+  "-=[ Hurry, 10 seconds left ]=-": {
+    "translation": "** 快点，只剩下10秒 **"
+  },
+  "-=[ It's time for the final minigame ]=-": {
+    "translation": "** 该进行最后的迷你游戏了 **"
+  },
+  "-=[ Killing zombies in 5 ]=-": {
+    "translation": "** 5秒后清理僵尸 **"
+  },
+  "-=[ Lavapit activating in 5 seconds ]=-": {
+    "translation": "** 岩浆坑将在5秒后激活 **"
+  },
+  "-=[ Make your way to the highway ]=-": {
+    "translation": "** 前往高速公路 **"
+  },
+  "-=[ Middle Exit opening in 30 seconds ]=-": {
+    "translation": "** 中间出口将在30秒后开启 **"
+  },
+  "-=[ Normal Mode :: CT/T == 2 ]=-": {
+    "translation": "** 普通模式 :: CT/T == 2 **"
+  },
+  "-=[ Normal Mode :: CT/T > 2 < 4 ]=-": {
+    "translation": "** 普通模式 :: CT/T > 2 < 4 **"
+  },
+  "-=[ Normal Mode ]=-": {
+    "translation": "** 普通模式 **"
+  },
+  "-=[ Round starting in 10 seconds ]=-": {
+    "translation": "** 回合将在10秒后开始 **"
+  },
+  "-=[ Select your first game ]=-": {
+    "translation": "** 选择你的第一场游戏 **"
+  },
+  "-=[ Shoot the ladders down ]=-": {
+    "translation": "** 摧毁梯子 **"
+  },
+  "-=[ Starting Game: Castle Defence ]=-": {
+    "translation": "** 游戏开始：城堡保卫战 **"
+  },
+  "-=[ Starting game: Conveyor ]=-": {
+    "translation": "** 游戏开始：传送带 **"
+  },
+  "-=[ Starting game: Deathrun ]=-": {
+    "translation": "** 游戏开始：死亡竞赛 **"
+  },
+  "-=[ Starting game: Drop ]=-": {
+    "translation": "** 游戏开始：坠落 **"
+  },
+  "-=[ Starting game: Frogger ]=-": {
+    "translation": "** 游戏开始：青蛙过河 **"
+  },
+  "-=[ Starting game: Low Gravity ]=-": {
+    "translation": "** 游戏开始：低重力 **"
+  },
+  "-=[ Starting game: Murder in the dark ]=-": {
+    "translation": "** 游戏开始：暗夜杀手 **"
+  },
+  "-=[ Starting game: Obstacle Race ]=-": {
+    "translation": "** 游戏开始：障碍赛 **"
+  },
+  "-=[ Starting game: Obstacle ]=-": {
+    "translation": "** 游戏开始：障碍 **"
+  },
+  "-=[ Starting game: Slingshot ]=-": {
+    "translation": "** 游戏开始：弹弓 **"
+  },
+  "-=[ Starting game: The Trap ]=-": {
+    "translation": "** 游戏开始：陷阱 **"
+  },
+  "-=[ Survive 60 Seconds... ]=-": {
+    "translation": "** 存活60秒... **"
+  },
+  "-=[ Survive 60 seconds ]=-": {
+    "translation": "** 存活60秒 **"
+  },
+  "-=[ Survive 90 Seconds... ]=-": {
+    "translation": "** 存活90秒... **"
+  },
+  "-=[ Survive until next ratio mode ]=-": {
+    "translation": "** 存活到下一个模式 **"
+  },
+  "-=[ The catapult is coming!!! ]=-": {
+    "translation": "** 投石机来了！！！ **"
+  },
+  "-=[ The main gates are under attack ]=-": {
+    "translation": "** 大门正在受到攻击 **"
+  },
+  "-=[ The main gates have been penetrated ]=-": {
+    "translation": "** 大门已被突破 **"
+  },
+  "-=[ Welcome to Zombie Games ]=-": {
+    "translation": "** 欢迎来到ze_games 小游戏 翻译：Asteri3m **"
+  },
+  "-=[ Worked ]=-": {
+    "translation": "** 完成 **"
+  },
+  "-=[ You have 1 minute to reach the end ]=-": {
+    "translation": "** 你有60秒的时间到达终点 **"
+  },
+  "-=[ You have 20 more seconds ]=-": {
+    "translation": "** 还有20秒 **"
+  },
+  "-=[ You have 30 seconds ]=-": {
+    "translation": "** 还有30秒 **"
+  },
+  "-=[ You have 40 seconds ]=-": {
+    "translation": "** 还有40秒 **"
+  },
+  "-=[ You have 60 seconds ]=-": {
+    "translation": "** 还有60秒 **"
+  },
+  "-=[ Zombie spawn advanced ]=-": {
+    "translation": "** 僵尸传送点已更新 **"
+  },
+  "-=[ Zombie spawn has advanced ]=-": {
+    "translation": "** 僵尸传送点已更新 **"
+  },
+  "-=[ Zombies Activated Trap ]=-": {
+    "translation": "** 僵尸激活了陷阱 **"
+  },
+  "-=[ Zombies are blind!!!! ]=-": {
+    "translation": "** 僵尸眼睛瞎了！！！！ **"
+  },
+  "-=[ Zombies are free ]=-": {
+    "translation": "** 僵尸已释放 **"
+  },
+  "-=[Normal Mode ]=-": {
+    "translation": "** 普通模式 **"
   }
 }
