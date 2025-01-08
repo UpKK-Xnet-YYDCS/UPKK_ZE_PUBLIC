@@ -2,6 +2,8 @@ name: Check Workshop IDs in Collections
 
 on:
   workflow_dispatch:
+  schedule:
+    - cron: '0 0 */3 * *'  # 每 3 天触发一次
 
 jobs:
   check_workshop:
