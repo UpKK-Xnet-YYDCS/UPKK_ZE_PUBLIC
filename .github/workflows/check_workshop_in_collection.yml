@@ -58,11 +58,11 @@ jobs:
       with:
         github-token: ${{ secrets.GITHUB_TOKEN }}
         script: |
-          const fs = require('fs');
-          const existingIssueNumber = ${{ steps.issue_check.outputs.existingIssueNumber }};
-          const notFoundIds = await fs.promises.readFile('not_in_collections.txt', 'utf-8');
+          const fs = require('fs').promises;
+          const existingIssueNumber = parseInt('${{ steps.issue_check.outputs.existingIssueNumber }}', 10);
+          const notFoundIds = await fs.readFile('not_in_collections.txt', 'utf-8');
           const body = `在文件 cs2/counterstrikesharp/configs/plugins/MapChooser/maps.txt 中的某些 Workshop ID 未在指定的合集 3113843317 中找到。请检查并更新这些合集。\n\n未找到的 Workshop IDs:\n${notFoundIds}`;
-          
+
           if (existingIssueNumber) {
             await github.rest.issues.createComment({
               owner: context.repo.owner,
@@ -78,3 +78,4 @@ jobs:
               body: body,
               labels: ['bug'],
             });
+          }
