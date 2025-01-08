@@ -1,0 +1,73 @@
+name: Check Workshop IDs in Collections
+
+on:
+  workflow_dispatch:
+
+jobs:
+  check_workshop:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v2
+
+    - name: Set up Python
+      uses: actions/setup-python@v2
+      with:
+        python-version: '3.9'
+
+    - name: Install dependencies
+      run: |
+        python -m pip install --upgrade pip
+        pip install requests
+
+    - name: Run script to check workshop IDs
+      id: check_workshop
+      run: |
+        file_path='cs2/counterstrikesharp/configs/plugins/MapChooser/maps.txt'
+        collection_ids='3113843317'
+        echo "Checking workshop IDs in collection $collection_ids using file $file_path"
+        python check_workshop_in_collection.py $file_path $collection_ids
+
+    - name: Check for existing issue
+      id: issue_check
+      uses: actions/github-script@v6
+      with:
+        script: |
+          const { data: issues } = await github.issues.listForRepo({
+            owner: context.repo.owner,
+            repo: context.repo.repo,
+            state: 'open',
+            labels: 'bug',
+          });
+          const existingIssue = issues.find(issue => issue.title.includes('Workshop ID not found in one or more collections'));
+          if (existingIssue) {
+            return { existingIssueNumber: existingIssue.number };
+          } else {
+            return { existingIssueNumber: null };
+          }
+
+    - name: Create or update issue
+      if: steps.check_workshop.outputs.result == 'failure'
+      uses: actions/github-script@v6
+      with:
+        script: |
+          const existingIssueNumber = ${{ steps.issue_check.outputs.existingIssueNumber }};
+          const body = `One or more workshop IDs from the file cs2/counterstrikesharp/configs/plugins/MapChooser/maps.txt were not found in the specified collection: 3113843317. Please check and update the collection.`;
+          if (existingIssueNumber) {
+            await github.issues.createComment({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              issue_number: existingIssueNumber,
+              body: body,
+            });
+          } else {
+            await github.issues.create({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              title: 'Workshop ID not found in one or more collections',
+              body: body,
+              labels: ['bug'],
+            });
+          }
+        github-token: ${{ secrets.GITHUB_TOKEN }}
