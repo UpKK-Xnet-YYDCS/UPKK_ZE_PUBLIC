@@ -27,7 +27,7 @@ jobs:
         file_path='cs2/counterstrikesharp/configs/plugins/MapChooser/maps.txt'
         collection_ids='3113843317'
         echo "Checking workshop IDs in collection $collection_ids using file $file_path"
-        python check_workshop_in_collection.py $file_path $collection_ids
+        python scripts/check_workshop_in_collection.py $file_path $collection_ids
 
     - name: Check for existing issue
       id: issue_check
