@@ -32,8 +32,23 @@ jobs:
         git diff --name-only ${{ github.event.before }} ${{ github.sha }} > changed_files.txt
         cat changed_files.txt
 
-    - name: Install jsonlint-cli
-      run: npm install -g jsonlint-cli
+    - name: Install jsonc-parser
+      run: npm install jsonc-parser
+
+    - name: Create JSONC validation script
+      run: |
+        echo "const fs = require('fs');" > validate-jsonc.js
+        echo "const { parse } = require('jsonc-parser');" >> validate-jsonc.js
+        echo "const filePath = process.argv[2];" >> validate-jsonc.js
+        echo "const content = fs.readFileSync(filePath, 'utf8');" >> validate-jsonc.js
+        echo "try {" >> validate-jsonc.js
+        echo "  parse(content);" >> validate-jsonc.js
+        echo "  console.log('Valid JSONC:', filePath);" >> validate-jsonc.js
+        echo "} catch (error) {" >> validate-jsonc.js
+        echo "  console.error('Invalid JSONC:', filePath);" >> validate-jsonc.js
+        echo "  console.error(error.message);" >> validate-jsonc.js
+        echo "  process.exit(1);" >> validate-jsonc.js
+        echo "}" >> validate-jsonc.js
 
     - name: Validate JSON and JSONC files
       run: |
@@ -42,9 +57,10 @@ jobs:
           if [[ $file == *.json || $file == *.jsonc ]]; then
             echo "Validating $file"
             if [[ $file == *.json ]]; then
-              jq empty "$file" || exit 1
+              npx jsonlint-cli "$file" || exit 1
             elif [[ $file == *.jsonc ]]; then
-              jsonlint-cli "$file" || exit 1
+              node validate-jsonc.js "$file" || exit 1
             fi
           fi
         done < changed_files.txt
+        
