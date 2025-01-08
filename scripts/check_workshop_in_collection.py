@@ -90,6 +90,11 @@ def main():
     print(f"Workshop IDs in the collections: {', '.join(results_in)}")
     print(f"Workshop IDs NOT in the collections: {', '.join(results_not_in)}")
 
+    # 将未找到的 workshop_id 写入文件
+    with open("not_in_collections.txt", "w", encoding="utf-8") as file:
+        for workshop_id in results_not_in:
+            file.write(f"{workshop_id}\n")
+
     if results_not_in:
         print('::set-output name=result::failure')
     else:
@@ -97,4 +102,3 @@ def main():
 
 if __name__ == "__main__":
     main()
-    

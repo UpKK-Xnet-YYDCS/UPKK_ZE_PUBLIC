@@ -29,18 +29,26 @@ jobs:
         echo "Checking workshop IDs in collection $collection_ids using file $file_path"
         python scripts/check_workshop_in_collection.py $file_path $collection_ids
 
+    - name: Read not found workshop IDs
+      if: steps.check_workshop.outputs.result == 'failure'
+      id: read_not_found
+      run: |
+        cat not_in_collections.txt
+      continue-on-error: true
+
     - name: Check for existing issue
       id: issue_check
       uses: actions/github-script@v6
       with:
+        github-token: ${{ secrets.GITHUB_TOKEN }}
         script: |
-          const { data: issues } = await github.issues.listForRepo({
+          const { data: issues } = await github.rest.issues.listForRepo({
             owner: context.repo.owner,
             repo: context.repo.repo,
             state: 'open',
             labels: 'bug',
           });
-          const existingIssue = issues.find(issue => issue.title.includes('Workshop ID not found in one or more collections'));
+          const existingIssue = issues.find(issue => issue.title.includes('某些合集中未找到 Workshop ID'));
           if (existingIssue) {
             return { existingIssueNumber: existingIssue.number };
           } else {
@@ -51,23 +59,24 @@ jobs:
       if: steps.check_workshop.outputs.result == 'failure'
       uses: actions/github-script@v6
       with:
+        github-token: ${{ secrets.GITHUB_TOKEN }}
         script: |
           const existingIssueNumber = ${{ steps.issue_check.outputs.existingIssueNumber }};
-          const body = `One or more workshop IDs from the file cs2/counterstrikesharp/configs/plugins/MapChooser/maps.txt were not found in the specified collection: 3113843317. Please check and update the collection.`;
+          const notFoundIds = await fs.promises.readFile('not_in_collections.txt', 'utf-8');
+          const body = `在文件 cs2/counterstrikesharp/configs/plugins/MapChooser/maps.txt 中的某些 Workshop ID 未在指定的合集 3113843317 中找到。请检查并更新这些合集。\n\n未找到的 Workshop IDs:\n${notFoundIds}`;
           if (existingIssueNumber) {
-            await github.issues.createComment({
+            await github.rest.issues.createComment({
               owner: context.repo.owner,
               repo: context.repo.repo,
               issue_number: existingIssueNumber,
               body: body,
             });
           } else {
-            await github.issues.create({
+            await github.rest.issues.create({
               owner: context.repo.owner,
               repo: context.repo.repo,
-              title: 'Workshop ID not found in one or more collections',
+              title: '某些合集中未找到 Workshop ID',
               body: body,
               labels: ['bug'],
             });
           }
-        github-token: ${{ secrets.GITHUB_TOKEN }}
