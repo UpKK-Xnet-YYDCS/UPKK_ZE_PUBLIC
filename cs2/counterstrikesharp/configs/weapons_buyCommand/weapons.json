@@ -21,7 +21,7 @@
         "DefIndex": 10,
         "Name": "Famas",
         "WeaponName": "weapon_famas",
-        "Price": 2050,
+        "Price": 2700,
         "Command": "Famas",
         "Slot": "0",
         "Enable":true
@@ -39,7 +39,7 @@
         "DefIndex": 7,
         "Name": "AK-47",
         "WeaponName": "weapon_ak47",
-        "Price": 2700,
+        "Price": 3500,
         "Command": "AK47",
         "Slot": "0",
         "Enable":true
@@ -48,7 +48,7 @@
         "DefIndex": 13,
         "Name": "Galil",
         "WeaponName": "weapon_galilar",
-        "Price": 1800,
+        "Price": 2700,
         "Command": "Galil",
         "Slot": "0",
         "Enable":true
@@ -57,7 +57,7 @@
         "DefIndex": 11,
         "Name": "Sg553",
         "WeaponName": "weapon_sg556",
-        "Price": 3000,
+        "Price": 3300,
         "Command": "Sg553",
         "Slot": "0",
         "Enable":true
@@ -75,7 +75,7 @@
         "DefIndex": 9,
         "Name": "AWP",
         "WeaponName": "weapon_awp",
-        "Price": 4750,
+        "Price": 8000,
         "Command": "AWP",
         "Slot": "0",
         "Enable":true
@@ -84,7 +84,7 @@
         "DefIndex": 40,
         "Name": "SSG08",
         "WeaponName": "weapon_ssg08",
-        "Price": 1700,
+        "Price": 6000,
         "Command": "SSG08;scout",
         "Slot": "0",
         "Enable":true
@@ -102,7 +102,7 @@
         "DefIndex": 34,
         "Name": "MP9",
         "WeaponName": "weapon_mp9",
-        "Price": 1250,
+        "Price": 1500,
         "Command": "MP9",
         "Slot": "0",
         "Enable":true
@@ -111,7 +111,7 @@
         "DefIndex": 33,
         "Name": "MP7",
         "WeaponName": "weapon_mp7",
-        "Price": 1500,
+        "Price": 1700,
         "Command": "MP7",
         "Slot": "0",
         "Enable":true
@@ -120,7 +120,7 @@
         "DefIndex": 23,
         "Name": "MP5-SD",
         "WeaponName": "weapon_mp5sd",
-        "Price": 1500,
+        "Price": 1600,
         "Command": "MP5",
         "Slot": "0",
         "Enable":true
@@ -129,7 +129,7 @@
         "DefIndex": 24,
         "Name": "UMP-45",
         "WeaponName": "weapon_ump45",
-        "Price": 1200,
+        "Price": 1400,
         "Command": "UMP45",
         "Slot": "0",
         "Enable":true
@@ -138,7 +138,7 @@
         "DefIndex": 19,
         "Name": "P90",
         "WeaponName": "weapon_p90",
-        "Price": 2350,
+        "Price": 1700,
         "Command": "P90",
         "Slot": "0",
         "Enable":true
@@ -156,7 +156,7 @@
         "DefIndex": 17,
         "Name": "MAC-10",
         "WeaponName": "weapon_mac10",
-        "Price": 1050,
+        "Price": 1500,
         "Command": "MAC10",
         "Slot": "0",
         "Enable":true
@@ -165,7 +165,7 @@
         "DefIndex": 61,
         "Name": "USP-S",
         "WeaponName": "weapon_usp_silencer",
-        "Price": 200,
+        "Price": 500,
         "Command": "USP",
         "Slot": "1",
         "Enable":true
@@ -174,7 +174,7 @@
         "DefIndex": 32,
         "Name": "P2000",
         "WeaponName": "weapon_hkp2000",
-        "Price": 200,
+        "Price": 500,
         "Command": "P2000",
         "Slot": "1",
         "Enable":true
@@ -183,7 +183,7 @@
         "DefIndex": 4,
         "Name": "Glock-18",
         "WeaponName": "weapon_glock",
-        "Price": 200,
+        "Price": 500,
         "Command": "Glock",
         "Slot": "1",
         "Enable":true
@@ -192,7 +192,7 @@
         "DefIndex": 2,
         "Name": "Dual Berettas",
         "WeaponName": "weapon_elite",
-        "Price": 300,
+        "Price": 800,
         "Command": "Dualb;elite",
         "Slot": "1",
         "Enable":true
@@ -201,7 +201,7 @@
         "DefIndex": 36,
         "Name": "P250",
         "WeaponName": "weapon_p250",
-        "Price": 300,
+        "Price": 800,
         "Command": "P250",
         "Slot": "1",
         "Enable":true
@@ -210,7 +210,7 @@
         "DefIndex": 3,
         "Name": "Five-SeveN",
         "WeaponName": "weapon_fiveseven",
-        "Price": 500,
+        "Price": 800,
         "Command": "Fives;57",
         "Slot": "1",
         "Enable":true
@@ -219,7 +219,7 @@
         "DefIndex": 30,
         "Name": "Tec-9",
         "WeaponName": "weapon_tec9",
-        "Price": 500,
+        "Price": 800,
         "Command": "Tec9",
         "Slot": "1",
         "Enable":true
@@ -228,7 +228,7 @@
         "DefIndex": 63,
         "Name": "CZ75",
         "WeaponName": "weapon_cz75a",
-        "Price": 500,
+        "Price": 800,
         "Command": "cz75;cz75a",
         "Slot": "1",
         "Enable":true
@@ -237,7 +237,7 @@
         "DefIndex": 64,
         "Name": "R8 Revolver",
         "WeaponName": "weapon_revolver",
-        "Price": 600,
+        "Price": 1000,
         "Command": "r8",
         "Slot": "1",
         "Enable":true
@@ -246,7 +246,7 @@
         "DefIndex": 1,
         "Name": "Desert Eagle",
         "WeaponName": "weapon_deagle",
-        "Price": 700,
+        "Price": 1200,
         "Command": "DesertEagle",
         "Slot": "1",
         "Enable":true
@@ -255,7 +255,7 @@
         "DefIndex": 35,
         "Name": "Nova",
         "WeaponName": "weapon_nova",
-        "Price": 1050,
+        "Price": 1800,
         "Command": "Nova",
         "Slot": "0",
         "Enable":false
@@ -273,7 +273,7 @@
         "DefIndex": 29,
         "Name": "MAG-7",
         "WeaponName": "weapon_mag7",
-        "Price": 1300,
+        "Price": 2000,
         "Command": "MAG-7",
         "Slot": "0",
         "Enable":false
@@ -282,7 +282,7 @@
         "DefIndex": 25,
         "Name": "Sawed-Off",
         "WeaponName": "weapon_sawedoff",
-        "Price": 1100,
+        "Price": 2000,
         "Command": "Sawed-Off",
         "Slot": "0",
         "Enable":false
@@ -291,7 +291,7 @@
         "DefIndex": 14,
         "Name": "M249",
         "WeaponName": "weapon_m249",
-        "Price": 5200,
+        "Price": 5500,
         "Slot": "0",
         "Command": "M249",
         "Enable":true
@@ -300,7 +300,7 @@
         "DefIndex": 28,
         "Name": "Negev",
         "WeaponName": "weapon_negev",
-        "Price": 1700,
+        "Price": 6500,
         "Command": "Negev",
         "Slot": "0",
         "Enable":true
