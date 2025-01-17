@@ -1,6 +1,6 @@
 [
   {
-    "Name": "Item 1",
+    "Name": "114514",
     "ShortName": "114514",
     "Color": "{default}",
     "HammerID": 46711,
@@ -17,7 +17,7 @@
         "Name": "114514",
         "ButtonID": 46712,
         "ButtonClass": "func_button",
-        "Filter": "",
+        "Filter": "gu_user:1",
         "Chat_Uses": true,
         "Mode": 2,
         "MaxUses": 0,
@@ -26,7 +26,7 @@
     ]
   },
   {
-    "Name": "Item 2",
+    "Name": "5211314",
     "ShortName": "5211314",
     "Color": "{default}",
     "HammerID": 46701,
@@ -43,7 +43,7 @@
         "Name": "5211314",
         "ButtonID": 46703,
         "ButtonClass": "func_button",
-        "Filter": "",
+        "Filter": "gun_user:1",
         "Chat_Uses": true,
         "Mode": 2,
         "MaxUses": 0,
