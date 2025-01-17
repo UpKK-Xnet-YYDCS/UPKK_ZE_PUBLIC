@@ -1,7 +1,7 @@
 [
   {
-    "Name": "deaglesword",
-    "ShortName": "deaglesword",
+    "Name": "钻石剑",
+    "ShortName": "钻石剑",
     "Color": "{default}",
     "HammerID": "612",
     "GlowColor": [0,255,0,1],
@@ -14,20 +14,20 @@
     "UsePriority": true,
     "AbilityList": [
       {
-        "Name": "weapon_deagle",
-        "ButtonID": 0,
-        "ButtonClass": "",
-        "Filter": "",
+        "Name": "sword_context",
+        "ButtonID": 568,
+        "ButtonClass": "func_physbox",
+        "Filter": "sword:1",
         "Chat_Uses": true,
-        "Mode": 1,
+        "Mode": 2,
         "MaxUses": 0,
-        "CoolDown": 0
+        "CoolDown": 20
       }
     ]
   },
   {
-    "Name": "deagle",
-    "ShortName": "deagle",
+    "Name": "苦力怕头颅",
+    "ShortName": "苦力怕头颅",
     "Color": "{default}",
     "HammerID": "138",
     "GlowColor": [0,255,0,1],
@@ -40,36 +40,36 @@
     "UsePriority": true,
     "AbilityList": [
       {
-        "Name": "weapon_deagle",
+        "Name": "",
         "ButtonID": 0,
         "ButtonClass": "",
         "Filter": "",
         "Chat_Uses": true,
-        "Mode": 1,
+        "Mode": 0,
         "MaxUses": 0,
         "CoolDown": 0
       }
     ]
   },
   {
-    "Name": "deagle2",
-    "ShortName": "deagle2",
+    "Name": "弓",
+    "ShortName": "弓",
     "Color": "{default}",
     "HammerID": "139",
     "GlowColor": [0,255,0,1],
     "BlockPickup": false,
     "AllowTransfer": true,
     "ForceDrop": true,
-    "Chat": true,
+    "Chat": false,
     "Hud": true,
     "TriggerID": 0,
     "UsePriority": true,
     "AbilityList": [
       {
-        "Name": "weapon_deagle",
-        "ButtonID": 0,
-        "ButtonClass": "",
-        "Filter": "",
+        "Name": "bow01",
+        "ButtonID": 148,
+        "ButtonClass": "func_physbox",
+        "Filter": "bow:1",
         "Chat_Uses": true,
         "Mode": 1,
         "MaxUses": 0,
@@ -78,8 +78,8 @@
     ]
   },
   {
-    "Name": "pumpkindeag",
-    "ShortName": "pumpkindeag",
+    "Name": "南瓜头",
+    "ShortName": "南瓜头",
     "Color": "{default}",
     "HammerID": "316",
     "GlowColor": [0,255,0,1],
@@ -92,20 +92,20 @@
     "UsePriority": true,
     "AbilityList": [
       {
-        "Name": "weapon_deagle",
+        "Name": "",
         "ButtonID": 0,
         "ButtonClass": "",
         "Filter": "",
         "Chat_Uses": true,
-        "Mode": 1,
+        "Mode": 0,
         "MaxUses": 0,
         "CoolDown": 0
       }
     ]
   },
   {
-    "Name": "deagle5",
-    "ShortName": "deagle5",
+    "Name": "Troll Face",
+    "ShortName": "Troll Face",
     "Color": "{default}",
     "HammerID": "382",
     "GlowColor": [0,255,0,1],
@@ -118,12 +118,12 @@
     "UsePriority": true,
     "AbilityList": [
       {
-        "Name": "weapon_deagle",
+        "Name": "",
         "ButtonID": 0,
         "ButtonClass": "",
         "Filter": "",
         "Chat_Uses": true,
-        "Mode": 1,
+        "Mode": 0,
         "MaxUses": 0,
         "CoolDown": 0
       }
