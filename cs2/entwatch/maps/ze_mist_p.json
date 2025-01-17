@@ -1,7 +1,7 @@
 [
   {
-    "Name": "item_frost_weapon",
-    "ShortName": "item_frost_weapon",
+    "Name": "冰霜新星",
+    "ShortName": "冰霜新星",
     "Color": "{default}",
     "HammerID": "1037",
     "GlowColor": [0,255,0,1],
@@ -14,20 +14,20 @@
     "UsePriority": true,
     "AbilityList": [
       {
-        "Name": "weapon_elite",
-        "ButtonID": 0,
-        "ButtonClass": "",
-        "Filter": "",
+        "Name": "item_frost_button",
+        "ButtonID": 1038,
+        "ButtonClass": "func_button",
+        "Filter": "item_frost:1",
         "Chat_Uses": true,
-        "Mode": 1,
+        "Mode": 2,
         "MaxUses": 0,
-        "CoolDown": 0
+        "CoolDown": 10
       }
     ]
   },
   {
-    "Name": "item_flame_weapon",
-    "ShortName": "item_flame_weapon",
+    "Name": "腐蚀火焰",
+    "ShortName": "腐蚀火焰",
     "Color": "{default}",
     "HammerID": "1044",
     "GlowColor": [0,255,0,1],
@@ -40,20 +40,20 @@
     "UsePriority": true,
     "AbilityList": [
       {
-        "Name": "weapon_elite",
-        "ButtonID": 0,
-        "ButtonClass": "",
-        "Filter": "",
+        "Name": "item_flame_button",
+        "ButtonID": 1045,
+        "ButtonClass": "func_button",
+        "Filter": "item_flame:1",
         "Chat_Uses": true,
-        "Mode": 1,
+        "Mode": 2,
         "MaxUses": 0,
-        "CoolDown": 0
+        "CoolDown": 10
       }
     ]
   },
   {
-    "Name": "item_force_weapon",
-    "ShortName": "item_force_weapon",
+    "Name": "心灵爆发",
+    "ShortName": "心灵爆发",
     "Color": "{default}",
     "HammerID": "1051",
     "GlowColor": [0,255,0,1],
@@ -66,37 +66,37 @@
     "UsePriority": true,
     "AbilityList": [
       {
-        "Name": "weapon_elite",
-        "ButtonID": 0,
-        "ButtonClass": "",
-        "Filter": "",
+        "Name": "item_force_button",
+        "ButtonID": 1052,
+        "ButtonClass": "func_button",
+        "Filter": "item_force:1",
         "Chat_Uses": true,
-        "Mode": 1,
+        "Mode": 2,
         "MaxUses": 0,
-        "CoolDown": 0
+        "CoolDown": 10
       }
     ]
   },
   {
-    "Name": "item_toxic_weapon",
-    "ShortName": "item_toxic_weapon",
+    "Name": "毒性烟雾",
+    "ShortName": "毒性烟雾",
     "Color": "{default}",
     "HammerID": "1079",
     "GlowColor": [0,255,0,1],
     "BlockPickup": false,
     "AllowTransfer": true,
     "ForceDrop": true,
-    "Chat": true,
+    "Chat": false,
     "Hud": true,
     "TriggerID": 0,
     "UsePriority": true,
     "AbilityList": [
       {
-        "Name": "weapon_elite",
-        "ButtonID": 0,
-        "ButtonClass": "",
-        "Filter": "",
-        "Chat_Uses": true,
+        "Name": "item_toxic_button",
+        "ButtonID": 1081,
+        "ButtonClass": "func_button",
+        "Filter": "item_toxic:1",
+        "Chat_Uses": false,
         "Mode": 1,
         "MaxUses": 0,
         "CoolDown": 0
@@ -104,8 +104,8 @@
     ]
   },
   {
-    "Name": "item_electro_weapon",
-    "ShortName": "item_electro_weapon",
+    "Name": "静电力场",
+    "ShortName": "静电力场",
     "Color": "{default}",
     "HammerID": "1065",
     "GlowColor": [0,255,0,1],
@@ -118,20 +118,20 @@
     "UsePriority": true,
     "AbilityList": [
       {
-        "Name": "weapon_elite",
-        "ButtonID": 0,
-        "ButtonClass": "",
-        "Filter": "",
+        "Name": "item_electro_button",
+        "ButtonID": 1063,
+        "ButtonClass": "func_button",
+        "Filter": "item_electro:1",
         "Chat_Uses": true,
-        "Mode": 1,
+        "Mode": 2,
         "MaxUses": 0,
-        "CoolDown": 0
+        "CoolDown": 10
       }
     ]
   },
   {
-    "Name": "item_heal_weapon",
-    "ShortName": "item_heal_weapon",
+    "Name": "净化光环",
+    "ShortName": "净化光环",
     "Color": "{default}",
     "HammerID": "1072",
     "GlowColor": [0,255,0,1],
@@ -144,14 +144,14 @@
     "UsePriority": true,
     "AbilityList": [
       {
-        "Name": "weapon_elite",
-        "ButtonID": 0,
-        "ButtonClass": "",
-        "Filter": "",
+        "Name": "item_heal_button",
+        "ButtonID": 1073,
+        "ButtonClass": "func_button",
+        "Filter": "item_heal:1",
         "Chat_Uses": true,
-        "Mode": 1,
+        "Mode": 2,
         "MaxUses": 0,
-        "CoolDown": 0
+        "CoolDown": 60
       }
     ]
   }
