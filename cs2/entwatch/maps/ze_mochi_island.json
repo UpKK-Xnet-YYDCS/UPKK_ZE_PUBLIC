@@ -1,7 +1,7 @@
 [
   {
-    "Name": "item_YEAH",
-    "ShortName": "item_YEAH",
+    "Name": "YEAH",
+    "ShortName": "YEAH",
     "Color": "{default}",
     "HammerID": "1373",
     "GlowColor": [0,255,0,1],
@@ -14,20 +14,20 @@
     "UsePriority": true,
     "AbilityList": [
       {
-        "Name": "weapon_elite",
-        "ButtonID": 0,
-        "ButtonClass": "",
-        "Filter": "",
+        "Name": "item_YEAH_bt",
+        "ButtonID": 1371,
+        "ButtonClass": "func_button",
+        "Filter": "item_YEAH_user",
         "Chat_Uses": true,
-        "Mode": 1,
+        "Mode": 2,
         "MaxUses": 0,
-        "CoolDown": 0
+        "CoolDown": 80
       }
     ]
   },
   {
-    "Name": "item_hp",
-    "ShortName": "item_hp",
+    "Name": "奶",
+    "ShortName": "奶",
     "Color": "{default}",
     "HammerID": "1551",
     "GlowColor": [0,255,0,1],
@@ -40,20 +40,20 @@
     "UsePriority": true,
     "AbilityList": [
       {
-        "Name": "weapon_elite",
-        "ButtonID": 0,
-        "ButtonClass": "",
-        "Filter": "",
+        "Name": "item_hp_bt",
+        "ButtonID": 1549,
+        "ButtonClass": "func_button",
+        "Filter": "item_hp_user",
         "Chat_Uses": true,
-        "Mode": 1,
+        "Mode": 2,
         "MaxUses": 0,
-        "CoolDown": 0
+        "CoolDown": 120
       }
     ]
   },
   {
-    "Name": "item_sword",
-    "ShortName": "item_sword",
+    "Name": "剑",
+    "ShortName": "剑",
     "Color": "{default}",
     "HammerID": "1566",
     "GlowColor": [0,255,0,1],
@@ -66,20 +66,20 @@
     "UsePriority": true,
     "AbilityList": [
       {
-        "Name": "weapon_elite",
-        "ButtonID": 0,
-        "ButtonClass": "",
-        "Filter": "",
+        "Name": "item_sword_bt",
+        "ButtonID": 1567,
+        "ButtonClass": "func_button",
+        "Filter": "item_sword_user",
         "Chat_Uses": true,
-        "Mode": 1,
+        "Mode": 2,
         "MaxUses": 0,
-        "CoolDown": 0
+        "CoolDown": 20
       }
     ]
   },
   {
-    "Name": "item_Push",
-    "ShortName": "item_Push",
+    "Name": "推力",
+    "ShortName": "推力",
     "Color": "{default}",
     "HammerID": "427",
     "GlowColor": [0,255,0,1],
@@ -92,46 +92,46 @@
     "UsePriority": true,
     "AbilityList": [
       {
-        "Name": "weapon_elite",
-        "ButtonID": 0,
-        "ButtonClass": "",
-        "Filter": "",
+        "Name": "item_Push_bt",
+        "ButtonID": 424,
+        "ButtonClass": "func_button",
+        "Filter": "item_Push_user",
         "Chat_Uses": true,
-        "Mode": 1,
-        "MaxUses": 0,
+        "Mode": 3,
+        "MaxUses": 1,
         "CoolDown": 0
       }
     ]
   },
   {
-    "Name": "car_knife",
-    "ShortName": "car_knife",
+    "Name": "ZM 车",
+    "ShortName": "ZM 车",
     "Color": "{default}",
     "HammerID": "159",
     "GlowColor": [0,255,0,1],
     "BlockPickup": false,
-    "AllowTransfer": true,
-    "ForceDrop": true,
+    "AllowTransfer": false,
+    "ForceDrop": false,
     "Chat": true,
     "Hud": true,
-    "TriggerID": 0,
+    "TriggerID": 161,
     "UsePriority": true,
     "AbilityList": [
       {
-        "Name": "weapon_knife",
+        "Name": "",
         "ButtonID": 0,
         "ButtonClass": "",
         "Filter": "",
         "Chat_Uses": true,
-        "Mode": 1,
+        "Mode": 0,
         "MaxUses": 0,
         "CoolDown": 0
       }
     ]
   },
   {
-    "Name": "item_food2",
-    "ShortName": "item_food2",
+    "Name": "食物2",
+    "ShortName": "食物2",
     "Color": "{default}",
     "HammerID": "1319",
     "GlowColor": [0,255,0,1],
@@ -144,20 +144,20 @@
     "UsePriority": true,
     "AbilityList": [
       {
-        "Name": "weapon_elite",
+        "Name": "",
         "ButtonID": 0,
         "ButtonClass": "",
         "Filter": "",
         "Chat_Uses": true,
-        "Mode": 1,
+        "Mode": 0,
         "MaxUses": 0,
         "CoolDown": 0
       }
     ]
   },
   {
-    "Name": "item_food1",
-    "ShortName": "item_food1",
+    "Name": "食物",
+    "ShortName": "食物",
     "Color": "{default}",
     "HammerID": "1322",
     "GlowColor": [0,255,0,1],
@@ -170,20 +170,20 @@
     "UsePriority": true,
     "AbilityList": [
       {
-        "Name": "weapon_elite",
+        "Name": "",
         "ButtonID": 0,
         "ButtonClass": "",
         "Filter": "",
         "Chat_Uses": true,
-        "Mode": 1,
+        "Mode": 0,
         "MaxUses": 0,
         "CoolDown": 0
       }
     ]
   },
   {
-    "Name": "item_food4",
-    "ShortName": "item_food4",
+    "Name": "食物4",
+    "ShortName": "食物4",
     "Color": "{default}",
     "HammerID": "1326",
     "GlowColor": [0,255,0,1],
@@ -196,20 +196,20 @@
     "UsePriority": true,
     "AbilityList": [
       {
-        "Name": "weapon_elite",
+        "Name": "",
         "ButtonID": 0,
         "ButtonClass": "",
         "Filter": "",
         "Chat_Uses": true,
-        "Mode": 1,
+        "Mode": 0,
         "MaxUses": 0,
         "CoolDown": 0
       }
     ]
   },
   {
-    "Name": "item_food3",
-    "ShortName": "item_food3",
+    "Name": "食物3",
+    "ShortName": "食物3",
     "Color": "{default}",
     "HammerID": "1329",
     "GlowColor": [0,255,0,1],
@@ -222,12 +222,12 @@
     "UsePriority": true,
     "AbilityList": [
       {
-        "Name": "weapon_elite",
+        "Name": "",
         "ButtonID": 0,
         "ButtonClass": "",
         "Filter": "",
         "Chat_Uses": true,
-        "Mode": 1,
+        "Mode": 0,
         "MaxUses": 0,
         "CoolDown": 0
       }
