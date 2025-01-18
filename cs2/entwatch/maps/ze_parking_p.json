@@ -1,0 +1,190 @@
+[
+  {
+    "Name": "喷火器",
+    "ShortName": "喷火器",
+    "Color": "{default}",
+    "HammerID": "11976",
+    "GlowColor": [0,255,0,1],
+    "BlockPickup": false,
+    "AllowTransfer": true,
+    "ForceDrop": true,
+    "Chat": true,
+    "Hud": true,
+    "TriggerID": 0,
+    "UsePriority": true,
+    "AbilityList": [
+      {
+        "Name": "flame_bouton",
+        "ButtonID": 11977,
+        "ButtonClass": "func_button",
+        "Filter": "flamethrower:1",
+        "Chat_Uses": true,
+        "Mode": 2,
+        "MaxUses": 0,
+        "CoolDown": 45
+      }
+    ]
+  },
+  {
+    "Name": "加特林",
+    "ShortName": "加特林",
+    "Color": "{default}",
+    "HammerID": "12013",
+    "GlowColor": [0,255,0,1],
+    "BlockPickup": false,
+    "AllowTransfer": true,
+    "ForceDrop": true,
+    "Chat": false,
+    "Hud": true,
+    "TriggerID": 0,
+    "UsePriority": true,
+    "AbilityList": [
+      {
+        "Name": "minigun_button",
+        "ButtonID": 12011,
+        "ButtonClass": "func_button",
+        "Filter": "minigun:1",
+        "Chat_Uses": false,
+        "Mode": 6,
+        "MaxUses": 0,
+        "CoolDown": 0,
+        "Ignore": false,
+        "LockItem": false,
+        "MathID": 12017,
+        "MathNameFix": false,
+        "MathFindSpawned": false,
+        "MathDontShowMax": false
+      }
+    ]
+  },
+  {
+    "Name": "榴弹炮",
+    "ShortName": "榴弹炮",
+    "Color": "{default}",
+    "HammerID": "11992",
+    "GlowColor": [0,255,0,1],
+    "BlockPickup": false,
+    "AllowTransfer": true,
+    "ForceDrop": true,
+    "Chat": false,
+    "Hud": true,
+    "TriggerID": 0,
+    "UsePriority": true,
+    "AbilityList": [
+      {
+        "Name": "lance_grenade_button",
+        "ButtonID": 11989,
+        "ButtonClass": "func_button",
+        "Filter": "gl:1",
+        "Chat_Uses": false,
+        "Mode": 2,
+        "MaxUses": 0,
+        "CoolDown": 5
+      }
+    ]
+  },
+  {
+    "Name": "地雷",
+    "ShortName": "地雷",
+    "Color": "{default}",
+    "HammerID": "12046",
+    "GlowColor": [0,255,0,1],
+    "BlockPickup": false,
+    "AllowTransfer": true,
+    "ForceDrop": true,
+    "Chat": true,
+    "Hud": true,
+    "TriggerID": 0,
+    "UsePriority": true,
+    "AbilityList": [
+      {
+        "Name": "proxi_mine_button_1",
+        "ButtonID": 12041,
+        "ButtonClass": "func_button",
+        "Filter": "mine:1",
+        "Chat_Uses": true,
+        "Mode": 4,
+        "MaxUses": 15,
+        "CoolDown": 15
+      }
+    ]
+  },
+  {
+    "Name": "电击枪",
+    "ShortName": "电击枪",
+    "Color": "{default}",
+    "HammerID": "1449",
+    "GlowColor": [0,255,0,1],
+    "BlockPickup": false,
+    "AllowTransfer": true,
+    "ForceDrop": true,
+    "Chat": false,
+    "Hud": true,
+    "TriggerID": 0,
+    "UsePriority": true,
+    "AbilityList": [
+      {
+        "Name": "electro_bouton",
+        "ButtonID": 1450,
+        "ButtonClass": "func_button",
+        "Filter": "electro:1",
+        "Chat_Uses": false,
+        "Mode": 4,
+        "MaxUses": 1,
+        "CoolDown": 10
+      }
+    ]
+  },
+  {
+    "Name": "弹药",
+    "ShortName": "弹药",
+    "Color": "{default}",
+    "HammerID": "1468",
+    "GlowColor": [0,255,0,1],
+    "BlockPickup": false,
+    "AllowTransfer": true,
+    "ForceDrop": true,
+    "Chat": false,
+    "Hud": true,
+    "TriggerID": 0,
+    "UsePriority": true,
+    "AbilityList": [
+      {
+        "Name": "bullet_bouton",
+        "ButtonID": 1471,
+        "ButtonClass": "func_button",
+        "Filter": "ammo:1",
+        "Chat_Uses": false,
+        "Mode": 4,
+        "MaxUses": 1,
+        "CoolDown": 20
+      }
+    ]
+  },
+  {
+    "Name": "无人机",
+    "ShortName": "无人机",
+    "Color": "{default}",
+    "HammerID": "1488",
+    "GlowColor": [0,255,0,1],
+    "BlockPickup": false,
+    "AllowTransfer": true,
+    "ForceDrop": true,
+    "Chat": false,
+    "Hud": true,
+    "TriggerID": 0,
+    "UsePriority": true,
+    "AbilityList": [
+      {
+        "Name": "drone_bouton",
+        "ButtonID": 1489,
+        "ButtonClass": "func_button",
+        "Filter": "drone:1",
+        "Chat_Uses": false,
+        "Mode": 4,
+        "MaxUses": 1,
+        "CoolDown": 30
+      }
+    ]
+  }
+]
