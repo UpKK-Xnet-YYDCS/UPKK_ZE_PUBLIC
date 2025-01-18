@@ -2303,13 +2303,6 @@
 		"updatedname"		"ze_Obf_NPST_v2"
 		"RestrictedTimes"	"00:00-12:00;23:00-23:59"
 	}
-	"ze_parking_cs2"
-	{
-		"workshop_id"		"3349087452"
-		"enabled"		"1"
-		"filename"		"ze_parking_cs2"
-		"updatedname"		"ze_parking_cs2"
-	}
 	"ze_light_911"
 	{
 		"workshop_id"		"3349284078"
@@ -2996,5 +2989,19 @@
 		"filename"		"ze_biohazard2_sewer_004"
 		"updatedname"		"ze_biohazard2_sewer_004"
 		"search"		"生化危机2;下水道"
+	}
+	"ze_paradise_t"
+	{
+		"workshop_id"		"3404515839"
+		"enabled"		"1"
+		"filename"		"ze_paradise_t"
+		"updatedname"		"ze_paradise_t"
+	}
+	"ze_parking_p"
+	{
+		"workshop_id"		"3405314470"
+		"enabled"		"1"
+		"filename"		"ze_parking_p"
+		"updatedname"		"ze_parking_p"
 	}
 }
