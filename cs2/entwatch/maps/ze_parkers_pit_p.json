@@ -1,7 +1,7 @@
 [
   {
-    "Name": "rffg1",
-    "ShortName": "rffg1",
+    "Name": "弹药",
+    "ShortName": "弹药",
     "Color": "{default}",
     "HammerID": "1190",
     "GlowColor": [0,255,0,1],
@@ -14,37 +14,37 @@
     "UsePriority": true,
     "AbilityList": [
       {
-        "Name": "weapon_p250",
-        "ButtonID": 0,
-        "ButtonClass": "",
-        "Filter": "",
+        "Name": "itb21",
+        "ButtonID": 1191,
+        "ButtonClass": "func_physbox",
+        "Filter": "gunzman",
         "Chat_Uses": true,
-        "Mode": 1,
+        "Mode": 2,
         "MaxUses": 0,
-        "CoolDown": 0
+        "CoolDown": 55
       }
     ]
   },
   {
-    "Name": "dg2",
-    "ShortName": "dg2",
+    "Name": "守护者雕像",
+    "ShortName": "守护者雕像",
     "Color": "{default}",
     "HammerID": "1243",
     "GlowColor": [0,255,0,1],
     "BlockPickup": false,
     "AllowTransfer": true,
     "ForceDrop": true,
-    "Chat": true,
+    "Chat": false,
     "Hud": true,
     "TriggerID": 0,
     "UsePriority": true,
     "AbilityList": [
       {
-        "Name": "weapon_p250",
+        "Name": "",
         "ButtonID": 0,
         "ButtonClass": "",
         "Filter": "",
-        "Chat_Uses": true,
+        "Chat_Uses": false,
         "Mode": 1,
         "MaxUses": 0,
         "CoolDown": 0
@@ -52,8 +52,8 @@
     ]
   },
   {
-    "Name": "deagle1",
-    "ShortName": "deagle1",
+    "Name": "火",
+    "ShortName": "火",
     "Color": "{default}",
     "HammerID": "1186",
     "GlowColor": [0,255,0,1],
@@ -66,20 +66,20 @@
     "UsePriority": true,
     "AbilityList": [
       {
-        "Name": "weapon_p250",
-        "ButtonID": 0,
-        "ButtonClass": "",
-        "Filter": "",
+        "Name": "itb1",
+        "ButtonID": 1182,
+        "ButtonClass": "func_physbox",
+        "Filter": "fireman",
         "Chat_Uses": true,
-        "Mode": 1,
+        "Mode": 2,
         "MaxUses": 0,
-        "CoolDown": 0
+        "CoolDown": 42
       }
     ]
   },
   {
-    "Name": "aidg1",
-    "ShortName": "aidg1",
+    "Name": "急救包2",
+    "ShortName": "急救包2",
     "Color": "{default}",
     "HammerID": "1218",
     "GlowColor": [0,255,0,1],
@@ -92,20 +92,20 @@
     "UsePriority": true,
     "AbilityList": [
       {
-        "Name": "weapon_p250",
-        "ButtonID": 0,
-        "ButtonClass": "",
-        "Filter": "",
+        "Name": "aidbt1",
+        "ButtonID": 1219,
+        "ButtonClass": "func_physbox",
+        "Filter": "medic1",
         "Chat_Uses": true,
-        "Mode": 1,
+        "Mode": 2,
         "MaxUses": 0,
-        "CoolDown": 0
+        "CoolDown": 30
       }
     ]
   },
   {
-    "Name": "aidg",
-    "ShortName": "aidg",
+    "Name": "急救包",
+    "ShortName": "急救包",
     "Color": "{default}",
     "HammerID": "1174",
     "GlowColor": [0,255,0,1],
@@ -118,14 +118,14 @@
     "UsePriority": true,
     "AbilityList": [
       {
-        "Name": "weapon_p250",
-        "ButtonID": 0,
-        "ButtonClass": "",
-        "Filter": "",
+        "Name": "aidbt",
+        "ButtonID": 1171,
+        "ButtonClass": "func_physbox",
+        "Filter": "medic",
         "Chat_Uses": true,
-        "Mode": 1,
+        "Mode": 2,
         "MaxUses": 0,
-        "CoolDown": 0
+        "CoolDown": 30
       }
     ]
   }
