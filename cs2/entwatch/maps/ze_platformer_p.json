@@ -1,7 +1,7 @@
 [
   {
-    "Name": "item_pushgun_gun&0000",
-    "ShortName": "item_pushgun_gun&0000",
+    "Name": "推力枪",
+    "ShortName": "推力枪",
     "Color": "{default}",
     "HammerID": "3438",
     "GlowColor": [0,255,0,1],
@@ -14,37 +14,37 @@
     "UsePriority": true,
     "AbilityList": [
       {
-        "Name": "weapon_fiveseven",
-        "ButtonID": 0,
-        "ButtonClass": "",
-        "Filter": "",
+        "Name": "item_pushgun_button",
+        "ButtonID": 3436,
+        "ButtonClass": "func_button",
+        "Filter": "item_pushgun:1",
         "Chat_Uses": true,
-        "Mode": 1,
+        "Mode": 2,
         "MaxUses": 0,
-        "CoolDown": 0
+        "CoolDown": 40
       }
     ]
   },
   {
-    "Name": "item_jetpack_gun&0000",
-    "ShortName": "item_jetpack_gun&0000",
+    "Name": "喷气背包",
+    "ShortName": "喷气背包",
     "Color": "{default}",
     "HammerID": "3453",
     "GlowColor": [0,255,0,1],
     "BlockPickup": false,
     "AllowTransfer": true,
     "ForceDrop": true,
-    "Chat": true,
+    "Chat": false,
     "Hud": true,
     "TriggerID": 0,
     "UsePriority": true,
     "AbilityList": [
       {
-        "Name": "weapon_fiveseven",
-        "ButtonID": 0,
-        "ButtonClass": "",
+        "Name": "item_jetpack_button",
+        "ButtonID": 3456,
+        "ButtonClass": "momentary_rot_button",
         "Filter": "",
-        "Chat_Uses": true,
+        "Chat_Uses": false,
         "Mode": 1,
         "MaxUses": 0,
         "CoolDown": 0
@@ -52,34 +52,40 @@
     ]
   },
   {
-    "Name": "item_builder_gun&0000",
-    "ShortName": "item_builder_gun&0000",
+    "Name": "墙",
+    "ShortName": "墙",
     "Color": "{default}",
     "HammerID": "3490",
     "GlowColor": [0,255,0,1],
     "BlockPickup": false,
     "AllowTransfer": true,
     "ForceDrop": true,
-    "Chat": true,
+    "Chat": false,
     "Hud": true,
     "TriggerID": 0,
     "UsePriority": true,
     "AbilityList": [
       {
-        "Name": "weapon_fiveseven",
-        "ButtonID": 0,
-        "ButtonClass": "",
-        "Filter": "",
-        "Chat_Uses": true,
-        "Mode": 1,
+        "Name": "item_builder_button",
+        "ButtonID": 3504,
+        "ButtonClass": "func_button",
+        "Filter": "item_builder:1",
+        "Chat_Uses": false,
+        "Mode": 7,
         "MaxUses": 0,
-        "CoolDown": 0
+        "CoolDown": 0,
+        "Ignore": false,
+        "LockItem": false,
+        "MathID": 3496,
+        "MathNameFix": true,
+        "MathFindSpawned": false,
+        "MathDontShowMax": true
       }
     ]
   },
   {
-    "Name": "item_firewall_gun&0000",
-    "ShortName": "item_firewall_gun&0000",
+    "Name": "火墙",
+    "ShortName": "火墙",
     "Color": "{default}",
     "HammerID": "3507",
     "GlowColor": [0,255,0,1],
@@ -92,37 +98,37 @@
     "UsePriority": true,
     "AbilityList": [
       {
-        "Name": "weapon_fiveseven",
-        "ButtonID": 0,
-        "ButtonClass": "",
-        "Filter": "",
+        "Name": "item_firewall_button",
+        "ButtonID": 3509,
+        "ButtonClass": "func_button",
+        "Filter": "item_firewall:1",
         "Chat_Uses": true,
-        "Mode": 1,
+        "Mode": 2,
         "MaxUses": 0,
-        "CoolDown": 0
+        "CoolDown": 15
       }
     ]
   },
   {
-    "Name": "item_coingun_gun&0000",
-    "ShortName": "item_coingun_gun&0000",
+    "Name": "硬币枪",
+    "ShortName": "硬币枪",
     "Color": "{default}",
     "HammerID": "3558",
     "GlowColor": [0,255,0,1],
     "BlockPickup": false,
     "AllowTransfer": true,
     "ForceDrop": true,
-    "Chat": true,
+    "Chat": false,
     "Hud": true,
     "TriggerID": 0,
     "UsePriority": true,
     "AbilityList": [
       {
-        "Name": "weapon_deagle",
-        "ButtonID": 0,
-        "ButtonClass": "",
-        "Filter": "",
-        "Chat_Uses": true,
+        "Name": "item_coingun_button",
+        "ButtonID": 3549,
+        "ButtonClass": "func_button",
+        "Filter": "item_coingun:1",
+        "Chat_Uses": false,
         "Mode": 1,
         "MaxUses": 0,
         "CoolDown": 0
@@ -130,8 +136,8 @@
     ]
   },
   {
-    "Name": "item_trampoline_gun&0000",
-    "ShortName": "item_trampoline_gun&0000",
+    "Name": "蹦床",
+    "ShortName": "蹦床",
     "Color": "{default}",
     "HammerID": "3578",
     "GlowColor": [0,255,0,1],
@@ -144,144 +150,162 @@
     "UsePriority": true,
     "AbilityList": [
       {
-        "Name": "weapon_fiveseven",
-        "ButtonID": 0,
-        "ButtonClass": "",
-        "Filter": "",
+        "Name": "item_trampoline_button",
+        "ButtonID": 3580,
+        "ButtonClass": "func_button",
+        "Filter": "item_trampoline:1",
         "Chat_Uses": true,
-        "Mode": 1,
+        "Mode": 2,
         "MaxUses": 0,
-        "CoolDown": 0
+        "CoolDown": 20
       }
     ]
   },
   {
-    "Name": "item_flamethrower_gun&0000",
-    "ShortName": "item_flamethrower_gun&0000",
+    "Name": "喷火器",
+    "ShortName": "喷火器",
     "Color": "{default}",
     "HammerID": "3601",
     "GlowColor": [0,255,0,1],
     "BlockPickup": false,
     "AllowTransfer": true,
     "ForceDrop": true,
-    "Chat": true,
+    "Chat": false,
     "Hud": true,
     "TriggerID": 0,
     "UsePriority": true,
     "AbilityList": [
       {
-        "Name": "weapon_fiveseven",
-        "ButtonID": 0,
-        "ButtonClass": "",
-        "Filter": "",
-        "Chat_Uses": true,
-        "Mode": 1,
+        "Name": "item_flamethrower_button",
+        "ButtonID": 3595,
+        "ButtonClass": "func_button",
+        "Filter": "item_flamethrower:1",
+        "Chat_Uses": false,
+        "Mode": 6,
         "MaxUses": 0,
-        "CoolDown": 0
+        "CoolDown": 0,
+        "Ignore": false,
+        "LockItem": false,
+        "MathID": 3600,
+        "MathNameFix": true,
+        "MathFindSpawned": false,
+        "MathDontShowMax": true
       }
     ]
   },
   {
-    "Name": "item_ladder_knife&0000",
-    "ShortName": "item_ladder_knife&0000",
+    "Name": "ZM 梯子",
+    "ShortName": "ZM 梯子",
     "Color": "{default}",
     "HammerID": "3625",
     "GlowColor": [0,255,0,1],
     "BlockPickup": false,
-    "AllowTransfer": true,
-    "ForceDrop": true,
+    "AllowTransfer": false,
+    "ForceDrop": false,
     "Chat": true,
     "Hud": true,
-    "TriggerID": 0,
+    "TriggerID": 3629,
     "UsePriority": true,
     "AbilityList": [
       {
-        "Name": "weapon_knife",
-        "ButtonID": 0,
-        "ButtonClass": "",
-        "Filter": "",
+        "Name": "item_ladder_button",
+        "ButtonID": 3616,
+        "ButtonClass": "func_button",
+        "Filter": "item_ladder:1",
         "Chat_Uses": true,
-        "Mode": 1,
+        "Mode": 2,
         "MaxUses": 0,
-        "CoolDown": 0
+        "CoolDown": 20
       }
     ]
   },
   {
-    "Name": "item_builder_zm_knife&0000",
-    "ShortName": "item_builder_zm_knife&0000",
+    "Name": "ZM 墙",
+    "ShortName": "ZM 墙",
     "Color": "{default}",
     "HammerID": "3637",
     "GlowColor": [0,255,0,1],
     "BlockPickup": false,
-    "AllowTransfer": true,
-    "ForceDrop": true,
-    "Chat": true,
+    "AllowTransfer": false,
+    "ForceDrop": false,
+    "Chat": false,
     "Hud": true,
-    "TriggerID": 0,
+    "TriggerID": 3652,
     "UsePriority": true,
     "AbilityList": [
       {
-        "Name": "weapon_knife",
-        "ButtonID": 0,
-        "ButtonClass": "",
-        "Filter": "",
-        "Chat_Uses": true,
-        "Mode": 1,
+        "Name": "item_builder_zm_button",
+        "ButtonID": 3639,
+        "ButtonClass": "func_button",
+        "Filter": "item_builder_zm:1",
+        "Chat_Uses": false,
+        "Mode": 7,
         "MaxUses": 0,
-        "CoolDown": 0
+        "CoolDown": 0,
+        "Ignore": false,
+        "LockItem": false,
+        "MathID": 3643,
+        "MathNameFix": true,
+        "MathFindSpawned": false,
+        "MathDontShowMax": true
       }
     ]
   },
   {
-    "Name": "item_mine_knife&0000",
-    "ShortName": "item_mine_knife&0000",
+    "Name": "ZM 地雷",
+    "ShortName": "ZM 地雷",
     "Color": "{default}",
     "HammerID": "3672",
     "GlowColor": [0,255,0,1],
     "BlockPickup": false,
-    "AllowTransfer": true,
-    "ForceDrop": true,
-    "Chat": true,
+    "AllowTransfer": false,
+    "ForceDrop": false,
+    "Chat": false,
     "Hud": true,
-    "TriggerID": 0,
+    "TriggerID": 3676,
     "UsePriority": true,
     "AbilityList": [
       {
-        "Name": "weapon_knife",
-        "ButtonID": 0,
-        "ButtonClass": "",
-        "Filter": "",
-        "Chat_Uses": true,
-        "Mode": 1,
+        "Name": "item_mine_button",
+        "ButtonID": 3660,
+        "ButtonClass": "func_button",
+        "Filter": "item_mine:1",
+        "Chat_Uses": false,
+        "Mode": 7,
         "MaxUses": 0,
-        "CoolDown": 0
+        "CoolDown": 0,
+        "Ignore": false,
+        "LockItem": false,
+        "MathID": 3670,
+        "MathNameFix": true,
+        "MathFindSpawned": false,
+        "MathDontShowMax": true
       }
     ]
   },
   {
-    "Name": "item_rocket_knife&0000",
-    "ShortName": "item_rocket_knife&0000",
+    "Name": "ZM 火箭筒",
+    "ShortName": "ZM 火箭筒",
     "Color": "{default}",
     "HammerID": "3688",
     "GlowColor": [0,255,0,1],
     "BlockPickup": false,
-    "AllowTransfer": true,
-    "ForceDrop": true,
-    "Chat": true,
+    "AllowTransfer": false,
+    "ForceDrop": false,
+    "Chat": false,
     "Hud": true,
-    "TriggerID": 0,
+    "TriggerID": 3705,
     "UsePriority": true,
     "AbilityList": [
       {
-        "Name": "weapon_knife",
-        "ButtonID": 0,
-        "ButtonClass": "",
-        "Filter": "",
-        "Chat_Uses": true,
-        "Mode": 1,
+        "Name": "item_rocket_button",
+        "ButtonID": 3695,
+        "ButtonClass": "func_button",
+        "Filter": "item_rocket:1",
+        "Chat_Uses": false,
+        "Mode": 2,
         "MaxUses": 0,
-        "CoolDown": 0
+        "CoolDown": 5
       }
     ]
   }
