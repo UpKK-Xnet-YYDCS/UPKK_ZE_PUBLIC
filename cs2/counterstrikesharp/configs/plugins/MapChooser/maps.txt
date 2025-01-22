@@ -3011,4 +3011,27 @@
 		"filename"		"ze_dnd_hydra_z"
 		"updatedname"		"ze_dnd_hydra_z"
 	}
+	"ze_obj_ember"
+	{
+		"workshop_id"		"3408908971"
+		"enabled"		"1"
+		"filename"		"ze_obj_ember"
+		"updatedname"		"ze_obj_ember"
+		"RestrictedTimes"	"00:00-12:00;23:00-23:59"
+	}
+	"ze_surf_auv"
+	{
+		"workshop_id"		"3410416437"
+		"enabled"		"1"
+		"filename"		"ze_surf_auv"
+		"updatedname"		"ze_surf_auv"
+		"RestrictedTimes"	"00:00-12:00;20:00-23:59"
+	}
+	"ze_alien_shooter"
+	{
+		"workshop_id"		"3410639236"
+		"enabled"		"1"
+		"filename"		"ze_alien_shooter"
+		"updatedname"		"ze_alien_shooter"
+	}
 }

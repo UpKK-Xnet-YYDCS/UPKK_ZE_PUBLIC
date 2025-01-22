@@ -1,0 +1,28 @@
+[
+  {
+    "Name": "弹药",
+    "ShortName": "弹药",
+    "Color": "{default}",
+    "HammerID": "9493",
+    "GlowColor": [0,255,0,1],
+    "BlockPickup": false,
+    "AllowTransfer": true,
+    "ForceDrop": true,
+    "Chat": true,
+    "Hud": true,
+    "TriggerID": 0,
+    "UsePriority": true,
+    "AbilityList": [
+      {
+        "Name": "Item_Button",
+        "ButtonID": 9495,
+        "ButtonClass": "func_button",
+        "Filter": "yy:1",
+        "Chat_Uses": true,
+        "Mode": 3,
+        "MaxUses": 1,
+        "CoolDown": 0
+      }
+    ]
+  }
+]
