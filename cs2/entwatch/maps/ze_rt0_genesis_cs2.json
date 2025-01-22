@@ -1,137 +1,137 @@
 [
   {
-    "Name": "fuhua_knife",
-    "ShortName": "fuhua_knife",
+    "Name": "符华",
+    "ShortName": "符华",
     "Color": "{default}",
     "HammerID": "1128",
     "GlowColor": [0,255,0,1],
     "BlockPickup": false,
-    "AllowTransfer": true,
-    "ForceDrop": true,
+    "AllowTransfer": false,
+    "ForceDrop": false,
     "Chat": true,
     "Hud": true,
-    "TriggerID": 0,
+    "TriggerID": 1129,
     "UsePriority": true,
     "AbilityList": [
       {
-        "Name": "weapon_knife",
-        "ButtonID": 0,
-        "ButtonClass": "",
-        "Filter": "",
+        "Name": "fuhua_topbutton",
+        "ButtonID": 6983,
+        "ButtonClass": "func_button",
+        "Filter": "fuhua_user",
         "Chat_Uses": true,
-        "Mode": 1,
+        "Mode": 2,
         "MaxUses": 0,
-        "CoolDown": 0
+        "CoolDown": 70
       }
     ]
   },
   {
-    "Name": "item_jugg_weapon",
-    "ShortName": "item_jugg_weapon",
+    "Name": "剑圣",
+    "ShortName": "剑圣",
     "Color": "{default}",
     "HammerID": "1184",
     "GlowColor": [0,255,0,1],
     "BlockPickup": false,
-    "AllowTransfer": true,
-    "ForceDrop": true,
+    "AllowTransfer": false,
+    "ForceDrop": false,
     "Chat": true,
     "Hud": true,
-    "TriggerID": 0,
+    "TriggerID": 1192,
     "UsePriority": true,
     "AbilityList": [
       {
-        "Name": "weapon_knife",
-        "ButtonID": 0,
-        "ButtonClass": "",
-        "Filter": "",
+        "Name": "item_jugg_button",
+        "ButtonID": 1177,
+        "ButtonClass": "func_button",
+        "Filter": "jg_user2",
         "Chat_Uses": true,
-        "Mode": 1,
+        "Mode": 2,
         "MaxUses": 0,
-        "CoolDown": 0
+        "CoolDown": 50
       }
     ]
   },
   {
-    "Name": "wk_knife2",
-    "ShortName": "wk_knife2",
+    "Name": "高达",
+    "ShortName": "高达",
     "Color": "{default}",
     "HammerID": "1309",
     "GlowColor": [0,255,0,1],
     "BlockPickup": false,
-    "AllowTransfer": true,
-    "ForceDrop": true,
+    "AllowTransfer": false,
+    "ForceDrop": false,
     "Chat": true,
     "Hud": true,
-    "TriggerID": 0,
+    "TriggerID": 1298,
     "UsePriority": true,
     "AbilityList": [
       {
-        "Name": "weapon_knife",
-        "ButtonID": 0,
-        "ButtonClass": "",
-        "Filter": "",
+        "Name": "gaoda_button",
+        "ButtonID": 1290,
+        "ButtonClass": "func_button",
+        "Filter": "wk_user2",
         "Chat_Uses": true,
-        "Mode": 1,
+        "Mode": 2,
         "MaxUses": 0,
-        "CoolDown": 0
+        "CoolDown": 40
       }
     ]
   },
   {
-    "Name": "knife_shield",
-    "ShortName": "knife_shield",
+    "Name": "ZM 护盾",
+    "ShortName": "ZM 护盾",
     "Color": "{default}",
     "HammerID": "1399",
     "GlowColor": [0,255,0,1],
     "BlockPickup": false,
-    "AllowTransfer": true,
-    "ForceDrop": true,
+    "AllowTransfer": false,
+    "ForceDrop": false,
     "Chat": true,
     "Hud": true,
-    "TriggerID": 0,
+    "TriggerID": 1406,
     "UsePriority": true,
     "AbilityList": [
       {
-        "Name": "weapon_knife",
-        "ButtonID": 0,
-        "ButtonClass": "",
-        "Filter": "",
+        "Name": "item_shield_button",
+        "ButtonID": 1396,
+        "ButtonClass": "func_button",
+        "Filter": "shield_user",
         "Chat_Uses": true,
-        "Mode": 1,
+        "Mode": 2,
         "MaxUses": 0,
-        "CoolDown": 0
+        "CoolDown": 70
       }
     ]
   },
   {
-    "Name": "Zom_health",
-    "ShortName": "Zom_health",
+    "Name": "ZM 奶",
+    "ShortName": "ZM 奶",
     "Color": "{default}",
     "HammerID": "1412",
     "GlowColor": [0,255,0,1],
     "BlockPickup": false,
-    "AllowTransfer": true,
-    "ForceDrop": true,
+    "AllowTransfer": false,
+    "ForceDrop": false,
     "Chat": true,
     "Hud": true,
-    "TriggerID": 0,
+    "TriggerID": 1408,
     "UsePriority": true,
     "AbilityList": [
       {
-        "Name": "weapon_knife",
-        "ButtonID": 0,
-        "ButtonClass": "",
-        "Filter": "",
+        "Name": "Zom_health_Button",
+        "ButtonID": 1410,
+        "ButtonClass": "func_button",
+        "Filter": "zomhealth_user",
         "Chat_Uses": true,
-        "Mode": 1,
+        "Mode": 2,
         "MaxUses": 0,
-        "CoolDown": 0
+        "CoolDown": 65
       }
     ]
   },
   {
-    "Name": "Item_wall_gun",
-    "ShortName": "Item_wall_gun",
+    "Name": "墙",
+    "ShortName": "墙",
     "Color": "{default}",
     "HammerID": "1431",
     "GlowColor": [0,255,0,1],
@@ -144,72 +144,72 @@
     "UsePriority": true,
     "AbilityList": [
       {
-        "Name": "weapon_elite",
-        "ButtonID": 0,
-        "ButtonClass": "",
-        "Filter": "",
+        "Name": "Item_wall_button",
+        "ButtonID": 1428,
+        "ButtonClass": "func_button",
+        "Filter": "Wall_user",
         "Chat_Uses": true,
-        "Mode": 1,
+        "Mode": 2,
         "MaxUses": 0,
-        "CoolDown": 0
+        "CoolDown": 60
       }
     ]
   },
   {
-    "Name": "Zombie_Position",
-    "ShortName": "Zombie_Position",
+    "Name": "ZM 毒",
+    "ShortName": "ZM 毒",
     "Color": "{default}",
     "HammerID": "1439",
     "GlowColor": [0,255,0,1],
     "BlockPickup": false,
-    "AllowTransfer": true,
-    "ForceDrop": true,
+    "AllowTransfer": false,
+    "ForceDrop": false,
     "Chat": true,
     "Hud": true,
-    "TriggerID": 0,
+    "TriggerID": 1437,
     "UsePriority": true,
     "AbilityList": [
       {
-        "Name": "weapon_knife",
-        "ButtonID": 0,
-        "ButtonClass": "",
-        "Filter": "",
+        "Name": "Zombie_Position_Button",
+        "ButtonID": 1443,
+        "ButtonClass": "func_button",
+        "Filter": "z_posi_user",
         "Chat_Uses": true,
-        "Mode": 1,
+        "Mode": 2,
         "MaxUses": 0,
-        "CoolDown": 0
+        "CoolDown": 60
       }
     ]
   },
   {
-    "Name": "Zombie_Gravity",
-    "ShortName": "Zombie_Gravity",
+    "Name": "ZM 黑洞",
+    "ShortName": "ZM 黑洞",
     "Color": "{default}",
     "HammerID": "1456",
     "GlowColor": [0,255,0,1],
     "BlockPickup": false,
-    "AllowTransfer": true,
-    "ForceDrop": true,
+    "AllowTransfer": false,
+    "ForceDrop": false,
     "Chat": true,
     "Hud": true,
-    "TriggerID": 0,
+    "TriggerID": 1457,
     "UsePriority": true,
     "AbilityList": [
       {
-        "Name": "weapon_knife",
-        "ButtonID": 0,
-        "ButtonClass": "",
-        "Filter": "",
+        "Name": "Zombie_Gravity_Button",
+        "ButtonID": 1459,
+        "ButtonClass": "func_button",
+        "Filter": "z_gravity_user",
         "Chat_Uses": true,
-        "Mode": 1,
+        "Mode": 2,
         "MaxUses": 0,
-        "CoolDown": 0
+        "CoolDown": 60
       }
     ]
   },
   {
-    "Name": "Item_wind_gun",
-    "ShortName": "Item_wind_gun",
+    "Name": "直线风",
+    "ShortName": "直线风",
     "Color": "{default}",
     "HammerID": "1474",
     "GlowColor": [0,255,0,1],
@@ -222,20 +222,20 @@
     "UsePriority": true,
     "AbilityList": [
       {
-        "Name": "weapon_elite",
-        "ButtonID": 0,
-        "ButtonClass": "",
-        "Filter": "",
+        "Name": "Item_wind_button",
+        "ButtonID": 1470,
+        "ButtonClass": "func_button",
+        "Filter": "Wind_user",
         "Chat_Uses": true,
-        "Mode": 1,
+        "Mode": 2,
         "MaxUses": 0,
-        "CoolDown": 0
+        "CoolDown": 60
       }
     ]
   },
   {
-    "Name": "Item_lightning_gun",
-    "ShortName": "Item_lightning_gun",
+    "Name": "电",
+    "ShortName": "电",
     "Color": "{default}",
     "HammerID": "1475",
     "GlowColor": [0,255,0,1],
@@ -248,20 +248,20 @@
     "UsePriority": true,
     "AbilityList": [
       {
-        "Name": "weapon_elite",
-        "ButtonID": 0,
-        "ButtonClass": "",
-        "Filter": "",
+        "Name": "Item_lightning_Button",
+        "ButtonID": 1476,
+        "ButtonClass": "func_button",
+        "Filter": "Lightning_user",
         "Chat_Uses": true,
-        "Mode": 1,
+        "Mode": 2,
         "MaxUses": 0,
-        "CoolDown": 0
+        "CoolDown": 60
       }
     ]
   },
   {
-    "Name": "push_elite",
-    "ShortName": "push_elite",
+    "Name": "环形风",
+    "ShortName": "环形风",
     "Color": "{default}",
     "HammerID": "1484",
     "GlowColor": [0,255,0,1],
@@ -274,46 +274,46 @@
     "UsePriority": true,
     "AbilityList": [
       {
-        "Name": "weapon_elite",
-        "ButtonID": 0,
-        "ButtonClass": "",
-        "Filter": "",
+        "Name": "push_button",
+        "ButtonID": 1486,
+        "ButtonClass": "func_button",
+        "Filter": "player_push",
         "Chat_Uses": true,
-        "Mode": 1,
+        "Mode": 2,
         "MaxUses": 0,
-        "CoolDown": 0
+        "CoolDown": 60
       }
     ]
   },
   {
-    "Name": "item_zom",
-    "ShortName": "item_zom",
+    "Name": "ZM 龙祭",
+    "ShortName": "ZM 龙祭",
     "Color": "{default}",
     "HammerID": "1497",
     "GlowColor": [0,255,0,1],
     "BlockPickup": false,
-    "AllowTransfer": true,
-    "ForceDrop": true,
+    "AllowTransfer": false,
+    "ForceDrop": false,
     "Chat": true,
     "Hud": true,
-    "TriggerID": 0,
+    "TriggerID": 1495,
     "UsePriority": true,
     "AbilityList": [
       {
-        "Name": "weapon_knife",
-        "ButtonID": 0,
-        "ButtonClass": "",
-        "Filter": "",
+        "Name": "item_zom_button",
+        "ButtonID": 1493,
+        "ButtonClass": "func_button",
+        "Filter": "zom_user",
         "Chat_Uses": true,
-        "Mode": 1,
+        "Mode": 2,
         "MaxUses": 0,
-        "CoolDown": 0
+        "CoolDown": 75
       }
     ]
   },
   {
-    "Name": "level3_key_01",
-    "ShortName": "level3_key_01",
+    "Name": "书",
+    "ShortName": "书",
     "Color": "{default}",
     "HammerID": "1772",
     "GlowColor": [0,255,0,1],
@@ -326,10 +326,10 @@
     "UsePriority": true,
     "AbilityList": [
       {
-        "Name": "weapon_elite",
+        "Name": "",
         "ButtonID": 0,
         "ButtonClass": "",
-        "Filter": "",
+        "Filter": "book_user",
         "Chat_Uses": true,
         "Mode": 1,
         "MaxUses": 0,
@@ -338,50 +338,50 @@
     ]
   },
   {
-    "Name": "knife_laser",
-    "ShortName": "knife_laser",
+    "Name": "ZM 跳刀",
+    "ShortName": "ZM 跳刀",
     "Color": "{default}",
     "HammerID": "6581",
     "GlowColor": [0,255,0,1],
     "BlockPickup": false,
-    "AllowTransfer": true,
-    "ForceDrop": true,
+    "AllowTransfer": false,
+    "ForceDrop": false,
     "Chat": true,
     "Hud": true,
-    "TriggerID": 0,
+    "TriggerID": 6579,
     "UsePriority": true,
     "AbilityList": [
       {
-        "Name": "weapon_knife",
-        "ButtonID": 0,
-        "ButtonClass": "",
-        "Filter": "",
+        "Name": "laser_button",
+        "ButtonID": 6583,
+        "ButtonClass": "func_button",
+        "Filter": "laser_user",
         "Chat_Uses": true,
-        "Mode": 1,
+        "Mode": 2,
         "MaxUses": 0,
-        "CoolDown": 0
+        "CoolDown": 60
       }
     ]
   },
   {
-    "Name": "dc_knife",
-    "ShortName": "dc_knife",
+    "Name": "魔神",
+    "ShortName": "魔神",
     "Color": "{default}",
     "HammerID": "6698",
     "GlowColor": [0,255,0,1],
     "BlockPickup": false,
-    "AllowTransfer": true,
-    "ForceDrop": true,
+    "AllowTransfer": false,
+    "ForceDrop": false,
     "Chat": true,
     "Hud": true,
-    "TriggerID": 0,
+    "TriggerID": 6696,
     "UsePriority": true,
     "AbilityList": [
       {
-        "Name": "weapon_knife",
+        "Name": "",
         "ButtonID": 0,
         "ButtonClass": "",
-        "Filter": "",
+        "Filter": "dc_user",
         "Chat_Uses": true,
         "Mode": 1,
         "MaxUses": 0,
@@ -390,50 +390,60 @@
     ]
   },
   {
-    "Name": "lv2_boss_knife",
-    "ShortName": "lv2_boss_knife",
+    "Name": "ZM 剑魔",
+    "ShortName": "ZM 剑魔",
     "Color": "{default}",
     "HammerID": "6759",
     "GlowColor": [0,255,0,1],
     "BlockPickup": false,
-    "AllowTransfer": true,
-    "ForceDrop": true,
+    "AllowTransfer": false,
+    "ForceDrop": false,
     "Chat": true,
     "Hud": true,
-    "TriggerID": 0,
+    "TriggerID": 6780,
     "UsePriority": true,
     "AbilityList": [
       {
-        "Name": "weapon_knife",
-        "ButtonID": 0,
-        "ButtonClass": "",
-        "Filter": "",
+        "Name": "lv2_boss_button2",
+        "ButtonID": 6760,
+        "ButtonClass": "func_button",
+        "Filter": "target_boss",
         "Chat_Uses": true,
-        "Mode": 1,
+        "Mode": 2,
         "MaxUses": 0,
-        "CoolDown": 0
+        "CoolDown": 55
+      },
+      {
+        "Name": "lv2_boss_topbutton",
+        "ButtonID": 7035,
+        "ButtonClass": "func_button",
+        "Filter": "target_boss",
+        "Chat_Uses": true,
+        "Mode": 2,
+        "MaxUses": 0,
+        "CoolDown": 100
       }
     ]
   },
   {
-    "Name": "shadow_knife",
-    "ShortName": "shadow_knife",
+    "Name": "炎骑士",
+    "ShortName": "炎骑士",
     "Color": "{default}",
     "HammerID": "6904",
     "GlowColor": [0,255,0,1],
     "BlockPickup": false,
-    "AllowTransfer": true,
-    "ForceDrop": true,
+    "AllowTransfer": false,
+    "ForceDrop": false,
     "Chat": true,
     "Hud": true,
-    "TriggerID": 0,
+    "TriggerID": 6919,
     "UsePriority": true,
     "AbilityList": [
       {
-        "Name": "weapon_knife",
+        "Name": "",
         "ButtonID": 0,
         "ButtonClass": "",
-        "Filter": "",
+        "Filter": "shadow_user",
         "Chat_Uses": true,
         "Mode": 1,
         "MaxUses": 0,
