@@ -16,12 +16,12 @@
       {
         "Name": "",
         "ButtonID": 0,
-        "ButtonClass": "game_ui::PressedAttack2",
+        "ButtonClass": "",
         "Filter": "",
         "Chat_Uses": true,
-        "Mode": 2,
+        "Mode": 1,
         "MaxUses": 0,
-        "CoolDown": 30
+        "CoolDown": 0
       }
     ]
   },
@@ -42,12 +42,12 @@
       {
         "Name": "",
         "ButtonID": 0,
-        "ButtonClass": "game_ui::PressedAttack2",
+        "ButtonClass": "",
         "Filter": "",
         "Chat_Uses": true,
-        "Mode": 2,
+        "Mode": 1,
         "MaxUses": 0,
-        "CoolDown": 10
+        "CoolDown": 0
       }
     ]
   },
@@ -68,12 +68,12 @@
       {
         "Name": "",
         "ButtonID": 0,
-        "ButtonClass": "game_ui::PressedAttack2",
+        "ButtonClass": "",
         "Filter": "",
         "Chat_Uses": true,
-        "Mode": 2,
+        "Mode": 1,
         "MaxUses": 0,
-        "CoolDown": 60
+        "CoolDown": 0
       }
     ]
   },
@@ -95,21 +95,11 @@
         "Name": "wind_button",
         "ButtonID": 698,
         "ButtonClass": "func_physbox",
-        "Filter": "",
+        "Filter": "winduser:1",
         "Chat_Uses": true,
         "Mode": 2,
         "MaxUses": 0,
         "CoolDown": 50
-      },
-      {
-        "Name": "大师风1",
-        "ButtonID": 0,
-        "ButtonClass": "game_ui::PressedAttack2",
-        "Filter": "",
-        "Chat_Uses": true,
-        "Mode": 2,
-        "MaxUses": 0,
-        "CoolDown": 20
       }
     ]
   },
@@ -131,21 +121,11 @@
         "Name": "wind_button2",
         "ButtonID": 660,
         "ButtonClass": "func_physbox",
-        "Filter": "",
+        "Filter": "windtwouser:1",
         "Chat_Uses": true,
         "Mode": 2,
         "MaxUses": 0,
         "CoolDown": 50
-      },
-      {
-        "Name": "大师风2",
-        "ButtonID": 0,
-        "ButtonClass": "game_ui::PressedAttack2",
-        "Filter": "",
-        "Chat_Uses": true,
-        "Mode": 2,
-        "MaxUses": 0,
-        "CoolDown": 20
       }
     ]
   },
@@ -167,21 +147,11 @@
         "Name": "water_button",
         "ButtonID": 1239,
         "ButtonClass": "func_physbox",
-        "Filter": "",
+        "Filter": "wateruser:1",
         "Chat_Uses": true,
         "Mode": 2,
         "MaxUses": 0,
         "CoolDown": 50
-      },
-      {
-        "Name": "大师水1",
-        "ButtonID": 0,
-        "ButtonClass": "game_ui::PressedAttack2",
-        "Filter": "",
-        "Chat_Uses": true,
-        "Mode": 2,
-        "MaxUses": 0,
-        "CoolDown": 40
       }
     ]
   },
@@ -203,21 +173,11 @@
         "Name": "water_button2",
         "ButtonID": 1258,
         "ButtonClass": "func_physbox",
-        "Filter": "",
+        "Filter": "watertwouser:1",
         "Chat_Uses": true,
         "Mode": 2,
         "MaxUses": 0,
         "CoolDown": 50
-      },
-      {
-        "Name": "大师水2",
-        "ButtonID": 0,
-        "ButtonClass": "game_ui::PressedAttack2",
-        "Filter": "",
-        "Chat_Uses": true,
-        "Mode": 2,
-        "MaxUses": 0,
-        "CoolDown": 40
       }
     ]
   },
@@ -239,21 +199,11 @@
         "Name": "heal_button",
         "ButtonID": 1799,
         "ButtonClass": "func_physbox",
-        "Filter": "",
+        "Filter": "healuser:1",
         "Chat_Uses": true,
         "Mode": 2,
         "MaxUses": 0,
         "CoolDown": 55
-      },
-      {
-        "Name": "大师奶1",
-        "ButtonID": 0,
-        "ButtonClass": "game_ui::PressedAttack2",
-        "Filter": "",
-        "Chat_Uses": true,
-        "Mode": 2,
-        "MaxUses": 0,
-        "CoolDown": 30
       }
     ]
   },
@@ -275,21 +225,11 @@
         "Name": "heal_button2",
         "ButtonID": 1590,
         "ButtonClass": "func_physbox",
-        "Filter": "",
+        "Filter": "healtwouser:1",
         "Chat_Uses": true,
         "Mode": 2,
         "MaxUses": 0,
         "CoolDown": 55
-      },
-      {
-        "Name": "大师奶2",
-        "ButtonID": 0,
-        "ButtonClass": "game_ui::PressedAttack2",
-        "Filter": "",
-        "Chat_Uses": true,
-        "Mode": 2,
-        "MaxUses": 0,
-        "CoolDown": 30
       }
     ]
   },
@@ -311,21 +251,11 @@
         "Name": "earth_button",
         "ButtonID": 1817,
         "ButtonClass": "func_physbox",
-        "Filter": "",
+        "Filter": "earthuser:1",
         "Chat_Uses": true,
         "Mode": 2,
         "MaxUses": 0,
         "CoolDown": 50
-      },
-      {
-        "Name": "大师土1",
-        "ButtonID": 0,
-        "ButtonClass": "game_ui::PressedAttack2",
-        "Filter": "",
-        "Chat_Uses": true,
-        "Mode": 2,
-        "MaxUses": 0,
-        "CoolDown": 10
       }
     ]
   },
@@ -347,21 +277,11 @@
         "Name": "earth_button2",
         "ButtonID": 1606,
         "ButtonClass": "func_physbox",
-        "Filter": "",
+        "Filter": "earthtwouser:1",
         "Chat_Uses": true,
         "Mode": 2,
         "MaxUses": 0,
         "CoolDown": 50
-      },
-      {
-        "Name": "大师土2",
-        "ButtonID": 0,
-        "ButtonClass": "game_ui::PressedAttack2",
-        "Filter": "",
-        "Chat_Uses": true,
-        "Mode": 2,
-        "MaxUses": 0,
-        "CoolDown": 10
       }
     ]
   }
