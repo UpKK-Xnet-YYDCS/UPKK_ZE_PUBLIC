@@ -14,10 +14,10 @@
     "UsePriority": true,
     "AbilityList": [
       {
-        "Name": "Freeze",
-        "ButtonID": 0,
+        "Name": "freeze_button",
+        "ButtonID": 11146,
         "ButtonClass": "func_button",
-        "Filter": "",
+        "Filter": "$freeze_player",
         "Chat_Uses": true,
         "Mode": 2,
         "MaxUses": 0,
@@ -40,10 +40,10 @@
     "UsePriority": true,
     "AbilityList": [
       {
-        "Name": "",
-        "ButtonID": 0,
+        "Name": "earth_button",
+        "ButtonID": 11119,
         "ButtonClass": "func_button",
-        "Filter": "",
+        "Filter": "$item_fire",
         "Chat_Uses": true,
         "Mode": 2,
         "MaxUses": 0,
@@ -66,10 +66,10 @@
     "UsePriority": true,
     "AbilityList": [
       {
-        "Name": "",
-        "ButtonID": 0,
+        "Name": "tornado_button",
+        "ButtonID": 11172,
         "ButtonClass": "func_button",
-        "Filter": "",
+        "Filter": "$tornado_player",
         "Chat_Uses": true,
         "Mode": 2,
         "MaxUses": 0,
@@ -92,10 +92,10 @@
     "UsePriority": true,
     "AbilityList": [
       {
-        "Name": "",
-        "ButtonID": 0,
+        "Name": "fire_button",
+        "ButtonID": 11185,
         "ButtonClass": "func_button",
-        "Filter": "",
+        "Filter": "$fire_player",
         "Chat_Uses": true,
         "Mode": 2,
         "MaxUses": 0,
@@ -118,10 +118,10 @@
     "UsePriority": true,
     "AbilityList": [
       {
-        "Name": "",
-        "ButtonID": 0,
+        "Name": "heal_button",
+        "ButtonID": 11198,
         "ButtonClass": "func_button",
-        "Filter": "",
+        "Filter": "$heal_player",
         "Chat_Uses": true,
         "Mode": 2,
         "MaxUses": 0,
@@ -134,12 +134,7 @@
     "ShortName": "沙尘暴",
     "Color": "{yellow}",
     "HammerID": 11127,
-    "GlowColor": [
-      199,
-      223,
-      7,
-      255
-    ],
+    "GlowColor": [0,255,0,1],
     "BlockPickup": false,
     "AllowTransfer": true,
     "ForceDrop": true,
@@ -149,14 +144,14 @@
     "UsePriority": true,
     "AbilityList": [
       {
-        "Name": "终极",
-        "ButtonID": 0,
+        "Name": "sandstorm_button",
+        "ButtonID": 11129,
         "ButtonClass": "func_button",
-        "Filter": "",
+        "Filter": "$sandstorm_player",
         "Chat_Uses": true,
         "Mode": 4,
         "MaxUses": 1,
-        "CoolDown": 1
+        "CoolDown": 15
       }
     ]
   },
@@ -165,39 +160,24 @@
     "ShortName": "ZM 蚁狮",
     "Color": "{lime}",
     "HammerID": 11895,
-    "GlowColor": [
-      119,
-      234,
-      7,
-      255
-    ],
+    "GlowColor": [0,255,0,1],
     "BlockPickup": false,
     "AllowTransfer": false,
     "ForceDrop": false,
-    "Chat": true,
+    "Chat": false,
     "Hud": true,
-    "TriggerID": 0,
+    "TriggerID": 11896,
     "UsePriority": false,
     "AbilityList": [
       {
         "Name": "",
         "ButtonID": 0,
-        "ButtonClass": "game_ui::PressedAttack",
-        "Filter": "",
+        "ButtonClass": "",
+        "Filter": "$antlion_player",
         "Chat_Uses": false,
-        "Mode": 2,
+        "Mode": 1,
         "MaxUses": 0,
-        "CoolDown": 2
-      },
-      {
-        "Name": "",
-        "ButtonID": 0,
-        "ButtonClass": "game_ui::PressedAttack2",
-        "Filter": "",
-        "Chat_Uses": true,
-        "Mode": 2,
-        "MaxUses": 0,
-        "CoolDown": 40
+        "CoolDown": 0
       }
     ]
   },
@@ -206,25 +186,20 @@
     "ShortName": "ZM 黑洞",
     "Color": "{purple}",
     "HammerID": 11854,
-    "GlowColor": [
-      128,
-      0,
-      128,
-      255
-    ],
+    "GlowColor": [0,255,0,1],
     "BlockPickup": false,
     "AllowTransfer": false,
     "ForceDrop": false,
     "Chat": true,
     "Hud": true,
-    "TriggerID": 0,
+    "TriggerID": 11859,
     "UsePriority": true,
     "AbilityList": [
       {
-        "Name": "",
-        "ButtonID": 0,
+        "Name": "Dark_button",
+        "ButtonID": 11857,
         "ButtonClass": "func_button",
-        "Filter": "",
+        "Filter": "$zdark_zm_player",
         "Chat_Uses": true,
         "Mode": 2,
         "MaxUses": 0,
@@ -237,25 +212,20 @@
     "ShortName": "ZM 火",
     "Color": "{darkorange}",
     "HammerID": 11828,
-    "GlowColor": [
-      240,
-      94,
-      35,
-      255
-    ],
+    "GlowColor": [0,255,0,1],
     "BlockPickup": false,
     "AllowTransfer": false,
     "ForceDrop": false,
     "Chat": true,
     "Hud": true,
-    "TriggerID": 0,
+    "TriggerID": 11833,
     "UsePriority": true,
     "AbilityList": [
       {
-        "Name": "",
-        "ButtonID": 0,
+        "Name": "Firez_button",
+        "ButtonID": 11830,
         "ButtonClass": "func_button",
-        "Filter": "",
+        "Filter": "$zfirez_zm_player",
         "Chat_Uses": true,
         "Mode": 2,
         "MaxUses": 0,
