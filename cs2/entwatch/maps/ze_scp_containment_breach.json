@@ -1,85 +1,85 @@
 [
   {
-    "Name": "PlagueDoctor_z_knife",
-    "ShortName": "PlagueDoctor_z_knife",
+    "Name": "ZM 疫医",
+    "ShortName": "ZM 疫医",
     "Color": "{default}",
     "HammerID": "1321",
     "GlowColor": [0,255,0,1],
     "BlockPickup": false,
-    "AllowTransfer": true,
-    "ForceDrop": true,
+    "AllowTransfer": false,
+    "ForceDrop": false,
     "Chat": true,
     "Hud": true,
-    "TriggerID": 0,
+    "TriggerID": 1319,
     "UsePriority": true,
     "AbilityList": [
       {
-        "Name": "weapon_knife",
-        "ButtonID": 0,
-        "ButtonClass": "",
-        "Filter": "",
+        "Name": "PlagueDoctor_button",
+        "ButtonID": 5164,
+        "ButtonClass": "func_button",
+        "Filter": "player_doctor",
         "Chat_Uses": true,
-        "Mode": 1,
+        "Mode": 2,
         "MaxUses": 0,
-        "CoolDown": 0
+        "CoolDown": 60
       }
     ]
   },
   {
-    "Name": "ShyGuy_z_knife",
-    "ShortName": "ShyGuy_z_knife",
+    "Name": "ZM 羞涩的人",
+    "ShortName": "ZM 羞涩的人",
     "Color": "{default}",
     "HammerID": "1329",
     "GlowColor": [0,255,0,1],
     "BlockPickup": false,
-    "AllowTransfer": true,
-    "ForceDrop": true,
+    "AllowTransfer": false,
+    "ForceDrop": false,
     "Chat": true,
     "Hud": true,
-    "TriggerID": 0,
+    "TriggerID": 1327,
     "UsePriority": true,
     "AbilityList": [
       {
-        "Name": "weapon_knife",
-        "ButtonID": 0,
-        "ButtonClass": "",
-        "Filter": "",
+        "Name": "ShyGuy_button",
+        "ButtonID": 5166,
+        "ButtonClass": "func_button",
+        "Filter": "player_shyguy",
         "Chat_Uses": true,
-        "Mode": 1,
+        "Mode": 2,
         "MaxUses": 0,
-        "CoolDown": 0
+        "CoolDown": 100
       }
     ]
   },
   {
-    "Name": "OldMan_z_knife",
-    "ShortName": "OldMan_z_knife",
+    "Name": "ZM 恐怖老人",
+    "ShortName": "ZM 恐怖老人",
     "Color": "{default}",
     "HammerID": "1436",
     "GlowColor": [0,255,0,1],
     "BlockPickup": false,
-    "AllowTransfer": true,
-    "ForceDrop": true,
+    "AllowTransfer": false,
+    "ForceDrop": false,
     "Chat": true,
     "Hud": true,
-    "TriggerID": 0,
+    "TriggerID": 1434,
     "UsePriority": true,
     "AbilityList": [
       {
-        "Name": "weapon_knife",
-        "ButtonID": 0,
-        "ButtonClass": "",
-        "Filter": "",
+        "Name": "OldMan_button",
+        "ButtonID": 5288,
+        "ButtonClass": "func_button",
+        "Filter": "player_old",
         "Chat_Uses": true,
-        "Mode": 1,
+        "Mode": 2,
         "MaxUses": 0,
-        "CoolDown": 0
+        "CoolDown": 30
       }
     ]
   },
   {
-    "Name": "scp500_elite",
-    "ShortName": "scp500_elite",
+    "Name": "万能药",
+    "ShortName": "万能药",
     "Color": "{default}",
     "HammerID": "5105",
     "GlowColor": [0,255,0,1],
@@ -92,20 +92,20 @@
     "UsePriority": true,
     "AbilityList": [
       {
-        "Name": "weapon_elite",
-        "ButtonID": 0,
-        "ButtonClass": "",
-        "Filter": "",
+        "Name": "scp500_button",
+        "ButtonID": 5162,
+        "ButtonClass": "func_button",
+        "Filter": "player_scp500",
         "Chat_Uses": true,
-        "Mode": 1,
+        "Mode": 2,
         "MaxUses": 0,
-        "CoolDown": 0
+        "CoolDown": 60
       }
     ]
   },
   {
-    "Name": "ammo_elite",
-    "ShortName": "ammo_elite",
+    "Name": "疲惫玉戒",
+    "ShortName": "疲惫玉戒",
     "Color": "{default}",
     "HammerID": "5131",
     "GlowColor": [0,255,0,1],
@@ -118,14 +118,14 @@
     "UsePriority": true,
     "AbilityList": [
       {
-        "Name": "weapon_elite",
-        "ButtonID": 0,
-        "ButtonClass": "",
-        "Filter": "",
+        "Name": "scp714_button",
+        "ButtonID": 5136,
+        "ButtonClass": "func_button",
+        "Filter": "player_scp714",
         "Chat_Uses": true,
-        "Mode": 1,
+        "Mode": 2,
         "MaxUses": 0,
-        "CoolDown": 0
+        "CoolDown": 80
       }
     ]
   }
