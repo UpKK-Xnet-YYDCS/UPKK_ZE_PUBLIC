@@ -1,7 +1,7 @@
 [
   {
-    "Name": "[PR#]wall_elits",
-    "ShortName": "[PR#]wall_elits",
+    "Name": "墙",
+    "ShortName": "墙",
     "Color": "{default}",
     "HammerID": "13022",
     "GlowColor": [0,255,0,1],
@@ -14,20 +14,20 @@
     "UsePriority": true,
     "AbilityList": [
       {
-        "Name": "weapon_elite",
-        "ButtonID": 0,
-        "ButtonClass": "",
-        "Filter": "",
+        "Name": "wall_button",
+        "ButtonID": 13024,
+        "ButtonClass": "func_button",
+        "Filter": "qiang_relay:1",
         "Chat_Uses": true,
-        "Mode": 1,
+        "Mode": 2,
         "MaxUses": 0,
-        "CoolDown": 0
+        "CoolDown": 40
       }
     ]
   },
   {
-    "Name": "[PR#]push",
-    "ShortName": "[PR#]push",
+    "Name": "风",
+    "ShortName": "风",
     "Color": "{default}",
     "HammerID": "13182",
     "GlowColor": [0,255,0,1],
@@ -40,20 +40,20 @@
     "UsePriority": true,
     "AbilityList": [
       {
-        "Name": "weapon_elite",
-        "ButtonID": 0,
-        "ButtonClass": "",
-        "Filter": "",
+        "Name": "push_anniu",
+        "ButtonID": 13179,
+        "ButtonClass": "func_button",
+        "Filter": "push_player:1",
         "Chat_Uses": true,
-        "Mode": 1,
+        "Mode": 2,
         "MaxUses": 0,
-        "CoolDown": 0
+        "CoolDown": 50
       }
     ]
   },
   {
-    "Name": "[PR#]hei_qiang",
-    "ShortName": "[PR#]hei_qiang",
+    "Name": "黑洞",
+    "ShortName": "黑洞",
     "Color": "{default}",
     "HammerID": "13002",
     "GlowColor": [0,255,0,1],
@@ -66,90 +66,90 @@
     "UsePriority": true,
     "AbilityList": [
       {
-        "Name": "weapon_elite",
-        "ButtonID": 0,
-        "ButtonClass": "",
-        "Filter": "",
+        "Name": "hei_anniu",
+        "ButtonID": 12994,
+        "ButtonClass": "func_button",
+        "Filter": "hei_player:1",
         "Chat_Uses": true,
-        "Mode": 1,
+        "Mode": 2,
         "MaxUses": 0,
-        "CoolDown": 0
+        "CoolDown": 70
       }
     ]
   },
   {
-    "Name": "[PR#]zm_hei",
-    "ShortName": "[PR#]zm_hei",
+    "Name": "ZM 黑洞",
+    "ShortName": "ZM 黑洞",
     "Color": "{default}",
     "HammerID": "13258",
     "GlowColor": [0,255,0,1],
     "BlockPickup": false,
-    "AllowTransfer": true,
-    "ForceDrop": true,
+    "AllowTransfer": false,
+    "ForceDrop": false,
     "Chat": true,
     "Hud": true,
-    "TriggerID": 0,
+    "TriggerID": 14021,
     "UsePriority": true,
     "AbilityList": [
       {
-        "Name": "weapon_knife",
-        "ButtonID": 0,
-        "ButtonClass": "",
-        "Filter": "",
+        "Name": "zm_hei_anniu",
+        "ButtonID": 13256,
+        "ButtonClass": "func_button",
+        "Filter": "zm_hei_player:1",
         "Chat_Uses": true,
-        "Mode": 1,
+        "Mode": 2,
         "MaxUses": 0,
-        "CoolDown": 0
+        "CoolDown": 20
       }
     ]
   },
   {
-    "Name": "[PR#]zm_miao",
-    "ShortName": "[PR#]zm_miao",
+    "Name": "ZM 秒杀",
+    "ShortName": "ZM 秒杀",
     "Color": "{default}",
     "HammerID": "13265",
     "GlowColor": [0,255,0,1],
     "BlockPickup": false,
-    "AllowTransfer": true,
-    "ForceDrop": true,
+    "AllowTransfer": false,
+    "ForceDrop": false,
     "Chat": true,
     "Hud": true,
-    "TriggerID": 0,
+    "TriggerID": 14031,
     "UsePriority": true,
     "AbilityList": [
       {
-        "Name": "weapon_knife",
-        "ButtonID": 0,
-        "ButtonClass": "",
-        "Filter": "",
+        "Name": "zm_miao_anniu",
+        "ButtonID": 13269,
+        "ButtonClass": "func_button",
+        "Filter": "zm_miao_player:1",
         "Chat_Uses": true,
-        "Mode": 1,
+        "Mode": 2,
         "MaxUses": 0,
-        "CoolDown": 0
+        "CoolDown": 20
       }
     ]
   },
   {
-    "Name": "[PR#]knife2",
-    "ShortName": "[PR#]knife2",
+    "Name": "Asuna",
+    "ShortName": "Asuna",
     "Color": "{default}",
     "HammerID": "14023",
     "GlowColor": [0,255,0,1],
     "BlockPickup": false,
-    "AllowTransfer": true,
-    "ForceDrop": true,
+    "AllowTransfer": false,
+    "ForceDrop": false,
     "Chat": true,
     "Hud": true,
     "TriggerID": 0,
     "UsePriority": true,
     "AbilityList": [
       {
-        "Name": "weapon_knife",
+        "Name": "",
         "ButtonID": 0,
         "ButtonClass": "",
         "Filter": "",
         "Chat_Uses": true,
-        "Mode": 1,
+        "Mode": 0,
         "MaxUses": 0,
         "CoolDown": 0
       }
