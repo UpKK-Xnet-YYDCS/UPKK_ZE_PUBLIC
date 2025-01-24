@@ -13,34 +13,34 @@
 ```
 [
   {
-    "Name": "",						//神器被拾起或丢弃时在左下角聊天栏显示的名称
-    "ShortName": "",				//神器拾起后在hud显示的名称
-    "Color": "{default}",					//聊天消息颜色 例如:{default},{darkred},{green},{white},{blue}
-    "HammerID": 0,					//神器所对应weapon_实体的hammeruniqueid
-    "GlowColor": [0,0,0,0],			//rgba,神器高亮颜色
-    "BlockPickup": false,			//锁定拾起，无特殊情况填false
-    "AllowTransfer": true,			//是否允许管理员传送该神器，皮肤神器和僵尸神器设置为false。
-    "ForceDrop": true,				//允许神器落地，手枪神器填true，刀神器填false，这个参数服务器已经删除，实际不生效。
-    "Chat": true,					//神器拾起或丢弃时聊天框提示
-    "Hud": true,					//是否在hud显示
-    "TriggerID": 0,					//设置一个被eban的玩家无法拾取神器的玩家触发的trigger，主要防止吞神器trigger导致正常玩家无法拾取。Trigger通常是绑定在神器的一个trigger_once或者trigger_multiple实体，该实体的io指向一个game_player_equip实体。
-    "UsePriority": false,			//默认启用,可以禁用强制玩家按下特定神器上的按钮，如有bug请设置为false。
+    "Name": "",						//出现在聊天框的神器名称
+    "ShortName": "",					//出现在HUD的神器名称
+    "Color": "{default}",						//神器提示在聊天框中的颜色 例如:{default},{darkred},{green},{white},{blue}
+    "HammerID": 0,					//武器实体的hammerid
+    "GlowColor": [0,0,0,0],					//神器高亮的颜色和透明度，R,G,B参数取值范围在0-255之间且为非负整数，第四个参数A为透明度，取值范围在0.0-1.0之间
+    "BlockPickup": false,					//是否锁定神器拾取，默认填false
+    "AllowTransfer": true,					//是否允许管理员传送该神器，刀神器填false
+    "ForceDrop": true,					//允许神器落地，手枪神器填true，刀神器填false
+    "Chat": true,					//神器使用时是否在聊天框中提示
+    "Hud": true,					//神器是否在HUD显示
+    "TriggerID": 0,					//与该神器相关的触发实体的hammerid
+    "UsePriority": false,					//玩家按E时，插件会额外生成一个使用输入，防止在人群或其它场景中卡神器按钮，默认填true，机枪，燃料型神器填false
     "AbilityList": [				//神器属性配置
       {
         "Name": "",				//神器按钮的targetname
-        "ButtonID": 0,			//神器按钮的hammeruniqueid
-        "ButtonClass": "",		//神器按钮的classname，常见的有func_button，func_physbox，game_ui，注意game_ui由cs2fix插件扩展，Source 2不存在该实体
-        "Filter": "",           //字符串，激活器的过滤值。对于filter_activator_attribute_int（以$开头）的值为 |$attribute|；对于filter_activator_context（包含:）的值为 |context:value|；其他情况下的值为filter_activator_name实体的filtername
-        "Chat_Uses": false,		//神器使用时聊天框提示(神器CD低于10秒请务必设置为false)
-        "Mode": 0,				//神器冷却模式. 0 = 没有神器按钮, 1 = 神器有按钮，防E保护 2 = 冷却, 3 = 次数, 4 = 次数+冷却, 5 = 多次使用后进入冷却, 6 = max_counter - 达到最小值时停止, 7 = max_counter - 达到最大值时停止, 8 = 使用血量控制开/关的按钮
+        "ButtonID": 0,			//神器按钮的hammerid
+        "ButtonClass": "",		//神器按钮的classname
+        "Filter": "",           //神器按钮使用筛选器的名字，filter_activator_attribute_int实体的值为'$filterattribute'；filter_activator_context实体的值为'responsecontext:数字'；filter_activator_name实体的值为'filtername'
+        "Chat_Uses": false,		//该神器属性使用时是否在聊天框中提示(CD低于10秒填false，防止聊天框刷屏)
+        "Mode": 0,				//神器冷却模式. 0 = 无按钮, 1 = 仅防E神器 2 = 冷却, 3 = 次数, 4 = 次数+冷却, 5 = 多次使用后进入冷却, 6 = math_counter达到或低于最小值时触发(OnHitMin), 7 = math_counter达到或超过最大值时触发(OnHitMax), 8 = 有血量的按钮
         "MaxUses": 0,			//最多使用次数，适用于mode 3,4,5
         "CoolDown": 0,			//冷却时间，适用于mode 2,4,5
-        "Ignore": false,		//隐藏该神器属性
-        "LockItem": false,		//锁定神器按钮
-        "MathID": 0,			//math_counter的hammeruniqueid，适用于mode 6,7
-        "MathNameFix": false,	//修复math_counter的名称（使用point_template和env_entity_maker实体生成的神器，其实体的flag未勾选Preserve entity names - Don't do name fixup时填true）
-        "MathFindSpawned": false,	//武器生成后在地图上搜索math_counter（math_counter在回合开始时生成且不在point_template时填true）
-        "MathDontShowMax": false	//不显示最大值（建议填true）
+        "Ignore": false,		//当插件自动识别神器按钮错误时，填入true以隐藏神器属性。例如，使用func_physbox作为神器模型且其父级为武器的实体会被插件错误识别
+        "LockItem": false,		//锁定神器按钮，默认填false
+        "MathID": 0,			//math_counter的hammerid，适用于mode 6,7
+        "MathNameFix": false,	//math_counter名称修正（使用source2viewer查询该实体的targetname，如果名称的格式为'名字&0000'，则填true；否则填false）
+        "MathFindSpawned": false,	//武器生成后在地图上搜索math_counter（math_counter不在point_template中填true；否则填false）
+        "MathDontShowMax": false	//不显示math_counter的最大值（燃料型/动态/固定次数型神器填true，机枪填false）
       },
       {
         "Name": "",
