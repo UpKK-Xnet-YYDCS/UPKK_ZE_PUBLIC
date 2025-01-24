@@ -13,18 +13,18 @@
 ```
 [
   {
-    "Name": "",						//出现在聊天框的神器名称
-    "ShortName": "",					//出现在HUD的神器名称
-    "Color": "{default}",						//神器提示在聊天框中的颜色 例如:{default},{darkred},{green},{white},{blue}
-    "HammerID": 0,					//武器实体的hammerid
-    "GlowColor": [0,0,0,0],					//神器高亮的颜色和透明度，R,G,B参数取值范围在0-255之间且为非负整数，第四个参数A为透明度，取值范围在0.0-1.0之间
-    "BlockPickup": false,					//是否锁定神器拾取，默认填false
-    "AllowTransfer": true,					//是否允许管理员传送该神器，刀神器填false
+    "Name": "",					//出现在聊天框的神器名称
+    "ShortName": "",		//出现在HUD的神器名称
+    "Color": "{default}",			//神器提示在聊天框中的颜色 例如:{default},{darkred},{green},{white},{blue}
+    "HammerID": 0,			//武器实体的hammerid
+    "GlowColor": [0,0,0,0],			//神器高亮的颜色和透明度，R,G,B参数取值范围在0-255之间且为非负整数，第四个参数A为透明度，取值范围在0.0-1.0之间
+    "BlockPickup": false,				//是否锁定神器拾取，默认填false
+    "AllowTransfer": true,			//是否允许管理员传送该神器，刀神器填false
     "ForceDrop": true,					//允许神器落地，手枪神器填true，刀神器填false
     "Chat": true,					//神器使用时是否在聊天框中提示
     "Hud": true,					//神器是否在HUD显示
-    "TriggerID": 0,					//与该神器相关的触发实体的hammerid
-    "UsePriority": false,					//玩家按E时，插件会额外生成一个使用输入，防止在人群或其它场景中卡神器按钮，默认填true，机枪，燃料型神器填false
+    "TriggerID": 0,				//与该神器相关的触发实体的hammerid
+    "UsePriority": false,		//玩家按E时，插件会额外生成一个使用输入，防止在人群或其它场景中卡神器按钮，默认填true，机枪，燃料型神器填false
     "AbilityList": [				//神器属性配置
       {
         "Name": "",				//神器按钮的targetname
