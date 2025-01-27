@@ -71,7 +71,7 @@
         "ButtonClass": "func_button",
         "Filter": "item_zm_curse:1",
         "Chat_Uses": true,
-        "Mode": 1,
+        "Mode": 2,
         "MaxUses": 0,
         "CoolDown": 80
       }
@@ -123,7 +123,7 @@
         "ButtonClass": "func_button",
         "Filter": "item_bigdick:1",
         "Chat_Uses": true,
-        "Mode": 1,
+        "Mode": 2,
         "MaxUses": 0,
         "CoolDown": 60
       }
@@ -149,7 +149,7 @@
         "ButtonClass": "func_button",
         "Filter": "item_smalldick:1",
         "Chat_Uses": true,
-        "Mode": 1,
+        "Mode": 2,
         "MaxUses": 0,
         "CoolDown": 20
       }
@@ -175,8 +175,8 @@
         "ButtonClass": "func_button",
         "Filter": "item_heal1:1",
         "Chat_Uses": true,
-        "Mode": 1,
-        "MaxUses": 0,
+        "Mode": 3,
+        "MaxUses": 1,
         "CoolDown": 0
       }
     ]
@@ -201,8 +201,8 @@
         "ButtonClass": "func_button",
         "Filter": "item_heal2:1",
         "Chat_Uses": true,
-        "Mode": 1,
-        "MaxUses": 0,
+        "Mode": 3,
+        "MaxUses": 1,
         "CoolDown": 0
       }
     ]
@@ -227,7 +227,7 @@
         "ButtonClass": "func_button",
         "Filter": "item_push:1",
         "Chat_Uses": true,
-        "Mode": 1,
+        "Mode": 2,
         "MaxUses": 0,
         "CoolDown": 85
       }
@@ -242,7 +242,7 @@
     "BlockPickup": false,
     "AllowTransfer": true,
     "ForceDrop": true,
-    "Chat": true,
+    "Chat": false,
     "Hud": true,
     "TriggerID": 0,
     "UsePriority": true,
@@ -252,7 +252,7 @@
         "ButtonID": 0,
         "ButtonClass": "func_button",
         "Filter": "item_gun:1",
-        "Chat_Uses": true,
+        "Chat_Uses": false,
         "Mode": 1,
         "MaxUses": 0,
         "CoolDown": 0
@@ -279,7 +279,7 @@
         "ButtonClass": "func_button",
         "Filter": "item_zm_boost:1",
         "Chat_Uses": true,
-        "Mode": 1,
+        "Mode": 2,
         "MaxUses": 0,
         "CoolDown": 60
       }
@@ -305,7 +305,7 @@
         "ButtonClass": "func_button",
         "Filter": "item_rwall:1",
         "Chat_Uses": true,
-        "Mode": 1,
+        "Mode": 2,
         "MaxUses": 0,
         "CoolDown": 60
       }
@@ -331,7 +331,7 @@
         "ButtonClass": "func_button",
         "Filter": "item_ywall:1",
         "Chat_Uses": true,
-        "Mode": 1,
+        "Mode": 2,
         "MaxUses": 0,
         "CoolDown": 90
       }
@@ -357,7 +357,7 @@
         "ButtonClass": "func_button",
         "Filter": "item_gwall:1",
         "Chat_Uses": true,
-        "Mode": 1,
+        "Mode": 2,
         "MaxUses": 0,
         "CoolDown": 30
       }
