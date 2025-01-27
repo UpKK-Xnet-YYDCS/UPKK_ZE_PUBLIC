@@ -30,8 +30,7 @@ def extract_workshop_ids(file_path):
         data = parse_keyvalue(value)
         workshop_id = data.get("workshop_id", "").strip()
         filename = data.get("filename", "").strip()
-        enabled = data.get("enabled", "1").strip()  # 默认值为 "1"
-        if workshop_id and enabled == "1":
+        if workshop_id:
             workshop_ids.append(workshop_id)
             workshop_to_filename[workshop_id] = filename
 
