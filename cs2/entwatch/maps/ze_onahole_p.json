@@ -1,6 +1,6 @@
 [
   {
-    "Name": "终极/Ultima",
+    "Name": "终极",
     "ShortName": "终极",
     "Color": "{default}",
     "HammerID": 92,
@@ -17,15 +17,11 @@
         "Name": "lampshade_button",
         "ButtonID": 94,
         "ButtonClass": "func_button",
-        "Filter": "",
+        "Filter": "lampshade_cunt:1",
         "Chat_Uses": true,
-        "Mode": 3,
+        "Mode": 4,
         "MaxUses": 1,
-        "CoolDown": 0,
-        "Ignore": false,
-        "LockItem": false,
-        "MathID": 0,
-        "MathNameFix": false
+        "CoolDown": 20
       }
     ]
   }

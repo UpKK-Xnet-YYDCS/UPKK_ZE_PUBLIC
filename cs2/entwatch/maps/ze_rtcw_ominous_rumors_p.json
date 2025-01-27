@@ -1,7 +1,7 @@
 [
   {
-    "Name": "sb_gun",
-    "ShortName": "sb_gun",
+    "Name": "沙袋墙",
+    "ShortName": "沙袋墙",
     "Color": "{default}",
     "HammerID": "292",
     "GlowColor": [0,255,0,1],
@@ -14,20 +14,20 @@
     "UsePriority": true,
     "AbilityList": [
       {
-        "Name": "weapon_elite",
-        "ButtonID": 0,
-        "ButtonClass": "",
-        "Filter": "",
+        "Name": "sb_button",
+        "ButtonID": 290,
+        "ButtonClass": "func_button",
+        "Filter": "sandy",
         "Chat_Uses": true,
-        "Mode": 1,
+        "Mode": 2,
         "MaxUses": 0,
-        "CoolDown": 0
+        "CoolDown": 60
       }
     ]
   },
   {
-    "Name": "baz_g",
-    "ShortName": "baz_g",
+    "Name": "火箭炮",
+    "ShortName": "火箭炮",
     "Color": "{default}",
     "HammerID": "371",
     "GlowColor": [0,255,0,1],
@@ -40,20 +40,20 @@
     "UsePriority": true,
     "AbilityList": [
       {
-        "Name": "weapon_elite",
-        "ButtonID": 0,
-        "ButtonClass": "",
-        "Filter": "",
+        "Name": "bazooka_button",
+        "ButtonID": 376,
+        "ButtonClass": "func_button",
+        "Filter": "bazman",
         "Chat_Uses": true,
-        "Mode": 1,
+        "Mode": 2,
         "MaxUses": 0,
-        "CoolDown": 0
+        "CoolDown": 55
       }
     ]
   },
   {
-    "Name": "heal_g",
-    "ShortName": "heal_g",
+    "Name": "奶",
+    "ShortName": "奶",
     "Color": "{default}",
     "HammerID": "415",
     "GlowColor": [0,255,0,1],
@@ -66,20 +66,20 @@
     "UsePriority": true,
     "AbilityList": [
       {
-        "Name": "weapon_elite",
-        "ButtonID": 0,
-        "ButtonClass": "",
-        "Filter": "",
+        "Name": "heal_button",
+        "ButtonID": 413,
+        "ButtonClass": "func_button",
+        "Filter": "medic:1",
         "Chat_Uses": true,
-        "Mode": 1,
+        "Mode": 2,
         "MaxUses": 0,
-        "CoolDown": 0
+        "CoolDown": 80
       }
     ]
   },
   {
-    "Name": "ammogun",
-    "ShortName": "ammogun",
+    "Name": "弹夹",
+    "ShortName": "弹夹",
     "Color": "{default}",
     "HammerID": "741",
     "GlowColor": [0,255,0,1],
@@ -92,10 +92,10 @@
     "UsePriority": true,
     "AbilityList": [
       {
-        "Name": "weapon_elite",
+        "Name": "",
         "ButtonID": 0,
         "ButtonClass": "",
-        "Filter": "",
+        "Filter": "ammoman",
         "Chat_Uses": true,
         "Mode": 1,
         "MaxUses": 0,
@@ -104,8 +104,8 @@
     ]
   },
   {
-    "Name": "rffg1",
-    "ShortName": "rffg1",
+    "Name": "弹药",
+    "ShortName": "弹药",
     "Color": "{default}",
     "HammerID": "789",
     "GlowColor": [0,255,0,1],
@@ -118,20 +118,20 @@
     "UsePriority": true,
     "AbilityList": [
       {
-        "Name": "weapon_deagle",
-        "ButtonID": 0,
-        "ButtonClass": "",
-        "Filter": "",
+        "Name": "itb21",
+        "ButtonID": 787,
+        "ButtonClass": "func_button",
+        "Filter": "gunzman",
         "Chat_Uses": true,
-        "Mode": 1,
+        "Mode": 2,
         "MaxUses": 0,
-        "CoolDown": 0
+        "CoolDown": 65
       }
     ]
   },
   {
-    "Name": "baz_g2",
-    "ShortName": "baz_g2",
+    "Name": "火箭炮2",
+    "ShortName": "火箭炮2",
     "Color": "{default}",
     "HammerID": "801",
     "GlowColor": [0,255,0,1],
@@ -144,20 +144,20 @@
     "UsePriority": true,
     "AbilityList": [
       {
-        "Name": "weapon_elite",
-        "ButtonID": 0,
-        "ButtonClass": "",
-        "Filter": "",
+        "Name": "bazooka_button2",
+        "ButtonID": 798,
+        "ButtonClass": "func_button",
+        "Filter": "bazman",
         "Chat_Uses": true,
-        "Mode": 1,
+        "Mode": 2,
         "MaxUses": 0,
-        "CoolDown": 0
+        "CoolDown": 55
       }
     ]
   },
   {
-    "Name": "sb_gun2",
-    "ShortName": "sb_gun2",
+    "Name": "沙袋墙2",
+    "ShortName": "沙袋墙2",
     "Color": "{default}",
     "HammerID": "805",
     "GlowColor": [0,255,0,1],
@@ -170,37 +170,37 @@
     "UsePriority": true,
     "AbilityList": [
       {
-        "Name": "weapon_elite",
-        "ButtonID": 0,
-        "ButtonClass": "",
-        "Filter": "",
+        "Name": "sb_button2",
+        "ButtonID": 803,
+        "ButtonClass": "func_button",
+        "Filter": "sandy",
         "Chat_Uses": true,
-        "Mode": 1,
+        "Mode": 2,
         "MaxUses": 0,
-        "CoolDown": 0
+        "CoolDown": 60
       }
     ]
   },
   {
-    "Name": "fl_gun",
-    "ShortName": "fl_gun",
+    "Name": "喷火器",
+    "ShortName": "喷火器",
     "Color": "{default}",
     "HammerID": "906",
     "GlowColor": [0,255,0,1],
     "BlockPickup": false,
     "AllowTransfer": true,
     "ForceDrop": true,
-    "Chat": true,
+    "Chat": false,
     "Hud": true,
     "TriggerID": 0,
-    "UsePriority": true,
+    "UsePriority": false,
     "AbilityList": [
       {
-        "Name": "weapon_elite",
-        "ButtonID": 0,
-        "ButtonClass": "",
-        "Filter": "",
-        "Chat_Uses": true,
+        "Name": "flamebut",
+        "ButtonID": 903,
+        "ButtonClass": "momentary_rot_button",
+        "Filter": "flamet",
+        "Chat_Uses": false,
         "Mode": 1,
         "MaxUses": 0,
         "CoolDown": 0
@@ -208,8 +208,8 @@
     ]
   },
   {
-    "Name": "heal_g2",
-    "ShortName": "heal_g2",
+    "Name": "奶2",
+    "ShortName": "奶2",
     "Color": "{default}",
     "HammerID": "923",
     "GlowColor": [0,255,0,1],
@@ -222,20 +222,20 @@
     "UsePriority": true,
     "AbilityList": [
       {
-        "Name": "weapon_elite",
-        "ButtonID": 0,
-        "ButtonClass": "",
-        "Filter": "",
+        "Name": "magicbut",
+        "ButtonID": 924,
+        "ButtonClass": "func_button",
+        "Filter": "medic:1",
         "Chat_Uses": true,
-        "Mode": 1,
+        "Mode": 2,
         "MaxUses": 0,
-        "CoolDown": 0
+        "CoolDown": 80
       }
     ]
   },
   {
-    "Name": "baz_g3",
-    "ShortName": "baz_g3",
+    "Name": "火箭炮3",
+    "ShortName": "火箭炮3",
     "Color": "{default}",
     "HammerID": "1211",
     "GlowColor": [0,255,0,1],
@@ -248,20 +248,20 @@
     "UsePriority": true,
     "AbilityList": [
       {
-        "Name": "weapon_elite",
-        "ButtonID": 0,
-        "ButtonClass": "",
-        "Filter": "",
+        "Name": "baz_g3",
+        "ButtonID": 1209,
+        "ButtonClass": "func_button",
+        "Filter": "bazman",
         "Chat_Uses": true,
-        "Mode": 1,
+        "Mode": 2,
         "MaxUses": 0,
-        "CoolDown": 0
+        "CoolDown": 55
       }
     ]
   },
   {
-    "Name": "sb_gun3",
-    "ShortName": "sb_gun3",
+    "Name": "沙袋墙3",
+    "ShortName": "沙袋墙3",
     "Color": "{default}",
     "HammerID": "1221",
     "GlowColor": [0,255,0,1],
@@ -274,37 +274,37 @@
     "UsePriority": true,
     "AbilityList": [
       {
-        "Name": "weapon_elite",
-        "ButtonID": 0,
-        "ButtonClass": "",
-        "Filter": "",
+        "Name": "sb_button3",
+        "ButtonID": 1222,
+        "ButtonClass": "func_button",
+        "Filter": "sandy",
         "Chat_Uses": true,
-        "Mode": 1,
+        "Mode": 2,
         "MaxUses": 0,
-        "CoolDown": 0
+        "CoolDown": 60
       }
     ]
   },
   {
-    "Name": "fl_gun2",
-    "ShortName": "fl_gun2",
+    "Name": "喷火器2",
+    "ShortName": "喷火器2",
     "Color": "{default}",
     "HammerID": "1229",
     "GlowColor": [0,255,0,1],
     "BlockPickup": false,
     "AllowTransfer": true,
     "ForceDrop": true,
-    "Chat": true,
+    "Chat": false,
     "Hud": true,
     "TriggerID": 0,
-    "UsePriority": true,
+    "UsePriority": false,
     "AbilityList": [
       {
-        "Name": "weapon_elite",
-        "ButtonID": 0,
-        "ButtonClass": "",
-        "Filter": "",
-        "Chat_Uses": true,
+        "Name": "flamebut2",
+        "ButtonID": 1230,
+        "ButtonClass": "momentary_rot_button",
+        "Filter": "flamet",
+        "Chat_Uses": false,
         "Mode": 1,
         "MaxUses": 0,
         "CoolDown": 0
@@ -312,8 +312,8 @@
     ]
   },
   {
-    "Name": "rffg2",
-    "ShortName": "rffg2",
+    "Name": "弹药2",
+    "ShortName": "弹药2",
     "Color": "{default}",
     "HammerID": "1237",
     "GlowColor": [0,255,0,1],
@@ -326,20 +326,20 @@
     "UsePriority": true,
     "AbilityList": [
       {
-        "Name": "weapon_deagle",
-        "ButtonID": 0,
-        "ButtonClass": "",
-        "Filter": "",
+        "Name": "itb22",
+        "ButtonID": 1238,
+        "ButtonClass": "func_button",
+        "Filter": "gunzman",
         "Chat_Uses": true,
-        "Mode": 1,
+        "Mode": 2,
         "MaxUses": 0,
-        "CoolDown": 0
+        "CoolDown": 65
       }
     ]
   },
   {
-    "Name": "heal_g3",
-    "ShortName": "heal_g3",
+    "Name": "奶3",
+    "ShortName": "奶3",
     "Color": "{default}",
     "HammerID": "1249",
     "GlowColor": [0,255,0,1],
@@ -352,20 +352,20 @@
     "UsePriority": true,
     "AbilityList": [
       {
-        "Name": "weapon_elite",
-        "ButtonID": 0,
-        "ButtonClass": "",
-        "Filter": "",
+        "Name": "magicbut3",
+        "ButtonID": 1247,
+        "ButtonClass": "func_button",
+        "Filter": "medic:1",
         "Chat_Uses": true,
-        "Mode": 1,
+        "Mode": 2,
         "MaxUses": 0,
-        "CoolDown": 0
+        "CoolDown": 80
       }
     ]
   },
   {
-    "Name": "fire_gun3",
-    "ShortName": "fire_gun3",
+    "Name": "火把3",
+    "ShortName": "火把3",
     "Color": "{default}",
     "HammerID": "1276",
     "GlowColor": [0,255,0,1],
@@ -378,20 +378,20 @@
     "UsePriority": true,
     "AbilityList": [
       {
-        "Name": "weapon_elite",
+        "Name": "",
         "ButtonID": 0,
         "ButtonClass": "",
-        "Filter": "",
+        "Filter": "fireguy",
         "Chat_Uses": true,
-        "Mode": 1,
+        "Mode": 0,
         "MaxUses": 0,
         "CoolDown": 0
       }
     ]
   },
   {
-    "Name": "fire_gunw",
-    "ShortName": "fire_gunw",
+    "Name": "火把",
+    "ShortName": "火把",
     "Color": "{default}",
     "HammerID": "1282",
     "GlowColor": [0,255,0,1],
@@ -404,20 +404,20 @@
     "UsePriority": true,
     "AbilityList": [
       {
-        "Name": "weapon_elite",
+        "Name": "",
         "ButtonID": 0,
         "ButtonClass": "",
-        "Filter": "",
+        "Filter": "fireguy",
         "Chat_Uses": true,
-        "Mode": 1,
+        "Mode": 0,
         "MaxUses": 0,
         "CoolDown": 0
       }
     ]
   },
   {
-    "Name": "fire_gun2",
-    "ShortName": "fire_gun2",
+    "Name": "火把2",
+    "ShortName": "火把2",
     "Color": "{default}",
     "HammerID": "1285",
     "GlowColor": [0,255,0,1],
@@ -430,12 +430,12 @@
     "UsePriority": true,
     "AbilityList": [
       {
-        "Name": "weapon_elite",
+        "Name": "",
         "ButtonID": 0,
         "ButtonClass": "",
-        "Filter": "",
+        "Filter": "fireguy",
         "Chat_Uses": true,
-        "Mode": 1,
+        "Mode": 0,
         "MaxUses": 0,
         "CoolDown": 0
       }

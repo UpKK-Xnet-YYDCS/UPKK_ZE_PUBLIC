@@ -17,11 +17,11 @@
         "Name": "firstaid_button",
         "ButtonID": 19410,
         "ButtonClass": "func_physbox",
-        "Filter": "",
+        "Filter": "guy_medkit",
         "Chat_Uses": true,
-        "Mode": 4,
+        "Mode": 3,
         "MaxUses": 1,
-        "CoolDown": 5
+        "CoolDown": 0
       }
     ]
   },
@@ -34,7 +34,7 @@
     "BlockPickup": false,
     "AllowTransfer": true,
     "ForceDrop": true,
-    "Chat": true,
+    "Chat": false,
     "Hud": true,
     "TriggerID": 0,
     "UsePriority": true,
@@ -43,11 +43,17 @@
         "Name": "w_nade_button",
         "ButtonID": 19444,
         "ButtonClass": "func_physbox",
-        "Filter": "",
-        "Chat_Uses": true,
-        "Mode": 3,
-        "MaxUses": 18,
-        "CoolDown": 0
+        "Filter": "guy_nade",
+        "Chat_Uses": false,
+        "Mode": 7,
+        "MaxUses": 0,
+        "CoolDown": 0,
+        "Ignore": false,
+        "LockItem": false,
+        "MathID": 19441,
+        "MathNameFix": true,
+        "MathFindSpawned": false,
+        "MathDontShowMax": true
       }
     ]
   },
@@ -60,7 +66,7 @@
     "BlockPickup": false,
     "AllowTransfer": true,
     "ForceDrop": true,
-    "Chat": true,
+    "Chat": false,
     "Hud": true,
     "TriggerID": 0,
     "UsePriority": true,
@@ -69,11 +75,17 @@
         "Name": "w_claymore_button_1",
         "ButtonID": 19462,
         "ButtonClass": "func_physbox",
-        "Filter": "",
-        "Chat_Uses": true,
-        "Mode": 3,
-        "MaxUses": 10,
-        "CoolDown": 0
+        "Filter": "guy_claymore",
+        "Chat_Uses": false,
+        "Mode": 7,
+        "MaxUses": 0,
+        "CoolDown": 0,
+        "Ignore": false,
+        "LockItem": false,
+        "MathID": 19466,
+        "MathNameFix": true,
+        "MathFindSpawned": false,
+        "MathDontShowMax": true
       }
     ]
   },
@@ -95,11 +107,11 @@
         "Name": "w_ammo_button_1",
         "ButtonID": 19511,
         "ButtonClass": "func_physbox",
-        "Filter": "",
+        "Filter": "guy_ammo",
         "Chat_Uses": true,
-        "Mode": 4,
+        "Mode": 3,
         "MaxUses": 1,
-        "CoolDown": 20
+        "CoolDown": 0
       }
     ]
   },
@@ -112,20 +124,26 @@
     "BlockPickup": false,
     "AllowTransfer": true,
     "ForceDrop": true,
-    "Chat": true,
+    "Chat": false,
     "Hud": true,
     "TriggerID": 0,
-    "UsePriority": true,
+    "UsePriority": false,
     "AbilityList": [
       {
-        "Name": "",
-        "ButtonID": 0,
-        "ButtonClass": "",
-        "Filter": "",
+        "Name": "w_minigun_button_1",
+        "ButtonID": 19529,
+        "ButtonClass": "func_physbox",
+        "Filter": "guy_minigun",
         "Chat_Uses": false,
-        "Mode": 1,
+        "Mode": 6,
         "MaxUses": 0,
-        "CoolDown": 0
+        "CoolDown": 0,
+        "Ignore": false,
+        "LockItem": false,
+        "MathID": 19523,
+        "MathNameFix": true,
+        "MathFindSpawned": false,
+        "MathDontShowMax": false
       }
     ]
   },
@@ -147,11 +165,11 @@
         "Name": "w_acid_button_1",
         "ButtonID": 19420,
         "ButtonClass": "func_physbox",
-        "Filter": "",
+        "Filter": "guy_acid",
         "Chat_Uses": true,
-        "Mode": 4,
+        "Mode": 3,
         "MaxUses": 1,
-        "CoolDown": 15
+        "CoolDown": 0
       }
     ]
   },
@@ -164,7 +182,7 @@
     "BlockPickup": false,
     "AllowTransfer": true,
     "ForceDrop": true,
-    "Chat": true,
+    "Chat": false,
     "Hud": true,
     "TriggerID": 0,
     "UsePriority": true,
@@ -173,11 +191,17 @@
         "Name": "w_flame_button_1",
         "ButtonID": 19550,
         "ButtonClass": "func_physbox",
-        "Filter": "",
+        "Filter": "guy_flamethrower",
         "Chat_Uses": false,
-        "Mode": 1,
+        "Mode": 6,
         "MaxUses": 0,
-        "CoolDown": 0
+        "CoolDown": 0,
+        "Ignore": false,
+        "LockItem": false,
+        "MathID": 19549,
+        "MathNameFix": true,
+        "MathFindSpawned": false,
+        "MathDontShowMax": true
       }
     ]
   },
@@ -199,7 +223,7 @@
         "Name": "w_alien_button",
         "ButtonID": 19558,
         "ButtonClass": "func_physbox",
-        "Filter": "",
+        "Filter": "guy_aliendevice",
         "Chat_Uses": true,
         "Mode": 3,
         "MaxUses": 1,
@@ -225,7 +249,7 @@
         "Name": "w_pushgun_button",
         "ButtonID": 19573,
         "ButtonClass": "func_physbox",
-        "Filter": "",
+        "Filter": "guy_pushgun",
         "Chat_Uses": true,
         "Mode": 2,
         "MaxUses": 0,
@@ -277,7 +301,7 @@
         "Name": "w_gauss_button_1",
         "ButtonID": 19622,
         "ButtonClass": "func_physbox",
-        "Filter": "",
+        "Filter": "guy_gauss",
         "Chat_Uses": true,
         "Mode": 2,
         "MaxUses": 0,

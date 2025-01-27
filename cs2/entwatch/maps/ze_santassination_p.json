@@ -8,7 +8,7 @@
     "BlockPickup": false,
     "AllowTransfer": true,
     "ForceDrop": true,
-    "Chat": true,
+    "Chat": false,
     "Hud": true,
     "TriggerID": 0,
     "UsePriority": true,
@@ -63,7 +63,7 @@
     "Chat": false,
     "Hud": true,
     "TriggerID": 0,
-    "UsePriority": true,
+    "UsePriority": false,
     "AbilityList": [
       {
         "Name": "item_button_3",
@@ -92,7 +92,7 @@
     "BlockPickup": false,
     "AllowTransfer": true,
     "ForceDrop": true,
-    "Chat": true,
+    "Chat": false,
     "Hud": true,
     "TriggerID": 0,
     "UsePriority": true,
@@ -121,7 +121,7 @@
     "Chat": true,
     "Hud": true,
     "TriggerID": 0,
-    "UsePriority": false,
+    "UsePriority": true,
     "AbilityList": [
       {
         "Name": "item_button_5",
@@ -144,8 +144,8 @@
     "BlockPickup": false,
     "AllowTransfer": true,
     "ForceDrop": true,
-    "Chat": true,
-    "Hud": true,
+    "Chat": false,
+    "Hud": false,
     "TriggerID": 0,
     "UsePriority": true,
     "AbilityList": [
@@ -162,8 +162,8 @@
     ]
   },
   {
-    "Name": "Luff knife",
-    "ShortName": "Luff knife",
+    "Name": "Luffaren",
+    "ShortName": "Luffaren",
     "Color": "{default}",
     "HammerID": 3450,
     "GlowColor": [0,255,0,1],

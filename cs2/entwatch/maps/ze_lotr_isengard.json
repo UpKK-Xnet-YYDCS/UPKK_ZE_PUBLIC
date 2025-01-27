@@ -11,7 +11,7 @@
     "Chat": true,
     "Hud": true,
     "TriggerID": 20295,
-    "UsePriority": false,
+    "UsePriority": true,
     "AbilityList": [
       {
         "Name": "",
@@ -37,7 +37,7 @@
     "Chat": true,
     "Hud": true,
     "TriggerID": 3483,
-    "UsePriority": false,
+    "UsePriority": true,
     "AbilityList": [
       {
         "Name": "turret_button",
@@ -89,7 +89,7 @@
     "Chat": true,
     "Hud": true,
     "TriggerID": 3600,
-    "UsePriority": false,
+    "UsePriority": true,
     "AbilityList": [
       {
         "Name": "",

@@ -186,7 +186,8 @@
     "translation": "** 通往米纳斯顶部的道路打开了 ** 现在前往米纳斯的顶部 ** 生存80秒 **"
   },
   "** All humans at bottom part will die in 15 seconds **": {
-    "translation": "** 下层的所有人类都会在15秒后死亡 **"
+    "translation": "** 下层的所有人类都会在15秒后死亡 **",
+    "DoorCountDown": -1
   },
   "** THIS IS THE LAST POINT OF THE MAP ** SURVIVE THE REMAINING TIME **": {
     "translation": "** 这是地图的最后一个防守区域 ** 想办法生存到最后 **"

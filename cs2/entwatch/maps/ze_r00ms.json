@@ -1,7 +1,7 @@
 [
   {
-    "Name": "item_handfirework_gun&0000",
-    "ShortName": "item_handfirework_gun&0000",
+    "Name": "烟花",
+    "ShortName": "烟花",
     "Color": "{default}",
     "HammerID": "1353",
     "GlowColor": [0,255,0,1],
@@ -14,20 +14,20 @@
     "UsePriority": true,
     "AbilityList": [
       {
-        "Name": "weapon_deagle",
-        "ButtonID": 0,
-        "ButtonClass": "",
-        "Filter": "",
+        "Name": "item_handhirework_btn",
+        "ButtonID": 523,
+        "ButtonClass": "func_button",
+        "Filter": "item_user_HandFirework:1",
         "Chat_Uses": true,
-        "Mode": 1,
-        "MaxUses": 0,
+        "Mode": 3,
+        "MaxUses": 1,
         "CoolDown": 0
       }
     ]
   },
   {
-    "Name": "item_heal_gun&0000",
-    "ShortName": "item_heal_gun&0000",
+    "Name": "奶",
+    "ShortName": "奶",
     "Color": "{default}",
     "HammerID": "658",
     "GlowColor": [0,255,0,1],
@@ -40,20 +40,20 @@
     "UsePriority": true,
     "AbilityList": [
       {
-        "Name": "weapon_deagle",
-        "ButtonID": 0,
-        "ButtonClass": "",
-        "Filter": "",
+        "Name": "item_heal_btn",
+        "ButtonID": 659,
+        "ButtonClass": "func_button",
+        "Filter": "item_user_heal:1",
         "Chat_Uses": true,
-        "Mode": 1,
-        "MaxUses": 0,
+        "Mode": 3,
+        "MaxUses": 1,
         "CoolDown": 0
       }
     ]
   },
   {
-    "Name": "item_key_gun",
-    "ShortName": "item_key_gun",
+    "Name": "钥匙",
+    "ShortName": "钥匙",
     "Color": "{default}",
     "HammerID": "1449",
     "GlowColor": [0,255,0,1],
@@ -66,10 +66,10 @@
     "UsePriority": true,
     "AbilityList": [
       {
-        "Name": "weapon_deagle",
+        "Name": "",
         "ButtonID": 0,
         "ButtonClass": "",
-        "Filter": "",
+        "Filter": "item_user_key:1",
         "Chat_Uses": true,
         "Mode": 1,
         "MaxUses": 0,
@@ -78,8 +78,8 @@
     ]
   },
   {
-    "Name": "item_ladder_gun&0000",
-    "ShortName": "item_ladder_gun&0000",
+    "Name": "梯子",
+    "ShortName": "梯子",
     "Color": "{default}",
     "HammerID": "588",
     "GlowColor": [0,255,0,1],
@@ -92,20 +92,20 @@
     "UsePriority": true,
     "AbilityList": [
       {
-        "Name": "weapon_deagle",
-        "ButtonID": 0,
-        "ButtonClass": "",
-        "Filter": "",
+        "Name": "item_ladder_btn",
+        "ButtonID": 589,
+        "ButtonClass": "func_button",
+        "Filter": "item_user_ladder:1",
         "Chat_Uses": true,
-        "Mode": 1,
-        "MaxUses": 0,
+        "Mode": 3,
+        "MaxUses": 1,
         "CoolDown": 0
       }
     ]
   },
   {
-    "Name": "item_pull_gun&0000",
-    "ShortName": "item_pull_gun&0000",
+    "Name": "黑洞",
+    "ShortName": "黑洞",
     "Color": "{default}",
     "HammerID": "1515",
     "GlowColor": [0,255,0,1],
@@ -118,20 +118,20 @@
     "UsePriority": true,
     "AbilityList": [
       {
-        "Name": "weapon_deagle",
-        "ButtonID": 0,
-        "ButtonClass": "",
-        "Filter": "",
+        "Name": "item_pull_btn",
+        "ButtonID": 1518,
+        "ButtonClass": "func_button",
+        "Filter": "item_user_pull:1",
         "Chat_Uses": true,
-        "Mode": 1,
-        "MaxUses": 0,
+        "Mode": 3,
+        "MaxUses": 1,
         "CoolDown": 0
       }
     ]
   },
   {
-    "Name": "item_push_gun&0000",
-    "ShortName": "item_push_gun&0000",
+    "Name": "风",
+    "ShortName": "风",
     "Color": "{default}",
     "HammerID": "1473",
     "GlowColor": [0,255,0,1],
@@ -144,20 +144,20 @@
     "UsePriority": true,
     "AbilityList": [
       {
-        "Name": "weapon_deagle",
-        "ButtonID": 0,
-        "ButtonClass": "",
-        "Filter": "",
+        "Name": "item_push_btn",
+        "ButtonID": 1482,
+        "ButtonClass": "func_button",
+        "Filter": "item_user_push:1",
         "Chat_Uses": true,
-        "Mode": 1,
-        "MaxUses": 0,
+        "Mode": 3,
+        "MaxUses": 1,
         "CoolDown": 0
       }
     ]
   },
   {
-    "Name": "item_supply_gun&0000",
-    "ShortName": "item_supply_gun&0000",
+    "Name": "补给",
+    "ShortName": "补给",
     "Color": "{default}",
     "HammerID": "2185",
     "GlowColor": [0,255,0,1],
@@ -170,20 +170,20 @@
     "UsePriority": true,
     "AbilityList": [
       {
-        "Name": "weapon_deagle",
-        "ButtonID": 0,
-        "ButtonClass": "",
-        "Filter": "",
+        "Name": "item_supply_btn",
+        "ButtonID": 2183,
+        "ButtonClass": "func_button",
+        "Filter": "item_user_supply:1",
         "Chat_Uses": true,
-        "Mode": 1,
-        "MaxUses": 0,
+        "Mode": 3,
+        "MaxUses": 1,
         "CoolDown": 0
       }
     ]
   },
   {
-    "Name": "item_wall_gun&0000",
-    "ShortName": "item_wall_gun&0000",
+    "Name": "墙",
+    "ShortName": "墙",
     "Color": "{default}",
     "HammerID": "1537",
     "GlowColor": [0,255,0,1],
@@ -196,13 +196,13 @@
     "UsePriority": true,
     "AbilityList": [
       {
-        "Name": "weapon_deagle",
-        "ButtonID": 0,
-        "ButtonClass": "",
-        "Filter": "",
+        "Name": "item_wall_btn",
+        "ButtonID": 1535,
+        "ButtonClass": "func_button",
+        "Filter": "item_user_wall:1",
         "Chat_Uses": true,
-        "Mode": 1,
-        "MaxUses": 0,
+        "Mode": 3,
+        "MaxUses": 1,
         "CoolDown": 0
       }
     ]

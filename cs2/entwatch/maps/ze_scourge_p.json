@@ -1,7 +1,7 @@
 [
   {
-    "Name": "potion_heal_elite&0000",
-    "ShortName": "potion_heal_elite&0000",
+    "Name": "治愈药水",
+    "ShortName": "治愈药水",
     "Color": "{default}",
     "HammerID": "486",
     "GlowColor": [0,255,0,1],
@@ -14,20 +14,20 @@
     "UsePriority": true,
     "AbilityList": [
       {
-        "Name": "weapon_elite",
-        "ButtonID": 0,
-        "ButtonClass": "",
-        "Filter": "",
+        "Name": "potion_heal_button",
+        "ButtonID": 454,
+        "ButtonClass": "func_button",
+        "Filter": "potion_heal:1",
         "Chat_Uses": true,
-        "Mode": 1,
-        "MaxUses": 0,
+        "Mode": 3,
+        "MaxUses": 1,
         "CoolDown": 0
       }
     ]
   },
   {
-    "Name": "flame_pistol&0000",
-    "ShortName": "flame_pistol&0000",
+    "Name": "火焰",
+    "ShortName": "火焰",
     "Color": "{default}",
     "HammerID": "783",
     "GlowColor": [0,255,0,1],
@@ -40,37 +40,37 @@
     "UsePriority": true,
     "AbilityList": [
       {
-        "Name": "weapon_elite",
-        "ButtonID": 0,
-        "ButtonClass": "",
-        "Filter": "",
+        "Name": "flame_button",
+        "ButtonID": 774,
+        "ButtonClass": "func_button",
+        "Filter": "flame:1",
         "Chat_Uses": true,
-        "Mode": 1,
+        "Mode": 2,
         "MaxUses": 0,
-        "CoolDown": 0
+        "CoolDown": 60
       }
     ]
   },
   {
-    "Name": "r_bow_holder_1&0000",
-    "ShortName": "r_bow_holder_1&0000",
+    "Name": "弓",
+    "ShortName": "弓",
     "Color": "{default}",
     "HammerID": "605",
     "GlowColor": [0,255,0,1],
     "BlockPickup": false,
     "AllowTransfer": true,
     "ForceDrop": true,
-    "Chat": true,
+    "Chat": false,
     "Hud": true,
     "TriggerID": 0,
     "UsePriority": true,
     "AbilityList": [
       {
-        "Name": "weapon_elite",
-        "ButtonID": 0,
-        "ButtonClass": "",
-        "Filter": "",
-        "Chat_Uses": true,
+        "Name": "r_bow_button_1",
+        "ButtonID": 647,
+        "ButtonClass": "func_button",
+        "Filter": "bow:1",
+        "Chat_Uses": false,
         "Mode": 1,
         "MaxUses": 0,
         "CoolDown": 0
@@ -78,8 +78,8 @@
     ]
   },
   {
-    "Name": "barrel_elite",
-    "ShortName": "barrel_elite",
+    "Name": "炸药桶",
+    "ShortName": "炸药桶",
     "Color": "{default}",
     "HammerID": "613",
     "GlowColor": [0,255,0,1],
@@ -92,20 +92,20 @@
     "UsePriority": true,
     "AbilityList": [
       {
-        "Name": "weapon_elite",
-        "ButtonID": 0,
-        "ButtonClass": "",
-        "Filter": "",
+        "Name": "barrel_button",
+        "ButtonID": 639,
+        "ButtonClass": "func_button",
+        "Filter": "barrel:1",
         "Chat_Uses": true,
-        "Mode": 1,
+        "Mode": 2,
         "MaxUses": 0,
-        "CoolDown": 0
+        "CoolDown": 50
       }
     ]
   },
   {
-    "Name": "bow_exp_holder_1&0000",
-    "ShortName": "bow_exp_holder_1&0000",
+    "Name": "爆裂弓",
+    "ShortName": "爆裂弓",
     "Color": "{default}",
     "HammerID": "780",
     "GlowColor": [0,255,0,1],
@@ -118,20 +118,20 @@
     "UsePriority": true,
     "AbilityList": [
       {
-        "Name": "weapon_elite",
-        "ButtonID": 0,
-        "ButtonClass": "",
-        "Filter": "",
+        "Name": "bow_exp_button_1",
+        "ButtonID": 345,
+        "ButtonClass": "func_button",
+        "Filter": "exp:1",
         "Chat_Uses": true,
-        "Mode": 1,
+        "Mode": 2,
         "MaxUses": 0,
-        "CoolDown": 0
+        "CoolDown": 18
       }
     ]
   },
   {
-    "Name": "potion_speed_elite&0000",
-    "ShortName": "potion_speed_elite&0000",
+    "Name": "速度药水",
+    "ShortName": "速度药水",
     "Color": "{default}",
     "HammerID": "743",
     "GlowColor": [0,255,0,1],
@@ -144,20 +144,20 @@
     "UsePriority": true,
     "AbilityList": [
       {
-        "Name": "weapon_elite",
-        "ButtonID": 0,
-        "ButtonClass": "",
-        "Filter": "",
+        "Name": "potion_speed_button",
+        "ButtonID": 741,
+        "ButtonClass": "func_button",
+        "Filter": "speed_potion:1",
         "Chat_Uses": true,
-        "Mode": 1,
-        "MaxUses": 0,
+        "Mode": 3,
+        "MaxUses": 1,
         "CoolDown": 0
       }
     ]
   },
   {
-    "Name": "ammo_potion_elite&0000",
-    "ShortName": "ammo_potion_elite&0000",
+    "Name": "弹药补给",
+    "ShortName": "弹药补给",
     "Color": "{default}",
     "HammerID": "752",
     "GlowColor": [0,255,0,1],
@@ -170,20 +170,20 @@
     "UsePriority": true,
     "AbilityList": [
       {
-        "Name": "weapon_elite",
-        "ButtonID": 0,
-        "ButtonClass": "",
-        "Filter": "",
+        "Name": "ammo_potion_button",
+        "ButtonID": 763,
+        "ButtonClass": "func_button",
+        "Filter": "ammo_potion:1",
         "Chat_Uses": true,
-        "Mode": 1,
-        "MaxUses": 0,
+        "Mode": 3,
+        "MaxUses": 1,
         "CoolDown": 0
       }
     ]
   },
   {
-    "Name": "shotgun&0000",
-    "ShortName": "shotgun&0000",
+    "Name": "霰弹枪",
+    "ShortName": "霰弹枪",
     "Color": "{default}",
     "HammerID": "789",
     "GlowColor": [0,255,0,1],
@@ -196,14 +196,14 @@
     "UsePriority": true,
     "AbilityList": [
       {
-        "Name": "weapon_elite",
-        "ButtonID": 0,
-        "ButtonClass": "",
-        "Filter": "",
+        "Name": "shotgun_button",
+        "ButtonID": 769,
+        "ButtonClass": "func_button",
+        "Filter": "shotgun:1",
         "Chat_Uses": true,
-        "Mode": 1,
+        "Mode": 2,
         "MaxUses": 0,
-        "CoolDown": 0
+        "CoolDown": 10
       }
     ]
   }

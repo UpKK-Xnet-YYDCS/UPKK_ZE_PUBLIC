@@ -1,59 +1,71 @@
 [
   {
-    "Name": "HumanTrainers&0000",
-    "ShortName": "HumanTrainers&0000",
+    "Name": "加速",
+    "ShortName": "加速",
     "Color": "{default}",
     "HammerID": "2724",
     "GlowColor": [0,255,0,1],
     "BlockPickup": false,
     "AllowTransfer": true,
     "ForceDrop": true,
-    "Chat": true,
+    "Chat": false,
     "Hud": true,
     "TriggerID": 0,
     "UsePriority": true,
     "AbilityList": [
       {
-        "Name": "weapon_elite",
-        "ButtonID": 0,
-        "ButtonClass": "",
-        "Filter": "",
-        "Chat_Uses": true,
-        "Mode": 1,
+        "Name": "HTrainers_Button",
+        "ButtonID": 4672,
+        "ButtonClass": "func_button",
+        "Filter": "HT",
+        "Chat_Uses": false,
+        "Mode": 6,
         "MaxUses": 0,
-        "CoolDown": 0
+        "CoolDown": 0,
+        "Ignore": false,
+        "LockItem": false,
+        "MathID": 2729,
+        "MathNameFix": true,
+        "MathFindSpawned": false,
+        "MathDontShowMax": true
       }
     ]
   },
   {
-    "Name": "ZombieTrainers&0000",
-    "ShortName": "ZombieTrainers&0000",
+    "Name": "ZM 加速",
+    "ShortName": "ZM 加速",
     "Color": "{default}",
     "HammerID": "2732",
     "GlowColor": [0,255,0,1],
     "BlockPickup": false,
-    "AllowTransfer": true,
-    "ForceDrop": true,
-    "Chat": true,
+    "AllowTransfer": false,
+    "ForceDrop": false,
+    "Chat": false,
     "Hud": true,
-    "TriggerID": 0,
+    "TriggerID": 2532,
     "UsePriority": true,
     "AbilityList": [
       {
-        "Name": "weapon_knife",
-        "ButtonID": 0,
-        "ButtonClass": "",
-        "Filter": "",
-        "Chat_Uses": true,
-        "Mode": 1,
+        "Name": "ZTrainers_Button",
+        "ButtonID": 4674,
+        "ButtonClass": "func_button",
+        "Filter": "ZT",
+        "Chat_Uses": false,
+        "Mode": 6,
         "MaxUses": 0,
-        "CoolDown": 0
+        "CoolDown": 0,
+        "Ignore": false,
+        "LockItem": false,
+        "MathID": 2737,
+        "MathNameFix": true,
+        "MathFindSpawned": false,
+        "MathDontShowMax": true
       }
     ]
   },
   {
-    "Name": "Healer&0000",
-    "ShortName": "Healer&0000",
+    "Name": "奶",
+    "ShortName": "奶",
     "Color": "{default}",
     "HammerID": "2913",
     "GlowColor": [0,255,0,1],
@@ -66,72 +78,78 @@
     "UsePriority": true,
     "AbilityList": [
       {
-        "Name": "weapon_elite",
-        "ButtonID": 0,
-        "ButtonClass": "",
-        "Filter": "",
+        "Name": "Healer_Button",
+        "ButtonID": 4667,
+        "ButtonClass": "func_button",
+        "Filter": "HE",
         "Chat_Uses": true,
-        "Mode": 1,
+        "Mode": 2,
         "MaxUses": 0,
-        "CoolDown": 0
+        "CoolDown": 31
       }
     ]
   },
   {
-    "Name": "NadeGenerator&0000",
-    "ShortName": "NadeGenerator&0000",
+    "Name": "手雷",
+    "ShortName": "手雷",
     "Color": "{default}",
     "HammerID": "2923",
     "GlowColor": [0,255,0,1],
     "BlockPickup": false,
     "AllowTransfer": true,
     "ForceDrop": true,
-    "Chat": true,
+    "Chat": false,
     "Hud": true,
     "TriggerID": 0,
     "UsePriority": true,
     "AbilityList": [
       {
-        "Name": "weapon_elite",
-        "ButtonID": 0,
-        "ButtonClass": "",
-        "Filter": "",
-        "Chat_Uses": true,
-        "Mode": 1,
+        "Name": "Nade_Button",
+        "ButtonID": 4660,
+        "ButtonClass": "func_button",
+        "Filter": "NA",
+        "Chat_Uses": false,
+        "Mode": 6,
         "MaxUses": 0,
-        "CoolDown": 0
+        "CoolDown": 0,
+        "Ignore": false,
+        "LockItem": false,
+        "MathID": 2924,
+        "MathNameFix": true,
+        "MathFindSpawned": false,
+        "MathDontShowMax": true
       }
     ]
   },
   {
-    "Name": "VaccumKnife&0000",
-    "ShortName": "VaccumKnife&0000",
+    "Name": "ZM 吸尘器",
+    "ShortName": "ZM 吸尘器",
     "Color": "{default}",
     "HammerID": "3052",
     "GlowColor": [0,255,0,1],
     "BlockPickup": false,
-    "AllowTransfer": true,
-    "ForceDrop": true,
+    "AllowTransfer": false,
+    "ForceDrop": false,
     "Chat": true,
     "Hud": true,
-    "TriggerID": 0,
+    "TriggerID": 2534,
     "UsePriority": true,
     "AbilityList": [
       {
-        "Name": "weapon_knife",
-        "ButtonID": 0,
-        "ButtonClass": "",
-        "Filter": "",
+        "Name": "VacButton",
+        "ButtonID": 4656,
+        "ButtonClass": "func_button",
+        "Filter": "VC",
         "Chat_Uses": true,
-        "Mode": 1,
+        "Mode": 2,
         "MaxUses": 0,
-        "CoolDown": 0
+        "CoolDown": 41
       }
     ]
   },
   {
-    "Name": "SprideGun&0000",
-    "ShortName": "SprideGun&0000",
+    "Name": "Spride",
+    "ShortName": "Spride",
     "Color": "{default}",
     "HammerID": "3177",
     "GlowColor": [0,255,0,1],
@@ -144,10 +162,10 @@
     "UsePriority": true,
     "AbilityList": [
       {
-        "Name": "weapon_elite",
+        "Name": "",
         "ButtonID": 0,
         "ButtonClass": "",
-        "Filter": "",
+        "Filter": "spride:1",
         "Chat_Uses": true,
         "Mode": 1,
         "MaxUses": 0,
@@ -156,8 +174,8 @@
     ]
   },
   {
-    "Name": "flashGun&0000",
-    "ShortName": "flashGun&0000",
+    "Name": "Flash",
+    "ShortName": "Flash",
     "Color": "{default}",
     "HammerID": "3332",
     "GlowColor": [0,255,0,1],
@@ -170,10 +188,10 @@
     "UsePriority": true,
     "AbilityList": [
       {
-        "Name": "weapon_elite",
+        "Name": "",
         "ButtonID": 0,
         "ButtonClass": "",
-        "Filter": "",
+        "Filter": "flash:1",
         "Chat_Uses": true,
         "Mode": 1,
         "MaxUses": 0,
@@ -182,8 +200,8 @@
     ]
   },
   {
-    "Name": "LaserGun&0000",
-    "ShortName": "LaserGun&0000",
+    "Name": "激光枪",
+    "ShortName": "激光枪",
     "Color": "{default}",
     "HammerID": "3352",
     "GlowColor": [0,255,0,1],
@@ -196,20 +214,20 @@
     "UsePriority": true,
     "AbilityList": [
       {
-        "Name": "weapon_elite",
-        "ButtonID": 0,
-        "ButtonClass": "",
-        "Filter": "",
+        "Name": "LaserGun_Button",
+        "ButtonID": 4662,
+        "ButtonClass": "func_button",
+        "Filter": "LA",
         "Chat_Uses": true,
-        "Mode": 1,
+        "Mode": 2,
         "MaxUses": 0,
-        "CoolDown": 0
+        "CoolDown": 40
       }
     ]
   },
   {
-    "Name": "PushGunElites&0000",
-    "ShortName": "PushGunElites&0000",
+    "Name": "推力",
+    "ShortName": "推力",
     "Color": "{default}",
     "HammerID": "3607",
     "GlowColor": [0,255,0,1],
@@ -222,40 +240,46 @@
     "UsePriority": true,
     "AbilityList": [
       {
-        "Name": "weapon_elite",
-        "ButtonID": 0,
-        "ButtonClass": "",
-        "Filter": "",
+        "Name": "PushButton",
+        "ButtonID": 4654,
+        "ButtonClass": "func_button",
+        "Filter": "PU",
         "Chat_Uses": true,
-        "Mode": 1,
+        "Mode": 2,
         "MaxUses": 0,
-        "CoolDown": 0
+        "CoolDown": 41
       }
     ]
   },
   {
-    "Name": "QuackElites",
-    "ShortName": "QuackElites",
+    "Name": "Quack",
+    "ShortName": "Quack",
     "Color": "{default}",
     "HammerID": "3071",
     "GlowColor": [0,255,0,1],
     "BlockPickup": false,
     "AllowTransfer": true,
     "ForceDrop": true,
-    "Chat": true,
+    "Chat": false,
     "Hud": true,
     "TriggerID": 0,
     "UsePriority": true,
     "AbilityList": [
       {
-        "Name": "weapon_elite",
-        "ButtonID": 0,
-        "ButtonClass": "",
-        "Filter": "",
-        "Chat_Uses": true,
-        "Mode": 1,
+        "Name": "QuackButton",
+        "ButtonID": 3072,
+        "ButtonClass": "func_button",
+        "Filter": "quack",
+        "Chat_Uses": false,
+        "Mode": 6,
         "MaxUses": 0,
-        "CoolDown": 0
+        "CoolDown": 0,
+        "Ignore": false,
+        "LockItem": false,
+        "MathID": 3063,
+        "MathNameFix": true,
+        "MathFindSpawned": false,
+        "MathDontShowMax": true
       }
     ]
   }

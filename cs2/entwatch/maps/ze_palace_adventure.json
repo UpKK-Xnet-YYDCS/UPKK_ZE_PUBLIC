@@ -1,7 +1,7 @@
 [
   {
-    "Name": "item_fire_weapon",
-    "ShortName": "item_fire_weapon",
+    "Name": "火",
+    "ShortName": "火",
     "Color": "{default}",
     "HammerID": "864",
     "GlowColor": [0,255,0,1],
@@ -14,20 +14,20 @@
     "UsePriority": true,
     "AbilityList": [
       {
-        "Name": "weapon_elite",
-        "ButtonID": 0,
-        "ButtonClass": "",
-        "Filter": "",
+        "Name": "item_fire_button",
+        "ButtonID": 865,
+        "ButtonClass": "func_button",
+        "Filter": "item_fire_user",
         "Chat_Uses": true,
-        "Mode": 1,
+        "Mode": 2,
         "MaxUses": 0,
-        "CoolDown": 0
+        "CoolDown": 50
       }
     ]
   },
   {
-    "Name": "item_health_weapon",
-    "ShortName": "item_health_weapon",
+    "Name": "奶",
+    "ShortName": "奶",
     "Color": "{default}",
     "HammerID": "918",
     "GlowColor": [0,255,0,1],
@@ -40,20 +40,20 @@
     "UsePriority": true,
     "AbilityList": [
       {
-        "Name": "weapon_elite",
-        "ButtonID": 0,
-        "ButtonClass": "",
-        "Filter": "",
+        "Name": "item_health_button",
+        "ButtonID": 914,
+        "ButtonClass": "func_button",
+        "Filter": "item_health_user",
         "Chat_Uses": true,
-        "Mode": 1,
+        "Mode": 2,
         "MaxUses": 0,
-        "CoolDown": 0
+        "CoolDown": 40
       }
     ]
   },
   {
-    "Name": "item_wind_weapon",
-    "ShortName": "item_wind_weapon",
+    "Name": "风",
+    "ShortName": "风",
     "Color": "{default}",
     "HammerID": "939",
     "GlowColor": [0,255,0,1],
@@ -66,20 +66,20 @@
     "UsePriority": true,
     "AbilityList": [
       {
-        "Name": "weapon_elite",
-        "ButtonID": 0,
-        "ButtonClass": "",
-        "Filter": "",
+        "Name": "item_wind_button",
+        "ButtonID": 934,
+        "ButtonClass": "func_button",
+        "Filter": "item_wind_user",
         "Chat_Uses": true,
-        "Mode": 1,
+        "Mode": 2,
         "MaxUses": 0,
-        "CoolDown": 0
+        "CoolDown": 55
       }
     ]
   },
   {
-    "Name": "item_water_weapon",
-    "ShortName": "item_water_weapon",
+    "Name": "水",
+    "ShortName": "水",
     "Color": "{default}",
     "HammerID": "971",
     "GlowColor": [0,255,0,1],
@@ -92,14 +92,14 @@
     "UsePriority": true,
     "AbilityList": [
       {
-        "Name": "weapon_elite",
-        "ButtonID": 0,
-        "ButtonClass": "",
-        "Filter": "",
+        "Name": "item_water_button",
+        "ButtonID": 972,
+        "ButtonClass": "func_button",
+        "Filter": "item_water_user",
         "Chat_Uses": true,
-        "Mode": 1,
+        "Mode": 2,
         "MaxUses": 0,
-        "CoolDown": 0
+        "CoolDown": 55
       }
     ]
   }

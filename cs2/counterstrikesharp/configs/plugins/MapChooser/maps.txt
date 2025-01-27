@@ -384,12 +384,6 @@
 		"search"		"咸鱼滑翔"
 		"RestrictedTimes"	"00:00-12:00;20:00-23:59"
 	}
-	"ze_minecraft_journey_v1"
-	{
-		"workshop_id"		"3093037356"
-		"enabled"		"0"
-		"filename"		"ze_minecraft_journey"
-	}
 	"ze_FFVII_Fako_Reactor"
 	{
 		"workshop_id"		"3136003731"
@@ -753,13 +747,6 @@
 		"updatedname"		"ze_only_up"
 		"search"		"一路向上"
 		"RestrictedTimes"	"00:00-12:00;23:00-23:59"
-	}
-	"Ze_SenS"
-	{
-		"workshop_id"		"3231216655"
-		"enabled"		"0"
-		"filename"		"ze_sens"
-		"updatedname"		"ze_sens"
 	}
 	"ze_fapescape_rote_p"
 	{
@@ -1356,13 +1343,6 @@
 		"filename"		"ze_magic_carpet_p"
 		"updatedname"		"ze_magic_carpet_p"
 	}
-	"ze_evil_mansion_cs2_l"
-	{
-		"workshop_id"		"3263625340"
-		"enabled"		"0"
-		"filename"		"ze_evil_mansion_cs2_l"
-		"updatedname"		"ze_evil_mansion_cs2_l"
-	}
 	"ze_skygarden"
 	{
 		"workshop_id"		"3264110647"
@@ -1541,13 +1521,6 @@
 		"enabled"		"1"
 		"filename"		"ze_palace_adventure"
 		"updatedname"		"ze_palace_adventure"
-	}
-	"ze_kongzhongyiji"
-	{
-		"workshop_id"		"3262870672"
-		"enabled"		"0"
-		"filename"		"ze_kongzhongyiji"
-		"updatedname"		"ze_kongzhongyiji"
 	}
 	"ze_stark_escape"
 	{
@@ -1915,13 +1888,6 @@
 		"filename"		"ze_sky_defend"
 		"updatedname"		"ze_sky_defend_v1"
 	}
-	"ze_shenzhimudi_dawn_ysn1"
-	{
-		"workshop_id"		"3303404537"
-		"enabled"		"1"
-		"filename"		"ze_shenzhimudi_dawn_ysn1"
-		"updatedname"		"ze_shenzhimudi_dawn_ysn1"
-	}
 	"ze_Steyliff_Grove"
 	{
 		"workshop_id"		"3304076935"
@@ -2014,7 +1980,7 @@
 	"ze_LOTR_Minas_Tirith_p"
 	{
 		"workshop_id"		"3314560349"
-		"enabled"		"0"
+		"enabled"		"1"
 		"filename"		"ze_lotr_minas_tirith_p"
 		"updatedname"		"ze_LOTR_Minas_Tirith_p"
 		"search"		"米那斯;魔戒3"
@@ -2302,13 +2268,6 @@
 		"filename"		"ze_obf_npst_v2"
 		"updatedname"		"ze_Obf_NPST_v2"
 		"RestrictedTimes"	"00:00-12:00;23:00-23:59"
-	}
-	"ze_parking_cs2"
-	{
-		"workshop_id"		"3349087452"
-		"enabled"		"1"
-		"filename"		"ze_parking_cs2"
-		"updatedname"		"ze_parking_cs2"
 	}
 	"ze_light_911"
 	{
@@ -2756,7 +2715,7 @@
 	"ze_lotr_minas_tirith_recompile"
 	{
 		"workshop_id"		"3353505696"
-		"enabled"		"1"
+		"enabled"		"0"
 		"filename"		"ze_lotr_minas_tirith"
 		"updatedname"		"ze_lotr_minas_tirith_recompile"
 	}
@@ -2946,13 +2905,6 @@
 		"filename"		"ze_ffxiv_coil_of_bahamut"
 		"updatedname"		"ze_FFXIV_Coil_of_Bahamut"
 	}
-	"ze_games_cs2_l"
-	{
-		"workshop_id"		"3400208308"
-		"enabled"		"1"
-		"filename"		"ze_games_cs2_l"
-		"updatedname"		"ze_games_cs2_l"
-	}
 	"ze_honkai_impact_3rd_babel_z"
 	{
 		"workshop_id"		"3399954774"
@@ -2988,5 +2940,71 @@
 		"enabled"		"1"
 		"filename"		"ze_mako_reactor_v5_3"
 		"updatedname"		"ze_ffvii_mako_reactor_v5_3"
+	}
+	"ze_biohazard2_sewer_004"
+	{
+		"workshop_id"		"3404397288"
+		"enabled"		"1"
+		"filename"		"ze_biohazard2_sewer_004"
+		"updatedname"		"ze_biohazard2_sewer_004"
+		"search"		"生化危机2;下水道"
+	}
+	"ze_paradise_t"
+	{
+		"workshop_id"		"3404515839"
+		"enabled"		"1"
+		"filename"		"ze_paradise_t"
+		"updatedname"		"ze_paradise_t"
+	}
+	"ze_parking_p"
+	{
+		"workshop_id"		"3405314470"
+		"enabled"		"1"
+		"filename"		"ze_parking_p"
+		"updatedname"		"ze_parking_p"
+	}
+	"ze_dnd_hydra_z"
+	{
+		"workshop_id"		"3406009899"
+		"enabled"		"1"
+		"filename"		"ze_dnd_hydra_z"
+		"updatedname"		"ze_dnd_hydra_z"
+	}
+	"ze_obj_ember"
+	{
+		"workshop_id"		"3408908971"
+		"enabled"		"1"
+		"filename"		"ze_obj_ember"
+		"updatedname"		"ze_obj_ember"
+		"RestrictedTimes"	"00:00-12:00;23:00-23:59"
+	}
+	"ze_surf_auv"
+	{
+		"workshop_id"		"3410416437"
+		"enabled"		"1"
+		"filename"		"ze_surf_auv"
+		"updatedname"		"ze_surf_auv"
+		"RestrictedTimes"	"00:00-12:00;20:00-23:59"
+	}
+	"ze_alien_shooter"
+	{
+		"workshop_id"		"3410639236"
+		"enabled"		"1"
+		"filename"		"ze_alien_shooter"
+		"updatedname"		"ze_alien_shooter"
+	}
+	"ze_sele"
+	{
+		"workshop_id"		"3411145443"
+		"enabled"		"1"
+		"filename"		"ze_sele"
+		"updatedname"		"ze_sele"
+	}
+	"ze_bioluminescent"
+	{
+		"workshop_id"		"3412129855"
+		"enabled"		"1"
+		"filename"		"ze_bioluminescent"
+		"updatedname"		"ze_bioluminescent"
 	}
 }

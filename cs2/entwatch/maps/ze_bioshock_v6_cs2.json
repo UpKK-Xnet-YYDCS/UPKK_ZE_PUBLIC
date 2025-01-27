@@ -3,7 +3,7 @@
     "Name": "闪电质粒",
     "ShortName": "闪电质粒",
     "Color": "{default}",
-    "HammerID": "3039",
+    "HammerID": "19212",
     "GlowColor": [0,255,0,1],
     "BlockPickup": false,
     "AllowTransfer": true,
@@ -15,12 +15,12 @@
     "AbilityList": [
       {
         "Name": "plasmid_button_electro",
-        "ButtonID": 3040,
+        "ButtonID": 18285,
         "ButtonClass": "func_button",
         "Filter": "electrouser",
         "Chat_Uses": true,
-        "Mode": 2,
-        "MaxUses": 0,
+        "Mode": 4,
+        "MaxUses": 8,
         "CoolDown": 11
       }
     ]
@@ -29,7 +29,7 @@
     "Name": "焚化质粒",
     "ShortName": "焚化质粒",
     "Color": "{default}",
-    "HammerID": "3048",
+    "HammerID": "19211",
     "GlowColor": [0,255,0,1],
     "BlockPickup": false,
     "AllowTransfer": true,
@@ -41,12 +41,12 @@
     "AbilityList": [
       {
         "Name": "plasmid_button_incinerate",
-        "ButtonID": 3049,
+        "ButtonID": 18283,
         "ButtonClass": "func_button",
         "Filter": "incinerateuser",
         "Chat_Uses": true,
-        "Mode": 2,
-        "MaxUses": 0,
+        "Mode": 4,
+        "MaxUses": 8,
         "CoolDown": 5
       }
     ]
@@ -55,7 +55,7 @@
     "Name": "音爆质粒",
     "ShortName": "音爆质粒",
     "Color": "{default}",
-    "HammerID": "3058",
+    "HammerID": "19210",
     "GlowColor": [0,255,0,1],
     "BlockPickup": false,
     "AllowTransfer": true,
@@ -67,12 +67,12 @@
     "AbilityList": [
       {
         "Name": "plasmid_button_cyclone",
-        "ButtonID": 3059,
+        "ButtonID": 18281,
         "ButtonClass": "func_button",
         "Filter": "cycloneuser",
         "Chat_Uses": true,
-        "Mode": 2,
-        "MaxUses": 0,
+        "Mode": 4,
+        "MaxUses": 6,
         "CoolDown": 10
       }
     ]
@@ -81,7 +81,7 @@
     "Name": "蜂群质粒",
     "ShortName": "蜂群质粒",
     "Color": "{default}",
-    "HammerID": "3145",
+    "HammerID": "19209",
     "GlowColor": [0,255,0,1],
     "BlockPickup": false,
     "AllowTransfer": true,
@@ -93,21 +93,21 @@
     "AbilityList": [
       {
         "Name": "plasmid_button_insect",
-        "ButtonID": 3146,
+        "ButtonID": 18220,
         "ButtonClass": "func_button",
         "Filter": "insectuser",
         "Chat_Uses": true,
-        "Mode": 2,
-        "MaxUses": 0,
+        "Mode": 4,
+        "MaxUses": 5,
         "CoolDown": 10
       }
     ]
   },
   {
     "Name": "基因强化:闪电",
-    "ShortName": "基因强化:闪电",
+    "ShortName": "闪光罩",
     "Color": "{default}",
-    "HammerID": "3516",
+    "HammerID": "19216",
     "GlowColor": [0,255,0,1],
     "BlockPickup": false,
     "AllowTransfer": false,
@@ -131,9 +131,9 @@
   },
   {
     "Name": "基因强化: 静电罩",
-    "ShortName": "基因强化: 静电罩",
+    "ShortName": "静电罩",
     "Color": "{default}",
-    "HammerID": "3521",
+    "HammerID": "19215",
     "GlowColor": [0,255,0,1],
     "BlockPickup": false,
     "AllowTransfer": false,
@@ -156,10 +156,10 @@
     ]
   },
   {
-    "Name": "ZM 小妹妹",
-    "ShortName": "ZM 小妹妹",
+    "Name": "ZM小妹妹",
+    "ShortName": "ZM小妹妹",
     "Color": "{default}",
-    "HammerID": "3550",
+    "HammerID": "19214",
     "GlowColor": [0,255,0,1],
     "BlockPickup": false,
     "AllowTransfer": false,
@@ -182,10 +182,10 @@
     ]
   },
   {
-    "Name": "ZM 大老爹",
-    "ShortName": "ZM 大老爹",
+    "Name": "ZM大老爹",
+    "ShortName": "ZM大老爹",
     "Color": "{default}",
-    "HammerID": "3557",
+    "HammerID": "19213",
     "GlowColor": [0,255,0,1],
     "BlockPickup": false,
     "AllowTransfer": false,
@@ -211,7 +211,7 @@
     "Name": "重力质粒",
     "ShortName": "重力质粒",
     "Color": "{default}",
-    "HammerID": "4170",
+    "HammerID": "19208",
     "GlowColor": [0,255,0,1],
     "BlockPickup": false,
     "AllowTransfer": true,
@@ -223,12 +223,12 @@
     "AbilityList": [
       {
         "Name": "plasmid_button_gravity",
-        "ButtonID": 4171,
+        "ButtonID": 18277,
         "ButtonClass": "func_button",
         "Filter": "gravityuser",
         "Chat_Uses": true,
-        "Mode": 2,
-        "MaxUses": 0,
+        "Mode": 4,
+        "MaxUses": 5,
         "CoolDown": 18
       }
     ]
@@ -237,7 +237,7 @@
     "Name": "寒霜质粒",
     "ShortName": "寒霜质粒",
     "Color": "{default}",
-    "HammerID": "4182",
+    "HammerID": "19207",
     "GlowColor": [0,255,0,1],
     "BlockPickup": false,
     "AllowTransfer": true,
@@ -249,12 +249,12 @@
     "AbilityList": [
       {
         "Name": "plasmid_button_frost",
-        "ButtonID": 4183,
+        "ButtonID": 18275,
         "ButtonClass": "func_button",
         "Filter": "frostuser",
         "Chat_Uses": true,
-        "Mode": 2,
-        "MaxUses": 0,
+        "Mode": 4,
+        "MaxUses": 5,
         "CoolDown": 13
       }
     ]

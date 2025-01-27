@@ -1,24 +1,24 @@
 [
   {
-    "Name": "zombie_freezeball_knife",
-    "ShortName": "zombie_freezeball_knife",
+    "Name": "ZM 冰冻球",
+    "ShortName": "ZM 冰冻球",
     "Color": "{default}",
     "HammerID": "1262",
     "GlowColor": [0,255,0,1],
     "BlockPickup": false,
-    "AllowTransfer": true,
-    "ForceDrop": true,
-    "Chat": true,
+    "AllowTransfer": false,
+    "ForceDrop": false,
+    "Chat": false,
     "Hud": true,
-    "TriggerID": 0,
+    "TriggerID": 1259,
     "UsePriority": true,
     "AbilityList": [
       {
-        "Name": "weapon_knife",
+        "Name": "",
         "ButtonID": 0,
         "ButtonClass": "",
-        "Filter": "",
-        "Chat_Uses": true,
+        "Filter": "player_zombie_freezeball",
+        "Chat_Uses": false,
         "Mode": 1,
         "MaxUses": 0,
         "CoolDown": 0
@@ -26,25 +26,25 @@
     ]
   },
   {
-    "Name": "zombie_gravity_knife",
-    "ShortName": "zombie_gravity_knife",
+    "Name": "ZM 黑洞",
+    "ShortName": "ZM 黑洞",
     "Color": "{default}",
     "HammerID": "1278",
     "GlowColor": [0,255,0,1],
     "BlockPickup": false,
-    "AllowTransfer": true,
-    "ForceDrop": true,
-    "Chat": true,
+    "AllowTransfer": false,
+    "ForceDrop": false,
+    "Chat": false,
     "Hud": true,
-    "TriggerID": 0,
+    "TriggerID": 1282,
     "UsePriority": true,
     "AbilityList": [
       {
-        "Name": "weapon_knife",
+        "Name": "",
         "ButtonID": 0,
         "ButtonClass": "",
-        "Filter": "",
-        "Chat_Uses": true,
+        "Filter": "player_zombie_gravity",
+        "Chat_Uses": false,
         "Mode": 1,
         "MaxUses": 0,
         "CoolDown": 0
@@ -52,25 +52,25 @@
     ]
   },
   {
-    "Name": "zombie_heal_knife",
-    "ShortName": "zombie_heal_knife",
+    "Name": "ZM 奶",
+    "ShortName": "ZM 奶",
     "Color": "{default}",
     "HammerID": "1299",
     "GlowColor": [0,255,0,1],
     "BlockPickup": false,
-    "AllowTransfer": true,
-    "ForceDrop": true,
-    "Chat": true,
+    "AllowTransfer": false,
+    "ForceDrop": false,
+    "Chat": false,
     "Hud": true,
-    "TriggerID": 0,
+    "TriggerID": 1292,
     "UsePriority": true,
     "AbilityList": [
       {
-        "Name": "weapon_knife",
+        "Name": "",
         "ButtonID": 0,
         "ButtonClass": "",
-        "Filter": "",
-        "Chat_Uses": true,
+        "Filter": "player_zombie_heal",
+        "Chat_Uses": false,
         "Mode": 1,
         "MaxUses": 0,
         "CoolDown": 0
@@ -78,8 +78,8 @@
     ]
   },
   {
-    "Name": "human_heal_elite",
-    "ShortName": "human_heal_elite",
+    "Name": "奶",
+    "ShortName": "奶",
     "Color": "{default}",
     "HammerID": "1333",
     "GlowColor": [0,255,0,1],
@@ -92,20 +92,20 @@
     "UsePriority": true,
     "AbilityList": [
       {
-        "Name": "weapon_elite",
-        "ButtonID": 0,
-        "ButtonClass": "",
-        "Filter": "",
+        "Name": "human_heal_button",
+        "ButtonID": 1330,
+        "ButtonClass": "func_physbox",
+        "Filter": "human_heal",
         "Chat_Uses": true,
-        "Mode": 1,
+        "Mode": 2,
         "MaxUses": 0,
-        "CoolDown": 0
+        "CoolDown": 80
       }
     ]
   },
   {
-    "Name": "human_ice_elite",
-    "ShortName": "human_ice_elite",
+    "Name": "冰",
+    "ShortName": "冰",
     "Color": "{default}",
     "HammerID": "1978",
     "GlowColor": [0,255,0,1],
@@ -118,20 +118,20 @@
     "UsePriority": true,
     "AbilityList": [
       {
-        "Name": "weapon_elite",
-        "ButtonID": 0,
-        "ButtonClass": "",
-        "Filter": "",
+        "Name": "human_ice_button",
+        "ButtonID": 1975,
+        "ButtonClass": "func_physbox",
+        "Filter": "human_ice",
         "Chat_Uses": true,
-        "Mode": 1,
+        "Mode": 2,
         "MaxUses": 0,
-        "CoolDown": 0
+        "CoolDown": 90
       }
     ]
   },
   {
-    "Name": "human_fire_elite",
-    "ShortName": "human_fire_elite",
+    "Name": "火",
+    "ShortName": "火",
     "Color": "{default}",
     "HammerID": "1989",
     "GlowColor": [0,255,0,1],
@@ -144,20 +144,20 @@
     "UsePriority": true,
     "AbilityList": [
       {
-        "Name": "weapon_elite",
-        "ButtonID": 0,
-        "ButtonClass": "",
-        "Filter": "",
+        "Name": "human_fire_button",
+        "ButtonID": 1986,
+        "ButtonClass": "func_physbox",
+        "Filter": "human_fire",
         "Chat_Uses": true,
-        "Mode": 1,
+        "Mode": 2,
         "MaxUses": 0,
-        "CoolDown": 0
+        "CoolDown": 90
       }
     ]
   },
   {
-    "Name": "human_stone_ice_elite",
-    "ShortName": "human_stone_ice_elite",
+    "Name": "冰墙",
+    "ShortName": "冰墙",
     "Color": "{default}",
     "HammerID": "2005",
     "GlowColor": [0,255,0,1],
@@ -170,14 +170,14 @@
     "UsePriority": true,
     "AbilityList": [
       {
-        "Name": "weapon_elite",
-        "ButtonID": 0,
-        "ButtonClass": "",
-        "Filter": "",
+        "Name": "human_stone_ice_button",
+        "ButtonID": 2002,
+        "ButtonClass": "func_physbox",
+        "Filter": "human_stone_ice",
         "Chat_Uses": true,
-        "Mode": 1,
+        "Mode": 2,
         "MaxUses": 0,
-        "CoolDown": 0
+        "CoolDown": 110
       }
     ]
   }

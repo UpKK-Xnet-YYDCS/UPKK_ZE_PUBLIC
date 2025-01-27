@@ -1,0 +1,288 @@
+[
+  {
+    "Name": "方块",
+    "ShortName": "方块",
+    "Color": "{default}",
+    "HammerID": "12865",
+    "GlowColor": [0,255,0,1],
+    "BlockPickup": false,
+    "AllowTransfer": true,
+    "ForceDrop": true,
+    "Chat": true,
+    "Hud": true,
+    "TriggerID": 0,
+    "UsePriority": true,
+    "AbilityList": [
+      {
+        "Name": "block_1_button",
+        "ButtonID": 12867,
+        "ButtonClass": "func_button",
+        "Filter": "block_1_user:1",
+        "Chat_Uses": true,
+        "Mode": 2,
+        "MaxUses": 0,
+        "CoolDown": 7
+      }
+    ]
+  },
+  {
+    "Name": "方块2",
+    "ShortName": "方块2",
+    "Color": "{default}",
+    "HammerID": "12882",
+    "GlowColor": [0,255,0,1],
+    "BlockPickup": false,
+    "AllowTransfer": true,
+    "ForceDrop": true,
+    "Chat": true,
+    "Hud": true,
+    "TriggerID": 0,
+    "UsePriority": true,
+    "AbilityList": [
+      {
+        "Name": "block_2_button",
+        "ButtonID": 12884,
+        "ButtonClass": "func_button",
+        "Filter": "block_2_user:1",
+        "Chat_Uses": true,
+        "Mode": 2,
+        "MaxUses": 0,
+        "CoolDown": 7
+      }
+    ]
+  },
+  {
+    "Name": "方块3",
+    "ShortName": "方块3",
+    "Color": "{default}",
+    "HammerID": "12889",
+    "GlowColor": [0,255,0,1],
+    "BlockPickup": false,
+    "AllowTransfer": true,
+    "ForceDrop": true,
+    "Chat": true,
+    "Hud": true,
+    "TriggerID": 0,
+    "UsePriority": true,
+    "AbilityList": [
+      {
+        "Name": "block_3_button",
+        "ButtonID": 12891,
+        "ButtonClass": "func_button",
+        "Filter": "block_3_user:1",
+        "Chat_Uses": true,
+        "Mode": 2,
+        "MaxUses": 0,
+        "CoolDown": 7
+      }
+    ]
+  },
+  {
+    "Name": "ZM 方块",
+    "ShortName": "ZM 方块",
+    "Color": "{default}",
+    "HammerID": "12896",
+    "GlowColor": [0,255,0,1],
+    "BlockPickup": false,
+    "AllowTransfer": false,
+    "ForceDrop": false,
+    "Chat": true,
+    "Hud": true,
+    "TriggerID": 12924,
+    "UsePriority": true,
+    "AbilityList": [
+      {
+        "Name": "zmblock_1_button",
+        "ButtonID": 12898,
+        "ButtonClass": "func_button",
+        "Filter": "zmblock_1_user:1",
+        "Chat_Uses": true,
+        "Mode": 2,
+        "MaxUses": 0,
+        "CoolDown": 7
+      }
+    ]
+  },
+  {
+    "Name": "ZM 方块2",
+    "ShortName": "ZM 方块2",
+    "Color": "{default}",
+    "HammerID": "12903",
+    "GlowColor": [0,255,0,1],
+    "BlockPickup": false,
+    "AllowTransfer": false,
+    "ForceDrop": false,
+    "Chat": true,
+    "Hud": true,
+    "TriggerID": 12926,
+    "UsePriority": true,
+    "AbilityList": [
+      {
+        "Name": "zmblock_2_button",
+        "ButtonID": 12905,
+        "ButtonClass": "func_button",
+        "Filter": "zmblock_2_user:1",
+        "Chat_Uses": true,
+        "Mode": 2,
+        "MaxUses": 0,
+        "CoolDown": 7
+      }
+    ]
+  },
+  {
+    "Name": "ZM 方块3",
+    "ShortName": "ZM 方块3",
+    "Color": "{default}",
+    "HammerID": "12910",
+    "GlowColor": [0,255,0,1],
+    "BlockPickup": false,
+    "AllowTransfer": false,
+    "ForceDrop": false,
+    "Chat": true,
+    "Hud": true,
+    "TriggerID": 12928,
+    "UsePriority": true,
+    "AbilityList": [
+      {
+        "Name": "zmblock_3_button",
+        "ButtonID": 12912,
+        "ButtonClass": "func_button",
+        "Filter": "zmblock_3_user:1",
+        "Chat_Uses": true,
+        "Mode": 2,
+        "MaxUses": 0,
+        "CoolDown": 7
+      }
+    ]
+  },
+  {
+    "Name": "笑声",
+    "ShortName": "笑声",
+    "Color": "{default}",
+    "HammerID": "20061",
+    "GlowColor": [0,255,0,1],
+    "BlockPickup": false,
+    "AllowTransfer": true,
+    "ForceDrop": true,
+    "Chat": true,
+    "Hud": true,
+    "TriggerID": 0,
+    "UsePriority": true,
+    "AbilityList": [
+      {
+        "Name": "item_sound_1_button",
+        "ButtonID": 20063,
+        "ButtonClass": "func_button",
+        "Filter": "item_sound_1_user:1",
+        "Chat_Uses": true,
+        "Mode": 2,
+        "MaxUses": 0,
+        "CoolDown": 20
+      }
+    ]
+  },
+  {
+    "Name": "推力枪",
+    "ShortName": "推力枪",
+    "Color": "{default}",
+    "HammerID": "7168",
+    "GlowColor": [0,255,0,1],
+    "BlockPickup": false,
+    "AllowTransfer": true,
+    "ForceDrop": true,
+    "Chat": true,
+    "Hud": true,
+    "TriggerID": 0,
+    "UsePriority": true,
+    "AbilityList": [
+      {
+        "Name": "item_push_button",
+        "ButtonID": 11762,
+        "ButtonClass": "func_button",
+        "Filter": "item_push_user:1",
+        "Chat_Uses": true,
+        "Mode": 2,
+        "MaxUses": 0,
+        "CoolDown": 20
+      }
+    ]
+  },
+  {
+    "Name": "笑声2",
+    "ShortName": "笑声2",
+    "Color": "{default}",
+    "HammerID": "20067",
+    "GlowColor": [0,255,0,1],
+    "BlockPickup": false,
+    "AllowTransfer": true,
+    "ForceDrop": true,
+    "Chat": true,
+    "Hud": true,
+    "TriggerID": 0,
+    "UsePriority": true,
+    "AbilityList": [
+      {
+        "Name": "item_sound_2_button",
+        "ButtonID": 20068,
+        "ButtonClass": "func_button",
+        "Filter": "item_sound_2_user:1",
+        "Chat_Uses": true,
+        "Mode": 2,
+        "MaxUses": 0,
+        "CoolDown": 20
+      }
+    ]
+  },
+  {
+    "Name": "ZM 弹幕2",
+    "ShortName": "ZM 弹幕2",
+    "Color": "{default}",
+    "HammerID": "13263",
+    "GlowColor": [0,255,0,1],
+    "BlockPickup": false,
+    "AllowTransfer": false,
+    "ForceDrop": false,
+    "Chat": true,
+    "Hud": true,
+    "TriggerID": 13271,
+    "UsePriority": true,
+    "AbilityList": [
+      {
+        "Name": "zm_ball_2_button",
+        "ButtonID": 13256,
+        "ButtonClass": "func_button",
+        "Filter": "zm_ball_2_user",
+        "Chat_Uses": true,
+        "Mode": 2,
+        "MaxUses": 0,
+        "CoolDown": 15
+      }
+    ]
+  },
+  {
+    "Name": "ZM 弹幕",
+    "ShortName": "ZM 弹幕",
+    "Color": "{default}",
+    "HammerID": "13281",
+    "GlowColor": [0,255,0,1],
+    "BlockPickup": false,
+    "AllowTransfer": false,
+    "ForceDrop": false,
+    "Chat": true,
+    "Hud": true,
+    "TriggerID": 13271,
+    "UsePriority": true,
+    "AbilityList": [
+      {
+        "Name": "zm_ball_1_button",
+        "ButtonID": 13274,
+        "ButtonClass": "func_button",
+        "Filter": "zm_ball_1_user",
+        "Chat_Uses": true,
+        "Mode": 2,
+        "MaxUses": 0,
+        "CoolDown": 15
+      }
+    ]
+  }
+]

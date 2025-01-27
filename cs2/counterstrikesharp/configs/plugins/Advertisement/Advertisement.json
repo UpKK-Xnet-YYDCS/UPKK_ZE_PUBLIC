@@ -92,11 +92,11 @@
 			"KR": "{RED}[X 커뮤니티] {LIME}단축 명령을 사용하려면 Z 키 (기본 무전 키)를 누르세요."
 		},
 		"ads_7": {
-			"CN": "{RED}[X社区] {PURPLE} 如果您需要开启神器hud 则可以输入 {LIME}!ehud 3 开启 !ehud 0 关闭 也可通过!ehud_pos x y z 数值调整位置(默认为 {ORANGE}!ehud_pos 80 50 50)",
-			"US": "{RED}[X Community] {PURPLE}If you need to enable the HUD, enter {LIME}!ehud 3 to enable, !ehud 0 to disable. You can also adjust the position with !ehud_pos x y z (default: {ORANGE}!ehud_pos 80 50 50)",
-			"TW": "{RED}[X社區] {PURPLE} 如果您需要開啟神器hud 則可以輸入 {LIME}!ehud 3 開啟 !ehud 0 關閉 也可通過!ehud_pos x y z 數值調整位置(默認為 {ORANGE}!ehud_pos 80 50 50)",
-			"JP": "{RED}[Xコミュニティ] {PURPLE}HUDを有効にする必要がある場合は、{LIME}!ehud 3を入力して有効にし、!ehud 0を入力して無効にします。また、!ehud_pos x y z で位置を調整できます（デフォルト：{ORANGE}!ehud_pos 80 50 50）",
-			"KR": "{RED}[X 커뮤니티] {PURPLE}HUD를 활성화해야하는 경우 {LIME}!ehud 3를 입력하여 활성화하고 !ehud 0을 입력하여 비활성화하세요. 또한 !ehud_pos x y z로 위치를 조정할 수 있습니다 (기본값: {ORANGE}!ehud_pos 80 50 50)"
+			"CN": "{RED}[X社区] {PURPLE} 如果您需要开启神器hud 则可以输入 {LIME}!ehud 3 开启 !ehud 0 关闭 也可通过!ehud_pos x y 数值调整位置(默认为 {ORANGE}!ehud_pos -9.0 2.5)。您还可以调整字体大小 !ehud_fontsize 字号 或者 !ehud r g b a 颜色与透明度",
+       			"US": "{RED}[X Community] {PURPLE}If you need to enable the HUD, enter {LIME}!ehud 3 to enable, !ehud 0 to disable. You can also adjust the position with !ehud_pos x y (default: {ORANGE}!ehud_pos -9.0 2.5). You can also adjust the font size with !ehud_fontsize size or !ehud r g b a for color and transparency",
+        		"TW": "{RED}[X社區] {PURPLE} 如果您需要開啟神器hud 則可以輸入 {LIME}!ehud 3 開啟 !ehud 0 關閉 也可通過!ehud_pos x y 數值調整位置(默認為 {ORANGE}!ehud_pos -9.0 2.5)。您還可以調整字體大小 !ehud_fontsize 字號 或者 !ehud r g b a 顏色與透明度",
+        		"JP": "{RED}[Xコミュニティ] {PURPLE}HUDを有効にする必要がある場合は、{LIME}!ehud 3を入力して有効にし、!ehud 0を入力して無効にします。また、!ehud_pos x y で位置を調整できます（デフォルト：{ORANGE}!ehud_pos -9.0 2.5）。フォントサイズを調整するには !ehud_fontsize サイズ または !ehud r g b a で色と透明度を調整します",
+        		"KR": "{RED}[X 커뮤니티] {PURPLE}HUD를 활성화해야하는 경우 {LIME}!ehud 3를 입력하여 활성화하고 !ehud 0을 입력하여 비활성화하세요. 또한 !ehud_pos x y로 위치를 조정할 수 있습니다 (기본값: {ORANGE}!ehud_pos -9.0 2.5). 글꼴 크기를 조정하려면 !ehud_fontsize 크기 또는 !ehud r g b a 를 입력하여 색상 및 투명도를 조정하세요"
 		},
 		"ads_8": {
 			"CN": "{RED}[X社区] {PURPLE} 如果您需要切换按钮开始提示 可以输入 {GREEN}!bw 进行开关",

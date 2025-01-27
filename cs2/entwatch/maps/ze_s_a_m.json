@@ -14,10 +14,10 @@
     "UsePriority": true,
     "AbilityList": [
       {
-        "Name": "",
-        "ButtonID": 0,
+        "Name": "Item_Earth_Button",
+        "ButtonID": 7219,
         "ButtonClass": "func_button",
-        "Filter": "",
+        "Filter": "player_earth",
         "Chat_Uses": true,
         "Mode": 2,
         "MaxUses": 0,
@@ -40,10 +40,10 @@
     "UsePriority": true,
     "AbilityList": [
       {
-        "Name": "",
-        "ButtonID": 0,
+        "Name": "Item_Lightning_Button",
+        "ButtonID": 7233,
         "ButtonClass": "func_button",
-        "Filter": "",
+        "Filter": "player_lightning",
         "Chat_Uses": true,
         "Mode": 2,
         "MaxUses": 0,
@@ -66,10 +66,10 @@
     "UsePriority": true,
     "AbilityList": [
       {
-        "Name": "",
-        "ButtonID": 0,
+        "Name": "Item_Heal_Button",
+        "ButtonID": 7273,
         "ButtonClass": "func_button",
-        "Filter": "",
+        "Filter": "player_heal",
         "Chat_Uses": true,
         "Mode": 2,
         "MaxUses": 0,
@@ -92,10 +92,10 @@
     "UsePriority": true,
     "AbilityList": [
       {
-        "Name": "",
-        "ButtonID": 0,
+        "Name": "Item_Water_Button",
+        "ButtonID": 7283,
         "ButtonClass": "func_button",
-        "Filter": "",
+        "Filter": "player_water",
         "Chat_Uses": true,
         "Mode": 2,
         "MaxUses": 0,
@@ -118,10 +118,10 @@
     "UsePriority": true,
     "AbilityList": [
       {
-        "Name": "",
-        "ButtonID": 0,
+        "Name": "Item_Gravity_Button",
+        "ButtonID": 7310,
         "ButtonClass": "func_button",
-        "Filter": "",
+        "Filter": "player_gravity",
         "Chat_Uses": true,
         "Mode": 2,
         "MaxUses": 0,
@@ -144,10 +144,10 @@
     "UsePriority": true,
     "AbilityList": [
       {
-        "Name": "",
-        "ButtonID": 0,
+        "Name": "Item_Wind_Button",
+        "ButtonID": 7339,
         "ButtonClass": "func_button",
-        "Filter": "",
+        "Filter": "player_wind",
         "Chat_Uses": true,
         "Mode": 2,
         "MaxUses": 0,
@@ -170,10 +170,10 @@
     "UsePriority": true,
     "AbilityList": [
       {
-        "Name": "",
-        "ButtonID": 0,
+        "Name": "Item_Ultima_Button",
+        "ButtonID": 7370,
         "ButtonClass": "func_button",
-        "Filter": "",
+        "Filter": "player_ultima",
         "Chat_Uses": true,
         "Mode": 3,
         "MaxUses": 1,
@@ -196,10 +196,10 @@
     "UsePriority": true,
     "AbilityList": [
       {
-        "Name": "",
-        "ButtonID": 0,
+        "Name": "Item_Trace_Button",
+        "ButtonID": 7399,
         "ButtonClass": "func_button",
-        "Filter": "",
+        "Filter": "player_trace",
         "Chat_Uses": true,
         "Mode": 2,
         "MaxUses": 0,
@@ -244,8 +244,8 @@
     "ForceDrop": false,
     "Chat": true,
     "Hud": true,
-    "TriggerID": 0,
-    "UsePriority": false,
+    "TriggerID": 12887,
+    "UsePriority": true,
     "AbilityList": [
       {
         "Name": "S_Item_Kirito_Box",
@@ -302,8 +302,8 @@
     "ForceDrop": false,
     "Chat": true,
     "Hud": true,
-    "TriggerID": 0,
-    "UsePriority": false,
+    "TriggerID": 7571,
+    "UsePriority": true,
     "AbilityList": [
       {
         "Name": "Item_Kirito_Box",
@@ -360,8 +360,8 @@
     "ForceDrop": false,
     "Chat": true,
     "Hud": true,
-    "TriggerID": 0,
-    "UsePriority": false,
+    "TriggerID": 11111,
+    "UsePriority": true,
     "AbilityList": [
       {
         "Name": "Item_Asuna_Box",
@@ -471,13 +471,13 @@
     "Chat": true,
     "Hud": true,
     "TriggerID": 0,
-    "UsePriority": false,
+    "UsePriority": true,
     "AbilityList": [
       {
         "Name": "",
         "ButtonID": 0,
         "ButtonClass": "",
-        "Filter": "",
+        "Filter": "alice:1",
         "Chat_Uses": false,
         "Mode": 1,
         "MaxUses": 0,
@@ -496,24 +496,24 @@
     "ForceDrop": false,
     "Chat": true,
     "Hud": true,
-    "TriggerID": 0,
+    "TriggerID": 9007,
     "UsePriority": true,
     "AbilityList": [
       {
-        "Name": "",
+        "Name": "Item_ZMIce_Button_1",
         "ButtonID": 7428,
         "ButtonClass": "func_button",
-        "Filter": "",
+        "Filter": "player_zice",
         "Chat_Uses": true,
         "Mode": 2,
         "MaxUses": 0,
         "CoolDown": 80
       },
       {
-        "Name": "",
+        "Name": "Item_ZMIce_Button_2",
         "ButtonID": 7438,
         "ButtonClass": "func_button",
-        "Filter": "",
+        "Filter": "player_zice",
         "Chat_Uses": true,
         "Mode": 2,
         "MaxUses": 0,
@@ -532,24 +532,24 @@
     "ForceDrop": false,
     "Chat": true,
     "Hud": true,
-    "TriggerID": 0,
+    "TriggerID": 9019,
     "UsePriority": true,
     "AbilityList": [
       {
-        "Name": "",
+        "Name": "Item_ZMGravity_Button_1",
         "ButtonID": 7460,
         "ButtonClass": "func_button",
-        "Filter": "",
+        "Filter": "player_zgravity",
         "Chat_Uses": true,
         "Mode": 2,
         "MaxUses": 0,
         "CoolDown": 80
       },
       {
-        "Name": "",
+        "Name": "Item_ZMGravity_Button_2",
         "ButtonID": 7469,
         "ButtonClass": "func_button",
-        "Filter": "",
+        "Filter": "player_zgravity",
         "Chat_Uses": true,
         "Mode": 2,
         "MaxUses": 0,
@@ -568,24 +568,24 @@
     "ForceDrop": false,
     "Chat": true,
     "Hud": true,
-    "TriggerID": 0,
+    "TriggerID": 9023,
     "UsePriority": true,
     "AbilityList": [
       {
-        "Name": "",
+        "Name": "Item_ZMStealth_Button_1",
         "ButtonID": 7498,
         "ButtonClass": "func_button",
-        "Filter": "",
+        "Filter": "player_zstealth",
         "Chat_Uses": true,
         "Mode": 2,
         "MaxUses": 0,
         "CoolDown": 80
       },
       {
-        "Name": "",
+        "Name": "Item_ZMStealth_Button_2",
         "ButtonID": 7508,
         "ButtonClass": "func_button",
-        "Filter": "",
+        "Filter": "player_zstealth",
         "Chat_Uses": true,
         "Mode": 2,
         "MaxUses": 0,
@@ -604,24 +604,24 @@
     "ForceDrop": false,
     "Chat": true,
     "Hud": true,
-    "TriggerID": 0,
+    "TriggerID": 9027,
     "UsePriority": true,
     "AbilityList": [
       {
-        "Name": "",
+        "Name": "Item_ZMShield_Button_1",
         "ButtonID": 7527,
         "ButtonClass": "func_button",
-        "Filter": "",
+        "Filter": "player_zshield",
         "Chat_Uses": true,
         "Mode": 2,
         "MaxUses": 0,
         "CoolDown": 80
       },
       {
-        "Name": "",
+        "Name": "Item_ZMShield_Button_2",
         "ButtonID": 7536,
         "ButtonClass": "func_button",
-        "Filter": "",
+        "Filter": "player_zshield",
         "Chat_Uses": true,
         "Mode": 2,
         "MaxUses": 0,

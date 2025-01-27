@@ -1,7 +1,7 @@
 [
   {
-    "Name": "heal_elite",
-    "ShortName": "heal_elite",
+    "Name": "奶",
+    "ShortName": "奶",
     "Color": "{default}",
     "HammerID": "31069",
     "GlowColor": [0,255,0,1],
@@ -14,20 +14,20 @@
     "UsePriority": true,
     "AbilityList": [
       {
-        "Name": "weapon_elite",
-        "ButtonID": 0,
-        "ButtonClass": "",
-        "Filter": "",
+        "Name": "heal_button",
+        "ButtonID": 31078,
+        "ButtonClass": "func_button",
+        "Filter": "heal_user:1",
         "Chat_Uses": true,
-        "Mode": 1,
+        "Mode": 2,
         "MaxUses": 0,
-        "CoolDown": 0
+        "CoolDown": 70
       }
     ]
   },
   {
-    "Name": "item_wind_gun",
-    "ShortName": "item_wind_gun",
+    "Name": "风",
+    "ShortName": "风",
     "Color": "{default}",
     "HammerID": "31104",
     "GlowColor": [0,255,0,1],
@@ -40,40 +40,40 @@
     "UsePriority": true,
     "AbilityList": [
       {
-        "Name": "weapon_elite",
-        "ButtonID": 0,
-        "ButtonClass": "",
-        "Filter": "",
+        "Name": "wind_button",
+        "ButtonID": 31109,
+        "ButtonClass": "func_button",
+        "Filter": "wind_user:1",
         "Chat_Uses": true,
-        "Mode": 1,
+        "Mode": 2,
         "MaxUses": 0,
-        "CoolDown": 0
+        "CoolDown": 60
       }
     ]
   },
   {
-    "Name": "item_zombie_speed",
-    "ShortName": "item_zombie_speed",
+    "Name": "ZM 加速",
+    "ShortName": "ZM 加速",
     "Color": "{default}",
     "HammerID": "31121",
     "GlowColor": [0,255,0,1],
     "BlockPickup": false,
-    "AllowTransfer": true,
-    "ForceDrop": true,
+    "AllowTransfer": false,
+    "ForceDrop": false,
     "Chat": true,
     "Hud": true,
-    "TriggerID": 0,
+    "TriggerID": 31119,
     "UsePriority": true,
     "AbilityList": [
       {
-        "Name": "weapon_knife",
-        "ButtonID": 0,
-        "ButtonClass": "",
-        "Filter": "",
+        "Name": "speed_button",
+        "ButtonID": 31123,
+        "ButtonClass": "func_button",
+        "Filter": "speed_user:1",
         "Chat_Uses": true,
-        "Mode": 1,
+        "Mode": 2,
         "MaxUses": 0,
-        "CoolDown": 0
+        "CoolDown": 50
       }
     ]
   }

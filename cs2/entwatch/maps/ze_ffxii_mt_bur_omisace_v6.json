@@ -504,8 +504,8 @@
 		]
 	},
 	{
-		"Name": "[ZM]加布拉斯",
-		"ShortName": "[ZM]加布拉斯",
+		"Name": "[ZM]伽布拉斯",
+		"ShortName": "[ZM]伽布拉斯",
 		"Color": "{default}",
 		"HammerID": 3886,
 		"GlowColor": [0,255,0,1],
@@ -526,6 +526,42 @@
 				"Mode": 2,
 				"MaxUses": 0,
 				"CoolDown": 65
+			},
+			{
+				"Name": "",
+				"ButtonID": 0,
+				"ButtonClass": "game_ui::PressedAttack2",
+				"Filter": "",
+				"Chat_Uses": true,
+				"Mode": 2,
+				"MaxUses": 0,
+				"CoolDown": 65
+			}
+		]
+	},
+	{
+		"Name": "[ZM]扎尔伽巴斯",
+		"ShortName": "[ZM]扎尔伽巴斯",
+		"Color": "{default}",
+		"HammerID": 25186,
+		"GlowColor": [0,255,0,1],
+		"BlockPickup": false,
+		"AllowTransfer": true,
+		"ForceDrop": true,
+		"Chat": true,
+		"Hud": true,
+		"TriggerID": 0,
+		"UsePriority": true,
+		"AbilityList": [
+			{
+				"Name": "",
+				"ButtonID": 0,
+				"ButtonClass": "game_ui::PressedAttack",
+				"Filter": "",
+				"Chat_Uses": true,
+				"Mode": 2,
+				"MaxUses": 0,
+				"CoolDown": 60
 			},
 			{
 				"Name": "",

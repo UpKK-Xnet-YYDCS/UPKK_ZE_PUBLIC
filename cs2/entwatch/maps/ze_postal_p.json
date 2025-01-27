@@ -1,7 +1,7 @@
 [
   {
-    "Name": "postal_healer",
-    "ShortName": "postal_healer",
+    "Name": "奶",
+    "ShortName": "奶",
     "Color": "{default}",
     "HammerID": "44496",
     "GlowColor": [0,255,0,1],
@@ -14,14 +14,14 @@
     "UsePriority": true,
     "AbilityList": [
       {
-        "Name": "weapon_glock",
-        "ButtonID": 0,
-        "ButtonClass": "",
-        "Filter": "",
+        "Name": "heal_button",
+        "ButtonID": 44494,
+        "ButtonClass": "func_button",
+        "Filter": "$heal_user",
         "Chat_Uses": true,
-        "Mode": 1,
+        "Mode": 2,
         "MaxUses": 0,
-        "CoolDown": 0
+        "CoolDown": 120
       }
     ]
   }

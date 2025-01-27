@@ -1,7 +1,7 @@
 [
   {
-    "Name": "Item_Ammo_Pistol",
-    "ShortName": "Item_Ammo_Pistol",
+    "Name": "弹药",
+    "ShortName": "弹药",
     "Color": "{default}",
     "HammerID": "1058",
     "GlowColor": [0,255,0,1],
@@ -14,20 +14,20 @@
     "UsePriority": true,
     "AbilityList": [
       {
-        "Name": "weapon_p250",
-        "ButtonID": 0,
-        "ButtonClass": "",
-        "Filter": "",
+        "Name": "Item_Ammo_Button",
+        "ButtonID": 1056,
+        "ButtonClass": "func_physbox",
+        "Filter": "Player_Ammo:1",
         "Chat_Uses": true,
-        "Mode": 1,
+        "Mode": 2,
         "MaxUses": 0,
-        "CoolDown": 0
+        "CoolDown": 60
       }
     ]
   },
   {
-    "Name": "Item_Heal_Pistol",
-    "ShortName": "Item_Heal_Pistol",
+    "Name": "奶",
+    "ShortName": "奶",
     "Color": "{default}",
     "HammerID": "1126",
     "GlowColor": [0,255,0,1],
@@ -40,20 +40,20 @@
     "UsePriority": true,
     "AbilityList": [
       {
-        "Name": "weapon_p250",
-        "ButtonID": 0,
-        "ButtonClass": "",
-        "Filter": "",
+        "Name": "Item_Heal_Button",
+        "ButtonID": 1121,
+        "ButtonClass": "func_physbox",
+        "Filter": "Player_Heal:1",
         "Chat_Uses": true,
-        "Mode": 1,
+        "Mode": 2,
         "MaxUses": 0,
-        "CoolDown": 0
+        "CoolDown": 60
       }
     ]
   },
   {
-    "Name": "Item_Mines_Pistol",
-    "ShortName": "Item_Mines_Pistol",
+    "Name": "地雷",
+    "ShortName": "地雷",
     "Color": "{default}",
     "HammerID": "1143",
     "GlowColor": [0,255,0,1],
@@ -66,20 +66,26 @@
     "UsePriority": true,
     "AbilityList": [
       {
-        "Name": "weapon_p250",
-        "ButtonID": 0,
-        "ButtonClass": "",
-        "Filter": "",
+        "Name": "Item_Mines_Button",
+        "ButtonID": 1132,
+        "ButtonClass": "func_physbox",
+        "Filter": "Player_Mines:1",
         "Chat_Uses": true,
-        "Mode": 1,
+        "Mode": 7,
         "MaxUses": 0,
-        "CoolDown": 0
+        "CoolDown": 0,
+        "Ignore": false,
+        "LockItem": false,
+        "MathID": 1135,
+        "MathNameFix": false,
+        "MathFindSpawned": false,
+        "MathDontShowMax": true
       }
     ]
   },
   {
-    "Name": "Item_Earth_Pistol",
-    "ShortName": "Item_Earth_Pistol",
+    "Name": "土",
+    "ShortName": "土",
     "Color": "{default}",
     "HammerID": "1156",
     "GlowColor": [0,255,0,1],
@@ -92,20 +98,20 @@
     "UsePriority": true,
     "AbilityList": [
       {
-        "Name": "weapon_p250",
-        "ButtonID": 0,
-        "ButtonClass": "",
-        "Filter": "",
+        "Name": "Item_Earth_Button",
+        "ButtonID": 1149,
+        "ButtonClass": "func_physbox",
+        "Filter": "Player_Earth:1",
         "Chat_Uses": true,
-        "Mode": 1,
+        "Mode": 2,
         "MaxUses": 0,
-        "CoolDown": 0
+        "CoolDown": 60
       }
     ]
   },
   {
-    "Name": "Item_Key_Pistol",
-    "ShortName": "Item_Key_Pistol",
+    "Name": "钥匙",
+    "ShortName": "钥匙",
     "Color": "{default}",
     "HammerID": "1166",
     "GlowColor": [0,255,0,1],
@@ -118,20 +124,20 @@
     "UsePriority": true,
     "AbilityList": [
       {
-        "Name": "weapon_p250",
+        "Name": "",
         "ButtonID": 0,
         "ButtonClass": "",
-        "Filter": "",
+        "Filter": "Player_Key",
         "Chat_Uses": true,
-        "Mode": 1,
+        "Mode": 0,
         "MaxUses": 0,
         "CoolDown": 0
       }
     ]
   },
   {
-    "Name": "Item_Fire_Pistol",
-    "ShortName": "Item_Fire_Pistol",
+    "Name": "火",
+    "ShortName": "火",
     "Color": "{default}",
     "HammerID": "1179",
     "GlowColor": [0,255,0,1],
@@ -144,20 +150,20 @@
     "UsePriority": true,
     "AbilityList": [
       {
-        "Name": "weapon_p250",
-        "ButtonID": 0,
-        "ButtonClass": "",
-        "Filter": "",
+        "Name": "Item_Fire_Button",
+        "ButtonID": 1173,
+        "ButtonClass": "func_physbox",
+        "Filter": "Player_Fire",
         "Chat_Uses": true,
-        "Mode": 1,
+        "Mode": 2,
         "MaxUses": 0,
-        "CoolDown": 0
+        "CoolDown": 60
       }
     ]
   },
   {
-    "Name": "Item_Gravity_Pistol",
-    "ShortName": "Item_Gravity_Pistol",
+    "Name": "重力",
+    "ShortName": "重力",
     "Color": "{default}",
     "HammerID": "1189",
     "GlowColor": [0,255,0,1],
@@ -170,20 +176,20 @@
     "UsePriority": true,
     "AbilityList": [
       {
-        "Name": "weapon_p250",
-        "ButtonID": 0,
-        "ButtonClass": "",
-        "Filter": "",
+        "Name": "Item_Gravity_Button",
+        "ButtonID": 1183,
+        "ButtonClass": "func_physbox",
+        "Filter": "Player_Gravity",
         "Chat_Uses": true,
-        "Mode": 1,
+        "Mode": 2,
         "MaxUses": 0,
-        "CoolDown": 0
+        "CoolDown": 60
       }
     ]
   },
   {
-    "Name": "Item_Wind_Pistol",
-    "ShortName": "Item_Wind_Pistol",
+    "Name": "风",
+    "ShortName": "风",
     "Color": "{default}",
     "HammerID": "1197",
     "GlowColor": [0,255,0,1],
@@ -196,20 +202,20 @@
     "UsePriority": true,
     "AbilityList": [
       {
-        "Name": "weapon_p250",
-        "ButtonID": 0,
-        "ButtonClass": "",
-        "Filter": "",
+        "Name": "Item_Wind_Button",
+        "ButtonID": 1192,
+        "ButtonClass": "func_physbox",
+        "Filter": "Player_Wind",
         "Chat_Uses": true,
-        "Mode": 1,
+        "Mode": 2,
         "MaxUses": 0,
-        "CoolDown": 0
+        "CoolDown": 60
       }
     ]
   },
   {
-    "Name": "Item_Ice_Pistol",
-    "ShortName": "Item_Ice_Pistol",
+    "Name": "冰",
+    "ShortName": "冰",
     "Color": "{default}",
     "HammerID": "1209",
     "GlowColor": [0,255,0,1],
@@ -222,20 +228,20 @@
     "UsePriority": true,
     "AbilityList": [
       {
-        "Name": "weapon_p250",
-        "ButtonID": 0,
-        "ButtonClass": "",
-        "Filter": "",
+        "Name": "Item_Ice_Button",
+        "ButtonID": 1201,
+        "ButtonClass": "func_physbox",
+        "Filter": "Player_Ice",
         "Chat_Uses": true,
-        "Mode": 1,
+        "Mode": 2,
         "MaxUses": 0,
-        "CoolDown": 0
+        "CoolDown": 60
       }
     ]
   },
   {
-    "Name": "item_rot_weapon",
-    "ShortName": "item_rot_weapon",
+    "Name": "齿轮",
+    "ShortName": "齿轮",
     "Color": "{default}",
     "HammerID": "8030",
     "GlowColor": [0,255,0,1],
@@ -248,20 +254,20 @@
     "UsePriority": true,
     "AbilityList": [
       {
-        "Name": "weapon_p250",
+        "Name": "",
         "ButtonID": 0,
         "ButtonClass": "",
-        "Filter": "",
+        "Filter": "Rot_Phys_Detect",
         "Chat_Uses": true,
-        "Mode": 1,
+        "Mode": 0,
         "MaxUses": 0,
         "CoolDown": 0
       }
     ]
   },
   {
-    "Name": "Item_Ultima_Pistol",
-    "ShortName": "Item_Ultima_Pistol",
+    "Name": "终极",
+    "ShortName": "终极",
     "Color": "{default}",
     "HammerID": "914",
     "GlowColor": [0,255,0,1],
@@ -274,14 +280,14 @@
     "UsePriority": true,
     "AbilityList": [
       {
-        "Name": "weapon_p250",
-        "ButtonID": 0,
-        "ButtonClass": "",
-        "Filter": "",
+        "Name": "Item_Ultima_Button",
+        "ButtonID": 917,
+        "ButtonClass": "func_physbox",
+        "Filter": "Player_Ultima",
         "Chat_Uses": true,
-        "Mode": 1,
+        "Mode": 2,
         "MaxUses": 0,
-        "CoolDown": 0
+        "CoolDown": 75
       }
     ]
   }

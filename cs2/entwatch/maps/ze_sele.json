@@ -1,0 +1,106 @@
+[
+  {
+    "Name": "减速",
+    "ShortName": "减速",
+    "Color": "{default}",
+    "HammerID": "1805",
+    "GlowColor": [0,255,0,1],
+    "BlockPickup": false,
+    "AllowTransfer": true,
+    "ForceDrop": true,
+    "Chat": true,
+    "Hud": true,
+    "TriggerID": 0,
+    "UsePriority": true,
+    "AbilityList": [
+      {
+        "Name": "slow_bt",
+        "ButtonID": 1544,
+        "ButtonClass": "func_button",
+        "Filter": "player_slow",
+        "Chat_Uses": true,
+        "Mode": 2,
+        "MaxUses": 0,
+        "CoolDown": 80
+      }
+    ]
+  },
+  {
+    "Name": "ZM 火",
+    "ShortName": "ZM 火",
+    "Color": "{default}",
+    "HammerID": "1802",
+    "GlowColor": [0,255,0,1],
+    "BlockPickup": false,
+    "AllowTransfer": false,
+    "ForceDrop": false,
+    "Chat": true,
+    "Hud": true,
+    "TriggerID": 1444,
+    "UsePriority": true,
+    "AbilityList": [
+      {
+        "Name": "z_pain_bt",
+        "ButtonID": 1538,
+        "ButtonClass": "func_button",
+        "Filter": "player_z_pain",
+        "Chat_Uses": true,
+        "Mode": 2,
+        "MaxUses": 0,
+        "CoolDown": 40
+      }
+    ]
+  },
+  {
+    "Name": "ZM 减速",
+    "ShortName": "ZM 减速",
+    "Color": "{default}",
+    "HammerID": "1803",
+    "GlowColor": [0,255,0,1],
+    "BlockPickup": false,
+    "AllowTransfer": false,
+    "ForceDrop": false,
+    "Chat": true,
+    "Hud": true,
+    "TriggerID": 1446,
+    "UsePriority": true,
+    "AbilityList": [
+      {
+        "Name": "z_harden_bt",
+        "ButtonID": 1540,
+        "ButtonClass": "func_button",
+        "Filter": "player_z_harden",
+        "Chat_Uses": true,
+        "Mode": 2,
+        "MaxUses": 0,
+        "CoolDown": 50
+      }
+    ]
+  },
+  {
+    "Name": "火",
+    "ShortName": "火",
+    "Color": "{default}",
+    "HammerID": "1804",
+    "GlowColor": [0,255,0,1],
+    "BlockPickup": false,
+    "AllowTransfer": true,
+    "ForceDrop": true,
+    "Chat": true,
+    "Hud": true,
+    "TriggerID": 0,
+    "UsePriority": true,
+    "AbilityList": [
+      {
+        "Name": "fire_bt",
+        "ButtonID": 1542,
+        "ButtonClass": "func_button",
+        "Filter": "player_fire",
+        "Chat_Uses": true,
+        "Mode": 2,
+        "MaxUses": 0,
+        "CoolDown": 40
+      }
+    ]
+  }
+]
