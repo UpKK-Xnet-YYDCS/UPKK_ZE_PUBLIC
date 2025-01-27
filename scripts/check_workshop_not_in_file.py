@@ -24,14 +24,14 @@ def extract_workshop_ids(file_path):
     pattern = re.compile(r'"([^"]+)"\s*\{([^}]+)\}', re.DOTALL)
     matches = pattern.findall(content)
 
-    workshop_ids = []
+    workshop_ids = set()  # 使用 set 来存储唯一的 workshop_id
     workshop_to_filename = {}
     for key, value in matches:
         data = parse_keyvalue(value)
         workshop_id = data.get("workshop_id", "").strip()
         filename = data.get("filename", "").strip()
         if workshop_id:
-            workshop_ids.append(workshop_id)
+            workshop_ids.add(workshop_id)
             workshop_to_filename[workshop_id] = filename
 
     return workshop_ids, workshop_to_filename, matches
@@ -40,7 +40,7 @@ def check_workshops_not_in_files(collection_ids, file_workshop_ids, batch_size=5
     """批量检查合集中的 workshop_id 是否存在于文件中"""
     url = "https://api.steampowered.com/ISteamRemoteStorage/GetCollectionDetails/v1/"
     headers = {'Content-Type': 'application/x-www-form-urlencoded'}
-    results_not_in_files = []
+    results_not_in_files = set()  # 使用 set 来存储唯一的 workshop_id
 
     for collection_id in collection_ids:
         for i in range(0, len(file_workshop_ids), batch_size):
@@ -57,7 +57,7 @@ def check_workshops_not_in_files(collection_ids, file_workshop_ids, batch_size=5
                         found_ids = [item['publishedfileid'] for item in collection_details['children']]
                         for workshop_id in found_ids:
                             if workshop_id not in file_workshop_ids:
-                                results_not_in_files.append(workshop_id)
+                                results_not_in_files.add(workshop_id)
             else:
                 print(f"Error fetching collection details for collection ID {collection_id}: {response.status_code}")
 
@@ -74,7 +74,7 @@ def main():
     # 提取 workshop_id
     print(f"Extracting workshop IDs from {file_path}...")
     workshop_ids, workshop_to_filename, _ = extract_workshop_ids(file_path)
-    print(f"Found {len(workshop_ids)} workshop IDs in file.")
+    print(f"Found {len(workshop_ids)} unique workshop IDs in file.")
 
     # 检查合集中的 workshop_id 是否存在于文件中
     print(f"Checking if workshop IDs in the specified collections are not in the file...")
@@ -82,12 +82,15 @@ def main():
 
     # 输出总结
     print("\nSummary:")
-    print(f"Workshop IDs in collections but NOT in file: {', '.join(results_not_in_files)}")
+    for workshop_id in results_not_in_files:
+        filename = workshop_to_filename.get(workshop_id, "Unknown")
+        print(f"Workshop ID: {workshop_id}, Filename: {filename}")
 
-    # 将未找到的 workshop_id 写入文件
+    # 将未找到的 workshop_id 和 filename 写入文件
     with open("not_in_file.txt", "w", encoding="utf-8") as file:
         for workshop_id in results_not_in_files:
-            file.write(f"{workshop_id}\n")
+            filename = workshop_to_filename.get(workshop_id, "Unknown")
+            file.write(f"Workshop ID: {workshop_id}, Filename: {filename}\n")
 
     if results_not_in_files:
         print('::set-output name=result::failure')
