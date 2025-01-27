@@ -1,0 +1,83 @@
+name: Check Workshop IDs Not in File
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '0 0 */3 * *'  # 每 3 天触发一次
+
+jobs:
+  check_workshop:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v2
+
+    - name: Set up Python
+      uses: actions/setup-python@v2
+      with:
+        python-version: '3.9'
+
+    - name: Install dependencies
+      run: |
+        python -m pip install --upgrade pip
+        pip install requests
+
+    - name: Run script to check workshop IDs not in file
+      id: check_workshop
+      run: |
+        file_path='cs2/counterstrikesharp/configs/plugins/MapChooser/maps.txt'
+        collection_ids='3113843317'
+        echo "Checking workshop IDs in collection $collection_ids that are not in file $file_path"
+        python scripts/check_workshop_not_in_file.py $file_path $collection_ids
+      continue-on-error: true
+
+    - name: Read not found workshop IDs
+      id: read_not_found
+      if: steps.check_workshop.outputs.result == 'failure'
+      run: |
+        echo "Workshop IDs in collections but not in file:"
+        cat not_in_file.txt
+
+    - name: Check for existing issue
+      id: issue_check
+      uses: actions/github-script@v6
+      with:
+        github-token: ${{ secrets.GITHUB_TOKEN }}
+        script: |
+          const { data: issues } = await github.rest.issues.listForRepo({
+            owner: context.repo.owner,
+            repo: context.repo.repo,
+            state: 'open',
+            labels: 'bug',
+          });
+          const existingIssue = issues.find(issue => issue.title.includes('[地图]文件中缺少 Workshop ID'));
+          return { existingIssueNumber: existingIssue ? existingIssue.number : null };
+
+    - name: Create or update issue
+      if: steps.check_workshop.outputs.result == 'failure'
+      uses: actions/github-script@v6
+      with:
+        github-token: ${{ secrets.GITHUB_TOKEN }}
+        script: |
+          const fs = require('fs').promises;
+          const existingIssueNumber = parseInt('${{ steps.issue_check.outputs.existingIssueNumber }}', 10);
+          const notFoundIds = await fs.readFile('not_in_file.txt', 'utf-8');
+          const body = `在指定的合集 3113843317 中的一些 Workshop ID 未在文件 cs2/counterstrikesharp/configs/plugins/MapChooser/maps.txt 中找到。建议删除并更新这些合集。\n\n找到的 Workshop IDs:\n${notFoundIds}`;
+
+          if (existingIssueNumber) {
+            await github.rest.issues.createComment({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              issue_number: existingIssueNumber,
+              body: body,
+            });
+          } else {
+            await github.rest.issues.create({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              title: '[地图]文件中缺少 Workshop ID',
+              body: body,
+              labels: ['等待修正'],
+            });
+          }
