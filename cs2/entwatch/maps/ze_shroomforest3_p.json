@@ -1,7 +1,7 @@
 [
   {
-    "Name": "Item_Earth_Pistol",
-    "ShortName": "Item_Earth_Pistol",
+    "Name": "土",
+    "ShortName": "土",
     "Color": "{default}",
     "HammerID": "1282",
     "GlowColor": [0,255,0,1],
@@ -14,20 +14,20 @@
     "UsePriority": true,
     "AbilityList": [
       {
-        "Name": "weapon_elite",
-        "ButtonID": 0,
-        "ButtonClass": "",
-        "Filter": "",
+        "Name": "Item_Earth_Button",
+        "ButtonID": 1286,
+        "ButtonClass": "func_button",
+        "Filter": "Player_Earth",
         "Chat_Uses": true,
-        "Mode": 1,
+        "Mode": 2,
         "MaxUses": 0,
-        "CoolDown": 0
+        "CoolDown": 45
       }
     ]
   },
   {
-    "Name": "Item_Water_Pistol",
-    "ShortName": "Item_Water_Pistol",
+    "Name": "水",
+    "ShortName": "水",
     "Color": "{default}",
     "HammerID": "1376",
     "GlowColor": [0,255,0,1],
@@ -40,20 +40,20 @@
     "UsePriority": true,
     "AbilityList": [
       {
-        "Name": "weapon_elite",
-        "ButtonID": 0,
-        "ButtonClass": "",
-        "Filter": "",
+        "Name": "Item_Water_Button",
+        "ButtonID": 1363,
+        "ButtonClass": "func_button",
+        "Filter": "Player_Water",
         "Chat_Uses": true,
-        "Mode": 1,
+        "Mode": 2,
         "MaxUses": 0,
-        "CoolDown": 0
+        "CoolDown": 60
       }
     ]
   },
   {
-    "Name": "Item_Gravity_Pistol",
-    "ShortName": "Item_Gravity_Pistol",
+    "Name": "重力",
+    "ShortName": "重力",
     "Color": "{default}",
     "HammerID": "1387",
     "GlowColor": [0,255,0,1],
@@ -66,20 +66,20 @@
     "UsePriority": true,
     "AbilityList": [
       {
-        "Name": "weapon_elite",
-        "ButtonID": 0,
-        "ButtonClass": "",
-        "Filter": "",
+        "Name": "Item_Gravity_Button",
+        "ButtonID": 1380,
+        "ButtonClass": "func_button",
+        "Filter": "Player_Gravity",
         "Chat_Uses": true,
-        "Mode": 1,
+        "Mode": 2,
         "MaxUses": 0,
-        "CoolDown": 0
+        "CoolDown": 45
       }
     ]
   },
   {
-    "Name": "Item_Wind_Pistol",
-    "ShortName": "Item_Wind_Pistol",
+    "Name": "风",
+    "ShortName": "风",
     "Color": "{default}",
     "HammerID": "1396",
     "GlowColor": [0,255,0,1],
@@ -92,20 +92,20 @@
     "UsePriority": true,
     "AbilityList": [
       {
-        "Name": "weapon_elite",
-        "ButtonID": 0,
-        "ButtonClass": "",
-        "Filter": "",
+        "Name": "Item_Wind_Button",
+        "ButtonID": 1390,
+        "ButtonClass": "func_button",
+        "Filter": "Player_Wind",
         "Chat_Uses": true,
-        "Mode": 1,
+        "Mode": 2,
         "MaxUses": 0,
-        "CoolDown": 0
+        "CoolDown": 45
       }
     ]
   },
   {
-    "Name": "Item_Ice_Pistol",
-    "ShortName": "Item_Ice_Pistol",
+    "Name": "冰",
+    "ShortName": "冰",
     "Color": "{default}",
     "HammerID": "1407",
     "GlowColor": [0,255,0,1],
@@ -118,20 +118,20 @@
     "UsePriority": true,
     "AbilityList": [
       {
-        "Name": "weapon_elite",
-        "ButtonID": 0,
-        "ButtonClass": "",
-        "Filter": "",
+        "Name": "Item_Ice_Button",
+        "ButtonID": 1400,
+        "ButtonClass": "func_button",
+        "Filter": "Player_Ice",
         "Chat_Uses": true,
-        "Mode": 1,
+        "Mode": 2,
         "MaxUses": 0,
-        "CoolDown": 0
+        "CoolDown": 60
       }
     ]
   },
   {
-    "Name": "Item_Mines_Pistol",
-    "ShortName": "Item_Mines_Pistol",
+    "Name": "地雷",
+    "ShortName": "地雷",
     "Color": "{default}",
     "HammerID": "1426",
     "GlowColor": [0,255,0,1],
@@ -144,20 +144,26 @@
     "UsePriority": true,
     "AbilityList": [
       {
-        "Name": "weapon_elite",
-        "ButtonID": 0,
-        "ButtonClass": "",
-        "Filter": "",
+        "Name": "Item_Mines_Button",
+        "ButtonID": 1414,
+        "ButtonClass": "func_button",
+        "Filter": "Player_Mines",
         "Chat_Uses": true,
-        "Mode": 1,
+        "Mode": 7,
         "MaxUses": 0,
-        "CoolDown": 0
+        "CoolDown": 0,
+        "Ignore": false,
+        "LockItem": false,
+        "MathID": 1418,
+        "MathNameFix": false,
+        "MathFindSpawned": false,
+        "MathDontShowMax": true
       }
     ]
   },
   {
-    "Name": "Item_Heal_Pistol",
-    "ShortName": "Item_Heal_Pistol",
+    "Name": "奶",
+    "ShortName": "奶",
     "Color": "{default}",
     "HammerID": "1435",
     "GlowColor": [0,255,0,1],
@@ -170,20 +176,20 @@
     "UsePriority": true,
     "AbilityList": [
       {
-        "Name": "weapon_elite",
-        "ButtonID": 0,
-        "ButtonClass": "",
-        "Filter": "",
+        "Name": "Item_Heal_Button",
+        "ButtonID": 1429,
+        "ButtonClass": "func_button",
+        "Filter": "Player_Heal",
         "Chat_Uses": true,
-        "Mode": 1,
+        "Mode": 2,
         "MaxUses": 0,
-        "CoolDown": 0
+        "CoolDown": 45
       }
     ]
   },
   {
-    "Name": "Item_Ammo_Pistol",
-    "ShortName": "Item_Ammo_Pistol",
+    "Name": "弹药",
+    "ShortName": "弹药",
     "Color": "{default}",
     "HammerID": "1446",
     "GlowColor": [0,255,0,1],
@@ -196,20 +202,20 @@
     "UsePriority": true,
     "AbilityList": [
       {
-        "Name": "weapon_elite",
-        "ButtonID": 0,
-        "ButtonClass": "",
-        "Filter": "",
+        "Name": "Item_Ammo_Button",
+        "ButtonID": 1438,
+        "ButtonClass": "func_button",
+        "Filter": "Player_Ammo",
         "Chat_Uses": true,
-        "Mode": 1,
+        "Mode": 2,
         "MaxUses": 0,
-        "CoolDown": 0
+        "CoolDown": 45
       }
     ]
   },
   {
-    "Name": "Item_Key_Pistol",
-    "ShortName": "Item_Key_Pistol",
+    "Name": "钥匙",
+    "ShortName": "钥匙",
     "Color": "{default}",
     "HammerID": "1447",
     "GlowColor": [0,255,0,1],
@@ -222,20 +228,20 @@
     "UsePriority": true,
     "AbilityList": [
       {
-        "Name": "weapon_elite",
+        "Name": "",
         "ButtonID": 0,
         "ButtonClass": "",
-        "Filter": "",
+        "Filter": "Player_Key:1",
         "Chat_Uses": true,
-        "Mode": 1,
+        "Mode": 0,
         "MaxUses": 0,
         "CoolDown": 0
       }
     ]
   },
   {
-    "Name": "Item_Fire_Pistol",
-    "ShortName": "Item_Fire_Pistol",
+    "Name": "火",
+    "ShortName": "火",
     "Color": "{default}",
     "HammerID": "1646",
     "GlowColor": [0,255,0,1],
@@ -248,20 +254,20 @@
     "UsePriority": true,
     "AbilityList": [
       {
-        "Name": "weapon_elite",
-        "ButtonID": 0,
-        "ButtonClass": "",
-        "Filter": "",
+        "Name": "Item_Fire_Button",
+        "ButtonID": 1639,
+        "ButtonClass": "func_button",
+        "Filter": "Player_Fire",
         "Chat_Uses": true,
-        "Mode": 1,
+        "Mode": 2,
         "MaxUses": 0,
-        "CoolDown": 0
+        "CoolDown": 60
       }
     ]
   },
   {
-    "Name": "Item_Electro_Pistol",
-    "ShortName": "Item_Electro_Pistol",
+    "Name": "电",
+    "ShortName": "电",
     "Color": "{default}",
     "HammerID": "1715",
     "GlowColor": [0,255,0,1],
@@ -274,20 +280,20 @@
     "UsePriority": true,
     "AbilityList": [
       {
-        "Name": "weapon_elite",
-        "ButtonID": 0,
-        "ButtonClass": "",
-        "Filter": "",
+        "Name": "Item_Electro_Button",
+        "ButtonID": 1711,
+        "ButtonClass": "func_button",
+        "Filter": "Player_Electro",
         "Chat_Uses": true,
-        "Mode": 1,
+        "Mode": 2,
         "MaxUses": 0,
-        "CoolDown": 0
+        "CoolDown": 60
       }
     ]
   },
   {
-    "Name": "Item_Squirtle_Pistol",
-    "ShortName": "Item_Squirtle_Pistol",
+    "Name": "杰尼龟/水",
+    "ShortName": "杰尼龟/水",
     "Color": "{default}",
     "HammerID": "1727",
     "GlowColor": [0,255,0,1],
@@ -300,20 +306,20 @@
     "UsePriority": true,
     "AbilityList": [
       {
-        "Name": "weapon_elite",
-        "ButtonID": 0,
-        "ButtonClass": "",
-        "Filter": "",
+        "Name": "Item_Squirtle_Button",
+        "ButtonID": 1728,
+        "ButtonClass": "func_button",
+        "Filter": "Player_Squirtle",
         "Chat_Uses": true,
-        "Mode": 1,
+        "Mode": 2,
         "MaxUses": 0,
-        "CoolDown": 0
+        "CoolDown": 60
       }
     ]
   },
   {
-    "Name": "Item_Bulbasaur_Pistol",
-    "ShortName": "Item_Bulbasaur_Pistol",
+    "Name": "妙蛙种子/墙",
+    "ShortName": "妙蛙种子/墙",
     "Color": "{default}",
     "HammerID": "1739",
     "GlowColor": [0,255,0,1],
@@ -326,20 +332,20 @@
     "UsePriority": true,
     "AbilityList": [
       {
-        "Name": "weapon_elite",
-        "ButtonID": 0,
-        "ButtonClass": "",
-        "Filter": "",
+        "Name": "Item_Bulbasaur_Button",
+        "ButtonID": 1740,
+        "ButtonClass": "func_button",
+        "Filter": "Player_Bulbasaur",
         "Chat_Uses": true,
-        "Mode": 1,
+        "Mode": 2,
         "MaxUses": 0,
-        "CoolDown": 0
+        "CoolDown": 60
       }
     ]
   },
   {
-    "Name": "Item_Pikachu_Pistol",
-    "ShortName": "Item_Pikachu_Pistol",
+    "Name": "皮卡丘/电",
+    "ShortName": "皮卡丘/电",
     "Color": "{default}",
     "HammerID": "1762",
     "GlowColor": [0,255,0,1],
@@ -352,20 +358,20 @@
     "UsePriority": true,
     "AbilityList": [
       {
-        "Name": "weapon_elite",
-        "ButtonID": 0,
-        "ButtonClass": "",
-        "Filter": "",
+        "Name": "Item_Pikachu_Button",
+        "ButtonID": 1763,
+        "ButtonClass": "func_button",
+        "Filter": "Player_Pikachu",
         "Chat_Uses": true,
-        "Mode": 1,
+        "Mode": 2,
         "MaxUses": 0,
-        "CoolDown": 0
+        "CoolDown": 60
       }
     ]
   },
   {
-    "Name": "Item_Ditto_Pistol",
-    "ShortName": "Item_Ditto_Pistol",
+    "Name": "百变怪/模仿",
+    "ShortName": "百变怪/模仿",
     "Color": "{default}",
     "HammerID": "1772",
     "GlowColor": [0,255,0,1],
@@ -378,46 +384,57 @@
     "UsePriority": true,
     "AbilityList": [
       {
-        "Name": "weapon_elite",
-        "ButtonID": 0,
-        "ButtonClass": "",
-        "Filter": "",
+        "Name": "Item_Ditto_Button",
+        "ButtonID": 1773,
+        "ButtonClass": "func_button",
+        "Filter": "Player_Ditto",
         "Chat_Uses": true,
+        "Mode": 2,
+        "MaxUses": 0,
+        "CoolDown": 60
+      },
+      {
+        "Name": "Item_Ditto_Button2",
+        "ButtonID": 1792,
+        "ButtonClass": "func_button",
+        "Filter": "Player_Ditto",
+        "Chat_Uses": false,
         "Mode": 1,
         "MaxUses": 0,
-        "CoolDown": 0
+        "CoolDown": 0,
+        "Ignore": true
       }
     ]
   },
   {
-    "Name": "Item_Ghastly_Knife",
-    "ShortName": "Item_Ghastly_Knife",
+    "Name": "ZM 鬼斯",
+    "ShortName": "ZM 鬼斯",
     "Color": "{default}",
     "HammerID": "1783",
     "GlowColor": [0,255,0,1],
     "BlockPickup": false,
-    "AllowTransfer": true,
-    "ForceDrop": true,
+    "AllowTransfer": false,
+    "ForceDrop": false,
     "Chat": true,
     "Hud": true,
-    "TriggerID": 0,
+    "TriggerID": 1789,
     "UsePriority": true,
     "AbilityList": [
       {
-        "Name": "weapon_knife",
-        "ButtonID": 0,
-        "ButtonClass": "",
-        "Filter": "",
+        "Name": "Item_Ghastly_Button",
+        "ButtonID": 1784,
+        "ButtonClass": "func_button",
+        "Filter": "Player_Ghastly",
         "Chat_Uses": true,
-        "Mode": 1,
+        "Mode": 2,
         "MaxUses": 0,
-        "CoolDown": 0
+        "CoolDown": 75
       }
     ]
   },
   {
-    "Name": "Item_Charmander_Pistol",
-    "ShortName": "Item_Charmander_Pistol",
+    "Name": "小火龙/火",
+    "ShortName": "小火龙/火",
     "Color": "{default}",
     "HammerID": "1751",
     "GlowColor": [0,255,0,1],
@@ -430,20 +447,20 @@
     "UsePriority": true,
     "AbilityList": [
       {
-        "Name": "weapon_elite",
-        "ButtonID": 0,
-        "ButtonClass": "",
-        "Filter": "",
+        "Name": "Item_Charmander_Button",
+        "ButtonID": 1752,
+        "ButtonClass": "func_button",
+        "Filter": "Player_Charmander",
         "Chat_Uses": true,
-        "Mode": 1,
+        "Mode": 2,
         "MaxUses": 0,
-        "CoolDown": 0
+        "CoolDown": 60
       }
     ]
   },
   {
-    "Name": "Item_Shiny_Pistol",
-    "ShortName": "Item_Shiny_Pistol",
+    "Name": "闪光皮卡丘/充电宝",
+    "ShortName": "闪光皮卡丘/充电宝",
     "Color": "{default}",
     "HammerID": "894",
     "GlowColor": [0,255,0,1],
@@ -456,20 +473,20 @@
     "UsePriority": true,
     "AbilityList": [
       {
-        "Name": "weapon_elite",
+        "Name": "",
         "ButtonID": 0,
         "ButtonClass": "",
-        "Filter": "",
+        "Filter": "Player_Shiny",
         "Chat_Uses": true,
-        "Mode": 1,
+        "Mode": 0,
         "MaxUses": 0,
         "CoolDown": 0
       }
     ]
   },
   {
-    "Name": "Item_Masterball_Pistol",
-    "ShortName": "Item_Masterball_Pistol",
+    "Name": "大师球",
+    "ShortName": "大师球",
     "Color": "{default}",
     "HammerID": "882",
     "GlowColor": [0,255,0,1],
@@ -482,40 +499,40 @@
     "UsePriority": true,
     "AbilityList": [
       {
-        "Name": "weapon_elite",
-        "ButtonID": 0,
-        "ButtonClass": "",
-        "Filter": "",
+        "Name": "Item_Masterball_Button",
+        "ButtonID": 878,
+        "ButtonClass": "func_button",
+        "Filter": "Player_Masterball",
         "Chat_Uses": true,
-        "Mode": 1,
-        "MaxUses": 0,
+        "Mode": 3,
+        "MaxUses": 1,
         "CoolDown": 0
       }
     ]
   },
   {
-    "Name": "Item_Pokeball_Pistol&0000",
-    "ShortName": "Item_Pokeball_Pistol&0000",
+    "Name": "精灵球",
+    "ShortName": "精灵球",
     "Color": "{default}",
     "HammerID": "891",
     "GlowColor": [0,255,0,1],
     "BlockPickup": false,
     "AllowTransfer": true,
     "ForceDrop": true,
-    "Chat": true,
+    "Chat": false,
     "Hud": true,
     "TriggerID": 0,
     "UsePriority": true,
     "AbilityList": [
       {
-        "Name": "weapon_elite",
-        "ButtonID": 0,
-        "ButtonClass": "",
-        "Filter": "",
-        "Chat_Uses": true,
-        "Mode": 1,
+        "Name": "Item_Pokeball_Button&0000",
+        "ButtonID": 887,
+        "ButtonClass": "func_button",
+        "Filter": "Player_Pokeball",
+        "Chat_Uses": false,
+        "Mode": 2,
         "MaxUses": 0,
-        "CoolDown": 0
+        "CoolDown": 5
       }
     ]
   }
