@@ -63,7 +63,7 @@
     "Chat": false,
     "Hud": true,
     "TriggerID": 0,
-    "UsePriority": true,
+    "UsePriority": false,
     "AbilityList": [
       {
         "Name": "item_button_3",
@@ -121,7 +121,7 @@
     "Chat": true,
     "Hud": true,
     "TriggerID": 0,
-    "UsePriority": false,
+    "UsePriority": true,
     "AbilityList": [
       {
         "Name": "item_button_5",

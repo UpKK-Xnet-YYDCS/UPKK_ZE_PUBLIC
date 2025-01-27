@@ -1,7 +1,7 @@
 [
   {
-    "Name": "火焰喷射器",
-    "ShortName": "火焰喷射器",
+    "Name": "喷火器",
+    "ShortName": "喷火器",
     "Color": "{default}",
     "HammerID": "974",
     "GlowColor": [0,255,0,1],
@@ -11,7 +11,7 @@
     "Chat": false,
     "Hud": true,
     "TriggerID": 0,
-    "UsePriority": true,
+    "UsePriority": false,
     "AbilityList": [
       {
         "Name": "flameshot_button",
