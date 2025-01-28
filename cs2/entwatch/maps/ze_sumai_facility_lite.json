@@ -1,7 +1,7 @@
 [
   {
-    "Name": "weapon-beartrap_weapon",
-    "ShortName": "weapon-beartrap_weapon",
+    "Name": "捕熊夹",
+    "ShortName": "捕熊夹",
     "Color": "{default}",
     "HammerID": "68540",
     "GlowColor": [0,255,0,1],
@@ -14,46 +14,46 @@
     "UsePriority": true,
     "AbilityList": [
       {
-        "Name": "weapon_fiveseven",
-        "ButtonID": 0,
-        "ButtonClass": "",
-        "Filter": "",
+        "Name": "weapon-beartrap_button",
+        "ButtonID": 68542,
+        "ButtonClass": "func_physbox",
+        "Filter": "beartrap:1",
         "Chat_Uses": true,
-        "Mode": 1,
+        "Mode": 2,
         "MaxUses": 0,
-        "CoolDown": 0
+        "CoolDown": 30
       }
     ]
   },
   {
-    "Name": "weapon-breachcharge_knife",
-    "ShortName": "weapon-breachcharge_knife",
+    "Name": "ZM 遥控炸弹",
+    "ShortName": "ZM 遥控炸弹",
     "Color": "{default}",
     "HammerID": "68590",
     "GlowColor": [0,255,0,1],
     "BlockPickup": false,
-    "AllowTransfer": true,
-    "ForceDrop": true,
+    "AllowTransfer": false,
+    "ForceDrop": false,
     "Chat": true,
     "Hud": true,
-    "TriggerID": 0,
+    "TriggerID": 68593,
     "UsePriority": true,
     "AbilityList": [
       {
-        "Name": "weapon_knife",
-        "ButtonID": 0,
-        "ButtonClass": "",
-        "Filter": "",
+        "Name": "weapon-breachcharge_button",
+        "ButtonID": 68604,
+        "ButtonClass": "func_physbox",
+        "Filter": "breachcharge:1",
         "Chat_Uses": true,
-        "Mode": 1,
+        "Mode": 2,
         "MaxUses": 0,
-        "CoolDown": 0
+        "CoolDown": 30
       }
     ]
   },
   {
-    "Name": "weapon-claymore_weapon",
-    "ShortName": "weapon-claymore_weapon",
+    "Name": "阔剑地雷",
+    "ShortName": "阔剑地雷",
     "Color": "{default}",
     "HammerID": "68625",
     "GlowColor": [0,255,0,1],
@@ -66,46 +66,20 @@
     "UsePriority": true,
     "AbilityList": [
       {
-        "Name": "weapon_usp_silencer",
-        "ButtonID": 0,
-        "ButtonClass": "",
-        "Filter": "",
+        "Name": "weapon-claymore_button",
+        "ButtonID": 68627,
+        "ButtonClass": "func_physbox",
+        "Filter": "claymore:1",
         "Chat_Uses": true,
-        "Mode": 1,
+        "Mode": 2,
         "MaxUses": 0,
-        "CoolDown": 0
+        "CoolDown": 45
       }
     ]
   },
   {
-    "Name": "stage1_bridge_move",
-    "ShortName": "stage1_bridge_move",
-    "Color": "{default}",
-    "HammerID": "820",
-    "GlowColor": [0,255,0,1],
-    "BlockPickup": false,
-    "AllowTransfer": true,
-    "ForceDrop": true,
-    "Chat": true,
-    "Hud": true,
-    "TriggerID": 0,
-    "UsePriority": true,
-    "AbilityList": [
-      {
-        "Name": "weapon_ump45",
-        "ButtonID": 0,
-        "ButtonClass": "",
-        "Filter": "",
-        "Chat_Uses": true,
-        "Mode": 1,
-        "MaxUses": 0,
-        "CoolDown": 0
-      }
-    ]
-  },
-  {
-    "Name": "weapon-ammo_weapon",
-    "ShortName": "weapon-ammo_weapon",
+    "Name": "弹药",
+    "ShortName": "弹药",
     "Color": "{default}",
     "HammerID": "77412",
     "GlowColor": [0,255,0,1],
@@ -118,46 +92,46 @@
     "UsePriority": true,
     "AbilityList": [
       {
-        "Name": "weapon_elite",
-        "ButtonID": 0,
-        "ButtonClass": "",
-        "Filter": "",
+        "Name": "weapon-ammo_button",
+        "ButtonID": 77413,
+        "ButtonClass": "func_physbox",
+        "Filter": "ammo:1",
         "Chat_Uses": true,
-        "Mode": 1,
-        "MaxUses": 0,
+        "Mode": 3,
+        "MaxUses": 1,
         "CoolDown": 0
       }
     ]
   },
   {
-    "Name": "weapon-poison_knife",
-    "ShortName": "weapon-poison_knife",
+    "Name": "ZM 毒气弹",
+    "ShortName": "ZM 毒气弹",
     "Color": "{default}",
-    "HammerID": "68590",
+    "HammerID": "77832",
     "GlowColor": [0,255,0,1],
     "BlockPickup": false,
-    "AllowTransfer": true,
-    "ForceDrop": true,
+    "AllowTransfer": false,
+    "ForceDrop": false,
     "Chat": true,
     "Hud": true,
-    "TriggerID": 0,
+    "TriggerID": 77830,
     "UsePriority": true,
     "AbilityList": [
       {
-        "Name": "weapon_knife",
-        "ButtonID": 0,
-        "ButtonClass": "",
-        "Filter": "",
+        "Name": "weapon-poison_button",
+        "ButtonID": 77834,
+        "ButtonClass": "func_physbox",
+        "Filter": "poison:1",
         "Chat_Uses": true,
-        "Mode": 1,
+        "Mode": 2,
         "MaxUses": 0,
-        "CoolDown": 0
+        "CoolDown": 45
       }
     ]
   },
   {
-    "Name": "weapon-medicbag_weapon",
-    "ShortName": "weapon-medicbag_weapon",
+    "Name": "奶",
+    "ShortName": "奶",
     "Color": "{default}",
     "HammerID": "77883",
     "GlowColor": [0,255,0,1],
@@ -170,14 +144,14 @@
     "UsePriority": true,
     "AbilityList": [
       {
-        "Name": "weapon_p250",
-        "ButtonID": 0,
-        "ButtonClass": "",
-        "Filter": "",
+        "Name": "weapon-medicbag_button",
+        "ButtonID": 77885,
+        "ButtonClass": "func_physbox",
+        "Filter": "medicbag:1",
         "Chat_Uses": true,
-        "Mode": 1,
+        "Mode": 2,
         "MaxUses": 0,
-        "CoolDown": 0
+        "CoolDown": 150
       }
     ]
   }
