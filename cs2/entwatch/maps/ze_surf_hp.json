@@ -1,33 +1,33 @@
 [
   {
-    "Name": "crossbow_knife",
-    "ShortName": "crossbow_knife",
+    "Name": "ZM 弓",
+    "ShortName": "ZM 弓",
     "Color": "{default}",
     "HammerID": "102",
     "GlowColor": [0,255,0,1],
     "BlockPickup": false,
-    "AllowTransfer": true,
-    "ForceDrop": true,
+    "AllowTransfer": false,
+    "ForceDrop": false,
     "Chat": true,
     "Hud": true,
-    "TriggerID": 0,
+    "TriggerID": 121,
     "UsePriority": true,
     "AbilityList": [
       {
-        "Name": "weapon_knife",
-        "ButtonID": 0,
-        "ButtonClass": "",
-        "Filter": "",
+        "Name": "crossbow_button",
+        "ButtonID": 100,
+        "ButtonClass": "func_button",
+        "Filter": "crossbow",
         "Chat_Uses": true,
-        "Mode": 1,
-        "MaxUses": 0,
-        "CoolDown": 0
+        "Mode": 5,
+        "MaxUses": 3,
+        "CoolDown": 30
       }
     ]
   },
   {
-    "Name": "shotgun_elite",
-    "ShortName": "shotgun_elite",
+    "Name": "霰弹枪",
+    "ShortName": "霰弹枪",
     "Color": "{default}",
     "HammerID": "93",
     "GlowColor": [0,255,0,1],
@@ -40,20 +40,20 @@
     "UsePriority": true,
     "AbilityList": [
       {
-        "Name": "weapon_glock",
-        "ButtonID": 0,
-        "ButtonClass": "",
-        "Filter": "",
+        "Name": "shotgun_button",
+        "ButtonID": 91,
+        "ButtonClass": "func_button",
+        "Filter": "shotgun",
         "Chat_Uses": true,
-        "Mode": 1,
-        "MaxUses": 0,
-        "CoolDown": 0
+        "Mode": 5,
+        "MaxUses": 2,
+        "CoolDown": 45
       }
     ]
   },
   {
-    "Name": "god_heal_elite",
-    "ShortName": "god_heal_elite",
+    "Name": "小奶",
+    "ShortName": "小奶",
     "Color": "{default}",
     "HammerID": "150",
     "GlowColor": [0,255,0,1],
@@ -66,20 +66,20 @@
     "UsePriority": true,
     "AbilityList": [
       {
-        "Name": "weapon_glock",
+        "Name": "",
         "ButtonID": 0,
         "ButtonClass": "",
         "Filter": "",
         "Chat_Uses": true,
-        "Mode": 1,
+        "Mode": 0,
         "MaxUses": 0,
         "CoolDown": 0
       }
     ]
   },
   {
-    "Name": "once_heal_elite",
-    "ShortName": "once_heal_elite",
+    "Name": "大奶",
+    "ShortName": "大奶",
     "Color": "{default}",
     "HammerID": "66",
     "GlowColor": [0,255,0,1],
@@ -92,12 +92,12 @@
     "UsePriority": true,
     "AbilityList": [
       {
-        "Name": "weapon_glock",
+        "Name": "",
         "ButtonID": 0,
         "ButtonClass": "",
         "Filter": "",
         "Chat_Uses": true,
-        "Mode": 1,
+        "Mode": 0,
         "MaxUses": 0,
         "CoolDown": 0
       }
