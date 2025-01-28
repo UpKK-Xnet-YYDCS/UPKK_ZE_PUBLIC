@@ -1,7 +1,7 @@
 [
   {
-    "Name": "weapon_freez1",
-    "ShortName": "weapon_freez1",
+    "Name": "冰冻陷阱",
+    "ShortName": "冰冻陷阱",
     "Color": "{default}",
     "HammerID": "27266",
     "GlowColor": [0,255,0,1],
@@ -14,20 +14,20 @@
     "UsePriority": true,
     "AbilityList": [
       {
-        "Name": "weapon_elite",
-        "ButtonID": 0,
-        "ButtonClass": "",
-        "Filter": "",
+        "Name": "activatefires1freez",
+        "ButtonID": 27262,
+        "ButtonClass": "func_button",
+        "Filter": "$freezzm1",
         "Chat_Uses": true,
-        "Mode": 1,
-        "MaxUses": 0,
-        "CoolDown": 0
+        "Mode": 4,
+        "MaxUses": 3,
+        "CoolDown": 15
       }
     ]
   },
   {
-    "Name": "weapon_urchen",
-    "ShortName": "weapon_urchen",
+    "Name": "奶",
+    "ShortName": "奶",
     "Color": "{default}",
     "HammerID": "27287",
     "GlowColor": [0,255,0,1],
@@ -40,20 +40,20 @@
     "UsePriority": true,
     "AbilityList": [
       {
-        "Name": "weapon_elite",
-        "ButtonID": 0,
-        "ButtonClass": "",
-        "Filter": "",
+        "Name": "urchen_activate",
+        "ButtonID": 27282,
+        "ButtonClass": "func_button",
+        "Filter": "$urchen_owner",
         "Chat_Uses": true,
-        "Mode": 1,
+        "Mode": 2,
         "MaxUses": 0,
-        "CoolDown": 0
+        "CoolDown": 65
       }
     ]
   },
   {
-    "Name": "weapon_fire",
-    "ShortName": "weapon_fire",
+    "Name": "喷火器",
+    "ShortName": "喷火器",
     "Color": "{default}",
     "HammerID": "27291",
     "GlowColor": [0,255,0,1],
@@ -66,14 +66,14 @@
     "UsePriority": true,
     "AbilityList": [
       {
-        "Name": "weapon_elite",
-        "ButtonID": 0,
-        "ButtonClass": "",
-        "Filter": "",
+        "Name": "activatefires1",
+        "ButtonID": 27296,
+        "ButtonClass": "func_button",
+        "Filter": "$ognemet1",
         "Chat_Uses": true,
-        "Mode": 1,
+        "Mode": 2,
         "MaxUses": 0,
-        "CoolDown": 0
+        "CoolDown": 20
       }
     ]
   }
