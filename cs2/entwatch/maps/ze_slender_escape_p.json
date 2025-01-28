@@ -1,25 +1,25 @@
 [
   {
-    "Name": "蜘蛛/Spider",
-    "ShortName": "蜘蛛",
+    "Name": "ZM 蜘蛛/ZM Spider",
+    "ShortName": "ZM 蜘蛛",
     "Color": "{default}",
     "HammerID": "1059",
     "GlowColor": [0,255,0,1],
     "BlockPickup": false,
-    "AllowTransfer": true,
-    "ForceDrop": true,
+    "AllowTransfer": false,
+    "ForceDrop": false,
     "Chat": true,
     "Hud": true,
-    "TriggerID": 0,
+    "TriggerID": 1057,
     "UsePriority": true,
     "AbilityList": [
       {
         "Name": "",
         "ButtonID": 0,
         "ButtonClass": "",
-        "Filter": "",
+        "Filter": "zombie",
         "Chat_Uses": true,
-        "Mode": 1,
+        "Mode": 0,
         "MaxUses": 0,
         "CoolDown": 0
       }
@@ -40,10 +40,10 @@
     "UsePriority": true,
     "AbilityList": [
       {
-        "Name": "Item_Monkey_Button&0000",
+        "Name": "Item_Monkey_Button",
         "ButtonID": 1115,
         "ButtonClass": "func_physbox",
-        "Filter": "",
+        "Filter": "user_bomb",
         "Chat_Uses": true,
         "Mode": 4,
         "MaxUses": 1,
@@ -52,78 +52,78 @@
     ]
   },
   {
-    "Name": "火面条人/Slenderfire",
-    "ShortName": "火面条人",
+    "Name": "ZM 火面条人/ZM Slenderfire",
+    "ShortName": "ZM 火面条人",
     "Color": "{default}",
     "HammerID": "1257",
     "GlowColor": [0,255,0,1],
     "BlockPickup": false,
-    "AllowTransfer": true,
-    "ForceDrop": true,
+    "AllowTransfer": false,
+    "ForceDrop": false,
     "Chat": true,
     "Hud": true,
-    "TriggerID": 0,
+    "TriggerID": 1259,
     "UsePriority": true,
     "AbilityList": [
       {
         "Name": "",
         "ButtonID": 0,
         "ButtonClass": "",
-        "Filter": "",
+        "Filter": "zombie",
         "Chat_Uses": true,
-        "Mode": 1,
+        "Mode": 0,
         "MaxUses": 0,
         "CoolDown": 0
       }
     ]
   },
   {
-    "Name": "面条人/Slenderzombie",
-    "ShortName": "面条人",
+    "Name": "ZM 面条人/ZM Slenderzombie",
+    "ShortName": "ZM 面条人",
     "Color": "{default}",
     "HammerID": "357",
     "GlowColor": [0,255,0,1],
     "BlockPickup": false,
-    "AllowTransfer": true,
-    "ForceDrop": true,
+    "AllowTransfer": false,
+    "ForceDrop": false,
     "Chat": true,
     "Hud": true,
-    "TriggerID": 0,
+    "TriggerID": 358,
     "UsePriority": true,
     "AbilityList": [
       {
         "Name": "",
         "ButtonID": 0,
         "ButtonClass": "",
-        "Filter": "",
+        "Filter": "zombie",
         "Chat_Uses": true,
-        "Mode": 1,
+        "Mode": 0,
         "MaxUses": 0,
         "CoolDown": 0
       }
     ]
   },
   {
-    "Name": "油桶/Hide Barrel",
-    "ShortName": "油桶",
+    "Name": "ZM 油桶/ZM Hide Barrel",
+    "ShortName": "ZM 油桶",
     "Color": "{default}",
     "HammerID": "364",
     "GlowColor": [0,255,0,1],
     "BlockPickup": false,
-    "AllowTransfer": true,
-    "ForceDrop": true,
+    "AllowTransfer": false,
+    "ForceDrop": false,
     "Chat": true,
     "Hud": true,
-    "TriggerID": 0,
+    "TriggerID": 360,
     "UsePriority": true,
     "AbilityList": [
       {
         "Name": "",
         "ButtonID": 0,
         "ButtonClass": "",
-        "Filter": "",
+        "Filter": "hider",
         "Chat_Uses": true,
-        "Mode": 1,
+        "Mode": 0,
         "MaxUses": 0,
         "CoolDown": 0
       }
@@ -138,17 +138,17 @@
     "BlockPickup": false,
     "AllowTransfer": true,
     "ForceDrop": true,
-    "Chat": true,
+    "Chat": false,
     "Hud": true,
     "TriggerID": 0,
     "UsePriority": true,
     "AbilityList": [
       {
-        "Name": "Item_Flashlight_Button&0000",
+        "Name": "Item_Flashlight_Button",
         "ButtonID": 246,
         "ButtonClass": "func_physbox",
-        "Filter": "",
-        "Chat_Uses": true,
+        "Filter": "user_flashlight",
+        "Chat_Uses": false,
         "Mode": 1,
         "MaxUses": 0,
         "CoolDown": 0
@@ -170,10 +170,10 @@
     "UsePriority": true,
     "AbilityList": [
       {
-        "Name": "Item_Glowstick_Button&0000",
+        "Name": "Item_Glowstick_Button",
         "ButtonID": 258,
         "ButtonClass": "func_physbox",
-        "Filter": "",
+        "Filter": "glowstick",
         "Chat_Uses": true,
         "Mode": 2,
         "MaxUses": 0,
@@ -196,10 +196,10 @@
     "UsePriority": true,
     "AbilityList": [
       {
-        "Name": "Item_Lantern_Button&0000",
+        "Name": "Item_Lantern_Button",
         "ButtonID": 250,
         "ButtonClass": "func_physbox",
-        "Filter": "",
+        "Filter": "lantern",
         "Chat_Uses": true,
         "Mode": 2,
         "MaxUses": 0,
@@ -227,33 +227,33 @@
         "ButtonClass": "",
         "Filter": "",
         "Chat_Uses": true,
-        "Mode": 1,
+        "Mode": 0,
         "MaxUses": 0,
         "CoolDown": 0
       }
     ]
   },
   {
-    "Name": "油桶王/Barrelboss",
-    "ShortName": "油桶王",
+    "Name": "ZM 油桶王/ZM Barrelboss",
+    "ShortName": "ZM 油桶王",
     "Color": "{default}",
     "HammerID": "595",
     "GlowColor": [0,255,0,1],
     "BlockPickup": false,
-    "AllowTransfer": true,
-    "ForceDrop": true,
+    "AllowTransfer": false,
+    "ForceDrop": false,
     "Chat": true,
     "Hud": true,
-    "TriggerID": 0,
+    "TriggerID": 596,
     "UsePriority": true,
     "AbilityList": [
       {
         "Name": "",
         "ButtonID": 0,
         "ButtonClass": "",
-        "Filter": "",
+        "Filter": "zombie",
         "Chat_Uses": true,
-        "Mode": 1,
+        "Mode": 0,
         "MaxUses": 0,
         "CoolDown": 0
       }
