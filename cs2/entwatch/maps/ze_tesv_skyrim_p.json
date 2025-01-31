@@ -17,7 +17,7 @@
         "Name": "heal_button",
         "ButtonID": 402,
         "ButtonClass": "func_button",
-        "Filter": "",
+        "Filter": "heal_user:1",
         "Chat_Uses": true,
         "Mode": 4,
         "MaxUses": 2,
@@ -43,7 +43,7 @@
         "Name": "special_1_button",
         "ButtonID": 703,
         "ButtonClass": "func_button",
-        "Filter": "",
+        "Filter": "staff:1",
         "Chat_Uses": true,
         "Mode": 4,
         "MaxUses": 2,
@@ -92,10 +92,10 @@
     "UsePriority": true,
     "AbilityList": [
       {
-        "Name": "",
-        "ButtonID": 0,
+        "Name": "elder_1_button",
+        "ButtonID": 724,
         "ButtonClass": "func_button",
-        "Filter": "",
+        "Filter": "scroll_user:1",
         "Chat_Uses": true,
         "Mode": 3,
         "MaxUses": 1,
@@ -110,22 +110,22 @@
     "HammerID": 29494,
     "GlowColor": [0,255,0,1],
     "BlockPickup": false,
-    "AllowTransfer": true,
+    "AllowTransfer": false,
     "ForceDrop": false,
     "Chat": true,
     "Hud": true,
-    "TriggerID": 0,
+    "TriggerID": 29512,
     "UsePriority": true,
     "AbilityList": [
       {
         "Name": "",
         "ButtonID": 0,
-        "ButtonClass": "game_ui::PressedAttack2",
-        "Filter": "",
+        "ButtonClass": "",
+        "Filter": "ct_item_user:1",
         "Chat_Uses": true,
-        "Mode": 2,
+        "Mode": 1,
         "MaxUses": 0,
-        "CoolDown": 40
+        "CoolDown": 0
       }
     ]
   },
@@ -140,18 +140,18 @@
     "ForceDrop": false,
     "Chat": true,
     "Hud": true,
-    "TriggerID": 0,
+    "TriggerID": 29484,
     "UsePriority": true,
     "AbilityList": [
       {
         "Name": "",
         "ButtonID": 0,
-        "ButtonClass": "game_ui::PressedAttack2",
-        "Filter": "",
+        "ButtonClass": "",
+        "Filter": "ct_item_user:1",
         "Chat_Uses": true,
-        "Mode": 2,
+        "Mode": 1,
         "MaxUses": 0,
-        "CoolDown": 40
+        "CoolDown": 0
       }
     ]
   },
@@ -166,18 +166,18 @@
     "ForceDrop": false,
     "Chat": true,
     "Hud": true,
-    "TriggerID": 0,
+    "TriggerID": 29410,
     "UsePriority": true,
     "AbilityList": [
       {
         "Name": "",
         "ButtonID": 0,
-        "ButtonClass": "game_ui::PressedAttack2",
-        "Filter": "",
+        "ButtonClass": "",
+        "Filter": "ct_item_user:1",
         "Chat_Uses": true,
-        "Mode": 2,
-        "MaxUses": 2,
-        "CoolDown": 60
+        "Mode": 1,
+        "MaxUses": 0,
+        "CoolDown": 0
       }
     ]
   },
@@ -192,18 +192,18 @@
     "ForceDrop": false,
     "Chat": true,
     "Hud": true,
-    "TriggerID": 0,
+    "TriggerID": 29395,
     "UsePriority": true,
     "AbilityList": [
       {
         "Name": "",
         "ButtonID": 0,
-        "ButtonClass": "game_ui::PressedAttack2",
-        "Filter": "",
+        "ButtonClass": "",
+        "Filter": "ct_item_user:1",
         "Chat_Uses": true,
-        "Mode": 2,
+        "Mode": 1,
         "MaxUses": 0,
-        "CoolDown": 60
+        "CoolDown": 0
       }
     ]
   },
@@ -218,18 +218,18 @@
     "ForceDrop": false,
     "Chat": true,
     "Hud": true,
-    "TriggerID": 0,
+    "TriggerID": 29359,
     "UsePriority": true,
     "AbilityList": [
       {
         "Name": "",
         "ButtonID": 0,
-        "ButtonClass": "game_ui::PressedAttack2",
-        "Filter": "",
+        "ButtonClass": "",
+        "Filter": "night_user",
         "Chat_Uses": true,
-        "Mode": 2,
+        "Mode": 1,
         "MaxUses": 0,
-        "CoolDown": 10
+        "CoolDown": 0
       }
     ]
   },
@@ -244,18 +244,18 @@
     "ForceDrop": false,
     "Chat": true,
     "Hud": true,
-    "TriggerID": 0,
+    "TriggerID": 29273,
     "UsePriority": true,
     "AbilityList": [
       {
         "Name": "",
         "ButtonID": 0,
-        "ButtonClass": "game_ui::PressedAttack2",
-        "Filter": "",
+        "ButtonClass": "",
+        "Filter": "giantplayer:1",
         "Chat_Uses": true,
-        "Mode": 2,
+        "Mode": 1,
         "MaxUses": 0,
-        "CoolDown": 15
+        "CoolDown": 0
       }
     ]
   },
@@ -270,17 +270,17 @@
     "ForceDrop": false,
     "Chat": true,
     "Hud": true,
-    "TriggerID": 0,
+    "TriggerID": 29318,
     "UsePriority": true,
     "AbilityList": [
       {
         "Name": "",
         "ButtonID": 0,
-        "ButtonClass": "game_ui::PressedAttack2",
-        "Filter": "",
+        "ButtonClass": "",
+        "Filter": "dpplayer:1",
         "Chat_Uses": true,
-        "Mode": 3,
-        "MaxUses": 1,
+        "Mode": 1,
+        "MaxUses": 0,
         "CoolDown": 0
       }
     ]
@@ -296,18 +296,18 @@
     "ForceDrop": false,
     "Chat": true,
     "Hud": true,
-    "TriggerID": 0,
+    "TriggerID": 29216,
     "UsePriority": true,
     "AbilityList": [
       {
         "Name": "",
         "ButtonID": 0,
-        "ButtonClass": "game_ui::PressedAttack2",
-        "Filter": "",
+        "ButtonClass": "",
+        "Filter": "t_item_user:1",
         "Chat_Uses": true,
-        "Mode": 2,
+        "Mode": 1,
         "MaxUses": 0,
-        "CoolDown": 35
+        "CoolDown": 0
       }
     ]
   },
@@ -322,18 +322,18 @@
     "ForceDrop": false,
     "Chat": true,
     "Hud": true,
-    "TriggerID": 0,
+    "TriggerID": 29239,
     "UsePriority": true,
     "AbilityList": [
       {
         "Name": "",
         "ButtonID": 0,
-        "ButtonClass": "game_ui::PressedAttack2",
-        "Filter": "",
+        "ButtonClass": "",
+        "Filter": "t_item_user:1",
         "Chat_Uses": true,
-        "Mode": 2,
+        "Mode": 1,
         "MaxUses": 0,
-        "CoolDown": 25
+        "CoolDown": 0
       }
     ]
   }
