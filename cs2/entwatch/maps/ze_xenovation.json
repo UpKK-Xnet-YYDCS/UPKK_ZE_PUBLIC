@@ -1,85 +1,85 @@
 [
   {
-    "Name": "z3_item_knife&0000",
-    "ShortName": "z3_item_knife&0000",
+    "Name": "ZM 大炮3",
+    "ShortName": "ZM 大炮3",
     "Color": "{default}",
     "HammerID": "2780",
     "GlowColor": [0,255,0,1],
     "BlockPickup": false,
-    "AllowTransfer": true,
-    "ForceDrop": true,
+    "AllowTransfer": false,
+    "ForceDrop": false,
     "Chat": true,
     "Hud": true,
-    "TriggerID": 0,
+    "TriggerID": 2782,
     "UsePriority": true,
     "AbilityList": [
       {
-        "Name": "weapon_knife",
-        "ButtonID": 0,
-        "ButtonClass": "",
-        "Filter": "",
+        "Name": "z3_button",
+        "ButtonID": 2749,
+        "ButtonClass": "func_button",
+        "Filter": "z3.cannon_item_user:1",
         "Chat_Uses": true,
-        "Mode": 1,
+        "Mode": 2,
         "MaxUses": 0,
-        "CoolDown": 0
+        "CoolDown": 40
       }
     ]
   },
   {
-    "Name": "z2_item_knife&0000",
-    "ShortName": "z2_item_knife&0000",
+    "Name": "ZM 大炮2",
+    "ShortName": "ZM 大炮2",
     "Color": "{default}",
     "HammerID": "2837",
     "GlowColor": [0,255,0,1],
     "BlockPickup": false,
-    "AllowTransfer": true,
-    "ForceDrop": true,
+    "AllowTransfer": false,
+    "ForceDrop": false,
     "Chat": true,
     "Hud": true,
-    "TriggerID": 0,
+    "TriggerID": 8652,
     "UsePriority": true,
     "AbilityList": [
       {
-        "Name": "weapon_knife",
-        "ButtonID": 0,
-        "ButtonClass": "",
-        "Filter": "",
+        "Name": "z2_button",
+        "ButtonID": 2838,
+        "ButtonClass": "func_button",
+        "Filter": "z2.cannon_item_user:1",
         "Chat_Uses": true,
-        "Mode": 1,
+        "Mode": 2,
         "MaxUses": 0,
-        "CoolDown": 0
+        "CoolDown": 40
       }
     ]
   },
   {
-    "Name": "z1_item_knife&0000",
-    "ShortName": "z1_item_knife&0000",
+    "Name": "ZM 大炮",
+    "ShortName": "ZM 大炮",
     "Color": "{default}",
     "HammerID": "2922",
     "GlowColor": [0,255,0,1],
     "BlockPickup": false,
-    "AllowTransfer": true,
-    "ForceDrop": true,
+    "AllowTransfer": false,
+    "ForceDrop": false,
     "Chat": true,
     "Hud": true,
-    "TriggerID": 0,
+    "TriggerID": 8650,
     "UsePriority": true,
     "AbilityList": [
       {
-        "Name": "weapon_knife",
-        "ButtonID": 0,
-        "ButtonClass": "",
-        "Filter": "",
+        "Name": "z1_button",
+        "ButtonID": 2904,
+        "ButtonClass": "func_button",
+        "Filter": "z1.cannon_item_user:1",
         "Chat_Uses": true,
-        "Mode": 1,
+        "Mode": 2,
         "MaxUses": 0,
-        "CoolDown": 0
+        "CoolDown": 40
       }
     ]
   },
   {
-    "Name": "p_item_gun&0000",
-    "ShortName": "p_item_gun&0000",
+    "Name": "等离子体",
+    "ShortName": "等离子体",
     "Color": "{default}",
     "HammerID": "4461",
     "GlowColor": [0,255,0,1],
@@ -92,20 +92,20 @@
     "UsePriority": true,
     "AbilityList": [
       {
-        "Name": "weapon_glock",
-        "ButtonID": 0,
-        "ButtonClass": "",
-        "Filter": "",
+        "Name": "p_button",
+        "ButtonID": 4462,
+        "ButtonClass": "func_button",
+        "Filter": "P.Plazma_item_user:1",
         "Chat_Uses": true,
-        "Mode": 1,
+        "Mode": 2,
         "MaxUses": 0,
-        "CoolDown": 0
+        "CoolDown": 120
       }
     ]
   },
   {
-    "Name": "c3_item_gun&0000",
-    "ShortName": "c3_item_gun&0000",
+    "Name": "黄色大炮",
+    "ShortName": "黄色大炮",
     "Color": "{default}",
     "HammerID": "4494",
     "GlowColor": [0,255,0,1],
@@ -118,20 +118,20 @@
     "UsePriority": true,
     "AbilityList": [
       {
-        "Name": "weapon_glock",
-        "ButtonID": 0,
-        "ButtonClass": "",
-        "Filter": "",
+        "Name": "c3_button",
+        "ButtonID": 4495,
+        "ButtonClass": "func_button",
+        "Filter": "y.cannon_item_user:1",
         "Chat_Uses": true,
-        "Mode": 1,
+        "Mode": 2,
         "MaxUses": 0,
-        "CoolDown": 0
+        "CoolDown": 30
       }
     ]
   },
   {
-    "Name": "xoly_item_gun&0000",
-    "ShortName": "xoly_item_gun&0000",
+    "Name": "终极",
+    "ShortName": "终极",
     "Color": "{default}",
     "HammerID": "4749",
     "GlowColor": [0,255,0,1],
@@ -144,20 +144,20 @@
     "UsePriority": true,
     "AbilityList": [
       {
-        "Name": "weapon_glock",
-        "ButtonID": 0,
-        "ButtonClass": "",
-        "Filter": "",
+        "Name": "xoly_button",
+        "ButtonID": 4742,
+        "ButtonClass": "func_button",
+        "Filter": "xoly_item_user:1",
         "Chat_Uses": true,
-        "Mode": 1,
-        "MaxUses": 0,
-        "CoolDown": 0
+        "Mode": 4,
+        "MaxUses": 1,
+        "CoolDown": 20
       }
     ]
   },
   {
-    "Name": "c2_item_gun&0000",
-    "ShortName": "c2_item_gun&0000",
+    "Name": "蓝色大炮",
+    "ShortName": "蓝色大炮",
     "Color": "{default}",
     "HammerID": "4846",
     "GlowColor": [0,255,0,1],
@@ -170,20 +170,20 @@
     "UsePriority": true,
     "AbilityList": [
       {
-        "Name": "weapon_glock",
-        "ButtonID": 0,
-        "ButtonClass": "",
-        "Filter": "",
+        "Name": "c2_button",
+        "ButtonID": 4847,
+        "ButtonClass": "func_button",
+        "Filter": "B.cannon_item_user:1",
         "Chat_Uses": true,
-        "Mode": 1,
+        "Mode": 2,
         "MaxUses": 0,
-        "CoolDown": 0
+        "CoolDown": 60
       }
     ]
   },
   {
-    "Name": "c1_item_gun&0000",
-    "ShortName": "c1_item_gun&0000",
+    "Name": "绿色大炮",
+    "ShortName": "绿色大炮",
     "Color": "{default}",
     "HammerID": "4967",
     "GlowColor": [0,255,0,1],
@@ -196,40 +196,40 @@
     "UsePriority": true,
     "AbilityList": [
       {
-        "Name": "weapon_glock",
-        "ButtonID": 0,
-        "ButtonClass": "",
-        "Filter": "",
+        "Name": "c1_button",
+        "ButtonID": 4964,
+        "ButtonClass": "func_button",
+        "Filter": "G.cannon_item_user:1",
         "Chat_Uses": true,
-        "Mode": 1,
+        "Mode": 2,
         "MaxUses": 0,
-        "CoolDown": 0
+        "CoolDown": 20
       }
     ]
   },
   {
-    "Name": "zs_item_knife",
-    "ShortName": "zs_item_knife",
+    "Name": "ZM 加速",
+    "ShortName": "ZM 加速",
     "Color": "{default}",
     "HammerID": "2686",
     "GlowColor": [0,255,0,1],
     "BlockPickup": false,
-    "AllowTransfer": true,
-    "ForceDrop": true,
+    "AllowTransfer": false,
+    "ForceDrop": false,
     "Chat": true,
     "Hud": true,
-    "TriggerID": 0,
+    "TriggerID": 8654,
     "UsePriority": true,
     "AbilityList": [
       {
-        "Name": "weapon_knife",
-        "ButtonID": 0,
-        "ButtonClass": "",
-        "Filter": "",
+        "Name": "zs_button",
+        "ButtonID": 2681,
+        "ButtonClass": "func_button",
+        "Filter": "zs.speeder_item_user:1",
         "Chat_Uses": true,
-        "Mode": 1,
+        "Mode": 2,
         "MaxUses": 0,
-        "CoolDown": 0
+        "CoolDown": 60
       }
     ]
   }
