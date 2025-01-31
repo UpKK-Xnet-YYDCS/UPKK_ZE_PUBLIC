@@ -1,7 +1,7 @@
 [
   {
-    "Name": "item_weapon",
-    "ShortName": "item_weapon",
+    "Name": "墙",
+    "ShortName": "墙",
     "Color": "{default}",
     "HammerID": "1798",
     "GlowColor": [0,255,0,1],
@@ -14,13 +14,13 @@
     "UsePriority": true,
     "AbilityList": [
       {
-        "Name": "weapon_elite",
-        "ButtonID": 0,
-        "ButtonClass": "",
-        "Filter": "",
+        "Name": "item_button",
+        "ButtonID": 1799,
+        "ButtonClass": "func_button",
+        "Filter": "barrel_player:1",
         "Chat_Uses": true,
-        "Mode": 1,
-        "MaxUses": 0,
+        "Mode": 3,
+        "MaxUses": 1,
         "CoolDown": 0
       }
     ]
