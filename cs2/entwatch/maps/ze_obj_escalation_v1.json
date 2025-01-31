@@ -1,0 +1,28 @@
+[
+  {
+    "Name": "阔剑地雷",
+    "ShortName": "阔剑地雷",
+    "Color": "{default}",
+    "HammerID": "33091",
+    "GlowColor": [255,0,0,1],
+    "BlockPickup": false,
+    "AllowTransfer": true,
+    "ForceDrop": true,
+    "Chat": true,
+    "Hud": true,
+    "TriggerID": 0,
+    "UsePriority": true,
+    "AbilityList": [
+      {
+        "Name": "kuojian_anniu",
+        "ButtonID": 33092,
+        "ButtonClass": "func_button",
+        "Filter": "dilei_user:1",
+        "Chat_Uses": true,
+        "Mode": 2,
+        "MaxUses": 0,
+        "CoolDown": 120
+      }
+    ]
+  }
+]
