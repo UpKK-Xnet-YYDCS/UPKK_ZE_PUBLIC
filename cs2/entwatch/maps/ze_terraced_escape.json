@@ -1,7 +1,7 @@
 [
   {
-    "Name": "item_gun",
-    "ShortName": "item_gun",
+    "Name": "火",
+    "ShortName": "火",
     "Color": "{default}",
     "HammerID": "507",
     "GlowColor": [0,255,0,1],
@@ -14,20 +14,20 @@
     "UsePriority": true,
     "AbilityList": [
       {
-        "Name": "weapon_usp_silencer",
-        "ButtonID": 0,
-        "ButtonClass": "",
-        "Filter": "",
+        "Name": "item_button",
+        "ButtonID": 1271,
+        "ButtonClass": "func_physbox",
+        "Filter": "FireItem",
         "Chat_Uses": true,
-        "Mode": 1,
-        "MaxUses": 0,
+        "Mode": 3,
+        "MaxUses": 1,
         "CoolDown": 0
       }
     ]
   },
   {
-    "Name": "push_gun",
-    "ShortName": "push_gun",
+    "Name": "推力",
+    "ShortName": "推力",
     "Color": "{default}",
     "HammerID": "1289",
     "GlowColor": [0,255,0,1],
@@ -40,20 +40,20 @@
     "UsePriority": true,
     "AbilityList": [
       {
-        "Name": "weapon_usp_silencer",
-        "ButtonID": 0,
-        "ButtonClass": "",
-        "Filter": "",
+        "Name": "push_button",
+        "ButtonID": 1286,
+        "ButtonClass": "func_physbox",
+        "Filter": "PushItem",
         "Chat_Uses": true,
-        "Mode": 1,
-        "MaxUses": 0,
+        "Mode": 3,
+        "MaxUses": 1,
         "CoolDown": 0
       }
     ]
   },
   {
-    "Name": "nuke_gun",
-    "ShortName": "nuke_gun",
+    "Name": "核弹",
+    "ShortName": "核弹",
     "Color": "{default}",
     "HammerID": "33507",
     "GlowColor": [0,255,0,1],
@@ -66,13 +66,13 @@
     "UsePriority": true,
     "AbilityList": [
       {
-        "Name": "weapon_usp_silencer",
-        "ButtonID": 0,
-        "ButtonClass": "",
-        "Filter": "",
+        "Name": "nuke_item_button",
+        "ButtonID": 33504,
+        "ButtonClass": "func_physbox",
+        "Filter": "NukeItem",
         "Chat_Uses": true,
-        "Mode": 1,
-        "MaxUses": 0,
+        "Mode": 3,
+        "MaxUses": 1,
         "CoolDown": 0
       }
     ]
