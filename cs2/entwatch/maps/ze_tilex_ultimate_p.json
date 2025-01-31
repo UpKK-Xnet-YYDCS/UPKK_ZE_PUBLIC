@@ -17,7 +17,7 @@
         "Name": "",
         "ButtonID": 0,
         "ButtonClass": "",
-        "Filter": "",
+        "Filter": "ddr:1",
         "Chat_Uses": false,
         "Mode": 0,
         "MaxUses": 0,
@@ -40,10 +40,10 @@
     "UsePriority": true,
     "AbilityList": [
       {
-        "Name": "",
+        "Name": "magia_cura3",
         "ButtonID": 149,
         "ButtonClass": "func_button",
-        "Filter": "",
+        "Filter": "healer3:1",
         "Chat_Uses": true,
         "Mode": 2,
         "MaxUses": 0,
@@ -66,10 +66,10 @@
     "UsePriority": true,
     "AbilityList": [
       {
-        "Name": "",
+        "Name": "magia_cura2",
         "ButtonID": 381,
         "ButtonClass": "func_button",
-        "Filter": "",
+        "Filter": "healer2:1",
         "Chat_Uses": true,
         "Mode": 2,
         "MaxUses": 0,
@@ -92,10 +92,10 @@
     "UsePriority": true,
     "AbilityList": [
       {
-        "Name": "",
+        "Name": "magia_cura",
         "ButtonID": 161,
         "ButtonClass": "func_button",
-        "Filter": "",
+        "Filter": "healer1:1",
         "Chat_Uses": true,
         "Mode": 2,
         "MaxUses": 0,
@@ -104,8 +104,8 @@
     ]
   },
   {
-    "Name": "Abyss",
-    "ShortName": "Abyss",
+    "Name": "深渊",
+    "ShortName": "深渊",
     "Color": "{default}",
     "HammerID": 214,
     "GlowColor": [0,255,0,1],
@@ -120,8 +120,8 @@
       {
         "Name": "habyss_button",
         "ButtonID": 212,
-        "ButtonClass": "",
-        "Filter": "",
+        "ButtonClass": "func_button",
+        "Filter": "habysser:1",
         "Chat_Uses": false,
         "Mode": 2,
         "MaxUses": 0,
