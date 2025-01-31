@@ -1,7 +1,7 @@
 [
   {
-    "Name": "human_gravity_elites",
-    "ShortName": "human_gravity_elites",
+    "Name": "黑洞球",
+    "ShortName": "黑洞球",
     "Color": "{default}",
     "HammerID": "4714",
     "GlowColor": [0,255,0,1],
@@ -14,20 +14,20 @@
     "UsePriority": true,
     "AbilityList": [
       {
-        "Name": "weapon_elite",
-        "ButtonID": 0,
-        "ButtonClass": "",
-        "Filter": "",
+        "Name": "human_gravity_button",
+        "ButtonID": 4710,
+        "ButtonClass": "func_button",
+        "Filter": "player_human_gravity",
         "Chat_Uses": true,
-        "Mode": 1,
+        "Mode": 2,
         "MaxUses": 0,
-        "CoolDown": 0
+        "CoolDown": 50
       }
     ]
   },
   {
-    "Name": "human_shield_elite",
-    "ShortName": "human_shield_elite",
+    "Name": "护盾",
+    "ShortName": "护盾",
     "Color": "{default}",
     "HammerID": "4746",
     "GlowColor": [0,255,0,1],
@@ -40,20 +40,20 @@
     "UsePriority": true,
     "AbilityList": [
       {
-        "Name": "weapon_elite",
-        "ButtonID": 0,
-        "ButtonClass": "",
-        "Filter": "",
+        "Name": "human_shield_button",
+        "ButtonID": 4740,
+        "ButtonClass": "func_button",
+        "Filter": "player_human_shield",
         "Chat_Uses": true,
-        "Mode": 1,
+        "Mode": 2,
         "MaxUses": 0,
-        "CoolDown": 0
+        "CoolDown": 60
       }
     ]
   },
   {
-    "Name": "human_cube_elite",
-    "ShortName": "human_cube_elite",
+    "Name": "方块",
+    "ShortName": "方块",
     "Color": "{default}",
     "HammerID": "4768",
     "GlowColor": [0,255,0,1],
@@ -66,150 +66,150 @@
     "UsePriority": true,
     "AbilityList": [
       {
-        "Name": "weapon_elite",
-        "ButtonID": 0,
-        "ButtonClass": "",
-        "Filter": "",
+        "Name": "human_cube_button",
+        "ButtonID": 4766,
+        "ButtonClass": "func_button",
+        "Filter": "player_human_cube",
         "Chat_Uses": true,
-        "Mode": 1,
+        "Mode": 2,
         "MaxUses": 0,
-        "CoolDown": 0
+        "CoolDown": 60
       }
     ]
   },
   {
-    "Name": "human_energyball_elites",
-    "ShortName": "human_energyball_elites",
+    "Name": "能量球",
+    "ShortName": "能量球",
     "Color": "{default}",
     "HammerID": "4785",
     "GlowColor": [0,255,0,1],
     "BlockPickup": false,
     "AllowTransfer": true,
     "ForceDrop": true,
-    "Chat": true,
+    "Chat": false,
     "Hud": true,
     "TriggerID": 0,
     "UsePriority": true,
     "AbilityList": [
       {
-        "Name": "weapon_elite",
-        "ButtonID": 0,
-        "ButtonClass": "",
-        "Filter": "",
-        "Chat_Uses": true,
-        "Mode": 1,
+        "Name": "human_energyball_button",
+        "ButtonID": 4781,
+        "ButtonClass": "func_button",
+        "Filter": "player_human_energyball",
+        "Chat_Uses": false,
+        "Mode": 2,
         "MaxUses": 0,
-        "CoolDown": 0
+        "CoolDown": 3
       }
     ]
   },
   {
-    "Name": "zombie_energyball_knife",
-    "ShortName": "zombie_energyball_knife",
+    "Name": "ZM 能量球",
+    "ShortName": "ZM 能量球",
     "Color": "{default}",
     "HammerID": "4801",
     "GlowColor": [0,255,0,1],
     "BlockPickup": false,
-    "AllowTransfer": true,
-    "ForceDrop": true,
-    "Chat": true,
+    "AllowTransfer": false,
+    "ForceDrop": false,
+    "Chat": false,
     "Hud": true,
-    "TriggerID": 0,
+    "TriggerID": 4803,
     "UsePriority": true,
     "AbilityList": [
       {
-        "Name": "weapon_knife",
-        "ButtonID": 0,
-        "ButtonClass": "",
-        "Filter": "",
-        "Chat_Uses": true,
-        "Mode": 1,
+        "Name": "zombie_energyball_button",
+        "ButtonID": 4797,
+        "ButtonClass": "func_button",
+        "Filter": "player_zombie_energyball",
+        "Chat_Uses": false,
+        "Mode": 2,
         "MaxUses": 0,
-        "CoolDown": 0
+        "CoolDown": 8
       }
     ]
   },
   {
-    "Name": "zombie_gravity_knife",
-    "ShortName": "zombie_gravity_knife",
+    "Name": "ZM 黑洞",
+    "ShortName": "ZM 黑洞",
     "Color": "{default}",
     "HammerID": "4836",
     "GlowColor": [0,255,0,1],
     "BlockPickup": false,
-    "AllowTransfer": true,
-    "ForceDrop": true,
+    "AllowTransfer": false,
+    "ForceDrop": false,
     "Chat": true,
     "Hud": true,
-    "TriggerID": 0,
+    "TriggerID": 4841,
     "UsePriority": true,
     "AbilityList": [
       {
-        "Name": "weapon_knife",
-        "ButtonID": 0,
-        "ButtonClass": "",
-        "Filter": "",
+        "Name": "zombie_gravity_button",
+        "ButtonID": 4839,
+        "ButtonClass": "func_button",
+        "Filter": "player_zombie_gravity",
         "Chat_Uses": true,
-        "Mode": 1,
+        "Mode": 2,
         "MaxUses": 0,
-        "CoolDown": 0
+        "CoolDown": 90
       }
     ]
   },
   {
-    "Name": "zombie_heal_knife",
-    "ShortName": "zombie_heal_knife",
+    "Name": "ZM 奶",
+    "ShortName": "ZM 奶",
     "Color": "{default}",
     "HammerID": "4850",
     "GlowColor": [0,255,0,1],
     "BlockPickup": false,
-    "AllowTransfer": true,
-    "ForceDrop": true,
+    "AllowTransfer": false,
+    "ForceDrop": false,
     "Chat": true,
     "Hud": true,
-    "TriggerID": 0,
+    "TriggerID": 4848,
     "UsePriority": true,
     "AbilityList": [
       {
-        "Name": "weapon_knife",
-        "ButtonID": 0,
-        "ButtonClass": "",
-        "Filter": "",
+        "Name": "zombie_heal_button",
+        "ButtonID": 4846,
+        "ButtonClass": "func_button",
+        "Filter": "player_zombie_heal",
         "Chat_Uses": true,
-        "Mode": 1,
+        "Mode": 2,
         "MaxUses": 0,
-        "CoolDown": 0
+        "CoolDown": 50
       }
     ]
   },
   {
-    "Name": "zombie_freezeball_knife",
-    "ShortName": "zombie_freezeball_knife",
+    "Name": "ZM 冰",
+    "ShortName": "ZM 冰",
     "Color": "{default}",
     "HammerID": "4861",
     "GlowColor": [0,255,0,1],
     "BlockPickup": false,
-    "AllowTransfer": true,
-    "ForceDrop": true,
+    "AllowTransfer": false,
+    "ForceDrop": false,
     "Chat": true,
     "Hud": true,
-    "TriggerID": 0,
+    "TriggerID": 4863,
     "UsePriority": true,
     "AbilityList": [
       {
-        "Name": "weapon_knife",
-        "ButtonID": 0,
-        "ButtonClass": "",
-        "Filter": "",
+        "Name": "zombie_freezeball_button",
+        "ButtonID": 4857,
+        "ButtonClass": "func_button",
+        "Filter": "player_zombie_freezeball",
         "Chat_Uses": true,
-        "Mode": 1,
+        "Mode": 2,
         "MaxUses": 0,
-        "CoolDown": 0
+        "CoolDown": 50
       }
     ]
   },
   {
-    "Name": "human_freezeball_elites",
-    "ShortName": "human_freezeball_elites",
+    "Name": "冰冻球",
+    "ShortName": "冰冻球",
     "Color": "{default}",
     "HammerID": "4881",
     "GlowColor": [0,255,0,1],
@@ -222,20 +222,20 @@
     "UsePriority": true,
     "AbilityList": [
       {
-        "Name": "weapon_elite",
-        "ButtonID": 0,
-        "ButtonClass": "",
-        "Filter": "",
+        "Name": "human_freezeball_button",
+        "ButtonID": 4877,
+        "ButtonClass": "func_button",
+        "Filter": "player_human_freezeball",
         "Chat_Uses": true,
-        "Mode": 1,
+        "Mode": 2,
         "MaxUses": 0,
-        "CoolDown": 0
+        "CoolDown": 35
       }
     ]
   },
   {
-    "Name": "human_heal_elite",
-    "ShortName": "human_heal_elite",
+    "Name": "奶",
+    "ShortName": "奶",
     "Color": "{default}",
     "HammerID": "4896",
     "GlowColor": [0,255,0,1],
@@ -248,14 +248,14 @@
     "UsePriority": true,
     "AbilityList": [
       {
-        "Name": "weapon_elite",
-        "ButtonID": 0,
-        "ButtonClass": "",
-        "Filter": "",
+        "Name": "human_heal_button",
+        "ButtonID": 4898,
+        "ButtonClass": "func_button",
+        "Filter": "player_human_heal",
         "Chat_Uses": true,
-        "Mode": 1,
+        "Mode": 2,
         "MaxUses": 0,
-        "CoolDown": 0
+        "CoolDown": 100
       }
     ]
   }
