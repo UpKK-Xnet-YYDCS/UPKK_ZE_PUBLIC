@@ -1,7 +1,7 @@
 [
   {
-    "Name": "heal_elite",
-    "ShortName": "heal_elite",
+    "Name": "奶",
+    "ShortName": "奶",
     "Color": "{default}",
     "HammerID": "1509",
     "GlowColor": [0,255,0,1],
@@ -14,20 +14,20 @@
     "UsePriority": true,
     "AbilityList": [
       {
-        "Name": "weapon_elite",
-        "ButtonID": 0,
-        "ButtonClass": "",
-        "Filter": "",
+        "Name": "heal_button",
+        "ButtonID": 1476,
+        "ButtonClass": "func_button",
+        "Filter": "heal_user",
         "Chat_Uses": true,
-        "Mode": 1,
+        "Mode": 2,
         "MaxUses": 0,
-        "CoolDown": 0
+        "CoolDown": 59
       }
     ]
   },
   {
-    "Name": "ice_elite",
-    "ShortName": "ice_elite",
+    "Name": "冰",
+    "ShortName": "冰",
     "Color": "{default}",
     "HammerID": "6912",
     "GlowColor": [0,255,0,1],
@@ -41,123 +41,123 @@
     "AbilityList": [
       {
         "Name": "weapon_elite",
-        "ButtonID": 0,
-        "ButtonClass": "",
-        "Filter": "",
+        "ButtonID": 6913,
+        "ButtonClass": "func_button",
+        "Filter": "ice_user",
         "Chat_Uses": true,
-        "Mode": 1,
+        "Mode": 2,
         "MaxUses": 0,
-        "CoolDown": 0
+        "CoolDown": 49
       }
     ]
   },
   {
-    "Name": "fire ball1_knife",
-    "ShortName": "fire ball1_knife",
+    "Name": "ZM 火球",
+    "ShortName": "ZM 火球",
     "Color": "{default}",
     "HammerID": "11453",
     "GlowColor": [0,255,0,1],
     "BlockPickup": false,
-    "AllowTransfer": true,
-    "ForceDrop": true,
+    "AllowTransfer": false,
+    "ForceDrop": false,
     "Chat": true,
     "Hud": true,
-    "TriggerID": 0,
+    "TriggerID": 11451,
     "UsePriority": true,
     "AbilityList": [
       {
-        "Name": "weapon_knife",
-        "ButtonID": 0,
-        "ButtonClass": "",
-        "Filter": "",
+        "Name": "fire ball1_button",
+        "ButtonID": 11454,
+        "ButtonClass": "func_button",
+        "Filter": "fire_ball1_user",
         "Chat_Uses": true,
-        "Mode": 1,
+        "Mode": 2,
         "MaxUses": 0,
-        "CoolDown": 0
+        "CoolDown": 30
       }
     ]
   },
   {
-    "Name": "fire ball2_knife",
-    "ShortName": "fire ball2_knife",
+    "Name": "ZM 火球2",
+    "ShortName": "ZM 火球2",
     "Color": "{default}",
     "HammerID": "11471",
     "GlowColor": [0,255,0,1],
     "BlockPickup": false,
-    "AllowTransfer": true,
-    "ForceDrop": true,
+    "AllowTransfer": false,
+    "ForceDrop": false,
     "Chat": true,
     "Hud": true,
-    "TriggerID": 0,
+    "TriggerID": 11469,
     "UsePriority": true,
     "AbilityList": [
       {
-        "Name": "weapon_knife",
-        "ButtonID": 0,
-        "ButtonClass": "",
-        "Filter": "",
+        "Name": "fire ball2_button",
+        "ButtonID": 11472,
+        "ButtonClass": "func_button",
+        "Filter": "fire_ball2_user",
         "Chat_Uses": true,
-        "Mode": 1,
+        "Mode": 2,
         "MaxUses": 0,
-        "CoolDown": 0
+        "CoolDown": 29
       }
     ]
   },
   {
-    "Name": "speed_knife",
-    "ShortName": "speed_knife",
+    "Name": "ZM 加速",
+    "ShortName": "ZM 加速",
     "Color": "{default}",
     "HammerID": "11535",
     "GlowColor": [0,255,0,1],
     "BlockPickup": false,
-    "AllowTransfer": true,
-    "ForceDrop": true,
+    "AllowTransfer": false,
+    "ForceDrop": false,
     "Chat": true,
     "Hud": true,
-    "TriggerID": 0,
+    "TriggerID": 11533,
     "UsePriority": true,
     "AbilityList": [
       {
-        "Name": "weapon_knife",
-        "ButtonID": 0,
-        "ButtonClass": "",
-        "Filter": "",
+        "Name": "speed_button",
+        "ButtonID": 11539,
+        "ButtonClass": "func_button",
+        "Filter": "speed_user",
         "Chat_Uses": true,
-        "Mode": 1,
+        "Mode": 2,
         "MaxUses": 0,
-        "CoolDown": 0
+        "CoolDown": 30
       }
     ]
   },
   {
-    "Name": "low gravity_knife",
-    "ShortName": "low gravity_knife",
+    "Name": "ZM 低重力",
+    "ShortName": "ZM 低重力",
     "Color": "{default}",
     "HammerID": "11542",
     "GlowColor": [0,255,0,1],
     "BlockPickup": false,
-    "AllowTransfer": true,
-    "ForceDrop": true,
+    "AllowTransfer": false,
+    "ForceDrop": false,
     "Chat": true,
     "Hud": true,
-    "TriggerID": 0,
+    "TriggerID": 11543,
     "UsePriority": true,
     "AbilityList": [
       {
-        "Name": "weapon_knife",
-        "ButtonID": 0,
-        "ButtonClass": "",
-        "Filter": "",
+        "Name": "low gravity_button",
+        "ButtonID": 11547,
+        "ButtonClass": "func_button",
+        "Filter": "low_g_user",
         "Chat_Uses": true,
-        "Mode": 1,
+        "Mode": 2,
         "MaxUses": 0,
-        "CoolDown": 0
+        "CoolDown": 30
       }
     ]
   },
   {
-    "Name": "wind_elite",
-    "ShortName": "wind_elite",
+    "Name": "风",
+    "ShortName": "风",
     "Color": "{default}",
     "HammerID": "11653",
     "GlowColor": [0,255,0,1],
@@ -170,20 +170,20 @@
     "UsePriority": true,
     "AbilityList": [
       {
-        "Name": "weapon_elite",
-        "ButtonID": 0,
-        "ButtonClass": "",
-        "Filter": "",
+        "Name": "wind_button",
+        "ButtonID": 11661,
+        "ButtonClass": "func_button",
+        "Filter": "wind_user",
         "Chat_Uses": true,
-        "Mode": 1,
+        "Mode": 2,
         "MaxUses": 0,
-        "CoolDown": 0
+        "CoolDown": 49
       }
     ]
   },
   {
-    "Name": "flame_elite",
-    "ShortName": "flame_elite",
+    "Name": "火",
+    "ShortName": "火",
     "Color": "{default}",
     "HammerID": "11696",
     "GlowColor": [0,255,0,1],
@@ -196,20 +196,20 @@
     "UsePriority": true,
     "AbilityList": [
       {
-        "Name": "weapon_elite",
-        "ButtonID": 0,
-        "ButtonClass": "",
-        "Filter": "",
+        "Name": "flame_button",
+        "ButtonID": 11693,
+        "ButtonClass": "func_button",
+        "Filter": "flame_user",
         "Chat_Uses": true,
-        "Mode": 1,
+        "Mode": 2,
         "MaxUses": 0,
-        "CoolDown": 0
+        "CoolDown": 69
       }
     ]
   },
   {
-    "Name": "shield_elite",
-    "ShortName": "shield_elite",
+    "Name": "盾",
+    "ShortName": "盾",
     "Color": "{default}",
     "HammerID": "12107",
     "GlowColor": [0,255,0,1],
@@ -222,46 +222,46 @@
     "UsePriority": true,
     "AbilityList": [
       {
-        "Name": "weapon_elite",
-        "ButtonID": 0,
-        "ButtonClass": "",
-        "Filter": "",
+        "Name": "shield_button",
+        "ButtonID": 12108,
+        "ButtonClass": "func_button",
+        "Filter": "shield_user",
         "Chat_Uses": true,
-        "Mode": 1,
+        "Mode": 2,
         "MaxUses": 0,
-        "CoolDown": 0
+        "CoolDown": 59
       }
     ]
   },
   {
-    "Name": "eclipse_knife",
-    "ShortName": "eclipse_knife",
+    "Name": "ZM 日食",
+    "ShortName": "ZM 日食",
     "Color": "{default}",
     "HammerID": "12148",
     "GlowColor": [0,255,0,1],
     "BlockPickup": false,
-    "AllowTransfer": true,
-    "ForceDrop": true,
+    "AllowTransfer": false,
+    "ForceDrop": false,
     "Chat": true,
     "Hud": true,
-    "TriggerID": 0,
+    "TriggerID": 12149,
     "UsePriority": true,
     "AbilityList": [
       {
-        "Name": "weapon_knife",
-        "ButtonID": 0,
-        "ButtonClass": "",
-        "Filter": "",
+        "Name": "eclipse_button",
+        "ButtonID": 12153,
+        "ButtonClass": "func_button",
+        "Filter": "eclipse_user",
         "Chat_Uses": true,
-        "Mode": 1,
+        "Mode": 2,
         "MaxUses": 0,
-        "CoolDown": 0
+        "CoolDown": 599
       }
     ]
   },
   {
-    "Name": "mini heal1_elite",
-    "ShortName": "mini heal1_elite",
+    "Name": "小奶",
+    "ShortName": "小奶",
     "Color": "{default}",
     "HammerID": "12170",
     "GlowColor": [0,255,0,1],
@@ -274,20 +274,20 @@
     "UsePriority": true,
     "AbilityList": [
       {
-        "Name": "weapon_elite",
-        "ButtonID": 0,
-        "ButtonClass": "",
-        "Filter": "",
+        "Name": "mini heal1_button",
+        "ButtonID": 12173,
+        "ButtonClass": "func_button",
+        "Filter": "mini_heal1_user",
         "Chat_Uses": true,
-        "Mode": 1,
-        "MaxUses": 0,
+        "Mode": 3,
+        "MaxUses": 1,
         "CoolDown": 0
       }
     ]
   },
   {
-    "Name": "mini heal2_elite",
-    "ShortName": "mini heal2_elite",
+    "Name": "小奶2",
+    "ShortName": "小奶2",
     "Color": "{default}",
     "HammerID": "12309",
     "GlowColor": [0,255,0,1],
@@ -300,13 +300,13 @@
     "UsePriority": true,
     "AbilityList": [
       {
-        "Name": "weapon_elite",
-        "ButtonID": 0,
-        "ButtonClass": "",
-        "Filter": "",
+        "Name": "mini heal2_button",
+        "ButtonID": 12311,
+        "ButtonClass": "func_button",
+        "Filter": "mini_heal2_user",
         "Chat_Uses": true,
-        "Mode": 1,
-        "MaxUses": 0,
+        "Mode": 3,
+        "MaxUses": 1,
         "CoolDown": 0
       }
     ]
