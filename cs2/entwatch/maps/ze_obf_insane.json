@@ -3,8 +3,13 @@
     "Name": "灭火器",
     "ShortName": "灭火器",
     "Color": "{default}",
-    "HammerID": "394",
-    "GlowColor": [255,0,0,1],
+    "HammerID": 394,
+    "GlowColor": [
+      255,
+      0,
+      0,
+      1
+    ],
     "BlockPickup": false,
     "AllowTransfer": true,
     "ForceDrop": true,
@@ -29,8 +34,13 @@
     "Name": "奶",
     "ShortName": "奶",
     "Color": "{default}",
-    "HammerID": "410",
-    "GlowColor": [255,0,0,1],
+    "HammerID": 410,
+    "GlowColor": [
+      255,
+      0,
+      0,
+      1
+    ],
     "BlockPickup": false,
     "AllowTransfer": true,
     "ForceDrop": true,

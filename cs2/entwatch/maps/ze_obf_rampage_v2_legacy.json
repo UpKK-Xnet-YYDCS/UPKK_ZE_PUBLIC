@@ -3,8 +3,13 @@
     "Name": "ZM 无人机",
     "ShortName": "ZM 无人机",
     "Color": "{default}",
-    "HammerID": "18014",
-    "GlowColor": [255,0,0,1],
+    "HammerID": 18014,
+    "GlowColor": [
+      255,
+      0,
+      0,
+      1
+    ],
     "BlockPickup": false,
     "AllowTransfer": false,
     "ForceDrop": false,
@@ -35,8 +40,13 @@
     "Name": "火箭筒",
     "ShortName": "火箭筒",
     "Color": "{default}",
-    "HammerID": "3717",
-    "GlowColor": [255,0,0,1],
+    "HammerID": 3717,
+    "GlowColor": [
+      255,
+      0,
+      0,
+      1
+    ],
     "BlockPickup": false,
     "AllowTransfer": true,
     "ForceDrop": true,
@@ -61,8 +71,13 @@
     "Name": "奶",
     "ShortName": "奶",
     "Color": "{default}",
-    "HammerID": "3814",
-    "GlowColor": [255,0,0,1],
+    "HammerID": 3814,
+    "GlowColor": [
+      255,
+      0,
+      0,
+      1
+    ],
     "BlockPickup": false,
     "AllowTransfer": true,
     "ForceDrop": true,

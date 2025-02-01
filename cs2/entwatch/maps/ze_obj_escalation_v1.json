@@ -3,8 +3,13 @@
     "Name": "阔剑地雷",
     "ShortName": "阔剑地雷",
     "Color": "{default}",
-    "HammerID": "33091",
-    "GlowColor": [255,0,0,1],
+    "HammerID": 33091,
+    "GlowColor": [
+      255,
+      0,
+      0,
+      1
+    ],
     "BlockPickup": false,
     "AllowTransfer": true,
     "ForceDrop": true,
