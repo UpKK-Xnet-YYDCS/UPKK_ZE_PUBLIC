@@ -3,7 +3,7 @@
     "Name": "圆锥",
     "ShortName": "圆锥",
     "Color": "{default}",
-    "HammerID": 4185,
+    "HammerID": "4185",
     "GlowColor": [0,255,0,1],
     "BlockPickup": false,
     "AllowTransfer": true,
@@ -29,7 +29,7 @@
     "Name": "激光",
     "ShortName": "激光",
     "Color": "{default}",
-    "HammerID": 4162,
+    "HammerID": "4162",
     "GlowColor": [0,255,0,1],
     "BlockPickup": false,
     "AllowTransfer": true,
@@ -48,6 +48,58 @@
         "Mode": 2,
         "MaxUses": 0,
         "CoolDown": 70
+      }
+    ]
+  },
+  {
+    "Name": "奶",
+    "ShortName": "奶",
+    "Color": "{default}",
+    "HammerID": 4169,
+    "GlowColor": [0,255,0,1],
+    "BlockPickup": false,
+    "AllowTransfer": true,
+    "ForceDrop": true,
+    "Chat": true,
+    "Hud": true,
+    "TriggerID": 0,
+    "UsePriority": true,
+    "AbilityList": [
+      {
+        "Name": "human_heal_button",
+        "ButtonID": 16910,
+        "ButtonClass": "func_button",
+        "Filter": "player_human_heal",
+        "Chat_Uses": true,
+        "Mode": 2,
+        "MaxUses": 0,
+        "CoolDown": 80
+      }
+    ]
+  },
+  {
+    "Name": "减速球",
+    "ShortName": "减速球",
+    "Color": "{default}",
+    "HammerID": 4187,
+    "GlowColor": [0,255,0,1],
+    "BlockPickup": false,
+    "AllowTransfer": true,
+    "ForceDrop": true,
+    "Chat": false,
+    "Hud": true,
+    "TriggerID": 0,
+    "UsePriority": true,
+    "AbilityList": [
+      {
+        "Name": "human_slowball_button",
+        "ButtonID": 16914,
+        "ButtonClass": "func_button",
+        "Filter": "player_human_slowball",
+        "Chat_Uses": true,
+        "Mode": 1,
+        "MaxUses": 0,
+        "CoolDown": 0
       }
     ]
   }
