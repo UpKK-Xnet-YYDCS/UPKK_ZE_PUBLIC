@@ -4,12 +4,7 @@
     "ShortName": "电池面板",
     "Color": "{default}",
     "HammerID": 7123,
-    "GlowColor": [
-      0,
-      0,
-      255,
-      1
-    ],
+    "GlowColor": [0,255,0,1],
     "BlockPickup": false,
     "AllowTransfer": true,
     "ForceDrop": true,

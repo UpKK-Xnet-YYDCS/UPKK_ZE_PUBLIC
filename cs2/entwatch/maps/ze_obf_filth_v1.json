@@ -4,12 +4,7 @@
     "ShortName": "灭火器",
     "Color": "{default}",
     "HammerID": 5628,
-    "GlowColor": [
-      255,
-      0,
-      0,
-      1
-    ],
+    "GlowColor": [0,255,0,1],
     "BlockPickup": false,
     "AllowTransfer": true,
     "ForceDrop": true,

@@ -4,12 +4,7 @@
     "ShortName": "奶",
     "Color": "{default}",
     "HammerID": 31769,
-    "GlowColor": [
-      255,
-      255,
-      255,
-      1
-    ],
+    "GlowColor": [0,255,0,1],
     "BlockPickup": false,
     "AllowTransfer": true,
     "ForceDrop": true,
@@ -35,12 +30,7 @@
     "ShortName": "法棍",
     "Color": "{default}",
     "HammerID": 31727,
-    "GlowColor": [
-      255,
-      0,
-      0,
-      1
-    ],
+    "GlowColor": [0,255,0,1],
     "BlockPickup": false,
     "AllowTransfer": true,
     "ForceDrop": true,
@@ -66,12 +56,7 @@
     "ShortName": "ZM 泰坦",
     "Color": "{default}",
     "HammerID": 31380,
-    "GlowColor": [
-      255,
-      0,
-      0,
-      1
-    ],
+    "GlowColor": [0,255,0,1],
     "BlockPickup": false,
     "AllowTransfer": false,
     "ForceDrop": false,
