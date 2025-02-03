@@ -1,0 +1,80 @@
+[
+  {
+    "Name": "魔戒",
+    "ShortName": "魔戒",
+    "Color": "{default}",
+    "HammerID": 185,
+    "GlowColor": [0,255,0,1],
+    "BlockPickup": false,
+    "AllowTransfer": true,
+    "ForceDrop": true,
+    "Chat": true,
+    "Hud": true,
+    "TriggerID": 0,
+    "UsePriority": true,
+    "AbilityList": [
+      {
+        "Name": "",
+        "ButtonID": 0,
+        "ButtonClass": "",
+        "Filter": "",
+        "Chat_Uses": true,
+        "Mode": 0,
+        "MaxUses": 0,
+        "CoolDown": 0
+      }
+    ]
+  },
+  {
+    "Name": "萨鲁曼权杖",
+    "ShortName": "萨鲁曼权杖",
+    "Color": "{default}",
+    "HammerID": 186,
+    "GlowColor": [0,255,0,1],
+    "BlockPickup": false,
+    "AllowTransfer": true,
+    "ForceDrop": true,
+    "Chat": true,
+    "Hud": true,
+    "TriggerID": 0,
+    "UsePriority": true,
+    "AbilityList": [
+      {
+        "Name": "star6",
+        "ButtonID": 188,
+        "ButtonClass": "func_button",
+        "Filter": "otherguy:1",
+        "Chat_Uses": true,
+        "Mode": 2,
+        "MaxUses": 0,
+        "CoolDown": 35
+      }
+    ]
+  },
+  {
+    "Name": "甘道夫权杖",
+    "ShortName": "甘道夫权杖",
+    "Color": "{default}",
+    "HammerID": 198,
+    "GlowColor": [0,255,0,1],
+    "BlockPickup": false,
+    "AllowTransfer": true,
+    "ForceDrop": true,
+    "Chat": true,
+    "Hud": true,
+    "TriggerID": 0,
+    "UsePriority": true,
+    "AbilityList": [
+      {
+        "Name": "star1",
+        "ButtonID": 193,
+        "ButtonClass": "func_button",
+        "Filter": "ganderp:1",
+        "Chat_Uses": true,
+        "Mode": 2,
+        "MaxUses": 0,
+        "CoolDown": 40
+      }
+    ]
+  }
+]

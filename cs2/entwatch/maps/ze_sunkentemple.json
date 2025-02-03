@@ -1,0 +1,80 @@
+[
+  {
+    "Name": "推力",
+    "ShortName": "推力",
+    "Color": "{default}",
+    "HammerID": 715,
+    "GlowColor": [0,255,0,1],
+    "BlockPickup": false,
+    "AllowTransfer": true,
+    "ForceDrop": true,
+    "Chat": true,
+    "Hud": true,
+    "TriggerID": 0,
+    "UsePriority": true,
+    "AbilityList": [
+      {
+        "Name": "push_gun_button",
+        "ButtonID": 716,
+        "ButtonClass": "func_button",
+        "Filter": "11",
+        "Chat_Uses": true,
+        "Mode": 2,
+        "MaxUses": 0,
+        "CoolDown": 60
+      }
+    ]
+  },
+  {
+    "Name": "墙",
+    "ShortName": "墙",
+    "Color": "{default}",
+    "HammerID": 708,
+    "GlowColor": [0,255,0,1],
+    "BlockPickup": false,
+    "AllowTransfer": true,
+    "ForceDrop": true,
+    "Chat": true,
+    "Hud": true,
+    "TriggerID": 0,
+    "UsePriority": true,
+    "AbilityList": [
+      {
+        "Name": "wall_button",
+        "ButtonID": 709,
+        "ButtonClass": "func_button",
+        "Filter": "22",
+        "Chat_Uses": true,
+        "Mode": 2,
+        "MaxUses": 0,
+        "CoolDown": 60
+      }
+    ]
+  },
+  {
+    "Name": "奶",
+    "ShortName": "奶",
+    "Color": "{default}",
+    "HammerID": 720,
+    "GlowColor": [0,255,0,1],
+    "BlockPickup": false,
+    "AllowTransfer": true,
+    "ForceDrop": true,
+    "Chat": true,
+    "Hud": true,
+    "TriggerID": 0,
+    "UsePriority": true,
+    "AbilityList": [
+      {
+        "Name": "heal_gun_button",
+        "ButtonID": 721,
+        "ButtonClass": "func_button",
+        "Filter": "33",
+        "Chat_Uses": true,
+        "Mode": 2,
+        "MaxUses": 0,
+        "CoolDown": 60
+      }
+    ]
+  }
+]
