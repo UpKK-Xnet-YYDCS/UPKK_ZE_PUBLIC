@@ -312,7 +312,7 @@
         "Price": 200,
         "Command": "zeus;taser",
         "Slot": "2",
-        "Enable":true
+        "Enable":false
     },
     {
         "DefIndex": 44,
@@ -339,7 +339,7 @@
         "Price": 600,
         "Command": "ig",
         "Slot": "3",
-        "Enable":true
+        "Enable":false
     },
     {
         "DefIndex": 45,
@@ -348,7 +348,7 @@
         "Price": 300,
         "Command": "smoke",
         "Slot": "3",
-        "Enable":true
+        "Enable":false
     },
     {
         "DefIndex": 43,
@@ -357,7 +357,7 @@
         "Price": 200,
         "Command": "flash",
         "Slot": "3",
-        "Enable":true
+        "Enable":false
     },
     {
         "DefIndex": 47,
@@ -366,7 +366,7 @@
         "Price": 50,
         "Command": "decoy",
         "Slot": "3",
-        "Enable":true
+        "Enable":false
     },
     {
         "DefIndex": 57,
