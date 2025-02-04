@@ -82,7 +82,7 @@ jobs:
           if [[ ($file == *.json || $file == *.jsonc) && -f "$file" ]]; then
             echo "Validating $file"
             if [[ $file == *.json ]]; then
-              jsonlint-cli -q -c "$file" || exit 1
+              npx jsonlint-cli "$file" || exit 1
               # 检查顶层结构必须为对象或数组
               if ! node -e "const d = require('./$file'); if (typeof d !== 'object' || d === null) process.exit(1);" ; then
                 echo "Error: Top-level JSON must be an object or array in $file"
