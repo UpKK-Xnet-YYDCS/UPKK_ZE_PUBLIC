@@ -3,19 +3,19 @@
     "Name": "小鸟游星野",
     "ShortName": "小鸟游星野",
     "Color": "{default}",
-    "HammerID": 17762,
+    "HammerID": 21303,
     "GlowColor": [0,255,0,1],
     "BlockPickup": false,
-    "AllowTransfer": true,
-    "ForceDrop": true,
+    "AllowTransfer": false,
+    "ForceDrop": false,
     "Chat": true,
     "Hud": true,
-    "TriggerID": 17763,
+    "TriggerID": 21301,
     "UsePriority": true,
     "AbilityList": [
       {
         "Name": "hoshino_EX_button",
-        "ButtonID": 17800,
+        "ButtonID": 21277,
         "ButtonClass": "func_button",
         "Filter": "hoshino:1",
         "Chat_Uses": true,
@@ -74,6 +74,32 @@
         "Mode": 2,
         "MaxUses": 0,
         "CoolDown": 60
+      }
+    ]
+  },
+  {
+    "Name": "ZM 河驹风兰舞",
+    "ShortName": "ZM 河驹风兰舞",
+    "Color": "{default}",
+    "HammerID": 21043,
+    "GlowColor": [0,255,0,1],
+    "BlockPickup": false,
+    "AllowTransfer": false,
+    "ForceDrop": false,
+    "Chat": false,
+    "Hud": true,
+    "TriggerID": 21044,
+    "UsePriority": true,
+    "AbilityList": [
+      {
+        "Name": "komakaze_button",
+        "ButtonID": 21054,
+        "ButtonClass": "func_button",
+        "Filter": "komakaze:1",
+        "Chat_Uses": false,
+        "Mode": 2,
+        "MaxUses": 0,
+        "CoolDown": 3
       }
     ]
   }
