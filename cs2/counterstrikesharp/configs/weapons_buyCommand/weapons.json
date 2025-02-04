@@ -258,7 +258,7 @@
         "Price": 3400,
         "Command": "nova",
         "Slot": "0",
-        "Enable":false
+        "Enable":true
     },
     {
         "DefIndex": 27,
@@ -267,7 +267,7 @@
         "Price": 3600,
         "Command": "xm1014;xm",
         "Slot": "0",
-        "Enable":false
+        "Enable":true
     },
     {
         "DefIndex": 29,
@@ -276,7 +276,7 @@
         "Price": 3800,
         "Command": "mag-7;mag;mag7",
         "Slot": "0",
-        "Enable":false
+        "Enable":true
     },
     {
         "DefIndex": 25,
@@ -285,7 +285,7 @@
         "Price": 3400,
         "Command": "sawed-off;sawedoff;so",
         "Slot": "0",
-        "Enable":false
+        "Enable":true
     },
     {
         "DefIndex": 14,
