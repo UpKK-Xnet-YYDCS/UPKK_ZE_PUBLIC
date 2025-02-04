@@ -28,7 +28,6 @@ jobs:
     - name: List changed files
       id: list_changed_files
       run: |
-        # 根据事件类型确定基准SHA
         if [ "$GITHUB_EVENT_NAME" = "pull_request" ]; then
           BASE_SHA=${{ github.event.pull_request.base.sha }}
           HEAD_SHA=${{ github.event.pull_request.head.sha }}
@@ -36,15 +35,14 @@ jobs:
           BASE_SHA=${{ github.event.before }}
           HEAD_SHA=${{ github.sha }}
         fi
-        # 获取变更文件列表
         git diff --name-only $BASE_SHA $HEAD_SHA > changed_files.txt
         echo "Changed files:"
         cat changed_files.txt
 
     - name: Install dependencies
       run: |
-        npm install -g jsonlint-cli  # 确保安装jsonlint
-        npm install jsonc-parser     # 安装jsonc解析库
+        npm install -g jsonlint-cli  # 安装 jsonlint
+        npm install jsonc-parser     # 安装 JSONC 解析库
 
     - name: Create JSONC validation script
       run: |
@@ -52,13 +50,18 @@ jobs:
         const fs = require('fs');
         const { parse } = require('jsonc-parser');
         const filePath = process.argv[2];
+
         if (!fs.existsSync(filePath)) {
           console.log('File deleted, skip validation:', filePath);
           process.exit(0);
         }
+
         const content = fs.readFileSync(filePath, 'utf8');
         try {
-          parse(content);
+          const data = parse(content);
+          if (typeof data !== 'object' || data === null) {
+            throw new Error('Top-level JSON must be an object or array.');
+          }
           console.log('Valid JSONC:', filePath);
         } catch (error) {
           console.error('Invalid JSONC:', filePath);
@@ -75,6 +78,11 @@ jobs:
             echo "Validating $file"
             if [[ $file == *.json ]]; then
               jsonlint-cli "$file" || exit 1
+              # 检查顶层结构必须为对象或数组
+              if ! node -e "const d = require('./$file'); if (typeof d !== 'object' || d === null) process.exit(1);" ; then
+                echo "Error: Top-level JSON must be an object or array in $file"
+                exit 1
+              fi
             elif [[ $file == *.jsonc ]]; then
               node validate-jsonc.js "$file" || exit 1
             fi
