@@ -376,5 +376,14 @@
         "Command": "health;xz",
         "Slot": "4",
         "Enable": true
+    },
+    {
+        "DefIndex": 50,
+        "Name": "Kevlar Vest",
+        "WeaponName": "item_kevlar",
+        "Price": 650,
+        "Command": "kv;kevlar",
+        "Slot": "12",
+        "Enable": true
     }
 ]
