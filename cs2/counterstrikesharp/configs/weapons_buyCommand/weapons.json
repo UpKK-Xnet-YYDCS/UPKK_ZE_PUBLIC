@@ -6,7 +6,8 @@
         "Price": 4500,
         "Command": "m4a4;a4",
         "Slot": "0",
-        "Enable":true
+        "Enable": true,
+        "GunsMenu": true
     },
     {
         "DefIndex": 60,
@@ -15,7 +16,8 @@
         "Price": 4500,
         "Command": "m4a1;m4a1s;a1",
         "Slot": "0",
-        "Enable":true
+        "Enable": true,
+        "GunsMenu": true
     },
     {
         "DefIndex": 10,
@@ -24,7 +26,8 @@
         "Price": 4200,
         "Command": "famas;fam",
         "Slot": "0",
-        "Enable":true
+        "Enable": true,
+        "GunsMenu": true
     },
     {
         "DefIndex": 8,
@@ -33,7 +36,8 @@
         "Price": 4800,
         "Command": "aug",
         "Slot": "0",
-        "Enable":true
+        "Enable": true,
+        "GunsMenu": true
     },
     {
         "DefIndex": 7,
@@ -42,7 +46,8 @@
         "Price": 5000,
         "Command": "ak47;ak",
         "Slot": "0",
-        "Enable":true
+        "Enable": true,
+        "GunsMenu": true
     },
     {
         "DefIndex": 13,
@@ -51,7 +56,8 @@
         "Price": 4200,
         "Command": "galil;gal",
         "Slot": "0",
-        "Enable":true
+        "Enable": true,
+        "GunsMenu": true
     },
     {
         "DefIndex": 11,
@@ -60,7 +66,8 @@
         "Price": 4800,
         "Command": "sg553;553",
         "Slot": "0",
-        "Enable":true
+        "Enable": true,
+        "GunsMenu": true
     },
     {
         "DefIndex": 38,
@@ -69,7 +76,8 @@
         "Price": 8000,
         "Command": "scar20;scar;scar-20",
         "Slot": "0",
-        "Enable":true
+        "Enable": true,
+        "GunsMenu": true
     },
     {
         "DefIndex": 9,
@@ -78,7 +86,8 @@
         "Price": 12000,
         "Command": "awp",
         "Slot": "0",
-        "Enable":true
+        "Enable": true,
+        "GunsMenu": true
     },
     {
         "DefIndex": 40,
@@ -87,7 +96,8 @@
         "Price": 10000,
         "Command": "ssg08;ssg",
         "Slot": "0",
-        "Enable":true
+        "Enable": true,
+        "GunsMenu": true
     },
     {
         "DefIndex": 11,
@@ -96,7 +106,8 @@
         "Price": 8000,
         "Command": "g3sg1;g3",
         "Slot": "0",
-        "Enable":true
+        "Enable": true,
+        "GunsMenu": true
     },
     {
         "DefIndex": 34,
@@ -105,7 +116,8 @@
         "Price": 3000,
         "Command": "mp9",
         "Slot": "0",
-        "Enable":true
+        "Enable": true,
+        "GunsMenu": true
     },
     {
         "DefIndex": 33,
@@ -114,7 +126,8 @@
         "Price": 3200,
         "Command": "mp7",
         "Slot": "0",
-        "Enable":true
+        "Enable": true,
+        "GunsMenu": true
     },
     {
         "DefIndex": 23,
@@ -123,7 +136,8 @@
         "Price": 3200,
         "Command": "mp5",
         "Slot": "0",
-        "Enable":true
+        "Enable": true,
+        "GunsMenu": true
     },
     {
         "DefIndex": 24,
@@ -132,7 +146,8 @@
         "Price": 2800,
         "Command": "ump45;ump",
         "Slot": "0",
-        "Enable":true
+        "Enable": true,
+        "GunsMenu": true
     },
     {
         "DefIndex": 19,
@@ -141,7 +156,8 @@
         "Price": 3100,
         "Command": "p90",
         "Slot": "0",
-        "Enable":true
+        "Enable": true,
+        "GunsMenu": true
     },
     {
         "DefIndex": 26,
@@ -150,7 +166,8 @@
         "Price": 2900,
         "Command": "pp;bizon",
         "Slot": "0",
-        "Enable":true
+        "Enable": true,
+        "GunsMenu": true
     },
     {
         "DefIndex": 17,
@@ -159,7 +176,8 @@
         "Price": 3000,
         "Command": "mac10;mac",
         "Slot": "0",
-        "Enable":true
+        "Enable": true,
+        "GunsMenu": true
     },
     {
         "DefIndex": 61,
@@ -168,7 +186,8 @@
         "Price": 1000,
         "Command": "usp",
         "Slot": "1",
-        "Enable":true
+        "Enable": true,
+        "GunsMenu": true
     },
     {
         "DefIndex": 32,
@@ -177,7 +196,8 @@
         "Price": 1000,
         "Command": "p2000",
         "Slot": "1",
-        "Enable":true
+        "Enable": true,
+        "GunsMenu": true
     },
     {
         "DefIndex": 4,
@@ -186,7 +206,8 @@
         "Price": 1000,
         "Command": "glock",
         "Slot": "1",
-        "Enable":true
+        "Enable": true,
+        "GunsMenu": true
     },
     {
         "DefIndex": 2,
@@ -195,7 +216,8 @@
         "Price": 1200,
         "Command": "elite",
         "Slot": "1",
-        "Enable":true
+        "Enable": true,
+        "GunsMenu": true
     },
     {
         "DefIndex": 36,
@@ -204,7 +226,8 @@
         "Price": 1200,
         "Command": "p250",
         "Slot": "1",
-        "Enable":true
+        "Enable": true,
+        "GunsMenu": true
     },
     {
         "DefIndex": 3,
@@ -213,7 +236,8 @@
         "Price": 1200,
         "Command": "fn57;57;fn",
         "Slot": "1",
-        "Enable":true
+        "Enable": true,
+        "GunsMenu": true
     },
     {
         "DefIndex": 30,
@@ -222,7 +246,8 @@
         "Price": 1200,
         "Command": "tec9;tec",
         "Slot": "1",
-        "Enable":true
+        "Enable": true,
+        "GunsMenu": true
     },
     {
         "DefIndex": 63,
@@ -231,7 +256,8 @@
         "Price": 1200,
         "Command": "cz75;cz75a;cz",
         "Slot": "1",
-        "Enable":true
+        "Enable": true,
+        "GunsMenu": true
     },
     {
         "DefIndex": 64,
@@ -240,7 +266,8 @@
         "Price": 1500,
         "Command": "r8",
         "Slot": "1",
-        "Enable":true
+        "Enable": true,
+        "GunsMenu": true
     },
     {
         "DefIndex": 1,
@@ -249,7 +276,8 @@
         "Price": 1500,
         "Command": "deagle;de",
         "Slot": "1",
-        "Enable":true
+        "Enable": true,
+        "GunsMenu": true
     },
     {
         "DefIndex": 35,
@@ -258,7 +286,8 @@
         "Price": 3400,
         "Command": "nova",
         "Slot": "0",
-        "Enable":true
+        "Enable": true,
+        "GunsMenu": true
     },
     {
         "DefIndex": 27,
@@ -267,7 +296,8 @@
         "Price": 3600,
         "Command": "xm1014;xm",
         "Slot": "0",
-        "Enable":true
+        "Enable": true,
+        "GunsMenu": true
     },
     {
         "DefIndex": 29,
@@ -276,7 +306,8 @@
         "Price": 3800,
         "Command": "mag-7;mag;mag7",
         "Slot": "0",
-        "Enable":true
+        "Enable": true,
+        "GunsMenu": true
     },
     {
         "DefIndex": 25,
@@ -285,7 +316,8 @@
         "Price": 3400,
         "Command": "sawed-off;sawedoff;so",
         "Slot": "0",
-        "Enable":true
+        "Enable": true,
+        "GunsMenu": true
     },
     {
         "DefIndex": 14,
@@ -294,7 +326,8 @@
         "Price": 6000,
         "Slot": "0",
         "Command": "m249",
-        "Enable":true
+        "Enable": true,
+        "GunsMenu": true
     },
     {
         "DefIndex": 28,
@@ -303,7 +336,8 @@
         "Price": 7000,
         "Command": "negev;neg",
         "Slot": "0",
-        "Enable":true
+        "Enable": true,
+        "GunsMenu": true
     },
     {
         "DefIndex": 31,
@@ -312,7 +346,8 @@
         "Price": 200,
         "Command": "zeus;taser",
         "Slot": "2",
-        "Enable":false
+        "Enable": false,
+        "GunsMenu": true
     },
     {
         "DefIndex": 44,
@@ -321,7 +356,8 @@
         "Price": 3000,
         "Command": "he",
         "Slot": "3",
-        "Enable":true
+        "Enable": true,
+        "GunsMenu": false
     },
     {
         "DefIndex": 46,
@@ -330,7 +366,8 @@
         "Price": 5000,
         "Command": "mov;fire;molotov",
         "Slot": "3",
-        "Enable":true
+        "Enable": true,
+        "GunsMenu": false
     },
     {
         "DefIndex": 48,
@@ -339,7 +376,8 @@
         "Price": 600,
         "Command": "ig",
         "Slot": "3",
-        "Enable":false
+        "Enable": false,
+        "GunsMenu": false
     },
     {
         "DefIndex": 45,
@@ -348,7 +386,8 @@
         "Price": 300,
         "Command": "smoke",
         "Slot": "3",
-        "Enable":false
+        "Enable": false,
+        "GunsMenu": false
     },
     {
         "DefIndex": 43,
@@ -357,7 +396,8 @@
         "Price": 200,
         "Command": "flash",
         "Slot": "3",
-        "Enable":false
+        "Enable": false,
+        "GunsMenu": false
     },
     {
         "DefIndex": 47,
@@ -366,7 +406,8 @@
         "Price": 50,
         "Command": "decoy",
         "Slot": "3",
-        "Enable":false
+        "Enable": false,
+        "GunsMenu": false
     },
     {
         "DefIndex": 57,
@@ -375,7 +416,8 @@
         "Price": 5000,
         "Command": "health;xz",
         "Slot": "4",
-        "Enable": true
+        "Enable": true,
+        "GunsMenu": false
     },
     {
         "DefIndex": 50,
@@ -384,6 +426,7 @@
         "Price": 1000,
         "Command": "kev;kevlar",
         "Slot": "12",
-        "Enable": true
+        "Enable": true,
+        "GunsMenu": false
     }
 ]
