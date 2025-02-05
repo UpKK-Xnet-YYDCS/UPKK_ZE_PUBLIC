@@ -26,7 +26,7 @@
 
 # !zbuy 购买武器
 -  如Enable为false 则不会出现在!guns菜单中,同时禁止 css_zbuy 指令购买
--  如GunsMenu为false 则不会出现在!guns菜单中,那么只能购买
+-  如GunsMenu为false 则不会出现在!guns菜单中,那么只能购买,如果用户选择被保存主武器则还原默认的m4a1,副武器为cz75a
 -  command支持多个
 -  比如 command: "fire;mov" !zbuy fire !zbuy mov
 -  购买 zbuy mov
