@@ -77,7 +77,7 @@
         "Command": "scar20;scar;scar-20",
         "Slot": "0",
         "Enable": true,
-        "GunsMenu": true
+        "GunsMenu": false
     },
     {
         "DefIndex": 9,
@@ -87,7 +87,7 @@
         "Command": "awp",
         "Slot": "0",
         "Enable": true,
-        "GunsMenu": true
+        "GunsMenu": false
     },
     {
         "DefIndex": 40,
@@ -97,7 +97,7 @@
         "Command": "ssg08;ssg",
         "Slot": "0",
         "Enable": true,
-        "GunsMenu": true
+        "GunsMenu": false
     },
     {
         "DefIndex": 11,
@@ -107,7 +107,7 @@
         "Command": "g3sg1;g3",
         "Slot": "0",
         "Enable": true,
-        "GunsMenu": true
+        "GunsMenu": false
     },
     {
         "DefIndex": 34,
@@ -287,7 +287,7 @@
         "Command": "nova",
         "Slot": "0",
         "Enable": true,
-        "GunsMenu": true
+        "GunsMenu": false
     },
     {
         "DefIndex": 27,
@@ -297,7 +297,7 @@
         "Command": "xm1014;xm",
         "Slot": "0",
         "Enable": true,
-        "GunsMenu": true
+        "GunsMenu": false
     },
     {
         "DefIndex": 29,
@@ -307,7 +307,7 @@
         "Command": "mag-7;mag;mag7",
         "Slot": "0",
         "Enable": true,
-        "GunsMenu": true
+        "GunsMenu": false
     },
     {
         "DefIndex": 25,
@@ -317,7 +317,7 @@
         "Command": "sawed-off;sawedoff;so",
         "Slot": "0",
         "Enable": true,
-        "GunsMenu": true
+        "GunsMenu": false
     },
     {
         "DefIndex": 14,
@@ -327,7 +327,7 @@
         "Slot": "0",
         "Command": "m249",
         "Enable": true,
-        "GunsMenu": true
+        "GunsMenu": false
     },
     {
         "DefIndex": 28,
@@ -337,7 +337,7 @@
         "Command": "negev;neg",
         "Slot": "0",
         "Enable": true,
-        "GunsMenu": true
+        "GunsMenu": false
     },
     {
         "DefIndex": 31,
@@ -347,7 +347,7 @@
         "Command": "zeus;taser",
         "Slot": "2",
         "Enable": false,
-        "GunsMenu": true
+        "GunsMenu": false
     },
     {
         "DefIndex": 44,
