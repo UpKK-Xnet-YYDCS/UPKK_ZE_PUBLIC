@@ -8,20 +8,25 @@
         "Name": "M4A1",
         "WeaponName": "weapon_m4a1",
         "Price": 3100,
-        "Command": "M4A4"
+        "Command": "M4A4",
+        "Enable":true,
+        "GunsMenu": true
     },
     {
         "DefIndex": 60,
         "Name": "M4A1-S",
         "WeaponName": "weapon_m4a1_silencer",
         "Price": 2900,
-        "Command": "M4A1;m4a1s"
+        "Command": "M4A1;m4a1s",
+        "Enable":true,
+        "GunsMenu": true
     }
 ```
 
 
 # !zbuy 购买武器
--  如Enable为false 则不会出现在!guns菜单中
+-  如Enable为false 则不会出现在!guns菜单中,同时禁止 css_zbuy 指令购买
+-  如GunsMenu为false 则不会出现在!guns菜单中,那么只能购买
 -  command支持多个
 -  比如 command: "fire;mov" !zbuy fire !zbuy mov
 -  购买 zbuy mov
