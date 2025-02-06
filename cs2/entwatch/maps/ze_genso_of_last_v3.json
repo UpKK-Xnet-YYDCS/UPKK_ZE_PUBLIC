@@ -1,0 +1,236 @@
+[
+  {
+    "Name": "冰",
+    "ShortName": "冰",
+    "Color": "{default}",
+    "HammerID": 2166,
+    "GlowColor": [0,255,0,1],
+    "BlockPickup": false,
+    "AllowTransfer": true,
+    "ForceDrop": true,
+    "Chat": true,
+    "Hud": true,
+    "TriggerID": 0,
+    "UsePriority": true,
+    "AbilityList": [
+      {
+        "Name": "ice_bt",
+        "ButtonID": 2167,
+        "ButtonClass": "func_button",
+        "Filter": "player_ice:1",
+        "Chat_Uses": true,
+        "Mode": 2,
+        "MaxUses": 0,
+        "CoolDown": 75
+      }
+    ]
+  },
+  {
+    "Name": "火",
+    "ShortName": "火",
+    "Color": "{default}",
+    "HammerID": 2173,
+    "GlowColor": [0,255,0,1],
+    "BlockPickup": false,
+    "AllowTransfer": true,
+    "ForceDrop": true,
+    "Chat": true,
+    "Hud": true,
+    "TriggerID": 0,
+    "UsePriority": true,
+    "AbilityList": [
+      {
+        "Name": "fire_bt",
+        "ButtonID": 2170,
+        "ButtonClass": "func_button",
+        "Filter": "player_fire:1",
+        "Chat_Uses": true,
+        "Mode": 2,
+        "MaxUses": 0,
+        "CoolDown": 65
+      }
+    ]
+  },
+  {
+    "Name": "风",
+    "ShortName": "风",
+    "Color": "{default}",
+    "HammerID": 2176,
+    "GlowColor": [0,255,0,1],
+    "BlockPickup": false,
+    "AllowTransfer": true,
+    "ForceDrop": true,
+    "Chat": true,
+    "Hud": true,
+    "TriggerID": 0,
+    "UsePriority": true,
+    "AbilityList": [
+      {
+        "Name": "wind_bt",
+        "ButtonID": 2174,
+        "ButtonClass": "func_button",
+        "Filter": "player_wind:1",
+        "Chat_Uses": true,
+        "Mode": 2,
+        "MaxUses": 0,
+        "CoolDown": 75
+      }
+    ]
+  },
+  {
+    "Name": "奶",
+    "ShortName": "奶",
+    "Color": "{default}",
+    "HammerID": 2182,
+    "GlowColor": [0,255,0,1],
+    "BlockPickup": false,
+    "AllowTransfer": true,
+    "ForceDrop": true,
+    "Chat": true,
+    "Hud": true,
+    "TriggerID": 0,
+    "UsePriority": true,
+    "AbilityList": [
+      {
+        "Name": "heal_bt",
+        "ButtonID": 2180,
+        "ButtonClass": "func_button",
+        "Filter": "player_heal:1",
+        "Chat_Uses": true,
+        "Mode": 2,
+        "MaxUses": 0,
+        "CoolDown": 65
+      }
+    ]
+  },
+  {
+    "Name": "ZM 奶",
+    "ShortName": "ZM 奶",
+    "Color": "{default}",
+    "HammerID": 2247,
+    "GlowColor": [0,255,0,1],
+    "BlockPickup": false,
+    "AllowTransfer": false,
+    "ForceDrop": false,
+    "Chat": true,
+    "Hud": true,
+    "TriggerID": 2245,
+    "UsePriority": true,
+    "AbilityList": [
+      {
+        "Name": "zm_heal",
+        "ButtonID": 2258,
+        "ButtonClass": "func_button",
+        "Filter": "zombie_heal:1",
+        "Chat_Uses": true,
+        "Mode": 2,
+        "MaxUses": 0,
+        "CoolDown": 80
+      }
+    ]
+  },
+  {
+    "Name": "ZM 秒杀",
+    "ShortName": "ZM 秒杀",
+    "Color": "{default}",
+    "HammerID": 2266,
+    "GlowColor": [0,255,0,1],
+    "BlockPickup": false,
+    "AllowTransfer": false,
+    "ForceDrop": false,
+    "Chat": true,
+    "Hud": true,
+    "TriggerID": 2264,
+    "UsePriority": true,
+    "AbilityList": [
+      {
+        "Name": "zm_warp",
+        "ButtonID": 2276,
+        "ButtonClass": "func_button",
+        "Filter": "zombie_warp:1",
+        "Chat_Uses": true,
+        "Mode": 2,
+        "MaxUses": 0,
+        "CoolDown": 80
+      }
+    ]
+  },
+  {
+    "Name": "ZM 冰",
+    "ShortName": "ZM 冰",
+    "Color": "{default}",
+    "HammerID": 2304,
+    "GlowColor": [0,255,0,1],
+    "BlockPickup": false,
+    "AllowTransfer": false,
+    "ForceDrop": false,
+    "Chat": true,
+    "Hud": true,
+    "TriggerID": 2302,
+    "UsePriority": true,
+    "AbilityList": [
+      {
+        "Name": "zm_ice",
+        "ButtonID": 2314,
+        "ButtonClass": "func_button",
+        "Filter": "zombie_ice:1",
+        "Chat_Uses": true,
+        "Mode": 2,
+        "MaxUses": 0,
+        "CoolDown": 80
+      }
+    ]
+  },
+  {
+    "Name": "土",
+    "ShortName": "土",
+    "Color": "{default}",
+    "HammerID": 2320,
+    "GlowColor": [0,255,0,1],
+    "BlockPickup": false,
+    "AllowTransfer": true,
+    "ForceDrop": true,
+    "Chat": true,
+    "Hud": true,
+    "TriggerID": 0,
+    "UsePriority": true,
+    "AbilityList": [
+      {
+        "Name": "earth_bt",
+        "ButtonID": 2321,
+        "ButtonClass": "func_button",
+        "Filter": "player_earth:1",
+        "Chat_Uses": true,
+        "Mode": 2,
+        "MaxUses": 0,
+        "CoolDown": 65
+      }
+    ]
+  },
+  {
+    "Name": "彩蛋",
+    "ShortName": "彩蛋",
+    "Color": "{default}",
+    "HammerID": 2291,
+    "GlowColor": [0,255,0,1],
+    "BlockPickup": false,
+    "AllowTransfer": true,
+    "ForceDrop": true,
+    "Chat": false,
+    "Hud": true,
+    "TriggerID": 0,
+    "UsePriority": true,
+    "AbilityList": [
+      {
+        "Name": "",
+        "ButtonID": 0,
+        "ButtonClass": "",
+        "Filter": "",
+        "Chat_Uses": false,
+        "Mode": 0,
+        "MaxUses": 0,
+        "CoolDown": 0
+      }
+    ]
+  }
+]
