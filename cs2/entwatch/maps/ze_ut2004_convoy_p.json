@@ -1,0 +1,132 @@
+[
+  {
+    "Name": "火箭炮",
+    "ShortName": "火箭炮",
+    "Color": "{default}",
+    "HammerID": 1453,
+    "GlowColor": [0,255,0,1],
+    "BlockPickup": false,
+    "AllowTransfer": true,
+    "ForceDrop": true,
+    "Chat": true,
+    "Hud": true,
+    "TriggerID": 0,
+    "UsePriority": true,
+    "AbilityList": [
+      {
+        "Name": "rocket_launcher_button",
+        "ButtonID": 1762,
+        "ButtonClass": "func_button",
+        "Filter": "rocket:1",
+        "Chat_Uses": true,
+        "Mode": 2,
+        "MaxUses": 0,
+        "CoolDown": 7
+      }
+    ]
+  },
+  {
+    "Name": "高射炮",
+    "ShortName": "高射炮",
+    "Color": "{default}",
+    "HammerID": 1441,
+    "GlowColor": [0,255,0,1],
+    "BlockPickup": false,
+    "AllowTransfer": true,
+    "ForceDrop": true,
+    "Chat": false,
+    "Hud": true,
+    "TriggerID": 0,
+    "UsePriority": true,
+    "AbilityList": [
+      {
+        "Name": "flak_cannon_button",
+        "ButtonID": 1445,
+        "ButtonClass": "func_button",
+        "Filter": "flak:1",
+        "Chat_Uses": false,
+        "Mode": 2,
+        "MaxUses": 0,
+        "CoolDown": 4
+      }
+    ]
+  },
+  {
+    "Name": "镭射枪",
+    "ShortName": "镭射枪",
+    "Color": "{default}",
+    "HammerID": 1436,
+    "GlowColor": [0,255,0,1],
+    "BlockPickup": false,
+    "AllowTransfer": true,
+    "ForceDrop": true,
+    "Chat": true,
+    "Hud": true,
+    "TriggerID": 0,
+    "UsePriority": true,
+    "AbilityList": [
+      {
+        "Name": "lighting_gun_button",
+        "ButtonID": 1432,
+        "ButtonClass": "func_button",
+        "Filter": "lightning:1",
+        "Chat_Uses": true,
+        "Mode": 2,
+        "MaxUses": 0,
+        "CoolDown": 120
+      }
+    ]
+  },
+  {
+    "Name": "小型核弹",
+    "ShortName": "小型核弹",
+    "Color": "{default}",
+    "HammerID": 1743,
+    "GlowColor": [0,255,0,1],
+    "BlockPickup": false,
+    "AllowTransfer": true,
+    "ForceDrop": true,
+    "Chat": true,
+    "Hud": true,
+    "TriggerID": 0,
+    "UsePriority": true,
+    "AbilityList": [
+      {
+        "Name": "redeemer_button",
+        "ButtonID": 1749,
+        "ButtonClass": "func_button",
+        "Filter": "redeemer:1",
+        "Chat_Uses": true,
+        "Mode": 3,
+        "MaxUses": 1,
+        "CoolDown": 0
+      }
+    ]
+  },
+  {
+    "Name": "无限子弹",
+    "ShortName": "无限子弹",
+    "Color": "{default}",
+    "HammerID": 442,
+    "GlowColor": [0,255,0,1],
+    "BlockPickup": false,
+    "AllowTransfer": true,
+    "ForceDrop": true,
+    "Chat": false,
+    "Hud": true,
+    "TriggerID": 0,
+    "UsePriority": true,
+    "AbilityList": [
+      {
+        "Name": "BerserkButton",
+        "ButtonID": 443,
+        "ButtonClass": "func_button",
+        "Filter": "berserk:1",
+        "Chat_Uses": false,
+        "Mode": 1,
+        "MaxUses": 0,
+        "CoolDown": 0
+      }
+    ]
+  }
+]
