@@ -1,0 +1,523 @@
+[
+  {
+    "Name": "投影魔术",
+    "ShortName": "投影魔术",
+    "Color": "{default}",
+    "HammerID": 4263,
+    "GlowColor": [0,255,0,1],
+    "BlockPickup": false,
+    "AllowTransfer": true,
+    "ForceDrop": true,
+    "Chat": true,
+    "Hud": true,
+    "TriggerID": 0,
+    "UsePriority": true,
+    "AbilityList": [
+      {
+        "Name": "item_human_hugesword_button",
+        "ButtonID": 4264,
+        "ButtonClass": "func_button",
+        "Filter": "human_hugesword:1",
+        "Chat_Uses": true,
+        "Mode": 2,
+        "MaxUses": 0,
+        "CoolDown": 60
+      }
+    ]
+  },
+  {
+    "Name": "治愈魔术",
+    "ShortName": "治愈魔术",
+    "Color": "{default}",
+    "HammerID": 287,
+    "GlowColor": [0,255,0,1],
+    "BlockPickup": false,
+    "AllowTransfer": true,
+    "ForceDrop": true,
+    "Chat": true,
+    "Hud": true,
+    "TriggerID": 0,
+    "UsePriority": true,
+    "AbilityList": [
+      {
+        "Name": "item_human_heal_button",
+        "ButtonID": 297,
+        "ButtonClass": "func_button",
+        "Filter": "human_heal:1",
+        "Chat_Uses": true,
+        "Mode": 2,
+        "MaxUses": 0,
+        "CoolDown": 80
+      }
+    ]
+  },
+  {
+    "Name": "火球",
+    "ShortName": "火球",
+    "Color": "{default}",
+    "HammerID": 13784,
+    "GlowColor": [0,255,0,1],
+    "BlockPickup": false,
+    "AllowTransfer": true,
+    "ForceDrop": true,
+    "Chat": true,
+    "Hud": true,
+    "TriggerID": 0,
+    "UsePriority": true,
+    "AbilityList": [
+      {
+        "Name": "item_human_firemagic_button",
+        "ButtonID": 13785,
+        "ButtonClass": "func_button",
+        "Filter": "human_firemagic:1",
+        "Chat_Uses": true,
+        "Mode": 2,
+        "MaxUses": 0,
+        "CoolDown": 30
+      }
+    ]
+  },
+  {
+    "Name": "地火",
+    "ShortName": "地火",
+    "Color": "{default}",
+    "HammerID": 4324,
+    "GlowColor": [0,255,0,1],
+    "BlockPickup": false,
+    "AllowTransfer": true,
+    "ForceDrop": true,
+    "Chat": true,
+    "Hud": true,
+    "TriggerID": 0,
+    "UsePriority": true,
+    "AbilityList": [
+      {
+        "Name": "item_human_earthfire_button",
+        "ButtonID": 4327,
+        "ButtonClass": "func_button",
+        "Filter": "human_earthfire:1",
+        "Chat_Uses": true,
+        "Mode": 2,
+        "MaxUses": 0,
+        "CoolDown": 20
+      }
+    ]
+  },
+  {
+    "Name": "水旋涡",
+    "ShortName": "水旋涡",
+    "Color": "{default}",
+    "HammerID": 13864,
+    "GlowColor": [0,255,0,1],
+    "BlockPickup": false,
+    "AllowTransfer": true,
+    "ForceDrop": true,
+    "Chat": true,
+    "Hud": true,
+    "TriggerID": 0,
+    "UsePriority": true,
+    "AbilityList": [
+      {
+        "Name": "item_human_watermagic_button",
+        "ButtonID": 13865,
+        "ButtonClass": "func_button",
+        "Filter": "human_watermagic_player:1",
+        "Chat_Uses": true,
+        "Mode": 2,
+        "MaxUses": 0,
+        "CoolDown": 80
+      }
+    ]
+  },
+  {
+    "Name": "黑键",
+    "ShortName": "黑键",
+    "Color": "{default}",
+    "HammerID": 13685,
+    "GlowColor": [0,255,0,1],
+    "BlockPickup": false,
+    "AllowTransfer": true,
+    "ForceDrop": true,
+    "Chat": true,
+    "Hud": true,
+    "TriggerID": 0,
+    "UsePriority": true,
+    "AbilityList": [
+      {
+        "Name": "item_human_black_key_button",
+        "ButtonID": 13686,
+        "ButtonClass": "func_button",
+        "Filter": "human_blackkey:1",
+        "Chat_Uses": true,
+        "Mode": 2,
+        "MaxUses": 0,
+        "CoolDown": 40
+      }
+    ]
+  },
+  {
+    "Name": "闪电魔术",
+    "ShortName": "闪电魔术",
+    "Color": "{default}",
+    "HammerID": 13822,
+    "GlowColor": [0,255,0,1],
+    "BlockPickup": false,
+    "AllowTransfer": true,
+    "ForceDrop": true,
+    "Chat": true,
+    "Hud": true,
+    "TriggerID": 0,
+    "UsePriority": true,
+    "AbilityList": [
+      {
+        "Name": "item_human_lighting_button",
+        "ButtonID": 13823,
+        "ButtonClass": "func_button",
+        "Filter": "human_lighting:1",
+        "Chat_Uses": true,
+        "Mode": 2,
+        "MaxUses": 0,
+        "CoolDown": 20
+      }
+    ]
+  },
+  {
+    "Name": "风场魔术",
+    "ShortName": "风场魔术",
+    "Color": "{default}",
+    "HammerID": 13854,
+    "GlowColor": [0,255,0,1],
+    "BlockPickup": false,
+    "AllowTransfer": true,
+    "ForceDrop": true,
+    "Chat": true,
+    "Hud": true,
+    "TriggerID": 0,
+    "UsePriority": true,
+    "AbilityList": [
+      {
+        "Name": "item_human_windmagic_button",
+        "ButtonID": 13855,
+        "ButtonClass": "func_button",
+        "Filter": "human_wind:1",
+        "Chat_Uses": true,
+        "Mode": 2,
+        "MaxUses": 0,
+        "CoolDown": 80
+      }
+    ]
+  },
+  {
+    "Name": "誓约胜利之剑",
+    "ShortName": "誓约胜利之剑",
+    "Color": "{default}",
+    "HammerID": 13731,
+    "GlowColor": [0,255,0,1],
+    "BlockPickup": false,
+    "AllowTransfer": true,
+    "ForceDrop": true,
+    "Chat": true,
+    "Hud": true,
+    "TriggerID": 0,
+    "UsePriority": true,
+    "AbilityList": [
+      {
+        "Name": "item_human_excalibur_button",
+        "ButtonID": 13732,
+        "ButtonClass": "func_button",
+        "Filter": "human_excalibur:1",
+        "Chat_Uses": true,
+        "Mode": 2,
+        "MaxUses": 0,
+        "CoolDown": 90
+      }
+    ]
+  },
+  {
+    "Name": "ZM 妄想心音",
+    "ShortName": "ZM 妄想心音",
+    "Color": "{default}",
+    "HammerID": 13762,
+    "GlowColor": [0,255,0,1],
+    "BlockPickup": false,
+    "AllowTransfer": false,
+    "ForceDrop": false,
+    "Chat": true,
+    "Hud": true,
+    "TriggerID": 13766,
+    "UsePriority": true,
+    "AbilityList": [
+      {
+        "Name": "item_assassin_button",
+        "ButtonID": 13763,
+        "ButtonClass": "func_button",
+        "Filter": "zombie_assassin:1",
+        "Chat_Uses": true,
+        "Mode": 2,
+        "MaxUses": 0,
+        "CoolDown": 60
+      }
+    ]
+  },
+  {
+    "Name": "ZM 鲜血神殿",
+    "ShortName": "ZM 鲜血神殿",
+    "Color": "{default}",
+    "HammerID": 13802,
+    "GlowColor": [0,255,0,1],
+    "BlockPickup": false,
+    "AllowTransfer": false,
+    "ForceDrop": false,
+    "Chat": true,
+    "Hud": true,
+    "TriggerID": 13805,
+    "UsePriority": true,
+    "AbilityList": [
+      {
+        "Name": "item_rider_button",
+        "ButtonID": 13803,
+        "ButtonClass": "func_button",
+        "Filter": "zombie_rider:1",
+        "Chat_Uses": true,
+        "Mode": 2,
+        "MaxUses": 0,
+        "CoolDown": 90
+      }
+    ]
+  },
+  {
+    "Name": "ZM 蔷薇双枪",
+    "ShortName": "ZM 蔷薇双枪",
+    "Color": "{default}",
+    "HammerID": 13873,
+    "GlowColor": [0,255,0,1],
+    "BlockPickup": false,
+    "AllowTransfer": false,
+    "ForceDrop": false,
+    "Chat": true,
+    "Hud": true,
+    "TriggerID": 13877,
+    "UsePriority": true,
+    "AbilityList": [
+      {
+        "Name": "",
+        "ButtonID": 0,
+        "ButtonClass": "",
+        "Filter": "zombie_lancer1:1",
+        "Chat_Uses": true,
+        "Mode": 1,
+        "MaxUses": 0,
+        "CoolDown": 0
+      }
+    ]
+  },
+  {
+    "Name": "ZM 死棘之枪",
+    "ShortName": "ZM 死棘之枪",
+    "Color": "{default}",
+    "HammerID": 13900,
+    "GlowColor": [0,255,0,1],
+    "BlockPickup": false,
+    "AllowTransfer": false,
+    "ForceDrop": false,
+    "Chat": true,
+    "Hud": true,
+    "TriggerID": 13904,
+    "UsePriority": true,
+    "AbilityList": [
+      {
+        "Name": "item_zombie_lancer2_button",
+        "ButtonID": 13901,
+        "ButtonClass": "func_button",
+        "Filter": "zombie_lancer2:1",
+        "Chat_Uses": true,
+        "Mode": 2,
+        "MaxUses": 0,
+        "CoolDown": 60
+      }
+    ]
+  },
+  {
+    "Name": "ZM 王之财宝",
+    "ShortName": "ZM 王之财宝",
+    "Color": "{default}",
+    "HammerID": 13927,
+    "GlowColor": [0,255,0,1],
+    "BlockPickup": false,
+    "AllowTransfer": false,
+    "ForceDrop": false,
+    "Chat": false,
+    "Hud": true,
+    "TriggerID": 13931,
+    "UsePriority": true,
+    "AbilityList": [
+      {
+        "Name": "item_zombie_babylon_button",
+        "ButtonID": 13928,
+        "ButtonClass": "func_button",
+        "Filter": "zombie_babylon:1",
+        "Chat_Uses": false,
+        "Mode": 2,
+        "MaxUses": 0,
+        "CoolDown": 3
+      }
+    ]
+  },
+  {
+    "Name": "ZM 狂化",
+    "ShortName": "ZM 狂化",
+    "Color": "{default}",
+    "HammerID": 10128,
+    "GlowColor": [0,255,0,1],
+    "BlockPickup": false,
+    "AllowTransfer": false,
+    "ForceDrop": false,
+    "Chat": true,
+    "Hud": true,
+    "TriggerID": 10136,
+    "UsePriority": true,
+    "AbilityList": [
+      {
+        "Name": "item_zombie_berserker_button",
+        "ButtonID": 10129,
+        "ButtonClass": "func_button",
+        "Filter": "zombie_berserker:1",
+        "Chat_Uses": true,
+        "Mode": 2,
+        "MaxUses": 0,
+        "CoolDown": 70
+      }
+    ]
+  },
+  {
+    "Name": "卫宫士郎",
+    "ShortName": "卫宫士郎",
+    "Color": "{default}",
+    "HammerID": 20302,
+    "GlowColor": [0,255,0,1],
+    "BlockPickup": false,
+    "AllowTransfer": false,
+    "ForceDrop": false,
+    "Chat": false,
+    "Hud": true,
+    "TriggerID": 29376,
+    "UsePriority": true,
+    "AbilityList": [
+      {
+        "Name": "item_human_emiya_rhoaias_button",
+        "ButtonID": 20422,
+        "ButtonClass": "func_button",
+        "Filter": "human_emiya:1",
+        "Chat_Uses": false,
+        "Mode": 2,
+        "MaxUses": 0,
+        "CoolDown": 3
+      }
+    ]
+  },
+  {
+    "Name": "美游",
+    "ShortName": "美游",
+    "Color": "{default}",
+    "HammerID": 20671,
+    "GlowColor": [0,255,0,1],
+    "BlockPickup": false,
+    "AllowTransfer": false,
+    "ForceDrop": false,
+    "Chat": true,
+    "Hud": true,
+    "TriggerID": 29375,
+    "UsePriority": true,
+    "AbilityList": [
+      {
+        "Name": "",
+        "ButtonID": 0,
+        "ButtonClass": "",
+        "Filter": "human_meiyou:1",
+        "Chat_Uses": true,
+        "Mode": 1,
+        "MaxUses": 0,
+        "CoolDown": 0
+      }
+    ]
+  },
+  {
+    "Name": "千子村正",
+    "ShortName": "千子村正",
+    "Color": "{default}",
+    "HammerID": 24395,
+    "GlowColor": [0,255,0,1],
+    "BlockPickup": false,
+    "AllowTransfer": false,
+    "ForceDrop": false,
+    "Chat": true,
+    "Hud": true,
+    "TriggerID": 24398,
+    "UsePriority": true,
+    "AbilityList": [
+      {
+        "Name": "",
+        "ButtonID": 0,
+        "ButtonClass": "",
+        "Filter": "Senji_Muramasa",
+        "Chat_Uses": true,
+        "Mode": 1,
+        "MaxUses": 0,
+        "CoolDown": 0
+      }
+    ]
+  },
+  {
+    "Name": "ZM 赫拉克勒斯",
+    "ShortName": "ZM 赫拉克勒斯",
+    "Color": "{default}",
+    "HammerID": 25159,
+    "GlowColor": [0,255,0,1],
+    "BlockPickup": false,
+    "AllowTransfer": false,
+    "ForceDrop": false,
+    "Chat": true,
+    "Hud": true,
+    "TriggerID": 25161,
+    "UsePriority": true,
+    "AbilityList": [
+      {
+        "Name": "stage2_boss_phybox",
+        "ButtonID": 25189,
+        "ButtonClass": "func_physbox",
+        "Filter": "boss_berserker",
+        "Chat_Uses": true,
+        "Mode": 1,
+        "MaxUses": 0,
+        "CoolDown": 0,
+        "Ignore": true
+      }
+    ]
+  },
+  {
+    "Name": "音频",
+    "ShortName": "音频",
+    "Color": "{default}",
+    "HammerID": 29394,
+    "GlowColor": [0,255,0,1],
+    "BlockPickup": false,
+    "AllowTransfer": true,
+    "ForceDrop": true,
+    "Chat": true,
+    "Hud": true,
+    "TriggerID": 0,
+    "UsePriority": true,
+    "AbilityList": [
+      {
+        "Name": "item_human_soundpad_button",
+        "ButtonID": 29396,
+        "ButtonClass": "func_button",
+        "Filter": "soundpad:1",
+        "Chat_Uses": true,
+        "Mode": 2,
+        "MaxUses": 0,
+        "CoolDown": 20
+      }
+    ]
+  }
+]
