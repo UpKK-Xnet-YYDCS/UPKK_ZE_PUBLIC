@@ -1,0 +1,54 @@
+[
+  {
+    "Name": "犹大的誓约",
+    "ShortName": "犹大的誓约",
+    "Color": "{default}",
+    "HammerID": 3785,
+    "GlowColor": [0,255,0,1],
+    "BlockPickup": false,
+    "AllowTransfer": true,
+    "ForceDrop": true,
+    "Chat": true,
+    "Hud": true,
+    "TriggerID": 0,
+    "UsePriority": true,
+    "AbilityList": [
+      {
+        "Name": "JudahOath_Button",
+        "ButtonID": 3786,
+        "ButtonClass": "func_button",
+        "Filter": "$Player_JudahOath",
+        "Chat_Uses": true,
+        "Mode": 2,
+        "MaxUses": 0,
+        "CoolDown": 92
+      }
+    ]
+  },
+  {
+    "Name": "八重樱",
+    "ShortName": "八重樱",
+    "Color": "{default}",
+    "HammerID": 3798,
+    "GlowColor": [0,255,0,1],
+    "BlockPickup": false,
+    "AllowTransfer": true,
+    "ForceDrop": true,
+    "Chat": true,
+    "Hud": true,
+    "TriggerID": 0,
+    "UsePriority": true,
+    "AbilityList": [
+      {
+        "Name": "Sakura_Button",
+        "ButtonID": 3799,
+        "ButtonClass": "func_button",
+        "Filter": "$Player_Sakura",
+        "Chat_Uses": true,
+        "Mode": 2,
+        "MaxUses": 0,
+        "CoolDown": 92
+      }
+    ]
+  }
+]

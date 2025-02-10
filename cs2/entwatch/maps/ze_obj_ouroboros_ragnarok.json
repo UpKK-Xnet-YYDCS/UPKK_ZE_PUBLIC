@@ -1,0 +1,118 @@
+[
+  {
+    "Name": "地雷",
+    "ShortName": "地雷",
+    "Color": "{default}",
+    "HammerID": 17049,
+    "GlowColor": [0,255,0,1],
+    "BlockPickup": false,
+    "AllowTransfer": true,
+    "ForceDrop": true,
+    "Chat": true,
+    "Hud": true,
+    "TriggerID": 0,
+    "UsePriority": true,
+    "AbilityList": [
+      {
+        "Name": "landminebutton",
+        "ButtonID": 17032,
+        "ButtonClass": "func_button",
+        "Filter": "landmineuser:1",
+        "Chat_Uses": true,
+        "Mode": 7,
+        "MaxUses": 0,
+        "CoolDown": 0,
+				"Ignore": false,
+        "LockItem": false,
+        "MathID": 17048,
+        "MathNameFix": false,
+        "MathFindSpawned": true,
+        "MathDontShowMax": true
+      }
+    ]
+  },
+  {
+    "Name": "ZM 传送",
+    "ShortName": "ZM 传送",
+    "Color": "{default}",
+    "HammerID": 17054,
+    "GlowColor": [0,255,0,1],
+    "BlockPickup": false,
+    "AllowTransfer": false,
+    "ForceDrop": false,
+    "Chat": true,
+    "Hud": true,
+    "TriggerID": 17056,
+    "UsePriority": true,
+    "AbilityList": [
+      {
+        "Name": "zm_teleporterbutton",
+        "ButtonID": 17052,
+        "ButtonClass": "func_button",
+        "Filter": "zm_teleporteruser:1",
+        "Chat_Uses": true,
+        "Mode": 2,
+        "MaxUses": 0,
+        "CoolDown": 50
+      }
+    ]
+  },
+  {
+    "Name": "迷你机枪",
+    "ShortName": "迷你机枪",
+    "Color": "{default}",
+    "HammerID": 17098,
+    "GlowColor": [0,255,0,1],
+    "BlockPickup": false,
+    "AllowTransfer": false,
+    "ForceDrop": false,
+    "Chat": true,
+    "Hud": true,
+    "TriggerID": 17099,
+    "UsePriority": true,
+    "AbilityList": [
+      {
+        "Name": "",
+        "ButtonID": 0,
+        "ButtonClass": "",
+        "Filter": "mini_a",
+        "Chat_Uses": true,
+        "Mode": 6,
+        "MaxUses": 0,
+        "CoolDown": 0,
+				"Ignore": false,
+        "LockItem": false,
+        "MathID": 17096,
+        "MathNameFix": false,
+        "MathFindSpawned": true,
+        "MathDontShowMax": false
+      }
+    ]
+  },
+  {
+    "Name": "ZM 钥匙",
+    "ShortName": "ZM 钥匙",
+    "Color": "{default}",
+    "HammerID": 18805,
+    "GlowColor": [0,255,0,1],
+    "BlockPickup": false,
+    "AllowTransfer": false,
+    "ForceDrop": false,
+    "Chat": true,
+    "Hud": true,
+    "TriggerID": 18806,
+    "UsePriority": true,
+    "AbilityList": [
+      {
+        "Name": "",
+        "ButtonID": 0,
+        "ButtonClass": "",
+        "Filter": "zombiekey_user:1",
+        "Chat_Uses": true,
+        "Mode": 0,
+        "MaxUses": 0,
+        "CoolDown": 0
+      }
+    ]
+  }
+]
