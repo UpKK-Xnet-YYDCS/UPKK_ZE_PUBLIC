@@ -104,6 +104,58 @@
     ]
   },
   {
+    "Name": "ZM 黑洞/Zombie Gravity",
+    "ShortName": "ZM 黑洞",
+    "Color": "{default}",
+    "HammerID": 41673,
+    "GlowColor": [0,255,0,1],
+    "BlockPickup": false,
+    "AllowTransfer": false,
+    "ForceDrop": false,
+    "Chat": true,
+    "Hud": true,
+    "TriggerID": 41705,
+    "UsePriority": true,
+    "AbilityList": [
+      {
+        "Name": "zm_gravity_item_button",
+        "ButtonID": 41671,
+        "ButtonClass": "func_button",
+        "Filter": "zm_gravity_user:1",
+        "Chat_Uses": true,
+        "Mode": 2,
+        "MaxUses": 0,
+        "CoolDown": 90
+      }
+    ]
+  },
+  {
+    "Name": "ZM 奶/Zombie Heal",
+    "ShortName": "ZM 奶",
+    "Color": "{default}",
+    "HammerID": 41694,
+    "GlowColor": [0,255,0,1],
+    "BlockPickup": false,
+    "AllowTransfer": false,
+    "ForceDrop": false,
+    "Chat": true,
+    "Hud": true,
+    "TriggerID": 41704,
+    "UsePriority": true,
+    "AbilityList": [
+      {
+        "Name": "zm_heal_item_button",
+        "ButtonID": 41697,
+        "ButtonClass": "func_button",
+        "Filter": "zm_heal_user:1",
+        "Chat_Uses": true,
+        "Mode": 2,
+        "MaxUses": 0,
+        "CoolDown": 90
+      }
+    ]
+  },
+  {
     "Name": "锤子/Hammer",
     "ShortName": "锤子",
     "Color": "{default}",
@@ -152,6 +204,58 @@
         "Mode": 3,
         "MaxUses": 1,
         "CoolDown": 0
+      }
+    ]
+  },
+  {
+    "Name": "ZM 飞行/Zombie Flight",
+    "ShortName": "ZM 飞行",
+    "Color": "{default}",
+    "HammerID": 47771,
+    "GlowColor": [0,255,0,1],
+    "BlockPickup": false,
+    "AllowTransfer": false,
+    "ForceDrop": false,
+    "Chat": true,
+    "Hud": true,
+    "TriggerID": 47772,
+    "UsePriority": true,
+    "AbilityList": [
+      {
+        "Name": "zm_flight_item_button",
+        "ButtonID": 47776,
+        "ButtonClass": "func_button",
+        "Filter": "zm_flight_user:1",
+        "Chat_Uses": true,
+        "Mode": 2,
+        "MaxUses": 0,
+        "CoolDown": 45
+      }
+    ]
+  },
+  {
+    "Name": "ZM 火球/Zombie Fireball",
+    "ShortName": "ZM 火球",
+    "Color": "{default}",
+    "HammerID": 47790,
+    "GlowColor": [0,255,0,1],
+    "BlockPickup": false,
+    "AllowTransfer": false,
+    "ForceDrop": false,
+    "Chat": true,
+    "Hud": true,
+    "TriggerID": 47795,
+    "UsePriority": true,
+    "AbilityList": [
+      {
+        "Name": "zm_fireball_item_button",
+        "ButtonID": 47793,
+        "ButtonClass": "func_button",
+        "Filter": "zm_fireball_user:1",
+        "Chat_Uses": true,
+        "Mode": 2,
+        "MaxUses": 0,
+        "CoolDown": 30
       }
     ]
   },
@@ -260,6 +364,84 @@
     ]
   },
   {
+    "Name": "弹药",
+    "ShortName": "弹药",
+    "Color": "{default}",
+    "HammerID": 54011,
+    "GlowColor": [0,255,0,1],
+    "BlockPickup": false,
+    "AllowTransfer": true,
+    "ForceDrop": true,
+    "Chat": true,
+    "Hud": true,
+    "TriggerID": 0,
+    "UsePriority": true,
+    "AbilityList": [
+      {
+        "Name": "ammo_item_button",
+        "ButtonID": 54009,
+        "ButtonClass": "func_button",
+        "Filter": "ammo_user:1",
+        "Chat_Uses": true,
+        "Mode": 2,
+        "MaxUses": 0,
+        "CoolDown": 90
+      }
+    ]
+  },
+  {
+    "Name": "ZM 加速",
+    "ShortName": "ZM 加速",
+    "Color": "{default}",
+    "HammerID": 54020,
+    "GlowColor": [0,255,0,1],
+    "BlockPickup": false,
+    "AllowTransfer": false,
+    "ForceDrop": false,
+    "Chat": true,
+    "Hud": true,
+    "TriggerID": 54333,
+    "UsePriority": true,
+    "AbilityList": [
+      {
+        "Name": "zm_speed_item_button",
+        "ButtonID": 54021,
+        "ButtonClass": "func_button",
+        "Filter": "zm_speed_user:1",
+        "Chat_Uses": true,
+        "Mode": 2,
+        "MaxUses": 0,
+        "CoolDown": 90
+      }
+    ]
+  },
+  {
+    "Name": "空间扭曲",
+    "ShortName": "空间扭曲",
+    "Color": "{default}",
+    "HammerID": 54046,
+    "GlowColor": [0,255,0,1],
+    "BlockPickup": false,
+    "AllowTransfer": true,
+    "ForceDrop": true,
+    "Chat": true,
+    "Hud": true,
+    "TriggerID": 0,
+    "UsePriority": true,
+    "AbilityList": [
+      {
+        "Name": "item_item_button",
+        "ButtonID": 54044,
+        "ButtonClass": "func_button",
+        "Filter": "time_user:1",
+        "Chat_Uses": true,
+        "Mode": 3,
+        "MaxUses": 1,
+        "CoolDown": 0
+      }
+    ]
+  },
+  {
     "Name": "奶/Heal",
     "ShortName": "奶",
     "Color": "{default}",
@@ -308,110 +490,6 @@
         "Mode": 2,
         "MaxUses": 0,
         "CoolDown": 60
-      }
-    ]
-  },
-  {
-    "Name": "ZM 黑洞/Zombie Gravity",
-    "ShortName": "ZM 黑洞",
-    "Color": "{default}",
-    "HammerID": 41673,
-    "GlowColor": [0,255,0,1],
-    "BlockPickup": false,
-    "AllowTransfer": false,
-    "ForceDrop": false,
-    "Chat": true,
-    "Hud": true,
-    "TriggerID": 41705,
-    "UsePriority": true,
-    "AbilityList": [
-      {
-        "Name": "zm_gravity_item_button",
-        "ButtonID": 41671,
-        "ButtonClass": "func_button",
-        "Filter": "zm_gravity_user:1",
-        "Chat_Uses": true,
-        "Mode": 2,
-        "MaxUses": 0,
-        "CoolDown": 90
-      }
-    ]
-  },
-  {
-    "Name": "ZM 奶/Zombie Heal",
-    "ShortName": "ZM 奶",
-    "Color": "{default}",
-    "HammerID": 41694,
-    "GlowColor": [0,255,0,1],
-    "BlockPickup": false,
-    "AllowTransfer": false,
-    "ForceDrop": false,
-    "Chat": true,
-    "Hud": true,
-    "TriggerID": 41704,
-    "UsePriority": true,
-    "AbilityList": [
-      {
-        "Name": "zm_heal_item_button",
-        "ButtonID": 41697,
-        "ButtonClass": "func_button",
-        "Filter": "zm_heal_user:1",
-        "Chat_Uses": true,
-        "Mode": 2,
-        "MaxUses": 0,
-        "CoolDown": 90
-      }
-    ]
-  },
-  {
-    "Name": "ZM 飞行/Zombie Flight",
-    "ShortName": "ZM 飞行",
-    "Color": "{default}",
-    "HammerID": 47771,
-    "GlowColor": [0,255,0,1],
-    "BlockPickup": false,
-    "AllowTransfer": false,
-    "ForceDrop": false,
-    "Chat": true,
-    "Hud": true,
-    "TriggerID": 47772,
-    "UsePriority": true,
-    "AbilityList": [
-      {
-        "Name": "zm_flight_item_button",
-        "ButtonID": 47776,
-        "ButtonClass": "func_button",
-        "Filter": "zm_flight_user:1",
-        "Chat_Uses": true,
-        "Mode": 2,
-        "MaxUses": 0,
-        "CoolDown": 45
-      }
-    ]
-  },
-  {
-    "Name": "ZM 火球/Zombie Fireball",
-    "ShortName": "ZM 火球",
-    "Color": "{default}",
-    "HammerID": 47790,
-    "GlowColor": [0,255,0,1],
-    "BlockPickup": false,
-    "AllowTransfer": false,
-    "ForceDrop": false,
-    "Chat": true,
-    "Hud": true,
-    "TriggerID": 47795,
-    "UsePriority": true,
-    "AbilityList": [
-      {
-        "Name": "zm_fireball_item_button",
-        "ButtonID": 47793,
-        "ButtonClass": "func_button",
-        "Filter": "zm_fireball_user:1",
-        "Chat_Uses": true,
-        "Mode": 2,
-        "MaxUses": 0,
-        "CoolDown": 30
       }
     ]
   }

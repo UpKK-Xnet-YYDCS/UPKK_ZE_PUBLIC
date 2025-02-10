@@ -3,200 +3,286 @@
     "translation": "..."
   },
   "10 Seconds": {
-    "translation": "10 秒"
+    "translation": "10秒"
   },
   "100%": {
     "translation": "100%"
   },
+  "15 Seconds": {
+    "translation": "15秒"
+  },
   "20 Seconds": {
-    "translation": "20 秒"
+    "translation": "20秒"
+  },
+  "25 Seconds": {
+    "translation": "25秒"
   },
   "25%": {
     "translation": "25%"
   },
   "30 Seconds": {
-    "translation": "30 秒"
+    "translation": "30秒"
   },
   "45 Seconds": {
-    "translation": "45 秒"
+    "translation": "45秒"
   },
   "50%": {
     "translation": "50%"
   },
   "60 Seconds CD | 10 Seconds Duration": {
-    "translation": "60 秒 CD | 10 秒持续时间",
-    "DoorCountDown": -1
+    "translation": "60秒冷却 | 10持续时间"
   },
   "60 Seconds CD | 5 Seconds Duration": {
-    "translation": "60 秒 CD | 5 秒持续时间",
-    "DoorCountDown": -1
+    "translation": "60秒冷却 | 5持续时间"
   },
   "75%": {
     "translation": "75%"
   },
+  "??? Item has been picked up": {
+    "translation": "空间扭曲已被拾取"
+  },
+  "A lever has been pulled": {
+    "translation": "拉动杠杆"
+  },
+  "A metal pipe has been picked up": {
+    "translation": "钢管已被拾取"
+  },
   "Absorb": {
-    "translation": "吸收 3s"
+    "translation": "吸收"
+  },
+  "Admin room is on top of spawn": {
+    "translation": "调关房在出生点的上方"
+  },
+  "Alternate Ending Triggered!": {
+    "translation": "替代结局已触发！"
+  },
+  "Ammo Item Used": {
+    "translation": "弹药已使用"
+  },
+  "Ammo Item has been picked up": {
+    "translation": "弹药已被拾取"
   },
   "An available loot point has been found": {
     "translation": "已找到可用的战利品点"
   },
   "Blue Fireball has been picked up": {
-    "translation": "已拾取蓝色火球"
+    "translation": "蓝色火球已被拾取"
   },
-  "Blue's going to contain that thing": {
-    "translation": "蓝色将收容那个东西"
-  },
-  "Blue's long dead, let's just get back.": {
-    "translation": "蓝色早已消亡，我们赶紧回去吧。"
-  },
-  "Blue's long dead, what did you expect from Red's reign": {
-    "translation": "蓝色早已消亡，你对红色的统治有何期待"
+  "Blue's long dead": {
+    "translation": "蓝已经死了很久"
   },
   "Boss is dead!": {
-    "translation": "Boss 死了！"
+    "translation": "boss已死亡！"
+  },
+  "But, this is just the beginning of your journey": {
+    "translation": "但，这只是你旅程的开始"
   },
   "CD: 5 Seconds": {
-    "translation": "CD：5 秒",
-    "DoorCountDown": -1
+    "translation": "冷却时间：5"
   },
   "Cleared!": {
-    "translation": "已完成！",
-    "ClearTimer": true
+    "translation": "清理完毕！"
+  },
+  "Congratulations! You won the map!": {
+    "translation": "恭喜！你通关了这张地图！"
+  },
+  "Congratulations.": {
+    "translation": "恭喜！"
   },
   "Cooldown: 20 Seconds": {
-    "translation": "冷却时间：20 秒",
-    "DoorCountDown": -1
+    "translation": "冷却时间：20"
   },
   "Cooldown: 30 Seconds": {
-    "translation": "冷却时间：30 秒",
-    "DoorCountDown": -1
+    "translation": "冷却时间：30"
   },
   "Cooldown: 45 Seconds | Duration: 5 Seconds": {
-    "translation": "冷却时间：45 秒 | 持续时间：5 秒",
-    "DoorCountDown": -1
+    "translation": "冷却时间：45 | 持续时间：5"
   },
   "Cooldown: 60 Seconds | Duration: 10 Seconds": {
-    "translation": "冷却时间：60 秒 | 持续时间：10 秒",
-    "DoorCountDown": -1
+    "translation": "冷却时间：60 | 持续时间：10"
+  },
+  "Cooldown: 90 Seconds": {
+    "translation": "冷却时间：90"
   },
   "Cooldown: 90 Seconds Duration: 10 Seconds": {
-    "translation": "冷却时间：90 秒持续时间：10 秒",
-    "DoorCountDown": -1
+    "translation": "冷却时间：90 持续时间：10"
   },
   "Cooldown: 90 Seconds | Duration: 5 Seconds": {
-    "translation": "冷却时间：90 秒|持续时间：5 秒",
-    "DoorCountDown": -1
+    "translation": "冷却时间：90 | 持续时间：5"
   },
   "Devour": {
-    "translation": "吞噬 3s"
+    "translation": "吞噬"
   },
   "Did we kill it..?": {
-    "translation": "我们杀了它吗？"
+    "translation": "我们杀死它了吗...?"
+  },
+  "Doors will be opened in 10 Seconds": {
+    "translation": "门将在10秒后打开"
   },
   "Doors will close in 10 Seconds": {
-    "translation": "门将在 10 秒后关闭"
+    "translation": "门将在10秒后关闭"
   },
   "Elevator will break in 5 Seconds": {
-    "translation": "电梯将在 5 秒后损坏"
+    "translation": "电梯将在5秒后故障"
   },
   "Elevator will rise in 20 Seconds": {
-    "translation": "电梯将在 20 秒后上升"
-  },
-  "Escape is leaving in 30 Seconds": {
-    "translation": "最终逃生将在 30 秒后离开"
+    "translation": "电梯将在20秒后上升"
   },
   "Failed!": {
     "translation": "失败！"
   },
   "Firewall has been picked up": {
-    "translation": "火墙已被拾起"
+    "translation": "火墙已被拾取"
   },
   "Flame has been picked up": {
-    "translation": "火焰已被拾起"
+    "translation": "火球已被拾取"
+  },
+  "For now...": {
+    "translation": "现在......"
+  },
+  "Found": {
+    "translation": "已找到"
   },
   "Fully Charged": {
-    "translation": "能量已满"
+    "translation": "已充满"
+  },
+  "GET TO THE SIDES!!!": {
+    "translation": "赶紧到侧面！！！"
   },
   "Get away from the elevator!": {
     "translation": "远离电梯！"
   },
   "Get on a body of water!": {
-    "translation": "快泡在水里！"
+    "translation": "站在水面上！"
   },
   "Green Fireball has been picked up": {
-    "translation": "绿色火球已被拾起"
+    "translation": "绿色火球已被拾取"
   },
   "Have fun!": {
-    "translation": "玩得开心！"
+    "translation": "玩得愉快！"
   },
   "Heal has been picked up": {
-    "translation": "治疗已被拾起"
+    "translation": "奶已被拾取"
   },
   "Hurry! Get to the entrance!": {
-    "translation": "快点！到达入口！"
+    "translation": "快点！赶往入口！"
+  },
+  "I think Blue's going to contain Red": {
+    "translation": "我想蓝会控制红"
+  },
+  "I won't let you go through the boss again lol": {
+    "translation": "我可不让你再经历那个boss了，哈哈！"
+  },
+  "It's powered by magic, I've never seen this kind before..": {
+    "translation": "这蕴藏着魔法的力量，我从未见过如此奇特的存在..."
+  },
+  "It's starting!": {
+    "translation": "要开始了！"
   },
   "It's that thing..": {
-    "translation": "就是那个东西。。"
+    "translation": "是那玩意......"
   },
   "Kill it in 60 Seconds": {
-    "translation": "在 60 秒内杀死它"
+    "translation": "60秒内杀死它"
   },
   "Left door opens in 20 Seconds": {
-    "translation": "左边的门在 20 秒后打开"
+    "translation": "左门将在20秒后打开"
+  },
+  "Legacy Stage has been Triggered": {
+    "translation": "遗产关已触发"
+  },
+  "Legacy Stage has been set!": {
+    "translation": "遗产关已设置！"
   },
   "Let's just get back": {
-    "translation": "我们回去吧"
+    "translation": "让我们回去吧"
+  },
+  "Loading Legacy Stage": {
+    "translation": "加载遗产关"
   },
   "Loading Stage 1": {
-    "translation": "加载 Stage 1"
+    "translation": "加载第1关"
   },
   "Loading Stage 2": {
-    "translation": "加载 Stage 2"
+    "translation": "加载第2关"
+  },
+  "Loading your fate...": {
+    "translation": "加载你的命运..."
+  },
+  "Look down!": {
+    "translation": "低头看！"
   },
   "Look on top, it's blue..?": {
-    "translation": "看看上面，它是蓝色的。。？"
+    "translation": "看上面，它是蓝吗...?"
+  },
+  "Look, a flying vehicle!": {
+    "translation": "快看，是可以空中飞行的交通工具！"
   },
   "Loot Item has been picked up": {
-    "translation": "战利品已被拾起"
+    "translation": "战利品已被拾取"
   },
   "Loot points have been depleted": {
     "translation": "战利品点已耗尽"
   },
+  "MARATHON stage has been set!": {
+    "translation": "马拉松关已设置！"
+  },
   "Map by KadianS": {
-    "translation": "地图作者：KadianS 翻译：Ayanami♪"
+    "translation": "地图作者：KadianS 翻译：Asteri3m"
   },
   "Maximum amount of loot has been reached!": {
-    "translation": "战利品数量已达到上限！"
+    "translation": "战利品已达到最大数量！！"
   },
   "Next Stage has been Triggered": {
-    "translation": "已触发下一阶段"
+    "translation": "下一关已触发"
+  },
+  "No one is on the platform!": {
+    "translation": "平台上没有人类！"
+  },
+  "One must stay on the platform or humans lose!": {
+    "translation": "必须有一个人留在平台上，否则人类将失败！"
   },
   "One time use!": {
-    "translation": "只能使用一次！"
+    "translation": "一次性使用！"
+  },
+  "PROVE YOURSELF": {
+    "translation": "证明你自己"
   },
   "Problems? Contact me": {
-    "translation": "有问题？联系我"
+    "translation": "地图有问题？联系我"
   },
   "Pull four levers around the place to charge blue up": {
-    "translation": "拉动四周的四个杠杆为蓝色充能"
+    "translation": "拉动四处的杠杆，以唤醒蓝的力量"
+  },
+  "Quick! Let's find a way to escape!": {
+    "translation": "快！让我们找个办法逃走！"
+  },
+  "Quick!! Get on!! Let's get out of here!!": {
+    "translation": "快点！！快上来！！我们得出发了！！"
   },
   "Quick, no time to waste. Let's find a way to obtain blue's power": {
-    "translation": "快，不要浪费时间。让我们找到获得蓝色力量的方法"
+    "translation": "快，别浪费时间。找办法获得蓝的力量"
   },
   "Red Fireball has been picked up": {
-    "translation": "红色火球已被拾起"
+    "translation": "红色火球已被拾取"
   },
   "Right door closes in 10 Seconds": {
-    "translation": "右门将在 10 秒后关闭"
+    "translation": "右门将在10秒后关闭"
   },
   "Right door opens in 20 Seconds": {
-    "translation": "右门将在 20 秒后打开"
+    "translation": "右门将在20秒后打开"
   },
   "SHOOT IT!!": {
     "translation": "射击它！！"
   },
+  "STAGE 2": {
+    "translation": "关卡2"
+  },
   "Scourge": {
     "translation": "天灾 3s (触碰水来规避伤害)"
+  },
+  "She's enraged!!": {
+    "translation": "她愤怒了！！"
   },
   "Shoot it!": {
     "translation": "射击它！"
@@ -205,7 +291,7 @@
     "translation": "射击它！！"
   },
   "Shortcut will be opened": {
-    "translation": "将打开捷径"
+    "translation": "捷径路将要打开"
   },
   "Spawning Hammers": {
     "translation": "生成锤子"
@@ -213,229 +299,172 @@
   "Spawning Loot Points": {
     "translation": "生成战利品点"
   },
+  "Stage 1 has been set!": {
+    "translation": "已设置第一关！"
+  },
+  "Stage 2 has been set!": {
+    "translation": "已设置第二关！"
+  },
   "Steam": {
     "translation": "蒸汽 3s"
   },
+  "Step in the middle to vote for Marathon Mode!": {
+    "translation": "站在中间投票马拉松模式！"
+  },
   "Step unto the playform to recieve blue's power.": {
-    "translation": "踏上中间的板子以接收蓝色力量。"
+    "translation": "站在平台上以接收蓝的力量"
   },
   "Survive for 30 Seconds": {
-    "translation": "存活 30 秒"
+    "translation": "生存30秒"
   },
   "Survive for 60 Seconds": {
-    "translation": "存活 60 秒"
+    "translation": "生存60秒"
   },
   "Survive for 60 more seconds": {
-    "translation": "再存活 60 秒"
+    "translation": "再生存60秒"
   },
   "Survive until Blue has been charged up": {
-    "translation": "存活至蓝色充能"
+    "translation": "生存到蓝充能完成"
   },
   "TP in 10 Seconds": {
-    "translation": "10 秒后传送"
+    "translation": "传送将在10秒内进行"
+  },
+  "Tch... who disturbed me???": {
+    "translation": "哼...谁打扰我？？？"
+  },
+  "That might require this place to react abnormaly, in short: explode!": {
+    "translation": "这可能会导致这个地方发生异常反应，简单来说：爆炸！"
+  },
+  "To be continued...": {
+    "translation": "待续..."
+  },
+  "Turn up your graphics settings to enjoy the best experience!": {
+    "translation": "请调高你的画质以享受最佳体验！"
   },
   "Wait, It's about to explode!!": {
-    "translation": "等等，它就要爆炸了！！"
+    "translation": "等等，它要爆炸了！！"
   },
   "Warp Item has been picked up": {
-    "translation": "时空扭曲已被拾起"
+    "translation": "终极已被拾取"
   },
   "Water Nymph has been picked up": {
-    "translation": "水仙子已被拾起"
+    "translation": "水仙已被拾取"
   },
   "Water Nymph is now spammable!": {
-    "translation": "水仙子现在可以频繁使用了！"
+    "translation": "水仙现在可以随意使用！"
   },
   "We can't get passed through that thing yet": {
-    "translation": "我们暂时无法穿过那个东西"
+    "translation": "我们还不能通过那玩意"
   },
   "We don't know where's blue though": {
-    "translation": "但我们不知道蓝色在哪里"
+    "translation": "我们不知道蓝在哪里"
+  },
+  "We escaped..": {
+    "translation": "我们逃出来了.."
   },
   "We got Green and Yellow's power": {
-    "translation": "我们得到了绿色和黄色的力量"
+    "translation": "我们得到了绿和黄的力量"
   },
   "We got enough power to charge through the courtyard defense": {
-    "translation": "我们有足够的力量冲破庭院防御"
+    "translation": "我们有足够的力量穿过庭院防线"
+  },
+  "We got it!": {
+    "translation": "我们做到了！"
+  },
+  "We have to be quick!, this things going to be a big one!": {
+    "translation": "我们必须快点！这个东西会变得很大！"
   },
   "We have to go back though..": {
-    "translation": "但我们得回去了……"
+    "translation": "我们得回去了......"
   },
   "We might be able to go through the courtyard now": {
-    "translation": "我们现在也许可以穿过庭院了"
-  },
-  "We need to get out of here!": {
-    "translation": "我们需要离开这里！"
+    "translation": "我们也许能现在穿过庭院"
   },
   "We should find a way": {
-    "translation": "我们应该想办法"
+    "translation": "我们应该找到一个办法"
   },
   "We'll be more prepared using these two's powers": {
-    "translation": "利用这两种力量，我们会准备得更充分"
+    "translation": "有了这两种力量加持，我们将更为从容应对挑战"
   },
-  "We'll have to go back here tomorrow": {
-    "translation": "我们明天必须回去"
+  "We'll go back here tomorrow": {
+    "translation": "我们明天再回到这里"
   },
   "We're back here": {
     "translation": "我们回来了"
   },
   "What do we do now?": {
-    "translation": "我们现在做什么？"
+    "translation": "我们现在该怎么办？"
+  },
+  "What's happening?": {
+    "translation": "发生了什么？"
+  },
+  "Whatever! We just need to learn how to control it! Defend first!": {
+    "translation": "不管了！我们只需要学会如何控制它！先防御！"
   },
   "Where are we..?": {
-    "translation": "我们在哪……？"
+    "translation": "我们在哪里...?"
   },
   "Yellow Fireball has been picked up": {
-    "translation": "黄色火球已被拾起"
+    "translation": "黄色火球已被拾取"
   },
-  "ZM Flight item has been used.": {
-    "translation": "ZM 飞行已被使用。"
-  },
-  "ZM Flight item is READY": {
-    "translation": "ZM 飞行已准备就绪"
-  },
-  "ZM TP in 10 Seconds": {
-    "translation": " 10 秒后僵尸传送"
-  },
-  "ZM TP in 10 seconds": {
-    "translation": "10 秒后僵尸传送"
-  },
-  "ZM TP in 15 Seconds": {
-    "translation": "15 秒后僵尸传送"
-  },
-  "Zombie Attack": {
-    "translation": "僵尸进攻"
-  },
-  "Zombie Fireball has been picked up": {
-    "translation": "已拾取僵尸火球"
-  },
-  "Zombie Flight has been picked up": {
-    "translation": "已拾取僵尸飞行"
-  },
-  "Zombie Gravity has been picked up": {
-    "translation": "已拾取僵尸重力"
-  },
-  "Zombie Heal has been picked up": {
-    "translation": "已拾取僵尸治疗"
-  },
-  "Zombie Items have been spawned": {
-    "translation": "已生成僵尸神器"
-  },
-  "Zombies has been Released": {
-    "translation": "已释放僵尸"
-  },
-  "[Defend yourself while shooting it]": {
-    "translation": "[射击时保护自己]"
-  },
-  "[GET OUT]": {
-    "translation": "[撤退]"
-  },
-  "[NUKE IN 180 SECONDS]": {
-    "translation": "[180 秒后触发核弹]"
-  },
-  "Want to donate? Visit my Patreon!": {
-    "translation": "想捐款吗？访问我的Patreon！"
-  },
-  "A lever has been pulled": {
-    "translation": "一个杠杆被拉动了"
-  },
-  "A metal pipe has been picked up": {
-    "translation": "一根钢管被拾起"
-  },
-  "Admin room is on top of spawn": {
-    "translation": "Admin房间在出生点的上方"
-  },
-  "Turn up your graphics settings to enjoy the best experience!": {
-    "translation": "提高画质以享受最佳体验！"
-  },
-  "Congratulations! You won the map!": {
-    "translation": "恭喜！你征服了这张地图！"
-  },
-  "Legacy Stage has been Triggered": {
-    "translation": "已触发 Legacy 关卡"
-  },
-  "Marathon Stage is currently not available on this version!": {
-    "translation": "此版本目前不提供 Marathon Stage！"
-  },
-  "Legacy Stage has been set!": {
-    "translation": "加载 Legacy 关卡"
-  },
-  "Stage 1 has been set!": {
-    "translation": "Admin选择了 Stage 1"
-  },
-  "Stage 2 has been set!": {
-    "translation": "Admin选择了 Stage 2"
-  },
-  "Loading Legacy Stage": {
-    "translation": "Admin选择了 Legacy 关卡"
-  },
-  "Good ol' ball rain": {
-    "translation": "祝你好运，结尾有弹幕"
-  },
-  "I won't let you go through the boss again lol": {
-    "translation": "我不会让你再通过那个boss了哈哈:)"
-  },
-  "Look down!": {
-    "translation": "看脚底！"
+  "You Won!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!": {
+    "translation": "你赢了！！！！！！！！！！！！"
   },
   "You won!": {
     "translation": "你赢了！"
   },
-  "15 Seconds": {
-    "translation": ""
+  "ZM Flight item has been used.": {
+    "translation": "僵尸飞行已使用"
   },
-  "We'll go back here tomorrow": {
-    "translation": ""
+  "ZM Flight item is READY": {
+    "translation": "僵尸飞行准备完毕"
   },
-  "Blue's long dead": {
-    "translation": ""
+  "ZM TP in 10 Seconds": {
+    "translation": "僵尸传送将在10秒后进行"
   },
-  "What's happening?": {
-    "translation": ""
+  "ZM TP in 10 seconds": {
+    "translation": "僵尸传送将在10秒后进行"
   },
-  "I think Blue's going to contain Red": {
-    "translation": ""
+  "ZM TP in 15 Seconds": {
+    "translation": "僵尸传送将在15秒后进行"
   },
-  "That might require this place to react abnormaly, in short: explode!": {
-    "translation": ""
+  "Zombie Attack": {
+    "translation": "尸笼"
   },
-  "It's starting!": {
-    "translation": ""
+  "Zombie Fireball has been picked up": {
+    "translation": "僵尸火球已被拾取"
   },
-  "Doors will be opened in 10 Seconds": {
-    "translation": ""
+  "Zombie Flight has been picked up": {
+    "translation": "僵尸飞行已被拾取"
   },
-  "Quick! Let's find a way to escape!": {
-    "translation": ""
+  "Zombie Gravity has been picked up": {
+    "translation": "僵尸黑洞已被拾取"
   },
-  "We have to be quick!, this things going to be a big one!": {
-    "translation": ""
+  "Zombie Heal has been picked up": {
+    "translation": "僵尸奶已被拾取"
   },
-  "Look, a flying vehicle!": {
-    "translation": ""
+  "Zombie Items have been spawned": {
+    "translation": "僵尸神器已生成"
   },
-  "It's powered by magic, I've never seen this kind before..": {
-    "translation": ""
+  "Zombie Speed Activated!": {
+    "translation": "僵尸加速已激活！"
   },
-  "Whatever! We just need to learn how to control it! Defend first!": {
-    "translation": ""
+  "Zombie Speed has been picked up": {
+    "translation": "僵尸加速已被拾取"
   },
-  "We got it!": {
-    "translation": ""
+  "Zombies has been Released": {
+    "translation": "僵尸已释放"
   },
-  "Quick!! Get on!! Let's get out of here!!": {
-    "translation": ""
+  "Zombies will be killed in 20 Seconds.": {
+    "translation": "僵尸将在20秒内被消灭"
   },
-  "We escaped..": {
-    "translation": ""
+  "[Defend yourself while shooting it]": {
+    "translation": "[在射击时保护自己]"
   },
-  "Look at that view..": {
-    "translation": ""
+  "[GET OUT]": {
+    "translation": "[快跑]"
   },
-  "One must stay on the platform or humans lose!": {
-    "translation": ""
-  },
-  "PROVE YOURSELF": {
-    "translation": ""
+  "[NUKE IN 180 SECONDS]": {
+    "translation": "[180秒后核爆]"
   }
 }
