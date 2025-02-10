@@ -89,7 +89,7 @@
         "Chat_Uses": true,
         "Mode": 2,
         "MaxUses": 0,
-        "CoolDown": 65
+        "CoolDown": 70
       }
     ]
   },
@@ -115,7 +115,7 @@
         "Chat_Uses": true,
         "Mode": 4,
         "MaxUses": 2,
-        "CoolDown": 60
+        "CoolDown": 30
       }
     ]
   },
@@ -287,7 +287,7 @@
         "Chat_Uses": true,
         "Mode": 2,
         "MaxUses": 0,
-        "CoolDown": 70
+        "CoolDown": 65
       }
     ]
   },
@@ -313,7 +313,7 @@
         "Chat_Uses": true,
         "Mode": 2,
         "MaxUses": 0,
-        "CoolDown": 65
+        "CoolDown": 45
       }
     ]
   },
@@ -339,7 +339,7 @@
         "Chat_Uses": true,
         "Mode": 2,
         "MaxUses": 0,
-        "CoolDown": 70
+        "CoolDown": 65
       }
     ]
   },
@@ -365,7 +365,59 @@
         "Chat_Uses": true,
         "Mode": 2,
         "MaxUses": 0,
-        "CoolDown": 70
+        "CoolDown": 65
+      }
+    ]
+  },
+  {
+    "Name": "骑士",
+    "ShortName": "骑士",
+    "Color": "{default}",
+    "HammerID": 25107,
+    "GlowColor": [0,255,0,1],
+    "BlockPickup": false,
+    "AllowTransfer": true,
+    "ForceDrop": true,
+    "Chat": true,
+    "Hud": true,
+    "TriggerID": 0,
+    "UsePriority": true,
+    "AbilityList": [
+      {
+        "Name": "Item_PLD_button",
+        "ButtonID": 25105,
+        "ButtonClass": "func_button",
+        "Filter": "Player_PLD:1",
+        "Chat_Uses": true,
+        "Mode": 4,
+        "MaxUses": 4,
+        "CoolDown": 45
+      }
+    ]
+  },
+  {
+    "Name": "ZM 冰",
+    "ShortName": "ZM 冰",
+    "Color": "{default}",
+    "HammerID": 25064,
+    "GlowColor": [0,255,0,1],
+    "BlockPickup": false,
+    "AllowTransfer": false,
+    "ForceDrop": false,
+    "Chat": true,
+    "Hud": true,
+    "TriggerID": 25065,
+    "UsePriority": true,
+    "AbilityList": [
+      {
+        "Name": "ZM_Ice_button",
+        "ButtonID": 25067,
+        "ButtonClass": "func_button",
+        "Filter": "ZM_Player_Ice",
+        "Chat_Uses": true,
+        "Mode": 2,
+        "MaxUses": 0,
+        "CoolDown": 65
       }
     ]
   }
