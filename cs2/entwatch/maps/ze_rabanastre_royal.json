@@ -1,0 +1,236 @@
+[
+  {
+    "Name": "ZM 死亡宣告",
+    "ShortName": "ZM 死亡宣告",
+    "Color": "{default}",
+    "HammerID": 1410,
+    "GlowColor": [0,255,0,1],
+    "BlockPickup": false,
+    "AllowTransfer": false,
+    "ForceDrop": false,
+    "Chat": true,
+    "Hud": true,
+    "TriggerID": 1413,
+    "UsePriority": true,
+    "AbilityList": [
+      {
+        "Name": "Magick_Doom_Button",
+        "ButtonID": 1411,
+        "ButtonClass": "func_button",
+        "Filter": "Player_Zombie_Doom:1",
+        "Chat_Uses": true,
+        "Mode": 2,
+        "MaxUses": 0,
+        "CoolDown": 60
+      }
+    ]
+  },
+  {
+    "Name": "ZM 陆行鸟",
+    "ShortName": "ZM 陆行鸟",
+    "Color": "{default}",
+    "HammerID": 1390,
+    "GlowColor": [0,255,0,1],
+    "BlockPickup": false,
+    "AllowTransfer": false,
+    "ForceDrop": false,
+    "Chat": true,
+    "Hud": true,
+    "TriggerID": 1391,
+    "UsePriority": true,
+    "AbilityList": [
+      {
+        "Name": "ZM_Chocobo_Button",
+        "ButtonID": 1377,
+        "ButtonClass": "func_button",
+        "Filter": "ZM_Chocobo_101:1",
+        "Chat_Uses": true,
+        "Mode": 4,
+        "MaxUses": 3,
+        "CoolDown": 60
+      }
+    ]
+  },
+  {
+    "Name": "治疗",
+    "ShortName": "治疗",
+    "Color": "{default}",
+    "HammerID": 1239,
+    "GlowColor": [0,255,0,1],
+    "BlockPickup": false,
+    "AllowTransfer": true,
+    "ForceDrop": true,
+    "Chat": true,
+    "Hud": true,
+    "TriggerID": 0,
+    "UsePriority": true,
+    "AbilityList": [
+      {
+        "Name": "Magick_Cure_Button",
+        "ButtonID": 1240,
+        "ButtonClass": "func_button",
+        "Filter": "Player_Human_Cure:1",
+        "Chat_Uses": true,
+        "Mode": 2,
+        "MaxUses": 0,
+        "CoolDown": 60
+      }
+    ]
+  },
+  {
+    "Name": "坍缩炮",
+    "ShortName": "坍缩炮",
+    "Color": "{default}",
+    "HammerID": 1307,
+    "GlowColor": [0,255,0,1],
+    "BlockPickup": false,
+    "AllowTransfer": true,
+    "ForceDrop": true,
+    "Chat": true,
+    "Hud": true,
+    "TriggerID": 0,
+    "UsePriority": true,
+    "AbilityList": [
+      {
+        "Name": "Magick_Scathe_Button",
+        "ButtonID": 1308,
+        "ButtonClass": "func_button",
+        "Filter": "Player_Human_Scathe:1",
+        "Chat_Uses": true,
+        "Mode": 4,
+        "MaxUses": 1,
+        "CoolDown": 15
+      }
+    ]
+  },
+  {
+    "Name": "雷电",
+    "ShortName": "雷电",
+    "Color": "{default}",
+    "HammerID": 1344,
+    "GlowColor": [0,255,0,1],
+    "BlockPickup": false,
+    "AllowTransfer": true,
+    "ForceDrop": true,
+    "Chat": true,
+    "Hud": true,
+    "TriggerID": 0,
+    "UsePriority": true,
+    "AbilityList": [
+      {
+        "Name": "Magick_Thunder_Button",
+        "ButtonID": 1345,
+        "ButtonClass": "func_button",
+        "Filter": "Player_Human_Thunder:1",
+        "Chat_Uses": true,
+        "Mode": 2,
+        "MaxUses": 0,
+        "CoolDown": 60
+      }
+    ]
+  },
+  {
+    "Name": "油液",
+    "ShortName": "油液",
+    "Color": "{default}",
+    "HammerID": 1360,
+    "GlowColor": [0,255,0,1],
+    "BlockPickup": false,
+    "AllowTransfer": true,
+    "ForceDrop": true,
+    "Chat": true,
+    "Hud": true,
+    "TriggerID": 0,
+    "UsePriority": true,
+    "AbilityList": [
+      {
+        "Name": "Magick_Oil_Button",
+        "ButtonID": 1361,
+        "ButtonClass": "func_button",
+        "Filter": "Player_Human_Oil:1",
+        "Chat_Uses": true,
+        "Mode": 2,
+        "MaxUses": 0,
+        "CoolDown": 60
+      }
+    ]
+  },
+  {
+    "Name": "狂风",
+    "ShortName": "狂风",
+    "Color": "{default}",
+    "HammerID": 1487,
+    "GlowColor": [0,255,0,1],
+    "BlockPickup": false,
+    "AllowTransfer": true,
+    "ForceDrop": true,
+    "Chat": true,
+    "Hud": true,
+    "TriggerID": 0,
+    "UsePriority": true,
+    "AbilityList": [
+      {
+        "Name": "Magick_Wind_Button",
+        "ButtonID": 1526,
+        "ButtonClass": "func_button",
+        "Filter": "Player_Human_Wind:1",
+        "Chat_Uses": true,
+        "Mode": 2,
+        "MaxUses": 0,
+        "CoolDown": 60
+      }
+    ]
+  },
+  {
+    "Name": "水流",
+    "ShortName": "水流",
+    "Color": "{default}",
+    "HammerID": 1482,
+    "GlowColor": [0,255,0,1],
+    "BlockPickup": false,
+    "AllowTransfer": true,
+    "ForceDrop": true,
+    "Chat": true,
+    "Hud": true,
+    "TriggerID": 0,
+    "UsePriority": true,
+    "AbilityList": [
+      {
+        "Name": "Magick_Aqua_Button",
+        "ButtonID": 1483,
+        "ButtonClass": "func_button",
+        "Filter": "Player_Human_Aqua:1",
+        "Chat_Uses": true,
+        "Mode": 2,
+        "MaxUses": 0,
+        "CoolDown": 60
+      }
+    ]
+  },
+  {
+    "Name": "ZM 血鬼术",
+    "ShortName": "ZM 血鬼术",
+    "Color": "{default}",
+    "HammerID": 879,
+    "GlowColor": [0,255,0,1],
+    "BlockPickup": false,
+    "AllowTransfer": false,
+    "ForceDrop": false,
+    "Chat": true,
+    "Hud": true,
+    "TriggerID": 877,
+    "UsePriority": true,
+    "AbilityList": [
+      {
+        "Name": "Magick_Bleed_Button",
+        "ButtonID": 874,
+        "ButtonClass": "func_button",
+        "Filter": "Player_Zombie_Bleed:1",
+        "Chat_Uses": true,
+        "Mode": 2,
+        "MaxUses": 0,
+        "CoolDown": 60
+      }
+    ]
+  }
+]
