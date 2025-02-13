@@ -3208,6 +3208,7 @@
 		"filename"		"zm_shenghuajinzita"
 		"updatedname"		"zm_shenghuajinzita"
 		"RestrictedTimes"	"18:00-23:00"
+		"OnlyNominate"		"1"
 	}
 	"zm_minecraftvillage"
 	{
@@ -3216,6 +3217,7 @@
 		"filename"		"zm_minecraftvillage"
 		"updatedname"		"zm_minecraftvillage"
 		"RestrictedTimes"	"18:00-23:00"
+		"OnlyNominate"		"1"
 	}
 	"zm_gorodok"
 	{
@@ -3224,5 +3226,15 @@
 		"filename"		"zm_gorodok_cs2_v1"
 		"updatedname"		"zm_gorodok_cs2_v1"
 		"RestrictedTimes"	"18:00-23:00"
+		"OnlyNominate"		"1"
+	}
+	"zm_biochemical_hotel"
+	{
+		"workshop_id"		"3223106683"
+		"enabled"		"1"
+		"filename"		"zm_biochemical_hotel"
+		"updatedname"		"zm_biochemical_hotel"
+		"RestrictedTimes"	"18:00-23:00"
+		"OnlyNominate"		"1"
 	}
 }
