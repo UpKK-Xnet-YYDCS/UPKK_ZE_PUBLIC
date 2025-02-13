@@ -321,7 +321,6 @@
 		"filename"		"ze_surf_danger_p"
 		"updatedname"		"ze_surf_danger_p"
 		"search"		"危险滑翔"
-		"RestrictedTimes"	"00:00-12:00;20:00-23:59"
 	}
 	"ze_thousand_steps_p"
 	{
@@ -373,7 +372,6 @@
 		"filename"		"ze_surf_vortex_p"
 		"updatedname"		"ze_surf_vortex_p"
 		"search"		"漩涡滑翔"
-		"RestrictedTimes"	"00:00-12:00;20:00-23:59"
 	}
 	"ze_surf_saltfish_cs2"
 	{
@@ -382,7 +380,6 @@
 		"filename"		"ze_surf_saltfish"
 		"updatedname"		"ze_surf_saltfish_cs2"
 		"search"		"咸鱼滑翔"
-		"RestrictedTimes"	"00:00-12:00;20:00-23:59"
 	}
 	"ze_FFVII_Fako_Reactor"
 	{
@@ -409,7 +406,6 @@
 		"filename"		"ze_surf_sparks_cs2"
 		"updatedname"		"ze_surf_sparks"
 		"search"		"海上风情滑翔"
-		"RestrictedTimes"	"00:00-12:00;20:00-23:59"
 	}
 	"ze_Boatescape_Ultimate"
 	{
@@ -516,7 +512,7 @@
 	"ze_rush_a"
 	{
 		"workshop_id"		"3207572850"
-		"enabled"		"0"
+		"enabled"		"1"
 		"filename"		"ze_rush_a"
 	}
 	"ze_umbrellazombie_v1_p3_final"
@@ -698,7 +694,6 @@
 		"filename"		"ze_surf_gypt_p"
 		"updatedname"		"ze_surf_gypt_p"
 		"search"		"大金字塔滑翔"
-		"RestrictedTimes"	"00:00-12:00;20:00-23:59"
 	}
 	"ze_ALIEN_mountain_escape_p"
 	{
@@ -884,7 +879,6 @@
 		"filename"		"ze_surf_sahok"
 		"updatedname"		"ze_surf_sahok"
 		"search"		"密室滑翔"
-		"RestrictedTimes"	"00:00-12:00;20:00-23:59"
 	}
 	"ze_siberia_1990_p"
 	{
@@ -945,11 +939,10 @@
 	"ze_surf_shonyudo_v1_cs2"
 	{
 		"workshop_id"		"3248498691"
-		"enabled"		"0"
-		"filename"		"ze_surf_shonyudo_v1"
+		"enabled"		"1"
+		"filename"		"ze_surf_shonyudo_v1_cs2"
 		"updatedname"		"ze_surf_shonyudo_v1_cs2"
 		"search"		"山涧幽谷大滑翔v1;钟乳洞滑翔v1"
-		"RestrictedTimes"	"00:00-12:00;20:00-23:59"
 	}
 	"ze_Arcana_Heart"
 	{
@@ -1043,13 +1036,6 @@
 		"enabled"		"1"
 		"filename"		"ze_no_title_cs2_l"
 	}
-	"ze_r_w_b_ulti_cs2"
-	{
-		"workshop_id"		"3245045265"
-		"enabled"		"0"
-		"filename"		"ze_r_w_b_ulti_cs2"
-		"updatedname"		"ze_r_w_b_ulti_cs2"
-	}
 	"ze_ultra_ungent_a2_cs2"
 	{
 		"workshop_id"		"3111525416"
@@ -1088,8 +1074,8 @@
 	"ze_kage_cs2"
 	{
 		"workshop_id"		"3126748848"
-		"enabled"		"0"
-		"filename"		"ze_kage_cs2_a1"
+		"enabled"		"1"
+		"filename"		"ze_kage_cs2"
 		"updatedname"		"ze_kage_cs2"
 	}
 	"ze_diamond_cube_v1_cs2"
@@ -1172,7 +1158,6 @@
 		"filename"		"ze_surf_concrete"
 		"updatedname"		"ze_surf_concrete"
 		"search"		"带土滑翔"
-		"RestrictedTimes"	"00:00-12:00;20:00-23:59"
 	}
 	"ze_Aware"
 	{
@@ -1382,7 +1367,7 @@
 	"Ze_Re_SenS"
 	{
 		"workshop_id"		"3266223534"
-		"enabled"		"0"
+		"enabled"		"1"
 		"filename"		"ze_re_sens"
 		"updatedname"		"Ze_Re_SenS"
 	}
@@ -1393,7 +1378,6 @@
 		"filename"		"ze_surf_soft_cs2"
 		"updatedname"		"ze_surf_soft"
 		"search"		"电波滑翔"
-		"RestrictedTimes"	"00:00-12:00;20:00-23:59"
 	}
 	"ze_simple_teamplay_p"
 	{
@@ -1630,13 +1614,6 @@
 		"filename"		"ze_infiltration_final"
 		"updatedname"		"ze_infiltration_final_p"
 	}
-	"ze_starlight_revue_cs2"
-	{
-		"workshop_id"		"3285481137"
-		"enabled"		"0"
-		"filename"		"ze_starlight_revue_cs2"
-		"updatedname"		"ze_starlight_revue_cs2"
-	}
 	"ze_fond_dream"
 	{
 		"workshop_id"		"3285633504"
@@ -1715,7 +1692,6 @@
 		"filename"		"ze_surf_hp"
 		"updatedname"		"ze_surf_hp"
 		"search"		"卖血滑翔"
-		"RestrictedTimes"	"00:00-12:00;20:00-23:59"
 	}
 	"ze_undertale_sans_final"
 	{
@@ -1812,7 +1788,7 @@
 	"ze_eizures_b1_1"
 	{
 		"workshop_id"		"3102196028"
-		"enabled"		"0"
+		"enabled"		"1"
 		"filename"		"ze_eizures_b1_1"
 		"updatedname"		"ze_eizures_b1_1"
 	}
@@ -1853,26 +1829,12 @@
 		"filename"		"ze_industrial_dejavu"
 		"updatedname"		"ze_Industrial_Dejavu"
 	}
-	"ze_jurassic_life"
-	{
-		"workshop_id"		"3306638579"
-		"enabled"		"0"
-		"filename"		"ze_jurassic_life"
-		"updatedname"		"ze_jurassic_life"
-	}
 	"ze_tilex_ultimate_p"
 	{
 		"workshop_id"		"3304371486"
 		"enabled"		"1"
 		"filename"		"ze_tilex_ultimate_p"
 		"updatedname"		"ze_tilex_ultimate_p"
-	}
-	"ze_ffxiv_the_orbonne_monastery_demo"
-	{
-		"workshop_id"		"3302617978"
-		"enabled"		"0"
-		"filename"		"ze_ffxiv_the_orbonne_monastery"
-		"updatedname"		"ze_ffxiv_the_orbonne_monastery_demo"
 	}
 	"ze_sky_defend_v1"
 	{
@@ -1961,7 +1923,6 @@
 		"filename"		"ze_surf_sky_islands"
 		"updatedname"		"ze_surf_sky_islands"
 		"search"		"浮岛滑翔"
-		"RestrictedTimes"	"00:00-12:00;20:00-23:59"
 	}
 	"ze_honkai_impact_tqs"
 	{
@@ -1977,6 +1938,7 @@
 		"filename"		"ze_lotr_minas_tirith_p"
 		"updatedname"		"ze_LOTR_Minas_Tirith_p"
 		"search"		"米那斯;魔戒3"
+		"OnlyNominate"		"1"
 	}
 	"ze_flying_world"
 	{
@@ -2134,13 +2096,6 @@
 		"enabled"		"1"
 		"filename"		"ze_icecap_escape_p"
 		"updatedname"		"ze_icecap_escape_p"
-	}
-	"ze_sex_mod_hentai_beachescape_camper_p"
-	{
-		"workshop_id"		"3083690613"
-		"enabled"		"0"
-		"filename"		"ze_sex_mod_hentai_p"
-		"updatedname"		"ze_sex_mod_hentai_beachescape_camper_p"
 	}
 	"ze_terraced_escape"
 	{
@@ -2708,9 +2663,12 @@
 	"ze_lotr_minas_tirith_recompile"
 	{
 		"workshop_id"		"3353505696"
-		"enabled"		"0"
+		"enabled"		"1"
 		"filename"		"ze_lotr_minas_tirith"
-		"updatedname"		"ze_lotr_minas_tirith_recompile"
+		"updatedname"		"ze_lotr_minas_tirith"
+		"search"		"米那斯;魔戒3"
+		"OnlyNominate"		"1"
+		"RestrictedTimes"	"00:00-23:59"
 	}
 	"ze_chicago_bean_gassy_fart_life"
 	{
@@ -2769,7 +2727,6 @@
 		"filename"		"ze_surf_happy"
 		"updatedname"		"ze_surf_happy"
 		"search"		"快乐滑翔"
-		"RestrictedTimes"	"00:00-12:00;20:00-23:59"
 	}
 	"ze_apprehended"
 	{
@@ -2977,7 +2934,6 @@
 		"enabled"		"1"
 		"filename"		"ze_surf_auv"
 		"updatedname"		"ze_surf_auv"
-		"RestrictedTimes"	"00:00-12:00;20:00-23:59"
 	}
 	"ze_alien_shooter"
 	{
@@ -3136,12 +3092,5 @@
 		"filename"		"zm_gorodok_cs2_v1"
 		"updatedname"		"zm_gorodok"
 		"RestrictedTimes"	"18:00-23:00"
-	}
-	"ze_rabanastre_royal"
-	{
-		"workshop_id"		"3425595150"
-		"enabled"		"0"
-		"filename"		"ze_rabanastre_royal"
-		"updatedname"		"ze_rabanastre_royal"
 	}
 }
