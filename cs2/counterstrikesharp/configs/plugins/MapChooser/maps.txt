@@ -3520,4 +3520,31 @@
 		"updatedname"		"ze_rabanastre_royal"
 		"OnlyNominate"		"1"
 	}
+	"zm_challenge_zm"
+	{
+		"workshop_id"		"3316874500"
+		"enabled"		"1"
+		"filename"		"zm_challenge_zm"
+		"updatedname"		"zm_challenge_zm"
+		"RestrictedTimes"	"18:00-23:00"
+		"OnlyNominate"		"1"
+	}
+	"zm_mediumzm"
+	{
+		"workshop_id"		"3283778158"
+		"enabled"		"1"
+		"filename"		"zm_mediumzm"
+		"updatedname"		"zm_mediumzm"
+		"RestrictedTimes"	"18:00-23:00"
+		"OnlyNominate"		"1"
+	}
+	"zm_hardzm"
+	{
+		"workshop_id"		"3273722705"
+		"enabled"		"1"
+		"filename"		"zm_hardzm"
+		"updatedname"		"zm_hardzm"
+		"RestrictedTimes"	"18:00-23:00"
+		"OnlyNominate"		"1"
+	}
 }
