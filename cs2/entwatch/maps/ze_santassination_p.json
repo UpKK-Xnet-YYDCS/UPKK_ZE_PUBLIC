@@ -186,5 +186,31 @@
         "CoolDown": 0
       }
     ]
+  },
+  {
+    "Name": "ZM 屎疗/右键自爆",
+    "ShortName": "ZM 屎疗/右键自爆",
+    "Color": "{default}",
+    "HammerID": 50000,
+    "GlowColor": [0,255,0,1],
+    "BlockPickup": false,
+    "AllowTransfer": false,
+    "ForceDrop": false,
+    "Chat": true,
+    "Hud": true,
+    "TriggerID": 50015,
+    "UsePriority": true,
+    "AbilityList": [
+      {
+        "Name": "zheal_button",
+        "ButtonID": 50008,
+        "ButtonClass": "func_button",
+        "Filter": "zheal:1",
+        "Chat_Uses": true,
+        "Mode": 2,
+        "MaxUses": 0,
+        "CoolDown": 60
+      }
+    ]
   }
 ]

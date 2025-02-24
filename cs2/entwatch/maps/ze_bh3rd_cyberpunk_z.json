@@ -1,0 +1,80 @@
+[
+  {
+    "Name": "德尔塔",
+    "ShortName": "德尔塔",
+    "Color": "{default}",
+    "HammerID": 6298,
+    "GlowColor": [0,255,0,1],
+    "BlockPickup": false,
+    "AllowTransfer": true,
+    "ForceDrop": true,
+    "Chat": true,
+    "Hud": true,
+    "TriggerID": 0,
+    "UsePriority": true,
+    "AbilityList": [
+      {
+        "Name": "Delta_Button",
+        "ButtonID": 6299,
+        "ButtonClass": "func_button",
+        "Filter": "$Player_Delta",
+        "Chat_Uses": true,
+        "Mode": 2,
+        "MaxUses": 0,
+        "CoolDown": 62
+      }
+    ]
+  },
+  {
+    "Name": "八重樱",
+    "ShortName": "八重樱",
+    "Color": "{default}",
+    "HammerID": 6322,
+    "GlowColor": [0,255,0,1],
+    "BlockPickup": false,
+    "AllowTransfer": true,
+    "ForceDrop": true,
+    "Chat": true,
+    "Hud": true,
+    "TriggerID": 0,
+    "UsePriority": true,
+    "AbilityList": [
+      {
+        "Name": "Sakura_Button",
+        "ButtonID": 6323,
+        "ButtonClass": "func_button",
+        "Filter": "$Player_Sakura",
+        "Chat_Uses": true,
+        "Mode": 2,
+        "MaxUses": 0,
+        "CoolDown": 92
+      }
+    ]
+  },
+  {
+    "Name": "丽塔",
+    "ShortName": "丽塔",
+    "Color": "{default}",
+    "HammerID": 6354,
+    "GlowColor": [0,255,0,1],
+    "BlockPickup": false,
+    "AllowTransfer": true,
+    "ForceDrop": true,
+    "Chat": true,
+    "Hud": true,
+    "TriggerID": 0,
+    "UsePriority": true,
+    "AbilityList": [
+      {
+        "Name": "Rita_Button",
+        "ButtonID": 6355,
+        "ButtonClass": "func_button",
+        "Filter": "$Player_Rita",
+        "Chat_Uses": true,
+        "Mode": 2,
+        "MaxUses": 0,
+        "CoolDown": 92
+      }
+    ]
+  }
+]

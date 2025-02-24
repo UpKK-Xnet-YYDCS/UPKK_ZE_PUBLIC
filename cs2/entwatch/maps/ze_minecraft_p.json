@@ -70,7 +70,7 @@
         "ButtonID": 148,
         "ButtonClass": "func_physbox",
         "Filter": "bow:1",
-        "Chat_Uses": true,
+        "Chat_Uses": false,
         "Mode": 1,
         "MaxUses": 0,
         "CoolDown": 0

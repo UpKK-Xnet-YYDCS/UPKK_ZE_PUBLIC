@@ -1,0 +1,106 @@
+[
+  {
+    "Name": "奶",
+    "ShortName": "奶",
+    "Color": "{default}",
+    "HammerID": 23084,
+    "GlowColor": [0,255,0,1],
+    "BlockPickup": false,
+    "AllowTransfer": true,
+    "ForceDrop": true,
+    "Chat": true,
+    "Hud": true,
+    "TriggerID": 0,
+    "UsePriority": true,
+    "AbilityList": [
+      {
+        "Name": "Gun_Heal_Btn",
+        "ButtonID": 23085,
+        "ButtonClass": "func_button",
+        "Filter": "canver:1",
+        "Chat_Uses": true,
+        "Mode": 2,
+        "MaxUses": 0,
+        "CoolDown": 50
+      }
+    ]
+  },
+  {
+    "Name": "蜘蛛网",
+    "ShortName": "蜘蛛网",
+    "Color": "{default}",
+    "HammerID": 23097,
+    "GlowColor": [0,255,0,1],
+    "BlockPickup": false,
+    "AllowTransfer": true,
+    "ForceDrop": true,
+    "Chat": true,
+    "Hud": true,
+    "TriggerID": 0,
+    "UsePriority": true,
+    "AbilityList": [
+      {
+        "Name": "Gun_Spider_Btn",
+        "ButtonID": 23100,
+        "ButtonClass": "func_button",
+        "Filter": "spider:1",
+        "Chat_Uses": true,
+        "Mode": 2,
+        "MaxUses": 0,
+        "CoolDown": 60
+      }
+    ]
+  },
+  {
+    "Name": "火",
+    "ShortName": "火",
+    "Color": "{default}",
+    "HammerID": 23106,
+    "GlowColor": [0,255,0,1],
+    "BlockPickup": false,
+    "AllowTransfer": true,
+    "ForceDrop": true,
+    "Chat": true,
+    "Hud": true,
+    "TriggerID": 0,
+    "UsePriority": true,
+    "AbilityList": [
+      {
+        "Name": "Gun_Fire_Btn",
+        "ButtonID": 23109,
+        "ButtonClass": "func_button",
+        "Filter": "ates:1",
+        "Chat_Uses": true,
+        "Mode": 2,
+        "MaxUses": 0,
+        "CoolDown": 60
+      }
+    ]
+  },
+  {
+    "Name": "墙",
+    "ShortName": "墙",
+    "Color": "{default}",
+    "HammerID": 23123,
+    "GlowColor": [0,255,0,1],
+    "BlockPickup": false,
+    "AllowTransfer": true,
+    "ForceDrop": true,
+    "Chat": true,
+    "Hud": true,
+    "TriggerID": 0,
+    "UsePriority": true,
+    "AbilityList": [
+      {
+        "Name": "Gun_Wall_Btn",
+        "ButtonID": 23125,
+        "ButtonClass": "func_button",
+        "Filter": "wall:1",
+        "Chat_Uses": true,
+        "Mode": 2,
+        "MaxUses": 0,
+        "CoolDown": 80
+      }
+    ]
+  }
+]
