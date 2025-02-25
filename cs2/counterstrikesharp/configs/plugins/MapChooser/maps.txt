@@ -3209,16 +3209,6 @@
 		"updatedname"		"ze_Tyranny2"
 		"OnlyNominate"		"1"
 	}
-	"ze_lotr_minas_tirith_recompile"
-	{
-		"workshop_id"		"3353505696"
-		"enabled"		"1"
-		"filename"		"ze_lotr_minas_tirith"
-		"updatedname"		"ze_lotr_minas_tirith"
-		"search"		"米那斯;魔戒3"
-		"OnlyNominate"		"1"
-		"RestrictedTimes"	"00:00-23:59"
-	}
 	"ze_chicago_bean_gassy_fart_life"
 	{
 		"workshop_id"		"3336887881"
@@ -3711,5 +3701,12 @@
 		"enabled"		"1"
 		"filename"		"ze_blood_castle"
 		"updatedname"		"ze_blood_castle"
+	}
+	"ze_firstone_x"
+	{
+		"workshop_id"		"3425744076"
+		"enabled"		"1"
+		"filename"		"ze_firstone_x"
+		"updatedname"		"ze_firstone_x"
 	}
 }

@@ -1,0 +1,394 @@
+[
+  {
+    "Name": "露世",
+    "ShortName": "露世",
+    "Color": "{default}",
+    "HammerID": 5054,
+    "GlowColor": [0,255,0,1],
+    "BlockPickup": false,
+    "AllowTransfer": false,
+    "ForceDrop": false,
+    "Chat": false,
+    "Hud": true,
+    "TriggerID": 6275,
+    "UsePriority": true,
+    "AbilityList": [
+      {
+        "Name": "roze_hitbox",
+        "ButtonID": 5065,
+        "ButtonClass": "func_physbox",
+        "Filter": "roze_user",
+        "Chat_Uses": false,
+        "Mode": 0,
+        "MaxUses": 0,
+        "CoolDown": 0,
+        "Ignore": true
+      },
+      {
+        "Name": "roze_topbutton",
+        "ButtonID": 5072,
+        "ButtonClass": "func_button",
+        "Filter": "roze_user",
+        "Chat_Uses": false,
+        "Mode": 1,
+        "MaxUses": 0,
+        "CoolDown": 0,
+        "Ignore": true
+      }
+    ]
+  },
+  {
+    "Name": "ZM 奶",
+    "ShortName": "ZM 奶",
+    "Color": "{default}",
+    "HammerID": 5513,
+    "GlowColor": [0,255,0,1],
+    "BlockPickup": false,
+    "AllowTransfer": false,
+    "ForceDrop": false,
+    "Chat": true,
+    "Hud": true,
+    "TriggerID": 5507,
+    "UsePriority": true,
+    "AbilityList": [
+      {
+        "Name": "zm_health_but",
+        "ButtonID": 5509,
+        "ButtonClass": "func_button",
+        "Filter": "zmheal_user",
+        "Chat_Uses": true,
+        "Mode": 2,
+        "MaxUses": 0,
+        "CoolDown": 60
+      },
+      {
+        "Name": "zm_health_but",
+        "ButtonID": 5514,
+        "ButtonClass": "func_button",
+        "Filter": "zmheal_user",
+        "Chat_Uses": true,
+        "Mode": 2,
+        "MaxUses": 0,
+        "CoolDown": 60
+      }
+    ]
+  },
+  {
+    "Name": "ZM 黑洞",
+    "ShortName": "ZM 黑洞",
+    "Color": "{default}",
+    "HammerID": 5541,
+    "GlowColor": [0,255,0,1],
+    "BlockPickup": false,
+    "AllowTransfer": false,
+    "ForceDrop": false,
+    "Chat": true,
+    "Hud": true,
+    "TriggerID": 5542,
+    "UsePriority": true,
+    "AbilityList": [
+      {
+        "Name": "zmblack_but",
+        "ButtonID": 5544,
+        "ButtonClass": "func_button",
+        "Filter": "zmblack_user",
+        "Chat_Uses": true,
+        "Mode": 2,
+        "MaxUses": 0,
+        "CoolDown": 60
+      },
+      {
+        "Name": "zmblack_topbut",
+        "ButtonID": 5546,
+        "ButtonClass": "func_button",
+        "Filter": "zmblack_user",
+        "Chat_Uses": true,
+        "Mode": 2,
+        "MaxUses": 0,
+        "CoolDown": 60
+      }
+    ]
+  },
+  {
+    "Name": "ZM 护盾",
+    "ShortName": "ZM 护盾",
+    "Color": "{default}",
+    "HammerID": 5562,
+    "GlowColor": [0,255,0,1],
+    "BlockPickup": false,
+    "AllowTransfer": false,
+    "ForceDrop": false,
+    "Chat": true,
+    "Hud": true,
+    "TriggerID": 5565,
+    "UsePriority": true,
+    "AbilityList": [
+      {
+        "Name": "zmshield_but",
+        "ButtonID": 5563,
+        "ButtonClass": "func_button",
+        "Filter": "zmshield_user",
+        "Chat_Uses": true,
+        "Mode": 2,
+        "MaxUses": 0,
+        "CoolDown": 60
+      },
+      {
+        "Name": "zmshield_topbut",
+        "ButtonID": 5570,
+        "ButtonClass": "func_button",
+        "Filter": "zmshield_user",
+        "Chat_Uses": true,
+        "Mode": 2,
+        "MaxUses": 0,
+        "CoolDown": 60
+      }
+    ]
+  },
+  {
+    "Name": "土",
+    "ShortName": "土",
+    "Color": "{default}",
+    "HammerID": 5743,
+    "GlowColor": [0,255,0,1],
+    "BlockPickup": false,
+    "AllowTransfer": true,
+    "ForceDrop": true,
+    "Chat": true,
+    "Hud": true,
+    "TriggerID": 0,
+    "UsePriority": true,
+    "AbilityList": [
+      {
+        "Name": "earth_button",
+        "ButtonID": 5748,
+        "ButtonClass": "func_button",
+        "Filter": "earth_user",
+        "Chat_Uses": true,
+        "Mode": 2,
+        "MaxUses": 0,
+        "CoolDown": 70
+      }
+    ]
+  },
+  {
+    "Name": "黑洞",
+    "ShortName": "黑洞",
+    "Color": "{default}",
+    "HammerID": 5757,
+    "GlowColor": [0,255,0,1],
+    "BlockPickup": false,
+    "AllowTransfer": true,
+    "ForceDrop": true,
+    "Chat": true,
+    "Hud": true,
+    "TriggerID": 0,
+    "UsePriority": true,
+    "AbilityList": [
+      {
+        "Name": "black_button",
+        "ButtonID": 5751,
+        "ButtonClass": "func_button",
+        "Filter": "black_user",
+        "Chat_Uses": true,
+        "Mode": 2,
+        "MaxUses": 0,
+        "CoolDown": 70
+      }
+    ]
+  },
+  {
+    "Name": "风",
+    "ShortName": "风",
+    "Color": "{default}",
+    "HammerID": 5783,
+    "GlowColor": [0,255,0,1],
+    "BlockPickup": false,
+    "AllowTransfer": true,
+    "ForceDrop": true,
+    "Chat": true,
+    "Hud": true,
+    "TriggerID": 0,
+    "UsePriority": true,
+    "AbilityList": [
+      {
+        "Name": "wind_button",
+        "ButtonID": 5786,
+        "ButtonClass": "func_button",
+        "Filter": "wind_user",
+        "Chat_Uses": true,
+        "Mode": 2,
+        "MaxUses": 0,
+        "CoolDown": 70
+      }
+    ]
+  },
+  {
+    "Name": "水",
+    "ShortName": "水",
+    "Color": "{default}",
+    "HammerID": 5796,
+    "GlowColor": [0,255,0,1],
+    "BlockPickup": false,
+    "AllowTransfer": true,
+    "ForceDrop": true,
+    "Chat": true,
+    "Hud": true,
+    "TriggerID": 0,
+    "UsePriority": true,
+    "AbilityList": [
+      {
+        "Name": "water_button",
+        "ButtonID": 5797,
+        "ButtonClass": "func_button",
+        "Filter": "water_user",
+        "Chat_Uses": true,
+        "Mode": 2,
+        "MaxUses": 0,
+        "CoolDown": 70
+      }
+    ]
+  },
+  {
+    "Name": "火",
+    "ShortName": "火",
+    "Color": "{default}",
+    "HammerID": 5815,
+    "GlowColor": [0,255,0,1],
+    "BlockPickup": false,
+    "AllowTransfer": true,
+    "ForceDrop": true,
+    "Chat": true,
+    "Hud": true,
+    "TriggerID": 0,
+    "UsePriority": true,
+    "AbilityList": [
+      {
+        "Name": "fire_button",
+        "ButtonID": 5816,
+        "ButtonClass": "func_button",
+        "Filter": "fire_user",
+        "Chat_Uses": true,
+        "Mode": 2,
+        "MaxUses": 0,
+        "CoolDown": 70
+      }
+    ]
+  },
+  {
+    "Name": "奶",
+    "ShortName": "奶",
+    "Color": "{default}",
+    "HammerID": 5831,
+    "GlowColor": [0,255,0,1],
+    "BlockPickup": false,
+    "AllowTransfer": true,
+    "ForceDrop": true,
+    "Chat": true,
+    "Hud": true,
+    "TriggerID": 0,
+    "UsePriority": true,
+    "AbilityList": [
+      {
+        "Name": "heal_button",
+        "ButtonID": 5833,
+        "ButtonClass": "func_button",
+        "Filter": "heal_user",
+        "Chat_Uses": true,
+        "Mode": 2,
+        "MaxUses": 0,
+        "CoolDown": 60
+      }
+    ]
+  },
+  {
+    "Name": "零衣",
+    "ShortName": "零衣",
+    "Color": "{default}",
+    "HammerID": 5936,
+    "GlowColor": [0,255,0,1],
+    "BlockPickup": false,
+    "AllowTransfer": false,
+    "ForceDrop": false,
+    "Chat": true,
+    "Hud": true,
+    "TriggerID": 5950,
+    "UsePriority": true,
+    "AbilityList": [
+      {
+        "Name": "01_topbut",
+        "ButtonID": 6171,
+        "ButtonClass": "func_button",
+        "Filter": "01_user",
+        "Chat_Uses": true,
+        "Mode": 2,
+        "MaxUses": 0,
+        "CoolDown": 70
+      },
+      {
+        "Name": "01_button",
+        "ButtonID": 6173,
+        "ButtonClass": "func_button",
+        "Filter": "01_user",
+        "Chat_Uses": true,
+        "Mode": 2,
+        "MaxUses": 0,
+        "CoolDown": 70
+      }
+    ]
+  },
+  {
+    "Name": "白骑高达",
+    "ShortName": "白骑高达",
+    "Color": "{default}",
+    "HammerID": 5277,
+    "GlowColor": [0,255,0,1],
+    "BlockPickup": false,
+    "AllowTransfer": false,
+    "ForceDrop": false,
+    "Chat": false,
+    "Hud": true,
+    "TriggerID": 5275,
+    "UsePriority": true,
+    "AbilityList": [
+      {
+        "Name": "wk_hitbox",
+        "ButtonID": 5279,
+        "ButtonClass": "func_physbox",
+        "Filter": "",
+        "Chat_Uses": false,
+        "Mode": 0,
+        "MaxUses": 0,
+        "CoolDown": 0,
+        "Ignore": true
+      }
+    ]
+  },
+  {
+    "Name": "艾蕾",
+    "ShortName": "艾蕾",
+    "Color": "{default}",
+    "HammerID": 6320,
+    "GlowColor": [0,255,0,1],
+    "BlockPickup": false,
+    "AllowTransfer": false,
+    "ForceDrop": false,
+    "Chat": true,
+    "Hud": true,
+    "TriggerID": 6324,
+    "UsePriority": true,
+    "AbilityList": [
+      {
+        "Name": "alei_hitbox",
+        "ButtonID": 6318,
+        "ButtonClass": "func_physbox",
+        "Filter": "",
+        "Chat_Uses": false,
+        "Mode": 0,
+        "MaxUses": 0,
+        "CoolDown": 0,
+        "Ignore": true
+      }
+    ]
+  }
+]
