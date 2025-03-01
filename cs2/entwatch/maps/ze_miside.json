@@ -131,8 +131,8 @@
     ]
   },
   {
-    "Name": "射线枪",
-    "ShortName": "射线枪",
+    "Name": "激光枪",
+    "ShortName": "激光枪",
     "Color": "{default}",
     "HammerID": 3497,
     "GlowColor": [0,255,0,1],
@@ -158,7 +158,7 @@
         "MathID": 3514,
         "MathNameFix": false,
         "MathFindSpawned": false,
-        "MathDontShowMax": true
+        "MathDontShowMax": false
       }
     ]
   },
