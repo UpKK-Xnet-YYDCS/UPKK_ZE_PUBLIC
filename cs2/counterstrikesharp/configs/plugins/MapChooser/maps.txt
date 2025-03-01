@@ -3709,13 +3709,6 @@
 		"filename"		"ze_skyline"
 		"updatedname"		"ze_skyline"
 	}
-	"ze_blood_castle"
-	{
-		"workshop_id"		"3429597811"
-		"enabled"		"1"
-		"filename"		"ze_blood_castle"
-		"updatedname"		"ze_blood_castle"
-	}
 	"ze_firstone_x"
 	{
 		"workshop_id"		"3425744076"
@@ -3737,6 +3730,21 @@
 		"enabled"		"1"
 		"filename"		"ze_miside"
 		"updatedname"		"ze_miside"
+		"OnlyNominate"		"1"
+	}
+	"ze_blood_castle_z"
+	{
+		"workshop_id"		"3434987752"
+		"enabled"		"1"
+		"filename"		"ze_blood_castle_z"
+		"updatedname"		"ze_blood_castle_z"
+	}
+	"ze_neochrome"
+	{
+		"workshop_id"		"3433035996"
+		"enabled"		"1"
+		"filename"		"ze_neochrome"
+		"updatedname"		"ze_neochrome"
 		"OnlyNominate"		"1"
 	}
 }
