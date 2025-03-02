@@ -1,0 +1,248 @@
+[
+  {
+    "Name": "地雷",
+    "ShortName": "地雷",
+    "Color": "{default}",
+    "HammerID": 3810,
+    "GlowColor": [0,255,0,1],
+    "BlockPickup": false,
+    "AllowTransfer": true,
+    "ForceDrop": true,
+    "Chat": false,
+    "Hud": true,
+    "TriggerID": 0,
+    "UsePriority": true,
+    "AbilityList": [
+      {
+        "Name": "item_mine_button",
+        "ButtonID": 3836,
+        "ButtonClass": "func_button",
+        "Filter": "mine_holder:1",
+        "Chat_Uses": false,
+        "Mode": 7,
+        "MaxUses": 0,
+        "CoolDown": 0,
+        "Ignore": false,
+        "LockItem": false,
+        "MathID": 3841,
+        "MathNameFix": false,
+        "MathFindSpawned": true,
+        "MathDontShowMax": true
+      }
+    ]
+  },
+  {
+    "Name": "喷火器",
+    "ShortName": "喷火器",
+    "Color": "{default}",
+    "HammerID": 3871,
+    "GlowColor": [0,255,0,1],
+    "BlockPickup": false,
+    "AllowTransfer": true,
+    "ForceDrop": true,
+    "Chat": false,
+    "Hud": true,
+    "TriggerID": 0,
+    "UsePriority": false,
+    "AbilityList": [
+      {
+        "Name": "item_flamethrower_button",
+        "ButtonID": 3872,
+        "ButtonClass": "func_button",
+        "Filter": "flamethrower_holder_name",
+        "Chat_Uses": false,
+        "Mode": 7,
+        "MaxUses": 0,
+        "CoolDown": 0,
+        "Ignore": false,
+        "LockItem": false,
+        "MathID": 3878,
+        "MathNameFix": false,
+        "MathFindSpawned": true,
+        "MathDontShowMax": true
+      }
+    ]
+  },
+  {
+    "Name": "爆炸桶",
+    "ShortName": "爆炸桶",
+    "Color": "{default}",
+    "HammerID": 3898,
+    "GlowColor": [0,255,0,1],
+    "BlockPickup": false,
+    "AllowTransfer": true,
+    "ForceDrop": true,
+    "Chat": true,
+    "Hud": true,
+    "TriggerID": 0,
+    "UsePriority": true,
+    "AbilityList": [
+      {
+        "Name": "item_exploding_barrel_button",
+        "ButtonID": 3905,
+        "ButtonClass": "func_button",
+        "Filter": "exploding_barrel_holder:1",
+        "Chat_Uses": true,
+        "Mode": 4,
+        "MaxUses": 2,
+        "CoolDown": 25
+      }
+    ]
+  },
+  {
+    "Name": "弹药",
+    "ShortName": "弹药",
+    "Color": "{default}",
+    "HammerID": 3935,
+    "GlowColor": [0,255,0,1],
+    "BlockPickup": false,
+    "AllowTransfer": true,
+    "ForceDrop": true,
+    "Chat": true,
+    "Hud": true,
+    "TriggerID": 0,
+    "UsePriority": true,
+    "AbilityList": [
+      {
+        "Name": "item_ammo_button",
+        "ButtonID": 3959,
+        "ButtonClass": "func_button",
+        "Filter": "ammo_holder:1",
+        "Chat_Uses": true,
+        "Mode": 2,
+        "MaxUses": 0,
+        "CoolDown": 50
+      }
+    ]
+  },
+  {
+    "Name": "路障",
+    "ShortName": "路障",
+    "Color": "{default}",
+    "HammerID": 4348,
+    "GlowColor": [0,255,0,1],
+    "BlockPickup": false,
+    "AllowTransfer": true,
+    "ForceDrop": true,
+    "Chat": true,
+    "Hud": true,
+    "TriggerID": 0,
+    "UsePriority": true,
+    "AbilityList": [
+      {
+        "Name": "item_barricade_button",
+        "ButtonID": 4344,
+        "ButtonClass": "func_button",
+        "Filter": "barricade_holder:1",
+        "Chat_Uses": true,
+        "Mode": 4,
+        "MaxUses": 4,
+        "CoolDown": 3
+      }
+    ]
+  },
+  {
+    "Name": "传送垫",
+    "ShortName": "传送垫",
+    "Color": "{default}",
+    "HammerID": 4375,
+    "GlowColor": [0,255,0,1],
+    "BlockPickup": false,
+    "AllowTransfer": true,
+    "ForceDrop": true,
+    "Chat": true,
+    "Hud": true,
+    "TriggerID": 0,
+    "UsePriority": true,
+    "AbilityList": [
+      {
+        "Name": "item_teleportpad_button",
+        "ButtonID": 4376,
+        "ButtonClass": "func_button",
+        "Filter": "teleportpad_holder:1",
+        "Chat_Uses": true,
+        "Mode": 4,
+        "MaxUses": 5,
+        "CoolDown": 45
+      }
+    ]
+  },
+  {
+    "Name": "ZM 火箭筒",
+    "ShortName": "ZM 火箭筒",
+    "Color": "{default}",
+    "HammerID": 4393,
+    "GlowColor": [0,255,0,1],
+    "BlockPickup": false,
+    "AllowTransfer": false,
+    "ForceDrop": false,
+    "Chat": true,
+    "Hud": true,
+    "TriggerID": 4414,
+    "UsePriority": true,
+    "AbilityList": [
+      {
+        "Name": "item_zrocket_button",
+        "ButtonID": 4394,
+        "ButtonClass": "func_button",
+        "Filter": "zrocket_holder_name",
+        "Chat_Uses": true,
+        "Mode": 2,
+        "MaxUses": 0,
+        "CoolDown": 20
+      }
+    ]
+  },
+  {
+    "Name": "ZM 奶",
+    "ShortName": "ZM 奶",
+    "Color": "{default}",
+    "HammerID": 4448,
+    "GlowColor": [0,255,0,1],
+    "BlockPickup": false,
+    "AllowTransfer": false,
+    "ForceDrop": false,
+    "Chat": true,
+    "Hud": true,
+    "TriggerID": 4459,
+    "UsePriority": true,
+    "AbilityList": [
+      {
+        "Name": "item_zheal_button",
+        "ButtonID": 4458,
+        "ButtonClass": "func_button",
+        "Filter": "zheal_holder:1",
+        "Chat_Uses": true,
+        "Mode": 2,
+        "MaxUses": 0,
+        "CoolDown": 40
+      }
+    ]
+  },
+  {
+    "Name": "奶",
+    "ShortName": "奶",
+    "Color": "{default}",
+    "HammerID": 5215,
+    "GlowColor": [0,255,0,1],
+    "BlockPickup": false,
+    "AllowTransfer": true,
+    "ForceDrop": true,
+    "Chat": true,
+    "Hud": true,
+    "TriggerID": 0,
+    "UsePriority": true,
+    "AbilityList": [
+      {
+        "Name": "item_heal_button",
+        "ButtonID": 5216,
+        "ButtonClass": "func_button",
+        "Filter": "heal_holder:1",
+        "Chat_Uses": true,
+        "Mode": 2,
+        "MaxUses": 0,
+        "CoolDown": 60
+      }
+    ]
+  }
+]
