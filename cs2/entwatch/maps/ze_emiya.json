@@ -47,7 +47,7 @@
         "Chat_Uses": true,
         "Mode": 2,
         "MaxUses": 0,
-        "CoolDown": 80
+        "CoolDown": 55
       }
     ]
   },
@@ -177,7 +177,7 @@
         "Chat_Uses": true,
         "Mode": 2,
         "MaxUses": 0,
-        "CoolDown": 20
+        "CoolDown": 60
       }
     ]
   },
@@ -359,7 +359,7 @@
         "Chat_Uses": false,
         "Mode": 2,
         "MaxUses": 0,
-        "CoolDown": 3
+        "CoolDown": 5
       }
     ]
   },
@@ -411,7 +411,8 @@
         "Chat_Uses": false,
         "Mode": 2,
         "MaxUses": 0,
-        "CoolDown": 3
+        "CoolDown": 3,
+        "Ignore": true
       }
     ]
   },
