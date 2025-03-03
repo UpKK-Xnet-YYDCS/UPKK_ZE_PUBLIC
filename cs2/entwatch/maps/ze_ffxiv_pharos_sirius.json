@@ -11,7 +11,7 @@
     "Chat": true,
     "Hud": true,
     "TriggerID": 0,
-    "UsePriority": true,
+    "UsePriority": false,
     "AbilityList": [
       {
         "Name": "Item_Fire_BT",
@@ -37,7 +37,7 @@
     "Chat": true,
     "Hud": true,
     "TriggerID": 0,
-    "UsePriority": true,
+    "UsePriority": false,
     "AbilityList": [
       {
         "Name": "Item_Ice_BT",
@@ -63,7 +63,7 @@
     "Chat": true,
     "Hud": true,
     "TriggerID": 0,
-    "UsePriority": true,
+    "UsePriority": false,
     "AbilityList": [
       {
         "Name": "Item_Gravity_BT",
@@ -89,7 +89,7 @@
     "Chat": true,
     "Hud": true,
     "TriggerID": 0,
-    "UsePriority": true,
+    "UsePriority": false,
     "AbilityList": [
       {
         "Name": "Item_Heal_BT",
@@ -115,7 +115,7 @@
     "Chat": true,
     "Hud": true,
     "TriggerID": 0,
-    "UsePriority": true,
+    "UsePriority": false,
     "AbilityList": [
       {
         "Name": "Item_Lightning_BT",
@@ -141,7 +141,7 @@
     "Chat": true,
     "Hud": true,
     "TriggerID": 0,
-    "UsePriority": true,
+    "UsePriority": false,
     "AbilityList": [
       {
         "Name": "Magic_Silence_BT",
@@ -167,7 +167,7 @@
     "Chat": true,
     "Hud": true,
     "TriggerID": 0,
-    "UsePriority": true,
+    "UsePriority": false,
     "AbilityList": [
       {
         "Name": "Magic_Bridge_BT",
@@ -193,7 +193,7 @@
     "Chat": true,
     "Hud": true,
     "TriggerID": 0,
-    "UsePriority": true,
+    "UsePriority": false,
     "AbilityList": [
       {
         "Name": "Magic_Devour_BT",
@@ -219,7 +219,7 @@
     "Chat": true,
     "Hud": true,
     "TriggerID": 0,
-    "UsePriority": true,
+    "UsePriority": false,
     "AbilityList": [
       {
         "Name": "Magic_Teleport_BT",
