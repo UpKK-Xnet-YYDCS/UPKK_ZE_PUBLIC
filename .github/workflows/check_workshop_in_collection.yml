@@ -51,7 +51,7 @@ jobs:
             state: 'open',
             labels: 'bug',
           });
-          const existingIssue = issues.find(issue => issue.title.includes('[地图]合集中未找到 Workshop ID'));
+          const existingIssue = issues.find(issue => issue.title.includes('[地图] Steam合集中未找到 Workshop ID'));
           return { existingIssueNumber: existingIssue ? existingIssue.number : null };
 
     - name: Create or update issue
