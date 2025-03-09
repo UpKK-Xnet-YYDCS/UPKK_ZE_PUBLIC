@@ -343,7 +343,7 @@
         "DefIndex": 31,
         "Name": "Zeus x27",
         "WeaponName": "weapon_taser",
-        "Price": 200,
+        "Price": 1000,
         "Command": "zeus;taser",
         "Slot": "2",
         "Enable": true,
@@ -354,7 +354,7 @@
         "Name": "High Explosive Grenade",
         "WeaponName": "weapon_hegrenade",
         "Price": 3000,
-        "Command": "he",
+        "Command": "he;hegrenade",
         "Slot": "3",
         "Enable": true,
         "GunsMenu": false
@@ -364,7 +364,7 @@
         "Name": "Molotov",
         "WeaponName": "weapon_molotov",
         "Price": 5000,
-        "Command": "mov;fire;molotov",
+        "Command": "mol;fire;molotov",
         "Slot": "3",
         "Enable": true,
         "GunsMenu": false
@@ -374,7 +374,7 @@
         "Name": "Incendiary Grenade",
         "WeaponName": "weapon_incgrenade",
         "Price": 600,
-        "Command": "ig",
+        "Command": "inc;incgrenade",
         "Slot": "3",
         "Enable": false,
         "GunsMenu": false
@@ -384,7 +384,7 @@
         "Name": "Smoke Grenade",
         "WeaponName": "weapon_smokegrenade",
         "Price": 300,
-        "Command": "smoke",
+        "Command": "smoke;smokegrenade",
         "Slot": "3",
         "Enable": false,
         "GunsMenu": false
@@ -394,7 +394,7 @@
         "Name": "Flashbang",
         "WeaponName": "weapon_flashbang",
         "Price": 200,
-        "Command": "flash",
+        "Command": "flash;flashbang",
         "Slot": "3",
         "Enable": false,
         "GunsMenu": false
@@ -414,7 +414,7 @@
         "Name": "Health Shot",
         "WeaponName": "weapon_healthshot",
         "Price": 5000,
-        "Command": "health;xz",
+        "Command": "health;xz;healthshot",
         "Slot": "4",
         "Enable": true,
         "GunsMenu": false
