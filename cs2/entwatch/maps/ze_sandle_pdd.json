@@ -14,14 +14,14 @@
     "UsePriority": true,
     "AbilityList": [
       {
-        "Name": "",
-        "ButtonID": 0,
+        "Name": "ITEMX_hich_zmboost_button2",
+        "ButtonID": 53538,
         "ButtonClass": "func_button",
         "Filter": "",
         "Chat_Uses": true,
-        "Mode": 1,
+        "Mode": 2,
         "MaxUses": 0,
-        "CoolDown": 0
+        "CoolDown": 100
       }
     ]
   },
@@ -36,18 +36,18 @@
     "ForceDrop": false,
     "Chat": true,
     "Hud": true,
-    "TriggerID": 0,
+    "TriggerID": 53542,
     "UsePriority": true,
     "AbilityList": [
       {
-        "Name": "",
-        "ButtonID": 0,
+        "Name": "ITEMX_hich_zmboost_button3",
+        "ButtonID": 53546,
         "ButtonClass": "func_button",
         "Filter": "item_zm_jumper:1",
         "Chat_Uses": true,
-        "Mode": 1,
+        "Mode": 2,
         "MaxUses": 0,
-        "CoolDown": 0
+        "CoolDown": 25
       }
     ]
   },
@@ -62,12 +62,12 @@
     "ForceDrop": false,
     "Chat": true,
     "Hud": true,
-    "TriggerID": 0,
+    "TriggerID": 53550,
     "UsePriority": true,
     "AbilityList": [
       {
-        "Name": "",
-        "ButtonID": 0,
+        "Name": "ITEMX_hich_zmboost_button4",
+        "ButtonID": 53554,
         "ButtonClass": "func_button",
         "Filter": "item_zm_curse:1",
         "Chat_Uses": true,
@@ -88,18 +88,18 @@
     "ForceDrop": false,
     "Chat": true,
     "Hud": true,
-    "TriggerID": 0,
+    "TriggerID": 53639,
     "UsePriority": true,
     "AbilityList": [
       {
-        "Name": "",
-        "ButtonID": 0,
+        "Name": "ITEMX_hich_zmboost_button1",
+        "ButtonID": 53636,
         "ButtonClass": "func_button",
         "Filter": "item_zm_jihad:1",
         "Chat_Uses": true,
-        "Mode": 1,
+        "Mode": 2,
         "MaxUses": 0,
-        "CoolDown": 0
+        "CoolDown": 60
       }
     ]
   },
@@ -118,8 +118,8 @@
     "UsePriority": true,
     "AbilityList": [
       {
-        "Name": "",
-        "ButtonID": 0,
+        "Name": "ITEMX_ord_LargeItem_button",
+        "ButtonID": 53825,
         "ButtonClass": "func_button",
         "Filter": "item_bigdick:1",
         "Chat_Uses": true,
@@ -144,8 +144,8 @@
     "UsePriority": true,
     "AbilityList": [
       {
-        "Name": "",
-        "ButtonID": 0,
+        "Name": "ITEMX_ord_smallItem_button",
+        "ButtonID": 53834,
         "ButtonClass": "func_button",
         "Filter": "item_smalldick:1",
         "Chat_Uses": true,
@@ -170,8 +170,8 @@
     "UsePriority": true,
     "AbilityList": [
       {
-        "Name": "",
-        "ButtonID": 0,
+        "Name": "ITEMX_hich_heal_2_button",
+        "ButtonID": 53845,
         "ButtonClass": "func_button",
         "Filter": "item_heal1:1",
         "Chat_Uses": true,
@@ -196,8 +196,8 @@
     "UsePriority": true,
     "AbilityList": [
       {
-        "Name": "",
-        "ButtonID": 0,
+        "Name": "ITEMX_hich_heal_1_button",
+        "ButtonID": 53856,
         "ButtonClass": "func_button",
         "Filter": "item_heal2:1",
         "Chat_Uses": true,
@@ -222,8 +222,8 @@
     "UsePriority": true,
     "AbilityList": [
       {
-        "Name": "",
-        "ButtonID": 0,
+        "Name": "ITEMX_TurtleButtonPush",
+        "ButtonID": 53880,
         "ButtonClass": "func_button",
         "Filter": "item_push:1",
         "Chat_Uses": true,
@@ -248,14 +248,20 @@
     "UsePriority": true,
     "AbilityList": [
       {
-        "Name": "",
-        "ButtonID": 0,
+        "Name": "i_item_button_1",
+        "ButtonID": 53905,
         "ButtonClass": "func_button",
         "Filter": "item_gun:1",
         "Chat_Uses": false,
-        "Mode": 1,
+        "Mode": 7,
         "MaxUses": 0,
-        "CoolDown": 0
+        "CoolDown": 0,
+        "Ignore": false,
+        "LockItem": false,
+        "MathID": 58886,
+        "MathNameFix": true,
+        "MathFindSpawned": false,
+        "MathDontShowMax": true
       }
     ]
   },
@@ -270,12 +276,12 @@
     "ForceDrop": false,
     "Chat": true,
     "Hud": true,
-    "TriggerID": 0,
+    "TriggerID": 53932,
     "UsePriority": true,
     "AbilityList": [
       {
-        "Name": "",
-        "ButtonID": 0,
+        "Name": "ITEMX_hich_zmboost_button",
+        "ButtonID": 53929,
         "ButtonClass": "func_button",
         "Filter": "item_zm_boost:1",
         "Chat_Uses": true,
@@ -300,8 +306,8 @@
     "UsePriority": true,
     "AbilityList": [
       {
-        "Name": "",
-        "ButtonID": 0,
+        "Name": "ITEMX_qaz_item_btn2",
+        "ButtonID": 58428,
         "ButtonClass": "func_button",
         "Filter": "item_rwall:1",
         "Chat_Uses": true,
@@ -326,8 +332,8 @@
     "UsePriority": true,
     "AbilityList": [
       {
-        "Name": "",
-        "ButtonID": 0,
+        "Name": "ITEMX_qaz_item_btn3",
+        "ButtonID": 58430,
         "ButtonClass": "func_button",
         "Filter": "item_ywall:1",
         "Chat_Uses": true,
@@ -352,8 +358,8 @@
     "UsePriority": true,
     "AbilityList": [
       {
-        "Name": "",
-        "ButtonID": 0,
+        "Name": "ITEMX_qaz_item_btn1",
+        "ButtonID": 58422,
         "ButtonClass": "func_button",
         "Filter": "item_gwall:1",
         "Chat_Uses": true,
