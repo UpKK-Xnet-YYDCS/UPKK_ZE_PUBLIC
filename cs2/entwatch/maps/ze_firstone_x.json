@@ -30,10 +30,9 @@
         "ButtonClass": "func_button",
         "Filter": "roze_user",
         "Chat_Uses": false,
-        "Mode": 1,
+        "Mode": 2,
         "MaxUses": 0,
-        "CoolDown": 0,
-        "Ignore": true
+        "CoolDown": 90
       }
     ]
   },
@@ -381,6 +380,60 @@
       {
         "Name": "alei_hitbox",
         "ButtonID": 6318,
+        "ButtonClass": "func_physbox",
+        "Filter": "",
+        "Chat_Uses": false,
+        "Mode": 0,
+        "MaxUses": 0,
+        "CoolDown": 0,
+        "Ignore": true
+      }
+    ]
+  },
+  {
+    "Name": "蕾西亚",
+    "ShortName": "蕾西亚",
+    "Color": "{default}",
+    "HammerID": 6627,
+    "GlowColor": [0,255,0,1],
+    "BlockPickup": false,
+    "AllowTransfer": false,
+    "ForceDrop": false,
+    "Chat": false,
+    "Hud": true,
+    "TriggerID": 6631,
+    "UsePriority": true,
+    "AbilityList": [
+      {
+        "Name": "lxy_hitbox",
+        "ButtonID": 6625,
+        "ButtonClass": "func_physbox",
+        "Filter": "",
+        "Chat_Uses": false,
+        "Mode": 0,
+        "MaxUses": 0,
+        "CoolDown": 0,
+        "Ignore": true
+      }
+    ]
+  },
+  {
+    "Name": "ZM 暗黑高达",
+    "ShortName": "ZM 暗黑高达",
+    "Color": "{default}",
+    "HammerID": 6644,
+    "GlowColor": [0,255,0,1],
+    "BlockPickup": false,
+    "AllowTransfer": false,
+    "ForceDrop": false,
+    "Chat": false,
+    "Hud": true,
+    "TriggerID": 6648,
+    "UsePriority": true,
+    "AbilityList": [
+      {
+        "Name": "black_hitbox",
+        "ButtonID": 6642,
         "ButtonClass": "func_physbox",
         "Filter": "",
         "Chat_Uses": false,
