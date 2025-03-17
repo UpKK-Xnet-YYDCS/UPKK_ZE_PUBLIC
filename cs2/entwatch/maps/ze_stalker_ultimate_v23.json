@@ -1,210 +1,210 @@
 [
-        {
-          "Name": "治疗",
-          "ShortName": "治疗",
-          "Color": "{default}",
-          "HammerID": 4960,
-          "GlowColor": [0,255,0,1],
-          "BlockPickup": false,
-          "AllowTransfer": true,
-          "ForceDrop": true,
-          "Chat": true,
-          "Hud": true,
-          "TriggerID": 0,
-          "UsePriority": true,
-          "AbilityList": [
-            {
-              "Name": "urchen_activate",
-              "ButtonID": 4955,
-              "ButtonClass": "func_button",
-              "Filter": "urchen_owner",
-              "Chat_Uses": true,
-              "Mode": 2,
-              "MaxUses": 0,
-              "CoolDown": 65
-            }
-          ]
-        },
-        {
-          "Name": "减速",
-          "ShortName": "减速",
-          "Color": "{default}",
-          "HammerID": 4944,
-          "GlowColor": [0,255,0,1],
-          "BlockPickup": false,
-          "AllowTransfer": true,
-          "ForceDrop": true,
-          "Chat": true,
-          "Hud": true,
-          "TriggerID": 0,
-          "UsePriority": true,
-          "AbilityList": [
-            {
-              "Name": "nightstar_activate",
-              "ButtonID": 4945,
-              "ButtonClass": "func_button",
-              "Filter": "nightstar_owner",
-              "Chat_Uses": true,
-              "Mode": 2,
-              "MaxUses": 0,
-              "CoolDown": 55
-            }
-          ]
-        },
-        {
-          "Name": "狂风",
-          "ShortName": "狂风",
-          "Color": "{default}",
-          "HammerID": 2612,
-          "GlowColor": [0,255,0,1],
-          "BlockPickup": false,
-          "AllowTransfer": true,
-          "ForceDrop": true,
-          "Chat": true,
-          "Hud": true,
-          "TriggerID": 0,
-          "UsePriority": true,
-          "AbilityList": [
-            {
-              "Name": "meatchunk_activate2",
-              "ButtonID": 2601,
-              "ButtonClass": "func_button",
-              "Filter": "meatchunk2_owner",
-              "Chat_Uses": true,
-              "Mode": 2,
-              "MaxUses": 0,
-              "CoolDown": 55
-            }
-          ]
-        },
-        {
-          "Name": "火球",
-          "ShortName": "火球",
-          "Color": "{default}",
-          "HammerID": 2584,
-          "GlowColor": [0,255,0,1],
-          "BlockPickup": false,
-          "AllowTransfer": true,
-          "ForceDrop": true,
-          "Chat": true,
-          "Hud": true,
-          "TriggerID": 0,
-          "UsePriority": true,
-          "AbilityList": [
-            {
-              "Name": "fireball_activate",
-              "ButtonID": 2582,
-              "ButtonClass": "func_button",
-              "Filter": "fireball_owner",
-              "Chat_Uses": true,
-              "Mode": 5,
-              "MaxUses": 2,
-              "CoolDown": 55
-            }
-          ]
-        },
-        {
-          "Name": "诱引",
-          "ShortName": "诱引",
-          "Color": "{default}",
-          "HammerID": 2577,
-          "GlowColor": [0,255,0,1],
-          "BlockPickup": false,
-          "AllowTransfer": true,
-          "ForceDrop": true,
-          "Chat": true,
-          "Hud": true,
-          "TriggerID": 0,
-          "UsePriority": true,
-          "AbilityList": [
-            {
-              "Name": "meatchunk_activate",
-              "ButtonID": 2578,
-              "ButtonClass": "func_button",
-              "Filter": "meatchunk_owner",
-              "Chat_Uses": true,
-              "Mode": 2,
-              "MaxUses": 0,
-              "CoolDown": 55
-            }
-          ]
-        },
-        {
-          "Name": "电磁风暴",
-          "ShortName": "电磁风暴",
-          "Color": "{default}",
-          "HammerID": 4896,
-          "GlowColor": [0,255,0,1],
-          "BlockPickup": false,
-          "AllowTransfer": true,
-          "ForceDrop": true,
-          "Chat": true,
-          "Hud": true,
-          "TriggerID": 0,
-          "UsePriority": true,
-          "AbilityList": [
-            {
-              "Name": "flash_activate",
-              "ButtonID": 4899,
-              "ButtonClass": "func_button",
-              "Filter": "flash_owner",
-              "Chat_Uses": true,
-              "Mode": 2,
-              "MaxUses": 0,
-              "CoolDown": 55
-            }
-          ]
-        },
-        {
-          "Name": "机密文件",
-          "ShortName": "机密文件",
-          "Color": "{default}",
-          "HammerID": 3063,
-          "GlowColor": [0,255,0,1],
-          "BlockPickup": false,
-          "AllowTransfer": true,
-          "ForceDrop": true,
-          "Chat": true,
-          "Hud": true,
-          "TriggerID": 0,
-          "UsePriority": true,
-          "AbilityList": [
-            {
-              "Name": "",
-              "ButtonID": 0,
-              "ButtonClass": "",
-              "Filter": "documents_man",
-              "Chat_Uses": false,
-              "Mode": 0,
-              "MaxUses": 0,
-              "CoolDown": 0
-            }
-          ]
-        },
-        {
-          "Name": "[ZM]狗",
-          "ShortName": "[ZM]狗",
-          "Color": "{default}",
-          "HammerID": 1818,
-          "GlowColor": [0,255,0,1],
-          "BlockPickup": false,
-          "AllowTransfer": false,
-          "ForceDrop": false,
-          "Chat": true,
-          "Hud": true,
-          "TriggerID": 1819,
-          "UsePriority": true,
-          "AbilityList": [
-            {
-              "Name": "",
-              "ButtonID": 0,
-              "ButtonClass": "",
-              "Filter": "Player",
-              "Chat_Uses": false,
-              "Mode": 0,
-              "MaxUses": 0,
-              "CoolDown": 0
-            }
-          ]
-        }
+  {
+    "Name": "治疗",
+    "ShortName": "治疗",
+    "Color": "{default}",
+    "HammerID": 4960,
+    "GlowColor": [0,255,0,1],
+    "BlockPickup": false,
+    "AllowTransfer": true,
+    "ForceDrop": true,
+    "Chat": true,
+    "Hud": true,
+    "TriggerID": 0,
+    "UsePriority": true,
+    "AbilityList": [
+      {
+        "Name": "urchen_activate",
+        "ButtonID": 4955,
+        "ButtonClass": "func_button",
+        "Filter": "urchen_owner",
+        "Chat_Uses": true,
+        "Mode": 2,
+        "MaxUses": 0,
+        "CoolDown": 65
+      }
+    ]
+  },
+  {
+    "Name": "减速",
+    "ShortName": "减速",
+    "Color": "{default}",
+    "HammerID": 4944,
+    "GlowColor": [0,255,0,1],
+    "BlockPickup": false,
+    "AllowTransfer": true,
+    "ForceDrop": true,
+    "Chat": true,
+    "Hud": true,
+    "TriggerID": 0,
+    "UsePriority": true,
+    "AbilityList": [
+      {
+        "Name": "nightstar_activate",
+        "ButtonID": 4945,
+        "ButtonClass": "func_button",
+        "Filter": "nightstar_owner",
+        "Chat_Uses": true,
+        "Mode": 2,
+        "MaxUses": 0,
+        "CoolDown": 55
+      }
+    ]
+  },
+  {
+    "Name": "狂风",
+    "ShortName": "狂风",
+    "Color": "{default}",
+    "HammerID": 2612,
+    "GlowColor": [0,255,0,1],
+    "BlockPickup": false,
+    "AllowTransfer": true,
+    "ForceDrop": true,
+    "Chat": true,
+    "Hud": true,
+    "TriggerID": 0,
+    "UsePriority": true,
+    "AbilityList": [
+      {
+        "Name": "meatchunk_activate2",
+        "ButtonID": 2601,
+        "ButtonClass": "func_button",
+        "Filter": "meatchunk2_owner",
+        "Chat_Uses": true,
+        "Mode": 2,
+        "MaxUses": 0,
+        "CoolDown": 55
+      }
+    ]
+  },
+  {
+    "Name": "火球",
+    "ShortName": "火球",
+    "Color": "{default}",
+    "HammerID": 2584,
+    "GlowColor": [0,255,0,1],
+    "BlockPickup": false,
+    "AllowTransfer": true,
+    "ForceDrop": true,
+    "Chat": true,
+    "Hud": true,
+    "TriggerID": 0,
+    "UsePriority": true,
+    "AbilityList": [
+      {
+        "Name": "fireball_activate",
+        "ButtonID": 2582,
+        "ButtonClass": "func_button",
+        "Filter": "fireball_owner",
+        "Chat_Uses": true,
+        "Mode": 5,
+        "MaxUses": 2,
+        "CoolDown": 55
+      }
+    ]
+  },
+  {
+    "Name": "诱引",
+    "ShortName": "诱引",
+    "Color": "{default}",
+    "HammerID": 2577,
+    "GlowColor": [0,255,0,1],
+    "BlockPickup": false,
+    "AllowTransfer": true,
+    "ForceDrop": true,
+    "Chat": true,
+    "Hud": true,
+    "TriggerID": 0,
+    "UsePriority": true,
+    "AbilityList": [
+      {
+        "Name": "meatchunk_activate",
+        "ButtonID": 2578,
+        "ButtonClass": "func_button",
+        "Filter": "meatchunk_owner",
+        "Chat_Uses": true,
+        "Mode": 2,
+        "MaxUses": 0,
+        "CoolDown": 55
+      }
+    ]
+  },
+  {
+    "Name": "电磁风暴",
+    "ShortName": "电磁风暴",
+    "Color": "{default}",
+    "HammerID": 4896,
+    "GlowColor": [0,255,0,1],
+    "BlockPickup": false,
+    "AllowTransfer": true,
+    "ForceDrop": true,
+    "Chat": true,
+    "Hud": true,
+    "TriggerID": 0,
+    "UsePriority": true,
+    "AbilityList": [
+      {
+        "Name": "flash_activate",
+        "ButtonID": 4899,
+        "ButtonClass": "func_button",
+        "Filter": "flash_owner",
+        "Chat_Uses": true,
+        "Mode": 2,
+        "MaxUses": 0,
+        "CoolDown": 55
+      }
+    ]
+  },
+  {
+    "Name": "机密文件",
+    "ShortName": "机密文件",
+    "Color": "{default}",
+    "HammerID": 3063,
+    "GlowColor": [0,255,0,1],
+    "BlockPickup": false,
+    "AllowTransfer": true,
+    "ForceDrop": true,
+    "Chat": true,
+    "Hud": true,
+    "TriggerID": 0,
+    "UsePriority": true,
+    "AbilityList": [
+      {
+        "Name": "",
+        "ButtonID": 0,
+        "ButtonClass": "",
+        "Filter": "documents_man",
+        "Chat_Uses": false,
+        "Mode": 0,
+        "MaxUses": 0,
+        "CoolDown": 0
+      }
+    ]
+  },
+  {
+    "Name": "[ZM]狗",
+    "ShortName": "[ZM]狗",
+    "Color": "{default}",
+    "HammerID": 1818,
+    "GlowColor": [0,255,0,1],
+    "BlockPickup": false,
+    "AllowTransfer": false,
+    "ForceDrop": false,
+    "Chat": true,
+    "Hud": true,
+    "TriggerID": 1819,
+    "UsePriority": true,
+    "AbilityList": [
+      {
+        "Name": "",
+        "ButtonID": 0,
+        "ButtonClass": "",
+        "Filter": "Player",
+        "Chat_Uses": false,
+        "Mode": 0,
+        "MaxUses": 0,
+        "CoolDown": 0
+      }
+    ]
+  }
 ]
