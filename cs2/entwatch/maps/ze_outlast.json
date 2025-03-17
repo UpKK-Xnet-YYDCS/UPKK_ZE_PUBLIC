@@ -1,7 +1,7 @@
 [
   {
-    "Name": "Dick_deagle",
-    "ShortName": "Dick_deagle",
+    "Name": "迪克",
+    "ShortName": "迪克",
     "Color": "{default}",
     "HammerID": 3774,
     "GlowColor": [0,255,0,1],
@@ -14,20 +14,20 @@
     "UsePriority": true,
     "AbilityList": [
       {
-        "Name": "weapon_deagle",
-        "ButtonID": 0,
+        "Name": "Dick_button",
+        "ButtonID": 3776,
         "ButtonClass": "func_button",
-        "Filter": "",
+        "Filter": "f_Dick",
         "Chat_Uses": true,
-        "Mode": 1,
-        "MaxUses": 0,
+        "Mode": 3,
+        "MaxUses": 1,
         "CoolDown": 0
       }
     ]
   },
   {
-    "Name": "Bomb_deagle",
-    "ShortName": "Bomb_deagle",
+    "Name": "炸弹",
+    "ShortName": "炸弹",
     "Color": "{default}",
     "HammerID": 5197,
     "GlowColor": [0,255,0,1],
@@ -40,46 +40,46 @@
     "UsePriority": true,
     "AbilityList": [
       {
-        "Name": "weapon_deagle",
-        "ButtonID": 0,
+        "Name": "Bomb_take_button",
+        "ButtonID": 5195,
         "ButtonClass": "func_button",
-        "Filter": "",
+        "Filter": "f_bomba",
         "Chat_Uses": true,
-        "Mode": 1,
-        "MaxUses": 0,
+        "Mode": 3,
+        "MaxUses": 1,
         "CoolDown": 0
       }
     ]
   },
   {
-    "Name": "Fireball_knife",
-    "ShortName": "Fireball_knife",
+    "Name": "ZM 火球",
+    "ShortName": "ZM 火球",
     "Color": "{default}",
     "HammerID": 3819,
     "GlowColor": [0,255,0,1],
     "BlockPickup": false,
-    "AllowTransfer": true,
-    "ForceDrop": true,
+    "AllowTransfer": false,
+    "ForceDrop": false,
     "Chat": true,
     "Hud": true,
-    "TriggerID": 0,
+    "TriggerID": 3816,
     "UsePriority": true,
     "AbilityList": [
       {
-        "Name": "weapon_knife",
-        "ButtonID": 0,
+        "Name": "Fireball_button",
+        "ButtonID": 3821,
         "ButtonClass": "func_button",
-        "Filter": "",
+        "Filter": "player_Fireball",
         "Chat_Uses": true,
-        "Mode": 1,
+        "Mode": 2,
         "MaxUses": 0,
-        "CoolDown": 0
+        "CoolDown": 30
       }
     ]
   },
   {
-    "Name": "weapon_Handycum",
-    "ShortName": "weapon_Handycum",
+    "Name": "摄像机",
+    "ShortName": "摄像机",
     "Color": "{default}",
     "HammerID": 3859,
     "GlowColor": [0,255,0,1],
@@ -92,20 +92,20 @@
     "UsePriority": true,
     "AbilityList": [
       {
-        "Name": "weapon_deagle",
-        "ButtonID": 0,
+        "Name": "Handycum_button",
+        "ButtonID": 3860,
         "ButtonClass": "func_button",
-        "Filter": "",
+        "Filter": "f_Handycum_human",
         "Chat_Uses": true,
-        "Mode": 1,
+        "Mode": 2,
         "MaxUses": 0,
-        "CoolDown": 0
+        "CoolDown": 60
       }
     ]
   },
   {
-    "Name": "weapon_heal",
-    "ShortName": "weapon_heal",
+    "Name": "奶",
+    "ShortName": "奶",
     "Color": "{default}",
     "HammerID": 4420,
     "GlowColor": [0,255,0,1],
@@ -118,13 +118,13 @@
     "UsePriority": true,
     "AbilityList": [
       {
-        "Name": "weapon_deagle",
-        "ButtonID": 0,
+        "Name": "heal_button",
+        "ButtonID": 4425,
         "ButtonClass": "func_button",
-        "Filter": "",
+        "Filter": "f_heal_human",
         "Chat_Uses": true,
-        "Mode": 1,
-        "MaxUses": 0,
+        "Mode": 3,
+        "MaxUses": 1,
         "CoolDown": 0
       }
     ]
