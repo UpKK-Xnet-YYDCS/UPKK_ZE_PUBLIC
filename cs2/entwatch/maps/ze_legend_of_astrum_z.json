@@ -1,7 +1,7 @@
 [
   {
-    "Name": "yuuki_pist",
-    "ShortName": "yuuki_pist",
+    "Name": "佑树",
+    "ShortName": "佑树",
     "Color": "{default}",
     "HammerID": 6928,
     "GlowColor": [0,255,0,1],
@@ -14,20 +14,20 @@
     "UsePriority": true,
     "AbilityList": [
       {
-        "Name": "weapon_elite",
-        "ButtonID": 0,
+        "Name": "yuuki_button",
+        "ButtonID": 6933,
         "ButtonClass": "func_button",
-        "Filter": "",
+        "Filter": "$Player_yuuki",
         "Chat_Uses": true,
-        "Mode": 1,
+        "Mode": 2,
         "MaxUses": 0,
-        "CoolDown": 0
+        "CoolDown": 60
       }
     ]
   },
   {
-    "Name": "kyaru_pist",
-    "ShortName": "kyaru_pist",
+    "Name": "凯露",
+    "ShortName": "凯露",
     "Color": "{default}",
     "HammerID": 6955,
     "GlowColor": [0,255,0,1],
@@ -40,20 +40,20 @@
     "UsePriority": true,
     "AbilityList": [
       {
-        "Name": "weapon_elite",
-        "ButtonID": 0,
+        "Name": "kyaru_button",
+        "ButtonID": 6959,
         "ButtonClass": "func_button",
-        "Filter": "",
+        "Filter": "$Player_kyaru",
         "Chat_Uses": true,
-        "Mode": 1,
+        "Mode": 2,
         "MaxUses": 0,
-        "CoolDown": 0
+        "CoolDown": 30
       }
     ]
   },
   {
-    "Name": "pecorine_pist",
-    "ShortName": "pecorine_pist",
+    "Name": "佩可莉姆",
+    "ShortName": "佩可莉姆",
     "Color": "{default}",
     "HammerID": 6972,
     "GlowColor": [0,255,0,1],
@@ -66,20 +66,20 @@
     "UsePriority": true,
     "AbilityList": [
       {
-        "Name": "weapon_elite",
-        "ButtonID": 0,
+        "Name": "pecorine_button",
+        "ButtonID": 6973,
         "ButtonClass": "func_button",
-        "Filter": "",
+        "Filter": "$Player_pecorine",
         "Chat_Uses": true,
-        "Mode": 1,
+        "Mode": 2,
         "MaxUses": 0,
-        "CoolDown": 0
+        "CoolDown": 25
       }
     ]
   },
   {
-    "Name": "kokkoro_pist",
-    "ShortName": "kokkoro_pist",
+    "Name": "可可萝",
+    "ShortName": "可可萝",
     "Color": "{default}",
     "HammerID": 7005,
     "GlowColor": [0,255,0,1],
@@ -92,14 +92,14 @@
     "UsePriority": true,
     "AbilityList": [
       {
-        "Name": "weapon_elite",
-        "ButtonID": 0,
+        "Name": "kokkoro_button",
+        "ButtonID": 6998,
         "ButtonClass": "func_button",
-        "Filter": "",
+        "Filter": "$Player_kokkoro",
         "Chat_Uses": true,
-        "Mode": 1,
+        "Mode": 2,
         "MaxUses": 0,
-        "CoolDown": 0
+        "CoolDown": 30
       }
     ]
   }
