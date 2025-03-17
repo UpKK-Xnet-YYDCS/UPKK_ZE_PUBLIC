@@ -1,7 +1,7 @@
 [
   {
-    "Name": "louluo_01_knife",
-    "ShortName": "louluo_01_knife",
+    "Name": "ZM 喽啰",
+    "ShortName": "ZM 喽啰",
     "Color": "{default}",
     "HammerID": 19820,
     "GlowColor": [0,255,0,1],
@@ -10,24 +10,25 @@
     "ForceDrop": false,
     "Chat": true,
     "Hud": true,
-    "TriggerID": 0,
+    "TriggerID": 19818,
     "UsePriority": true,
     "AbilityList": [
       {
-        "Name": "weapon_knife",
-        "ButtonID": 0,
-        "ButtonClass": "func_button",
-        "Filter": "",
+        "Name": "louluo_01_phy",
+        "ButtonID": 19816,
+        "ButtonClass": "func_physbox",
+        "Filter": "louluo_01",
         "Chat_Uses": true,
         "Mode": 1,
         "MaxUses": 0,
-        "CoolDown": 0
+        "CoolDown": 0,
+        "Ignore": true
       }
     ]
   },
   {
-    "Name": "louluo_02_knife",
-    "ShortName": "louluo_02_knife",
+    "Name": "ZM 喽啰2",
+    "ShortName": "ZM 喽啰2",
     "Color": "{default}",
     "HammerID": 20095,
     "GlowColor": [0,255,0,1],
@@ -36,24 +37,25 @@
     "ForceDrop": false,
     "Chat": true,
     "Hud": true,
-    "TriggerID": 0,
+    "TriggerID": 20093,
     "UsePriority": true,
     "AbilityList": [
       {
-        "Name": "weapon_knife",
-        "ButtonID": 0,
-        "ButtonClass": "func_button",
-        "Filter": "",
+        "Name": "louluo_02_phy",
+        "ButtonID": 20089,
+        "ButtonClass": "func_physbox",
+        "Filter": "louluo_02",
         "Chat_Uses": true,
         "Mode": 1,
         "MaxUses": 0,
-        "CoolDown": 0
+        "CoolDown": 0,
+        "Ignore": true
       }
     ]
   },
   {
-    "Name": "louluo_03_knife",
-    "ShortName": "louluo_03_knife",
+    "Name": "ZM 喽啰3",
+    "ShortName": "ZM 喽啰3",
     "Color": "{default}",
     "HammerID": 20199,
     "GlowColor": [0,255,0,1],
@@ -62,24 +64,25 @@
     "ForceDrop": false,
     "Chat": true,
     "Hud": true,
-    "TriggerID": 0,
+    "TriggerID": 20197,
     "UsePriority": true,
     "AbilityList": [
       {
-        "Name": "weapon_knife",
-        "ButtonID": 0,
-        "ButtonClass": "func_button",
-        "Filter": "",
+        "Name": "louluo_03_phy",
+        "ButtonID": 20194,
+        "ButtonClass": "func_physbox",
+        "Filter": "louluo_03",
         "Chat_Uses": true,
         "Mode": 1,
         "MaxUses": 0,
-        "CoolDown": 0
+        "CoolDown": 0,
+        "Ignore": true
       }
     ]
   },
   {
-    "Name": "louluo_04_knife",
-    "ShortName": "louluo_04_knife",
+    "Name": "ZM 喽啰4",
+    "ShortName": "ZM 喽啰4",
     "Color": "{default}",
     "HammerID": 20251,
     "GlowColor": [0,255,0,1],
@@ -88,24 +91,25 @@
     "ForceDrop": false,
     "Chat": true,
     "Hud": true,
-    "TriggerID": 0,
+    "TriggerID": 20249,
     "UsePriority": true,
     "AbilityList": [
       {
-        "Name": "weapon_knife",
-        "ButtonID": 0,
-        "ButtonClass": "func_button",
-        "Filter": "",
+        "Name": "louluo_04_phy",
+        "ButtonID": 20246,
+        "ButtonClass": "func_physbox",
+        "Filter": "louluo_04",
         "Chat_Uses": true,
         "Mode": 1,
         "MaxUses": 0,
-        "CoolDown": 0
+        "CoolDown": 0,
+        "Ignore": true
       }
     ]
   },
   {
-    "Name": "louluo_05_knife",
-    "ShortName": "louluo_05_knife",
+    "Name": "ZM 喽啰5",
+    "ShortName": "ZM 喽啰5",
     "Color": "{default}",
     "HammerID": 20293,
     "GlowColor": [0,255,0,1],
@@ -114,18 +118,19 @@
     "ForceDrop": false,
     "Chat": true,
     "Hud": true,
-    "TriggerID": 0,
+    "TriggerID": 20290,
     "UsePriority": true,
     "AbilityList": [
       {
-        "Name": "weapon_knife",
-        "ButtonID": 0,
-        "ButtonClass": "func_button",
-        "Filter": "",
+        "Name": "louluo_05_phy",
+        "ButtonID": 20268,
+        "ButtonClass": "func_physbox",
+        "Filter": "louluo_05",
         "Chat_Uses": true,
         "Mode": 1,
         "MaxUses": 0,
-        "CoolDown": 0
+        "CoolDown": 0,
+        "Ignore": true
       }
     ]
   }
