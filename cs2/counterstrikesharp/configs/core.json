@@ -3,5 +3,7 @@
     "SilentChatTrigger": [ "/" ],
     "FollowCS2ServerGuidelines": false,
     "PluginHotReloadEnabled": false,
-    "ServerLanguage": "zh"
+    "ServerLanguage": "zh",
+    "UnlockConCommands": true,
+    "UnlockConVars": true
 }
