@@ -6,3 +6,8 @@ particles/zombie_poison.vpcf
 # hitmarker
 particles/hitparticles.vpcf
 particles/hitparticles_red.vpcf
+soundevents/hitparticles.vpcf
+
+# 声音调整
+soundevents/low_game_sounds_player.vsndevts
+soundevents/low_game_sounds_weapons.vsndevts
