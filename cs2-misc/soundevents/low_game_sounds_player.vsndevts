@@ -141,7 +141,7 @@
 	{
 		type = "csgo_mega"
 		preload_vsnds = true
-		volume = 1.000000
+		volume = 0.300000
 		pitch = 1.000000
 		block_distance = 10.000000
 		use_distance_volume_mapping_curve = true
@@ -2938,7 +2938,7 @@
 	{
 		type = "csgo_mega"
 		preload_vsnds = true
-		volume = 0.500000
+		volume = 0.100000
 		pitch = 1.000000
 		block_distance = 10.000000
 		use_distance_volume_mapping_curve = true
@@ -3472,7 +3472,7 @@
 	{
 		type = "csgo_mega"
 		preload_vsnds = true
-		volume = 1.000000
+		volume = 0.500000
 		pitch = 1.000000
 		mixgroup = "PlayerDamage"
 		block_distance = 69.000000
@@ -3880,7 +3880,7 @@
 	{
 		type = "csgo_mega"
 		preload_vsnds = true
-		volume = 0.500000
+		volume = 0.300000
 		pitch = 1.000000
 		block_distance = 69.000000
 		use_distance_volume_mapping_curve = true
@@ -3963,7 +3963,7 @@
 	Player.DamageBody.AttackerFeedback = 
 	{
 		type = "csgo_mega"
-		volume = 1.200000
+		volume = 0.200000
 		pitch = 1.300000
 		mixgroup = "PlayerDamage"
 		block_duration = 0.050000
@@ -4236,7 +4236,7 @@
 	Player.DamageBodyArmor.AttackerFeedback = 
 	{
 		type = "csgo_mega"
-		volume = 1.200000
+		volume = 0.200000
 		pitch = 1.300000
 		mixgroup = "PlayerDamage"
 		block_duration = 0.050000
@@ -4527,7 +4527,7 @@
 	{
 		type = "csgo_mega"
 		preload_vsnds = true
-		volume = 0.100000
+		volume = 0.000000
 		pitch = 1.000000
 		mixgroup = "PlayerDamage"
 		block_distance = 69.000000
@@ -4753,7 +4753,7 @@
 	{
 		type = "csgo_mega"
 		preload_vsnds = true
-		volume = 0.700000
+		volume = 0.200000
 		pitch = 1.300000
 		mixgroup = "PlayerDamage"
 		block_distance = 69.000000
@@ -4840,7 +4840,7 @@
 	Player.DamageBody.Onlooker = 
 	{
 		type = "csgo_mega"
-		volume = 1.000000
+		volume = 0.100000
 		pitch = 1.300000
 		mixgroup = "PlayerDamage"
 		block_duration = 0.050000
@@ -4919,7 +4919,7 @@
 	{
 		type = "csgo_mega"
 		preload_vsnds = true
-		volume = 1.500000
+		volume = 0.200000
 		pitch = 1.000000
 		mixgroup = "PlayerVictim"
 		block_distance = 20.000000
@@ -5019,7 +5019,7 @@
 	Player.DamageBody.Victim = 
 	{
 		type = "csgo_mega"
-		volume = 1.500000
+		volume = 0.200000
 		pitch = 1.000000
 		mixgroup = "PlayerVictim"
 		block_duration = 0.100000
@@ -5120,7 +5120,7 @@
 	Player.DamageBody.VictimFlesh = 
 	{
 		type = "csgo_mega"
-		volume = 1.000000
+		volume = 0.200000
 		pitch = 1.300000
 		mixgroup = "PlayerDamage"
 		block_duration = 0.100000
@@ -5197,7 +5197,7 @@
 	{
 		type = "csgo_mega"
 		preload_vsnds = true
-		volume = 0.300000
+		volume = 0.200000
 		pitch = 1.100000
 		mixgroup = "PlayerDamage"
 		block_distance = 69.000000
@@ -5281,7 +5281,7 @@
 	{
 		type = "csgo_mega"
 		preload_vsnds = true
-		volume = 0.100000
+		volume = 0.000000
 		pitch = 1.000000
 		mixgroup = "PlayerDamage"
 		block_distance = 69.000000
@@ -5350,7 +5350,7 @@
 	{
 		type = "csgo_mega"
 		preload_vsnds = true
-		volume = 0.100000
+		volume = 0.000000
 		pitch = 1.100000
 		mixgroup = "PlayerDamage"
 		block_distance = 69.000000
@@ -5418,7 +5418,7 @@
 	Player.DeathBody.Flesh = 
 	{
 		type = "csgo_mega"
-		volume = 2.000000
+		volume = 0.200000
 		pitch = 1.300000
 		mixgroup = "PlayerDamage"
 		block_duration = 0.050000
@@ -5524,7 +5524,7 @@
 	{
 		type = "csgo_mega"
 		preload_vsnds = true
-		volume = 0.100000
+		volume = 0.000000
 		pitch = 1.000000
 		mixgroup = "PlayerDamage"
 		block_distance = 69.000000
@@ -5620,7 +5620,7 @@
 	{
 		type = "csgo_mega"
 		preload_vsnds = true
-		volume = 0.100000
+		volume = 0.000000
 		pitch = 1.000000
 		mixgroup = "PlayerDamage"
 		block_distance = 69.000000
@@ -5716,7 +5716,7 @@
 	{
 		type = "csgo_mega"
 		preload_vsnds = true
-		volume = 0.300000
+		volume = 0.200000
 		pitch = 1.300000
 		mixgroup = "PlayerDamage"
 		block_distance = 69.000000
@@ -5791,7 +5791,7 @@
 	{
 		type = "csgo_mega"
 		preload_vsnds = true
-		volume = 0.100000
+		volume = 0.000000
 		pitch = 1.000000
 		mixgroup = "PlayerDamage"
 		block_distance = 69.000000
@@ -5889,7 +5889,7 @@
 	{
 		type = "csgo_mega"
 		preload_vsnds = true
-		volume = 1.000000
+		volume = 0.200000
 		pitch = 1.000000
 		block_distance = 69.000000
 		use_distance_volume_mapping_curve = true
@@ -5994,7 +5994,7 @@
 	{
 		type = "csgo_mega"
 		preload_vsnds = true
-		volume = 1.000000
+		volume = 0.200000
 		pitch = 1.000000
 		block_distance = 69.000000
 		use_distance_volume_mapping_curve = true
@@ -6102,7 +6102,7 @@
 	{
 		type = "csgo_mega"
 		preload_vsnds = true
-		volume = 0.100000
+		volume = 0.000000
 		pitch = 1.000000
 		mixgroup = "PlayerDamage"
 		block_distance = 69.000000
@@ -6184,7 +6184,7 @@
 	{
 		type = "csgo_mega"
 		preload_vsnds = true
-		volume = 0.100000
+		volume = 0.000000
 		pitch = 1.000000
 		mixgroup = "PlayerVictim"
 		block_distance = 70.000000
@@ -6280,7 +6280,7 @@
 	{
 		type = "csgo_mega"
 		preload_vsnds = true
-		volume = 0.100000
+		volume = 0.000000
 		pitch = 1.000000
 		mixgroup = "PlayerDamage"
 		block_duration = 0.100000
@@ -6358,7 +6358,7 @@
 	{
 		type = "csgo_mega"
 		preload_vsnds = true
-		volume = 0.750000
+		volume = 0.000000
 		pitch = 1.000000
 		mixgroup = "PlayerVictim"
 		block_duration = 0.100000
@@ -6546,7 +6546,7 @@
 	{
 		type = "csgo_mega"
 		preload_vsnds = true
-		volume = 2.000000
+		volume = 0.200000
 		pitch = 0.800000
 		mixgroup = "PlayerDamage"
 		block_distance = 69.000000
@@ -6651,7 +6651,7 @@
 	{
 		type = "csgo_mega"
 		preload_vsnds = true
-		volume = 2.000000
+		volume = 0.200000
 		pitch = 0.800000
 		mixgroup = "PlayerDamage"
 		block_distance = 69.000000
@@ -6853,7 +6853,7 @@
 	{
 		type = "csgo_mega"
 		preload_vsnds = true
-		volume = 0.100000
+		volume = 0.000000
 		pitch = 1.000000
 		mixgroup = "PlayerVictim"
 		block_distance = 70.000000
@@ -6947,7 +6947,7 @@
 	{
 		type = "csgo_mega"
 		preload_vsnds = true
-		volume = 0.100000
+		volume = 0.000000
 		pitch = 1.000000
 		mixgroup = "PlayerDamage"
 		block_distance = 69.000000
@@ -7051,7 +7051,7 @@
 	{
 		type = "csgo_mega"
 		preload_vsnds = true
-		volume = 0.100000
+		volume = 0.000000
 		pitch = 1.000000
 		mixgroup = "PlayerDamage"
 		block_distance = 69.000000
@@ -7160,7 +7160,7 @@
 	{
 		type = "csgo_mega"
 		preload_vsnds = true
-		volume = 0.100000
+		volume = 0.000000
 		pitch = 1.000000
 		mixgroup = "PlayerVictim"
 		block_distance = 70.000000
@@ -7261,7 +7261,7 @@
 	{
 		type = "csgo_mega"
 		preload_vsnds = true
-		volume = 0.100000
+		volume = 0.000000
 		pitch = 1.000000
 		mixgroup = "PlayerDamage"
 		block_distance = 69.000000
@@ -7370,7 +7370,7 @@
 	{
 		type = "csgo_mega"
 		preload_vsnds = true
-		volume = 0.100000
+		volume = 0.000000
 		pitch = 1.000000
 		mixgroup = "PlayerDamage"
 		block_distance = 69.000000
@@ -7474,7 +7474,7 @@
 	{
 		type = "csgo_mega"
 		preload_vsnds = true
-		volume = 0.100000
+		volume = 0.000000
 		pitch = 1.000000
 		mixgroup = "PlayerDamage"
 		block_distance = 70.000000
@@ -7562,7 +7562,7 @@
 	{
 		type = "csgo_mega"
 		preload_vsnds = true
-		volume = 0.100000
+		volume = 0.000000
 		pitch = 1.000000
 		mixgroup = "PlayerDamage"
 		block_distance = 70.000000
