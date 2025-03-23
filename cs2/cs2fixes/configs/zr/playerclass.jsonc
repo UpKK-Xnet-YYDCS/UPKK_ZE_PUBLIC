@@ -21,7 +21,7 @@
     "zjunko": {
       "enabled": true,
       "team_default": true,
-      "health": 11500,
+      "health": 10000,
       "models": [
       {
         "modelname": "characters/models/upkk/junko/zjunko.vmdl",
@@ -33,13 +33,13 @@
       "speed": 1.1,
       "gravity": 0.9,
       "admin_flag": "",
-      "health_regen_count": 540,
+      "health_regen_count": 400,
       "health_regen_interval": 3.0
     },
     "zmizuno": {
       "enabled": true,
       "team_default": true,
-      "health": 13000,
+      "health": 12000,
       "models": [
       {
         "modelname": "characters/models/upkk/mizuno/zmizuno.vmdl",
@@ -51,13 +51,13 @@
       "speed": 1.1,
       "gravity": 0.93,
       "admin_flag": "",
-      "health_regen_count": 600,
+      "health_regen_count": 480,
       "health_regen_interval": 3.0
     },
     "zpolice": {
       "enabled": true,
       "team_default": true,
-      "health": 9000,
+      "health": 8000,
       "models": [
       {
         "modelname": "characters/models/police/93xpolice.vmdl",
@@ -66,16 +66,16 @@
       }
     ],
       "scale": 1.0,
-      "speed": 1.17,
+      "speed": 1.2,
       "gravity": 1.0,
       "admin_flag": "",
-      "health_regen_count": 450,
+      "health_regen_count": 400,
       "health_regen_interval": 3.0
     },
     "zwalk": {
       "enabled": true,
       "team_default": true,
-      "health": 18888,
+      "health": 20000,
       "models": [
       {
         "modelname": "characters/models/s2ze/chris_walker/chris_walker.vmdl",
@@ -84,16 +84,16 @@
       }
     ],
       "scale": 1.0,
-      "speed": 1.08,
-      "gravity": 1.02,
+      "speed": 1.1,
+      "gravity": 1.0,
       "admin_flag": "",
-      "health_regen_count": 1200,
+      "health_regen_count": 1000,
       "health_regen_interval": 3.0
     },
     "zsnow": {
       "enabled": true,
       "team_default": true,
-      "health": 15888,
+      "health": 15000,
       "models": [
       {
         "modelname": "characters/models/upkk/snow_v1/snow_v1.vmdl",
@@ -102,10 +102,10 @@
       }
     ],
       "scale": 1.0,
-      "speed": 1.12,
+      "speed": 1.1,
       "gravity": 0.95,
       "admin_flag": "",
-      "health_regen_count": 300,
+      "health_regen_count": 500,
       "health_regen_interval": 3.0
     },
     "MotherZombie": {
@@ -123,7 +123,7 @@
       "speed": 1.2,
       "gravity": 1.0,
       "admin_flag": "",
-      "health_regen_count": 600,
+      "health_regen_count": 500,
       "health_regen_interval": 2.0
     }
   }
