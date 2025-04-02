@@ -1,0 +1,294 @@
+[
+  {
+    "Name": "治疗",
+    "ShortName": "治疗",
+    "Color": "{pink}",
+    "HammerID": 3814,
+    "GlowColor": [0,255,0,1],
+    "BlockPickup": false,
+    "AllowTransfer": true,
+    "ForceDrop": true,
+    "Chat": true,
+    "Hud": true,
+    "TriggerID": 0,
+    "UsePriority": true,
+    "AbilityList": [
+      {
+        "Name": "item_heal_button",
+        "ButtonID": 3815,
+        "ButtonClass": "func_button",
+        "Filter": "heal",
+        "Chat_Uses": true,
+        "Mode": 4,
+        "MaxUses": 4,
+        "CoolDown": 2
+      }
+    ]
+  },
+  {
+    "Name": "冰",
+    "ShortName": "冰",
+    "Color": "{pink}",
+    "HammerID": 18350,
+    "GlowColor": [0,255,0,1],
+    "BlockPickup": false,
+    "AllowTransfer": true,
+    "ForceDrop": true,
+    "Chat": true,
+    "Hud": true,
+    "TriggerID": 0,
+    "UsePriority": true,
+    "AbilityList": [
+      {
+        "Name": "hielo_f_button&0000",
+        "ButtonID": 18353,
+        "ButtonClass": "func_button",
+        "Filter": "portador_ice",
+        "Chat_Uses": true,
+        "Mode": 2,
+        "MaxUses": 0,
+        "CoolDown": 120
+      }
+    ]
+  },
+  {
+    "Name": "电",
+    "ShortName": "电",
+    "Color": "{pink}",
+    "HammerID": 18410,
+    "GlowColor": [0,255,0,1],
+    "BlockPickup": false,
+    "AllowTransfer": true,
+    "ForceDrop": true,
+    "Chat": true,
+    "Hud": true,
+    "TriggerID": 0,
+    "UsePriority": true,
+    "AbilityList": [
+      {
+        "Name": "rayo_bot&0000",
+        "ButtonID": 18408,
+        "ButtonClass": "func_button",
+        "Filter": "portador_electro",
+        "Chat_Uses": true,
+        "Mode": 6,
+        "MaxUses": 0,
+        "CoolDown": 0,
+        "Ignore": false,
+        "LockItem": false,
+        "MathID": 18412,
+        "MathNameFix": false,
+        "MathFindSpawned": false,
+        "MathDontShowMax": true
+      }
+    ]
+  },
+  {
+    "Name": "风",
+    "ShortName": "风",
+    "Color": "{pink}",
+    "HammerID": 18373,
+    "GlowColor": [0,255,0,1],
+    "BlockPickup": false,
+    "AllowTransfer": true,
+    "ForceDrop": true,
+    "Chat": true,
+    "Hud": true,
+    "TriggerID": 0,
+    "UsePriority": true,
+    "AbilityList": [
+      {
+        "Name": "magia_viento_button&0000",
+        "ButtonID": 18376,
+        "ButtonClass": "func_button",
+        "Filter": "portador_viento",
+        "Chat_Uses": true,
+        "Mode": 2,
+        "MaxUses": 0,
+        "CoolDown": 120
+      }
+    ]
+  },
+  {
+    "Name": "土",
+    "ShortName": "土",
+    "Color": "{pink}",
+    "HammerID": 18393,
+    "GlowColor": [0,255,0,1],
+    "BlockPickup": false,
+    "AllowTransfer": true,
+    "ForceDrop": true,
+    "Chat": true,
+    "Hud": true,
+    "TriggerID": 0,
+    "UsePriority": true,
+    "AbilityList": [
+      {
+        "Name": "magia_tierra_button&0000",
+        "ButtonID": 18395,
+        "ButtonClass": "func_button",
+        "Filter": "portador_earth",
+        "Chat_Uses": true,
+        "Mode": 2,
+        "MaxUses": 0,
+        "CoolDown": 120
+      }
+    ]
+  },
+  {
+    "Name": "火",
+    "ShortName": "火",
+    "Color": "{pink}",
+    "HammerID": 18382,
+    "GlowColor": [0,255,0,1],
+    "BlockPickup": false,
+    "AllowTransfer": true,
+    "ForceDrop": true,
+    "Chat": true,
+    "Hud": true,
+    "TriggerID": 0,
+    "UsePriority": true,
+    "AbilityList": [
+      {
+        "Name": "1b&0000",
+        "ButtonID": 18385,
+        "ButtonClass": "func_button",
+        "Filter": "portador_fire",
+        "Chat_Uses": true,
+        "Mode": 2,
+        "MaxUses": 0,
+        "CoolDown": 120
+      }
+    ]
+  },
+  {
+    "Name": "终极",
+    "ShortName": "终极",
+    "Color": "{pink}",
+    "HammerID": 18482,
+    "GlowColor": [0,255,0,1],
+    "BlockPickup": false,
+    "AllowTransfer": true,
+    "ForceDrop": true,
+    "Chat": true,
+    "Hud": true,
+    "TriggerID": 0,
+    "UsePriority": true,
+    "AbilityList": [
+      {
+        "Name": "boton_ultima&0000",
+        "ButtonID": 18483,
+        "ButtonClass": "func_button",
+        "Filter": "portador_ultima",
+        "Chat_Uses": true,
+        "Mode": 4,
+        "MaxUses": 1,
+        "CoolDown": 20
+      }
+    ]
+  },
+  {
+    "Name": "黑洞",
+    "ShortName": "黑洞",
+    "Color": "{pink}",
+    "HammerID": 18446,
+    "GlowColor": [0,255,0,1],
+    "BlockPickup": false,
+    "AllowTransfer": true,
+    "ForceDrop": true,
+    "Chat": true,
+    "Hud": true,
+    "TriggerID": 0,
+    "UsePriority": true,
+    "AbilityList": [
+      {
+        "Name": "magia_gravedad_button&0000",
+        "ButtonID": 18444,
+        "ButtonClass": "func_button",
+        "Filter": "portador_gravedad",
+        "Chat_Uses": true,
+        "Mode": 2,
+        "MaxUses": 0,
+        "CoolDown": 120
+      }
+    ]
+  },
+  {
+    "Name": "[ZM]黑洞",
+    "ShortName": "[ZM]黑洞",
+    "Color": "{pink}",
+    "HammerID": 18324,
+    "GlowColor": [0,255,0,1],
+    "BlockPickup": false,
+    "AllowTransfer": true,
+    "ForceDrop": true,
+    "Chat": true,
+    "Hud": true,
+    "TriggerID": 0,
+    "UsePriority": true,
+    "AbilityList": [
+      {
+        "Name": "Knife_Lure_Button",
+        "ButtonID": 18328,
+        "ButtonClass": "func_button",
+        "Filter": "Player_Knife_Lure",
+        "Chat_Uses": true,
+        "Mode": 2,
+        "MaxUses": 0,
+        "CoolDown": 80
+      }
+    ]
+  },
+  {
+    "Name": "[ZM]隐身",
+    "ShortName": "[ZM]隐身",
+    "Color": "{pink}",
+    "HammerID": 18283,
+    "GlowColor": [0,255,0,1],
+    "BlockPickup": false,
+    "AllowTransfer": true,
+    "ForceDrop": true,
+    "Chat": true,
+    "Hud": true,
+    "TriggerID": 0,
+    "UsePriority": true,
+    "AbilityList": [
+      {
+        "Name": "Knife_Invis_Button",
+        "ButtonID": 18280,
+        "ButtonClass": "func_button",
+        "Filter": "Player_Knife_Invis",
+        "Chat_Uses": true,
+        "Mode": 2,
+        "MaxUses": 0,
+        "CoolDown": 80
+      }
+    ]
+  },
+  {
+    "Name": "[ZM]致盲",
+    "ShortName": "[ZM]致盲",
+    "Color": "{pink}",
+    "HammerID": 18337,
+    "GlowColor": [0,255,0,1],
+    "BlockPickup": false,
+    "AllowTransfer": true,
+    "ForceDrop": true,
+    "Chat": true,
+    "Hud": true,
+    "TriggerID": 0,
+    "UsePriority": true,
+    "AbilityList": [
+      {
+        "Name": "Knife_Blind_Button",
+        "ButtonID": 18338,
+        "ButtonClass": "func_button",
+        "Filter": "Player_Knife_Blind",
+        "Chat_Uses": true,
+        "Mode": 2,
+        "MaxUses": 0,
+        "CoolDown": 80
+      }
+    ]
+  }
+]
