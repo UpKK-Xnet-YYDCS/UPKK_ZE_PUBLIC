@@ -71,15 +71,9 @@
         "ButtonClass": "func_button",
         "Filter": "portador_electro",
         "Chat_Uses": true,
-        "Mode": 6,
-        "MaxUses": 0,
-        "CoolDown": 0,
-        "Ignore": false,
-        "LockItem": false,
-        "MathID": 18412,
-        "MathNameFix": false,
-        "MathFindSpawned": false,
-        "MathDontShowMax": true
+        "Mode": 5,
+        "MaxUses": 3,
+        "CoolDown": 120
       }
     ]
   },
@@ -288,6 +282,110 @@
         "Mode": 2,
         "MaxUses": 0,
         "CoolDown": 80
+      }
+    ]
+  },
+  {
+    "Name": "[ZM]冰霜",
+    "ShortName": "[ZM]冰霜",
+    "Color": "{pink}",
+    "HammerID": 18984,
+    "GlowColor": [0,255,0,1],
+    "BlockPickup": false,
+    "AllowTransfer": true,
+    "ForceDrop": true,
+    "Chat": true,
+    "Hud": true,
+    "TriggerID": 0,
+    "UsePriority": true,
+    "AbilityList": [
+      {
+        "Name": "Knife_Frost_Button",
+        "ButtonID": 18987,
+        "ButtonClass": "func_button",
+        "Filter": "Player_Knife_Frost",
+        "Chat_Uses": true,
+        "Mode": 2,
+        "MaxUses": 0,
+        "CoolDown": 80
+      }
+    ]
+  },
+  {
+    "Name": "[ZM]秒杀",
+    "ShortName": "[ZM]秒杀",
+    "Color": "{pink}",
+    "HammerID": 18293,
+    "GlowColor": [0,255,0,1],
+    "BlockPickup": false,
+    "AllowTransfer": true,
+    "ForceDrop": true,
+    "Chat": true,
+    "Hud": true,
+    "TriggerID": 0,
+    "UsePriority": true,
+    "AbilityList": [
+      {
+        "Name": "Knife_Warp_Button",
+        "ButtonID": 18294,
+        "ButtonClass": "func_button",
+        "Filter": "Player_Knife_Warp",
+        "Chat_Uses": true,
+        "Mode": 2,
+        "MaxUses": 0,
+        "CoolDown": 80
+      }
+    ]
+  },
+  {
+    "Name": "[ZM]秒杀",
+    "ShortName": "[ZM]秒杀",
+    "Color": "{pink}",
+    "HammerID": 18945,
+    "GlowColor": [0,255,0,1],
+    "BlockPickup": false,
+    "AllowTransfer": true,
+    "ForceDrop": true,
+    "Chat": true,
+    "Hud": true,
+    "TriggerID": 0,
+    "UsePriority": true,
+    "AbilityList": [
+      {
+        "Name": "Knife_Shield_Button",
+        "ButtonID": 18947,
+        "ButtonClass": "func_button",
+        "Filter": "Player_Knife_Shield",
+        "Chat_Uses": true,
+        "Mode": 2,
+        "MaxUses": 0,
+        "CoolDown": 80
+      }
+    ]
+  },
+  {
+    "Name": "无人机",
+    "ShortName": "无人机",
+    "Color": "{pink}",
+    "HammerID": 18014,
+    "GlowColor": [0,255,0,1],
+    "BlockPickup": false,
+    "AllowTransfer": true,
+    "ForceDrop": true,
+    "Chat": true,
+    "Hud": true,
+    "TriggerID": 0,
+    "UsePriority": true,
+    "AbilityList": [
+      {
+        "Name": "",
+        "ButtonID": 0,
+        "ButtonClass": "",
+        "Filter": "drone",
+        "Chat_Uses": true,
+        "Mode": 1,
+        "MaxUses": 0,
+        "CoolDown": 0
       }
     ]
   }
