@@ -214,11 +214,11 @@
     "HammerID": 18324,
     "GlowColor": [0,255,0,1],
     "BlockPickup": false,
-    "AllowTransfer": true,
-    "ForceDrop": true,
+    "AllowTransfer": false,
+    "ForceDrop": false,
     "Chat": true,
     "Hud": true,
-    "TriggerID": 0,
+    "TriggerID": 18331,
     "UsePriority": true,
     "AbilityList": [
       {
@@ -240,11 +240,11 @@
     "HammerID": 18283,
     "GlowColor": [0,255,0,1],
     "BlockPickup": false,
-    "AllowTransfer": true,
-    "ForceDrop": true,
+    "AllowTransfer": false,
+    "ForceDrop": false,
     "Chat": true,
     "Hud": true,
-    "TriggerID": 0,
+    "TriggerID": 18284,
     "UsePriority": true,
     "AbilityList": [
       {
@@ -266,11 +266,11 @@
     "HammerID": 18337,
     "GlowColor": [0,255,0,1],
     "BlockPickup": false,
-    "AllowTransfer": true,
-    "ForceDrop": true,
+    "AllowTransfer": false,
+    "ForceDrop": false,
     "Chat": true,
     "Hud": true,
-    "TriggerID": 0,
+    "TriggerID": 18344,
     "UsePriority": true,
     "AbilityList": [
       {
@@ -292,11 +292,11 @@
     "HammerID": 18984,
     "GlowColor": [0,255,0,1],
     "BlockPickup": false,
-    "AllowTransfer": true,
-    "ForceDrop": true,
+    "AllowTransfer": false,
+    "ForceDrop": false,
     "Chat": true,
     "Hud": true,
-    "TriggerID": 0,
+    "TriggerID": 18990,
     "UsePriority": true,
     "AbilityList": [
       {
@@ -318,11 +318,11 @@
     "HammerID": 18293,
     "GlowColor": [0,255,0,1],
     "BlockPickup": false,
-    "AllowTransfer": true,
-    "ForceDrop": true,
+    "AllowTransfer": false,
+    "ForceDrop": false,
     "Chat": true,
     "Hud": true,
-    "TriggerID": 0,
+    "TriggerID": 18302,
     "UsePriority": true,
     "AbilityList": [
       {
@@ -344,11 +344,11 @@
     "HammerID": 18945,
     "GlowColor": [0,255,0,1],
     "BlockPickup": false,
-    "AllowTransfer": true,
-    "ForceDrop": true,
+    "AllowTransfer": false,
+    "ForceDrop": false,
     "Chat": true,
     "Hud": true,
-    "TriggerID": 0,
+    "TriggerID": 18943,
     "UsePriority": true,
     "AbilityList": [
       {
@@ -370,8 +370,8 @@
     "HammerID": 18014,
     "GlowColor": [0,255,0,1],
     "BlockPickup": false,
-    "AllowTransfer": true,
-    "ForceDrop": true,
+    "AllowTransfer": false,
+    "ForceDrop": false,
     "Chat": true,
     "Hud": true,
     "TriggerID": 0,
@@ -386,6 +386,32 @@
         "Mode": 1,
         "MaxUses": 0,
         "CoolDown": 0
+      }
+    ]
+  },
+  {
+    "Name": "火箭筒",
+    "ShortName": "火箭筒",
+    "Color": "{default}",
+    "HammerID": 3717,
+    "GlowColor": [0,255,0,1],
+    "BlockPickup": false,
+    "AllowTransfer": true,
+    "ForceDrop": true,
+    "Chat": true,
+    "Hud": true,
+    "TriggerID": 0,
+    "UsePriority": true,
+    "AbilityList": [
+      {
+        "Name": "rocket_button",
+        "ButtonID": 3711,
+        "ButtonClass": "func_button",
+        "Filter": "rocket",
+        "Chat_Uses": true,
+        "Mode": 4,
+        "MaxUses": 2,
+        "CoolDown": 110
       }
     ]
   }

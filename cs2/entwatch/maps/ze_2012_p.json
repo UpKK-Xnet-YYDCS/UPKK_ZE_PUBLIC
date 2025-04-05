@@ -1,0 +1,28 @@
+[
+  {
+    "Name": "推力",
+    "ShortName": "推力",
+    "Color": "{default}",
+    "HammerID": 650,
+    "GlowColor": [0,255,0,1],
+    "BlockPickup": false,
+    "AllowTransfer": true,
+    "ForceDrop": true,
+    "Chat": true,
+    "Hud": true,
+    "TriggerID": 0,
+    "UsePriority": true,
+    "AbilityList": [
+      {
+        "Name": "",
+        "ButtonID": 56,
+        "ButtonClass": "func_physbox",
+        "Filter": "pushguy:1",
+        "Chat_Uses": true,
+        "Mode": 2,
+        "MaxUses": 0,
+        "CoolDown": 60
+      }
+    ]
+  }
+]
