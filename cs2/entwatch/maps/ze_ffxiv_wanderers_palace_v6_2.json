@@ -1,0 +1,470 @@
+[
+  {
+    "Name": "[ZM]闪耀",
+    "ShortName": "[ZM]闪耀",
+    "Color": "{default}",
+    "HammerID": 1174,
+    "GlowColor": [0,255,0,1],
+    "BlockPickup": false,
+    "AllowTransfer": false,
+    "ForceDrop": false,
+    "Chat": true,
+    "Hud": true,
+    "TriggerID": 1175,
+    "UsePriority": true,
+    "AbilityList": [
+      {
+        "Name": "Knife_Flare_Button",
+        "ButtonID": 1170,
+        "ButtonClass": "func_button",
+        "Filter": "Player_Zombie_Flare",
+        "Chat_Uses": true,
+        "Mode": 2,
+        "MaxUses": 0,
+        "CoolDown": 50
+      }
+    ]
+  },
+  {
+    "Name": "[ZM]煞星",
+    "ShortName": "[ZM]煞星",
+    "Color": "{default}",
+    "HammerID": 1177,
+    "GlowColor": [0,255,0,1],
+    "BlockPickup": false,
+    "AllowTransfer": false,
+    "ForceDrop": false,
+    "Chat": true,
+    "Hud": true,
+    "TriggerID": 1546,
+    "UsePriority": true,
+    "AbilityList": [
+      {
+        "Name": "Knife_Malefic_Button",
+        "ButtonID": 1891,
+        "ButtonClass": "func_button",
+        "Filter": "Player_Zombie_Malefic",
+        "Chat_Uses": true,
+        "Mode": 2,
+        "MaxUses": 0,
+        "CoolDown": 60
+      }
+    ]
+  },
+  {
+    "Name": "[ZM]心灵解放",
+    "ShortName": "[ZM]心灵解放",
+    "Color": "{default}",
+    "HammerID": 1178,
+    "GlowColor": [0,255,0,1],
+    "BlockPickup": false,
+    "AllowTransfer": true,
+    "ForceDrop": true,
+    "Chat": true,
+    "Hud": true,
+    "TriggerID": 829,
+    "UsePriority": true,
+    "AbilityList": [
+      {
+        "Name": "",
+        "ButtonID": 0,
+        "ButtonClass": "",
+        "Filter": "Player_Zombie_Inner_Release",
+        "Chat_Uses": false,
+        "Mode": 1,
+        "MaxUses": 0,
+        "CoolDown": 0
+      }
+    ]
+  },
+  {
+    "Name": "[ZM]暗影波动",
+    "ShortName": "[ZM]暗影波动",
+    "Color": "{default}",
+    "HammerID": 1165,
+    "GlowColor": [0,255,0,1],
+    "BlockPickup": false,
+    "AllowTransfer": true,
+    "ForceDrop": true,
+    "Chat": true,
+    "Hud": true,
+    "TriggerID": 1166,
+    "UsePriority": true,
+    "AbilityList": [
+      {
+        "Name": "Knife_Flood_Button",
+        "ButtonID": 1163,
+        "ButtonClass": "func_button",
+        "Filter": "Player_Zombie_Flood",
+        "Chat_Uses": false,
+        "Mode": 2,
+        "MaxUses": 0,
+        "CoolDown": 9
+      }
+    ]
+  },
+  {
+    "Name": "[ZM]护盾",
+    "ShortName": "[ZM]护盾",
+    "Color": "{default}",
+    "HammerID": 1180,
+    "GlowColor": [0,255,0,1],
+    "BlockPickup": false,
+    "AllowTransfer": true,
+    "ForceDrop": true,
+    "Chat": true,
+    "Hud": true,
+    "TriggerID": 1910,
+    "UsePriority": true,
+    "AbilityList": [
+      {
+        "Name": "Knife_Shield_Button",
+        "ButtonID": 1539,
+        "ButtonClass": "func_button",
+        "Filter": "Player_Zombie_Shield",
+        "Chat_Uses": true,
+        "Mode": 2,
+        "MaxUses": 0,
+        "CoolDown": 65
+      }
+    ]
+  },
+  {
+    "Name": "[ZM]古菩猩猩",
+    "ShortName": "[ZM]古菩猩猩",
+    "Color": "{default}",
+    "HammerID": 1158,
+    "GlowColor": [0,255,0,1],
+    "BlockPickup": false,
+    "AllowTransfer": true,
+    "ForceDrop": true,
+    "Chat": true,
+    "Hud": true,
+    "TriggerID": 1159,
+    "UsePriority": true,
+    "AbilityList": [
+      {
+        "Name": "",
+        "ButtonID": 0,
+        "ButtonClass": "",
+        "Filter": "Player_Zombie_Goobbue",
+        "Chat_Uses": false,
+        "Mode": 1,
+        "MaxUses": 0,
+        "CoolDown": 0
+      }
+    ]
+  },
+  {
+    "Name": "[ZM]治疗",
+    "ShortName": "[ZM]治疗",
+    "Color": "{default}",
+    "HammerID": 1179,
+    "GlowColor": [0,255,0,1],
+    "BlockPickup": false,
+    "AllowTransfer": true,
+    "ForceDrop": true,
+    "Chat": true,
+    "Hud": true,
+    "TriggerID": 1902,
+    "UsePriority": true,
+    "AbilityList": [
+      {
+        "Name": "Knife_Heal_Button",
+        "ButtonID": 1563,
+        "ButtonClass": "func_button",
+        "Filter": "Player_Zombie_Heal",
+        "Chat_Uses": true,
+        "Mode": 2,
+        "MaxUses": 0,
+        "CoolDown": 65
+      }
+    ]
+  },
+  {
+    "Name": "治疗",
+    "ShortName": "治疗",
+    "Color": "{default}",
+    "HammerID": 1146,
+    "GlowColor": [0,255,0,1],
+    "BlockPickup": false,
+    "AllowTransfer": true,
+    "ForceDrop": true,
+    "Chat": true,
+    "Hud": true,
+    "TriggerID": 0,
+    "UsePriority": true,
+    "AbilityList": [
+      {
+        "Name": "Item_Heal_Button",
+        "ButtonID": 1895,
+        "ButtonClass": "func_button",
+        "Filter": "Player_Human_Heal",
+        "Chat_Uses": true,
+        "Mode": 2,
+        "MaxUses": 0,
+        "CoolDown": 55
+      }
+    ]
+  },
+  {
+    "Name": "巴哈姆特",
+    "ShortName": "巴哈姆特",
+    "Color": "{default}",
+    "HammerID": 1148,
+    "GlowColor": [0,255,0,1],
+    "BlockPickup": false,
+    "AllowTransfer": false,
+    "ForceDrop": false,
+    "Chat": true,
+    "Hud": true,
+    "TriggerID": 0,
+    "UsePriority": true,
+    "AbilityList": [
+      {
+        "Name": "Item_Bahamut_Button",
+        "ButtonID": 1885,
+        "ButtonClass": "func_button",
+        "Filter": "Player_Human_Bahamut",
+        "Chat_Uses": true,
+        "Mode": 4,
+        "MaxUses": 1,
+        "CoolDown": 12
+      }
+    ]
+  },
+  {
+    "Name": "光之心",
+    "ShortName": "光之心",
+    "Color": "{default}",
+    "HammerID": 1150,
+    "GlowColor": [0,255,0,1],
+    "BlockPickup": false,
+    "AllowTransfer": false,
+    "ForceDrop": false,
+    "Chat": true,
+    "Hud": true,
+    "TriggerID": 0,
+    "UsePriority": true,
+    "AbilityList": [
+      {
+        "Name": "Item_Light_Button",
+        "ButtonID": 1893,
+        "ButtonClass": "func_button",
+        "Filter": "Player_Human_Light",
+        "Chat_Uses": true,
+        "Mode": 2,
+        "MaxUses": 0,
+        "CoolDown": 90
+      }
+    ]
+  },
+  {
+    "Name": "冰III",
+    "ShortName": "冰III",
+    "Color": "{default}",
+    "HammerID": 1156,
+    "GlowColor": [0,255,0,1],
+    "BlockPickup": false,
+    "AllowTransfer": false,
+    "ForceDrop": false,
+    "Chat": true,
+    "Hud": true,
+    "TriggerID": 0,
+    "UsePriority": true,
+    "AbilityList": [
+      {
+        "Name": "Item_Blizzard_Button",
+        "ButtonID": 1154,
+        "ButtonClass": "func_button",
+        "Filter": "Player_Human_Blizzard",
+        "Chat_Uses": true,
+        "Mode": 2,
+        "MaxUses": 0,
+        "CoolDown": 60
+      }
+    ]
+  },
+  {
+    "Name": "重力",
+    "ShortName": "重力",
+    "Color": "{default}",
+    "HammerID": 1152,
+    "GlowColor": [0,255,0,1],
+    "BlockPickup": false,
+    "AllowTransfer": false,
+    "ForceDrop": false,
+    "Chat": true,
+    "Hud": true,
+    "TriggerID": 0,
+    "UsePriority": true,
+    "AbilityList": [
+      {
+        "Name": "Item_Gravity_Button",
+        "ButtonID": 1881,
+        "ButtonClass": "func_button",
+        "Filter": "Player_Human_Gravity",
+        "Chat_Uses": true,
+        "Mode": 2,
+        "MaxUses": 0,
+        "CoolDown": 60
+      }
+    ]
+  },
+  {
+    "Name": "雷电IV",
+    "ShortName": "雷电IV",
+    "Color": "{default}",
+    "HammerID": 1216,
+    "GlowColor": [0,255,0,1],
+    "BlockPickup": false,
+    "AllowTransfer": false,
+    "ForceDrop": false,
+    "Chat": true,
+    "Hud": true,
+    "TriggerID": 0,
+    "UsePriority": true,
+    "AbilityList": [
+      {
+        "Name": "Item_Thunder_Button",
+        "ButtonID": 1214,
+        "ButtonClass": "func_button",
+        "Filter": "Player_Human_Thunder",
+        "Chat_Uses": true,
+        "Mode": 2,
+        "MaxUses": 0,
+        "CoolDown": 40
+      }
+    ]
+  },
+  {
+    "Name": "弹射",
+    "ShortName": "弹射",
+    "Color": "{default}",
+    "HammerID": 1272,
+    "GlowColor": [0,255,0,1],
+    "BlockPickup": false,
+    "AllowTransfer": false,
+    "ForceDrop": false,
+    "Chat": true,
+    "Hud": true,
+    "TriggerID": 0,
+    "UsePriority": true,
+    "AbilityList": [
+      {
+        "Name": "Item_Ricochet_Button",
+        "ButtonID": 1269,
+        "ButtonClass": "func_button",
+        "Filter": "Player_Human_Ricochet",
+        "Chat_Uses": false,
+        "Mode": 2,
+        "MaxUses": 0,
+        "CoolDown": 5
+      }
+    ]
+  },
+  {
+    "Name": "绝峰箭",
+    "ShortName": "绝峰箭",
+    "Color": "{default}",
+    "HammerID": 1279,
+    "GlowColor": [0,255,0,1],
+    "BlockPickup": false,
+    "AllowTransfer": false,
+    "ForceDrop": false,
+    "Chat": true,
+    "Hud": true,
+    "TriggerID": 0,
+    "UsePriority": true,
+    "AbilityList": [
+      {
+        "Name": "Item_Arrow_Button",
+        "ButtonID": 1275,
+        "ButtonClass": "func_button",
+        "Filter": "Player_Human_Arrow",
+        "Chat_Uses": true,
+        "Mode": 2,
+        "MaxUses": 0,
+        "CoolDown": 20
+      }
+    ]
+  },
+  {
+    "Name": "黑魔纹",
+    "ShortName": "黑魔纹",
+    "Color": "{default}",
+    "HammerID": 1283,
+    "GlowColor": [0,255,0,1],
+    "BlockPickup": false,
+    "AllowTransfer": false,
+    "ForceDrop": false,
+    "Chat": true,
+    "Hud": true,
+    "TriggerID": 0,
+    "UsePriority": true,
+    "AbilityList": [
+      {
+        "Name": "Item_Lines_Button",
+        "ButtonID": 1281,
+        "ButtonClass": "func_button",
+        "Filter": "Player_Human_Lines",
+        "Chat_Uses": true,
+        "Mode": 2,
+        "MaxUses": 0,
+        "CoolDown": 90
+      }
+    ]
+  },
+  {
+    "Name": "破梦者",
+    "ShortName": "破梦者",
+    "Color": "{default}",
+    "HammerID": 1785,
+    "GlowColor": [0,255,0,1],
+    "BlockPickup": false,
+    "AllowTransfer": false,
+    "ForceDrop": false,
+    "Chat": true,
+    "Hud": true,
+    "TriggerID": 0,
+    "UsePriority": true,
+    "AbilityList": [
+      {
+        "Name": "Dream_Breaker_Button",
+        "ButtonID": 1783,
+        "ButtonClass": "func_button",
+        "Filter": "Player_Human_Breaker",
+        "Chat_Uses": true,
+        "Mode": 4,
+        "MaxUses": 1,
+        "CoolDown": 15
+      }
+    ]
+  },
+  {
+    "Name": "黑魔纹",
+    "ShortName": "黑魔纹",
+    "Color": "{default}",
+    "HammerID": 1802,
+    "GlowColor": [0,255,0,1],
+    "BlockPickup": false,
+    "AllowTransfer": false,
+    "ForceDrop": false,
+    "Chat": true,
+    "Hud": true,
+    "TriggerID": 1800,
+    "UsePriority": true,
+    "AbilityList": [
+      {
+        "Name": "",
+        "ButtonID": 0,
+        "ButtonClass": "",
+        "Filter": "Player_Zombie_Weaver",
+        "Chat_Uses": false,
+        "Mode": 1,
+        "MaxUses": 0,
+        "CoolDown": 0
+      }
+    ]
+  }
+]
