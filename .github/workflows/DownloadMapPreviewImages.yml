@@ -4,7 +4,7 @@ on:
   workflow_dispatch:  # 仅允许手动触发
 
 jobs:
-  check-workshop-ids:
+  DownloadMapPreviewImages:
     runs-on: ubuntu-latest
 
     steps:
