@@ -101,7 +101,7 @@ def extract_workshop_ids(file_path):
 def download_preview_images(details, workshop_to_filename):
     """根据 workshop_id 下载所有预览图并以 filename 保存为 webp 格式"""
     preview_url_key = 'preview_url'  # API 返回的 key，用于获取预览图 URL
-    download_dir = "previews"  # 保存预览图的目录
+    download_dir = "map_previews_images"  # 保存预览图的目录
 
     # 确保目录存在
     if not os.path.exists(download_dir):
@@ -147,7 +147,7 @@ def download_preview_images(details, workshop_to_filename):
 
 def main():
     if len(sys.argv) < 2:
-        print("Usage: python check_workshop_ids.py <file_path>")
+        print("Usage: python DownloadPreviewImages.py <file_path>")
         sys.exit(1)
 
     file_path = sys.argv[1]

@@ -1,4 +1,4 @@
-name: DownloadPreviewImages
+name: DownloadMapPreviewImages
 
 on:
   workflow_dispatch:  # 仅允许手动触发
@@ -28,14 +28,14 @@ jobs:
       run: |
         python scripts/DownloadPreviewImages.py cs2/counterstrikesharp/configs/plugins/MapChooser/maps.txt
 
-    - name: 压缩 previews 文件夹
+    - name: 压缩 map_previews_images 文件夹
       if: always()  # 即使脚本出错也执行此步骤
       run: |
-        zip -r previews.zip scripts/previews
+        zip -r map_previews_images.zip map_previews_images
       working-directory: ./
 
     - name: 上传压缩文件作为 Artifact
       uses: actions/upload-artifact@v4.0.0
       with:
-        name: previews
-        path: previews.zip
+        name: map_previews_images
+        path: map_previews_images.zip
