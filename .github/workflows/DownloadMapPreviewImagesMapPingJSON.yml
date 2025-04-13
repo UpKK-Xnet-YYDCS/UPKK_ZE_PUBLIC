@@ -1,0 +1,41 @@
+name: DownloadMapPreviewImagesMapPingJSON
+
+on:
+  workflow_dispatch:  # 仅允许手动触发
+
+jobs:
+  DownloadMapPreviewImagesMapPingJSON:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: 检出代码库
+      uses: actions/checkout@v3
+      with:
+        ref: master
+
+    - name: 设置 Python 环境
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.x'
+
+    - name: 安装依赖
+      run: |
+        python -m pip install --upgrade pip
+        pip install requests pillow tqdm
+
+    - name: 运行脚本
+      id: check_script
+      run: |
+        python scripts/DownloadPreviewImagesByMappingJson.py cs2/counterstrikesharp/configs/plugins/MapChooser/MapPing.json
+
+    - name: 压缩 map_previews_images 文件夹
+      if: always()  # 即使脚本出错也执行此步骤
+      run: |
+        zip -r map_previews_images.zip map_previews_images
+      working-directory: ./
+
+    - name: 上传压缩文件作为 Artifact
+      uses: actions/upload-artifact@v4.0.0
+      with:
+        name: map_previews_images
+        path: map_previews_images.zip
