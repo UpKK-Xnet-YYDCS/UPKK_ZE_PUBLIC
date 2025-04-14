@@ -39,3 +39,9 @@ jobs:
       with:
         name: map_previews_images
         path: map_previews_images.zip
+
+    - name: 远程服务器下载和更新-即自动化更新预览图
+      run: |
+        curl -X POST -H "Content-Type: application/json" \
+          -d '{"artifact_url": "https://github.com/owner/repo/actions/artifacts/map_previews_images.zip", "token": "${{ secrets.SECRET_TOKEN }}"}' \
+          https://bbs.upkk.com/plugin.php?id=xnet_core_api:GithubAction_map_previews_images
