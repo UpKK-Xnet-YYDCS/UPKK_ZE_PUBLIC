@@ -43,11 +43,25 @@ jobs:
     - name: 获取最新 Artifact 的 URL
       id: get_artifact_url
       run: |
-        artifact_id=$(gh run view --json artifacts -q '.artifacts[] | select(.name=="map_previews_images") | .id')
-        artifact_url="https://api.github.com/repos/${{ github.repository }}/actions/artifacts/${artifact_id}/zip"
+        # 获取最新的 workflow run ID
+        run_id=$(curl -s \
+          -H "Authorization: token ${{ secrets.GITHUB_TOKEN }}" \
+          "https://api.github.com/repos/${{ github.repository }}/actions/runs" \
+          | jq -r '.workflow_runs[0].id')
+        
+        # 获取最新 run 的 artifacts 列表
+        artifact_id=$(curl -s \
+          -H "Authorization: token ${{ secrets.GITHUB_TOKEN }}" \
+          "https://api.github.com/repos/${{ github.repository }}/actions/runs/$run_id/artifacts" \
+          | jq -r '.artifacts[] | select(.name=="map_previews_images") | .id')
+
+        # 构造下载 URL
+        artifact_url="https://api.github.com/repos/${{ github.repository }}/actions/artifacts/$artifact_id/zip"
+        
         echo "artifact_url=$artifact_url" >> $GITHUB_ENV
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
 
     - name: 通知远程服务器下载和更新
       run: |
