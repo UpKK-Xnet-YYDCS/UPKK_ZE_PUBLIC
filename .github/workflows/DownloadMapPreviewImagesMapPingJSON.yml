@@ -1,7 +1,9 @@
 name: DownloadMapPreviewImagesMapPingJSON
 
 on:
-  workflow_dispatch:  # 仅允许手动触发
+  workflow_dispatch:  # 允许手动触发
+  schedule:
+    - cron: '0 0 */14 * *'  # 每 14 天触发一次
 
 jobs:
   DownloadMapPreviewImagesMapPingJSON:
