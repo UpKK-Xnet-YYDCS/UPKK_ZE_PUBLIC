@@ -62,12 +62,23 @@ jobs:
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-
-    - name: 上传压缩文件到远程服务器
+    - name: 上传压缩文件到UPKK远程服务器
       run: |
-        curl -X POST -H "Content-Type: multipart/form-data" \
+        RESPONSE=$(curl -X POST -H "Content-Type: multipart/form-data" \
           -F "token=${{ secrets.SECRET_TOKEN }}" \
           -F "file=@map_previews_images.zip" \
-          https://bbs.upkk.com/plugin.php?id=xnet_core_api:GithubAction_map_previews_images
-      working-directory: ./
+          https://bbs.upkk.com/plugin.php?id=xnet_core_api:GithubAction_map_previews_images)
+        
+        echo "Server Response: $RESPONSE"
+
+        # 检查响应是否符合预期
+        STATUS=$(echo "$RESPONSE" | jq -r '.status')
+        MESSAGE=$(echo "$RESPONSE" | jq -r '.message')
+
+        if [ "$STATUS" != "success" ] || [ "$MESSAGE" != "File uploaded and extracted successfully." ]; then
+          echo "Upload failed or unexpected response from server."
+          exit 1
+        fi
+
+        echo "Upload and extraction succeeded."
       
