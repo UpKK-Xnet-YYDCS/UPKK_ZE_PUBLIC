@@ -66,7 +66,8 @@ jobs:
     - name: 上传压缩文件到远程服务器
       run: |
         curl -X POST -H "Content-Type: multipart/form-data" \
-          -H "Authorization: Bearer ${{ secrets.SECRET_TOKEN }}" \
+          -F "token=${{ secrets.SECRET_TOKEN }}" \
           -F "file=@map_previews_images.zip" \
           https://bbs.upkk.com/plugin.php?id=xnet_core_api:GithubAction_map_previews_images
       working-directory: ./
+      
