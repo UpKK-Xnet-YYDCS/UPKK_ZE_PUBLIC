@@ -66,5 +66,6 @@ jobs:
     - name: 通知远程服务器下载和更新
       run: |
         curl -X POST -H "Content-Type: application/json" \
+          -H "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" \
           -d '{"artifact_url": "'"$artifact_url"'", "token": "${{ secrets.SECRET_TOKEN }}"}' \
           https://bbs.upkk.com/plugin.php?id=xnet_core_api:GithubAction_map_previews_images
