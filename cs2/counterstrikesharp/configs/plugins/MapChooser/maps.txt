@@ -4117,4 +4117,45 @@
 		"updatedname"		"ze_ffxiv_wanderers_palace_v6_2"
 		"OnlyNominate"		"1"
 	}
+	"ze_re_creation"
+	{
+		"workshop_id"		"3462082136"
+		"enabled"		"1"
+		"filename"		"ze_re_creation"
+		"updatedname"		"ze_re_creation"
+		"OnlyNominate"		"1"
+	}
+	"ze_deathinvain_palace"
+	{
+		"workshop_id"		"3461956041"
+		"enabled"		"1"
+		"filename"		"ze_deathinvain_palace"
+		"updatedname"		"ze_deathinvain_palace"
+		"OnlyNominate"		"1"
+	}
+	"ze_FFVII_Malgo_Reactor"
+	{
+		"workshop_id"		"3463705720"
+		"enabled"		"1"
+		"filename"		"ze_ffvii_malgo_reactor"
+		"updatedname"		"ze_ffvii_malgo_reactor"
+		"OnlyNominate"		"1"
+	}
+	"ze_surf_daybreak"
+	{
+		"workshop_id"		"3460219997"
+		"enabled"		"1"
+		"filename"		"ze_surf_daybreak"
+		"updatedname"		"ze_surf_daybreak"
+		"OnlyNominate"		"1"
+		"RestrictedTimes"	"00:00-08:00;19:00-23:59"
+	}
+	"ze_hypnotize_me_baby_p"
+	{
+		"workshop_id"		"3454959636"
+		"enabled"		"1"
+		"filename"		"ze_hypnotize_me_baby_p"
+		"updatedname"		"ze_hypnotize_me_baby_p"
+		"OnlyNominate"		"1"
+	}
 }

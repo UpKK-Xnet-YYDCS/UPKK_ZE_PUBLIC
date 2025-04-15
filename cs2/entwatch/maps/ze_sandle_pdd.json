@@ -45,8 +45,8 @@
         "ButtonClass": "func_button",
         "Filter": "item_zm_jumper:1",
         "Chat_Uses": true,
-        "Mode": 2,
-        "MaxUses": 0,
+        "Mode": 5,
+        "MaxUses": 3,
         "CoolDown": 25
       }
     ]
@@ -260,7 +260,7 @@
         "LockItem": false,
         "MathID": 58886,
         "MathNameFix": true,
-        "MathFindSpawned": false,
+        "MathFindSpawned": true,
         "MathDontShowMax": true
       }
     ]
