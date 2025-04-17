@@ -30,6 +30,7 @@ jobs:
         pip install requests pillow tqdm
 
     - name: 运行脚本
+      timeout-minutes: 10
       id: check_script
       run: |
         python scripts/DownloadPreviewImagesByMappingJson.py cs2/counterstrikesharp/configs/plugins/MapChooser/MapPing.json
@@ -45,26 +46,10 @@ jobs:
       with:
         name: map_previews_images
         path: map_previews_images.zip
-
-    - name: 获取最新 Artifact 的 URL
-      id: get_artifact_url
-      run: |
-        run_id=$(curl -s \
-          -H "Authorization: token ${{ secrets.GITHUB_TOKEN }}" \
-          "https://api.github.com/repos/${{ github.repository }}/actions/runs" \
-          | jq -r '.workflow_runs[0].id')
-
-        artifact_id=$(curl -s \
-          -H "Authorization: token ${{ secrets.GITHUB_TOKEN }}" \
-          "https://api.github.com/repos/${{ github.repository }}/actions/runs/$run_id/artifacts" \
-          | jq -r '.artifacts[] | select(.name=="map_previews_images") | .id')
-
-        artifact_url="https://api.github.com/repos/${{ github.repository }}/actions/artifacts/$artifact_id/zip"
-        echo "artifact_url=$artifact_url" >> $GITHUB_ENV
-      env:
-        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        
 
     - name: 上传压缩文件到UPKK远程服务器
+      timeout-minutes: 5
       run: |
         RESPONSE=$(curl --max-time 60 --connect-timeout 10 -X POST \
           -H "Content-Type: multipart/form-data" \
