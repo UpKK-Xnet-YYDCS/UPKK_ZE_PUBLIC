@@ -1,5 +1,9 @@
 name: DownloadMapPreviewImagesMapPingJSON
 
+concurrency:
+  group: prevent-stuck-run
+  cancel-in-progress: true
+
 on:
   workflow_dispatch:  # 允许手动触发
   schedule:
@@ -45,35 +49,31 @@ jobs:
     - name: 获取最新 Artifact 的 URL
       id: get_artifact_url
       run: |
-        # 获取最新的 workflow run ID
         run_id=$(curl -s \
           -H "Authorization: token ${{ secrets.GITHUB_TOKEN }}" \
           "https://api.github.com/repos/${{ github.repository }}/actions/runs" \
           | jq -r '.workflow_runs[0].id')
-        
-        # 获取最新 run 的 artifacts 列表
+
         artifact_id=$(curl -s \
           -H "Authorization: token ${{ secrets.GITHUB_TOKEN }}" \
           "https://api.github.com/repos/${{ github.repository }}/actions/runs/$run_id/artifacts" \
           | jq -r '.artifacts[] | select(.name=="map_previews_images") | .id')
 
-        # 构造下载 URL
         artifact_url="https://api.github.com/repos/${{ github.repository }}/actions/artifacts/$artifact_id/zip"
-        
         echo "artifact_url=$artifact_url" >> $GITHUB_ENV
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
     - name: 上传压缩文件到UPKK远程服务器
       run: |
-        RESPONSE=$(curl -X POST -H "Content-Type: multipart/form-data" \
+        RESPONSE=$(curl --max-time 60 --connect-timeout 10 -X POST \
+          -H "Content-Type: multipart/form-data" \
           -F "token=${{ secrets.SECRET_TOKEN }}" \
           -F "file=@map_previews_images.zip" \
           https://bbs.upkk.com/plugin.php?id=xnet_core_api:GithubAction_map_previews_images)
-        
+
         echo "Server Response: $RESPONSE"
 
-        # 检查响应是否符合预期
         STATUS=$(echo "$RESPONSE" | jq -r '.status')
         MESSAGE=$(echo "$RESPONSE" | jq -r '.message')
 
@@ -83,4 +83,3 @@ jobs:
         fi
 
         echo "Upload and extraction succeeded."
-      
