@@ -3,7 +3,7 @@
 ``` 
 {
   "** MEGAULTRATERRIBLINATOR DESTRUCTIVE MODE **": {
-    "translation": "** 超极毁灭模式 **",
+    "translation": "",
     "MultiLang": {
       "US": "** MEGAULTRATERRIBLINATOR DESTRUCTIVE MODE **",
       "JP": "** メガウルトラテリビリネーター破壊モード **",
@@ -23,6 +23,9 @@
     }
   }
 }
+
+
+
 ```
 ## 可选参数
 | 关键词 | 默认值|说明                                                                       |
@@ -33,3 +36,4 @@
 ---
 
 ## 说明
+translation 没有的情况下 默认会选择 原始文本 translation 已经不再需要它只是为了兼容旧的地图文本而存在 只需填充 MultiLang
