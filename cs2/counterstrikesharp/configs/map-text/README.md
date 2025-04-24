@@ -13,7 +13,7 @@
     }
   },
   "** Turning on:... **": {
-    "translation": "** 启动中：... **",
+    "translation": "",
     "MultiLang": {
       "US": "** Turning on:... **",
       "JP": "** 起動中：... **",
