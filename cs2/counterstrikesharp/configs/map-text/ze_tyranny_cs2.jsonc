@@ -1,389 +1,1282 @@
 {
   "*** Defeat the boss within 10 seconds! ***": {
-    "translation": "*** 在10秒内击败Boss！ ***"
+    "translation": "*** 在10秒内击败Boss！ ***",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": "*** 在10秒内击败Boss！ ***",
+      "KR": "",
+      "TW": ""
+    }
   },
   "*** Defeat the boss within 20 seconds! ***": {
-    "translation": "*** 在20秒内击败Boss！ ***"
+    "translation": "*** 在20秒内击败Boss！ ***",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": "*** 在20秒内击败Boss！ ***",
+      "KR": "",
+      "TW": ""
+    }
   },
   "*** failed to defeat the boss ***": {
-    "translation": "*** 未能击败Boss ***"
+    "translation": "*** 未能击败Boss ***",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": "*** 未能击败Boss ***",
+      "KR": "",
+      "TW": ""
+    }
   },
   ">> LOADING KILLER 10 SECONDS <<<": {
     "translation": ">> 10秒后终极生效 <<<",
-    "DoorCountDown": -1
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": ">> 10秒后终极生效 <<<",
+      "KR": "",
+      "TW": ""
+    }
   },
   ">> LOADING KILLER 5 SECONDS <<<": {
     "translation": ">> 5秒后终极生效 <<<",
-    "DoorCountDown": -1
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": ">> 5秒后终极生效 <<<",
+      "KR": "",
+      "TW": ""
+    }
   },
   ">>> 1 <<<": {
-    "translation": ">>> 1 <<<"
+    "translation": ">>> 1 <<<",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": ">>> 1 <<<",
+      "KR": "",
+      "TW": ""
+    }
   },
   ">>> 1 MINUTES LEFT <<<": {
-    "translation": ">>> 剩余1分钟 <<<"
+    "translation": ">>> 剩余1分钟 <<<",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": ">>> 剩余1分钟 <<<",
+      "KR": "",
+      "TW": ""
+    }
   },
   ">>> 10 SECONDS LEFT <<<": {
-    "translation": ">>> 剩余10秒 <<<"
+    "translation": ">>> 剩余10秒 <<<",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": ">>> 剩余10秒 <<<",
+      "KR": "",
+      "TW": ""
+    }
   },
   ">>> 2 <<<": {
-    "translation": ">>> 2 <<<"
+    "translation": ">>> 2 <<<",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": ">>> 2 <<<",
+      "KR": "",
+      "TW": ""
+    }
   },
   ">>> 2 MINUTES LEFT <<<": {
-    "translation": ">>> 剩余2分钟 <<<"
+    "translation": ">>> 剩余2分钟 <<<",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": ">>> 剩余2分钟 <<<",
+      "KR": "",
+      "TW": ""
+    }
   },
   ">>> 20 SECONDS LEFT <<<": {
-    "translation": ">>> 剩余20秒 <<<"
+    "translation": ">>> 剩余20秒 <<<",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": ">>> 剩余20秒 <<<",
+      "KR": "",
+      "TW": ""
+    }
   },
   ">>> 3 <<<": {
-    "translation": ">>> 3 <<<"
+    "translation": ">>> 3 <<<",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": ">>> 3 <<<",
+      "KR": "",
+      "TW": ""
+    }
   },
   ">>> 3 MINUTES LEFT <<<": {
-    "translation": ">>> 剩余180秒 <<<"
+    "translation": ">>> 剩余180秒 <<<",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": ">>> 剩余180秒 <<<",
+      "KR": "",
+      "TW": ""
+    }
   },
   ">>> 30 SECONDS LEFT <<<": {
-    "translation": ">>> 剩余30秒 <<<"
+    "translation": ">>> 剩余30秒 <<<",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": ">>> 剩余30秒 <<<",
+      "KR": "",
+      "TW": ""
+    }
   },
   ">>> 4 <<<": {
-    "translation": ">>> 4 <<<"
+    "translation": ">>> 4 <<<",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": ">>> 4 <<<",
+      "KR": "",
+      "TW": ""
+    }
   },
   ">>> 5 <<<": {
-    "translation": ">>> 5s <<<"
+    "translation": ">>> 5s <<<",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": ">>> 5s <<<",
+      "KR": "",
+      "TW": ""
+    }
   },
   ">>> 5 SECONDS REMAINING. DON'T DELAY <<<": {
-    "translation": ">>> 还剩5秒。不要耽搁 <<<"
+    "translation": ">>> 还剩5秒。不要耽搁 <<<",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": ">>> 还剩5秒。不要耽搁 <<<",
+      "KR": "",
+      "TW": ""
+    }
   },
   ">>> ADMIN CHANGED TO STAGE 1 <<<": {
-    "translation": ">>> 管理员切换到第1关 <<<"
+    "translation": ">>> 管理员切换到第1关 <<<",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": ">>> 管理员切换到第1关 <<<",
+      "KR": "",
+      "TW": ""
+    }
   },
   ">>> ADMIN CHANGED TO STAGE 2 <<<": {
-    "translation": ">>> 管理员切换到第2关 <<<"
+    "translation": ">>> 管理员切换到第2关 <<<",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": ">>> 管理员切换到第2关 <<<",
+      "KR": "",
+      "TW": ""
+    }
   },
   ">>> ADMIN CHANGED TO STAGE 3 <<<": {
-    "translation": ">>> 管理员切换到第3关 <<<"
+    "translation": ">>> 管理员切换到第3关 <<<",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": ">>> 管理员切换到第3关 <<<",
+      "KR": "",
+      "TW": ""
+    }
   },
   ">>> ADMIN CHANGED TO STAGE 4 <<<": {
-    "translation": ">>> 管理员切换到第4关 <<<"
+    "translation": ">>> 管理员切换到第4关 <<<",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": ">>> 管理员切换到第4关 <<<",
+      "KR": "",
+      "TW": ""
+    }
   },
   ">>> ADMIN CHANGED TO STAGE 5 <<<": {
-    "translation": ">>> 管理员切换到第5关 <<<"
+    "translation": ">>> 管理员切换到第5关 <<<",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": ">>> 管理员切换到第5关 <<<",
+      "KR": "",
+      "TW": ""
+    }
   },
   ">>> ADMIN CHANGED TO STAGE 6 <<<": {
-    "translation": ">>> 管理员切换到第6关 <<<"
+    "translation": ">>> 管理员切换到第6关 <<<",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": ">>> 管理员切换到第6关 <<<",
+      "KR": "",
+      "TW": ""
+    }
   },
   ">>> ADMIN PRESSED KILL ALL BUTTON <<<": {
-    "translation": ">>> 管理员按下了“全体击杀”按钮 <<<"
+    "translation": ">>> 管理员按下了“全体击杀”按钮 <<<",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": ">>> 管理员按下了“全体击杀”按钮 <<<",
+      "KR": "",
+      "TW": ""
+    }
   },
   ">>> AFK TELEPORT IN 10 SECONDS <<<": {
-    "translation": ">>> 10秒后传送挂机玩家 <<<"
+    "translation": ">>> 10秒后传送挂机玩家 <<<",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": ">>> 10秒后传送挂机玩家 <<<",
+      "KR": "",
+      "TW": ""
+    }
   },
   ">>> AFK TELEPORT IN 3 SECONDS <<<": {
-    "translation": ">>> 3秒后传送挂机玩家 <<<"
+    "translation": ">>> 3秒后传送挂机玩家 <<<",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": ">>> 3秒后传送挂机玩家 <<<",
+      "KR": "",
+      "TW": ""
+    }
   },
   ">>> AFK TELEPORT IN 5 SECONDS <<<": {
-    "translation": ">>> 5秒后传送挂机玩家 <<<"
+    "translation": ">>> 5秒后传送挂机玩家 <<<",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": ">>> 5秒后传送挂机玩家 <<<",
+      "KR": "",
+      "TW": ""
+    }
   },
   ">>> ALL ZM ITEMS IS DISABLED <<<": {
-    "translation": ">>> 所有僵尸神器已禁用 <<<"
+    "translation": ">>> 所有僵尸神器已禁用 <<<",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": ">>> 所有僵尸神器已禁用 <<<",
+      "KR": "",
+      "TW": ""
+    }
   },
   ">>> BALROG IS BACK <<<": {
-    "translation": ">>> 炎魔回来了 <<<"
+    "translation": ">>> 炎魔回来了 <<<",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": ">>> 炎魔回来了 <<<",
+      "KR": "",
+      "TW": ""
+    }
   },
   ">>> BALROG IS COMING <<<": {
-    "translation": ">>> 炎魔来了 <<<"
+    "translation": ">>> 炎魔来了 <<<",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": ">>> 炎魔来了 <<<",
+      "KR": "",
+      "TW": ""
+    }
   },
   ">>> BALROG IS DEFEATED <<<": {
-    "translation": ">>> 炎魔被击败了 <<<"
+    "translation": ">>> 炎魔被击败了 <<<",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": ">>> 炎魔被击败了 <<<",
+      "KR": "",
+      "TW": ""
+    }
   },
   ">>> BALROG IS ESCAPED <<<": {
-    "translation": ">>> 炎魔逃跑了 <<<"
+    "translation": ">>> 炎魔逃跑了 <<<",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": ">>> 炎魔逃跑了 <<<",
+      "KR": "",
+      "TW": ""
+    }
   },
   ">>> BALROG USE LASER <<<": {
-    "translation": ">>> 5秒，炎魔使用了跳刀 <<<"
+    "translation": ">>> 5秒，炎魔使用了跳刀 <<<",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": ">>> 5秒，炎魔使用了跳刀 <<<",
+      "KR": "",
+      "TW": ""
+    }
   },
   ">>> BALROG USED FIRE <<<": {
-    "translation": ">>> 5秒，炎魔使用了火 <<<"
+    "translation": ">>> 5秒，炎魔使用了火 <<<",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": ">>> 5秒，炎魔使用了火 <<<",
+      "KR": "",
+      "TW": ""
+    }
   },
   ">>> BALROG USED GRAVITY <<<": {
-    "translation": ">>> 5秒，炎魔使用了黑洞 <<<"
+    "translation": ">>> 5秒，炎魔使用了黑洞 <<<",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": ">>> 5秒，炎魔使用了黑洞 <<<",
+      "KR": "",
+      "TW": ""
+    }
   },
   ">>> BALROG USED HEAL <<<": {
-    "translation": ">>> 5秒，炎魔使用了治疗 <<<"
+    "translation": ">>> 5秒，炎魔使用了治疗 <<<",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": ">>> 5秒，炎魔使用了治疗 <<<",
+      "KR": "",
+      "TW": ""
+    }
   },
   ">>> BALROG USED KILLER <<<": {
-    "translation": ">>> 5秒，炎魔使用了终极 <<<"
+    "translation": ">>> 5秒，炎魔使用了终极 <<<",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": ">>> 5秒，炎魔使用了终极 <<<",
+      "KR": "",
+      "TW": ""
+    }
   },
   ">>> BALROG USED POISON <<<": {
-    "translation": ">>> 5秒，炎魔使用了毒 <<<"
+    "translation": ">>> 5秒，炎魔使用了毒 <<<",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": ">>> 5秒，炎魔使用了毒 <<<",
+      "KR": "",
+      "TW": ""
+    }
   },
   ">>> BALROG USED PUSH <<<": {
-    "translation": ">>> 5秒，炎魔使用了风 <<<"
+    "translation": ">>> 5秒，炎魔使用了风 <<<",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": ">>> 5秒，炎魔使用了风 <<<",
+      "KR": "",
+      "TW": ""
+    }
   },
   ">>> BALROG USED SHIELD <<<": {
-    "translation": ">>> 5秒，炎魔使用了护盾 <<<"
+    "translation": ">>> 5秒，炎魔使用了护盾 <<<",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": ">>> 5秒，炎魔使用了护盾 <<<",
+      "KR": "",
+      "TW": ""
+    }
   },
   ">>> BREAK STATUE TO GET ITEM <<<": {
-    "translation": ">>> 打破雕像以获得神器 <<<"
+    "translation": ">>> 打破雕像以获得神器 <<<",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": ">>> 打破雕像以获得神器 <<<",
+      "KR": "",
+      "TW": ""
+    }
   },
   ">>> BRIDGE IS BROKEN <<<": {
-    "translation": ">>> 桥断了 <<<"
+    "translation": ">>> 桥断了 <<<",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": ">>> 桥断了 <<<",
+      "KR": "",
+      "TW": ""
+    }
   },
   ">>> CS2 port special thanks: 超帅气の叫兽, Kxnrl <<<": {
-    "translation": ">>> CS2移植特别感谢：超帅气の叫兽, Kxnrl <<<"
+    "translation": ">>> CS2移植特别感谢：超帅气の叫兽, Kxnrl <<<",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": ">>> CS2移植特别感谢：超帅气の叫兽, Kxnrl <<<",
+      "KR": "",
+      "TW": ""
+    }
   },
   ">>> DOOR CLOSING <<<": {
-    "translation": ">>> 门关闭中 <<<"
+    "translation": ">>> 门关闭中 <<<",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": ">>> 门关闭中 <<<",
+      "KR": "",
+      "TW": ""
+    }
   },
   ">>> DRAGON IS COMING <<<": {
-    "translation": ">>> 龙来了 <<<"
+    "translation": ">>> 龙来了 <<<",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": ">>> 龙来了 <<<",
+      "KR": "",
+      "TW": ""
+    }
   },
   ">>> DRAGON IS DEFEATED <<<": {
-    "translation": ">>> 龙被击败了 <<<"
+    "translation": ">>> 龙被击败了 <<<",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": ">>> 龙被击败了 <<<",
+      "KR": "",
+      "TW": ""
+    }
   },
   ">>> DRAGON IS DEFEATED KEEP RUNNING <<<": {
-    "translation": ">>> 龙被击败了，继续跑 <<<"
+    "translation": ">>> 龙被击败了，继续跑 <<<",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": ">>> 龙被击败了，继续跑 <<<",
+      "KR": "",
+      "TW": ""
+    }
   },
   ">>> DRAGON USED FIRE <<<": {
-    "translation": ">>> 5秒，龙使用了火 <<<"
+    "translation": ">>> 5秒，龙使用了火 <<<",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": ">>> 5秒，龙使用了火 <<<",
+      "KR": "",
+      "TW": ""
+    }
   },
   ">>> DRAGON USED GRAVITY <<<": {
-    "translation": ">>> 5秒，龙使用了黑洞 <<<"
+    "translation": ">>> 5秒，龙使用了黑洞 <<<",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": ">>> 5秒，龙使用了黑洞 <<<",
+      "KR": "",
+      "TW": ""
+    }
   },
   ">>> DRAGON USED POISON <<<": {
-    "translation": ">>> 5秒，龙使用了毒 <<<"
+    "translation": ">>> 5秒，龙使用了毒 <<<",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": ">>> 5秒，龙使用了毒 <<<",
+      "KR": "",
+      "TW": ""
+    }
   },
   ">>> DRAGON USED PUSH <<<": {
-    "translation": ">>> 5秒，龙使用了风 <<<"
+    "translation": ">>> 5秒，龙使用了风 <<<",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": ">>> 5秒，龙使用了风 <<<",
+      "KR": "",
+      "TW": ""
+    }
   },
   ">>> DRAGON USED WATER <<<": {
-    "translation": ">>> 5秒，龙使用了水 <<<"
+    "translation": ">>> 5秒，龙使用了水 <<<",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": ">>> 5秒，龙使用了水 <<<",
+      "KR": "",
+      "TW": ""
+    }
   },
   ">>> ENTRANCE DOOR OPENING <<<": {
-    "translation": ">>> 入口门正在打开 <<<"
+    "translation": ">>> 入口门正在打开 <<<",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": ">>> 入口门正在打开 <<<",
+      "KR": "",
+      "TW": ""
+    }
   },
   ">>> FAIL ROUND <<<": {
-    "translation": ">>> 回合失败 <<<"
+    "translation": ">>> 回合失败 <<<",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": ">>> 回合失败 <<<",
+      "KR": "",
+      "TW": ""
+    }
   },
   ">>> GARGANTUA IS COMING <<<": {
-    "translation": ">>> 喷火巨兽来了 <<<"
+    "translation": ">>> 喷火巨兽来了 <<<",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": ">>> 喷火巨兽来了 <<<",
+      "KR": "",
+      "TW": ""
+    }
   },
   ">>> GARGANTUA IS COMING KEEP RUNNING <<<": {
-    "translation": ">>> 喷火巨兽来了，继续跑 <<<"
+    "translation": ">>> 喷火巨兽来了，继续跑 <<<",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": ">>> 喷火巨兽来了，继续跑 <<<",
+      "KR": "",
+      "TW": ""
+    }
   },
   ">>> GARGANTUA IS DEFEATED <<<": {
-    "translation": ">>> 喷火巨兽被击败了 <<<"
+    "translation": ">>> 喷火巨兽被击败了 <<<",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": ">>> 喷火巨兽被击败了 <<<",
+      "KR": "",
+      "TW": ""
+    }
   },
   ">>> GARGANTUA USED FIRE <<<": {
-    "translation": ">>> 5秒，喷火巨兽使用了火 <<<"
+    "translation": ">>> 5秒，喷火巨兽使用了火 <<<",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": ">>> 5秒，喷火巨兽使用了火 <<<",
+      "KR": "",
+      "TW": ""
+    }
   },
   ">>> GARGANTUA USED GRAVITY <<<": {
-    "translation": ">>> 5秒，喷火巨兽使用了黑洞 <<<"
+    "translation": ">>> 5秒，喷火巨兽使用了黑洞 <<<",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": ">>> 5秒，喷火巨兽使用了黑洞 <<<",
+      "KR": "",
+      "TW": ""
+    }
   },
   ">>> GARGANTUA USED ICE <<<": {
-    "translation": ">>> 5秒，喷火巨兽使用了冰 <<<"
+    "translation": ">>> 5秒，喷火巨兽使用了冰 <<<",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": ">>> 5秒，喷火巨兽使用了冰 <<<",
+      "KR": "",
+      "TW": ""
+    }
   },
   ">>> GARGANTUA USED KILLER. GO SIDE <<<": {
-    "translation": ">>> 5秒，喷火巨兽使用了终极。去平台边缘 <<<"
+    "translation": ">>> 5秒，喷火巨兽使用了终极。去平台边缘 <<<",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": ">>> 5秒，喷火巨兽使用了终极。去平台边缘 <<<",
+      "KR": "",
+      "TW": ""
+    }
   },
   ">>> GARGANTUA USED POISON <<<": {
-    "translation": ">>> 5秒，喷火巨兽使用了毒 <<<"
+    "translation": ">>> 5秒，喷火巨兽使用了毒 <<<",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": ">>> 5秒，喷火巨兽使用了毒 <<<",
+      "KR": "",
+      "TW": ""
+    }
   },
   ">>> GARGANTUA USED PUSH <<<": {
-    "translation": ">>> 5秒，喷火巨兽使用了风 <<<"
+    "translation": ">>> 5秒，喷火巨兽使用了风 <<<",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": ">>> 5秒，喷火巨兽使用了风 <<<",
+      "KR": "",
+      "TW": ""
+    }
   },
   ">>> GATE OPENING IN 10 SECONDS <<<": {
-    "translation": ">>> 10秒后门将打开 <<<"
+    "translation": ">>> 10秒后门将打开 <<<",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": ">>> 10秒后门将打开 <<<",
+      "KR": "",
+      "TW": ""
+    }
   },
   ">>> GATE OPENING IN 5 SECONDS <<<": {
-    "translation": ">>> 5秒后门将打开 <<<"
+    "translation": ">>> 5秒后门将打开 <<<",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": ">>> 5秒后门将打开 <<<",
+      "KR": "",
+      "TW": ""
+    }
   },
   ">>> HOLD 10 SECONDS <<<": {
-    "translation": ">>> 防守10秒 <<<"
+    "translation": ">>> 防守10秒 <<<",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": ">>> 防守10秒 <<<",
+      "KR": "",
+      "TW": ""
+    }
   },
   ">>> HOLD 15 SECONDS <<<": {
-    "translation": ">>> 防守15秒 <<<"
+    "translation": ">>> 防守15秒 <<<",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": ">>> 防守15秒 <<<",
+      "KR": "",
+      "TW": ""
+    }
   },
   ">>> HOLD 15 SECONDS<<<": {
-    "translation": ">>> 防守15秒 <<<"
+    "translation": ">>> 防守15秒 <<<",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": ">>> 防守15秒 <<<",
+      "KR": "",
+      "TW": ""
+    }
   },
   ">>> HOLD 20 SECONDS <<<": {
-    "translation": ">>> 防守20秒 <<<"
+    "translation": ">>> 防守20秒 <<<",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": ">>> 防守20秒 <<<",
+      "KR": "",
+      "TW": ""
+    }
   },
   ">>> HOLD 25 SECONDS <<<": {
-    "translation": ">>> 防守25秒 <<<"
+    "translation": ">>> 防守25秒 <<<",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": ">>> 防守25秒 <<<",
+      "KR": "",
+      "TW": ""
+    }
   },
   ">>> HOLD 30 SECONDS <<<": {
-    "translation": ">>> 防守30秒 <<<"
+    "translation": ">>> 防守30秒 <<<",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": ">>> 防守30秒 <<<",
+      "KR": "",
+      "TW": ""
+    }
   },
   ">>> HOLD 35 SECONDS <<<": {
-    "translation": ">>> 防守35秒 <<<"
+    "translation": ">>> 防守35秒 <<<",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": ">>> 防守35秒 <<<",
+      "KR": "",
+      "TW": ""
+    }
   },
   ">>> HOLD 40 SECONDS <<<": {
-    "translation": ">>> 防守40秒 <<<"
+    "translation": ">>> 防守40秒 <<<",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": ">>> 防守40秒 <<<",
+      "KR": "",
+      "TW": ""
+    }
   },
   ">>> HOLD 45 SECONDS <<<": {
-    "translation": ">>> 防守45秒 <<<"
+    "translation": ">>> 防守45秒 <<<",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": ">>> 防守45秒 <<<",
+      "KR": "",
+      "TW": ""
+    }
   },
   ">>> HOLD 5 SECONDS <<<": {
-    "translation": ">>> 防守5秒 <<<"
+    "translation": ">>> 防守5秒 <<<",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": ">>> 防守5秒 <<<",
+      "KR": "",
+      "TW": ""
+    }
   },
   ">>> IT'S BALROG <<<": {
-    "translation": ">>> 是炎魔 <<<"
+    "translation": ">>> 是炎魔 <<<",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": ">>> 是炎魔 <<<",
+      "KR": "",
+      "TW": ""
+    }
   },
   ">>> IT'S DRAGON <<<": {
-    "translation": ">>> 是龙 <<<"
+    "translation": ">>> 是龙 <<<",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": ">>> 是龙 <<<",
+      "KR": "",
+      "TW": ""
+    }
   },
   ">>> LOADING KILLER 20 SECONDS <<<": {
     "translation": ">>> 20秒后终极生效 <<<",
-    "DoorCountDown": -1
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": ">>> 20秒后终极生效 <<<",
+      "KR": "",
+      "TW": ""
+    }
   },
   ">>> Map by Moray <<<": {
-    "translation": ">>> 地图作者：Moray 翻译：Asteri3m <<<"
+    "translation": ">>> 地图作者：Moray 翻译：Asteri3m <<<",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": ">>> 地图作者：Moray 翻译：Asteri3m <<<",
+      "KR": "",
+      "TW": ""
+    }
   },
   ">>> NOOB TRASHED <<<": {
-    "translation": ">>> 白给 <<<"
+    "translation": ">>> 白给 <<<",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": ">>> 白给 <<<",
+      "KR": "",
+      "TW": ""
+    }
   },
   ">>> PLAYER HAS PICKED UP AMMO <<<": {
-    "translation": ">>> 人类玩家获得了弹药 <<<"
+    "translation": ">>> 人类玩家获得了弹药 <<<",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": ">>> 人类玩家获得了弹药 <<<",
+      "KR": "",
+      "TW": ""
+    }
   },
   ">>> PLAYER HAS PICKED UP FIRE <<<": {
-    "translation": ">>> 人类玩家获得了火 <<<"
+    "translation": ">>> 人类玩家获得了火 <<<",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": ">>> 人类玩家获得了火 <<<",
+      "KR": "",
+      "TW": ""
+    }
   },
   ">>> PLAYER HAS PICKED UP GRAVITY <<<": {
-    "translation": ">>> 人类玩家获得了黑洞 <<<"
+    "translation": ">>> 人类玩家获得了黑洞 <<<",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": ">>> 人类玩家获得了黑洞 <<<",
+      "KR": "",
+      "TW": ""
+    }
   },
   ">>> PLAYER HAS PICKED UP HEAL <<<": {
-    "translation": ">>> 人类玩家获得了奶 <<<"
+    "translation": ">>> 人类玩家获得了奶 <<<",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": ">>> 人类玩家获得了奶 <<<",
+      "KR": "",
+      "TW": ""
+    }
   },
   ">>> PLAYER HAS PICKED UP HEDGE <<<": {
-    "translation": ">>> 人类玩家获得了墙 <<<"
+    "translation": ">>> 人类玩家获得了墙 <<<",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": ">>> 人类玩家获得了墙 <<<",
+      "KR": "",
+      "TW": ""
+    }
   },
   ">>> PLAYER HAS PICKED UP ICE <<<": {
-    "translation": ">>> 人类玩家获得了冰 <<<"
+    "translation": ">>> 人类玩家获得了冰 <<<",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": ">>> 人类玩家获得了冰 <<<",
+      "KR": "",
+      "TW": ""
+    }
   },
   ">>> PLAYER HAS PICKED UP KILLER <<<": {
-    "translation": ">>> 人类玩家获得了终极 <<<"
+    "translation": ">>> 人类玩家获得了终极 <<<",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": ">>> 人类玩家获得了终极 <<<",
+      "KR": "",
+      "TW": ""
+    }
   },
   ">>> PLAYER HAS PICKED UP LIGHTNING <<<": {
-    "translation": ">>> 人类玩家获得了电 <<<"
+    "translation": ">>> 人类玩家获得了电 <<<",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": ">>> 人类玩家获得了电 <<<",
+      "KR": "",
+      "TW": ""
+    }
   },
   ">>> PLAYER HAS PICKED UP PUSH <<<": {
-    "translation": ">>> 人类玩家获得了风 <<<"
+    "translation": ">>> 人类玩家获得了风 <<<",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": ">>> 人类玩家获得了风 <<<",
+      "KR": "",
+      "TW": ""
+    }
   },
   ">>> PLAYER HAS PICKED UP ZOMBIE DRUG <<<": {
-    "translation": ">>> 僵尸玩家获得了欺压 <<<"
+    "translation": ">>> 僵尸玩家获得了欺压 <<<",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": ">>> 僵尸玩家获得了欺压 <<<",
+      "KR": "",
+      "TW": ""
+    }
   },
   ">>> PLAYER HAS PICKED UP ZOMBIE FIRE <<<": {
-    "translation": ">>> 僵尸玩家获得了火 <<<"
+    "translation": ">>> 僵尸玩家获得了火 <<<",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": ">>> 僵尸玩家获得了火 <<<",
+      "KR": "",
+      "TW": ""
+    }
   },
   ">>> PLAYER HAS PICKED UP ZOMBIE GRAVITY <<<": {
-    "translation": ">>> 僵尸玩家获得了黑洞 <<<"
+    "translation": ">>> 僵尸玩家获得了黑洞 <<<",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": ">>> 僵尸玩家获得了黑洞 <<<",
+      "KR": "",
+      "TW": ""
+    }
   },
   ">>> PLAYER HAS PICKED UP ZOMBIE HEAL <<<": {
-    "translation": ">>> 僵尸玩家获得了奶 <<<"
+    "translation": ">>> 僵尸玩家获得了奶 <<<",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": ">>> 僵尸玩家获得了奶 <<<",
+      "KR": "",
+      "TW": ""
+    }
   },
   ">>> PLAYER HAS PICKED UP ZOMBIE INVISIBLE <<<": {
-    "translation": ">>> 僵尸玩家获得了隐身 <<<"
+    "translation": ">>> 僵尸玩家获得了隐身 <<<",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": ">>> 僵尸玩家获得了隐身 <<<",
+      "KR": "",
+      "TW": ""
+    }
   },
   ">>> PLAYER HAS PICKED UP ZOMBIE KILLER <<<": {
-    "translation": ">>> 僵尸玩家获得了秒杀 <<<"
+    "translation": ">>> 僵尸玩家获得了秒杀 <<<",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": ">>> 僵尸玩家获得了秒杀 <<<",
+      "KR": "",
+      "TW": ""
+    }
   },
   ">>> PLAYER HAS PICKED UP ZOMBIE POISON <<<": {
-    "translation": ">>> 僵尸玩家获得了毒 <<<"
+    "translation": ">>> 僵尸玩家获得了毒 <<<",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": ">>> 僵尸玩家获得了毒 <<<",
+      "KR": "",
+      "TW": ""
+    }
   },
   ">>> RUN <<<": {
-    "translation": ">>> 跑 <<<"
+    "translation": ">>> 跑 <<<",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": ">>> 跑 <<<",
+      "KR": "",
+      "TW": ""
+    }
   },
   ">>> SHOOT DRAGON <<<": {
-    "translation": ">>> 射击龙 <<<"
+    "translation": ">>> 射击龙 <<<",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": ">>> 射击龙 <<<",
+      "KR": "",
+      "TW": ""
+    }
   },
   ">>> SHOOT GARGANTUA <<<": {
-    "translation": ">>> 射击喷火巨兽 <<<"
+    "translation": ">>> 射击喷火巨兽 <<<",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": ">>> 射击喷火巨兽 <<<",
+      "KR": "",
+      "TW": ""
+    }
   },
   ">>> SPIDER IS COMING <<<": {
-    "translation": ">>> 蜘蛛来了 <<<"
+    "translation": ">>> 蜘蛛来了 <<<",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": ">>> 蜘蛛来了 <<<",
+      "KR": "",
+      "TW": ""
+    }
   },
   ">>> SPIDER IS DEFEATED <<<": {
-    "translation": ">>> 蜘蛛被击败了 <<<"
+    "translation": ">>> 蜘蛛被击败了 <<<",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": ">>> 蜘蛛被击败了 <<<",
+      "KR": "",
+      "TW": ""
+    }
   },
   ">>> SPIDER USED POISON <<<": {
-    "translation": ">>> 5秒，蜘蛛使用了毒 <<<"
+    "translation": ">>> 5秒，蜘蛛使用了毒 <<<",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": ">>> 5秒，蜘蛛使用了毒 <<<",
+      "KR": "",
+      "TW": ""
+    }
   },
   ">>> STAGE 1 <<<": {
-    "translation": ">>> 第1关 <<<"
+    "translation": ">>> 第1关 <<<",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": ">>> 第1关 <<<",
+      "KR": "",
+      "TW": ""
+    }
   },
   ">>> STAGE 1 COMPLETED <<<": {
-    "translation": ">>> 第1关完成 <<<"
+    "translation": ">>> 第1关完成 <<<",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": ">>> 第1关完成 <<<",
+      "KR": "",
+      "TW": ""
+    }
   },
   ">>> STAGE 2 <<<": {
-    "translation": ">>> 第2关 <<<"
+    "translation": ">>> 第2关 <<<",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": ">>> 第2关 <<<",
+      "KR": "",
+      "TW": ""
+    }
   },
   ">>> STAGE 2 COMPLETED <<<": {
-    "translation": ">>> 第2关完成 <<<"
+    "translation": ">>> 第2关完成 <<<",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": ">>> 第2关完成 <<<",
+      "KR": "",
+      "TW": ""
+    }
   },
   ">>> STAGE 3 <<<": {
-    "translation": ">>> 第3关 <<<"
+    "translation": ">>> 第3关 <<<",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": ">>> 第3关 <<<",
+      "KR": "",
+      "TW": ""
+    }
   },
   ">>> STAGE 3 COMPLETED <<<": {
-    "translation": ">>> 第3关完成 <<<"
+    "translation": ">>> 第3关完成 <<<",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": ">>> 第3关完成 <<<",
+      "KR": "",
+      "TW": ""
+    }
   },
   ">>> STAGE 4 <<<": {
-    "translation": ">>> 第4关 <<<"
+    "translation": ">>> 第4关 <<<",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": ">>> 第4关 <<<",
+      "KR": "",
+      "TW": ""
+    }
   },
   ">>> STAGE 4 COMPLETED <<<": {
-    "translation": ">>> 第4关完成 <<<"
+    "translation": ">>> 第4关完成 <<<",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": ">>> 第4关完成 <<<",
+      "KR": "",
+      "TW": ""
+    }
   },
   ">>> STAGE 5 <<<": {
-    "translation": ">>> 第5关 <<<"
+    "translation": ">>> 第5关 <<<",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": ">>> 第5关 <<<",
+      "KR": "",
+      "TW": ""
+    }
   },
   ">>> STAGE 5 COMPLETED <<<": {
-    "translation": ">>> 第5关完成 <<<"
+    "translation": ">>> 第5关完成 <<<",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": ">>> 第5关完成 <<<",
+      "KR": "",
+      "TW": ""
+    }
   },
   ">>> STAGE 6 <<<": {
-    "translation": ">>> 第6关 <<<"
+    "translation": ">>> 第6关 <<<",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": ">>> 第6关 <<<",
+      "KR": "",
+      "TW": ""
+    }
   },
   ">>> STAGE 6 COMPLETED <<<": {
-    "translation": ">>> 第6关完成 <<<"
+    "translation": ">>> 第6关完成 <<<",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": ">>> 第6关完成 <<<",
+      "KR": "",
+      "TW": ""
+    }
   },
   ">>> SURVIVE 4 MINUTES <<<": {
-    "translation": ">>> 生存240秒 <<<"
+    "translation": ">>> 生存240秒 <<<",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": ">>> 生存240秒 <<<",
+      "KR": "",
+      "TW": ""
+    }
   },
   ">>> TELEPORTED TO CASTLE GET OUT<<<": {
-    "translation": ">>> 传送到城堡，快出去 <<< "
+    "translation": ">>> 传送到城堡，快出去 <<<",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": ">>> 传送到城堡，快出去 <<<",
+      "KR": "",
+      "TW": ""
+    }
   },
   ">>> TELEPORTER ACTIVATE IN 10 SECONDS <<<": {
-    "translation": ">>> 10秒后激活传送器 <<<"
+    "translation": ">>> 10秒后激活传送器 <<<",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": ">>> 10秒后激活传送器 <<<",
+      "KR": "",
+      "TW": ""
+    }
   },
   ">>> TELEPORTER ACTIVATE IN 20 SECONDS <<<": {
-    "translation": ">>> 20秒后激活传送器 <<<"
+    "translation": ">>> 20秒后激活传送器 <<<",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": ">>> 20秒后激活传送器 <<<",
+      "KR": "",
+      "TW": ""
+    }
   },
   ">>> TROLL IS COMING <<<": {
-    "translation": ">>> 巨魔来了 <<<"
+    "translation": ">>> 巨魔来了 <<<",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": ">>> 巨魔来了 <<<",
+      "KR": "",
+      "TW": ""
+    }
   },
   ">>> TROLL IS DEFEATED <<<": {
-    "translation": ">>> 巨魔被击败了 <<<"
+    "translation": ">>> 巨魔被击败了 <<<",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": ">>> 巨魔被击败了 <<<",
+      "KR": "",
+      "TW": ""
+    }
   },
   ">>> Thanks to nano (Help & Ideas) <<<": {
-    "translation": ">>> 感谢nano（帮助和点子） <<<"
+    "translation": ">>> 感谢nano（帮助和点子） <<<",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": ">>> 感谢nano（帮助和点子） <<<",
+      "KR": "",
+      "TW": ""
+    }
   },
   ">>> WARMUP ROUND 10 SECONDS REMAINING <<<": {
-    "translation": ">>> 热身回合，10秒 <<<"
+    "translation": ">>> 热身回合，10秒 <<<",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": ">>> 热身回合，10秒 <<<",
+      "KR": "",
+      "TW": ""
+    }
   },
   ">>> WARMUP ROUND 20 SECONDS REMAINING <<<": {
-    "translation": ">>> 热身回合，20秒 <<<"
+    "translation": ">>> 热身回合，20秒 <<<",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": ">>> 热身回合，20秒 <<<",
+      "KR": "",
+      "TW": ""
+    }
   },
   ">>> WARMUP ROUND 30 SECONDS REMAINING <<<": {
-    "translation": ">>> 热身回合，30秒 <<<"
+    "translation": ">>> 热身回合，30秒 <<<",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": ">>> 热身回合，30秒 <<<",
+      "KR": "",
+      "TW": ""
+    }
   },
   ">>> WARMUP ROUND 40 SECONDS REMAINING <<<": {
-    "translation": ">>> 热身回合，40秒 <<<"
+    "translation": ">>> 热身回合，40秒 <<<",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": ">>> 热身回合，40秒 <<<",
+      "KR": "",
+      "TW": ""
+    }
   },
   ">>> WARMUP ROUND END <<<": {
-    "translation": ">>> 热身回合结束 <<<"
+    "translation": ">>> 热身回合结束 <<<",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": ">>> 热身回合结束 <<<",
+      "KR": "",
+      "TW": ""
+    }
   },
   ">>> ZOMBIES GET IN <<<": {
-    "translation": ">>> 僵尸进来了 <<<"
+    "translation": ">>> 僵尸进来了 <<<",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": ">>> 僵尸进来了 <<<",
+      "KR": "",
+      "TW": ""
+    }
   },
   ">>> CS2 port special thanks: 超帅气の叫兽, 范小胖, Kxnrl <<<": {
-    "translation": ">>> CS2版本移植特别感谢: 超帅气の叫兽, 范小胖, Kxnrl <<<"
+    "translation": ">>> CS2版本移植特别感谢: 超帅气の叫兽, 范小胖, Kxnrl <<<",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": ">>> CS2版本移植特别感谢: 超帅气の叫兽, 范小胖, Kxnrl <<<",
+      "KR": "",
+      "TW": ""
+    }
   }
 }
