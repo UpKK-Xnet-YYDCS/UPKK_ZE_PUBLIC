@@ -8,21 +8,13 @@ on:
 jobs:
   translate_and_pr:
     runs-on: self-hosted
+    timeout-minutes: 30   #限制最长执行时间
     if: github.event_name == 'push'
     steps:
       - name: Checkout code
         uses: actions/checkout@v4
         with:
           fetch-depth: 0  # 拉取完整历史，确保能建新分支
-
-      - name: Setup Python
-        uses: actions/setup-python@v4
-        with:
-          python-version: '3.x'
-
-      - name: Install dependencies
-        run: |
-          pip install requests
 
       - name: Run translation for modified files
         id: run_translation
