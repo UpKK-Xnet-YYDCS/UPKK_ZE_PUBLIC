@@ -34,7 +34,7 @@ jobs:
           for file in $CHANGED_FILES; do
             echo "处理: $file"
             # 你自己的翻译脚本，单文件处理
-            python scripts/ollama_translation_maptext.py --file "$file"
+            py scripts/ollama_translation_maptext.py --file "$file"
           done
 
           echo "files_changed=true" >> $GITHUB_ENV
