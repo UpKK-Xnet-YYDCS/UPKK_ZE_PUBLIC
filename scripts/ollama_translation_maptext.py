@@ -151,7 +151,7 @@ def process_file(file_path):
                 else:
                     translated = translate_text(original_text, lang_code)
 
-                if translated and is_valid_translation(translated) and (lang_code == 'US' or len(translated) <= len(original_text) * 2):
+                if translated and is_valid_translation(translated) and (lang_code == 'US' or len(translated) <= len(original_text) * 5):
                     value[lang_code] = translated
                     modified = True
                     lang_name = LANGUAGE_MAP[lang_code][0]
