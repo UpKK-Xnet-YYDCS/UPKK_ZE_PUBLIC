@@ -1,16 +1,12 @@
-# 本地部署ollama 并利用 qwen2:7b模型 进行自动化翻译
-# ollama pull qwen2:7b
-# 将配置和路径修改为正确的本地ollama地址 运行此脚本. 
-# 如具有更好的GPU算力则可以使用更大的模型以达到更精确的效果
-
 import requests
 import json
 import os
 import re
 import time
 import sys
+import shutil
 import argparse
-
+from tqdm import tqdm
 
 # 配置
 OLLAMA_URL = "http://192.168.50.146:11434/api/generate"
@@ -27,22 +23,20 @@ LANGUAGE_MAP = {
 }
 
 # 休息配置
-REST_SECONDS = 180         # 每次休息时间（秒）
-CONTINUOUS_WORK_SECONDS_BEFORE_REST = 900  # 连续工作超过多少秒后休息（900秒=15分钟）
+REST_SECONDS = 180
+CONTINUOUS_WORK_SECONDS_BEFORE_REST = 900
 
 # 翻译相关配置
 MAX_RETRIES = 3
 TIMEOUT_SECONDS = 60
 
-# 判断是否是简单英文/符号
+# 工具函数
 def should_skip(text):
     return bool(re.match(r'^[A-Za-z0-9\s\-\.\,\!\?\'\"\[\]\(\)\/\:\;]*$', text))
 
-# 判断是不是英文组成
 def is_english_text(text):
     return bool(re.match(r'^[A-Za-z0-9\s\-\.\,\!\?\'\"\[\]\(\)\/\:\;\*\`\~\@\#\$\%\^\&\_\+\=\|\>\<\{\}]*$', text))
 
-# 判断是不是成型的英文（大写比例高）
 def is_finalized_english_text(text):
     if not is_english_text(text):
         return False
@@ -50,9 +44,8 @@ def is_finalized_english_text(text):
     if not letters:
         return False
     uppercase_ratio = sum(1 for c in letters if c.isupper()) / len(letters)
-    return uppercase_ratio >= 0.8  # 大写比例超过80%，认为是成型英文
+    return uppercase_ratio >= 0.8
 
-# 清理非法字符
 def sanitize_text(text):
     if not text:
         return ""
@@ -60,7 +53,6 @@ def sanitize_text(text):
     text = ''.join(c for c in text if c >= ' ' or c == '\n')
     return text.strip()
 
-# 判断翻译是否有效
 def is_valid_translation(text):
     if not text:
         return False
@@ -71,14 +63,12 @@ def is_valid_translation(text):
         return False
     return True
 
-# 提取最后一行翻译
 def extract_translation(text):
     lines = [line.strip() for line in text.strip().splitlines() if line.strip()]
     if not lines:
         return ""
     return lines[-1]
 
-# 生成翻译prompt
 def build_prompt(target_language, original_text):
     return (
         f"Act as a professional game text translator.\n"
@@ -89,8 +79,55 @@ def build_prompt(target_language, original_text):
         f"Text:\n{original_text}"
     )
 
+# 动态进度条+ETA
+def print_progress(current, total, start_time, prefix="进度", source_text=None, target_lang=None, translated_text=None, filename=None):
+    terminal_width = shutil.get_terminal_size((80, 20)).columns
+    bar_length = min(terminal_width - 50, 60)
+    filled_length = int(bar_length * current // total)
+    bar = '■' * filled_length + '□' * (bar_length - filled_length)
+    percent = f"{(current / total) * 100:.1f}%"
+    filename_info = f' [{filename}]' if filename else ''
 
-# 调用ollama翻译
+    elapsed_time = time.time() - start_time
+    avg_time_per_item = elapsed_time / current if current else 0
+    eta_seconds = int(avg_time_per_item * (total - current))
+    eta_minutes = eta_seconds // 60
+    eta_seconds %= 60
+    eta_display = f'ETA: {eta_minutes}m{eta_seconds}s'
+
+    # 改为标准清空
+    sys.stdout.write('\r')
+    sys.stdout.write(' ' * terminal_width)
+    sys.stdout.write('\r')
+
+    progress_bar = f'{prefix}{filename_info}: [{bar}] {percent} ({current}/{total}) {eta_display}'
+    sys.stdout.write(progress_bar)
+
+    if source_text and target_lang and translated_text:
+        source_text = (source_text[:20] + '...') if len(source_text) > 20 else source_text
+        translated_text = (translated_text[:20] + '...') if len(translated_text) > 20 else translated_text
+        extra_info = f'\n "{source_text}" ➔ ({target_lang}) "{translated_text}"'
+        sys.stdout.write(extra_info)
+
+    sys.stdout.flush()
+
+
+# 动态休息倒计时（分钟+秒）
+def dynamic_rest(seconds):
+    terminal_width = shutil.get_terminal_size((80, 20)).columns
+    for remaining in range(seconds, 0, -1):
+        minutes = remaining // 60
+        secs = remaining % 60
+        message = f'休息中... 剩余 {minutes}分{secs}秒'
+        sys.stdout.write('\r' + ' ' * (terminal_width - 1) + '\r')
+        sys.stdout.write(message)
+        sys.stdout.flush()
+        time.sleep(1)
+    sys.stdout.write('\r' + ' ' * (terminal_width - 1) + '\r')
+    sys.stdout.write('休息结束，继续处理...\n')
+    sys.stdout.flush()
+
+# 翻译文本（带重试提示）
 def translate_text(original_text, lang_code):
     _, lang_en_name = LANGUAGE_MAP[lang_code]
     prompt = build_prompt(lang_en_name, original_text)
@@ -107,33 +144,13 @@ def translate_text(original_text, lang_code):
             result = response.json()
             translation = result.get('response', '')
             return sanitize_text(extract_translation(translation))
-        except Exception:
+        except Exception as e:
             if attempt < MAX_RETRIES:
+                print(f"\n[警告] 翻译失败，正在进行第 {attempt} 次重试...\n")
                 time.sleep(2)
             else:
+                print(f"\n[错误] 翻译失败，已达到最大重试次数，跳过该条目。")
                 return None
-
-# 打印进度条，并实时展示处理的内容
-def print_progress(current, total, prefix="进度", source_text=None, target_lang=None, translated_text=None, filename=None):
-    bar_length = 40
-    filled_length = int(bar_length * current // total)
-    bar = '■' * filled_length + '□' * (bar_length - filled_length)
-    percent = f"{(current / total) * 100:.1f}%"
-    
-    # 新增：文件名显示
-    filename_info = f' [{filename}]' if filename else ''
-    
-    progress_bar = f'{prefix}{filename_info}: [{bar}] {percent} ({current}/{total})'
-
-    if source_text and target_lang and translated_text:
-        source_text = (source_text[:30] + '...') if len(source_text) > 30 else source_text
-        translated_text = (translated_text[:30] + '...') if len(translated_text) > 30 else translated_text
-        extra_info = f'  "{source_text}" ➔ ({target_lang}) "{translated_text}"'
-        sys.stdout.write(f'\r{progress_bar}{extra_info}')
-    else:
-        sys.stdout.write(f'\r{progress_bar}')
-    sys.stdout.flush()
-
 
 # 处理单个文件
 def process_file(file_path):
@@ -145,34 +162,40 @@ def process_file(file_path):
     total_keys = len(keys)
     modified = False
 
-    for idx, key in enumerate(keys, start=1):
-        if not key or not isinstance(data[key].get('MultiLang'), dict):
-            continue
+    # tqdm进度条（处理每个 key）
+    with tqdm(total=total_keys, desc=f"[文件] {filename}", ncols=100, unit="条", dynamic_ncols=True) as pbar:
+        for idx, key in enumerate(keys, start=1):
+            if not key or not isinstance(data[key].get('MultiLang'), dict):
+                pbar.update(1)
+                continue
 
-        original_text = key.strip()
-        value = data[key]['MultiLang']
+            original_text = key.strip()
+            value = data[key]['MultiLang']
 
-        # 处理每个语言
-        for lang_code in ['US', 'JP', 'CN', 'KR', 'TW']:
-            if value.get(lang_code, "") == "":
-                translated = ""
+            for lang_code in ['US', 'JP', 'CN', 'KR', 'TW']:
+                if value.get(lang_code, "") == "":
+                    translated = ""
 
-                if lang_code == 'US':
-                    if is_finalized_english_text(original_text):
-                        translated = sanitize_text(original_text)
+                    if lang_code == 'US':
+                        if is_finalized_english_text(original_text):
+                            translated = sanitize_text(original_text)
+                        else:
+                            translated = translate_text(original_text, "US")
                     else:
-                        translated = translate_text(original_text, "US")
-                else:
-                    translated = translate_text(original_text, lang_code)
+                        translated = translate_text(original_text, lang_code)
 
-                if translated and is_valid_translation(translated) and (lang_code == 'US' or len(translated) <= len(original_text) * 5):
-                    value[lang_code] = translated
-                    modified = True
-                    lang_name = LANGUAGE_MAP[lang_code][0]
-                    print_progress(idx, total_keys, prefix="当前进度", source_text=original_text, target_lang=lang_name, translated_text=translated, filename=os.path.basename(file_path))
-                else:
-                    # 翻译无效，不写入，保持空
-                    pass
+                    if translated and is_valid_translation(translated) and (lang_code == 'US' or len(translated) <= len(original_text) * 5):
+                        value[lang_code] = translated
+                        modified = True
+
+                        # 更新进度条后缀
+                        pbar.set_postfix({
+                            "原文": (original_text[:10] + '...') if len(original_text) > 10 else original_text,
+                            "翻译": (translated[:10] + '...') if len(translated) > 10 else translated,
+                            "语言": lang_code
+                        })
+
+            pbar.update(1)  # 每处理一个 key，进度加一
 
     if modified:
         try:
@@ -195,7 +218,6 @@ def main():
     print(f"设置: 连续处理 {CONTINUOUS_WORK_SECONDS_BEFORE_REST // 60} 分钟后休息 {REST_SECONDS // 60} 分钟\n")
 
     if args.file:
-        # 指定了单文件
         file_path = args.file
         if not os.path.isfile(file_path):
             print(f"错误: 文件不存在 -> {file_path}")
@@ -203,32 +225,33 @@ def main():
         print(f"\n处理单个文件: {file_path}\n")
         process_file(file_path)
     else:
-        # 批量处理整个目录
-        file_list = [f for f in os.listdir(DIRECTORY) if f.endswith('.jsonc')]
+        file_list = sorted(
+            [f for f in os.listdir(DIRECTORY) if f.endswith('.jsonc')],
+            key=lambda x: os.path.getsize(os.path.join(DIRECTORY, x))
+        )
         total_files = len(file_list)
 
         start_time = time.time()
         last_rest_time = start_time
 
-        for idx, filename in enumerate(file_list, start=1):
-            print(f"\n\n处理文件 ({idx}/{total_files}): {filename}")
-            file_path = os.path.join(DIRECTORY, filename)
-            process_file(file_path)
+        with tqdm(total=total_files, desc="处理所有文件", ncols=100, unit="个", dynamic_ncols=True) as pbar:
+            for idx, filename in enumerate(file_list, start=1):
+                file_path = os.path.join(DIRECTORY, filename)
+                process_file(file_path)
+                pbar.update(1)
 
-            now = time.time()
-            elapsed_since_last_rest = now - last_rest_time
+                now = time.time()
+                elapsed_since_last_rest = now - last_rest_time
 
-            if CONTINUOUS_WORK_SECONDS_BEFORE_REST > 0 and REST_SECONDS > 0:
-                if elapsed_since_last_rest >= CONTINUOUS_WORK_SECONDS_BEFORE_REST and idx != total_files:
-                    print(f"\n连续处理了 {elapsed_since_last_rest/60:.1f} 分钟，休息 {REST_SECONDS // 60} 分钟...")
-                    time.sleep(REST_SECONDS)
-                    last_rest_time = time.time()
+                if CONTINUOUS_WORK_SECONDS_BEFORE_REST > 0 and REST_SECONDS > 0:
+                    if elapsed_since_last_rest >= CONTINUOUS_WORK_SECONDS_BEFORE_REST and idx != total_files:
+                        print(f"\n连续处理了 {elapsed_since_last_rest/60:.1f} 分钟，需要休息 {REST_SECONDS // 60} 分钟...")
+                        dynamic_rest(REST_SECONDS)
+                        last_rest_time = time.time()
 
         print("\n\n=== 全部完成 ===")
         print(f"共处理文件: {total_files}")
 
-if __name__ == "__main__":
-    main()
 
 if __name__ == "__main__":
     main()

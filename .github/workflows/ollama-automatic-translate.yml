@@ -27,7 +27,7 @@ jobs:
       - name: Install required Python packages
         shell: bash
         run: |
-          pip install requests
+          pip install requests tqdm
 
       - name: Run translation for modified files
         id: run_translation
