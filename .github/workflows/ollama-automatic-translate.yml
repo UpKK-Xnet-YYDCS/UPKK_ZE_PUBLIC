@@ -16,6 +16,11 @@ jobs:
         with:
           fetch-depth: 0  # 拉取完整历史，确保能创建新分支
 
+      - name: Install required Python packages
+        shell: bash
+        run: |
+          pip install requests
+
       - name: Run translation for modified files
         id: run_translation
         shell: bash   # 指定 bash 解释器，避免PowerShell错误
