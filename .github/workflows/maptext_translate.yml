@@ -1,0 +1,72 @@
+name: Auto Translate and Create PR
+
+on:
+  push:
+    paths:
+      - 'cs2/counterstrikesharp/configs/map-text/**/*.jsonc'
+
+jobs:
+  translate_and_pr:
+    runs-on: self-hosted
+    if: github.event_name == 'push'
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0  # 拉取完整历史，确保能建新分支
+
+      - name: Setup Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.x'
+
+      - name: Install dependencies
+        run: |
+          pip install requests
+
+      - name: Run translation for modified files
+        id: run_translation
+        run: |
+          echo "查找本次提交变更的 .jsonc 文件..."
+          CHANGED_FILES=$(git diff --name-only ${{ github.event.before }} ${{ github.event.after }} | grep '^cs2/counterstrikesharp/configs/map-text/.*\.jsonc$' || true)
+
+          if [ -z "$CHANGED_FILES" ]; then
+            echo "没有变化的 .jsonc 文件。退出。"
+            echo "files_changed=false" >> $GITHUB_ENV
+            exit 0
+          fi
+
+          echo "以下文件将被处理:"
+          echo "$CHANGED_FILES"
+          for file in $CHANGED_FILES; do
+            echo "处理: $file"
+            python scripts/ollama_translation_maptext.py --file "$file"
+          done
+
+          echo "files_changed=true" >> $GITHUB_ENV
+
+      - name: Create PR if needed
+        if: env.files_changed == 'true'
+        run: |
+          echo "配置Git用户信息..."
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+
+          BRANCH_NAME="auto/translate-$(date +%Y%m%d%H%M%S)"
+          echo "创建新分支: $BRANCH_NAME"
+          git checkout -b $BRANCH_NAME
+
+          echo "添加变更..."
+          git add cs2/counterstrikesharp/configs/map-text/*.jsonc
+
+          echo "提交变更..."
+          git commit -m "Auto translation update"
+
+          echo "推送新分支到远程..."
+          git push origin $BRANCH_NAME
+
+          echo "自动创建Pull Request..."
+          gh pr create --title "Auto Translate Update" --body "This PR contains automated translation updates." --base main --head $BRANCH_NAME
+          
+    env:
+      GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
