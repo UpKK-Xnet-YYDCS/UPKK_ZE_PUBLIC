@@ -67,4 +67,4 @@ jobs:
             该 PR 包含自动翻译更新的内容。
             请审核并确认更改。
           branch: 'auto-translate-${{ github.run_id }}'
-          base: main
+          base: master
