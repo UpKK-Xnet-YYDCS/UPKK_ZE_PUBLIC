@@ -114,12 +114,16 @@ def translate_text(original_text, lang_code):
                 return None
 
 # 打印进度条，并实时展示处理的内容
-def print_progress(current, total, prefix="进度", source_text=None, target_lang=None, translated_text=None):
+def print_progress(current, total, prefix="进度", source_text=None, target_lang=None, translated_text=None, filename=None):
     bar_length = 40
     filled_length = int(bar_length * current // total)
     bar = '■' * filled_length + '□' * (bar_length - filled_length)
     percent = f"{(current / total) * 100:.1f}%"
-    progress_bar = f'{prefix}: [{bar}] {percent} ({current}/{total})'
+    
+    # 新增：文件名显示
+    filename_info = f' [{filename}]' if filename else ''
+    
+    progress_bar = f'{prefix}{filename_info}: [{bar}] {percent} ({current}/{total})'
 
     if source_text and target_lang and translated_text:
         source_text = (source_text[:30] + '...') if len(source_text) > 30 else source_text
@@ -129,6 +133,7 @@ def print_progress(current, total, prefix="进度", source_text=None, target_lan
     else:
         sys.stdout.write(f'\r{progress_bar}')
     sys.stdout.flush()
+
 
 # 处理单个文件
 def process_file(file_path):
@@ -164,7 +169,7 @@ def process_file(file_path):
                     value[lang_code] = translated
                     modified = True
                     lang_name = LANGUAGE_MAP[lang_code][0]
-                    print_progress(idx, total_keys, prefix="条目进度", source_text=original_text, target_lang=lang_name, translated_text=translated)
+                    print_progress(idx, total_keys, prefix="当前进度", source_text=original_text, target_lang=lang_name, translated_text=translated, filename=os.path.basename(file_path))
                 else:
                     # 翻译无效，不写入，保持空
                     pass

@@ -11,7 +11,7 @@ on:
 jobs:
   translate_and_pr:
     runs-on: self-hosted
-    timeout-minutes: 30   # 总执行最多30分钟
+    timeout-minutes: 60   # 总执行最多60分钟
     if: github.event_name == 'push'
     steps:
       - name: Checkout code
@@ -28,8 +28,6 @@ jobs:
         shell: bash
         run: |
           pip install requests
-
-
 
       - name: Run translation for modified files
         id: run_translation
@@ -59,35 +57,14 @@ jobs:
           echo "pr_title=${BASE_FILENAME}-GitAction-本地模型qwen2:7b自动化翻译" >> $GITHUB_ENV
           echo "files_changed=true" >> $GITHUB_ENV
 
-
-      - name: Create PR if needed
+      - name: Create Pull Request
         if: env.files_changed == 'true'
-        shell: bash
-        run: |
-          echo "配置Git用户信息..."
-          git config user.name "github-actions[bot]"
-          git config user.email "github-actions[bot]@users.noreply.github.com"
-
-          BRANCH_NAME="auto/translate-$(date +%Y%m%d-%H%M%S)"
-          echo "创建新分支: $BRANCH_NAME"
-          git checkout -b "$BRANCH_NAME"
-
-          echo "添加变更..."
-          git add cs2/counterstrikesharp/configs/map-text/*.jsonc
-
-          echo "提交变更..."
-          git commit -m "Auto translation update $(date +%Y-%m-%d\ %H:%M:%S)"
-
-          echo "推送新分支到远程..."
-          git push origin "$BRANCH_NAME"
-
-          echo "自动创建Pull Request..."
-          gh pr create \
-            --title "${{ env.pr_title }}" \
-            --body "This PR contains automated translation updates." \
-            --base main \
-            --head "$BRANCH_NAME" \
-
-
-    env:
-      GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        uses: peter-evans/create-pull-request@v5
+        with:
+          commit-message: '自动化翻译更新'
+          title: '${{ env.pr_title }}'
+          body: |
+            该 PR 包含自动翻译更新的内容。
+            请审核并确认更改。
+          branch: 'auto-translate-${{ github.run_id }}'
+          base: main
