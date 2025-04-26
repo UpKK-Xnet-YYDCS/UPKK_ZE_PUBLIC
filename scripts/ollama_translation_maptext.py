@@ -9,6 +9,8 @@ import os
 import re
 import time
 import sys
+import argparse
+
 
 # 配置
 OLLAMA_URL = "http://192.168.50.146:11434/api/generate"
@@ -176,31 +178,52 @@ def process_file(file_path):
 
 # 主程序
 def main():
+    parser = argparse.ArgumentParser(description="本地批量翻译或单文件翻译脚本 (使用 Ollama + Qwen2:7b)")
+    parser.add_argument(
+        "-f", "--file",
+        type=str,
+        help="指定单个文件进行翻译处理（可选，若不指定则默认处理整个目录）"
+    )
+    args = parser.parse_args()
+
     print(f"使用模型: {MODEL} | API地址: {OLLAMA_URL}\n")
     print(f"设置: 连续处理 {CONTINUOUS_WORK_SECONDS_BEFORE_REST // 60} 分钟后休息 {REST_SECONDS // 60} 分钟\n")
 
-    file_list = [f for f in os.listdir(DIRECTORY) if f.endswith('.jsonc')]
-    total_files = len(file_list)
-
-    start_time = time.time()
-    last_rest_time = start_time
-
-    for idx, filename in enumerate(file_list, start=1):
-        print(f"\n\n处理文件 ({idx}/{total_files}): {filename}")
-        file_path = os.path.join(DIRECTORY, filename)
+    if args.file:
+        # 指定了单文件
+        file_path = args.file
+        if not os.path.isfile(file_path):
+            print(f"错误: 文件不存在 -> {file_path}")
+            return
+        print(f"\n处理单个文件: {file_path}\n")
         process_file(file_path)
+    else:
+        # 批量处理整个目录
+        file_list = [f for f in os.listdir(DIRECTORY) if f.endswith('.jsonc')]
+        total_files = len(file_list)
 
-        now = time.time()
-        elapsed_since_last_rest = now - last_rest_time
+        start_time = time.time()
+        last_rest_time = start_time
 
-        if CONTINUOUS_WORK_SECONDS_BEFORE_REST > 0 and REST_SECONDS > 0:
-            if elapsed_since_last_rest >= CONTINUOUS_WORK_SECONDS_BEFORE_REST and idx != total_files:
-                print(f"\n连续处理了 {elapsed_since_last_rest/60:.1f} 分钟，休息 {REST_SECONDS // 60} 分钟...")
-                time.sleep(REST_SECONDS)
-                last_rest_time = time.time()
+        for idx, filename in enumerate(file_list, start=1):
+            print(f"\n\n处理文件 ({idx}/{total_files}): {filename}")
+            file_path = os.path.join(DIRECTORY, filename)
+            process_file(file_path)
 
-    print("\n\n=== 全部完成 ===")
-    print(f"共处理文件: {total_files}")
+            now = time.time()
+            elapsed_since_last_rest = now - last_rest_time
+
+            if CONTINUOUS_WORK_SECONDS_BEFORE_REST > 0 and REST_SECONDS > 0:
+                if elapsed_since_last_rest >= CONTINUOUS_WORK_SECONDS_BEFORE_REST and idx != total_files:
+                    print(f"\n连续处理了 {elapsed_since_last_rest/60:.1f} 分钟，休息 {REST_SECONDS // 60} 分钟...")
+                    time.sleep(REST_SECONDS)
+                    last_rest_time = time.time()
+
+        print("\n\n=== 全部完成 ===")
+        print(f"共处理文件: {total_files}")
+
+if __name__ == "__main__":
+    main()
 
 if __name__ == "__main__":
     main()
