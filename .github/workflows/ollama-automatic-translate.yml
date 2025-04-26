@@ -1,5 +1,8 @@
 name: Ollama - automatic Translate and Create PR
 
+env:
+  PYTHONUTF8: 1
+
 on:
   push:
     paths:
