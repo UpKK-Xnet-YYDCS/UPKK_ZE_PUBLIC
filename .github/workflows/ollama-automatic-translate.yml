@@ -33,7 +33,7 @@ jobs:
 
       - name: Run translation for modified files
         id: run_translation
-        shell: bash   # 指定 bash 解释器，避免PowerShell错误
+        shell: bash
         run: |
           echo "查找本次提交变更的 .jsonc 文件..."
           CHANGED_FILES=$(git diff --name-only ${{ github.event.before }} ${{ github.event.after }} | grep '^cs2/counterstrikesharp/configs/map-text/.*\.jsonc$' || true)
@@ -48,21 +48,26 @@ jobs:
           echo "$CHANGED_FILES"
           for file in $CHANGED_FILES; do
             echo "处理: $file"
-            # 你自己的翻译脚本，单文件处理
             python scripts/ollama_translation_maptext.py --file "$file"
           done
 
+          # 取第一个变化的文件名，去掉路径前缀
+          FIRST_FILE=$(echo "$CHANGED_FILES" | head -n 1)
+          BASE_FILENAME=$(basename "$FIRST_FILE")
+
+          echo "第一个变更文件: $BASE_FILENAME"
+          echo "pr_title=${BASE_FILENAME}-GitAction-本地模型qwen2:7b自动化翻译" >> $GITHUB_ENV
           echo "files_changed=true" >> $GITHUB_ENV
+
 
       - name: Create PR if needed
         if: env.files_changed == 'true'
-        shell: bash   # 也用 bash，保持一致
+        shell: bash
         run: |
           echo "配置Git用户信息..."
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
 
-          # 生成带时间戳的分支名
           BRANCH_NAME="auto/translate-$(date +%Y%m%d-%H%M%S)"
           echo "创建新分支: $BRANCH_NAME"
           git checkout -b "$BRANCH_NAME"
@@ -77,13 +82,12 @@ jobs:
           git push origin "$BRANCH_NAME"
 
           echo "自动创建Pull Request..."
-          # --draft 创建成草稿PR，防止误合并；标题加上时间戳
           gh pr create \
-            --title "Auto Translate Update $(date +%Y-%m-%d\ %H:%M)" \
+            --title "${{ env.pr_title }}" \
             --body "This PR contains automated translation updates." \
             --base main \
             --head "$BRANCH_NAME" \
-            --draft
+
 
     env:
       GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
