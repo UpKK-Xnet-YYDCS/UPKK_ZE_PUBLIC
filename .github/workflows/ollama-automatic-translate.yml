@@ -1,4 +1,4 @@
-name: Auto Translate and Create PR
+name: Ollama - automatic Translate and Create PR
 
 on:
   push:
@@ -8,16 +8,17 @@ on:
 jobs:
   translate_and_pr:
     runs-on: self-hosted
-    timeout-minutes: 30   #限制最长执行时间
+    timeout-minutes: 30   # 总执行最多30分钟
     if: github.event_name == 'push'
     steps:
       - name: Checkout code
         uses: actions/checkout@v4
         with:
-          fetch-depth: 0  # 拉取完整历史，确保能建新分支
+          fetch-depth: 0  # 拉取完整历史，确保能创建新分支
 
       - name: Run translation for modified files
         id: run_translation
+        shell: bash   # 指定 bash 解释器，避免PowerShell错误
         run: |
           echo "查找本次提交变更的 .jsonc 文件..."
           CHANGED_FILES=$(git diff --name-only ${{ github.event.before }} ${{ github.event.after }} | grep '^cs2/counterstrikesharp/configs/map-text/.*\.jsonc$' || true)
@@ -32,6 +33,7 @@ jobs:
           echo "$CHANGED_FILES"
           for file in $CHANGED_FILES; do
             echo "处理: $file"
+            # 你自己的翻译脚本，单文件处理
             python scripts/ollama_translation_maptext.py --file "$file"
           done
 
@@ -39,26 +41,34 @@ jobs:
 
       - name: Create PR if needed
         if: env.files_changed == 'true'
+        shell: bash   # 也用 bash，保持一致
         run: |
           echo "配置Git用户信息..."
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
 
-          BRANCH_NAME="auto/translate-$(date +%Y%m%d%H%M%S)"
+          # 生成带时间戳的分支名
+          BRANCH_NAME="auto/translate-$(date +%Y%m%d-%H%M%S)"
           echo "创建新分支: $BRANCH_NAME"
-          git checkout -b $BRANCH_NAME
+          git checkout -b "$BRANCH_NAME"
 
           echo "添加变更..."
           git add cs2/counterstrikesharp/configs/map-text/*.jsonc
 
           echo "提交变更..."
-          git commit -m "Auto translation update"
+          git commit -m "Auto translation update $(date +%Y-%m-%d\ %H:%M:%S)"
 
           echo "推送新分支到远程..."
-          git push origin $BRANCH_NAME
+          git push origin "$BRANCH_NAME"
 
           echo "自动创建Pull Request..."
-          gh pr create --title "Auto Translate Update" --body "This PR contains automated translation updates." --base main --head $BRANCH_NAME
-          
+          # --draft 创建成草稿PR，防止误合并；标题加上时间戳
+          gh pr create \
+            --title "Auto Translate Update $(date +%Y-%m-%d\ %H:%M)" \
+            --body "This PR contains automated translation updates." \
+            --base main \
+            --head "$BRANCH_NAME" \
+            --draft
+
     env:
       GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
