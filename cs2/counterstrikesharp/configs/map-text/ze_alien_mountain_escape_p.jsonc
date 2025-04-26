@@ -2,81 +2,81 @@
   "*** AFK Teleport in 10 seconds ***": {
     "translation": "*** 10秒后AFK传送 ***",
     "MultiLang": {
-      "US": "",
-      "JP": "",
+      "US": "\"AFK Teleport will occur in 10 seconds.\"",
+      "JP": "*** AFK テレポートが10秒後に開始します ***",
       "CN": "*** 10秒后AFK传送 ***",
-      "KR": "",
-      "TW": ""
+      "KR": "** 10초 후 AFK 전송 **",
+      "TW": "*** 離線傳送，10秒後生效 ***"
     }
   },
   "*** AFK Teleport in 15 seconds ***": {
     "translation": "*** 15秒后AFK传送 ***",
     "MultiLang": {
-      "US": "",
-      "JP": "",
+      "US": "\"AFK Teleport will activate in 15 seconds.\"",
+      "JP": "*** AFK テレポートが15秒後に発生します ***",
       "CN": "*** 15秒后AFK传送 ***",
-      "KR": "",
-      "TW": ""
+      "KR": "** 15초 후의 AFK 텔레포트 **",
+      "TW": "**離線傳送到15秒後**"
     }
   },
   "*** Nuke in 20 seconds ***": {
     "translation": "*** 20秒后核爆 ***",
     "MultiLang": {
-      "US": "",
-      "JP": "",
+      "US": "Nuke in 20s",
+      "JP": "*** ニukes 20秒後 ***",
       "CN": "*** 20秒后核爆 ***",
-      "KR": "",
-      "TW": ""
+      "KR": "** 20초 후에 Nuke 사용가능 **",
+      "TW": "計時倒數20秒，核彈攻擊 ***"
     }
   },
   "*** Spaceship leaving ***": {
     "translation": "*** 飞船离开 ***",
     "MultiLang": {
-      "US": "",
-      "JP": "",
+      "US": "*** Ship departing ***",
+      "JP": "*** スペースシャトルが離航しています***",
       "CN": "*** 飞船离开 ***",
-      "KR": "",
-      "TW": ""
+      "KR": "*** 우주선 이탈 ***",
+      "TW": "*** 運輸船離開 ***"
     }
   },
   "*** Spaceship leaving in 10 seconds ***": {
     "translation": "*** 10秒后飞船离开 ***",
     "MultiLang": {
-      "US": "",
-      "JP": "",
+      "US": "*** Spaceship departs in 10 sec ***",
+      "JP": "*** スペースシャトルが10秒後に離航します ***",
       "CN": "*** 10秒后飞船离开 ***",
-      "KR": "",
-      "TW": ""
+      "KR": "**_spaceship_비행기_10_초_후_도착** **(Spaceship arriving in 10 seconds)**",
+      "TW": "*** 遊艇於10秒後離去***"
     }
   },
   "*** Spaceship leaving in 30 seconds ***": {
     "translation": "*** 30秒后飞船离开 ***",
     "MultiLang": {
-      "US": "",
-      "JP": "",
+      "US": "\"Spaceship departs in 30 seconds.\"",
+      "JP": "*** 30秒後、宇宙船が離艦します ***",
       "CN": "*** 30秒后飞船离开 ***",
-      "KR": "",
-      "TW": ""
+      "KR": "*** 우주선이 30초 후에 떠납니다 ***",
+      "TW": "三十分鐘後離航***"
     }
   },
   "*** Spaceship leaving in 60 seconds ***": {
     "translation": "*** 60秒后飞船离开 ***",
     "MultiLang": {
-      "US": "",
-      "JP": "",
+      "US": "Spaceship departing in 60 seconds.",
+      "JP": "*** 60秒後に宇宙船が出発します***",
       "CN": "*** 60秒后飞船离开 ***",
-      "KR": "",
-      "TW": ""
+      "KR": "60 초 후에 우주선 출발 ***",
+      "TW": "飛船即將離發，距離起飛還有60秒***"
     }
   },
   "*** Spaceship leaving in 90 seconds ***": {
     "translation": "*** 90秒后飞船离开 ***",
     "MultiLang": {
-      "US": "",
-      "JP": "",
+      "US": "*** Spaceship departs in 90s ***",
+      "JP": "*** 90秒後に宇宙船出発します ***",
       "CN": "*** 90秒后飞船离开 ***",
-      "KR": "",
-      "TW": ""
+      "KR": "*** 우주선이 90 초 후 출발 ***",
+      "TW": "*** 遊艇90秒後離港***"
     }
   }
 }
