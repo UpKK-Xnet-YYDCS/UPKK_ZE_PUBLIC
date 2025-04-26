@@ -19,7 +19,8 @@ jobs:
       - name: Install required Python packages
         shell: bash
         run: |
-          pip install requests
+          py -m pip install requests
+
 
       - name: Run translation for modified files
         id: run_translation
