@@ -87,26 +87,11 @@ def build_prompt(target_language, original_text):
         f"Text:\n{original_text}"
     )
 
-# 替换文本中的数字为占位符
-def replace_numbers_with_placeholder(text):
-    numbers = re.findall(r'\d+(\.\d+)?', text)
-    placeholder_text = re.sub(r'\d+(\.\d+)?', '[NUMBER]', text)
-    return placeholder_text, numbers
-
-# 把翻译后的占位符还原成原本的数字
-def restore_numbers_from_placeholder(text, numbers):
-    for number in numbers:
-        text = text.replace('[NUMBER]', number, 1)
-    return text
-
 
 # 调用ollama翻译
 def translate_text(original_text, lang_code):
     _, lang_en_name = LANGUAGE_MAP[lang_code]
-    
-    # 替换数字为占位符
-    text_with_placeholder, original_numbers = replace_numbers_with_placeholder(original_text)
-    prompt = build_prompt(lang_en_name, text_with_placeholder)
+    prompt = build_prompt(lang_en_name, original_text)
 
     for attempt in range(1, MAX_RETRIES + 1):
         try:
@@ -119,13 +104,7 @@ def translate_text(original_text, lang_code):
             response.raise_for_status()
             result = response.json()
             translation = result.get('response', '')
-            translation = sanitize_text(extract_translation(translation))
-            
-            # 翻译回来后还原数字
-            if original_numbers:
-                translation = restore_numbers_from_placeholder(translation, original_numbers)
-
-            return translation
+            return sanitize_text(extract_translation(translation))
         except Exception:
             if attempt < MAX_RETRIES:
                 time.sleep(2)
