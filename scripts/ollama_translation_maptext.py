@@ -42,7 +42,9 @@ MAX_RETRIES = 3
 TIMEOUT_SECONDS = 60
 
 # Chinese number mapping for CN and TW
+# 模型翻译出现中文数字则替换纠正.
 chinese_to_arabic = {
+    "零": "0",
     "一": "1",
     "二": "2",
     "三": "3",
