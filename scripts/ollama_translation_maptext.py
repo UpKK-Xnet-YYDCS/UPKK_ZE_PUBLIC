@@ -15,7 +15,7 @@ from tqdm import tqdm
 
 # 配置
 OLLAMA_URL = "http://192.168.50.146:11434/api/generate"
-MODEL = "qwen2:7b"
+MODEL = "qwen2:7b-instruct"
 DIRECTORY = 'C:/Users/Administrator/Documents/GitHub/UPKK_ZE_PUBLIC/cs2/counterstrikesharp/configs/map-text/'
 HEADERS = {"Content-Type": "application/json"}
 
