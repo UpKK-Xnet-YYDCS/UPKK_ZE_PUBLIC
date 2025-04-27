@@ -3,9 +3,9 @@
     "translation": "** 地图作者：kur4yam1 翻译：Asteri3m **",
     "MultiLang": {
       "US": "Map by kur4yam1",
-      "JP": "** マップ by kur4yam1 **",
+      "JP": "** 地図はkur4yam1によって作成されました **",
       "CN": "** 地图作者：kur4yam1 翻译：Asteri3m **",
-      "KR": "** 맵 by kur4yam1 **",
+      "KR": "** 맵을 kur4yam1이 작성했습니다 **",
       "TW": "** 地圖由kur4yam1製作 **"
     }
   },
@@ -15,138 +15,138 @@
       "US": "** ze_sky_bridge_a01_fix3 **",
       "JP": "** ze_sky_bridge_a01_fix3 **",
       "CN": "** ze_sky_bridge_a01_fix3 天空之桥 **",
-      "KR": "** 천지의 다리_a01_fix3 **",
-      "TW": "** 軒天橋_a01修3 **"
+      "KR": "** ze_sky_bridge_a01_fix3 **",
+      "TW": "** ze_sky_bridge_a01_fix3 **"
     }
   },
   "*** Button 1 Pressed ***": {
     "translation": "*** 按钮1已按下 ***",
     "MultiLang": {
-      "US": "*** Button 1 Activated ***",
+      "US": "*** Button 1 Pressed ***",
       "JP": "*** ボタン1が押されました ***",
       "CN": "*** 按钮1已按下 ***",
-      "KR": "버튼 1이 눌러졌습니다.",
-      "TW": "按鍵1按下***"
+      "KR": "**버튼 1을 누르셨습니다**",
+      "TW": "*** 鍵1按了***"
     }
   },
   "*** Button 2 Pressed ***": {
     "translation": "*** 按钮2已按下 ***",
     "MultiLang": {
-      "US": "*** Button 2 Activated ***",
-      "JP": "*** ボタン2を押した***",
+      "US": "**Button 2 Pressed**",
+      "JP": "**Button 2 Pressed**",
       "CN": "*** 按钮2已按下 ***",
-      "KR": "*** 버튼 2 누르신 것 같습니다 ***",
-      "TW": "按鈕2按下 ***"
+      "KR": "**버튼 2를 누르셨습니다**",
+      "TW": "按下了**Button 2**"
     }
   },
   "*** Button 3 Pressed ***": {
     "translation": "*** 按钮3已按下 ***",
     "MultiLang": {
       "US": "*** Button 3 Pressed ***",
-      "JP": "*** ボタン3が押されました ***",
+      "JP": "*** ボタン3を押しました ***",
       "CN": "*** 按钮3已按下 ***",
-      "KR": "*** 버튼 3 누르ました ***",
-      "TW": "三號按鈕被按下***"
+      "KR": "*** 버튼 3 누르기 ***",
+      "TW": "按下了***按鈕3***"
     }
   },
   "*** Button 4 Pressed ***": {
     "translation": "*** 按钮4已按下 ***",
     "MultiLang": {
-      "US": "*** Button 4 Pressed ***",
-      "JP": "*** ボタン4が押されました ***",
+      "US": "**Button 4 Pressed**",
+      "JP": "*** ボタン4が押された ***",
       "CN": "*** 按钮4已按下 ***",
-      "KR": "*** 버튼 4 누르신 것 ***",
+      "KR": "*** 버튼 4를 누르셨습니다 ***",
       "TW": "按鍵4被按下***"
     }
   },
   ">> 10 seconds left <<": {
     "translation": ">> 剩余10秒 <<",
     "MultiLang": {
-      "US": ">> 10 seconds remaining <<",
+      "US": ">> 10 seconds left <<",
       "JP": ">> 残り10秒 <<",
       "CN": ">> 剩余10秒 <<",
-      "KR": ">> 10 초 남음 <<",
-      "TW": ">> 倒數10秒<<"
+      "KR": ">> 10 초가 남았습니다 <<",
+      "TW": ">> 倒數剩餘10秒 <<"
     }
   },
   ">> All button pressed <<": {
     "translation": ">> 所有按钮已按下 <<",
     "MultiLang": {
-      "US": "Pressing all buttons >>",
+      "US": ">> All buttons pressed <<",
       "JP": ">> 全てのボタンを押した <<",
       "CN": ">> 所有按钮已按下 <<",
       "KR": ">> 모든 버튼 누름 <<",
-      "TW": ">>> 按下所有按鈕 <<<"
+      "TW": ">> 所有按鈕按下 <<"
     }
   },
   ">> Defend for 10 seconds <<": {
     "translation": ">> 防守10秒 <<",
     "MultiLang": {
-      "US": ">> Hold your ground for 10 seconds <<",
-      "JP": ">> 10秒間守る<<",
+      "US": ">> Defend for 10 seconds <<",
+      "JP": ">> 10秒間守りきる <<",
       "CN": ">> 防守10秒 <<",
       "KR": ">> 10초 동안 방어하세요 <<",
-      "TW": ">> 防守10秒<<"
+      "TW": ">> 守守10秒 <<"
     }
   },
   ">> Defend for 20 seconds <<": {
     "translation": ">> 防守20秒 <<",
     "MultiLang": {
-      "US": ">> Hold for 20 seconds <<",
-      "JP": ">> 20秒間守る<<",
+      "US": "> Defend for 20 seconds <<<",
+      "JP": ">> 20秒間防御する <<",
       "CN": ">> 防守20秒 <<",
-      "KR": ">> 20초 동안 방어해주세요 <<",
+      "KR": ">> 20초 동안 방어하다 <<",
       "TW": ">> 防守20秒 <<"
     }
   },
   ">> Defend for 30 seconds <<": {
     "translation": ">> 防守30秒 <<",
     "MultiLang": {
-      "US": ">> Hold for 30 secs <<",
-      "JP": ">> 30秒間守る<<",
+      "US": ">> Hold for 30 seconds <<",
+      "JP": ">> 30秒間守りきる <<",
       "CN": ">> 防守30秒 <<",
-      "KR": ">> 30초 동안 방어하세요 <<",
-      "TW": ">> 防守30秒 <<"
+      "KR": ">> 30초 동안 방어하십시오 <<",
+      "TW": ">> 守護30秒 <<"
     }
   },
   ">> Defend for 40 seconds <<": {
     "translation": ">> 防守40秒 <<",
     "MultiLang": {
-      "US": ">> Hold the line for 40 seconds <<",
-      "JP": ">> 40秒間守りきる<<",
+      "US": ">> Defend for 40 seconds <<<",
+      "JP": ">> 40秒間守備する <<",
       "CN": ">> 防守40秒 <<",
-      "KR": ">> 40 초 동안 방어하세요 <<",
+      "KR": ">> 40초 동안 수비해보세요 <<",
       "TW": ">> 防守40秒 <<"
     }
   },
   ">> Don't let the zombies touch the crystal! <<": {
     "translation": ">> 不要让僵尸碰到水晶！ <<",
     "MultiLang": {
-      "US": ">> Avoid letting the zombies reach the crystal! <<",
-      "JP": ">> ゾンビがクリスタルに触れないで！<<",
+      "US": "\"Don't let the zombies touch the crystal!\"",
+      "JP": ">> ゾンビが水晶に触れないでください！<<",
       "CN": ">> 不要让僵尸碰到水晶！ <<",
-      "KR": ">> 좀비가 쥬라纪석이 닿지 않게 하세요 <<",
-      "TW": ">> 離開病毒不死生物別碰水晶！<<"
+      "KR": ">> 좀비가 수rist를碰到하지 마세요! <<",
+      "TW": ">> 切勿讓喪尸觸碰水晶！<<"
     }
   },
   ">> Failed <<": {
     "translation": ">> 失败 <<",
     "MultiLang": {
-      "US": ">> Failed <<",
+      "US": ">> Failure <<",
       "JP": ">> 失敗 <<",
       "CN": ">> 失败 <<",
-      "KR": "실패했습니다.",
+      "KR": ">> 실패 <<",
       "TW": ">> 失敗 <<"
     }
   },
   ">> Jump!! <<": {
     "translation": ">> 跳！！ <<",
     "MultiLang": {
-      "US": "Jump!!",
-      "JP": ">> 直立!! <<",
+      "US": ">> Jump!! <<",
+      "JP": ">> 直撃！！ <<",
       "CN": ">> 跳！！ <<",
-      "KR": ">>飛び跳ね!!<<",
-      "TW": ">>> 跳躍！<<<"
+      "KR": ">>飛び上がれ!!<<",
+      "TW": ">>> 跳躍!! <<<"
     }
   },
   ">> Laser coming! <<": {
@@ -155,28 +155,28 @@
       "US": ">> Laser incoming! <<",
       "JP": ">> レーザーが来ます！<<",
       "CN": ">> 跳刀来了！ <<",
-      "KR": ">> 렌즈가 오고 있습니다! <<",
-      "TW": "激光攻擊來襲！>> 激光攻擊來襲！<<"
+      "KR": ">> 렌즈가 옵니다! <<",
+      "TW": ">> 激光來了！<<"
     }
   },
   ">> Laser stopped! <<": {
     "translation": ">> 跳刀停止了！ <<",
     "MultiLang": {
-      "US": ">> Laser halted! <<",
-      "JP": ">> レーザーが止まった！<<",
+      "US": ">> Laser stopped! <<",
+      "JP": ">> レーザーが停止しました <<",
       "CN": ">> 跳刀停止了！ <<",
       "KR": ">> 레이저 중지! <<",
-      "TW": ">> 激光停止了 <<"
+      "TW": "激光停頓！"
     }
   },
   ">> Last Defend for 40 seconds <<": {
     "translation": ">> 最后防守40秒 <<",
     "MultiLang": {
-      "US": ">> Final Defense for 40 seconds <<",
-      "JP": ">> 最後の防衛、40秒間<<( /Last 40seconds of defense/)",
+      "US": ">> Last Defend for 40s <<",
+      "JP": ">> 40秒間の最後の防御 <<",
       "CN": ">> 最后防守40秒 <<",
-      "KR": ">> 40초 동안 마지막 방어 <<",
-      "TW": ">> 最後的防守，持續40秒 <<"
+      "KR": ">> 최후의 방어 40 초 <<",
+      "TW": ">> 最後防禦，40秒 <<"
     }
   },
   ">> Lift move in 10 seconds <<": {
@@ -185,58 +185,58 @@
       "US": ">> Move lift in 10 secs <<",
       "JP": ">> 10秒後に移動を開始します <<",
       "CN": ">> 电梯将在10秒内移动 <<",
-      "KR": ">> 10초 후 이동합니다 <<",
-      "TW": ">> 提升移動10秒後 <<"
+      "KR": ">> 10 초 후 이동 명령 실행 <<",
+      "TW": ">> 在10秒後移動 <<"
     }
   },
   ">> Press all buttons <<": {
     "translation": ">> 按下所有按钮 <<",
     "MultiLang": {
-      "US": "Press all buttons >>",
+      "US": ">> Press all buttons <<",
       "JP": ">> 全てのボタンを押す<<",
       "CN": ">> 按下所有按钮 <<",
-      "KR": ">> 모든 버튼을 누르세요 <<",
+      "KR": ">> 모든 버튼을 눌러보세요 <<",
       "TW": ">> 按下所有按鈕 <<"
     }
   },
   ">> Shoot the cube or Cross the bridge! <<": {
     "translation": ">> 射击方块或过桥！ <<",
     "MultiLang": {
-      "US": "\"Shoot the cube or cross the bridge!\"",
-      "JP": ">> カラスを撃つか、橋を渡る！ <<",
+      "US": ">> Shoot the cube or Cross the bridge! <<",
+      "JP": ">> カラスを撃つか、橋を渡る！<<",
       "CN": ">> 射击方块或过桥！ <<",
-      "KR": ">>кубик을 쏘거나 빌딩을 건너세요<<",
-      "TW": ">> 射擊立方體或跨過橋樑！<<"
+      "KR": ">> 큐브를 쏘거나 다리 건너세요! <<",
+      "TW": ">> 射擊立方體或穿越橋樑！<<"
     }
   },
   ">> Zombies breaked the crystal! <<": {
     "translation": ">> 僵尸破坏了水晶！ <<",
     "MultiLang": {
-      "US": ">> Zombies shattered the crystal! <<",
-      "JP": "ゾンビがクリスタルを破った！<<",
+      "US": ">> Zombies broke the crystal! <<",
+      "JP": ">> ズンビズがクリスタルを破った！<<",
       "CN": ">> 僵尸破坏了水晶！ <<",
-      "KR": ">> 좀비가 크리스탈을 깨고 들어!/<<",
-      "TW": ">> 僵尸打碎了水晶！<<"
+      "KR": ">> 좀비가 크리스탈을 깨 냈습니다 <<",
+      "TW": ">> 僵尸們擊碎了水晶！<<"
     }
   },
   ">> zm teleport in 10 seconds <<": {
     "translation": ">> 僵尸将在10秒内传送 <<",
     "MultiLang": {
-      "US": ">> Teleporting in 10 seconds <<",
-      "JP": ">> zm teleport 10秒後へ <<",
+      "US": ">> zm teleports in 10 sec <<",
+      "JP": ">> zm テロールポーティルは10秒後に行います <<",
       "CN": ">> 僵尸将在10秒内传送 <<",
-      "KR": "zm 전송이 10초 후에 시작됩니다.<<",
-      "TW": ">> 轉移之門在10秒後出現<<"
+      "KR": ">> zm 텔레포트가 10초 후에 발생합니다 <<",
+      "TW": ">> zm 傳在10秒後出現 <<"
     }
   },
   ">> zm teleport in 5 seconds <<": {
     "translation": ">> 僵尸将在5秒内传送 <<",
     "MultiLang": {
-      "US": ">> Teleporting in 5 sec <<",
-      "JP": ">> 5秒後にzmトランポーリを実行します <<",
+      "US": ">> zm teleports in 5 sec <<",
+      "JP": ">> zm テローリンを5秒後に行います <<",
       "CN": ">> 僵尸将在5秒内传送 <<",
-      "KR": ">> zm 전송기가 5초 후에 작동합니다. <<",
-      "TW": ">> 在5秒後使用zm傳輸<<"
+      "KR": ">> zm 텔레포트가 5초 후에 시작됩니다 <<",
+      "TW": ">> zm 階乘在5秒後瞬移 <<"
     }
   }
 }

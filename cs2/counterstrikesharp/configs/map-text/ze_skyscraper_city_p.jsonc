@@ -2,10 +2,10 @@
   ">>Door open. Run!<< ": {
     "translation": ">>门已打开。快跑！<<",
     "MultiLang": {
-      "US": ">>>Door unlocked. Hurry!<<<",
-      "JP": ">>ドアが開いた。走れ！<<",
+      "US": ">>Door open. Run!<<",
+      "JP": ">>ドア開ける。走る！<<",
       "CN": ">>门已打开。快跑！<<",
-      "KR": "문이 열렸어요. 달라가세요!",
+      "KR": ">>문 열리네. 달아나세요!<<",
       "TW": ">>門開了。快跑！<<"
     }
   },
@@ -13,57 +13,57 @@
     "translation": ">>门将在20秒后打开<<",
     "MultiLang": {
       "US": ">>Door will open in 20 sec<<",
-      "JP": ">>ドアは20秒後開きます<<",
+      "JP": ">>ドアは20秒後に開く<<",
       "CN": ">>门将在20秒后打开<<",
-      "KR": ">> 문이 20초 후에 열릴 것입니다 <<",
+      "KR": ">>문이 20초 후에 열리겠습니다<<",
       "TW": ">>門將在20秒後打開<<"
     }
   },
   ">>Go open the door!!<< ": {
     "translation": ">>去打开门！！<<",
     "MultiLang": {
-      "US": ">>>Open this door!!!<<<",
-      "JP": ">>ドアを開けろ!!<<",
+      "US": ">>Open the door!!<<",
+      "JP": ">>ドアを開けて!!<<",
       "CN": ">>去打开门！！<<",
-      "KR": ">>>문을 열어!/<<<",
-      "TW": ">>>打開門！！<<<"
+      "KR": ">>문을 열어보세요!!<<",
+      "TW": ">>打開門!!<<"
     }
   },
   ">>Go!<< ": {
     "translation": ">>走！ 翻译：Asteri3m<<",
     "MultiLang": {
-      "US": ">>Proceed!<<",
-      "JP": ">>行こう！<<",
+      "US": ">>Go!<<",
+      "JP": ">>行きます！<<",
       "CN": ">>走！ 翻译：Asteri3m<<",
-      "KR": ">>가득 차요<<",
-      "TW": ">>快走！<<"
+      "KR": ">>가고 싶은 자리로 이동하세요<<",
+      "TW": ">>走！<<"
     }
   },
   ">>Stair door opens in 15 sec<< ": {
     "translation": ">>楼梯门将在15秒后打开<<",
     "MultiLang": {
-      "US": ">>Stair door will open in 15 sec<<",
+      "US": ">>The stair door will open in 15 seconds<<",
       "JP": ">>15秒後に階段の扉が開きます<<",
       "CN": ">>楼梯门将在15秒后打开<<",
       "KR": ">>15초 후 계단문이 열립니다<<",
-      "TW": ">>樓梯門在15秒後打開<<"
+      "TW": ">>樓梯門在15秒後開啟<<"
     }
   },
   ">>Train will leave in 35 sec<< ": {
     "translation": ">>火车将在35秒后离开<<",
     "MultiLang": {
-      "US": ">>Train departs in 35 secs<<",
+      "US": ">>Train will leave in 35 sec<<",
       "JP": ">>列車は35秒後に出発します<<",
       "CN": ">>火车将在35秒后离开<<",
-      "KR": ">>35초 후 열차가 출발합니다<<",
+      "KR": ">>열차는 35초 후에 출발합니다<<",
       "TW": ">>列車將在35秒後出發<<"
     }
   },
   ">>Tram departs in 20 sec<< ": {
     "translation": ">>有轨电车将在20秒后出发<<",
     "MultiLang": {
-      "US": ">>Train leaves in 20 sec<<",
-      "JP": ">>tram出発まで20秒です<<",
+      "US": ">>Tram departs in 20 sec<<",
+      "JP": ">>電車は20秒後に出発します<<",
       "CN": ">>有轨电车将在20秒后出发<<",
       "KR": ">>트램이 20초 후에 출발합니다<<",
       "TW": ">>電車在20秒後出發<<"
@@ -72,31 +72,31 @@
   ">>metal gate open in 15 sec<< ": {
     "translation": ">>金属门将在15秒后打开<<",
     "MultiLang": {
-      "US": ">>Metal gate will be open in 15 seconds<<",
-      "JP": ">>金属の扉は15秒後に開きます<<",
+      "US": ">>Metal gate opens in 15 seconds<<",
+      "JP": ">>15秒後にメタルゲートが開きます<<",
       "CN": ">>金属门将在15秒后打开<<",
-      "KR": ">>15초 후에 메탈 문이 열릴 것입니다<<",
-      "TW": ">>>金屬門在15秒後打開<<<"
+      "KR": ">>15초 후 금속 문 개방<<",
+      "TW": ">>15秒後打開鋼門<<"
     }
   },
   ">>Door open by zombies<<": {
     "translation": ">>门被僵尸打开了<<",
     "MultiLang": {
-      "US": ">>>Zombie-operated door opening<<<",
-      "JP": ">>ゾンビが開く扉<<",
+      "US": ">>Zombies opened the door<<",
+      "JP": ">>ゾンビが開くドア<<",
       "CN": ">>门被僵尸打开了<<",
-      "KR": ">>좀비가 문을 열었다<<",
-      "TW": ">>屍體打開門扉<<"
+      "KR": ">>좀비가做的문 열림<<",
+      "TW": ">>尸體打開門<<"
     }
   },
   ">>Door will open in 20 sec or zombies trigger at once<< ": {
     "translation": "",
     "MultiLang": {
-      "US": "\"Door opens in 20 secs or zombies activate instantly.\"",
-      "JP": ">>ドアは20秒後開きますか、それともゾンビが一斉にトリガーを引きるのですか？<<",
-      "CN": ">>门将在20秒后打开或僵尸立即触发<<",
-      "KR": ">>문이 20초 후에 열리거나 좀비가 한꺼번에 동작합니다<<",
-      "TW": ">>>大門將在20秒後打開，或一旦有殭屍被觸發<<<"
+      "US": ">>The door will open in 20 seconds or the zombies will be triggered immediately<<",
+      "JP": ">>ドアは20秒後に開くか、またはゾンビが一斉に起こる<<",
+      "CN": ">>门将在20秒后开启，或者僵尸立即触发<<",
+      "KR": ">>문이 20초 후에 열리거나 좀비들이 즉시 활동을 시작합니다<<",
+      "TW": ">>門將在20秒後打開，或僵尸即刻被觸發<<"
     }
   }
 }

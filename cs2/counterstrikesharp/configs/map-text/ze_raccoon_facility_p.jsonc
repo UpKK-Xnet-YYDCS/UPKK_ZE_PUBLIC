@@ -3,20 +3,20 @@
     "translation": "**左侧电梯将在15秒后离开**",
     "MultiLang": {
       "US": "**Left Elevator Leaving in 15s**",
-      "JP": "**エレベーター左 15秒後に離行します**",
+      "JP": "**エレベーター左 15秒後に降下します***",
       "CN": "**左侧电梯将在15秒后离开**",
-      "KR": "**좌쪽 엘리베이터는 15초 후 출발합니다.**",
-      "TW": "**左側電梯15秒後離開**"
+      "KR": "**15초 후 왼쪽 엘리베이터 시작**",
+      "TW": "**電梯左側 十五秒後離境**"
     }
   },
   "**Right Elevator Leaving in 15s**": {
     "translation": "**右侧电梯将在15秒后离开**",
     "MultiLang": {
-      "US": "**Right Elevator Leaves in 15s**",
-      "JP": "**右のエレベーターは15秒後に離れてきます**",
+      "US": "**Right Elevator Leaving in 15s***",
+      "JP": "**エレベーター右 15秒後に出発します**",
       "CN": "**右侧电梯将在15秒后离开**",
-      "KR": "**우측 엘리베이터 15초 후 출발 예정**",
-      "TW": "**電梯右側即將在15秒後關閉**"
+      "KR": "**15초 후 오른쪽 엘리베이터가 열림**",
+      "TW": "**電梯右側 即將離開 15秒後**"
     }
   },
   "**Train depart**": {
@@ -26,87 +26,87 @@
       "JP": "**列車出発**",
       "CN": "**火车出发**",
       "KR": "**열차 출발**",
-      "TW": "**列車出發**"
+      "TW": "**開車**"
     }
   },
   "**Train departs in 15 seconds**": {
     "translation": "**火车将在15秒后出发**",
     "MultiLang": {
-      "US": "\"Train departs in 15 seconds.\"",
-      "JP": "**列車は15秒後に出発します**",
+      "US": "**Train departs in 15 seconds***",
+      "JP": "**電車は15秒後に出発します**",
       "CN": "**火车将在15秒后出发**",
-      "KR": "**열차가 15초 후에 출발합니다.**",
-      "TW": "**列車起始時間剩下15秒**"
+      "KR": "**열차가 15초 후에 출발합니다**",
+      "TW": "**列車於15秒後出發**"
     }
   },
   "**Train departs in 30 seconds**": {
     "translation": "**火车将在30秒后出发**",
     "MultiLang": {
-      "US": "**Train leaves in 30 seconds**",
+      "US": "**Train departs in 30 seconds**",
       "JP": "**列車は30秒後に出発します**",
       "CN": "**火车将在30秒后出发**",
-      "KR": "**열차가 30초 후에 출발합니다.**",
-      "TW": "**列車於30秒後發車**"
+      "KR": "**列차가 30초 후에 출발합니다**",
+      "TW": "**火車在30秒後出發**"
     }
   },
   "**Train departs in 60 seconds**": {
     "translation": "**火车将在60秒后出发**",
     "MultiLang": {
-      "US": "\"Train leaves in 60 seconds.\"",
-      "JP": "**列車が60秒後に出発します**",
+      "US": "\"Train departs in 60 seconds\"",
+      "JP": "**列車は60秒後に出発します**",
       "CN": "**火车将在60秒后出发**",
-      "KR": "**60초 후에 열차가 출발합니다.**",
-      "TW": "**列車於60秒後離站**"
+      "KR": "**열차가 60 초 후에 출발합니다**",
+      "TW": "**列車即將於60秒後出發**"
     }
   },
   "**Train departs in 90 seconds**": {
     "translation": "**火车将在90秒后出发**",
     "MultiLang": {
-      "US": "**Train departs in 90s**",
+      "US": "\"Train leaves in 90 seconds\"",
       "JP": "**列車は90秒後に出発します**",
       "CN": "**火车将在90秒后出发**",
       "KR": "**열차가 90초 후에 출발합니다**",
-      "TW": "**列車起始發時間：90秒後**"
+      "TW": "啟動列車在90秒後出發"
     }
   },
   ">>Map Modified by LeGrem<<": {
     "translation": ">>地图修改者：LeGrem<<",
     "MultiLang": {
-      "US": ">>Map Altered by LeGrem<<",
-      "JP": ">>マップがLeGremによって変更されました<<",
+      "US": ">>Map Modified by LeGrem<<",
+      "JP": ">>LeGrem によるマップが変更されました<<",
       "CN": ">>地图修改者：LeGrem<<",
-      "KR": ">>맵이 LeGrem으로 수정되었습니다<<",
-      "TW": ">>>地圖由LeGrem修改<<<"
+      "KR": ">>LeGrem으로 수정된 맵<<",
+      "TW": ">>由LeGrem修改的地图<<"
     }
   },
   ">>Map by prof_yaffle<<": {
     "translation": ">>地图制作：prof_yaffle 翻译：Asteri3m<<",
     "MultiLang": {
-      "US": ">>Map by prof_yaffle<<",
-      "JP": ">>>プロフ_ヤフラップによるマップ<<<",
+      "US": ">>Map created by prof_yaffle<<",
+      "JP": ">>マップはprof_yaffleによる<<",
       "CN": ">>地图制作：prof_yaffle 翻译：Asteri3m<<",
-      "KR": ">>맵 by prof_yaffle<<",
-      "TW": ">>地圖由prof_yaffle製作<<"
+      "KR": ">>맵을 prof_yaffle이 작성했습니다<<",
+      "TW": ">> 地圖由prof_yaffle製作 <<"
     }
   },
   ">>PRESS THE BUTTON TO START THE TRAIN<<": {
     "translation": ">>按下按钮启动火车<<",
     "MultiLang": {
       "US": ">>PRESS THE BUTTON TO START THE TRAIN<<",
-      "JP": ">>ボタンを押して列車を開始します<<",
+      "JP": ">>ボタンを押して列車を始動する<<",
       "CN": ">>按下按钮启动火车<<",
-      "KR": ">>버튼을 눌러 트레인을 시작하세요<<",
-      "TW": ">>>按鈕以開始列車<<<"
+      "KR": ">>버튼을 누르시면 열차가 시작됩니다<<",
+      "TW": ">>按鈕以開始列車<<"
     }
   },
   "self disable": {
     "translation": "自我禁用",
     "MultiLang": {
-      "US": "Disable self",
-      "JP": "自分自身の無効化",
+      "US": "disable self",
+      "JP": "ゲーム内で自分自身を無効にする",
       "CN": "自我禁用",
       "KR": "자기 비활성화",
-      "TW": "自行禁用"
+      "TW": "Self Disable"
     }
   }
 }

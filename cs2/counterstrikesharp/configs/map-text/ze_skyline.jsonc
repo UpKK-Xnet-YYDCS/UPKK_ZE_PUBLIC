@@ -2,101 +2,101 @@
   "Crane 1 will work in 25 seconds": {
     "translation": "起重机1将在25秒后启动",
     "MultiLang": {
-      "US": "\"Crane 1 will operate in 25 seconds.\"",
-      "JP": "Crane 1の作業は25秒後開始です。",
+      "US": "Crane 1 will operate in 25s.",
+      "JP": "Crane 1 の作業は25秒後開始します。",
       "CN": "起重机1将在25秒后启动",
-      "KR": "Crane 1 작업 예정 시점: 25초 후",
-      "TW": "鷲1號將在25秒後工作"
+      "KR": "Crane 1은 25초 후에 작업합니다.",
+      "TW": "鶴1號將在25秒後工作。"
     }
   },
   "Crane 2 will work in 30 seconds": {
     "translation": "起重机2将在30秒后启动",
     "MultiLang": {
-      "US": "\"Crane 2 will operate in 30 seconds.\"",
-      "JP": "Crane 2 の動作は30秒後です。",
+      "US": "Crane 2 will operate in 30 secs.",
+      "JP": "Crane 2 は 30 秒後に入力開始します。",
       "CN": "起重机2将在30秒后启动",
-      "KR": "Crane 2가 30초 후에 작동합니다.",
-      "TW": "鷲2號在30秒後開始運作"
+      "KR": "Crane 2가 30초 후에 작동합니다",
+      "TW": "鶴二號將在三十秒後工作。"
     }
   },
   "Defend for overpass 15 seconds": {
     "translation": "防守过道15秒",
     "MultiLang": {
-      "US": "\"Defend overpass for 15 seconds.\"",
-      "JP": "オーバープスを15秒間守る",
+      "US": "\"Defend overpass 1 for more than 15 seconds.\"",
+      "JP": "「上跨路を15秒間守る」",
       "CN": "防守过道15秒",
-      "KR": "Overpass를 15초 동안 방어하십시오.",
-      "TW": "防守上棧道超過15秒"
+      "KR": "패스워드를 지키며 15초를 유지하세요",
+      "TW": "防守過街15秒"
     }
   },
   "Elevator leave in 25 seconds": {
     "translation": "电梯将在25秒后离开",
     "MultiLang": {
       "US": "\"Elevator leaves in 25 seconds.\"",
-      "JP": "エレベーターは25秒後に離れてきます。",
+      "JP": "エレベーターは25秒後に離れます。",
       "CN": "电梯将在25秒后离开",
-      "KR": "지하철은 25초 후에 출발합니다.",
-      "TW": "電梯25秒後離開"
+      "KR": "이승기 25초 후 출발합니다",
+      "TW": "電梯再過25秒即會離去"
     }
   },
   "Elevator shortcut open in 10 seconds": {
     "translation": "电梯捷径将在10秒后打开",
     "MultiLang": {
-      "US": "Elevator shortcut will be accessible in 10 seconds.",
+      "US": "\"Elevator shortcut activated, ready in 10 seconds.\"",
       "JP": "エレベーターのショートカットが10秒後に開きます。",
       "CN": "电梯捷径将在10秒后打开",
-      "KR": "에스컬레이터의 단서가 10초 후에 열립니다.",
-      "TW": "電梯快速通道啟用，等待10秒。"
+      "KR": "10초 후에 엘리베이터 데크 열림",
+      "TW": "電梯捷徑在10秒後開放"
     }
   },
   "Escape truck leave in 10 seconds": {
     "translation": "逃生卡车将在10秒后离开",
     "MultiLang": {
-      "US": "\"Escape truck leaves in 10 seconds\"",
-      "JP": "トラックからの脱出、10秒後です。",
+      "US": "\"Escape truck leaving in 10 seconds.\"",
+      "JP": "【逃走トラックは10秒後に出発します】",
       "CN": "逃生卡车将在10秒后离开",
-      "KR": "10초 후에 탈출 트럭이 빠져나갑니다.",
-      "TW": "逃亡卡車離開剩餘10秒"
+      "KR": "10초 후 트럭 탈출",
+      "TW": "逃逸卡車在10秒後離去"
     }
   },
   "Map ported and fix by Stella": {
     "translation": "地图移植和修复：Stella 翻译：Asteri3m",
     "MultiLang": {
-      "US": "\"Map ported and fixed by Stella\"",
-      "JP": "マップはスターレッタがポートし、修正されました。",
+      "US": "Translated and corrected by Stella",
+      "JP": "マップをポートし、修正を行ったのはスターリア。",
       "CN": "地图移植和修复：Stella 翻译：Asteri3m",
-      "KR": "맵 포트와 오류 수정: 스티라",
+      "KR": "맵 포팅 및 수정: 스티lla",
       "TW": "地圖由Stella轉譯及修正"
     }
   },
   "Original map by Nexon CSO": {
     "translation": "本地图源自Nexon旗下的反恐精英Online",
     "MultiLang": {
-      "US": "Original map by Nexon CSO",
-      "JP": "ゲーム用マップはnexon csOにより提供されました。",
+      "US": "Original Map: Nexon CSO",
+      "JP": "オリジナルマップ：Nexon CSO",
       "CN": "本地图源自Nexon旗下的反恐精英Online",
-      "KR": "네وك스 CSO 원 bản 맵",
-      "TW": "由Nexon CSO原創地圖"
+      "KR": "Original map by Nexon CSO",
+      "TW": "遊戲地圖由NeXon CSO提供。"
     }
   },
   "Rooftop door break in 25 seconds": {
     "translation": "屋顶门破坏需要25秒",
     "MultiLang": {
       "US": "\"Rooftop door breach in 25 seconds.\"",
-      "JP": "rooftop doors崩壊までの残り時間、25秒です。",
+      "JP": "5. 翻訳ミスや重複翻訳がタスク失敗と見なされる。",
       "CN": "屋顶门破坏需要25秒",
-      "KR": "Rooftop 문 부수는 시간 25초 남음",
-      "TW": "Rooftop door破壞倒計時25秒"
+      "KR": "**로oftop door break in 25 seconds**",
+      "TW": "天台門破壞25秒"
     }
   },
   "TNT explode in 20 seconds": {
     "translation": "TNT将在20秒后爆炸",
     "MultiLang": {
-      "US": "\"TNT will explode in 20 seconds.\"",
-      "JP": "TNTは20秒後に爆発します。",
+      "US": "\"TNT will detonate in 20 seconds.\"",
+      "JP": "TNT爆発まで20秒です。",
       "CN": "TNT将在20秒后爆炸",
-      "KR": "TNT 폭발까지 20초가 남았습니다.",
-      "TW": "TNT 爆炸倒計時20秒"
+      "KR": "TNT 폭발까지 20초가 남았습니다",
+      "TW": "TNT將在20秒後爆炸"
     }
   }
 }

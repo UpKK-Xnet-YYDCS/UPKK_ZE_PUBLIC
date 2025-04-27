@@ -2,7 +2,7 @@
   "*": {
     "translation": "",
     "MultiLang": {
-      "US": "*You have defeated the enemy army. You win! Your score: 500 points.*",
+      "US": "Translation: *",
       "JP": "",
       "CN": "",
       "KR": "",
@@ -12,21 +12,21 @@
   "**": {
     "translation": "",
     "MultiLang": {
-      "US": "You defeated the ancient guardian! Gain +5000 experience points. Your strength increases by +10. Next, prepare to face the dragon's lair...",
+      "US": "Translate: **",
       "JP": "",
-      "CN": "",
-      "KR": "",
-      "TW": ""
+      "CN": "【开始翻译】",
+      "KR": "【开始翻译】",
+      "TW": "【開始翻譯】"
     }
   },
   "***": {
     "translation": "",
     "MultiLang": {
-      "US": "Error: Missing game text to translate. Please provide a specific game-related text or dialogue for translation.",
-      "JP": "",
-      "CN": "",
+      "US": "Please provide the text you need to be translated into English. The current input is empty, and I'm unable to perform the translation requested.",
+      "JP": "***(End)***",
+      "CN": "5.",
       "KR": "",
-      "TW": "時間計數：30秒"
+      "TW": "【開始翻譯】"
     }
   }
 }

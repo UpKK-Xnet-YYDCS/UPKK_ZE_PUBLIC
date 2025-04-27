@@ -2,61 +2,61 @@
   "** Map by kur4yam1 **": {
     "translation": "**地图作者：kur4yam1 翻译：Asteri3m**",
     "MultiLang": {
-      "US": "Map created by kur4yam1",
-      "JP": "** 地図 by kur4yam1 **",
+      "US": "Map by kur4yam1",
+      "JP": "** 地図はkur4yam1によって作成されました **",
       "CN": "**地图作者：kur4yam1 翻译：Asteri3m**",
-      "KR": "** 맵 by kur4yam1 **",
-      "TW": "** 地圖由kur4yam1製造 **"
+      "KR": "** 맵을 kur4yam1이 제작했습니다 **",
+      "TW": "** 地圖由kur4yam1創作 **"
     }
   },
   "** Secret Mode **": {
     "translation": "**隐藏结局**",
     "MultiLang": {
-      "US": "**Secret Mode**",
+      "US": "Secret Mode",
       "JP": "** 秘密モード **",
       "CN": "**隐藏结局**",
-      "KR": "",
-      "TW": "秘技模式"
+      "KR": "** 비밀 모드 **",
+      "TW": "**秘密模式**"
     }
   },
   "** Something happened... **": {
     "translation": "**发生了一些事情...**",
     "MultiLang": {
-      "US": "** Something happened... **",
-      "JP": "** 何か事が起こった... **",
+      "US": "Something happened... **",
+      "JP": "**何かが起こりました... **",
       "CN": "**发生了一些事情...**",
-      "KR": "** 일어난 일 있어요... **",
-      "TW": "** 總是發生些事情... **"
+      "KR": "** 일어났다... **",
+      "TW": "發生了某件事... **"
     }
   },
   "** You have only one chance **": {
     "translation": "**你只有一次机会**",
     "MultiLang": {
-      "US": "** One chance only **",
-      "JP": "** あなたには一つだけチャンスがあります **",
+      "US": "** You have only one chance **",
+      "JP": "** あなたにはのみ一つのチャンス仅有ります **",
       "CN": "**你只有一次机会**",
-      "KR": "** 하나의 기회만 있습니다 **",
-      "TW": "** 您只有一次機會 **"
+      "KR": "** 당신은only 한 번의 기회가 있습니다**",
+      "TW": "** 您只有一次机会 **"
     }
   },
   ">> 15 seconds <<": {
     "translation": ">>剩余15秒<<",
     "MultiLang": {
-      "US": ">> 15 seconds <<",
-      "JP": ">> 15秒<<",
+      "US": "<< 15 seconds >>",
+      "JP": ">> 15秒 <<",
       "CN": ">>剩余15秒<<",
-      "KR": ">> 15초 <<",
-      "TW": ">> 15秒<<"
+      "KR": ">> 15 초 <<",
+      "TW": ">> 十五秒 <<"
     }
   },
   ">> 20 seconds <<": {
     "translation": ">>剩余20秒<<",
     "MultiLang": {
-      "US": "<< 20 seconds >>",
-      "JP": ">> 20秒<<",
+      "US": ">> 20 seconds <<",
+      "JP": ">> 20秒 <<",
       "CN": ">>剩余20秒<<",
       "KR": ">> 20 초 <<",
-      "TW": ">> 離開前請再等待20秒<<"
+      "TW": ">> 二十秒 <<"
     }
   },
   ">> 25 seconds <<": {
@@ -76,14 +76,14 @@
       "JP": ">> 30秒 <<",
       "CN": ">>剩余30秒<<",
       "KR": ">> 30 초 <<",
-      "TW": ">> 三十分鐘 <<"
+      "TW": ">> 三十秒 <<"
     }
   },
   ">> 35 seconds <<": {
     "translation": ">>剩余35秒<<",
     "MultiLang": {
       "US": ">> 35 seconds <<",
-      "JP": ">> 35秒<<",
+      "JP": ">> 35秒 <<",
       "CN": ">>剩余35秒<<",
       "KR": ">> 35 초 <<",
       "TW": ">> 三十五秒 <<"
@@ -92,58 +92,58 @@
   ">> 40 seconds <<": {
     "translation": ">>剩余40秒<<",
     "MultiLang": {
-      "US": ">> 40 seconds <<",
-      "JP": ">> 40秒 <<",
+      "US": "<< 40 seconds >>",
+      "JP": ">> 40 秒 <<",
       "CN": ">>剩余40秒<<",
       "KR": ">> 40 초 <<",
-      "TW": ">>> 40秒<<<"
+      "TW": ">> 四十秒 <<"
     }
   },
   ">> 5 seconds left <<": {
     "translation": ">>剩余5秒<<",
     "MultiLang": {
-      "US": ">> 5 seconds remaining <<",
-      "JP": ">>> 残り5秒 <<<",
+      "US": ">> 5 seconds left <<",
+      "JP": ">> 剩余5秒 <<",
       "CN": ">>剩余5秒<<",
-      "KR": ">> 5 초 남음 <<",
-      "TW": ">> 倒數5秒 <<"
+      "KR": ">> 5 초가 남았습니다 <<",
+      "TW": "> 倒數五秒 <<"
     }
   },
   ">> Admin set to Normal Ending (No Secret) <<": {
     "translation": ">>管理员设置正常结局（无隐藏结局触发）<<",
     "MultiLang": {
-      "US": ">> Administrator has set the ending to Normal (No Secrets) <<",
-      "JP": ">> 管理者が通常エンド(秘密なし)に設定しました <<",
+      "US": ">> Admin has chosen the Normal Ending without secrets as the outcome. <<",
+      "JP": ">> エンディッドをノーマル（シークレットなし）に設定しました <<",
       "CN": ">>管理员设置正常结局（无隐藏结局触发）<<",
-      "KR": ">> 관리자가 정상 종료 (비밀 없음)으로 설정했습니다. <<",
-      "TW": ">> 管理員設置為正常結局（無秘密）<<"
+      "KR": ">> 관리자 설정: 정상 마무리 (비밀 없음) <<",
+      "TW": ">> 設定為正常結局（無秘密）<<"
     }
   },
   ">> Admin set to Normal Ending <<": {
     "translation": ">>管理员设置正常结局<<",
     "MultiLang": {
-      "US": ">> Administrator has set it to Normal Ending <<",
-      "JP": ">> 管理者が通常終幕に設定しました <<",
+      "US": ">> Admin set to Normal Ending <<",
+      "JP": ">> 管理者が正常終了に設定しました <<",
       "CN": ">>管理员设置正常结局<<",
-      "KR": ">> 운영자가 정상 끝말잇기를 설정했습니다 <<",
-      "TW": ">> 管理員設置為正常結局 <<"
+      "KR": ">> 관리자가 정상 결말로 설정했습니다 <<",
+      "TW": ">> 設置為正常結局 <<"
     }
   },
   ">> Admin set to Secret Ending <<": {
     "translation": ">>管理员设置隐藏结局<<",
     "MultiLang": {
-      "US": "Admin has toggled to Secret Ending.",
-      "JP": ">> 管理者が秘密のエンドに設定しました <<",
+      "US": ">> Admin has initiated the Secret Ending sequence <<",
+      "JP": ">> オープナーがシークレットエンドに設定しました <<",
       "CN": ">>管理员设置隐藏结局<<",
-      "KR": ">> 관리자가 비밀 끝말을 설정했습니다 <<",
-      "TW": ">> 超級管理員設置了秘密結局 <<"
+      "KR": ">> 관리자 설정: 비밀의 엔딩 <<",
+      "TW": ">> 設定為秘密結局 <<"
     }
   },
   ">> Failed <<": {
     "translation": ">>失败<<",
     "MultiLang": {
-      "US": ">>> Failed <<<",
-      "JP": ">> 失敗した <<",
+      "US": ">> Failed <<",
+      "JP": ">> 失敗 <<",
       "CN": ">>失败<<",
       "KR": ">> 실패 <<",
       "TW": ">> 失敗 <<"
@@ -152,41 +152,41 @@
   ">> Restart round... <<": {
     "translation": ">>重启回合...<<",
     "MultiLang": {
-      "US": ">> Restarting round... <<",
-      "JP": ">> 再開ラウンド... <<",
+      "US": ">> Restart round... <<",
+      "JP": ">> 再始動ラウンド... <<",
       "CN": ">>重启回合...<<",
-      "KR": ">> 게임 라운드를 다시 시작합니다... <<",
-      "TW": ">> 模式輪次重新開始... <<"
+      "KR": ">> 라운드를 재시작하세요... <<",
+      "TW": ">> 重開輪次... <<"
     }
   },
   ">> Zombie teleport in 15 seconds <<": {
     "translation": ">>僵尸将在15秒后传送<<",
     "MultiLang": {
-      "US": ">> Teleporting zombie in 15s <<",
-      "JP": ">> ズンビが15秒後にテレポートします <<",
+      "US": ">> Zombie will teleport in 15 seconds <<",
+      "JP": ">> 遊び人トランポリンは15秒後に行きます <<",
       "CN": ">>僵尸将在15秒后传送<<",
-      "KR": ">> 좀비의 텔레포트가 15초 후에 시작됩니다 <<",
-      "TW": ">> 離開15秒後出現殭屍 <<"
+      "KR": ">> 오블리게니어 전송이 15초 후에 시작됩니다 <<",
+      "TW": ">> 離開時間還有15秒 <<"
     }
   },
   ">> Zombies took over the road <<": {
     "translation": ">>僵尸占领了道路<<",
     "MultiLang": {
-      "US": ">> Zombies control the path <<",
-      "JP": ">> ザンビが道路を占領した <<",
+      "US": ">> The road was taken by zombies <<",
+      "JP": ">> ゾンビが道路を占領した <<",
       "CN": ">>僵尸占领了道路<<",
-      "KR": ">> 좀비가 길을 장악했다 <<",
-      "TW": ">> 死亡殭屍佔領了道路 <<"
+      "KR": ">> 죽음의 군대가 도로를 점령했다 <<",
+      "TW": ">> 僵屍佔領了道路 <<"
     }
   },
   ">> falltp location has been updated <<": {
     "translation": ">>掉落传送点位置已更新<<",
     "MultiLang": {
-      "US": ">> The 'falltp' location update has been executed <<",
-      "JP": ">> フォールト地点が更新されました <<",
+      "US": ">> The falltp location has been updated <<",
+      "JP": ">> フォルト地点が更新されました <<",
       "CN": ">>掉落传送点位置已更新<<",
-      "KR": ">> falltp 위치가 업데이트되었습니다 <<",
-      "TW": ">>> 落點位置已經更新 <<<"
+      "KR": ">> 위치 정보가 업데이트되었습니다 <<",
+      "TW": ">> 地點更新 <<"
     }
   },
   "|| 10 seconds ||": {
@@ -196,67 +196,67 @@
       "JP": "|| 10秒 ||",
       "CN": "||剩余10秒||",
       "KR": "|| 10 초 ||",
-      "TW": "|| 十秒||"
+      "TW": "|| 十秒 ||"
     }
   },
   "|| 30 seconds ||": {
     "translation": "||剩余30秒||",
     "MultiLang": {
-      "US": "\"|| 30 seconds ||\"",
-      "JP": "|| 30秒 ||",
+      "US": "|| 30 seconds ||",
+      "JP": "|| 三十分秒 ||",
       "CN": "||剩余30秒||",
       "KR": "|| 30 초 ||",
-      "TW": "|| 三十秒 ||"
+      "TW": "| 三十秒 |"
     }
   },
   "|| 60 seconds ||": {
     "translation": "||剩余60秒||",
     "MultiLang": {
       "US": "|| 60 seconds ||",
-      "JP": "|| 60秒 ||=",
+      "JP": "|| 60秒 ||",
       "CN": "||剩余60秒||",
-      "KR": "|| 60 초 ||",
-      "TW": "|| 60秒 ||"
+      "KR": "",
+      "TW": "| 六十分鐘 |"
     }
   },
   "|| Failed ||": {
     "translation": "||失败||",
     "MultiLang": {
       "US": "|| Failed ||",
-      "JP": "失敗しました ||",
+      "JP": "失敗した",
       "CN": "||失败||",
-      "KR": "실패하였습니다 ||",
-      "TW": "失敗了 ||"
+      "KR": "|| 실패 ||",
+      "TW": "|| Failed ||"
     }
   },
   "** last update:2024-11-29 **": {
     "translation": "更新日期:2024-11-29",
     "MultiLang": {
       "US": "Last Update: 2024-11-29",
-      "JP": "** 最終更新日:2024-11-29 **",
+      "JP": "** 最終更新日：2024年11月29日 **",
       "CN": "更新日期:2024-11-29",
-      "KR": "** 최종 업데이트:2024-11-29 **",
-      "TW": "** 最後更新：2024-11-29 **"
+      "KR": "** 최종 업데이트일 : 2024-11-29 **",
+      "TW": "最後更新：2024-11-29"
     }
   },
   "** ze_Stardust - Ver.a03_f3 **": {
     "translation": "ze_Stardust 尘星之海",
     "MultiLang": {
-      "US": "ze_Stardust - Ver.a03_f3",
-      "JP": "** ze Stardust - Ver.a03_f3 **",
+      "US": "** ze_Stardust - Ver.a03_f3 **",
+      "JP": "** ze_Stardust - Ver.a03_f3 **",
       "CN": "ze_Stardust 尘星之海",
-      "KR": "**제2성월-Ver.a03_f3**",
-      "TW": "** 軟星塵 - Ver.a03_f3 **"
+      "KR": "** 스타더스 - Ver.a03_f3 **",
+      "TW": "** 星塵 - Ver.a03_f3 **"
     }
   },
   "** ze_Stardust - Ver.a03_f4 **": {
     "translation": "",
     "MultiLang": {
-      "US": "ze_Stardust - Version a03_f4",
-      "JP": "** ゼスターダスト - Ver.a03_f4 **",
-      "CN": "** 星尘 - Ver.a03_f4 **",
-      "KR": "** ze Stardust - Ver.a03_f4 **",
-      "TW": "** 零星星光 - Ver.a03_f4 **"
+      "US": "** ze_Stardust - Ver.a03_f4 **",
+      "JP": "** ze Stardust - Ver.a03_f4 **",
+      "CN": "ze_Stardust - Ver.a03_f4",
+      "KR": "** ze_Stardust - Ver.a03_f4 **",
+      "TW": "** 阮_星塵 - Ver.a03_f4 **"
     }
   }
 }

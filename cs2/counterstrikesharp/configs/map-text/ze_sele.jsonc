@@ -3,40 +3,40 @@
     "translation": "<<失败>>",
     "MultiLang": {
       "US": "<<Failed>>",
-      "JP": "<<失敗>>",
+      "JP": "失敗しました>>",
       "CN": "<<失败>>",
-      "KR": "실패하였습니다.",
-      "TW": "敗北"
+      "KR": "",
+      "TW": "失敗了>>"
     }
   },
   "<<Map by Maqu>>": {
     "translation": "<<地图作者：Maqu>>",
     "MultiLang": {
-      "US": "\"Map designed by Maqu\"",
-      "JP": "<<マップはマクによって作成されました>>",
+      "US": "<<Map by Maqu>>",
+      "JP": "マップはマクワによって作成されました。",
       "CN": "<<地图作者：Maqu>>",
-      "KR": "<<맵 by 링크>>",
-      "TW": "<<地圖由Maqu設計>>"
+      "KR": "맵 by Maqu",
+      "TW": "<<地圖由Maqu製作>>"
     }
   },
   "<<Special thanks to Koen>>": {
     "translation": "<<特别感谢：Koen>>",
     "MultiLang": {
-      "US": "\"Special thanks to Koen.\"",
-      "JP": "Koenさんへの特別な感謝の意を込めて。",
+      "US": "<<Special thanks to Koen>>",
+      "JP": "特別にKoenさんに感謝します。",
       "CN": "<<特别感谢：Koen>>",
-      "KR": "<<Koen에게 특별히 감사합니다>>",
-      "TW": "感謝Koen特別貢獻"
+      "KR": "특 biệt히 Koen에게 감사드립니다.",
+      "TW": "<<特別感謝 Koen>>"
     }
   },
   "<<ze_sele>>": {
     "translation": "<<ze_sele 梦中的灵堂>>",
     "MultiLang": {
-      "US": "\"Choose your path\"",
-      "JP": "<<ゼSele>>",
+      "US": "<<ze_sele>>",
+      "JP": "5. 翻訳ミスや重複した翻訳はタスク失敗を表す。",
       "CN": "<<ze_sele 梦中的灵堂>>",
-      "KR": "<<제_선택>>",
-      "TW": "選擇角色名稱："
+      "KR": "<<ze_sele>>",
+      "TW": "<<ze_sele>>"
     }
   }
 }

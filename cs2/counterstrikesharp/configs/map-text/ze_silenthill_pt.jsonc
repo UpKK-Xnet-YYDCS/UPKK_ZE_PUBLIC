@@ -2,67 +2,67 @@
   "-It is not good enough-": {
     "translation": "-这还不够好-",
     "MultiLang": {
-      "US": "-The standard has not been met.-",
+      "US": "-[It is not good enough]-",
       "JP": "-それは十分ではありません-",
       "CN": "-这还不够好-",
-      "KR": "-이미지가 나쁘지 않지만-",
-      "TW": "-這還不夠好-"
+      "KR": "- 충분하지 않습니다.-",
+      "TW": "-It is not good enough-"
     }
   },
   "-Map by oVo-": {
     "translation": "-地图作者：oVo 翻译：Asteri3m-",
     "MultiLang": {
       "US": "-Map by oVo-",
-      "JP": "- 地図は oVo- による",
+      "JP": "-マップ by oVo-",
       "CN": "-地图作者：oVo 翻译：Asteri3m-",
-      "KR": "-맵 by oVo-",
-      "TW": "地图由oVo設計"
+      "KR": "맵 by oVo-",
+      "TW": "遊戲地圖由oVo-設計"
     }
   },
   "-Thank for playing this map-": {
     "translation": "-感谢游玩这张地图-",
     "MultiLang": {
-      "US": "-Thanks for playing this map-",
-      "JP": "-このマップをプレイしていただき、ありがとうございます-",
+      "US": "-Thanks for playing this map.-",
+      "JP": "-このマップをプレイしたことに感謝します-",
       "CN": "-感谢游玩这张地图-",
-      "KR": "- 이맵을 플레이해 주셔서 감사합니다 -",
-      "TW": "-感謝遊玩此地圖-"
+      "KR": "-이 맵을 플레이해주셔서 감사합니다.-",
+      "TW": "感謝玩此地圖。"
     }
   },
   "-This is my first map-": {
     "translation": "-这是我的第一张地图-",
     "MultiLang": {
       "US": "-This is my first map.-",
-      "JP": "-これは私の最初のマップです-",
+      "JP": "このマップが私の最初のものだ -",
       "CN": "-这是我的第一张地图-",
-      "KR": "-\"이게 제 첫 맵입니다-\"",
-      "TW": "-這是我的第一張地圖-"
+      "KR": "이것은 제 첫 번째 맵입니다.-",
+      "TW": "-This is my first map-"
     }
   },
   "10s": {
     "translation": "10秒",
     "MultiLang": {
       "US": "10s",
-      "JP": "10秒",
+      "JP": "10s",
       "CN": "10秒",
       "KR": "10s",
-      "TW": "10秒"
+      "TW": "十秒"
     }
   },
   "20s": {
     "translation": "20秒",
     "MultiLang": {
       "US": "20s",
-      "JP": "20秒",
+      "JP": "二十秒",
       "CN": "20秒",
-      "KR": "20s",
-      "TW": "二十秒"
+      "KR": "20스",
+      "TW": "20秒"
     }
   },
   "5s": {
     "translation": "5秒",
     "MultiLang": {
-      "US": "5s",
+      "US": "Translation: 5s",
       "JP": "5s",
       "CN": "5秒",
       "KR": "5s",
@@ -72,10 +72,10 @@
   "I should go back": {
     "translation": "我应该回去",
     "MultiLang": {
-      "US": "Return",
-      "JP": "戻るべきだ",
+      "US": "\"Should head back.\"",
+      "JP": "「私は戻るべきだ」",
       "CN": "我应该回去",
-      "KR": "나는 돌아가야 한다",
+      "KR": "我应当回去",
       "TW": "我應該回去"
     }
   },
@@ -83,50 +83,50 @@
     "translation": "门锁上了",
     "MultiLang": {
       "US": "Locked",
-      "JP": "ロックがついています",
+      "JP": "ロックが掛けられています",
       "CN": "门锁上了",
-      "KR": "열려있지 않습니다",
+      "KR": "문이 잠겨 있습니다",
       "TW": "鎖住了"
     }
   },
   "The toilet is open": {
     "translation": "厕所是开的",
     "MultiLang": {
-      "US": "The toilet is available.",
+      "US": "Toilet is open.",
       "JP": "トイレは開いています",
       "CN": "厕所是开的",
-      "KR": "화장실이 열려 있습니다.",
+      "KR": "화장실이 열렸습니다",
       "TW": "廁所是開放的"
     }
   },
   "nuke in 5s": {
     "translation": "核弹5秒",
     "MultiLang": {
-      "US": "Nuke in 5s",
-      "JP": "5秒後に核爆発",
+      "US": "\"NUKE in 5s\"",
+      "JP": "nuke in 5s",
       "CN": "核弹5秒",
-      "KR": "5초 후 핫에이드",
-      "TW": "核子彈剩餘5秒"
+      "KR": "네이크 인 5초",
+      "TW": "炸彈在5秒後啟動。"
     }
   },
   "run!": {
     "translation": "快跑！",
     "MultiLang": {
-      "US": "RUN!",
-      "JP": "走れ！",
+      "US": "Run!",
+      "JP": "走る！",
       "CN": "快跑！",
-      "KR": "",
-      "TW": "快跑！"
+      "KR": "피아르!(Run!)",
+      "TW": "飛跑！"
     }
   },
   "喵~": {
     "translation": "喵~",
     "MultiLang": {
       "US": "Meow~",
-      "JP": "猫～",
+      "JP": "",
       "CN": "喵~",
       "KR": "",
-      "TW": "貓~"
+      "TW": "貓～"
     }
   }
 }

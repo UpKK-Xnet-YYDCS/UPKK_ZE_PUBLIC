@@ -2,91 +2,91 @@
   "~# Escape doors open #~": {
     "translation": "逃生门打开",
     "MultiLang": {
-      "US": "~# Escape Doors Open #~",
-      "JP": "〜#エスケイプドアが開く#～",
+      "US": "~# Escape doors open #~",
+      "JP": "~# 撤退用ドアが開く #~",
       "CN": "逃生门打开",
-      "KR": "~# 이동 문이 열립니다 #~",
-      "TW": "~# 選擇之門打開 #~"
+      "KR": "~# 캐리어 문이 열린다 #~",
+      "TW": "~# 脫出門開啟 #~"
     }
   },
   "~# Prop Removers Activated #~": {
     "translation": "道具移除器已激活",
     "MultiLang": {
-      "US": "\"Prop Removers Activated\"",
-      "JP": "プロップリムバーアクティベートド#~",
+      "US": "~# Prop Removers Activated #~",
+      "JP": "～# Prop Removers Active #～",
       "CN": "道具移除器已激活",
-      "KR": "~# 프롭 제거기 활성화 #~",
-      "TW": "~#道具移除功能激活#~"
+      "KR": "~# 절대적인 규칙을 준수합니다.#~",
+      "TW": "激活道具移除器。"
     }
   },
   "~# Hold this position #~": {
     "translation": "坚守这个位置",
     "MultiLang": {
-      "US": "~# Maintain this stance #~",
-      "JP": "~# この位置を保つ#~",
+      "US": "~# Hold this position #~",
+      "JP": "~# この位置を保つ #~",
       "CN": "坚守这个位置",
-      "KR": "~# 이 위치를 유지하십시오 #~",
-      "TW": "~# 坚持這個位置 #~"
+      "KR": "**# 이 위치를 유지하십시오 #**",
+      "TW": "請保持這個位置。"
     }
   },
   "~# 5 SECONDS! #~": {
     "translation": "5秒",
     "MultiLang": {
       "US": "~# 5 SECONDS! #~",
-      "JP": "~# 5 秒! #~",
+      "JP": "~# 5 秒！ #~",
       "CN": "5秒",
       "KR": "~# 5초! #~",
-      "TW": "計時！剩餘五秒！"
+      "TW": "~# 五秒！ #~"
     }
   },
   "~# GO! #~": {
     "translation": "快走！",
     "MultiLang": {
       "US": "~# GO! #~",
-      "JP": "~# ゴー! #~",
+      "JP": "開始する！",
       "CN": "快走！",
-      "KR": "~# 가자! #~",
-      "TW": "戰鬥開始！"
+      "KR": "~# 접니치즈 #~",
+      "TW": "開始衝刺！"
     }
   },
   "~# Nuke Has Been Launched #~": {
     "translation": "核弹已发射",
     "MultiLang": {
-      "US": "~# Nuclear Strike Initiated #~",
-      "JP": "~# ヌケが発射されました #~",
+      "US": "**Nuke Has Been Launched***",
+      "JP": "~# ニューカーが発射されました #~",
       "CN": "核弹已发射",
-      "KR": "~# 뉴크가 발사되었습니다 #~",
-      "TW": "🔥💥 當局已發射核武器 💥 🔆"
+      "KR": "~# 핵 발사되었습니다 #~",
+      "TW": "~~#核彈已發射#~~"
     }
   },
   "~# 15 Seconds To Impact #~": {
     "translation": "15秒",
     "MultiLang": {
-      "US": "\"15 Seconds Until Impact\"",
-      "JP": "～# 15秒の影響 #～",
+      "US": "15 Seconds To Impact",
+      "JP": "~# 投射物に衝突するまでの15秒 #~",
       "CN": "15秒",
-      "KR": "~# 충돌에 15 초가 남았습니다. #~",
-      "TW": "衝撞前15秒～"
+      "KR": "~# 15 초 전에 이격 #~",
+      "TW": "衝擊前15秒 #~"
     }
   },
   "~# 5 Seconds To Impact #~": {
     "translation": "5秒",
     "MultiLang": {
-      "US": "\"5 Second Impact Countdown\"",
-      "JP": "~# 影響の5秒 #~",
+      "US": "\"**5 Seconds To Impact***\"",
+      "JP": "〜# 撞擊前5秒 #〜",
       "CN": "5秒",
-      "KR": "~# 5초 후 충돌 #~",
-      "TW": "~# 雲端衝撞前五秒 #~"
+      "KR": "~# 5 秒までの影響 #~",
+      "TW": "~# 5 秒鐘衝擊 #~"
     }
   },
   "**Ct has fallen**": {
     "translation": "有人假摔",
     "MultiLang": {
       "US": "**Ct has fallen**",
-      "JP": "**Ctが落ちた**",
+      "JP": "**Ctは落ちています**",
       "CN": "有人假摔",
-      "KR": "**Ct가 떨어졌습니다.**",
-      "TW": "** Ct已下降**"
+      "KR": "**Ct가 하락했습니다**",
+      "TW": "**Ct已下降**"
     }
   }
 }

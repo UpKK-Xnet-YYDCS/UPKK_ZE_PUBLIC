@@ -3,120 +3,120 @@
     "translation": "***挂机玩家和僵尸已被传送***",
     "MultiLang": {
       "US": "*** AFK & HUNTERS HAVE BEEN TELEPORTED***",
-      "JP": "*** AFK＆ハンターズがテレポートされました***",
+      "JP": "***AFK & HUNTERS HAVE BEEN TELEPORTED***",
       "CN": "***挂机玩家和僵尸已被传送***",
-      "KR": "*** AFK & 헌터들이 전송되었습니다***",
-      "TW": "*** 离线及猎人已被瞬移***"
+      "KR": "**AFK & HUNTERS HAVE BEEN TELEPORTED***",
+      "TW": "**AFK與獵人已被瞬移**"
     }
   },
   "***AFK TELEPORTING 10 SECONDS***": {
     "translation": "***挂机玩家将在10秒内传送***",
     "MultiLang": {
       "US": "***AFK TELEPORTING 10 SECONDS***",
-      "JP": "***AFKテレポート中 10秒後***",
+      "JP": "**AFK テレポート 10 秒**",
       "CN": "***挂机玩家将在10秒内传送***",
-      "KR": "***AFK 텔포 10초***",
-      "TW": "***離線瞬移 10秒***"
+      "KR": "**AFK 텔레포트 10초**",
+      "TW": "***離線傳送10秒***"
     }
   },
   "***AFK TELEPORTING 20 SECONDS***": {
     "translation": "***挂机玩家将在20秒内传送***",
     "MultiLang": {
       "US": "***AFK TELEPORTING 20 SECONDS***",
-      "JP": "***AFK テルポート 20 秒***",
+      "JP": "**AFK テレポート20秒**",
       "CN": "***挂机玩家将在20秒内传送***",
-      "KR": "***AFK 텔포 20초***",
-      "TW": "離線傳送20秒"
+      "KR": "**.AFK 텔레포트 20초 **",
+      "TW": "**離線傳送到20秒**"
     }
   },
   "***BOAT LEAVING 15 SECONDS***": {
     "translation": "***船将在15秒内离开***",
     "MultiLang": {
       "US": "***BOAT LEAVING 15 SECONDS***",
-      "JP": "***ボートが15秒後に出発します***",
+      "JP": "**ボートが出る15秒**",
       "CN": "***船将在15秒内离开***",
-      "KR": "***보트가 15초 후에 떠나요***",
-      "TW": "離船時間剩餘15秒"
+      "KR": "Please note that the numbers and symbols have been kept intact as requested, maintaining their original context within the text.",
+      "TW": "***船離開15秒***"
     }
   },
   "***HELI LEAVING 10 SECONDS***": {
     "translation": "***直升机将在10秒内离开***",
     "MultiLang": {
       "US": "***HELI LEAVING 10 SECONDS***",
-      "JP": "***ヘリーフレーザー10秒後離着陸***",
+      "JP": "***ヘリ離脱10秒***",
       "CN": "***直升机将在10秒内离开***",
-      "KR": "***헬리가 10초 후에 떠납니다***",
-      "TW": "飛機離開剩餘10秒"
+      "KR": "***HELIPAD LEAVING IN 10 SEC***",
+      "TW": "**倒數離機10秒***"
     }
   },
   "***HELI LEAVING 20 SECONDS***": {
     "translation": "***直升机将在20秒内离开***",
     "MultiLang": {
       "US": "***HELI LEAVING 20 SECONDS***",
-      "JP": "***ヘリ departure 20秒後***",
+      "JP": "**ヘリーフェイスが20秒後で離陸します**",
       "CN": "***直升机将在20秒内离开***",
-      "KR": "***헬리가 20초 후 떠납니다***",
-      "TW": "飛機起飛剩餘20秒"
+      "KR": "***헬리 떠난 20초***",
+      "TW": "**直升機離場，20秒後見！**"
     }
   },
   "***MAP BY thegregster101***": {
     "translation": "***地图由thegregster101制作 翻译：Asteri3m***",
     "MultiLang": {
       "US": "***MAP BY thegregster101***",
-      "JP": "***MAP BY thegregster101***",
+      "JP": "**マップ by thegregster101***",
       "CN": "***地图由thegregster101制作 翻译：Asteri3m***",
-      "KR": "***맵 by thegregster101***",
-      "TW": "***地圖由thegregster101製作***"
+      "KR": "**맵 by thegregster101**",
+      "TW": "**由thegregster101制作的地圖***"
     }
   },
   "***NUKE IN 10 SECONDS***": {
     "translation": "***10秒内核爆***",
     "MultiLang": {
       "US": "***NUKE IN 10 SECONDS***",
-      "JP": "***10秒後にノーカット***",
+      "JP": "**【10秒後にN.U.K.Eが発動します】***",
       "CN": "***10秒内核爆***",
-      "KR": "***누크는 10초 후에 시작됩니다***",
-      "TW": "***核武發射倒數10秒***"
+      "KR": "***10초 후 NUKE***",
+      "TW": "十秒後 *** NUKE ***"
     }
   },
   "***NUKE IN 5 SECONDS***": {
     "translation": "***5秒内核爆***",
     "MultiLang": {
       "US": "***NUKE IN 5 SECONDS***",
-      "JP": "***5秒後にノukes***",
+      "JP": "** NUKE IN 5 SECONDS **",
       "CN": "***5秒内核爆***",
-      "KR": "***5초 후 N루크***",
-      "TW": "***五秒後核彈轟炸***"
+      "KR": "**5초 후 NUKE입니다***",
+      "TW": "五秒後執行 NUKE ***"
     }
   },
   "***RESCUE BOAT & HELI INBOUND 60 SECONDS***": {
     "translation": "***救援船和直升机将在60秒内到达***",
     "MultiLang": {
       "US": "***RESCUE BOAT & HELI INBOUND 60 SECONDS***",
-      "JP": "***救援ボート＆ヘリ reinc 60秒以内に到着***",
+      "JP": "**RESCUER BOAT & HELI ON THE WAY IN 60 SECONDS***",
       "CN": "***救援船和直升机将在60秒内到达***",
-      "KR": "***해면 구조선 및HELIC 안착 60초 후***",
-      "TW": "***救生艇及直升機於60秒內到達***"
+      "KR": "**RESCUE BOAT & HELI INBOUND 60 SECONDS**",
+      "TW": "***救援艇及直升機即將抵達60秒後***"
     }
   },
   "***TRAM LEAVES 10 SECONDS***": {
     "translation": "***电车将在10秒内离开***",
     "MultiLang": {
       "US": "***TRAM LEAVES 10 SECONDS***",
-      "JP": "***トラムが10秒後に発車します***",
+      "JP": "**TRAM LEAVES **10 SECONDS***",
       "CN": "***电车将在10秒内离开***",
-      "KR": "***트램이 10초 후에 떠납니다***",
-      "TW": "***tram 離開 10 秒***"
+      "KR": "**트램이 10초 후에 떠납니다**",
+      "TW": "**計時器剩餘10秒***"
     }
   },
   "***USE RADIO TO CALL FOR HELP!***": {
     "translation": "***使用无线电呼叫求助！***",
     "MultiLang": {
       "US": "***USE RADIO TO CALL FOR HELP!***",
-      "JP": "***ラジオを使って救助を呼び込みましょう！***",
+      "JP": "**使用ラジオで助けを呼ぼう！**",
       "CN": "***使用无线电呼叫求助！***",
-      "KR": "***RADIO를 사용하여 도움을 청하세요!***",
-      "TW": "***使用對講機求救！***"
+      "KR": "**사운드를 사용해 도움을 청하십시오!**",
+      "TW": "使用收音機呼叫求救！***"
     }
   }
 }

@@ -3,29 +3,29 @@
     "translation": "最后一扇门将在 40 秒后关闭！",
     "MultiLang": {
       "US": "* * * LAST DOOR CLOSING IN 40 SECONDS! * * *",
-      "JP": "* * * ウラドアが40秒後に閉まる！ * * *",
+      "JP": "* * * 最後の扉が40秒後に閉まります！* * *",
       "CN": "最后一扇门将在 40 秒后关闭！",
-      "KR": "* * * 마지막 문이 40초 만에 닫힙니다! * * *",
-      "TW": "* * * 最後一扇門將在40秒後關閉！* * *"
+      "KR": "* * * 최종 문이 40초 후에 닫힙니다! * * *",
+      "TW": "* * * 最後一扇門在40秒後關閉！* * *"
     }
   },
   "* * Pull the Lever to charge the Teleport! * * *": {
     "translation": "拉动拉杆为传送装置充电！",
     "MultiLang": {
-      "US": "\"Pull the Lever to charge the Teleport!\" * * *",
-      "JP": "* * レバーを引いて、テレポートに電力を充填してください！* * *",
+      "US": "* * Pull the Lever to charge the Teleport! * * *",
+      "JP": "* * 電光を充電する為にレバーを引いてください。* * *",
       "CN": "拉动拉杆为传送装置充电！",
-      "KR": "* * 핸들을당기면 teleport을 충전합니다. * * *",
-      "TW": "* * 拉下把柄以充電 TELEPORT! * * *"
+      "KR": "* * TELEPORT 가동하기 위해 휠을 당기세요 * * *",
+      "TW": "* * 拉動把手來充電傳送門！* * *"
     }
   },
   "* * * Break the DOOR to Enter! * * *": {
     "translation": "打破大门进入！",
     "MultiLang": {
-      "US": "* * * Smash the DOOR to Gain Entry! * * *",
+      "US": "* * * Smash the DOOR to Gain Access! * * *",
       "JP": "* * * ドアを破って入る！* * *",
       "CN": "打破大门进入！",
-      "KR": "* * * 문을 깨서 들어오세요! * * *",
+      "KR": "* * * 문을 파괴하여 들어오세요! * * *",
       "TW": "* * * 打開門進入！* * *"
     }
   },
@@ -33,160 +33,160 @@
     "translation": "打破铁板进入大门！",
     "MultiLang": {
       "US": "* * Smash the iron planks to open the doors! * *",
-      "JP": "* * 鋼鉄の板を破り、ドアに入ろう！* *",
+      "JP": "* * 鉄板を壊してドアに入りましょう！ * *",
       "CN": "打破铁板进入大门！",
-      "KR": "* * 철판을 깨고 문으로 들어오세요! * *",
-      "TW": "打開鐵板以進入門檻！"
+      "KR": "* * 철 보관함을 깨고 문으로 들어가세요! * *",
+      "TW": "進入門檻前務必打破鐵板！* *"
     }
   },
   "* * * Get up on the rescue spot! * * *": {
     "translation": "爬上救援点！",
     "MultiLang": {
-      "US": "* * * Get to the rescue area! * * *",
-      "JP": "* * * 救出ポイントに飛びつくな！ * * *",
+      "US": "* * * Stand on the rescue point! * * *",
+      "JP": "* * * 救援地点に起床！ * * *",
       "CN": "爬上救援点！",
-      "KR": "* * * 구출 위치에 서세요! * * *",
-      "TW": "* * * 在救援點上車！ * * *"
+      "KR": "* * * 구조지역에서 일어날 수 있습니다! * * *",
+      "TW": "* * * 選擇救援點登陸！* * *"
     }
   },
   "* * * Train is leaving in 15 seconds! * * *": {
     "translation": "火车将在 15 秒后离开！",
     "MultiLang": {
-      "US": "* * * Train departing in 15 secs! * * *",
+      "US": "* * * Train will depart in 15 seconds! * * *",
       "JP": "* * * 列車は15秒後に出発します！ * * *",
       "CN": "火车将在 15 秒后离开！",
-      "KR": "* * * 기차가 15초 후에 출발합니다! * * *",
-      "TW": "* * * 列車起始離發，還有15秒！* * *"
+      "KR": "* * * 15초 후에 TRAIN이 떠납니다! * * *",
+      "TW": "* * * 列車將在15秒後出發！* * *"
     }
   },
   "* * The Electric Water will be disabled in 15 seconds! * *": {
     "translation": "水里的电将在 15 秒后失效！",
     "MultiLang": {
-      "US": "* * The Electric Water will shut down in 15 secs! * *",
-      "JP": "* * 15秒後、電気の水は無効になります！ * *",
+      "US": "* * The Electric Water will be disabled in 15 seconds! * *",
+      "JP": "* * 電気ウォーターは15秒後で無効になります！ * *",
       "CN": "水里的电将在 15 秒后失效！",
-      "KR": "* * 15초 후에 전기 물이 비활성화 됩니다! * *",
-      "TW": "* * 電力水將在15秒後被禁用！* *"
+      "KR": "* * 전기 물은 15초 후에 비활성화됩니다. * *",
+      "TW": "* * 電力水將在15秒後停用！* *"
     }
   },
   "* * * Electric Water is Disabled * * *": {
     "translation": "水里的电失效了",
     "MultiLang": {
-      "US": "* * * Electric Water is Off * * *",
-      "JP": "* * * エレクトリックウォータは無効 * * *",
+      "US": "* * * Electric Water is Disabled * * *",
+      "JP": "* * * 電気水は無効 * * *",
       "CN": "水里的电失效了",
-      "KR": "* * * 전기 물 사용을 비활성화하였습니다. * * *",
-      "TW": "電動水已被禁用 * * *"
+      "KR": "* * * 전기 물이 비활성화 되었습니다 * * *",
+      "TW": "* * * 電力用水已禁用 * * *"
     }
   },
   "* * * Teleport is Charged in 30 Seconds! * * *": {
     "translation": "传送装置将在 30 秒后充电！",
     "MultiLang": {
-      "US": "* * * Teleport will recharge in 30s! * * *",
+      "US": "* * * Teleport charges in 30s! * * *",
       "JP": "* * * テレポートのチャージ時間は30秒です！ * * *",
       "CN": "传送装置将在 30 秒后充电！",
-      "KR": "* * * 통신이 30초 후에 충전됩니다! * * *",
-      "TW": "* * * 路程法術充能中，還剩30秒！ * * *"
+      "KR": "* * * teleport이 30초 후 충전됩니다. * * *",
+      "TW": "* * * 跳躍能量在三十分秒內充電完成！ * * *"
     }
   },
   "* * * Run to the Safe Room! * * *": {
     "translation": "跑向安全室！",
     "MultiLang": {
-      "US": "\"Run to the Safe Room!\"",
-      "JP": "* * * セーフルームに走り込み！ * * *",
+      "US": "* * * Run to the Safe Room! * * *",
+      "JP": "* * * 安全室に走り込み!* * *",
       "CN": "跑向安全室！",
-      "KR": "* * * 안전한 방으로 달려가세요! * * *",
-      "TW": "* * * 跑向安全房間！* * *"
+      "KR": "* * * 안전실로 뛰어 가세요! * * *",
+      "TW": "* * * 遠離危機，衝向安全室！* * *"
     }
   },
   "* * * The Water is Electric so dont swim! * * *": {
     "translation": "水里有电，不要游泳！",
     "MultiLang": {
-      "US": "* * * The water conducts electricity, don't swim! * * *",
-      "JP": "* * * 水は電気だから泳がないで！ * * *",
+      "US": "* * * Water conducts electricity, don't swim! * * *",
+      "JP": "* * * 水は電気なので泳がないで! * * *",
       "CN": "水里有电，不要游泳！",
-      "KR": "* * * 물은 전기다니까 수영하지 마세요! * * *",
-      "TW": "電動的水，不要游泳！"
+      "KR": "* * * 물은 전자기력이므로 수영하지 마세요! * * *",
+      "TW": "* * * 水是電的，所以不要游泳！* * *"
     }
   },
   "* * * Get on the Train! * * *": {
     "translation": "快上火车",
     "MultiLang": {
-      "US": "\"Get on the Train!\"",
-      "JP": "* * * 鉄道に乗れ！ * * *",
+      "US": "* * * Board the Train! * * *",
+      "JP": "* * * 列車に乗りなさい！ * * *",
       "CN": "快上火车",
-      "KR": "* * * 철도에 탑승하세요! * * *",
-      "TW": "搭上列車！"
+      "KR": "* * * 열차에上来세요! * * *",
+      "TW": "* * * 請上車！* * *"
     }
   },
   "* * * Zombie Nervegas Activated in 5 Seconds! * * *": {
     "translation": "僵尸神经毒气在 5 秒内激活！",
     "MultiLang": {
-      "US": "\"Zombie Nervegas Activated in 5 Sec!\"",
-      "JP": "* * *ゾンビニューガスが5秒後に活性化！ * * *",
+      "US": "Zombie Nervegas Activated in 5 Secs!",
+      "JP": "* * * ゾンビ・ニューヴガスが5秒後に活性化します！* * *",
       "CN": "僵尸神经毒气在 5 秒内激活！",
-      "KR": "* * * 좀비 뉴가스 활성화 5초 후! * * *",
-      "TW": "* * * 離散化喪屍納維加斯啟動，五秒後生效！* * *"
+      "KR": "* * * 5초 후에 좀비 뉴게이스 활성화 됩니다! * * *",
+      "TW": "* * * 離開時間還有5秒！喪屍神經爆發啟動中！* * *"
     }
   },
   "* * * Zombie Shield Disabled! * * *": {
     "translation": "僵尸防护罩失效",
     "MultiLang": {
-      "US": "* * * Zombie Shield Down! * * *",
-      "JP": "* * * ザンビの盾が無効になりました！ * * *",
+      "US": "* * * Zombie Shield Disabled! * * *",
+      "JP": "* * * ズンビシャードが無効化されました！* * *",
       "CN": "僵尸防护罩失效",
-      "KR": "* * * 시체 방어 장벽 해제되었습니다! * * *",
-      "TW": "* * * 鬼魂防禦失效！ * * *"
+      "KR": "* * * 좀비 방어 무효화! * * *",
+      "TW": "* * * 離屍防禦已失效！* * *"
     }
   },
   "* * Zombie Shield Activated! * *": {
     "translation": "僵尸防护罩启动！",
     "MultiLang": {
       "US": "* * Zombie Shield Activated! * *",
-      "JP": "* * バイオ>Z zombie シールドが活性化しました！* *",
+      "JP": "* * ゼンビー ワンダーライト アクティベート！* *",
       "CN": "僵尸防护罩启动！",
-      "KR": "* * 좀비 방어막이 활성화되었습니다! * *",
-      "TW": "* * 駭客防禦罩啟動中！* *"
+      "KR": "* * 좀비 시ール드 활성화!* *",
+      "TW": "* * 離魂防禦啟動！* *"
     }
   },
   "* * * Zombie Shield Disable in 20 Seconds! * * *": {
     "translation": "僵尸防护罩 20 秒后失效！",
     "MultiLang": {
-      "US": "* * * Disable Zombie Shield in 20 Secs! * * *",
-      "JP": "* * * ゾンビの防壁が20秒後に無効になります！ * * *",
+      "US": "* * * Zombie Shield Disable in 20 Secs! * * *",
+      "JP": "* * * 適応するゾンビのシャドウを20秒後に無効にする！* * *",
       "CN": "僵尸防护罩 20 秒后失效！",
-      "KR": "* * * 좀비 방어벽이 20초 후에 해제됩니다. * * *",
-      "TW": "* * * 僵屍防禦在20秒後關閉！* * *"
+      "KR": "* * * 20초 후에 좀비 보호막 비활성화 됩니다! * * *",
+      "TW": "* * * 溫尸防禦在二十秒後失效! * * *"
     }
   },
   "* * * The Gate Door Will Open in 5 Seconds! * * *": {
     "translation": "大门将在5秒内打开",
     "MultiLang": {
-      "US": "* * * The Gate Door Will Open in 5 Secs! * * *",
-      "JP": "* * * 5秒後、ゲートドアが開く予定です！ * * *",
+      "US": "* * * The Gate Door Will Open in 5 Seconds! * * *",
+      "JP": "* * * ガートドアが5秒後に開く！* * *",
       "CN": "大门将在5秒内打开",
-      "KR": "* * * 5초 후 문장이 열립니다! * * *",
-      "TW": "* * * 門口将在5秒后开启！* * *"
+      "KR": "* * * 5초 후 게이트 문이 열립니다! * * *",
+      "TW": "* * * 那道大門將在五秒後開啟！* * *"
     }
   },
   "* * * Zombie Shield Activated in 20 Seconds!": {
     "translation": "僵尸防护罩 20 秒后激活",
     "MultiLang": {
       "US": "* * * Zombie Shield Activated in 20 Secs!",
-      "JP": "* * * ゾンビ防具が20秒後に活性化します！",
+      "JP": "* * * 首都再活性化が20秒後に開始します！",
       "CN": "僵尸防护罩 20 秒后激活",
-      "KR": "* * * 20초 후에 쓰러트릴 Zombie 방어막이 활성화 됩니다!",
-      "TW": "* * * 僵屍防禦在20秒後啟動！"
+      "KR": "* * * 20초 후 쓰레기 장벽 활성화 됩니다!",
+      "TW": "* * * 在20秒後啟動僵尸防禦！"
     }
   },
   "* * * The Gate Door Will Open in 10 Seconds! * * *": {
     "translation": "大门将在 10 秒后打开！",
     "MultiLang": {
-      "US": "* * * The Gate Door Will Open in 10 Secs! * * *",
-      "JP": "* * * 10秒後にゲートドアが開く予定です！ * * *",
+      "US": "* * * The Gate Door Will Open in 10 Seconds! * * *",
+      "JP": "* * * ゲートドアは10秒後開きます！ * * *",
       "CN": "大门将在 10 秒后打开！",
-      "KR": "* * * 10초 후 문이 열리겠습니다! * * *",
-      "TW": "* * * 門口将在10秒后打开！* * *"
+      "KR": "* * * 10초 후 게이트 문이 열리겠습니다! * * *",
+      "TW": "* * * 場門將於10秒後打開！* * *"
     }
   }
 }

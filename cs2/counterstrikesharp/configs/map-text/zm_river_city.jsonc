@@ -2,21 +2,21 @@
   "\"地图: 热血物语\"": {
     "translation": "",
     "MultiLang": {
-      "US": "Map: Blood Story",
-      "JP": "\"マップ: 熱血物語\"",
+      "US": "\"Map: Hot Story\"",
+      "JP": "ゲームマップ：熱血物語",
       "CN": "\"地图：热血物语\"",
-      "KR": "\"도구: 열혈 이야기\"",
-      "TW": "\"地圖：熱血物語\""
+      "KR": "\"맵: 열혈물語\"",
+      "TW": "遊戲地圖：熱血物語"
     }
   },
   "\"版本: Alpha 1.0\"": {
     "translation": "",
     "MultiLang": {
       "US": "Version: Alpha 1.0",
-      "JP": "バージョン: アルファ 1.0",
+      "JP": "バージョン: Alpha 1.0",
       "CN": "版本: Alpha 1.0",
-      "KR": "\"버전: 알파 1.0\"",
-      "TW": "\"版本: 雅普拉 1.0\""
+      "KR": "\"버전: Alpha 1.0\"",
+      "TW": "版本: Alpha 1.0"
     }
   },
   "\"作者: CD意识.\"": {
@@ -24,39 +24,39 @@
     "MultiLang": {
       "US": "\"Author: CD Awareness.\"",
       "JP": "\"著者: CD意識.\"",
-      "CN": "\"作者：CD意识.\"",
-      "KR": "\"작성자: CD 인식.\"",
-      "TW": "\"作者: CD意識.\""
+      "CN": "作者: CD意识.\"",
+      "KR": "\"작성자: CD意思.\"",
+      "TW": "\"創作者：CD意識.\""
     }
   },
   "\"版本: Beta 1.7\"": {
     "translation": "",
     "MultiLang": {
       "US": "Version: Beta 1.7",
-      "JP": "\"バージョン: ベータ1.7\"",
-      "CN": "\"版本: Beta 1.7\"",
+      "JP": "バージョン: ベータ1.7",
+      "CN": "版本: Beta 1.7",
       "KR": "\"버전: 베타 1.7\"",
-      "TW": "版本: Beta 1.7"
+      "TW": "\"版本: Beta 1.7\""
     }
   },
   "\"检测到服务器无Lua解锁插件，地图部分功能禁用\"": {
     "translation": "",
     "MultiLang": {
-      "US": "\"Detecting no Lua Unlock plugin on server, some map features are disabled.\"",
-      "JP": "「サーバーにLuaアンロックプラグインが見つかりません、マップの一部の機能が無効です」",
-      "CN": "\"发现服务器未安装Lua解锁插件，部分地图功能被禁用\"",
-      "KR": "\"서버에서 Lua 해제 기능 플러그인을 찾지 못하여 지도에 대한 일부 기능이 비활성화 되었습니다.\"",
-      "TW": "\"發現伺服器無 Lua 開源插件，部分地圖功能被禁用\""
+      "US": "\"Server detected without Lua unlock plugin, partial map functionality disabled.\"",
+      "JP": "「サーバーにLuaアンロックプラグインが検出されず、マップの一部機能が無効」",
+      "CN": "\"检测到服务器未安装Lua解锁插件，部分地图功能被禁用。\"",
+      "KR": "\"서버에서 Lua 해금 플러그인을 검출하지 못하여 지도의 일부 기능이 비활성화되었습니다.\"",
+      "TW": "\"偵測到伺服器無 Lua 開鎖模組，地圖部分功能被停用\""
     }
   },
   "'Lua脚本加载成功,版本1.2'": {
     "translation": "",
     "MultiLang": {
-      "US": "'Successfully loaded Lua script, version 1.2'",
-      "JP": "'Luaスクリプトのロードが完了しました、バージョン1.2'",
-      "CN": "\"Lua脚本加载成功，版本1.2\"",
-      "KR": "'루아 스크립트가 성공적으로 로드되었고, 버전은 1.2입니다.'",
-      "TW": "\" Lua 腳本加載成功，版本 1.2 \""
+      "US": "\"Lua script loaded successfully, version 1.2.\"",
+      "JP": "「ルアスクリプトのロードが成功しました、バージョン1.2」",
+      "CN": "'Lua脚本加载成功,版本1.2'",
+      "KR": "\"루아 스크립트가 성공적으로 로드되었어요, 버전 1.2\"",
+      "TW": "' Lua腳本加載成功,版本1.2 '"
     }
   }
 }

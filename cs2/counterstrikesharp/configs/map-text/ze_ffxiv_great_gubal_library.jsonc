@@ -2,301 +2,301 @@
   "*A player acquires the Bio element.*": {
     "translation": "*一名玩家获得了毒*",
     "MultiLang": {
-      "US": "*The Bio element is obtained by a player.*",
-      "JP": "*プレイヤーがバイオ要素を獲得します。*",
+      "US": "Player gains Bio element.",
+      "JP": "*プレイヤーはバイオ要素を獲得しました.*",
       "CN": "*一名玩家获得了毒*",
-      "KR": "*게이머가 비오 원소를 확보합니다.*",
-      "TW": "*一名玩家獲得生物元素。*"
+      "KR": "*플레이어가 라이온 원소를 얻습니다.*",
+      "TW": "玩家獲得了生物元素。"
     }
   },
   "*A player acquires the Electricity element.*": {
     "translation": "*一名玩家获得了电*",
     "MultiLang": {
-      "US": "*The player gains the Electricity attribute.*",
-      "JP": "*プレーヤーは電気の要素を習得しました。*",
+      "US": "*Player gains the Electricity element.*",
+      "JP": "*プレイヤーが電気 элементを取得します。*",
       "CN": "*一名玩家获得了电*",
-      "KR": "*이 플레이어는 전기 요소를 얻습니다.*",
-      "TW": "*一位玩家獲得電氣元素。*"
+      "KR": "*플레이어가 전기 요소를 획득합니다.*",
+      "TW": "*玩家獲得電力元素。*"
     }
   },
   "*A player acquires the Speed.*": {
     "translation": "*一名玩家获得了加速*",
     "MultiLang": {
-      "US": "*The player gains Speed.*",
-      "JP": "*プレイヤーはスピードを獲得します。*",
+      "US": "*Player gains Speed.*",
+      "JP": "*プレイヤーはスピードを獲得します.*",
       "CN": "*一名玩家获得了加速*",
-      "KR": "*게이머가 속도를 획득한다.*",
-      "TW": "*玩家獲得速度。*"
+      "KR": "*이 플레이어는 속도를 획득합니다.*",
+      "TW": "*玩家獲得了速度。*"
     }
   },
   "*A player acquires the fire element.*": {
     "translation": "*一名玩家获得了火*",
     "MultiLang": {
-      "US": "*The player gains the fire attribute.*",
-      "JP": "*プレイヤーが炎の要素を取得する。*",
+      "US": "*Player obtains fire attribute.*",
+      "JP": "*プレイヤーが火の要素を取得します。*",
       "CN": "*一名玩家获得了火*",
-      "KR": "*플레이어가 불요소를 획득합니다.*",
-      "TW": "*一名玩家獲得火元素。*"
+      "KR": "플레이어가 불 요소를 획득합니다.",
+      "TW": "*遊戲者獲得火元素。*"
     }
   },
   "*A player became a BLM*": {
     "translation": "*一名玩家成为了黑魔法师*",
     "MultiLang": {
-      "US": "A player has become a BLM.",
-      "JP": "*プレイヤーがBLMに進級しました*",
+      "US": "\"Player has become a BLM.\"",
+      "JP": "*プレイヤーがBLMになりました*",
       "CN": "*一名玩家成为了黑魔法师*",
-      "KR": "*A joueur est devenu un BLM*",
-      "TW": "*一名玩家成為了BLM*"
+      "KR": "*[플레이어가 BLM이 되었습니다]*",
+      "TW": "*一名玩家成為了一名BLM*"
     }
   },
   "*A player became a SGE*": {
     "translation": "*一名玩家成为了贤者*",
     "MultiLang": {
-      "US": "A player achieved SGE status.",
-      "JP": "*プレイヤーがSGEになりました*",
+      "US": "\"Player achieved SGE status.\"",
+      "JP": "プレイヤーがSGEに昇格しました。",
       "CN": "*一名玩家成为了贤者*",
-      "KR": "\"게임 내 한 플레이어가 SGE로 승격되었습니다.\"",
-      "TW": "*一名玩家成為SGE*"
+      "KR": "\"A player became a SGE\"",
+      "TW": "*一名玩家成為了一名SGE*"
     }
   },
   "*A player became a SMN*": {
     "translation": "*一名玩家成为了召唤师*",
     "MultiLang": {
-      "US": "\"A player has ascended to become a SMN\"",
-      "JP": "*プレイヤーがSMNになりました*",
+      "US": "A player has become a SMN.",
+      "JP": "*プレイヤーがSMNになった*",
       "CN": "*一名玩家成为了召唤师*",
-      "KR": "*이하의 플레이어가 SMN으로 승급되었습니다.*",
-      "TW": "*有一位玩家成為了SMN*"
+      "KR": "*게이머가 SMN으로 변신했습니다.*",
+      "TW": "玩家成為了一名SMN。"
     }
   },
   "Extreme": {
     "translation": "极限",
     "MultiLang": {
-      "US": "Ultra Extreme",
-      "JP": "極度",
+      "US": "Extreme",
+      "JP": "極端",
       "CN": "极限",
       "KR": "",
-      "TW": "極端"
+      "TW": "極致"
     }
   },
   "Hard": {
     "translation": "困难",
     "MultiLang": {
-      "US": "Challenging",
-      "JP": "難易度高",
+      "US": "5. Translation errors or duplicates are task failures.\"",
+      "JP": "",
       "CN": "困难",
-      "KR": "",
-      "TW": "艱難的"
+      "KR": "_HARD_",
+      "TW": "難"
     }
   },
   "Normal": {
     "translation": "普通",
     "MultiLang": {
-      "US": "Common",
+      "US": "Normal",
       "JP": "正常",
       "CN": "普通",
-      "KR": "",
-      "TW": "正常模式"
+      "KR": "【번역】 Normal",
+      "TW": "【開始翻譯】"
     }
   },
   "Warmup": {
     "translation": "热身 翻译：Asteri3m",
     "MultiLang": {
-      "US": "Warmup",
+      "US": "\"Start Warmup\"",
       "JP": "ウォームアップ",
       "CN": "热身 翻译：Asteri3m",
       "KR": "",
-      "TW": "熱身"
+      "TW": "Warmup"
     }
   },
   "* Defend until the gates open 20s *": {
     "translation": "",
     "MultiLang": {
-      "US": "\"Defend until the gates open in 20 seconds.\"",
-      "JP": "「ギアが開くまで防御を続ける、20秒」",
+      "US": "* Defend until the gates open for 20 seconds *",
+      "JP": "* ガートが開くまでの20秒で守り続ける *",
       "CN": "* 防守直至城门开启20秒 *",
-      "KR": "* 문이 열릴 때까지 방어하시오 20초 *",
-      "TW": "* 防守至城門開启20秒 *"
+      "KR": "* 문이 열릴直까지 방어해라 20초 *",
+      "TW": "防守直至城門開放20秒 *"
     }
   },
   "* Defend until the gates open 30 *": {
     "translation": "",
     "MultiLang": {
-      "US": "\"Defend until the gates open in 30.\"",
-      "JP": "* ゴートを守って門が開くまで30回まで",
-      "CN": "* 防守至城门开启30秒 *",
-      "KR": "* 문이 열릴 때까지 방어하다 30 *",
-      "TW": "守到城門開30秒 *"
+      "US": "Defend until the gates open in 30.*",
+      "JP": "* 戦いを続け、城門が開くまで守る 30 *",
+      "CN": "* 守卫直到城门开启30 *",
+      "KR": "* 개문이 열릴 때까지 방어하세요 * 30 *",
+      "TW": "* 鍵開之前守住 30 *"
     }
   },
   "*A player acquires the fire ice.*": {
     "translation": "",
     "MultiLang": {
-      "US": "*The player gains the fire ice.*",
-      "JP": "*プレイヤーは火の氷を取得します。*",
-      "CN": "*玩家获得火冰。*",
-      "KR": "\"플레이어가 불빙을 획득합니다.\"",
-      "TW": "*玩家獲得火冰技能.*"
+      "US": "*Player obtains Fire Ice.*",
+      "JP": "*プレイヤーが火の氷を獲得しました。*",
+      "CN": "*玩家获得了火冰。*",
+      "KR": "*플레이어가 불결을 획득한다.*",
+      "TW": "*一玩家獲得火冰.*"
     }
   },
   "* Defend until the gates open 25 *": {
     "translation": "",
     "MultiLang": {
-      "US": "\"Defend until the gates open 25.\"",
-      "JP": "* ゴートを守って扉が開くまで 25 *",
-      "CN": "* 防守直至城门开启 25 *",
-      "KR": "* 문이 열릴 때까지 방어하다 25 *",
-      "TW": "* 守到城門開25次 *"
+      "US": "* Defend until the gates open 25 *",
+      "JP": "* 門が開くまで防ぎ続ける 25 *",
+      "CN": "* 坚守直至城门开启25次 *",
+      "KR": "* 문이 열리기까지 방어하십시오 25 *",
+      "TW": "守到城門開啓25次 *"
     }
   },
   "* Defend until the gates open 25s*": {
     "translation": "",
     "MultiLang": {
-      "US": "\"Defend until the gates open in 25 seconds.\"",
-      "JP": "* ガートが開くまで守り続ける 25秒*",
-      "CN": "* 守到城门打开25秒 *",
-      "KR": "* 25초 동안 게이트를 방어하십시오.*",
-      "TW": "* 防守直到城門在25秒後打開*"
+      "US": "Defend until the gates open in 25s.*",
+      "JP": "* 帳門を開くまで守る 25秒*",
+      "CN": "* 防守直到城门开启 25s *",
+      "KR": "* 문이 열릴 때까지 방어하라 25s *",
+      "TW": "* 雖然城門在25秒後才會打開*"
     }
   },
   "* Defend until the gates open 20 *": {
     "translation": "",
     "MultiLang": {
       "US": "\"Defend until the gates open 20.\"",
-      "JP": "* 堡門が開くまで守る 20 *",
-      "CN": "* 防守直到城门开启20次 *",
-      "KR": "* 문이 열릴 때까지 방어하세요 20 *",
-      "TW": "* 守到城門打開20次 *"
+      "JP": "* 戸を守って門が開くまで 20 *",
+      "CN": "* 守到城门开启20次 *",
+      "KR": "* 문이 열릴 때까지 방어하세요 *20*",
+      "TW": "* 防守直到城門開闢20*"
     }
   },
   "* Defend until the gates open 32s *": {
     "translation": "",
     "MultiLang": {
-      "US": "\"Defend until the gates open in 32 seconds.\"",
-      "JP": "* 大門が開くまで守り続ける32秒 *",
-      "CN": "* 守到城门开启 32秒 *",
-      "KR": "*\"대문이 열릴 때까지 방어하기 32초\"*",
-      "TW": "* 防守直到城門打開32秒 *"
+      "US": "Defend until the gates open in 32 seconds.",
+      "JP": "* 堡門を開くまで守り続ける 32秒 *",
+      "CN": "* 防守直至城门开启32秒 *",
+      "KR": "* 방어直到城門開放 32초 *",
+      "TW": "* 防守直到城門開放 32 秒 *"
     }
   },
   "* Defend until the gates open 25s *": {
     "translation": "",
     "MultiLang": {
-      "US": "\"Defend until the gates open in 25 seconds.\"",
-      "JP": "* ゴートまで守り続ける 25秒 *",
-      "CN": "* 防守至大门开启25秒 *",
-      "KR": "* 25초 동안 문이 열릴 때까지 방어하십시오. *",
-      "TW": "* 防守至門戶開放25秒*"
+      "US": "\"Defend until the gates open in 25s.\"",
+      "JP": "* 戦線を保ち、城門が開くまで25秒間守りきる *",
+      "CN": "* 守卫直至城门开启 25s *",
+      "KR": "* 25s 동안 게이트가 열릴 때까지 방어하세요 *",
+      "TW": "防守直至城門開放25秒 *"
     }
   },
   "* Defend until the gates open 22s *": {
     "translation": "",
     "MultiLang": {
       "US": "\"Defend until the gates open in 22 seconds.\"",
-      "JP": "* 鳍門を開くまで守り続ける 22秒 *",
-      "CN": "* 防守直到城门开放 22秒 *",
-      "KR": "* 방어하여 문이 열리길 22초 기다려주세요 *",
-      "TW": "* 線守至城門開放剩餘22秒 *"
+      "JP": "* 堡門が開くまで守る 22秒 *",
+      "CN": "* 守到城门开启22秒 *",
+      "KR": "* 문이 열릴 때까지 방어하기 22초 *",
+      "TW": "* 防守至城門開闢22秒 *"
     }
   },
   "* Defend until the gates open 30s *": {
     "translation": "",
     "MultiLang": {
-      "US": "\"Defend until the gates open in 30 seconds.\"",
-      "JP": "* もっとも門が開くまで守り続けましょう、30秒です.*",
-      "CN": "* 防守直到城门开启30秒 *",
-      "KR": "* 도어가 열리기 전까지 30초 동안 방어하세요 *",
-      "TW": "* 防守直到城門在30秒後打開 *"
+      "US": "Defend until the gates open in 30s.*",
+      "JP": "* 剣るまで３０秒守りきる*",
+      "CN": "* 防守至城门开启30秒 *",
+      "KR": "* 30s 동안 문을 방어하십시오 *",
+      "TW": "防守直到城門開放30秒 *"
     }
   },
   "* Defend until the gates open 15s *": {
     "translation": "",
     "MultiLang": {
-      "US": "\"Defend until the gates open in 15 seconds.\"",
-      "JP": "「門が開くまで防御を続けろ、15秒」",
-      "CN": "* 防守直到城门开启15秒 *",
-      "KR": "* 방어하여 문이 열리는 15초까지 *",
-      "TW": "* 防守至城門開啓15秒 *"
+      "US": "* Defend until the gates open 15s *",
+      "JP": "* 駅台を守って15秒後に扉が開くまで待機 *",
+      "CN": "* 防守至城门开启15秒 *",
+      "KR": "* 15초 동안 문이 열릴 때까지 방어하십시오.*",
+      "TW": "守至城門開放15秒 *"
     }
   },
   "* Defend until the gates open *": {
     "translation": "",
     "MultiLang": {
       "US": "\"Defend until the gates open.\"",
-      "JP": "* ウォーキーを守り、城門が開くまで待ちましょう *",
-      "CN": "* 等到城门打开时防守 *",
-      "KR": "* 문이 열릴 때까지 방어하십시오 *",
-      "TW": "防守直到城門打開 *"
+      "JP": "* 帳门が開くまで守り続ける*",
+      "CN": "* 保卫直到城门开启 *",
+      "KR": "* 문이 열릴 때까지 방어하세요 *",
+      "TW": "* 鍵開之前，堅守不移 *"
     }
   },
   "< Special thanks to Tenshi and Shana for their technical help >": {
     "translation": "",
     "MultiLang": {
       "US": "<Special thanks to Tenshi and Shana for their technical assistance>",
-      "JP": "< 特にTenshiさんとShanaさんが技術的な援助を提供していただき、感謝します >",
-      "CN": "感谢Tenshi和Shana提供技术支持。",
-      "KR": "<Tenso시에技术和帮助的特別感謝Tenshi와 Shana에게>",
-      "TW": "感謝Tenshi及Shana的技術協助"
+      "JP": "<TenshiとShanaに特別に感謝します（技術的な支援を）>",
+      "CN": "特别感谢Tenshi和Shana提供技术支持。",
+      "KR": "< 특별히 Tenshi와 Shana에게 기술적인 도움을 주신 데 대해 감사드립니다. >",
+      "TW": "特謝Tenshi和Shana在技術上所提供的協助。"
     }
   },
   "< Special thanks to 千音星璃 for sponsoring this map >": {
     "translation": "",
     "MultiLang": {
-      "US": "<Special thanks to Kiyou Starly for sponsoring this map>",
-      "JP": "< このマップのスポンサーシップに感謝します、千音星璃さん >",
-      "CN": "< 特别感谢千音星璃赞助此地图 >",
-      "KR": "< 특별히 千音星璃에게 이 맵을 후원해 주신 것을 감사드립니다. >",
-      "TW": "感謝千音星璃提供此地圖贊助"
+      "US": "< Special thanks to  Qianyin Xingli for sponsoring this map >",
+      "JP": "< このマップをスポンサーマッサージにするための特別な感謝の気持ち: せんおん星璃さん >",
+      "CN": "【特别感谢千音星璃赞助此地图】",
+      "KR": "특별히 이 맵을 후원해 주신 千音星璃님께 감사드립니다.",
+      "TW": "感謝千音星璃贊助此地圖。"
     }
   },
   "< Map by runa&MercuryQaQ >": {
     "translation": "",
     "MultiLang": {
-      "US": "\"Map by runa&MercuryQaQ\"",
-      "JP": "< マップはruna&MercuryQaQによる >",
-      "CN": "< 地图由runa&MercuryQaQ制作 >",
-      "KR": "맵은 runa와 MercuryQaQ가 제작하셨습니다.",
-      "TW": "runa&MercuryQaQ 地圖"
+      "US": "Map by runa&MercuryQaQ",
+      "JP": "5. 翻訳ミスや重複はタスク失敗となる",
+      "CN": "地图由runa&MercuryQaQ制作",
+      "KR": "< 맵을 runa&MercuryQaQ가 제작함 >",
+      "TW": "< 地圖由 runa&MercuryQaQ 制作 >"
     }
   },
   "< ze_FFXIV_Great_Gubal_Library>": {
     "translation": "",
     "MultiLang": {
-      "US": "<ze_FFXIV_Great_Gubal_Library>",
-      "JP": "< ze_FFXIV_グレートガブアルライブラリ>",
-      "CN": "< ze_FFXIV_伟大古巴图书馆>",
-      "KR": "<ze_FFXIV_대승자부라브브라도서관>",
-      "TW": "大貴巴圖書館"
+      "US": "Translation:",
+      "JP": "< ze_FFXIV_Great_Gubal_Library>",
+      "CN": "【开始翻译】",
+      "KR": "< ze_FFxiv_과도의_대서양>",
+      "TW": "【開始翻譯】"
     }
   },
   "< Special thanks to seth and 7ychu5 for their special effects support >": {
     "translation": "",
     "MultiLang": {
       "US": "<Special thanks to seth and 7ychu5 for their special effects support>",
-      "JP": "< 特別な感謝を Seth と 7ychu5 に、その特別効果のサポートに>",
-      "CN": "< 特别感谢seth和7ychu5对特殊效果的特别支持 >",
-      "KR": "< 특별히 Seth과 7ychu5에게 그들의 특수효과 지원에 대해 감사합니다. >",
-      "TW": "< 特別感謝seth及7ychu5對特效的特別支援>"
+      "JP": "特別感謝 Seth と 7ychu5 の特別効果のサポート。",
+      "CN": "感谢seth和7ychu5对特效的特别支持",
+      "KR": "< 특별 감사의 인사를 seth와 7ychu5에게, 그들의 특수 효과 지원에 >",
+      "TW": "感謝seth和7ychu5提供特別效果支援。"
     }
   },
   "*A player became a PLD*": {
     "translation": "",
     "MultiLang": {
-      "US": "\"A player has become a PLD\"",
-      "JP": "*プレイヤーがPLDに成長しました*",
-      "CN": "*一名玩家成为了一名PLD*",
-      "KR": "*\"이грок이 플래티넘 드롭에 가입했습니다\"*",
-      "TW": "*一名玩家成為了PLD*"
+      "US": "*A player has become a PLD.*",
+      "JP": "*プレイヤーがPLDになりました*",
+      "CN": "玩家成为PLD。",
+      "KR": "*플레이어가 PLD로 변환되었습니다.*",
+      "TW": "*一名玩家成為了一名PLD*"
     }
   },
   "*A player acquires the ice element.*": {
     "translation": "",
     "MultiLang": {
-      "US": "*A player gains the ice attribute.*",
-      "JP": "*プレイヤーが氷の要素を獲得します。*",
-      "CN": "*一位玩家获得了冰元素。*",
-      "KR": "*플레이어가 얼음 원소를 획득했습니다.*",
-      "TW": "*玩家獲得冰元素。*"
+      "US": "*Player obtains the Ice attribute.*",
+      "JP": "*プレイヤーが氷の要素を取得する.*",
+      "CN": "*玩家获得冰元素。*",
+      "KR": "*플레이어가 얼음 원소를 얻습니다.*",
+      "TW": "*一名玩家獲得冰元素。*"
     }
   }
 }

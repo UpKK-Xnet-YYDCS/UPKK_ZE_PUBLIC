@@ -2,151 +2,151 @@
   "<<10 sec remaining.>>": {
     "translation": "<<剩余10秒>>",
     "MultiLang": {
-      "US": "<<10 seconds remaining.>>",
+      "US": "<<10 sec remaining.>>",
       "JP": "<<残り10秒。>>",
       "CN": "<<剩余10秒>>",
-      "KR": "\"<<残り 10초입니다.>>\"",
-      "TW": "「剩餘時間10秒。」"
+      "KR": "<<10 sec remaining.>>",
+      "TW": "余下的時間是<<10秒>>。"
     }
   },
   "<<Afk teleport in 10 sec.>>": {
     "translation": "<<10秒后传送挂机玩家>>",
     "MultiLang": {
-      "US": "\"Teleporting in 10 seconds.\"",
-      "JP": "<<10秒後のAFKテレポートです。>>",
+      "US": "\"Afk teleport in 10 sec.\"",
+      "JP": "<<10秒後にAFKテルポートします。>>",
       "CN": "<<10秒后传送挂机玩家>>",
-      "KR": "<<10초 후 오프라인 텔레포트>>",
-      "TW": "離線瞬移倒計時10秒。"
+      "KR": "<<10초 후에 오프라인 이동합니다.>>",
+      "TW": "<<離線傳送到達10秒後>>"
     }
   },
   "<<Afk teleport in 15 sec.>>": {
     "translation": "<<15秒后传送挂机玩家>>",
     "MultiLang": {
-      "US": "\"Teleporting in 15 sec.\"",
-      "JP": "「アフク・トランポート、15秒後。」",
+      "US": "\"Afk teleport in 15 sec.\"",
+      "JP": "<<15秒後にAFKテレポートします。>>",
       "CN": "<<15秒后传送挂机玩家>>",
-      "KR": "\"아fk 텔레포트가 15초 후에 일어납니다.\"",
-      "TW": "<<15秒后使用離線傳送門>>"
+      "KR": "<<15초 후 애크 텔레포트>>",
+      "TW": "<<離線傳送點選在15秒後。>>"
     }
   },
   "<<Afk tp in 10 sec.>>": {
     "translation": "<<10秒后传送挂机玩家>>",
     "MultiLang": {
-      "US": "\"Going afk in 10 sec.\"",
-      "JP": "<<10秒後にAFKになります。>>",
+      "US": "\"Going afk for 10 seconds.\"",
+      "JP": "<<10秒後にafkになります。>>",
       "CN": "<<10秒后传送挂机玩家>>",
-      "KR": "<<10초 후 afk가 됩니다.>>",
-      "TW": "<<離線10秒後>>"
+      "KR": "<<10초 후 afk tp 됩니다.>>",
+      "TW": "<<離線時間10秒後>>"
     }
   },
   "<<Doors will open in 25 sec.>>": {
     "translation": "<<25秒后开门>>",
     "MultiLang": {
-      "US": "\" Doors will open in 25 sec.\"",
-      "JP": "「ドアは25秒後開きます。」",
+      "US": "\" Doors will open in 25 sec. \"",
+      "JP": "<<ドアは25秒後開きます。>>",
       "CN": "<<25秒后开门>>",
-      "KR": "<<문이 25초 후에 열리게 됩니다.>>",
-      "TW": "門将在25秒後打開。"
+      "KR": "<<25초 후 문이 열릴 것입니다.>>",
+      "TW": "<<門將在25秒後打開。>>"
     }
   },
   "<<Hold for 85 sec.>>": {
     "translation": "<<防守85秒>>",
     "MultiLang": {
-      "US": "\"Wait for 85 seconds.\"",
-      "JP": "<<85秒間ホールド>>",
+      "US": "\"Hold for 85 sec.\"",
+      "JP": "<<85秒間持ち続ける>>",
       "CN": "<<防守85秒>>",
-      "KR": "\"85 초 동안 누르세요.\"",
-      "TW": "<<持續85秒>>"
+      "KR": "<<85초 동안 보유>>",
+      "TW": "<<-持有85秒>>"
     }
   },
   "<<Hold here for 20 sec.>>": {
     "translation": "<<在此处防守20秒>>",
     "MultiLang": {
-      "US": "\"Wait here for 20 seconds.\"",
-      "JP": "<<ここで20秒待機ください。>>",
+      "US": "<<Hold here for 20 sec.>>",
+      "JP": "<<ここを20秒間ホールドしてください。>>",
       "CN": "<<在此处防守20秒>>",
-      "KR": "<<20초 동안 여기로 들이세요.>>",
-      "TW": "在此停留20秒。"
+      "KR": "<<여기에서 20초 동안 유지하세요.>>",
+      "TW": "請在此停留20秒。>>"
     }
   },
   "<<Hold here for 25 sec.>>": {
     "translation": "<<在此处防守25秒>>",
     "MultiLang": {
-      "US": "\"Hold here for 25 sec.\"",
-      "JP": "ここで25秒待ちます。",
+      "US": "\"hold here for 25 sec.\"",
+      "JP": "<<ここで25秒間待機してください。>>",
       "CN": "<<在此处防守25秒>>",
-      "KR": "<<25초 동안 여기 누르세요.>>",
+      "KR": "<<이这里有 25 초 동안 잡아두세요.>>",
       "TW": "<<在此停留25秒。>>"
     }
   },
   "<<Hold the elevator for 20 sec.>>": {
     "translation": "<<防守电梯20秒>>",
     "MultiLang": {
-      "US": "\"Wait 20 seconds for the elevator.\"",
-      "JP": "「エレベーター待機20秒」",
+      "US": "<<HOLD THE ELEVATOR FOR 20 SEC.>>",
+      "JP": "<<エレベーターを20秒間待機してください。>>",
       "CN": "<<防守电梯20秒>>",
-      "KR": "<<20초 동안 엘리베이터 기다려주세요.>>",
-      "TW": "請等待電梯20秒。"
+      "KR": "<<20초 동안 엘리베이터를 기다려 주세요.>>",
+      "TW": "<<請等候電梯20秒。>>"
     }
   },
   "<<Hold the elevator for 40 sec.>>": {
     "translation": "<<防守电梯40秒>>",
     "MultiLang": {
-      "US": "\"Wait 40 seconds for the elevator.\"",
-      "JP": "「エレベーターを待て、40秒間。」",
+      "US": "<<Wait for the elevator for 40 seconds.>>",
+      "JP": "エレベーターを待たせる40秒間。",
       "CN": "<<防守电梯40秒>>",
-      "KR": "\"지하철을 40초 동안 기다려주세요.\"",
-      "TW": "請等待電梯40秒。"
+      "KR": "<<이 엘리베이터를 40초 동안 기다려 주세요.>>",
+      "TW": "<<請等待電梯40秒。>>"
     }
   },
   "<<Hold the platform for 20 sec.>>": {
     "translation": "<<防守平台20秒>>",
     "MultiLang": {
-      "US": "\"Maintain the platform for 20 secs.\"",
-      "JP": "<<プラットフォームを保持して20秒待つ>>",
+      "US": "\"**Hold the platform for 20 sec.**\"",
+      "JP": "プラットフォームを保持し、20秒間持続してください。",
       "CN": "<<防守平台20秒>>",
-      "KR": "\"플랫폼을 20초 동안 유지하십시오.\"",
-      "TW": "\"於平台上停留20秒。\""
+      "KR": "<<플랫폼을 20초 동안 유지하세요.>>",
+      "TW": "<<-於平臺上保持20秒。>>"
     }
   },
   "<<Map by maqu>>": {
     "translation": "<<地图作者：maqu 翻译：Asteri3m>>",
     "MultiLang": {
       "US": "\"Map by maqu\"",
-      "JP": "<<マップはmaquによる>>",
+      "JP": "マップはmaquによるものです。",
       "CN": "<<地图作者：maqu 翻译：Asteri3m>>",
-      "KR": "<<맵 by maqu>>",
-      "TW": "<<地圖由maqu製造>>"
+      "KR": "맵 by maqu >>",
+      "TW": "<<地圖由maqu編製>>"
     }
   },
   "<<Resist for 25 sec.>>": {
     "translation": "<<防守25秒>>",
     "MultiLang": {
-      "US": "\"Resist for 25 sec.\"",
-      "JP": "<<25秒間の抵抗>>",
+      "US": "<<Resist for 25 sec.>>",
+      "JP": "<<25秒間抵抗力を保つ。>>",
       "CN": "<<防守25秒>>",
       "KR": "<<25초 동안 저항>>",
-      "TW": "抵抗25秒。"
+      "TW": "<<抵抗25秒.>>"
     }
   },
   "<<Resist for 30 sec.>>": {
     "translation": "<<防守30秒>>",
     "MultiLang": {
-      "US": "\"Resist for 30 seconds.\"",
-      "JP": "「抵抗し、30秒間」",
+      "US": "\"Resist for 30 sec.\"",
+      "JP": "<<30秒間我を抵抗する>>",
       "CN": "<<防守30秒>>",
-      "KR": "<<30초 동안 저항>>",
-      "TW": "抗拒30秒。"
+      "KR": "<<30초 동안 내기>>",
+      "TW": "抵抗30秒。"
     }
   },
   "<<Special thanks : thas and kune>>": {
     "translation": "<<特别感谢：thas和kune>>",
     "MultiLang": {
-      "US": "\"Special thanks: thas and kune\"",
-      "JP": "特別感謝: thas と kune",
+      "US": "<<Special thanks: thas and kune>>",
+      "JP": "<<特殊感謝 : thas と kune>>",
       "CN": "<<特别感谢：thas和kune>>",
-      "KR": "특별한 감사: thas와 kune",
-      "TW": "<<特別感謝: thas 和 kune>>"
+      "KR": "<<특 biệt 감사 : thas와 kune>>",
+      "TW": "<<特別感謝 : thas 和 kune>>"
     }
   },
   "<<Tears>>": {
@@ -156,67 +156,67 @@
       "JP": "<<涙>>",
       "CN": "<<5秒，跳刀>>",
       "KR": "<<눈물>>",
-      "TW": "<<眼淚>>"
+      "TW": "<<淚水>>"
     }
   },
   "<<Thanks to all players in PSE for testing.>>": {
     "translation": "<<感谢所有PSE服务器玩家的测试>>",
     "MultiLang": {
-      "US": "\"Thank you to all PSE players for your testing.\"",
-      "JP": "<<PSEの全プレーヤーに感謝、テストにご協力ください。>>",
+      "US": "<<Thank you to all PSE players for the testing.>>",
+      "JP": "<<PSEの全てのプレイヤーにテストしていただき、ありがとうございます。>>",
       "CN": "<<感谢所有PSE服务器玩家的测试>>",
-      "KR": "<<PSE의 모든 플레이어에게 감사합니다. 테스트를 진행해 주셔서.>>",
-      "TW": "感謝所有PSE玩家參與測試。"
+      "KR": "<<PSE의 모든 플레이어들께 감사합니다. 테스트를 진행해 주셔서.>>",
+      "TW": "<<感謝所有PSE玩家進行測試。>>"
     }
   },
   "<<Wait for 15sec.>>": {
     "translation": "<<等待15秒>>",
     "MultiLang": {
-      "US": "\"Wait for 15 sec.\"",
-      "JP": "<<15秒待つ>>",
+      "US": "<<Wait for 15 sec.>>",
+      "JP": "待機中...15秒",
       "CN": "<<等待15秒>>",
       "KR": "<<15초 대기>>",
-      "TW": "等待15秒。"
+      "TW": "等15秒。"
     }
   },
   "<<Wait for 25 sec.>>": {
     "translation": "<<等待25秒>>",
     "MultiLang": {
-      "US": "\"Wait for 25 sec.\"",
-      "JP": "<<25秒待つ>>",
+      "US": "<<Wait for 25 sec.>>",
+      "JP": "<<待ちの25秒>>",
       "CN": "<<等待25秒>>",
-      "KR": "<<25 초 대기>>",
-      "TW": "等待25秒。"
+      "KR": "<<25초 대기>>",
+      "TW": "等待 <<25 sec.>>"
     }
   },
   "<<Wait for 30 sec.>>": {
     "translation": "<<等待30秒>>",
     "MultiLang": {
       "US": "<<Wait for 30 sec.>>",
-      "JP": "「待ちます、30秒」",
+      "JP": "<<待ちましょう30秒>>",
       "CN": "<<等待30秒>>",
-      "KR": "Please note that \"대기\" is a direct translation of \"wait\" and it's commonly used in game text style.",
-      "TW": "等待30秒。"
+      "KR": "<<30초 대기>>",
+      "TW": "等30秒>>"
     }
   },
   "<<ze_colorful>>": {
     "translation": "<<ze_colorful 黑白的绚烂>>",
     "MultiLang": {
-      "US": "Colorful",
+      "US": "<<ze_colorful>>",
       "JP": "色とりどり",
       "CN": "<<ze_colorful 黑白的绚烂>>",
       "KR": "<<색다른>>",
-      "TW": "彩色<</ze_colorful>>"
+      "TW": "【開始翻譯】"
     }
   },
   "<<zombies>>": {
     "translation": "<<5秒，尸笼>>",
     "MultiLang": {
-      "US": "<<ZOMBIES>>",
-      "JP": "<<ゾンビ>>",
+      "US": "<<zombies>>",
+      "JP": "",
       "CN": "<<5秒，尸笼>>",
-      "KR": "<<좀비들>>",
-      "TW": "<<殭屍>>"
+      "KR": "<<지좀블스>>",
+      "TW": "僵尸>>"
     }
   }
 }

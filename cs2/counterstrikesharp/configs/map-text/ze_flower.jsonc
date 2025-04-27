@@ -3,17 +3,17 @@
     "translation": "< 10秒 >",
     "MultiLang": {
       "US": "< 10 seconds >",
-      "JP": "< 10 セconds >",
+      "JP": "< 10 秒 >",
       "CN": "< 10秒 >",
-      "KR": "< 10 초 >",
-      "TW": "<10秒>"
+      "KR": "10 초",
+      "TW": "< 10 秒 >"
     }
   },
   "< 15  seconds >": {
     "translation": "< 15秒 >",
     "MultiLang": {
-      "US": "< 15 seconds >",
-      "JP": "< 15 セカンド >",
+      "US": "15 seconds",
+      "JP": "15 秒",
       "CN": "< 15秒 >",
       "KR": "< 15 초 >",
       "TW": "< 15 秒 >"
@@ -22,48 +22,48 @@
   "< 20  seconds >": {
     "translation": "< 20秒 >",
     "MultiLang": {
-      "US": "< 20  seconds >",
-      "JP": "< 20  秒 >",
+      "US": "20 seconds",
+      "JP": "20 秒",
       "CN": "< 20秒 >",
       "KR": "< 20 초 >",
-      "TW": "< 20 秒 >"
+      "TW": "二十秒"
     }
   },
   "< 25  seconds >": {
     "translation": "< 25秒 >",
     "MultiLang": {
-      "US": "< 25 seconds >",
-      "JP": "< 25 セカンド >",
+      "US": "25 seconds",
+      "JP": "< 25 秒 >",
       "CN": "< 25秒 >",
-      "KR": "< 25 초 >",
-      "TW": "< 25秒 >"
+      "KR": "25 초",
+      "TW": "秒"
     }
   },
   "< 30  seconds >": {
     "translation": "< 30秒 >",
     "MultiLang": {
-      "US": "< 30  seconds >",
+      "US": "< 30 seconds >",
       "JP": "< 30 秒 >",
       "CN": "< 30秒 >",
-      "KR": "< 30 초 >",
-      "TW": "<30秒>"
+      "KR": "30 초",
+      "TW": "< 30 秒 >"
     }
   },
   "< 32  seconds >": {
     "translation": "< 32秒 >",
     "MultiLang": {
-      "US": "< 32 seconds >",
-      "JP": "< 32  秒 >",
+      "US": "32 seconds",
+      "JP": "32 秒",
       "CN": "< 32秒 >",
-      "KR": "< 32 초 >",
-      "TW": "< 32 秒 >"
+      "KR": "32 초",
+      "TW": "32秒"
     }
   },
   "< 35  seconds >": {
     "translation": "< 35秒 >",
     "MultiLang": {
-      "US": "\"35 seconds\"",
-      "JP": "35秒",
+      "US": "35 seconds",
+      "JP": "< 35 秒 >",
       "CN": "< 35秒 >",
       "KR": "< 35 초 >",
       "TW": "35秒"
@@ -72,11 +72,11 @@
   "< End >": {
     "translation": "< 结束 翻译：Asteri3m >",
     "MultiLang": {
-      "US": "End",
-      "JP": "終了",
+      "US": "< End >",
+      "JP": "< エンド >",
       "CN": "< 结束 翻译：Asteri3m >",
-      "KR": "",
-      "TW": "結束"
+      "KR": "< 종료 >",
+      "TW": "終止"
     }
   }
 }

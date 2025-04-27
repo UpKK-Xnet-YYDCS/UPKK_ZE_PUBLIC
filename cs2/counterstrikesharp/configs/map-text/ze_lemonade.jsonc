@@ -2,101 +2,101 @@
   "** Pillar ascending in 15s ": {
     "translation": "** 柱子将在15秒内升起",
     "MultiLang": {
-      "US": "\"** Pillar ascending in 15s\"",
-      "JP": "** 柱が15秒後に上昇します。",
+      "US": "Pillar ascending in 15s",
+      "JP": "** 柱が15秒後に上昇します",
       "CN": "** 柱子将在15秒内升起",
-      "KR": "** 15초 후에 기둥이 상승합니다",
-      "TW": "** 支柱於15秒內上昇"
+      "KR": "** 15초 후 바위 레벨 상승",
+      "TW": "** 區上升在15秒"
     }
   },
   "** Pillar ascending in 30s ": {
     "translation": "** 柱子将在30秒内升起",
     "MultiLang": {
-      "US": "\"Ascending pillar in 30 seconds.\"",
-      "JP": "** 柱が30秒後に上昇します",
+      "US": "\"Ascending pillar in 30s\"",
+      "JP": "** 柱が30秒で上昇します",
       "CN": "** 柱子将在30秒内升起",
-      "KR": "** 30초 후 천신이 상승합니다",
-      "TW": "** 石柱在30秒後上升"
+      "KR": "** 30초에 제자리에서 상승하는 기둥",
+      "TW": "** 升級柱在30秒內完成"
     }
   },
   "** Pillar ascending in 45s ": {
     "translation": "** 柱子将在45秒内升起",
     "MultiLang": {
-      "US": "\"Ascending pillar in 45 seconds.\"",
-      "JP": "** 45秒後、柱が上昇します。",
+      "US": "Pillar ascending in 45s",
+      "JP": "** 柱が45秒で上昇します",
       "CN": "** 柱子将在45秒内升起",
-      "KR": "** 45초 후에 기둥이 상승합니다.",
-      "TW": "** 支柱上升中，45秒後"
+      "KR": "** 45초 후에 스피어 상승합니다",
+      "TW": "** 在45秒內攀爬柱子"
     }
   },
   "** Pillar ascending in 5s ": {
     "translation": "** 柱子将在5秒内升起",
     "MultiLang": {
-      "US": "Pillar ascending in 5s",
-      "JP": "** 支柱が5秒後に上昇します",
+      "US": "\"Ascending pillar every 5s.\"",
+      "JP": "** 柱が5秒後に上昇します",
       "CN": "** 柱子将在5秒内升起",
-      "KR": "** 5초 후에 레이디어 상승합니다.",
-      "TW": "** 楼梯上升中，每5秒一次"
+      "KR": "** 5초 후 계단 상승",
+      "TW": "** 領梯升級在5秒後"
     }
   },
   "** Pillar ascending in 60s ": {
     "translation": "** 柱子将在60秒内升起",
     "MultiLang": {
-      "US": "\"Ascending pillar in 60 seconds\"",
-      "JP": "** キャリーオン60秒後",
+      "US": "Pillar ascending in 60s",
+      "JP": "** 割り増し60秒で上昇",
       "CN": "** 柱子将在60秒内升起",
-      "KR": "** 60초 후에 기둥이 상승합니다",
-      "TW": "** 六十秒內升級柱子"
+      "KR": "** 석양 상승 중 60초동안",
+      "TW": "** 六十秒內攀登支柱"
     }
   },
   "Erm looks like its flooding": {
     "translation": "呃，看起来像是要淹水了",
     "MultiLang": {
-      "US": "Looks like it's flooding.",
-      "JP": "水たまりそうですね。",
+      "US": "**Erm**, looks like it's **flooding**.",
+      "JP": "Erm looks like its flooding",
       "CN": "呃，看起来像是要淹水了",
-      "KR": "아니, 물이 풍涌하고 있어요",
-      "TW": "災害似乎正在氾濫成災"
+      "KR": "어름 보고看起来像是被淹了",
+      "TW": "看來要淹水了"
     }
   },
   "Erm u lost ": {
     "translation": "呃，你输了",
     "MultiLang": {
-      "US": "You've lost.",
-      "JP": "ゲームで迷子になったなんて...",
+      "US": "Lost",
+      "JP": "5. 翻訳ミスや重複翻訳はタスクの失敗とみなす。",
       "CN": "呃，你输了",
-      "KR": "음,汝가 잃어버렸다",
-      "TW": "你失敗了"
+      "KR": "오른 u 잃었어요",
+      "TW": "你输了"
     }
   },
   "OPENING": {
     "translation": "开启中",
     "MultiLang": {
       "US": "OPENING",
-      "JP": "",
+      "JP": "OPENING",
       "CN": "开启中",
-      "KR": "",
-      "TW": "開始遊戲"
+      "KR": "OPENING",
+      "TW": "OPENING"
     }
   },
   "OPENING IN 20s": {
     "translation": "20秒内开启",
     "MultiLang": {
       "US": "OPENING IN 20s",
-      "JP": "オープン 20秒後",
+      "JP": "【開始まで残り20秒】",
       "CN": "20秒内开启",
-      "KR": "20대 개시",
-      "TW": "開場在20秒後"
+      "KR": "OPENING IN 20s",
+      "TW": "OPENING IN 20s"
     }
   },
   "OPENING IN 25s": {
     "translation": "25秒内开启",
     "MultiLang": {
       "US": "OPENING IN 25s",
-      "JP": "開始まで25秒です。",
+      "JP": "【開始まで残り25秒】",
       "CN": "25秒内开启",
-      "KR": "25초 후에 오픈합니다",
-      "TW": "即將開服，距離開服還有25秒"
+      "KR": "25초 후에 오픈",
+      "TW": "開始於25秒後"
     }
   },
   "OPENING IN 5s": {
@@ -105,118 +105,118 @@
       "US": "OPENING IN 5s",
       "JP": "5秒後にオープンします",
       "CN": "5秒内开启",
-      "KR": "5초 후에 오픈 됩니다.",
-      "TW": "即將開服，5秒後見！"
+      "KR": "5초 후에 오픈",
+      "TW": "開始在5秒後打開"
     }
   },
   "Uhh i think we should go up tbh": {
     "translation": "呃，老实说，我觉得我们应该上去",
     "MultiLang": {
-      "US": "Hmm, I believe we should ascend after all.",
-      "JP": "うーん、本気で上行に应该すると思います。",
+      "US": "Heh, I reckon we ought to head upstairs, really.",
+      "JP": "5. 翻訳ミスや重複した翻訳が任務の失敗とみなされる。",
       "CN": "呃，老实说，我觉得我们应该上去",
-      "KR": "제 Thoughts 생각해 보니上去 가보는 것이 좋을 것 같습니다",
-      "TW": "嘿，我實際上認為我們應該往上走。"
+      "KR": "Uhh i think we should go up tbh",
+      "TW": "上吧，其實我们应该往上走。"
     }
   },
   "looks like these tubes can be broken": {
     "translation": "看起来这些管子可以被打破",
     "MultiLang": {
       "US": "Seems like these tubes can be shattered.",
-      "JP": "このチューブは壊せると見えます",
+      "JP": "looks like these tubes can be broken",
       "CN": "看起来这些管子可以被打破",
-      "KR": "이 터널들이 깨질 수 있는 것 같습니다",
-      "TW": "感覺這些管子可以打碎"
+      "KR": "이 기관들이 깨질 수 있는 것 같습니다",
+      "TW": "看起來這些管子可以被打破"
     }
   },
   "next stop: lemonade control facility....": {
     "translation": "下一站：柠檬水控制设施....",
     "MultiLang": {
-      "US": "Next destination: Lemonade Control Facility...",
-      "JP": "次の目的地：レモンジュース制御施設...",
+      "US": "Next stop: Lemonade Control Facility...",
+      "JP": "次の目的地：レモンデコントロール施設...",
       "CN": "下一站：柠檬水控制设施....",
-      "KR": "다음 목적지: 레몬 주스 제어 시설...",
-      "TW": "下一站：檸檬水控制設施..."
+      "KR": "다음 정류장: 레몬드 제어 시설...",
+      "TW": "下一站：檸檬汁控制設施..."
     }
   },
   "ok we broke all the tubes": {
     "translation": "好了，我们打破了所有的管子",
     "MultiLang": {
-      "US": "OK, we've destroyed all the conduits.",
-      "JP": "全てのチューブを壊しました、お待ちください。",
+      "US": "OK, we broke all the tubes.",
+      "JP": "5. 翻訳ミスや多重翻訳がタスク失敗とみなされる。",
       "CN": "好了，我们打破了所有的管子",
-      "KR": "제자리에서 모든 유압을 깨버렸군요.",
-      "TW": "好的，我們打破了所有的管子。"
+      "KR": "ok we broke all the tubes",
+      "TW": "ok we broke all the tubes"
     }
   },
   "uh oh the doors are opening again": {
     "translation": "呃哦，门又要开了",
     "MultiLang": {
-      "US": "Uh-oh, the doors are opening once more.",
-      "JP": "うーん、ドアがまた開いています。",
+      "US": "\"Uh-oh, the doors are opening again.\"",
+      "JP": "uh oh the doors are opening again",
       "CN": "呃哦，门又要开了",
-      "KR": "아, 문제 발생요, 문이 다시 열리고 있습니다.",
-      "TW": "哦呀，門又開了。"
+      "KR": "uh oh the doors are opening again",
+      "TW": "uh oh the doors are opening again"
     }
   },
   "warmup": {
     "translation": "热身 翻译：Asteri3m",
     "MultiLang": {
-      "US": "Warmup",
+      "US": "\"Start Warmup\"",
       "JP": "ウォームアップ",
       "CN": "热身 翻译：Asteri3m",
-      "KR": "게임 시작 전의 훈련",
+      "KR": "게임 시작 전에 준비를 합니다.",
       "TW": "熱身"
     }
   },
   "warmup 10s": {
     "translation": "热身时间10秒",
     "MultiLang": {
-      "US": "Warmup: 10s",
+      "US": "\" Warmup 10s \"",
       "JP": "ウォームアップ 10秒",
       "CN": "热身时间10秒",
-      "KR": "다이어트 10초",
-      "TW": "熱身 10秒"
+      "KR": "게임 시작 전 10초間 진열",
+      "TW": "熱身10秒"
     }
   },
   "warmup 30s": {
     "translation": "热身时间30秒",
     "MultiLang": {
-      "US": "Warmup 30s",
-      "JP": "warmup 30s",
+      "US": "\"Warmup 30s\"",
+      "JP": "ワームアップ 30秒",
       "CN": "热身时间30秒",
-      "KR": "워머업 30초",
-      "TW": "熱身30秒"
+      "KR": "워밍업 30초",
+      "TW": "熱身 30秒"
     }
   },
   "warmup 40s": {
     "translation": "热身时间40秒",
     "MultiLang": {
-      "US": "Warmup 40s",
-      "JP": "ウォームアップ 40秒",
+      "US": "\"Warmup 40s\"",
+      "JP": "ウォARMUP40秒",
       "CN": "热身时间40秒",
-      "KR": "워ム업 40초",
-      "TW": "熱身 40秒"
+      "KR": "게임 준비 40초",
+      "TW": "熱身40秒"
     }
   },
   "warmup 50s": {
     "translation": "热身时间50秒",
     "MultiLang": {
-      "US": "Warmup 50s",
-      "JP": "ワARMUP 50秒",
+      "US": "\"Warmup for 50 seconds\"",
+      "JP": "warmup 50s",
       "CN": "热身时间50秒",
-      "KR": "오디전 50초",
-      "TW": "熱身 50 秒"
+      "KR": "게임 준비: 50초 동안만료",
+      "TW": "熱身 50秒"
     }
   },
   "warmup done": {
     "translation": "热身结束",
     "MultiLang": {
-      "US": "Warmup completed.",
-      "JP": "ウォームアップ終了しました",
+      "US": "Warmup complete",
+      "JP": "warmup done",
       "CN": "热身结束",
-      "KR": "워밍업 완료",
-      "TW": "熱身結束"
+      "KR": "게임 준비 완료",
+      "TW": "遊戲準備完成"
     }
   }
 }

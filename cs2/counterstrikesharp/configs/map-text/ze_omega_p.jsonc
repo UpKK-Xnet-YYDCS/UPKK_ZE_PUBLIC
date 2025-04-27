@@ -2,141 +2,141 @@
   "***Bridge Activated***": {
     "translation": "***桥已开启***",
     "MultiLang": {
-      "US": "***Bridge Activated***",
-      "JP": "**ブリッジを活用しました**",
+      "US": "**Bridge Activated**",
+      "JP": "***橋梁活性化***",
       "CN": "***桥已开启***",
-      "KR": "**장교 활성화**",
-      "TW": "***橋樑啟動***"
+      "KR": "**교량 활성화**",
+      "TW": "**橋樑啟動**"
     }
   },
   "***Bridge Deactivated***": {
     "translation": "***桥已关闭***",
     "MultiLang": {
-      "US": "***Bridge Deactivated***",
-      "JP": "***橋がデaktivatedされました***",
+      "US": "**Bridge Deactivated**",
+      "JP": "**橋が無効化されました***",
       "CN": "***桥已关闭***",
-      "KR": "***교량 비활성화***",
-      "TW": "橋樑已被關閉"
+      "KR": "***지브리 디랙티브***",
+      "TW": "橋樑已被關閉***"
     }
   },
   "***Cargo Door Opens in 10 Seconds***": {
     "translation": "***货物门将在10秒后打开***",
     "MultiLang": {
-      "US": "***Cargo Door Opens in 10 Secs***",
-      "JP": "***10秒後に貨物ドアが開く***",
+      "US": "\"**Cargo Door Opens in 10_seconds**\"",
+      "JP": "**貨物ドアは10秒後に開きます***",
       "CN": "***货物门将在10秒后打开***",
-      "KR": "***10초 후에 화물문이 열립니다***",
-      "TW": "貨物門在十秒後打開 ***"
+      "KR": "**십초 후로 **조각문이 열릴겁니다**",
+      "TW": "**貨櫃門開啟倒數10秒****"
     }
   },
   "***Cart Control Door closes in 5 Seconds***": {
     "translation": "***货车控制门将在5秒后关闭***",
     "MultiLang": {
-      "US": "\"Cart Control Door closes in 5 seconds.\"",
-      "JP": "**カートコントロールドアは5秒後に閉じます**",
+      "US": "**Cart Control Door closes in 5 seconds***",
+      "JP": "**5秒後にカート制御ドアが閉じます***",
       "CN": "***货车控制门将在5秒后关闭***",
-      "KR": "***카트 제어 문이 5초 후에 닫힙니다***",
-      "TW": "**五秒後關閉貨車門**"
+      "KR": "**CartItem Control Door 닫힙니다. 5초 후에 닫힙니다.**",
+      "TW": "五秒後關閉車廂控制門***"
     }
   },
   "***CartControl Door Opens in 5 Seconds***": {
     "translation": "***货车控制门将在5秒后打开***",
     "MultiLang": {
-      "US": "**CartControl Door Opens in 5 Secs**",
-      "JP": "***カート制御ドアは5秒後に開きます***",
+      "US": "\"***CartControl Door Opens in 5 Seconds***\"",
+      "JP": "**5秒後に** **Cartridge制御ドアが開きます***",
       "CN": "***货车控制门将在5秒后打开***",
-      "KR": "***카트제어 문이 5초 후에 열립니다***",
-      "TW": "***計程車控制 門口打開，5秒後啟動***"
+      "KR": "** 카트 컨트롤 문이 5초 후에 열립니다 ***",
+      "TW": "開門**5秒後，車輛控制大門開啟***"
     }
   },
   "***Error Overflow dangerous chemicals detected***": {
     "translation": "***错误：检测到危险化学品溢出***",
     "MultiLang": {
-      "US": "***Error: Overflow - Dangerous Chemicals Detected***",
-      "JP": "***エラー 溢れ出る危険物検知***",
+      "US": "***Error Overflow dangerous chemicals detected***",
+      "JP": "***エラーオーバーフロー 危険物質検出***",
       "CN": "***错误：检测到危险化学品溢出***",
-      "KR": "***오류 오버플로우: 위험한 화학물질 감지됨***",
-      "TW": "***錯誤 溢出 危險化學品檢測到***"
+      "KR": "***오류 누적 침공적인 화학물질 감지***",
+      "TW": "***錯誤溢出，危險化學品偵測到***"
     }
   },
   "***Main Testlab Door Opens in 10 Seconds***": {
     "translation": "***主测试实验室门将在10秒后打开***",
     "MultiLang": {
       "US": "**Main Testlab Door Opens in 10 Secs**",
-      "JP": "***主なテストラボドアが10秒後に開きます***",
+      "JP": "**主テストラボドアは10秒後に開きます***",
       "CN": "***主测试实验室门将在10秒后打开***",
-      "KR": "**본 테스트 라부 문이 10초 후에 열립니다.**",
-      "TW": "**主實驗室大門在10秒後開啟**"
+      "KR": "***주요 테스트 실험실 문이 10초 후에 열립니다***",
+      "TW": "**主試驗室門在十秒後打開**"
     }
   },
   "***Rail Cart leaves in 5 seconds***": {
     "translation": "***轨道车将在5秒后离开***",
     "MultiLang": {
-      "US": "\"Rail Cart departs in 5 seconds.\"",
-      "JP": "***レールカートは5秒後に発車します***",
+      "US": "***Rail Cart departs in 5 seconds***",
+      "JP": "**＊＊＊レールカートは5秒後に出発します＊＊＊**",
       "CN": "***轨道车将在5秒后离开***",
-      "KR": "**철도차량은 5초 후에 출발합니다.**",
-      "TW": "鐵軌小車5秒後離站，請做好準備。"
+      "KR": "***열차 카트가 5초 후에 출발합니다***",
+      "TW": "**在5秒後離站***"
     }
   },
   "***Refinery hatches opening***": {
     "translation": "***精炼厂舱口正在打开***",
     "MultiLang": {
-      "US": "\"Refinery hatch opening\"",
-      "JP": "***レfinery ハッチ開き***",
+      "US": "***Refinery hatch opening***",
+      "JP": "***リフィナリー・ハッチ開き開始***",
       "CN": "***精炼厂舱口正在打开***",
-      "KR": "리finery 하트 열림",
-      "TW": "煉油廠孵化開放中***"
+      "KR": "(Note: The asterisk (*) symbol is used to represent the special notation in the game text.)",
+      "TW": "開煉器孵出***"
     }
   },
   "***Testlab Door2 Opens in 5 Seconds***": {
     "translation": "***测试实验室门2在5秒后打开***",
     "MultiLang": {
-      "US": "\"Testlab Door2 will open in 5 seconds.\"",
-      "JP": "***テストラブドア2、5秒後に開きます***",
+      "US": "**Testlab Door2 Opens in 5 Seconds***",
+      "JP": "** ***テストラブドア2が5秒後に開きます*** **",
       "CN": "***测试实验室门2在5秒后打开***",
-      "KR": "\"테스트 라블 문2는 5초 후에 열립니다.\"",
-      "TW": "實驗室門2，5秒後打開。"
+      "KR": "**테스트라브 도어2, 5초 후에 열립니다***",
+      "TW": "**門2在5秒後打開-測試實驗室大門**"
     }
   },
   "***Testlab Door3 Opens in 5 Seconds***": {
     "translation": "***测试实验室门3在5秒后打开***",
     "MultiLang": {
-      "US": "\"Testlab Door3 will open in 5 seconds.\"",
-      "JP": "***テストラボドア3、5秒後に開く予定***",
+      "US": "\"***Testlab Door3 Opens in 5 Seconds***\"",
+      "JP": "** ***テストラブドア3が5秒後に開く予定です*** **",
       "CN": "***测试实验室门3在5秒后打开***",
-      "KR": "***3번 문扉, 5초 후에 열립니다***",
-      "TW": "門3在5秒後開啟 - Testlab Doors Open in 5 Seconds"
+      "KR": "**Testlab Door3 열리는 중입니다. 5초 후에 개방됩니다.**",
+      "TW": "**試驗室門3即將於5秒後開启**"
     }
   },
   "***Tram Starts in 5 Seconds***": {
     "translation": "***有轨电车将在5秒后启动***",
     "MultiLang": {
-      "US": "***Tram Starts in 5 Sec.***",
-      "JP": "***トラン車が5秒後に出発します***",
+      "US": "**Tram Starts in 5 Seconds***",
+      "JP": "**電車は5秒後に開始します***",
       "CN": "***有轨电车将在5秒后启动***",
-      "KR": "***트램이 5초 후에 시작합니다***",
-      "TW": "五秒後列車起動"
+      "KR": "**트램이 5초 후에 시작됩니다**",
+      "TW": "五秒後開車***電車起動中...（5秒後開始）***"
     }
   },
   "***Tram Tunnel Door opens in 1 Minute***": {
     "translation": "***有轨电车隧道门将在1分钟后打开***",
     "MultiLang": {
-      "US": "\"Tram Tunnel Door will open in 1 minute.\"",
-      "JP": "***トランムトンネルの扉が1分後開きます***",
+      "US": "**Tram Tunnel Door opens in 1 Minute***",
+      "JP": "***トラムトンネルの扉が1分後に開きます***",
       "CN": "***有轨电车隧道门将在1分钟后打开***",
-      "KR": "***트램 터널 문이 1분 후에 열립니다***",
-      "TW": "***電車隧道門在一分鐘後打開***"
+      "KR": "**트램 터널 문이 1분 후에 열립니다***",
+      "TW": "**一分钟后開啓電車隧道大門***"
     }
   },
   "***Water Flow 5 Seconds***": {
     "translation": "***水流5秒***",
     "MultiLang": {
-      "US": "\"Water Flow: 5 Sec\"",
-      "JP": "***ウォーターフロー 5秒間***",
+      "US": "**Water Flow 5 Seconds***",
+      "JP": "**水の流れ 5秒**",
       "CN": "***水流5秒***",
-      "KR": "수영 시간 5초",
-      "TW": "水流5秒"
+      "KR": "**물 흐름 5초**",
+      "TW": "水流持續五秒***"
     }
   }
 }

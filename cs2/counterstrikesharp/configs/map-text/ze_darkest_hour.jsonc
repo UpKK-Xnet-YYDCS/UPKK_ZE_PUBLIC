@@ -2,38 +2,38 @@
   "*********practice mode*********": {
     "translation": "*********练习模式*********",
     "MultiLang": {
-      "US": "*********Practice Mode*********",
-      "JP": "*********練習モード*********",
+      "US": "Practice Mode*********",
+      "JP": "**********実践モード**********",
       "CN": "*********练习模式*********",
-      "KR": "*********실전 연습 모드*********",
-      "TW": "練習模式 *********"
+      "KR": "*********실践 모드*********",
+      "TW": "********練習模式********"
     }
   },
   "Boss has been weakened": {
     "translation": "Boss 被削弱了",
     "MultiLang": {
-      "US": "Translation: Boss is weakened.",
+      "US": "Boss is now weaker",
       "JP": "ボスは弱体化しました。",
       "CN": "Boss 被削弱了",
-      "KR": "보스가 약해졌습니다.",
-      "TW": "頭目已被削弱"
+      "KR": "보스가 약화되었습니다.",
+      "TW": "Boss已被削弱"
     }
   },
   "defend 15 seconds": {
     "translation": "防守 15 秒",
     "MultiLang": {
-      "US": "Defend for 15 seconds.",
-      "JP": "防御を15秒守護してください。",
+      "US": "Defend for 15 seconds",
+      "JP": "15秒守備する",
       "CN": "防守 15 秒",
-      "KR": "15초 동안 방어하기",
-      "TW": "防守15秒"
+      "KR": "15초를 방어하세요",
+      "TW": "維持15秒不被破壞"
     }
   },
   "doors open in 20 seconds": {
     "translation": "门在 20 秒后打开",
     "MultiLang": {
-      "US": "Doors open in 20 sec.",
-      "JP": "ドアが20秒後に開きます。",
+      "US": "\" Doors open in 20 seconds.\"",
+      "JP": "ドアは20秒後に開きます。",
       "CN": "门在 20 秒后打开",
       "KR": "문이 20초 후에 열립니다.",
       "TW": "門在20秒後打開"
@@ -42,8 +42,8 @@
   "doors open in 25 seconds": {
     "translation": "门在 25 秒后打开",
     "MultiLang": {
-      "US": "Doors will open in 25 seconds.",
-      "JP": "ドアは25秒後に開きます。",
+      "US": "\" Doors open in 25 seconds.\"",
+      "JP": "ドアが25秒後に開く",
       "CN": "门在 25 秒后打开",
       "KR": "문이 25초 후에 열립니다.",
       "TW": "門在25秒後打開"
@@ -52,30 +52,30 @@
   "goodluck & havefun": {
     "translation": "祝你好运，玩得开心 翻译：Ayanami♪",
     "MultiLang": {
-      "US": "Best of luck and enjoy the game!",
-      "JP": "ゲームを楽しみましょう。好运がおまわしになります。",
+      "US": "Good luck & enjoy the game!",
+      "JP": "ご幸運をお願いします＆楽しく遊んでください",
       "CN": "祝你好运，玩得开心 翻译：Ayanami♪",
-      "KR": "가이드롭스니 즐거운 시간 되세요.",
-      "TW": "祝你好運，玩得開心"
+      "KR": "好运 & 즐거움",
+      "TW": "祝運 && 樂趣無限"
     }
   },
   "normal mode enable": {
     "translation": "正常模式启用",
     "MultiLang": {
-      "US": "Normal Mode Activated",
-      "JP": "普通モードを有効にします。",
+      "US": "\"Activate normal mode\"",
+      "JP": "normal mode enable",
       "CN": "正常模式启用",
-      "KR": "정상 모드 활성화",
-      "TW": "普通模式啟用"
+      "KR": "정식 모드 활성화",
+      "TW": "正常模式啟用"
     }
   },
   "practice mode enable": {
     "translation": "练习模式启用",
     "MultiLang": {
-      "US": "Practice Mode Activated",
+      "US": "\"Enable practice mode.\"",
       "JP": "練習モードを有効にします。",
       "CN": "练习模式启用",
-      "KR": "실전 연습 모드 켜기",
+      "KR": "게임 모드 활성화",
       "TW": "練習模式啟用"
     }
   }

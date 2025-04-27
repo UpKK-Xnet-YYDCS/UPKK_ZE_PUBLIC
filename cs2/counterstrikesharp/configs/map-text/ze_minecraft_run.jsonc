@@ -2,61 +2,61 @@
   "Hold 45 Seconds": {
     "translation": "防守45秒",
     "MultiLang": {
-      "US": "\"Defend for 45 seconds\"",
-      "JP": "45秒を保つ",
+      "US": "\"Hold 45 Seconds\"",
+      "JP": "「45秒を守る」",
       "CN": "防守45秒",
-      "KR": "45 초를 유지하십시오.",
-      "TW": "堅持45秒"
+      "KR": "45 초동안 유지하기",
+      "TW": "HOLD 45 SECONDS"
     }
   },
   "Hold 55 Seconds": {
     "translation": "防守55秒",
     "MultiLang": {
-      "US": "\"Maintain for 55 seconds\"",
-      "JP": "55秒を守る",
+      "US": "\"hold 55 seconds\"",
+      "JP": "「55秒間持つ」",
       "CN": "防守55秒",
-      "KR": "55초를 유지하다",
-      "TW": "持續55秒"
+      "KR": "Hold 55 Seconds",
+      "TW": "停留五十秒"
     }
   },
   "Hold 60 Seconds": {
     "translation": "防守60秒",
     "MultiLang": {
-      "US": "\"Survive 60 seconds\"",
-      "JP": "60秒を守りなさい",
+      "US": "\"**Hold 60 Seconds***\"",
+      "JP": "60秒を守る",
       "CN": "防守60秒",
-      "KR": "60초를 유지하십시오.",
-      "TW": "堅守60秒"
+      "KR": "60초 유지",
+      "TW": "\"保持60秒\""
     }
   },
   "Survive 45 seconds": {
     "translation": "生存45秒",
     "MultiLang": {
       "US": "\"Survive 45 seconds\"",
-      "JP": "45秒を生き延びてください",
+      "JP": "生存時間：45秒",
       "CN": "生存45秒",
-      "KR": "45 초 생존",
-      "TW": "活到45秒"
+      "KR": "45초를 살아남세요",
+      "TW": "Survive 45 seconds"
     }
   },
   "The boat will leave in 20 seconds": {
     "translation": "船将在20秒后离开",
     "MultiLang": {
-      "US": "\"The boat departs in 20 seconds.\"",
+      "US": "Boat departs in 20 sec.",
       "JP": "ボートは20秒後に出発します。",
       "CN": "船将在20秒后离开",
-      "KR": "배는 20초 후에 떠납니다.",
-      "TW": "船將在20秒後出發"
+      "KR": "보트는 20초 후에 떠납니다.",
+      "TW": "船将在20秒后離航"
     }
   },
   "teleport zombies in 15 seconds , Don't stay on the first floor": {
     "translation": "僵尸将在15秒后传送，别待在一楼",
     "MultiLang": {
-      "US": "\"Teleport zombies in 15 seconds. Do not remain on the first floor.\"",
-      "JP": "テレポートゾンビを15秒間制御し、一階に残らないでください。",
+      "US": "\"Teleport zombies within 15 sec, don't linger on the 1st floor.\"",
+      "JP": "15秒以内でゾンビをテレポートする。最初の階に残らず。",
       "CN": "僵尸将在15秒后传送，别待在一楼",
-      "KR": "텔레포트 좀비를 15초 내에 이동시켜주세요. 첫층에 머무르지 마세요.",
-      "TW": "瞬移殭屍15秒，不要停留在第一層。"
+      "KR": "텔레포트 좀비를 15초 내로, 첫 번째 층에 머무르지 마세요.",
+      "TW": "15秒內移除喪屍，請勿停留在一樓。"
     }
   }
 }

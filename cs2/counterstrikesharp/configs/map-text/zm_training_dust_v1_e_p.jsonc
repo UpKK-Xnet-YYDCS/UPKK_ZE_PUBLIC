@@ -2,8 +2,8 @@
   "The game will start in 10 seconds": {
     "translation": "",
     "MultiLang": {
-      "US": "\"The game will start in 10 seconds.\"",
-      "JP": "ゲームは10秒後開始します。",
+      "US": "Game starts in 10 seconds",
+      "JP": "ゲームは10秒後に開始します。",
       "CN": "游戏将在10秒后开始",
       "KR": "게임은 10초 후에 시작됩니다.",
       "TW": "遊戲將於10秒後開始"
@@ -12,21 +12,21 @@
   "If you are not comfortable with this map,plz say !hop": {
     "translation": "",
     "MultiLang": {
-      "US": "If you're uncomfortable with this map, please say \"hop\"!",
-      "JP": "このマップがお気持ちの上手くいかない場合、ご指摘ください！hop",
-      "CN": "如果你对这张地图不满意，请说！hop",
-      "KR": "이 맵이 불편하다면, plz 말해주세요! hop",
-      "TW": "如果你對這張地圖不適應，請說 !hop"
+      "US": "If this map doesn't suit you, please say hop!",
+      "JP": "If you are not comfortable with this map, plz say !hop",
+      "CN": "如果不适应这张地图，请告知！hop",
+      "KR": "【이 지도에 불편을 느끼시면 알려주십시오! hop】",
+      "TW": "如果不適合這張地圖,請說！hop"
     }
   },
   "This map is zm training map ": {
     "translation": "",
     "MultiLang": {
-      "US": "This map is a ZM training map.",
+      "US": "This map is a zombies training map.",
       "JP": "このマップはzm訓練用マップです。",
       "CN": "这张地图是zm训练用的",
-      "KR": "이 맵은 zm 훈련 맵입니다.",
-      "TW": "這張地圖是zm訓練用的地圖"
+      "KR": "이 맵은 zm 훈련 맵입니다",
+      "TW": "遊戲地圖為zm訓練地圖"
     }
   }
 }

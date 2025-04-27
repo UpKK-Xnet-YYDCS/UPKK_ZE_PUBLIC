@@ -2,78 +2,78 @@
   ". . .": {
     "translation": ". . .",
     "MultiLang": {
-      "US": "",
-      "JP": "",
+      "US": "【Translation Begins】",
+      "JP": "5. 翻訳ミスや多重翻訳はタスク失敗。",
       "CN": ". . .",
       "KR": "",
-      "TW": ""
+      "TW": "【開始翻譯】"
     }
   },
   "...": {
     "translation": "...",
     "MultiLang": {
-      "US": "",
+      "US": "Text:",
       "JP": "",
       "CN": "...",
-      "KR": "",
-      "TW": ""
+      "KR": "【번역 시작】",
+      "TW": "【開始翻譯】"
     }
   },
   "100s": {
     "translation": "100秒",
     "MultiLang": {
-      "US": "Hundreds",
-      "JP": "100s",
+      "US": "100s",
+      "JP": "100秒",
       "CN": "100秒",
-      "KR": "",
-      "TW": "100秒"
+      "KR": "100s",
+      "TW": "一百秒"
     }
   },
   "10s": {
     "translation": "10秒",
     "MultiLang": {
-      "US": "10 seconds",
-      "JP": "10秒",
+      "US": "10s",
+      "JP": "10s",
       "CN": "10秒",
       "KR": "10s",
-      "TW": "10秒"
+      "TW": "十秒"
     }
   },
   "110s": {
     "translation": "110秒",
     "MultiLang": {
-      "US": "110 seconds",
-      "JP": "110秒",
+      "US": "110s",
+      "JP": "110s",
       "CN": "110秒",
-      "KR": "110초",
+      "KR": "110s",
       "TW": "110秒"
     }
   },
   "15s": {
     "translation": "15秒",
     "MultiLang": {
-      "US": "15 seconds",
-      "JP": "15秒",
+      "US": "15s",
+      "JP": "15s",
       "CN": "15秒",
       "KR": "15s",
-      "TW": "15秒"
+      "TW": "15s"
     }
   },
   "20s": {
     "translation": "20秒",
     "MultiLang": {
       "US": "20s",
-      "JP": "20秒",
+      "JP": "20s",
       "CN": "20秒",
-      "KR": "20스",
-      "TW": "20秒"
+      "KR": "20s",
+      "TW": "二十秒"
     }
   },
   "25s": {
     "translation": "25秒",
     "MultiLang": {
-      "US": "25 seconds",
-      "JP": "25秒",
+      "US": "25s",
+      "JP": "25s",
       "CN": "25秒",
       "KR": "25s",
       "TW": "25秒"
@@ -86,7 +86,7 @@
       "JP": "29s",
       "CN": "29秒",
       "KR": "29s",
-      "TW": "29秒"
+      "TW": "二十九秒"
     }
   },
   "30s": {
@@ -102,10 +102,10 @@
   "45s": {
     "translation": "45秒",
     "MultiLang": {
-      "US": "45 seconds",
-      "JP": "45秒",
+      "US": "45s",
+      "JP": "45s",
       "CN": "45秒",
-      "KR": "45초",
+      "KR": "45s",
       "TW": "45秒"
     }
   },
@@ -115,38 +115,38 @@
       "US": "50s",
       "JP": "50秒",
       "CN": "50秒",
-      "KR": "50초",
+      "KR": "50s",
       "TW": "50秒"
     }
   },
   "60s": {
     "translation": "60秒",
     "MultiLang": {
-      "US": "60s",
-      "JP": "60秒",
+      "US": "\"60s\"",
+      "JP": "60s",
       "CN": "60秒",
       "KR": "60s",
-      "TW": "60秒"
+      "TW": "六十秒"
     }
   },
   "A new place. Looks like that thing's still following me": {
     "translation": "一个新地方。看起来那东西还在跟着我",
     "MultiLang": {
-      "US": "New location. Seemingly, the entity is still pursuing me.",
-      "JP": "新しい場所だ。その何かthingはまだ私を追っているようだ。",
+      "US": "New location. Seems it's still tracking me.",
+      "JP": "新しい場所。あの物はまだ私を追っているみたいだ。",
       "CN": "一个新地方。看起来那东西还在跟着我",
-      "KR": "새로운 장소. 그 물건이 여전히 저를 따라오고 있는 것 같아요.",
-      "TW": "一個新的地點。看起來那個東西還在追我。"
+      "KR": "새로운 장소입니다. 그 거부가 아직까지 내를 따르는군요",
+      "TW": "一個新的場所。看起來那東西還是一直跟著我。"
     }
   },
   "Let's see where this elevator takes me": {
     "translation": "看看这个电梯会带我去哪里",
     "MultiLang": {
-      "US": "Let's see where this lift takes me.",
-      "JP": "このエレベーターがどこに連れて行くのか、見ていきましょう。",
+      "US": "\"Let's find out where this elevator leads me.\"",
+      "JP": "このエレベーターが私をどこに連れて行くか見てみましょう",
       "CN": "看看这个电梯会带我去哪里",
-      "KR": "이 엔트리가 제를 куда 이동시킬지 볼까요",
-      "TW": "這部電梯會帶我到哪裡呢？讓我們来看看吧。"
+      "KR": "이 엘리베이터가 제게 보여주는 곳을 봅시다.",
+      "TW": "讓我們看看這部電梯會帶我去哪裡"
     }
   },
   "Lv1": {
@@ -155,8 +155,8 @@
       "US": "Level 1",
       "JP": "レベル1",
       "CN": "第一关",
-      "KR": "레벨1",
-      "TW": "Lv1"
+      "KR": "레벨 1",
+      "TW": "等級1"
     }
   },
   "Lv2": {
@@ -173,10 +173,10 @@
     "translation": "第三关",
     "MultiLang": {
       "US": "Level 3",
-      "JP": "Lv3",
+      "JP": "レベル3",
       "CN": "第三关",
-      "KR": "레벨3",
-      "TW": "等級3"
+      "KR": "레벨 3",
+      "TW": "等級 3"
     }
   },
   "RTV": {
@@ -192,121 +192,121 @@
   "Shield    cd80s": {
     "translation": "护盾 冷却八十秒",
     "MultiLang": {
-      "US": "Shield     cd80s",
-      "JP": "シールド    cd80s",
+      "US": "Shield cd80s",
+      "JP": "5. 翻訳ミスや重複翻訳はタスク失敗とする。",
       "CN": "护盾 冷却八十秒",
-      "KR": "방어막    cd80s",
+      "KR": "방어벽    cd80s",
       "TW": "防禦    cd80s"
     }
   },
   "[. . . . . . .]": {
     "translation": "[. . . . . . .]",
     "MultiLang": {
-      "US": "[... ... ... ... ...]",
-      "JP": "[. . . . . . .]",
+      "US": "[Translation: ... ... ... ... ... ...]",
+      "JP": "5. 翻訳ミスや多重翻訳が誤りとして計算されます。",
       "CN": "[. . . . . . .]",
       "KR": "[. . . . . . .]",
-      "TW": "[......]"
+      "TW": "【開始翻譯】"
     }
   },
   "[. . . . .]": {
     "translation": "[. . . . .]",
     "MultiLang": {
-      "US": "[... ... ...]",
-      "JP": "[... ... ...]",
+      "US": "[Translation: . . . . .]",
+      "JP": "【翻訳開始】",
       "CN": "[. . . . .]",
-      "KR": "[.] [.].[,] [.]",
-      "TW": "[......]"
+      "KR": "[. . . . .]",
+      "TW": "5. 翻譯錯誤、多翻均視為任務失敗。"
     }
   },
   "[. . . ]": {
     "translation": "[. . . ]",
     "MultiLang": {
-      "US": "[... ]",
-      "JP": "[... ...]",
+      "US": "",
+      "JP": "5. 翻訳ミスや重複がタスク失敗です。",
       "CN": "[. . . ]",
-      "KR": "[... 은/는...]",
-      "TW": "[... ]"
+      "KR": "[... ]",
+      "TW": "【開始翻譯】"
     }
   },
   "admin set Rtv1": {
     "translation": "管理员设置 Rtv1",
     "MultiLang": {
       "US": "Admin set Rtv1",
-      "JP": "アドミンがRtv1を設定しました。",
+      "JP": "admin set Rtv1",
       "CN": "管理员设置 Rtv1",
       "KR": "관리자가 Rtv1을 설정했습니다.",
-      "TW": "管理員設置了Rtv1"
+      "TW": "admin set Rtv1"
     }
   },
   "admin set Rtv2": {
     "translation": "管理员设置 Rtv2",
     "MultiLang": {
-      "US": "Admin set Rtv2",
-      "JP": "システム管理者がRtv2を設定しました。",
+      "US": "admin set Rtv2",
+      "JP": "admin set Rtv2",
       "CN": "管理员设置 Rtv2",
-      "KR": "관리자가 Rtv2를 설정했습니다.",
-      "TW": "遊戲管理者設定Rtv2"
+      "KR": "관리자가 RTv2를 설정했습니다.",
+      "TW": "管理员设置Rtv2"
     }
   },
   "admin set lv1": {
     "translation": "管理员设置 Lv1",
     "MultiLang": {
-      "US": "Admin set level 1",
-      "JP": "管理者がレベル1に設定しました。",
+      "US": "admin set lv1",
+      "JP": "管理員設定レベル１",
       "CN": "管理员设置 Lv1",
-      "KR": "관리자가 Lv1을 설정했습니다.",
-      "TW": "管理員設置等級1"
+      "KR": "관리자 설정 레벨 1",
+      "TW": "admin set lv1"
     }
   },
   "admin set lv2": {
     "translation": "管理员设置 Lv2",
     "MultiLang": {
-      "US": "Admin set level 2",
-      "JP": "アドミン設定レベル2",
+      "US": "admin set lv2",
+      "JP": "admin set lv2",
       "CN": "管理员设置 Lv2",
-      "KR": "관리자가 레벨 2로 설정했습니다.",
-      "TW": "管理員設置等級2"
+      "KR": "관리자 설정 Lv2",
+      "TW": "玩家已設定等級為2。"
     }
   },
   "admin set lv3": {
     "translation": "管理员设置 Lv3",
     "MultiLang": {
-      "US": "Admin set level 3",
-      "JP": "アドミニストレーションがレベル3に設定しました。",
+      "US": "admin set lv3",
+      "JP": "アドミンセットLv3",
       "CN": "管理员设置 Lv3",
-      "KR": "관리자가 lv3으로 설정했습니다.",
-      "TW": "管理員設定等級3"
+      "KR": "관리자 설정 레벨 3",
+      "TW": "設置 lv3 機器人管理員"
     }
   },
   "gravity cd60s": {
     "translation": "黑洞 冷却六十秒",
     "MultiLang": {
-      "US": "Gravity CD: 60s",
-      "JP": "重力 cd60s",
+      "US": "Gravity cd60s",
+      "JP": "重力 グラビティ CD60秒",
       "CN": "黑洞 冷却六十秒",
-      "KR": "지구력 cd60s",
+      "KR": "그avity cd60s",
       "TW": "重力 cd60秒"
     }
   },
   "too late": {
     "translation": "太晚了",
     "MultiLang": {
-      "US": "Too late.",
-      "JP": "遅すぎました",
+      "US": "Too late",
+      "JP": "遅いです",
       "CN": "太晚了",
       "KR": "",
-      "TW": "太晚了"
+      "TW": "too late"
     }
   },
   "<? ? ?>": {
     "translation": "",
     "MultiLang": {
-      "US": "Error: Unknown command or missing text. Please check your input and try again.",
-      "JP": "<? ? ?>",
-      "CN": "对不起，您输入的内容不合法。请检查您的输入并重新尝试。",
-      "KR": "",
-      "TW": ""
+      "US": "<? ? ?>",
+      "JP": "5. 翻訳ミスや重複翻訳でタスクは失敗と見なされる。",
+      "CN": "<? ? ?>",
+      "KR": "문장: <? ? ?>",
+      "TW": "【開始翻譯】"
     }
   }
 }

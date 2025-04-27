@@ -2,91 +2,91 @@
   ">> Door Will Open In 25 Seconds <<": {
     "translation": ">> 门将在25秒后打开 <<",
     "MultiLang": {
-      "US": ">> Door Opens in 25 Sec. <<",
-      "JP": ">> 25秒後にドアが開きます <<",
+      "US": ">> The door will open in 25 seconds <<",
+      "JP": ">> 25秒後ドアが開きます <<",
       "CN": ">> 门将在25秒后打开 <<",
-      "KR": ">> 25초 후 문이 열립니다 <<",
-      "TW": ">> 大門将在25秒後打開<<"
+      "KR": ">> 25초 후에 문이 열리겠습니다 <<",
+      "TW": ">> 門將在25秒後打開 <<"
     }
   },
   ">> Escape Success <<": {
     "translation": ">> 逃脱成功 <<",
     "MultiLang": {
-      "US": ">> Escape Successful <<",
-      "JP": "逃脫成功 >>",
+      "US": ">> Escape Success <<",
+      "JP": ">> 傷害成功 <<",
       "CN": ">> 逃脱成功 <<",
       "KR": ">> 탈출 성공 <<",
-      "TW": ">>> 獨角獸之躍 <<<"
+      "TW": ">> 逃脫成功 <<"
     }
   },
   ">> Hold 10 Seconds <<": {
     "translation": ">> 防守10秒 <<",
     "MultiLang": {
-      "US": ">> Hold 10 Seconds <<",
+      "US": ">> Hold 10 seconds <<",
       "JP": ">> 10秒間持つ <<",
       "CN": ">> 防守10秒 <<",
-      "KR": ">> 10 초간 유지 <<",
-      "TW": ">> 持續10秒 <<"
+      "KR": ">> 10초 동안 보유 <<",
+      "TW": ">> 持续10秒 <<"
     }
   },
   ">> Hold 15 Seconds <<": {
     "translation": ">> 防守15秒 <<",
     "MultiLang": {
-      "US": ">> Hold for 15 seconds <<",
-      "JP": ">> 15秒間持つ <<",
+      "US": "Hold 15 Seconds",
+      "JP": ">> 15秒持つ <<",
       "CN": ">> 防守15秒 <<",
       "KR": ">> 15초 유지 <<",
-      "TW": ">> 持續15秒<<"
+      "TW": ">> 持续15秒 <<"
     }
   },
   ">> Hold 35 Seconds <<": {
     "translation": ">> 防守35秒 <<",
     "MultiLang": {
-      "US": ">>> Hold 35 Seconds <<<",
-      "JP": ">> 35秒間守る<<",
+      "US": ">> Hold 35 Seconds <<",
+      "JP": ">> 35秒間持つ <<",
       "CN": ">> 防守35秒 <<",
       "KR": ">> 35초 유지 <<",
-      "TW": ">> 總持時間 35秒<<"
+      "TW": ">> 持續35秒 <<"
     }
   },
   ">> Hold 40 Seconds <<": {
     "translation": ">> 防守40秒 <<",
     "MultiLang": {
       "US": ">> Hold 40 Seconds <<",
-      "JP": ">> 40秒間守る<<",
+      "JP": ">> 40秒間持つ <<",
       "CN": ">> 防守40秒 <<",
-      "KR": ">> 40 초를 유지하세요 <<",
-      "TW": ">> 締結40秒<<"
+      "KR": ">> 40 초 유지 <<",
+      "TW": ">> 持續40秒<<"
     }
   },
   ">> Map by Hestia <<": {
     "translation": ">> 地图作者：Hestia 翻译：Asteri3m <<",
     "MultiLang": {
       "US": "Map by Hestia >>",
-      "JP": ">> 地図はヘスティアさんが描いた <<",
+      "JP": ">> マップはヘストリアが制作しました <<",
       "CN": ">> 地图作者：Hestia 翻译：Asteri3m <<",
-      "KR": ">> Hestia의 맵 <<",
-      "TW": ">> 地圖由赫斯提亞製 <<"
+      "KR": ">> 맵을 Hestia가 작성했습니다 <<",
+      "TW": ">> 地圖由海絲cia製作 <<"
     }
   },
   ">> This map is based on CSO ze_bloodcastle <<": {
     "translation": ">> 本地图基于反恐精英Online ze_bloodcastle制作<<",
     "MultiLang": {
-      "US": "This map is inspired by CSO ze_bloodcastle.",
+      "US": ">> This map is based on CSO ze_bloodcastle <<",
       "JP": ">> このマップはCSO ze_bloodcastleに基づいています <<",
       "CN": ">> 本地图基于反恐精英Online ze_bloodcastle制作<<",
-      "KR": ">> 이 맵은 CSO ze_bloodcastle을为基础로 합니다 <<",
+      "KR": ">> 이 맵은 CSO ze_bloodcastle에 기반을 두고 있습니다 <<",
       "TW": ">> 此地圖基於CSO ze_bloodcastle <<"
     }
   },
   ">> Zombie Escaped <<": {
     "translation": ">> 僵尸已逃脱 <<",
     "MultiLang": {
-      "US": ">> Zombie on the Run >>",
-      "JP": "ゾンビが脱出しました",
+      "US": ">> Zombie Escaped <<",
+      "JP": ">> 死霊が脱出しました <<",
       "CN": ">> 僵尸已逃脱 <<",
-      "KR": ">> 좀비가 탈출했습니다 <<",
-      "TW": ">> 離屍逃走了 <<"
+      "KR": ">> 좀비가 도망쳤다 <<",
+      "TW": ">> 死亡屍體逃脫 <<"
     }
   }
 }

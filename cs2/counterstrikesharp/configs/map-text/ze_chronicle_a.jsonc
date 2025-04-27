@@ -2,11 +2,11 @@
   "> Practice Mode <": {
     "translation": "练习模式",
     "MultiLang": {
-      "US": "> Practice Mode <",
+      "US": "Practice Mode",
       "JP": "> プラクティスモード<",
       "CN": "练习模式",
-      "KR": "> 연습 모드 <",
-      "TW": "練習模式 >"
+      "KR": "> 연습 모드 </>",
+      "TW": "練習模式"
     }
   },
   "> 10 <": {
@@ -15,64 +15,64 @@
       "US": "> 10 <",
       "JP": "> 10 <",
       "CN": "10s",
-      "KR": "> 10 번째 <",
-      "TW": "> 十<"
+      "KR": "> 10 <",
+      "TW": "> 10"
     }
   },
   "> Afk 30 <": {
     "translation": "AFK 30s",
     "MultiLang": {
       "US": "> Afk 30 <",
-      "JP": "> アフク30<",
+      "JP": "> アフK 30 <",
       "CN": "AFK 30s",
       "KR": "> 아fk 30 <",
-      "TW": "> 遊離 30秒 <"
+      "TW": "> 遊離 30 <"
     }
   },
   "> Press E to control platform rotation <": {
     "translation": "按 E 键控制平台旋转",
     "MultiLang": {
-      "US": "> Press E to control platform rotation.",
-      "JP": "> Eキーを押すとプラットフォームの回転を制御できます。",
+      "US": "Press E to control platform rotation.",
+      "JP": "> プラットフォームの回転をコントロールするにはEボタンを押してください <",
       "CN": "按 E 键控制平台旋转",
-      "KR": "> E를 누르면 플랫폼 회전을 조작합니다.<",
-      "TW": "按E鍵控制平台旋轉。"
+      "KR": "> 플랫폼 회전을 제어하기 위해 E를 눌러주세요.<",
+      "TW": "請按E鍵控制平台旋轉"
     }
   },
   ">Map by Tenshi.<": {
     "translation": "地图作者：Tenshi 翻译：秋刀鱼",
     "MultiLang": {
-      "US": ">Tenshi's Map.",
-      "JP": ">マップは天使による。",
+      "US": ">Map created by Tenshi.",
+      "JP": ">マップはてんしによって制作されました。<",
       "CN": "地图作者：Tenshi 翻译：秋刀鱼",
-      "KR": ">맵은 Tenshi가 제작했습니다.",
-      "TW": ">地圖由Tenshi創作."
+      "KR": ">지도는 천사가 만든 것입니다.<",
+      "TW": ">由Tenshi設計的地圖。"
     }
   },
   ">Ver:1.0.8<": {
     "translation": "",
     "MultiLang": {
-      "US": "Version: 1.0.8",
+      "US": ">Version: 1.0.8<",
       "JP": ">Ver:1.0.8<",
       "CN": ">版本：1.0.8<",
-      "KR": ">버전:1.0.8<",
-      "TW": "版本：1.0.8"
+      "KR": ">>버전: 1.0.8<<",
+      "TW": "版本號：1.0.8"
     }
   },
   ">Failed<": {
     "translation": "失败",
     "MultiLang": {
-      "US": ">Failed<",
-      "JP": "失敗しました。",
+      "US": "Translation: Failed",
+      "JP": "失敗しました",
       "CN": "失败",
-      "KR": "",
-      "TW": ">失敗<"
+      "KR": ">>실패<<",
+      "TW": "失敗"
     }
   },
   "> 40 <": {
     "translation": "40s",
     "MultiLang": {
-      "US": "> 40 <",
+      "US": "40",
       "JP": "> 40 <",
       "CN": "40s",
       "KR": "> 40 <",
@@ -82,20 +82,20 @@
   "> 30 <": {
     "translation": "30s",
     "MultiLang": {
-      "US": "> 30 <",
+      "US": "30<",
       "JP": "> 30 <",
       "CN": "30s",
       "KR": "> 30 <",
-      "TW": "> 三零 <"
+      "TW": "> 三十 <"
     }
   },
   ">>Failed<<": {
     "translation": "失败",
     "MultiLang": {
       "US": ">>Failed<<",
-      "JP": ">>失敗しました<<",
+      "JP": ">>失敗<<",
       "CN": "失败",
-      "KR": "실패했습니다",
+      "KR": ">>실패<<",
       "TW": ">>失敗<<"
     }
   }

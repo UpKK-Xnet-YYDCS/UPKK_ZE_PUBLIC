@@ -3,20 +3,20 @@
     "translation": "",
     "MultiLang": {
       "US": "Weather: Fog World",
-      "JP": "天気:霧の世界",
-      "CN": "天气：雾之世界",
-      "KR": "기상: 안개의 세계",
-      "TW": "天氣:迷霧之界"
+      "JP": "天候:ミストワールド",
+      "CN": "天气：雾世界",
+      "KR": "날씨: 뒤덮인 세계",
+      "TW": "天氣:霧之世界"
     }
   },
   "天气:暴雨": {
     "translation": "",
     "MultiLang": {
       "US": "Weather: Downpour",
-      "JP": "天候:大雨",
+      "JP": "天候：豪雨",
       "CN": "天气：暴风雨",
       "KR": "날씨: 폭우",
-      "TW": "天氣:暴風雨"
+      "TW": "天氣:豪雨"
     }
   },
   "天气:小雨": {
@@ -25,27 +25,27 @@
       "US": "Weather: Light Rain",
       "JP": "天候：小雨",
       "CN": "天气:小雨",
-      "KR": "날씨: 소형 비",
+      "KR": "날씨: 소우산",
       "TW": "天氣:小雨"
     }
   },
   "天气:黑夜": {
     "translation": "",
     "MultiLang": {
-      "US": "Weather: Nighttime",
-      "JP": "天候:深夜",
-      "CN": "天气：夜晚",
+      "US": "Weather: Night",
+      "JP": "天候: 夜晚",
+      "CN": "天气:黑夜",
       "KR": "",
-      "TW": "天氣:夜晚"
+      "TW": "天氣:黑夜"
     }
   },
   "天气:风和日丽": {
     "translation": "",
     "MultiLang": {
-      "US": "Weather: Fine Breeze and Bright Sunlight",
-      "JP": "天候:風と日が良い",
+      "US": "Weather: Breeze and clear sunshine",
+      "JP": "天候：風と日が良いため",
       "CN": "天气:风和日丽",
-      "KR": "날씨: 바람이 불지 않고 좋은 날씨",
+      "KR": "날씨: 바람이 불고, 일과는 빛이 좋다",
       "TW": "天氣:風和日麗"
     }
   },
@@ -53,10 +53,10 @@
     "translation": "",
     "MultiLang": {
       "US": "Weather: Fog",
-      "JP": "天候:霧",
-      "CN": "天气：浓雾",
-      "KR": "기후: 둔불",
-      "TW": "天氣:霧霾"
+      "JP": "天候:ミスト",
+      "CN": "天气：薄雾",
+      "KR": "날씨: 빗자락",
+      "TW": "天氣:霧"
     }
   }
 }

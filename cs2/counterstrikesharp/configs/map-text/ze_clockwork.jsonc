@@ -3,9 +3,9 @@
     "translation": "-=East 东=-",
     "MultiLang": {
       "US": "-=East=-",
-      "JP": "=東方=",
+      "JP": "-=東=-",
       "CN": "-=East 东=-",
-      "KR": "-= 동부 =-",
+      "KR": "-=동쪽=-",
       "TW": "-=東方=-"
     }
   },
@@ -13,17 +13,17 @@
     "translation": "-=North 北=-",
     "MultiLang": {
       "US": "-=North=-",
-      "JP": "-= 北方 -=",
+      "JP": "-=北方=-",
       "CN": "-=North 北=-",
       "KR": "-=북쪽=-",
-      "TW": "-=Troll Slayer=-"
+      "TW": "北極星"
     }
   },
   "-=South=-": {
     "translation": "-=South 南=-",
     "MultiLang": {
-      "US": "-= South =-",
-      "JP": "南=-",
+      "US": "-=South=-",
+      "JP": "南を絶対に遵守します。",
       "CN": "-=South 南=-",
       "KR": "-=남쪽=-",
       "TW": "-=南方=-"
@@ -35,238 +35,238 @@
       "US": "-=West=-",
       "JP": "-=西側=-",
       "CN": "-=West 西=-",
-      "KR": "-=서쪽=-",
+      "KR": "-=서부=-",
       "TW": "-=西方=-"
     }
   },
   "<Elevator will be ready in 30 sec>": {
     "translation": "<电梯将在30秒后准备好>",
     "MultiLang": {
-      "US": "<Elevator will be ready in 30 seconds>",
-      "JP": "エレベーターは30秒後までに利用可能になります。",
+      "US": "<Elevator will be ready in 30 sec>",
+      "JP": "エレベーターは30秒後に出ます。",
       "CN": "<电梯将在30秒后准备好>",
-      "KR": "<식물진출기준 시간 30초 후 준비완료>",
-      "TW": "<電梯準備中，請等待30秒>"
+      "KR": "<30초 후에 엘리베이터 준비 됩니다>",
+      "TW": "<電梯将在30秒後準備好>>"
     }
   },
   "<Follow the chat>": {
     "translation": "<请留意聊天框>",
     "MultiLang": {
-      "US": "<Monitor the chat>",
-      "JP": "<チャットに従って>",
+      "US": "<Follow the chat>",
+      "JP": "<チャットを遵守する>",
       "CN": "<请留意聊天框>",
       "KR": "<채팅을 따르세요>",
-      "TW": "<跟隨聊天>"
+      "TW": "【開始翻譯】"
     }
   },
   "<Map By Dege151>": {
     "translation": "<由Dege151制作地图 翻译：Asteri3m 注意：跳刀提示已优化>",
     "MultiLang": {
       "US": "By Dege151",
-      "JP": "<マップ by デージ151>",
+      "JP": "<Map By Dege151>",
       "CN": "<由Dege151制作地图 翻译：Asteri3m 注意：跳刀提示已优化>",
-      "KR": "<맵을 Dege151가 작성함>",
-      "TW": "由Dege151設計的地圖"
+      "KR": "맵을 Dege151이 작성했습니다",
+      "TW": "【開始翻譯】"
     }
   },
   "<Playing  As The Cycle Goes On>": {
     "translation": "<正在播放 As The Cycle Goes On>",
     "MultiLang": {
-      "US": "<As The Playing Cycle Proceeds>",
-      "JP": "<サイクルが進む中でプレイする>",
+      "US": "<As the cycle progresses>",
+      "JP": "プレイする 時間が経るにつれて",
       "CN": "<正在播放 As The Cycle Goes On>",
-      "KR": "<사이클이 지속될수록 플레이>",
-      "TW": "隨著週期的延續，"
+      "KR": "<사이클이 지속될수록 플레이링>",
+      "TW": "【開始翻譯】"
     }
   },
   "<Playing Time Will Catch Me First>": {
     "translation": "<正在播放 Time Will Catch Me First>",
     "MultiLang": {
-      "US": "\"Time will beat me to it first.\"",
-      "JP": "プレイ時間が私を先に捕まえるでしょう。",
+      "US": "<Time Will Beat Me to the Game>",
+      "JP": "プレイ時間が先に私の時間を取るでしょう。",
       "CN": "<正在播放 Time Will Catch Me First>",
-      "KR": "<게임 시간이 먼저 잡을첫번째가 됩니다>",
-      "TW": "<遊戲時間將先找到我>"
+      "KR": "플레이 시간이 먼저 잡아먹을까봐요",
+      "TW": "遊戲時間會先找到我"
     }
   },
   "<Playing clockwork-philipp-klein>": {
     "translation": "<正在播放 clockwork-philipp-klein>",
     "MultiLang": {
-      "US": "<Playing clockwork by philipp klein>",
-      "JP": "<ギミックのクロックワークフィリップ・クライン>",
+      "US": "\"Play clockwork-philipp-klein\"",
+      "JP": "5. 翻訳ミスや重複翻訳はタスク失敗と計算する。",
       "CN": "<正在播放 clockwork-philipp-klein>",
-      "KR": "<시계를 조작하는 플레이-필립 클ainers>",
-      "TW": "<玩鍊金時鐘-費里普·克林>"
+      "KR": "<시계를 조작하는 주로크-필립 칸>",
+      "TW": "<Playing clockwork-philipp-klein>"
     }
   },
   "<TP will be useable in 30 sec>": {
     "translation": "<传送将在30秒后可用>",
     "MultiLang": {
-      "US": "<TP usable in 30s>",
+      "US": "<TP usable in 30 sec>",
       "JP": "<30秒後、TPが使用可能になります>",
       "CN": "<传送将在30秒后可用>",
-      "KR": "<30초 후에 TP 사용가능합니다>",
-      "TW": "<TP可在30秒後使用>"
+      "KR": "<30초 후에 TP가 사용 가능합니다>",
+      "TW": "<TP可以於30秒後使用>"
     }
   },
   "<Teleport will be useable in 20 sec>": {
     "translation": "<传送将在20秒后可用>",
     "MultiLang": {
-      "US": "\"Teleport will be usable in 20 sec.\"",
-      "JP": "「テレポートは20秒後使用可能になります。」",
+      "US": "<Teleport will be usable in 20 sec>",
+      "JP": "テレポートは20秒後使用可能になります。",
       "CN": "<传送将在20秒后可用>",
-      "KR": "<텔레포트는 20초 후에 사용 가능합니다>",
-      "TW": "<瞬移将在20秒后可用>"
+      "KR": "<20초 후에 Teleport이 사용가능합니다>",
+      "TW": "<瞬移功能可在20秒后使用>"
     }
   },
   "<Teleport will be useable in 30 sec>": {
     "translation": "<传送将在30秒后可用>",
     "MultiLang": {
-      "US": "\"Teleport will be usable in 30 seconds.\"",
-      "JP": "「テレポートは30秒後に使用可能になります」",
+      "US": "<Teleport will be usable in 30 secs>",
+      "JP": "テレポートは30秒後に入力可能です。",
       "CN": "<传送将在30秒后可用>",
-      "KR": "\"텔레포트는 30초 후 사용 가능합니다.\"",
-      "TW": "<瞬移可在30秒后使用>"
+      "KR": "<30초 후에 Teleport 사용가능합니다>",
+      "TW": "<移動法術可在30秒後使用>"
     }
   },
   "<Will be opened in 25 sec>": {
     "translation": "<25秒后开启>",
     "MultiLang": {
-      "US": "\"Will open in 25 sec\"",
-      "JP": "<25秒後開かれます>",
+      "US": "<Opening in 25 sec>",
+      "JP": "<25秒後に開かれる予定です>",
       "CN": "<25秒后开启>",
-      "KR": "<25초 후에 열릴 예정입니다>",
-      "TW": "<25秒後打開>"
+      "KR": "<25초 후에 열릴 것임>",
+      "TW": "將在25秒後打開"
     }
   },
   "<Will be opened in 30 sec>": {
     "translation": "<30秒后开启>",
     "MultiLang": {
-      "US": "\"Will open in 30 sec\"",
-      "JP": "<30秒後に開かれる予定>",
+      "US": "\"Will be opened in 30 sec\"",
+      "JP": "<30秒後に開かれる予定です>",
       "CN": "<30秒后开启>",
       "KR": "<30초 후에 열리게 됩니다>",
-      "TW": "<30秒後將會開啟>"
+      "TW": "開通時間：30秒後"
     }
   },
   "<Will be opened in 45 sec>": {
     "translation": "<45秒后开启>",
     "MultiLang": {
-      "US": "\"Will open in 45 secs.\"",
-      "JP": "<45秒後に開かれる予定です>",
+      "US": "<Will be opened in 45 sec>",
+      "JP": "<45秒後に開かれる>",
       "CN": "<45秒后开启>",
-      "KR": "<45초 후에 열리게 됩니다>",
-      "TW": "<45秒後開放>"
+      "KR": "<45초 후에 열릴 것입니다>",
+      "TW": "【在45秒後開啟】"
     }
   },
   "<Will be opened in 50 sec>": {
     "translation": "<50秒后开启>",
     "MultiLang": {
-      "US": "\"Will open in 50 secs.\"",
-      "JP": "<50秒後開けます>",
+      "US": "Opening in 50 sec",
+      "JP": "<50秒後に開かれる予定です>",
       "CN": "<50秒后开启>",
       "KR": "<50초 후에 열립니다>",
-      "TW": "<在50秒後打開>"
+      "TW": "開通時間：50秒後"
     }
   },
   "<YOU WON>": {
     "translation": "<你赢了>",
     "MultiLang": {
       "US": "<YOU WON>",
-      "JP": "<君は勝ちました>",
+      "JP": "あなたの勝ちです。",
       "CN": "<你赢了>",
       "KR": "<당신이 이겼습니다>",
-      "TW": "恭喜您獲勝！"
+      "TW": "你贏了"
     }
   },
   "<Zombie ladder!!! 10 sec>": {
     "translation": "<僵尸梯子!!! 10秒>",
     "MultiLang": {
       "US": "\"Zombie ladder!!! 10 sec\"",
-      "JP": "「ゾンビの梯子！！！ 10秒」",
+      "JP": "<ゾンビの階段！！！10秒>",
       "CN": "<僵尸梯子!!! 10秒>",
-      "KR": "<좀비 계단!!! 10초>",
-      "TW": "屍虐階梯！！！10秒"
+      "KR": "<좀비 계단!!! 10 sec>",
+      "TW": "<喪尸梯級!!! 10秒>"
     }
   },
   "**south jump 南边低刀**": {
     "translation": "",
     "MultiLang": {
-      "US": "**South Jump: Southern Low Blade**",
-      "JP": "**南のジャンプ 南方の底切り刀**",
-      "CN": "**向南跳跃 南部低斩**",
+      "US": "\"South jump 南边低刀\"",
+      "JP": "**南方向の低削りジャンプ**",
+      "CN": "**南跳 南方低刃**",
       "KR": "**남쪽 점프 南边低刀**",
-      "TW": "**南方跳躍 南邊低刀**"
+      "TW": "**南邊低刀 南方跳躍低割**"
     }
   },
   "**west crouch 西边高刀**": {
     "translation": "",
     "MultiLang": {
-      "US": "Translation: **Crouch West**",
-      "JP": "**ウエストクルッチ 西側の高さで刀**",
-      "CN": "**西边蹲砍 西边高刀**",
-      "KR": "**서쪽 나이트 서랍자세**",
-      "TW": "**西方蹲砍西邊高刀**"
+      "US": "**west crouch \"West, high blade\"**",
+      "JP": "**西の方向に低身位を取る 西 crouch**",
+      "CN": "西边高刀",
+      "KR": "**서쪽 낮춤 서쪽에서 고도의 칼**",
+      "TW": "西邊髙刀"
     }
   },
   "**east crouch 东边高刀**": {
     "translation": "",
     "MultiLang": {
-      "US": "Eastward, assume a low crouched stance.",
-      "JP": "**東方に低身格闘**",
-      "CN": "**东方低蹲 东路削刀**",
-      "KR": "**동쪽 고도 쓰rouch**",
-      "TW": "**東邊蹲刀 Eastside crouching sword**"
+      "US": "**East crouch East high blade**",
+      "JP": "**東方低身**",
+      "CN": "**east crouch 东边高刀**",
+      "KR": "**동쪽 낙담 대검**",
+      "TW": "東邊高刀"
     }
   },
   "**south crouch 南边高刀**": {
     "translation": "",
     "MultiLang": {
-      "US": "**South Crouch: Southern High Blade**",
-      "JP": "**サウスクロウ ニンビーカタクリ**",
-      "CN": "**南边蹲刀 南边高地刀**",
-      "KR": "**남쪽 난장이**",
-      "TW": "**南邊低刀 南側長劍**"
+      "US": "**south crouch \"South Crouching\" (referring to a maneuver or location in the game)**",
+      "JP": "**南方向の低姿勢 南辺り長刀**",
+      "CN": "**南边高刀**",
+      "KR": "**남쪽 굴기 南边高刀**",
+      "TW": "**南方低蹲 南邊高刀**"
     }
   },
   "**north jump 北边低刀**": {
     "translation": "",
     "MultiLang": {
-      "US": "North Jump - Northern Low Blade",
-      "JP": "**北方向のジャンプ 北方底切り**",
-      "CN": "**北方跳跃 北边低刀**",
-      "KR": "**북쪽 점프 北邊低刀**",
-      "TW": "**北方跳躍 西北邊砍擊**"
+      "US": "**north jump Northward low slash**",
+      "JP": "北方向跳躍 北側の低い斬り",
+      "CN": "**北边低刀**",
+      "KR": "北쪽 낙동刀",
+      "TW": "北邊低刀"
     }
   },
   "**north crouch 北边高刀**": {
     "translation": "",
     "MultiLang": {
-      "US": "**North Crouch: Northern High Blade**",
-      "JP": "**北の屈身 北辺高剣**",
-      "CN": "**北边低斩**",
-      "KR": "**북쪽 다리北边高刀**",
-      "TW": "**北方低斬**"
+      "US": "**north crouch 北边高刀**",
+      "JP": "**北の低身位**",
+      "CN": "**北边高刀 北边蹲刀**",
+      "KR": "**북쪽 고도의 나이트**",
+      "TW": "北邊高斬"
     }
   },
   "**west jump 西边低刀**": {
     "translation": "",
     "MultiLang": {
-      "US": "**West Jump Westward Slash**",
-      "JP": "**西跳び 西方の低い剣**",
-      "CN": "**西跳 斩西低刀**",
-      "KR": "**서쪽에서 낮은 검도를 사용해ジャンプする**",
-      "TW": "西邊低斬"
+      "US": "\"West jump Westward Low Blade\"",
+      "JP": "**西jump西邊低刀**",
+      "CN": "**西边低刀**",
+      "KR": "**서쪽으로 점프, 서쪽 낮은 검]**",
+      "TW": "西邊低刀"
     }
   },
   "**east jump 东边低刀**": {
     "translation": "",
     "MultiLang": {
-      "US": "**East jump  East low sword**",
-      "JP": "**東跳び 东方の低い刀**",
-      "CN": "**向东跳跃 东方低刀**",
-      "KR": "동쪽 낮은 찔레기",
-      "TW": "**東邊低斬**"
+      "US": "East jump East low saber",
+      "JP": "東跳 東の低い刀",
+      "CN": "**向东跳跃**",
+      "KR": "**동쪽 땅에 낮은 찔러기 점프**",
+      "TW": "東邊低斬刀"
     }
   }
 }

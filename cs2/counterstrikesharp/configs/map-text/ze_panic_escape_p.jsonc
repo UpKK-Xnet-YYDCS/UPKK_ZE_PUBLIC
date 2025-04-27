@@ -2,8 +2,8 @@
   "***1***": {
     "translation": "***1s***",
     "MultiLang": {
-      "US": "***1***",
-      "JP": "***1***",
+      "US": "**1**",
+      "JP": "5. 翻訳ミスや重複はタスク失敗と見なし。",
       "CN": "***1s***",
       "KR": "***1***",
       "TW": "***1***"
@@ -13,10 +13,10 @@
     "translation": "***2s***",
     "MultiLang": {
       "US": "***2***",
-      "JP": "***2***",
+      "JP": "**2**",
       "CN": "***2s***",
-      "KR": "(두 개의 숫자입니다.)",
-      "TW": "二"
+      "KR": "**2**",
+      "TW": "**2**"
     }
   },
   "***3***": {
@@ -33,30 +33,30 @@
     "translation": "***完成！***",
     "MultiLang": {
       "US": "***COMPLETE!***",
-      "JP": "***完了！***",
+      "JP": "***完全！***",
       "CN": "***完成！***",
-      "KR": "",
-      "TW": "完成!!!"
+      "KR": "***완료!***",
+      "TW": "***完成！***"
     }
   },
   "***Kill the zombies inside***": {
     "translation": "***杀死里面的僵尸***",
     "MultiLang": {
-      "US": "\"Clear the zombies within.\"",
-      "JP": "**ゾンビを内部で殺す**",
+      "US": "***Eliminate the zombies inside***",
+      "JP": "**殺すゾンビを内部へ殺し**",
       "CN": "***杀死里面的僵尸***",
-      "KR": "**지ombies를 내부에서 사로잡아라**",
-      "TW": "*殲滅殭屍內部的怪物*"
+      "KR": "***조란을 내부에서 파괴하세요***",
+      "TW": "殺死內部的**殭屍**"
     }
   },
   "***Modified by Reflelia***": {
     "translation": "***地图修改：Reflelia 翻译：Asteri3m***",
     "MultiLang": {
-      "US": "***Translated by Reflelia***",
-      "JP": "***リフレリアによって修正されました***",
+      "US": "***Modified by Reflelia***",
+      "JP": "***改訂者：リフレリア***",
       "CN": "***地图修改：Reflelia 翻译：Asteri3m***",
-      "KR": "수정자: Reflelia",
-      "TW": "祝你在《遊戲名稱》中享受冒險旅程！"
+      "KR": "***Modif이된 by Reflelia***",
+      "TW": "【開始翻譯】"
     }
   },
   "Map made by xXhamadryadesXx": {
@@ -65,7 +65,7 @@
       "US": "Map created by xXhamadryadesXx",
       "JP": "マップはxXhamadryadesXxによって作成されました。",
       "CN": "地图作者：xXhamadryadesXx",
-      "KR": "맵은 xXhamadryadesXx가 제작하였습니다.",
+      "KR": "맵은 xXhamadryadesXx가 만든 것입니다.",
       "TW": "地圖由 xXhamadryadesXx 制作"
     }
   }

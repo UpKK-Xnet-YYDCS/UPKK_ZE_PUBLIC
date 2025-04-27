@@ -2,18 +2,18 @@
   "[ 10 ]": {
     "translation": "[ 10s ]",
     "MultiLang": {
-      "US": "[ 10 ]",
+      "US": "Translation: [10]",
       "JP": "[ 10 ]",
       "CN": "[ 10s ]",
       "KR": "[ 10 ]",
-      "TW": "[ 10 ]"
+      "TW": "十"
     }
   },
   "[ 15 ]": {
     "translation": "[ 15s ]",
     "MultiLang": {
       "US": "[ 15 ]",
-      "JP": "[ 15 ]",
+      "JP": "15",
       "CN": "[ 15s ]",
       "KR": "[ 15 ]",
       "TW": "[ 15 ]"
@@ -22,8 +22,8 @@
   "[ 20 ]": {
     "translation": "[ 20s ]",
     "MultiLang": {
-      "US": "[20]",
-      "JP": "[ 20 ]",
+      "US": "[ 20 ]",
+      "JP": "20",
       "CN": "[ 20s ]",
       "KR": "[ 20 ]",
       "TW": "[ 20 ]"
@@ -36,7 +36,7 @@
       "JP": "[ 20 ]",
       "CN": "[ 20s ]",
       "KR": "[ 20 ]",
-      "TW": "[ 二十 ]"
+      "TW": "【開始翻譯】"
     }
   },
   "[ 25 ]": {
@@ -52,8 +52,8 @@
   "[ 35 ]": {
     "translation": "[ 35s ]",
     "MultiLang": {
-      "US": "[ 35 ]",
-      "JP": "[ 35 ]",
+      "US": "35",
+      "JP": "35",
       "CN": "[ 35s ]",
       "KR": "[ 35 ]",
       "TW": "[ 35 ]"
@@ -63,7 +63,7 @@
     "translation": "[ 失败 ]",
     "MultiLang": {
       "US": "[Failed]",
-      "JP": "[ 失敗しました ]",
+      "JP": "[失敗 ]",
       "CN": "[ 失败 ]",
       "KR": "",
       "TW": "[ 失敗 ]"
@@ -72,40 +72,40 @@
   "[ stage 1 ]": {
     "translation": "[ 关卡 1 ] 翻译：Asteri3m",
     "MultiLang": {
-      "US": "[Stage 1]",
+      "US": "[ Stage 1 ]",
       "JP": "[ステージ1]",
       "CN": "[ 关卡 1 ] 翻译：Asteri3m",
       "KR": "[ 스테이지 1 ]",
-      "TW": "[ 第一場 ]"
+      "TW": "[ 第一回合 ]"
     }
   },
   "[ stage 2 ]": {
     "translation": "[ 关卡 2 ]",
     "MultiLang": {
-      "US": "[Stage 2]",
-      "JP": "[ステージ2]",
+      "US": "[ Stage 2 ]",
+      "JP": "【舞台 2 】",
       "CN": "[ 关卡 2 ]",
       "KR": "[ 스테이지 2 ]",
-      "TW": "[ 第二幕 ]"
+      "TW": "場次 2"
     }
   },
   "[ stage 3 ]": {
     "translation": "[ 关卡 3 ]",
     "MultiLang": {
-      "US": "[Stage 3]",
-      "JP": "【ステージ3】",
+      "US": "Stage 3",
+      "JP": "【舞台 3 】",
       "CN": "[ 关卡 3 ]",
-      "KR": "[ 스테이지 3 ]",
-      "TW": "[第三個舞台]"
+      "KR": "[스테이지 3]",
+      "TW": "舞台三"
     }
   },
   "ball spawned": {
     "translation": "弹幕已生成",
     "MultiLang": {
-      "US": "Ball spawned.",
+      "US": "Translation: Ball spawned",
       "JP": "ボールが生成されました",
       "CN": "弹幕已生成",
-      "KR": "볼이 생성되었습니다.",
+      "KR": "구슬이 생성되었습니다",
       "TW": "球生成"
     }
   },
@@ -115,27 +115,27 @@
       "US": "Cube 1",
       "JP": "キューブ1",
       "CN": "方块 1",
-      "KR": "(cube 1)",
-      "TW": "一立方体"
+      "KR": "큐브 1",
+      "TW": "立方体1"
     }
   },
   "cube 2": {
     "translation": "方块 2",
     "MultiLang": {
-      "US": "Cube 2",
+      "US": "cube 2",
       "JP": "キューブ2",
       "CN": "方块 2",
-      "KR": "キューブ2",
-      "TW": "立方体2"
+      "KR": "큐브 2",
+      "TW": "cube 2"
     }
   },
   "cube 3": {
     "translation": "方块 3",
     "MultiLang": {
-      "US": "Cube 3",
+      "US": "cube 3",
       "JP": "キューブ3",
       "CN": "方块 3",
-      "KR": "크루브 3",
+      "KR": "큐브 3",
       "TW": "立方體3"
     }
   }

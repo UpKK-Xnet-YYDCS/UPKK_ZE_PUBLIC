@@ -2,81 +2,81 @@
   "Pause for 20 seconds": {
     "translation": "暂停20秒",
     "MultiLang": {
-      "US": "Pause for 20s",
-      "JP": "20秒のパーズになります",
+      "US": "\"Pause for 20 seconds\"",
+      "JP": "【20秒間待機】",
       "CN": "暂停20秒",
-      "KR": "20초간 잠시 멈춤",
+      "KR": "20초 동안 일시정지",
       "TW": "暫停20秒"
     }
   },
   "Pause for 25 seconds": {
     "translation": "暂停25秒",
     "MultiLang": {
-      "US": "Pause for 25 sec",
-      "JP": "25秒のパースを待つ",
+      "US": "Pause for 25s",
+      "JP": "【25秒間PAUSE】",
       "CN": "暂停25秒",
-      "KR": "25초 동안 일시정지",
+      "KR": "25초간 멈춤",
       "TW": "暫停25秒"
     }
   },
   "Pause for 15 seconds": {
     "translation": "暂停15秒",
     "MultiLang": {
-      "US": "Pause for 15s",
-      "JP": "15秒間PAUSEしてください",
+      "US": "Pause for 15 seconds",
+      "JP": "【15秒のスルー】",
       "CN": "暂停15秒",
-      "KR": "15 초간 멈춤",
+      "KR": "**이 15 초 동안 멈춤**(This 15 seconds is paused)",
       "TW": "暫停15秒"
     }
   },
   "Final pause for 60 seconds": {
     "translation": "暂停60秒",
     "MultiLang": {
-      "US": "Final countdown: 60 seconds",
-      "JP": "最終のパーソンタイム、60秒間。",
+      "US": "Final pause for 60 seconds",
+      "JP": "【最終の待機時間：60秒】",
       "CN": "暂停60秒",
-      "KR": "최종 딜레이 60초",
-      "TW": "最後的停頓，時長60秒。"
+      "KR": "60초의 마지막 휴지 시간",
+      "TW": "最終停頓60秒"
     }
   },
   "30 seconds left": {
     "translation": "剩余30秒",
     "MultiLang": {
-      "US": "\"30 seconds remaining\"",
-      "JP": "残り30秒",
+      "US": "30 seconds left",
+      "JP": "残り30秒です",
       "CN": "剩余30秒",
-      "KR": "30초가 남았습니다.",
-      "TW": "剩餘30秒"
+      "KR": "30 초가 남아 있습니다.",
+      "TW": "時間剩餘 30 秒"
     }
   },
   "10 seconds left": {
     "translation": "剩余10秒",
     "MultiLang": {
-      "US": "\"10 seconds remaining\"",
-      "JP": "残り10秒です。",
+      "US": "\"10 seconds left\"",
+      "JP": "残り10秒です",
       "CN": "剩余10秒",
-      "KR": "10초가 남았습니다",
-      "TW": "10秒剩餘"
+      "KR": "10 초가 남아있어요",
+      "TW": "剩餘時間：10秒"
     }
   },
   ". . .": {
     "translation": "",
     "MultiLang": {
-      "US": "",
-      "JP": "",
-      "CN": "",
-      "KR": "",
-      "TW": "無法找到任何戰利品，你空手而回。"
+      "US": "5. **TRANSLATION ERRORS OR OVER-TRANSLATIONS ARE CONSIDERED FAILURE.**",
+      "JP": "5. 翻訳ミスや重複翻訳はタスク失敗と見なされる。",
+      "CN": "【开始翻译】",
+      "KR": "5. 翻訳間違いや重複は任务失敗。",
+      "TW": "【開始翻譯】"
     }
   },
   "! ! !": {
     "translation": "",
     "MultiLang": {
-      "US": "Alert! Alert! Alert!",
-      "JP": "!! !! !!",
+      "US": "!! ! !!",
+      "JP": "!! ! !",
       "CN": "",
       "KR": "",
-      "TW": "!! !! !!"
+      "TW": "!! ! !"
     }
   }
 }

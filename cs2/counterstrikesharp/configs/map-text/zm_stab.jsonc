@@ -3,10 +3,10 @@
     "translation": "",
     "MultiLang": {
       "US": "Weather: Night",
-      "JP": "天候:暗転",
+      "JP": "天候：夜",
       "CN": "天气：夜晚",
-      "KR": "기후: 밤이에요",
-      "TW": "天氣:夜間"
+      "KR": "",
+      "TW": "天氣: 黑夜"
     }
   },
   "天气:迷雾": {
@@ -15,7 +15,7 @@
       "US": "Weather: Fog",
       "JP": "天候:曇り",
       "CN": "天气：浓雾",
-      "KR": "대기: 수증기",
+      "KR": "날씨: 밀비우",
       "TW": "天氣:迷霧"
     }
   },
@@ -23,40 +23,40 @@
     "translation": "",
     "MultiLang": {
       "US": "Weather: Fog World",
-      "JP": "天候:霧の世界",
-      "CN": "天气：雾之世界",
-      "KR": "기상: 시인의 세계",
+      "JP": "天候：霧の世界",
+      "CN": "天气:雾世界",
+      "KR": "天氣:霧之世界",
       "TW": "天氣:霧之世界"
     }
   },
   "天气:风和日丽": {
     "translation": "",
     "MultiLang": {
-      "US": "Weather: Sunny with a gentle breeze",
-      "JP": "天候:風と日は良好です",
-      "CN": "天气:晴朗",
-      "KR": "날씨: 바람과 햇빛이 맞물린 상태",
+      "US": "Weather: Clear and calm",
+      "JP": "天候：風と日が静か",
+      "CN": "天气:风和日丽",
+      "KR": "날씨: 바람이 조용하고, 날이 선한",
       "TW": "天氣:風和日麗"
     }
   },
   "天气:暴雨": {
     "translation": "",
     "MultiLang": {
-      "US": "Weather: Downpour",
-      "JP": "天候:暴風雨",
-      "CN": "天气：暴风雨",
-      "KR": "기상: 폭우",
-      "TW": "天氣:暴風雨"
+      "US": "Weather: Heavy Rain",
+      "JP": "天候:激しい降雨",
+      "CN": "天气：狂风暴雨",
+      "KR": "날씨: 장마",
+      "TW": "天氣:豪雨"
     }
   },
   "天气:小雨": {
     "translation": "",
     "MultiLang": {
-      "US": "Weather: Light Rain",
-      "JP": "天候：小雨",
+      "US": "Weather: Light rain",
+      "JP": "天候:小雨",
       "CN": "天气:小雨",
-      "KR": "천기: 소우",
-      "TW": "天氣:小雨"
+      "KR": "날씨: 소강",
+      "TW": "天氣:中雨"
     }
   }
 }

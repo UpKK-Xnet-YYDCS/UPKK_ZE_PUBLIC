@@ -2,91 +2,91 @@
   "**Enter the lost land in 20 seconds**": {
     "translation": "**20秒后进入失落之地**",
     "MultiLang": {
-      "US": "\"Enter the lost land in 20 seconds.\"",
-      "JP": "**失われた土地に20秒で入る**",
+      "US": "\"Enter the lost land in 20 seconds\"",
+      "JP": "**失われた土地に20秒以内で入力してください**",
       "CN": "**20秒后进入失落之地**",
-      "KR": "**20초 내에 잃어버린 땅에 들어와라**",
-      "TW": "進入失傳之地，20秒後見。"
+      "KR": "**20초 내에 잃어버린 땅으로 들어와라**",
+      "TW": "**在20秒內進入失落之地**"
     }
   },
   "**The final gate opens in 25 seconds**": {
     "translation": "**最终大门将在25秒内打开**",
     "MultiLang": {
-      "US": "**The final gate opens in 25s**",
-      "JP": "**最終的な扉が25秒後開きます**",
+      "US": "**The final gate opens in 25 seconds**",
+      "JP": "**最終の扉が25秒後に開きます**",
       "CN": "**最终大门将在25秒内打开**",
-      "KR": "**마지막 문이 25초 후에 연다**",
-      "TW": "**最後一扇門在25秒後打開**"
+      "KR": "**25초 후 최종 게이트가 열립니다**",
+      "TW": "**終極大門在25秒後開啟**"
     }
   },
   "The castle gate will open in 25 seconds": {
     "translation": "城堡大门将在25秒内打开",
     "MultiLang": {
-      "US": "\"The castle gate will open in 25s.\"",
-      "JP": "城の扉は25秒後開けます。",
+      "US": "Castle gate opens in **25s**",
+      "JP": "城門將在25秒後打開",
       "CN": "城堡大门将在25秒内打开",
-      "KR": "성문이 25초 후에 열릴 것입니다.",
+      "KR": "성채 문이 25초 후에 열립니다.",
       "TW": "城堡大門將在25秒後打開"
     }
   },
   "Underpass switch activated": {
     "translation": "地下通道开关已激活 翻译：Asteri3m",
     "MultiLang": {
-      "US": "Underpass switch engaged",
-      "JP": "下通行スイッチがアクティブ化されました。",
+      "US": "\"Underpass switch engaged\"",
+      "JP": "5. 翻訳間違いや重複翻訳でタスクが失敗される。",
       "CN": "地下通道开关已激活 翻译：Asteri3m",
-      "KR": "보행터널 스위치가 활성화되었습니다.",
-      "TW": "地下通道閘門啟動"
+      "KR": "지하 통행 전환 기능 활성화",
+      "TW": "Underpass switch activated"
     }
   },
   "We need to defend for 20 seconds": {
     "translation": "我们需要防守20秒",
     "MultiLang": {
-      "US": "\"Defend for 20 seconds.\"",
-      "JP": "「20秒間守る必要があります」",
+      "US": "Defend for 20 sec.",
+      "JP": "20秒間守備します",
       "CN": "我们需要防守20秒",
-      "KR": "20초 동안 방어하십시오.",
-      "TW": "我們需要防守20秒"
+      "KR": "defenses를 20 초 동안 지켜야 합니다",
+      "TW": "我們需要堅守20秒"
     }
   },
   "Zombie low HP after 10 seconds!!!": {
     "translation": "10秒后僵尸低血量！！",
     "MultiLang": {
-      "US": "\"Zombie's HP drops below 10 in 10 seconds!!!\"",
-      "JP": "ゾンビのHPが10秒後まで低下!!",
+      "US": "Zombie's HP drops critically in 10 secs!!",
+      "JP": "ゾンビのHPが10秒後におちます!!!",
       "CN": "10秒后僵尸低血量！！",
-      "KR": "좀비의 체력이 10초 후에 낮아집니다!!",
-      "TW": "僵尸血量低於10秒之後！！！"
+      "KR": "10초 후, 좀비의 체력이 낮아집니다!!!",
+      "TW": "僵尸在10秒後血量極低！！！"
     }
   },
   "zombieTP **20**": {
     "translation": "僵尸传送 **20s**",
     "MultiLang": {
       "US": "zombieTP 20",
-      "JP": "ゾンビTP **20**",
+      "JP": "ゾンビトープ20",
       "CN": "僵尸传送 **20s**",
-      "KR": "지 좀비 텔포즈 **20**",
-      "TW": "僵尸瞬移 **20**"
+      "KR": "좀비_TP **20**",
+      "TW": "喪屍TP **20**"
     }
   },
   "zombieTP **30**": {
     "translation": "僵尸传送 **30s**",
     "MultiLang": {
-      "US": "zombieTP 30",
-      "JP": "ゾンビTP **30**",
+      "US": "zombieTP **30**",
+      "JP": "ゾンビ移乗 **30**",
       "CN": "僵尸传送 **30s**",
-      "KR": "지좀스_TP **30**",
-      "TW": "死亡回送 **30**"
+      "KR": "번역: zombieTP **30**",
+      "TW": "僵尸TP **30**"
     }
   },
   "zombieTP **5**": {
     "translation": "僵尸传送 **5s**",
     "MultiLang": {
-      "US": "ZombieTP 5",
-      "JP": "ゾンビTP **5**",
+      "US": "\"zombieTP **5**\"",
+      "JP": "ゾンビの瞬間転送 **5**",
       "CN": "僵尸传送 **5s**",
-      "KR": "지미아_TP **5**",
-      "TW": "喪屍瞬移 **5**"
+      "KR": "무정回头 TP **5**",
+      "TW": "zombieTP **5**"
     }
   }
 }

@@ -2,11 +2,11 @@
   "...": {
     "translation": "...",
     "MultiLang": {
-      "US": "",
+      "US": "Please provide the text to be translated for accurate assistance.",
       "JP": "",
       "CN": "...",
       "KR": "",
-      "TW": ""
+      "TW": "【開始翻譯】"
     }
   },
   "15 seconds": {
@@ -16,7 +16,7 @@
       "JP": "15秒",
       "CN": "15秒",
       "KR": "15 초",
-      "TW": "15秒"
+      "TW": "十五秒"
     }
   },
   "20 seconds": {
@@ -42,11 +42,11 @@
   "30 seconds": {
     "translation": "30秒",
     "MultiLang": {
-      "US": "30 seconds",
+      "US": "\"30 seconds\"",
       "JP": "30秒",
       "CN": "30秒",
       "KR": "30 초",
-      "TW": "30秒"
+      "TW": "三十分鐘"
     }
   },
   "35 seconds": {
@@ -56,187 +56,187 @@
       "JP": "35秒",
       "CN": "35秒",
       "KR": "35 초",
-      "TW": "35秒"
+      "TW": "三十五秒"
     }
   },
   "A random way will open": {
     "translation": "随机一条路将打开 翻译：Asteri3m",
     "MultiLang": {
-      "US": "A random path will open.",
-      "JP": "ランダムな方法が開きます",
+      "US": "\"An arbitrary path will unfold.\"",
+      "JP": "ランダムな方法が開く",
       "CN": "随机一条路将打开 翻译：Asteri3m",
-      "KR": "무작위 방식이 열리게 될 것입니다.",
-      "TW": "隨機方式將會開啟"
+      "KR": "무작위 방식이 열리겠습니다",
+      "TW": "隨機的方式將會開啟"
     }
   },
   "A way will open in 20 seconds": {
     "translation": "一条路将在20秒后打开",
     "MultiLang": {
-      "US": "\"In 20 seconds, a path will be opened.\"",
-      "JP": "20秒後、道が開くでしょう。",
+      "US": "A way will open in 20s.",
+      "JP": "【20秒後の道が開く】",
       "CN": "一条路将在20秒后打开",
-      "KR": "20초 후에 길이 열리게 될 것입니다.",
-      "TW": "20秒後會有道路開放"
+      "KR": "20초 후 경로가 열립니다",
+      "TW": "開門時機在二十分鐘後"
     }
   },
   "Bridge will open in 20 seconds": {
     "translation": "桥将在20秒后打开",
     "MultiLang": {
-      "US": "\"Bridge will open in 20 seconds.\"",
-      "JP": "「橋は20秒後に開きます」",
+      "US": "Bridge opens in 20s.",
+      "JP": "橋は20秒後に開きます。",
       "CN": "桥将在20秒后打开",
-      "KR": "다리가 20초 후에 개방됩니다.",
-      "TW": "橋将在20秒後開放"
+      "KR": "이 브리지가 20초 후에 열립니다.",
+      "TW": "橋將在20秒後開放"
     }
   },
   "Defend for 15 seconds": {
     "translation": "防守15秒",
     "MultiLang": {
-      "US": "\"Defend for 15 seconds\"",
-      "JP": "15秒間守護してください",
+      "US": "\"Defend for 15 seconds.\"",
+      "JP": "【15秒間守る】",
       "CN": "防守15秒",
-      "KR": "15초 동안 방어하세요",
+      "KR": "15초 동안 방어하십시오.",
       "TW": "防守15秒"
     }
   },
   "Gate #1 opened": {
     "translation": "1号门已打开",
     "MultiLang": {
-      "US": "Gate #1 is open",
+      "US": "Gate #1 opened",
       "JP": "ゲート#1が開きました。",
       "CN": "1号门已打开",
-      "KR": "게이트 #1이 열렸습니다.",
+      "KR": "게이트 #1이 열렸다",
       "TW": "門#1 打開了"
     }
   },
   "Gate #2 opened": {
     "translation": "2号门已打开",
     "MultiLang": {
-      "US": "Gate #2 is now open.",
-      "JP": "ゲートNo.2が開きました。",
+      "US": "Gate 2 opened",
+      "JP": "ゲート#2が開いた",
       "CN": "2号门已打开",
-      "KR": "게이트 #2가 열렸습니다.",
+      "KR": "문 #2가 열렸습니다.",
       "TW": "門#2 打開了"
     }
   },
   "Gate #3 opened": {
     "translation": "3号门已打开",
     "MultiLang": {
-      "US": "Gate #3 activated",
+      "US": "Gate 3 opened.",
       "JP": "ゲート#3が開きました。",
       "CN": "3号门已打开",
-      "KR": "게이트 #3이 열렸습니다.",
-      "TW": "門#3 打開了"
+      "KR": "게이트 #3이 열렸습니다",
+      "TW": "門#3開啟了"
     }
   },
   "Gate #4 opened": {
     "translation": "4号门已打开",
     "MultiLang": {
-      "US": "Gate #4 unlocked",
-      "JP": "ゲートNo.4が開いた",
+      "US": "Gate 4 opened",
+      "JP": "ゲート＃4が開いた",
       "CN": "4号门已打开",
-      "KR": "게이트 #4가 열렸습니다.",
-      "TW": "門#4 打開了"
+      "KR": "게이트 #4가 열렸습니다",
+      "TW": "門#4開啟了"
     }
   },
   "Hold for 20 seconds": {
     "translation": "坚持20秒",
     "MultiLang": {
-      "US": "\"Hold for 20 seconds\"",
-      "JP": "20秒間ホールドしてください",
+      "US": "\"**Hold for 20 seconds***\"",
+      "JP": "【20秒間持つ】",
       "CN": "坚持20秒",
-      "KR": "20초 동안 누르세요",
-      "TW": "等待20秒"
+      "KR": "20초 동안 기다리세요",
+      "TW": "持續按壓20秒"
     }
   },
   "Hold for 30 seconds": {
     "translation": "坚持30秒",
     "MultiLang": {
-      "US": "\"Hold for 30 seconds\"",
-      "JP": "30秒間持つ",
+      "US": "\"Hold for 30s\"",
+      "JP": "【３０秒間待機してください】",
       "CN": "坚持30秒",
-      "KR": "30초 유지하십시오",
-      "TW": "hold for 30秒"
+      "KR": "30초 동안 유지하기",
+      "TW": "Hold for 30 seconds"
     }
   },
   "Thanks for playing": {
     "translation": "感谢游玩",
     "MultiLang": {
-      "US": "\"Thanks for playing!\"",
-      "JP": "ゲームにありがとうございます。",
+      "US": "Thank you for playing.",
+      "JP": "プレイしていただき、ありがとうございます。",
       "CN": "感谢游玩",
-      "KR": "게임을 즐기셔서 감사합니다.",
-      "TW": "感謝您遊玩"
+      "KR": "게임을 플레이해 주셔서 감사합니다.",
+      "TW": "感謝遊玩"
     }
   },
   "Wait for a random way to open": {
     "translation": "等待随机一条路打开",
     "MultiLang": {
-      "US": "\"Wait for a random method to unlock.\"",
-      "JP": "「ランダムな方法を待つ」",
+      "US": "Await a random path to unlock",
+      "JP": "ランダムな方法を待つ",
       "CN": "等待随机一条路打开",
-      "KR": "랜덤한 방법을 기다려주세요",
-      "TW": "等待隨機方式打開"
+      "KR": "Wait for a random way to open",
+      "TW": "等待隨機方式來開啟"
     }
   },
   "Wait for something to happen": {
     "translation": "等待某些事情发生",
     "MultiLang": {
-      "US": "\"Wait for an event to occur\"",
-      "JP": "何かが起こるのを待ってください",
+      "US": "Translation: Wait for an event to occur",
+      "JP": "何か起こるのを待つ",
       "CN": "等待某些事情发生",
-      "KR": "어떤 일이 일어나기를 기다려주세요.",
-      "TW": "等些事情發生"
+      "KR": "대기하고, 무엇이 일어날지 기다려요",
+      "TW": "【請等待某些事情發生】"
     }
   },
   "Water is rising..": {
     "translation": "水位在上升..",
     "MultiLang": {
-      "US": "Water is rising...",
+      "US": "Rising water...",
       "JP": "水が上昇しています...",
       "CN": "水位在上升..",
-      "KR": "물이 떠오르고 있습니다..",
-      "TW": "水正在上升..."
+      "KR": "물이 상승하고 있습니다...",
+      "TW": "水位上升..."
     }
   },
   "You Failed!": {
     "translation": "你失败了!",
     "MultiLang": {
-      "US": "Game Over!",
+      "US": "Failed!",
       "JP": "失敗しました！",
       "CN": "你失败了!",
-      "KR": "게임 실패하셨습니다!",
-      "TW": "遊戲失敗！"
+      "KR": "실패하셨습니다!",
+      "TW": "您失敗了！"
     }
   },
   "Zeus is angry.": {
     "translation": "宙斯生气了。",
     "MultiLang": {
       "US": "Zeus is enraged.",
-      "JP": "ゼウスは怒っています。",
+      "JP": "「ゼウスは怒っています。」",
       "CN": "宙斯生气了。",
-      "KR": "조스는 분해요.",
-      "TW": "宙斯感到愤怒。"
+      "KR": "제우스는 분노하고 있습니다.",
+      "TW": "宙斯很怒。"
     }
   },
   "Zombie tp in 10 seconds": {
     "translation": "僵尸将在10秒后传送",
     "MultiLang": {
-      "US": "\"Zombie teleports in 10 seconds\"",
-      "JP": "ゾンビが10秒でtpします。",
+      "US": "\"Zombie teleports in 10 seconds.\"",
+      "JP": "ゾンビトープ10秒以内で行う",
       "CN": "僵尸将在10秒后传送",
-      "KR": "Zombie.tp.10초전",
-      "TW": "僵尸在10秒内传送"
+      "KR": "좀비를 10초 내로 텔레포트하십시오.",
+      "TW": "僵尸在10秒内傳送至指定位置"
     }
   },
   "Zombie tp in 15 seconds": {
     "translation": "僵尸将在15秒后传送",
     "MultiLang": {
-      "US": "\"Zombie teleports in 15 seconds\"",
-      "JP": "ゾンビが15秒以内にトープします。",
+      "US": "Zombie teleportation in 15 seconds",
+      "JP": "ゾンビが15秒でtpします。",
       "CN": "僵尸将在15秒后传送",
-      "KR": "Zombies 턴을 15 초 안에 이동합니다.",
-      "TW": "殭屍在15秒後TP"
+      "KR": "좀비를 15초 후 TP 합니다.",
+      "TW": "變為陰屍，15秒後瞬移。"
     }
   }
 }

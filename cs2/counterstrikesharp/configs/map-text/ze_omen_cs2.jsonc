@@ -3,7 +3,7 @@
     "translation": "* +500 *",
     "MultiLang": {
       "US": "| +500 |",
-      "JP": "| +500 |",
+      "JP": "| 500 **プラス**",
       "CN": "* +500 *",
       "KR": "| +500 |",
       "TW": "| 加500 |"
@@ -15,27 +15,27 @@
       "US": "| 10 SECONDS |",
       "JP": "| 10 秒 |",
       "CN": "* 10秒 *",
-      "KR": "| 10초 |",
-      "TW": "| 十秒 |"
+      "KR": "| 10 秒 |",
+      "TW": "十秒"
     }
   },
   "| 20 SECONDS |": {
     "translation": "* 20秒 *",
     "MultiLang": {
       "US": "| 20 SECONDS |",
-      "JP": "| 20 秒 |",
+      "JP": "| ２０秒 |",
       "CN": "* 20秒 *",
       "KR": "| 20 초 |",
-      "TW": "| 二十秒 |"
+      "TW": "| 20 SECONDS |"
     }
   },
   "| 30 SECONDS |": {
     "translation": "* 30秒 *",
     "MultiLang": {
       "US": "| 30 SECONDS |",
-      "JP": "| 30 秒 |",
+      "JP": "| 三十分秒 |",
       "CN": "* 30秒 *",
-      "KR": "| 30초 |",
+      "KR": "| 30 초 |",
       "TW": "| 三十秒 |"
     }
   },
@@ -46,17 +46,17 @@
       "JP": "| 40 秒 |",
       "CN": "* 40秒 *",
       "KR": "| 40 초 |",
-      "TW": "| 四十分鐘 |"
+      "TW": "| 四十秒 |"
     }
   },
   "| ADMIN KILL PRESSED |": {
     "translation": "* 管理员按下了全体击杀 *",
     "MultiLang": {
       "US": "| ADMIN KILL PRESSED |",
-      "JP": "| ADMIN KILL PRESSED |",
+      "JP": "| リーダーKILLが押された |",
       "CN": "* 管理员按下了全体击杀 *",
-      "KR": "| ADMIN KILL 누적함 |",
-      "TW": "| 管理員KILL被按下 |"
+      "KR": "| ADMINS ANNIHILATION PRESSED |",
+      "TW": "| ADMIN KILL PRESSED |"
     }
   },
   "| PASSAGE 1 SELECTED |": {
@@ -65,48 +65,48 @@
       "US": "| PASSAGE 1 SELECTED |",
       "JP": "| 1PASSAGE選択 |",
       "CN": "* 管理员已选择关卡1 *",
-      "KR": "| 패스지 1 선택됨 |",
-      "TW": "| 第一段選取完成 |"
+      "KR": "| 선택된 Passage 1 |",
+      "TW": "選擇了 Passage 1"
     }
   },
   "| PASSAGE 2 SELECTED |": {
     "translation": "* 管理员已选择关卡2 *",
     "MultiLang": {
       "US": "| PASSAGE 2 SELECTED |",
-      "JP": "| 2PASSAGEを選択しました |",
+      "JP": "| 2選択されました |",
       "CN": "* 管理员已选择关卡2 *",
-      "KR": "| PASSAGE 2 선택됨 |",
-      "TW": "|第二段落選取|"
+      "KR": "| 2번째 통행선 선택 |",
+      "TW": "| 評論2選取 |"
     }
   },
   "| PASSAGE 2 |": {
     "translation": "* 关卡2 *",
     "MultiLang": {
       "US": "| PASSAGE 2 |",
-      "JP": "| 2PASSAGE |",
+      "JP": "| 2部始まる |",
       "CN": "* 关卡2 *",
-      "KR": "| 2번째 통로 |",
-      "TW": "| 第2章 |"
+      "KR": "| 2부PASSAGE |",
+      "TW": "| 第二段落 |"
     }
   },
   "| PASSAGE 3 SELECTED |": {
     "translation": "* 管理员已选择关卡3 *",
     "MultiLang": {
       "US": "| PASSAGE 3 SELECTED |",
-      "JP": "| 3PASSAGEを選択しました |",
+      "JP": "| 3PASSAGE選択 |",
       "CN": "* 管理员已选择关卡3 *",
-      "KR": "| PASSED 3 선택됨 |",
-      "TW": "| 第三段已被選取 |"
+      "KR": "| 선택된 PATH 3 |",
+      "TW": "選取了第3段文字| Passage 3 Selected"
     }
   },
   "| PASSAGE 3 |": {
     "translation": "* 关卡3 *",
     "MultiLang": {
       "US": "| PASSAGE 3 |",
-      "JP": "| 3番目の通り |",
+      "JP": "| 3回目の通過 |",
       "CN": "* 关卡3 *",
-      "KR": "| 통과 3 |",
-      "TW": "| 第三段落 |"
+      "KR": "| 3부서 |",
+      "TW": "| 第三章 |"
     }
   },
   "| PROLOGUE |": {
@@ -115,8 +115,8 @@
       "US": "| PROLOGUE |",
       "JP": "| プロローグ |",
       "CN": "* 序章 翻译：Asteri3m *",
-      "KR": "| 프로logue |",
-      "TW": "| 序幕 |"
+      "KR": "| 프롤로그 |",
+      "TW": "【開始翻譯】"
     }
   }
 }

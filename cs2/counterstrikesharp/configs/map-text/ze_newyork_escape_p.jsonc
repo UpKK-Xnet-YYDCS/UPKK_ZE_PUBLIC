@@ -6,27 +6,27 @@
       "JP": "*** 1... ***",
       "CN": "***1...***",
       "KR": "*** 1... ***",
-      "TW": "三..."
+      "TW": "*** 1... ***"
     }
   },
   "*** 2... ***": {
     "translation": "***2...***",
     "MultiLang": {
-      "US": "*** 2... ***",
+      "US": "**2...**",
       "JP": "*** 2... ***",
       "CN": "***2...***",
       "KR": "*** 2... ***",
-      "TW": "兩...***"
+      "TW": "**2...**"
     }
   },
   "*** 3...  ***": {
     "translation": "***3...***",
     "MultiLang": {
-      "US": "*** 3... ***",
+      "US": "**3...**",
       "JP": "*** 3...  ***",
       "CN": "***3...***",
-      "KR": "*** 3... ***",
-      "TW": "****** 3... ******"
+      "KR": "**3...***",
+      "TW": "*** 3...  ***"
     }
   },
   "*** 4... ***": {
@@ -36,217 +36,217 @@
       "JP": "*** 4... ***",
       "CN": "***4...***",
       "KR": "*** 4... ***",
-      "TW": "*** 4... ***"
+      "TW": "**** 4... ****"
     }
   },
   "*** C4 Explode in 10 secs ***": {
     "translation": "***C4将在10秒后爆炸***",
     "MultiLang": {
-      "US": "*** C4 Explosion in 10 seconds ***",
-      "JP": "*** C4爆発までの残り時間 10秒 ***",
+      "US": "*** C4 will explode in 10 seconds ***",
+      "JP": "*** C4爆発までの残り時間10秒です ***",
       "CN": "***C4将在10秒后爆炸***",
-      "KR": "*** C4 10초 후 폭발 ***",
-      "TW": "*** C4 爆炸倒數10秒 ***"
+      "KR": "*** C4 10초 후 폭발합니다 ***",
+      "TW": "**C4爆破倒計時10秒***"
     }
   },
   "*** C4 Explode in 20 secs ***": {
     "translation": "***C4将在20秒后爆炸***",
     "MultiLang": {
-      "US": "*** C4 Explosión en 20 segundos ***",
-      "JP": "",
+      "US": "C4 explosion in **20 seconds** ***",
+      "JP": "** *C4爆発まで残り20秒です*** **",
       "CN": "***C4将在20秒后爆炸***",
-      "KR": "*** C4 폭발까지 20 초가 남음 ***",
-      "TW": "爆破倒數20秒...C4 *** 在20秒後爆炸 ***"
+      "KR": "**C4 폭발까지 20초가 남았습니다** ***",
+      "TW": "**C4炸毀倒數20秒**"
     }
   },
   "*** C4 Explode in 40 secs ***": {
     "translation": "***C4将在40秒后爆炸***",
     "MultiLang": {
-      "US": "*** C4 Detonates in 40 sec ***",
-      "JP": "*** C4 の爆発が40秒後です ***",
+      "US": "**C4 Explosion in 40 secs**",
+      "JP": "** *C4爆発までの残り40秒*** **",
       "CN": "***C4将在40秒后爆炸***",
-      "KR": "*** C4 폭발까지 40초가 남았습니다 ***",
-      "TW": "**** C4 選擇在 40 秒後爆炸 ****"
+      "KR": "*** C4 폭발까지 40 초가 남았습니다 ***",
+      "TW": "*** C4 選定於40秒後引爆 ***"
     }
   },
   "*** C4 Explode in 5 secs ***": {
     "translation": "***C4将在5秒后爆炸***",
     "MultiLang": {
-      "US": "*** C4 Detonates in 5 secs ***",
-      "JP": "*** C4 の爆発までの残り時間 5秒です ***",
+      "US": "**C4 Explosion in 5 seconds***",
+      "JP": "**C4爆発までの残り5秒です***",
       "CN": "***C4将在5秒后爆炸***",
       "KR": "*** C4 폭발까지 5초 남음 ***",
-      "TW": "爆破倒數5秒...C4 即將引爆！"
+      "TW": "**C4爆破倒數5秒***"
     }
   },
   "*** Damn this shit is heavy.... ***": {
     "translation": "***该死，这东西真重....***",
     "MultiLang": {
-      "US": "*** Damn, this stuff is heavy... ***",
-      "JP": "*** これが重い... これは大変だ... ***",
+      "US": "*** Damn this shit is heavy.... ***",
+      "JP": "** これは重いんだよ... **",
       "CN": "***该死，这东西真重....***",
-      "KR": "*** 이건 엄청 무거워... ***",
-      "TW": "難道這東西很重嗎...... ***"
+      "KR": "*** 이건 거북이야... ***",
+      "TW": "**這他媽的東西好重...**"
     }
   },
   "*** Door's are Open ***": {
     "translation": "***门已打开***",
     "MultiLang": {
-      "US": "*** Doors are Open ***",
-      "JP": "*** ガードが開いた ***",
+      "US": "**Door's are Open***",
+      "JP": "*** ドアの扉は開かれています ***",
       "CN": "***门已打开***",
-      "KR": "*** 문이 열려 있습니다 ***",
-      "TW": "門都打開了***"
+      "KR": "** Door's are Open **",
+      "TW": "**門都敞開了**"
     }
   },
   "*** Fall back ! ***": {
     "translation": "***撤退！***",
     "MultiLang": {
-      "US": "*** Retreat! ***",
+      "US": "Fall back! ***",
       "JP": "*** 戦線後退！***",
       "CN": "***撤退！***",
-      "KR": "*** 후퇴하십시오! ***",
-      "TW": "回防！"
+      "KR": "*** 후퇴하라! ***",
+      "TW": "**回防！**"
     }
   },
   "*** Get to the Choppa !!! ***": {
     "translation": "***快上直升机！！！***",
     "MultiLang": {
-      "US": "\"Get to the choppa!!!\"",
-      "JP": "*** チップまで到達してください!!! ***",
+      "US": "*** Get to the Choppa !!! ***",
+      "JP": "*** キャッチャーパラシュートに到達してください !!! ***",
       "CN": "***快上直升机！！！***",
-      "KR": "*** 체포하는 거북이까지 가세요 !!! ***",
-      "TW": "達成目標，找到直升機！！！"
+      "KR": "*** 체카인 청하!! ***",
+      "TW": "***衝向救生車!!! ***"
     }
   },
   "*** Hold this position for a few seconds... ***": {
     "translation": "***坚守这个位置几秒钟...***",
     "MultiLang": {
       "US": "*** Hold this position for a few seconds... ***",
-      "JP": "*** この位置を数秒間持つこと... ***",
+      "JP": "** 以下のルールを絶対に守ってください... **",
       "CN": "***坚守这个位置几秒钟...***",
-      "KR": "이 위치를 몇 초 동안 유지하세요...",
-      "TW": "**保持這個位置幾秒鐘...**"
+      "KR": "*** 이 위치에서几초간 유지하세요... ***",
+      "TW": "請保持這個位置幾秒鐘...***"
     }
   },
   "*** It seems that the helicopter is damaged ***": {
     "translation": "***似乎直升机受损了***",
     "MultiLang": {
-      "US": "*** The chopper appears to be broken ***",
-      "JP": "*** チopperが損傷しているようです ***",
+      "US": "*** The helicopter appears to be damaged ***",
+      "JP": "*** 直升機が壊れているようです ***",
       "CN": "***似乎直升机受损了***",
-      "KR": "*** 헬리콥터가 손상받은 것 같습니다 ***",
-      "TW": "飛機駕駛座艙似乎有損傷。"
+      "KR": "*** 수송기에는 손상이 보입니다 ***",
+      "TW": "* 看來直升機遭到損傷 *"
     }
   },
   "*** Map by ziomekYOYO ***": {
     "translation": "***地图作者：ziomekYOYO 翻译：Asteri3m***",
     "MultiLang": {
-      "US": "*** Map by ziomekYOYO ***",
-      "JP": "*** マップby ziomekYOYO ***",
+      "US": "Map by ziomekYOYO ***",
+      "JP": "*** 地図をziomekYOYOが制作しました ***",
       "CN": "***地图作者：ziomekYOYO 翻译：Asteri3m***",
-      "KR": "지도는 ziomekYOYO가 제작하였습니다.",
-      "TW": "** 地圖由ziomekYOYO製作 **"
+      "KR": "*** 지움키YOYO의 맵 ***",
+      "TW": "*** 地圖由 ziomekYOYO 制作 ***"
     }
   },
   "*** Run to the Roof !!! ***": {
     "translation": "***跑向屋顶！！！***",
     "MultiLang": {
       "US": "*** Run to the Roof !!! ***",
-      "JP": "*** 屋根に走って!! ***",
+      "JP": "*** 屋顶に走って！！！ ***",
       "CN": "***跑向屋顶！！！***",
-      "KR": "*** 지붕으로 달려와!!! ***",
-      "TW": "登頂！！！"
+      "KR": "**.Run to the Roof !!!**",
+      "TW": "頂樓跑起來！！！***"
     }
   },
   "*** Stair is blocked ***": {
     "translation": "***楼梯被堵住***",
     "MultiLang": {
       "US": "*** Stair is blocked ***",
-      "JP": "*** ステップがブロックされています ***",
+      "JP": "***階段がブロックされています***",
       "CN": "***楼梯被堵住***",
-      "KR": "*** 계단이 차단되었습니다 ***",
-      "TW": "*** 橫木被擋住了 ***"
+      "KR": "*** 계단이 막혀있어 ***",
+      "TW": "*** 橫向階梯被堵住 ***"
     }
   },
   "*** The door will open for 30 secs ***": {
     "translation": "***门将在30秒后打开***",
     "MultiLang": {
       "US": "*** The door will open for 30 secs ***",
-      "JP": "*** ドアは30秒間開きます ***",
+      "JP": "*** ドアは30秒間開くでしょう***",
       "CN": "***门将在30秒后打开***",
       "KR": "*** 문이 30초 동안 열립니다 ***",
-      "TW": "門將於30秒後打開。"
+      "TW": "門將在30秒後打開。*** 設置完成 ***"
     }
   },
   "*** The elevator is broken go upstairs ***": {
     "translation": "***电梯坏了，快上楼***",
     "MultiLang": {
-      "US": "**The elevator is down. Go up the stairs.**",
-      "JP": "エレベーターが壊れています、stairsへ行けます。",
+      "US": "*** Elevator is broken, go upstairs ***",
+      "JP": "*** 電気昇降機が壊れています、上階へ行ってください ***",
       "CN": "***电梯坏了，快上楼***",
-      "KR": "*** 엘리베이터가 고장난다. 올라와라. ***",
-      "TW": "電梯壞了，請上樓梯通行。"
+      "KR": "*** 엘리베이터가坏了 가고 위로 가세요 ***",
+      "TW": "***電梯壞了，去樓上走著去***"
     }
   },
   "*** Train doors are Open ! ***": {
     "translation": "***火车门已打开！***",
     "MultiLang": {
-      "US": "*** Train Doors Are Open! ***",
-      "JP": "*** チューダーズは開かれています！***",
+      "US": "*** Train doors are Open ! ***",
+      "JP": "*** チューリップの扉は開いた！***",
       "CN": "***火车门已打开！***",
-      "KR": "트레인 문이 오픈 되었습니다!",
-      "TW": "*** 車門已打開！***"
+      "KR": "***열차 문이 열렸어요!***",
+      "TW": "***火車門開了！***"
     }
   },
   "*** Train doors will open in 40 secs ***": {
     "translation": "***火车门将在40秒后打开***",
     "MultiLang": {
       "US": "*** Train doors will open in 40 secs ***",
-      "JP": "*** 列車のドアは40秒後開きます ***",
+      "JP": "** *40秒後、トレインのドアが開きます*** **",
       "CN": "***火车门将在40秒后打开***",
-      "KR": "*** 40초 후에 열차 문이 열리겠습니다 ***",
-      "TW": "*** 列車門將在40秒後打開 ***"
+      "KR": "*** 열차의 문이 40초 후에 개방됩니다 ***",
+      "TW": "*** 列車門將於40秒後開啟 ***"
     }
   },
   "*** Welcome in New York City Zombie Escape ***": {
     "translation": "***欢迎来到New York City僵尸逃跑***",
     "MultiLang": {
       "US": "*** Welcome to New York City Zombie Escape ***",
-      "JP": "*** 新しいヨーロッパゾンビエスカープ欢迎您***",
+      "JP": "***ニューヨークシティゾンビエスカープへようこそ***",
       "CN": "***欢迎来到New York City僵尸逃跑***",
-      "KR": "*** 신어크 시티를 비롯한紐오 브라인드에 오신 것을 환영합니다 -뉴욕시티 헤이스터 이브 ***",
-      "TW": "*** 欢迎進入紐約市殭屍逃亡 ***"
+      "KR": "(Note: \"Welcome\" in Korean could be translated as \"어서오세요\", but since the text style is informal and game-oriented, I chose a more casual translation.)",
+      "TW": "*** 欢迎来到紐約市解圍 ***"
     }
   },
   "*** You have to go down to the subway ***": {
     "translation": "***你必须到地铁***",
     "MultiLang": {
-      "US": "**You must descend to the underground station.**",
-      "JP": "*** 駅まで下りてください ***",
+      "US": "*** You must go down to the subway ***",
+      "JP": "*** あなたには地下鉄に降りる必要があります ***",
       "CN": "***你必须到地铁***",
-      "KR": "*** 당신은 지하철을 내려가야 합니다 ***",
-      "TW": "*** 需要下去到地鐵站***"
+      "KR": "***汝는 지하철로 가야 한다***",
+      "TW": "*** 您必須前往地鐵站 ***"
     }
   },
   "*** You need stay close to the elevator doors to open it... ***": {
     "translation": "***你需要靠近电梯门才能打开它...***",
     "MultiLang": {
-      "US": "*** You must stay near the elevator doors for them to open... ***",
-      "JP": "*** 電子部屋の扉を開けるには、エレベーターのドアに近いところにいることを確認してください… ***",
+      "US": "*** Stay close to the elevator doors to open them... ***",
+      "JP": "*** エレベーターの扉を開くには、近くで待つ必要があります... ***",
       "CN": "***你需要靠近电梯门才能打开它...***",
-      "KR": "*** 엘리베이터 문을 열기 위해서는 문에 근접해야 합니다... ***",
-      "TW": "*** 您需要待在電梯門口附近才能打開它... ***"
+      "KR": "*** 당신은 엘리베이터 문을 열기 위해 가까워야 합니다... ***",
+      "TW": "你需要靠近電梯門以打開它...***"
     }
   },
   "*** You need to Activate C4 !!! ***": {
     "translation": "***你需要引爆C4！！！***",
     "MultiLang": {
-      "US": "*** You must activate C4!!! ***",
-      "JP": "*** キャンブレイクC4をアクティブ化する必要があります！！！***",
+      "US": "*** Activate C4 !!! ***",
+      "JP": "**君にはC4をアクティブにする必要がある！**",
       "CN": "***你需要引爆C4！！！***",
-      "KR": "*** 당신은 C4를 활성화하셔야 합니다!!! ***",
-      "TW": "啟動C4!!!"
+      "KR": "***汝는 C4를 활성화해야 합니다!!! ***",
+      "TW": "你需要激活C4！！！***"
     }
   }
 }

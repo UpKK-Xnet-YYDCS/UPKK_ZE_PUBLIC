@@ -3,80 +3,80 @@
     "translation": "<<< 地图作者：=LIROY= 翻译：Asteri3m >>>",
     "MultiLang": {
       "US": "<<< MAP BY =LIROY= >>>",
-      "JP": "<<< マップ由来 =LIROY= >>>",
+      "JP": "MAP BY =LIROY= <<<",
       "CN": "<<< 地图作者：=LIROY= 翻译：Asteri3m >>>",
-      "KR": "<<< 맵 제작자 =LIROY= >>>",
-      "TW": "<Map 创造者 =LIROY= >"
+      "KR": "<<< 맵 만든 사람 =LIROY= >>>",
+      "TW": "<<< 地圖由 =LIROY= 创作 >>>"
     }
   },
   "<<< YOU MUST KILL ALL ZOMBIES ! >>>": {
     "translation": "<<<你必须杀死所有僵尸！>>>",
     "MultiLang": {
       "US": "<<< YOU MUST KILL ALL ZOMBIES ! >>>",
-      "JP": "<< ゾンビを全員殺す必要があります！ >>>",
+      "JP": "<<< すべてのゾンビを殺しなさい！ >>>",
       "CN": "<<<你必须杀死所有僵尸！>>>",
-      "KR": "<<< 모든 좀비를 죽여야 합니다! >>>",
-      "TW": "<< 必須幹掉所有殭屍！>>>)"
+      "KR": "<<<汝는 모든 좀비를 죽이지 않으면 안 된다! >>>",
+      "TW": "<<< 你必須擊殺所有喪尸！！ >>>"
     }
   },
   "BOSS USE ELECTRO !!!": {
     "translation": "5秒，BOSS使用电，蹲下！！！",
     "MultiLang": {
       "US": "BOSS USE ELECTRO !!!",
-      "JP": "ボスがエレクトロを使用する！！！",
+      "JP": "ボスがエレクトを使用する!!!",
       "CN": "5秒，BOSS使用电，蹲下！！！",
-      "KR": "보스가 전기를 사용하네!",
-      "TW": "Boss 使用電能!!!"
+      "KR": "보스가 전기 사용!!!",
+      "TW": "Boss uses electro!!"
     }
   },
   "BOSS USE LASERS !!!": {
     "translation": "5秒，BOSS使用跳刀！！！",
     "MultiLang": {
       "US": "BOSS USE LASERS !!!",
-      "JP": "ボスがラzersを使用します！！！",
+      "JP": "ボスがラasersを使用する!!!",
       "CN": "5秒，BOSS使用跳刀！！！",
       "KR": "보스가 레이저를 사용합니다!!!",
-      "TW": "BOSS 使用雷射！！！"
+      "TW": "Boss 使用雷射！！！"
     }
   },
   "BOSS USE WIND !!!": {
     "translation": "5秒，BOSS使用风！！！",
     "MultiLang": {
       "US": "BOSS USE WIND !!!",
-      "JP": "ボスが風を用い！！！",
+      "JP": "ボスが風を使用する！！！",
       "CN": "5秒，BOSS使用风！！！",
-      "KR": "보스가 바람을 사용하네!!!",
-      "TW": "BOSS 使用風力！！！"
+      "KR": "보스가 바람을 사용한다!!!",
+      "TW": "Boss 使用風暴！！！"
     }
   },
   "DEFEND ZOMBIES FOR 40 SEC": {
     "translation": "防守僵尸40秒",
     "MultiLang": {
       "US": "DEFEND ZOMBIES FOR 40 SEC",
-      "JP": "ゾンビを防御するための40秒",
+      "JP": "ゾンビを防ごう、40秒間！",
       "CN": "防守僵尸40秒",
-      "KR": "주어진 시간 내에 좀비를 방어하세요. (Defend zombies for 40 sec.)",
-      "TW": "捍衛殭屍40秒"
+      "KR": "40초 동안 좀비를 방어하십시오.",
+      "TW": "守殭屍40秒"
     }
   },
   "DOOR OPENING IN 20 SEC": {
     "translation": "门将在20秒后打开",
     "MultiLang": {
       "US": "DOOR OPENING IN 20 SEC",
-      "JP": "ドア開き開始 20秒後",
+      "JP": "ドアが20秒後に開く",
       "CN": "门将在20秒后打开",
       "KR": "문이 20초 후에 열립니다.",
-      "TW": "門於20秒後打開"
+      "TW": "門開啟計時 20 秒"
     }
   },
   "DOOR OPENING IN 30 SEC": {
     "translation": "门将在30秒后打开",
     "MultiLang": {
       "US": "DOOR OPENING IN 30 SEC",
-      "JP": "ドアが開くまでの30秒",
+      "JP": "ドアが開くまで30秒です。",
       "CN": "门将在30秒后打开",
-      "KR": "30초 후 문이 열립니다.",
-      "TW": "門在30秒後打開"
+      "KR": "문이 30초 후에 열릴 것입니다.",
+      "TW": "門在30秒後開啟"
     }
   },
   "DOOR OPENING IN 40 SEC": {
@@ -85,15 +85,15 @@
       "US": "DOOR OPENING IN 40 SEC",
       "JP": "ドアが40秒後に開きます。",
       "CN": "门将在40秒后打开",
-      "KR": "문이 40초 후에 열립니다.",
-      "TW": "門在40秒後打開"
+      "KR": "扉が40秒後に開きます。",
+      "TW": "門開啟倒數40秒"
     }
   },
   "DOOR OPENING IN 60 SEC": {
     "translation": "门将在60秒后打开",
     "MultiLang": {
       "US": "DOOR OPENING IN 60 SEC",
-      "JP": "ドアが60秒後に開きます。",
+      "JP": "ドアは60秒後開きます。",
       "CN": "门将在60秒后打开",
       "KR": "문이 60초 후에 열립니다.",
       "TW": "門在60秒後打開"
@@ -105,8 +105,8 @@
       "US": "LOOK DOWN !!!!",
       "JP": "見下ろす！！！",
       "CN": "5秒，向下看！！！",
-      "KR": "다운 봐! !!!",
-      "TW": "向下看！！！"
+      "KR": "조망하라 !!!!!!",
+      "TW": "查看下方！！！"
     }
   },
   "LOOK UP !!!!": {
@@ -115,17 +115,17 @@
       "US": "LOOK UP !!!!",
       "JP": "見上げろ！！！",
       "CN": "5秒，向上看！！！",
-      "KR": "다음으로 쳐오세요!!!",
-      "TW": "往上看！！！"
+      "KR": "조망해라 !!!!\"",
+      "TW": "抬頭！！！"
     }
   },
   "SURVIVE 70 SEC": {
     "translation": "生存70秒",
     "MultiLang": {
       "US": "SURVIVE 70 SEC",
-      "JP": "サバイブ 70 秒",
+      "JP": "SURVIVE 70 SEC",
       "CN": "生存70秒",
-      "KR": "생존 70초",
+      "KR": "70초 생존하기",
       "TW": "存活70秒"
     }
   },
@@ -135,8 +135,8 @@
       "US": "ZOMBIES ARE GONE ! GO TO THE DOOR !",
       "JP": "ゾンビは消えた！ドアに行け！",
       "CN": "僵尸消失了！去门那里！",
-      "KR": "좀비들은 사라졌어! 문으로 가세요!",
-      "TW": "活死人已被清除！前往門口！"
+      "KR": "ゾンビはいなくなった！ドアへ行け！",
+      "TW": "喪尸已經消失！前往門口！"
     }
   }
 }

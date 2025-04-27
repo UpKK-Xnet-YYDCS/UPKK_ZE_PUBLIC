@@ -3,59 +3,59 @@
     "translation": "!!! 僵尸在 10 秒后传送 !!!",
     "MultiLang": {
       "US": "!!! ZOMBIES TELEPORT IN 10 SECONDS !!!",
-      "JP": "!!! 離れたゾンビが10秒後に瞬間移動します !!!",
+      "JP": "!! 離る Zombies が 10 秒後にテレポートする !!",
       "CN": "!!! 僵尸在 10 秒后传送 !!!",
-      "KR": "!!! 좀비들이 10초 후에 teleport됩니다 !!!",
-      "TW": "!! 離開10秒後，喪屍瞬移!!"
+      "KR": "!!! 좀비들이 10초 후에 텔레포트됩니다 !!!",
+      "TW": "!! 敘鬼在十秒內傳送到 !!"
     }
   },
   "!!! ZOMBIES TELEPORT IN 5 SECONDS !!!": {
     "translation": "!!! 僵尸在 5 秒后传送 !!!",
     "MultiLang": {
       "US": "!!! ZOMBIES TELEPORT IN 5 SECONDS !!!",
-      "JP": "!!!ゾンビが5秒後にテレポートします！！！",
+      "JP": "!!ゾンビス移動開始5秒後!!",
       "CN": "!!! 僵尸在 5 秒后传送 !!!",
-      "KR": "!!! 죽음의 영plorer 5초 후 전송 !!!",
-      "TW": "!! 離奇屍體現5秒後!!"
+      "KR": "!! 쓰ramid 이터레이트 됨 5초 뒤 !!",
+      "TW": "!! 離開5秒後出現喪尸 !!"
     }
   },
   ">>> CRATES BREAK IN 15 SECONDS <<<": {
     "translation": ">>> 板条箱在 15 秒后被打破 <<<",
     "MultiLang": {
       "US": ">>> CRATES BREAK IN 15 SECONDS <<<",
-      "JP": ">>> 15秒後、ケースが壊れます<<<",
+      "JP": ">>> 15秒後にCRATESが破壊されます <<<",
       "CN": ">>> 板条箱在 15 秒后被打破 <<<",
-      "KR": ">>> 15초 후 상자 깨집니다 <<<",
-      "TW": ">>> 15秒後木箱被打破<<<"
+      "KR": ">> 15초 후 상자 깨짐 <<<",
+      "TW": ">>> 原始寶箱在15秒後被打破 <<<"
     }
   },
   ">>> DOOR BREAKS IN 10 SECONDS <<<": {
     "translation": ">>> 门在 10 秒后被打破 <<<",
     "MultiLang": {
       "US": ">>> DOOR BREAKS IN 10 SECONDS <<<",
-      "JP": ">>> ウインドウが10秒後に破れます<<<",
+      "JP": ">>> ドアは10秒後に破られます <<<",
       "CN": ">>> 门在 10 秒后被打破 <<<",
-      "KR": "<<< 10초 후 문이 깨집니다 >>>",
-      "TW": ">>> 門在10秒後被打破<<<"
+      "KR": ">>> 문이 10 초 후에 깨집니다 <<<",
+      "TW": "門在10秒後被破壞。"
     }
   },
   ">>> DOOR BREAKS IN 20 SECONDS <<<": {
     "translation": ">>> 门在 20 秒后被打破 <<<",
     "MultiLang": {
       "US": ">>> DOOR BREAKS IN 20 SECONDS <<<",
-      "JP": "ドアが20秒後に壊れます<<<",
+      "JP": ">>>ドア破壊まで20秒<<<",
       "CN": ">>> 门在 20 秒后被打破 <<<",
-      "KR": ">>> 문이 20초 후에 깨집니다 <<<",
-      "TW": ">>> 門在20秒後會破碎<<<"
+      "KR": ">>> 문이 20초 후에 파괴됩니다 <<<",
+      "TW": ">>> 門在20秒內被破壞<<<"
     }
   },
   ">>> FINAL DOOR CLOSES IN 15 SECONDS <<<": {
     "translation": ">>> 最后一扇门在 15 秒后关闭 <<<",
     "MultiLang": {
       "US": ">>> FINAL DOOR CLOSES IN 15 SECONDS <<<",
-      "JP": ">>> 最終ドアは15秒後で閉まります<<<",
+      "JP": ">>> 最終ドアは15秒後に閉まります <<<",
       "CN": ">>> 最后一扇门在 15 秒后关闭 <<<",
-      "KR": ">>> 최종 문이 15초 후로 닫힙니다 <<<",
+      "KR": ">>> 최종 문이 15초 후에 닫힙니다 <<<",
       "TW": ">>> 最終大門在15秒後關閉 <<<"
     }
   },
@@ -63,59 +63,59 @@
     "translation": ">>> 最后一扇门在 20 秒后打开 <<<",
     "MultiLang": {
       "US": ">>> FINAL DOOR OPENS IN 20 SECONDS <<<",
-      "JP": "最終ドアが20秒後に開く予告 <<<",
+      "JP": ">>> 最終ドアが20秒後開きます<<<",
       "CN": ">>> 最后一扇门在 20 秒后打开 <<<",
-      "KR": ">> 최종 문이 20초 후에 열리게 됩니다 <<",
-      "TW": "最終之門開啟倒數，剩餘時間：20秒"
+      "KR": ">>> 최종문扉가 20초 후에 열리겠어 <<<",
+      "TW": ">> 最終大門在20秒後打開 <<<"
     }
   },
   ">>> GATE BREAKS IN 20 SECONDS <<<": {
     "translation": ">>> 门在 20 秒后被打破 <<<",
     "MultiLang": {
       "US": ">>> GATE BREAKS IN 20 SECONDS <<<",
-      "JP": "ゲートブレイクイン 20秒後 <<<",
+      "JP": ">> ガートが20秒以内に破壊されます <<",
       "CN": ">>> 门在 20 秒后被打破 <<<",
-      "KR": ">>> 문이 20초 후에 깨집니다 <<<",
-      "TW": ">> 大門在20秒後被破壞 <<"
+      "KR": ">>ゲートブレイクスイン20秒<<",
+      "TW": ">>> 邊界在20秒後入侵 <<<"
     }
   },
   ">>> GATE BREAKS IN 30 SECONDS <<<": {
     "translation": ">>> 门在 30 秒后被打破 <<<",
     "MultiLang": {
       "US": ">>> GATE BREAKS IN 30 SECONDS <<<",
-      "JP": ">>> ゲートは30秒後に破壊されます <<<",
+      "JP": ">>> ゲートが30秒以内で破られる<<<",
       "CN": ">>> 门在 30 秒后被打破 <<<",
-      "KR": ">>> 30초 후 문이 깬다 <<<",
-      "TW": ">>> 門口在30秒後被打破 <<<"
+      "KR": "<<< 30초 후 문이 깨질 수 있습니다 >>>",
+      "TW": ">>> 場門在30秒後入侵 <<<"
     }
   },
   ">>> SEWER COVER BREAKS IN 15 SECONDS <<<": {
     "translation": ">>> 下水道盖在 15 秒后被打破 <<<",
     "MultiLang": {
       "US": ">>> SEWER COVER BREAKS IN 15 SECONDS <<<",
-      "JP": ">>> 15秒後に汚水溝の蓋が破損します<<<",
+      "JP": "<<< １５秒後に下水口が壊れます >>>",
       "CN": ">>> 下水道盖在 15 秒后被打破 <<<",
-      "KR": ">>> 15초 후에 하수구판이 깨질 수 있습니다 <<<",
-      "TW": "污水蓋在15秒後破裂。"
+      "KR": ">> 15초 후, 배수구가 파괴됩니다 <<",
+      "TW": "地下溝蓋在15秒後破壞。<<<"
     }
   },
   "MAP BY MIDRAN KIDRAN": {
     "translation": "地图作者：MIDRAN KIDRAN 翻译：Ayanami♪",
     "MultiLang": {
       "US": "MAP BY MIDRAN KIDRAN",
-      "JP": "マップ ミッドラン・キドラン製",
+      "JP": "MAP BY MIDRAN KIDRAN",
       "CN": "地图作者：MIDRAN KIDRAN 翻译：Ayanami♪",
-      "KR": "맵BY MIDRAN KIDRAN",
-      "TW": "地圖由 MIDRAN KIDRAN 設計"
+      "KR": "맵 by 미드란 키드란",
+      "TW": "地圖由 MIDRAN KIDRAN 創制"
     }
   },
   "SPECIAL THANKS TO MAPEADORES FOR TESTING": {
     "translation": "特别感谢 MAPEADORES 进行测试",
     "MultiLang": {
       "US": "SPECIAL THANKS TO MAPEADORES FOR TESTING",
-      "JP": "マペアドーカにテストをしていただき、特別に感謝します。",
+      "JP": "【特別感謝：マペアドーゼテスト者に】",
       "CN": "特别感谢 MAPEADORES 进行测试",
-      "KR": "게임에 참여하여 테스트해 주신 MAPEADORES에게 특별히 감사드립니다.",
+      "KR": "SPECIAL THANKS TO MAPEADORES FOR TESTING",
       "TW": "特別感謝MAPEADORES進行測試"
     }
   },
@@ -123,10 +123,10 @@
     "translation": ">>> 门在 20 秒后打开 <<<",
     "MultiLang": {
       "US": ">>> GATE OPENS IN 20 SECONDS <<<",
-      "JP": "ゲートが20秒後に開きます。",
+      "JP": ">>> 20秒後にゲートが開く<<<",
       "CN": ">>> 门在 20 秒后打开 <<<",
-      "KR": "<<< 20초 후 게이트가 열립니다 >>>",
-      "TW": ">>> 大門在20秒後開啟 <<<"
+      "KR": ">>> 20초 후 문이 열립니다 <<<",
+      "TW": "開關在二十秒後打開 <<<"
     }
   }
 }

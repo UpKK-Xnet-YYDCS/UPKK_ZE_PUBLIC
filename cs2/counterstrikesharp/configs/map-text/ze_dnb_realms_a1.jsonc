@@ -2,221 +2,221 @@
   ">> A portal will be created soon or late <<": {
     "translation": ">>传送门即将开启<<",
     "MultiLang": {
-      "US": ">> A portal will open shortly or later <<",
-      "JP": ">>> ウォールドを生成する予定です、早く或いは遅く <<<",
+      "US": ">> A portal will be created either soon or later <<",
+      "JP": ">> 近くまたは遅くして不久にドアポートが作成されます <<",
       "CN": ">>传送门即将开启<<",
-      "KR": ">> 가까운或将来的히 게이트가 생성될 것입니다. <<",
-      "TW": ">> 很快或遲後會創建一個門戶<<"
+      "KR": ">> 가까운或将来的에 문이 만들어질 것입니다 <<",
+      "TW": ">> 很快或迟後會創建一個門口 <<"
     }
   },
   ">> C4 exploding in 10 sec <<": {
     "translation": ">>C4将在10秒后爆炸<<",
     "MultiLang": {
-      "US": ">> C4 will explode in 10 seconds <<",
-      "JP": ">C4 爆発まで残り10秒<<",
+      "US": ">> C4 explosion in 10 seconds <<",
+      "JP": ">> 10秒後にC4が爆発します <<",
       "CN": ">>C4将在10秒后爆炸<<",
-      "KR": ">> 10초 후에 C4가 폭발합니다 <<",
-      "TW": "爆炸倒數10秒>>>C4啟動中<<"
+      "KR": ">> 10초 후 C4 폭발 <<",
+      "TW": ">> C4 將在 10 秒後爆炸 <<"
     }
   },
   ">> C4 exploding in 30 sec<<": {
     "translation": ">>C4将在30秒后爆炸<<",
     "MultiLang": {
-      "US": ">> C4 will explode in 30 seconds <<",
-      "JP": ">C4が30秒後爆発します<<<",
+      "US": ">> C4 explosion in 30 seconds <<",
+      "JP": ">> 30秒後C4爆発する<<",
       "CN": ">>C4将在30秒后爆炸<<",
-      "KR": ">> 30초 후 C4 폭발합니다<<",
-      "TW": ">>> 距離C4爆炸還有30秒<<<"
+      "KR": ">> 30초 후에 C4가 폭발합니다<<",
+      "TW": ">> 在30秒後引爆C4<<"
     }
   },
   ">> Don't let the Zombies touch the sanctuary <<": {
     "translation": ">>不要让僵尸接近庇护所<<",
     "MultiLang": {
-      "US": ">> Avoid letting Zombies reach the sanctuary <<",
-      "JP": ">> ゼンブリーズが聖地に触れることを禁じる <<",
+      "US": ">> Do not allow the Zombies to reach the sanctuary <<",
+      "JP": ">> 死霊が聖地に触れないで <<",
       "CN": ">>不要让僵尸接近庇护所<<",
-      "KR": ">> 인페르노를 좀비가 만지지 마세요 <<",
-      "TW": ">> 別讓殭屍觸及聖所<<"
+      "KR": ">> 야생 동물이 성당에 닿지 않게 하세요 <<",
+      "TW": ">> 切勿讓殭屍觸及避難所 <<"
     }
   },
   ">> Door opening in 10 sec <<": {
     "translation": ">>门将在10秒后开启<<",
     "MultiLang": {
-      "US": ">> Door will open in 10 seconds <<",
-      "JP": "ドア開き始めます、10秒後...",
+      "US": ">> Door opening in 10 sec <<",
+      "JP": ">> 10秒後にドアが開く <<",
       "CN": ">>门将在10秒后开启<<",
       "KR": ">> 10초 후 문이 열리게 됩니다 <<",
-      "TW": ">> 賦門開啟中，剩餘10秒<<"
+      "TW": ">> 門在10秒後開啟 <<"
     }
   },
   ">> Door opening in 30 sec<<": {
     "translation": ">>门将在30秒后开启<<",
     "MultiLang": {
-      "US": ">> Door will open in 30 sec<<",
-      "JP": ">>ドアを開くまで30秒<<",
+      "US": ">> Door opening in 30 sec<<",
+      "JP": ">> 30秒後にドアが開く<<",
       "CN": ">>门将在30秒后开启<<",
-      "KR": ">> 30초 후 문이 열리게 됩니다<<",
-      "TW": ">>> 門口在30秒後打開<<<"
+      "KR": ">> 30초 후 문이 열립니다<<",
+      "TW": ">> 門在30秒後開啟<<"
     }
   },
   ">> Final door opening in 10 sec <<": {
     "translation": ">>最后一扇门将在10秒后开启<<",
     "MultiLang": {
-      "US": ">> Final door unlocking in 10 sec <<",
-      "JP": ">> 最終扉開き残り10秒 <<",
+      "US": ">> Door opening in 10 seconds <<",
+      "JP": ">> 10秒後、最終の扉が開きます <<",
       "CN": ">>最后一扇门将在10秒后开启<<",
-      "KR": ">> 최종 문 개방 남은 시간 10초 <<",
-      "TW": ">> 最後一扇門在10秒後打開<<"
+      "KR": ">> 10초 후에 최종 문이 열리게 됩니다 <<",
+      "TW": ">> 即將啟動最終之門 10秒後 <<"
     }
   },
   ">> Final door opening in 30 sec <<": {
     "translation": ">>最后一扇门将在30秒后开启<<",
     "MultiLang": {
-      "US": ">> The final door will unlock in 30 seconds <<",
-      "JP": ">> 30秒後に最終のドアが開きます <<",
+      "US": ">> Final door opening in 30 sec <<",
+      "JP": ">> 最終扉の開き始めます、残り30秒 <<",
       "CN": ">>最后一扇门将在30秒后开启<<",
-      "KR": ">> 30초 후 최종 문이 열리게 됩니다 <<",
-      "TW": ">> 最後一扇門開闔剩餘30秒 <<"
+      "KR": ">> 30초 후에 최종 문 개방 <<",
+      "TW": ">> 資料門開闢剩餘30秒 <<-"
     }
   },
   ">> Gaz turning off in 10 sec <<": {
     "translation": ">>煤气将在10秒后关闭<<",
     "MultiLang": {
-      "US": ">> Gaz shutting down in 10 secs <<",
-      "JP": ">> ガズが10秒後にオフにします <<",
+      "US": ">> Gaz turning off in 10 sec",
+      "JP": ">> ディスプレイが10秒後にオフになります <<",
       "CN": ">>煤气将在10秒后关闭<<",
-      "KR": ">> 10초 후 가즈가 끄는 중 <<",
-      "TW": ">> 加茲将在10秒内关闭<<"
+      "KR": ">> 갤즈가 10초 후에 꺼집니다 <<",
+      "TW": ">> 設置倒數關閉功能，10秒後關閉 <<"
     }
   },
   ">> Gaz turning off in 30 sec <<": {
     "translation": ">>煤气将在30秒后关闭<<",
     "MultiLang": {
-      "US": ">> Gaz shutting down in 30 secs <<",
-      "JP": ">> ガズが30秒後にオフになります <<",
+      "US": ">> Gaz turning off in 30 sec",
+      "JP": ">> ガズを30秒後にオフにする <<",
       "CN": ">>煤气将在30秒后关闭<<",
       "KR": ">> 가즈가 30초 후에 꺼질 거야 <<",
-      "TW": ">>> 加茲在30秒後關閉 <<<"
+      "TW": ">> 在30秒後關閉Gaz<<"
     }
   },
   ">> Map by Raphi <<": {
     "translation": ">>地图作者：Raphi 翻译：Asteri3m<<",
     "MultiLang": {
-      "US": ">> Map by Raphi <<",
-      "JP": ">> マップはラフィによって作成されました <<",
+      "US": "Map by Raphi >>",
+      "JP": ">> マップはRaphiによって作成された <<",
       "CN": ">>地图作者：Raphi 翻译：Asteri3m<<",
-      "KR": ">> 맵은 Raphi가 만든 것입니다. <<",
-      "TW": ">> 地圖由Raphi設計<<"
+      "KR": ">> 맵은 Raphi가 만든 것입니다 <<",
+      "TW": ">> 地圖由Raphi 創作 <<"
     }
   },
   ">> More stages will come <<": {
     "translation": ">>更多关卡将会到来<<",
     "MultiLang": {
-      "US": ">> Additional stages are on the way <<",
-      "JP": ">> 追加のステージが来ます <<",
+      "US": ">> More stages will come <<",
+      "JP": ">> 更多数目のステージが来る<<",
       "CN": ">>更多关卡将会到来<<",
-      "KR": ">> 더 많은 단계가 올라오겠 <<=",
-      "TW": ">> 更多關卡將會來到 <<"
+      "KR": ">> 더 많은 단계가 올라오게 됩니다 <<",
+      "TW": ">> 更多的關卡將會來臨<<"
     }
   },
   ">> Welcome to DnB Realms <<": {
     "translation": ">>欢迎来到DnB Realms<<",
     "MultiLang": {
       "US": ">> Welcome to DnB Realms <<",
-      "JP": ">> DnB リアルムズへようこそ<<",
+      "JP": ">> DnB リーマンズにようこそ <<",
       "CN": ">>欢迎来到DnB Realms<<",
-      "KR": ">> DnB 레이버스로움에 오신 것을 환영합니다 <<",
-      "TW": ">> 欢迎来到DnB王国<<"
+      "KR": ">> DnB 신-mytheon을ようこそ<<",
+      "TW": ">> 欢迎來到DnB王國<<"
     }
   },
   "[STAGE 1] Laboratory": {
     "translation": "[关卡1]实验室",
     "MultiLang": {
-      "US": "[STAGE 1] Laboratory",
-      "JP": "ステージ1 ラボラトリー",
+      "US": "Stage 1: Laboratory",
+      "JP": "ステージ1：ラボラトリー",
       "CN": "[关卡1]实验室",
-      "KR": "[STAGE 1] 실험실",
-      "TW": "[第1關]實驗室"
+      "KR": "[STAGE 1] 연구실",
+      "TW": "STAGE 1：實驗室"
     }
   },
   "[STAGE 2] Industrial Sewer": {
     "translation": "[关卡2]工业下水道",
     "MultiLang": {
-      "US": "[STAGE 2] Industrial Wastewater",
-      "JP": "【ステージ2】工業用下水道",
+      "US": "[STAGE 2] Industrial Sewer",
+      "JP": "【ステージ2】工業の下水道",
       "CN": "[关卡2]工业下水道",
-      "KR": "[STAGE 2] 공장 상업하수도",
-      "TW": "[第二關] 工業下水道"
+      "KR": "[스테이지 2] 산업하천",
+      "TW": "[STAGE 2] 工業下水道"
     }
   },
   "[STAGE 3] Space Invasion": {
     "translation": "[关卡3]太空入侵",
     "MultiLang": {
-      "US": "Stage 3: Space Invasion",
-      "JP": "[ステージ3] スペースインvasion",
+      "US": "[STAGE 3] Space Invasion",
+      "JP": "【舞台3】スペースインベーション",
       "CN": "[关卡3]太空入侵",
-      "KR": "[스테이지 3] 스페이스 인베이전",
-      "TW": "【關卡3】太空侵略者"
+      "KR": "[STAGE 3] 우주 침략",
+      "TW": "第三關：太空入侵"
     }
   },
   "[STAGE 4] Time": {
     "translation": "[关卡4]时间",
     "MultiLang": {
-      "US": "[Stage 4] Time",
-      "JP": "[ステージ4] 時間",
+      "US": "STAGE 4: Time",
+      "JP": "[ステージ4] タイム",
       "CN": "[关卡4]时间",
-      "KR": "[단계 4] 시간",
-      "TW": "[第四關] 時間"
+      "KR": "[STAGE 4] 시간",
+      "TW": "【第四關】時間"
     }
   },
   ">>> Teleport to next stage enabled soon <<<": {
     "translation": ">>> 即将传送至下一个阶段 <<<",
     "MultiLang": {
-      "US": ">>> Next stage teleportation activated shortly <<<",
-      "JP": ">>> 次のステージへテレポート可能になります<<<",
+      "US": ">>> Teleport to next stage enabled shortly <<<",
+      "JP": ">>> 次のステージへテレポートできる機能がすぐに有効になります <<<",
       "CN": ">>> 即将传送至下一个阶段 <<<",
-      "KR": "다음 단계로 이동하기 위한 전송 능력 shortly 사용 가능 <<<",
-      "TW": ">>> 從事下一場的瞬移功能很快便能使用 <<<"
+      "KR": ">>> 다음 단계로 텔레포트 가능 기능 shortly <<<",
+      "TW": ">>> 從下一階段瞬移的能力很快將被啟用 <<<"
     }
   },
   ">>> Congrats on beating first Alpha ! <<<": {
     "translation": "",
     "MultiLang": {
-      "US": ">>> Great job defeating the first Alpha! <<<",
-      "JP": ">>> 初めてのアルファを倒した恭喜します！<<<",
-      "CN": "恭喜你击败了第一个Alpha！",
-      "KR": ">> 초대형을 이기다 축하합니다! <<<",
-      "TW": "喜獲勝利，擊敗首隻Alpha！"
+      "US": ">>> Congratulations on defeating the first Alpha! <<<",
+      "JP": ">>> 初めてのAlphaを倒したおめでとうございます <<<",
+      "CN": ">>> 恭喜击败第一个Alpha！<<<",
+      "KR": ">>> 첫 번째 알파를 이긴 건 축하드립니다 <<<",
+      "TW": ">> 聖餐初戰勝利慶祝 <<"
     }
   },
   ">>> 4 more levels to come <<<": {
     "translation": "",
     "MultiLang": {
-      "US": ">>> 4 more levels to go >>>",
-      "JP": ">>> まだ4つのレベルが残ります<<<",
+      "US": ">>> 4 more levels to come <<<",
+      "JP": ">>> 残り4レベルが待っています <<<",
       "CN": ">>> 还有4个级别即将来临 <<<",
-      "KR": ">>> 남은 수준 4개가 있습니다 <<<",
-      "TW": ">>> 剩餘四個級別 <<<"
+      "KR": ">> 4 더 레벨이 남아 있습니다 <<",
+      "TW": ">>> 接下來還有4個級別要來 <<<"
     }
   },
   ">>> ZOMBIES REACHED THE PORTAL !! <<<": {
     "translation": "",
     "MultiLang": {
       "US": ">>> ZOMBIES REACHED THE PORTAL !! <<<",
-      "JP": ">>> ゾンビがポータルに到達しました！！ <<<",
-      "CN": ">>> 僵尸到达了传送门！！ >>>",
-      "KR": ">>> 난이도를 초월한 좀비가 포털에 도달했습니다!! <<<",
-      "TW": ">>> 群尸達到 portals 執口！！<<<"
+      "JP": ">>> 僵尸達がポーテルに到達しました !! <<<",
+      "CN": ">>> 僵尸到达了传送门！！ <<<",
+      "KR": ">>> 좀비가 포털에 도달했습니다!! <<<",
+      "TW": ">>> 植物達到了Portal！！ <<<"
     }
   },
   ">>> GET SLAYED !! <<<": {
     "translation": "",
     "MultiLang": {
       "US": ">>> GET SLAYED !! <<<",
-      "JP": ">>>_SLAYEDに襲われる!!<<<",
-      "CN": ">>> 被斩杀了！！ <<<",
-      "KR": ">>> 죽여지세요!! <<<",
-      "TW": ">>> 被屠殺了！！ <<<"
+      "JP": "GET SLAYED !!",
+      "CN": ">> 被屠杀 !! <<",
+      "KR": ">>> 죽여지세요 !! <<<",
+      "TW": ">> 杀死你！<<"
     }
   }
 }

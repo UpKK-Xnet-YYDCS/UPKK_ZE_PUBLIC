@@ -2,21 +2,21 @@
   "20s解锁按钮": {
     "translation": "",
     "MultiLang": {
-      "US": "\"Unlock button at 20s\"",
-      "JP": "20秒後にボタンが unlocks",
+      "US": "\"Unlock button in 20s.\"",
+      "JP": "20s ボタンを解錠",
       "CN": "20秒后解锁按钮",
-      "KR": "20s 해금 버튼",
+      "KR": "20s 버튼 해제",
       "TW": "20秒後解鎖按鈕"
     }
   },
   "下方的push已经解除15s": {
     "translation": "",
     "MultiLang": {
-      "US": "The below push has been disabled for 15 seconds.",
-      "JP": "下部のプッシュはすでに15秒解放されました。",
-      "CN": "下方的计时器已清零，剩余时间15秒。",
-      "KR": "하단의 push已经是15秒结束",
-      "TW": "下方的封鎖已經解除，還有15秒。"
+      "US": "Push has been canceled below for 15s.",
+      "JP": "下のプッシュはすでに15秒解放されています。",
+      "CN": "下方的**push**已经解除**15s**",
+      "KR": "하단의 푸시가 15초 만에 해제되었습니다.",
+      "TW": "下推已經解除 15秒"
     }
   }
 }
