@@ -1,7 +1,12 @@
 # 本地部署ollama 并利用 qwen2:7b模型 进行自动化翻译
-# ollama pull qwen2:7b
+# 
 # 将配置和路径修改为正确的本地ollama地址 运行此脚本. 
 # 如具有更好的GPU算力则可以使用更大的模型以达到更精确的效果
+# ollama pull qwen2:7b
+# sudo systemctl start ollama
+# sudo apt install 
+# sudo python3 
+# sudo pip install tqdm requests
 
 import requests
 import json
@@ -12,10 +17,10 @@ import sys
 import shutil
 import argparse
 from tqdm import tqdm
+import concurrent.futures
 
 # 配置
 OLLAMA_URL = "http://127.0.0.1:11434/api/generate"
-#MODEL = "qwen2:7b-instruct"
 MODEL = "qwen2:7b"
 DIRECTORY = '/home/MapText'
 HEADERS = {"Content-Type": "application/json"}
@@ -28,11 +33,11 @@ LANGUAGE_MAP = {
     "TW": ("繁体中文", "Traditional Chinese")
 }
 
-# 休息配置
-REST_SECONDS = 180
+REST_SECONDS = 5
 CONTINUOUS_WORK_SECONDS_BEFORE_REST = 900
 
-# 翻译相关配置
+MAX_PARALLEL_TASKS = 1  # 默认并行任务数，可通过命令行动态改
+
 MAX_RETRIES = 3
 TIMEOUT_SECONDS = 60
 
@@ -94,41 +99,6 @@ def build_prompt(target_language, original_text):
         f"Text:\n{original_text}"
     )
 
-
-# 动态进度条+ETA
-def print_progress(current, total, start_time, prefix="进度", source_text=None, target_lang=None, translated_text=None, filename=None):
-    terminal_width = shutil.get_terminal_size((80, 20)).columns
-    bar_length = min(terminal_width - 50, 60)
-    filled_length = int(bar_length * current // total)
-    bar = '■' * filled_length + '□' * (bar_length - filled_length)
-    percent = f"{(current / total) * 100:.1f}%"
-    filename_info = f' [{filename}]' if filename else ''
-
-    elapsed_time = time.time() - start_time
-    avg_time_per_item = elapsed_time / current if current else 0
-    eta_seconds = int(avg_time_per_item * (total - current))
-    eta_minutes = eta_seconds // 60
-    eta_seconds %= 60
-    eta_display = f'ETA: {eta_minutes}m{eta_seconds}s'
-
-    # 改为标准清空
-    sys.stdout.write('\r')
-    sys.stdout.write(' ' * terminal_width)
-    sys.stdout.write('\r')
-
-    progress_bar = f'{prefix}{filename_info}: [{bar}] {percent} ({current}/{total}) {eta_display}'
-    sys.stdout.write(progress_bar)
-
-    if source_text and target_lang and translated_text:
-        source_text = (source_text[:20] + '...') if len(source_text) > 20 else source_text
-        translated_text = (translated_text[:20] + '...') if len(translated_text) > 20 else translated_text
-        extra_info = f'\n "{source_text}" ➔ ({target_lang}) "{translated_text}"'
-        sys.stdout.write(extra_info)
-
-    sys.stdout.flush()
-
-
-# 动态休息倒计时（分钟+秒）
 def dynamic_rest(seconds):
     terminal_width = shutil.get_terminal_size((80, 20)).columns
     for remaining in range(seconds, 0, -1):
@@ -143,7 +113,6 @@ def dynamic_rest(seconds):
     sys.stdout.write('休息结束，继续处理...\n')
     sys.stdout.flush()
 
-# 翻译文本（带重试提示）
 def translate_text(original_text, lang_code):
     _, lang_en_name = LANGUAGE_MAP[lang_code]
     prompt = build_prompt(lang_en_name, original_text)
@@ -168,18 +137,20 @@ def translate_text(original_text, lang_code):
                 print(f"\n[错误] 翻译失败，已达到最大重试次数，跳过该条目。")
                 return None
 
-# 处理单个文件
 def process_file(file_path):
     filename = os.path.basename(file_path)
-    with open(file_path, 'r', encoding='utf-8') as f:
-        data = json.load(f)
+    try:
+        with open(file_path, 'r', encoding='utf-8') as f:
+            data = json.load(f)
+    except Exception as e:
+        print(f"打开文件失败: {file_path}, 错误: {e}")
+        return
 
     keys = list(data.keys())
     total_keys = len(keys)
     modified = False
 
-    # tqdm进度条（处理每个 key）
-    with tqdm(total=total_keys, desc=f"[文件] {filename}", ncols=100, unit="条", dynamic_ncols=True) as pbar:
+    with tqdm(total=total_keys, desc=f"[文件] {filename}", ncols=100, unit="条", dynamic_ncols=True, leave=False) as pbar:
         for idx, key in enumerate(keys, start=1):
             if not key or not isinstance(data[key].get('MultiLang'), dict):
                 pbar.update(1)
@@ -204,46 +175,54 @@ def process_file(file_path):
                         value[lang_code] = translated
                         modified = True
 
-                        # 更新进度条后缀
                         pbar.set_postfix({
                             "原文": (original_text[:10] + '...') if len(original_text) > 10 else original_text,
                             "翻译": (translated[:10] + '...') if len(translated) > 10 else translated,
                             "语言": lang_code
                         })
 
-            pbar.update(1)  # 每处理一个 key，进度加一
+            pbar.update(1)
 
     if modified:
         try:
             with open(file_path, 'w', encoding='utf-8') as f:
                 json.dump(data, f, ensure_ascii=False, indent=2)
         except Exception as e:
-            print(f"\n保存文件失败: {file_path} 错误: {e}")
+            print(f"保存文件失败: {file_path}, 错误: {e}")
 
 # 主程序
 def main():
+    global MAX_PARALLEL_TASKS
     parser = argparse.ArgumentParser(description="本地批量翻译或单文件翻译脚本 (使用 Ollama + Qwen2:7b)")
     parser.add_argument(
         "-f", "--file",
         type=str,
         help="指定单个文件进行翻译处理（可选，若不指定则默认处理整个目录）"
     )
+    parser.add_argument(
+        "-p", "--parallel",
+        type=int,
+        help="并行处理文件数（可选，默认1个）"
+    )
     args = parser.parse_args()
 
-    print(f"使用模型: {MODEL} | API地址: {OLLAMA_URL}\n")
-    print(f"设置: 连续处理 {CONTINUOUS_WORK_SECONDS_BEFORE_REST // 60} 分钟后休息 {REST_SECONDS // 60} 分钟\n")
+    if args.parallel:
+        MAX_PARALLEL_TASKS = args.parallel
+
+    print(f"使用模型: {MODEL} | API地址: {OLLAMA_URL}")
+    print(f"并行任务数: {MAX_PARALLEL_TASKS} | 连续处理 {CONTINUOUS_WORK_SECONDS_BEFORE_REST // 60} 分钟后休息 {REST_SECONDS // 60} 分钟\n")
 
     if args.file:
         file_path = args.file
         if not os.path.isfile(file_path):
             print(f"错误: 文件不存在 -> {file_path}")
             return
-        print(f"\n处理单个文件: {file_path}\n")
+        print(f"处理单个文件: {file_path}")
         process_file(file_path)
     else:
         file_list = sorted(
-            [f for f in os.listdir(DIRECTORY) if f.endswith('.jsonc')],
-            key=lambda x: os.path.getsize(os.path.join(DIRECTORY, x))
+            [os.path.join(DIRECTORY, f) for f in os.listdir(DIRECTORY) if f.endswith('.jsonc')],
+            key=lambda x: os.path.getsize(x)
         )
         total_files = len(file_list)
 
@@ -251,23 +230,14 @@ def main():
         last_rest_time = start_time
 
         with tqdm(total=total_files, desc="处理所有文件", ncols=100, unit="个", dynamic_ncols=True) as pbar:
-            for idx, filename in enumerate(file_list, start=1):
-                file_path = os.path.join(DIRECTORY, filename)
-                process_file(file_path)
-                pbar.update(1)
+            with concurrent.futures.ThreadPoolExecutor(max_workers=MAX_PARALLEL_TASKS) as executor:
+                futures = [executor.submit(process_file, file_path) for file_path in file_list]
 
-                now = time.time()
-                elapsed_since_last_rest = now - last_rest_time
-
-                if CONTINUOUS_WORK_SECONDS_BEFORE_REST > 0 and REST_SECONDS > 0:
-                    if elapsed_since_last_rest >= CONTINUOUS_WORK_SECONDS_BEFORE_REST and idx != total_files:
-                        print(f"\n连续处理了 {elapsed_since_last_rest/60:.1f} 分钟，需要休息 {REST_SECONDS // 60} 分钟...")
-                        dynamic_rest(REST_SECONDS)
-                        last_rest_time = time.time()
+                for future in concurrent.futures.as_completed(futures):
+                    pbar.update(1)
 
         print("\n\n=== 全部完成 ===")
         print(f"共处理文件: {total_files}")
-
 
 if __name__ == "__main__":
     main()
