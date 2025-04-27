@@ -14,9 +14,10 @@ import argparse
 from tqdm import tqdm
 
 # 配置
-OLLAMA_URL = "http://192.168.50.146:11434/api/generate"
-MODEL = "qwen2:7b-instruct"
-DIRECTORY = 'C:/Users/Administrator/Documents/GitHub/UPKK_ZE_PUBLIC/cs2/counterstrikesharp/configs/map-text/'
+OLLAMA_URL = "http://127.0.0.1:11434/api/generate"
+#MODEL = "qwen2:7b-instruct"
+MODEL = "qwen2:7b"
+DIRECTORY = '/home/MapText'
 HEADERS = {"Content-Type": "application/json"}
 
 LANGUAGE_MAP = {
@@ -78,11 +79,21 @@ def build_prompt(target_language, original_text):
     return (
         f"Act as a professional game text translator.\n"
         f"Translate the following game-related short text into {target_language}.\n"
-        f"Return ONLY the translation. DO NOT add any explanation, introduction, quotes, or extra text.\n"
+        f"Return ONLY the translation. DO NOT add any explanation, introduction, quotation marks, or extra words.\n"
         f"Be concise, faithful to the original meaning, and adapt to the style of in-game texts.\n"
-        f"Keep all numbers (e.g., 1, 2, 10, 30) exactly the same, do not translate numbers into words.\n\n"
+        f"Keep all numbers (e.g., 1, 2, 10, 30) exactly the same. Do NOT translate numbers into words.\n"
+        f"Preserve all special symbols such as ***, >> <<, exactly as they appear.\n"
+        f"Do NOT change the sentence structure, tone, or add any embellishment.\n\n"
+        f"【绝对遵守以下规则】\n"
+        f"1. 只翻译内容，不解释，不扩展，不引导。\n"
+        f"2. 所有标点（如***、>> <<）必须原样保留，不可漏掉或改动。\n"
+        f"3. 数字必须精准，不能修改数字表达。\n"
+        f"4. 句子风格必须与原文一致\n"
+        f"5. 翻译错误、多译均视为任务失败。\n\n"
+        f"【开始翻译】\n"
         f"Text:\n{original_text}"
     )
+
 
 # 动态进度条+ETA
 def print_progress(current, total, start_time, prefix="进度", source_text=None, target_lang=None, translated_text=None, filename=None):
