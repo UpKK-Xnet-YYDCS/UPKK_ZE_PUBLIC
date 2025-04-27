@@ -41,6 +41,28 @@ MAX_PARALLEL_TASKS = 1  # 默认并行任务数，可通过命令行动态改
 MAX_RETRIES = 3
 TIMEOUT_SECONDS = 60
 
+# Chinese number mapping for CN and TW
+chinese_to_arabic = {
+    "一": "1",
+    "二": "2",
+    "三": "3",
+    "四": "4",
+    "五": "5",
+    "六": "6",
+    "七": "7",
+    "八": "8",
+    "九": "9",
+    "十": "10"
+}
+
+# Function to replace Chinese numbers in CN and TW translations with Arabic numerals
+def replace_chinese_numbers(text):
+    # Regex to match Chinese numbers
+    pattern = r"([一二三四五六七八九十])"
+    
+    # Replace Chinese numbers with Arabic numbers
+    return re.sub(pattern, lambda match: chinese_to_arabic.get(match.group(1), match.group(1)), text)
+
 # 工具函数
 def should_skip(text):
     return bool(re.match(r'^[A-Za-z0-9\s\-\.\,\!\?\'\"\[\]\(\)\/\:\;]*$', text))
@@ -172,6 +194,10 @@ def process_file(file_path):
                         translated = translate_text(original_text, lang_code)
 
                     if translated and is_valid_translation(translated) and (lang_code == 'US' or len(translated) <= len(original_text) * 5):
+                        # Handle CN and TW for Chinese number replacement
+                        if lang_code in ['CN', 'TW']:
+                            translated = replace_chinese_numbers(translated)
+                        
                         value[lang_code] = translated
                         modified = True
 
