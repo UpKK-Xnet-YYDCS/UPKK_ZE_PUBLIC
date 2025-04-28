@@ -18,11 +18,12 @@ import shutil
 import argparse
 from tqdm import tqdm
 import concurrent.futures
+import difflib
 
 # 配置
 OLLAMA_URL = "http://127.0.0.1:11434/api/generate"
 MODEL = "qwen2.5:7b-instruct"
-DIRECTORY = '/home/MapText'
+DIRECTORY = '/home/UPKK_ZE_PUBLIC-fe662eec4e53d65a1819cb8e7e7682d90eedb401/cs2/counterstrikesharp/configs/map-text'
 HEADERS = {"Content-Type": "application/json"}
 
 LANGUAGE_MAP = {
@@ -57,6 +58,35 @@ chinese_to_arabic = {
     "十": "10"
 }
 
+# 去除特殊字符的函数，仅保留字母、数字、中文、日文、韩文字符
+def sanitize_for_similarity(text):
+    # 使用正则表达式移除所有非字母、数字、中文、日文、韩文的字符
+    cleaned_text = re.sub(r'[^A-Za-z0-9\u4e00-\u9fff\u3040-\u30ff\u31f0-\u31ff\uFF00-\uFFEF\uAC00-\uD7AF]', '', text)
+    return cleaned_text
+
+# 计算相似度，首先清洗文本，移除特殊字符
+def calculate_similarity(text1, text2):
+    text1_cleaned = sanitize_for_similarity(text1)
+    text2_cleaned = sanitize_for_similarity(text2)
+
+    sequence_matcher = difflib.SequenceMatcher(None, text1_cleaned, text2_cleaned)
+    return sequence_matcher.ratio()
+    
+
+# 修改原来的判断逻辑
+def process_translation(text, lang_code, original_text, translated):
+    # 计算原文与翻译后的相似度
+    similarity = calculate_similarity(original_text, translated)
+    print(f"相似度 {similarity:.2f} | 语言: {lang_code}")
+    
+    # 如果相似度超过95%，则不进行翻译
+    if similarity >= 0.95:
+        print(f"[跳过] {lang_code} 语言: 翻译与原文相似度高于95%，跳过翻译")
+        return ""
+
+    # 否则继续翻译处理
+    return translated
+    
 # Function to replace Chinese numbers in CN and TW translations with Arabic numerals
 def replace_chinese_numbers(text):
     # Regex to match Chinese numbers
@@ -117,8 +147,7 @@ def build_prompt(target_language, original_text):
         f"1. 只翻译内容，不解释，不扩展，不引导。\n"
         f"2. 所有标点（如***、>> <<）必须原样保留，不可漏掉或改动。\n"
         f"3. 不要把数字翻译成其他语言或中文,请务必保持阿拉伯数字。\n"
-        f"4. TELEPORT IN 20 SECONDS。或者 TP in 20 SECONDS 等类似语言通常为传送的意思\n"
-        f"5. 翻译错误、多译均视为任务失败。\n\n"
+        f"4. 翻译错误、多译均视为任务失败。\n\n"
         f"【开始翻译】\n"
         f"Text:\n{original_text}"
     )
@@ -161,6 +190,21 @@ def translate_text(original_text, lang_code):
                 print(f"\n[错误] 翻译失败，已达到最大重试次数，跳过该条目。")
                 return None
 
+# 修改原来的判断逻辑
+def process_translation(text, lang_code, original_text, translated):
+    # 计算原文与翻译后的相似度
+    similarity = calculate_similarity(original_text, translated)
+    print(f"相似度 {similarity:.2f} | 语言: {lang_code}")
+    
+    # 如果相似度超过95%，则不进行翻译
+    if similarity >= 0.95:
+        print(f"[跳过] {lang_code} 语言: 翻译与原文相似度高于95%，跳过翻译")
+        return ""
+
+    # 否则继续翻译处理
+    return translated
+
+# 调整以下代码部分来使用新的 `process_translation` 函数
 def process_file(file_path):
     filename = os.path.basename(file_path)
     try:
@@ -195,10 +239,10 @@ def process_file(file_path):
                     else:
                         translated = translate_text(original_text, lang_code)
 
-                    # 跳过翻译结果与原文一致的情况
-                    if lang_code == 'US' and translated == original_text:
+                    # 跳过翻译结果与原文相似度超过95%的情况
+                    if lang_code == 'US' and calculate_similarity(original_text, translated) >= 0.88:
                         continue
-                    elif lang_code != 'US' and translated == original_text:
+                    elif lang_code != 'US' and calculate_similarity(original_text, translated) >= 0.88:
                         continue
 
                     # 验证有效性并处理翻译
@@ -207,8 +251,11 @@ def process_file(file_path):
                         if lang_code in ['CN', 'TW']:
                             translated = replace_chinese_numbers(translated)
                         
-                        value[lang_code] = translated
-                        modified = True
+                        # 使用新的 `process_translation` 函数来判断是否跳过
+                        final_translation = process_translation(text=original_text, lang_code=lang_code, original_text=original_text, translated=translated)
+                        if final_translation:
+                            value[lang_code] = final_translation
+                            modified = True
 
                         pbar.set_postfix({
                             "原文": (original_text[:10] + '...') if len(original_text) > 10 else original_text,
