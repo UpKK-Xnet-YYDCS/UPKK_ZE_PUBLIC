@@ -5,8 +5,8 @@
       "US": "",
       "JP": "",
       "CN": "欢迎各位游玩横空出世",
-      "KR": "",
-      "TW": ""
+      "KR": "목표 준거 램페지에 오신 것을 환영합니다",
+      "TW": "歡迎到達目的地區 Rampage"
     }
   },
   "Good Luck !": {
@@ -15,17 +15,17 @@
       "US": "",
       "JP": "",
       "CN": "祝你们好运！",
-      "KR": "",
-      "TW": ""
+      "KR": "좋은 행운!",
+      "TW": "好運 !!}"
     }
   },
   "Special thanks to Zombieden for testing and people who guiding me on anything": {
     "translation": "特别感谢各个社区的测试和指导我的人",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "特別な感謝を捧げます Zombieden に以及给予我任何指导的人们 *** >> <<",
       "CN": "特别感谢各个社区的测试和指导我的人",
-      "KR": "",
+      "KR": "특별한 감사의 마음을 전합니다. Zombieden에게 테스트해 주신 것과 언제든지 도움을 요청할 수 있었던 사람들에 대한 감사의 인사를 전합니다.",
       "TW": ""
     }
   },
@@ -33,39 +33,39 @@
     "translation": "尸笼中放置了传送门，可以在每个地点之间进行传送",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "一部のゾンビキャッチャには、各ゾンビキャッチャ間をテレポートするための portals が設置されています",
       "CN": "尸笼中放置了传送门，可以在每个地点之间进行传送",
-      "KR": "",
-      "TW": ""
+      "KR": "某些丧尸笼之间放置了传送门进行瞬移",
+      "TW": "部分殭屍籠已放置传送門，可在各個殭屍籠之間 TELEPORT >> <<"
     }
   },
   "zombies, take advantage of it!": {
     "translation": "僵尸们，好好利用这个机会蹂躏人类吧!",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "ゾンビたち、活用して！",
       "CN": "僵尸们，好好利用这个机会蹂躏人类吧!",
-      "KR": "",
-      "TW": ""
+      "KR": "ゾンビたち、活用しろ！",
+      "TW": "殭屍們，把握住這個機會！"
     }
   },
   "The door opening in 15s": {
     "translation": "门还有15秒开启",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "扉が開くまで15秒",
       "CN": "门还有15秒开启",
-      "KR": "",
-      "TW": ""
+      "KR": "문이 열리는 중인 15s",
+      "TW": "門開啓於15s"
     }
   },
   "Objective Rampage": {
     "translation": "行动代号：横空出世",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "目標： Rampage",
       "CN": "行动代号：横空出世",
-      "KR": "",
+      "KR": "목표: Rampage",
       "TW": ""
     }
   },
@@ -73,29 +73,29 @@
     "translation": "电源不久后断开",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "約数秒後電源が切れる",
       "CN": "电源不久后断开",
-      "KR": "",
-      "TW": ""
+      "KR": "POWER WILL BE CUT OFF IN A FEW MOMENTS",
+      "TW": "權力將在數 Moments後被切断"
     }
   },
   "Power is OFF": {
     "translation": "电力已切断",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "POWER IS OFF",
       "CN": "电力已切断",
-      "KR": "",
-      "TW": ""
+      "KR": "_power_ OFF",
+      "TW": "權力已關閉"
     }
   },
   "Find a way to turn off the gas": {
     "translation": "想办法关掉蒸汽",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "ガスを切る方法を見つけろ",
       "CN": "想办法关掉蒸汽",
-      "KR": "",
+      "KR": "가스를 끄는 방법을 찾아보세요",
       "TW": ""
     }
   },
@@ -103,20 +103,20 @@
     "translation": "安装阀门并转动，等待蒸汽消失",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "バルブを付けた後、回転させましょう",
       "CN": "安装阀门并转动，等待蒸汽消失",
-      "KR": "",
-      "TW": ""
+      "KR": "밸브를avra和阀之间缺少一个空格，修正后为：バルブをavra阀门avra和上一行之间应保持一致的间距，修正后为：バルブを安装하고 돌려보세요",
+      "TW": "開阀门轉動它"
     }
   },
   "Gas was turned off..": {
     "translation": "蒸汽已关闭",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "ガスは止まっ..",
       "CN": "蒸汽已关闭",
-      "KR": "",
-      "TW": ""
+      "KR": "가스는 끊겼다..",
+      "TW": "氣已被關閉.."
     }
   },
   "BLAST DOORS <<< 30 >>>": {
@@ -136,7 +136,7 @@
       "JP": "",
       "CN": "<<< 25s >>>",
       "KR": "",
-      "TW": ""
+      "TW": "爆破門 <<< 25 >>>"
     }
   },
   "BLAST DOORS <<< 20 >>>": {
@@ -156,7 +156,7 @@
       "JP": "",
       "CN": "<<< 15s >>>",
       "KR": "",
-      "TW": ""
+      "TW": "爆破門 <<< 15 >>>"
     }
   },
   "BLAST DOORS <<< 10 >>>": {
@@ -166,7 +166,7 @@
       "JP": "",
       "CN": "<<< 10s >>>",
       "KR": "",
-      "TW": ""
+      "TW": "blast doors <<< 10 >>>"
     }
   },
   "BLAST DOORS <<< 05 >>>": {
@@ -176,7 +176,7 @@
       "JP": "",
       "CN": "<<< 5s >>>",
       "KR": "",
-      "TW": ""
+      "TW": "blastsdoors <<< 05 >>>"
     }
   },
   "BLAST DOORS <<< 00 >>>": {
@@ -185,38 +185,38 @@
       "US": "",
       "JP": "",
       "CN": "<<< 00 >>>",
-      "KR": "",
-      "TW": ""
+      "KR": "블래스트 문 <<< 00 >>>",
+      "TW": "爆破門 <<< 00 >>>"
     }
   },
   "The doors opening in 30s": {
     "translation": "门将在30秒后打开",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "30秒後に扉が開きます",
       "CN": "门将在30秒后打开",
-      "KR": "",
-      "TW": ""
+      "KR": "30초 후 문이 열립니다",
+      "TW": "門将在30秒後開啟"
     }
   },
   "Prepare..": {
     "translation": "准备好..",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "準備。。",
       "CN": "准备好..",
       "KR": "",
-      "TW": ""
+      "TW": "準備..'.'"
     }
   },
   "Door is opening": {
     "translation": "门开了",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "ドアが開き始めます",
       "CN": "门开了",
-      "KR": "",
-      "TW": ""
+      "KR": "문이 열리고 있습니다",
+      "TW": "門正在開啟"
     }
   },
   "RUN!!!": {
@@ -225,7 +225,7 @@
       "US": "",
       "JP": "",
       "CN": "快走！",
-      "KR": "",
+      "KR": "런!!!!!",
       "TW": ""
     }
   },
@@ -233,60 +233,60 @@
     "translation": "后撤到激光房直到门关上为止！",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "扉が閉まるまで入って保持し続ける！",
       "CN": "后撤到激光房直到门关上为止！",
-      "KR": "",
-      "TW": ""
+      "KR": "들어가서 문이 닫히기까지 버리고 유지하세요!",
+      "TW": "進去並 HOLD 住直到門關上！"
     }
   },
   "We need to hack the computer and upload the virus!": {
     "translation": "我们需要入侵电脑并上传病毒!",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "COMPUTERハハク并且上传病毒！",
       "CN": "我们需要入侵电脑并上传病毒!",
-      "KR": "",
-      "TW": ""
+      "KR": "우리는 컴퓨터를 해킹하고 바이러스를 업로드해야 합니다!",
+      "TW": "我們需要hack電腦並上傳病毒！"
     }
   },
   "Loading virus ...": {
     "translation": "上传病毒中...",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "ローディングウイルス ...",
       "CN": "上传病毒中...",
-      "KR": "",
-      "TW": ""
+      "KR": "로딩 바이러스 ...",
+      "TW": "加载病毒 ..."
     }
   },
   "The virus is uploaded ! Defend until complete system corruption": {
     "translation": "病毒还在上传，坚持到防御系统崩溃",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "ウイルスがアップロード！完全システム破壊まで防衛する",
       "CN": "病毒还在上传，坚持到防御系统崩溃",
-      "KR": "",
-      "TW": ""
+      "KR": "바이러스 업로드 ! 완전한 시스템 파괴까지 방어하다",
+      "TW": "病毒已上傳！防禦直到系統完全腐壞"
     }
   },
   "Defend until virus get uploaded": {
     "translation": "防守110秒",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "Defend直到病毒上传完毕",
       "CN": "防守110秒",
-      "KR": "",
-      "TW": ""
+      "KR": "Defender直到病毒上传完毕",
+      "TW": "防禦直到病毒上傳"
     }
   },
   "OMG everything is now fucked up, the laser was enabled !": {
     "translation": "该死，一切都搞砸了，激光被启动了！",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "OMG 一切现在全都搞砸了，激光被开启了！",
       "CN": "该死，一切都搞砸了，激光被启动了！",
       "KR": "",
-      "TW": ""
+      "TW": "OMG 1切現在都搞砸了，激光已經啟用！"
     }
   },
   "STAY AWAY FROM THE BEAM !!!": {
@@ -303,20 +303,20 @@
     "translation": "<<< 30s >>>",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "ドア開く <<< 30 >>>",
       "CN": "<<< 30s >>>",
-      "KR": "",
-      "TW": ""
+      "KR": "문 열리려면 <<< 30 >>>",
+      "TW": "門開启 <<< 30 >>>"
     }
   },
   "DOOR OPEN <<< 25 >>>": {
     "translation": "<<< 25s >>>",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "ドアを開ける <<< 25 >>>",
       "CN": "<<< 25s >>>",
-      "KR": "",
-      "TW": ""
+      "KR": "문 열리기 <<< 25 >>>",
+      "TW": "門打開 <<< 25 >>>"
     }
   },
   "DOOR OPEN <<< 20 >>>": {
@@ -325,18 +325,18 @@
       "US": "",
       "JP": "",
       "CN": "<<< 20s >>>",
-      "KR": "",
-      "TW": ""
+      "KR": "문 열리세요 <<< 20 >>>",
+      "TW": "Doors Open <<< 20 >>>"
     }
   },
   "DOOR OPEN <<< 15 >>>": {
     "translation": "<<< 15s >>>",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "ドアを開ける <<< 15 >>>",
       "CN": "<<< 15s >>>",
-      "KR": "",
-      "TW": ""
+      "KR": "문 열림 <<< 15 >>>",
+      "TW": "門打開 <<< 15 >>>"
     }
   },
   "DOOR OPEN <<< 10 >>>": {
@@ -345,8 +345,8 @@
       "US": "",
       "JP": "",
       "CN": "<<< 10s >>>",
-      "KR": "",
-      "TW": ""
+      "KR": "문 열리게 <<< 10 >>>",
+      "TW": "Doors Open <<< 10 >>>"
     }
   },
   "DOOR OPEN <<< 05 >>>": {
@@ -355,8 +355,8 @@
       "US": "",
       "JP": "",
       "CN": "<<< 5s >>>",
-      "KR": "",
-      "TW": ""
+      "KR": "문 열리기 <<< 05 >>>",
+      "TW": "門打開 <<< 05 >>>"
     }
   },
   "DOOR OPEN <<< 00 >>>": {
@@ -365,48 +365,48 @@
       "US": "",
       "JP": "",
       "CN": "隔离门 <<< 00 >>>",
-      "KR": "",
-      "TW": ""
+      "KR": "문 열리세요 <<< 00 >>>",
+      "TW": "門打開 <<< 00 >>>"
     }
   },
   "GET ON THE ELEVATOR": {
     "translation": "快上电梯！",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "エレベーターに乗車してください",
       "CN": "快上电梯！",
-      "KR": "",
-      "TW": ""
+      "KR": "엘레베이터에 타십시오",
+      "TW": "登上電梯"
     }
   },
   "Find a way to get into the room!": {
     "translation": "快进入安全区域",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "部屋に入れる方法を見つけろ！",
       "CN": "快进入安全区域",
-      "KR": "",
-      "TW": ""
+      "KR": "방에 들어갈 수 있는 방법을 찾으세요!",
+      "TW": "找到進入房間的方法！"
     }
   },
   "We need to turn on the light power..": {
     "translation": "我们需要打开照明电源",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "LIGHT POWER ON..",
       "CN": "我们需要打开照明电源",
-      "KR": "",
-      "TW": ""
+      "KR": "우리는 빛나는 힘을 켜야 합니다..",
+      "TW": "我們需要開啟燈光能量.."
     }
   },
   "Stay inside the room until the zombies outside get teleport!": {
     "translation": "呆在安全区域里直到僵尸传送！",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "室内に留まり、外のゾンビが teleport されるまで待機してください。",
       "CN": "呆在安全区域里直到僵尸传送！",
-      "KR": "",
-      "TW": ""
+      "KR": "室外的丧尸等到传送后再进入房间！",
+      "TW": "留在房間內直到外面的殭屍被 TELEPORT！"
     }
   },
   "RUN": {
@@ -416,17 +416,17 @@
       "JP": "",
       "CN": "开润",
       "KR": "",
-      "TW": ""
+      "TW": "跑GAN"
     }
   },
   "Climb up the boxes after activated the detonator !": {
     "translation": "引爆雷管后跳上箱子防守！",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "爆発装置を起動後、ボックスにjump !",
       "CN": "引爆雷管后跳上箱子防守！",
-      "KR": "",
-      "TW": ""
+      "KR": "폭발기에 작동을完成后爬盒子！",
+      "TW": "啟動炸彈後爬到箱子上！"
     }
   },
   "Keep holding until zombies get teleport!": {
@@ -435,68 +435,68 @@
       "US": "",
       "JP": "",
       "CN": "继续防守直到僵尸传送！",
-      "KR": "",
-      "TW": ""
+      "KR": "KEEP HOLDING UNTIL ZOMBIES GET TELEPORT!",
+      "TW": "KEEP HOLDING UNTIL ZOMBIES GET TELEPORT!"
     }
   },
   "Break the laser power switch!": {
     "translation": "摧毁激光电源开关！",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "レーザーパワー遮断器を壊す！",
       "CN": "摧毁激光电源开关！",
-      "KR": "",
-      "TW": ""
+      "KR": "레이저 전력 스위치를 깨라!",
+      "TW": "打開激光功率開關！"
     }
   },
   "Watch out!": {
     "translation": "当心!（落后的人等待电梯下坠后再靠左边跳过去）",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "注意！",
       "CN": "当心!（落后的人等待电梯下坠后再靠左边跳过去）",
       "KR": "",
-      "TW": ""
+      "TW": "小心！"
     }
   },
   "Get inside !": {
     "translation": "门开了，快进去！",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "入ってこい！",
       "CN": "门开了，快进去！",
-      "KR": "",
-      "TW": ""
+      "KR": "들어가세요 !!}",
+      "TW": "進來！"
     }
   },
   "Place the c4 to break the wall!": {
     "translation": "放置c4炸毁墙壁!",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "場所をc4に置き、壁を破壊せよ！",
       "CN": "放置c4炸毁墙壁!",
       "KR": "",
-      "TW": ""
+      "TW": "放置c4炸開牆壁！"
     }
   },
   "C4 has been planted": {
     "translation": "防守92秒等待炸药爆破",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "C4 が設置されました",
       "CN": "防守92秒等待炸药爆破",
-      "KR": "",
-      "TW": ""
+      "KR": "C4이 설치되었습니다",
+      "TW": "C4已安放"
     }
   },
   "Rampage Level": {
     "translation": "ass ♂ we ♂ can",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "Rampage レベル",
       "CN": "ass ♂ we ♂ can",
-      "KR": "",
-      "TW": ""
+      "KR": "Rampage 레벨",
+      "TW": "狂暴等級"
     }
   },
   "DEFEND 70 SECONDS": {
@@ -505,8 +505,8 @@
       "US": "",
       "JP": "",
       "CN": "防守70秒",
-      "KR": "",
-      "TW": ""
+      "KR": "방어 70초",
+      "TW": "防守 70 秒"
     }
   },
   "DEFEND 40 SECONDS": {
@@ -516,17 +516,17 @@
       "JP": "",
       "CN": "防守40秒",
       "KR": "",
-      "TW": ""
+      "TW": "Defender 40 秒"
     }
   },
   "Prepare for your LAST FIGHT": {
     "translation": "背水一战！",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "Prepare for your 最后战斗",
       "CN": "背水一战！",
-      "KR": "",
-      "TW": ""
+      "KR": "Prepare for your 마지막 싸움",
+      "TW": "準備迎戰你的最後1戰"
     }
   },
   "Trigger the BOMB and wait for helipoter to bring us out of this island !": {
@@ -536,137 +536,137 @@
       "JP": "",
       "CN": "引爆炸弹，等待直升机救援逃离小岛!",
       "KR": "",
-      "TW": ""
+      "TW": "觸發BOMB並等待直升機將我們從這座島嶼救走！"
     }
   },
   "GET ON THE HELICOPTER": {
     "translation": "快上直升机!",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "ヘリコプターに乗り込みます",
       "CN": "快上直升机!",
-      "KR": "",
-      "TW": ""
+      "KR": "헬기에 타세요",
+      "TW": "登上直升機"
     }
   },
   "Map by Trazix": {
     "translation": "作者：Trazix||翻译：落木尘影",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "マップ由Trazix制作",
       "CN": "作者：Trazix||翻译：落木尘影",
-      "KR": "",
-      "TW": ""
+      "KR": "맵 제작자 Trazix",
+      "TW": "地圖由Trazix製作"
     }
   },
   "Ported by TuPu": {
     "translation": "移植：王小明",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "移植by 提甫",
       "CN": "移植：王小明",
-      "KR": "",
-      "TW": ""
+      "KR": "포트드 바이 TuPu",
+      "TW": "轉譯由Tu Pu"
     }
   },
   "To be continute...": {
     "translation": "未完待续...",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "継続する予定...",
       "CN": "未完待续...",
-      "KR": "",
-      "TW": ""
+      "KR": "계속됩니다...",
+      "TW": "继续未完..."
     }
   },
   "I cannot stop this sickness taking over": {
     "translation": "我无法阻止疾病肆虐",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "この病気が進むのを止められません",
       "CN": "我无法阻止疾病肆虐",
-      "KR": "",
-      "TW": ""
+      "KR": "이 병은 멈추지 못해",
+      "TW": "無法阻止這場病變蔓延"
     }
   },
   "It takes control and drags me into nowhere": {
     "translation": "它支配了我并带我沉入荒无人烟之境",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "它掌握控制将我拖入无处",
       "CN": "它支配了我并带我沉入荒无人烟之境",
-      "KR": "",
-      "TW": ""
+      "KR": "kontrol을 장악하고 아무도 없는 곳으로 나를 끌어당긴다",
+      "TW": "它掌握控制將我拖入無處"
     }
   },
   "I need your help, I can't fight this forever": {
     "translation": "我需要你伸出援助之手，我无法永远孤军奋战",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "私はあなたの助けが必要です、この戦いは永遠には続かないと分かりました。",
       "CN": "我需要你伸出援助之手，我无法永远孤军奋战",
-      "KR": "",
-      "TW": ""
+      "KR": "저는 도움이 필요해, 이렇게ечно 싸울 수 없어",
+      "TW": "我需要你的幫助，我無法永遠戰鬥下去"
     }
   },
   "I know you're watching": {
     "translation": "我知道你在注视着我",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "我知道你在看",
       "CN": "我知道你在注视着我",
-      "KR": "",
-      "TW": ""
+      "KR": "我知道你在看着我",
+      "TW": "我知道你在 Watching"
     }
   },
   "I can feel you out there": {
     "translation": "我能感觉到你就在那里",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "あなたはそこにあることは感じ取れるよ",
       "CN": "我能感觉到你就在那里",
-      "KR": "",
-      "TW": ""
+      "KR": "나는 당신의 존재를 느끼고 있습니다",
+      "TW": "我感應到你就在附近"
     }
   },
   "Take me high and I'll sing": {
     "translation": "带我高飞远翔，我将引吭高歌",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "高い場所に連れて行ってくれると歌うよ",
       "CN": "带我高飞远翔，我将引吭高歌",
-      "KR": "",
-      "TW": ""
+      "KR": "높이 들어주면 노래할게",
+      "TW": "帶我飛高我就唱"
     }
   },
   "Oh you make everything okay (okay, okay)": {
     "translation": "你无所不能",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "オーフィン EVERYTHING okay (okay, okay)",
       "CN": "你无所不能",
-      "KR": "",
-      "TW": ""
+      "KR": "오해everythingokay(okay,okay)",
+      "TW": "Oh 你把1切都搞定了（好吧，好吧）"
     }
   },
   "We are one in the same": {
     "translation": "我们同声相应同气相求",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "我々は同じである",
       "CN": "我们同声相应同气相求",
-      "KR": "",
-      "TW": ""
+      "KR": "우리는 같은 몸입니다",
+      "TW": "我們同屬1人"
     }
   },
   "Oh you take all of the pain away (away, away)": {
     "translation": "你抹去了我所有的伤痛",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "オーフィ あなたがすべての痛みを取り除いてくれる（去、去）",
       "CN": "你抹去了我所有的伤痛",
-      "KR": "",
-      "TW": ""
+      "KR": "오, 당신이 모든 고통을 날려버린다 (날아가, 날아가)",
+      "TW": "Oh 你帶走所有的痛楚 (遠去，遠去)"
     }
   },
   "Save me if I become": {
@@ -676,97 +676,97 @@
       "JP": "",
       "CN": "救我！如果我成为",
       "KR": "",
-      "TW": ""
+      "TW": "救我如果我成為"
     }
   },
   "My demons": {
     "translation": "我自己的恶魔",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "私の魔物",
       "CN": "我自己的恶魔",
       "KR": "",
-      "TW": ""
+      "TW": "我的邪靈"
     }
   },
   "Take me over the walls below": {
     "translation": "带我飞过脚下的阻碍",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "walls以下に私を連れて行き",
       "CN": "带我飞过脚下的阻碍",
-      "KR": "",
-      "TW": ""
+      "KR": "walls 아래로 나들이하려고",
+      "TW": "帶我過牆下"
     }
   },
   "Fly forever": {
     "translation": "永恒翱翔于天空",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "永遠飛翔",
       "CN": "永恒翱翔于天空",
-      "KR": "",
-      "TW": ""
+      "KR": "영원히 날아가세요",
+      "TW": "飛永遠"
     }
   },
   "Don't let me go": {
     "translation": "不要将我驱逐",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "去さないで",
       "CN": "不要将我驱逐",
       "KR": "",
-      "TW": ""
+      "TW": "不要讓我走"
     }
   },
   "I need a savior to heal my pain": {
     "translation": "我需要救世主来抚慰我的痛楚",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "我需要一個救世主來治愈我的痛苦",
       "CN": "我需要救世主来抚慰我的痛楚",
-      "KR": "",
-      "TW": ""
+      "KR": "저는 고통을 치유해줄 구세주가 필요합니다",
+      "TW": "我需要1個救世主來療癒我的痛苦"
     }
   },
   "When I become my worst enemy": {
     "translation": "当我成为自己最危险的敌人时",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "私が最悪の敵となる時",
       "CN": "当我成为自己最危险的敌人时",
-      "KR": "",
-      "TW": ""
+      "KR": "当我成为自己的最大敌人",
+      "TW": "当我成為自己的最惡敵"
     }
   },
   "The enemy": {
     "translation": "敌人/爱来自网易云",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "敵",
       "CN": "敌人/爱来自网易云",
       "KR": "",
-      "TW": ""
+      "TW": "敵人"
     }
   },
   "Oh you make everything okay": {
     "translation": "你无所不能",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "オーファイバー EVERYTHING OKAY",
       "CN": "你无所不能",
-      "KR": "",
-      "TW": ""
+      "KR": "오斛 모든 걸 다 잘해",
+      "TW": "Oh 你把1切搞定了"
     }
   },
   "Oh you take all of the pain away": {
     "translation": "你抹去了我所有的伤痛",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "あなたがすべての苦しみを消し去ってくれるなんて",
       "CN": "你抹去了我所有的伤痛",
-      "KR": "",
-      "TW": ""
+      "KR": "오, 네가 모든 고통을 달래준다",
+      "TW": "Oh 你承受了所有的痛苦"
     }
   }
 }

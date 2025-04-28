@@ -15,7 +15,7 @@
       "US": "",
       "JP": "",
       "CN": "***还剩10秒***",
-      "KR": "",
+      "KR": "***10 초 남음***",
       "TW": ""
     }
   },
@@ -23,9 +23,9 @@
     "translation": "***还剩10秒***",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "***10秒remaining***",
       "CN": "***还剩10秒***",
-      "KR": "",
+      "KR": "***10 초 남음***",
       "TW": ""
     }
   },
@@ -73,9 +73,9 @@
     "translation": "***还剩30秒***",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "***30秒後alyzed***",
       "CN": "***还剩30秒***",
-      "KR": "",
+      "KR": "***30 초 남음***",
       "TW": ""
     }
   },
@@ -95,7 +95,7 @@
       "US": "",
       "JP": "",
       "CN": "***还剩40秒***",
-      "KR": "",
+      "KR": "***40 초 남음***",
       "TW": ""
     }
   },
@@ -113,7 +113,7 @@
     "translation": "***还剩50秒***",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "***50 SEKANDO RESTARI***",
       "CN": "***还剩50秒***",
       "KR": "",
       "TW": ""
@@ -123,9 +123,9 @@
     "translation": "***一名玩家被直升机炸飞***",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "***プレイヤーがヘリコpterで爆発した***",
       "CN": "***一名玩家被直升机炸飞***",
-      "KR": "",
+      "KR": "***플레이어가 헬icopter으로 폭발***",
       "TW": ""
     }
   },
@@ -133,9 +133,9 @@
     "translation": "***一名玩家被桶击杀***",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "*** Barrel でkills されたプレイヤー ***",
       "CN": "***一名玩家被桶击杀***",
-      "KR": "",
+      "KR": "***-Barrel로 살해된 플레이어***",
       "TW": ""
     }
   },
@@ -143,10 +143,10 @@
     "translation": "***火车来了...***",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "***電車が来ている...***",
       "CN": "***火车来了...***",
-      "KR": "",
-      "TW": ""
+      "KR": "***열차가 오고 있어...***",
+      "TW": "***1列火車正在來臨...***"
     }
   },
   "***ADMIN CHANGED MODE [CUSTOM]***": {
@@ -215,7 +215,7 @@
       "US": "",
       "JP": "",
       "CN": "***管理员启用附加模式 [天谴]***",
-      "KR": "",
+      "KR": "***ADMIN ENABLE ADDON MODE [流星]***",
       "TW": ""
     }
   },
@@ -223,10 +223,10 @@
     "translation": "***挂机传送将在10秒后进行***",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "***AFKテレポート10秒後に実行***",
       "CN": "***挂机传送将在10秒后进行***",
-      "KR": "",
-      "TW": ""
+      "KR": "***AFK 전이 10초 후***",
+      "TW": "***AFK 遠傳在10秒後***"
     }
   },
   "***AFK Teleport in 35 seconds***": {
@@ -235,8 +235,8 @@
       "US": "",
       "JP": "",
       "CN": "***挂机传送将在35秒后进行***",
-      "KR": "",
-      "TW": ""
+      "KR": "***AFK 텔레포트 후 35초***",
+      "TW": "***AFK TELEPORT IN 35 SECONDS***"
     }
   },
   "***AFK Teleport in 8 seconds***": {
@@ -245,7 +245,7 @@
       "US": "",
       "JP": "",
       "CN": "***挂机传送将在8秒后进行***",
-      "KR": "",
+      "KR": "(Note: The exact translation of \"AFK\" is not commonly used in Korean, so I have kept it as is to maintain the original meaning and style.)",
       "TW": ""
     }
   },
@@ -253,10 +253,10 @@
     "translation": "***所有箱子已被打破***",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "***全てのボックスが破損しています***",
       "CN": "***所有箱子已被打破***",
-      "KR": "",
-      "TW": ""
+      "KR": "***모든 박스가 깨졌습니다***",
+      "TW": "***所有箱子都破了***"
     }
   },
   "***Barrel picked up***": {
@@ -275,7 +275,7 @@
       "US": "",
       "JP": "",
       "CN": "***当前模式 >>>自定义<<<***",
-      "KR": "",
+      "KR": "***현재 모드 >>>커스텀<<<***",
       "TW": ""
     }
   },
@@ -285,7 +285,7 @@
       "US": "",
       "JP": "",
       "CN": "***当前模式 >>>普通<<<***",
-      "KR": "",
+      "KR": "***현재 모드 >>>정상<<<***",
       "TW": ""
     }
   },
@@ -293,9 +293,9 @@
     "translation": "***当前模式 >>>沙发<<<***",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "*** CURRENT MODE >>>ソファ <<< ***",
       "CN": "***当前模式 >>>沙发<<<***",
-      "KR": "",
+      "KR": "***현재 모드 >>>소파<<<***",
       "TW": ""
     }
   },
@@ -303,10 +303,10 @@
     "translation": "***电锯已被捡起***",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "***チェインソー拾得***",
       "CN": "***电锯已被捡起***",
-      "KR": "",
-      "TW": ""
+      "KR": "***CHAINSAWP Picked up***",
+      "TW": "*** Chainsaw拾取 ***"
     }
   },
   "***Heal picked up***": {
@@ -315,7 +315,7 @@
       "US": "",
       "JP": "",
       "CN": "***奶已被捡起***",
-      "KR": "",
+      "KR": "***회복이picked up***",
       "TW": ""
     }
   },
@@ -323,49 +323,49 @@
     "translation": "***直升机将在3秒后爆炸***",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "***ヘリコプター2は3秒後に爆発します***",
       "CN": "***直升机将在3秒后爆炸***",
-      "KR": "",
-      "TW": ""
+      "KR": "***헬리콥터 2 3초 후 폭발***",
+      "TW": "***直升機 2 3秒後爆炸***"
     }
   },
   "***Helicopter explode in 3s***": {
     "translation": "***直升机将在3秒后爆炸***",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "***ヘリコプターは3秒後に爆発します***",
       "CN": "***直升机将在3秒后爆炸***",
-      "KR": "",
-      "TW": ""
+      "KR": "***헬리콥터 폭발 후 3s***",
+      "TW": "***直升機将在3秒後爆炸***"
     }
   },
   "***Ice picked up***": {
     "translation": "***冰已被捡起***",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "***氷が拾われた***",
       "CN": "***冰已被捡起***",
-      "KR": "",
-      "TW": ""
+      "KR": "***얼음이 집어올랐다***",
+      "TW": "***冰塊拾取***"
     }
   },
   "***Jump portal opened***": {
     "translation": "***高空跳跃已开启***",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "***ジャンプポータルを開启***",
       "CN": "***高空跳跃已开启***",
-      "KR": "",
-      "TW": ""
+      "KR": "***점프 포털 열림***",
+      "TW": "***跳Portal開啟***"
     }
   },
   "***Level Failed***": {
     "translation": "***关卡失败***",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "***レベル失敗***",
       "CN": "***关卡失败***",
-      "KR": "",
+      "KR": "***레벨 실패***",
       "TW": ""
     }
   },
@@ -373,109 +373,109 @@
     "translation": "***地图由Reflelia修改 翻译：Asteri3m***",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "***Reflelia によって修改***",
       "CN": "***地图由Reflelia修改 翻译：Asteri3m***",
-      "KR": "",
+      "KR": "***리플레리아에 의해 수정됨***",
       "TW": ""
     }
   },
   "***Nuke impact***": {
     "translation": "***核弹爆炸***",
     "MultiLang": {
-      "US": "",
-      "JP": "",
+      "US": "***Nuclear impact***",
+      "JP": "***核爆発***",
       "CN": "***核弹爆炸***",
-      "KR": "",
-      "TW": ""
+      "KR": "***nüke impact***",
+      "TW": "***核爆影響***"
     }
   },
   "***Nuke launched***": {
     "translation": "***核弹已发射***",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "***核弹发射***",
       "CN": "***核弹已发射***",
-      "KR": "",
-      "TW": ""
+      "KR": "*** النووي أطلق***",
+      "TW": "***核武發射***"
     }
   },
   "***Player Picked up Pulse***": {
     "translation": "***玩家已捡起脉冲***",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "***プレイヤーがパルスを拾いました***",
       "CN": "***玩家已捡起脉冲***",
-      "KR": "",
-      "TW": ""
+      "KR": "***플레이어가 파루스를 얻었습니다***",
+      "TW": "***玩家拾取了脈衝彈藥***"
     }
   },
   "***Player picked up Radio***": {
     "translation": "***玩家已捡起无线电***",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "***プレイヤーがラジオを拾いました***",
       "CN": "***玩家已捡起无线电***",
-      "KR": "",
-      "TW": ""
+      "KR": "***플레이어가 라디오를 집었다***",
+      "TW": "***玩家拾起了收音机***"
     }
   },
   "***Resist for 30 seconds***": {
     "translation": "***防守30秒***",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "***30秒抵抗***",
       "CN": "***防守30秒***",
-      "KR": "",
-      "TW": ""
+      "KR": "***30초 저항***",
+      "TW": "***抵抗30秒***"
     }
   },
   "***Rocket - Right click to shot***": {
     "translation": "***火箭筒 - 右键射击***",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "***ロケット - 右クリックで発射***",
       "CN": "***火箭筒 - 右键射击***",
-      "KR": "",
-      "TW": ""
+      "KR": "***로켓 - 오른쪽 클릭으로 발사***",
+      "TW": "***Rocket - 右擊射擊***"
     }
   },
   "***Snow picked up***": {
     "translation": "***雪已被捡起***",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "***雪が舞い上がった***",
       "CN": "***雪已被捡起***",
-      "KR": "",
-      "TW": ""
+      "KR": "(Translation: ***Snow picked up*** is directly translated to \"***눈이 내려***\")",
+      "TW": "***Snow拾起***"
     }
   },
   "***Special Thanks to Mentalspin***": {
     "translation": "***特别感谢Mentalspin***",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "***スペシャル感谢Mentalspin***",
       "CN": "***特别感谢Mentalspin***",
-      "KR": "",
-      "TW": ""
+      "KR": "***특별 감사의 인사를 MentalSpin에게***",
+      "TW": "***特別感謝Mentalspin***"
     }
   },
   "***Speed picked up***": {
     "translation": "***加速已被捡起***",
     "MultiLang": {
-      "US": "",
-      "JP": "",
+      "US": "***Speed increased***",
+      "JP": "***スピードが上がった***",
       "CN": "***加速已被捡起***",
-      "KR": "",
-      "TW": ""
+      "KR": "속도가 올라갔습니다 ***",
+      "TW": "***速度加快***"
     }
   },
   "***Timed Out***": {
     "translation": "***超时***",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "***タイムアウト***",
       "CN": "***超时***",
-      "KR": "",
+      "KR": "시간 초과***",
       "TW": ""
     }
   },
@@ -485,7 +485,7 @@
       "US": "",
       "JP": "",
       "CN": "***火车来了***",
-      "KR": "",
+      "KR": "***열차에aboarded***",
       "TW": ""
     }
   },
@@ -493,9 +493,9 @@
     "translation": "***热身回合***",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "***ウォームアップラウンド***",
       "CN": "***热身回合***",
-      "KR": "",
+      "KR": "***wärm up roun*d***",
       "TW": ""
     }
   },
@@ -503,9 +503,9 @@
     "translation": "***热身回合结束***",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "***ウォームアップラウンド終了***",
       "CN": "***热身回合结束***",
-      "KR": "",
+      "KR": "***wärm up round end***",
       "TW": ""
     }
   },
@@ -513,90 +513,90 @@
     "translation": "***墙已被捡起***",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "***壁が持ち上げられた***",
       "CN": "***墙已被捡起***",
-      "KR": "",
-      "TW": ""
+      "KR": "ウォール拾起***",
+      "TW": "***牆擲起***"
     }
   },
   "***Wind picked up***": {
     "translation": "***风已被捡起***",
     "MultiLang": {
-      "US": "",
-      "JP": "",
+      "US": "***The wind picked up***",
+      "JP": "***風が強まり始めた***",
       "CN": "***风已被捡起***",
-      "KR": "",
-      "TW": ""
+      "KR": "***바람이 불 beg***",
+      "TW": "***風吹起***"
     }
   },
   "***You clear sofa mode***": {
     "translation": "***你已通关沙发模式***",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "***あなたはソファモードをクリアしました***",
       "CN": "***你已通关沙发模式***",
-      "KR": "",
-      "TW": ""
+      "KR": "***당신이 소파 모드를 클리어하셨습니다***",
+      "TW": "***你清除了沙發模式***"
     }
   },
   "***Zombie picked up Freeze***": {
     "translation": "***僵尸已捡起冰***",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "***ゾンビがfreeze拾い上げ***",
       "CN": "***僵尸已捡起冰***",
-      "KR": "",
-      "TW": ""
+      "KR": "***좀비가凍結 Pickup***",
+      "TW": "***殭屍拾取了凍結***"
     }
   },
   "***Zombie picked up Gravity***": {
     "translation": "***僵尸已捡起黑洞***",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "***ゾンビが重力を拾った***",
       "CN": "***僵尸已捡起黑洞***",
-      "KR": "",
-      "TW": ""
+      "KR": "***좀비가 중력捡起***",
+      "TW": "***殭屍拾取了 gravitiy***"
     }
   },
   "***Zombie picked up Jump***": {
     "translation": "***僵尸已捡起高跳***",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "***ゾンビがジャンプを拾った***",
       "CN": "***僵尸已捡起高跳***",
-      "KR": "",
-      "TW": ""
+      "KR": "***ゾンビがジャンプ拾取***",
+      "TW": "***殭屍拾取跳躍***"
     }
   },
   "***Zombie picked up Laser***": {
     "translation": "***僵尸已捡起激光***",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "***ゾンビがレーザーを拾いました***",
       "CN": "***僵尸已捡起激光***",
-      "KR": "",
-      "TW": ""
+      "KR": "***ゾンビがレーザー拾いました***",
+      "TW": "***殭屍拾起了激光***"
     }
   },
   "***Zombie picked up Nuke***": {
     "translation": "***僵尸已捡起核弹***",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "***ゾンビが核爆弾を拾い上げた***",
       "CN": "***僵尸已捡起核弹***",
-      "KR": "",
-      "TW": ""
+      "KR": "***좀비가 핵을 집었다***",
+      "TW": "***殭屍拾起核彈***"
     }
   },
   "***Zombie picked up Pizza***": {
     "translation": "***僵尸已捡起披萨***",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "***ゾンビがピザを拾いました***",
       "CN": "***僵尸已捡起披萨***",
-      "KR": "",
-      "TW": ""
+      "KR": "***좀비가 피자 집었다***",
+      "TW": "***殭屍拾起比薩***"
     }
   },
   "***bunnyhopping enable***": {
@@ -616,16 +616,16 @@
       "JP": "",
       "CN": "***手雷已被捡起***",
       "KR": "",
-      "TW": ""
+      "TW": "***手榴彈拾取***"
     }
   },
   "[MUSIC]  Avicii - Waiting for Love": {
     "translation": "[MUSIC]  Avicii - Waiting for Love",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "[MUSIC] アビィー・アイイ - Loving You",
       "CN": "[MUSIC]  Avicii - Waiting for Love",
-      "KR": "",
+      "KR": "[MUSIC] 아비趔이 - 사랑을 기다리고 있습니다",
       "TW": ""
     }
   },
@@ -633,19 +633,19 @@
     "translation": "[MUSIC] Camellia vs Akira Complex - Reality Distortion",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "[MUSIC] キャミロイア-vs-Akira コンプレックス - リアルティ・ディストーション",
       "CN": "[MUSIC] Camellia vs Akira Complex - Reality Distortion",
-      "KR": "",
-      "TW": ""
+      "KR": "[MUSIC] 카멜리아 vs 아키라 복잡 - 현실 왜곡",
+      "TW": "[ MUSIC ] 山茶花對acerbika - 覞性扭曲"
     }
   },
   "[MUSIC] I'm Gonna Be - The Proclaimers Remix": {
     "translation": "[MUSIC] I'm Gonna Be - The Proclaimers Remix",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "[MUSIC] 私はプロフェッ官宣告者バージョン Remix",
       "CN": "[MUSIC] I'm Gonna Be - The Proclaimers Remix",
-      "KR": "",
+      "KR": "[MUSIC] 나는 gonna be - The Proclaimers 리믹스",
       "TW": ""
     }
   },
@@ -655,18 +655,18 @@
       "US": "",
       "JP": "",
       "CN": "[MUSIC] Kaneko Chiharu - Silent Blue",
-      "KR": "",
-      "TW": ""
+      "KR": "[MUSIC] 칸에코 치하루 - 청록의 침묵",
+      "TW": "[MUSIC] 漢子和知 - 靜藍"
     }
   },
   "[MUSIC] Kaneko Chiharu - TEmPTaTiON": {
     "translation": "[MUSIC] Kaneko Chiharu - TEmPTaTiON",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "[MUSIC] 菅野智昭 - TEmPTaTiON",
       "CN": "[MUSIC] Kaneko Chiharu - TEmPTaTiON",
-      "KR": "",
-      "TW": ""
+      "KR": "[MUSIC] 간에코 치하루 - TEmPTaTiON",
+      "TW": "[MUSIC] 漢內 庆良 - TEmPTaTiON"
     }
   },
   "[MUSIC] Pendulum - Crush": {
@@ -675,7 +675,7 @@
       "US": "",
       "JP": "",
       "CN": "[MUSIC] Pendulum - Crush",
-      "KR": "",
+      "KR": "[MUSIC] 페달럼 - 크라ッシュ",
       "TW": ""
     }
   },
@@ -683,10 +683,10 @@
     "translation": "[MUSIC] Pendulum - Encoder",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "[MUSIC] ペンデュラム - エンコーダ",
       "CN": "[MUSIC] Pendulum - Encoder",
-      "KR": "",
-      "TW": ""
+      "KR": "[MUSIC] 펜더럼 - 인코더",
+      "TW": "[ MUSIC ] 憂鬱者 pendulum - encoder"
     }
   },
   "[MUSIC] Pendulum - Vulture": {
@@ -695,8 +695,8 @@
       "US": "",
       "JP": "",
       "CN": "[MUSIC] Pendulum - Vulture",
-      "KR": "",
-      "TW": ""
+      "KR": "[MUSIC] 펜들럼 - 빅터📷",
+      "TW": "[ MUSIC ] 憑啷頓 - 鷹👋"
     }
   },
   "[MUSIC] Pendulum - Witchcraft": {
@@ -705,8 +705,8 @@
       "US": "",
       "JP": "",
       "CN": "[MUSIC] Pendulum - Witchcraft",
-      "KR": "",
-      "TW": ""
+      "KR": "[MUSIC] 펜텀블럼 - 마술사",
+      "TW": "[ MUSIC ] 樟木 - 巫術"
     }
   },
   "[MUSIC] SimplePlan - Last One Standing": {
@@ -716,7 +716,7 @@
       "JP": "",
       "CN": "[MUSIC] SimplePlan - Last One Standing",
       "KR": "",
-      "TW": ""
+      "TW": "[ MUSIC ] SimplePlan - 最後1個站立"
     }
   },
   "[MUSIC] Talesweaver - Reminiscene": {
@@ -725,18 +725,18 @@
       "US": "",
       "JP": "",
       "CN": "[MUSIC] Talesweaver - Reminiscene",
-      "KR": "",
-      "TW": ""
+      "KR": "[MUSIC] 타일스위버 - 회상",
+      "TW": "[MUSIC] 語王傳說 - 追憶"
     }
   },
   "[MUSIC] Waterflame - Glorious morning": {
     "translation": "[MUSIC] Waterflame - Glorious morning",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "[MUSIC] ウォーターフレイン - 光栄な朝",
       "CN": "[MUSIC] Waterflame - Glorious morning",
-      "KR": "",
-      "TW": ""
+      "KR": "[MUSIC] 워터플레임 - 영광의 아침",
+      "TW": "[ MUSIC ] 水焰 - 光榮的早晨"
     }
   },
   "[MUSIC] We Are Number One Remix but by The Living Tombstone": {
@@ -746,7 +746,7 @@
       "JP": "",
       "CN": "[MUSIC] We Are Number One Remix but by The Living Tombstone",
       "KR": "",
-      "TW": ""
+      "TW": "[MUSIC] 我們是冠軍Remix但由The Living Tombstone"
     }
   },
   "[MUSIC] a_hisa - Snow Cloud": {
@@ -755,7 +755,7 @@
       "US": "",
       "JP": "",
       "CN": "[MUSIC] a_hisa - Snow Cloud",
-      "KR": "",
+      "KR": "[음악] a_hisa - 눈loud",
       "TW": ""
     }
   },
@@ -766,7 +766,7 @@
       "JP": "",
       "CN": "[MUSIC] a_hisa - floral",
       "KR": "",
-      "TW": ""
+      "TW": "[ MUSIC ] a_hisa - 花卉"
     }
   }
 }
