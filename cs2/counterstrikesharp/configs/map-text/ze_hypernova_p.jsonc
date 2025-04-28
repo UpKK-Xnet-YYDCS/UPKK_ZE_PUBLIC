@@ -3,39 +3,39 @@
     "translation": "**货舱上部门将在15秒内开启**",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "**貨物艙上部 Doors opening in 15s**",
       "CN": "**货舱上部门将在15秒内开启**",
-      "KR": "",
-      "TW": ""
+      "KR": "**화물 섹션 상단 문 열리는 중 15s**",
+      "TW": "**貨倉上部門開啟倒計時15s**"
     }
   },
   "** Cargo secction upper door opening in 5s**": {
     "translation": "**货舱上部门将在5秒内开启**",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "**貨物部上部ドア開くまで5秒**",
       "CN": "**货舱上部门将在5秒内开启**",
-      "KR": "",
-      "TW": ""
+      "KR": "** 화물 섹션 상단 문 열림 в 5초**",
+      "TW": "*** 貨倉上門開啟倒計時 5s ***"
     }
   },
   "**All zombies will get teleported to the infected pod**": {
     "translation": "**所有僵尸将被传送到感染舱**",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "***全てのゾンビは感染したポッドに TELEPORT されます***",
       "CN": "**所有僵尸将被传送到感染舱**",
-      "KR": "",
-      "TW": ""
+      "KR": "전체 블라이즈가 감염된 포드로Teleported>>传送",
+      "TW": "所有殭屍將被 TELEPORTED 到感染 Pods 中>>"
     }
   },
   "**And also thanks to i3D Community and Supreme Elite Community**": {
     "translation": "**并感谢i3D社区和Supreme Elite社区**",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "***そしてi3Dコミュニティとスーパーエliteコミュニティに感謝します***",
       "CN": "**并感谢i3D社区和Supreme Elite社区**",
-      "KR": "",
+      "KR": "***그리고 또한 i3D 커뮤니티와 Supreme Elite 커뮤니티에 감사합니다***",
       "TW": ""
     }
   },
@@ -43,10 +43,10 @@
     "translation": "**货舱电梯将在15秒内离开**",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "**貨物 Elevator 達 15 秒後啟動**",
       "CN": "**货舱电梯将在15秒内离开**",
-      "KR": "",
-      "TW": ""
+      "KR": "**화물승강기 15초 후 출발**",
+      "TW": "貨倉升降機leave in 15 s"
     }
   },
   "**Cargo lift leaving in 30 s**": {
@@ -55,8 +55,8 @@
       "US": "",
       "JP": "",
       "CN": "**货舱电梯将在30秒内离开**",
-      "KR": "",
-      "TW": ""
+      "KR": "**화물승강기 30초 후 작동**",
+      "TW": "***貨梯30秒後啟動***"
     }
   },
   "**Cargo lift leaving in 5 s**": {
@@ -65,7 +65,7 @@
       "US": "",
       "JP": "",
       "CN": "**货舱电梯将在5秒内离开**",
-      "KR": "",
+      "KR": "***하중승강장 5초 후 출발***",
       "TW": ""
     }
   },
@@ -73,49 +73,49 @@
     "translation": "**中央部分正在离开结构**",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "★★中央部から構造を離れる★★",
       "CN": "**中央部分正在离开结构**",
-      "KR": "",
-      "TW": ""
+      "KR": "**중앙부 구조 떠나기**",
+      "TW": "***中央部位離開結構***"
     }
   },
   "**Central section sealing in 15 s**": {
     "translation": "**中央部分将在15秒内封闭**",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "***中央部密封中 15 s***",
       "CN": "**中央部分将在15秒内封闭**",
-      "KR": "",
-      "TW": ""
+      "KR": "**중앙부 밀봉 후 15 s**",
+      "TW": "***中央封鎖倒計時 15 s***"
     }
   },
   "**Central section sealing in 5 s**": {
     "translation": "**中央部分将在5秒内封闭**",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "***中央密封5秒***",
       "CN": "**中央部分将在5秒内封闭**",
-      "KR": "",
-      "TW": ""
+      "KR": "**중앙부 완전密封 5초 후**",
+      "TW": "中央部位封鎖計時5秒"
     }
   },
   "**Closing gravity tower upper access**": {
     "translation": "**关闭重力塔上部通道**",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "★★閉鎖重力塔上部アクセス★★",
       "CN": "**关闭重力塔上部通道**",
-      "KR": "",
-      "TW": ""
+      "KR": "***중력 탑 상부 접근 폐쇄***",
+      "TW": "★★關閉重力塔上部 Entrance★★"
     }
   },
   "**Crate locking gravity tower access**": {
     "translation": "**箱子锁定重力塔通道**",
     "MultiLang": {
-      "US": "",
+      "US": "**Crate Locking Gravity Tower Access**",
       "JP": "",
       "CN": "**箱子锁定重力塔通道**",
-      "KR": "",
+      "KR": "★★크레이트 잠금 중력 타워 접근★★",
       "TW": ""
     }
   },
@@ -123,30 +123,30 @@
     "translation": "**不要让僵尸进入舱**",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "***ゾンビがポッドに感染させない***",
       "CN": "**不要让僵尸进入舱**",
-      "KR": "",
-      "TW": ""
+      "KR": "좀비가 포드에 감염되지 않도록하세요",
+      "TW": "***不要允許殭屍感染載具***"
     }
   },
   "**Door malfunction**": {
     "translation": "**门故障了**",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "***扉の故障***",
       "CN": "**门故障了**",
-      "KR": "",
-      "TW": ""
+      "KR": "문扉異常",
+      "TW": "***門 malfunction***"
     }
   },
   "**Double doors sealing in 15s**": {
     "translation": "**双门将在15秒内封闭**",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "***2重扉封鎖 15秒後***",
       "CN": "**双门将在15秒内封闭**",
       "KR": "",
-      "TW": ""
+      "TW": "雙門封鎖倒計時15s ***"
     }
   },
   "**Double doors sealing in 5s**": {
@@ -155,27 +155,27 @@
       "US": "",
       "JP": "",
       "CN": "**双门将在5秒内封闭**",
-      "KR": "",
-      "TW": ""
+      "KR": "**중문 두 대를 5초 후에 닫습니다**",
+      "TW": "雙重門封鎖倒數5s"
     }
   },
   "**Generator Elevator is leaving**": {
     "translation": "**发电机电梯即将离开**",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "ジェネレータエレベーターは離去中",
       "CN": "**发电机电梯即将离开**",
-      "KR": "",
-      "TW": ""
+      "KR": "**발전기 엘리베이터가 이동합니다**",
+      "TW": "**發電機升降機正在離開**"
     }
   },
   "**Generator Elevator leaving 15 s**": {
     "translation": "**发电机电梯将在15秒内离开**",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "**ジェネレータエレベーター離去 15 s**",
       "CN": "**发电机电梯将在15秒内离开**",
-      "KR": "",
+      "KR": "**발전기 엘리베이터 남은 시간 15 s**",
       "TW": ""
     }
   },
@@ -183,9 +183,9 @@
     "translation": "**发电机电梯将在25秒内离开**",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "ジェネレータエレベーター離去まで25 s",
       "CN": "**发电机电梯将在25秒内离开**",
-      "KR": "",
+      "KR": "**발전기 엘리베이터 출발까지 25 s**",
       "TW": ""
     }
   },
@@ -193,40 +193,40 @@
     "translation": "**巨星处于危急状态**",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "★★巨大な星が緊急状態に★★",
       "CN": "**巨星处于危急状态**",
-      "KR": "",
-      "TW": ""
+      "KR": "★★대형 별이 긴급 상황에 처해 있습니다★★",
+      "TW": "***巨星處於危急情況***"
     }
   },
   "**Giant red star is unstable**": {
     "translation": "**红色巨星不稳定**",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "巨大な赤い星は不安定です",
       "CN": "**红色巨星不稳定**",
-      "KR": "",
-      "TW": ""
+      "KR": "***거대한 빨간별은 불안정합니다***",
+      "TW": "★★巨紅星不穩定★★"
     }
   },
   "**Go to the top of the station and find scape pods**": {
     "translation": "**前往车站顶部寻找逃生舱**",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "***駅の最上部まで行き、scape podsを見つけろ***",
       "CN": "**前往车站顶部寻找逃生舱**",
-      "KR": "",
-      "TW": ""
+      "KR": "стан션의 끝부분으로 이동하여 scape pods를 찾으세요",
+      "TW": "**去车站頂部找到逃生艙**"
     }
   },
   "**Gravity of the blackhole is very strong**": {
     "translation": "**黑洞的引力非常强**",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "黑洞の重力は非常に強い])**",
       "CN": "**黑洞的引力非常强**",
-      "KR": "",
-      "TW": ""
+      "KR": "중력은 매우 강합니다 ***",
+      "TW": "**黑洞的引力非常強**"
     }
   },
   "**Gravity tower acces breaking crate in 5s**": {
@@ -235,7 +235,7 @@
       "US": "",
       "JP": "",
       "CN": "**重力塔通道的箱子将在5秒内破裂**",
-      "KR": "",
+      "KR": "중력 탑 접근 통로 해체 박스 5초 후 접속",
       "TW": ""
     }
   },
@@ -243,9 +243,9 @@
     "translation": "**Eddie制作地图 翻译：Asteri3m**",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "マップ由Eddie制作",
       "CN": "**Eddie制作地图 翻译：Asteri3m**",
-      "KR": "",
+      "KR": "**맵_by_Eddie**",
       "TW": ""
     }
   },
@@ -253,30 +253,30 @@
     "translation": "**舱门将在10秒内关闭**",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "***ポッドアクセスドアは10秒後閉鎖***",
       "CN": "**舱门将在10秒内关闭**",
-      "KR": "",
-      "TW": ""
+      "KR": "***포드 접근 문이 10 초 후에 닫힙니다***",
+      "TW": "***Pod存取門將於10秒後關閉***"
     }
   },
   "**Pod access door will close in 20 s**": {
     "translation": "**舱门将在20秒内关闭**",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "***ポッドアクセスドアは20秒後に閉鎖されます***",
       "CN": "**舱门将在20秒内关闭**",
-      "KR": "",
-      "TW": ""
+      "KR": "***포드액세스문이 20초 후에 닫힙니다***",
+      "TW": "***Pod存取門將會關閉於20 s之后***"
     }
   },
   "**Pod access door will close in 5 s**": {
     "translation": "**舱门将在5秒内关闭**",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "**Podアクセス Doorsaura将在5秒后关闭**",
       "CN": "**舱门将在5秒内关闭**",
-      "KR": "",
-      "TW": ""
+      "KR": "***포드 액세스 문이 5초 후에 닫힙니다***",
+      "TW": "**Pod 出入門將會關閉於 5 s**"
     }
   },
   "**Pods are leaving the dangerous area**": {
@@ -285,8 +285,8 @@
       "US": "",
       "JP": "",
       "CN": "**舱正在离开危险区域**",
-      "KR": "",
-      "TW": ""
+      "KR": "***보트는 위험 지역을 떠납니다***",
+      "TW": "Pods 正離開危險區域 **"
     }
   },
   "**Pods are leaving the platform**": {
@@ -295,17 +295,17 @@
       "US": "",
       "JP": "",
       "CN": "**舱正在离开平台**",
-      "KR": "",
-      "TW": ""
+      "KR": "Pods는 플랫폼을 떠나고 있습니다 **",
+      "TW": "*** Pods 離開平台 ***"
     }
   },
   "**Pods wil departure in 1 minute**": {
     "translation": "**舱将在60秒内启程**",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "***ポッズは1分後に出発します***",
       "CN": "**舱将在60秒内启程**",
-      "KR": "",
+      "KR": "보드는 1분 후에 출발합니다 ***",
       "TW": ""
     }
   },
@@ -313,19 +313,19 @@
     "translation": "**舱将在120秒内启程**",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "Pods akan 2分後に departureします **",
       "CN": "**舱将在120秒内启程**",
-      "KR": "",
-      "TW": ""
+      "KR": "** Pods sẽ xuất phát trong 2 phút **",
+      "TW": "**Pods 將於 2 分鐘後起飛**"
     }
   },
   "**Push zombies at the rear section of each pod**": {
     "translation": "**将僵尸推进到每个舱的后部**",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "***各ポッドの後部に Zombies を押し込む***",
       "CN": "**将僵尸推进到每个舱的后部**",
-      "KR": "",
+      "KR": "***포드의 후부 섹션에 몬스터들을 밀어넣으세요***",
       "TW": ""
     }
   },
@@ -333,59 +333,59 @@
     "translation": "**后部结构正在离开**",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "**後部離脱结构**",
       "CN": "**后部结构正在离开**",
-      "KR": "",
-      "TW": ""
+      "KR": "**-backend separating from the structure**",
+      "TW": "尾段離開結構"
     }
   },
   "**Rear section sealing in 15 s**": {
     "translation": "**后部结构将在15秒内封闭**",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "**後部密封在15秒内完成**",
       "CN": "**后部结构将在15秒内封闭**",
-      "KR": "",
-      "TW": ""
+      "KR": "** Rear 섹션 시공 15 s **",
+      "TW": "尾部密封倒數 15 s"
     }
   },
   "**Rear section sealing in 5 s**": {
     "translation": "**后部结构将在5秒内封闭**",
     "MultiLang": {
-      "US": "",
-      "JP": "",
+      "US": "**Aft seal in 5 s**",
+      "JP": "***後部密封於5秒後開始***",
       "CN": "**后部结构将在5秒内封闭**",
-      "KR": "",
-      "TW": ""
+      "KR": "**후부 밀봉 5 s 후**",
+      "TW": "尾部密封於5秒後開始"
     }
   },
   "**Sealing double doors**": {
     "translation": "**密封双门**",
     "MultiLang": {
-      "US": "",
-      "JP": "",
+      "US": "***Sealed Double Doors***",
+      "JP": "封じる双門***",
       "CN": "**密封双门**",
-      "KR": "",
-      "TW": ""
+      "KR": "***시크림 중문***",
+      "TW": "**密封雙門**"
     }
   },
   "**Sealing elevator acces for security**": {
     "translation": "**为了安全封闭电梯通道**",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "*** Elevator access 封锁 以保安全***",
       "CN": "**为了安全封闭电梯通道**",
-      "KR": "",
-      "TW": ""
+      "KR": "**경비를 위해 엘리베이터 출입을 제한합니다**",
+      "TW": "封锁電梯通道以保安全"
     }
   },
   "**Sections will separate from the pod and will fall to the blackhole**": {
     "translation": "**部分将从舱中分离并掉入黑洞**",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "***セクションはポッドから離れてブラックホールに落下します***",
       "CN": "**部分将从舱中分离并掉入黑洞**",
-      "KR": "",
+      "KR": "***섹션은_pod_로부터분리되어_블랙홀로하강합니다***",
       "TW": ""
     }
   },
@@ -393,60 +393,60 @@
     "translation": "**特别感谢Kaemon和Hannibal (SPA)**",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "SPECIAL THANKS TO Kaemon AND Hannibal (SPA)",
       "CN": "**特别感谢Kaemon和Hannibal (SPA)**",
-      "KR": "",
-      "TW": ""
+      "KR": "SPECIAL Thanks to Kaemon and Hannibal (SPA)",
+      "TW": "**特別感謝Kaemon和Hannibal (SPA)**"
     }
   },
   "**Station will not resist the explosion**": {
     "translation": "**车站将无法承受爆炸**",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "***スタンドは爆発には抵抗しない***",
       "CN": "**车站将无法承受爆炸**",
-      "KR": "",
-      "TW": ""
+      "KR": "стан션은 폭발에 저항하지 않으시오**",
+      "TW": "***站台將不會抵抗爆炸***"
     }
   },
   "**The star has exploded**": {
     "translation": "**恒星已经爆炸**",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "★★星雲が爆発した★",
       "CN": "**恒星已经爆炸**",
-      "KR": "",
-      "TW": ""
+      "KR": "-Star가 폭발했습니다-",
+      "TW": "***星體爆炸***"
     }
   },
   "**You should cover both escape pods**": {
     "translation": "**你应该防守两个逃生舱**",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "**あなたは両方の脱出カプセルを覆いかぶさる必要があります**",
       "CN": "**你应该防守两个逃生舱**",
-      "KR": "",
-      "TW": ""
+      "KR": "***你应该覆盖两个逃生舱***",
+      "TW": "您應 COVER BOTH ESCAPE PODS ***"
     }
   },
   "**What the hell...**": {
     "translation": "",
     "MultiLang": {
       "US": "",
-      "JP": "",
-      "CN": "",
-      "KR": "",
-      "TW": ""
+      "JP": "WHAT THE HELL...",
+      "CN": "***我的天...***",
+      "KR": "뭐请点击什么...",
+      "TW": "***艱何......***"
     }
   },
   "**A blackhole!**": {
     "translation": "",
     "MultiLang": {
       "US": "",
-      "JP": "",
-      "CN": "",
-      "KR": "",
-      "TW": ""
+      "JP": "***ブラックホール！***",
+      "CN": "**1个黑洞！**",
+      "KR": "**ブラックホール！**",
+      "TW": "**1個黑洞！**"
     }
   }
 }

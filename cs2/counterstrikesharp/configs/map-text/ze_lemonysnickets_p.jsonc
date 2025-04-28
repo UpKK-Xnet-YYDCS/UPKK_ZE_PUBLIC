@@ -3,9 +3,9 @@
     "translation": "*剩余10秒！*",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "*10秒後に切れる!*",
       "CN": "*剩余10秒！*",
-      "KR": "",
+      "KR": "*10 초 남음!*",
       "TW": ""
     }
   },
@@ -13,9 +13,9 @@
     "translation": "*剩余5秒！*",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "*5秒後に鳴きます!*",
       "CN": "*剩余5秒！*",
-      "KR": "",
+      "KR": "*5초 남음!*",
       "TW": ""
     }
   },
@@ -23,9 +23,9 @@
     "translation": "*剩余5秒*",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "5秒後に始まる*",
       "CN": "*剩余5秒*",
-      "KR": "",
+      "KR": "*5 초 남음*",
       "TW": ""
     }
   },
@@ -33,9 +33,9 @@
     "translation": "*剩余5秒！*",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "*5秒後に Explosion!*",
       "CN": "*剩余5秒！*",
-      "KR": "",
+      "KR": "*5초 남음!*",
       "TW": ""
     }
   },
@@ -43,19 +43,19 @@
     "translation": "*剩余5秒，门要开了！！*",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "*5秒後ゲート開く!!*",
       "CN": "*剩余5秒，门要开了！！*",
-      "KR": "",
-      "TW": ""
+      "KR": "*5초 후 문이 열립니다!!*",
+      "TW": "*5秒後大門開啟!!*"
     }
   },
   "*5s left! Get ready to run!*": {
     "translation": "*剩余5秒！准备跑！*",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "5秒後に！走るために準備をして!*",
       "CN": "*剩余5秒！准备跑！*",
-      "KR": "",
+      "KR": "*5s 남았습니다! 달릴 준비를 하세요!*",
       "TW": ""
     }
   },
@@ -63,130 +63,130 @@
     "translation": "*后门开了*",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "＊後方入口開放＊",
       "CN": "*后门开了*",
-      "KR": "",
-      "TW": ""
+      "KR": "*후문 열림*",
+      "TW": "*[後門開放]*"
     }
   },
   "*Castle Doors Open!*": {
     "translation": "*城堡门开了！*",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "※城門開く！※",
       "CN": "*城堡门开了！*",
-      "KR": "",
-      "TW": ""
+      "KR": "*>& 성지 문이 열렸다!*&",
+      "TW": "!*要塞之門開啟!*"
     }
   },
   "*Castle Doors open in 15s!*": {
     "translation": "*城堡门将在15秒后打开！*",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "*城门在15s后打开!*",
       "CN": "*城堡门将在15秒后打开！*",
-      "KR": "",
-      "TW": ""
+      "KR": "*[성문이 15초 후에 열립니다!]*",
+      "TW": "*堡壘門扉開啟於15s!*"
     }
   },
   "*Defend Inside for 45s!*": {
     "translation": "*在里面防守45秒！*",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "*45秒以内守備!*",
       "CN": "*在里面防守45秒！*",
-      "KR": "",
-      "TW": ""
+      "KR": "*내부 방어 45s!*",
+      "TW": "*內防45s!*"
     }
   },
   "*Defend here for 30 Seconds*": {
     "translation": "*在这里防守30秒*",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "*30秒で守り続ける*",
       "CN": "*在这里防守30秒*",
-      "KR": "",
-      "TW": ""
+      "KR": "*30초간 여기 방어하기*",
+      "TW": "*守護這裡30秒*"
     }
   },
   "*Gate will open in 20 seconds!*": {
     "translation": "*门将在20秒后打开！*",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "*ゲートが20秒後に開きます!*",
       "CN": "*门将在20秒后打开！*",
-      "KR": "",
-      "TW": ""
+      "KR": "*망gate sẽ mở trong 20 giây!*",
+      "TW": "*閘門將在20秒後開啟!*"
     }
   },
   "*Gate will open in 55 seconds!*": {
     "translation": "*门将在55秒后打开！*",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "*ゲートが開くまで55秒!*",
       "CN": "*门将在55秒后打开！*",
-      "KR": "",
-      "TW": ""
+      "KR": "*문이 열리는 중입니다! 55초 후에 개방!*",
+      "TW": "*閘門將在55秒後開啟!*"
     }
   },
   "*Gates are open!*": {
     "translation": "*门已打开！*",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "ゲートが開かれています！",
       "CN": "*门已打开！*",
-      "KR": "",
-      "TW": ""
+      "KR": "{*문이 열렸습니다!*}",
+      "TW": "門已打開!*"
     }
   },
   "*Hold for another 10s!*": {
     "translation": "*再防守10秒！*",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "*10秒後に解放!*",
       "CN": "*再防守10秒！*",
-      "KR": "",
-      "TW": ""
+      "KR": "*다른 10초간 지키세요!*",
+      "TW": "* HOLD FOR ANOTHER 10S!*"
     }
   },
   "*Hold here for 30s!*": {
     "translation": "*在这里防守30秒！*",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "*ここに30秒 HOLD!*",
       "CN": "*在这里防守30秒！*",
-      "KR": "",
-      "TW": ""
+      "KR": "*여기 유지해 30초!*",
+      "TW": "* HOLD HERE FOR 30S!*"
     }
   },
   "*Hold here for 65 s*": {
     "translation": "*在这里防守65秒*",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "*ここに持つこと65秒*",
       "CN": "*在这里防守65秒*",
-      "KR": "",
-      "TW": ""
+      "KR": "*여기 유지해 65 s*",
+      "TW": "* HOLD HERE FOR 65 S *"
     }
   },
   "*Jump into the middle of the portal!*": {
     "translation": "*跳入传送门的中央！*",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "* портал в центр!*",
       "CN": "*跳入传送门的中央！*",
-      "KR": "",
-      "TW": ""
+      "KR": "*중간에 포털로 점프!*",
+      "TW": "*跳入 portals 中間!*"
     }
   },
   "*Map created by Snake*": {
     "translation": "*地图作者：Snake 翻译：Asteri3m*",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "*マップを作成したSnake*",
       "CN": "*地图作者：Snake 翻译：Asteri3m*",
-      "KR": "",
-      "TW": ""
+      "KR": "*지도 생성자 Snake*",
+      "TW": "*地圖由Snake創作*"
     }
   },
   "*Portal 100 percent charged!*": {
@@ -195,17 +195,17 @@
       "US": "",
       "JP": "",
       "CN": "*传送门已充能100%！*",
-      "KR": "",
-      "TW": ""
+      "KR": "*[100％ 충전되었습니다!]*",
+      "TW": "*[電池充至100percent!]!*"
     }
   },
   "*Portal 25 percent charged*": {
     "translation": "*传送门已充能25%*",
     "MultiLang": {
-      "US": "",
-      "JP": "",
+      "US": "*Portal 25% charged*",
+      "JP": "*ポートル充電 25 percent*",
       "CN": "*传送门已充能25%*",
-      "KR": "",
+      "KR": "*포털 25 percent charged*",
       "TW": ""
     }
   },
@@ -213,110 +213,110 @@
     "translation": "*传送门已充能50%！*",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "*ポータル 50 percent charged!*",
       "CN": "*传送门已充能50%！*",
-      "KR": "",
-      "TW": ""
+      "KR": "*포탈 50 퍼센트 충전!*",
+      "TW": "*[ portals 充電中 50% ]!*"
     }
   },
   "*Portal 75 percent charged!!*": {
     "translation": "*传送门已充能75%！！*",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "*ポータル 75 percentcharged!!*",
       "CN": "*传送门已充能75%！！*",
       "KR": "",
-      "TW": ""
+      "TW": "*[電池充至75％!!]*"
     }
   },
   "*Portal is Charging*": {
     "translation": "*传送门正在充能中*",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "*ゲートローター充電中*",
       "CN": "*传送门正在充能中*",
-      "KR": "",
-      "TW": ""
+      "KR": "门户正在充电*",
+      "TW": "*[ Portal 正在充能]*"
     }
   },
   "*Rocket Launched!*": {
     "translation": "*火箭发射！*",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "*ロケット発射!*",
       "CN": "*火箭发射！*",
-      "KR": "",
-      "TW": ""
+      "KR": "*로켓 발사!*",
+      "TW": "*火箭發射!*"
     }
   },
   "*Someone has to get inside to open the doors*": {
     "translation": "*必须有人进去开门*",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "*誰か扉を開けるために中に入らなければならない*",
       "CN": "*必须有人进去开门*",
-      "KR": "",
-      "TW": ""
+      "KR": "*누군가 문을 열기 위해 안으로 들어가야 한다*",
+      "TW": "*有人必須進去開門*"
     }
   },
   "*Survive another 30 seconds!*": {
     "translation": "*再生存30秒！*",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "*30秒以上生還!*",
       "CN": "*再生存30秒！*",
-      "KR": "",
-      "TW": ""
+      "KR": "*다른 30초 생존!*",
+      "TW": "*[再生存30秒！]*"
     }
   },
   "*You're taking too long!*": {
     "translation": "*你们拖太久了！*",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "*君は時間がかかりすぎる!*",
       "CN": "*你们拖太久了！*",
-      "KR": "",
-      "TW": ""
+      "KR": "*너는 너무 늦다!*",
+      "TW": "*你花費時間太長!*"
     }
   },
   "*Zombie boat door broken!*": {
     "translation": "*僵尸船门被打破了！*",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "*ゾンビボートの扉破損!*",
       "CN": "*僵尸船门被打破了！*",
-      "KR": "",
-      "TW": ""
+      "KR": "Zombie 선체 문 파손!*",
+      "TW": "*[船上的殭屍門破了！]*"
     }
   },
   "*Zombie boat is leaving!*": {
     "translation": "*僵尸船正在离开！*",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "ゾンビボートが去ります！",
       "CN": "*僵尸船正在离开！*",
-      "KR": "",
-      "TW": ""
+      "KR": "*[좀비 배가 떠나감!]!*",
+      "TW": "*[殭屍船隻起航!]*"
     }
   },
   "*Zombie boat leaving in 10s*": {
     "translation": "*僵尸船将在10秒后离开！*",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "ゾンビボート離脱10秒後に開始",
       "CN": "*僵尸船将在10秒后离开！*",
-      "KR": "",
-      "TW": ""
+      "KR": "*좀비 배가 10초 후에 떠납니다*",
+      "TW": "*喪屍船隻10秒後離開*"
     }
   },
   "*Zombies have crawled through the window!*": {
     "translation": "*僵尸从窗户进来了！*",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "ゾンビが窓から這い出た！",
       "CN": "*僵尸从窗户进来了！*",
-      "KR": "",
-      "TW": ""
+      "KR": "*[좀비들이 창문을 기어들쳤다!]()*",
+      "TW": "*[丧屍爬進了窗子!]*"
     }
   }
 }

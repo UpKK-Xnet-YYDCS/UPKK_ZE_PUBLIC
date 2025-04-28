@@ -26,7 +26,7 @@
       "JP": "",
       "CN": "*** 还剩20秒 ***",
       "KR": "",
-      "TW": ""
+      "TW": "*** 20 秒鐘剩余 ***"
     }
   },
   "*** 40 SECONDS LEFT ***": {
@@ -36,13 +36,13 @@
       "JP": "",
       "CN": "*** 还剩40秒 ***",
       "KR": "",
-      "TW": ""
+      "TW": "*** 40 秒倒數 ***"
     }
   },
   "*** 40 SECONDS left ***": {
     "translation": "*** 还剩40秒钟 ***",
     "MultiLang": {
-      "US": "",
+      "US": "*** 40 SECONDS LEFT ***",
       "JP": "",
       "CN": "*** 还剩40秒钟 ***",
       "KR": "",
@@ -56,7 +56,7 @@
       "JP": "",
       "CN": "*** 还剩5秒 ***",
       "KR": "",
-      "TW": ""
+      "TW": "*** 5 秒鐘剩餘 ***"
     }
   },
   "*** 60 SECONDS LEFT ***": {
@@ -76,7 +76,7 @@
       "JP": "",
       "CN": "*** 还剩80秒 ***",
       "KR": "",
-      "TW": ""
+      "TW": "*** 80 秒後***"
     }
   },
   "*** ALL PLAYERS ARE TELEPORTED ***": {
@@ -85,7 +85,7 @@
       "US": "",
       "JP": "",
       "CN": "*** 所有玩家已传送 ***",
-      "KR": "",
+      "KR": "*** 모든 플레이어가 텔레포트 됩니다 ***",
       "TW": ""
     }
   },
@@ -93,40 +93,40 @@
     "translation": "*** 恭喜！已通关 ***",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "*** おめでとうございます！終了 ***",
       "CN": "*** 恭喜！已通关 ***",
-      "KR": "",
-      "TW": ""
+      "KR": "*** 축하합니다! 끝 ***",
+      "TW": "*** 憲章 ! 結束 ***"
     }
   },
   "*** DOOR IS OPEN ***": {
     "translation": "*** 门已打开 ***",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "*** ドアが開いています ***",
       "CN": "*** 门已打开 ***",
-      "KR": "",
-      "TW": ""
+      "KR": "*** 문이 열렸습니다 ***",
+      "TW": "*** 門已打開 ***"
     }
   },
   "*** DOOR OPENING IN 20 SECONDS ***": {
     "translation": "*** 门将在20秒内打开 ***",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "*** ドアが開くまで20秒 ***",
       "CN": "*** 门将在20秒内打开 ***",
-      "KR": "",
-      "TW": ""
+      "KR": "*** 문이 20초 후에 열립니다 ***",
+      "TW": "*** 大門開啓於20秒之後 ***"
     }
   },
   "*** DOOR OPENING IN 50 SECONDS ***": {
     "translation": "*** 门将在50秒内打开 ***",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "*** ドア開けating 50 秒後 ***",
       "CN": "*** 门将在50秒内打开 ***",
-      "KR": "",
-      "TW": ""
+      "KR": "*** 문이 50초 후에 열립니다 ***",
+      "TW": "*** 門将在50秒後開啟 ***"
     }
   },
   "*** END ***": {
@@ -143,10 +143,10 @@
     "translation": "*** 撤退 ***",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "*** 段落撤退 ***",
       "CN": "*** 撤退 ***",
-      "KR": "",
-      "TW": ""
+      "KR": "*** 후퇴 ***",
+      "TW": "*** 返回基地 ***"
     }
   },
   "*** HOLD 120 SECONDS ***": {
@@ -155,7 +155,7 @@
       "US": "",
       "JP": "",
       "CN": "*** 坚持120秒 ***",
-      "KR": "",
+      "KR": "*** 120초간_HOLD ***",
       "TW": ""
     }
   },
@@ -163,9 +163,9 @@
     "translation": "*** 坚持20秒 ***",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "*** 20sekунда држ** ** ***",
       "CN": "*** 坚持20秒 ***",
-      "KR": "",
+      "KR": "*** 20초 유지하기 ***",
       "TW": ""
     }
   },
@@ -173,9 +173,9 @@
     "translation": "*** 坚持25秒 ***",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "*** 25 秒間ホールド ***",
       "CN": "*** 坚持25秒 ***",
-      "KR": "",
+      "KR": "*** 25 초 유지하기 ***",
       "TW": ""
     }
   },
@@ -183,9 +183,9 @@
     "translation": "*** 坚持30秒 ***",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "*** 30秒間ホールド ***",
       "CN": "*** 坚持30秒 ***",
-      "KR": "",
+      "KR": "*** 30초간 잡 유지 ***",
       "TW": ""
     }
   },
@@ -193,9 +193,9 @@
     "translation": "*** 坚持40秒 ***",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "*** 40 秒間ホールド ***",
       "CN": "*** 坚持40秒 ***",
-      "KR": "",
+      "KR": "*** 40초 유지하세요 ***",
       "TW": ""
     }
   },
@@ -203,9 +203,9 @@
     "translation": "*** 坚持5秒 ***",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "*** 5秒間ホールド ***",
       "CN": "*** 坚持5秒 ***",
-      "KR": "",
+      "KR": "*** 5 초간 유지 ***",
       "TW": ""
     }
   },
@@ -213,9 +213,9 @@
     "translation": "*** 坚持50秒 ***",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "*** 50 秒 HOLD ***",
       "CN": "*** 坚持50秒 ***",
-      "KR": "",
+      "KR": "*** 50초 유지하세요 ***",
       "TW": ""
     }
   },
@@ -223,7 +223,7 @@
     "translation": "*** 坚持80秒 ***",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "*** 80秒 HOLD ***",
       "CN": "*** 坚持80秒 ***",
       "KR": "",
       "TW": ""
@@ -233,9 +233,9 @@
     "translation": "*** 将在30秒内离开 ***",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "*** 30sekonda後に離席します ***",
       "CN": "*** 将在30秒内离开 ***",
-      "KR": "",
+      "KR": "*** 30초 후 빠져나갑니다 ***",
       "TW": ""
     }
   },
@@ -243,9 +243,9 @@
     "translation": "*** 将在55秒内离开 ***",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "*** 55秒後に離脱 ***",
       "CN": "*** 将在55秒内离开 ***",
-      "KR": "",
+      "KR": "*** 55초 후 떠납니다 ***",
       "TW": ""
     }
   },
@@ -253,70 +253,70 @@
     "translation": "*** 地图由Rakka制作 翻译：Asteri3m ***",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "*** 地図由Rakka制作 ***",
       "CN": "*** 地图由Rakka制作 翻译：Asteri3m ***",
-      "KR": "",
-      "TW": ""
+      "KR": "*** 맵 만든 Rakka ***",
+      "TW": "*** 圖map由Rakka繪製 ***"
     }
   },
   "*** Map By Rakka *** ": {
     "translation": "*** 地图由Rakka制作 翻译：Asteri3m ***",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "*** 地図由Rakka制作 ***",
       "CN": "*** 地图由Rakka制作 翻译：Asteri3m ***",
-      "KR": "",
-      "TW": ""
+      "KR": "*** 맵 제작자 Rakka ***",
+      "TW": "*** 地圖由Rakka制作 ***"
     }
   },
   "*** THANK YOU FOR PLAYING ***": {
     "translation": "*** 感谢游玩 ***",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "*** 様々なゲームをお楽しみいただきありがとうございます ***",
       "CN": "*** 感谢游玩 ***",
-      "KR": "",
-      "TW": ""
+      "KR": "*** 감사합니다. 게임해주셔서 ***",
+      "TW": "*** 謝謝您玩遊戲 ***"
     }
   },
   "== Map By Rakka ==": {
     "translation": "== 地图由Rakka制作 ==",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "== 地図によってRakka ==",
       "CN": "== 地图由Rakka制作 ==",
-      "KR": "",
-      "TW": ""
+      "KR": "== 맵_by_Rakka ==",
+      "TW": "== 地圖由Rakka繪製 =="
     }
   },
   "== Original Material By Antosha ==": {
     "translation": "== 原素材由Antosha提供 ==",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "== アリュ在游戏中原创 ==",
       "CN": "== 原素材由Antosha提供 ==",
-      "KR": "",
-      "TW": ""
+      "KR": "== 원문 저작권자 Antosha ==",
+      "TW": "== 原創素材由Antosha提供 =="
     }
   },
   "== SPECIAL THANKS : Hweyeon , Tsukasa , Koen ==": {
     "translation": "== 特别感谢：Hweyeon, Tsukasa, Koen ==",
     "MultiLang": {
-      "US": "",
-      "JP": "",
+      "US": "== SPECIAL thanks : Hweyeon , Tsukasa , Koen ==",
+      "JP": "== 特别感谢 : Hweyeon , Tsukasa , Koen ==",
       "CN": "== 特别感谢：Hweyeon, Tsukasa, Koen ==",
-      "KR": "",
-      "TW": ""
+      "KR": "== 특별 감사의 인사 : 희연 , 사 , 켈렌 ==",
+      "TW": "== 特別感謝 : 浑賢 , 渚沙 , 珂恩 =="
     }
   },
   "== THANKS SERVERS : Zeddy Servers ==": {
     "translation": "== 感谢 Zeddy 服务器 ==",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "\"== ありがとうサーバー : Zeddy サーバー ==\"",
       "CN": "== 感谢 Zeddy 服务器 ==",
-      "KR": "",
-      "TW": ""
+      "KR": "== 감사 서버들 : Zeddy 서버들 ==",
+      "TW": "== 感謝伺服器 : Zeddy 伺服器 =="
     }
   },
   "> [ITEM MESSAGE] B.CANNON PICK UP (Cool : 60s) <": {
@@ -345,7 +345,7 @@
       "US": "",
       "JP": "",
       "CN": "> [神器信息] P.PLAZMA拾取（冷却时间：120） <",
-      "KR": "",
+      "KR": "> [아이템 메시지] P.PLAZMA Pickup (쿨타임 : 120s)",
       "TW": ""
     }
   },
@@ -353,7 +353,7 @@
     "translation": "> [神器信息] XOLY拾取（冷却时间：一次性） <",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": ">> [アイテムメッセージ] XOLYピックアップ (クール：一度のみ) <",
       "CN": "> [神器信息] XOLY拾取（冷却时间：一次性） <",
       "KR": "",
       "TW": ""
@@ -363,7 +363,7 @@
     "translation": "> [神器信息] Y.CANNON拾取（冷却时间：30） <",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": ">> [アイテムメッセージ] Y.CANNON Pickup ( Cool : 30s) <",
       "CN": "> [神器信息] Y.CANNON拾取（冷却时间：30） <",
       "KR": "",
       "TW": ""
@@ -373,9 +373,9 @@
     "translation": "> [神器信息] ZM.CANNON拾取（冷却时间：40） <",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": ">> [アイテムメッセージ] ZM.CANNON パイクアップ (コールド：40s) <",
       "CN": "> [神器信息] ZM.CANNON拾取（冷却时间：40） <",
-      "KR": "",
+      "KR": "> [아이템 메시지] ZM.CANNON Pickup (쿨타임 : 40s) <",
       "TW": ""
     }
   },
@@ -393,10 +393,10 @@
     "translation": "彩蛋全部触发...",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "秘密ALLトリガー...",
       "CN": "彩蛋全部触发...",
-      "KR": "",
-      "TW": ""
+      "KR": "비밀 ALL TRIGGER...",
+      "TW": "秘密 ALL TRIGGER..."
     }
   },
   "[ADMINROOMS] change for STAGE 1...": {
@@ -405,8 +405,8 @@
       "US": "",
       "JP": "",
       "CN": "[管理员房间] 切换到关卡1...",
-      "KR": "",
-      "TW": ""
+      "KR": "[ADMINROOMS] 변경 для STAGE 1...",
+      "TW": "[ADMINROOMS] 变更for STAGE 1..."
     }
   },
   "[ADMINROOMS] change for STAGE 2...": {
@@ -415,27 +415,27 @@
       "US": "",
       "JP": "",
       "CN": "[管理员房间] 切换到关卡2...",
-      "KR": "",
-      "TW": ""
+      "KR": "[ADMINROOMS] 변경forSTAGE2...",
+      "TW": "[ADMINROOMS] 变更for STAGE 2..."
     }
   },
   "== Port By SIRloin ==": {
     "translation": "",
     "MultiLang": {
       "US": "",
-      "JP": "",
-      "CN": "",
-      "KR": "",
-      "TW": ""
+      "JP": "== ポート_by_SIRloin ==",
+      "CN": "== 由 SIRloin 引擎 ==",
+      "KR": "== 포트_BY_SIRloin ==",
+      "TW": "== 轉載_by_SIRloin =="
     }
   },
   "*** Port By SIRloin ***": {
     "translation": "",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "*** ポート_by_SIRloin ***",
       "CN": "",
-      "KR": "",
+      "KR": "*** 포트_by_SIRloin ***",
       "TW": ""
     }
   }

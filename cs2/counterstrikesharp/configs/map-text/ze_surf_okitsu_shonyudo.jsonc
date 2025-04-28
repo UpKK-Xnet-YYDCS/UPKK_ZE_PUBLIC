@@ -2,241 +2,241 @@
   "<!> ここが最後の防衛です！ 10 秒 <!>": {
     "translation": "这里是最后的防线！10秒",
     "MultiLang": {
-      "US": "Here's the last defense! **10 seconds**",
-      "JP": "!</> この地点が最終的な防衛線です！10秒 </!>",
+      "US": "<!> This is the last defense! 10 seconds <!>",
+      "JP": "",
       "CN": "这里是最后的防线！10秒",
-      "KR": "!</> 최종 방어지역입니다! 10초 !</>",
-      "TW": "此為最終防禦線！10秒weitai"
+      "KR": "<!> 여기가 마지막 방어입니다! 10 초 <!>",
+      "TW": "<!> 这里是最終防禦！ 10 秒 <!>"
     }
   },
   "<!> ここが最後の防衛です！ 60 秒 <!>": {
     "translation": "这里是最后的防线！60秒",
     "MultiLang": {
-      "US": "Here is the last defense! <60 seconds>",
-      "JP": "<*> この場所が最終防衛です！60秒<*/>",
+      "US": "<!> This is the last defense! 60 seconds <!>",
+      "JP": "",
       "CN": "这里是最后的防线！60秒",
-      "KR": "<> 이これは 마지막 방어라서! 60초 <>",
-      "TW": "此地為最終防線！60秒！"
+      "KR": "<!> 여기가 마지막 방어지점입니다! 60 초 <!>",
+      "TW": "!<ungeons在这里最后的防禦！60秒!>"
     }
   },
   "<!> ドアが開くまで 10 秒 <!>": {
     "translation": "门将在10秒内打开",
     "MultiLang": {
-      "US": "\"Open the door until 10 seconds pass.\"",
-      "JP": "<!>ドアが開くまで 10 秒 <!</>",
+      "US": "<!> Door opens in 10 seconds <!>",
+      "JP": "",
       "CN": "门将在10秒内打开",
-      "KR": "문이 열릴 때까지 10초 입니다 <!>",
-      "TW": "門開key前十秒<!>"
+      "KR": "",
+      "TW": "!<door open in 10 seconds!>"
     }
   },
   "<!> ドアが開くまで 30 秒 <!>": {
     "translation": "门将在30秒内打开",
     "MultiLang": {
-      "US": "\"Door opens in 30 seconds.\"",
-      "JP": "ドアが開くまで 30 秒",
+      "US": "!< Door opens in 30 seconds !>",
+      "JP": "",
       "CN": "门将在30秒内打开",
-      "KR": "게임 문이 열릴 때까지 30초를 기다려주세요 <!>",
-      "TW": "門打開前，請等待三十秒。"
+      "KR": "",
+      "TW": "!<> door_open_30_sec<!>"
     }
   },
   "<!> ドアが開くまで 50 秒 <!>": {
     "translation": "门将在50秒内打开",
     "MultiLang": {
-      "US": "\"Door will open in 50 seconds.\"",
-      "JP": "ドアが開くまで **50秒**",
+      "US": "!<Door opens in 50 seconds!>",
+      "JP": "",
       "CN": "门将在50秒内打开",
-      "KR": "<*> 문이 열릴 때까지 50초 *",
-      "TW": "門打開前，計50秒。"
+      "KR": "",
+      "TW": "<!> 門開啟前 50 秒 <!>"
     }
   },
   "<!> ワイヤーを取り壊すまで 10 秒 <!>": {
     "translation": "拆除电线还有10秒",
     "MultiLang": {
-      "US": "\"Destroy the wires within 10 seconds.\"",
-      "JP": "ワイヤーを取り壊すまで **10秒** まで",
+      "US": "<!> Take down the wire within 10 seconds <!>",
+      "JP": "",
       "CN": "拆除电线还有10秒",
-      "KR": "제어하는 동안 10초까지 와이어를 파괴하십시오.",
-      "TW": "拆掉電線之前，限時10秒。"
+      "KR": "!<> wiryu를 제거하기까지 10 초 !<>",
+      "TW": "<!> 在 10 秒內拆除 Wiring <!>"
     }
   },
   "<!> ワイヤーを取り壊すまで 30 秒 <!>": {
     "translation": "拆除电线还有30秒",
     "MultiLang": {
-      "US": "\"Destroy the wire within 30 seconds.\"",
-      "JP": "ワイヤーを取り壊すまで 30 秒",
+      "US": "<!>拆除电线直到 30 秒 <!>",
+      "JP": "",
       "CN": "拆除电线还有30秒",
-      "KR": "ワイヤーを取り壊すまで 30 秒",
-      "TW": "拆除電線前，請在三十秒內完成。"
+      "KR": "!<> wire를 제거하기 전까지 30 초 <!>",
+      "TW": "<!> 在 30 秒內拆除導線 <!>"
     }
   },
   "<!> ワイヤーを取り壊すまで 50 秒 <!>": {
     "translation": "拆除电线还有50秒",
     "MultiLang": {
-      "US": "Take down the wire within 50 seconds <!>",
-      "JP": "ワイヤーを取り壊すまで 50 秒",
+      "US": "<!> Take down the wire within 50 seconds <!>",
+      "JP": "",
       "CN": "拆除电线还有50秒",
-      "KR": "<wire拆除まで 50秒>",
-      "TW": "摧毁電線之前，時間為50秒。"
+      "KR": "<!>电线拆除完毕前 50 秒 <!>",
+      "TW": "<!> 在 50 秒內拆除線路 <!>"
     }
   },
   "<!> 倒木を取り除いている 10 秒 <!>": {
     "translation": "清除倒下的树木还有10秒",
     "MultiLang": {
-      "US": "Removing fallen logs for 10 seconds",
-      "JP": "取り除いているのは10秒です。",
+      "US": "<!> Removing fallen logs for 10 seconds <!>",
+      "JP": "",
       "CN": "清除倒下的树木还有10秒",
-      "KR": "<>< 오거를 제거하고 있는 10 초 ><>",
-      "TW": "移除倒木 10秒"
+      "KR": "<!> 넘어진 나무를 제거 중인 10 초 <!>",
+      "TW": "<!> 正在移除倒木 10 秒 <!>"
     }
   },
   "<!> 倒木を取り除いている 30 秒 <!>": {
     "translation": "清除倒下的树木还有30秒",
     "MultiLang": {
-      "US": "Removing fallen logs for 30 seconds",
-      "JP": "取り除き中：木の倒し 30秒",
+      "US": "<!> Removing fallen logs for 30 seconds <!>",
+      "JP": "!<> 30秒で倒木を撤去中 <!>",
       "CN": "清除倒下的树木还有30秒",
-      "KR": "삭제 중인 나무를 제거하는 30초",
-      "TW": "移除倒木的 30 秒"
+      "KR": "<!> 떨어진 나무를 제거 중인 30초 <!>",
+      "TW": "<!> 正在移除倒木 30 秒 <!>"
     }
   },
   "<!> 倒木を取り除いている 40 秒 <!>": {
     "translation": "清除倒下的树木还有40秒",
     "MultiLang": {
-      "US": "\"Removing fallen logs for 40 seconds\"",
-      "JP": "<< 削除中である木を 40 秒 >>",
+      "US": "!<> Removing fallen logs for 40 seconds <!>",
+      "JP": "!<> 40秒で倒木を除去中 <>",
       "CN": "清除倒下的树木还有40秒",
-      "KR": "<>. 나무를 제거하고 있는 40 초 .<>",
-      "TW": "移除倒木的40秒 <!>"
+      "KR": "<!> 나무를 제거 중인 40초 <!>",
+      "TW": "<!> 正在移除倒木 40 秒 <!>"
     }
   },
   "<!> 別の起動ボタンも必要のようだ... <!>": {
     "translation": "似乎还需要另一个启动按钮...",
     "MultiLang": {
-      "US": "<> Another start button seems to be required... <>",
-      "JP": "別の起動ボタンも必要のようだ...",
+      "US": "<!> Seems like another start button is needed... <!>",
+      "JP": "",
       "CN": "似乎还需要另一个启动按钮...",
-      "KR": "!> 다른 스타트 버튼도 필요하다는 것 같아요... !>",
-      "TW": "另外似乎也需要另一個啟動按鈕..."
+      "KR": "<!> 다른 시작 버튼도 필요appears..., <!>",
+      "TW": "<!> 看來還需要另1個啟動按鈕... <!>"
     }
   },
   "<!> 大岩をどかす 10 秒 <!>": {
     "translation": "移开大岩石还有10秒",
     "MultiLang": {
-      "US": "\"Rock Jumping: 10 seconds\"",
-      "JP": "!</> 大いの磐石を払う 10秒 </>",
+      "US": "<!> Move the Big Rock 10 sec <!>",
+      "JP": "",
       "CN": "移开大岩石还有10秒",
-      "KR": "대암을 벗기 10초",
-      "TW": "大岩をどかす 10 秒"
+      "KR": "<!> 대형 바위를 비켜내기 10 초 <!>",
+      "TW": ""
     }
   },
   "<!> 大岩をどかす 20 秒 <!>": {
     "translation": "移开大岩石还有20秒",
     "MultiLang": {
-      "US": "<!> Knock down the big rock 20 seconds <!>",
-      "JP": "大岩をどかす 20秒",
+      "US": "!< > Move Large Rock 20 sec !< >",
+      "JP": "",
       "CN": "移开大岩石还有20秒",
-      "KR": "대하암을 놓다 20 초",
-      "TW": "大岩をどかす 20秒"
+      "KR": "<!> 큰 바위를 비켜보 20 초 <!>",
+      "TW": "<!> 掃除大-rock 20 秒 <!>"
     }
   },
   "<!> 大岩をどかす 30 秒 <!>": {
     "translation": "移开大岩石还有30秒",
     "MultiLang": {
-      "US": "<<\"Throw the large rock\" for 30 seconds>>",
-      "JP": "大岩をどかす 30 秒",
+      "US": "<!> Move the Big Rock 30 Sec <!>",
+      "JP": "",
       "CN": "移开大岩石还有30秒",
-      "KR": "대암을 내보내기 30초",
-      "TW": "🔥 擬速擺轟石 💨 30秒 🔥"
+      "KR": "<!> 대😄인을 돌려보내는 30초 <!>",
+      "TW": ""
     }
   },
   "<!> 橋を上げるまで 10 秒 <!>": {
     "translation": "桥梁上升还有10秒",
     "MultiLang": {
-      "US": "\"Bridge up in 10 seconds!\"",
-      "JP": "橋を上げるまで 10 秒",
+      "US": "<!> Raise the Bridge in 10 Seconds <!>",
+      "JP": "!<> ブリッジを上げるまで 10 秒 <!>",
       "CN": "桥梁上升还有10秒",
-      "KR": "<%! 10초 동안 다리를 들어올리세요 !%>",
-      "TW": "橋要升起前 10秒"
+      "KR": "!<桥をあげるまでは10秒！>!",
+      "TW": "!<> 橋를 올리기까지 10 초 <>"
     }
   },
   "<!> 橋を上げるまで 30 秒 <!>": {
     "translation": "桥梁上升还有30秒",
     "MultiLang": {
-      "US": "\"Raise the bridge until 30 seconds.\"",
-      "JP": "橋を上げるまで 30 秒",
+      "US": "!<> Raise the Bridge in 30 Seconds !<>",
+      "JP": "",
       "CN": "桥梁上升还有30秒",
-      "KR": "!<*> 30 초 동안 대교를 놓지 마세요 !*<",
-      "TW": "橋要升起前 30秒"
+      "KR": "<!> 다리를 올리기까지 30 초 <!>",
+      "TW": ""
     }
   },
   "<!> 足場を上げるまで 10 秒 <!>": {
     "translation": "平台上升还有10秒",
     "MultiLang": {
-      "US": "<<> Raise your footing for the next 10 seconds >>",
-      "JP": "足場を上げるまで 10 秒",
+      "US": "<!> Raise the Stadium in 10 Seconds <!>",
+      "JP": "",
       "CN": "平台上升还有10秒",
-      "KR": "足장올리는까지 10초",
-      "TW": "在足場提升前，10秒。"
+      "KR": "",
+      "TW": ""
     }
   },
   "<!> 足場を上げるまで 30 秒 <!>": {
     "translation": "平台上升还有30秒",
     "MultiLang": {
-      "US": "\"Boost your footing up to 30 seconds.\"",
-      "JP": "足場を上げるまで 30 秒",
+      "US": "!<> Raise the stadium in 30 seconds <!>",
+      "JP": "",
       "CN": "平台上升还有30秒",
-      "KR": "!<> 30초 동안 발판을 조성하여 주세요! <)!",
-      "TW": "!</> 提高腳場至30秒！</>"
+      "KR": "",
+      "TW": ""
     }
   },
   "<!> 運搬機の起動まで 10 秒 <!>": {
     "translation": "启动运输机还有10秒",
     "MultiLang": {
-      "US": "\"Starting the transport machine in 10 seconds!\"",
-      "JP": "運搬機の起動まで 10 秒 <<<>>",
+      "US": "!<> Move Truck启动倒计时 10 秒 <>",
+      "JP": "",
       "CN": "启动运输机还有10秒",
-      "KR": "운반기의 시작까지 10초",
-      "TW": "運搬機の起動まで 10 秒 <<<>>"
+      "KR": "<!> 운반기의 시작까지 10 초 <!>",
+      "TW": "!<> 運搬機的啟動還剩 10 秒 <>"
     }
   },
   "<!> 運搬機の起動まで 40 秒 <!>": {
     "translation": "启动运输机还有40秒",
     "MultiLang": {
-      "US": "\"Moving machine startup in 40 seconds!\"",
-      "JP": "運搬機の起動まで 40 秒",
+      "US": "!<> Cargo Truck Startup in 40 Sec !<>",
+      "JP": "",
       "CN": "启动运输机还有40秒",
       "KR": "<!> 운반기의 시작까지 40 초 <!>",
-      "TW": "運搬機の起動まで 40 秒"
+      "TW": "!<> 運搬機的啟動還需 40 秒 <>"
     }
   },
   "<!>まもなくゾンビが開放されます <!>": {
     "translation": "僵尸即将被释放",
     "MultiLang": {
-      "US": "\"Zombies will soon be unlocked!\"",
-      "JP": "ゾンビがすぐに開放されるでしょう！",
+      "US": "<!>Shortly zombies will be released<!>",
+      "JP": "",
       "CN": "僵尸即将被释放",
-      "KR": "ゾンビがすぐに開放されます",
-      "TW": "遊戲內不久將解鎖殭屍 <!>"
+      "KR": "<!>마침내 좀비가 해방됩니다 <!>",
+      "TW": "<!>不久將解鎖屍rai Zombie <!>"
     }
   },
   "\\\"*** LV2に移行 ***\\\"": {
     "translation": "*** 移步关卡2 ***",
     "MultiLang": {
-      "US": "\"*** Level 2 Transition ***\"",
-      "JP": "「*** LV2へ進化***」",
+      "US": "\"*** LV2 Move ***\"",
+      "JP": "",
       "CN": "*** 移步关卡2 ***",
-      "KR": "\"*** LV2로 이동 ***\"",
-      "TW": "\"*** 轉入LV2 ***\""
+      "KR": "*** LV2에 이동 ***",
+      "TW": ""
     }
   },
   "<!> ドアが開くまで 40 秒 <!>": {
     "translation": "门将在40秒后打开",
     "MultiLang": {
-      "US": "\"Open the door until the 40 seconds pass.\"",
-      "JP": "ドアが開くまで **40秒**",
+      "US": "<!> Door opens in 40 seconds <!>",
+      "JP": "",
       "CN": "门将在40秒后打开",
-      "KR": "<*>门开之前，40秒 <*>",
-      "TW": "門打開前，限時四十分鐘。"
+      "KR": "",
+      "TW": "<!> 門打開前 40 秒 <!>"
     }
   }
 }

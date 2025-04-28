@@ -63,7 +63,7 @@
     "translation": "**管理员:将极限模式boss战失败次数重置为0**",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "**ADMIN: EXTREME BOSS LOSE VALUE RESET TO DEFAULT**",
       "CN": "**管理员:将极限模式boss战失败次数重置为0**",
       "KR": "",
       "TW": ""
@@ -73,9 +73,9 @@
     "translation": "**管理员:设置难度为简单。**",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "**ADMIN: ステージをEasyに設定してください。**",
       "CN": "**管理员:设置难度为简单。**",
-      "KR": "",
+      "KR": "**ADMIN : 스테이지 설정을 쉬운 모드로. **",
       "TW": ""
     }
   },
@@ -83,9 +83,9 @@
     "translation": "**管理员:设置难度为极限。**",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "** ADMIN : ステージを極度に設定してください。 **",
       "CN": "**管理员:设置难度为极限。**",
-      "KR": "",
+      "KR": "** ADMIN : 스테이지 설정을Extreme로. **",
       "TW": ""
     }
   },
@@ -93,9 +93,9 @@
     "translation": "**管理员:设置难度为困难。**",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "**ADMIN: ステージをハードに設定してください。**",
       "CN": "**管理员:设置难度为困难。**",
-      "KR": "",
+      "KR": "**ADMIN: 스테이지를 하드로 설정하세요.**",
       "TW": ""
     }
   },
@@ -103,9 +103,9 @@
     "translation": "**管理员:设置难度为疯狂。**",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "**ADMIN: ステージをInsaneに設定してください。**",
       "CN": "**管理员:设置难度为疯狂。**",
-      "KR": "",
+      "KR": "** ADMIN : Stage 설정을 Insane으로 해주세요. **",
       "TW": ""
     }
   },
@@ -113,9 +113,9 @@
     "translation": "**管理员:设置难度为正常。**",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "**ADMIN: ステージをノーマルに設定。**",
       "CN": "**管理员:设置难度为正常。**",
-      "KR": "",
+      "KR": "**ADMIN: 스테이지 설정을_normal로._**",
       "TW": ""
     }
   },
@@ -125,7 +125,7 @@
       "US": "",
       "JP": "",
       "CN": "**管理员:设置难度为RTV。**",
-      "KR": "",
+      "KR": "**ADMIN: 세팅을 RTV로 설정하세요. **",
       "TW": ""
     }
   },
@@ -136,96 +136,96 @@
       "JP": "",
       "CN": "**极限模式boss战覆盖可以在第一关后按下**",
       "KR": "",
-      "TW": ""
+      "TW": "** EXTREME BOSS OVERRIDE 可於第 1 階段後按壓 **"
     }
   },
   "*** Difficulty : Easy ***": {
     "translation": "***难度:简单 翻译:Asteri3m***",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "*** 難易度 : 容易 ***",
       "CN": "***难度:简单 翻译:Asteri3m***",
-      "KR": "",
-      "TW": ""
+      "KR": "*** 난이도 : 쉬움 ***",
+      "TW": "*** 難度 : 容易 ***"
     }
   },
   "*** Difficulty : Extreme ***": {
     "translation": "***难度:极限***",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "*** 難易度 : 极限 ***",
       "CN": "***难度:极限***",
-      "KR": "",
-      "TW": ""
+      "KR": "*** 난이도 : 극한 ***",
+      "TW": "*** 難度 : 极端 ***"
     }
   },
   "*** Difficulty : Hard ***": {
     "translation": "***难度:困难***",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "*** 難易度 : 中難 ***",
       "CN": "***难度:困难***",
-      "KR": "",
-      "TW": ""
+      "KR": "*** 난이도 : 중급 ***",
+      "TW": "*** 難度 : 困難 ***"
     }
   },
   "*** Difficulty : Insane ***": {
     "translation": "***难度:疯狂***",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "*** 難易度 : 狂気 ***",
       "CN": "***难度:疯狂***",
-      "KR": "",
-      "TW": ""
+      "KR": "*** 난이도 : 절정 ***",
+      "TW": "***難度：瘋狂***"
     }
   },
   "*** Difficulty : Normal ***": {
     "translation": "***难度:正常***",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "*** 難易度 : 正常 ***",
       "CN": "***难度:正常***",
-      "KR": "",
-      "TW": ""
+      "KR": "*** 난이도 : 일반 ***",
+      "TW": "*** 難度 : 正常 ***"
     }
   },
   "*** Difficulty : rtv ***": {
     "translation": "***难度:rtv***",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "*** 難易度 : rtv ***",
       "CN": "***难度:rtv***",
-      "KR": "",
-      "TW": ""
+      "KR": "*** 난이도 : rtv ***",
+      "TW": "*** 難度 : rtv ***"
     }
   },
   "Door opening in 15 seconds!": {
     "translation": "门将在15秒后开启！",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "ドアが開くまで15秒！",
       "CN": "门将在15秒后开启！",
-      "KR": "",
-      "TW": ""
+      "KR": "문이 열리는 중인 15초 후!",
+      "TW": "門開啟於15秒後！"
     }
   },
   "Door opening in 5 seconds!": {
     "translation": "门将在5秒后开启！",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "ドアが開くまで5秒！",
       "CN": "门将在5秒后开启！",
-      "KR": "",
-      "TW": ""
+      "KR": "문 열리는 중입니다! 5초 후 개방됩니다!",
+      "TW": "門將在5秒後開啟！"
     }
   },
   "Door opening in 80 seconds!": {
     "translation": "门将在80秒后开启！",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "ドアが開くまでに80秒！",
       "CN": "门将在80秒后开启！",
-      "KR": "",
+      "KR": "문이 80초 후에 열립니다!",
       "TW": ""
     }
   },
@@ -233,30 +233,30 @@
     "translation": "电梯将在3秒后离开！",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "エレベーターが5秒後に動きます！",
       "CN": "电梯将在3秒后离开！",
-      "KR": "",
+      "KR": "엘리베이터 출발 후 3초!",
       "TW": ""
     }
   },
   "Helicopter leaves 20 seconds!": {
     "translation": "直升机将在20秒后起飞！",
     "MultiLang": {
-      "US": "",
-      "JP": "",
+      "US": "Heli leaves in 20 sec!",
+      "JP": "ヘリコプター離去 20 秒！",
       "CN": "直升机将在20秒后起飞！",
-      "KR": "",
-      "TW": ""
+      "KR": "헬리콥터 떠나 20초!",
+      "TW": "直升機離開倒數 20 秒！"
     }
   },
   "Hold 20 seconds!": {
     "translation": "防守20秒！",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "20秒ホールド！",
       "CN": "防守20秒！",
-      "KR": "",
-      "TW": ""
+      "KR": "20초 유지하세요!",
+      "TW": "HOLD 20 SECONDS!"
     }
   },
   "Incoming nuke!!!": {
@@ -265,7 +265,7 @@
       "US": "",
       "JP": "",
       "CN": "核弹来了！！！",
-      "KR": "",
+      "KR": "입장 중 핵공격!!!!!",
       "TW": ""
     }
   },
@@ -273,19 +273,19 @@
     "translation": "迷你列车将在5秒后离开！",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "ミニ列車5秒後に発車！",
       "CN": "迷你列车将在5秒后离开！",
-      "KR": "",
-      "TW": ""
+      "KR": "미니 기차 5초 후 출발!",
+      "TW": "迷你列車5秒後出發！"
     }
   },
   "Remaining 10 seconds!": {
     "translation": "剩余10秒！",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "残り10秒！",
       "CN": "剩余10秒！",
-      "KR": "",
+      "KR": "남은 10초!",
       "TW": ""
     }
   },
@@ -295,7 +295,7 @@
       "US": "",
       "JP": "",
       "CN": "剩余15秒！",
-      "KR": "",
+      "KR": "남은 15 초!",
       "TW": ""
     }
   },
@@ -303,9 +303,9 @@
     "translation": "剩余40秒！",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "残り40秒！",
       "CN": "剩余40秒！",
-      "KR": "",
+      "KR": "남은 시간 40 초!",
       "TW": ""
     }
   },
@@ -313,9 +313,9 @@
     "translation": "剩余5秒！",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "残り5秒！",
       "CN": "剩余5秒！",
-      "KR": "",
+      "KR": "잔여 5 초!",
       "TW": ""
     }
   },
@@ -323,60 +323,60 @@
     "translation": "安全门将在10秒后关闭！",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "セキュリティドア閉鎖まで10!",
       "CN": "安全门将在10秒后关闭！",
-      "KR": "",
-      "TW": ""
+      "KR": "보안 문이 닫히기 시작합니다! 10!",
+      "TW": "安全門關閉倒數中！10！"
     }
   },
   "Tracks crashed ahead.": {
     "translation": "前方轨道发生碰撞事故。",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "トラックが先に衝突した。",
       "CN": "前方轨道发生碰撞事故。",
-      "KR": "",
-      "TW": ""
+      "KR": "트랙들이 앞으로 크래시당했다.",
+      "TW": "前方 TRACKS 崩潰。"
     }
   },
   "Train is leaving!": {
     "translation": "火车正在离开！",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "列車は出発します！",
       "CN": "火车正在离开！",
-      "KR": "",
-      "TW": ""
+      "KR": "열차가 떠나갑니다!",
+      "TW": "列車將離站！"
     }
   },
   "Train leaving in 10 seconds!": {
     "translation": "火车将在10秒后离开！",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "列車発車まで10秒！",
       "CN": "火车将在10秒后离开！",
-      "KR": "",
-      "TW": ""
+      "KR": "트레인 출발 후 10초!",
+      "TW": "列車 departing in 10 seconds!"
     }
   },
   "Train leaving in 20 seconds!": {
     "translation": "火车将在20秒后离开！",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "列車発车後20秒！",
       "CN": "火车将在20秒后离开！",
-      "KR": "",
-      "TW": ""
+      "KR": "列차 출발까지 20초만 chờ세요!",
+      "TW": "列車 Departure in 20 seconds!"
     }
   },
   "Train leaving in 30 seconds!": {
     "translation": "火车将在30秒后离开！",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "30秒後に発車します！",
       "CN": "火车将在30秒后离开！",
-      "KR": "",
-      "TW": ""
+      "KR": "TRAIN LEAVING IN 30 SECONDS!",
+      "TW": "列車leave in 30秒!"
     }
   },
   "Tram leaving in 10 seconds!": {
@@ -386,16 +386,16 @@
       "JP": "",
       "CN": "电车将在10秒后离开！",
       "KR": "",
-      "TW": ""
+      "TW": "tram離開在10秒後！"
     }
   },
   "remaining 5 seconds!": {
     "translation": "剩余5秒！",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "残り5秒！",
       "CN": "剩余5秒！",
-      "KR": "",
+      "KR": "남은 시간 5초!",
       "TW": ""
     }
   },
@@ -403,40 +403,40 @@
     "translation": "",
     "MultiLang": {
       "US": "",
-      "JP": "",
-      "CN": "",
-      "KR": "",
-      "TW": ""
+      "JP": "マップはAirvulpesによってアレンジされています",
+      "CN": "地图由Airvulpes排列",
+      "KR": "맵은 Airvulpes가 배치했습니다.",
+      "TW": "地图由Airvulpes排列"
     }
   },
   "powered by sakura , possession": {
     "translation": "",
     "MultiLang": {
       "US": "",
-      "JP": "",
-      "CN": "",
-      "KR": "",
-      "TW": ""
+      "JP": "桜による力、占有",
+      "CN": "powered by sakura, 拥有",
+      "KR": "사쿠라로 구동, 소유권",
+      "TW": "Powered by 樱 , 占有"
     }
   },
   "Based-map by Xquality": {
     "translation": "",
     "MultiLang": {
       "US": "",
-      "JP": "",
-      "CN": "",
-      "KR": "",
-      "TW": ""
+      "JP": "基盤マップ by Xquality",
+      "CN": "基于地图由Xquality制作",
+      "KR": "기반 맵由Xquality制作",
+      "TW": "基于地圖由Xquality製作"
     }
   },
   "Map Supported by SHUFEN": {
     "translation": "",
     "MultiLang": {
       "US": "",
-      "JP": "",
-      "CN": "",
-      "KR": "",
-      "TW": ""
+      "JP": "マップ是由SHUFEN支援",
+      "CN": "地图由SHUFEN支持",
+      "KR": "맵 지원 SHUFEN",
+      "TW": "地圖支援SHUFEN"
     }
   }
 }
