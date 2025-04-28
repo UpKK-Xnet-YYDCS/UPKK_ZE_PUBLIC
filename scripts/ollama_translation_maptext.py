@@ -80,7 +80,7 @@ def process_translation(text, lang_code, original_text, translated):
     print(f"相似度 {similarity:.2f} | 语言: {lang_code}")
     
     # 如果相似度超过95%，则不进行翻译
-    if similarity >= 0.95:
+    if similarity >= 0.88:
         print(f"[跳过] {lang_code} 语言: 翻译与原文相似度高于95%，跳过翻译")
         return ""
 

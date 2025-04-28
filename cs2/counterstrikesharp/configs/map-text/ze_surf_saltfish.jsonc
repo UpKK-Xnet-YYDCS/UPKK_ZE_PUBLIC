@@ -2,91 +2,91 @@
   "< 10 SECONDS REMAINING >": {
     "translation": "< 剩余10秒 >",
     "MultiLang": {
-      "US": "< 10 SECONDS REMAINING >",
-      "JP": "残り10秒です。",
+      "US": "",
+      "JP": "",
       "CN": "< 剩余10秒 >",
-      "KR": "< 10 초가 남았습니다 >",
-      "TW": "剩餘時間：10秒"
+      "KR": "",
+      "TW": ""
     }
   },
   "< DEFEND 15 SECONDS >": {
     "translation": "< 防守15秒 >",
     "MultiLang": {
-      "US": "< DEFEND 15 SECONDS >",
-      "JP": "< 15秒間守りきる >",
+      "US": "",
+      "JP": "",
       "CN": "< 防守15秒 >",
       "KR": "< 15초 방어 >",
-      "TW": "< 防守15秒 >"
+      "TW": "< 防守 15 秒 >"
     }
   },
   "< DEFEND 60 SECONDS >": {
     "translation": "< 防守60秒 >",
     "MultiLang": {
-      "US": "< DEFEND 60 SECONDS >",
-      "JP": "< 60秒を守れ >",
+      "US": "",
+      "JP": "< 防御60秒 >",
       "CN": "< 防守60秒 >",
-      "KR": "보스를 막아 60초 동안 지켜라",
-      "TW": "保護60秒"
+      "KR": "< 60초 방어전 >",
+      "TW": "< 防守 60 秒 >"
     }
   },
   "< Defend 40s before entering the door >": {
     "translation": "< 防守40秒后，进门 >",
     "MultiLang": {
-      "US": "\"Defend for 40 seconds before proceeding through the door.\"",
-      "JP": "【門に入る前に40秒守りきる 】",
+      "US": "",
+      "JP": "Defend 40s 前-door 入>>",
       "CN": "< 防守40秒后，进门 >",
-      "KR": "< 40초 동안 문 앞에서 방어하다가 문으로 들어갑니다 >",
-      "TW": "進入門口前必須堅守40秒"
+      "KR": "< 40초간 방어 후 문 열기 >",
+      "TW": "防禦 40s 前進入門口"
     }
   },
   "< FALLBACK >": {
     "translation": "< 撤退 >",
     "MultiLang": {
-      "US": "< FALLBACK >",
-      "JP": "< フォールバック >",
+      "US": "",
+      "JP": "",
       "CN": "< 撤退 >",
-      "KR": "< FALLBACK >",
-      "TW": "落敗"
+      "KR": "",
+      "TW": ""
     }
   },
   "< RESIST 60 SECONDS >": {
     "translation": "< 防守60秒 >",
     "MultiLang": {
-      "US": "< RESIST 60 SECONDS >",
-      "JP": "< 60秒を我慢する >",
+      "US": "",
+      "JP": "< 60秒抵抗 >>",
       "CN": "< 防守60秒 >",
-      "KR": "< RESIST 60 SECONDS >>",
-      "TW": "堅守六十秒"
+      "KR": "< 저항 60초 >",
+      "TW": ""
     }
   },
   "< REVERSE >": {
     "translation": "< 反转 >",
     "MultiLang": {
-      "US": "< REVERSE >",
+      "US": "",
       "JP": "< 反転 >",
       "CN": "< 反转 >",
-      "KR": "< REVERSE >",
-      "TW": "反轉"
+      "KR": "< 반전 >",
+      "TW": "<< 反轉 >>"
     }
   },
   "< Special Thanks to Heyfumi and Killik >": {
     "translation": "< 特别感谢Heyfumi和Killik >",
     "MultiLang": {
-      "US": "Special Thanks to Heyfumi and Killik",
-      "JP": "< スペシャル・感謝の意をHeyfumiさんとKillikに捧げる >",
+      "US": "",
+      "JP": "SPECIAL thanks to Heyfumi and Killik >><ushi",
       "CN": "< 特别感谢Heyfumi和Killik >",
-      "KR": "heyfumi와 Killik에게 특별히 감사드립니다.",
-      "TW": "感謝 Heyfumi 和 Killik"
+      "KR": "< 특별 감사의 인사를 드리는 Heyfumi와 Killik >",
+      "TW": "<特別感謝Heyfumi和Killik >"
     }
   },
   "< YOU WON THE MAP! CONGRATULATIONS! >": {
     "translation": "< 你赢得了地图！恭喜！ >",
     "MultiLang": {
-      "US": "< YOU WON THE MAP! CONGRATULATIONS! >",
-      "JP": "ゲームマップを制覇しました！おめでとうございます！",
+      "US": "",
+      "JP": "",
       "CN": "< 你赢得了地图！恭喜！ >",
-      "KR": "< 맵에서 승리하셨습니다! 축하드립니다! >",
-      "TW": "獲得地圖勝利！恭喜你！"
+      "KR": "4. 번역 오류나 과도한 번역으로 인한 실패는 작업 실패로 치一回事。",
+      "TW": ""
     }
   }
 }

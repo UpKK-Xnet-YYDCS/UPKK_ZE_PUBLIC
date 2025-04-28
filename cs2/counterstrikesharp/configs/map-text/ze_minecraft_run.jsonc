@@ -2,8 +2,8 @@
   "Hold 45 Seconds": {
     "translation": "防守45秒",
     "MultiLang": {
-      "US": "Hold 45 Seconds",
-      "JP": "45秒間ホールド",
+      "US": "",
+      "JP": "45秒間ホールドする",
       "CN": "防守45秒",
       "KR": "45초 유지하세요",
       "TW": "HOLD 45 SECONDS"
@@ -12,51 +12,51 @@
   "Hold 55 Seconds": {
     "translation": "防守55秒",
     "MultiLang": {
-      "US": "Hold 55 Seconds",
-      "JP": "55秒間 HOLD",
+      "US": "",
+      "JP": "55秒間ホールド",
       "CN": "防守55秒",
-      "KR": "55초 유지하세요",
+      "KR": "55초간 유지하기",
       "TW": "HOLD 55 SECONDS"
     }
   },
   "Hold 60 Seconds": {
     "translation": "防守60秒",
     "MultiLang": {
-      "US": "Hold for 60 Seconds",
-      "JP": "60秒間ホールド",
+      "US": "",
+      "JP": "60秒間 HOLD",
       "CN": "防守60秒",
-      "KR": "60초 유지하기",
-      "TW": "持有 60 秒"
+      "KR": "60초 유지",
+      "TW": "HOLD 60 SECONDS"
     }
   },
   "Survive 45 seconds": {
     "translation": "生存45秒",
     "MultiLang": {
-      "US": "Survive 45 seconds",
+      "US": "",
       "JP": "生存 45 秒",
       "CN": "生存45秒",
-      "KR": "생존 45 초",
-      "TW": "生存 45 秒"
+      "KR": "생존 45초",
+      "TW": "生存 45 秒鐘"
     }
   },
   "The boat will leave in 20 seconds": {
     "translation": "船将在20秒后离开",
     "MultiLang": {
-      "US": "The boat will leave in 20 seconds",
-      "JP": "Boat leaves in 20 seconds",
+      "US": "",
+      "JP": "ボートは20秒後に出発します",
       "CN": "船将在20秒后离开",
-      "KR": "보트는 20초 후에 떠납니다",
-      "TW": "船将在20秒後起航"
+      "KR": "배는 20초 후에 출발합니다",
+      "TW": "船將在20秒後起航"
     }
   },
   "teleport zombies in 15 seconds , Don't stay on the first floor": {
     "translation": "僵尸将在15秒后传送，别待在一楼",
     "MultiLang": {
-      "US": "teleport zombies in 15 seconds, Don't stay on the first floor",
-      "JP": "テレポートゾンビを15秒で召喚し,1階に留まらないように",
+      "US": "",
+      "JP": "teleport zombies in 15 seconds, >> 1階に留まらないように",
       "CN": "僵尸将在15秒后传送，别待在一楼",
-      "KR": "텔레포트 좀비를 15초 후에 , 첫 번째 층에서는不要太久停留",
-      "TW": "TELEPORT ZOMBIES IN 15 SECONDS , DON'T STAY ON THE FIRST FLOOR"
+      "KR": "텔레포트 좀비를 15초 후에 , 지하층에서는 머무르지 말lah",
+      "TW": "teleport undead in 15 seconds, 不要留在1樓"
     }
   }
 }

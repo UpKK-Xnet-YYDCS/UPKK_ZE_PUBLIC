@@ -3,10 +3,10 @@
     "translation": "",
     "MultiLang": {
       "US": "Map:热血物语",
-      "JP": "マップ: 熱血物語",
-      "CN": "地图: 热血物语",
+      "JP": "マップ: 暖かい物語",
+      "CN": "",
       "KR": "지도: 열혈物语",
-      "TW": "地圖: 熱血物語"
+      "TW": "地图: 熱血物語"
     }
   },
   "\"版本: Alpha 1.0\"": {
@@ -14,17 +14,17 @@
     "MultiLang": {
       "US": "Version: Alpha 1.0",
       "JP": "バージョン: Alpha 1.0",
-      "CN": "版本: Alpha 1.0",
+      "CN": "",
       "KR": "버전: Alpha 1.0",
-      "TW": "版本: Alpha 1.0"
+      "TW": ""
     }
   },
   "\"作者: CD意识.\"": {
     "translation": "",
     "MultiLang": {
-      "US": "Author: CD意识.",
-      "JP": "作者: CD意識。",
-      "CN": "作者: CD意识。",
+      "US": "Author: CD Consciousness.",
+      "JP": "作者: CD意識.",
+      "CN": "",
       "KR": "작자: CD의식.",
       "TW": "作者: CD意識。"
     }
@@ -34,18 +34,18 @@
     "MultiLang": {
       "US": "Version: Beta 1.7",
       "JP": "バージョン: Beta 1.7",
-      "CN": "版本: Beta 1.7",
+      "CN": "",
       "KR": "버전: Beta 1.7",
-      "TW": "版本: Beta 1.7"
+      "TW": ""
     }
   },
   "\"检测到服务器无Lua解锁插件，地图部分功能禁用\"": {
     "translation": "",
     "MultiLang": {
-      "US": "Detected no Lua unlock plugin on server, disable部分内容功能",
-      "JP": "サーバーにLuaアンロックプラグインが検出されません 地図の一部の機能が無効になっています",
-      "CN": "检测到服务器无Lua解锁插件，地图部分功能禁用",
-      "KR": "검사에 따르면 서버에는 Lua 해제 플러그인이 없어 지도的部分功能禁用",
+      "US": "Detected no Lua unlock plugin on server, disabling some map functions",
+      "JP": "サーバーにLuaアンロックプラグインが検出されていません 地図の一部機能が無効化されています",
+      "CN": "",
+      "KR": "\"서버에 Lua 해독 플러그인이 감지되지 않아 맵的部分功能禁用\"",
       "TW": "檢測到伺服器無Lua解鎖插件，地圖部分功能禁用"
     }
   },
@@ -53,8 +53,8 @@
     "translation": "",
     "MultiLang": {
       "US": "Lua script loaded successfully, version 1.2",
-      "JP": "Luaスクリプト読み込み成功、バージョン1.2",
-      "CN": "Lua脚本加载成功,版本1.2",
+      "JP": "Luaスクリプト読み込み成功,バージョン1.2",
+      "CN": "",
       "KR": "Lua 스크립트 로드 성공, 버전 1.2",
       "TW": "Lua腳本載入成功,版本1.2"
     }

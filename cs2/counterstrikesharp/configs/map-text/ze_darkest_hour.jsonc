@@ -2,7 +2,7 @@
   "*********practice mode*********": {
     "translation": "*********练习模式*********",
     "MultiLang": {
-      "US": "*********practice mode*********",
+      "US": "",
       "JP": "*********練習モード*********",
       "CN": "*********练习模式*********",
       "KR": "*********연습 모드*********",
@@ -12,27 +12,27 @@
   "Boss has been weakened": {
     "translation": "Boss 被削弱了",
     "MultiLang": {
-      "US": "Boss has been weakened",
-      "JP": "ボスのHPが下がっている",
+      "US": "",
+      "JP": "ボスは弱化しました",
       "CN": "Boss 被削弱了",
-      "KR": "보스가 약해졌음",
-      "TW": "BOSS已被削弱"
+      "KR": "보스가 약해졌습니다",
+      "TW": "BOSS已削弱"
     }
   },
   "defend 15 seconds": {
     "translation": "防守 15 秒",
     "MultiLang": {
-      "US": "defend for 15 seconds",
-      "JP": "15秒間防衛",
+      "US": "",
+      "JP": "防御 15 秒",
       "CN": "防守 15 秒",
       "KR": "15초 방어",
-      "TW": "防守 15 秒鐘"
+      "TW": "防守15秒"
     }
   },
   "doors open in 20 seconds": {
     "translation": "门在 20 秒后打开",
     "MultiLang": {
-      "US": "doors open in 20 seconds",
+      "US": "",
       "JP": "ドアは20秒後に開きます",
       "CN": "门在 20 秒后打开",
       "KR": "문이 20초 후에 열립니다",
@@ -42,40 +42,40 @@
   "doors open in 25 seconds": {
     "translation": "门在 25 秒后打开",
     "MultiLang": {
-      "US": "doors open in 25 seconds",
+      "US": "",
       "JP": "ドアは25秒後に開きます",
       "CN": "门在 25 秒后打开",
-      "KR": "문이 25초 후에 열립니다",
+      "KR": "문이 열리는 시간은 25초 후",
       "TW": "門在25秒後開啟"
     }
   },
   "goodluck & havefun": {
     "translation": "祝你好运，玩得开心 翻译：Ayanami♪",
     "MultiLang": {
-      "US": "good luck & have fun",
-      "JP": "goodluck & havefun",
+      "US": "",
+      "JP": "好 luck & お FUN",
       "CN": "祝你好运，玩得开心 翻译：Ayanami♪",
-      "KR": "좋은 운이 따르고 즐거운 시간 되세요 & 즐기세요",
-      "TW": "好运 & 欢樂"
+      "KR": "좋은 행운 & 즐거움",
+      "TW": "好運 & 製樂"
     }
   },
   "normal mode enable": {
     "translation": "正常模式启用",
     "MultiLang": {
-      "US": "Normal mode enable",
-      "JP": "normals modes enable",
+      "US": "",
+      "JP": "正常モード启用",
       "CN": "正常模式启用",
       "KR": "정규 모드 활성화",
-      "TW": "正常模式啟用"
+      "TW": "普通模式啟用"
     }
   },
   "practice mode enable": {
     "translation": "练习模式启用",
     "MultiLang": {
-      "US": "practice mode enable",
+      "US": "",
       "JP": "練習モード有効化",
       "CN": "练习模式启用",
-      "KR": "실습 모드 활성화",
+      "KR": "연습 모드 활성화",
       "TW": "練習模式啟用"
     }
   }
