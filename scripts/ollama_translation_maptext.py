@@ -1,12 +1,12 @@
 # 本地部署ollama 并利用 Qwen2.5:7B-Instruct模型 进行自动化翻译
-# 
-# 将配置和路径修改为正确的本地ollama地址 运行此脚本. 
+# 将配置和路径修改为正确的本地ollama地址 运行此脚本.
 # 如具有更好的GPU算力则可以使用更大的模型以达到更精确的效果
 # ollama pull Qwen2.5:7B-Instruct
 # sudo systemctl start ollama
 # sudo apt install 
 # sudo python3 
-# sudo pip install tqdm requests
+# sudo pip install tqdm requests argparse
+
 
 import requests
 import json
@@ -116,8 +116,8 @@ def build_prompt(target_language, original_text):
         f"【绝对遵守以下规则】\n"
         f"1. 只翻译内容，不解释，不扩展，不引导。\n"
         f"2. 所有标点（如***、>> <<）必须原样保留，不可漏掉或改动。\n"
-        f"3. 数字必须精准，不能修改数字表达。\n"
-        f"4. 句子风格必须与原文一致\n"
+        f"3. 不要把数字翻译成其他语言或中文,请务必保持阿拉伯数字。\n"
+        f"4. TELEPORT IN 20 SECONDS。或者 TP in 20 SECONDS 等类似语言通常为传送的意思\n"
         f"5. 翻译错误、多译均视为任务失败。\n\n"
         f"【开始翻译】\n"
         f"Text:\n{original_text}"
@@ -195,8 +195,15 @@ def process_file(file_path):
                     else:
                         translated = translate_text(original_text, lang_code)
 
+                    # 跳过翻译结果与原文一致的情况
+                    if lang_code == 'US' and translated == original_text:
+                        continue
+                    elif lang_code != 'US' and translated == original_text:
+                        continue
+
+                    # 验证有效性并处理翻译
                     if translated and is_valid_translation(translated) and (lang_code == 'US' or len(translated) <= len(original_text) * 5):
-                        # Handle CN and TW for Chinese number replacement
+                        # CN 和 TW 的特殊处理
                         if lang_code in ['CN', 'TW']:
                             translated = replace_chinese_numbers(translated)
                         
