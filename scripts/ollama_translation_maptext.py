@@ -1,8 +1,8 @@
-# 本地部署ollama 并利用 qwen2:7b模型 进行自动化翻译
+# 本地部署ollama 并利用 Qwen2.5:7B-Instruct模型 进行自动化翻译
 # 
 # 将配置和路径修改为正确的本地ollama地址 运行此脚本. 
 # 如具有更好的GPU算力则可以使用更大的模型以达到更精确的效果
-# ollama pull qwen2:7b
+# ollama pull Qwen2.5:7B-Instruct
 # sudo systemctl start ollama
 # sudo apt install 
 # sudo python3 
@@ -21,7 +21,7 @@ import concurrent.futures
 
 # 配置
 OLLAMA_URL = "http://127.0.0.1:11434/api/generate"
-MODEL = "qwen2:7b"
+MODEL = "qwen2.5:7b-instruct"
 DIRECTORY = '/home/MapText'
 HEADERS = {"Content-Type": "application/json"}
 
