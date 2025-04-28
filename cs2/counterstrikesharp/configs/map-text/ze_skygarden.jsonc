@@ -3,79 +3,79 @@
     "translation": "** 一名玩家拾取了弹药魔法 **",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "*** プレイヤーが弾薬魔法を拾いました ***",
       "CN": "** 一名玩家拾取了弹药魔法 **",
-      "KR": "",
-      "TW": ""
+      "KR": "*** 플레이어가 총알 마법을 획득했습니다 ***",
+      "TW": "** 有的玩家拾取了魔法治彈 **"
     }
   },
   "** A player has picked up earth magic **": {
     "translation": "** 一名玩家拾取了土魔法 **",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "*** プレイヤーが地元素魔を拾いました ***",
       "CN": "** 一名玩家拾取了土魔法 **",
-      "KR": "",
-      "TW": ""
+      "KR": "*** 플레이어가 사마지즘을 사용했습니다 ***",
+      "TW": "**1名玩家拾起了地元素魔法**"
     }
   },
   "** A player has picked up fire magic **": {
     "translation": "** 一名玩家拾取了火魔法 **",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "*** プレイヤーが炎魔法を拾いました ***",
       "CN": "** 一名玩家拾取了火魔法 **",
-      "KR": "",
-      "TW": ""
+      "KR": "*** 플레이어가 불 마법을 획득했습니다 ***",
+      "TW": "**1玩家拾取了火魔法**"
     }
   },
   "** A player has picked up wind magic **": {
     "translation": "** 一名玩家拾取了风魔法 **",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "*** プレイヤーが風魔法を習得しました ***",
       "CN": "** 一名玩家拾取了风魔法 **",
-      "KR": "",
-      "TW": ""
+      "KR": "*** 플레이어가 바람 마법을 얻었습니다 ***",
+      "TW": "** 1玩家拾取了風魔法 **"
     }
   },
   "** An undead learned speed magic **": {
     "translation": "** 一个亡灵学会了疾风魔法 **",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "不死者の速度魔法を習得 ***",
       "CN": "** 一个亡灵学会了疾风魔法 **",
-      "KR": "",
-      "TW": ""
+      "KR": "** Undead 가 속도 마법을 배웠습니다 **",
+      "TW": "** 1個不死之靈學會了速度魔法 **"
     }
   },
   "** An undead learned wind magic **": {
     "translation": "** 一个亡灵学会了阵风魔法 **",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "***不死者が風魔法を習得した***",
       "CN": "** 一个亡灵学会了阵风魔法 **",
-      "KR": "",
-      "TW": ""
+      "KR": "*** 악령이 바람 마법을 배웠다 ***",
+      "TW": "** 1具亡靈學會了風魔法 **"
     }
   },
   "** An undead learned wind shield magic **": {
     "translation": "** 一个亡灵学会了风盾魔法 **",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "** 不死者が風壁の魔法を習得した **",
       "CN": "** 一个亡灵学会了风盾魔法 **",
-      "KR": "",
-      "TW": ""
+      "KR": "** 무덤 박살마법을 배운 무시무시한 봉인 기술 **",
+      "TW": "*** 1名亡靈學會了風盾魔法 ***"
     }
   },
   "** Bring the core to the root of the sky tree **": {
     "translation": "** 把核心带到天穹树的树根 **",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "*** 核心を天の木の根元に運ぶ ***",
       "CN": "** 把核心带到天穹树的树根 **",
-      "KR": "",
+      "KR": "***core를 하늘나무의 루트로 가져오세요***",
       "TW": ""
     }
   },
@@ -85,128 +85,128 @@
       "US": "",
       "JP": "",
       "CN": "** 终于逃出来了 **",
-      "KR": "",
-      "TW": ""
+      "KR": "최종적으로 탈출했다 **",
+      "TW": "** 最後逃出 **"
     }
   },
   "** Hold 15 second to remove the magic array **": {
     "translation": "** 防守15秒移除魔法阵 **",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "*** 15秒間ホールドして魔法陣を解除します ***",
       "CN": "** 防守15秒移除魔法阵 **",
-      "KR": "",
-      "TW": ""
+      "KR": "*** 15 초 동안 유지하여 마법 배열 해제 ***",
+      "TW": "** HOLD 15 SECOND TO REMOVE THE MAGIC ARRAY **"
     }
   },
   "** Hold 20 second **": {
     "translation": "** 防守20秒 **",
     "MultiLang": {
-      "US": "",
-      "JP": "",
+      "US": "** Hold for 20 seconds **",
+      "JP": "** 20秒間 HOLD **",
       "CN": "** 防守20秒 **",
-      "KR": "",
-      "TW": ""
+      "KR": "** 20초 유지 **",
+      "TW": "** HOLD 20 SECOND **"
     }
   },
   "** Hold 20 second, we're almost at the sky tree **": {
     "translation": "** 防守20秒，我们快到天穹树了 **",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "*** 20秒間ホールドし、スカイツリーまで Almost there ***",
       "CN": "** 防守20秒，我们快到天穹树了 **",
-      "KR": "",
-      "TW": ""
+      "KR": "** 20초간 유지하세요, 거의 하늘타워 도착했습니다 **",
+      "TW": "** HOLD 20 SECOND, WE'RE ALMOST AT THE SKY TREE **"
     }
   },
   "** Hold 25 second to clear the tree **": {
     "translation": "** 防守25秒清理树木 **",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "*** 25秒間 HOLD を持続して木を clears ***",
       "CN": "** 防守25秒清理树木 **",
-      "KR": "",
-      "TW": ""
+      "KR": "*** 25초 동안 유지하여 나무 제거 ***",
+      "TW": "** HOLD 25 SECONDS TO CLEAR THE TREE **"
     }
   },
   "** Hold 25 second to destroy the rock **": {
     "translation": "** 防守25秒摧毁岩石 **",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "** 25秒間ホールドして岩を破壊 **",
       "CN": "** 防守25秒摧毁岩石 **",
-      "KR": "",
-      "TW": ""
+      "KR": "** 25초간 유지하여 바위 파괴 **",
+      "TW": "** HOLD 25 SEC TO DESTROY ROCK **"
     }
   },
   "** Hold 30 second **": {
     "translation": "** 防守30秒 **",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "*** 30秒間 HOLD ***",
       "CN": "** 防守30秒 **",
-      "KR": "",
-      "TW": ""
+      "KR": "*** 30초 유지 ***",
+      "TW": "** 擁抱 30 秒 **"
     }
   },
   "** Hold 30 second to activate the tower **": {
     "translation": "** 防守30秒激活塔 **",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "*** 30秒間ホールドしてタワーをアクティベート ***",
       "CN": "** 防守30秒激活塔 **",
-      "KR": "",
-      "TW": ""
+      "KR": "*** 30초간_HOLD를_보유하면_타워_활성화 ***",
+      "TW": "** HOLD 30 SEC TO ACTIVATE TOWER **"
     }
   },
   "** Hold 30 second to break the wall **": {
     "translation": "** 防守30秒打破墙壁 **",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "*** 30秒間ホールドして壁を破壊 ***",
       "CN": "** 防守30秒打破墙壁 **",
-      "KR": "",
-      "TW": ""
+      "KR": "*** 30 초간 유지하여 벽을 깨세요 ***",
+      "TW": "*** 持續30秒擊破牆壁 ***"
     }
   },
   "** Hold 30 second to clear the rock**": {
     "translation": "** 防守30秒清除岩石 **",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "*** 30秒間ホールドして岩を清除>> <<",
       "CN": "** 防守30秒清除岩石 **",
-      "KR": "",
-      "TW": ""
+      "KR": "** 30초간 유지하여 바위를 제거하세요 **",
+      "TW": "** HOLD 30 SEC TO CLEAR THE ROCK**"
     }
   },
   "** Hold 30 second to destroy the fence**": {
     "translation": "** 防守30秒摧毁栅栏 **",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "*** 30秒間 HOLDしてフェンスを破壊***",
       "CN": "** 防守30秒摧毁栅栏 **",
-      "KR": "",
-      "TW": ""
+      "KR": "** 30초 동안 유지하여 subsidy를 파괴하세요 **",
+      "TW": "HOLD 30 SEC TO DESTROY FENCE"
     }
   },
   "** Hold 30 second to open the door **": {
     "translation": "** 防守30秒打开门 **",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "*** 30秒間ホールドすると門が開きます ***",
       "CN": "** 防守30秒打开门 **",
-      "KR": "",
-      "TW": ""
+      "KR": "*** 30초간 누르면 문 열림 ***",
+      "TW": "** HOLD 30 SECOND TO OPEN THE DOOR **"
     }
   },
   "** Hold 35 second to open the door **": {
     "translation": "** 防守35秒打开门 **",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "*** 35秒間ホールドしてドアを開ける ***",
       "CN": "** 防守35秒打开门 **",
-      "KR": "",
-      "TW": ""
+      "KR": "*** 35초간 유지해 문을 열 수 있습니다 ***",
+      "TW": "*** HOLD 35 SEC TO OPEN DOOR ***"
     }
   },
   "** Hold on, The core is releasing energy **": {
@@ -215,78 +215,78 @@
       "US": "",
       "JP": "",
       "CN": "** 防守住，核心正在释放能量 **",
-      "KR": "",
-      "TW": ""
+      "KR": "*** 잠자코 있어, 핵심은 에너지를 방출하고 있습니다 ***",
+      "TW": "*** 擁抱，核心正在釋放能量 ***"
     }
   },
   "** However, the sacred tree needs energy to release purification magic **": {
     "translation": "**  然而，古老的天穹树已经枯萎，需要纯净的能量来释放净化魔法 **",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "然而、聖なる木は浄化魔法を放出するためのエネルギーが必要です **",
       "CN": "**  然而，古老的天穹树已经枯萎，需要纯净的能量来释放净化魔法 **",
-      "KR": "",
-      "TW": ""
+      "KR": "*** 그러나 성스러운 나무는 정화 마법을 사용하기 위해 에너지를 필요로 합니다 ***",
+      "TW": "**然而，聖樹需要能量才能釋放淨化魔法**"
     }
   },
   "** Hurt poison, stay away from the entrance **": {
     "translation": "** 有毒，远离入口 **",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "*** 傷毒效果，请远离入口 ***",
       "CN": "** 有毒，远离入口 **",
-      "KR": "",
-      "TW": ""
+      "KR": "*** 손상중독 tránh 출입문 ***",
+      "TW": "*** 傷毒，遠離入口 ***"
     }
   },
   "** Infected undead can only be purified by sky tree **": {
     "translation": "** 被感染的亡灵只能被天穹树净化 **",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "*** 感染した不死者が天空の木で Only纯洁可净化 ***",
       "CN": "** 被感染的亡灵只能被天穹树净化 **",
-      "KR": "",
-      "TW": ""
+      "KR": "** 오직 하늘나무만이 오염된 피如何看待原文中的“亡者”可能被误译为“死者”，这里保持原文含义不变，直接翻译为“ Undead ”。）를 정화할 수 있다 **",
+      "TW": "**受感染的不死生物只能被天空之樹净化**"
     }
   },
   "** It finally died **": {
     "translation": "** 它终于死了 **",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "***最終的に死んだ***",
       "CN": "** 它终于死了 **",
       "KR": "",
-      "TW": ""
+      "TW": "***它終於死了***"
     }
   },
   "** It occupies the root of the sky tree **": {
     "translation": "** 它占据了天穹树的根部 **",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "*** 天樹の根元に占領する ***",
       "CN": "** 它占据了天穹树的根部 **",
-      "KR": "",
-      "TW": ""
+      "KR": "*** 그것이 하늘나무의 루트를占据 ***",
+      "TW": "**它佔據了天空之樹的根部**"
     }
   },
   "** Jump to transfer array **": {
     "translation": "** 跳跃到传送阵 **",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "***ジャンプして転送配列に移動***",
       "CN": "** 跳跃到传送阵 **",
-      "KR": "",
-      "TW": ""
+      "KR": "*** 점프하여 전송 배열로 이동 ***",
+      "TW": "**跳至轉移陣列**"
     }
   },
   "** Keep defending, we need to get the energy core **": {
     "translation": "** 继续防守，我们需要获取能量核心 **",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "*** 守备持续进行，我们需要能量核心 ***",
       "CN": "** 继续防守，我们需要获取能量核心 **",
-      "KR": "",
-      "TW": ""
+      "KR": "*** 지속적으로 방어하我们必须坚守，我们需要获得能量核心***",
+      "TW": "*** 繼續防守，我們需要獲取能量核心 ***"
     }
   },
   "** Looks like we need to hold 30s **": {
@@ -295,7 +295,7 @@
       "US": "",
       "JP": "",
       "CN": "** 看起来我们需要防守30秒 **",
-      "KR": "",
+      "KR": "** 보아하니 우리는 30초를 지키야looks like we need to hold 30s **",
       "TW": ""
     }
   },
@@ -303,39 +303,39 @@
     "translation": "** 现在把核心放入树池中 **",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "** 核心を木の池に落とす **",
       "CN": "** 现在把核心放入树池中 **",
-      "KR": "",
-      "TW": ""
+      "KR": "*** 이제 핵을 나무 용오름에 떨어뜨리세요 ***",
+      "TW": "**现在將核心放入樹池中**"
     }
   },
   "** Now go to the sky tree for shelter **": {
     "translation": "** 现在去天穹树寻求庇护 **",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "*** 今、天秤塔に避難しにいく ***",
       "CN": "** 现在去天穹树寻求庇护 **",
-      "KR": "",
-      "TW": ""
+      "KR": "** 이제 하늘나무에 피난하세요 **",
+      "TW": "**现在去天樹尋求庇護**"
     }
   },
   "** Now we need go to get the core and recharge it **": {
     "translation": "** 现在我们需要去获取核心并为其充能 **",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "*** 現在私たちはコアを取りに行き充電する必要がある ***",
       "CN": "** 现在我们需要去获取核心并为其充能 **",
-      "KR": "",
-      "TW": ""
+      "KR": "*** 이제 핵심을 얻어 충전해야 합니다 ***",
+      "TW": "*** 現在我們需要去取得核心並為其充電 ***"
     }
   },
   "** Overcharge, hold the zombie **": {
     "translation": "** 过度充能，防守僵尸 **",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "*** オーバチャージ、ゾンビを保持 ***",
       "CN": "** 过度充能，防守僵尸 **",
-      "KR": "",
+      "KR": "*** 과부하, 좀비를 유지하세요 ***",
       "TW": ""
     }
   },
@@ -343,29 +343,29 @@
     "translation": "** 毒雾，去池子里躲避 **",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "毒霧に注意、池に避難 >> <<",
       "CN": "** 毒雾，去池子里躲避 **",
-      "KR": "",
-      "TW": ""
+      "KR": "*** 중독성 안개, 호수에 피난간이라 ***",
+      "TW": "*** 毒霧，躲避到池中 ***"
     }
   },
   "** Poison swamp, go to the second floor **": {
     "translation": "** 毒沼，去二楼 **",
     "MultiLang": {
-      "US": "",
-      "JP": "",
+      "US": "*** Poison Swamp, go to the 2nd floor ***",
+      "JP": "*** 毒沼地，前往二楼 ***",
       "CN": "** 毒沼，去二楼 **",
-      "KR": "",
-      "TW": ""
+      "KR": "★★ 독사나무우림, 2층으로 가세요 ★★",
+      "TW": "*** 毒沼地，去2樓 ***"
     }
   },
   "** Spirit diffusion, avoid injury **": {
     "translation": "** 精神扩散，避免受伤 **",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "***霊力分散、傷を避ける***",
       "CN": "** 精神扩散，避免受伤 **",
-      "KR": "",
+      "KR": "*** 정신 확산, 손상 피하기 ***",
       "TW": ""
     }
   },
@@ -373,19 +373,19 @@
     "translation": "** 灵魂出现，远离灵魂生成的球 **",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "★★ 氷灵放出，注意pirit球 ★★",
       "CN": "** 灵魂出现，远离灵魂生成的球 **",
-      "KR": "",
-      "TW": ""
+      "KR": "*** 정령들现身，请注意灵球 ***",
+      "TW": "**靈魂出現，注意靈球**"
     }
   },
   "** Stay in the protected area of the sky tree **": {
     "translation": "** 留在天穹树的保护区内 **",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "★★ スky tree 保護区域に逗留 ★★",
       "CN": "** 留在天穹树的保护区内 **",
-      "KR": "",
+      "KR": "*** 공터 상공 보호구역 내 머무르세요 ***",
       "TW": ""
     }
   },
@@ -393,200 +393,200 @@
     "translation": "** 飞船将在35秒内离开 **",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "*** エアーシIPが35秒後に発進します ***",
       "CN": "** 飞船将在35秒内离开 **",
-      "KR": "",
-      "TW": ""
+      "KR": "** 공중汽球35초 후에 떠나요 **",
+      "TW": "*** 飛艇離開在35秒後 ***"
     }
   },
   "** The core is full of energy and we can leave **": {
     "translation": "** 核心充满能量，我们可以离开了 **",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "** コアはエネルギーに満ちていて我们现在可以离开 **",
       "CN": "** 核心充满能量，我们可以离开了 **",
-      "KR": "",
-      "TW": ""
+      "KR": "** 핵심은 에너지가 가득하고 이제 떠날 수 있습니다 **",
+      "TW": "***核心充滿能量我們可以離開***"
     }
   },
   "** The core is healing the people around **": {
     "translation": "** 核心正在治愈周围的人 **",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "** 核心は周囲の人々を愈す **",
       "CN": "** 核心正在治愈周围的人 **",
-      "KR": "",
-      "TW": ""
+      "KR": "*** 주변的人们恢复为核心 ***",
+      "TW": "*** 核心是治療周圍的人 ***"
     }
   },
   "** The core will emit energy, protect it from being polluted by the undead **": {
     "translation": "** 核心将发出能量，保护它不被亡灵污染 **",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "*** 核心 akan energi, lindungi dari tercemar oleh jenaka ***",
       "CN": "** 核心将发出能量，保护它不被亡灵污染 **",
-      "KR": "",
-      "TW": ""
+      "KR": "*** 핵심은 에너지를 방출하여 불소생체로부터 오염을 보호하세요 ***",
+      "TW": "*** 核心將發出能量，保護它不受亡靈污染 ***"
     }
   },
   "** The divine tree has received energy, we need another 20 seconds to open the door **": {
     "translation": "** 天穹树已经接收到能量，我们还需要20秒来打开门 **",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "***神圣の木がエネルギーを受け取りました、ドアを開くにはもう20秒必要です ***",
       "CN": "** 天穹树已经接收到能量，我们还需要20秒来打开门 **",
-      "KR": "",
-      "TW": ""
+      "KR": "神성한 나무에 에너지가 받았습니다. 문을 열기 위해 아직 20초 필요합니다.",
+      "TW": "*** 神樹已吸收能量，我們還需要再等 20 秒鐘才能開門 ***"
     }
   },
   "** The door is open **": {
     "translation": "** 门开了 **",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "***扉は開かれている***",
       "CN": "** 门开了 **",
-      "KR": "",
-      "TW": ""
+      "KR": "*** 문이 열려 있음 ***",
+      "TW": "** 門是開的 **"
     }
   },
   "** The door is open. We need to leave the temple **": {
     "translation": "** 门开了。我们需要离开寺庙 **",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "***扉は開いています。我々はtempleから去る必要があります***",
       "CN": "** 门开了。我们需要离开寺庙 **",
-      "KR": "",
-      "TW": ""
+      "KR": "*** 문이 열려 있습니다. 사원을 빠져나가야 합니다 ***",
+      "TW": "*** 门开了。我们需要离开庙宇 ***"
     }
   },
   "** The plague from ancient times broke out **": {
     "translation": "** 来自古代瘟疫爆发了 **",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "*** 古代の疫病が再発した ***",
       "CN": "** 来自古代瘟疫爆发了 **",
-      "KR": "",
-      "TW": ""
+      "KR": "*** 과거의 환기병이 발발 ***",
+      "TW": "*** 古代的疫病再度爆發 ***"
     }
   },
   "** The sacred tree is already purifying the undead. Hold on **": {
     "translation": "** 天穹树正在净化亡灵。防守住 **",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "*** 圣树已经开始净化亡灵。坚持住 ***",
       "CN": "** 天穹树正在净化亡灵。防守住 **",
-      "KR": "",
-      "TW": ""
+      "KR": "*** 성스러운 나무가 이미 무덤ffield을 정화하고 있습니다. 참아내세요 ***",
+      "TW": "*** 圓樹已經開始淨化亡靈。堅持下去 ***"
     }
   },
   "** The undead will fight us to death after 10 seconds **": {
     "translation": "** 亡灵将在10秒后与我们决一死战 **",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "不死者の戦いは10秒後から始まるまで続く***",
       "CN": "** 亡灵将在10秒后与我们决一死战 **",
-      "KR": "",
-      "TW": ""
+      "KR": "*** 봉사를 위해 좀비들은 10초 후에 우리를 최후까지 싸울 것이다 ***",
+      "TW": "*** 10秒後亡靈將與我們戰到底 ***"
     }
   },
   "** The wind is rising **": {
     "translation": "** 起风了 **",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "** 风在攀升 **",
       "CN": "** 起风了 **",
-      "KR": "",
-      "TW": ""
+      "KR": "*** 바람이 일어나고 ***",
+      "TW": "風開始增大**"
     }
   },
   "** They will die, we made it,  jump!!! **": {
     "translation": "** 他们将要灭亡，我们成功了，跳！翻译：Asteri3m **",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "***他们将会死去，我们做到了，跳！！！***",
       "CN": "** 他们将要灭亡，我们成功了，跳！翻译：Asteri3m **",
-      "KR": "",
-      "TW": ""
+      "KR": "*** 그들은 죽을 것이다, 우리는 살아남았다,-hop!! ***",
+      "TW": "**他們會死，我們做到了，跳!!!!! **"
     }
   },
   "** We failed to protect the core **": {
     "translation": "** 我们没能保护核心 **",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "*** 我们未能保护核心 ***",
       "CN": "** 我们没能保护核心 **",
-      "KR": "",
-      "TW": ""
+      "KR": "*** 우리는 코어를 보호하지 못했습니다 ***",
+      "TW": "** 我們未能保護核心 **"
     }
   },
   "** We have got the core. Now we need to fill the core with energy in the holy pool **": {
     "translation": "** 我们已经拿到核心。现在我们需要在圣池中为核心充能 **",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "** コアを手に入れた。次に聖なる池からエネルギーでコアを充填する必要がある **",
       "CN": "** 我们已经拿到核心。现在我们需要在圣池中为核心充能 **",
-      "KR": "",
-      "TW": ""
+      "KR": "** 핵심을 얻었습니다. 이제 성스러운 용액에서 에너지를 충전해야 합니다 **",
+      "TW": "** 我們已經得到核心。現在需要把能量灌注到聖池中的核心 **"
     }
   },
   "** We have reached the sky tree tower **": {
     "translation": "** 我们已经到达天穹树塔 **",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "*** 我们到达了天空树塔 ***",
       "CN": "** 我们已经到达天穹树塔 **",
-      "KR": "",
-      "TW": ""
+      "KR": "** 우리는 하늘나무 탑에 도달했습니다 **",
+      "TW": "*** 我們已經到了 Sky Tree 塔 ***"
     }
   },
   "** We have reached the temple **": {
     "translation": "** 我们已经到达寺庙 **",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "*** 我们已經到了神殿 ***",
       "CN": "** 我们已经到达寺庙 **",
-      "KR": "",
-      "TW": ""
+      "KR": "*** 우리는 사원에 도착했습니다 ***",
+      "TW": "**我們已到達神殿**"
     }
   },
   "** We need to beat it **": {
     "translation": "** 我们需要打败它 **",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "*** 我们必须打败它 ***",
       "CN": "** 我们需要打败它 **",
-      "KR": "",
-      "TW": ""
+      "KR": "*** 우리는 이거 꼭 побед해야 한다 ***",
+      "TW": "**我們 NEED TO BEAT IT **"
     }
   },
   "** We need to go to the temple to get the core of energy **": {
     "translation": "** 我们需要去寺庙获取能量核心 **",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "*** 我々はエネルギーの核を取得するために神殿に-go ***",
       "CN": "** 我们需要去寺庙获取能量核心 **",
-      "KR": "",
-      "TW": ""
+      "KR": "***我们需要去神庙获取能量核心***",
+      "TW": "*** 我們需要去神廟取得能量核心 ***"
     }
   },
   "** We need to take the airship to reach the sky tree tower **": {
     "translation": "** 我们需要乘坐飞船到达天穹树塔 **",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "*** 我々は空母を天空の塔に到達するために使う必要がある ***",
       "CN": "** 我们需要乘坐飞船到达天穹树塔 **",
-      "KR": "",
-      "TW": ""
+      "KR": "***我们需要乘坐气球才能到达天空树塔***",
+      "TW": "** 我們需要搭乘空ship前往天空樹塔 **"
     }
   },
   "** it is corruption sprite **": {
     "translation": "** 它是腐化精灵 **",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "*** これは汚染精霊 ***",
       "CN": "** 它是腐化精灵 **",
-      "KR": "",
-      "TW": ""
+      "KR": "*** 그것은 부패 스프라이트 ***",
+      "TW": "***這是腐化精灵***"
     }
   }
 }

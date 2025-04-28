@@ -5,8 +5,8 @@
       "US": "",
       "JP": "",
       "CN": ">>>剩余 1 次尝试<<<",
-      "KR": "",
-      "TW": ""
+      "KR": ">>>1 시도 남음<<<",
+      "TW": ">>>1次嘗試剩餘<<<"
     }
   },
   ">>>2 Attempts Remaining<<<": {
@@ -15,7 +15,7 @@
       "US": "",
       "JP": "",
       "CN": ">>>剩余 2 次尝试<<<",
-      "KR": "",
+      "KR": ">>>2 시도 남음<<<",
       "TW": ""
     }
   },
@@ -23,9 +23,9 @@
     "translation": ">>>剩余 3 次尝试<<<",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": ">>>3 リストラムaining Remaining<<<",
       "CN": ">>>剩余 3 次尝试<<<",
-      "KR": "",
+      "KR": ">>>3 시도 남음<<<",
       "TW": ""
     }
   },
@@ -33,10 +33,10 @@
     "translation": ">>>Kiss Your Ass Goodbye 模式<<<",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": ">>>アシス-goodbye モード<<<",
       "CN": ">>>Kiss Your Ass Goodbye 模式<<<",
-      "KR": "",
-      "TW": ""
+      "KR": ">>>ASS에게 KISS 하여서 작별 인사<<<",
+      "TW": ">>>吻你的屁股再见模式<<<"
     }
   },
   ">>MAP BY POLYNATION<<": {
@@ -45,7 +45,7 @@
       "US": "",
       "JP": "",
       "CN": ">>地图作者：POLYNATION 翻译：Ayanami♪<<",
-      "KR": "",
+      "KR": ">>맵_by_polynation<<",
       "TW": ""
     }
   },
@@ -53,17 +53,17 @@
     "translation": ">>由 BLUE DRAGON 优化<<",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": ">>BLUE DRAGONによる最適化<<",
       "CN": ">>由 BLUE DRAGON 优化<<",
-      "KR": "",
-      "TW": ""
+      "KR": ">>BLUE DRAGON으로의 최적화<<",
+      "TW": ">>BLUE DRAGONOPTIMIZATION<<"
     }
   },
   ">>ZE LAZERS<<": {
     "translation": ">>ZE LAZERS<<",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": ">>ゼラザーズ<<",
       "CN": ">>ZE LAZERS<<",
       "KR": "",
       "TW": ""
@@ -73,39 +73,39 @@
     "translation": ">桥梁将在 10 秒内断裂<",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "10秒間の橋壊し<",
       "CN": ">桥梁将在 10 秒内断裂<",
-      "KR": "",
-      "TW": ""
+      "KR": ">10초 만에 다리를 무너뜨리기<",
+      "TW": ">10秒建橋<"
     }
   },
   ">But the lasers keep coming!<": {
     "translation": ">但跳刀不断袭来！<",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "＞がelasersは止まらない！<",
       "CN": ">但跳刀不断袭来！<",
-      "KR": "",
-      "TW": ""
+      "KR": "그러나 레이저는 계속 와요!",
+      "TW": ">但雷射炮火不停！<"
     }
   },
   ">Doorhuggers Will Be Rewarded<": {
     "translation": ">贴门的人将获得奖励（<",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "ドアヒグglers Will Be Rewarded",
       "CN": ">贴门的人将获得奖励（<",
-      "KR": "",
-      "TW": ""
+      "KR": "문틀잡는 자들은 보상받을 것이다",
+      "TW": "門搗客將會獲得獎勵"
     }
   },
   ">Doors Opening in 35 Seconds<": {
     "translation": ">门将在 35 秒后打开<",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "ドアが開くまで35秒˂",
       "CN": ">门将在 35 秒后打开<",
-      "KR": "",
+      "KR": "문이 열리는 중입니다. 35초 후",
       "TW": ""
     }
   },
@@ -113,9 +113,9 @@
     "translation": ">门将在 44 秒后打开<",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "＞ドアが開くまで44秒<",
       "CN": ">门将在 44 秒后打开<",
-      "KR": "",
+      "KR": ">문이 열리는 중입니다. 44초 후<",
       "TW": ""
     }
   },
@@ -123,10 +123,10 @@
     "translation": ">门将在 5 秒后打开<",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": ">ドアが開くまで5秒<",
       "CN": ">门将在 5 秒后打开<",
-      "KR": "",
-      "TW": ""
+      "KR": "문이 열리는 중입니다. 5초 후에.<",
+      "TW": "門已開啟，在5秒後自動關閉>>"
     }
   },
   ">Fence Breaks in 10 Seconds<": {
@@ -135,8 +135,8 @@
       "US": "",
       "JP": "",
       "CN": ">栅栏将在 10 秒后断裂<",
-      "KR": "",
-      "TW": ""
+      "KR": "주로 10초 내에 철조망이 깨진다",
+      "TW": "欄杆在10秒內破壞"
     }
   },
   ">Fence Breaks in 70 Seconds<": {
@@ -145,8 +145,8 @@
       "US": "",
       "JP": "",
       "CN": ">栅栏将在 70 秒后断裂<",
-      "KR": "",
-      "TW": ""
+      "KR": "게이트가 70초 후에 부reak",
+      "TW": "欄杆在70秒內倒塌"
     }
   },
   ">Fishing Boat Leaving in 40 Seconds<": {
@@ -155,7 +155,7 @@
       "US": "",
       "JP": "",
       "CN": ">渔船将在 40 秒后离开<",
-      "KR": "",
+      "KR": "낚시 배 40초 후 출항在游戏中请勿使用换行",
       "TW": ""
     }
   },
@@ -165,7 +165,7 @@
       "US": "",
       "JP": "",
       "CN": ">渔船将在 10 秒后离开<",
-      "KR": "",
+      "KR": "낚시ailable dalam 10 초 후",
       "TW": ""
     }
   },
@@ -173,30 +173,30 @@
     "translation": ">GFL 管理员已被击败<",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": ">GFL管理者が敗北した<",
       "CN": ">GFL 管理员已被击败<",
-      "KR": "",
-      "TW": ""
+      "KR": ">GFL 관리자已被击败<",
+      "TW": ">GFL管理員已被擊敗<"
     }
   },
   ">Helicopter Leaves in 10 Seconds<": {
     "translation": ">直升机将在 10 秒后离开<",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "ヘリコプターは10秒後に離陸します",
       "CN": ">直升机将在 10 秒后离开<",
-      "KR": "",
-      "TW": ""
+      "KR": "HELICOPTER LEAVES IN 10 SECONDS",
+      "TW": "直升机10秒後離開"
     }
   },
   ">Helicopter Leaves in 40 Seconds<": {
     "translation": ">直升机在 40 秒后离开<",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "ヘリコプターが40秒後に離陸します",
       "CN": ">直升机在 40 秒后离开<",
-      "KR": "",
-      "TW": ""
+      "KR": "HELICOPTER LEAVES IN 40 SECONDS",
+      "TW": "直升机離開倒數：40秒"
     }
   },
   ">Inflatable Boat Leaving in 40 Seconds<": {
@@ -206,7 +206,7 @@
       "JP": "",
       "CN": ">充气船在 40 秒后离开<",
       "KR": "",
-      "TW": ""
+      "TW": "充氣艇离开倒數：40秒"
     }
   },
   ">Inflatable Boat leaving in 10 Seconds<": {
@@ -215,17 +215,17 @@
       "US": "",
       "JP": "",
       "CN": ">充气船在 10 秒后离开<",
-      "KR": "",
-      "TW": ""
+      "KR": "膨胀식 배가 10초 후에 출발합니다",
+      "TW": "充氣艇離開倒計時 10 秒"
     }
   },
   ">Nuke in 30 Seconds<": {
     "translation": ">核弹在 30 秒后发射<",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "30秒後に核爆発",
       "CN": ">核弹在 30 秒后发射<",
-      "KR": "",
+      "KR": "ヌclé아이 30 초에서",
       "TW": ""
     }
   },
@@ -233,9 +233,9 @@
     "translation": ">核弹在 5 秒后发射<",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "5秒後に核爆発",
       "CN": ">核弹在 5 秒后发射<",
-      "KR": "",
+      "KR": "ヌclé아 5 秒後",
       "TW": ""
     }
   },
@@ -245,8 +245,8 @@
       "US": "",
       "JP": "",
       "CN": ">隐形船在 40 秒后离开<",
-      "KR": "",
-      "TW": ""
+      "KR": "潜航艇离开倒计时40秒>>",
+      "TW": "潛行艇離開倒數40秒"
     }
   },
   ">Stealth Boat leaving in 10 Seconds<": {
@@ -255,77 +255,77 @@
       "US": "",
       "JP": "",
       "CN": ">隐形船在 10 秒后离开<",
-      "KR": "",
-      "TW": ""
+      "KR": "방음선 10초 후 출발<",
+      "TW": "潜航艇10秒後啟動"
     }
   },
   ">Train Leaving in 15 Seconds<": {
     "translation": ">火车在 15 秒后离开<",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": ">>15秒後に列車発車<<",
       "CN": ">火车在 15 秒后离开<",
-      "KR": "",
-      "TW": ""
+      "KR": ">15초 후에 출발합니다<",
+      "TW": ">列車 Departing in 15 Seconds<"
     }
   },
   ">Train Leaving<": {
     "translation": ">火车离开<",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": ">列車 departure<",
       "CN": ">火车离开<",
-      "KR": "",
-      "TW": ""
+      "KR": ">열차 출발<",
+      "TW": ">列車 Departing<"
     }
   },
   ">Transporters Open in 10 Seconds<": {
     "translation": ">运输机在 10 秒后启动<",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": ">> transporter_open_in_10_seconds<",
       "CN": ">运输机在 10 秒后启动<",
-      "KR": "",
-      "TW": ""
+      "KR": ">트랜스포터 열림 후 10초<",
+      "TW": ">運送器啟動倒計時10秒<"
     }
   },
   ">Vents Opened<": {
     "translation": ">通风口打开<",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": ">vents opened<",
       "CN": ">通风口打开<",
-      "KR": "",
-      "TW": ""
+      "KR": "보ilers Opened<",
+      "TW": "> vents opened <"
     }
   },
   ">Wall Breaking in 15 Seconds<": {
     "translation": ">15 秒后打破墙壁<",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": ">>15秒後のウォールブレイク<<",
       "CN": ">15 秒后打破墙壁<",
-      "KR": "",
-      "TW": ""
+      "KR": ">15초 후 벽부수기<",
+      "TW": ">15秒內破牆<"
     }
   },
   ">Wall Breaking in 5 Seconds<": {
     "translation": ">5 秒后打破墙壁<",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "5秒後に壁破壊",
       "CN": ">5 秒后打破墙壁<",
-      "KR": "",
-      "TW": ""
+      "KR": "5초 후 벽 부수기",
+      "TW": ">5秒後拆牆<"
     }
   },
   ">Wall Breaks in 10 Seconds<": {
     "translation": ">10 秒后打破墙壁<",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "＞ウォール破壊は10秒後に開始<",
       "CN": ">10 秒后打破墙壁<",
-      "KR": "",
+      "KR": "> WALL BREAKS IN 10 SECONDS<",
       "TW": ""
     }
   },
@@ -343,90 +343,90 @@
     "translation": "正在播放：3 Big Balls - DigBar",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "現在プレイ中：3 大球 - DigBar",
       "CN": "正在播放：3 Big Balls - DigBar",
-      "KR": "",
-      "TW": ""
+      "KR": "你现在玩的是：3个大球 - DigBar",
+      "TW": "現在 PLAYING: 3 大球 - DigBar"
     }
   },
   "Now Playing: 4 DA TRAP - 645AR": {
     "translation": "正在播放：4 DA TRAP - 645AR",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "現在プレイ中: 4 DA TRAP - 645AR",
       "CN": "正在播放：4 DA TRAP - 645AR",
-      "KR": "",
-      "TW": ""
+      "KR": "현재 방송 중: 4 DA TRAP - 645AR",
+      "TW": "現在播放：4 DA TRAP - 645AR"
     }
   },
   "Now Playing: Blood Sugar - Pendulum": {
     "translation": "正在播放：Blood Sugar - Pendulum",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "現在プレイ中：Blood Sugar - Pendulum",
       "CN": "正在播放：Blood Sugar - Pendulum",
-      "KR": "",
-      "TW": ""
+      "KR": "현재 재생 중: 혈당 - 펜들럼",
+      "TW": "現在Playing: 血糖 - 憑欄"
     }
   },
   "Now Playing: By The Way - Neco Arc Chili Peppers": {
     "translation": "正在播放：By The Way - Neco Arc Chili Peppers",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "現在再生中: By The Way - Neco Arc Chili Peppers",
       "CN": "正在播放：By The Way - Neco Arc Chili Peppers",
-      "KR": "",
-      "TW": ""
+      "KR": "现在的曲目：By The Way - Neco Arc Chili Peppers",
+      "TW": "現在播放：By The Way - Neco Arc Chili Peppers"
     }
   },
   "Now Playing: Emotional Titanic Flute": {
     "translation": "正在播放：Emotional Titanic Flute",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "現在プレイ中：エモーショナル・タイタニック flute",
       "CN": "正在播放：Emotional Titanic Flute",
-      "KR": "",
-      "TW": ""
+      "KR": "现在的歌曲：Emotional Titanic Flute",
+      "TW": "現在播放：情感泰坦尼克號長笛"
     }
   },
   "Now Playing: Fried Chicken - Der Witz": {
     "translation": "正在播放：Fried Chicken - Der Witz",
     "MultiLang": {
-      "US": "",
-      "JP": "",
+      "US": "Now Playing: Fried Chicken - The Joke",
+      "JP": "現在プレイ中：フライドチキン - デル・ワッツ",
       "CN": "正在播放：Fried Chicken - Der Witz",
-      "KR": "",
-      "TW": ""
+      "KR": "현재 게임 중: 치킨 프라이드 - 드 울트茨",
+      "TW": "現在 Plays: 油炸雞 - 德意志"
     }
   },
   "Now Playing: Halo - Pendulum": {
     "translation": "正在播放：Halo - Pendulum",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "現在プレイ中: Halo - Pendulum",
       "CN": "正在播放：Halo - Pendulum",
-      "KR": "",
-      "TW": ""
+      "KR": "현재 게임 중: Halo - Pendulum",
+      "TW": "現在進行中：Halo - Pendulum"
     }
   },
   "Now Playing: I Really, Really, Really Like This Image - Hot Dad": {
     "translation": "正在播放：I Really, Really, Really Like This Image - Hot Dad",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "現在プレイ中：これが本当に本当に本当に好き - ホットな爸爸",
       "CN": "正在播放：I Really, Really, Really Like This Image - Hot Dad",
-      "KR": "",
-      "TW": ""
+      "KR": "现在的画面：진짜 진짜 진짜 이 이미지 좋아 - 핫다addy",
+      "TW": "現在玩著：我真的Really真的真的喜歡這張圖像 - 熱門爸爸"
     }
   },
   "Now Playing: I'm a Coomer - Hallowed": {
     "translation": "正在播放：I'm a Coomer - Hallowed",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "Now Playing: クーザー - 圭離凪",
       "CN": "正在播放：I'm a Coomer - Hallowed",
-      "KR": "",
-      "TW": ""
+      "KR": "현재 게임 중: 나는 코머 - 축복됨",
+      "TW": "現在 Playing: 我是灌水王 - 圭塢"
     }
   },
   "Now Playing: KFC - Glorb, Dankton, & The Notorious P.A.T.": {
@@ -435,88 +435,88 @@
       "US": "",
       "JP": "",
       "CN": "正在播放：KFC - Glorb, Dankton, & The Notorious P.A.T.",
-      "KR": "",
-      "TW": ""
+      "KR": "现在的游戏：KFC - Glorb, Dankton, & The Notorious P.A.T.",
+      "TW": "現在播放：KFC - Glorb, Dankton, & The Notorious P.A.T."
     }
   },
   "Now Playing: Little Girls - Oingo Boingo": {
     "translation": "正在播放：Little Girls - Oingo Boingo",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "現在再生中：Little Girls - Oingo Boingo",
       "CN": "正在播放：Little Girls - Oingo Boingo",
-      "KR": "",
-      "TW": ""
+      "KR": "现在的歌曲：Little Girls - Oingo Boingo",
+      "TW": "現在 PLAYING: 小女孩們 - Oingo Boingo"
     }
   },
   "Now Playing: Mask - Dream": {
     "translation": "正在播放：Mask - Dream",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "現在再生中：マスク - モノクロ",
       "CN": "正在播放：Mask - Dream",
-      "KR": "",
-      "TW": ""
+      "KR": "현재 게임 중: 마스크 - 꿈",
+      "TW": "現在 PLAYING: 面具 - 梦"
     }
   },
   "Now Playing: Metal Gear Rising Revengeance - It Has To Be This Way (Platinum Mix)": {
     "translation": "正在播放：Metal Gear Rising Revengeance - It Has To Be This Way (Platinum Mix)",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "現在再生中：Metal Gear Rising Revengeance - これでいいんだ (プラチナミックス)",
       "CN": "正在播放：Metal Gear Rising Revengeance - It Has To Be This Way (Platinum Mix)",
-      "KR": "",
-      "TW": ""
+      "KR": "现在的曲目：Metal Gear Rising Revengeance - 이어야这么做（铂金混音）",
+      "TW": "現在播放：Metal Gear Rising Revengeance - 就必須這樣（platina mix）"
     }
   },
   "Now Playing: On Da Creep - Tommy Wright III": {
     "translation": "正在播放：On Da Creep - Tommy Wright III",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "現在再生中: On Da Creep - Tommy Wright III",
       "CN": "正在播放：On Da Creep - Tommy Wright III",
-      "KR": "",
-      "TW": ""
+      "KR": "现在的歌曲：On Da Creep - Tommy Wright III",
+      "TW": "現在播放：On Da Creep - Tommy Wright III"
     }
   },
   "Now Playing: On The Floor - IceJJFish": {
     "translation": "正在播放：On The Floor - IceJJFish",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "現在プレイ中: On The Floor - IceJJFish",
       "CN": "正在播放：On The Floor - IceJJFish",
-      "KR": "",
-      "TW": ""
+      "KR": "现在的歌曲：On The Floor - IceJJFish",
+      "TW": "現在游玩：On The Floor - IceJJFish"
     }
   },
   "Now Playing: Pendulum - Im Not Alone (Live)": {
     "translation": "正在播放：Pendulum - Im Not Alone (Live)",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "現在再生中：Pendulum - Im Not Alone (Live)",
       "CN": "正在播放：Pendulum - Im Not Alone (Live)",
-      "KR": "",
-      "TW": ""
+      "KR": "现在的歌曲：Pendulum - Im Not Alone (Live)",
+      "TW": "現在播放：Pendulum - Im Not Alone (Live)"
     }
   },
   "Now Playing: Shes So Kawaii - LeetStreet Boys": {
     "translation": "正在播放：Shes So Kawaii - LeetStreet Boys",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "今放送中：Shes So Kawaii - LeetStreet Boys",
       "CN": "正在播放：Shes So Kawaii - LeetStreet Boys",
-      "KR": "",
-      "TW": ""
+      "KR": "现在的歌曲：Shes So Kawaii - LeetStreet Boys",
+      "TW": "現在 Plays: She's So Kawaii - LeetStreet Boys"
     }
   },
   "Now Playing: Slam - Pendulum": {
     "translation": "正在播放：Slam - Pendulum",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "現在プレイ中：Slam - Pendulum",
       "CN": "正在播放：Slam - Pendulum",
-      "KR": "",
-      "TW": ""
+      "KR": "현재 게임 중: Slam - Pendulum",
+      "TW": "現在 Playing: 斤兩 - 摇盪"
     }
   },
   "Now Playing: So You Wanna Be Hip? (Suck Your Own Dick) - SkyCorp": {
@@ -525,68 +525,68 @@
       "US": "",
       "JP": "",
       "CN": "正在播放：So You Wanna Be Hip? （Suck Your Own Dick）- SkyCorp",
-      "KR": "",
-      "TW": ""
+      "KR": "现在的游戏：So You Wanna Be Hip? (Suck Your Own Dick) - SkyCorp",
+      "TW": "現在Playing: 你 Wanna 成 HIP? (自己 咕嚕 1下) - SkyCorp"
     }
   },
   "Now Playing: Superman - Goldfinger": {
     "translation": "正在播放：Superman - Goldfinger",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "現在プレイ中：スーパーマン - ゴールデンファング",
       "CN": "正在播放：Superman - Goldfinger",
-      "KR": "",
-      "TW": ""
+      "KR": "현재 플레이 중: 슈퍼맨 - 골드finger",
+      "TW": "現在播放：超人 - 金手指"
     }
   },
   "Now Playing: The Fountain - Pendulum": {
     "translation": "正在播放：The Fountain - Pendulum",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "現在プレイ中：The Fountain - Pendulum",
       "CN": "正在播放：The Fountain - Pendulum",
-      "KR": "",
-      "TW": ""
+      "KR": "현재 게임 중인 게임: The Fountain - Pendulum",
+      "TW": "現正玩：泉 - 懸 Chain"
     }
   },
   "Now Playing: Witchcraft - Pendulum": {
     "translation": "正在播放：Witchcraft - Pendulum",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "现在プレイ中：Witchcraft - Pendulum",
       "CN": "正在播放：Witchcraft - Pendulum",
-      "KR": "",
-      "TW": ""
+      "KR": "现在的游戏：Witchcraft - Pendulum",
+      "TW": "現在玩 spel：巫術 - 摇桿"
     }
   },
   "Vauff: heh... i'll you see again": {
     "translation": "Vauff：呵呵……我会再见到你的",
     "MultiLang": {
-      "US": "",
-      "JP": "",
+      "US": "Vauff: heh... I'll see you again",
+      "JP": "Vauff: へっ…また見 Encounter you again",
       "CN": "Vauff：呵呵……我会再见到你的",
-      "KR": "",
-      "TW": ""
+      "KR": "Vauff:uhe... 다시 뵙겠습니다.",
+      "TW": "Vauff: 嘿……还会再见到你"
     }
   },
   "Vauff: or not - because you are already dead": {
     "translation": "Vauff：或者不 - 因为你已经死了",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "Vauff: またはない - 因为你已经死了",
       "CN": "Vauff：或者不 - 因为你已经死了",
-      "KR": "",
-      "TW": ""
+      "KR": "Vauff: 또는 아니오 -因为你已经死了",
+      "TW": "Vauff: 或者不說 - 因為你已經死了"
     }
   },
   "this song was personally requested by vauff": {
     "translation": "这首歌是 vauff 亲自要求的",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "この曲はvauffが個人的に依頼しました。",
       "CN": "这首歌是 vauff 亲自要求的",
-      "KR": "",
-      "TW": ""
+      "KR": "이 노래는 개인적으로 vauff가 요청했습니다.",
+      "TW": "這首歌是本人瓦夫個人點選的"
     }
   }
 }
