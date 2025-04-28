@@ -3,40 +3,40 @@
     "translation": "船路线",
     "MultiLang": {
       "US": "*** BOAT EVACUATION ***",
-      "JP": "** オートエvacuAtion  **",
+      "JP": "***ボート避難***",
       "CN": "船路线",
-      "KR": "*** 배트 수송 ***",
-      "TW": "** 船隻疏散 **"
+      "KR": "*** 배물출 ***",
+      "TW": "*** 與舟隻撤退 ***"
     }
   },
   "*** HELICOPTER EVACUATION ***": {
     "translation": "直升机路线",
     "MultiLang": {
       "US": "*** HELICOPTER EVACUATION ***",
-      "JP": "*** ヘリコプター搬出 ***",
+      "JP": "***ヘリコプター避難***",
       "CN": "直升机路线",
-      "KR": "***헬리콥터 이vac이uation***",
-      "TW": "*** 直昇機撤離 ***"
+      "KR": "",
+      "TW": "*** 直升機撤退 ***"
     }
   },
   "*** TRUCK EVACUATION ***": {
     "translation": "卡车路线",
     "MultiLang": {
       "US": "*** TRUCK EVACUATION ***",
-      "JP": "*** トラックの緊急搬出 ***",
+      "JP": "*** トラック緊急搬送 ***",
       "CN": "卡车路线",
-      "KR": "** 트럭 이vacuation **",
-      "TW": "***卡車撤離***"
+      "KR": "*** 트럭 응급 이송 ***",
+      "TW": "***貨車疏散***"
     }
   },
   "*** TRAIN EVACUATION ***": {
     "translation": "火车路线",
     "MultiLang": {
       "US": "*** TRAIN EVACUATION ***",
-      "JP": "**TRAIN EVACUATION***",
+      "JP": "*** 列车疏散 ***",
       "CN": "火车路线",
-      "KR": "*** 기차 탈출 ***",
-      "TW": "** TRAIN EVACUATION **"
+      "KR": "*** 승객 эvacuation ***",
+      "TW": "*** 训练疏散 ***"
     }
   }
 }

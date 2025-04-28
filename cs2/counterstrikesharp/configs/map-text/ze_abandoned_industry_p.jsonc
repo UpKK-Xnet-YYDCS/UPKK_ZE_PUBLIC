@@ -2,61 +2,61 @@
   "The door is open": {
     "translation": "门已打开",
     "MultiLang": {
-      "US": "The door is open.",
-      "JP": "ドアは開いています。",
+      "US": "The door is open",
+      "JP": "扉は開いている",
       "CN": "门已打开",
-      "KR": "문이 열려 있습니다",
-      "TW": "門是開著的"
+      "KR": "문은 열려 있음",
+      "TW": "門已打開"
     }
   },
   "The door will open in 20 seconds": {
     "translation": "门将在20秒后打开",
     "MultiLang": {
-      "US": "The door will open in 20 seconds.",
-      "JP": "ドアは20秒後に開きます。",
+      "US": "The door will open in 20 seconds",
+      "JP": "門が開くまでに20秒があります。",
       "CN": "门将在20秒后打开",
-      "KR": "문은 20초 후에 열립니다.",
-      "TW": "門將在20秒後打開。"
+      "KR": "문이 열리는 시간은 20초 후입니다 >>",
+      "TW": "門将在20秒後打開"
     }
   },
   "The door will open in 40 seconds": {
     "translation": "门将在40秒后打开",
     "MultiLang": {
-      "US": "Door opens in 40 sec.",
-      "JP": "ドアは40秒後開きます。",
+      "US": "The door will open in 40 seconds",
+      "JP": "ドアは40秒後に開きます",
       "CN": "门将在40秒后打开",
-      "KR": "문은 40초 후에 열립니다.",
-      "TW": "門将在40秒後打開。"
+      "KR": "문이 열리게 되면 40초 후",
+      "TW": "门将在40秒後開啟"
     }
   },
   "The elevator will leave in 30 seconds": {
     "translation": "电梯将在30秒后离开",
     "MultiLang": {
-      "US": "The elevator departs in 30 sec.",
-      "JP": "エレベーターは30秒後に出発します。",
+      "US": "The elevator will leave in 30 seconds",
+      "JP": "エレベーターは30秒後に発車します",
       "CN": "电梯将在30秒后离开",
-      "KR": "【30초 후 엘리베이터가 떠납니다】",
-      "TW": "電梯將在30秒後離開"
+      "KR": "기차는 30초 후에 나갈 것입니다",
+      "TW": "電梯將於30秒後啟動"
     }
   },
   "The train is leaving!": {
     "translation": "火车正在离开！",
     "MultiLang": {
-      "US": "**Train's leaving!**",
-      "JP": "列車が出発します！",
+      "US": "The train is leaving!",
+      "JP": "電車は出発します！",
       "CN": "火车正在离开！",
-      "KR": "열차가 떠나요!",
-      "TW": "列車要開走了！"
+      "KR": "열차가 떠나 går!",
+      "TW": "列車啟程了！"
     }
   },
   "The train leaves in one minute!": {
     "translation": "火车将在60秒后离开！",
     "MultiLang": {
-      "US": "The train departs in 1 minute!",
-      "JP": "【１分後に列車が出ます！】",
+      "US": "The train leaves in one minute!",
+      "JP": "列車は1分後に発车！",
       "CN": "火车将在60秒后离开！",
-      "KR": "트레인이 한 분 동안 떠납니다!",
-      "TW": "車廂在一分鐘後出發！"
+      "KR": "열차가 1분 후에 출발합니다!",
+      "TW": "列車在1分鐘後開 Departure!"
     }
   }
 }

@@ -2,71 +2,71 @@
   "*** 10 seconds ***": {
     "translation": "*** 10秒 ***",
     "MultiLang": {
-      "US": "**10 seconds**",
-      "JP": "**10秒**",
+      "US": "*** 10 seconds ***",
+      "JP": "*** 10秒 ***",
       "CN": "*** 10秒 ***",
-      "KR": "**10 초**",
-      "TW": "*** 10秒 ***"
+      "KR": "*** 10 seconds ***",
+      "TW": "*** 10 秒鐘 ***"
     }
   },
   "*** Defend for 30 seconds ***": {
     "translation": "*** 防守30秒 ***",
     "MultiLang": {
-      "US": "\"Defend for 30 seconds\"",
-      "JP": "*** 戦線を守り、30秒間持ちこたえてください ***",
+      "US": "*** Defend for 30 seconds ***",
+      "JP": "*** 30秒守备 ***",
       "CN": "*** 防守30秒 ***",
-      "KR": "***(30초 동안 방어하세요)***",
-      "TW": "防守30秒***"
+      "KR": "*** 30초간 방어 ****",
+      "TW": "*** 防守30秒 ***"
     }
   },
   "*** Defend for 35 seconds ***": {
     "translation": "*** 防守35秒 ***",
     "MultiLang": {
-      "US": "Defend for 35 seconds ***",
-      "JP": "** 35秒間守備する **",
+      "US": "*** Defend for 35 seconds ***",
+      "JP": "*** 防御35秒 ***",
       "CN": "*** 防守35秒 ***",
-      "KR": "*** 35초 동안 방어하세요 ***",
-      "TW": "保守防守，持續35秒***"
+      "KR": "*** 35초간 방어 ***",
+      "TW": "*** 防守 35 秒 ***"
     }
   },
   "*** Elevator door is open, 10 seconds left ***": {
     "translation": "*** 电梯门已打开，还剩10秒 ***",
     "MultiLang": {
-      "US": "**Elevator door is open, 10 seconds left**",
-      "JP": "***エレベーターの扉が開いた、残り10秒です***",
+      "US": "*** Elevator door is open, 10 seconds left ***",
+      "JP": "***エレベーター扉開き、10秒後まで***",
       "CN": "*** 电梯门已打开，还剩10秒 ***",
-      "KR": "*** 엘리베이터 문이 열려있어, 10초가 남았습니다 ***",
-      "TW": "三秒倒計時，電梯門打開了，時間剩餘十秒 ***"
+      "KR": "*** 엘리베이터 문 열려, 10초 남음 ***",
+      "TW": "***電梯門打開，10秒鐘剩餘 ***"
     }
   },
   "*** Get in the bank ***": {
     "translation": "*** 进入银行 ***",
     "MultiLang": {
-      "US": "**Get in the bank***",
-      "JP": "*** 銀行に侵入する ***",
+      "US": "*** Get in the bank ***",
+      "JP": "***銀行に入りなさい***",
       "CN": "*** 进入银行 ***",
-      "KR": "**Get in the bank***",
-      "TW": "**進入銀行***"
+      "KR": "",
+      "TW": "***進銀行***"
     }
   },
   "*** Helicopter leaving in 40 seconds ***": {
     "translation": "*** 直升机将在40秒后出发 ***",
     "MultiLang": {
-      "US": "**Helicopter leaving in 40 seconds***",
-      "JP": "*** ヘリコプターは40秒後に離陸します ***",
+      "US": "*** Helicopter leaving in 40 seconds ***",
+      "JP": "***ヘリコプターが40秒後に離陸します***",
       "CN": "*** 直升机将在40秒后出发 ***",
-      "KR": "**Helicopter leaving in 40 seconds** **",
-      "TW": "**直升機40秒後離場**"
+      "KR": "*** 헬리콥터 40초 후 출발 ***",
+      "TW": "***直升機 40 秒後起飛***"
     }
   },
   "*** Wait for the elevator ***": {
     "translation": "*** 等待电梯 翻译：Asteri3m***",
     "MultiLang": {
-      "US": "Wait for the elevator ***",
-      "JP": "**待つ** **エレベーター** **＊＊＊**",
+      "US": "*** Wait for the elevator ***",
+      "JP": "***エレベーターを待つ***",
       "CN": "*** 等待电梯 翻译：Asteri3m***",
-      "KR": "*** 엘리베이터를 기다려 주세요 ***",
-      "TW": "等電梯..."
+      "KR": "*** 엘레베이터를 기다리세요 ***",
+      "TW": "***等待電梯***"
     }
   }
 }

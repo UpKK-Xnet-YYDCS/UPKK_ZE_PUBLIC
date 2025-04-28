@@ -2,20 +2,20 @@
   "Pause for 20 seconds": {
     "translation": "暂停20秒",
     "MultiLang": {
-      "US": "\"Pause for 20 seconds\"",
-      "JP": "【20秒間待機】",
+      "US": "Pause for 20 seconds",
+      "JP": "Pause for 20 seconds",
       "CN": "暂停20秒",
-      "KR": "20초 동안 일시정지",
-      "TW": "暫停20秒"
+      "KR": "정지时间为20秒",
+      "TW": "暂停20秒"
     }
   },
   "Pause for 25 seconds": {
     "translation": "暂停25秒",
     "MultiLang": {
-      "US": "Pause for 25s",
-      "JP": "【25秒間PAUSE】",
+      "US": "Pause for 25 seconds",
+      "JP": "Pause for 25 seconds",
       "CN": "暂停25秒",
-      "KR": "25초간 멈춤",
+      "KR": "일시중지 25 초",
       "TW": "暫停25秒"
     }
   },
@@ -23,60 +23,60 @@
     "translation": "暂停15秒",
     "MultiLang": {
       "US": "Pause for 15 seconds",
-      "JP": "【15秒のスルー】",
+      "JP": "Pause for 15 seconds",
       "CN": "暂停15秒",
-      "KR": "**이 15 초 동안 멈춤**(This 15 seconds is paused)",
-      "TW": "暫停15秒"
+      "KR": "일시정지 15초",
+      "TW": "暂停15秒"
     }
   },
   "Final pause for 60 seconds": {
     "translation": "暂停60秒",
     "MultiLang": {
       "US": "Final pause for 60 seconds",
-      "JP": "【最終の待機時間：60秒】",
+      "JP": "最終的な一時停止 60秒",
       "CN": "暂停60秒",
-      "KR": "60초의 마지막 휴지 시간",
-      "TW": "最終停頓60秒"
+      "KR": "최종 일시정지 60초",
+      "TW": "最終暂停60秒"
     }
   },
   "30 seconds left": {
     "translation": "剩余30秒",
     "MultiLang": {
       "US": "30 seconds left",
-      "JP": "残り30秒です",
+      "JP": "30秒後に開始",
       "CN": "剩余30秒",
-      "KR": "30 초가 남아 있습니다.",
-      "TW": "時間剩餘 30 秒"
+      "KR": "30 초 남음",
+      "TW": "30 秒鐘剩餘"
     }
   },
   "10 seconds left": {
     "translation": "剩余10秒",
     "MultiLang": {
-      "US": "\"10 seconds left\"",
-      "JP": "残り10秒です",
+      "US": "10 seconds left",
+      "JP": "10秒後に開始",
       "CN": "剩余10秒",
-      "KR": "10 초가 남아있어요",
-      "TW": "剩餘時間：10秒"
+      "KR": "10 초 남음",
+      "TW": "10 秒鐘剩餘"
     }
   },
   ". . .": {
     "translation": "",
     "MultiLang": {
-      "US": "5. **TRANSLATION ERRORS OR OVER-TRANSLATIONS ARE CONSIDERED FAILURE.**",
-      "JP": "5. 翻訳ミスや重複翻訳はタスク失敗と見なされる。",
+      "US": "",
+      "JP": "",
       "CN": "【开始翻译】",
-      "KR": "5. 翻訳間違いや重複は任务失敗。",
-      "TW": "【開始翻譯】"
+      "KR": "",
+      "TW": "[開始翻譯]"
     }
   },
   "! ! !": {
     "translation": "",
     "MultiLang": {
-      "US": "!! ! !!",
-      "JP": "!! ! !",
+      "US": "",
+      "JP": "",
       "CN": "",
       "KR": "",
-      "TW": "!! ! !"
+      "TW": ""
     }
   }
 }

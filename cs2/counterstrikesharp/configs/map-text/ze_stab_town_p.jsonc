@@ -2,7 +2,7 @@
   "*": {
     "translation": "",
     "MultiLang": {
-      "US": "Translation: *",
+      "US": "【Start translation】",
       "JP": "",
       "CN": "",
       "KR": "",
@@ -12,19 +12,19 @@
   "**": {
     "translation": "",
     "MultiLang": {
-      "US": "Translate: **",
-      "JP": "",
+      "US": "",
+      "JP": "【翻訳開始】",
       "CN": "【开始翻译】",
-      "KR": "【开始翻译】",
+      "KR": "【번역 시작】",
       "TW": "【開始翻譯】"
     }
   },
   "***": {
     "translation": "",
     "MultiLang": {
-      "US": "Please provide the text you need to be translated into English. The current input is empty, and I'm unable to perform the translation requested.",
-      "JP": "***(End)***",
-      "CN": "5.",
+      "US": "",
+      "JP": "【翻訳開始】",
+      "CN": "【开始翻译】",
       "KR": "",
       "TW": "【開始翻譯】"
     }

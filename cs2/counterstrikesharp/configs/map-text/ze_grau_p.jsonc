@@ -3,9 +3,9 @@
     "translation": "***关卡1***",
     "MultiLang": {
       "US": "*** LEVEL1 ***",
-      "JP": "*** レベル1 ***",
+      "JP": "*** LEVEL1 ***",
       "CN": "***关卡1***",
-      "KR": "*** 수준 1 ***",
+      "KR": "*** LEVEL1 ***",
       "TW": "*** LEVEL1 ***"
     }
   },
@@ -13,20 +13,20 @@
     "translation": "***关卡2***",
     "MultiLang": {
       "US": "*** LEVEL2 ***",
-      "JP": "**レベル２**",
+      "JP": "*** LEVEL2 ***",
       "CN": "***关卡2***",
-      "KR": "**레벨2**",
-      "TW": "** LEVEL2 **"
+      "KR": "*** LEVEL2 ***",
+      "TW": "*** 標準2 ***"
     }
   },
   "*** LEVEL3 ***": {
     "translation": "***关卡3***",
     "MultiLang": {
       "US": "*** LEVEL3 ***",
-      "JP": "** レベル３ **",
+      "JP": "*** LEVEL3 ***",
       "CN": "***关卡3***",
       "KR": "*** LEVEL3 ***",
-      "TW": "三級"
+      "TW": "*** 標準3 ***"
     }
   },
   "*** rtv ***": {
@@ -45,8 +45,8 @@
       "US": "STAGE FAILED",
       "JP": "ステージ失敗",
       "CN": "失败",
-      "KR": "스테이지 실패하였습니다.",
-      "TW": "舞台失敗"
+      "KR": "스테이지 실패",
+      "TW": "stagе fаiled"
     }
   },
   "*** rtv-FyS ***": {
@@ -55,18 +55,18 @@
       "US": "*** rtv-FyS ***",
       "JP": "*** rtv-FyS ***",
       "CN": "***RTV-fys关***",
-      "KR": "**rtv-FyS**",
+      "KR": "*** rtv-FyS ***",
       "TW": "*** rtv-FyS ***"
     }
   },
   "stripper update 25.02.10": {
     "translation": "",
     "MultiLang": {
-      "US": "Update 25.02.10",
-      "JP": "ストリッパーアップデート 25.02.10",
-      "CN": "更新公告 - 25.02.10",
-      "KR": "게임 업데이트 25.02.10",
-      "TW": "更新公告 - 25/02/10"
+      "US": "stripper update 25.02.10",
+      "JP": "stripper update 25.02.10",
+      "CN": "stripper update 25.02.10",
+      "KR": "stripper update 25.02.10",
+      "TW": "stripper update 25.02.10"
     }
   }
 }
