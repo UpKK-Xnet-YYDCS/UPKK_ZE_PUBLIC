@@ -2,211 +2,211 @@
   "++ 5 seconds left! ++": {
     "translation": "++ 还剩5秒！ ++",
     "MultiLang": {
-      "US": "++ 5 seconds left! ++",
-      "JP": "++残り5秒です++",
+      "US": "",
+      "JP": "++ 5秒後に開始！ ++",
       "CN": "++ 还剩5秒！ ++",
-      "KR": "++ 5 초가 남았습니다 ++",
-      "TW": "++ 倒數五秒！++"
+      "KR": "++ 5 초 남음! ++",
+      "TW": "++ 5 秒鐘剩下！++"
     }
   },
   "++ Bunker door closing! ++": {
     "translation": "++ 碉堡门即将关闭！ ++",
     "MultiLang": {
-      "US": "++ Bunker door closing! ++",
-      "JP": "+++ 場所門が閉じる! +++",
+      "US": "",
+      "JP": "++ バンカー Doors closing! ++",
       "CN": "++ 碉堡门即将关闭！ ++",
-      "KR": "+++ 박스호문이 닫히고 있습니다 +++",
-      "TW": "++ 防禦工事門關閉！++"
+      "KR": "",
+      "TW": "++要堡門關閉！++"
     }
   },
   "++ Bunker door opens in 5 seconds! ++": {
     "translation": "++ 碉堡门将在5秒后打开！ ++",
     "MultiLang": {
-      "US": "++ Bunker door opens in 5 seconds! ++",
-      "JP": "**ブンクルドアが5秒後に開きます！**",
+      "US": "",
+      "JP": "++ バンカー門が5秒後に開きます！++",
       "CN": "++ 碉堡门将在5秒后打开！ ++",
-      "KR": "++ 터널 문이 5초 후에 열립니다! ++",
-      "TW": "++ 防禦工事門開放倒數5秒！++"
+      "KR": "++ 견고한 문이 5초 후에 열립니다! ++",
+      "TW": "+++ 隘口門扉開啟倒數中，5秒後開啓！+++"
     }
   },
   "++ C4 explodes in 30 seconds ++": {
     "translation": "++ C4将在30秒后爆炸 ++",
     "MultiLang": {
-      "US": "++ C4 will explode in 30 seconds ++",
-      "JP": "+++ C4が30秒後爆発します +++",
+      "US": "",
+      "JP": "++ C4 30秒后爆炸 ++",
       "CN": "++ C4将在30秒后爆炸 ++",
-      "KR": "**C4가 30초 후에 폭발합니다** **++**",
-      "TW": "++ 在30秒後引爆C4++"
+      "KR": "++ C4 폭발까지 30초 ++",
+      "TW": "++ C4在30秒後炸開 ++"
     }
   },
   "++ Crates breaks in 30 seconds ++": {
     "translation": "++ 箱子将在30秒后碎裂 ++",
     "MultiLang": {
-      "US": "++ Crate breaks in 30 secs ++",
-      "JP": "++ ３０秒後にボックスが割れます ++",
+      "US": "",
+      "JP": "+++ 30秒後にコンテナ破壊 +++",
       "CN": "++ 箱子将在30秒后碎裂 ++",
-      "KR": "++ 30초 후에 상자 깨지게 됩니다 ++",
-      "TW": "++ 原始箱在三十秒后崩解 ++"
+      "KR": "++ 박스 30초 후 깨진다 ++",
+      "TW": "++ 箱子在30秒後打開 ++"
     }
   },
   "++ Fall back! ++": {
     "translation": "++ 撤退！ ++",
     "MultiLang": {
-      "US": "++ Retreat! ++",
-      "JP": "++ 戦線後退！++",
+      "US": "",
+      "JP": "++後退！++",
       "CN": "++ 撤退！ ++",
-      "KR": "+++ 이동 취소 +++",
-      "TW": "++ 嚇回！++"
+      "KR": "++ 후퇴! ++",
+      "TW": "+++ 撤退！+++"
     }
   },
   "++ Floors breaks in 30 seconds ++": {
     "translation": "++ 地面将在30秒后崩塌 ++",
     "MultiLang": {
-      "US": "**Floors break in 30 seconds**",
-      "JP": "+++ フロアが30秒後に入ります +++",
+      "US": "",
+      "JP": "++ フloors breaks in 30秒 ++",
       "CN": "++ 地面将在30秒后崩塌 ++",
-      "KR": "+++ 지하 층이 30초 후에 부서집니다 +++",
-      "TW": "++ 地層在30秒後破碎 ++"
+      "KR": "++ 층이 30초 후에 깨집니다 ++",
+      "TW": "++ 地 Floor 破坏在 30 秒後 ++"
     }
   },
   "++ Map by Matias-TM ++": {
     "translation": "++ 地图作者：Matias-TM 翻译：Asteri3m ++",
     "MultiLang": {
-      "US": "++ Map Translation by Matias-TM ++",
-      "JP": "マップはMatias-TMによるもの++",
+      "US": "",
+      "JP": "++ 地図由Matias-TM制作 ++",
       "CN": "++ 地图作者：Matias-TM 翻译：Asteri3m ++",
-      "KR": "+맵 by Matias-TM +",
-      "TW": "+ 地圖由Matias-TM製 +"
+      "KR": "++ 지도 제작자: Matias-TM ++",
+      "TW": "++ 圖資由Matias-TM提供 ++"
     }
   },
   "++ Modified textures by Matias-TM ++": {
     "translation": "++ 地图材质由Matias-TM提供 ++",
     "MultiLang": {
-      "US": "Modified textures by Matias-TM ++",
-      "JP": "マティアス-_tm によって修正されたテクスチャ++",
+      "US": "",
+      "JP": "++ マティアス-TM によって修改されたテクスチャ ++",
       "CN": "++ 地图材质由Matias-TM提供 ++",
-      "KR": "플레이스테이터스TM의 수정된 텍스처들 ++",
-      "TW": "++. 修改的貼圖由Matias-TM++."
+      "KR": "++ 마티아스-TM으로 수정된 텍스처 ++",
+      "TW": "++ 修改紋理由Matias-TM++"
     }
   },
   "++ Nuke deploying in 90 seconds! ++": {
     "translation": "++ 核弹将在90秒后发射！ ++",
     "MultiLang": {
-      "US": "++ Nuke deploying in 90 seconds! ++",
-      "JP": "++ ヌケが90秒後にデプロイされます！++.",
+      "US": "",
+      "JP": "++ ナuke配備開始まで90秒！ ++",
       "CN": "++ 核弹将在90秒后发射！ ++",
-      "KR": "++ 90초 후에 Nuke 배치 중입니다 ++",
-      "TW": "++ 過熱部署中，還有90秒！++"
+      "KR": "++ 뉴크 투하 90초 후!<++",
+      "TW": "++核武部署中，90秒後引爆！++"
     }
   },
   "++ Nuke deploying! ++": {
     "translation": "++ 核弹正在发射！ ++",
     "MultiLang": {
-      "US": "++ Nuke deploying! ++",
-      "JP": "+++ ヌケルを展開中！+++",
+      "US": "",
+      "JP": "++ ナuke配信中！++",
       "CN": "++ 核弹正在发射！ ++",
-      "KR": "++ Nuke 배치 중입니다 ++",
-      "TW": "++ 雲爆彈部署中！++"
+      "KR": "++ ن우클을 배포합니다!! ++",
+      "TW": "++核武部署中！++"
     }
   },
   "++ Ported to CS:GO by Matias-TM ++": {
     "translation": "++ 由Matias-TM移植到CS:GO ++",
     "MultiLang": {
-      "US": "Ported to CS:GO by Matias-TM",
-      "JP": "++ CS:GO へ移植をMatias-TMによって実施しました++",
+      "US": "",
+      "JP": "++ CS:GOに移植されました Matias-TM ++",
       "CN": "++ 由Matias-TM移植到CS:GO ++",
-      "KR": "+++ CS:GO로 Matias-TM에 의해 전환되었습니다 +++",
-      "TW": "++ 將本遊戲移植至CS:GO由Matias-TM完成 ++"
+      "KR": "++ CS:GO에 포팅된 것 -- Matias-TM ++",
+      "TW": ""
     }
   },
   "++ The tram is broken! ++": {
     "translation": "++ 轨道车坏了！ ++",
     "MultiLang": {
-      "US": "++ Tram is malfunctioning! ++",
-      "JP": "+++tramは壊れています +++",
+      "US": "",
+      "JP": "+++ ツラムは壊れています！ +++",
       "CN": "++ 轨道车坏了！ ++",
-      "KR": "+ 트램이 고장났어! +",
-      "TW": "++ 地鐵坏了！++"
+      "KR": "++tram은 고장났습니다!!++",
+      "TW": "++電車出故障了！++"
     }
   },
   "++ Torch prefab by Fibbs ++": {
     "translation": "++ 火把模型由Fibbs提供 ++",
     "MultiLang": {
-      "US": "++ Torch prefab by Fibbs ++",
-      "JP": "**トールフエイブ プリファブ 『Fibbs』**",
+      "US": "",
+      "JP": "",
       "CN": "++ 火把模型由Fibbs提供 ++",
-      "KR": "플래이버 '토르치' by Fibbs ++",
-      "TW": "++ Fibbs 提供的火炬预制件 ++"
+      "KR": "++ 톰치 프리팹으로byFibbs ++",
+      "TW": ""
     }
   },
   "++ Tram leaves in 60 seconds ++": {
     "translation": "++ 轨道车将在60秒后离开 ++",
     "MultiLang": {
-      "US": "Tram departs in 60 seconds.",
-      "JP": "**tram 出発まで60秒です** **",
+      "US": "",
+      "JP": "",
       "CN": "++ 轨道车将在60秒后离开 ++",
-      "KR": "+++ 번역: 전차가 60 초 후에 출발합니다 +++",
-      "TW": "++ 電車將在60秒後離站 ++"
+      "KR": "++ 트램 출발은 60초 후입니다 ++",
+      "TW": "++電車離站還剩下60秒++"
     }
   },
   "++ Use the radio to deploy nuke! ++": {
     "translation": "++ 使用无线电发射核弹！ ++",
     "MultiLang": {
-      "US": "++ Use the radio to deploy nuke! ++",
-      "JP": "++ ラジオを使用してノウクーを展開する！++",
+      "US": "",
+      "JP": "++ ラジオを使って核爆弾を展開！++",
       "CN": "++ 使用无线电发射核弹！ ++",
-      "KR": "+++ 라디오를 사용하여 노크를 배포하세요 +++",
-      "TW": "使用廣播發射核武！"
+      "KR": "+++ 라디오를 사용해 원폭을 배포하세요 +++",
+      "TW": "++ 使用電台部署核彈！++"
     }
   },
   "++ Wall breaks in 30 seconds ++": {
     "translation": "++ 墙30秒后破裂 ++",
     "MultiLang": {
-      "US": "**Wall breaks in 30 seconds**",
-      "JP": "**ウォールは30秒後に破壊されます** **++ 30秒後に壁が壊れます ++**",
+      "US": "",
+      "JP": "++ 壁は30秒後に破れます ++",
       "CN": "++ 墙30秒后破裂 ++",
-      "KR": "++ 벽이 30초 후에 깨집니다 ++",
-      "TW": "++ 墙將在30秒後崩破 ++"
+      "KR": "++ 벽이 30초 후에 무너집니다 ++",
+      "TW": "++牆破壞於30秒後++"
     }
   },
   "++ Wall breaks in 5 seconds! ++": {
     "translation": "++ 墙5秒后破裂！ ++",
     "MultiLang": {
-      "US": "+ Wall collapses in 5 secs! +",
-      "JP": "**壁は5秒後に崩壊します** **",
+      "US": "",
+      "JP": "",
       "CN": "++ 墙5秒后破裂！ ++",
-      "KR": "+ 벽이 5초 후에 파괴됩니다.+",
-      "TW": "牆壁再5秒後會崩潰！+++"
+      "KR": "++ 벽이 5초 후에 깨집니다 ++",
+      "TW": "++牆破壞在5秒後！++"
     }
   },
   "++ Wall breaks in 60 seconds ++": {
     "translation": "++ 墙60秒后破裂 ++",
     "MultiLang": {
-      "US": "++ Wall breaks in 60 seconds ++",
-      "JP": "**壁は60秒後に崩壊します** **",
+      "US": "",
+      "JP": "++ ワールドブレイク60秒後に発生 ++",
       "CN": "++ 墙60秒后破裂 ++",
-      "KR": "벽이 60초 후에 붕괴됩니다++.",
-      "TW": "++ 墙體在60秒後崩潰 ++"
+      "KR": "++벽이 60초 후에 무너집니다++",
+      "TW": "++牆破壞於60秒後++"
     }
   },
   "++ Ze Temple Escape ++": {
     "translation": "++ Ze Temple Escape 神庙逃亡2 ++",
     "MultiLang": {
-      "US": "++ Ze Temple Escape ++",
-      "JP": "+++ サン・ゼ テンプレ エスカープ +++",
+      "US": "",
+      "JP": "++ゼ_TEMPLE_ESCAPE++",
       "CN": "++ Ze Temple Escape 神庙逃亡2 ++",
-      "KR": "+++ 절에서 탈출 +++",
-      "TW": "++. 石窟逃脫 ++"
+      "KR": "++ 제이 사원 탈출 ++",
+      "TW": "++Ze神殿逃脫++"
     }
   },
   "长木板改为不可击碎": {
     "translation": "",
     "MultiLang": {
-      "US": "Change the long plank to unbreakable.",
-      "JP": "「長い木板を砕けないにする」",
-      "CN": "将长木板改为不可击碎",
-      "KR": "긴 나무판을 파괴 불가로 변경",
-      "TW": "【將長木板設為不可擊碎】"
+      "US": "Long planks modified to unbreakable",
+      "JP": "長きの板を破壊不能に変更します",
+      "CN": "长木板改为无法破坏",
+      "KR": "장목보드를 부수지 못하게 변경",
+      "TW": "長木板改為不可擊碎"
     }
   }
 }
