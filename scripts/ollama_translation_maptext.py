@@ -1,10 +1,10 @@
-# 本地部署ollama 并利用 Qwen2.5:7B-Instruct模型 进行自动化翻译
+# 本地部署ollama 并利用 Qwen2.5:7B-Instruct (阿里千问2.5:7b)模型 进行自动化翻译
+# 此脚本目前不会对现有翻译进行覆盖
 # 将配置和路径修改为正确的本地ollama地址 运行此脚本.
 # 如具有更好的GPU算力则可以使用更大的模型以达到更精确的效果
 # ollama pull Qwen2.5:7B-Instruct
 # sudo systemctl start ollama
-# sudo apt install 
-# sudo python3 
+# sudo apt install python3
 # sudo pip install tqdm requests argparse
 
 
