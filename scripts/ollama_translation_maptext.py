@@ -7,23 +7,21 @@
 # sudo apt install python3
 # sudo pip install tqdm requests argparse
 
-
-import requests
 import json
 import os
 import re
 import time
-import sys
-import shutil
+import requests
 import argparse
-from tqdm import tqdm
 import concurrent.futures
-import difflib
+from tqdm import tqdm
+from difflib import SequenceMatcher
+import logging
 
 # 配置
 OLLAMA_URL = "http://127.0.0.1:11434/api/generate"
 MODEL = "qwen2.5:7b-instruct"
-DIRECTORY = '/home/UPKK_ZE_PUBLIC-fe662eec4e53d65a1819cb8e7e7682d90eedb401/cs2/counterstrikesharp/configs/map-text'
+DIRECTORY = os.getcwd()  # 默认设置为当前目录
 HEADERS = {"Content-Type": "application/json"}
 
 LANGUAGE_MAP = {
@@ -34,139 +32,37 @@ LANGUAGE_MAP = {
     "TW": ("繁体中文", "Traditional Chinese")
 }
 
-REST_SECONDS = 5
-CONTINUOUS_WORK_SECONDS_BEFORE_REST = 900
-
-MAX_PARALLEL_TASKS = 1  # 默认并行任务数，可通过命令行动态改
-
-MAX_RETRIES = 3
+MAX_RETRIES = 5
 TIMEOUT_SECONDS = 60
+SIMILARITY_THRESHOLD = 0.88
+LOG_FILE = 'translation_log.txt'  # 日志文件路径
 
-# Chinese number mapping for CN and TW
-# 模型翻译出现中文数字则替换纠正.
-chinese_to_arabic = {
-    "零": "0",
-    "一": "1",
-    "二": "2",
-    "三": "3",
-    "四": "4",
-    "五": "5",
-    "六": "6",
-    "七": "7",
-    "八": "8",
-    "九": "9",
-    "十": "10"
-}
+# 设置日志
+logging.basicConfig(filename=LOG_FILE, level=logging.INFO, format='%(asctime)s - %(message)s')
 
-# 去除特殊字符的函数，仅保留字母、数字、中文、日文、韩文字符
-def sanitize_for_similarity(text):
-    # 使用正则表达式移除所有非字母、数字、中文、日文、韩文的字符
-    cleaned_text = re.sub(r'[^A-Za-z0-9\u4e00-\u9fff\u3040-\u30ff\u31f0-\u31ff\uFF00-\uFFEF\uAC00-\uD7AF]', '', text)
-    return cleaned_text
+# 检测文本是否为正确的语言
+def is_correct_language(text, lang):
+    if lang == "CN":
+        return bool(re.search(r'[\u4e00-\u9fff]', text))  # 简体中文
+    elif lang == "JP":
+        return bool(re.search(r'[\u3040-\u30ff\u31f0-\u31ff\u4e00-\u9fff]', text))  # 日文
+    elif lang == "KR":
+        return bool(re.search(r'[\uac00-\ud7af]', text))  # 韩文
+    elif lang == "TW":
+        return bool(re.search(r'[\u4e00-\u9fff]', text))  # 繁体中文
+    elif lang == "US":
+        return bool(re.search(r'[a-zA-Z]', text))  # 英文
+    return False
 
-# 计算相似度，首先清洗文本，移除特殊字符
-def calculate_similarity(text1, text2):
-    text1_cleaned = sanitize_for_similarity(text1)
-    text2_cleaned = sanitize_for_similarity(text2)
+# 用于翻译的函数
+def translate_text(original_text, lang_code, filename):
+    # 跳过仅包含符号和数字的原文
+    if is_text_symbol_or_number(original_text):
+        message = f"[Skip]: 文件: {filename} | 原文: {original_text} | 原语言: {LANGUAGE_MAP[lang_code][0]} | 目标语言: {lang_code} | 理由: 仅包含符号或数字"
+        logging.info(message)
+        print(message)  # 控制台输出
+        return None
 
-    sequence_matcher = difflib.SequenceMatcher(None, text1_cleaned, text2_cleaned)
-    return sequence_matcher.ratio()
-    
-
-# 修改原来的判断逻辑
-def process_translation(text, lang_code, original_text, translated):
-    # 计算原文与翻译后的相似度
-    similarity = calculate_similarity(original_text, translated)
-    print(f"相似度 {similarity:.2f} | 语言: {lang_code}")
-    
-    # 如果相似度超过95%，则不进行翻译
-    if similarity >= 0.88:
-        print(f"[跳过] {lang_code} 语言: 翻译与原文相似度高于95%，跳过翻译")
-        return ""
-
-    # 否则继续翻译处理
-    return translated
-    
-# Function to replace Chinese numbers in CN and TW translations with Arabic numerals
-def replace_chinese_numbers(text):
-    # Regex to match Chinese numbers
-    pattern = r"([一二三四五六七八九十])"
-    
-    # Replace Chinese numbers with Arabic numbers
-    return re.sub(pattern, lambda match: chinese_to_arabic.get(match.group(1), match.group(1)), text)
-
-# 工具函数
-def should_skip(text):
-    return bool(re.match(r'^[A-Za-z0-9\s\-\.\,\!\?\'\"\[\]\(\)\/\:\;]*$', text))
-
-def is_english_text(text):
-    return bool(re.match(r'^[A-Za-z0-9\s\-\.\,\!\?\'\"\[\]\(\)\/\:\;\*\`\~\@\#\$\%\^\&\_\+\=\|\>\<\{\}]*$', text))
-
-def is_finalized_english_text(text):
-    if not is_english_text(text):
-        return False
-    letters = [c for c in text if c.isalpha()]
-    if not letters:
-        return False
-    uppercase_ratio = sum(1 for c in letters if c.isupper()) / len(letters)
-    return uppercase_ratio >= 0.8
-
-def sanitize_text(text):
-    if not text:
-        return ""
-    text = re.sub(r'\\(?![ntr"\\/])', '', text)
-    text = ''.join(c for c in text if c >= ' ' or c == '\n')
-    return text.strip()
-
-def is_valid_translation(text):
-    if not text:
-        return False
-    cleaned_text = text.strip()
-    if cleaned_text in ('', '```', '"""', '\'\'\'', '""', "''"):
-        return False
-    if len(cleaned_text) <= 5 and not re.search(r'[A-Za-z0-9\u4e00-\u9fff]', cleaned_text):
-        return False
-    return True
-
-def extract_translation(text):
-    lines = [line.strip() for line in text.strip().splitlines() if line.strip()]
-    if not lines:
-        return ""
-    return lines[-1]
-
-def build_prompt(target_language, original_text):
-    return (
-        f"Act as a professional game text translator.\n"
-        f"Translate the following game-related short text into {target_language}.\n"
-        f"Return ONLY the translation. DO NOT add any explanation, introduction, quotation marks, or extra words.\n"
-        f"Be concise, faithful to the original meaning, and adapt to the style of in-game texts.\n"
-        f"Keep all numbers (e.g., 1, 2, 10, 30) exactly the same. Do NOT translate numbers into words.\n"
-        f"Preserve all special symbols such as ***, >> <<, exactly as they appear.\n"
-        f"Do NOT change the sentence structure, tone, or add any embellishment.\n\n"
-        f"【绝对遵守以下规则】\n"
-        f"1. 只翻译内容，不解释，不扩展，不引导。\n"
-        f"2. 所有标点（如***、>> <<）必须原样保留，不可漏掉或改动。\n"
-        f"3. 不要把数字翻译成其他语言或中文,请务必保持阿拉伯数字。\n"
-        f"4. 翻译错误、多译均视为任务失败。\n\n"
-        f"【开始翻译】\n"
-        f"Text:\n{original_text}"
-    )
-
-def dynamic_rest(seconds):
-    terminal_width = shutil.get_terminal_size((80, 20)).columns
-    for remaining in range(seconds, 0, -1):
-        minutes = remaining // 60
-        secs = remaining % 60
-        message = f'休息中... 剩余 {minutes}分{secs}秒'
-        sys.stdout.write('\r' + ' ' * (terminal_width - 1) + '\r')
-        sys.stdout.write(message)
-        sys.stdout.flush()
-        time.sleep(1)
-    sys.stdout.write('\r' + ' ' * (terminal_width - 1) + '\r')
-    sys.stdout.write('休息结束，继续处理...\n')
-    sys.stdout.flush()
-
-def translate_text(original_text, lang_code):
     _, lang_en_name = LANGUAGE_MAP[lang_code]
     prompt = build_prompt(lang_en_name, original_text)
 
@@ -180,31 +76,68 @@ def translate_text(original_text, lang_code):
             response = requests.post(OLLAMA_URL, headers=HEADERS, json=payload, timeout=TIMEOUT_SECONDS)
             response.raise_for_status()
             result = response.json()
-            translation = result.get('response', '')
-            return sanitize_text(extract_translation(translation))
+            translation = result.get('response', '').strip()
+
+            # 如果翻译成功且语言匹配，返回翻译结果
+            if is_correct_language(translation, lang_code):
+                message = f" [OK][{filename}] [{original_text}] 目标语言: {lang_en_name} - 内容: {translation}"
+                logging.info(message)
+                print(message)  # 控制台输出
+                return sanitize_text(translation)
+            else:
+                # 如果翻译失败，记录实际翻译结果内容
+                message = f"([失败] 文件: {filename} |  [{original_text}]) 目标语言: {lang_en_name} 内容: 翻译返回结果: {translation}"
+                logging.error(message)
+                print(f"[失败] {message}")
+                time.sleep(2)
         except Exception as e:
+            message = f"(翻译失败 文件: {filename} |  [{original_text}]) 目标语言: {lang_en_name} 内容: 错误 - {e}"
+            logging.error(message)
+            print(f"[错误] 翻译失败: {e}, 第{attempt}次重试...")
             if attempt < MAX_RETRIES:
-                print(f"\n[警告] 翻译失败，正在进行第 {attempt} 次重试...\n")
                 time.sleep(2)
             else:
-                print(f"\n[错误] 翻译失败，已达到最大重试次数，跳过该条目。")
+                print(f"[错误] 达到最大重试次数，跳过该条目。")
                 return None
+    return None
 
-# 修改原来的判断逻辑
-def process_translation(text, lang_code, original_text, translated):
-    # 计算原文与翻译后的相似度
-    similarity = calculate_similarity(original_text, translated)
-    print(f"相似度 {similarity:.2f} | 语言: {lang_code}")
-    
-    # 如果相似度超过95%，则不进行翻译
-    if similarity >= 0.95:
-        print(f"[跳过] {lang_code} 语言: 翻译与原文相似度高于95%，跳过翻译")
+# 判断原文是否仅包含符号或数字
+def is_text_symbol_or_number(text):
+    # 判断是否仅包含符号、数字或空白
+    return bool(re.match(r'^[\W\d_]+$', text.strip()))  # \W 匹配非字母数字符号，\d 匹配数字，_ 匹配下划线
+
+# 构建翻译提示的函数
+def build_prompt(target_language, original_text):
+    # 清除翻译指令等非翻译内容
+    original_text = re.sub(r"【.*?】", "", original_text)  # 去除【开始翻译】等标记
+    prompt = (
+        f"Act as a professional game text translator.\n"
+        f"Translate the following game-related short text into {target_language}.\n"
+        f"Return ONLY the translation. DO NOT add any explanation, introduction, quotation marks, or extra words.\n"
+        f"Be concise, faithful to the original meaning, and adapt to the style of in-game texts.\n"
+        f"Keep all numbers (e.g., 1, 2, 10, 30) exactly the same. Do NOT translate numbers into words.\n"
+        f"Preserve all special symbols such as ***, >> <<, exactly as they appear.\n"
+        f"Do NOT change the sentence structure, tone, or add any embellishment.\n\n"
+        f"Text:\n{original_text}"
+    )
+    return prompt
+
+# 清理文本（移除不需要的字符）
+def sanitize_text(text):
+    if not text:
         return ""
+    text = re.sub(r'\\(?![ntr"\\/])', '', text)
+    text = ''.join(c for c in text if c >= ' ' or c == '\n')
+    return text.strip()
 
-    # 否则继续翻译处理
-    return translated
+# 将处理过的翻译文本与原文本进行相似度对比，并决定是否跳过翻译
+def calculate_similarity(text1, text2):
+    text1_cleaned = re.sub(r'[^A-Za-z0-9\u4e00-\u9fff\u3040-\u30ff\u31f0-\u31ff\uFF00-\uFFEF\uAC00-\uD7AF]', '', text1)
+    text2_cleaned = re.sub(r'[^A-Za-z0-9\u4e00-\u9fff\u3040-\u30ff\u31f0-\u31ff\uFF00-\uFFEF\uAC00-\uD7AF]', '', text2)
+    sequence_matcher = SequenceMatcher(None, text1_cleaned, text2_cleaned)
+    return sequence_matcher.ratio()
 
-# 调整以下代码部分来使用新的 `process_translation` 函数
+# 处理文件并尝试翻译
 def process_file(file_path):
     filename = os.path.basename(file_path)
     try:
@@ -219,7 +152,7 @@ def process_file(file_path):
     modified = False
 
     with tqdm(total=total_keys, desc=f"[文件] {filename}", ncols=100, unit="条", dynamic_ncols=True, leave=False) as pbar:
-        for idx, key in enumerate(keys, start=1):
+        for key in keys:
             if not key or not isinstance(data[key].get('MultiLang'), dict):
                 pbar.update(1)
                 continue
@@ -227,41 +160,25 @@ def process_file(file_path):
             original_text = key.strip()
             value = data[key]['MultiLang']
 
-            for lang_code in ['US', 'JP', 'CN', 'KR', 'TW']:
+            for lang_code in LANGUAGE_MAP.keys():
+                # 如果原文是英语，则跳过 US 语言的翻译
+                if lang_code == "US" and is_english(original_text):
+                    message = f"[Skip]: 文件: {filename} | 原文: {original_text} | 原语言: 英文 | 目标语言: US | 理由: 原文为英语"
+                    logging.info(message)
+                    print(message)  # 控制台输出
+                    continue
+
                 if value.get(lang_code, "") == "":
-                    translated = ""
+                    translated = translate_text(original_text, lang_code, filename)
 
-                    if lang_code == 'US':
-                        if is_finalized_english_text(original_text):
-                            translated = sanitize_text(original_text)
-                        else:
-                            translated = translate_text(original_text, "US")
-                    else:
-                        translated = translate_text(original_text, lang_code)
-
-                    # 跳过翻译结果与原文相似度超过95%的情况
-                    if lang_code == 'US' and calculate_similarity(original_text, translated) >= 0.88:
-                        continue
-                    elif lang_code != 'US' and calculate_similarity(original_text, translated) >= 0.88:
+                    # 跳过翻译结果与原文相似度超过阈值的情况
+                    if translated and calculate_similarity(original_text, translated) >= SIMILARITY_THRESHOLD:
                         continue
 
                     # 验证有效性并处理翻译
-                    if translated and is_valid_translation(translated) and (lang_code == 'US' or len(translated) <= len(original_text) * 5):
-                        # CN 和 TW 的特殊处理
-                        if lang_code in ['CN', 'TW']:
-                            translated = replace_chinese_numbers(translated)
-                        
-                        # 使用新的 `process_translation` 函数来判断是否跳过
-                        final_translation = process_translation(text=original_text, lang_code=lang_code, original_text=original_text, translated=translated)
-                        if final_translation:
-                            value[lang_code] = final_translation
-                            modified = True
-
-                        pbar.set_postfix({
-                            "原文": (original_text[:10] + '...') if len(original_text) > 10 else original_text,
-                            "翻译": (translated[:10] + '...') if len(translated) > 10 else translated,
-                            "语言": lang_code
-                        })
+                    if translated:
+                        value[lang_code] = translated
+                        modified = True
 
             pbar.update(1)
 
@@ -272,10 +189,13 @@ def process_file(file_path):
         except Exception as e:
             print(f"保存文件失败: {file_path}, 错误: {e}")
 
+# 判断原文是否是英语
+def is_english(text):
+    return bool(re.match(r'^[a-zA-Z0-9\s]*$', text))
+
 # 主程序
 def main():
-    global MAX_PARALLEL_TASKS
-    parser = argparse.ArgumentParser(description="本地批量翻译或单文件翻译脚本 (使用 Ollama + Qwen2:7b)")
+    parser = argparse.ArgumentParser(description="本地批量翻译或单文件翻译脚本 (使用 Ollama + Qwen2:7b) ")
     parser.add_argument(
         "-f", "--file",
         type=str,
@@ -284,15 +204,12 @@ def main():
     parser.add_argument(
         "-p", "--parallel",
         type=int,
+        default=1,
         help="并行处理文件数（可选，默认1个）"
     )
     args = parser.parse_args()
 
-    if args.parallel:
-        MAX_PARALLEL_TASKS = args.parallel
-
     print(f"使用模型: {MODEL} | API地址: {OLLAMA_URL}")
-    print(f"并行任务数: {MAX_PARALLEL_TASKS} | 连续处理 {CONTINUOUS_WORK_SECONDS_BEFORE_REST // 60} 分钟后休息 {REST_SECONDS // 60} 分钟\n")
 
     if args.file:
         file_path = args.file
@@ -308,18 +225,14 @@ def main():
         )
         total_files = len(file_list)
 
-        start_time = time.time()
-        last_rest_time = start_time
-
         with tqdm(total=total_files, desc="处理所有文件", ncols=100, unit="个", dynamic_ncols=True) as pbar:
-            with concurrent.futures.ThreadPoolExecutor(max_workers=MAX_PARALLEL_TASKS) as executor:
+            with concurrent.futures.ThreadPoolExecutor(max_workers=args.parallel) as executor:
                 futures = [executor.submit(process_file, file_path) for file_path in file_list]
 
                 for future in concurrent.futures.as_completed(futures):
                     pbar.update(1)
 
         print("\n\n=== 全部完成 ===")
-        print(f"共处理文件: {total_files}")
 
 if __name__ == "__main__":
     main()
