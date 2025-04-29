@@ -4224,4 +4224,13 @@
 		"filename"		"ze_lab"
 		"updatedname"		"ze_lab_cs2_l"
 	}
+	"ze_surf_cherry_blossom"
+	{
+		"workshop_id"		"3472820975"
+		"enabled"		"1"
+		"filename"		"ze_surf_cherry_blossom"
+		"updatedname"		"ze_surf_cherry_blossom"
+		"OnlyNominate"		"1"
+		"RestrictedTimes"	"00:00-08:00;19:00-23:59"
+	}
 }
