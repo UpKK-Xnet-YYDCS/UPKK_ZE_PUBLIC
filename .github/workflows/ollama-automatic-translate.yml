@@ -4,9 +4,10 @@ env:
   PYTHONUTF8: 1
 
 on:
-  push:
-    paths:
-      - 'cs2/counterstrikesharp/configs/map-text/**/*.jsonc'
+  workflow_dispatch:
+  #push:
+    #paths:
+      #- 'cs2/counterstrikesharp/configs/map-text/**/*.jsonc'
 
 jobs:
   translate_and_pr:
