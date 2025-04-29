@@ -23,7 +23,7 @@
     "translation": "*萨菲罗斯的跳刀将在10秒后解锁。*",
     "MultiLang": {
       "US": "",
-      "JP": "*Sephirusuto no Rasāzu wa kaihon ni okonawareba 10 sec.*",
+      "JP": "",
       "CN": "*萨菲罗斯的跳刀将在10秒后解锁。*",
       "KR": "*세피로스 레이저는 10sec 후에 해금됩니다.*",
       "TW": "*Sephiroth的激光將在10 sec後解除鎖定.*"
@@ -63,7 +63,7 @@
     "translation": "< 直升机将在10秒后离开 >",
     "MultiLang": {
       "US": "",
-      "JP": "HELICOPTER LEAVING 10 SECONDS >",
+      "JP": "",
       "CN": "< 直升机将在10秒后离开 >",
       "KR": "<HEL기체 떠나기 10초>",
       "TW": ""
@@ -73,7 +73,7 @@
     "translation": "< 直升机将在20秒后离开 >",
     "MultiLang": {
       "US": "",
-      "JP": "HELICOPTER LEAVING 20 SECONDS >",
+      "JP": "",
       "CN": "< 直升机将在20秒后离开 >",
       "KR": "<헬리 떠나기 20초>",
       "TW": ""
@@ -136,7 +136,7 @@
       "JP": "テレポーテーションは10秒後に開始します。",
       "CN": "< 传送将在10秒后进行。>",
       "KR": "< 10 초 후 텔레포트합니다. >>",
-      "TW": "< TELEPORT IN 10 SEC. >"
+      "TW": ""
     }
   },
   "< Teleport in 20 sec. >": {
@@ -254,7 +254,7 @@
     "MultiLang": {
       "US": "",
       "JP": "",
-      "CN": "> 1s <",
+      "CN": "",
       "KR": "",
       "TW": ""
     }
@@ -264,7 +264,7 @@
     "MultiLang": {
       "US": "",
       "JP": "",
-      "CN": "> 2s <",
+      "CN": "",
       "KR": "",
       "TW": ""
     }
@@ -274,7 +274,7 @@
     "MultiLang": {
       "US": "",
       "JP": "",
-      "CN": "> 3s <",
+      "CN": "",
       "KR": "",
       "TW": ""
     }
@@ -284,7 +284,7 @@
     "MultiLang": {
       "US": "",
       "JP": "",
-      "CN": "> 4s <",
+      "CN": "",
       "KR": "",
       "TW": ""
     }
@@ -294,7 +294,7 @@
     "MultiLang": {
       "US": "",
       "JP": "",
-      "CN": "> 5s <",
+      "CN": "",
       "KR": "",
       "TW": ""
     }
@@ -335,7 +335,7 @@
       "US": "",
       "JP": "ヘリコプター離陸まで7秒。",
       "CN": "> 直升机将在7秒后离开。<",
-      "KR": "HELICOPTER LEAVE IN 7 SEC. <",
+      "KR": "",
       "TW": "直升机離開倒數中，7秒。"
     }
   },
@@ -366,7 +366,7 @@
       "JP": "> 10秒後AFKプレイヤーにテレポートする。<",
       "CN": "> 10秒后传送挂机玩家。<",
       "KR": "> 10sec에 afk 플레이어 텔레포트.<",
-      "TW": "TELEPORT AFK PLAYER IN 10 SEC. <"
+      "TW": ""
     }
   },
   "> The rescue ship is on the way. <": {
@@ -465,7 +465,7 @@
       "US": "",
       "JP": "*** プレイヤーがエレクトロマテリアルを獲得しました ***",
       "CN": "** 有1玩家获得了 ELECTRO MATERIA **",
-      "KR": "*** một người chơi đã sở hữu ELECTRO MATERIA ***",
+      "KR": "",
       "TW": "** 有的玩家已獲得 ELECTRO MATERIA **"
     }
   },
@@ -685,7 +685,7 @@
       "US": "Distance to Zombie Bombing: 30 seconds!",
       "JP": "Zombies爆発まで30秒！",
       "CN": "",
-      "KR": "ゾombie核爆まで30秒！",
+      "KR": "",
       "TW": "距離殭屍爆炸還有30秒！"
     }
   },
@@ -805,7 +805,7 @@
       "US": "Fight Dance Contest begins!",
       "JP": "",
       "CN": "",
-      "KR": "<斗舞大会正式启动！>",
+      "KR": "",
       "TW": ""
     }
   },
@@ -905,7 +905,7 @@
       "US": "Zombie Lucky Box Limit Reached!",
       "JP": "ゾンビ運極ボックスに達しました！",
       "CN": "",
-      "KR": "ゾombieラuckyボoxは上限に達しました！",
+      "KR": "",
       "TW": "僵尸幸運盒子已達上限！"
     }
   },

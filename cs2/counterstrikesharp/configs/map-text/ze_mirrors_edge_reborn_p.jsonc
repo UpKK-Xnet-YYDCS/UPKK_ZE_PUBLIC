@@ -4,7 +4,7 @@
     "MultiLang": {
       "US": "",
       "JP": "",
-      "CN": "<<<1>>>",
+      "CN": "",
       "KR": "",
       "TW": ""
     }
@@ -24,7 +24,7 @@
     "MultiLang": {
       "US": "",
       "JP": "",
-      "CN": "<<<2>>>",
+      "CN": "",
       "KR": "",
       "TW": ""
     }
@@ -34,7 +34,7 @@
     "MultiLang": {
       "US": "",
       "JP": "",
-      "CN": "<<<3>>>",
+      "CN": "",
       "KR": "",
       "TW": ""
     }
@@ -44,7 +44,7 @@
     "MultiLang": {
       "US": "",
       "JP": "",
-      "CN": "<<<4>>>",
+      "CN": "",
       "KR": "",
       "TW": ""
     }
@@ -95,7 +95,7 @@
       "US": "",
       "JP": "<<< 難易度レベル : 极端 >>>",
       "CN": "<<<难度等级：极限>>>",
-      "KR": "<<< difficulté level : extreme >>>",
+      "KR": "",
       "TW": "<<< 難度等級 : 极端 >>>"
     }
   },
@@ -166,7 +166,7 @@
       "JP": "<<< ドアは20秒後に破壊される >>>",
       "CN": "<<<门将在20秒后破裂>>>",
       "KR": "<<< 문은 20초 후에 깨집니다 >>>",
-      "TW": "<<< Door will break in 20 seconds >>>"
+      "TW": ""
     }
   },
   "<<< DOOR WILL BREAK IN 5 SECONDS >>>": {
@@ -295,7 +295,7 @@
       "US": "",
       "JP": "<<< 25 secでHold >>>",
       "CN": "<<<防守25秒>>>",
-      "KR": "<<< 25sec_HOLD >>>",
+      "KR": "",
       "TW": "<<< 持續 25 秒 >>>"
     }
   },
@@ -303,7 +303,7 @@
     "translation": "<<<核弹发射>>>",
     "MultiLang": {
       "US": "",
-      "JP": "Note: The original \"Nuke\" is left untranslated as it's a commonly used term in gaming and English.",
+      "JP": "",
       "CN": "<<<核弹发射>>>",
       "KR": "<<< 원자폭탄 발사 >>>",
       "TW": "<<<核武發射>>>"
@@ -325,7 +325,7 @@
       "US": "",
       "JP": "<<< 目的 : チョッパーに走る >>>",
       "CN": "<<<目标：跑向直升机>>>",
-      "KR": "<<<.getObjective : RUN TO THE CHopper >>>",
+      "KR": "",
       "TW": "目標：跑向直升機"
     }
   },
@@ -466,7 +466,7 @@
       "JP": "<<<ゾンビは速くそしてより多くのライフ拥有多的健康>>>",
       "CN": "<<<僵尸速度更快并且初始生命值更高>>>",
       "KR": "<<< 브레인즈는更快且生命值更高 >>>",
-      "TW": "Zombies are faster and have more health >>>"
+      "TW": ""
     }
   },
   "<<< ZOMBIES MADE IT ON TO CHOPPER. YOU LOSE! >>>": {
@@ -475,7 +475,7 @@
       "US": "",
       "JP": "<<<ゾンビがチャッパーに到着。君の負け！>>>",
       "CN": "<<<僵尸已成功上直升机。你输了！>>>",
-      "KR": "<<< Zombies Made It On To Chopper. You Lose! >>>",
+      "KR": "",
       "TW": ""
     }
   },
@@ -483,10 +483,10 @@
     "translation": "<<<放有手提箱的门正在打开！按下按钮>>>",
     "MultiLang": {
       "US": "",
-      "JP": "Suitcase Door Is Opening! Press the Button",
+      "JP": "",
       "CN": "<<<放有手提箱的门正在打开！按下按钮>>>",
       "KR": "<<-수레가지가 열리고 있습니다! 버튼을 눌러주세요>> >",
-      "TW": "<<< Suitcase Door Is Opening! Press the Button >>>"
+      "TW": ""
     }
   },
   "<<<TIME'S OUT!! YOU LOSE>>>": {
@@ -504,7 +504,7 @@
     "MultiLang": {
       "US": "",
       "JP": "",
-      "CN": ">>>1<<<",
+      "CN": "",
       "KR": "",
       "TW": ""
     }
@@ -514,7 +514,7 @@
     "MultiLang": {
       "US": "",
       "JP": "",
-      "CN": ">>>2<<<",
+      "CN": "",
       "KR": "",
       "TW": ""
     }
@@ -566,7 +566,7 @@
       "JP": ">>>25秒以上 HOLD<<<",
       "CN": ">>>再防守25秒<<<",
       "KR": ">>>25초 더 유지<<<",
-      "TW": ">>> HOLD MORE 25 SECONDS <<<"
+      "TW": ""
     }
   },
   ">>>Map created by Dark Arrow<<<": {

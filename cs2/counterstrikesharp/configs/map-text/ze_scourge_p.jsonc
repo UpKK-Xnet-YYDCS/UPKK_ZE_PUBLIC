@@ -106,7 +106,7 @@
       "JP": "***ゾンビ検出***",
       "CN": "***检测到僵尸***",
       "KR": "*** 브레인 감지됨 ***",
-      "TW": "*** Zombies detected ***"
+      "TW": ""
     }
   },
   "***DOOR OPENING SOON..***": {
@@ -236,7 +236,7 @@
       "JP": "**ドアが15秒後に開きます**",
       "CN": "**门将在15秒内打开**",
       "KR": "**문이 15초 후에 열립니다**",
-      "TW": "Doors opens in 15 seconds ***"
+      "TW": ""
     }
   },
   "**DOORS OPENS IN 20 SECONDS**": {
@@ -245,8 +245,8 @@
       "US": "",
       "JP": "**ドアが20秒後に開きます**",
       "CN": "**门将在20秒内打开**",
-      "KR": "Doors open in 20 seconds ***",
-      "TW": "Doors opens in 20 seconds ***"
+      "KR": "",
+      "TW": ""
     }
   },
   "**ELEVATOR MOVING..**": {
@@ -263,7 +263,7 @@
     "translation": "**要塞入口将在20秒内打开**",
     "MultiLang": {
       "US": "",
-      "JP": "*** stronghold entrance opens in 20 seconds ***",
+      "JP": "",
       "CN": "**要塞入口将在20秒内打开**",
       "KR": "**강호구문열림까지 20초 남음**",
       "TW": ""

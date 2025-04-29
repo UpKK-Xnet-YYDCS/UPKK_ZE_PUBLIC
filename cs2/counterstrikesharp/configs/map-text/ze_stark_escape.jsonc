@@ -34,8 +34,8 @@
     "MultiLang": {
       "US": "",
       "JP": "",
-      "CN": "################",
-      "KR": "Text:",
+      "CN": "",
+      "KR": "",
       "TW": "【開始翻譯】"
     }
   },
@@ -213,9 +213,9 @@
     "translation": "人类传送",
     "MultiLang": {
       "US": "Human teleportation",
-      "JP": "humanoid teleported",
+      "JP": "",
       "CN": "人类传送",
-      "KR": "Human teleportasjon",
+      "KR": "",
       "TW": "人类 TELEPORT"
     }
   },
@@ -303,7 +303,7 @@
     "translation": "跑",
     "MultiLang": {
       "US": "",
-      "JP": "RUN",
+      "JP": "",
       "CN": "跑",
       "KR": "",
       "TW": "跑"
@@ -313,7 +313,7 @@
     "translation": "快跑",
     "MultiLang": {
       "US": "",
-      "JP": "_run run_",
+      "JP": "",
       "CN": "快跑",
       "KR": "",
       "TW": "跑跑"
@@ -335,7 +335,7 @@
       "US": "",
       "JP": "",
       "CN": "快跑快跑快跑。剩下5秒。",
-      "KR": "_RUN, RUN, RUN._ 5 Seconds Left.",
+      "KR": "",
       "TW": "跑，跑，跑。5秒倒數。"
     }
   },
@@ -576,7 +576,7 @@
       "JP": "門から入る。",
       "CN": "穿过门。",
       "KR": "문을 통해 들어가십시오.",
-      "TW": "THROUGH THE DOOR."
+      "TW": ""
     }
   },
   "We've got 20 seconds before the chopper takes off. Defend and don't miss the chopper.": {
@@ -605,8 +605,8 @@
       "US": "",
       "JP": "ゾンビテレポート!!!",
       "CN": "僵尸传送！！！",
-      "KR": "ゾンビテレポート!!!",
-      "TW": "Zombies Teleport!!!"
+      "KR": "",
+      "TW": ""
     }
   },
   "Zombie TP 7 sec !": {
@@ -615,7 +615,7 @@
       "US": "",
       "JP": "ゾンビTP 7sec;!",
       "CN": "僵尸传送7秒！",
-      "KR": "ゾンビ TP 7sec !",
+      "KR": "",
       "TW": "殭屍TP 7 sec !"
     }
   },
@@ -625,7 +625,7 @@
       "US": "",
       "JP": "ゾンビ死ぬ",
       "CN": "僵尸死亡",
-      "KR": "ゾombie dead",
+      "KR": "",
       "TW": "殭屍死掉"
     }
   },
@@ -695,7 +695,7 @@
       "US": "",
       "JP": "ゾンビtp 10 sec ! RUN",
       "CN": "僵尸传送10秒！快跑",
-      "KR": "ゾンビ tp 10 sec ! RUN",
+      "KR": "",
       "TW": "殭屍tp 10 sec ! RUN"
     }
   },
@@ -705,7 +705,7 @@
       "US": "",
       "JP": "ゾンビtp 10sec. RUN",
       "CN": "僵尸传送10秒。快跑",
-      "KR": "ゾイド tp 10 sec. RUN",
+      "KR": "",
       "TW": "殭屍tp 10 sec. RUN"
     }
   },
@@ -735,7 +735,7 @@
       "US": "",
       "JP": "ゾンビtp 5 sec ! RUN",
       "CN": "僵尸传送5秒！快跑",
-      "KR": "ゾンビ tp 5sec ! RUN",
+      "KR": "",
       "TW": "殭屍tp 5 sec ! RUN"
     }
   },
@@ -745,7 +745,7 @@
       "US": "",
       "JP": "守卫RIGHT和LEFT。",
       "CN": "防守左右两侧。",
-      "KR": "defense RIGHT и LEFT.",
+      "KR": "",
       "TW": "守護右方和左方。"
     }
   },
@@ -895,8 +895,8 @@
       "US": "",
       "JP": "Defenseしない！走れ走れ",
       "CN": "不要防守！快跑快跑",
-      "KR": "defense X DON'T DEFEND! RUN RUN",
-      "TW": "dont defend! run run"
+      "KR": "",
+      "TW": ""
     }
   },
   "The zombie barrier will break after 5 seconds.": {
