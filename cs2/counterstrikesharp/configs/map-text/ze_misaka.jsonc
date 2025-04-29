@@ -3,20 +3,20 @@
     "translation": "** 20秒内可能会发生一些事情... **",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "*** 20秒後に何かが起こるかもしれません... ***",
       "CN": "** 20秒内可能会发生一些事情... **",
       "KR": "",
-      "TW": ""
+      "TW": "** 210秒後可能發生什麼... **"
     }
   },
   "** The wall will break in 12 seconds **": {
     "translation": "** 墙会在12秒内破裂 **",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "** 壁壁が崩れるまでに12秒があります **",
       "CN": "** 墙会在12秒内破裂 **",
-      "KR": "",
-      "TW": ""
+      "KR": "**벽은 12초 후에 붕괴됩니다 **",
+      "TW": "**牆 akan 崩潰於 12 秒後 **"
     }
   },
   "*** 10 ***": {
@@ -35,8 +35,8 @@
       "US": "",
       "JP": "",
       "CN": "*** 致残打击 ***",
-      "KR": "",
-      "TW": ""
+      "KR": "*** 치명적인 공격 - 致残打击 ***",
+      "TW": "***致殘擊打***"
     }
   },
   "*** Deadly Vortex - 致命漩涡 ***": {
@@ -45,37 +45,37 @@
       "US": "",
       "JP": "",
       "CN": "*** 致命漩涡 ***",
-      "KR": "",
-      "TW": ""
+      "KR": "*** 치명적인 연쇄 - 치명적 회오리 ****",
+      "TW": "*** 致命漩涡 - Deadly Vortex ***"
     }
   },
   "*** Devil Wave - 恶魔冲击 ***": {
     "translation": "*** 恶魔冲击 ***",
     "MultiLang": {
-      "US": "",
+      "US": "*** Devil Wave - Demon Impact ***",
       "JP": "",
       "CN": "*** 恶魔冲击 ***",
       "KR": "",
-      "TW": ""
+      "TW": "***惡魔波浪 - 恶魔衝擊 ***"
     }
   },
   "*** Divine penalty - 神罚 ***": {
     "translation": "*** 神罚 ***",
     "MultiLang": {
-      "US": "",
+      "US": "*** Divine penalty - God's Judgment ***",
       "JP": "",
       "CN": "*** 神罚 ***",
-      "KR": "",
-      "TW": ""
+      "KR": "*** 신의 저주 - 罰 ***",
+      "TW": "*** 神罚 - Divine penalty ***"
     }
   },
   "*** Embattle - 四面楚歌 ***": {
     "translation": "*** 四面楚歌 ***",
     "MultiLang": {
-      "US": "",
+      "US": "*** Embattle - Surrounded by Enemies ***",
       "JP": "",
       "CN": "*** 四面楚歌 ***",
-      "KR": "",
+      "KR": "***Embattle - 사면초가***",
       "TW": ""
     }
   },
@@ -83,10 +83,10 @@
     "translation": "*** 防守最后的45秒 ***",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "*** 45秒後にホールド ***",
       "CN": "*** 防守最后的45秒 ***",
-      "KR": "",
-      "TW": ""
+      "KR": "*** 45초 후에 보관 ***",
+      "TW": "*** 持續最後 45 秒 ***"
     }
   },
   "*** Insane III Complete ***": {
@@ -95,7 +95,7 @@
       "US": "",
       "JP": "",
       "CN": "*** 疯狂III完成 ***",
-      "KR": "",
+      "KR": "*** Insane III 완료 ***",
       "TW": ""
     }
   },
@@ -105,27 +105,27 @@
       "US": "",
       "JP": "",
       "CN": "*** 地图由Misaka制作，特别感谢memories为疯狂III提供的帮助 ***",
-      "KR": "",
-      "TW": ""
+      "KR": "*** 맵 제작자 미사카, Insane III에 대한 기억님께 특별 감사 드립니다 ***",
+      "TW": "*** 圖案由Misaka設計，特別感謝memories為Insane III***"
     }
   },
   "*** Survive for 20 seconds!!! ***": {
     "translation": "*** 生存20秒!!! ***",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "*** 20秒間生存せよ!!! ***",
       "CN": "*** 生存20秒!!! ***",
-      "KR": "",
-      "TW": ""
+      "KR": "*** 20초 동안 버伫!!! ***",
+      "TW": "*** 生存210秒!!!!! ***"
     }
   },
   "*** Undead Legion - 亡灵军团 ***": {
     "translation": "*** 亡灵军团 ***",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "*** Undead Legion - 亡靈軍團 ***",
       "CN": "*** 亡灵军团 ***",
-      "KR": "",
+      "KR": "*** Undead Legion - 亡靈軍團 ***",
       "TW": ""
     }
   },
@@ -133,10 +133,10 @@
     "translation": "*** 你是这张地图的传奇!!! ***",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "*** あなたはこのマップの伝説です!!! ***",
       "CN": "*** 你是这张地图的传奇!!! ***",
-      "KR": "",
-      "TW": ""
+      "KR": "*** 당신은 이 맵의 전설이야!! ***",
+      "TW": "***你這是這張地圖的傳說!!! ***"
     }
   },
   "<< ... >>": {
@@ -166,7 +166,7 @@
       "JP": "",
       "CN": "<< 120秒 >>",
       "KR": "",
-      "TW": ""
+      "TW": "<< 120 秒 >>"
     }
   },
   "<< 2 >>": {
@@ -225,28 +225,28 @@
       "US": "",
       "JP": "",
       "CN": "<< 还剩5秒 >>",
-      "KR": "",
-      "TW": ""
+      "KR": "<< 5 초 더 기다려 >>=",
+      "TW": "<< 5 上秒 >>"
     }
   },
   "<< 5 seconds to move >>": {
     "translation": "<< 5秒内移动 >>",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "<< 5秒以内に動く >>",
       "CN": "<< 5秒内移动 >>",
-      "KR": "",
-      "TW": ""
+      "KR": "<< 5초 동안 이동 >>",
+      "TW": "<< 5秒移動 >>"
     }
   },
   "<< 55 seconds left >>": {
     "translation": "<< 还剩55秒 >>",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": ">> 55秒残り >>",
       "CN": "<< 还剩55秒 >>",
       "KR": "",
-      "TW": ""
+      "TW": "<< 55 秒鐘剩下 >>"
     }
   },
   "<< 60 seconds >>": {
@@ -263,179 +263,179 @@
     "translation": "<< 一名玩家获得了字母A >>",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "<< プレイヤーがレターAを獲得した >>",
       "CN": "<< 一名玩家获得了字母A >>",
-      "KR": "",
-      "TW": ""
+      "KR": "<< 플레이어가 알파벳 A 메시지를 받았습니다 >>",
+      "TW": "<< 有的玩家收到了字母A >>"
     }
   },
   "<< A player has got the letter A >>": {
     "translation": "<< 一名玩家获得了字母A >>",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "<< プレイヤーがAの手紙を獲得した >>",
       "CN": "<< 一名玩家获得了字母A >>",
-      "KR": "",
-      "TW": ""
+      "KR": "<< 플레이어가 레터 A를 얻었습니다 >>",
+      "TW": "<< 有的玩家已經得到了字母A >>"
     }
   },
   "<< A player has got the letter I >>": {
     "translation": "<< 一名玩家获得了字母I >>",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "<< プレイヤーがIを手に入れた >>",
       "CN": "<< 一名玩家获得了字母I >>",
-      "KR": "",
-      "TW": ""
+      "KR": "<< 플레이어가 I을 얻었습니다 >>",
+      "TW": "<< 有的玩家獲得字母I >>"
     }
   },
   "<< A player has got the letter K >>": {
     "translation": "<< 一名玩家获得了字母K >>",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "<< プレイヤーがKを手に入れた >>",
       "CN": "<< 一名玩家获得了字母K >>",
-      "KR": "",
-      "TW": ""
+      "KR": "<< 선수에게 K가 왔습니다 >>",
+      "TW": "<< 有的玩家收到了字母 K >>"
     }
   },
   "<< A player has got the letter M >>": {
     "translation": "<< 一名玩家获得了字母M >>",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "<< 某玩家获得了字母M >>",
       "CN": "<< 一名玩家获得了字母M >>",
-      "KR": "",
-      "TW": ""
+      "KR": "<< 플레이어가 M을 얻음 >>",
+      "TW": "<< 有的玩家收到字母M >>"
     }
   },
   "<< A player has got the letter S >>": {
     "translation": "<< 一名玩家获得了字母S >>",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "<< プレイヤーがSの手紙を獲得した >>",
       "CN": "<< 一名玩家获得了字母S >>",
-      "KR": "",
-      "TW": ""
+      "KR": "<< 플레이어가 S를 얻었습니다 >>",
+      "TW": "<< 有的玩家得到了字母 S >>"
     }
   },
   "<< A player has picked up heal >>": {
     "translation": "<< 一名玩家捡起了治疗 >>",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "<< プレイヤーが回復アイテムを拾いました >>",
       "CN": "<< 一名玩家捡起了治疗 >>",
-      "KR": "",
-      "TW": ""
+      "KR": "<< 플레이어가 회복 능력기를 획득했습니다 >>",
+      "TW": "<< 有的玩家拾取了 Heal >>"
     }
   },
   "<< A zombie has picked up speed >>": {
     "translation": "<< 一只僵尸捡起了暴走 >>",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "<<ゾンビが速さを増した >>",
       "CN": "<< 一只僵尸捡起了暴走 >>",
-      "KR": "",
-      "TW": ""
+      "KR": "<<< 블라인드 속도가 증가했음 >>>",
+      "TW": "<< 1隻殭屍加快了速度 >>"
     }
   },
   "<< Absolute Purification >>": {
     "translation": "3秒 << 绝对净化 (大转盘) >>",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "<<絶対純化>>",
       "CN": "3秒 << 绝对净化 (大转盘) >>",
-      "KR": "",
-      "TW": ""
+      "KR": "<< 절대적인 순화 >>",
+      "TW": "【絕對淨化】"
     }
   },
   "<< Be Careful! You only have 120 seconds to defeat the boss >>": {
     "translation": "<< 小心! 你只有120秒来击败Boss >>",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "<< 注意！ボスを倒すのは120秒しか与えられていない >>",
       "CN": "<< 小心! 你只有120秒来击败Boss >>",
-      "KR": "",
-      "TW": ""
+      "KR": "<< 주의하세요! 보스를 đánh bại하는 데는 chỉ 120초가 주어져 있습니다 >>",
+      "TW": "<< 要小心！你只有120秒時間擊敗BOSS >>"
     }
   },
   "<< Be Careful, only shooting the head of the guard may cause damage >>": {
     "translation": "<< 小心，只有射击守卫的头部才能造成伤害 >>",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "<<注意，只射击守卫的头部才可能造成伤害>>",
       "CN": "<< 小心，只有射击守卫的头部才能造成伤害 >>",
-      "KR": "",
-      "TW": ""
+      "KR": "<< 주의하라, 경호원의 머리만 맞추면 손상이 발생할 수 있음 >>",
+      "TW": "<< 注意，只射-guard的头才可能造成伤害 >>"
     }
   },
   "<< Be careful about the abnormal gravity >>": {
     "translation": "<< 小心异常的吸力 >>",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": ">> 異常な重力に注意 <<",
       "CN": "<< 小心异常的吸力 >>",
-      "KR": "",
-      "TW": ""
+      "KR": "<< 비상한 중력에 주의하세요 >>",
+      "TW": ">> 注意異常重力 >>"
     }
   },
   "<< Congratulation !!! >>": {
     "translation": "<< 恭喜!!! >>",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "<<< おめでとう！！！ >>>",
       "CN": "<< 恭喜!!! >>",
-      "KR": "",
-      "TW": ""
+      "KR": "<<< 축하합니다!!! >>>",
+      "TW": "恭喜！！！"
     }
   },
   "<< Dark Wave >>": {
     "translation": "<< 暗黑浪潮 >>",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": ">> 黒潮 <<",
       "CN": "<< 暗黑浪潮 >>",
-      "KR": "",
-      "TW": ""
+      "KR": "<<< 어둠의 파도 >>>",
+      "TW": "<< 黑潮 >>"
     }
   },
   "<< Defeat The Final Misaka To Win This Map >>": {
     "translation": "<< 击败最后的Misaka以赢得这张地图 >>",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": ">> 最終のミサカを倒してこのマップを獲る >>",
       "CN": "<< 击败最后的Misaka以赢得这张地图 >>",
-      "KR": "",
-      "TW": ""
+      "KR": "<< 마지막 미사카를 패배시켜 이 맵에서 승리한다 >>",
+      "TW": "<<擊敗最終的Misaka才能獲勝此圖>>"
     }
   },
   "<< Do you think this is over? >>": {
     "translation": "<< 你认为这就结束了吗? >>",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "<< これで終わりかと思うかい？>>",
       "CN": "<< 你认为这就结束了吗? >>",
-      "KR": "",
-      "TW": ""
+      "KR": ">> 이건 다 끝나는 건가요? >>",
+      "TW": "<<你認為這就結束了嗎？>>"
     }
   },
   "<< Drain >>": {
     "translation": "3秒 << 吸力 （按住S） >>",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "<< ドrain >>",
       "CN": "3秒 << 吸力 （按住S） >>",
-      "KR": "",
-      "TW": ""
+      "KR": "<<< 드RAIN >>>",
+      "TW": "<< 掠奪 >>"
     }
   },
   "<< Ending in 12 seconds... >>": {
     "translation": "<< 12秒后结束... >>",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "<< 12秒後に終了... >>",
       "CN": "<< 12秒后结束... >>",
-      "KR": "",
+      "KR": "<< 12초 후 종료... >>",
       "TW": ""
     }
   },
@@ -443,110 +443,110 @@
     "translation": "3秒 <<天坠>>",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "<< 落下する空 >>",
       "CN": "3秒 <<天坠>>",
-      "KR": "",
-      "TW": ""
+      "KR": "<< 폭풍의 하늘 >>",
+      "TW": "<< 沈落 skies >>"
     }
   },
   "<< Flame of Revenge >>": {
     "translation": "3秒 << 复仇之焰 （尸笼）>>",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": ">> 悪意の炎 <<",
       "CN": "3秒 << 复仇之焰 （尸笼）>>",
-      "KR": "",
-      "TW": ""
+      "KR": ">> 복수의 화염 >>",
+      "TW": ">> 檢復之焰 <<"
     }
   },
   "<< Giga Drain >>": {
     "translation": "3秒 << 超级吸力 （2连吸）（按住S）>>",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "<< ジガードレイン >>",
       "CN": "3秒 << 超级吸力 （2连吸）（按住S）>>",
-      "KR": "",
-      "TW": ""
+      "KR": "<< 기가 딥 >>=",
+      "TW": "<< 巨化吸根 >>"
     }
   },
   "<< Good Luck... >>": {
     "translation": "<< 祝你好运... >>",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "<< お運びを... >>",
       "CN": "<< 祝你好运... >>",
-      "KR": "",
-      "TW": ""
+      "KR": "<< 좋은 운이 있기를... >>",
+      "TW": "<< 好運...... >>"
     }
   },
   "<< Haste >>": {
     "translation": "<< 急速 >>",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": ">>  haste <<",
       "CN": "<< 急速 >>",
-      "KR": "",
-      "TW": ""
+      "KR": "<< 서두르기 >>",
+      "TW": "<< 速徑 >>"
     }
   },
   "<< Hunting Instinct >>": {
     "translation": "3秒 << 狩猎本能 (跳刀) >>",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "<< 捕獣の本能 >>",
       "CN": "3秒 << 狩猎本能 (跳刀) >>",
-      "KR": "",
-      "TW": ""
+      "KR": "<<< 사냥 potrà >>",
+      "TW": "<< 捕獵本能 >>"
     }
   },
   "<< I Know that you work hard to get here >>": {
     "translation": "<< 我知道你努力到达这里 >>",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "<< ここに Comes from your hard work >>",
       "CN": "<< 我知道你努力到达这里 >>",
-      "KR": "",
-      "TW": ""
+      "KR": "<<< 내가 여기까지 왔을 때 얼마나 노력했는지 알고 있나 >>>",
+      "TW": "<<我知道你努力到了這裡>>"
     }
   },
   "<< I know what you want... >>": {
     "translation": "<< 我知道你想要什么... >>",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "<< あなたが何 Want... >>",
       "CN": "<< 我知道你想要什么... >>",
-      "KR": "",
-      "TW": ""
+      "KR": "<< 내가 무엇을 원하는지 알고 있어... >>",
+      "TW": "<< 我知道你想要什麼... >>"
     }
   },
   "<< INSANE I >>": {
     "translation": "<< 疯狂I >>",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "<< insula I >>",
       "CN": "<< 疯狂I >>",
-      "KR": "",
-      "TW": ""
+      "KR": "注：根据指导方针，已将“INSANE”一词翻译为“극한의”，以保持游戏文本风格。但保留了原英文大写字母形式。",
+      "TW": "<< 神絶 I >>"
     }
   },
   "<< INSANE I Complete >>": {
     "translation": "<< 疯狂I完成 >>",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "<< 瘋狂I完全完成 >>",
       "CN": "<< 疯狂I完成 >>",
-      "KR": "",
-      "TW": ""
+      "KR": "<< 인산 I 완료 >>",
+      "TW": "<< 狂暴I完成 >>"
     }
   },
   "<< INSANE I Selected >>": {
     "translation": "<< 疯狂I已选择 >>",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "<< 絶対にISelected >>",
       "CN": "<< 疯狂I已选择 >>",
-      "KR": "",
-      "TW": ""
+      "KR": "<<Insane I 선택>>",
+      "TW": "<< 神經病 I 選定 >>"
     }
   },
   "<< INSANE II >>": {
@@ -556,17 +556,17 @@
       "JP": "",
       "CN": "<< 疯狂II >>",
       "KR": "",
-      "TW": ""
+      "TW": "<< 绝倫2 >>"
     }
   },
   "<< INSANE II Selected >>": {
     "translation": "<< 疯狂II已选择 >>",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "<< INSANE II 選ばれた者 >>",
       "CN": "<< 疯狂II已选择 >>",
-      "KR": "",
-      "TW": ""
+      "KR": "<< INSANE II 선택 >>",
+      "TW": "<< INSANE II 選取 >>"
     }
   },
   "<< INSANE III >>": {
@@ -583,40 +583,40 @@
     "translation": "<< 疯狂III已选择 >>",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "<< INSANE III 選ばれた者 >>",
       "CN": "<< 疯狂III已选择 >>",
-      "KR": "",
-      "TW": ""
+      "KR": "<< 인산 III 선택 >>",
+      "TW": "<< INSANE III 選定 >>"
     }
   },
   "<< It's Misaka !!! >>": {
     "translation": "<< 这是Misaka!!! >>",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "<< これはMisakaだ！！！ >>",
       "CN": "<< 这是Misaka!!! >>",
-      "KR": "",
-      "TW": ""
+      "KR": "<< 이 هو 미사카 !! >>",
+      "TW": "<< 是Misaka !!}"
     }
   },
   "<< It's Misaka Again!!! >>": {
     "translation": "<< 又是Misaka!!! >>",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "<< AgainMisaka!!! >>",
       "CN": "<< 又是Misaka!!! >>",
-      "KR": "",
-      "TW": ""
+      "KR": "<< 미사카가 다시 나타났다!!! >>",
+      "TW": "<< 又是Misaka!! >>"
     }
   },
   "<< Its the time to meet the final >>": {
     "translation": "<< 是时候见到最终Boss了 >>",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "<< それが最終的な会合の時だ >>",
       "CN": "<< 是时候见到最终Boss了 >>",
-      "KR": "",
-      "TW": ""
+      "KR": "<< 그것은 마지막 만남의 시간이다 >>",
+      "TW": "<< 到了與最後1名會面的時間 >>"
     }
   },
   "<< MEGA PUSH >>": {
@@ -625,7 +625,7 @@
       "US": "",
       "JP": "",
       "CN": "3秒 << 超级推力 (3连推) （按住W）>>",
-      "KR": "",
+      "KR": "<< 메가 푸시 >>",
       "TW": ""
     }
   },
@@ -633,30 +633,30 @@
     "translation": "<< Misaka被击败 >>",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "<< Misakaは敗北>>",
       "CN": "<< Misaka被击败 >>",
-      "KR": "",
-      "TW": ""
+      "KR": "<< 미사카는 패배한다 >>",
+      "TW": "<<Misaka是戰敗者>>"
     }
   },
   "<< Misaka is using cannon >>": {
     "translation": "<< Misaka使用炮击 >>",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "<< ミサカは Cannnon を使用中 >>",
       "CN": "<< Misaka使用炮击 >>",
-      "KR": "",
-      "TW": ""
+      "KR": "<<Misaka는 캐논을 사용한다>>",
+      "TW": "<<Misaka正在使用砲彈>>"
     }
   },
   "<< Misaka will use holy in 6 seconds >>": {
     "translation": "<< Misaka将在6秒内使用终极 >>",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "<< ミサカは6秒後に聖なる力を用いる >>",
       "CN": "<< Misaka将在6秒内使用终极 >>",
-      "KR": "",
-      "TW": ""
+      "KR": "<< 미스카가 6초 후 성지를 사용할 것이다 >>",
+      "TW": "<< Misaka會在6秒後使用聖光 >>"
     }
   },
   "<< Nuke in 5 seconds >>": {
@@ -665,18 +665,18 @@
       "US": "",
       "JP": "",
       "CN": "<< 5秒后核弹 >>",
-      "KR": "",
-      "TW": ""
+      "KR": "<< 5초 후 폭발 >>",
+      "TW": "<< 核彈5秒後爆炸 >>"
     }
   },
   "<< Push >>": {
     "translation": "3秒 << 推力 （按住W）>>",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "<< ピッシュ >>",
       "CN": "3秒 << 推力 （按住W）>>",
-      "KR": "",
-      "TW": ""
+      "KR": "<< 밀러스 >>",
+      "TW": "<< 推 >>=>"
     }
   },
   "<< RTV I >>": {
@@ -695,8 +695,8 @@
       "US": "",
       "JP": "",
       "CN": "<< RTV I已选择 >>",
-      "KR": "",
-      "TW": ""
+      "KR": "<< RTV I 선택 >>",
+      "TW": "<< RTV 我已选择 >>"
     }
   },
   "<< RTV II >>": {
@@ -713,10 +713,10 @@
     "translation": "<< RTV II已选择 >>",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "<< RTV II選ばれた >>",
       "CN": "<< RTV II已选择 >>",
-      "KR": "",
-      "TW": ""
+      "KR": "<< RTV II 선택 >>",
+      "TW": "<< RTV II 選拔 >>"
     }
   },
   "<< RTV plz >>": {
@@ -743,369 +743,369 @@
     "translation": "3秒 << 收割斩 （蹲下）>>",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "<< 收割斩击 >>",
       "CN": "3秒 << 收割斩 （蹲下）>>",
-      "KR": "",
-      "TW": ""
+      "KR": "<< 수확 슬래시 >>",
+      "TW": "<< 揮 slashed >>"
     }
   },
   "<< Shooting Misaka >>": {
     "translation": "<< 射击Misaka >>",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "<< シューティング・ミサカ >>",
       "CN": "<< 射击Misaka >>",
-      "KR": "",
-      "TW": ""
+      "KR": "<< 총격 미사카 >>",
+      "TW": "<< 射擊米賈絲 >>"
     }
   },
   "<< Shooting it and dodge the laser!!>>": {
     "translation": "<< 射击它并躲避跳刀!! >>",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "<<撃って避ける！！>>",
       "CN": "<< 射击它并躲避跳刀!! >>",
-      "KR": "",
-      "TW": ""
+      "KR": "<< 발사하고 레이저를 피하세요!!>>",
+      "TW": "<<<射出去躲開激光!!>>>"
     }
   },
   "<< Shooting the guard >>": {
     "translation": "<< 射击守卫 >>",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "<< ガードを撃つ >>",
       "CN": "<< 射击守卫 >>",
-      "KR": "",
-      "TW": ""
+      "KR": "<< 수비수 맞추기 >>",
+      "TW": "<< 射殺守護者 >>"
     }
   },
   "<< Sign of Death >>": {
     "translation": "3秒 << 死亡信号 (天坠) >>",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "<< 死の兆候 >>",
       "CN": "3秒 << 死亡信号 (天坠) >>",
-      "KR": "",
-      "TW": ""
+      "KR": "<< 사망 표시 >>",
+      "TW": "<<死神的徵兆>>"
     }
   },
   "<< So we meet the second time >>": {
     "translation": "<< 我们又见面了 >>",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "<< 二度目の出会いです >>",
       "CN": "<< 我们又见面了 >>",
-      "KR": "",
-      "TW": ""
+      "KR": "<<所以我们第二次见面>>",
+      "TW": "<< 所以我們第2次見面 >>"
     }
   },
   "<< Stage 1 >>": {
     "translation": "<< 第一关 >>",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "<< ステージ 1 >>",
       "CN": "<< 第一关 >>",
-      "KR": "",
-      "TW": ""
+      "KR": "<< 스테이지 1 >>",
+      "TW": "<< 鎖關 1 >>"
     }
   },
   "<< Stage 1 Complete >>": {
     "translation": "<< 第一关完成 >>",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "<< ステージ 1 完了 >>",
       "CN": "<< 第一关完成 >>",
-      "KR": "",
-      "TW": ""
+      "KR": "<< 스테이지 1 완료 >>",
+      "TW": "<< 階段 1 完成 >>"
     }
   },
   "<< Stage 1 Selected >>": {
     "translation": "<< 第一关已选择 >>",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "<< ステージ1選定 >>",
       "CN": "<< 第一关已选择 >>",
-      "KR": "",
-      "TW": ""
+      "KR": "<< 스테이지 1 선택 >>",
+      "TW": "<< 開始舞台 1 >>"
     }
   },
   "<< Stage 2 >>": {
     "translation": "<< 第二关 >>",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "<< ステージ 2 >>",
       "CN": "<< 第二关 >>",
-      "KR": "",
-      "TW": ""
+      "KR": "<< 스테이지 2 >>",
+      "TW": "<< 過關 2 >>"
     }
   },
   "<< Stage 2 Complete >>": {
     "translation": "<< 第二关完成 >>",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "<< ステージ 2 完了 >>",
       "CN": "<< 第二关完成 >>",
-      "KR": "",
-      "TW": ""
+      "KR": "<< 스테이지 2 완료 >>",
+      "TW": "<< 過關 2 >>"
     }
   },
   "<< Stage 2 Selected >>": {
     "translation": "<< 第二关已选择 >>",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "<< ステージ 2 選定 >>",
       "CN": "<< 第二关已选择 >>",
-      "KR": "",
-      "TW": ""
+      "KR": "<< 스테이지 2 선택 >>",
+      "TW": "<< 第2關選定 >>"
     }
   },
   "<< Stage 3 >>": {
     "translation": "<< 第三关 >>",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "<< ステージ 3 >>",
       "CN": "<< 第三关 >>",
-      "KR": "",
-      "TW": ""
+      "KR": "<< 스테이지 3 >>",
+      "TW": "<< 第3關 >>"
     }
   },
   "<< Stage 3 Complete >>": {
     "translation": "<< 第三关完成 >>",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "<< ステージ3complete >>",
       "CN": "<< 第三关完成 >>",
-      "KR": "",
-      "TW": ""
+      "KR": "<< 스테이지 3 완료 >>",
+      "TW": "<< 過關 3 完成 >>"
     }
   },
   "<< Stage 3 Selected >>": {
     "translation": "<< 第三关已选择 >>",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "<< ステージ3選定 >>",
       "CN": "<< 第三关已选择 >>",
-      "KR": "",
-      "TW": ""
+      "KR": "<< 스테이지 3 선택 >>",
+      "TW": "<< 第3關選定 >>"
     }
   },
   "<< Stage 3 true end complete>>": {
     "translation": "<< 第三关真结局完成 >>",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "<< ステージ3真の終了完了 >>",
       "CN": "<< 第三关真结局完成 >>",
-      "KR": "",
-      "TW": ""
+      "KR": "<<< 스테이지 3 진짜 끝 완료 >>",
+      "TW": "<<第3關真正結束完成>>"
     }
   },
   "<< Survive for 165 seconds!!! >>": {
     "translation": "<< 生存165秒!!! >>",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "<< 生存165秒！！！ >>",
       "CN": "<< 生存165秒!!! >>",
-      "KR": "",
-      "TW": ""
+      "KR": ">> 165초를 버텨보세요!! <<",
+      "TW": "<< 生存165秒!!! >>"
     }
   },
   "<< The boss appears again !!! >>": {
     "translation": "<< Boss再次出现了!!! >>",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "<< ボスがまた出現した!!! >>",
       "CN": "<< Boss再次出现了!!! >>",
-      "KR": "",
-      "TW": ""
+      "KR": "<<< 보스가 다시 나타나!!! >>>",
+      "TW": "<< BOSS再出現！！！ >>"
     }
   },
   "<< The boss will be unkillable after 25 seconds >>": {
     "translation": "<< Boss将在25秒后不可击杀 >>",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": ">> ボスは25秒後に非攻撃可能になります >>",
       "CN": "<< Boss将在25秒后不可击杀 >>",
-      "KR": "",
-      "TW": ""
+      "KR": ">> 보스는 25초 후에 불사将成为不可杀的 <<",
+      "TW": ">> 過了25秒.BOSS將無法被擊殺 <<"
     }
   },
   "<< The wall will break in 35 seconds >>": {
     "translation": "<< 墙会在35秒内破裂 >>",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "<< 壁は35秒後に崩れる >>",
       "CN": "<< 墙会在35秒内破裂 >>",
-      "KR": "",
-      "TW": ""
+      "KR": "<< 벽이 35초 후에 무너집니다 >>",
+      "TW": ">> 壁壁將在35秒後崩塌 >>=Traditional Chinese"
     }
   },
   "<< To escape this tower!!! >>": {
     "translation": "<< 逃离这座塔!!! >>",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "<< この塔から逃げ出さねば!! >>",
       "CN": "<< 逃离这座塔!!! >>",
-      "KR": "",
-      "TW": ""
+      "KR": "<< 이 탑에서 벗어나다!! >>",
+      "TW": "<< 要逃出這座塔！！>>"
     }
   },
   "<< Trials of Sword >>": {
     "translation": "<< 剑之试炼 >>",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "<<<剣の試練>>>",
       "CN": "<< 剑之试炼 >>",
-      "KR": "",
-      "TW": ""
+      "KR": "<< 검의 시험 >>",
+      "TW": "<<劍試>>"
     }
   },
   "<< Try to Get to The End !!! >>": {
     "translation": "<< 尽力到达终点!!! >>",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "<<  TRY TO GET TO THE END!!! >>",
       "CN": "<< 尽力到达终点!!! >>",
-      "KR": "",
-      "TW": ""
+      "KR": "<<try to get to the end!!! >>",
+      "TW": "<< 尽量走到終點!!! >>"
     }
   },
   "<< Try your best to survive from the attack >>": {
     "translation": "<< 尽力从攻击中生存下来 >>",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "<< 最善の方法で攻撃から生存しよう >>",
       "CN": "<< 尽力从攻击中生存下来 >>",
-      "KR": "",
-      "TW": ""
+      "KR": "<< 최선을 다해 공격에서 생존하십시오 >>",
+      "TW": "<< 尽量生存下來從攻擊中 >>"
     }
   },
   "<< Why you come here again? >>": {
     "translation": "<< 为什么你又来了? >>",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": ">> なぜまたここに来たのか？ >>",
       "CN": "<< 为什么你又来了? >>",
-      "KR": "",
-      "TW": ""
+      "KR": ">> 왜 여기에 다시 왔나? >>",
+      "TW": "<< 你為什麼又來這裡？ >>"
     }
   },
   "<< Wind >>": {
     "translation": "<< 风 >>",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "<< 風 >>",
       "CN": "<< 风 >>",
-      "KR": "",
-      "TW": ""
+      "KR": "<< 바람 >>",
+      "TW": "<< 風 >>"
     }
   },
   "<< You have already win this map >>": {
     "translation": "<< 你已经赢得了这张地图 >>",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "<< 你已经赢了这张地图 >>",
       "CN": "<< 你已经赢得了这张地图 >>",
-      "KR": "",
-      "TW": ""
+      "KR": "<< 당신이 이 맵을 이미赢得了 >>",
+      "TW": "您已赢得此地圖>>"
     }
   },
   "<< You only have 10 seconds >>": {
     "translation": "<< 你只有10秒 >>",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "<< あなたには10秒しかありません >>",
       "CN": "<< 你只有10秒 >>",
-      "KR": "",
-      "TW": ""
+      "KR": "<< 너에게는 chỉ 10 초만 주었다 >>",
+      "TW": ">>你只有10秒>>"
     }
   },
   "<< You only have 10 seconds to get to the end >>": {
     "translation": "<< 你只有10秒到达终点 >>",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "<< あなたは終了地点まで10秒で行かなければなりません >>",
       "CN": "<< 你只有10秒到达终点 >>",
-      "KR": "",
-      "TW": ""
+      "KR": "<< 당신은 끝까지 가는 데에仅为10秒的时间>>",
+      "TW": "<<你只有10秒鐘到達終點>>"
     }
   },
   "<< You only have 30 seconds >>": {
     "translation": "<< 你只有30秒 >>",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "<< あなたには30秒しかありません >>",
       "CN": "<< 你只有30秒 >>",
-      "KR": "",
-      "TW": ""
+      "KR": ">> bạn chỉ có 30 giây <<",
+      "TW": "<<你只有30秒>>"
     }
   },
   "<< You only have 60 seconds >>": {
     "translation": "<< 你只有60秒 >>",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "<< もっともあなたには60秒だけ >>",
       "CN": "<< 你只有60秒 >>",
-      "KR": "",
-      "TW": ""
+      "KR": "<< 당신은 60초밖에 없습니다 >>",
+      "TW": ">>你只剩下60秒<<"
     }
   },
   "<< You've already got all 6 secret letters >>": {
     "translation": "<< 你已经获得了所有6个秘密字母 >>",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "<< すでにすべての秘密文字を手に入れている >>",
       "CN": "<< 你已经获得了所有6个秘密字母 >>",
-      "KR": "",
-      "TW": ""
+      "KR": "<< 당신은 이미 모든 6개의 비밀 문자를 얻었습니다 >>",
+      "TW": "您已獲得所有6個秘密字母>>"
     }
   },
   "<< You've win all stage ??? >>": {
     "translation": "<< 你已经赢得所有关??? >>",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "<< 你已通关所有关卡 ??? >>",
       "CN": "<< 你已经赢得所有关??? >>",
-      "KR": "",
-      "TW": ""
+      "KR": "<< 네가 모든 스테이지에서 이겼다 ??? >>",
+      "TW": "<< 你已通关所有關卡 ??? >>"
     }
   },
   "<< a bridge appears >>": {
     "translation": "<< 一座桥出现了 >>",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "<< 橋が現れます >>",
       "CN": "<< 一座桥出现了 >>",
-      "KR": "",
-      "TW": ""
+      "KR": "【게임 관련 텍스트 번역이 완료되었습니다.】",
+      "TW": "<< 1座橋出現 >>"
     }
   },
   "<< a player has picked up wind >>": {
     "translation": "<< 一名玩家捡起了风 >>",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "<< プレイヤーが風を拾い上げた >>",
       "CN": "<< 一名玩家捡起了风 >>",
-      "KR": "",
-      "TW": ""
+      "KR": "<< 플레이어가 바람을 얻었습니다 >>",
+      "TW": "<< 1名玩家拾取了風 >>"
     }
   },
   "<< and also be careful about the wall on your back >>": {
     "translation": "<< 也要小心你身后的墙 >>",
     "MultiLang": {
-      "US": "",
-      "JP": "",
+      "US": ">> And also be careful about the wall behind you >>",
+      "JP": "<< そして後ろの壁にも注意を >>",
       "CN": "<< 也要小心你身后的墙 >>",
-      "KR": "",
-      "TW": ""
+      "KR": ">> 그리고 뒤의 벽에 대해서도 주의를 기울이세요 >>",
+      "TW": ">> 也要注意後方的牆壁 >>"
     }
   },
   "<< boss fight will begin in 10 seconds >>": {
     "translation": "<< Boss战将在10秒后开始 >>",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": ">> ボス戦は10秒後開始 >>",
       "CN": "<< Boss战将在10秒后开始 >>",
-      "KR": "",
+      "KR": "<< 보스전이 10초 후 시작됩니다 >>",
       "TW": ""
     }
   },
@@ -1113,9 +1113,9 @@
     "translation": "<< Boss被击败 >>",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "<<<ボスが倒された>>>",
       "CN": "<< Boss被击败 >>",
-      "KR": "",
+      "KR": "<<< 보스가 패배 >>>",
       "TW": ""
     }
   },
@@ -1123,110 +1123,110 @@
     "translation": "<< 爬到顶端并射击守卫，这样传送门才能激活 >>",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "<< 上まで登って警備員を射殺し、 Teleport を activater する >>",
       "CN": "<< 爬到顶端并射击守卫，这样传送门才能激活 >>",
-      "KR": "",
-      "TW": ""
+      "KR": "<< 위로 올라가 보호병을 사격하여 이동문자를 활성화할 수 있게 >>",
+      "TW": "<< 登頂射守護，以啟動傳送 >>"
     }
   },
   "<< defeat the boss >>": {
     "translation": "<< 击败Boss >>",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "<<ボスを倒す>>",
       "CN": "<< 击败Boss >>",
-      "KR": "",
-      "TW": ""
+      "KR": "<< 보스 물리č >>",
+      "TW": "<<擊敗BOSS >>"
     }
   },
   "<< defend for 10 seconds >>": {
     "translation": "<< 防守10秒 >>",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": ">> 10秒間防ぐ >>",
       "CN": "<< 防守10秒 >>",
-      "KR": "",
-      "TW": ""
+      "KR": "<< 10초간 방어하기 >>",
+      "TW": "<< 防守10秒 >>"
     }
   },
   "<< defend for 15 seconds >>": {
     "translation": "<< 防守15秒 >>",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": ">> 15秒間防禦 >>",
       "CN": "<< 防守15秒 >>",
-      "KR": "",
-      "TW": ""
+      "KR": ">> 15초간 방어 >>",
+      "TW": ">> 防守15秒 <<"
     }
   },
   "<< do not hear what I say? >>": {
     "translation": "<< 没听到我说什么吗? >>",
     "MultiLang": {
-      "US": "",
-      "JP": "",
+      "US": ">> Haven't heard what I said? >>",
+      "JP": "<<聞こえないのか？>>",
       "CN": "<< 没听到我说什么吗? >>",
-      "KR": "",
-      "TW": ""
+      "KR": "<< 들으지 못했나? >>",
+      "TW": ">> 沒有聽清我的話？>>"
     }
   },
   "<< dodge the laser !!! >>": {
     "translation": "<< 躲避跳刀!!! >>",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "<<  Laserを避けろ!! >>",
       "CN": "<< 躲避跳刀!!! >>",
-      "KR": "",
-      "TW": ""
+      "KR": "<<< 레이저를 피해 !!! >>>",
+      "TW": "<<閃避激光!!!>>"
     }
   },
   "<< hold for 15 seconds >>": {
     "translation": "<< 防守15秒 >>",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "<< 15秒間持続 >>",
       "CN": "<< 防守15秒 >>",
-      "KR": "",
-      "TW": ""
+      "KR": ">> 15초간_HOLD <<",
+      "TW": ">> 持續 15 秒 <<"
     }
   },
   "<< hold for 15 seconds until the guards permit us to go >>": {
     "translation": "<< 防守15秒直到守卫允许我们通过 >>",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "<< 15秒間ホールドし、警備員の許可まで待ちます >>",
       "CN": "<< 防守15秒直到守卫允许我们通过 >>",
-      "KR": "",
-      "TW": ""
+      "KR": "<< 15초간 지키세요直到守卫允许我们通行 >>",
+      "TW": "<< 持續15秒直到守衛允許我們通行 >>"
     }
   },
   "<< hold for 25 seconds >>": {
     "translation": "<< 防守25秒 >>",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": ">> 25秒間 HOLD >>",
       "CN": "<< 防守25秒 >>",
-      "KR": "",
-      "TW": ""
+      "KR": ">> 25초간 유지 >>",
+      "TW": ">> 持續 25 秒 <<"
     }
   },
   "<< hold for 30 seconds >>": {
     "translation": "<< 防守30秒 >>",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": ">> 30秒間 HOLD >>",
       "CN": "<< 防守30秒 >>",
-      "KR": "",
-      "TW": ""
+      "KR": ">> 30초간 유지 >>",
+      "TW": ">> 持續30秒 <<"
     }
   },
   "<< hold for 55 seconds >>": {
     "translation": "<< 防守55秒 >>",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "<< 55秒間 HOLD >>",
       "CN": "<< 防守55秒 >>",
-      "KR": "",
-      "TW": ""
+      "KR": ">> 55초간 유지 >>",
+      "TW": ">> 持續 55 秒 <<"
     }
   },
   "<< human teleported >>": {
@@ -1235,38 +1235,38 @@
       "US": "",
       "JP": "",
       "CN": "<< 人类已传送 >>",
-      "KR": "",
-      "TW": ""
+      "KR": "<< 인간이 텔레포트했다 >>",
+      "TW": "<< 人类瞬移 >>"
     }
   },
   "<< map by Misaka >>": {
     "translation": "<< 地图由Misaka制作 翻译：Asteri3m X社区>>",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": ">> 地図由Misaka制作 <<",
       "CN": "<< 地图由Misaka制作 翻译：Asteri3m X社区>>",
-      "KR": "",
-      "TW": ""
+      "KR": "<< 맵由Misaka制作 >>",
+      "TW": "<< 地圖由Misaka绘制 >>"
     }
   },
   "<< more laser is coming !!! >>": {
     "translation": "<< 更多跳刀来了!!! >>",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "<< 更多激光正在来袭！！！ >>",
       "CN": "<< 更多跳刀来了!!! >>",
-      "KR": "",
-      "TW": ""
+      "KR": "<< 더 많은 레이저가 오고 있！\", >>",
+      "TW": "<< 更多激光正在來臨!!! >>"
     }
   },
   "<< special thanks to koyomaple, Excarliber and gneL >>": {
     "translation": "<< 特别感谢koyomaple、Excarliber和gneL >>",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "<< 特别感谢 koyomaple, Excarliber 和 gneL >>",
       "CN": "<< 特别感谢koyomaple、Excarliber和gneL >>",
-      "KR": "",
-      "TW": ""
+      "KR": "<< 특별히 koyomaple, Excarliber 및 gneL에게 감사의 인사를 전합니다 >>",
+      "TW": "<< 特別感謝 koyomaple, Excarliber 和 gneL >>"
     }
   },
   "<< teleport will be enabled in 10 seconds >>": {
@@ -1275,208 +1275,208 @@
       "US": "",
       "JP": "",
       "CN": "<< 传送将在10秒内启用 >>",
-      "KR": "",
-      "TW": ""
+      "KR": "<< 테ЛЕПОсTRICO将在10秒后启用 >>",
+      "TW": "<< teleport 將於 10 秒後啟用 >>"
     }
   },
   "<< teleport will be enabled in 20 seconds >>": {
     "translation": "<< 传送将在20秒内启用 >>",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "<< テレポートは20秒後に有効になります >>",
       "CN": "<< 传送将在20秒内启用 >>",
-      "KR": "",
-      "TW": ""
+      "KR": "<< 텔레포트가 20초 후에 사용 가능해집니다 >>",
+      "TW": "<< teleport 將於 20 秒後啟用 >>"
     }
   },
   "<< teleport will enable in 20 seconds >>": {
     "translation": "<< 传送将在20秒后启用 >>",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "<< テレポートは20秒後に有効になります >>",
       "CN": "<< 传送将在20秒后启用 >>",
       "KR": "",
-      "TW": ""
+      "TW": "<< 特徵將在20秒後啟用 >>"
     }
   },
   "<< teleport will enable in 40 seconds >>": {
     "translation": "<< 传送将在40秒后启用 >>",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "<< テレポートは40秒後に有効になります >>",
       "CN": "<< 传送将在40秒后启用 >>",
-      "KR": "",
-      "TW": ""
+      "KR": "<< 텔레포트将在40秒后启用 >>",
+      "TW": "<< teleport 將於 40 秒後啟用 >>"
     }
   },
   "<< the fence will disappear in 20 seconds >>": {
     "translation": "<< 围栏将在20秒内消失 >>",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "<< 塁は20秒後に消滅する >>",
       "CN": "<< 围栏将在20秒内消失 >>",
-      "KR": "",
-      "TW": ""
+      "KR": ">>补贴将在20秒后消失<<",
+      "TW": "<< 围欄將在20秒後消失 >>"
     }
   },
   "<< the final door will open in 30 seconds >>": {
     "translation": "<< 最后的门将在30秒内打开 >>",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "最終的な扉は30秒後に開きます >>",
       "CN": "<< 最后的门将在30秒内打开 >>",
-      "KR": "",
-      "TW": ""
+      "KR": "<< 마지막 문이 열리는 시간은 30초 남았습니다 >>",
+      "TW": ">>最後的門将在30秒後打開<<"
     }
   },
   "<< the final platform will move in 3 seconds >>": {
     "translation": "<< 最后的平台将在3秒内移动 >>",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "<< 最終 Platforms 将在 3 秒后移动 >>",
       "CN": "<< 最后的平台将在3秒内移动 >>",
-      "KR": "",
-      "TW": ""
+      "KR": "<< 최종 플랫폼은 3초 후에 움직입니다 >>",
+      "TW": "<< 最後1平台將於3秒後移動 >>"
     }
   },
   "<< the front wall will disappear in 15 seconds >>": {
     "translation": "<< 前墙将在15秒内消失 >>",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": ">> 前の壁は15秒後に消失 >>",
       "CN": "<< 前墙将在15秒内消失 >>",
-      "KR": "",
-      "TW": ""
+      "KR": "<< 전면 벽이 15초 후에 사라집니다 >>",
+      "TW": ">> 前牆將在15秒後消失 >>"
     }
   },
   "<< the glass wall will break in 15 seconds >>": {
     "translation": "<< 玻璃墙将在15秒内破裂 >>",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "<< ガラスの壁は15秒後に破れる >>",
       "CN": "<< 玻璃墙将在15秒内破裂 >>",
-      "KR": "",
-      "TW": ""
+      "KR": ">> 유리 벽은 15초 후에 깨질 것입니다 >>",
+      "TW": "<< 這個玻璃牆將在15秒後破壞 >>"
     }
   },
   "<< the guard will disappear in 25 seconds >>": {
     "translation": "<< 守卫将在25秒内消失 >>",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "<< 守卫将在25秒后消失 >>",
       "CN": "<< 守卫将在25秒内消失 >>",
-      "KR": "",
-      "TW": ""
+      "KR": ">> 경卫将在25秒后消失 >>",
+      "TW": ">> 這-guard 將在 25 秒後消失 >>"
     }
   },
   "<< the guard will disappear in 30 seconds >>": {
     "translation": "<< 守卫将在30秒内消失 >>",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": ">> 守備は30秒後に消滅 >>",
       "CN": "<< 守卫将在30秒内消失 >>",
-      "KR": "",
-      "TW": ""
+      "KR": "<< 지eguard는 30초 후에 사라집니다 >>",
+      "TW": ">> 這守衛將在30秒後消失 >>"
     }
   },
   "<< the ladder is able to climb >>": {
     "translation": "<< 梯子可以攀爬 >>",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "<< 梯子能够攀登 >>",
       "CN": "<< 梯子可以攀爬 >>",
-      "KR": "",
-      "TW": ""
+      "KR": ">> 계단은 오를 수 있습니다 <<",
+      "TW": "<< 梯子能夠攀爬 >>"
     }
   },
   "<< the platform will move again in 10 seconds >>": {
     "translation": "<< 平台将在10秒内再次移动 >>",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "<< プラットフォームは10秒後に再移動します >>",
       "CN": "<< 平台将在10秒内再次移动 >>",
-      "KR": "",
-      "TW": ""
+      "KR": ">> 플랫폼은 10초 후에 다시 움직입니다 >>",
+      "TW": "<< 平台將再過10秒移動再次 >>"
     }
   },
   "<< the platform will move in 15 seconds >>": {
     "translation": "<< 平台将在15秒内移动 >>",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "<< プラットフォームは15秒後に動きます >>",
       "CN": "<< 平台将在15秒内移动 >>",
-      "KR": "",
-      "TW": ""
+      "KR": "<< 플랫폼이 15초 후에 움직일 것입니다 >>",
+      "TW": "<< 平台將在15秒後移動 >>"
     }
   },
   "<< the platform will rise in 15 seconds >>": {
     "translation": "<< 平台将在15秒内上升 >>",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "<< プラットフォームは15秒後に昇ります >>",
       "CN": "<< 平台将在15秒内上升 >>",
-      "KR": "",
-      "TW": ""
+      "KR": "<< 플랫폼은 15초 후에 오르게 될 것입니다 >>",
+      "TW": ">> 平台將在15秒後上升 >>"
     }
   },
   "<< the teleport will enable in 30 seconds >>": {
     "translation": "<< 传送将在30秒内启用 >>",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "<< テレポが5秒後に启用 >>",
       "CN": "<< 传送将在30秒内启用 >>",
-      "KR": "",
-      "TW": ""
+      "KR": "<< 텔레포트는 30초 후에 사용 가능합니다 >>",
+      "TW": ">> 傳送將於30秒後啟用 >>"
     }
   },
   "<< the wall will break in 25 seconds >>": {
     "translation": "<< 墙会在25秒内破裂 >>",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "<< 壁は25秒後に崩れる >>",
       "CN": "<< 墙会在25秒内破裂 >>",
-      "KR": "",
-      "TW": ""
+      "KR": "<<(벽은 25초 후에 무너집니다)>>",
+      "TW": "]<< 壁牆將在25秒後崩塌 >>"
     }
   },
   "<< the wall will break in 30 seconds >>": {
     "translation": "<< 墙会在30秒内破裂 >>",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "<< 壁は30秒後に崩れる >>",
       "CN": "<< 墙会在30秒内破裂 >>",
-      "KR": "",
-      "TW": ""
+      "KR": ">> 벽은 30초 후에 깨질 것이다 >>",
+      "TW": ">> 墙将在30秒后崩塌 >>"
     }
   },
   "<< the wall will disappear in 30 seconds >>": {
     "translation": "<< 墙会在30秒内消失 >>",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "<< 壁壁が30秒後に消滅する >>",
       "CN": "<< 墙会在30秒内消失 >>",
-      "KR": "",
-      "TW": ""
+      "KR": "<< 벽은 30초 후에 사라집니다 >>",
+      "TW": ">> 墙将在30秒后消失 >>"
     }
   },
   "<< the way will be able to pass in 15 seconds >>": {
     "translation": "<< 路将在15秒内通过 >>",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "<< 15秒後に通れるようになります >>",
       "CN": "<< 路将在15秒内通过 >>",
-      "KR": "",
-      "TW": ""
+      "KR": "<< 15초 후에 통과 가능 >>",
+      "TW": "<< 15秒後即可通行 >>"
     }
   },
   "<< the way will be able to pass in 25 seconds >>": {
     "translation": "<< 路将在25秒内通过 >>",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": ">> 25秒後通行可能 >>",
       "CN": "<< 路将在25秒内通过 >>",
-      "KR": "",
-      "TW": ""
+      "KR": "<< 25초 후에 통과할 수 있을 것 >>",
+      "TW": "<< 25秒後可以通行 >>"
     }
   },
   "<< try to find another end of Stage 3 >>": {
@@ -1486,26 +1486,26 @@
       "JP": "",
       "CN": "<< 尝试找到第三关的另一个结局 >>",
       "KR": "",
-      "TW": ""
+      "TW": "<< 尋找第3關的另1個終點 >>"
     }
   },
   "<< up and down !!! >>": {
     "translation": "<< 上下移动!!! >>",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "<< 上下！！！ >>",
       "CN": "<< 上下移动!!! >>",
-      "KR": "",
-      "TW": ""
+      "KR": "<<< 위 아래 !! >>>",
+      "TW": "<< 上下!!! >>"
     }
   },
   "<< wait ...... something may happen ...... >>": {
     "translation": "<< 等等......可能会发生一些事情...... >>",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "<< 待って......何か起こるかもしれない...... >>",
       "CN": "<< 等等......可能会发生一些事情...... >>",
-      "KR": "",
+      "KR": "<< 기다리고......Something may happen...... >>",
       "TW": ""
     }
   },
@@ -1513,89 +1513,89 @@
     "translation": "<< 等一下 >>",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": ">> 一息入れて >>",
       "CN": "<< 等一下 >>",
-      "KR": "",
-      "TW": ""
+      "KR": "<< 잠시 기다려주세요 >>",
+      "TW": "<< 等1等 >>"
     }
   },
   "<< we can go inside the room in 20 seconds >>": {
     "translation": "<< 我们可以在20秒内进入房间 >>",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "<< 我们在20秒后可以进去房间 >>",
       "CN": "<< 我们可以在20秒内进入房间 >>",
-      "KR": "",
-      "TW": ""
+      "KR": "<< 우리는 20초 후에 방으로 들어갈 수 있습니다 >>",
+      "TW": "<< 我们可以在20秒後進房間 >>"
     }
   },
   "<< we can go into the tower in 35 seconds >>": {
     "translation": "<< 我们可以在35秒内进入塔 >>",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "<< 我们可以在35秒后进入塔内 >>",
       "CN": "<< 我们可以在35秒内进入塔 >>",
-      "KR": "",
-      "TW": ""
+      "KR": "<< 우리는 35초 후에 탑으로 들어갈 수 있습니다 >>",
+      "TW": "<< 我們可以在35秒後進入塔內 >>"
     }
   },
   "<< we can reach the top in 50 seconds >>": {
     "translation": "<< 我们可以在50秒内到达顶部 >>",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "<< 我们可以在50秒内到达顶端 >>",
       "CN": "<< 我们可以在50秒内到达顶部 >>",
-      "KR": "",
-      "TW": ""
+      "KR": "<< 우리는 50초以内可以达到顶端 >>",
+      "TW": "<< 我們可以在50秒內到達頂端 >>"
     }
   },
   "<< we need to find a way to go on >>": {
     "translation": "<< 我们需要找到继续前进的路 >>",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "<< 我们需要找到前进的方法 >>",
       "CN": "<< 我们需要找到继续前进的路 >>",
-      "KR": "",
-      "TW": ""
+      "KR": "<<我们需要找到前进的方法>>",
+      "TW": "我们需要找1個辦法繼續前行>>"
     }
   },
   "<< we need to wait the platform for 25 seconds >>": {
     "translation": "<< 我们需要等待平台25秒 >>",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "<< 我们需要等待平台25秒 >>",
       "CN": "<< 我们需要等待平台25秒 >>",
-      "KR": "",
-      "TW": ""
+      "KR": "<< 우리는 플랫폼이 25초后再行动 >>",
+      "TW": "<< 我們需要等待プラットフォーム 25 秒 >>"
     }
   },
   "<< zombie teleported >>": {
     "translation": "<< 僵尸已传送 >>",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "<<ゾンビが teleportationした>>",
       "CN": "<< 僵尸已传送 >>",
-      "KR": "",
-      "TW": ""
+      "KR": "<< 블리자드 텔레포트 >>",
+      "TW": "<<殭屍 TELEPORTED >>"
     }
   },
   "<< zombie will be teleported soon >>": {
     "translation": "<< 僵尸很快将被传送 >>",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "<< ゾンビは Soon にテレポーティングされる >>",
       "CN": "<< 僵尸很快将被传送 >>",
-      "KR": "",
-      "TW": ""
+      "KR": "<< 将很快被传送 >>",
+      "TW": "<<殭屍將會即刻傳送>>"
     }
   },
   "<< zombie will come in 5 seconds >>": {
     "translation": "<< 僵尸将在5秒内出现 >>",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "<< ゾンビは5秒後に来ます >>",
       "CN": "<< 僵尸将在5秒内出现 >>",
-      "KR": "",
+      "KR": "<< 블록미터를 5초 후에 와 }}\"></code>",
       "TW": ""
     }
   },
@@ -1603,9 +1603,9 @@
     "translation": "<< 僵尸将在10秒内释放 >>",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "<<ゾンビは10秒後に放出される>>",
       "CN": "<< 僵尸将在10秒内释放 >>",
-      "KR": "",
+      "KR": "<< 블로그将在10秒后释放 >>",
       "TW": ""
     }
   },
@@ -1613,80 +1613,80 @@
     "translation": "<< 僵尸很快将释放 >>",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "<<ゾンビは近日発売予定>>",
       "CN": "<< 僵尸很快将释放 >>",
-      "KR": "",
-      "TW": ""
+      "KR": "<< 블리즈케이스는 곧 출시될 예정입니다 >>",
+      "TW": ">> 愛滋將即時釋放 >>"
     }
   },
   "<< zombie will teleport in 10 seconds >>": {
     "translation": "<< 僵尸将在10秒内传送 >>",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "<< ゾンビは10秒後にテレポートする >>",
       "CN": "<< 僵尸将在10秒内传送 >>",
-      "KR": "",
-      "TW": ""
+      "KR": "<<< 장아지가 10초 후에 텔레포트將会发生)>>",
+      "TW": "<<殭屍將於10秒後 TELEPORT 出現 >>"
     }
   },
   "<< zombie will teleport in 20 seconds >>": {
     "translation": "<< 僵尸将在20秒内传送 >>",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "<<ゾンビは20秒後にテレポートする>>",
       "CN": "<< 僵尸将在20秒内传送 >>",
-      "KR": "",
-      "TW": ""
+      "KR": "<<< 좀비가 20초 후에 teleport할 예정입니다 >>>",
+      "TW": "<< zombies 將於 20 秒後傳送到 >>"
     }
   },
   "<< 调关房传送按钮已解锁 >>": {
     "translation": "<< 调关房传送按钮已解锁 >>",
     "MultiLang": {
-      "US": "",
-      "JP": "",
+      "US": "<< Level Adjustment Room Teleport Button Unlocked >>",
+      "JP": "<< 調關房傳送按鈕已解鎖 >>",
       "CN": "<< 调关房传送按钮已解锁 >>",
-      "KR": "",
-      "TW": ""
+      "KR": "<< 조정방 전송 버튼이 잠금 해제됨 >>",
+      "TW": "調關房傳送按鈕已解鎖 >>"
     }
   },
   "<<You only have 25 seconds to get to the end >>": {
     "translation": "<< 你只有25秒到达终点 >>",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "<<あなたには終了まで25秒しか時間がない>>",
       "CN": "<< 你只有25秒到达终点 >>",
-      "KR": "",
-      "TW": ""
+      "KR": "<<당신은 종료까지 25초밖에 없습니다 >>",
+      "TW": "<<你只有25秒到達終點 >>"
     }
   },
   "** Something may happen in 20 seconds... ** ": {
     "translation": "** 20秒内可能会发生一些事情... **",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "*** 20秒後に何かが起こるかもしれません... ***",
       "CN": "** 20秒内可能会发生一些事情... **",
-      "KR": "",
-      "TW": ""
+      "KR": "*** 20초 후에Something may happen... ***",
+      "TW": "*** 20秒後可能發生某些事情... ***"
     }
   },
   "<< 神器治疗已被禁用 >>": {
     "translation": "",
     "MultiLang": {
-      "US": "",
-      "JP": "",
+      "US": ">> Divine Treatment Has Been Disabled <<",
+      "JP": ">> 神器治療が禁止されています <<",
       "CN": "",
       "KR": "",
-      "TW": ""
+      "TW": ">> 神器治療已禁用 <<"
     }
   },
   "<< Next round will be INSANE II >>": {
     "translation": "",
     "MultiLang": {
       "US": "",
-      "JP": "",
-      "CN": "",
-      "KR": "",
-      "TW": ""
+      "JP": "<< 次回はINSANE II >>",
+      "CN": "<< 下1关将是INSANE II >>",
+      "KR": "<< 다음 라운드는 INSANE II将成为超乎想象的挑战 >>",
+      "TW": "<< 下1輪將是INSANE II >>"
     }
   }
 }

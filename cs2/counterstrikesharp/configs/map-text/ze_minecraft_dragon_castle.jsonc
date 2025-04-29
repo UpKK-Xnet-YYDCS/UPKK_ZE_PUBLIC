@@ -3,20 +3,20 @@
     "translation": "### 幽灵BOSS ###",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "### 鬼ボス ###",
       "CN": "### 幽灵BOSS ###",
-      "KR": "",
-      "TW": ""
+      "KR": "### 유령 보스 ###",
+      "TW": "### 鬼王 ###"
     }
   },
   "###  LASER ACTIVATED ###": {
     "translation": "### 跳刀已激活 ###",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "### レーザー起動 ###",
       "CN": "### 跳刀已激活 ###",
-      "KR": "",
-      "TW": ""
+      "KR": "### 레이저 활성화 ###",
+      "TW": "### 激光啟動 ###"
     }
   },
   "### ADMIN ROOM - SET LVL - 1 ###": {
@@ -25,8 +25,8 @@
       "US": "",
       "JP": "",
       "CN": "### 调关房 - 设置关卡 - 1 ###",
-      "KR": "",
-      "TW": ""
+      "KR": "### 관리자실 - 설정 레벨 - 1 ###",
+      "TW": "### 管理員房間 - 設定等級 - 1 ###"
     }
   },
   "### ADMIN ROOM - SET LVL - 2 ###": {
@@ -36,7 +36,7 @@
       "JP": "",
       "CN": "### 调关房 - 设置关卡 - 2 ###",
       "KR": "",
-      "TW": ""
+      "TW": "### 管理員房間 - 設定等級 - 2 ###"
     }
   },
   "### ADMIN ROOM - SET LVL - 3 ###": {
@@ -45,8 +45,8 @@
       "US": "",
       "JP": "",
       "CN": "### 调关房 - 设置关卡 - 3 ###",
-      "KR": "",
-      "TW": ""
+      "KR": "### 관리자 방 - 레벨 설정 - 3 ###",
+      "TW": "### 管理員房 - 設定等級 - 3 ###"
     }
   },
   "### ADMIN ROOM - SET LVL - 4 ###": {
@@ -56,7 +56,7 @@
       "JP": "",
       "CN": "### 调关房 - 设置关卡 - 4 ###",
       "KR": "",
-      "TW": ""
+      "TW": "### 管理員房間 - 設定等級 - 4 ###"
     }
   },
   "### ADMIN ROOM - SET LVL - 5 ###": {
@@ -65,18 +65,18 @@
       "US": "",
       "JP": "",
       "CN": "### 调关房 - 设置关卡 - 5 ###",
-      "KR": "",
-      "TW": ""
+      "KR": "### 관리자실 - SET LVL - 5 ###",
+      "TW": "### 管理員房 - 設定等級 - 5 ###"
     }
   },
   "### LEVEL 1 ###": {
     "translation": "### 关卡 1 ###",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "### レベル 1 ###",
       "CN": "### 关卡 1 ###",
-      "KR": "",
-      "TW": ""
+      "KR": "### 레벨 1 ###",
+      "TW": "### 第1層 ###"
     }
   },
   "### LEVEL 2 ###": {
@@ -85,27 +85,27 @@
       "US": "",
       "JP": "",
       "CN": "### 关卡 2 ###",
-      "KR": "",
-      "TW": ""
+      "KR": "### 레벨 2 ###",
+      "TW": "### 層次 2 ###"
     }
   },
   "### LEVEL 3 ###": {
     "translation": "### 关卡 3 ###",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "### レベル 3 ###",
       "CN": "### 关卡 3 ###",
-      "KR": "",
-      "TW": ""
+      "KR": "### 레벨 3 ###",
+      "TW": "### 第3層 ###"
     }
   },
   "### LEVEL 4 ###": {
     "translation": "### 关卡 4 ###",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "### 極限4 ###",
       "CN": "### 关卡 4 ###",
-      "KR": "",
+      "KR": "### 레벨 4 ###",
       "TW": ""
     }
   },
@@ -115,8 +115,8 @@
       "US": "",
       "JP": "",
       "CN": "### 关卡 5 ###",
-      "KR": "",
-      "TW": ""
+      "KR": "### 레벨 5 ###",
+      "TW": "### 第5層 ###"
     }
   },
   "* COBWEB - 60 sec cooldown *": {
@@ -125,7 +125,7 @@
       "US": "",
       "JP": "",
       "CN": "* 蜘蛛网 - 冷却时间 60 *",
-      "KR": "",
+      "KR": "*cobweb - 60 sec cooldown *",
       "TW": ""
     }
   },
@@ -145,7 +145,7 @@
       "US": "",
       "JP": "",
       "CN": "* 奶 - 冷却时间 50 *",
-      "KR": "",
+      "KR": "*[회복총] -_CD 50sec_*",
       "TW": ""
     }
   },
@@ -155,7 +155,7 @@
       "US": "",
       "JP": "",
       "CN": "* 墙 - 冷却时间 80 *",
-      "KR": "",
+      "KR": "* 벽machine gun - 80 sec 쿨다운 *",
       "TW": ""
     }
   },
@@ -166,7 +166,7 @@
       "JP": "",
       "CN": "** 监守者来袭 **",
       "KR": "",
-      "TW": ""
+      "TW": "** 監守來臨 **"
     }
   },
   "1!": {
@@ -233,10 +233,10 @@
     "translation": "<<< 末影龙BOSS >>>",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "<<< 龙 Boss >>>",
       "CN": "<<< 末影龙BOSS >>>",
-      "KR": "",
-      "TW": ""
+      "KR": "<<< 드래곤 보스 >>>",
+      "TW": "<<< 龍頭BOSS >>>"
     }
   },
   "<<< HUMAN WIN >>>": {
@@ -245,17 +245,17 @@
       "US": "",
       "JP": "",
       "CN": "<<< 人类胜利 >>>",
-      "KR": "",
-      "TW": ""
+      "KR": "<<< 인류 승리 >>>",
+      "TW": "<<< 人形勝利 >>>"
     }
   },
   "<<< LASER ACTIVATED >>>": {
     "translation": "<<< 跳刀已激活 >>>",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "<<< レーザーactivatedRoute >>>",
       "CN": "<<< 跳刀已激活 >>>",
-      "KR": "",
+      "KR": "<<< 레이저 활성화 >>>",
       "TW": ""
     }
   },
@@ -263,10 +263,10 @@
     "translation": "<<< 地图结束 >>>",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "<<< マップオーバー >>>",
       "CN": "<<< 地图结束 >>>",
-      "KR": "",
-      "TW": ""
+      "KR": "<<< 맵 오버 >>>",
+      "TW": "<<< 地圖結束 >>>"
     }
   },
   "<<< OPEN >>>": {
@@ -283,9 +283,9 @@
     "translation": "<<< 快远离火焰！ >>>",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "<<<火から逃げて!! >>>",
       "CN": "<<< 快远离火焰！ >>>",
-      "KR": "",
+      "KR": "<<< 불에서 도망치세요! >>>",
       "TW": ""
     }
   },
@@ -293,19 +293,19 @@
     "translation": "<<< 僵尸门已打开 >>>",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "<<< ZM Door Open >>>",
       "CN": "<<< 僵尸门已打开 >>>",
-      "KR": "",
-      "TW": ""
+      "KR": "<<< ZM 문 열림 >>>",
+      "TW": "<<< ZM 門開 >>>()"
     }
   },
   "<<< ZOMBIE WAY OPENING >>>": {
     "translation": "<<< 僵尸路开启 >>>",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "<<<ゾンビウェイオープン>>>",
       "CN": "<<< 僵尸路开启 >>>",
-      "KR": "",
+      "KR": "<<< 좀비_way 오픈 >>>",
       "TW": ""
     }
   },
@@ -313,20 +313,20 @@
     "translation": ">>> 人类胜利 <<<",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": ">>> 人類勝利 <<<",
       "CN": ">>> 人类胜利 <<<",
-      "KR": "",
-      "TW": ""
+      "KR": ">>> 인간 승리 <<<",
+      "TW": ">>> 人類勝利 <<<"
     }
   },
   "BOSS DOOR CLOSED!": {
     "translation": "BOSS门已关闭！",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "ボスドア閉鎖！",
       "CN": "BOSS门已关闭！",
-      "KR": "",
-      "TW": ""
+      "KR": "BOSS 문이 닫혔습니다!",
+      "TW": "BOSS 門關上了！"
     }
   },
   "BOSS DOOR CLOSING 10 SEC!": {
@@ -336,36 +336,36 @@
       "JP": "",
       "CN": "BOSS门将在10秒后关闭！",
       "KR": "",
-      "TW": ""
+      "TW": "BOSS 门关闭倒計時 10 秒！"
     }
   },
   "BOSS DOOR OPEN!": {
     "translation": "BOSS门已打开！",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "ボス Doors OPEN!",
       "CN": "BOSS门已打开！",
-      "KR": "",
-      "TW": ""
+      "KR": "BOSS 문이 열렸습니다!",
+      "TW": "BOSS 门開啟！"
     }
   },
   "BOSS DOOR OPEN! GO!": {
     "translation": "BOSS门已打开！快跑！",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "ボスドア開く！行け！",
       "CN": "BOSS门已打开！快跑！",
-      "KR": "",
-      "TW": ""
+      "KR": "BOSS 문 열렸다! 가라!",
+      "TW": "BOSS 門 开了！去吧！"
     }
   },
   "BOSS OVER !!": {
     "translation": "BOSS结束！！",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "ボスオーバー!!",
       "CN": "BOSS结束！！",
-      "KR": "",
+      "KR": "보스_DOWN!!",
       "TW": ""
     }
   },
@@ -373,9 +373,9 @@
     "translation": "屏障破裂！",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "バリアブレイク！",
       "CN": "屏障破裂！",
-      "KR": "",
+      "KR": "_barrier_break_!",
       "TW": ""
     }
   },
@@ -385,7 +385,7 @@
       "US": "",
       "JP": "",
       "CN": "屏障破裂！快跑！",
-      "KR": "",
+      "KR": "장벽 뚫어 ! 가.go!",
       "TW": ""
     }
   },
@@ -395,7 +395,7 @@
       "US": "",
       "JP": "",
       "CN": "屏障破裂！前往BOSS房！",
-      "KR": "",
+      "KR": "장벽 breeak ! GO 보스 지역 !",
       "TW": ""
     }
   },
@@ -403,20 +403,20 @@
     "translation": "屏障破裂！快跑！",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "バリアブレイク！GO!",
       "CN": "屏障破裂！快跑！",
-      "KR": "",
-      "TW": ""
+      "KR": "-barrier break! go!",
+      "TW": "障礙突破！GO!"
     }
   },
   "Barrier Break!": {
     "translation": "屏障破裂！",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "バリア破壊！",
       "CN": "屏障破裂！",
       "KR": "",
-      "TW": ""
+      "TW": "障礙突破！"
     }
   },
   "Barrier Break! GO BACK!": {
@@ -425,7 +425,7 @@
       "US": "",
       "JP": "",
       "CN": "屏障破裂！退后！",
-      "KR": "",
+      "KR": "장벽 깨부수기!GO BACK!",
       "TW": ""
     }
   },
@@ -433,19 +433,19 @@
     "translation": "屏障破裂！快跑！",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "バリアブレイク！GO!",
       "CN": "屏障破裂！快跑！",
       "KR": "",
-      "TW": ""
+      "TW": "障礙突破！GO!"
     }
   },
   "Barrier break ! GO !": {
     "translation": "屏障破裂！跑！",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "バリアブレイク！GO！",
       "CN": "屏障破裂！跑！",
-      "KR": "",
+      "KR": "장벽 깨부수기! GO!",
       "TW": ""
     }
   },
@@ -463,59 +463,59 @@
     "translation": "屏障破裂！退后！",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "バリア破壊！GO BACK !",
       "CN": "屏障破裂！退后！",
-      "KR": "",
-      "TW": ""
+      "KR": "장벽 깨지! GO BACK!",
+      "TW": "障礙突破！GO BACK !"
     }
   },
   "Dont Defend ! RUN": {
     "translation": "不要防守！快跑！",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "防げない！RUN",
       "CN": "不要防守！快跑！",
       "KR": "",
-      "TW": ""
+      "TW": "不要防守！RUN"
     }
   },
   "Door OPEN! GO!": {
     "translation": "门开了！快跑！",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "ドアOPEN！GO!",
       "CN": "门开了！快跑！",
-      "KR": "",
-      "TW": ""
+      "KR": "문 열렸다! 가라!",
+      "TW": "門OPEN! GO!"
     }
   },
   "Door Open ! GO": {
     "translation": "门开了！快跑！",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "ドア開く！GO!",
       "CN": "门开了！快跑！",
-      "KR": "",
-      "TW": ""
+      "KR": "문 열리다! 가기!",
+      "TW": "門開！GO！"
     }
   },
   "Door Open ! GO!": {
     "translation": "门开了！快跑！",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "ドア開く！GO!",
       "CN": "门开了！快跑！",
-      "KR": "",
-      "TW": ""
+      "KR": "문 열리다! 가기!",
+      "TW": "門開！GO!"
     }
   },
   "Door Open !GO": {
     "translation": "门开了！快跑！",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "ドア開く！GO",
       "CN": "门开了！快跑！",
-      "KR": "",
+      "KR": "문 열어! GO",
       "TW": ""
     }
   },
@@ -523,40 +523,40 @@
     "translation": "门开了！",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "ドア開く！",
       "CN": "门开了！",
-      "KR": "",
-      "TW": ""
+      "KR": "문 열리다!",
+      "TW": "門開了！"
     }
   },
   "Door Open! GO": {
     "translation": "门开了！快跑！",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "ドア開け！GO",
       "CN": "门开了！快跑！",
-      "KR": "",
-      "TW": ""
+      "KR": "문 열리다! GO",
+      "TW": "門開！GO"
     }
   },
   "Door Open! GO !": {
     "translation": "门开了！快跑！",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "ドア開く！GO！",
       "CN": "门开了！快跑！",
-      "KR": "",
-      "TW": ""
+      "KR": "문 열리다! 가세요!",
+      "TW": "門開！GO！"
     }
   },
   "Doors Open!": {
     "translation": "门已打开！",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "ドア開く！",
       "CN": "门已打开！",
-      "KR": "",
-      "TW": ""
+      "KR": "문 열리다!",
+      "TW": "門開了！"
     }
   },
   "FINAL DOOR CLOSING": {
@@ -565,8 +565,8 @@
       "US": "",
       "JP": "",
       "CN": "最终门即将关闭！",
-      "KR": "",
-      "TW": ""
+      "KR": "최종 문이 닫히고 있습니다",
+      "TW": "最終門關閉"
     }
   },
   "FINAL DOOR CLOSING 10 SEC!": {
@@ -575,7 +575,7 @@
       "US": "",
       "JP": "",
       "CN": "最终门将在10秒后关闭！",
-      "KR": "",
+      "KR": "최종 문 닫히는 중 10SEC!",
       "TW": ""
     }
   },
@@ -585,7 +585,7 @@
       "US": "",
       "JP": "",
       "CN": "最终门将在10秒后关闭！！",
-      "KR": "",
+      "KR": "최종 문 닫히는 중 10SEC!!",
       "TW": ""
     }
   },
@@ -595,7 +595,7 @@
       "US": "",
       "JP": "",
       "CN": "最终门将在5秒后关闭！",
-      "KR": "",
+      "KR": "최종 문이 닫히는 중 5SEC!",
       "TW": ""
     }
   },
@@ -605,7 +605,7 @@
       "US": "",
       "JP": "",
       "CN": "最终门开了！",
-      "KR": "",
+      "KR": "최종 문열림",
       "TW": ""
     }
   },
@@ -615,7 +615,7 @@
       "US": "",
       "JP": "",
       "CN": "最终门开了！快跑！",
-      "KR": "",
+      "KR": "최종 문열리다! 가라",
       "TW": ""
     }
   },
@@ -625,7 +625,7 @@
       "US": "",
       "JP": "",
       "CN": "最终门正在打开！",
-      "KR": "",
+      "KR": "최종 문열림!",
       "TW": ""
     }
   },
@@ -635,28 +635,28 @@
       "US": "",
       "JP": "",
       "CN": "火已激活！",
-      "KR": "",
-      "TW": ""
+      "KR": "화염 활성화 !",
+      "TW": "火<<(激活)>>！"
     }
   },
   "HUMAN WIN !!!": {
     "translation": "人类胜利！！！",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "ヒューマン勝利!!!",
       "CN": "人类胜利！！！",
-      "KR": "",
-      "TW": ""
+      "KR": "인간 승리 !!!",
+      "TW": "人類勝利!!!"
     }
   },
   "I THINK HE A LITTLE ANGRY !!": {
     "translation": "我觉得他有点生气了！！",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "私は彼が少し怒っている気がする!!",
       "CN": "我觉得他有点生气了！！",
-      "KR": "",
-      "TW": ""
+      "KR": "저는 그가 약간 분노하고 있는 것 같아!!",
+      "TW": "我認為他有點生氣!!"
     }
   },
   "LOOK UP !": {
@@ -673,210 +673,210 @@
     "translation": "最后10秒！退后！",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "最後10秒！元に戻れ！",
       "CN": "最后10秒！退后！",
-      "KR": "",
-      "TW": ""
+      "KR": "최후의 10sec! GO BACK!",
+      "TW": "最後 10 秒！退回來！"
     }
   },
   "Last 10 sec! back!": {
     "translation": "最后10秒！退后！",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "最後10秒！戻り)!",
       "CN": "最后10秒！退后！",
-      "KR": "",
-      "TW": ""
+      "KR": "최후의 10sec! 돌아와!",
+      "TW": "最後 10 秒！退回！"
     }
   },
   "Last 10 sec! go back": {
     "translation": "最后10秒！退后！",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "最後10秒！戻る",
       "CN": "最后10秒！退后！",
-      "KR": "",
-      "TW": ""
+      "KR": "최후의 10sec! 후퇴해!",
+      "TW": "最後 10 秒！回去"
     }
   },
   "Last 10 sec! go back !": {
     "translation": "最后10秒！退后！",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "最後10秒！戻りなさい！",
       "CN": "最后10秒！退后！",
-      "KR": "",
-      "TW": ""
+      "KR": "최종 10sec! 돌아와!",
+      "TW": "最後 10 秒！回去！"
     }
   },
   "Last 5 sec !": {
     "translation": "最后5秒！",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "最後 5 sec !",
       "CN": "最后5秒！",
-      "KR": "",
-      "TW": ""
+      "KR": "마지막 5초 !!}",
+      "TW": "最後 5 秒 !!}"
     }
   },
   "Last 5 sec ! READY !": {
     "translation": "最后5秒！准备！",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "最後 5 sec ! READY !",
       "CN": "最后5秒！准备！",
-      "KR": "",
-      "TW": ""
+      "KR": "마지막 5초 ! READY !",
+      "TW": "最後 5 秒！準備！"
     }
   },
   "Last 5 sec ! go back": {
     "translation": "最后5秒！退后！",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "最後 5 sec ! 戻れ",
       "CN": "最后5秒！退后！",
-      "KR": "",
-      "TW": ""
+      "KR": "마지막 5초! 되돌아가세요!",
+      "TW": "最後 5 秒！退回"
     }
   },
   "Last 5 sec ! go back !": {
     "translation": "最后5秒！退后！",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "最後 5 sec ! 戻れ;!",
       "CN": "最后5秒！退后！",
-      "KR": "",
-      "TW": ""
+      "KR": "마지막 5초! 뒤로 돌르세요!",
+      "TW": "最後 5 秒 ! 回去 !"
     }
   },
   "Last 5 sec ! go back!": {
     "translation": "最后5秒！退后！",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "最後 5 秒 ! 戻 coming back!",
       "CN": "最后5秒！退后！",
-      "KR": "",
-      "TW": ""
+      "KR": "마지막 5sec! 다시 가라!",
+      "TW": "最後 5 秒 ! 回去;!"
     }
   },
   "Last 5 sec ! reday!!": {
     "translation": "最后5秒！准备！！",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "最後 5 秒！ready!!",
       "CN": "最后5秒！准备！！",
       "KR": "",
-      "TW": ""
+      "TW": "最後 5 秒！備戰!!"
     }
   },
   "Last 5 sec!": {
     "translation": "最后5秒！",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "最後 5 秒！",
       "CN": "最后5秒！",
-      "KR": "",
-      "TW": ""
+      "KR": "마지막 5sec!",
+      "TW": "最後 5 秒！"
     }
   },
   "Last 5 sec! GO BACK !": {
     "translation": "最后5秒！退后！",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "最後 5 秒！戻る.!",
       "CN": "最后5秒！退后！",
-      "KR": "",
-      "TW": ""
+      "KR": "마지막 5sec! GO BACK!",
+      "TW": "最後 5 秒！退後！"
     }
   },
   "Last 5 sec! GO BACK!": {
     "translation": "最后5秒！退后！",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "最後 5 秒！戻りなさい！",
       "CN": "最后5秒！退后！",
-      "KR": "",
-      "TW": ""
+      "KR": "마지막 5sec!_GO BACK!",
+      "TW": "最後 5 秒！回去！"
     }
   },
   "Last 5 sec! go back": {
     "translation": "最后5秒！退后！",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "最後 5 秒！戻る!*!*",
       "CN": "最后5秒！退后！",
-      "KR": "",
-      "TW": ""
+      "KR": "마지막 5초! 뒤로 가세요!",
+      "TW": "最後 5 秒！回去！"
     }
   },
   "Last 5 sec! go back !": {
     "translation": "最后5秒！退后！",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "最後 5 秒！戻れ;!",
       "CN": "最后5秒！退后！",
-      "KR": "",
-      "TW": ""
+      "KR": "최후의 5sec! 뒤로 가라!",
+      "TW": "最後 5 秒！回去！"
     }
   },
   "Last 5 sec.": {
     "translation": "最后5秒",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "最後 5 sec.",
       "CN": "最后5秒",
-      "KR": "",
-      "TW": ""
+      "KR": "마지막 5sec.",
+      "TW": "最後 5 秒。"
     }
   },
   "MISSION FAIL !": {
     "translation": "任务失败！",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "ミッション失敗！",
       "CN": "任务失败！",
-      "KR": "",
-      "TW": ""
+      "KR": "미션 실패 !",
+      "TW": "任務失敗！"
     }
   },
   "MISSION FAIL !!!!###": {
     "translation": "任务失败！！！！",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "ミッション失敗！！！",
       "CN": "任务失败！！！！",
-      "KR": "",
-      "TW": ""
+      "KR": "미션 실패!!!!!",
+      "TW": "任務失敗!!!!!"
     }
   },
   "MISSION FAIL ##!!!": {
     "translation": "任务失败##！！！",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "ミッション失敗 ##!!!",
       "CN": "任务失败##！！！",
-      "KR": "",
-      "TW": ""
+      "KR": "임무 실패 ##!!!",
+      "TW": "任務失敗 ##!!!"
     }
   },
   "Map Creator : Platin": {
     "translation": "地图作者：Platin 翻译：Asteri3m",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "マップクリエイター : Platin",
       "CN": "地图作者：Platin 翻译：Asteri3m",
-      "KR": "",
-      "TW": ""
+      "KR": "맵 크리에이터 : Platin",
+      "TW": "地圖創建者：Platin"
     }
   },
   "Move forward, protecting the left and right road!": {
     "translation": "往前走去防守左右两侧的道路！",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "前進し、左右の道路を守ってください！",
       "CN": "往前走去防守左右两侧的道路！",
-      "KR": "",
-      "TW": ""
+      "KR": "前进해, 좌우로 길을 지켜보아라!",
+      "TW": "前進，保護左右道路！"
     }
   },
   "OH NO, ZOMBIE DETECTED!": {
@@ -895,18 +895,18 @@
       "US": "",
       "JP": "",
       "CN": "打开了，快跑！",
-      "KR": "",
-      "TW": ""
+      "KR": "OPEN GO!",
+      "TW": "開啟GO!"
     }
   },
   "Press the button above to open the door.": {
     "translation": "按上面的按钮开门",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "上のボタンを押してドアを開けます。",
       "CN": "按上面的按钮开门",
-      "KR": "",
-      "TW": ""
+      "KR": "위의 버튼을 누르면 문이 열립니다.",
+      "TW": "按上方按鈕開門。"
     }
   },
   "READY ?!?!": {
@@ -923,160 +923,160 @@
     "translation": "BOSS门将在30秒后打开！",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "BOSSドアは30秒後に開きます！",
       "CN": "BOSS门将在30秒后打开！",
-      "KR": "",
-      "TW": ""
+      "KR": "BOSS 문이 30초 후에 열립니다!",
+      "TW": "BOSS之門將在30秒後開啟！"
     }
   },
   "THE BOSS PATH WILL BE BROKEN IN 10 SEC!": {
     "translation": "BOSS路将在10秒后被破坏！",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "BOSS パス Will Be Broken in 10 SEC!",
       "CN": "BOSS路将在10秒后被破坏！",
-      "KR": "",
-      "TW": ""
+      "KR": "BOSS 경로가 10 초 후에 깨집니다!",
+      "TW": "BOSS路線將在10秒後被打斷！"
     }
   },
   "THE DRAGON IS VERY STRONG, BE CAREFUL!": {
     "translation": "末影龙非常强大，小心！",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "ドラゴンは非常に強いため、注意してください！",
       "CN": "末影龙非常强大，小心！",
-      "KR": "",
-      "TW": ""
+      "KR": "DRAGON은 매우 강해, 조심하세요!",
+      "TW": "龍非常強大，小心！"
     }
   },
   "THE ZOMBIE DOOR WILL OPEN IN 10 SECONDS.": {
     "translation": "僵尸门将在10秒后打开",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "ゾンビの扉が開くまでに10秒があります。",
       "CN": "僵尸门将在10秒后打开",
-      "KR": "",
-      "TW": ""
+      "KR": "ゾンビの扉は10秒後に開きます。",
+      "TW": "喪屍門將在10秒後開啟。"
     }
   },
   "The Final door will open in 20 seconds.": {
     "translation": "最终门将在20秒后打开",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "最終のドアが開くのは20秒後です。",
       "CN": "最终门将在20秒后打开",
-      "KR": "",
-      "TW": ""
+      "KR": "최종 문이 열리는 시간은 20초 후입니다.",
+      "TW": "最終門扉将在20秒後開啟。"
     }
   },
   "The barrier will break in 10 seconds.": {
     "translation": "屏障将在10秒后破裂",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "壁は10秒後に破れる。",
       "CN": "屏障将在10秒后破裂",
-      "KR": "",
-      "TW": ""
+      "KR": "장벽이 10초 후에 깨집니다.",
+      "TW": "障礙将在10秒後 BREAK。"
     }
   },
   "The barrier will break in 15 seconds.": {
     "translation": "屏障将在15秒后破裂",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "壁は15秒後に破れる。",
       "CN": "屏障将在15秒后破裂",
-      "KR": "",
-      "TW": ""
+      "KR": "장벽은 15초 후에 깨집니다.",
+      "TW": "隔離障礙将在15秒後 BREAK。"
     }
   },
   "The barrier will break in 20 seconds.": {
     "translation": "屏障将在20秒后破裂",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "バリアは20秒後に破壊されます。",
       "CN": "屏障将在20秒后破裂",
-      "KR": "",
-      "TW": ""
+      "KR": "장벽은 20초 후에 붕괴됩니다.",
+      "TW": "隔離壁將在20秒後 BREAK。"
     }
   },
   "The barrier will break in 25 seconds.": {
     "translation": "屏障将在25秒后破裂",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "バリアは25秒後に破れる。",
       "CN": "屏障将在25秒后破裂",
-      "KR": "",
-      "TW": ""
+      "KR": "장벽이 25초 후에 붕괴됩니다.",
+      "TW": "障礙將在25秒後 BREAK。"
     }
   },
   "The barrier will break in 30 seconds.": {
     "translation": "屏障将在30秒后破裂",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "壁は30秒後に破られる。",
       "CN": "屏障将在30秒后破裂",
-      "KR": "",
-      "TW": ""
+      "KR": "장벽은 30초 후에 깨집니다.",
+      "TW": "隔離障礙將在30秒後破裂。"
     }
   },
   "The barrier will open in 20 seconds.": {
     "translation": "屏障将在20秒后打开",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "バリアが開くまで20秒です。",
       "CN": "屏障将在20秒后打开",
       "KR": "",
-      "TW": ""
+      "TW": "障礙將在20秒後開啟。"
     }
   },
   "The boss door will open in 20 seconds.": {
     "translation": "BOSS门将在20秒后打开",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "ボスドアは20秒後に開きます。",
       "CN": "BOSS门将在20秒后打开",
-      "KR": "",
-      "TW": ""
+      "KR": "최고관리자 문은 20초 후에 열립니다.",
+      "TW": "BOSS之門將在20秒後開啟。"
     }
   },
   "The door will open in 20 seconds.": {
     "translation": "门将在20秒后打开",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "ドアは20秒後に開きます。",
       "CN": "门将在20秒后打开",
-      "KR": "",
-      "TW": ""
+      "KR": "문이 열리는 데는 20초 더 걸립니다.",
+      "TW": "門将在20秒後開啟。"
     }
   },
   "The door will open in 25 seconds.": {
     "translation": "门将在25秒后打开",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "扉は25秒後に開きます。",
       "CN": "门将在25秒后打开",
-      "KR": "",
-      "TW": ""
+      "KR": "문은 25초 후에 열립니다.",
+      "TW": "門將會在25秒後打開。"
     }
   },
   "The door will open in 30 seconds.": {
     "translation": "门将在30秒后打开",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "ドアが開くまで30秒です。",
       "CN": "门将在30秒后打开",
-      "KR": "",
-      "TW": ""
+      "KR": "문은 30초 후에 열립니다.",
+      "TW": "門将在30秒後打開。"
     }
   },
   "The final door will open in 30 seconds.": {
     "translation": "最终门将在30秒后打开",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "最終のドアが開くのは30秒後です。",
       "CN": "最终门将在30秒后打开",
-      "KR": "",
-      "TW": ""
+      "KR": "최종 문이 열리는 시간은 30초 후입니다.",
+      "TW": "最終門檻将在30秒後開啟。"
     }
   },
   "ZM TP 10 SEC": {
@@ -1123,9 +1123,9 @@
     "translation": "检测到僵尸！！",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "ゾンビ検知 !!",
       "CN": "检测到僵尸！！",
-      "KR": "",
+      "KR": "ゾンビ検知 !!",
       "TW": ""
     }
   },
@@ -1133,9 +1133,9 @@
     "translation": "僵尸门将在5秒后打开！",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "ゾンビドアオープン5SEC!",
       "CN": "僵尸门将在5秒后打开！",
-      "KR": "",
+      "KR": "ゾミー Door Open 5 SEC!",
       "TW": ""
     }
   },
@@ -1143,29 +1143,29 @@
     "translation": "僵尸门正在打开！",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "ゾンビドア開く！",
       "CN": "僵尸门正在打开！",
-      "KR": "",
-      "TW": ""
+      "KR": "좀비 문 열리고!",
+      "TW": "僵尸門開啟！"
     }
   },
   "ZOMBIE TP 10 SEC !": {
     "translation": "僵尸传送 10秒！",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "ゾンビTP 10SEC !",
       "CN": "僵尸传送 10秒！",
-      "KR": "",
-      "TW": ""
+      "KR": "ゾンビTP 10SEC !",
+      "TW": "Zombie TP 10 SEC !"
     }
   },
   "ZOMBIE TP 10 SEC!": {
     "translation": "僵尸传送 10秒！",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "ゾンビTP 10SEC!",
       "CN": "僵尸传送 10秒！",
-      "KR": "",
+      "KR": "ゾンビTP 10SEC!",
       "TW": ""
     }
   },
@@ -1173,9 +1173,9 @@
     "translation": "僵尸传送 15秒！",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "ゾンビTP 15SEC !",
       "CN": "僵尸传送 15秒！",
-      "KR": "",
+      "KR": "ゾンビTP 15SEC!",
       "TW": ""
     }
   },
@@ -1183,9 +1183,9 @@
     "translation": "僵尸传送 5秒！",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "ゾンビTP 5SEC !",
       "CN": "僵尸传送 5秒！",
-      "KR": "",
+      "KR": "ゾンビTP 5SEC !",
       "TW": ""
     }
   },
@@ -1193,9 +1193,9 @@
     "translation": "僵尸传送 5秒！",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "ゾンビTP 5SEC!",
       "CN": "僵尸传送 5秒！",
-      "KR": "",
+      "KR": "ゾンビTP 5SEC!",
       "TW": ""
     }
   },
@@ -1203,70 +1203,70 @@
     "translation": "僵尸传送 5秒！",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "ゾンビTP 5 sec!",
       "CN": "僵尸传送 5秒！",
-      "KR": "",
+      "KR": "ゾンビTP 5sec!",
       "TW": ""
     }
   },
   "Zombie short way open !": {
     "translation": "僵尸侧路已开！",
     "MultiLang": {
-      "US": "",
-      "JP": "",
+      "US": "Zombie shortcut open!",
+      "JP": "ゾンビ短縮ルート開く！",
       "CN": "僵尸侧路已开！",
-      "KR": "",
-      "TW": ""
+      "KR": "ゾンビ短路开启！",
+      "TW": "喪屍快捷路開啟！"
     }
   },
   "go back !": {
     "translation": "退后！",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "戻りなさい！",
       "CN": "退后！",
-      "KR": "",
-      "TW": ""
+      "KR": "가서 다시 해!",
+      "TW": "回去！"
     }
   },
   "shit laser": {
     "translation": "该死的跳刀！",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "シットレーザー",
       "CN": "该死的跳刀！",
       "KR": "",
-      "TW": ""
+      "TW": "屎激光"
     }
   },
   "zm short way open!": {
     "translation": "僵尸侧路已打开！",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "zm短い道を開け!!",
       "CN": "僵尸侧路已打开！",
       "KR": "",
-      "TW": ""
+      "TW": "zm短路捷徑開通！"
     }
   },
   "The barrier will open in 25 seconds.": {
     "translation": "",
     "MultiLang": {
       "US": "",
-      "JP": "",
-      "CN": "",
-      "KR": "",
-      "TW": ""
+      "JP": "バリアが開くまでに25秒があります。",
+      "CN": "屏障将在25秒后开启。",
+      "KR": "장벽은 25초 후에 열립니다.",
+      "TW": "障礙將在25秒後開啟。"
     }
   },
   ">>> short way open!": {
     "translation": "",
     "MultiLang": {
       "US": "",
-      "JP": "",
-      "CN": "",
-      "KR": "",
-      "TW": ""
+      "JP": ">>> 短い道を開け！",
+      "CN": ">>> 短径已开！",
+      "KR": ">>> 짧은 길 열렸다!",
+      "TW": ">>> 短路開通！"
     }
   },
   "* FIRE GUN - 60 sec cooldown *": {
@@ -1275,18 +1275,18 @@
       "US": "",
       "JP": "",
       "CN": "",
-      "KR": "",
-      "TW": ""
+      "KR": "* 화살갑 쏘기 - 60sec 채oldown *",
+      "TW": "*開槍-冷卻時間60秒*"
     }
   },
   "<<< ZM DOOR CLOSED >>>": {
     "translation": "",
     "MultiLang": {
       "US": "",
-      "JP": "",
-      "CN": "",
-      "KR": "",
-      "TW": ""
+      "JP": "<<< ZM ドア閉じた >>>",
+      "CN": "<<< ZM 门关闭 >>>",
+      "KR": "<<< ZM 문이 닫힘 >>>",
+      "TW": "<<< ZM 門關閉 >>>"
     }
   },
   "* Bucket 2 pickup*": {
@@ -1295,7 +1295,7 @@
       "US": "",
       "JP": "",
       "CN": "",
-      "KR": "",
+      "KR": "*통가스 2pickup*",
       "TW": ""
     }
   },
@@ -1303,89 +1303,89 @@
     "translation": "",
     "MultiLang": {
       "US": "",
-      "JP": "",
-      "CN": "",
-      "KR": "",
-      "TW": ""
+      "JP": "2軒の家が燃え続けている。",
+      "CN": "2 座房屋持续燃烧。",
+      "KR": "2 집이 계속 타고 있습니다.",
+      "TW": "2所房子持續 Burning."
     }
   },
   "* Bucket 1 pickup*": {
     "translation": "",
     "MultiLang": {
       "US": "",
-      "JP": "",
-      "CN": "",
-      "KR": "",
-      "TW": ""
+      "JP": "*桶1拾取*",
+      "CN": "*桶1拾取*",
+      "KR": "*통 1 pickups*",
+      "TW": "*水桶1拾取*"
     }
   },
   "1 houses continue to burn.": {
     "translation": "",
     "MultiLang": {
       "US": "",
-      "JP": "",
-      "CN": "",
-      "KR": "",
-      "TW": ""
+      "JP": "1軒の家がまだ燃え続けている。",
+      "CN": "1栋房子继续燃烧。",
+      "KR": "1  continua a pegar fogo.",
+      "TW": "1所房屋持續燃燒。"
     }
   },
   "You put out all the houses!": {
     "translation": "",
     "MultiLang": {
       "US": "",
-      "JP": "",
-      "CN": "",
-      "KR": "",
-      "TW": ""
+      "JP": "あなたはすべての家を消しました！",
+      "CN": "你熄灭所有房屋！",
+      "KR": "모든 집의 불을 끄세요!",
+      "TW": "您已熄滅所有房子！"
     }
   },
   "Door Open 5 SEC! go back!": {
     "translation": "",
     "MultiLang": {
       "US": "",
-      "JP": "",
-      "CN": "",
-      "KR": "",
-      "TW": ""
+      "JP": "ドア開く5SEC！後退！",
+      "CN": "门开启 5 SEC! 返回！",
+      "KR": "문 열리기 5SEC! 뒤로 돌아가세요!",
+      "TW": "門開5 SEC! 回去;!"
     }
   },
   "Door Open ! RUN!": {
     "translation": "",
     "MultiLang": {
       "US": "",
-      "JP": "",
-      "CN": "",
-      "KR": "",
-      "TW": ""
+      "JP": "ドア開く！RUN!",
+      "CN": "门开了！RUN！",
+      "KR": "문 열리다! 뛰어라!",
+      "TW": "門開了！RUN！"
     }
   },
   "Elevator Leave !!": {
     "translation": "",
     "MultiLang": {
       "US": "",
-      "JP": "",
-      "CN": "",
-      "KR": "",
-      "TW": ""
+      "JP": "エレベーターを離れて！！",
+      "CN": "电梯离开！！",
+      "KR": "엘리베이터 나가세요 !!",
+      "TW": "電梯離開 !!"
     }
   },
   "go next defend area !": {
     "translation": "",
     "MultiLang": {
       "US": "",
-      "JP": "",
-      "CN": "",
-      "KR": "",
-      "TW": ""
+      "JP": "次のエリアで守りろ！",
+      "CN": "去下1个防守区域！",
+      "KR": "다음 방어 지역으로 이동하세요!",
+      "TW": "去下1區防守！"
     }
   },
   "DONT DEFEND GO BACK !": {
     "translation": "",
     "MultiLang": {
       "US": "",
-      "JP": "",
-      "CN": "",
-      "KR": "",
+      "JP": "DEFENDを守らず戻れ！",
+      "CN": "不要防御回去！",
+      "KR": "DEFEND를 지키지 마세요! 돌아가십시오!",
       "TW": ""
     }
   },
@@ -1393,10 +1393,10 @@
     "translation": "",
     "MultiLang": {
       "US": "",
-      "JP": "",
-      "CN": "",
-      "KR": "",
-      "TW": ""
+      "JP": "壁は15秒後に崩れる。GO BACK!",
+      "CN": "屏障将在15秒后破裂。返回！",
+      "KR": "장벽이 15초 후에 붕괴됩니다. 돌아가세요!",
+      "TW": "障礙将在15秒後 BREAK! 返回來！"
     }
   },
   "* Torch 1 pickup*": {
@@ -1404,59 +1404,59 @@
     "MultiLang": {
       "US": "",
       "JP": "",
-      "CN": "",
-      "KR": "",
-      "TW": ""
+      "CN": "*拾取火炬 1*",
+      "KR": "*램프 1 Pickup*",
+      "TW": "*火炬 1 收拾*"
     }
   },
   "5 houses continue to burn.": {
     "translation": "",
     "MultiLang": {
       "US": "",
-      "JP": "",
-      "CN": "",
-      "KR": "",
-      "TW": ""
+      "JP": "5軒の家が続けざまに燃えている。",
+      "CN": "5栋房子继续燃烧。",
+      "KR": "5 셋이 계속 타고 있습니다.",
+      "TW": "5間房子繼續燃燒。"
     }
   },
   "4 houses continue to burn.": {
     "translation": "",
     "MultiLang": {
       "US": "",
-      "JP": "",
-      "CN": "",
-      "KR": "",
-      "TW": ""
+      "JP": "4軒の家が続けて燃え继续燃えています。",
+      "CN": "4 座房屋持续燃烧。",
+      "KR": "4 가 계속 불타고 있습니다.",
+      "TW": "4間房屋持續燃燒。"
     }
   },
   "3 houses continue to burn.": {
     "translation": "",
     "MultiLang": {
       "US": "",
-      "JP": "",
-      "CN": "",
-      "KR": "",
-      "TW": ""
+      "JP": "3軒の家が焼き続けている。",
+      "CN": "3 座房子继续燃烧。",
+      "KR": "3 집이 계속 불타고 있습니다.",
+      "TW": "3所房屋持續燃燒。"
     }
   },
   "The barrier will break in 15 seconds. GO BACK !": {
     "translation": "",
     "MultiLang": {
       "US": "",
-      "JP": "",
-      "CN": "",
-      "KR": "",
-      "TW": ""
+      "JP": "バリアは15秒後に破壊されます。GO BACK !",
+      "CN": "屏障将在15秒后破壞。返回去！",
+      "KR": "장벽은 15초 후에 무너진다. GO BACK !",
+      "TW": "障礙将在15秒後破裂。快點回去！"
     }
   },
   "Watch out for traps!!!": {
     "translation": "",
     "MultiLang": {
       "US": "",
-      "JP": "",
-      "CN": "",
-      "KR": "",
-      "TW": ""
+      "JP": "WATCH OUT FOR TRAPS!!!",
+      "CN": "小心陷阱!!!",
+      "KR": "WATCH OUT FOR TRAPS!!!",
+      "TW": "小心陷阱!!!"
     }
   },
   "* pickaxe 2 pickup*": {
@@ -1483,60 +1483,60 @@
     "translation": "",
     "MultiLang": {
       "US": "",
-      "JP": "",
-      "CN": "",
-      "KR": "",
-      "TW": ""
+      "JP": "ルート2、すべての石が壊れている。戻 coming!",
+      "CN": "道路2，所有石头都破损了。返回！",
+      "KR": "도로 2, 모든 돌이 깨어있음. 다시 가보라!",
+      "TW": "道路2，所有石頭都破了。快回来！"
     }
   },
   "Road 1, all the stones are broken. Get back!": {
     "translation": "",
     "MultiLang": {
       "US": "",
-      "JP": "",
-      "CN": "",
-      "KR": "",
-      "TW": ""
+      "JP": "道路1，すべての石が壊れている。戻れ！",
+      "CN": "道路1，所有石块都破损了。返回！",
+      "KR": "도로 1번, 모든 돌이 깨져 있다. 빨리 돌아와!",
+      "TW": "道路1，所有石頭都破裂了。回去！"
     }
   },
   "### LEVEL 1/5 ###": {
     "translation": "",
     "MultiLang": {
       "US": "",
-      "JP": "",
-      "CN": "",
-      "KR": "",
-      "TW": ""
+      "JP": "### レベル 1/5 ###",
+      "CN": "### 第1/5关 ###",
+      "KR": "### 레벨 1/5 ###",
+      "TW": "### 標準 1/5 ###"
     }
   },
   "### LEVEL 2/5 ###": {
     "translation": "",
     "MultiLang": {
       "US": "",
-      "JP": "",
-      "CN": "",
-      "KR": "",
-      "TW": ""
+      "JP": "### レベル 2/5 ###",
+      "CN": "### 第2/5关 ###",
+      "KR": "### 레벨 2/5 ###",
+      "TW": "### 第2/5關 ###"
     }
   },
   "short way opening !": {
     "translation": "",
     "MultiLang": {
       "US": "",
-      "JP": "",
-      "CN": "",
+      "JP": "短いルート開拓！",
+      "CN": "短路线打开！",
       "KR": "",
-      "TW": ""
+      "TW": "短路開關！"
     }
   },
   "The final door will close in 15 seconds.": {
     "translation": "",
     "MultiLang": {
       "US": "",
-      "JP": "",
-      "CN": "",
-      "KR": "",
-      "TW": ""
+      "JP": "最終の扉は15秒後で閉鎖されます。",
+      "CN": "最终的门将在15秒后关闭。",
+      "KR": "최종 문이 15초 후에 닫힙니다.",
+      "TW": "最終門檻将在15秒後關閉。"
     }
   },
   "FINAL DOOR CLOSED": {
@@ -1544,8 +1544,8 @@
     "MultiLang": {
       "US": "",
       "JP": "",
-      "CN": "",
-      "KR": "",
+      "CN": "最终之门关闭",
+      "KR": "최종 문이 닫힘",
       "TW": ""
     }
   },
@@ -1553,10 +1553,10 @@
     "translation": "",
     "MultiLang": {
       "US": "",
-      "JP": "",
-      "CN": "",
-      "KR": "",
-      "TW": ""
+      "JP": "### レベル 3/5 ###",
+      "CN": "### 第3/5关 ###",
+      "KR": "### 레벨 3/5 ###",
+      "TW": "### 標準3/5 ###"
     }
   },
   "* Torch 2 pickup*": {
@@ -1564,39 +1564,39 @@
     "MultiLang": {
       "US": "",
       "JP": "",
-      "CN": "",
-      "KR": "",
-      "TW": ""
+      "CN": "*火炬2拾取*",
+      "KR": "*조명대 2 개수받음*",
+      "TW": "*火炬 2 收拾*"
     }
   },
   "The teleport will open in 20 seconds.": {
     "translation": "",
     "MultiLang": {
       "US": "",
-      "JP": "",
-      "CN": "",
-      "KR": "",
-      "TW": ""
+      "JP": "テレポートは20秒後に開きます。",
+      "CN": "传送门将在20秒后开启。",
+      "KR": "텔레포트는 20초 후에 열립니다.",
+      "TW": "传送門將在20秒後開啟。"
     }
   },
   "Last 10 sec!": {
     "translation": "",
     "MultiLang": {
       "US": "",
-      "JP": "",
-      "CN": "",
-      "KR": "",
-      "TW": ""
+      "JP": "最後10秒！",
+      "CN": "最后10秒！",
+      "KR": "마지막 10sec!",
+      "TW": "最後 10 秒！"
     }
   },
   "Teleport Open! GO !": {
     "translation": "",
     "MultiLang": {
       "US": "",
-      "JP": "",
-      "CN": "",
-      "KR": "",
-      "TW": ""
+      "JP": "テレポート開启！GO !",
+      "CN": "传送开启！GO！",
+      "KR": "텔포트 오픈! GO!",
+      "TW": "TELEPORT OPEN! GO!"
     }
   },
   "AFK TP 10 SEC !": {
@@ -1613,130 +1613,130 @@
     "translation": "",
     "MultiLang": {
       "US": "",
-      "JP": "",
-      "CN": "",
-      "KR": "",
-      "TW": ""
+      "JP": "橋は20秒後に開きます。",
+      "CN": "桥梁将在20秒后开启。",
+      "KR": "다리가 열리는 시간은 20초 후입니다.",
+      "TW": "橋梁將在20秒後開啟。"
     }
   },
   "Opening !": {
     "translation": "",
     "MultiLang": {
       "US": "",
-      "JP": "",
-      "CN": "",
-      "KR": "",
-      "TW": ""
+      "JP": "開演！",
+      "CN": "开启！",
+      "KR": "오프닝 !!}",
+      "TW": "開場！"
     }
   },
   "Boss teleportation will open in 25 seconds.": {
     "translation": "",
     "MultiLang": {
       "US": "",
-      "JP": "",
-      "CN": "",
-      "KR": "",
-      "TW": ""
+      "JP": "ボス teleportation は 25 秒後に開きます。",
+      "CN": "boss传送将在25秒后开启。",
+      "KR": "보스 텔레포테이션이 25초 후에 열립니다.",
+      "TW": "BOSS TELEPORTATION WILL OPEN IN 25 SECONDS."
     }
   },
   "Open GO!!": {
     "translation": "",
     "MultiLang": {
       "US": "",
-      "JP": "",
-      "CN": "",
-      "KR": "",
-      "TW": ""
+      "JP": "開くGO!!",
+      "CN": "打开GO!!",
+      "KR": "열기 GO!!",
+      "TW": "開啟GO!!"
     }
   },
   "### LEVEL 4/5 ###": {
     "translation": "",
     "MultiLang": {
       "US": "",
-      "JP": "",
-      "CN": "",
-      "KR": "",
-      "TW": ""
+      "JP": "### レベル 4/5 ###",
+      "CN": "### 第4/5关 ###",
+      "KR": "### 레벨 4/5 ###",
+      "TW": "### 標準4/5 ###"
     }
   },
   "Press the button for the boat to arrive.": {
     "translation": "",
     "MultiLang": {
       "US": "",
-      "JP": "",
-      "CN": "",
-      "KR": "",
-      "TW": ""
+      "JP": "ボートが着くまでボタンを押してください。",
+      "CN": "按下按钮让船过来。",
+      "KR": "배가 도착할 때 버튼을 누르세요.",
+      "TW": "按下按鈕讓船 Arrival"
     }
   },
   "Defend the area": {
     "translation": "",
     "MultiLang": {
       "US": "",
-      "JP": "",
-      "CN": "",
-      "KR": "",
-      "TW": ""
+      "JP": "防衛エリア",
+      "CN": "防守区域",
+      "KR": "지키는 지역",
+      "TW": "防守區域"
     }
   },
   "The boat will arrive in 20 seconds.": {
     "translation": "",
     "MultiLang": {
       "US": "",
-      "JP": "",
-      "CN": "",
-      "KR": "",
-      "TW": ""
+      "JP": "ボートは20秒後に到着します。",
+      "CN": "船只将在20秒后到达。",
+      "KR": "보트는 20초 후에 도착합니다.",
+      "TW": "船将在20秒後到達。"
     }
   },
   "Boat is coming.": {
     "translation": "",
     "MultiLang": {
       "US": "",
-      "JP": "",
-      "CN": "",
-      "KR": "",
-      "TW": ""
+      "JP": "ボートが来ています。",
+      "CN": "船来了。",
+      "KR": "배가 오고 있습니다.",
+      "TW": "船來了。"
     }
   },
   "Last 5 sec! get on the boat": {
     "translation": "",
     "MultiLang": {
       "US": "",
-      "JP": "",
-      "CN": "",
-      "KR": "",
-      "TW": ""
+      "JP": "最後5秒！ボートに乗りなさい",
+      "CN": "最后1秒！上船！",
+      "KR": "최종 5sec! 배에 타세요!",
+      "TW": "最後 5 秒！上船！"
     }
   },
   "The teleport will open in 25 seconds.": {
     "translation": "",
     "MultiLang": {
       "US": "",
-      "JP": "",
-      "CN": "",
-      "KR": "",
-      "TW": ""
+      "JP": "テポートは25秒後におこなわれます。",
+      "CN": "传送将在25秒后开启。",
+      "KR": "텔porter는 25초 후에 열립니다.",
+      "TW": "传送門將在25秒後開啟。"
     }
   },
   "Zombie short way open.": {
     "translation": "",
     "MultiLang": {
-      "US": "",
-      "JP": "",
-      "CN": "",
-      "KR": "",
-      "TW": ""
+      "US": "Zombie shortcut open.",
+      "JP": "ゾンビ短路开启。",
+      "CN": "丧尸快捷道开启。",
+      "KR": "ゾンビ短絡開放。",
+      "TW": "殭屍近路開啟。"
     }
   },
   "Last 5 sec! Ready!": {
     "translation": "",
     "MultiLang": {
       "US": "",
-      "JP": "",
-      "CN": "",
-      "KR": "",
-      "TW": ""
+      "JP": "最後 5 秒！準備好！",
+      "CN": "最后 5 秒！准备！",
+      "KR": "최후의 5sec! 준비好了!",
+      "TW": "最後 5 秒！準備！"
     }
   },
   "BOSS teleportation is Open! GO!": {
@@ -1744,39 +1744,39 @@
     "MultiLang": {
       "US": "",
       "JP": "",
-      "CN": "",
-      "KR": "",
-      "TW": ""
+      "CN": "BOSS 传送已开启！GO！",
+      "KR": "BOSS 테ЛЕПОТИРОВАНИЕ 열렸습니다! GO!",
+      "TW": "BOSS TELEPORTATION IS OPEN! GO!"
     }
   },
   "### LEVEL 5/5 ###": {
     "translation": "",
     "MultiLang": {
       "US": "",
-      "JP": "",
-      "CN": "",
-      "KR": "",
-      "TW": ""
+      "JP": "### レベル 5/5 ###",
+      "CN": "### 第5层/共5层 ###",
+      "KR": "### 레벨 5/5 ###",
+      "TW": "### 第5層/5層 ###"
     }
   },
   "Teleport Open!": {
     "translation": "",
     "MultiLang": {
       "US": "",
-      "JP": "",
-      "CN": "",
-      "KR": "",
-      "TW": ""
+      "JP": "テレポート開く！",
+      "CN": "传送开启！",
+      "KR": "텔포트 열렸다!",
+      "TW": "TELEPORT OPEN!"
     }
   },
   "The bridge will open in 25 seconds.": {
     "translation": "",
     "MultiLang": {
       "US": "",
-      "JP": "",
-      "CN": "",
-      "KR": "",
-      "TW": ""
+      "JP": "橋は25秒後に開きます。",
+      "CN": "桥梁将在25秒后开启。",
+      "KR": "다리가 열리는 시간은 25초 후입니다.",
+      "TW": "橋梁將在25秒後開放。"
     }
   },
   "ZM TP 5 sec !": {
@@ -1793,30 +1793,30 @@
     "translation": "",
     "MultiLang": {
       "US": "",
-      "JP": "",
-      "CN": "",
-      "KR": "",
-      "TW": ""
+      "JP": "橋は開きました。戻りなさい！",
+      "CN": "桥梁已开通。返回！",
+      "KR": "다리가 열렸습니다. 돌아가세요!",
+      "TW": "橋已開放。返回去！"
     }
   },
   "Press the button to detonate the tnt.": {
     "translation": "",
     "MultiLang": {
       "US": "",
-      "JP": "",
-      "CN": "",
-      "KR": "",
-      "TW": ""
+      "JP": "ボタンを押してテント引爆く。",
+      "CN": "按按钮引爆 TNT。",
+      "KR": "버튼을 눌러 TNT를 폭발시킵니다.",
+      "TW": "按鈕以引爆炸彈。"
     }
   },
   "Tnt will explode soon.": {
     "translation": "",
     "MultiLang": {
       "US": "",
-      "JP": "",
-      "CN": "",
-      "KR": "",
-      "TW": ""
+      "JP": "Tntは不久後爆発します。",
+      "CN": "Tnt 将不久爆炸。",
+      "KR": "Tnt sẽ nổSoon.",
+      "TW": "Tnt將會即時爆炸。"
     }
   },
   "Tnt exploded. RUN RUN.": {
@@ -1824,9 +1824,9 @@
     "MultiLang": {
       "US": "",
       "JP": "",
-      "CN": "",
-      "KR": "",
-      "TW": ""
+      "CN": "Tnt爆炸了。RUN RUN。",
+      "KR": "Tnt 폭발했습니다. 뛰세요 뛰세요.",
+      "TW": "Tnt爆炸了。RUN RUN。"
     }
   },
   "zm tp soon!": {
@@ -1835,68 +1835,68 @@
       "US": "",
       "JP": "",
       "CN": "",
-      "KR": "",
-      "TW": ""
+      "KR": "zm tp 손__/바 sposoon!",
+      "TW": "zm tp遂Soon!"
     }
   },
   "The doors will open in 30 seconds.": {
     "translation": "",
     "MultiLang": {
       "US": "",
-      "JP": "",
-      "CN": "",
-      "KR": "",
-      "TW": ""
+      "JP": "ドアは30秒後に開きます。",
+      "CN": "门将在30秒后开启。",
+      "KR": "문은 30초 후에 열립니다.",
+      "TW": "門将在30秒後打開。"
     }
   },
   "The doors opening. RUN!": {
     "translation": "",
     "MultiLang": {
       "US": "",
-      "JP": "",
-      "CN": "",
-      "KR": "",
-      "TW": ""
+      "JP": "扉が開く。RUN!",
+      "CN": "门开了。RUN！",
+      "KR": "문이 열리고 있습니다. 달려가세요!",
+      "TW": "門開了。RUN!"
     }
   },
   "The boss bridge will open in 25 seconds.": {
     "translation": "",
     "MultiLang": {
       "US": "",
-      "JP": "",
-      "CN": "",
-      "KR": "",
-      "TW": ""
+      "JP": "ボスブリッジは25秒後に開きます。",
+      "CN": "boss桥将在25秒后开启。",
+      "KR": "보스 다리를 오픈하기까지 25초가 남았습니다.",
+      "TW": "Boss橋將在25秒後開啟。"
     }
   },
   "Last 10 Sec! Ready!!!": {
     "translation": "",
     "MultiLang": {
       "US": "",
-      "JP": "",
-      "CN": "",
-      "KR": "",
-      "TW": ""
+      "JP": "最後10秒！準備!!!",
+      "CN": "最后10秒！准备！！！",
+      "KR": "Ready!!!",
+      "TW": "最後 10 秒！準備!!!"
     }
   },
   "The bridge will be closed, stand back.": {
     "translation": "",
     "MultiLang": {
       "US": "",
-      "JP": "",
-      "CN": "",
-      "KR": "",
-      "TW": ""
+      "JP": "橋は閉鎖されます、後退してください。",
+      "CN": "桥梁将关闭，请退后。",
+      "KR": "다리가 폐쇄됩니다, 뒤로 물러서세요.",
+      "TW": "橋將會關閉，請退後。"
     }
   },
   "The bridge is closing.": {
     "translation": "",
     "MultiLang": {
       "US": "",
-      "JP": "",
-      "CN": "",
-      "KR": "",
-      "TW": ""
+      "JP": "橋は閉じています。",
+      "CN": "桥梁正在关闭。",
+      "KR": "다리가 닫히고 있습니다.",
+      "TW": "橋梁正在關閉。"
     }
   },
   "TNT ATTACK !": {
@@ -1904,9 +1904,9 @@
     "MultiLang": {
       "US": "",
       "JP": "",
-      "CN": "",
-      "KR": "",
-      "TW": ""
+      "CN": "TNT 攻击！",
+      "KR": "TNT攻擊 !",
+      "TW": "TNT 攻擊 !"
     }
   },
   "ZM ATTACK !": {
@@ -1914,59 +1914,59 @@
     "MultiLang": {
       "US": "",
       "JP": "",
-      "CN": "",
+      "CN": "ZM 攻击！",
       "KR": "",
-      "TW": ""
+      "TW": "ZM 攻擊！"
     }
   },
   "Bridge opening!": {
     "translation": "",
     "MultiLang": {
       "US": "",
-      "JP": "",
-      "CN": "",
-      "KR": "",
-      "TW": ""
+      "JP": "ブリッジオープン！",
+      "CN": "桥梁开启！",
+      "KR": "교량 공격!’",
+      "TW": "橋頭堡開闢！"
     }
   },
   "Bridge closing!": {
     "translation": "",
     "MultiLang": {
       "US": "",
-      "JP": "",
-      "CN": "",
-      "KR": "",
-      "TW": ""
+      "JP": "橋が閉鎖になります！",
+      "CN": "桥梁关闭！",
+      "KR": "다리 폐쇄!!",
+      "TW": "橋樑關閉！"
     }
   },
   "The teleport will open in 20 seconds!": {
     "translation": "",
     "MultiLang": {
       "US": "",
-      "JP": "",
-      "CN": "",
-      "KR": "",
-      "TW": ""
+      "JP": "テレポテーションは20秒後に開きます！",
+      "CN": "传送门将在20秒后开启！",
+      "KR": "텔porter는 20초 후에 열립니다!",
+      "TW": "传送門將在20秒後開啟！"
     }
   },
   "Last 5 sec ! GO BACK !!!": {
     "translation": "",
     "MultiLang": {
       "US": "",
-      "JP": "",
-      "CN": "",
-      "KR": "",
-      "TW": ""
+      "JP": "最後 5 秒 ! 戻って来い!!!",
+      "CN": "最后 5 秒！ 返回！！！",
+      "KR": "마지막 5초! GO BACK!!!",
+      "TW": "最後 5 秒！回去！！！"
     }
   },
   "The teleport OPEN! RUN !": {
     "translation": "",
     "MultiLang": {
       "US": "",
-      "JP": "",
-      "CN": "",
-      "KR": "",
-      "TW": ""
+      "JP": "テレポートがOPEN！RUN！",
+      "CN": "传送门已打开！快跑！",
+      "KR": "텔레포트 오픈! 달려가세요!",
+      "TW": "TELEPORT OPEN! RUN!"
     }
   }
 }

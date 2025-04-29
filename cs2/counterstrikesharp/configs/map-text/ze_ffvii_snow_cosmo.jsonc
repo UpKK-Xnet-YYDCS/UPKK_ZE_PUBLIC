@@ -3,10 +3,10 @@
     "translation": "** 已通关极限模式。准备迎接最后的挑战...**",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "*** EXTREME mode はクリアされました。最後の挑戦 ...**",
       "CN": "** 已通关极限模式。准备迎接最后的挑战...**",
-      "KR": "",
-      "TW": ""
+      "KR": "*** EXTREME 모드가 이겼습니다. 마지막 도전 준비해라 ...***",
+      "TW": "** EXTREME 模式已被擊破。準備好你的最後1項挑戰...**"
     }
   },
   "** Nades do more damage. **": {
@@ -15,27 +15,27 @@
       "US": "",
       "JP": "",
       "CN": "** 手雷能造成更多的伤害。**",
-      "KR": "",
-      "TW": ""
+      "KR": "*** 네이드가 더 높은 피해를 gây함. ***",
+      "TW": "** Nades 嚴重心傷。 **"
     }
   },
   "**...Are you surprised?...**": {
     "translation": "**...你惊讶吗？...**",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "***...驚いてる？...***",
       "CN": "**...你惊讶吗？...**",
-      "KR": "",
-      "TW": ""
+      "KR": "***...놀람이不小吧...***",
+      "TW": "***...你驚訝嗎?...***"
     }
   },
   "**...Didn't you expect me?...**": {
     "translation": "**...你没想到我会来吗？...**",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "***...ineryoukanakatta...***",
       "CN": "**...你没想到我会来吗？...**",
-      "KR": "",
+      "KR": "***...안撷期预料到我吗?...***",
       "TW": ""
     }
   },
@@ -43,9 +43,9 @@
     "translation": "**...好吧，我消失了...**",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "***...オーカイ俺は消えていくよ...***",
       "CN": "**...好吧，我消失了...**",
-      "KR": "",
+      "KR": "***...오케이 나는 사라지고 있어...***",
       "TW": ""
     }
   },
@@ -65,8 +65,8 @@
       "US": "",
       "JP": "",
       "CN": "**还剩10秒**",
-      "KR": "",
-      "TW": ""
+      "KR": "***10 초 남음***",
+      "TW": "【10 秒鐘剩餘】"
     }
   },
   "**15 SECONDS LEFT!**": {
@@ -75,7 +75,7 @@
       "US": "",
       "JP": "",
       "CN": "**还剩15秒！**",
-      "KR": "",
+      "KR": "***15 초 남음!!***",
       "TW": ""
     }
   },
@@ -83,9 +83,9 @@
     "translation": "**还剩2分钟！**",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "**2 分钟_residual_time!**",
       "CN": "**还剩2分钟！**",
-      "KR": "",
+      "KR": "**2분 남음!**",
       "TW": ""
     }
   },
@@ -105,128 +105,128 @@
       "US": "",
       "JP": "",
       "CN": "**还剩5秒**",
-      "KR": "",
-      "TW": ""
+      "KR": "**5초 남음**",
+      "TW": "【5 秒鐘剩餘】"
     }
   },
   "**A player has picked up BIO materia**": {
     "translation": "**一名玩家拾取了毒元素**",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "***プレイヤーがBIOマテリアルを拾いました***",
       "CN": "**一名玩家拾取了毒元素**",
-      "KR": "",
-      "TW": ""
+      "KR": "***플레이어가 BIO 마티아를 얻었습니다***",
+      "TW": "**1玩家拾取了BIO魔晶石**"
     }
   },
   "**A player has picked up Damage materia**": {
     "translation": "**一名玩家拾取了伤害元素**",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "**プレイヤーがDamageマテリアルを拾いました**",
       "CN": "**一名玩家拾取了伤害元素**",
-      "KR": "",
-      "TW": ""
+      "KR": "**플레이어가 Damage 마터리아를 획득했습니다**",
+      "TW": "**1位玩家拾取了Damage魔水晶**"
     }
   },
   "**A player has picked up EARTH materia**": {
     "translation": "**一名玩家拾取了土元素**",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "***プレイヤーがEARTHマテリアルを拾いました***",
       "CN": "**一名玩家拾取了土元素**",
-      "KR": "",
-      "TW": ""
+      "KR": "**플레이어가 EARTH 마터리아를 얻었습니다**",
+      "TW": "**1玩家拾取了EARTH魔晶石**"
     }
   },
   "**A player has picked up ELECTRO materia**": {
     "translation": "**一名玩家拾取了电元素**",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "**プレイヤーがELECTROメテラを拾いました**",
       "CN": "**一名玩家拾取了电元素**",
-      "KR": "",
-      "TW": ""
+      "KR": "**플레이어가 ELECTRO 마티에라를 뽑았습니다**",
+      "TW": "**1名玩家拾起了 ELECTRO 物質**"
     }
   },
   "**A player has picked up FIRE materia**": {
     "translation": "**一名玩家拾取了火元素**",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "**プレイヤーがファイアマテリアを拾いました**",
       "CN": "**一名玩家拾取了火元素**",
-      "KR": "",
-      "TW": ""
+      "KR": "**플레이어가 FIRE 마터리아를 사용했습니다**",
+      "TW": "**1名玩家拾取了FIRE魔晶石**"
     }
   },
   "**A player has picked up GRAVITY materia**": {
     "translation": "**一名玩家拾取了黑洞元素**",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "GRAVITYマテリアルを拾いました ***",
       "CN": "**一名玩家拾取了黑洞元素**",
-      "KR": "",
-      "TW": ""
+      "KR": "***플레이어가 GRAVITY 마테리아를 얻었습니다***",
+      "TW": "**1名玩家拾取了 GRAVITY 極物**"
     }
   },
   "**A player has picked up HEAL materia**": {
     "translation": "**一名玩家拾取了治疗元素**",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "**プレイヤーがHEALマテリアを拾いました**",
       "CN": "**一名玩家拾取了治疗元素**",
-      "KR": "",
-      "TW": ""
+      "KR": "***플레이어가 HEAL 마티아를 페😉운 것 같습니다***",
+      "TW": "**1名玩家拾取了HEAL魔術結晶**"
     }
   },
   "**A player has picked up Ice materia**": {
     "translation": "**一名玩家拾取了冰元素**",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "***プレイヤーがアイス魔剣を拾いました***",
       "CN": "**一名玩家拾取了冰元素**",
-      "KR": "",
-      "TW": ""
+      "KR": "**플레이어가 얼음 마티아를 획득했습니다**",
+      "TW": "**1玩家拾取了冰結晶魔石**"
     }
   },
   "**A player has picked up Phoenix Down**": {
     "translation": "**一名玩家拾取了凤凰之尾**",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "***プレイヤーがフェニックスドウントを拾いました***",
       "CN": "**一名玩家拾取了凤凰之尾**",
-      "KR": "",
-      "TW": ""
+      "KR": "***플레이어가 레오나드를 집었다***",
+      "TW": "***1名玩家拾取了鳳凰鳥之羽***"
     }
   },
   "**A player has picked up SLEEP materia**": {
     "translation": "**一名玩家拾取了睡元素**",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "**プレイヤーがSLEEPマテリアルを拾いました**",
       "CN": "**一名玩家拾取了睡元素**",
-      "KR": "",
-      "TW": ""
+      "KR": "***플레이어가 SLEEP 마티에르를 사용했습니다***",
+      "TW": "**1名玩家拾取了SLEEP魔晶石**"
     }
   },
   "**A player has picked up ULTIMA materia**": {
     "translation": "**一名玩家拾取了终极元素**",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "最終-limit MATERIAを拾いました***",
       "CN": "**一名玩家拾取了终极元素**",
-      "KR": "",
-      "TW": ""
+      "KR": "***플레이어가 ULTIMA 마티아를 얻었습니다***",
+      "TW": "**1名玩家拾取了ULTIMA魔晶石**"
     }
   },
   "**A player has picked up WIND materia**": {
     "translation": "**一名玩家拾取了风元素**",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "***プレイヤーがWINDマテリアルを拾いました***",
       "CN": "**一名玩家拾取了风元素**",
-      "KR": "",
-      "TW": ""
+      "KR": "**플레이어가 WIND 마티아라를 얻었습니다**",
+      "TW": "**1玩家拾取了風魔術 Gems**"
     }
   },
   "**ADMIN HAS CHANGED MAP LEVEL VIA ADMIN ROOM**": {
@@ -235,8 +235,8 @@
       "US": "",
       "JP": "",
       "CN": "**管理员在管理室更改了地图关卡**",
-      "KR": "",
-      "TW": ""
+      "KR": "**관리자가 관리실을 이용해 맵 레벨을 변경하였습니다**",
+      "TW": "**ADMIN 已透過管理房改變地圖等級**"
     }
   },
   "**ADMIN PRESSED KILL ALL BUTTON**": {
@@ -253,7 +253,7 @@
     "translation": "**宝箱支线任务开始**",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "ChestSidequestStarted",
       "CN": "**宝箱支线任务开始**",
       "KR": "",
       "TW": ""
@@ -263,19 +263,19 @@
     "translation": "**宝箱任务完成！**",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "Chest Quest 完了！",
       "CN": "**宝箱任务完成！**",
-      "KR": "",
-      "TW": ""
+      "KR": "/***상자 함정 완료!***/",
+      "TW": "***chest quest 完成!*"
     }
   },
   "**Cover here for 10 seconds before we clear this obstacle**": {
     "translation": "**在这里掩护10秒，清理障碍**",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "COVER HERE FOR 10 SECONDS BEFORE WE CLEAR THIS OBSTACLE",
       "CN": "**在这里掩护10秒，清理障碍**",
-      "KR": "",
+      "KR": "COVER HERE FOR 10 SECONDS BEFORE WE CLEAR THIS OBSTACLE",
       "TW": ""
     }
   },
@@ -283,39 +283,39 @@
     "translation": "**在这里掩护15秒，清理障碍**",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "COVER HERE FOR 15 SECONDS BEFORE WE CLEAR THIS OBSTACLE",
       "CN": "**在这里掩护15秒，清理障碍**",
-      "KR": "",
-      "TW": ""
+      "KR": "COVER HERE FOR 15 SECONDS BEFORE WE CLEAR THIS OBSTACLE",
+      "TW": "** COVER HERE FOR 15 SECONDS BEFORE WE CLEAR THIS OBSTACLE **"
     }
   },
   "**Cover here for 5 seconds before we clear this obstacle**": {
     "translation": "**在这里掩护5秒，清理障碍**",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "COVER HERE FOR 5 SECONDS BEFORE WE CLEAR THIS OBSTACLE",
       "CN": "**在这里掩护5秒，清理障碍**",
-      "KR": "",
-      "TW": ""
+      "KR": "COVER HERE FOR 5 SECONDS BEFORE WE CLEAR THIS OBSTACLE",
+      "TW": "** COVER HERE FOR 5 SECONDS BEFORE WE CLEAR THIS OBSTACLE **"
     }
   },
   "**DOOR OPENS IN 40 SECONDS**": {
     "translation": "**门将在40秒后打开**",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "**ドアが40秒後に開きます**",
       "CN": "**门将在40秒后打开**",
-      "KR": "",
-      "TW": ""
+      "KR": "***문이 40초 후에 열립니다***",
+      "TW": "Doors open in 40 seconds ***"
     }
   },
   "**Defend here for 15 seconds before the platform leaves**": {
     "translation": "**在这里防守15秒，直到平台离开**",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "***ここを15秒間守ってくださいplatformが離れるまで***",
       "CN": "**在这里防守15秒，直到平台离开**",
-      "KR": "",
+      "KR": "★★여기 방어하고 15초 후에 플랫폼이 이동합니다★★",
       "TW": ""
     }
   },
@@ -323,9 +323,9 @@
     "translation": "**在这里防守25秒，直到大门打开**",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "ここを守ってください **25秒待つまでゲートが開きます**",
       "CN": "**在这里防守25秒，直到大门打开**",
-      "KR": "",
+      "KR": "이곳에서 25초간 방어해주세요直到城门开启",
       "TW": ""
     }
   },
@@ -335,7 +335,7 @@
       "US": "",
       "JP": "",
       "CN": "**极限模式**",
-      "KR": "",
+      "KR": "극한 모드 ***",
       "TW": ""
     }
   },
@@ -345,7 +345,7 @@
       "US": "",
       "JP": "",
       "CN": "**撤退**",
-      "KR": "",
+      "KR": "-WithDRAW-",
       "TW": ""
     }
   },
@@ -353,9 +353,9 @@
     "translation": "**找到所有金色宝箱，获得帮助你在基纳塔克战斗中的特殊神器**",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "***すべてのゴールド・チェストを発見してください。特別なアイテムが手に入ります。GI・ナタックでのお助けになります***",
       "CN": "**找到所有金色宝箱，获得帮助你在基纳塔克战斗中的特殊神器**",
-      "KR": "",
+      "KR": "***황금 상자가 모두 보이면 특별한 아이템을 얻을 수 있습니다. 그 아이템은 곤나트크에서 도움이 됩니다.***",
       "TW": ""
     }
   },
@@ -365,7 +365,7 @@
       "US": "",
       "JP": "",
       "CN": "**15秒，基纳塔克正在使用终极。快点打败他！！**",
-      "KR": "",
+      "KR": "★★GI NATTAK은 유나타를 사용중입니다.更快地干掉他！！★",
       "TW": ""
     }
   },
@@ -376,7 +376,7 @@
       "JP": "",
       "CN": "**10秒，基纳塔克使用了熔岩上升**",
       "KR": "",
-      "TW": ""
+      "TW": "***GI NATTAK 使用 lava 超攻擊***"
     }
   },
   "**GRENADES DO A LOT OF DAMAGE. USE THEM!**": {
@@ -385,47 +385,47 @@
       "US": "",
       "JP": "",
       "CN": "**手雷能造成更多的伤害。使用它们！**",
-      "KR": "",
-      "TW": ""
+      "KR": "***grenades do a lot of damage. use them!***",
+      "TW": "***手榴彈造成大量傷害。使用它們！***"
     }
   },
   "**Gates are open. Welcome to Cosmo Canyon**": {
     "translation": "**大门已开。欢迎来到宇宙峡谷**",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "ゲートは開かれています。コスモカanyonへようこそ",
       "CN": "**大门已开。欢迎来到宇宙峡谷**",
-      "KR": "",
-      "TW": ""
+      "KR": "***문이 열렸습니다. 코스모 카니언에 오신 것을 환영합니다***",
+      "TW": "***大門已開。歡迎來到_cosmo_canyon***"
     }
   },
   "**Genesis is defeated. Get back in the elevator**": {
     "translation": "**杰内西斯已被击败。返回电梯**",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "***ジェネシスは敗北した。エレベーターに戻れ***",
       "CN": "**杰内西斯已被击败。返回电梯**",
-      "KR": "",
-      "TW": ""
+      "KR": "★★제네시스는 패배했다. 엘리베이터에 다시",
+      "TW": "***Genesis是擊敗了。返回電梯***"
     }
   },
   "**Get on the rocks and hold 25 seconds**": {
     "translation": "**站在岩石上防守25秒**",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "**レッキスにのって25秒 HOLD**",
       "CN": "**站在岩石上防守25秒**",
-      "KR": "",
-      "TW": ""
+      "KR": "25초를 유지해",
+      "TW": "在岩石上站定並 HOLD 25 秒"
     }
   },
   "**Get on the rocks to get saved!!!**": {
     "translation": "**10秒，基纳塔克使用了熔岩上升，快跳上突起的石头！！！**",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "***岩にのぼって生き残る！！！***",
       "CN": "**10秒，基纳塔克使用了熔岩上升，快跳上突起的石头！！！**",
-      "KR": "",
+      "KR": "**) 바위 위에上去**앉아 구출되세요!!!**",
       "TW": ""
     }
   },
@@ -433,99 +433,99 @@
     "translation": "**基纳塔克逃走了**",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "★★Gi Nattackは脱出★★",
       "CN": "**基纳塔克逃走了**",
-      "KR": "",
-      "TW": ""
+      "KR": "***Gi Nattack은 도주했습니다***",
+      "TW": "***Gi Nattack是逃走了***"
     }
   },
   "**Gi Nattak has healed 150 hp**": {
     "translation": "**基纳塔克恢复了150点生命值**",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "★★ジ・ナッタックは150hpを回復した★",
       "CN": "**基纳塔克恢复了150点生命值**",
-      "KR": "",
-      "TW": ""
+      "KR": "**Gi Nattak은 150hp를 회복했습니다**",
+      "TW": "**Gi Nattak  heals 150 hp**"
     }
   },
   "**Gi Nattak is spawning minions. Watch out for them**": {
     "translation": "**基纳塔克召唤了水晶。小心它们**",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "★★Gi Nattakはミ查看详情，请稍候...",
       "CN": "**基纳塔克召唤了水晶。小心它们**",
-      "KR": "",
-      "TW": ""
+      "KR": "***Gi Nattak minions are spawning. Be careful***",
+      "TW": "**Gi Nattak是 spawns 小兵。 注意他們**"
     }
   },
   "**Gi Nattak is using Fire Nova!!! Get out of middle**": {
     "translation": "**5秒，基纳塔克使用了火焰新星！！！离开中间去两边边缘躲避**",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "★★ジ・ナッタクはファイアーノヴァを使用します!! 中央から離れてください★★",
       "CN": "**5秒，基纳塔克使用了火焰新星！！！离开中间去两边边缘躲避**",
-      "KR": "",
-      "TW": ""
+      "KR": "***Gi Nattak은 화염 나이아마 사용중!! 중앙에서 벗어나세요!!***",
+      "TW": "**Gi Nattak 是使用 Fire Nova!!! 過-middle**"
     }
   },
   "**Gi Nattak is using aspil**": {
     "translation": "**5秒，基纳塔克正在使用摄魂，蹲下**",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "★★Gi Nattak は aspil 使用中★★",
       "CN": "**5秒，基纳塔克正在使用摄魂，蹲下**",
-      "KR": "",
-      "TW": ""
+      "KR": "***Gi Nattak은 aspil 사용 중입니다***",
+      "TW": "**Gi Nattak 是使用aspil**"
     }
   },
   "**Gi Nattak is using fire**": {
     "translation": "**5秒，基纳塔克正在使用火焰**",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "★★Gi Nattakは火を使用している★",
       "CN": "**5秒，基纳塔克正在使用火焰**",
-      "KR": "",
-      "TW": ""
+      "KR": "**Gi Nattak은 불을 사용 중입니다**",
+      "TW": "**Gi Nattak正在使用火**"
     }
   },
   "**Gi Nattak is using gravity**": {
     "translation": "**5秒，基纳塔克正在使用黑洞，按住S后退**",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "★★Gi Nattakは重力を使用している★",
       "CN": "**5秒，基纳塔克正在使用黑洞，按住S后退**",
-      "KR": "",
-      "TW": ""
+      "KR": "**Gi Nattak은 중력을 사용하고 있습니다**",
+      "TW": "**Gi Nattak正在使用重力**"
     }
   },
   "**Gi Nattak is using poison**": {
     "translation": "**5秒，基纳塔克正在使用毒，远离人群**",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "★★ジ・イナッタクは毒を使用している★",
       "CN": "**5秒，基纳塔克正在使用毒，远离人群**",
-      "KR": "",
-      "TW": ""
+      "KR": "***기가 난다isOk 사용 중입니다***",
+      "TW": "***Gi Nattak正使用毒藥***"
     }
   },
   "**Gi Nattak is using shield**": {
     "translation": "**5秒，基纳塔克正在使用护盾**",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "***Gi Nattak は盾を使用しています***",
       "CN": "**5秒，基纳塔克正在使用护盾**",
-      "KR": "",
-      "TW": ""
+      "KR": "★★Gi Nattak은ield 사용 중★★",
+      "TW": "**Gi Nattak正在使用盾牌**"
     }
   },
   "**Gi Nattak is using silence**": {
     "translation": "**15秒，基纳塔克正在使用沉默**",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "***Gi Nattak は静けさを用いている***",
       "CN": "**15秒，基纳塔克正在使用沉默**",
-      "KR": "",
+      "KR": "**Gi Nattak은 침묵을 사용 중입니다**",
       "TW": ""
     }
   },
@@ -533,10 +533,10 @@
     "translation": "**5秒，基纳塔克使用了风，面对平台中心按W抵抗**",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "**Gi Nattak は風を使用しています**",
       "CN": "**5秒，基纳塔克使用了风，面对平台中心按W抵抗**",
-      "KR": "",
-      "TW": ""
+      "KR": "**Gi Nattak은 바람을 사용 중입니다**",
+      "TW": "**Gi Nattak 使用風**"
     }
   },
   "**HARD MODE**": {
@@ -553,60 +553,60 @@
     "translation": "**已通关困难模式。挑战自己，准备进入极限模式！**",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "*** HARDモードを突破。EXTREMEモードで自己挑戦！ ***",
       "CN": "**已通关困难模式。挑战自己，准备进入极限模式！**",
-      "KR": "",
-      "TW": ""
+      "KR": "***하드 모드를 클리어했습니다. EXTREME 모드에서 자신을 도전해보세요! ***",
+      "TW": "***Hard模式已通关。挑战自己，在EXTREME模式中再接再厉！***"
     }
   },
   "**Ifrit is defeated! Get on the airship**": {
     "translation": "**伊芙利特已被击败！快上飞船**",
     "MultiLang": {
-      "US": "",
-      "JP": "",
+      "US": "Ifrit is defeated! Board the airship.",
+      "JP": "***若ュルフ是被击败了！快上气球船***",
       "CN": "**伊芙利特已被击败！快上飞船**",
-      "KR": "",
-      "TW": ""
+      "KR": "**이프리트가 패배했어! 공중전함에 타서 오세요**",
+      "TW": "**若rita已被擊敗！快上飛船**"
     }
   },
   "**Ifrit is defeated!**": {
     "translation": "**伊芙利特已被击败！**",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "***イフリトが敗北した！***",
       "CN": "**伊芙利特已被击败！**",
-      "KR": "",
-      "TW": ""
+      "KR": "***이프리트가 패배하였습니다!!***",
+      "TW": "**若莱被擊敗！**"
     }
   },
   "**Jenova is defeated!**": {
     "translation": "**杰诺瓦已被击败！**",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "ジェノバは敗北した！",
       "CN": "**杰诺瓦已被击败！**",
-      "KR": "",
-      "TW": ""
+      "KR": "전사 Jenova가 패배했습니다!",
+      "TW": "Jenova被擊敗了！"
     }
   },
   "**Map by Headshooter.SC & HaRyDe**": {
     "translation": "**地图由Headshooter.SC和HaRyDe制作 翻译：UPKK_ZE_PUBLIC，Asteri3m**",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "**マップ由Headshooter.SC & HaRyDe作成**",
       "CN": "**地图由Headshooter.SC和HaRyDe制作 翻译：UPKK_ZE_PUBLIC，Asteri3m**",
-      "KR": "",
+      "KR": "**지도 제작자: Headshooter.SC & HaRyDe**",
       "TW": ""
     }
   },
   "**Map has been beaten. Find a place to defend yourself on and keep the zombies away from it**": {
     "translation": "**地图已通关。现在找个地方防守僵尸**",
     "MultiLang": {
-      "US": "",
-      "JP": "",
+      "US": "Map has been cleared. Find a spot to defend and keep the zombies away.",
+      "JP": "マップをクリアしました。防御できる場所を見つけてゾンビから守りましょう",
       "CN": "**地图已通关。现在找个地方防守僵尸**",
-      "KR": "",
-      "TW": ""
+      "KR": "**지도를 클리어했습니다. 방어할 장소를 찾고 좀비들이 접근하지 못하게하세요**",
+      "TW": "**Map已清 Cleansed. 找1個地方防守並 KEEP ZOMBIES AWAY FROM IT**"
     }
   },
   "**NORMAL MODE**": {
@@ -623,19 +623,19 @@
     "translation": "**已通关普通模式。已解锁困难模式**",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "**ノーマルモードを突破しました。HARDモード解禁**",
       "CN": "**已通关普通模式。已解锁困难模式**",
-      "KR": "",
-      "TW": ""
+      "KR": "**NORMAL 모드를 클리어했습니다. HARD 모드 해금 **",
+      "TW": "**NORMAL模式已被擊敗。解鎖HARD模式**"
     }
   },
   "**Now you can get out of Cave of Gi**": {
     "translation": "**现在你可以离开基族洞穴**",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "***今ではギの洞窟から出ることができる***",
       "CN": "**现在你可以离开基族洞穴**",
-      "KR": "",
+      "KR": "***現在你能從Gi洞穴中出來***",
       "TW": ""
     }
   },
@@ -643,9 +643,9 @@
     "translation": "**疯狂模式**",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "Rage Mode",
       "CN": "**疯狂模式**",
-      "KR": "",
+      "KR": "rage mode",
       "TW": ""
     }
   },
@@ -653,9 +653,9 @@
     "translation": "**5秒，一些神器可以对BOSS造成伤害，例如：火、电、毒、终极**",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "***あなたのアイテムの一部はボスを傷つける可能性があります***",
       "CN": "**5秒，一些神器可以对BOSS造成伤害，例如：火、电、毒、终极**",
-      "KR": "",
+      "KR": "**部分内容可能对Boss造成伤害**",
       "TW": ""
     }
   },
@@ -663,20 +663,20 @@
     "translation": "**神罗基地大门将在25秒后打开**",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "Shinraゲートは25秒後に開きます >>",
       "CN": "**神罗基地大门将在25秒后打开**",
-      "KR": "",
-      "TW": ""
+      "KR": "★★신라 문은 25초 후에 열립니다★★",
+      "TW": "★★夏尼門将在25秒后開啟★★"
     }
   },
   "**Shiva is defeated!**": {
     "translation": "**希瓦已被击败！**",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "***シヴァが敗北した！***",
       "CN": "**希瓦已被击败！**",
-      "KR": "",
-      "TW": ""
+      "KR": "★★shivah을 이겼다!!",
+      "TW": "**濕婆被擊敗了！**"
     }
   },
   "**THE EXPLOSIVE WILL BLOW UP THE ROCK IN 25 SECONDS**": {
@@ -685,7 +685,7 @@
       "US": "",
       "JP": "",
       "CN": "**25秒后炸开岩石**",
-      "KR": "",
+      "KR": "** Explosive will blow up the rock in 25 seconds **",
       "TW": ""
     }
   },
@@ -693,9 +693,9 @@
     "translation": "**胜利者已选择接下来游玩的模式**",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "**WINNERがモードを選択しました**",
       "CN": "**胜利者已选择接下来游玩的模式**",
-      "KR": "",
+      "KR": "**WINNER가 모드를 선택했습니다**",
       "TW": ""
     }
   },
@@ -703,29 +703,29 @@
     "translation": "**正在将人类传送到天文台**",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "TELEPORTING HUMANS TO THE OBSERVATORY",
       "CN": "**正在将人类传送到天文台**",
-      "KR": "",
-      "TW": ""
+      "KR": "***인간을 관측소로 텔레포트시키기***",
+      "TW": "將人類 TELEPORT 至觀測站>>"
     }
   },
   "**The airship is right here...**": {
     "translation": "**飞船就在这里...**",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "飛行船はここだ...",
       "CN": "**飞船就在这里...**",
-      "KR": "",
-      "TW": ""
+      "KR": "항공선은 여기 있습니다...",
+      "TW": "飛機 (~( Airways)) 就在這裡..."
     }
   },
   "**The airship to Shinra will arrive in 30 seconds**": {
     "translation": "**通往神罗基地的飞船将在30秒后到来**",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "***シャーラへ向かう空母は30秒後に到着します***",
       "CN": "**通往神罗基地的飞船将在30秒后到来**",
-      "KR": "",
+      "KR": "***신라행 기구는 30초 후 도착합니다***",
       "TW": ""
     }
   },
@@ -733,60 +733,60 @@
     "translation": "**酒馆大门5秒后打开**",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "バーの人がドアを開けるのは5秒後です***",
       "CN": "**酒馆大门5秒后打开**",
-      "KR": "",
-      "TW": ""
+      "KR": "***바텐더는 5초 후 문을 열 것입니다***",
+      "TW": "***吧台員將在5秒後打開門***"
     }
   },
   "**The detonator seems to be broken**Go another way**": {
     "translation": "**引爆器似乎坏了**走另一条路**",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "***デトネーターが壊れているようだ***別の方向に進む***",
       "CN": "**引爆器似乎坏了**走另一条路**",
-      "KR": "",
-      "TW": ""
+      "KR": "Note: The original text uses an asterisk (*) and a dash (-), but for consistency with the style of in-game texts, these have been omitted.",
+      "TW": "detonator 似乎壞掉了>> 另1條路>>"
     }
   },
   "**The elevator will leave in 15 seconds**": {
     "translation": "**电梯将在15秒后离开**",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "エレベーターは15秒後に発車します***",
       "CN": "**电梯将在15秒后离开**",
-      "KR": "",
-      "TW": ""
+      "KR": "전용기将会离开在15秒后***",
+      "TW": "**電梯將於15秒後离开**"
     }
   },
   "**The gates of gi cave will open in 15 seconds**": {
     "translation": "**基族洞穴的大门将在15秒后打开**",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "***ジーグーヴァイブの門は15秒後に開きます***",
       "CN": "**基族洞穴的大门将在15秒后打开**",
-      "KR": "",
-      "TW": ""
+      "KR": "***지그카VE의 문은 15초 후에 열립니다***",
+      "TW": "**地洞之門將在15秒後開啟**"
     }
   },
   "**The gates will open in 15 seconds**": {
     "translation": "**大门将在15秒后打开**",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "門は15秒後に開きます***",
       "CN": "**大门将在15秒后打开**",
-      "KR": "",
-      "TW": ""
+      "KR": "*** 문이 열리는 것은 15초 후입니다 ***",
+      "TW": "***大門將在15秒後開啟***"
     }
   },
   "**The gates will open in 25 seconds**": {
     "translation": "**大门将在25秒后打开**",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "***ゲートは25秒後に開きます***",
       "CN": "**大门将在25秒后打开**",
-      "KR": "",
-      "TW": ""
+      "KR": "*** 문은 25초 후에 열립니다 ***",
+      "TW": "***大門將在25秒後開啟***"
     }
   },
   "**The gates will open in 30 seconds**": {
@@ -795,17 +795,17 @@
       "US": "",
       "JP": "",
       "CN": "**大门将在30秒后打开**",
-      "KR": "",
-      "TW": ""
+      "KR": "**문이 열리는 시간은 남아 있습니다(30초)**",
+      "TW": "***大門將在30秒後開啟***"
     }
   },
   "**The gi gate will open in 35 seconds**": {
     "translation": "**基纳塔克竞技场将在35秒后打开**",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "***ゲートは35秒後に開きます***",
       "CN": "**基纳塔克竞技场将在35秒后打开**",
-      "KR": "",
+      "KR": "**지gi 문이 열리는 시간은 35초 후입니다**",
       "TW": ""
     }
   },
@@ -813,29 +813,29 @@
     "translation": "**平台正在上升**",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "プラットフォームは離脱します***",
       "CN": "**平台正在上升**",
-      "KR": "",
-      "TW": ""
+      "KR": "플랫폼은 떠나갑니다 ***",
+      "TW": "平台即將離去"
     }
   },
   "**The power is lost. Defend until the emergency generators are on**": {
     "translation": "**电力中断。防守直到应急发电机启动**",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "**電力が失われた。緊急発電機が起動するまで防衛を続ける**",
       "CN": "**电力中断。防守直到应急发电机启动**",
-      "KR": "",
-      "TW": ""
+      "KR": "***전력이 소실되었습니다. 긴급 발전기를 작동까지 방어하세요***",
+      "TW": "***電力損失。堅守直到緊急發電機啟動***"
     }
   },
   "**The reward is waiting for you in the gi cave**": {
     "translation": "**奖励正在基纳塔克洞穴内等待你**",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "ギ洞窟でご報酬が待っています***",
       "CN": "**奖励正在基纳塔克洞穴内等待你**",
-      "KR": "",
+      "KR": "**보상이 지하 갤리아에서 기다리고 있습니다**",
       "TW": ""
     }
   },
@@ -843,29 +843,29 @@
     "translation": "**岩石将在25秒后爆炸**",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "***岩は25秒後に爆発します***",
       "CN": "**岩石将在25秒后爆炸**",
-      "KR": "",
-      "TW": ""
+      "KR": "**돌은 25초 후에 폭발할 것입니다**",
+      "TW": "** ROCK 將於 25 秒後爆炸 **"
     }
   },
   "**This is your last hold point**": {
     "translation": "**这是最后一个守点**",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "これは最後の防衛地点です",
       "CN": "**这是最后一个守点**",
-      "KR": "",
-      "TW": ""
+      "KR": "이這是你的最後 HOLD POINT",
+      "TW": "這是你的最後1處防線"
     }
   },
   "**Ultimate MODE**": {
     "translation": "**3蓝刀模式**",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "最終的なMODE",
       "CN": "**3蓝刀模式**",
-      "KR": "",
+      "KR": "***최고의 모드***",
       "TW": ""
     }
   },
@@ -875,7 +875,7 @@
       "US": "",
       "JP": "",
       "CN": "**热身回合**",
-      "KR": "",
+      "KR": "【 시작 라운드 】",
       "TW": ""
     }
   },
@@ -893,40 +893,40 @@
     "translation": "**再等5秒**",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "**5秒待機してください**",
       "CN": "**再等5秒**",
-      "KR": "",
-      "TW": ""
+      "KR": "***다음 5초 더 기다리세요***",
+      "TW": "等待5秒"
     }
   },
   "**Wait until something happens**": {
     "translation": "**等待某些事情发生**",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "**何かが起こるまで待つ**",
       "CN": "**等待某些事情发生**",
-      "KR": "",
-      "TW": ""
+      "KR": "***어떤 일이 발생할 때까지 기다리세요***",
+      "TW": "等待有事情發生**"
     }
   },
   "**We are almost at Cosmo Canyon**": {
     "translation": "**我们快到宇宙峡谷了**",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "**我々はコスモ canyonにほぼ到着した**",
       "CN": "**我们快到宇宙峡谷了**",
-      "KR": "",
-      "TW": ""
+      "KR": "**우리는 거의 코스모 캐니언에 도달했습니다**",
+      "TW": "**我們幾乎到達科斯摩峽谷**"
     }
   },
   "**We got the power. The gates will open in 15 seconds**": {
     "translation": "**电力恢复了。大门将在15秒后打开**",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "*** POWER ACQUIRED. GATES WILL OPEN IN 15 SECONDS ***",
       "CN": "**电力恢复了。大门将在15秒后打开**",
-      "KR": "",
-      "TW": ""
+      "KR": "**우리가 힘을 얻었습니다. 문은 15초 후에 열립니다**",
+      "TW": "**我們得到了力量。門将在15秒後開啟**"
     }
   },
   "**YOU MUST TO KILL ALL THE ZOMBIES TO WIN**": {
@@ -935,7 +935,7 @@
       "US": "",
       "JP": "",
       "CN": "**你必须杀死所有僵尸才能获胜**",
-      "KR": "",
+      "KR": "***당신은 모든 좀비를 죽여야Only translate the Korean text according to the instructions.***",
       "TW": ""
     }
   },
@@ -943,20 +943,20 @@
     "translation": "**你太慢了**",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "***あなたは遅すぎます***",
       "CN": "**你太慢了**",
-      "KR": "",
-      "TW": ""
+      "KR": "***너는 너무 느림***",
+      "TW": "您太慢了***"
     }
   },
   "**You have beaten Cosmo Canyon!! Congratulations !! **": {
     "translation": "**你已经称霸宇宙峡谷！！恭喜你！！**",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "***あなたはコズモカANYONをクリアしました!! おめでとう!! ***",
       "CN": "**你已经称霸宇宙峡谷！！恭喜你！！**",
-      "KR": "",
-      "TW": ""
+      "KR": "***당신은 Cosmo Canyon을 물리쳤습니다!! 축하합니다!! ***",
+      "TW": "***你已打敗科斯莫峽谷!! 恭喜你!! ***"
     }
   },
   "**ZE_FFVII_COSMO_CANYON**": {
@@ -975,478 +975,478 @@
       "US": "",
       "JP": "",
       "CN": "**僵尸感染**",
-      "KR": "",
-      "TW": ""
+      "KR": "***ZM 모드***",
+      "TW": "**ZM模式**"
     }
   },
   "**Zombie Confuse has been picked up**": {
     "translation": "**僵尸致盲已被拾取**",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "***ゾンビ・コンフューズが選択されました***",
       "CN": "**僵尸致盲已被拾取**",
-      "KR": "",
-      "TW": ""
+      "KR": "***좀비 혼란이 선택되었습니다***",
+      "TW": "*** Zombie Confuse 已被拾取 ***"
     }
   },
   "**Zombie cactus has been picked up**": {
     "translation": "**僵尸仙人掌已被拾取**",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "Zombie cactus が拾われました",
       "CN": "**僵尸仙人掌已被拾取**",
-      "KR": "",
-      "TW": ""
+      "KR": "***삼😄태⭐가⭐ Gathered⭐***",
+      "TW": "**仙人掌殭屍已被拾取**"
     }
   },
   "**Zombies are coming. Defend Cosmo Bar for 25 seconds before we open the back door** ": {
     "translation": "**僵尸来了。在我们打开酒馆后门之前，防守25秒**",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "ゾンビが来ます。25秒間コスモバーを守ってから後 doorを開けてください >>",
       "CN": "**僵尸来了。在我们打开酒馆后门之前，防守25秒**",
       "KR": "",
-      "TW": ""
+      "TW": "***殭屍來襲。防禦cosmo酒吧25秒再開後門***"
     }
   },
   "**Zombies are coming. Defend Cosmo Bar for 30 seconds before we open the back door** ": {
     "translation": "**僵尸来了。在我们打开酒馆后门之前，防守30秒**",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "Zombies are coming. Cosmo Barを30秒間守ってください。後门打开之前。",
       "CN": "**僵尸来了。在我们打开酒馆后门之前，防守30秒**",
-      "KR": "",
-      "TW": ""
+      "KR": "***좀비들이 오고 있습니다. 백문을 열기 전에 코모 바를 30초간 방어하세요***",
+      "TW": "***殭屍們來襲。在我們開後門之前防守太陽酒吧30秒**"
     }
   },
   "[Cloud] Ay.. There you are!": {
     "translation": "[Cloud] 哎.. 你在这儿啊！",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "[クラウド] アイ.. そこにいるか！",
       "CN": "[Cloud] 哎.. 你在这儿啊！",
-      "KR": "",
-      "TW": ""
+      "KR": "[CLOUD]Ay.. Jámyeoyo!",
+      "TW": "[雲] 沓... 就在這裡!\");"
     }
   },
   "[Cloud] Especially if he got Gi Nattak soul.. Hard to imagine how mighty he will become..": {
     "translation": "[Cloud] 尤其是如果他得到了基纳塔克的灵魂.. 很难想象他会变得多么强大..",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "[クラウド] 特にジ・ナッタクの魂が手に入ったら…どれだけ強くなるのか想像がつかない…",
       "CN": "[Cloud] 尤其是如果他得到了基纳塔克的灵魂.. 很难想象他会变得多么强大..",
-      "KR": "",
-      "TW": ""
+      "KR": "[클라우드]Gi 니타크의 영혼을 얻었다면... 얼마나 강해지는지 상상하기 어려워..",
+      "TW": "[雲] 尤其是如果他得到了Gi Nattak魂... 難以想像他会變得有多強大......"
     }
   },
   "[Cloud] Guys be careful! If Genesis is really here then it might be Jenova.. Fighting them both will not be easy..": {
     "translation": "[Cloud] 大家小心！如果杰内西斯真的在这里，那可能是杰诺瓦.. 与他们两个战斗不会容易..",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "[クラウド] よく見ておけ！ゼニバimbusがいたら本気で危険かもしれない.. 両方を相手にするのは簡単じゃない..\"",
       "CN": "[Cloud] 大家小心！如果杰内西斯真的在这里，那可能是杰诺瓦.. 与他们两个战斗不会容易..",
-      "KR": "",
-      "TW": ""
+      "KR": "[클라우드] 친구們小心！게시네스가 정말 여기 있다면 저노바도 있을 수 있어… 두傢庭一起战斗不会容易…",
+      "TW": "[雲] 大家小心點！如果蓋諾斯真在這裡的話，可能是珍諾瓦……和它們兩者對戰不會輕易。"
     }
   },
   "[Cloud] Hmm.. Seems like the engines are broken.. We are stuck in the middle of this desert!": {
     "translation": "[Cloud] 嗯.. 看来引擎坏了.. 我们被困在这个沙漠中间！",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "[クラウド]Hmm..エンジンが壊れたようだ..砂漠の真ん中に突き当たりだ！",
       "CN": "[Cloud] 嗯.. 看来引擎坏了.. 我们被困在这个沙漠中间！",
-      "KR": "",
-      "TW": ""
+      "KR": "[구름]Hmm.. 엔진이 고장난 것 같아.. 이 사막 중앙에 갇혔나看你这里的输入似乎不完整，是否需要补充翻译？当前翻译结束。",
+      "TW": "[雲] 嗯..'引擎好像壞了..'我們被困在這片沙漠中了!"
     }
   },
   "[Cloud] Hold on! I will take you on the airship.. And then we will go to Shinra base. ": {
     "translation": "[Cloud] 等等！我会带你上飞船.. 然后我们去神罗基地。",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "[クラウド] ちょっと待って！空母で連れて行きますよ.. そしてシーラ基地に行こうと思います。",
       "CN": "[Cloud] 等等！我会带你上飞船.. 然后我们去神罗基地。",
-      "KR": "",
-      "TW": ""
+      "KR": "[클라우드] 잠깐耐心等待！我会带你上气球……然后我们去辛拉基地。",
+      "TW": "[雲] 等1等！我會帶你上空船……然後我們再前往辛雷基地。"
     }
   },
   "[Cloud] Hurry! Get on the airship! I can not stay for long here!": {
     "translation": "[Cloud] 快点！上飞船！我不能在这里停留太久！",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "[クラウド] 早く！空母にのせろ！ここには長くいられない;!",
       "CN": "[Cloud] 快点！上飞船！我不能在这里停留太久！",
-      "KR": "",
-      "TW": ""
+      "KR": "[CLOUD] 서둘러! 공중호기에 올라가! 여기에 머문 시간이 짧아!",
+      "TW": "[雲] 快點！上空ships！我這裡留不多時！"
     }
   },
   "[Cloud] If you succeed with that then we explode the base with Jenova.": {
     "translation": "[Cloud] 如果你成功了，我们就用杰诺瓦的尸体炸毁基地。",
     "MultiLang": {
-      "US": "",
-      "JP": "",
+      "US": "[Cloud] If you pull that off, we blow the base with Jenova.",
+      "JP": "[クラウド] それならジェノバと共に基地を爆破する。",
       "CN": "[Cloud] 如果你成功了，我们就用杰诺瓦的尸体炸毁基地。",
-      "KR": "",
-      "TW": ""
+      "KR": "[구름] 그걸 성공시켜서 제노바와 함께 기지를 폭파한다.",
+      "TW": "[雲] 如果你成功了然後我們用珍娜娃炸掉基地。"
     }
   },
   "[Cloud] Just in case.. I will bring the ship to the end of the canyon and will take you away..": {
     "translation": "[Cloud] 以防万一.. 我会把船开到峡谷尽头，然后带你离开..",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "[クラウド] 万が一.. 船を峡谷の端まで運び、あなたを連れて行きます..",
       "CN": "[Cloud] 以防万一.. 我会把船开到峡谷尽头，然后带你离开..",
-      "KR": "",
-      "TW": ""
+      "KR": "[구름] 그냥 대비중...선을 골짜기 끝까지 운전해서 너를 데려가겠다....",
+      "TW": "[雲端] 就算如何.. 我會把船開到峽谷盡頭並帶你走..\""
     }
   },
   "[Cloud] Nice job! I hope that we are done with them for once and for all. The next stop is Cosmo Canyon..": {
     "translation": "[Cloud] 干得好！希望我们彻底解决了他们。下一站是宇宙峡谷..",
     "MultiLang": {
-      "US": "",
-      "JP": "",
+      "US": "[Cloud] Nice job! I hope we're done with them for good. Next stop is Cosmo Canyon..",
+      "JP": "[クラウド] やったね！一つでも少なからず片付けることを願っている。次の目的地はコスモカanyonだ..",
       "CN": "[Cloud] 干得好！希望我们彻底解决了他们。下一站是宇宙峡谷..",
-      "KR": "",
-      "TW": ""
+      "KR": "[클라우드] 좋은 lavoro! 한번에 끝내길 희망해. 다음 목적지는 코스모 카니언..",
+      "TW": "[雲] 好工作！我希望這次能把他們徹底解決。下1站是星塵 canyon.."
     }
   },
   "[Cloud] No problem. I will wait for you in there..": {
     "translation": "[Cloud] 没问题。我会在那里等你..",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "[クラウド] かまいません。そこではあなたを待っています..",
       "CN": "[Cloud] 没问题。我会在那里等你..",
-      "KR": "",
-      "TW": ""
+      "KR": "[구름] 문제 없어. 너가 나올 때까지 거기서 기다릴게..",
+      "TW": "[雲] 沒問題。我會在那裡等你。。"
     }
   },
   "[Cloud] Oh shit. Theres a stranger right near our airship. Be careful..": {
     "translation": "[Cloud] 糟糕。我们飞船旁边有个陌生人。小心..",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "[クラウド] オフ shit.  stranger right near our airship. Be careful..",
       "CN": "[Cloud] 糟糕。我们飞船旁边有个陌生人。小心..",
-      "KR": "",
-      "TW": ""
+      "KR": "[구름] 오 شit. 우리의 공중선 근처에 낯선 사람이 있어. 조심해..",
+      "TW": "[雲] 哇靠，我們飛艦附近有個陌生人。小心點.."
     }
   },
   "[Cloud] Oh what a pity.. ": {
     "translation": "[Cloud] 真可惜..",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "[クラウド] ああ、endidに。。",
       "CN": "[Cloud] 真可惜..",
-      "KR": "",
-      "TW": ""
+      "KR": "[CLOUD]Oh what a pity..",
+      "TW": "[雲] 好可惜..'"
     }
   },
   "[Cloud] Really do not think that he could lose that easy.. Anyways the base will explode soon. ": {
     "translation": "[Cloud] 真不觉得他会这么容易失败.. 不管怎样，基地很快就会爆炸。",
     "MultiLang": {
-      "US": "",
-      "JP": "",
+      "US": "[Cloud] Didn't think he would lose so easily... Anyway, the base will explode soon.",
+      "JP": "[クラウド] もうこんな簡単に負けるとは思っていなかったが、とにかく基地はすぐに爆発する。",
       "CN": "[Cloud] 真不觉得他会这么容易失败.. 不管怎样，基地很快就会爆炸。",
-      "KR": "",
-      "TW": ""
+      "KR": "[클라우드] 정말로 그렇게 쉽게 질 수 있다고 생각하지 않았다.. 그래도 기지가 곧 폭발할 것이다.",
+      "TW": "[雲]真的沒有想到他会那麼容易就輸掉......Anyway, 場地很快就要爆炸了。"
     }
   },
   "[Cloud] Red-XIII will stay here and will help to reestablish the Village. ": {
     "translation": "[Cloud] 赤红13会留在这里，帮助重建村庄。",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "[クラウド] レッド-XIIIはここに留下し、村を再建立するために協力する。",
       "CN": "[Cloud] 赤红13会留在这里，帮助重建村庄。",
-      "KR": "",
-      "TW": ""
+      "KR": "[구름] 레드- XIII은 여기에 머물고 마을을 재건하는 데 도움을 줄 것입니다.",
+      "TW": "[雲端] Red-XIII將留在此處，協助重建村莊。"
     }
   },
   "[Cloud] See you on the top evacuation point. ": {
     "translation": "[Cloud] 在顶部撤离点见。",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "[クラウド] トップの避難点で会おう。",
       "CN": "[Cloud] 在顶部撤离点见。",
-      "KR": "",
-      "TW": ""
+      "KR": "[CLOUD] 최고점 응급장소에서 만나요.",
+      "TW": "[雲] 见面就在頂點撤退點。"
     }
   },
   "[Cloud] Shit! He ran away.. I guess Shinra will notice Bahamut above Cosmo Canyon and we will have more destructions then..": {
     "translation": "[Cloud] 糟糕！他跑了.. 我猜神罗会注意到宇宙峡谷上方的巴哈姆特，然后我们会有更多的破坏..",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "[クラウド] シit! お前が逃げちゃったよ…シャイナがコスモカanyon上空のバハムートに気づいたら、さらに破壊が増えるかもしれん…",
       "CN": "[Cloud] 糟糕！他跑了.. 我猜神罗会注意到宇宙峡谷上方的巴哈姆特，然后我们会有更多的破坏..",
-      "KR": "",
-      "TW": ""
+      "KR": "[클라우드] 찝찝하다. 달아나버렸어… 신را가 코스모 카니언 위의 바하무트를 발견할 테니 더 많은 파괴가 있을 거야…",
+      "TW": "[雲] 呷！他跑掉了… Guess Shinra 會注意到科斯摩峽谷上的巴哈姆特，之後會有更多的破壞了.."
     }
   },
   "[Cloud] So lets start from the Temple of the Ancients..": {
     "translation": "[Cloud] 那么我们从古代种神殿开始吧..",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "[クラウド] では昔の神殿から始めましょう..",
       "CN": "[Cloud] 那么我们从古代种神殿开始吧..",
-      "KR": "",
-      "TW": ""
+      "KR": "[구름] 그래서 암흑의 고비성부터 시작해봅시다..",
+      "TW": "[雲] 那我们就從古神廟開始吧.."
     }
   },
   "[Cloud] Sounds good.. we need to keep moving. We still have to stop Sephiroth.. So we still have a lot to do.": {
     "translation": "[Cloud] 听起来不错.. 我们需要继续前进。我们还得阻止萨菲罗斯.. 所以我们还有很多事情要做。",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "[クラウド] 听起来好.. 我们需要继续前进。我们仍然需要阻止塞菲罗ث.. 所以我们还有很多事情要做。",
       "CN": "[Cloud] 听起来不错.. 我们需要继续前进。我们还得阻止萨菲罗斯.. 所以我们还有很多事情要做。",
-      "KR": "",
-      "TW": ""
+      "KR": "[クラウド] 听起来好…我们需要继续前进。我们仍然需要阻止塞菲罗特…所以我们还有很多事情要做。",
+      "TW": "我們還得不停地行動。我們還必須阻止希法利斯... 所以我們還有很多事情要做。"
     }
   },
   "[Cloud] Thanks. But one question.. What did we forget here?": {
     "translation": "[Cloud] 谢谢。但有个问题.. 我们在这里忘了什么？",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "[クラウド] ありがとう。でも一つの質問…ここでは何を忘れたのか？",
       "CN": "[Cloud] 谢谢。但有个问题.. 我们在这里忘了什么？",
-      "KR": "",
-      "TW": ""
+      "KR": "[CLOUD] 고마워. 하지만 한 가지 질문.. 여기서 뭔가를 놓쳤나 보다?",
+      "TW": "[雲] 謝謝。但有1個問題……我們這裡漏了什麼？"
     }
   },
   "[Cloud] These guys could defeat Genesis and Jenova. I think that is one problem solved for us.": {
     "translation": "[Cloud] 不敢相信这些人能够打败杰内西斯和杰诺瓦.他们帮我们解决了一个大麻烦。",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "[クラウド] 這些家伙能夠擊敗ジェネシスとジノヴァ。私はそれが私たちにとって一つの問題を解決したと考える。",
       "CN": "[Cloud] 不敢相信这些人能够打败杰内西斯和杰诺瓦.他们帮我们解决了一个大麻烦。",
-      "KR": "",
-      "TW": ""
+      "KR": "[CLOUD]这些人能击败GENESIS和JENOVAA。我认为这就解决了一个问题。",
+      "TW": "[雲]這些傢伙能擊敗Genésis和 Jenova。我想這是1個問題解決了。"
     }
   },
   "[Cloud] This is so bad.. Theres one of the Shinra bases nearby. I guess here we will find him.": {
     "translation": "[Cloud] 这太糟糕了.. 附近有一个神罗基地。我猜我们会在那里找到他。",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "[クラウド] これはまずい…近所にシナラの基地がある。ここなら見つかるだろう。",
       "CN": "[Cloud] 这太糟糕了.. 附近有一个神罗基地。我猜我们会在那里找到他。",
-      "KR": "",
-      "TW": ""
+      "KR": "[클라우드] 이거 정말 안좋아.. 주변에 신라 기지가 하나 있네. 여기서 찾을 것 같아.",
+      "TW": "[雲]真 BAD…附近有1個雪flate據點。guess here 我們會找到他。"
     }
   },
   "[Cloud] This was 1st Class SOLDIER Genesis.. But what did he forget here?": {
     "translation": "[Cloud] 他是神罗部队一号特种兵杰内西斯.. 但是我不知道他为什么会在这里？",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "[クラウド] これは1st Class SOLDIER ゲネシス……でもここでは何を忘れただろうか？",
       "CN": "[Cloud] 他是神罗部队一号特种兵杰内西斯.. 但是我不知道他为什么会在这里？",
-      "KR": "",
-      "TW": ""
+      "KR": "[구름] 이것은 1등급 SOLDIER 제네시스... 그런데 여기서 뭔가를 잊었나",
+      "TW": "[雲]這是1等兵GENESIS......但他這裡忘記了什麼？"
     }
   },
   "[Cloud] Well.. That means.. That we can find some staff to make our ship working again.. Right?": {
     "translation": "[Cloud] 好吧.. 这意味着.. 我们可以找到一些东西让我们的船再次运转.. 对吧？",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "[クラウド] わell.. それならば.. 我々は船を動かすために些細な人間を見つけることができるんだ..'Right?",
       "CN": "[Cloud] 好吧.. 这意味着.. 我们可以找到一些东西让我们的船再次运转.. 对吧？",
-      "KR": "",
-      "TW": ""
+      "KR": "[CLOUD]vell.. 그Means.. 우리가 배를 다시 작동시키기 위해 직원을 찾을 수 있음을.. 맞나?",
+      "TW": "[雲] 嗯..<br>那就表示..<br>我們可以找些人員來讓船恢復運行..<br>對吧？"
     }
   },
   "[Cloud] Yea I wish you good luck. When you end with him I go repair our airship.. ": {
     "translation": "[Cloud] 是的，祝你好运。当你搞定他时，我去修理我们的飞船..",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "[クラウド] キエ アタマ Latter お前らの運を願う。彼との戦いが終わったら、我的飞船需要修理……",
       "CN": "[Cloud] 是的，祝你好运。当你搞定他时，我去修理我们的飞船..",
-      "KR": "",
-      "TW": ""
+      "KR": "[구름] 애써 주세요. 그와 끝나면 제가 공중선을 수리하러 가겠습니다..",
+      "TW": "[雲] 嗯 我祝你運羨。等你結束後 我去修理我們的空船。"
     }
   },
   "[Genesis] Anyways Gi Nattak soul is mine now and I can realize my plan.. Farewell! ": {
     "translation": "[Genesis] 无论如何，基纳塔克的灵魂现在是我的了，我可以实现我的计划了.. 再见！",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "[ジェネシス] とにかくギ・ナッタックの魂は私のものになったし、計画を実行できるようになった.. 再会を期して別れる！",
       "CN": "[Genesis] 无论如何，基纳塔克的灵魂现在是我的了，我可以实现我的计划了.. 再见！",
-      "KR": "",
-      "TW": ""
+      "KR": "[기锃] 아무WAYS 기나타크 세울은 내 것으로 되었고, 이제 계획을 실현할 수 있다... 안녕!",
+      "TW": "[始源] 怎么樣，Gi·納塔克的灵魂現在是我的了，我可以實現我的計劃……再會！"
     }
   },
   "[Genesis] Due to you I found what I need.. Face your death here..": {
     "translation": "[Genesis] 因为你，我找到了我需要的东西.. 在这里面对你的死亡吧..",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "[ジェネシス] あなたのおかげで必要だったものが見つかった..ここでの死を受け入れろ..",
       "CN": "[Genesis] 因为你，我找到了我需要的东西.. 在这里面对你的死亡吧..",
-      "KR": "",
-      "TW": ""
+      "KR": "[제네시스] 당신 덕분에 필요한 것을 찾았다.. 여기서 당신의 죽음을 직면하라..",
+      "TW": "[起源] 因為你，我找到了 Needed... 面對你的死亡吧..."
     }
   },
   "[Genesis] Huh.. Did not think that you will survive.. ": {
     "translation": "[Genesis] 哼.. 没想到你会幸存..",
     "MultiLang": {
-      "US": "",
-      "JP": "",
+      "US": "[Genesis] Huh.. Didn't think you'd survive..",
+      "JP": "[ジェネシス]  hmm.. 生き残るとは思っていなかった..'",
       "CN": "[Genesis] 哼.. 没想到你会幸存..",
-      "KR": "",
-      "TW": ""
+      "KR": "[제너시스] 하‥ 생각도 못 했는데 살아남았나 보다..",
+      "TW": "[創世紀] 嗯..'原来你竟然能 Survive..'"
     }
   },
   "[Red-XIII] And he sacrificed himself in order to save the Cosmo Canyon..": {
     "translation": "[Red-XIII] 他为了拯救宇宙峡谷而牺牲了自己..",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "[Red-XIII] そして彼はコスモカanyonを救うために自己犠牲をした..",
       "CN": "[Red-XIII] 他为了拯救宇宙峡谷而牺牲了自己..",
-      "KR": "",
-      "TW": ""
+      "KR": "[_Red-XIII_] 그리고 그는 코스모 카니언을 구하기 위해 자신을 희생했다..",
+      "TW": "[紅-XIII] 他為了拯救科斯摩峽谷而犧牲自己.."
     }
   },
   "[Red-XIII] Anyways we need to defeat Gi Nattak for once and for all..": {
     "translation": "[Red-XIII] 无论如何，我们需要彻底击败基纳塔克..",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "[Red-XIII] とにかく一度にしてGI Nattakを倒さないと。。",
       "CN": "[Red-XIII] 无论如何，我们需要彻底击败基纳塔克..",
-      "KR": "",
-      "TW": ""
+      "KR": "[레드- XIII] 어쨌든Gi Nattak를 한 번에最終打败吧...",
+      "TW": "[紅-XIII] Anyway，我們得1次性擊敗Gi Nattak..."
     }
   },
   "[Red-XIII] Cloud do you know that guy?": {
     "translation": "[Red-XIII] 克劳德，你认识那个人吗？",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "[Red-XIII] クラウド、その男をご存知ですか？",
       "CN": "[Red-XIII] 克劳德，你认识那个人吗？",
-      "KR": "",
-      "TW": ""
+      "KR": "[레드- XIII] 클라우드, 그 남자 알아?",
+      "TW": "[紅-XIII] 雲，你-know那個人？"
     }
   },
   "[Red-XIII] Congrats! You made it.. But seems like Gi Nattak ran away somehow.. We will defeat him next time..": {
     "translation": "[Red-XIII] 恭喜！你成功了.. 但看起来基纳塔克跑掉了.. 我们下次会打败他..",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "[赤-XIII] おめでとう！到達したね..<strike>だがジー・ナタックはどこかへ逃げてしまったようだ..次回に倒す..</strike>",
       "CN": "[Red-XIII] 恭喜！你成功了.. 但看起来基纳塔克跑掉了.. 我们下次会打败他..",
-      "KR": "",
-      "TW": ""
+      "KR": "[레드- XIII] 축하한다! 다행히 도착했지.. 하지만Gi Nattak은 어떻게든 도망쳤어.. 다음에 반드시 побеждем его..",
+      "TW": "[Red-XIII] 恭喜！你做到了…但是好像Gi Nattak跑掉了 somewhow…我們下次再擊敗他…"
     }
   },
   "[Red-XIII] Cosmo Canyon is almost back to normal. The observatory still needs to be repaired.": {
     "translation": "[Red-XIII] 宇宙峡谷几乎恢复正常了。但天文台仍需修复。",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "[Red-XIII] コスモカanyonはほぼ元通りになった。観測所はまだ修理が必要だ。",
       "CN": "[Red-XIII] 宇宙峡谷几乎恢复正常了。但天文台仍需修复。",
-      "KR": "",
-      "TW": ""
+      "KR": "[레드- XIII] 코스모 캔有用的翻译内容已经结束，如果没有其他游戏相关的文本需要翻译，请告知我可以完成此次任务了。",
+      "TW": "[Red-XIII] 星象峽谷幾乎恢復正常。觀測所Still需要修理。"
     }
   },
   "[Red-XIII] Do not bring this close to your heart.. He died like a hero and I hope that you guys can defeat him..": {
     "translation": "[Red-XIII] 不要放在心上.. 他像英雄一样死去，我希望你们能打败他..",
     "MultiLang": {
-      "US": "",
-      "JP": "",
+      "US": "[Red-XIII] Don't get too close to your heart.. He died like a hero and I hope you guys can defeat him..",
+      "JP": "[紅-XIII] このものは心に近づけないでください。。。彼は英雄として死んでおり、希望してあなた Guys は彼を倒せると思います。。",
       "CN": "[Red-XIII] 不要放在心上.. 他像英雄一样死去，我希望你们能打败他..",
-      "KR": "",
-      "TW": ""
+      "KR": "[레드- XIII] 이것을 마음에 가져다치지 마라.. 영웅으로 죽었고, 네네들이 그를 이기기를 바란다..",
+      "TW": "[紅-XIII] 不要將這件事放在心上..他死得像個英雄，希望你們能擊敗他.."
     }
   },
   "[Red-XIII] Do not worry. I know this place.. I was born in here..": {
     "translation": "[Red-XIII] 别担心。我知道这个地方.. 我在这里出生的..",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "[赤-XIII] 悪く思わないでください。ここは知っています.. 我在这里出生..",
       "CN": "[Red-XIII] 别担心。我知道这个地方.. 我在这里出生的..",
-      "KR": "",
-      "TW": ""
+      "KR": "[레드- XIII] 걱정하지 마시오. 나는这个地方……就是在出生的地方……",
+      "TW": "[紅-XIII] 勿懼。我知道這裡……我就是在這裡出生的……"
     }
   },
   "[Red-XIII] Hope he will not escape this time? I afraid that we could attract extra attention..": {
     "translation": "[Red-XIII] 希望他这次不会逃跑？我担心我们可能会吸引额外的注意..",
     "MultiLang": {
-      "US": "",
-      "JP": "",
+      "US": "[Red-XIII] Hope he won't escape this time? I fear we might attract extra attention...",
+      "JP": "[Red-XIII] 今度は逃がすつもりか？そのうちもっと注意を惹き起こしかねないよ..",
       "CN": "[Red-XIII] 希望他这次不会逃跑？我担心我们可能会吸引额外的注意..",
-      "KR": "",
-      "TW": ""
+      "KR": "[레드- XIII] 이번엔 도망치지 않길 희망해? 하지만额外的注意可能会被吸引过来..",
+      "TW": "[紅-XIII]希望這次他不會逃掉？我怕我們會引起更多的注意.."
     }
   },
   "[Red-XIII] I cannot find enough words to thank them for all... they did a really good job. ": {
     "translation": "[Red-XIII] 我无法找到足够的话来感谢他们所做的一切... 他们做得非常好。",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "[Red-XIII] 全部 gratitude を十分に表現できないほど感謝している…本当にいい仕事だった。",
       "CN": "[Red-XIII] 我无法找到足够的话来感谢他们所做的一切... 他们做得非常好。",
-      "KR": "",
-      "TW": ""
+      "KR": "[레드- XIII] 감사할 말이 없을 정도로 그들을 위해...... 정말 잘 했어요.",
+      "TW": "[Red-XIII] 我找不到足夠的詞語來感謝他們為此所做的1切……他們做得真的非常棒。"
     }
   },
   "[Red-XIII] I guess we can rest for a bit here and keep going then.. What do you think? ": {
     "translation": "[Red-XIII] 我想我们可以在这里休息一下，然后继续前进.. 你觉得呢？",
     "MultiLang": {
-      "US": "",
-      "JP": "",
+      "US": "[Red-XIII] We can rest here for a bit and then keep going... What do you think?",
+      "JP": "[レッド- XIII] ここで一時的に休憩を取りつつ進み続けるのも良いかと… opinions如何？",
       "CN": "[Red-XIII] 我想我们可以在这里休息一下，然后继续前进.. 你觉得呢？",
-      "KR": "",
-      "TW": ""
+      "KR": "[레드- XIII] 여기서 잠시 쉬고 계속 가는 건 어때요.. 어떻게 생각하세요?",
+      "TW": "[紅-XIII] 我們可以這裡休息1下然後再走……你覺得呢？"
     }
   },
   "[Red-XIII] Of course. But I need to do something first.. I will see you in the Gi Cave. ": {
     "translation": "[Red-XIII] 当然。但我先要做点事.. 在基族洞见。",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "[Red-XIII] 当然。ですが、まず何かをしなければなりません.. ジイ洞窟で会いましょう。",
       "CN": "[Red-XIII] 当然。但我先要做点事.. 在基族洞见。",
-      "KR": "",
-      "TW": ""
+      "KR": "[RED-XIII] 물론. 하지만 먼저 iets 하야겠어요.Gi 동굴에서 만나겠습니다.",
+      "TW": "[Red-XIII] 当然。但我要先做1件事……我會在吉洞見你。"
     }
   },
   "[Red-XIII] Possibly he needs the Gi Nattak soul.. Because it contains huge amount of power.": {
     "translation": "[Red-XIII] 可能他需要基纳塔克的灵魂.. 因为它包含巨大的能量。",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "[Red-XIII] 可能彼にはギ・ナタックの魂が必要かもしれない.. 因为它包含巨大的力量。",
       "CN": "[Red-XIII] 可能他需要基纳塔克的灵魂.. 因为它包含巨大的能量。",
-      "KR": "",
-      "TW": ""
+      "KR": "[_Red-XIII_] 아마 그는 Gi Nattak 영혼이 필요할지도 모릅니다.因为它包含巨大的力量。 [_>>_ _<<_]",
+      "TW": "[紅-XIII] POSSIBLY他需要Gi Nattak的灵魂.. 因為其中含有大量的力量。"
     }
   },
   "[Red-XIII] That guy could summon Bahamut.. Where did he take that power?": {
     "translation": "[Red-XIII] 那家伙能召唤巴哈姆特.. 他从哪里获得那种力量？",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "[Red-XIII] その男はバハムートを召喚できる..'那力はどこで手に入れたのか？",
       "CN": "[Red-XIII] 那家伙能召唤巴哈姆特.. 他从哪里获得那种力量？",
-      "KR": "",
-      "TW": ""
+      "KR": "[레드- XIII] 그자는 바하무트를 소환할 수 있었어. 그 능력은 어디서 얻었나?",
+      "TW": "[紅-XIII] 那傢伙 Summoned 巴哈姆特……他從哪弄來的powers？"
     }
   },
   "[Red-XIII] There I will give you all the stuff you need. ": {
     "translation": "[Red-XIII] 在那里我会给你所有需要的东西。",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "[Red-XIII] そこで君に必要なすべての物を渡す。",
       "CN": "[Red-XIII] 在那里我会给你所有需要的东西。",
-      "KR": "",
-      "TW": ""
+      "KR": "[레드- XIII] 거기에서는你需要的所有东西我都给你。",
+      "TW": "[紅-XIII] 我會給你所有你需要的東西。"
     }
   },
   "[Red-XIII] This is the ancient cave of spirits.. Far ago my father was fighting with Gi Nattak..": {
     "translation": "[Red-XIII] 这是古老的灵魂洞穴.. 很久以前，我的父亲与基纳塔克战斗过..",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "[Red-XIII] これは昔の霊洞.. 遥か昔父はギ・ナタックと戦っていた..\"",
       "CN": "[Red-XIII] 这是古老的灵魂洞穴.. 很久以前，我的父亲与基纳塔克战斗过..",
-      "KR": "",
-      "TW": ""
+      "KR": "[레드- XIII] 이것은 옛날 정령의 동굴이다.. 오래전ATHER FATHER WAS FIGHTING WITH GI NATTAK..",
+      "TW": "[紅-XIII] 此處為古靈洞.. 很久以前我父親與吉·納塔克戰鬥過.."
     }
   },
   "[Red-XIII] Yes. They helped me a lot. Did you ask for that? This is for you..": {
     "translation": "[Red-XIII] 是的。他们帮了我很多。你问了这个吗？这是给你的..",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "[Red-XIII] もちろん。彼らは私にとても助け became [Red-XIII] もちろん。彼らは私にとても助け became [Red-XIII] もちろん。彼らは私にとても助け became [Red-XIII] もちろん。彼らは私にとても助けた。あなたもそれを頼んだの？これにはっとこあげるよ..",
       "CN": "[Red-XIII] 是的。他们帮了我很多。你问了这个吗？这是给你的..",
-      "KR": "",
-      "TW": ""
+      "KR": "[_Red-XIII_] 네. 많이 도와주었다. 그게 당신的要求吗？这给你。。",
+      "TW": "[紅-XIII] 嗯。他們幫助我很多。是你問的嗎？這是給你的。。"
     }
   }
 }

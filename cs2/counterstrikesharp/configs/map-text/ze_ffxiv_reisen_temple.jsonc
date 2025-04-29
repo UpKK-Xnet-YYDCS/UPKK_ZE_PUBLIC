@@ -82,7 +82,7 @@
   "A player has pickup Heal.": {
     "translation": "",
     "MultiLang": {
-      "US": "",
+      "US": "A player picked up Heal.",
       "JP": "プレイヤーがHealを拾取しました。",
       "CN": "1名玩家拾取了 Healing。",
       "KR": "플레이어가 Pickup Heal을 획득했습니다.",
@@ -172,7 +172,7 @@
   "A player has pickup Water.": {
     "translation": "",
     "MultiLang": {
-      "US": "",
+      "US": "A player picked up Water.",
       "JP": "プレイヤーがWaterを拾取しました。",
       "CN": "1名玩家拾取了Water。",
       "KR": "플레이어가 Water을 집었습니다.",
@@ -195,7 +195,7 @@
       "US": "",
       "JP": "[水] ケートル 水エリア，強力遅行ゾンビ 7sec，50cd.",
       "CN": "[Water] 箱子水区，强减速丧尸，持续7秒，50cd。",
-      "KR": "",
+      "KR": "[물] 크레인 물 구역, 강한 천천히 움직이는 블라이저 7초, CD 50.",
       "TW": "[水] 壅水區，強力慢速殭屍，持續7秒，50冷卻時間。"
     }
   },
@@ -234,7 +234,7 @@
     "MultiLang": {
       "US": "There are zombies that have learned Shelter.",
       "JP": "有ゾンビが庇護を習得した.",
-      "CN": "",
+      "CN": "有僵尸学会了庇护。",
       "KR": "자식들이 피난소를 배웠습니다.",
       "TW": "有殭屍習得了庇護."
     }
@@ -325,7 +325,7 @@
       "US": "",
       "JP": "ゾンビアイテムロック！",
       "CN": "僵尸道具锁定！",
-      "KR": "",
+      "KR": "Zombies 아이템 잠금됨! >",
       "TW": "僵尸物品上鎖！"
     }
   },
@@ -374,7 +374,7 @@
     "MultiLang": {
       "US": "",
       "JP": "＞ゲンブーはカデュースを Casting しています。",
-      "CN": "",
+      "CN": "Genbu是施放 Caduceus。",
       "KR": "Genbu는 Caduceus를 시전합니다.",
       "TW": "Genbu是施放Caduceus。"
     }
@@ -634,7 +634,7 @@
     "MultiLang": {
       "US": "[Scarlet Fall] Can immobilize Boss.",
       "JP": "[赤陨] ボスに固定効果を適用します.",
-      "CN": "",
+      "CN": "[赤陨] 可对BOSS造成定身效果.",
       "KR": "[적인신] 보스에게 움직일 수 없게 하는 효과를 줄 수 있습니다.",
       "TW": "[赤陨] 可對BOSS造成定身效果."
     }
@@ -642,7 +642,7 @@
   "[Gravity] It will Freeze Bosses movement.": {
     "translation": "",
     "MultiLang": {
-      "US": "",
+      "US": "[Gravity] Will freeze bosses movement.",
       "JP": "[重力] 敵ボスの移動を凍結します。",
       "CN": "[重力] 将冻结Boss移动。",
       "KR": "[중력] 보스의 이동을凍结。",
@@ -655,7 +655,7 @@
       "US": "",
       "JP": "> Genbuの盾が破れた!<",
       "CN": "Genbu 龙盾碎了！",
-      "KR": "",
+      "KR": "건방 보호구 깨졌다!",
       "TW": "★★★Genbu防具 BREAK！！＜"
     }
   },
@@ -676,7 +676,7 @@
       "JP": ">>ゾンビアイテム解鎖！<",
       "CN": "> 活尸道具解锁！<",
       "KR": ">>> 블록미터 아이템 잠금해제! <<<",
-      "TW": ""
+      "TW": ">>> 愛滋懶屍解锁！ <<<"
     }
   },
   "> The First Temple will light up in 30 sec. <": {
@@ -914,7 +914,7 @@
     "MultiLang": {
       "US": "[Secret Flame] This artifact deals damage to BOSSes and their shield skills.",
       "JP": "[秘火] この神器はボスおよびその Shield 技能にダメージを与えることができる。",
-      "CN": "",
+      "CN": "[秘火] 此神器可对BOSS及其护盾技能造成伤害。",
       "KR": "[비화] 이 신기물은 보스와 그 보호막 기술에 피해를 줄 수 있습니다.",
       "TW": "[秘火] 此神器可對BOSS及其護盾技能造成傷害。"
     }
@@ -1162,7 +1162,7 @@
   "Thanks you all for testing my map!": {
     "translation": "",
     "MultiLang": {
-      "US": "",
+      "US": "Thanks everyone for testing my map!",
       "JP": "",
       "CN": "感谢大家测试我的地图！",
       "KR": "谢谢大家测试我的地图！",
@@ -1183,7 +1183,7 @@
     "translation": "",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "EVER このマップはちょっと小さいけど、 Still それでも楽しんでほしいな。 xd",
       "CN": "这个地图有点小，但希望你还是能喜欢。xd",
       "KR": "이 맵은 좀 작지만 그래도 당신이 즐길 거라 기대합니다. xd",
       "TW": "圖紙這 Pompeo 後悔有点小，但希望你還是能 Enjoy。xd"

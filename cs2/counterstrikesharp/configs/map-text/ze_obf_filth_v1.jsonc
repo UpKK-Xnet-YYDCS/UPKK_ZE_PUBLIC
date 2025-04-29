@@ -13,7 +13,7 @@
     "translation": "",
     "MultiLang": {
       "US": "[Version 1.2] Fixed bugs caused by certain door malfunctions, increased delay for the first outfield air wall disappearance, strengthened Minigun push.",
-      "JP": "",
+      "JP": "<Ver 1.2> 部分⚗️バグを修正、最初の外野気泡消失遅延、Minigun推力小幅強化.",
       "CN": "",
       "KR": "<Ver 1.2> 일부 카메인으로 인한 버그 수정, 첫번째 외곽 공기벽 소멸 지연 강화, Minigun 추진력 약화 개선.",
       "TW": "<Ver 1.2> 修復部分卡門導致的BUG,第1個外場空氣牆消失延遲,Minigun推力小加強."
@@ -173,7 +173,7 @@
     "translation": "",
     "MultiLang": {
       "US": "We need to find a way out around here; maybe we can also find a new train.",
-      "JP": "",
+      "JP": "我々は外に出る方法を考えなければならず、新しい列車を見つけられるかもしれません。",
       "CN": "",
       "KR": "<我们必须想想办法绕出去，也许还能找到新的列车。>",
       "TW": "我們得想辦法繞出去,也許還能找到新的列車。"
@@ -372,10 +372,10 @@
   "<原来是他们干的..可恶..他们到底是什么人.>": {
     "translation": "",
     "MultiLang": {
-      "US": "",
+      "US": "[It's them... Damn... Who are they, really.]",
       "JP": "",
       "CN": "",
-      "KR": "",
+      "KR": "<원래他们是干的..可恶..他们到底是什么人.>",
       "TW": ""
     }
   },
@@ -465,7 +465,7 @@
       "US": "We've met up with the reinforcements, sir. How do we get out of here?",
       "JP": "<増援が合流しました、ここからどうするべきですか、長官．>",
       "CN": "",
-      "KR": "",
+      "KR": "<우리와 지원군이 합류했습니다, 여기서 어떻게 탈출할지 장관,>",
       "TW": "我們跟增援匯合了,我们要怎麼離開這裡,長官."
     }
   },
@@ -514,7 +514,7 @@
     "MultiLang": {
       "US": "We can't go into that power room anymore.",
       "JP": "我々はあの電力室に入ることはできなさそうだ。",
-      "CN": "",
+      "CN": "我们无法进入那个电力室了.",
       "KR": "우리는 그 전기실에 들어갈 수 없으나.",
       "TW": "我們是無法進那個電力室了."
     }
@@ -523,7 +523,7 @@
     "translation": "",
     "MultiLang": {
       "US": "Use the gun to shatter that glass and dump a magazine into the console inside.",
-      "JP": "",
+      "JP": "用銃でそのガラスを砕き、中にあるコントロールボックスに一発撃ち込む。",
       "CN": "",
       "KR": "<총으로 그 유리打破吧,裡面的控制台來個連發。>",
       "TW": "用槍打碎那個玻璃吧,給裡面控制台來上1梭子."
@@ -545,7 +545,7 @@
       "US": "Prepare to Act",
       "JP": "準備行動",
       "CN": "",
-      "KR": "",
+      "KR": "준비行动",
       "TW": "準備行動"
     }
   },
@@ -585,7 +585,7 @@
       "US": "Those zombies are tearing at the elevator door!",
       "JP": "那些ゾンビはエレベーターの扉をあけています!",
       "CN": "",
-      "KR": "",
+      "KR": "<그those僵尸正在扒开电梯门!>",
       "TW": "那些殭屍正在扒開電梯門!"
     }
   },
@@ -616,7 +616,7 @@
       "JP": "<エレベーター Doors are closing.>",
       "CN": "",
       "KR": "<엘리베이터 문을 닫고 있습니다.>",
-      "TW": ""
+      "TW": "<正在關閉電梯門.>"
     }
   },
   "<这破铁疙瘩撑不了多久的.>": {
@@ -853,7 +853,7 @@
     "translation": "",
     "MultiLang": {
       "US": ">> Next, power has been cut off by them!",
-      "JP": "",
+      "JP": "<待て、電源が切断された!]",
       "CN": "",
       "KR": "<잠시, 전원이 차단되었습니다!]",
       "TW": "等下,電源被他們切斷了!"
@@ -874,7 +874,7 @@
     "MultiLang": {
       "US": "Gate No.2 has been activated!",
       "JP": "02号ゲートが動いた！",
-      "CN": "",
+      "CN": "第2号大门启动了!",
       "KR": "<2호 문이 작동開始翻译>",
       "TW": "02號大門啟動了!"
     }
@@ -932,7 +932,7 @@
   "<动作快点,都给我滚上火车头!>": {
     "translation": "",
     "MultiLang": {
-      "US": "",
+      "US": "Action quickly, all of you get on the locomotive!",
       "JP": "動作を早めて、全員が車頭に乗れ!",
       "CN": "<快行动,全都给我挤上火车头!]",
       "KR": "<'action swiftly, all of you get to the locomotive!>>",
@@ -1013,7 +1013,7 @@
     "translation": "",
     "MultiLang": {
       "US": "What! This... This is impossible. So our reinforcement troops are...",
-      "JP": "",
+      "JP": "何か! この...これは不可能だ、それじゃ私たちの補給隊は...",
       "CN": "",
       "KR": "<무슨! 이...이 불가능해, 그러면 우리 지원군은...>",
       "TW": "什麼！這...這不可能，那我們的增援部隊是.."
@@ -1122,11 +1122,11 @@
   "<恐怕..是没法拖到炸弹爆炸了.>": {
     "translation": "",
     "MultiLang": {
-      "US": "",
+      "US": "[Fearfully... it can't be dragged until the bomb explodes.]",
       "JP": "恐らく…爆弾が爆発するまで待てない Возможно... не получится дождаться взрыва бомбы.",
       "CN": "",
       "KR": "<大概是没法拖到炸弹爆炸了.>>",
-      "TW": ""
+      "TW": "恐怕..<eways>是没法拖到炸弹爆炸了.</ways>"
     }
   },
   "<只有一个办法去完成任务了.>": {
@@ -1154,7 +1154,7 @@
     "MultiLang": {
       "US": "Factory power rebooting!",
       "JP": "<工場電源が再起動しました！>",
-      "CN": "",
+      "CN": "工厂电源重启中!",
       "KR": "[공장 전원이 재시작 중!]",
       "TW": ""
     }
@@ -1164,7 +1164,7 @@
     "MultiLang": {
       "US": "Approximately 60 seconds to recharge power.",
       "JP": "約60秒で電力を回復します。",
-      "CN": "",
+      "CN": "大约需要60秒恢复电力.",
       "KR": "<약 60초로 전력을 회복합니다.>",
       "TW": "<大概要60秒恢復電力.>>"
     }
