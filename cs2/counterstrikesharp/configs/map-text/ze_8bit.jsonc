@@ -6,7 +6,7 @@
       "JP": "** おめでとうございます - u won [STAGE 1 EXTREME] **",
       "CN": "** 恭喜 - 你赢了 [关卡1 极限] **",
       "KR": "*** 축하합니다 - uwon [STAGE 1 EXTREME] ***",
-      "TW": ""
+      "TW": "** 頓時恭喜 - u 贏了 [階段 1 极限] **"
     }
   },
   "** Congratulations - u won [STAGE 1 NORMAL] **": {
@@ -23,7 +23,7 @@
     "translation": "** 恭喜 - 你赢了 [关卡2 极限] **",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "** おめでとう - u won [STAGE 2 EXTREME] **",
       "CN": "** 恭喜 - 你赢了 [关卡2 极限] **",
       "KR": "*** 축하합니다 - uwon [STAGE 2 EXTREME] ***",
       "TW": "** 聽天 - u won [STAGE 2 EXTREME] **"
@@ -86,7 +86,7 @@
       "JP": "**プレイヤーがカノンの最终技をpicked up。**",
       "CN": "** 玩家捡到了终极大炮 **",
       "KR": "*** 플레이어가 캐논 최대한스를 획득했습니다. ***",
-      "TW": ""
+      "TW": "** Player 有拿起 cannons 最終技能。 **"
     }
   },
   "** Player has picked up Electro magic. **": {
@@ -116,7 +116,7 @@
       "JP": "*** プレイヤーがヒール魔法を拾いました。***",
       "CN": "** 玩家捡到了治疗魔法 **",
       "KR": "*** 플레이어가 치료 마법을 획득했습니다. ***",
-      "TW": ""
+      "TW": "** Player 有拾取 Heal 魔法。 **"
     }
   },
   "** Player has picked up Mine. **": {
@@ -153,9 +153,9 @@
     "translation": "30秒",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "30 SECunden",
       "CN": "30秒",
-      "KR": "",
+      "KR": "30 초",
       "TW": "30 秒鐘"
     }
   },
@@ -205,8 +205,8 @@
       "US": "",
       "JP": "",
       "CN": "10秒后BOSS战",
-      "KR": "",
-      "TW": ""
+      "KR": "보스전은 10초 후 시작",
+      "TW": "BOSS戰鬥於10秒後開始"
     }
   },
   "BOSS IS DEAD": {
@@ -265,7 +265,7 @@
       "US": "",
       "JP": "フェーズ 1",
       "CN": "阶段1",
-      "KR": "",
+      "KR": "단계 1",
       "TW": "階段 1"
     }
   },
@@ -283,7 +283,7 @@
     "translation": "阶段2",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "フェイズ 2",
       "CN": "阶段2",
       "KR": "단계 2",
       "TW": "階段 2"
@@ -306,7 +306,7 @@
       "JP": "シューティングボス!!!",
       "CN": "射击BOSS！！！",
       "KR": "슈터iện 보스!!",
-      "TW": ""
+      "TW": "Shooting the boss!!!"
     }
   },
   "STAGE 7 COMING SOON! NOW ZM ROUND!": {
@@ -606,7 +606,7 @@
       "JP": "[ADMIN] [STAGE 1 EXTREME]を選択しました。5秒後、ラウンドを再開始します。",
       "CN": "[管理员] 为下一轮选择了 [关卡1 极限]。5秒后重新开始回合。",
       "KR": "[관리자] 다음 라운드로 [스테이지 1 초 difficoltà]를 선택하였습니다. 5초 후 다시 시작합니다.",
-      "TW": ""
+      "TW": "[管理员] 選擇了[階段1極限]進行下1輪。5秒後重啟本局。"
     }
   },
   "[ADMIN] Selected [STAGE 1 NORMAL] for next round. Restarting round in 5 seconds.": {
@@ -666,7 +666,7 @@
       "JP": "最終ステージ",
       "CN": "[最终关]",
       "KR": "최종 스테이지",
-      "TW": ""
+      "TW": "最終 stagе"
     }
   },
   "[STAGE 1 EXTREME]": {
@@ -686,7 +686,7 @@
       "JP": "[ステージ1ノーマル]",
       "CN": "[关卡1 普通]",
       "KR": "[스테이지 1 정상]",
-      "TW": ""
+      "TW": "[階段 1 正常]"
     }
   },
   "[STAGE 2 EXTREME]": {
@@ -706,7 +706,7 @@
       "JP": "【ステージ2ノーマル】",
       "CN": "[关卡2 普通]",
       "KR": "[스테이지 2 노말]",
-      "TW": ""
+      "TW": "[stage 2 normal]"
     }
   },
   "[STAGE 3 EXTREME]": {

@@ -45,7 +45,7 @@
       "US": "",
       "JP": "",
       "CN": "***还剩20秒***",
-      "KR": "",
+      "KR": "***20초 남음***",
       "TW": ""
     }
   },
@@ -65,7 +65,7 @@
       "US": "",
       "JP": "",
       "CN": "***还剩30秒***",
-      "KR": "",
+      "KR": "***30초 남음***",
       "TW": ""
     }
   },
@@ -93,7 +93,7 @@
     "translation": "***还剩40秒***",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "***40 SEKONDE NETTO***",
       "CN": "***还剩40秒***",
       "KR": "***40 초 남음***",
       "TW": ""
@@ -115,7 +115,7 @@
       "US": "",
       "JP": "***50 SEKANDO RESTARI***",
       "CN": "***还剩50秒***",
-      "KR": "",
+      "KR": "***50초 남음***",
       "TW": ""
     }
   },
@@ -126,7 +126,7 @@
       "JP": "***プレイヤーがヘリコpterで爆発した***",
       "CN": "***一名玩家被直升机炸飞***",
       "KR": "***플레이어가 헬icopter으로 폭발***",
-      "TW": ""
+      "TW": "***1位玩家用直升機自爆***"
     }
   },
   "***A PLAYER SLAIN BY A BARREL***": {
@@ -136,7 +136,7 @@
       "JP": "*** Barrel でkills されたプレイヤー ***",
       "CN": "***一名玩家被桶击杀***",
       "KR": "***-Barrel로 살해된 플레이어***",
-      "TW": ""
+      "TW": "***1名玩家被酒桶殺死***"
     }
   },
   "***A Train is coming...***": {
@@ -155,7 +155,7 @@
       "US": "",
       "JP": "",
       "CN": "***管理员已更改模式 [自定义]***",
-      "KR": "",
+      "KR": "관리자가 모드를 [커스텀]으로 변경했습니다 ***",
       "TW": ""
     }
   },
@@ -243,10 +243,10 @@
     "translation": "***挂机传送将在8秒后进行***",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "***AFK teleport 8秒后生效***",
       "CN": "***挂机传送将在8秒后进行***",
       "KR": "(Note: The exact translation of \"AFK\" is not commonly used in Korean, so I have kept it as is to maintain the original meaning and style.)",
-      "TW": ""
+      "TW": "***AFK TELEPORT IN 8 SECONDS***"
     }
   },
   "***All Boxes are broken***": {
@@ -265,7 +265,7 @@
       "US": "",
       "JP": "",
       "CN": "***桶已被捡起***",
-      "KR": "",
+      "KR": "***통바가 집어넣음***",
       "TW": ""
     }
   },
@@ -486,7 +486,7 @@
       "JP": "",
       "CN": "***火车来了***",
       "KR": "***열차에aboarded***",
-      "TW": ""
+      "TW": "***列車已登乘***"
     }
   },
   "***WARM UP ROUIND***": {
@@ -496,7 +496,7 @@
       "JP": "***ウォームアップラウンド***",
       "CN": "***热身回合***",
       "KR": "***wärm up roun*d***",
-      "TW": ""
+      "TW": "***暖機 ROUND***"
     }
   },
   "***WARM UP ROUND END***": {
@@ -603,9 +603,9 @@
     "translation": "***自动连跳已启用***",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "***バニ Hüpfen aktivieren***",
       "CN": "***自动连跳已启用***",
-      "KR": "",
+      "KR": "***.rabbitjumping enable***",
       "TW": ""
     }
   },
@@ -613,7 +613,7 @@
     "translation": "***手雷已被捡起***",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "*** GRENADE PICKED UP ***",
       "CN": "***手雷已被捡起***",
       "KR": "",
       "TW": "***手榴彈拾取***"
@@ -626,7 +626,7 @@
       "JP": "[MUSIC] アビィー・アイイ - Loving You",
       "CN": "[MUSIC]  Avicii - Waiting for Love",
       "KR": "[MUSIC] 아비趔이 - 사랑을 기다리고 있습니다",
-      "TW": ""
+      "TW": "[ MUSIC ]  阿維達伊 - 渴望愛"
     }
   },
   "[MUSIC] Camellia vs Akira Complex - Reality Distortion": {
@@ -673,10 +673,10 @@
     "translation": "[MUSIC] Pendulum - Crush",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "[MUSIC] ペンデュラム - クラッシュ",
       "CN": "[MUSIC] Pendulum - Crush",
       "KR": "[MUSIC] 페달럼 - 크라ッシュ",
-      "TW": ""
+      "TW": "[ MUSIC ] 普林東門 - Crush"
     }
   },
   "[MUSIC] Pendulum - Encoder": {
@@ -723,7 +723,7 @@
     "translation": "[MUSIC] Talesweaver - Reminiscene",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "[MUSIC] タイ一致好评 - Reminiscene",
       "CN": "[MUSIC] Talesweaver - Reminiscene",
       "KR": "[MUSIC] 타일스위버 - 회상",
       "TW": "[MUSIC] 語王傳說 - 追憶"
@@ -743,9 +743,9 @@
     "translation": "[MUSIC] We Are Number One Remix but by The Living Tombstone",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "[MUSIC] ウエ_are_ナンバーワン_リミックス but_by_ザ_レビング_トombstone",
       "CN": "[MUSIC] We Are Number One Remix but by The Living Tombstone",
-      "KR": "",
+      "KR": "[MUSIC] Chúng ta는 제일 Remix nhưng bởi The Living Tombstone",
       "TW": "[MUSIC] 我們是冠軍Remix但由The Living Tombstone"
     }
   },

@@ -96,7 +96,7 @@
       "JP": "*** メインは拾われた。 ***",
       "CN": "***地雷已被拾取***",
       "KR": "*** 안개已经被移除. ***",
-      "TW": ""
+      "TW": "*** mines 已被拾取。***"
     }
   },
   "*** Push Gun has a cooldown of 20 secs. ***": {
@@ -145,7 +145,7 @@
       "US": "",
       "JP": "",
       "CN": "***测试***",
-      "KR": "",
+      "KR": "*** 테스트 ***",
       "TW": "*** 測試 ***"
     }
   },
@@ -166,7 +166,7 @@
       "JP": "***ゾンビ・ヒールが拾われた。***",
       "CN": "***僵尸治疗已被拾取***",
       "KR": "*** 블라인드 힐이 선택되었습니다. ***",
-      "TW": ""
+      "TW": "*** Zombie Heal 已被拾取。***"
     }
   },
   "*** Zombie Rage has a cooldown of 60 secs. ***": {
@@ -246,7 +246,7 @@
       "JP": "COMPUTER ROOM WILL SHUT DOWN IN 60 SECONDS ***",
       "CN": "**计算机房将在60秒后关闭**",
       "KR": "**컴퓨터실은 60초 후에 종료됩니다**",
-      "TW": ""
+      "TW": "** COMPUTER ROOM WILL SHUT DOWN IN 60 SECONDS **"
     }
   },
   "**Control room has been shut down**": {
@@ -263,7 +263,7 @@
     "translation": "**控制室将封锁30秒**",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "CONTROL ROOM LOCKING FOR 30 SECS ***",
       "CN": "**控制室将封锁30秒**",
       "KR": "**제어실 잠금 30sec**",
       "TW": "控制室鎖定 30 秒"
@@ -273,7 +273,7 @@
     "translation": "**控制室将在30秒后暂时封锁，直到电源关闭**",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "制御室ロックTemporaryロックは30秒後から開始され、電源が切れるまでロックされます >> <<",
       "CN": "**控制室将在30秒后暂时封锁，直到电源关闭**",
       "KR": "** CONTROL ROOM LOCKING TEMPORARILY IN 30 SECS AND WILL BE LOCKED UNTIL POWER IS SHUT DOWN **",
       "TW": "控制室鎖定暫時在30秒後執行，並將 Locked 直至電力關閉。"
@@ -376,7 +376,7 @@
       "JP": "***全員下にマステレポート30秒後に開始。***",
       "CN": "**大规模传送将在30秒后进行**",
       "KR": "**30초 후 전체 대규모 이동사용.**",
-      "TW": ""
+      "TW": "***所有人馬310秒後全體瞬移下來。***"
     }
   },
   "**Plant the C4 on the missile launcher**": {
@@ -395,7 +395,7 @@
       "US": "",
       "JP": "",
       "CN": "**队伍撤退**",
-      "KR": "",
+      "KR": "**팀 후방진입**",
       "TW": ""
     }
   }

@@ -66,7 +66,7 @@
       "JP": ">>> 最終 Doors 開启於 30 秒後 <<<",
       "CN": ">>> 最后一扇门 30 秒后打开 <<<",
       "KR": ">>> 최종 문이 30초 후에 열립니다 <<<",
-      "TW": ""
+      "TW": ">>> 最後門開啓於30秒後 <<<"
     }
   },
   ">>> GATE CLOSES IN 10 SECONDS <<<": {
@@ -146,7 +146,7 @@
       "JP": "",
       "CN": ">>> 提示：触发开关在建筑物内 3s <<<",
       "KR": ">>> 트리거가 건물 안에 있습니다 <<<",
-      "TW": ""
+      "TW": ">>> 装置已啟動 <<<"
     }
   },
   "DOOR BREAKS IN 25 SECONDS": {
@@ -183,7 +183,7 @@
     "translation": "特别感谢 MAPEADORES 的测试",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "SPECIAL thanks to mapeadores for testing",
       "CN": "特别感谢 MAPEADORES 的测试",
       "KR": "",
       "TW": "特別感謝MAPEADORES測試"

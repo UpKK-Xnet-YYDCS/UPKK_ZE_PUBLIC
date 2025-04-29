@@ -3,10 +3,10 @@
     "translation": "**...并等待撤离**",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "*** ... そして緊急避難を待つ ***",
       "CN": "**...并等待撤离**",
-      "KR": "",
-      "TW": ""
+      "KR": "*** ... 그리고 대피 기회를 기다리세요 ***",
+      "TW": "** ... 並且等待撤退 **"
     }
   },
   "** ...GRAVITY AND DRUGS FOR EVERYONE ! **": {
@@ -15,8 +15,8 @@
       "US": "",
       "JP": "",
       "CN": "**...所有玩家低重力和毒药！**",
-      "KR": "",
-      "TW": ""
+      "KR": "*** ...중력과 약품, 모두에게 !***",
+      "TW": "** ...重力和毒品給 everyone ! **"
     }
   },
   "** ...GRAVITY INBOUND AT THE ENDING !! **": {
@@ -25,7 +25,7 @@
       "US": "",
       "JP": "",
       "CN": "**...结尾处将打开低重力模式！！**",
-      "KR": "",
+      "KR": "*** ...중력 inbound 최종적으로!! ***",
       "TW": ""
     }
   },
@@ -36,7 +36,7 @@
       "JP": "",
       "CN": "**剩余10秒**",
       "KR": "",
-      "TW": ""
+      "TW": "** 10 秒鐘剩下 **"
     }
   },
   "** 10 SECONDS left until VICTORY **": {
@@ -53,7 +53,7 @@
     "translation": "**离胜利还有120秒**",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "** 120 SECONDS 前まで勝利 **",
       "CN": "**离胜利还有120秒**",
       "KR": "",
       "TW": ""
@@ -92,11 +92,11 @@
   "** 20 SECONDS left until VICTORY **": {
     "translation": "**离胜利还有20秒**",
     "MultiLang": {
-      "US": "",
+      "US": "** 20 SECONDS LEFT UNTIL VICTORY **",
       "JP": "",
       "CN": "**离胜利还有20秒**",
       "KR": "",
-      "TW": ""
+      "TW": "** 20 SECONDS 離開勝利之時 **"
     }
   },
   "** 30 SECONDS REMAINING **": {
@@ -192,10 +192,10 @@
   "** 60 SECONDS left until VICTORY **": {
     "translation": "**离胜利还有60秒**",
     "MultiLang": {
-      "US": "",
-      "JP": "",
+      "US": "** 60 SECONDS LEFT UNTIL VICTORY **",
+      "JP": "** 60 SECONDS まであとで勝利 **",
       "CN": "**离胜利还有60秒**",
-      "KR": "",
+      "KR": "** 60 SECONDS 남아Until VICTORY **",
       "TW": ""
     }
   },
@@ -216,7 +216,7 @@
       "JP": "",
       "CN": "**剩余80秒**",
       "KR": "",
-      "TW": ""
+      "TW": "** 80 秒剩餘 **"
     }
   },
   "** ADMIN ROOM IS OPEN ! **": {
@@ -233,110 +233,110 @@
     "translation": "**管理员选择了关卡1**",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "**ADMIN が次のラウンドでレベル1を選んだ**",
       "CN": "**管理员选择了关卡1**",
-      "KR": "",
-      "TW": ""
+      "KR": "**ADMIN이 다음 라운드로 LEVEL 1을 선택했습니다**",
+      "TW": "*** ADMIN 选择了 NEXT ROUND 为 LEVEL 1 ***"
     }
   },
   "** ADMIN chose LEVEL 2 for NEXT ROUND **": {
     "translation": "**管理员选择了关卡2**",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "**ADMIN が次のラウンドでレベル2を選択しました**",
       "CN": "**管理员选择了关卡2**",
-      "KR": "",
-      "TW": ""
+      "KR": "**ADMIN이 다음 라운드로 LEVEL 2 선택했습니다**",
+      "TW": "*** ADMIN 选择了 NEXT ROUND 为 LEVEL 2 ***"
     }
   },
   "** ADMIN chose LEVEL 3 for NEXT ROUND **": {
     "translation": "**管理员选择了关卡3**",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "**ADMIN が次回戦でレベル3を選択しました**",
       "CN": "**管理员选择了关卡3**",
-      "KR": "",
-      "TW": ""
+      "KR": "**ADMIN이 다음 라운드로 LEVEL 3을 선택했습니다**",
+      "TW": "*** ADMIN 选择了 NEXT ROUND 为 LEVEL 3 ***"
     }
   },
   "** ADMIN chose LEVEL 4 for NEXT ROUND **": {
     "translation": "**管理员选择了关卡4**",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "**ADMIN が次回ラウンドでレベル4を選択しました**",
       "CN": "**管理员选择了关卡4**",
-      "KR": "",
-      "TW": ""
+      "KR": "**ADMIN이 다음 라운드로 LEVEL 4를 선택했습니다**",
+      "TW": "*** ADMIN 选择了 NEXT ROUND 为 LEVEL 4 ***"
     }
   },
   "** ADMIN chose LEVEL 5 for NEXT ROUND **": {
     "translation": "**管理员选择了关卡5**",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "**ADMIN が次回ラウンドをレベル5に選択しました**",
       "CN": "**管理员选择了关卡5**",
-      "KR": "",
-      "TW": ""
+      "KR": "**ADMIN이 다음 라운드로 LEVEL 5 선택하였습니다**",
+      "TW": "*** ADMIN 选择了 NEXT ROUND 为 LEVEL 5 ***"
     }
   },
   "** ADMIN chose LEVEL 6 for NEXT ROUND **": {
     "translation": "**管理员选择了关卡6**",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "** ADMIN が次回ラウンドでレベル6を選択しました **",
       "CN": "**管理员选择了关卡6**",
-      "KR": "",
-      "TW": ""
+      "KR": "**ADMIN이 다음 라운드로 LEVEL 6을 선택했습니다**",
+      "TW": "*** ADMIN 选择了 NEXT ROUND 为 LEVEL 6 ***"
     }
   },
   "** ADMIN chose LEVEL 7 for NEXT ROUND **": {
     "translation": "**管理员选择了关卡7**",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "**ADMIN が次のラウンドでレベル7を選んだ**",
       "CN": "**管理员选择了关卡7**",
-      "KR": "",
-      "TW": ""
+      "KR": "**ADMIN이 다음 라운드로 LEVEL 7을 선택했습니다**",
+      "TW": "*** ADMIN 选择了 NEXT ROUND 为 LEVEL 7 ***"
     }
   },
   "** ADMIN chose LEVEL 8 for NEXT ROUND **": {
     "translation": "**管理员选择了关卡8**",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "**ADMIN が次回ラウンドをレベル8に選択しました**",
       "CN": "**管理员选择了关卡8**",
-      "KR": "",
-      "TW": ""
+      "KR": "**ADMIN이 다음 라운드로 LEVEL 8을 선택했습니다**",
+      "TW": "*** ADMIN 选择了 NEXT ROUND 为 LEVEL 8 ***"
     }
   },
   "** ADMIN chose LEVEL 9 for NEXT ROUND **": {
     "translation": "**管理员选择了关卡9**",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "**ADMIN が次のラウンドでレベル9を選んだ**",
       "CN": "**管理员选择了关卡9**",
-      "KR": "",
-      "TW": ""
+      "KR": "*** ADMIN이 다음 라운드로 LEVEL 9를 선택했습니다 ***",
+      "TW": "*** ADMIN 选择了 NEXT ROUND 为 LEVEL 9 ***"
     }
   },
   "** ADMIN gives EVERYONE LEVEL 5! ENJOY!**": {
     "translation": "**管理员设置每个人神器等级为5！享受吧！**",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "*** ADMIN が EVERYONE に LEVEL 5! ENJOY!***",
       "CN": "**管理员设置每个人神器等级为5！享受吧！**",
-      "KR": "",
-      "TW": ""
+      "KR": "**ADMIN에게plevel5! 즐기세요!**",
+      "TW": "*** ADMIN 给 everyone LEVEL 5! ENJOY!***"
     }
   },
   "** AFK wall will BREAK in 5 SECONDS **": {
     "translation": "**传送点近路铁网将在5秒后破碎**",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "*** AFK 壁将在 5 秒后 BREAK ***",
       "CN": "**传送点近路铁网将在5秒后破碎**",
-      "KR": "",
-      "TW": ""
+      "KR": "*** AFK 벽이 5초 후에 BREAK ***",
+      "TW": "*** AFK 勘牆將在 5 秒後 BREAK ***"
     }
   },
   "** AIRLOCK TURBINE IS STARTING... **": {
@@ -353,19 +353,19 @@
     "translation": "**所有按钮都已被按下**",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "*** すべてのボタンが押されました ***",
       "CN": "**所有按钮都已被按下**",
-      "KR": "",
-      "TW": ""
+      "KR": "*** 모든 버튼이 눌렸습니다 ***",
+      "TW": "**所有按鈕均已按下**"
     }
   },
   "** ALL SECRETS HAVE BEEN FOUND... **": {
     "translation": "**所有音乐彩蛋都已被找到...**",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "*** すべての秘密は見つかった... ***",
       "CN": "**所有音乐彩蛋都已被找到...**",
-      "KR": "",
+      "KR": "** 모든 비밀이 발견되었습니다... **",
       "TW": ""
     }
   },
@@ -376,27 +376,27 @@
       "JP": "",
       "CN": "**无限弹药-40秒冷却时间**",
       "KR": "",
-      "TW": ""
+      "TW": "ammo gun - 40 sec cooldown **"
     }
   },
   "** BOMB HAS BEEN PLANTED **": {
     "translation": "**炸弹已安放**",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "** ボムが設置されました **",
       "CN": "**炸弹已安放**",
-      "KR": "",
-      "TW": ""
+      "KR": "*** 폭탄이 설치되었습니다 ***",
+      "TW": "**炸彈已安放**"
     }
   },
   "** BOSS ATTACKS ENABLED **": {
     "translation": "**BOSS技能已启用**",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "**BOSS 戦闘可能 **",
       "CN": "**BOSS技能已启用**",
       "KR": "",
-      "TW": ""
+      "TW": "** BOSS 攻擊啟用 **"
     }
   },
   "** Button A1 pressed **": {
@@ -433,7 +433,7 @@
     "translation": "**按钮B1已被按下**",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "*** B1ボタンが押された ***",
       "CN": "**按钮B1已被按下**",
       "KR": "",
       "TW": ""
@@ -445,7 +445,7 @@
       "US": "",
       "JP": "",
       "CN": "**按钮B2已被按下**",
-      "KR": "",
+      "KR": "*** B2 버튼 눌림 ***",
       "TW": ""
     }
   },
@@ -453,7 +453,7 @@
     "translation": "**按钮B3已被按下**",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "*** B3ボタンが押されました ***",
       "CN": "**按钮B3已被按下**",
       "KR": "",
       "TW": ""
@@ -465,8 +465,8 @@
       "US": "",
       "JP": "",
       "CN": "**恭喜！！你通关了这张地图！！**",
-      "KR": "",
-      "TW": ""
+      "KR": "** 축하합니다 !! 우승했습니다 !! **",
+      "TW": "** 感謝 !! U 地圖 !! **"
     }
   },
   "** DEFEND 10 SECONDS **": {
@@ -475,8 +475,8 @@
       "US": "",
       "JP": "",
       "CN": "**防守10秒**",
-      "KR": "",
-      "TW": ""
+      "KR": "** 방어 10초 **",
+      "TW": "** 防守 10 秒 **"
     }
   },
   "** DEFEND 20 SECONDS **": {
@@ -485,8 +485,8 @@
       "US": "",
       "JP": "",
       "CN": "**防守20秒**",
-      "KR": "",
-      "TW": ""
+      "KR": "** 방어 20초 **",
+      "TW": "** 防守 20 秒 **"
     }
   },
   "** DEFEND 5 MORE SECONDS **": {
@@ -496,7 +496,7 @@
       "JP": "",
       "CN": "**再防守5秒**",
       "KR": "",
-      "TW": ""
+      "TW": "** 防守再維持 5 秒鐘 **"
     }
   },
   "** DJ IN DA HOUSE !! **": {
@@ -513,39 +513,39 @@
     "translation": "**门将在10秒后打开**",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "**扉は10秒後に開きます**",
       "CN": "**门将在10秒后打开**",
-      "KR": "",
-      "TW": ""
+      "KR": "** 문이 10초 후에 열립니다 **",
+      "TW": "**门将在10秒後開啟**"
     }
   },
   "** DOOR OPENS IN 15 SECONDS **": {
     "translation": "**门将在15秒后打开**",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "**扉が15秒後に開きます**",
       "CN": "**门将在15秒后打开**",
-      "KR": "",
-      "TW": ""
+      "KR": "** 문이 15초 후에 열립니다 **",
+      "TW": "** 大門在15秒後開啟 **"
     }
   },
   "** DOOR OPENS IN 20 SECONDS **": {
     "translation": "**门将在20秒后打开**",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "**ドアが20秒後に開きます**",
       "CN": "**门将在20秒后打开**",
-      "KR": "",
-      "TW": ""
+      "KR": "** 문이 20초 후에 열립니다 **",
+      "TW": "**门於20秒後開啟**"
     }
   },
   "** DOOR OPENS IN 5 SECONDS **": {
     "translation": "**门将在5秒后打开**",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "**ドアが5秒後に開きます**",
       "CN": "**门将在5秒后打开**",
-      "KR": "",
+      "KR": "** 문이 5초 후에 열립니다 **",
       "TW": ""
     }
   },
@@ -555,7 +555,7 @@
       "US": "",
       "JP": "",
       "CN": "**这是最后的守点！！**",
-      "KR": "",
+      "KR": "*** 엔드 오브 더 라인 !! ***",
       "TW": ""
     }
   },
@@ -563,29 +563,29 @@
     "translation": "**敌方直升机来袭！！**",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "** 敵ヘリ inbound !! **",
       "CN": "**敌方直升机来袭！！**",
-      "KR": "",
-      "TW": ""
+      "KR": "** 적Helicopter 들어오나!! **",
+      "TW": "**敵機抵達！！**"
     }
   },
   "** ENEMY CHOPPER INBOUND **": {
     "translation": "**敌方直升机来袭**",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "***敵ヘリ接近***",
       "CN": "**敌方直升机来袭**",
-      "KR": "",
-      "TW": ""
+      "KR": "** 적 HELICOPTER 수송 중 **",
+      "TW": "** 敵機迫近 **"
     }
   },
   "** FIRE BARREL - 50 sec cooldown **": {
     "translation": "**炸药桶-50秒冷却时间 神器等级需求:1**",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "** 氷筒子 - 50 sec コoldown **",
       "CN": "**炸药桶-50秒冷却时间 神器等级需求:1**",
-      "KR": "",
+      "KR": "*** 불통_KeyDown - 50sec 콤보 대기시간 ***",
       "TW": ""
     }
   },
@@ -595,17 +595,17 @@
       "US": "",
       "JP": "",
       "CN": "**冰冻桶-50秒冷却时间 神器等级需求:2**",
-      "KR": "",
-      "TW": ""
+      "KR": "** 얼음병 - 콤보 시간 50sec **",
+      "TW": "** 冰鎮瓶 - 50 sec 冷卻時間 **"
     }
   },
   "** GATE WILL CLOSE IN 10 SECONDS **": {
     "translation": "**大门将在10秒后关闭**",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "***ゲートは10秒後に閉锁***",
       "CN": "**大门将在10秒后关闭**",
-      "KR": "",
+      "KR": "** 문이 10초 후에 닫힙니다 **",
       "TW": ""
     }
   },
@@ -613,29 +613,29 @@
     "translation": "**大门将在15秒后打开**",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "***ゲートが15秒後に開く***",
       "CN": "**大门将在15秒后打开**",
-      "KR": "",
-      "TW": ""
+      "KR": "** 문이 열리는 시간은 15초 후 **",
+      "TW": "**大門將在15秒後開啟 **"
     }
   },
   "** GATE WILL OPEN IN 5 SECONDS **": {
     "translation": "**大门将在5秒后打开**",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "**ゲートが5秒後に開きます**",
       "CN": "**大门将在5秒后打开**",
-      "KR": "",
-      "TW": ""
+      "KR": "** 문이 5초 후에 열립니다 **",
+      "TW": "**閘門將在5秒後開啟 **"
     }
   },
   "** GO TO THE CENTRAL BUILDING... **": {
     "translation": "**前往中间的建筑...**",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "** CENTRAL BUILDING へ行きます... **",
       "CN": "**前往中间的建筑...**",
-      "KR": "",
+      "KR": "** 중앙 건물로 가세요... **",
       "TW": ""
     }
   },
@@ -653,9 +653,9 @@
     "translation": "**防守这个位置60秒！！**",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "**この位置を60秒間保亭!!**",
       "CN": "**防守这个位置60秒！！**",
-      "KR": "",
+      "KR": "*** 이 위치를 60초간 지키세요 !! ***",
       "TW": ""
     }
   },
@@ -663,10 +663,10 @@
     "translation": "**获得道具-所有人类恢复至250HP**",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "アイテム収集 - すべての人間が250HPを得る",
       "CN": "**获得道具-所有人类恢复至250HP**",
-      "KR": "",
-      "TW": ""
+      "KR": "** 아이템 수집 - 모든 인간이 250 HP를 획득 **",
+      "TW": "物品收集 - 所有人類獲得 250 HP"
     }
   },
   "** ITEM COLLECTED - PEDOBEAR LOST 150 HP **": {
@@ -675,7 +675,7 @@
       "US": "",
       "JP": "",
       "CN": "**获得道具-迷糊熊失去150HP**",
-      "KR": "",
+      "KR": "*** 아이템 수집 - 페도베어가 150 HP를 잃었습니다 ***",
       "TW": ""
     }
   },
@@ -683,9 +683,9 @@
     "translation": "**在它伤害所有人之前杀死它！！**",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "***  Everyone を犯す前に殺せ !! ***",
       "CN": "**在它伤害所有人之前杀死它！！**",
-      "KR": "",
+      "KR": "*** 이-before-it rapes everyone !! ***",
       "TW": ""
     }
   },
@@ -693,9 +693,9 @@
     "translation": "**激光枪-60秒冷却时间 神器等级需求:4 放置一个墙 可以秒杀进入的僵尸**",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "** レーザー銃 - 60secクールダウン **",
       "CN": "**激光枪-60秒冷却时间 神器等级需求:4 放置一个墙 可以秒杀进入的僵尸**",
-      "KR": "",
+      "KR": "** 레이저 枪 - 60 sec 콤보 드로아 **",
       "TW": ""
     }
   },
@@ -703,9 +703,9 @@
     "translation": "**关卡1（简单）**",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "**レベル1 (エイジー)**",
       "CN": "**关卡1（简单）**",
-      "KR": "",
+      "KR": "** 레벨 1 (쉬움) **",
       "TW": ""
     }
   },
@@ -725,7 +725,7 @@
       "US": "",
       "JP": "",
       "CN": "**关卡3（困难）**",
-      "KR": "",
+      "KR": "** 레벨 3 (하드) **",
       "TW": ""
     }
   },
@@ -775,7 +775,7 @@
       "US": "",
       "JP": "",
       "CN": "**关卡8（最终BOSS）**",
-      "KR": "",
+      "KR": "** 레벨 8 (최종 보스) **",
       "TW": ""
     }
   },
@@ -785,7 +785,7 @@
       "US": "",
       "JP": "",
       "CN": "**关卡9（生存）**",
-      "KR": "",
+      "KR": "** 레벨 9 (ZM 라운드) **",
       "TW": ""
     }
   },
@@ -795,7 +795,7 @@
       "US": "",
       "JP": "",
       "CN": "**里拉惊魂庭院正在崩溃！！**",
-      "KR": "",
+      "KR": "** 라일라 패닉 컴파운드가 무너지고 있습니다!! **",
       "TW": ""
     }
   },
@@ -806,16 +806,16 @@
       "JP": "",
       "CN": "**地图作者：SlayerDragon 翻译:Asteri3m BAKA_Miku 冰雪葬泪**",
       "KR": "",
-      "TW": ""
+      "TW": "** 圖譜由SLAYERDRAGON製作 **"
     }
   },
   "** MISSION - PLANT THE BOMB AND ESCAPE! **": {
     "translation": "**任务-安置炸弹并逃离！**",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "*** ミッション - ボムを設置して脱出!! ***",
       "CN": "**任务-安置炸弹并逃离！**",
-      "KR": "",
+      "KR": "** 임무 - 폭탄을 설치하고 도주하세요! **",
       "TW": ""
     }
   },
@@ -825,7 +825,7 @@
       "US": "",
       "JP": "",
       "CN": "**手雷和特殊神器可对他造成更多伤害！！**",
-      "KR": "",
+      "KR": "** 나데와 특수 아이템은 더 많은 데미지를 입힙니다!! **",
       "TW": ""
     }
   },
@@ -843,29 +843,29 @@
     "translation": "**迷糊熊已被击败**",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "*** ペドベアが倒されました ***",
       "CN": "**迷糊熊已被击败**",
       "KR": "",
-      "TW": ""
+      "TW": "** PEDOBEAR 已被擊敗 **"
     }
   },
   "** SECRET BARBIE COMPLETED **": {
     "translation": "**音乐彩蛋BARBIE已触发**",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "** 秘密バービー完成 **",
       "CN": "**音乐彩蛋BARBIE已触发**",
-      "KR": "",
-      "TW": ""
+      "KR": "*** 비밀 바비 완료 ***",
+      "TW": "** 秘密芭比完成 **"
     }
   },
   "** SECRET BLUE WORLD COMPLETED **": {
     "translation": "**音乐彩蛋-BLUE WORLD 已触发**",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "*** 蓝色秘密世界完成 ***",
       "CN": "**音乐彩蛋-BLUE WORLD 已触发**",
-      "KR": "",
+      "KR": "***BLUE 월드 완료***",
       "TW": ""
     }
   },
@@ -875,7 +875,7 @@
       "US": "",
       "JP": "",
       "CN": "**音乐彩蛋-ENCODER 已触发**",
-      "KR": "",
+      "KR": "** 비밀 인코더 완료 **",
       "TW": ""
     }
   },
@@ -883,20 +883,20 @@
     "translation": "**音乐彩蛋-I LIKE TO MOVE IT 已触发**",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "** 秘密 likes to MOVE IT 完成了 **",
       "CN": "**音乐彩蛋-I LIKE TO MOVE IT 已触发**",
-      "KR": "",
-      "TW": ""
+      "KR": "*** 秘密我喜欢移动它完成 ***",
+      "TW": "*** 秘密我喜欢移動它 完成 ***"
     }
   },
   "** SECRET NYAN CAT COMPLETED **": {
     "translation": "**音乐彩蛋-NYAN CAT 已触发**",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "*** 秘密ニャン貓完成 ***",
       "CN": "**音乐彩蛋-NYAN CAT 已触发**",
-      "KR": "",
-      "TW": ""
+      "KR": "*** س크리트 니안캣 콜린티드 ***",
+      "TW": "**秘密Nyancat完成**"
     }
   },
   "** SECRETS 1 of 5 FOUND **": {
@@ -943,19 +943,19 @@
     "translation": "**特殊秘密已激活...**",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "** 特别秘密激活中... **",
       "CN": "**特殊秘密已激活...**",
-      "KR": "",
-      "TW": ""
+      "KR": "** 특별 비밀 활성화... **",
+      "TW": "**特別秘密啟動中... **"
     }
   },
   "** SUICIDAL ZOMBIE INCOMING **": {
     "translation": "**僵尸自爆已拾取**",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "*** サイコーゼ Braintaker 近づいています ***",
       "CN": "**僵尸自爆已拾取**",
-      "KR": "",
+      "KR": "*** suicidal zombie incoming ***",
       "TW": ""
     }
   },
@@ -1053,9 +1053,9 @@
     "translation": "**我们回到了院子内！**",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "** 我们回到围栏里了！ **",
       "CN": "**我们回到了院子内！**",
-      "KR": "",
+      "KR": "** 우리는 복합体内返回了！ **",
       "TW": ""
     }
   },
@@ -1065,7 +1065,7 @@
       "US": "",
       "JP": "",
       "CN": "**我们准备好逃离这个院子了！**",
-      "KR": "",
+      "KR": "*** 우리가 이 병원에서 탈출 준비가 되었습니다! ***",
       "TW": ""
     }
   },
@@ -1075,7 +1075,7 @@
       "US": "",
       "JP": "",
       "CN": "**你可以选择击坠它或者不管它！！**",
-      "KR": "",
+      "KR": "*** 너는 이거 처치하거나 놔두거나 !! ***",
       "TW": ""
     }
   },
@@ -1085,7 +1085,7 @@
       "US": "",
       "JP": "",
       "CN": "[音乐] ACDC- Highway To Hell",
-      "KR": "",
+      "KR": "[MUSIC] ACDC - 화이트/ay Tahело",
       "TW": ""
     }
   },
@@ -1095,7 +1095,7 @@
       "US": "",
       "JP": "",
       "CN": "[音乐] AQUA - BARBIE",
-      "KR": "",
+      "KR": "[MUSIC] 아쿠아 - 바비👋",
       "TW": ""
     }
   },
@@ -1105,8 +1105,8 @@
       "US": "",
       "JP": "",
       "CN": "[音乐] BENNY HILL",
-      "KR": "",
-      "TW": ""
+      "KR": "[ MUSIC ] 벤니 힐",
+      "TW": "[ MUSIC ] 賈尼·希爾"
     }
   },
   "[MUSIC] BLOODHOUND GANG - The Bad Touch": {
@@ -1115,7 +1115,7 @@
       "US": "",
       "JP": "",
       "CN": "[音乐] BLOODHOUND GANG - The Bad Touch",
-      "KR": "",
+      "KR": "[MUSIC] 블러드houndgang - The Bad Touch",
       "TW": ""
     }
   },
@@ -1123,9 +1123,9 @@
     "translation": "[音乐] CARAMELLDANSEN!!",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "[MUSIC] キャラメルダンス!!",
       "CN": "[音乐] CARAMELLDANSEN!!",
-      "KR": "",
+      "KR": "[MUSIC] 카라멜ダンസ!!!!!",
       "TW": ""
     }
   },
@@ -1135,7 +1135,7 @@
       "US": "",
       "JP": "",
       "CN": "[音乐] DAFT PUNK - One More Time",
-      "KR": "",
+      "KR": "[MUSIC] 다프punk - One More Time",
       "TW": ""
     }
   },
@@ -1163,10 +1163,10 @@
     "translation": "[音乐] HOLLYWOOD UNDEAD - Everywhere i go",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "[MUSIC] ハリウッドアンデッド - どこへ行くても",
       "CN": "[音乐] HOLLYWOOD UNDEAD - Everywhere i go",
-      "KR": "",
-      "TW": ""
+      "KR": "[MUSIC] 화이트호우드 언데드 - 어디든 가서",
+      "TW": "[ MUSIC ] 倫敦未死魂靈 - 滿處皆是"
     }
   },
   "[MUSIC] LINKIN PARK - Numb": {
@@ -1175,8 +1175,8 @@
       "US": "",
       "JP": "",
       "CN": "[音乐] LINKIN PARK - Numb",
-      "KR": "",
-      "TW": ""
+      "KR": "[ MUSIC ] 링크니 파크 - 널브\"url\"",
+      "TW": "[ MUSIC ] 震牌樂團 - 嚴凍"
     }
   },
   "[MUSIC] NUMA NUMA YODA": {
@@ -1193,9 +1193,9 @@
     "translation": "[音乐] NYAN CAT",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "[MUSIC] ニャン貓",
       "CN": "[音乐] NYAN CAT",
-      "KR": "",
+      "KR": "[MUSIC] 난연猫咪",
       "TW": ""
     }
   },
@@ -1203,10 +1203,10 @@
     "translation": "[音乐] PENDULUM - Encoder",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "[MUSIC] ペンデュラム - Encoder",
       "CN": "[音乐] PENDULUM - Encoder",
-      "KR": "",
-      "TW": ""
+      "KR": "[MUSIC] 펜두럼 - Encoder",
+      "TW": "[ MUSIC ] 鎖頻 - 處理器"
     }
   },
   "[MUSIC] REAL2REAL - I Like To Move It": {
@@ -1215,7 +1215,7 @@
       "US": "",
       "JP": "",
       "CN": "[音乐] REAL2REAL - I Like To Move It",
-      "KR": "",
+      "KR": "[MUSIC] REAL2REAL - 이 mueve-it",
       "TW": ""
     }
   },
@@ -1225,7 +1225,7 @@
       "US": "",
       "JP": "",
       "CN": "[音乐] REQUIEM FOR A DREAM",
-      "KR": "",
+      "KR": "[MUSIC] 레퀴엠 포 앤드 드림",
       "TW": ""
     }
   },
@@ -1235,18 +1235,18 @@
       "US": "",
       "JP": "",
       "CN": "[音乐] S3RL - Pika Girl",
-      "KR": "",
+      "KR": "[MUSIC] S3RL - 피카 걸",
       "TW": ""
     }
   },
   "修复神器按钮问题 (by bxzl) loaded": {
     "translation": "",
     "MultiLang": {
-      "US": "",
-      "JP": "",
-      "CN": "",
-      "KR": "",
-      "TW": ""
+      "US": "Fix artifact button issue (by bxzl) loaded",
+      "JP": "神器ボタンの問題を修正しました (by bxzl) loaded",
+      "CN": "修复神器按钮问题 (by bxzl) 加载中",
+      "KR": "신화 아이템 버튼 문제 고쳐짐 (bxzl) 로드완료",
+      "TW": "修復神器按鈕問題 (by bxzl) loaded"
     }
   }
 }

@@ -73,7 +73,7 @@
     "translation": "<< 25秒后关门 >>",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "<< 25秒後にドアロック >>",
       "CN": "<< 25秒后关门 >>",
       "KR": "<< 문이 25초 후에 닫힙니다 >>",
       "TW": "<< 門将在25秒後關閉 >>"
@@ -206,7 +206,7 @@
       "JP": "<< ドア開けing 5SEC >>",
       "CN": "<< 5秒后门将打开 >>",
       "KR": "<< 문이 열리는 중인 후 5초 >>",
-      "TW": ""
+      "TW": "<< 門将在5秒後開啟 >>"
     }
   },
   "<< DOOR OPENING, JUMP >>": {
@@ -255,7 +255,7 @@
       "US": "",
       "JP": "<< MAP MADE BY ACME - ありがとう MAPEADORES COMMUNITY と TRLG >>",
       "CN": "<< 地图作者：ACME - 感谢 MAPEADORES 社区和 TRLG 翻译：Asteri3m >>",
-      "KR": "",
+      "KR": "<< MAP MADE BY ACME - thankful to MAPEADORES COMMUNITY and TRLG >>",
       "TW": ""
     }
   },
@@ -446,7 +446,7 @@
       "JP": "<< TOPボックスに残って防御する >>",
       "CN": "<< 待在顶部箱子上并防守>>",
       "KR": "<<_TOP BOX에 머무르고 방어>>",
-      "TW": ""
+      "TW": ">> 留在最上面的方塊並防守   >>"
     }
   },
   "<< TOUCH RING LIFE IF YOU < 100HP >>": {

@@ -106,7 +106,7 @@
       "JP": "ドア開くまで15秒",
       "CN": "门将在15秒后打开",
       "KR": "문이 열리려면 15s 후",
-      "TW": ""
+      "TW": "門開於15s"
     }
   },
   "Door open in 20s": {
@@ -173,7 +173,7 @@
     "translation": "继续防守40秒",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "KEEP DEFEND 40S",
       "CN": "继续防守40秒",
       "KR": "KEEP DEFEND 40S",
       "TW": "坚守40s"
@@ -216,7 +216,7 @@
       "JP": "保持持有45s",
       "CN": "继续防守45秒",
       "KR": "HOLD 45s",
-      "TW": ""
+      "TW": "保持持有 45s"
     }
   },
   "Keep holding 30s": {
@@ -332,7 +332,7 @@
   "We are all safe for a moment here": {
     "translation": "我们在这里暂时安全",
     "MultiLang": {
-      "US": "",
+      "US": "We are safe for now.",
       "JP": "一時的に全員安全です",
       "CN": "我们在这里暂时安全",
       "KR": "우리는 잠시 여기서 모두 안전하다고",
@@ -395,7 +395,7 @@
       "US": "",
       "JP": "ZMショートカット在6秒内",
       "CN": "僵尸侧路6秒后开启",
-      "KR": "",
+      "KR": "ZM 단축키를 6초 내로 사용하세요",
       "TW": "ZM快捷鍵在6秒內"
     }
   },

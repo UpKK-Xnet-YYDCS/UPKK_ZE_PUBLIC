@@ -75,7 +75,7 @@
       "US": "",
       "JP": "テレポーテーションは20秒後に可能",
       "CN": "传送后20s",
-      "KR": "",
+      "KR": "텔porter 이후 20s",
       "TW": "TELEPORT AFTER 20S"
     }
   },
@@ -86,7 +86,7 @@
       "JP": "テレポート後10s",
       "CN": "传送后10s",
       "KR": "",
-      "TW": ""
+      "TW": "TELEPORT AFTER 10S"
     }
   },
   "firt door open in 15s": {
@@ -113,9 +113,9 @@
     "translation": "",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "テレポート開始まで30秒",
       "CN": "传送将在30秒后激活",
-      "KR": "",
+      "KR": "전송将在30秒后激活",
       "TW": "TELEPORT IN 30S"
     }
   },
@@ -123,7 +123,7 @@
     "translation": "",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "テレポート開始まで20秒",
       "CN": "传送倒计时 20s",
       "KR": "",
       "TW": "TELEPORT IN 20S"
@@ -253,7 +253,7 @@
     "translation": "",
     "MultiLang": {
       "US": "== 15s after the first door opens ==",
-      "JP": "",
+      "JP": "=== 15s後に扉が開きます ===",
       "CN": "",
       "KR": "== 15s 후 첫 번째 문이 열립니다 ==",
       "TW": "=== 15s後第1扇門開啟 ==="
@@ -293,8 +293,8 @@
     "translation": "",
     "MultiLang": {
       "US": "== Zombie 5s Teleport ==",
-      "JP": "",
-      "CN": "",
+      "JP": "=== ゼラドール5s传送 ===",
+      "CN": "=== 丧尸5s传送 ===",
       "KR": "=== 좀비 5s 전송 ===",
       "TW": "=== 僵屍5s傳送 ==="
     }
@@ -313,7 +313,7 @@
     "translation": "",
     "MultiLang": {
       "US": "Defense 20s ===",
-      "JP": "",
+      "JP": "== 守备20s ==",
       "CN": "",
       "KR": "방어 20s ===",
       "TW": ""

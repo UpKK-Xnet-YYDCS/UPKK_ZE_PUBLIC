@@ -3,19 +3,19 @@
     "translation": "** 消灭剩余的僵尸！**",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "*** 剮き杀掉剩下的僵尸！***",
       "CN": "** 消灭剩余的僵尸！**",
-      "KR": "",
-      "TW": ""
+      "KR": "*** 남은 좀비들을 전부 처리하세요! ***",
+      "TW": "**殺盡 Remaining zombies! **"
     }
   },
   "**ADMIN HAS PRESSED KILL ALL BUTTON**": {
     "translation": "**管理员按下了全部杀死按钮**",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "**ADMIN が KILL ALL ボタンを押しました**",
       "CN": "**管理员按下了全部杀死按钮**",
-      "KR": "",
+      "KR": "**관리자가 모든人大杀按钮已按下**",
       "TW": ""
     }
   },
@@ -23,9 +23,9 @@
     "translation": "**5s后进行AFK传送**",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "***AFKテレポート5秒後に開始***",
       "CN": "**5s后进行AFK传送**",
-      "KR": "",
+      "KR": "**AFK 텔레포트 후 5초**",
       "TW": ""
     }
   },
@@ -33,20 +33,20 @@
     "translation": "**激活飞船**",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "**船を activatesuru**",
       "CN": "**激活飞船**",
-      "KR": "",
-      "TW": ""
+      "KR": "**선체 활성화**",
+      "TW": "激活戰艦"
     }
   },
   "**Admin set Jedi Knight MODE in the admin room**": {
     "translation": "**管理员在管理室设置了绝地武士模式**",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "**Admin が管理室でジェダイ knight モードを設定しました**",
       "CN": "**管理员在管理室设置了绝地武士模式**",
-      "KR": "",
-      "TW": ""
+      "KR": "**관리자가 관리실에서 젠디 킬러 모드를 설정했습니다**",
+      "TW": "**Admin設定絕地武士模式在管理员房間**"
     }
   },
   "**Admin set Jedi MODE in the admin room**": {
@@ -55,7 +55,7 @@
       "US": "",
       "JP": "",
       "CN": "**管理员在管理室设置了绝地模式**",
-      "KR": "",
+      "KR": "**관리자가 관리실에서 제다이 모드 설정했습니다**",
       "TW": ""
     }
   },
@@ -65,17 +65,17 @@
       "US": "",
       "JP": "",
       "CN": "**管理员在管理室设置了绝地大师模式**",
-      "KR": "",
-      "TW": ""
+      "KR": "**관리자 주니 메스터 모드를 관리자실에서 설정하였습니다**",
+      "TW": "**Admin設定絕地大師模式於管理房間**"
     }
   },
   "**Admin set Padawan MODE in the admin room**": {
     "translation": "**管理员在管理室设置了学徒模式**",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "**管理者が管理室でパダワンモードに設定しました**",
       "CN": "**管理员在管理室设置了学徒模式**",
-      "KR": "",
+      "KR": "**운영자가 관리실에서 팬아와ن 모드를 설정했습니다**",
       "TW": ""
     }
   },
@@ -85,7 +85,7 @@
       "US": "",
       "JP": "",
       "CN": "**管理员在管理室设置了小学徒模式**",
-      "KR": "",
+      "KR": "**관리자 Admin 모드를 관리실에서 설정하였습니다 Yound Padawan**",
       "TW": ""
     }
   },
@@ -93,40 +93,40 @@
     "translation": "**达斯摩尔已死**",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "ダース・マウル死す",
       "CN": "**达斯摩尔已死**",
-      "KR": "",
-      "TW": ""
+      "KR": "다르트 마울 사망",
+      "TW": "達斯·馬爾死亡"
     }
   },
   "**Destroy the barricade 15 second**": {
     "translation": "**15s后摧毁路障**",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "**ブARRICADEを15秒で破壊**",
       "CN": "**15s后摧毁路障**",
-      "KR": "",
-      "TW": ""
+      "KR": "**방어벽 파괴 15초**",
+      "TW": "***摧毁障礙物 15秒***"
     }
   },
   "**Destroy the barricade 5 second**": {
     "translation": "**5s后摧毁路障**",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "破壊する時間：5秒***",
       "CN": "**5s后摧毁路障**",
-      "KR": "",
-      "TW": ""
+      "KR": "**방화벽 파괴 5초**",
+      "TW": "***摧毁障礙物 5 秒***"
     }
   },
   "**Destroy the barricade in 20 second**": {
     "translation": "**20s后摧毁路障**",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "**20秒でバarricadeを破壊してください**",
       "CN": "**20s后摧毁路障**",
-      "KR": "",
-      "TW": ""
+      "KR": "**방크라인이 20초 안에 파괴하세요**",
+      "TW": "***摧毁路障於20秒內***/<<"
     }
   },
   "**FALL BACK**": {
@@ -135,7 +135,7 @@
       "US": "",
       "JP": "",
       "CN": "**撤退**",
-      "KR": "",
+      "KR": "-Withdrawing-",
       "TW": ""
     }
   },
@@ -143,9 +143,9 @@
     "translation": "**撤退并在20s后关闭门**",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "FALL BACK CLOSE DOOR IN 20 SECONDS",
       "CN": "**撤退并在20s后关闭门**",
-      "KR": "",
+      "KR": "**20초 후에 가까운 문을 닫으십시오**",
       "TW": ""
     }
   },
@@ -153,19 +153,19 @@
     "translation": "**撤退！机器人被杀死**",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "FALL BACK! ドロイドは消滅します",
       "CN": "**撤退！机器人被杀死**",
-      "KR": "",
-      "TW": ""
+      "KR": "드론们被消灭，撤退！",
+      "TW": "***退回去！機器人已被擊斃***"
     }
   },
   "**Fall back! Droids are killed** ": {
     "translation": "**撤退！机器人被杀死**",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "Fallout! Droid kara!!",
       "CN": "**撤退！机器人被杀死**",
-      "KR": "",
+      "KR": "注：根据指示，将原句“**Fall back! Droids are killed**”直译为“***후퇴하세요! 로봇은 죽음에***”，保持了原有的感叹号和星号符号，并未使用双引号。同时，由于原文中“killed”一词在翻译后不完全对等，因此调整为“죽음에”来传达类似的意义。",
       "TW": ""
     }
   },
@@ -173,19 +173,19 @@
     "translation": "**撤退！桥已关闭**",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "***後退！橋が閉鎖されました***",
       "CN": "**撤退！桥已关闭**",
-      "KR": "",
-      "TW": ""
+      "KR": "FALL BACK! THE BRIDGE HAS CLOSED",
+      "TW": "***退後！橋已經關閉***"
     }
   },
   "**Fall back! The bridge open**": {
     "translation": "**撤退！桥打开了**",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "***後退！橋が開く***",
       "CN": "**撤退！桥打开了**",
-      "KR": "",
+      "KR": "FALL BACK! THE BRIDGE OPENS",
       "TW": ""
     }
   },
@@ -193,80 +193,80 @@
     "translation": "**撤退！门已打开**",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "FALL BACK! 门已打开",
       "CN": "**撤退！门已打开**",
-      "KR": "",
-      "TW": ""
+      "KR": "FALL BACK!THE DOORS ARE OPEN",
+      "TW": "***退後！門已打開***"
     }
   },
   "**Fall back! The ship will move in 5 seconds**": {
     "translation": "**撤退！飞船将在5s后移动**",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "***後退！船将在5秒后移动***",
       "CN": "**撤退！飞船将在5s后移动**",
-      "KR": "",
-      "TW": ""
+      "KR": "★★후퇴하세요! 배는 5초 후에 움직입니다★",
+      "TW": "***退後！船隻將在5秒後移動***"
     }
   },
   "**First door will open in 45 seconds** ": {
     "translation": "**第一个门将在45s后打开**",
     "MultiLang": {
-      "US": "",
-      "JP": "",
+      "US": "First door will open in 45 seconds三是门将在45秒后开启",
+      "JP": "***最初の扉は45秒後に開きます***",
       "CN": "**第一个门将在45s后打开**",
-      "KR": "",
-      "TW": ""
+      "KR": "첫 문이 열리는 시간은 45초 후입니다 ***",
+      "TW": "第1道門将在45秒後開啟***"
     }
   },
   "**Last door will open in 30 seconds**": {
     "translation": "**最后一个门将在30s后打开**",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "最後のドアが30秒後に開きます***",
       "CN": "**最后一个门将在30s后打开**",
-      "KR": "",
-      "TW": ""
+      "KR": "최종 문은 30초 후에 열립니다 ***",
+      "TW": "***最後1扇門將在30秒後開啟***"
     }
   },
   "**Level changes to EPIC** ": {
     "translation": "**关卡变为史诗**",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "***Lv.がEPICに変更***",
       "CN": "**关卡变为史诗**",
-      "KR": "",
-      "TW": ""
+      "KR": "**레벨이 EPIC로 변경됩니다**",
+      "TW": "***級別變更為EPIC***"
     }
   },
   "**Level changes to EXTREME** ": {
     "translation": "**关卡变为极限**",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "レベルがEXTREMEに変更となります**",
       "CN": "**关卡变为极限**",
-      "KR": "",
-      "TW": ""
+      "KR": "**레벨이 EXTREME로 변경됩니다**",
+      "TW": "***Lv.變更為EXTREME***"
     }
   },
   "**Level changes to HARD** ": {
     "translation": "**关卡变为困难**",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "レベルがHARDに変更します",
       "CN": "**关卡变为困难**",
-      "KR": "",
-      "TW": ""
+      "KR": "**레벨이 HARD로 변경됩니다**",
+      "TW": "***難度變為HARD***"
     }
   },
   "**Level changes to NORMAL**": {
     "translation": "**关卡变为普通**",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "★★Lv.をNORMALに変更★",
       "CN": "**关卡变为普通**",
-      "KR": "",
-      "TW": ""
+      "KR": "**레벨 변경_NORMAL**",
+      "TW": "***難度變為 NORMAL***"
     }
   },
   "**MAP BY MAKVI_ANKOM**": {
@@ -275,7 +275,7 @@
       "US": "",
       "JP": "",
       "CN": "**地图作者MAKVI_ANKOM，翻译：Asterism**",
-      "KR": "",
+      "KR": "**맵 제작자 MAKVI_ANKOM**",
       "TW": ""
     }
   },
@@ -283,9 +283,9 @@
     "translation": "**天啊！这是达斯维德！开火！**",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "OMG! これはダース・ベイダーだ！SHOOT!",
       "CN": "**天啊！这是达斯维德！开火！**",
-      "KR": "",
+      "KR": "*** OMG! 이게 다르트 베이더야! SHOOT! ***",
       "TW": ""
     }
   },
@@ -293,9 +293,9 @@
     "translation": "**10s后路障将爆炸**",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "***ブARRICADEは10秒後に爆発します***",
       "CN": "**10s后路障将爆炸**",
-      "KR": "",
+      "KR": "-barsikkeun will爆炸在10秒后-",
       "TW": ""
     }
   },
@@ -303,129 +303,129 @@
     "translation": "**桥将在15s后打开**",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "橋は15秒後に開きます***",
       "CN": "**桥将在15s后打开**",
-      "KR": "",
-      "TW": ""
+      "KR": "다리가 열리는 시간은 남아 있습니다 *** 15초 후에 개방됩니다 >> <<",
+      "TW": "***橋樑将在15秒后开启***"
     }
   },
   "**The bridge will open in 25 seconds**": {
     "translation": "**桥将在25s后打开**",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "***橋が開くのは25秒後です***",
       "CN": "**桥将在25s后打开**",
-      "KR": "",
-      "TW": ""
+      "KR": "다리가 열리는 것은 25초 후입니다",
+      "TW": "***橋樑将在25秒後開通***"
     }
   },
   "**The bridge will open in 5 seconds**": {
     "translation": "**桥将在5s后打开**",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "橋が開くまでに5秒があります***",
       "CN": "**桥将在5s后打开**",
-      "KR": "",
-      "TW": ""
+      "KR": "다리가 5초 후에 열립니다 ***",
+      "TW": "**The 橋將在5秒後開啟**"
     }
   },
   "**The doors will open in 15 seconds**": {
     "translation": "**门将在15s后打开**",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "***ドアは15秒後に開きます***",
       "CN": "**门将在15s后打开**",
-      "KR": "",
-      "TW": ""
+      "KR": "***문이 15초 후에 열립니다***",
+      "TW": "**門将在15秒後開啟**"
     }
   },
   "**The doors will open in 20 seconds**": {
     "translation": "**门将在20s后打开**",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "ドアは20秒後に開きます***",
       "CN": "**门将在20s后打开**",
-      "KR": "",
-      "TW": ""
+      "KR": "***문은 20초 후에 열립니다***",
+      "TW": "***大門將在20秒後開啟***"
     }
   },
   "**The doors will open in 3 seconds**": {
     "translation": "**门将在3s后打开**",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "扉は3秒後に開きます***",
       "CN": "**门将在3s后打开**",
-      "KR": "",
-      "TW": ""
+      "KR": "**문은 3초 후에 열립니다**",
+      "TW": "***大門將在3秒後打開***"
     }
   },
   "**The doors will open in 30 seconds**": {
     "translation": "**门将在30s后打开**",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "***扉は30秒後に開きます***",
       "CN": "**门将在30s后打开**",
-      "KR": "",
-      "TW": ""
+      "KR": "**문이 30초 후에 열립니다**",
+      "TW": "**門将在30秒後打開**"
     }
   },
   "**The doors will open in 5 seconds**": {
     "translation": "**门将在5s后打开**",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "ドアは5秒後開きます***",
       "CN": "**门将在5s后打开**",
-      "KR": "",
-      "TW": ""
+      "KR": "***문은 5초 후에 열립니다***",
+      "TW": "** Doors 將在 5 秒後開啟 **"
     }
   },
   "**The doors will open in 5 seconds** ": {
     "translation": "**门将在5s后打开**",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "ドアは5秒後に開きます ***",
       "CN": "**门将在5s后打开**",
-      "KR": "",
-      "TW": ""
+      "KR": "**문은 5초 후에 열립니다**",
+      "TW": "** Doors 將在 5 秒後打開 **"
     }
   },
   "**The droids will be killed in 10 seconds**": {
     "translation": "**10s后机器人将被杀死**",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "***ドロイドは10秒後でkillsされる***",
       "CN": "**10s后机器人将被杀死**",
-      "KR": "",
-      "TW": ""
+      "KR": "***드론들이 10초 후에 처단될 것입니다***",
+      "TW": "***機器人将在10秒後被殺掉***"
     }
   },
   "**The droids will be killed in 20 seconds**": {
     "translation": "**20s后机器人将被杀死**",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "***ドroidは20秒後にkillされる***",
       "CN": "**20s后机器人将被杀死**",
-      "KR": "",
-      "TW": ""
+      "KR": "***드roid들은 20초 후에 처단될 것입니다***",
+      "TW": "***機器人将在20秒后被擊毀***"
     }
   },
   "**The droids will be killed in 25 seconds**": {
     "translation": "**25s后机器人将被杀死**",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "デュロイドは25秒後にkills",
       "CN": "**25s后机器人将被杀死**",
-      "KR": "",
-      "TW": ""
+      "KR": "드론들은 25초 후에 사라질 것이다 ***",
+      "TW": "***機器人將在25秒後被擊毀***"
     }
   },
   "**The droids will be killed in 30 seconds**": {
     "translation": "**30s后机器人将被杀死**",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "***ドロイドは30秒後に kills***",
       "CN": "**30s后机器人将被杀死**",
-      "KR": "",
+      "KR": "***드roid들은 30초 후에 처단될 것이다***",
       "TW": ""
     }
   },
@@ -433,19 +433,19 @@
     "translation": "**5s后机器人将被杀死**",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "デュードロイドは5秒後でkills.ElementAt(0)",
       "CN": "**5s后机器人将被杀死**",
-      "KR": "",
-      "TW": ""
+      "KR": "**드론들이 5초 후에 제거됩니다**",
+      "TW": "***機器人将在5秒后被擊殺***"
     }
   },
   "**The hangar doors will open in 20 seconds**": {
     "translation": "**机库门将在20s后打开**",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "hangar 大门将在 20 秒后打开 ***",
       "CN": "**机库门将在20s后打开**",
-      "KR": "",
+      "KR": "항库里门将在20秒后打开***",
       "TW": ""
     }
   },
@@ -453,9 +453,9 @@
     "translation": "**机库门将在5s后打开**",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "hangar no tobira wa 5 sekonda de aruku kōsei ni shiteimasu ***",
       "CN": "**机库门将在5s后打开**",
-      "KR": "",
+      "KR": "문이 열리는 데 5초만 기다려주세요",
       "TW": ""
     }
   },
@@ -463,40 +463,40 @@
     "translation": "**宫殿门将在30s后打开**",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "宫殿の扉は30秒後に開きます ***",
       "CN": "**宫殿门将在30s后打开**",
-      "KR": "",
-      "TW": ""
+      "KR": "상성문은 30초 후에 열립니다 ***",
+      "TW": "***宮門将在30秒後開啟***"
     }
   },
   "**The palace doors will open in 5 seconds**": {
     "translation": "**宫殿门将在5s后打开**",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "***宮殿の扉は5秒後開く***",
       "CN": "**宫殿门将在5s后打开**",
-      "KR": "",
-      "TW": ""
+      "KR": "**전설의 문은 5초 후에 열립니다**",
+      "TW": "***宮殿門扉將在5秒後開啟***"
     }
   },
   "**The ship will move in 15 seconds**": {
     "translation": "**飞船将在15s后移动**",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "船は15秒後にお進みになります***",
       "CN": "**飞船将在15s后移动**",
-      "KR": "",
-      "TW": ""
+      "KR": "**선박은 15초 후에 움직입니다**",
+      "TW": "***船將在15秒後移動***"
     }
   },
   "**The wall will explode in 30 second**": {
     "translation": "**墙将在30s后爆炸**",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "壁は30秒後に爆発します***",
       "CN": "**墙将在30s后爆炸**",
-      "KR": "",
-      "TW": ""
+      "KR": "벽은 **30초 후에 폭발한다**",
+      "TW": "***牆壁將在30秒後爆炸***"
     }
   },
   "**Ze_Star_wars**": {
@@ -513,150 +513,150 @@
     "translation": "**路障已爆炸**",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "***障壁爆発***",
       "CN": "**路障已爆炸**",
-      "KR": "",
-      "TW": ""
+      "KR": "_barrier exploded_",
+      "TW": "***藩籬爆炸***"
     }
   },
   "*Droids cover the vicegerent. Capture him!*": {
     "translation": "*机器人保护副统领。抓住他！*",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "デレットがvicegerentを覆い被る。捉えろ!*",
       "CN": "*机器人保护副统领。抓住他！*",
-      "KR": "",
-      "TW": ""
+      "KR": "드로이드들이 부인을 둘러싸십시오. 잡아오세요!",
+      "TW": "*droids 盤踞副王。抓獲他！*"
     }
   },
   "*Fall back door close in 15 second*": {
     "translation": "*撤退，门将在15s后关闭*",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "* Fall back 门关闭倒计时 15 秒 *",
       "CN": "*撤退，门将在15s后关闭*",
-      "KR": "",
-      "TW": ""
+      "KR": "*후퇴 문 닫히는 중 15초 후*",
+      "TW": "*退回 Doors closing in 15 seconds*"
     }
   },
   "*The doors will open in 10 seconds*": {
     "translation": "*门将在10s后打开*",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "扉は10秒後に開きます",
       "CN": "*门将在10s后打开*",
-      "KR": "",
-      "TW": ""
+      "KR": "*문은 10초 후에 열립니다*",
+      "TW": "* Doors 開啟於 10 秒後 *"
     }
   },
   "*The doors will open in 15 seconds*": {
     "translation": "*门将在15s后打开*",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "*扉は15秒後に開きます*",
       "CN": "*门将在15s后打开*",
-      "KR": "",
-      "TW": ""
+      "KR": "*문은 15초 후에 열립니다*",
+      "TW": "Doors 將在 15 秒後開啟 *"
     }
   },
   "*The doors will open in 5 seconds*": {
     "translation": "*门将在5s后打开*",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "ドアは5秒後に開きます",
       "CN": "*门将在5s后打开*",
-      "KR": "",
-      "TW": ""
+      "KR": "*문이 5초 후에 열립니다*",
+      "TW": "Doors 將在 5 秒後開啟 *"
     }
   },
   "*The droids will be killed in 20 seconds*": {
     "translation": "*机器人将在20s后被杀死*",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "*dreid wa 20 sekondosu de kiete iru*",
       "CN": "*机器人将在20s后被杀死*",
-      "KR": "",
-      "TW": ""
+      "KR": "*droids를 20초 후에 처리할 것*",
+      "TW": "*droids將於20秒後被擊毀*"
     }
   },
   "*The droids will be killed in 5 seconds*": {
     "translation": "*机器人将在5s后被杀死*",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "*droidsを5秒後にkills*",
       "CN": "*机器人将在5s后被杀死*",
-      "KR": "",
-      "TW": ""
+      "KR": "*droid们将在5秒后被消灭*",
+      "TW": "*droids將在5秒後被擊滅*"
     }
   },
   "5 SECOND": {
     "translation": "5s",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "5 セカンド",
       "CN": "5s",
-      "KR": "",
-      "TW": ""
+      "KR": "5 초",
+      "TW": "5 秒鐘"
     }
   },
   "A player picked up Force Grip": {
     "translation": "玩家获得了水",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "プレイヤーがForce Gripを拾いました",
       "CN": "玩家获得了水",
-      "KR": "",
-      "TW": ""
+      "KR": "플레이어가 Force Grip을 사용했습니다.",
+      "TW": "1名玩家拾起了Force Grip"
     }
   },
   "A player picked up Force Heal": {
     "translation": "玩家获得了治疗",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "プレイヤーがForce Healを使用しました",
       "CN": "玩家获得了治疗",
-      "KR": "",
-      "TW": ""
+      "KR": "플레이어가 강력한 치유를 사용했습니다",
+      "TW": "玩家拾取了強力治療術"
     }
   },
   "A player picked up Force Lightning": {
     "translation": "玩家获得了电",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "プレイヤーがフォース・ライトニングを拾いました",
       "CN": "玩家获得了电",
-      "KR": "",
-      "TW": ""
+      "KR": "플레이어가 강력한 번개를 받았다",
+      "TW": "玩家拾取了雷電力量"
     }
   },
   "A player picked up Force Push": {
     "translation": "玩家获得了风",
     "MultiLang": {
-      "US": "",
-      "JP": "",
+      "US": "A player used Force Push",
+      "JP": "プレイヤーがForce Pushを使用しました",
       "CN": "玩家获得了风",
-      "KR": "",
-      "TW": ""
+      "KR": "플레이어가Force Push를 사용했습니다",
+      "TW": "玩家使出Force Push"
     }
   },
   "A player picked up Force Rage": {
     "translation": "玩家获得了终极",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "プレイヤーがForce Rageを取得しました",
       "CN": "玩家获得了终极",
-      "KR": "",
-      "TW": ""
+      "KR": "플레이어가 강제 분노를 얻었음",
+      "TW": "玩家拾取了力怒"
     }
   },
   "A player picked up Force Speed": {
     "translation": "玩家获得了加速",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "プレイヤーがForce Speedを拾いました",
       "CN": "玩家获得了加速",
-      "KR": "",
-      "TW": ""
+      "KR": "플레이어가 강제 속도를 획득했습니다",
+      "TW": "玩家拾取了強速"
     }
   },
   "AFK TELEPORT 5 IN SECOND": {
@@ -675,7 +675,7 @@
       "US": "",
       "JP": "",
       "CN": "10s后进行AFK传送",
-      "KR": "",
+      "KR": "AFK 텔레포트 후 10초",
       "TW": ""
     }
   },
@@ -685,7 +685,7 @@
       "US": "",
       "JP": "",
       "CN": "5s后进行AFK传送",
-      "KR": "",
+      "KR": "AFK 텔레포트 후 5초",
       "TW": ""
     }
   },
@@ -693,29 +693,29 @@
     "translation": "3秒，BOSS使用水",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "ボス使用 GRIP",
       "CN": "3秒，BOSS使用水",
-      "KR": "",
-      "TW": ""
+      "KR": "보스 사용 GRIP",
+      "TW": "BOSS 使用 *** GRIP"
     }
   },
   "BOSS USE ANGER": {
     "translation": "3秒，BOSS使用愤怒",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "ボス 使用怒り",
       "CN": "3秒，BOSS使用愤怒",
-      "KR": "",
-      "TW": ""
+      "KR": "보스 사용 분노",
+      "TW": "BOSS 使用怒氣"
     }
   },
   "BOSS USE PUSH": {
     "translation": "3秒，BOSS使用风",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "ボス使用Push",
       "CN": "3秒，BOSS使用风",
-      "KR": "",
+      "KR": "보스 사용 금지",
       "TW": ""
     }
   },
@@ -723,30 +723,30 @@
     "translation": "3秒，BOSS使用狂怒，快贴墙！",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "ボス使用激怒",
       "CN": "3秒，BOSS使用狂怒，快贴墙！",
-      "KR": "",
-      "TW": ""
+      "KR": "보스 사용 분노",
+      "TW": "BOSS 使用狂怒"
     }
   },
   "BOSS USE RAGE ": {
     "translation": "3秒，BOSS使用狂怒，快贴墙！",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "ボス 使用激怒",
       "CN": "3秒，BOSS使用狂怒，快贴墙！",
-      "KR": "",
-      "TW": ""
+      "KR": "보스 사용 화력",
+      "TW": "BOSS 使用狂暴模式"
     }
   },
   "BOSS USE RAGE. BACK BACK BACK!!!!!!": {
     "translation": "3秒，BOSS使用狂怒，快贴墙！",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "Boss 使用狂暴。 后退 后退 后退!!!!!",
       "CN": "3秒，BOSS使用狂怒，快贴墙！",
-      "KR": "",
-      "TW": ""
+      "KR": "보스 사용 분노. 뒤로.step.step.step!!!!!",
+      "TW": "BOSS 使用狂暴。後退 后退 后退!!!!!"
     }
   },
   "BOSS USE SWORD. CROUCH!!!!!!": {
@@ -755,68 +755,68 @@
       "US": "",
       "JP": "",
       "CN": "3秒，BOSS使用剑，快蹲下！",
-      "KR": "",
-      "TW": ""
+      "KR": "보스 사용 검!!!!! 쓰러지!!!!!",
+      "TW": "BOSS 使用長劍。蹲下!!!!!!!!!"
     }
   },
   "BOSS USE THUNDER": {
     "translation": "3秒，BOSS使用雷电",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "ボス使用 thunder",
       "CN": "3秒，BOSS使用雷电",
-      "KR": "",
-      "TW": ""
+      "KR": "보스 사용 전기***",
+      "TW": "BOSS 使用雷電"
     }
   },
   "Boss Fight": {
     "translation": "Boss战",
     "MultiLang": {
-      "US": "",
-      "JP": "",
+      "US": "Boss Battle",
+      "JP": "ボス戦",
       "CN": "Boss战",
       "KR": "",
-      "TW": ""
+      "TW": "BOSS戰斗"
     }
   },
   "Boss fight in 10 second": {
     "translation": "10s后开始Boss战斗",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "ボス戦開始 10秒",
       "CN": "10s后开始Boss战斗",
-      "KR": "",
-      "TW": ""
+      "KR": "보스전 в 10 초",
+      "TW": "Boss戰鬥在10秒後開始"
     }
   },
   "Boss fight in 25 second": {
     "translation": "25s后开始Boss战斗",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "ボス戦開始　25秒",
       "CN": "25s后开始Boss战斗",
-      "KR": "",
-      "TW": ""
+      "KR": "보스전 в 25초",
+      "TW": "Boss戰在25秒後開始"
     }
   },
   "Boss fight in 5 second": {
     "translation": "5s后开始Boss战斗",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "ボス戦開始5秒",
       "CN": "5s后开始Boss战斗",
-      "KR": "",
-      "TW": ""
+      "KR": "보스전 в 5초 후",
+      "TW": "BOSS戰鬥在5秒後開始"
     }
   },
   "FALL BACK": {
     "translation": "撤退",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "Fall Back",
       "CN": "撤退",
       "KR": "",
-      "TW": ""
+      "TW": "退回"
     }
   },
   "FALL BACK!!!!!!!!!": {
@@ -835,7 +835,7 @@
       "US": "",
       "JP": "",
       "CN": "撤退！！！！！！！！！！",
-      "KR": "",
+      "KR": "후퇴!!!!!!!!!!",
       "TW": ""
     }
   },
@@ -843,9 +843,9 @@
     "translation": "最终攻击！！！！！！摧毁达斯摩尔！！！",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "FINAL ATTACK!!!!!!!!!!!! DARTH MAULを破滅させる!!!!!",
       "CN": "最终攻击！！！！！！摧毁达斯摩尔！！！",
-      "KR": "",
+      "KR": "【 시작 번역 】",
       "TW": ""
     }
   },
@@ -853,219 +853,219 @@
     "translation": "第一个门将在10s后打开",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "Fist door akan buka dalam 10 detik",
       "CN": "第一个门将在10s后打开",
-      "KR": "",
-      "TW": ""
+      "KR": "첫 번째 문이 열리는 시간은 10초 후입니다>>",
+      "TW": "第1道門將在10秒後開啟"
     }
   },
   "Good station explode! Shoot ZM!": {
     "translation": "好的车站爆炸了！射击僵尸！",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "GOOD STATION EXPLODE! SHOOT ZM!",
       "CN": "好的车站爆炸了！射击僵尸！",
-      "KR": "",
-      "TW": ""
+      "KR": "좋은 역 폭발! ZM 샕트!",
+      "TW": "Good站爆炸！射ZM！"
     }
   },
   "Jumping on platform": {
     "translation": "跳跃到平台上",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "プラットフォームにジャンプ",
       "CN": "跳跃到平台上",
-      "KR": "",
-      "TW": ""
+      "KR": "플랫폼에 점프doing",
+      "TW": "跳跃到平台"
     }
   },
   "Last door will open in 40 seconds": {
     "translation": "最后一个门将在40s后打开",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "最後のドアが開くまでに40秒があります",
       "CN": "最后一个门将在40s后打开",
-      "KR": "",
-      "TW": ""
+      "KR": "최종 문이 40초 후에 열립니다",
+      "TW": "最後1扇門將在40秒後開啟"
     }
   },
   "OMG! It is ship of Darth Maul!": {
     "translation": "天啊！这是达斯摩尔的飞船！",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "OMG! それはダース・マウルの船だ！",
       "CN": "天啊！这是达斯摩尔的飞船！",
-      "KR": "",
-      "TW": ""
+      "KR": "OMG!那是达斯·马尔的飞船！",
+      "TW": "OMG! 是達斯·馬爾的船！"
     }
   },
   "RATHER!!!!!!! Press button!!!!": {
     "translation": "快点！！！！！按下按钮！！",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "RATHER!!!!! ボタンを押してください!!!!!",
       "CN": "快点！！！！！按下按钮！！",
-      "KR": "",
-      "TW": ""
+      "KR": "RATHER!!!!!!!! 버튼을 누르세요!!!!!",
+      "TW": "RATHER!!!!!!! 鏈接按鈕!!!!!"
     }
   },
   "RUN!!!! RUN!!!! RUN!!!!!!  The wal willl explode in 15 second": {
     "translation": "跑！！！跑！！！跑！！！！墙将在15s内爆炸",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "RUN!!!! RUN!!!! RUN!!!!! ワルは15秒後爆発します",
       "CN": "跑！！！跑！！！跑！！！！墙将在15s内爆炸",
-      "KR": "",
-      "TW": ""
+      "KR": "RUN!!!! RUN!!!! RUN!!!!! *** wal sẽ nổ trong 15 giây***",
+      "TW": "RUN!!!! RUN!!!! RUN!!!!! 這個魺魚會在15秒後爆炸"
     }
   },
   "Run!!! The ship will departs after in 20 second": {
     "translation": "跑！！！飞船将在20s后出发",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "Run!!! 船将在20秒后启程。",
       "CN": "跑！！！飞船将在20s后出发",
-      "KR": "",
-      "TW": ""
+      "KR": "런!!!!! 배는 20초 후에 출발합니다.",
+      "TW": "跑!!!!! 隊艦將在20秒後起航"
     }
   },
   "Second door will open in 10 seconds ": {
     "translation": "第二个门将在10s后打开",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "第二ドアは10秒後に開きます",
       "CN": "第二个门将在10s后打开",
-      "KR": "",
-      "TW": ""
+      "KR": "두 번째 문이 10초 후에 열립니다",
+      "TW": "第2道門将在10秒後開啟"
     }
   },
   "Second door will open in 15 seconds": {
     "translation": "第二个门将在15s后打开",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "第二ドアが開くまでに15秒があります",
       "CN": "第二个门将在15s后打开",
-      "KR": "",
-      "TW": ""
+      "KR": "두 번째 문이 15 초 후에 열립니다",
+      "TW": "第2道門将在15秒後開啟"
     }
   },
   "Shoot in middle the station of droids!": {
     "translation": "射击机器人站台的中间部分！",
     "MultiLang": {
-      "US": "",
-      "JP": "",
+      "US": "Shoot in the middle of the droid station!",
+      "JP": "ドロイドの中間のスタンドに射撃！",
       "CN": "射击机器人站台的中间部分！",
-      "KR": "",
-      "TW": ""
+      "KR": "드로이드estation 중앙에 쏘세요!",
+      "TW": "射中機器人站台的中間！"
     }
   },
   "Teleport activates in 10 second": {
     "translation": "10s后激活传送",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "テレポートは10秒後に Activation",
       "CN": "10s后激活传送",
-      "KR": "",
-      "TW": ""
+      "KR": "텔porter 활성화까지 10 초",
+      "TW": "TELEPORT 激活於 10 秒後"
     }
   },
   "The magnetic field will destroyed in 20 second": {
     "translation": "20s后磁场将被摧毁",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "磁場は20秒後で破壊されます",
       "CN": "20s后磁场将被摧毁",
-      "KR": "",
-      "TW": ""
+      "KR": "자기장은 20초 후에 파괴됩니다",
+      "TW": "磁場將在20秒後被破壞"
     }
   },
   "The magnetic field will destroyed in 25 second": {
     "translation": "25s后磁场将被摧毁",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "磁場は25秒後に破壊されます",
       "CN": "25s后磁场将被摧毁",
-      "KR": "",
-      "TW": ""
+      "KR": "적电磁场将在25秒后被破坏",
+      "TW": "磁場將在25秒後被破壞"
     }
   },
   "The magnetic field will destroyed in 30 second": {
     "translation": "30s后磁场将被摧毁",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "磁場は30秒後に破壊されます",
       "CN": "30s后磁场将被摧毁",
-      "KR": "",
-      "TW": ""
+      "KR": "적외선 필드는 30초 후에 파괴됩니다",
+      "TW": "磁場将在30秒後破壞"
     }
   },
   "The ship will departs after in 20 second": {
     "translation": "飞船将在20s后出发",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "船は20秒後に出発します",
       "CN": "飞船将在20s后出发",
-      "KR": "",
-      "TW": ""
+      "KR": "선은 20초 후에 출발합니다",
+      "TW": "船隻将在20秒後起航"
     }
   },
   "The ship will fly away in 35 seconds": {
     "translation": "飞船将在35s后飞走",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "船は35秒後に飛んでいきます",
       "CN": "飞船将在35s后飞走",
-      "KR": "",
-      "TW": ""
+      "KR": "선은 35초 후에 날아가게 될 것입니다",
+      "TW": "船隻將在35秒後飛離"
     }
   },
   "The teleport will earn in 5 second": {
     "translation": "5s后传送将启动",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "テレポートは5秒後に獲得",
       "CN": "5s后传送将启动",
-      "KR": "",
-      "TW": ""
+      "KR": "텔레포트는 5초 후로 얻을 수 있습니다",
+      "TW": "TELEPORT 將於5秒後啟動"
     }
   },
   "Third door will open in 10 seconds": {
     "translation": "第三个门将在10s后打开",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "THIRD DOOR WILL OPEN IN 10 SECONDS",
       "CN": "第三个门将在10s后打开",
-      "KR": "",
-      "TW": ""
+      "KR": "THIRD DOOR WILL OPEN IN 10 SECONDS",
+      "TW": "第3道門將在10秒後開啟"
     }
   },
   "Third door will open in 30 seconds": {
     "translation": "第三个门将在30s后打开",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "第三の扉は30秒後に開きます",
       "CN": "第三个门将在30s后打开",
-      "KR": "",
-      "TW": ""
+      "KR": "THIRD DOOR WILL OPEN IN 30 SECONDS",
+      "TW": "第3道門将在30秒後開啟"
     }
   },
   "get to the side GET TO THE SIDE": {
     "translation": "到边上 到边上",
     "MultiLang": {
-      "US": "",
-      "JP": "",
+      "US": "GET TO THE SIDE GET TO THE SIDE",
+      "JP": "側に移動してください侧に移動してください GET TO THE SIDE",
       "CN": "到边上 到边上",
-      "KR": "",
-      "TW": ""
+      "KR": "편입된 측면으로 가_GETTOTHESIDE_",
+      "TW": "到側邊GET到側邊"
     }
   },
   "**Fixed by 健忘症晚期,Asterism Date:24.06.26**": {
     "translation": "",
     "MultiLang": {
-      "US": "",
+      "US": "Fixed by Late-stage Amnesia, Asterism Date: 24.06.26",
       "JP": "",
       "CN": "",
-      "KR": "",
+      "KR": "**_fixed_by_가장중기의상실증, Asterism_Date:24.06.26**",
       "TW": ""
     }
   },
@@ -1073,19 +1073,19 @@
     "translation": "传送将在25s后启动",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "TELEPORT Earns in 25 sec",
       "CN": "传送将在25s后启动",
-      "KR": "",
-      "TW": ""
+      "KR": "텔porter의 시간은 25초 후에 얻을 수 있습니다",
+      "TW": "傳送門將在25秒後激活"
     }
   },
   "**Fixed by 健忘症晚期,Asterism Date:25.02.20**": {
     "translation": "",
     "MultiLang": {
-      "US": "",
+      "US": "Fixed by Late-stage Amnesia, Asterism Date: 25.02.20",
       "JP": "",
       "CN": "",
-      "KR": "",
+      "KR": "** Fixed by 경기력하락중기, Asterism Date:25.02.20 **",
       "TW": ""
     }
   }

@@ -35,7 +35,7 @@
       "US": "",
       "JP": ">>>30秒<<<",
       "CN": ">>>30秒<<<",
-      "KR": "",
+      "KR": ">>>30 초 <<<",
       "TW": ">>>30秒<<<"
     }
   },
@@ -83,10 +83,10 @@
     "translation": ">>>25秒后传送<<<",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": ">>25秒後にtp<<<",
       "CN": ">>>25秒后传送<<<",
       "KR": ">>>25초 후 tp<<<",
-      "TW": ""
+      "TW": ">>>tp 在 25 秒後<<<"
     }
   },
   ">>>zombie tp in 10 seconds left<<<": {
@@ -96,7 +96,7 @@
       "JP": ">>>ゾンビTP残10秒<<<",
       "CN": ">>>僵尸将在10秒后传送<<<",
       "KR": ">>>좀비 TP 10초 남음<<<",
-      "TW": ""
+      "TW": ">>>殭屍tp在10秒後<<<"
     }
   },
   ">>>zombie tp in 10 seconds<<<": {
@@ -113,7 +113,7 @@
     "translation": ">>>一楼梯子即将打开，剩余5秒<<<",
     "MultiLang": {
       "US": ">>A staircase will open in 5 seconds<<",
-      "JP": "",
+      "JP": ">>一段levator shortly to open 5 seconds left<<",
       "CN": ">>>一楼梯子即将打开，剩余5秒<<<",
       "KR": ">>>하나의 계단이 열릴 예정입니다. 5 seconds left<<<",
       "TW": ">>>1梯階即將打開 5 seconds left<<<"

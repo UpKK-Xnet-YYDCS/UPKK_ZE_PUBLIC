@@ -74,7 +74,7 @@
     "MultiLang": {
       "US": "*First Level Passed*",
       "JP": "※１章通過*",
-      "CN": "",
+      "CN": "*通关第1关*",
       "KR": "*첫 번째關通過*",
       "TW": "*第1關通過*"
     }
@@ -83,7 +83,7 @@
     "translation": "",
     "MultiLang": {
       "US": "*Level 2*",
-      "JP": "",
+      "JP": "*2章*",
       "CN": "",
       "KR": "*2라운드*",
       "TW": "*第2關*"
@@ -114,7 +114,7 @@
     "MultiLang": {
       "US": ">>> A Human Learns Sako <<<",
       "JP": ">>> 人類がサコを得る <<<",
-      "CN": "",
+      "CN": ">>> 1名人类学会萨科 <<<",
       "KR": ">>> 인간이 사코를 배웠<<<",
       "TW": ">>> 1位人類習得薩科 <<<"
     }
@@ -243,10 +243,10 @@
     "translation": "",
     "MultiLang": {
       "US": ">> A player became Yuneao <<<",
-      "JP": "",
+      "JP": ">>> 1 player became Yunero <<<",
       "CN": "",
       "KR": ">>> 한 플레이어가 유네로로 변신했습니다 <<<",
-      "TW": ""
+      "TW": ">>> 1位玩家成為了尤nez若<<<"
     }
   },
   "*第四关*": {

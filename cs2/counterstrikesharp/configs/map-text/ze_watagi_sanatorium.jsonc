@@ -62,7 +62,7 @@
   "\"「一つ分かることと言えば...」\"": {
     "translation": "\"「唯一能确定的是...」\"",
     "MultiLang": {
-      "US": "",
+      "US": "「One thing to understand is...」",
       "JP": "",
       "CN": "\"「唯一能确定的是...」\"",
       "KR": "「 하나 알 수 있는 것은... 」",
@@ -192,7 +192,7 @@
   "<!> バリケードを破壊 -- Destroying the barricade 30 sec <!>": {
     "translation": "<!>破坏路障:30秒<!>",
     "MultiLang": {
-      "US": "",
+      "US": "!<br>Break the barricade -- Destroying the barricade 30 sec <!>",
       "JP": "!<＞バリケードを破壊 -- 30sec !<>",
       "CN": "<!>破坏路障:30秒<!>",
       "KR": "!<=findViewById(30>>破坏壁垒 -- 방비계를 파괴 30sec)!>",
@@ -225,7 +225,7 @@
       "US": "<!> Play old record <!>",
       "JP": "",
       "CN": "<!>播放了古老的唱片<!>",
-      "KR": "",
+      "KR": "!<오래된 레코드를 재생했습니다>!",
       "TW": "<!> 播放古舊唱片 <!>"
     }
   },
@@ -252,8 +252,8 @@
   "<!> バリケードを破壊 -- Destroying the barricade 20 sec <!>": {
     "translation": "",
     "MultiLang": {
-      "US": "",
-      "JP": "",
+      "US": "!<br>Destroying the barricade -- 20 sec <!>",
+      "JP": "<!>バリケードを破壊 -- 20sec <!>",
       "CN": "![破坏壁垒] -- 破坏壁垒 20 秒 ![]",
       "KR": "!<brate> 벽장문을 파괴 -- 빌라케이드 파괴 20sec <!>",
       "TW": ";! breaker barricade -- 打破路障 20 sec;!"

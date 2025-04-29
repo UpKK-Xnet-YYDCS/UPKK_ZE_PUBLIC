@@ -56,7 +56,7 @@
       "JP": ">>> NOW PLAYING: ダスト - 私と鳥 <<<",
       "CN": ">>> 正在播放 Duster - Me And The Birds <<<",
       "KR": ">>> NOW PLAYING: 드레스터 - 나는 새들과 <<<",
-      "TW": ""
+      "TW": ">>> 現在玩著： Dusterr - 我和鳥兒 <<<"
     }
   },
   ">>> NOW PLAYING: Eiffel 65 - Blue <<<": {
@@ -93,7 +93,7 @@
     "translation": ">>> 正在播放 Gorillaz - Melancholy Hill <<<",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": ">>> NOW PLAYING: ゴリラズ - メランコリー・ヒル <<<",
       "CN": ">>> 正在播放 Gorillaz - Melancholy Hill <<<",
       "KR": ">>> NOW PLAYING: 곤리잘즈 - 메냐클롬 하일 <<<",
       "TW": ">>> NOW PLAYING: 戛利EZ - 霉漣丘 <<<"
@@ -126,7 +126,7 @@
       "JP": "",
       "CN": ">>> 正在播放 Loverboy - Workin' For The Weekend <<<",
       "KR": ">>> NOW PLAYING: 로버보이 - 워킹 포 더 위크엔드 <<<",
-      "TW": ""
+      "TW": ">>> 現在播放：Loverboy - Workin' For The Weekend <<<"
     }
   },
   ">>> NOW PLAYING: Melty Blood OST - Neco Arc <<<": {
@@ -145,7 +145,7 @@
       "US": "",
       "JP": ">>> NOW PLAYING: メン・アット・ワーク - ダウン・アンダ <<<",
       "CN": ">>> 正在播放 Men at Work - Down Under <<<",
-      "KR": "",
+      "KR": ">>> 지금 재생 중: Men at Work - Down Under <<<",
       "TW": ">>> 現在播放：Men at Work - Down Under <<<"
     }
   },
@@ -156,7 +156,7 @@
       "JP": "",
       "CN": ">>> 正在播放 Modest Mouse - Sunspots In The House Of The Late Scapegoat <<<",
       "KR": "",
-      "TW": ""
+      "TW": ">>> NOW PLAYING: 誠品樂團 - 房間裡的晚 scapegoat 瑞射點 <<<"
     }
   },
   ">>> NOW PLAYING: Nujabes - Battlecry <<<": {
@@ -183,7 +183,7 @@
     "translation": ">>> 正在播放 Outkast - Hey Ya! <<<",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": ">>> NOW PLAYING: アウトカスト - ハイ・ヤ！ <<<",
       "CN": ">>> 正在播放 Outkast - Hey Ya! <<<",
       "KR": ">>> NOW PLAYING: 아웃카스트 - 힐 요!? <<<",
       "TW": ">>> NOW PLAYING: 出發卡斯特 - 嘿呀！ <<<"
@@ -195,8 +195,8 @@
       "US": "",
       "JP": ">>> NOW PLAYING: ペンパルズ - なぜだろう <<<",
       "CN": ">>> 正在播放 Penpals - Tell Me Why <<<",
-      "KR": "",
-      "TW": ""
+      "KR": ">>> 지금 플레이 중:ペンパルズ - 왜 말해? <<<",
+      "TW": ">>> 現在進行中：筆友 - 告訴我為什麼 <<<"
     }
   },
   ">>> NOW PLAYING: Radiohead - Knives Out <<<": {
@@ -215,8 +215,8 @@
       "US": "",
       "JP": ">>> NOW PLAYING: シルバー・フィンズ - 長い待ち時間 <<<",
       "CN": ">>> 正在播放 Silver Fins - Waiting So Long <<<",
-      "KR": "",
-      "TW": ""
+      "KR": ">>> 현재 플레이 중: 실버핀즈 - 오랜 시간 기다렸습니다 <<<",
+      "TW": ">>> NOW PLAYING: 銀鰭 - 久候無-reply <<<"
     }
   },
   ">>> NOW PLAYING: Sonic The Hedgehog OVA - Land of Darkness <<<": {
@@ -255,7 +255,7 @@
       "US": "",
       "JP": ">>> NOW PLAYING: スペースダニー オリジナル・ストーリー・トラック - ファティでオホソゴディ <<<",
       "CN": ">>> 正在播放 Space Dandy OST - Fatty But Oh So Goody <<<",
-      "KR": "",
+      "KR": ">>> NOW PLAYING: 스페이스 닌자 OST - 페이티 바ut 오_so_고디 <<<",
       "TW": ""
     }
   },
@@ -286,7 +286,7 @@
       "JP": ">>> NOW PLAYING: ドラムズ - マネー <<<",
       "CN": ">>> 正在播放 The Drums - Money <<<",
       "KR": ">>> NOW PLAYING: 드럼스 - 돈 <<<",
-      "TW": ""
+      "TW": ">>> 現在播放：鼓聲 -  其他 <<<"
     }
   },
   ">>> NOW PLAYING: The Pixies - Where Is My Mind? <<<": {
@@ -326,7 +326,7 @@
       "JP": "清掃機 Selected Level 1",
       "CN": "清洁工选择了关卡1 翻译：Asteri3m",
       "KR": "전직 선택 Level 1",
-      "TW": ""
+      "TW": "清潔工選定等級 1"
     }
   },
   "Janitor selected Level 2": {
@@ -363,7 +363,7 @@
     "translation": "清洁工选择了关卡5",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "清掃機を選んだ Lv.5",
       "CN": "清洁工选择了关卡5",
       "KR": "보존원 선택Level 5",
       "TW": "JANITOR 選取Lv.5"

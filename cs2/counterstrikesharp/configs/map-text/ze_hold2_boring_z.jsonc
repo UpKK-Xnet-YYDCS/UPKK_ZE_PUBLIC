@@ -296,7 +296,7 @@
       "JP": "** 30s_HOLD !! **",
       "CN": "**防守30秒！**",
       "KR": "** 30s_HOLD!! **",
-      "TW": ""
+      "TW": "** HOLD 30S ! **"
     }
   },
   "** Hold here 20s ! **": {
@@ -306,7 +306,7 @@
       "JP": "**ここを20秒保って！**",
       "CN": "**在这里防守20秒！**",
       "KR": "** 여기서 20초 기다리세요 ! **",
-      "TW": ""
+      "TW": "** HOLD HERE 20S ! **"
     }
   },
   "** Its very boring and very hard , but end is funny .**": {
@@ -413,7 +413,7 @@
     "translation": "**正在播放音乐 - Bamboogym**",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "** 音声再生 - Bamboogym **",
       "CN": "**正在播放音乐 - Bamboogym**",
       "KR": "** 사운드 작동 - Bamboogym **",
       "TW": ""
@@ -423,7 +423,7 @@
     "translation": "**正在播放音乐 - Credens justitiam**",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "*** 音声再生 - Credens justitiam ***",
       "CN": "**正在播放音乐 - Credens justitiam**",
       "KR": "*** 사운드 재생 - 정의를 믿다 ***",
       "TW": ""
@@ -463,7 +463,7 @@
     "translation": "**正在播放音乐 - Goshanghai**",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "** 士林放送 - 吉上海 **",
       "CN": "**正在播放音乐 - Goshanghai**",
       "KR": "** 소리 재생 - 고상해진 **",
       "TW": ""
@@ -496,7 +496,7 @@
       "JP": "*** 音声再生 - 地図 ***",
       "CN": "**正在播放音乐 - Maps**",
       "KR": "** 소리 재생 - 맵 **",
-      "TW": ""
+      "TW": "** 音效播放 - 圖幅 **"
     }
   },
   "** Sound Playing - Monster **": {
@@ -526,7 +526,7 @@
       "JP": "*** 音声再生 - 公用电话 ***",
       "CN": "**正在播放音乐 - Payphone**",
       "KR": "** 소리 재생 - 전화기 **",
-      "TW": ""
+      "TW": "*** 音效 - 嚮電話 ***"
     }
   },
   "** Sound Playing - Snowdrop **": {
@@ -553,7 +553,7 @@
     "translation": "**正在播放音乐 - TRUE**",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "** 声音-playing - TRUE **",
       "CN": "**正在播放音乐 - TRUE**",
       "KR": "** 사운드-playing -TRUE **",
       "TW": "**音效开启 - TRUE **"
@@ -566,7 +566,7 @@
       "JP": "*** 音声再生 - Warmregard ***",
       "CN": "**正在播放音乐 - Warmregard**",
       "KR": "** 소리 재생 -溫暖關懷 **",
-      "TW": ""
+      "TW": "*** 壓音撥放 - 溫暖關懷 ***"
     }
   },
   "** Sound Playing - Whitechristmas **": {
@@ -583,7 +583,7 @@
     "translation": "**正在播放音乐 - flyingina bluedream**",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "** 音楽再生中 - flyinginabluedream **",
       "CN": "**正在播放音乐 - flyingina bluedream**",
       "KR": "** 소리 재생 - flyinginabluedream **",
       "TW": ""
@@ -596,14 +596,14 @@
       "JP": "*** 音声再生 - グレースケール支配者 ***",
       "CN": "**正在播放音乐 - grayscale dominator**",
       "KR": "*** 소리 재생 -_GRAYSCALE DOMINATOR ***",
-      "TW": ""
+      "TW": "*** Sound Playing -灰階支配者***"
     }
   },
   "** Sound Playing - tuki **": {
     "translation": "**正在播放音乐 - tuki**",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "*** 播放音效 - つき ***",
       "CN": "**正在播放音乐 - tuki**",
       "KR": "*** 사운드 재생 - 틀기 ***",
       "TW": "** 壓音播放 - tuki **"
@@ -626,14 +626,14 @@
       "JP": "",
       "CN": "**正在播放音乐 - 二拜天地**",
       "KR": "** 소리 재생 - 이배 천지 **",
-      "TW": ""
+      "TW": "** 音效播放 - 2拜天地 **"
     }
   },
   "** Sound Playing - 全是爱 **": {
     "translation": "**正在播放音乐 - 全是爱**",
     "MultiLang": {
       "US": "** Sound Playing - All About Love **",
-      "JP": "",
+      "JP": "*** 声音播放 - 全是愛 ***",
       "CN": "**正在播放音乐 - 全是爱**",
       "KR": "*** 소리 재생 - 모두 사랑 ***",
       "TW": "** 音樂播放 - 全是愛 **"
@@ -653,7 +653,7 @@
     "translation": "**正在播放音乐 - 孤寂百年**",
     "MultiLang": {
       "US": "** Sound Playing - Centuries of Solitude **",
-      "JP": "",
+      "JP": "** Sound Playing - 百年孤独 **",
       "CN": "**正在播放音乐 - 孤寂百年**",
       "KR": "*** 사운드 재생 - 혼돈 백년 ***",
       "TW": ""
@@ -662,7 +662,7 @@
   "** Sound Playing - 山河图 **": {
     "translation": "**正在播放音乐 - 山河图**",
     "MultiLang": {
-      "US": "",
+      "US": "** Sound Playing - Mountain River Painting **",
       "JP": "",
       "CN": "**正在播放音乐 - 山河图**",
       "KR": "** 소리 재생 - 산하도图 **",
@@ -676,7 +676,7 @@
       "JP": "** Sound Playing - 神に求めて **",
       "CN": "**正在播放音乐 - 求神呐**",
       "KR": "*** 소리 재생 - 신을 부르다 ***",
-      "TW": ""
+      "TW": "** 声音播放中 - 求神呐 **"
     }
   },
   "** Sound Playing - 江郎才尽 **": {
@@ -713,17 +713,17 @@
     "translation": "**正在播放音乐 - 自由自在**",
     "MultiLang": {
       "US": "** Sound Playing - Free Spirit **",
-      "JP": "",
+      "JP": "*** 検証中 - 自由自在 ***",
       "CN": "**正在播放音乐 - 自由自在**",
       "KR": "** 사운드 재생 - 자유로움 **",
-      "TW": ""
+      "TW": "*** 音效開關 - 自由自在 ***"
     }
   },
   "** Sound Playing - 自由飞翔 **": {
     "translation": "**正在播放音乐 - 自由飞翔**",
     "MultiLang": {
       "US": "** Sound Playing - Free Flight **",
-      "JP": "",
+      "JP": "*** 音声再生 - 自由飞翔 ***",
       "CN": "**正在播放音乐 - 自由飞翔**",
       "KR": "** 사운드 재생 - 자유로운 날아다니기 **",
       "TW": ""
@@ -763,7 +763,7 @@
     "translation": "**欢迎游玩这张糟糕的地图**",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "*** 欢迎来到这张垃圾地图 ***",
       "CN": "**欢迎游玩这张糟糕的地图**",
       "KR": "*** 환영합니다 이 씨하 맵에 ***",
       "TW": "**歡迎來到這張屎圖**"
@@ -783,7 +783,7 @@
     "translation": "**僵尸增益：隐形**",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "**ゾンビバフ : INVIS **",
       "CN": "**僵尸增益：隐形**",
       "KR": "** 좀비 버프 : INVIS **",
       "TW": "**殭屍 BUFF : INVIS **"
@@ -796,7 +796,7 @@
       "JP": "**ゾンビバフ：SPEED**",
       "CN": "**僵尸增益：加速**",
       "KR": "** 좀비 버프 : 스피드 **",
-      "TW": ""
+      "TW": "**殭屍 BUFF : SPEED **"
     }
   }
 }

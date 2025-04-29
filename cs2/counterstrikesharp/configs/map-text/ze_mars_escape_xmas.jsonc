@@ -26,7 +26,7 @@
       "JP": "",
       "CN": "**警告： 剩余110秒**",
       "KR": "",
-      "TW": ""
+      "TW": "** 110 秒剩餘 **"
     }
   },
   "**  120 SECONDS LEFT **": {
@@ -36,7 +36,7 @@
       "JP": "",
       "CN": "**警告： 剩余120秒**",
       "KR": "",
-      "TW": ""
+      "TW": "** 120 秒剩餘 **"
     }
   },
   "**  20 SECONDS LEFT **": {
@@ -56,7 +56,7 @@
       "JP": "",
       "CN": "**警告： 剩余30秒**",
       "KR": "",
-      "TW": ""
+      "TW": "** 30 秒鐘剩餘 **"
     }
   },
   "**  40 SECONDS LEFT **": {
@@ -66,7 +66,7 @@
       "JP": "",
       "CN": "**警告： 剩余40秒**",
       "KR": "",
-      "TW": ""
+      "TW": "** 40 秒鐘剩餘 **"
     }
   },
   "**  50 SECONDS LEFT **": {
@@ -76,7 +76,7 @@
       "JP": "",
       "CN": "**警告： 剩余50秒**",
       "KR": "",
-      "TW": ""
+      "TW": "** 50 秒鐘剩餘 **"
     }
   },
   "**  60 SECONDS LEFT **": {
@@ -96,7 +96,7 @@
       "JP": "",
       "CN": "**警告： 剩余70秒**",
       "KR": "",
-      "TW": ""
+      "TW": "** 70 秒剩餘 **"
     }
   },
   "**  80 SECONDS LEFT **": {
@@ -106,7 +106,7 @@
       "JP": "",
       "CN": "**警告： 剩余80秒**",
       "KR": "",
-      "TW": ""
+      "TW": "** 80 秒剩餘 **"
     }
   },
   "**  90 SECONDS LEFT **": {
@@ -123,10 +123,10 @@
     "translation": "**... 克劳德正在安装炸弹**",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "*** ... 雲は爆弾を植えている ***",
       "CN": "**... 克劳德正在安装炸弹**",
-      "KR": "",
-      "TW": ""
+      "KR": "*** ... 클라우드는 폭탄을 설치하고 있습니다 ***",
+      "TW": "*** ... 雲在種炸弹 ***"
     }
   },
   "** 1 COWBELLS LEFT!!! **": {
@@ -166,7 +166,7 @@
       "JP": "",
       "CN": "**剩余20秒**",
       "KR": "",
-      "TW": ""
+      "TW": "** 20 秒鐘剩餘 **"
     }
   },
   "** 3 COWBELLS LEFT! **": {
@@ -186,106 +186,106 @@
       "JP": "",
       "CN": "**剩余30秒**",
       "KR": "",
-      "TW": ""
+      "TW": "** 30 秒鐘剩餘 **"
     }
   },
   "** A player has adquired EARTH MATERIA **": {
     "translation": "**玩家获得了土元素**",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "*** プレイヤーがEARTH MATERIAを獲得しました ***",
       "CN": "**玩家获得了土元素**",
-      "KR": "",
-      "TW": ""
+      "KR": "*** 플레이어가 EARTH MATERIA를 획득했습니다 ***",
+      "TW": "** 1玩家獲得地脈 MATERIAL **"
     }
   },
   "** A player has adquired ELECTRO MATERIA **": {
     "translation": "**玩家获得了电元素**",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "*** プレイヤーがELECTRO MATERIAを獲得しました ***",
       "CN": "**玩家获得了电元素**",
-      "KR": "",
-      "TW": ""
+      "KR": "*** 한 플레이어가 전기 마터리아를 획득하였습니다 ***",
+      "TW": "** 1玩家獲得 ELECTRO MATERIA **"
     }
   },
   "** A player has adquired FIRE MATERIA **": {
     "translation": "**玩家获得了火元素**",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "*** プレイヤーがファイアマテリアを取得しました ***",
       "CN": "**玩家获得了火元素**",
-      "KR": "",
-      "TW": ""
+      "KR": "*** 플레이어가 FIRE MATERIA를 획득했습니다 ***",
+      "TW": "** 1名玩家獲得 FIRE MATERIA **"
     }
   },
   "** A player has adquired GRAVITY MATERIA **": {
     "translation": "**玩家获得了黑洞元素**",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "**プレイヤーがGRAVITY MATERIAを獲得しました**",
       "CN": "**玩家获得了黑洞元素**",
-      "KR": "",
-      "TW": ""
+      "KR": "*** 플레이어가 GRAVITY MATERIA를 획득했습니다 ***",
+      "TW": "** 1名玩家獲得 GRAVITY MATERIA **"
     }
   },
   "** A player has adquired HEAL MATERIA **": {
     "translation": "**玩家获得了奶元素**",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "**プレイヤーがHEAL MATERIAを獲得しました**",
       "CN": "**玩家获得了奶元素**",
-      "KR": "",
-      "TW": ""
+      "KR": "*** 플레이어가 치유 마티아에 도달했습니다 ***",
+      "TW": "** 1玩家獲得治療魔石 **"
     }
   },
   "** A player has adquired ICE MATERIA **": {
     "translation": "**玩家获得了冰元素**",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "*** プレイヤーがICE MATERIAを獲得しました ***",
       "CN": "**玩家获得了冰元素**",
-      "KR": "",
-      "TW": ""
+      "KR": "** 한 플레이어가 ICE MATERIA를 획득했습니다 **",
+      "TW": "**1名玩家獲得ICE MATERIA**"
     }
   },
   "** A player has adquired ULTIMA MATERIA **": {
     "translation": "**玩家获得了终极元素**",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "**プレイヤーがULTIMA MATERIAを取得しました**",
       "CN": "**玩家获得了终极元素**",
-      "KR": "",
-      "TW": ""
+      "KR": "** 한 플레이어가 최고의 물질 ULTIMA MATERIA를 획득했습니다 **",
+      "TW": "**1名玩家獲得 ULTIMA MATERIA **"
     }
   },
   "** A player has adquired WIND MATERIA **": {
     "translation": "**玩家获得了风元素**",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "*** プレイヤーがWIND MATERIAを獲得しました ***",
       "CN": "**玩家获得了风元素**",
-      "KR": "",
-      "TW": ""
+      "KR": "★★ 한 플레이어가 WIND MATERIA를 획득했습니다 ★★",
+      "TW": "*** 1名玩家獲得風魔術 ***"
     }
   },
   "** ALL COWBELLS HAVE BEEN BROKEN **": {
     "translation": "**所有彩蛋已找到**",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "*** すべてのコウベルが壊已被破坏 ***",
       "CN": "**所有彩蛋已找到**",
-      "KR": "",
-      "TW": ""
+      "KR": "*** 모든 콜벨이 깨졌습니다 ***",
+      "TW": "**所有鈴鐺都已破壞**"
     }
   },
   "** BAHAMUT HAS CAST EARTH ** BREAK THE WALL! **": {
     "translation": "**巴哈姆特使用了土** 打破它！**",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "***バハムートが大地をcaster*** ****壁を破れ!!!****",
       "CN": "**巴哈姆特使用了土** 打破它！**",
-      "KR": "",
+      "KR": "*** 바하무트가 지구를 사용했어요 *** 벽을 깨나가세요 !***",
       "TW": ""
     }
   },
@@ -293,29 +293,29 @@
     "translation": "**巴哈姆特使用了电！（跳上栏杆）**",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "***BAHAMUTがイェロウを放った !***",
       "CN": "**巴哈姆特使用了电！（跳上栏杆）**",
-      "KR": "",
-      "TW": ""
+      "KR": "*** 베하무트가 전기 방출 did it! ***",
+      "TW": "**BAHAMUT 已施放電擊！**"
     }
   },
   "** BAHAMUT HAS CAST FIRE! **": {
     "translation": "**巴哈姆特使用了火！（往后退）**",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "**BAHAMUTが炎を放った！**",
       "CN": "**巴哈姆特使用了火！（往后退）**",
-      "KR": "",
-      "TW": ""
+      "KR": "** 바하무트가 불을 풀어놓았습니다! **",
+      "TW": "**BAHAMUT 已施放火炎！**"
     }
   },
   "** BAHAMUT HAS CAST GRAVITY **": {
     "translation": "**巴哈姆特使用了黑洞**",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "*** バハムットが重力を Casting した ***",
       "CN": "**巴哈姆特使用了黑洞**",
-      "KR": "",
+      "KR": "*** 바하무트가 중력 구문을 사용함 ***",
       "TW": ""
     }
   },
@@ -323,29 +323,29 @@
     "translation": "**巴哈姆特使用了冰**",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "*** バハムートが氷をcasting ***",
       "CN": "**巴哈姆特使用了冰**",
-      "KR": "",
-      "TW": ""
+      "KR": "*** 바하무트가 얼음 기동을 시작했습니다 ***",
+      "TW": "**巴哈姆特已施放冰霜**"
     }
   },
   "** BAHAMUT HAS CAST WIND **": {
     "translation": "**巴哈姆特使用了风**",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "*** バハムートが風を召喚した ***",
       "CN": "**巴哈姆特使用了风**",
-      "KR": "",
-      "TW": ""
+      "KR": "*** 바하무트가 바람을 시전했습니다 ***",
+      "TW": "**巴哈姆特已施放風-wall**"
     }
   },
   "** BAHAMUT HAS HEALED 150 HIT POINTS**": {
     "translation": "**巴哈姆特恢复了150点生命值**",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "***BAHAMUTが150 HPを回復した***",
       "CN": "**巴哈姆特恢复了150点生命值**",
-      "KR": "",
+      "KR": "*** Bahamut has healed 150 hit points***",
       "TW": ""
     }
   },
@@ -353,9 +353,9 @@
     "translation": "**巴哈姆特正在蓄力 **准备好**",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "***バハムートが召喚される*** 自身を整えよ ***",
       "CN": "**巴哈姆特正在蓄力 **准备好**",
-      "KR": "",
+      "KR": "*** 바하무트가 소환되었습니다 *** 준비하세요 ***",
       "TW": ""
     }
   },
@@ -363,9 +363,9 @@
     "translation": "**巴哈姆特已死 **原路返回**",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "***バハムートは死んだ*** もうすぐ消えろ ***",
       "CN": "**巴哈姆特已死 **原路返回**",
-      "KR": "",
+      "KR": "*** 바HAMUT 이 사망했습니다 *** 계속 달려가세요 ***",
       "TW": ""
     }
   },
@@ -375,7 +375,7 @@
       "US": "",
       "JP": "",
       "CN": "**巴哈姆特将消灭我们所有人！不要停下来开火**",
-      "KR": "",
+      "KR": "*** 바HAMUT는 우리 모두를exterminate할 거야! 쏘지 마라 ***",
       "TW": ""
     }
   },
@@ -383,69 +383,69 @@
     "translation": "**巴哈姆特将不会释放小型技能**",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "*** バハムットは素材を使用しません ***",
       "CN": "**巴哈姆特将不会释放小型技能**",
-      "KR": "",
-      "TW": ""
+      "KR": "*** 밸루무가 자원을 사용하지 않을 것입니다 ***",
+      "TW": "**BAHAMUT將不會使用材料**"
     }
   },
   "** Bahamut is going to cast Mega Flare !! Shoot !! **": {
     "translation": "**巴哈姆特想要杀了我们！！射击！！**",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "***バハムートはメガフラールを放つ!! 射击!!***",
       "CN": "**巴哈姆特想要杀了我们！！射击！！**",
-      "KR": "",
-      "TW": ""
+      "KR": "*** 바하무트가 메가 플레어를 사용할 것!! 발사!! ***",
+      "TW": "*** 巴哈姆特即將施放超級flare!! 射擊!! ***"
     }
   },
   "** Bahamut is in attack position ** Keep firing !! **": {
     "translation": "**巴哈姆特进入攻击姿态 ** 继续开火！！**",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "***バハムートは攻撃態勢に*** Continually発射!! ***",
       "CN": "**巴哈姆特进入攻击姿态 ** 继续开火！！**",
-      "KR": "",
-      "TW": ""
+      "KR": "*** 바하무트는 공격 위치 *** 계속 사격!! ***",
+      "TW": "*** 巴哈穆特已進入攻擊位置 *** 繼續射擊!! **"
     }
   },
   "** Bomb has been planted  **  Run **": {
     "translation": "**炸弹已安装 **跑**",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "**** 爆弾が設置されました **** 走]**",
       "CN": "**炸弹已安装 **跑**",
-      "KR": "",
-      "TW": ""
+      "KR": "*** 폭탄이 설치되었습니다 *** 달아나세요",
+      "TW": "** 炸彈已安放 ** 跑 **"
     }
   },
   "** DOOR OPENS IN 35 S **": {
     "translation": "**门将在35秒内打开**",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "**ドアが開くまで35S**",
       "CN": "**门将在35秒内打开**",
-      "KR": "",
-      "TW": ""
+      "KR": "** 문이 35초 후에 열립니다 **",
+      "TW": "** 门在35秒後開啟 **"
     }
   },
   "** Dont stop shooting ! Dont let him attack !": {
     "translation": "**不要停止射击！不要让他攻击！**",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "*** continue shooting ! don't let him attack !***",
       "CN": "**不要停止射击！不要让他攻击！**",
-      "KR": "",
-      "TW": ""
+      "KR": "不停地射击！不要让他攻击！",
+      "TW": "绝对不要停止射击！不要让他攻擊！"
     }
   },
   "** EXPLOSION IN 120 SECONDS **": {
     "translation": "**警告：炸弹将于120秒后爆炸**",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "** 120秒後爆発 **",
       "CN": "**警告：炸弹将于120秒后爆炸**",
-      "KR": "",
+      "KR": "** 120초 후 폭발 **",
       "TW": ""
     }
   },
@@ -453,40 +453,40 @@
     "translation": "**警告：炸弹将于130秒后爆炸**",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "** 130sekунds前に爆発 **",
       "CN": "**警告：炸弹将于130秒后爆炸**",
-      "KR": "",
-      "TW": ""
+      "KR": "** 130초 후 폭발 **",
+      "TW": "**爆炸倒計時130秒**"
     }
   },
   "** EXPLOSION IN 145 SECONDS **": {
     "translation": "**警告：炸弹将于145秒后爆炸**",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "** 145秒後爆発 **",
       "CN": "**警告：炸弹将于145秒后爆炸**",
-      "KR": "",
-      "TW": ""
+      "KR": "** 145초 후 폭발 **",
+      "TW": "**爆裂倒計時145秒**"
     }
   },
   "** Go to the control room to open it earlier **": {
     "translation": "**控制室有提前开门的方法，找到它**",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "**制御室に行き早く開锁する**",
       "CN": "**控制室有提前开门的方法，找到它**",
-      "KR": "",
-      "TW": ""
+      "KR": "** 제어실로 가서早就打开它 **",
+      "TW": "***去控制室較早開啟它***"
     }
   },
   "** NO COWBELL BONUS **": {
     "translation": "**没有彩蛋奖励**",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "*** クボベルボーナスなし ***",
       "CN": "**没有彩蛋奖励**",
-      "KR": "",
-      "TW": ""
+      "KR": "*** 무소리를 보너스 없음 ***",
+      "TW": "** 沒有鈴鐺獎勵 **"
     }
   },
   "** RUN! **": {
@@ -513,10 +513,10 @@
     "translation": "**怪物要攻击了！**",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "**モンスターが攻撃する！**",
       "CN": "**怪物要攻击了！**",
-      "KR": "",
-      "TW": ""
+      "KR": "**몬스터가 공격할 것이다! **",
+      "TW": "*** 怪物就要攻擊！ ***"
     }
   },
   "** ULTIMA CAST WILL SUCCED IN 10 SECONDS **": {
@@ -533,10 +533,10 @@
     "translation": "**警告！巴哈姆特将在20秒后释放红终 ** 准备使用奶++**",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "*** 注意！バハムートが最終魔法を放つ ***  heal++ 準備推介会chten",
       "CN": "**警告！巴哈姆特将在20秒后释放红终 ** 准备使用奶++**",
-      "KR": "",
-      "TW": ""
+      "KR": "*** 경고! 바하무트가 최후의 공격을 사용합니다 *** 준비하여 HEAL++ 사용하세요 ***)",
+      "TW": "*** 警告！巴哈姆特正在施放最終技 *** 隨時準備使用加 Healing ++ ***"
     }
   },
   "** WHAT THE FUCK!!!!!!!!!!!!!!!!!!!!!!!!! ***": {
@@ -553,10 +553,10 @@
     "translation": "**我们到达了核心...**",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "** 我们到达了核心  ...**",
       "CN": "**我们到达了核心...**",
-      "KR": "",
-      "TW": ""
+      "KR": "**我們已經reach了核心...**",
+      "TW": "** 我們已經到達核心  ...**"
     }
   },
   "** YOU ARE THE MASTERS OF MAKO REACTOR! ** ": {
@@ -565,7 +565,7 @@
       "US": "",
       "JP": "",
       "CN": "**恭喜-你已征服本神图！**",
-      "KR": "",
+      "KR": "** 당신은 마코 반응기의 주인翁！**",
       "TW": ""
     }
   },
@@ -573,7 +573,7 @@
     "translation": "**你做到了！你赢得了极限模式！你太棒了！**",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "*** やったね！極限で勝ち切ったね！オーナーだね！ ***",
       "CN": "**你做到了！你赢得了极限模式！你太棒了！**",
       "KR": "",
       "TW": ""
@@ -583,19 +583,19 @@
     "translation": "**你做到了！你赢得了困难模式 ** 下回合是极限模式 ** 祝你好运！**",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "*** 你做到了！你在最难的模式中获胜 *** 切换到EXTREME模式 *** 好运！ ***",
       "CN": "**你做到了！你赢得了困难模式 ** 下回合是极限模式 ** 祝你好运！**",
-      "KR": "",
-      "TW": ""
+      "KR": "** túi dào le! nǐ zài ZUì Nán kǔ de kòngzhì lǐ shèng qín le ** yǒu fēnqíng! >> DOUCHE MODE << hǎo xiāngqiáng ! **",
+      "TW": "*** 你做到了！你在最难的難度下獲勝了 *** 到來極限模式 *** 祝你好運 ***"
     }
   },
   "** ZOMBIES HAVE INFECTED THE BUNKER **": {
     "translation": "**僵尸已逃脱-你输了**",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "***ゾンビが bunker を感染させた***",
       "CN": "**僵尸已逃脱-你输了**",
-      "KR": "",
+      "KR": "*** 브 若要继续，请输入完整文本。 **zw기어已被感染 ***",
       "TW": ""
     }
   },
@@ -603,40 +603,40 @@
     "translation": "***神器等级：1***",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "*** レベル1の素材 ***",
       "CN": "***神器等级：1***",
-      "KR": "",
-      "TW": ""
+      "KR": "*** 레벨 1에 필요한 재료 ***",
+      "TW": "*** LVL 1 材料 ***"
     }
   },
   "*** MATERIALS AT LVL 2 ***": {
     "translation": "***神器等级：2***",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "*** レベル2の素材 ***",
       "CN": "***神器等级：2***",
-      "KR": "",
-      "TW": ""
+      "KR": "*** 레벨 2에 필요한 자원 ***",
+      "TW": "*** 材料等級 2 ***"
     }
   },
   "*** MATERIALS AT LVL 3 ***": {
     "translation": "***神器等级：3***",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "*** LEVEL 3 材料 ***",
       "CN": "***神器等级：3***",
-      "KR": "",
-      "TW": ""
+      "KR": "*** 레벨 3 재료 ***",
+      "TW": "*** 材料等級 3 ***"
     }
   },
   "**Bahamut has been defeated ! ** Go go! Run upstairs ! **": {
     "translation": "**巴哈姆特被击败了！ ** 快跑！上楼梯！**",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "***バハムートが敗北した！*** 行動しろ！階段上に！***",
       "CN": "**巴哈姆特被击败了！ ** 快跑！上楼梯！**",
-      "KR": "",
-      "TW": ""
+      "KR": "***바하모트가 패배했어요 !*** 가고 가세요! 올라가기 !***",
+      "TW": "***巴哈姆特已被擊敗！*** 走吧走吧！快跑上樓！***"
     }
   },
   "**CURRENT DIFFICULTY ** >> EXTREME II << **": {
@@ -655,27 +655,27 @@
       "US": "",
       "JP": "",
       "CN": "**恭喜！你赢得了普通模式！下回合是困难模式！**",
-      "KR": "",
-      "TW": ""
+      "KR": "축하합니다 ! NORMAL 모드를 클리어했습니다 ! HARD 모드의 도전이 시작되었습니다 !",
+      "TW": "**恭喜！你打敗了 NORMAL 模式！ HARD 模式的挑戰開始了！ **"
     }
   },
   "**Door is open**": {
     "translation": "**门已开**",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "ドアは開いている***",
       "CN": "**门已开**",
-      "KR": "",
-      "TW": ""
+      "KR": "***문이 열렸습니다***",
+      "TW": "門已打開"
     }
   },
   "**Door is opening in 10 seconds**": {
     "translation": "**门将在10秒内打开**",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "扉は10秒後に開きます***",
       "CN": "**门将在10秒内打开**",
-      "KR": "",
+      "KR": "***문이 10초 후에 열립니다***",
       "TW": ""
     }
   },
@@ -683,29 +683,29 @@
     "translation": "**门将在5秒内打开**",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "ドアが開くまでに5秒",
       "CN": "**门将在5秒内打开**",
-      "KR": "",
-      "TW": ""
+      "KR": "문이 열리기 시작합니다. 5",
+      "TW": "門正在開啟中 5"
     }
   },
   "**Elevator is leaving in 10s**": {
     "translation": "**电梯将在10秒内离开**",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "エレベーターは10秒後に departureします",
       "CN": "**电梯将在10秒内离开**",
-      "KR": "",
-      "TW": ""
+      "KR": ",**엘 Elevator는 10초 후에 출발합니다**",
+      "TW": "電梯将在10秒后离开**"
     }
   },
   "**Keep shooting ! We dont know what it can do **": {
     "translation": "**继续射击！我们不知道它会做什么**",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "***Continue shooting! We don't know what it can do***",
       "CN": "**继续射击！我们不知道它会做什么**",
-      "KR": "",
+      "KR": "***계속 발사하세요! 우리가 그것이 무엇을 할 수 있는지 모릅니다***",
       "TW": ""
     }
   },
@@ -715,7 +715,7 @@
       "US": "",
       "JP": "",
       "CN": "**做得好！你中断了萨菲罗斯的攻击**",
-      "KR": "",
+      "KR": "***잘했다! 시퍼리스의 공격을 방해했다***",
       "TW": ""
     }
   },
@@ -723,60 +723,60 @@
     "translation": "???????圣诞生成器失败????????",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "??????? クリスマスジェネレーターが失敗しました ????????",
       "CN": "???????圣诞生成器失败????????",
-      "KR": "",
-      "TW": ""
+      "KR": "??????? 크리스마스 생성기 실패 ????????",
+      "TW": "??????? 圣誕 Generator 已失效 ????????"
     }
   },
   "After a long trip to mars you finally land but something strange has happened...": {
     "translation": "经过长途旅行到火星，你终于降落，但发生了奇怪的事情...",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "火星への長い旅の後、ようやく着陸したが、何か不思議なことが起こっている...",
       "CN": "经过长途旅行到火星，你终于降落，但发生了奇怪的事情...",
-      "KR": "",
-      "TW": ""
+      "KR": "장난이 아니게 마스르로의 긴 여행 끝에最终着陆，但有些奇怪的事情发生了…",
+      "TW": "經長途旅行抵達火星，你終於著陸，但奇怪的事情發生了……"
     }
   },
   "Airlock opening in 10 secs.": {
     "translation": "气闸将在10秒后开启。",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "エア Lock 開启まで 10 秒。",
       "CN": "气闸将在10秒后开启。",
-      "KR": "",
-      "TW": ""
+      "KR": "기상장 열리는 중... 10초 후 개방됩니다.",
+      "TW": "氣閘開啟倒數中，10秒後開启。"
     }
   },
   "Airlock opening in 15 secs.": {
     "translation": "气闸将在15秒后开启。",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "アリーラックの開閉 15sec後に実行。",
       "CN": "气闸将在15秒后开启。",
-      "KR": "",
-      "TW": ""
+      "KR": "에어로크 열리는 중입니다. 15초 후 개방됩니다.",
+      "TW": "空艙門開啟倒數中，15秒後開启。"
     }
   },
   "Airlock opening in 20 secs.": {
     "translation": "气闸将在20秒后开启。",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "エアロックが20秒後に開きます。",
       "CN": "气闸将在20秒后开启。",
-      "KR": "",
-      "TW": ""
+      "KR": "기어이동 20secs 후 문 연다.",
+      "TW": "空气閥将在20秒後開啟。"
     }
   },
   "Airlock opening in 5 secs.": {
     "translation": "气闸将在5秒后开启。",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "エアロックが5秒後に開きます。",
       "CN": "气闸将在5秒后开启。",
-      "KR": "",
-      "TW": ""
+      "KR": "에어로크 열리는 중... 5초 후 개방됩니다.",
+      "TW": "空气閥将在5秒後開啟。"
     }
   },
   "Airlock opening.": {
@@ -785,17 +785,17 @@
       "US": "",
       "JP": "",
       "CN": "气闸正在开启。",
-      "KR": "",
-      "TW": ""
+      "KR": "기동식粑 重启。",
+      "TW": "空氣閥開啟。"
     }
   },
   "Big and strong mommy tomboys kill zombies and save christmas on Mars...": {
     "translation": "强壮的假小子妈妈杀死僵尸并在火星上拯救圣诞节...",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "大きなママトムボーイは火星でゾンビを倒しクリスマスを救う...",
       "CN": "强壮的假小子妈妈杀死僵尸并在火星上拯救圣诞节...",
-      "KR": "",
+      "KR": "대하고 강한 엄마 토미보이들은 지구 와르스에서 블라이즈와 생쥐들을 죽이고 크리스마스를 구하라...",
       "TW": ""
     }
   },
@@ -803,30 +803,30 @@
     "translation": "掩体将在10秒后关闭",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "バンカーが閉鎖されます 10秒後",
       "CN": "掩体将在10秒后关闭",
-      "KR": "",
-      "TW": ""
+      "KR": "벙커 폭발까지 10sec",
+      "TW": "堡壘關閉剩餘10秒"
     }
   },
   "Bunker closing in 20 secs": {
     "translation": "掩体将在20秒后关闭",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "バンカー Closure 20 セカンド",
       "CN": "掩体将在20秒后关闭",
-      "KR": "",
-      "TW": ""
+      "KR": "벙커 폐쇄까지 20secs",
+      "TW": "堡門即將關閉 20 秒鐘"
     }
   },
   "Bunker closing in 40 secs": {
     "translation": "掩体将在40秒后关闭",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "バンクーラー閉鎖残り40sec",
       "CN": "掩体将在40秒后关闭",
-      "KR": "",
-      "TW": ""
+      "KR": "벙커 닫힘 40 sec",
+      "TW": "堡壘封閉剩餘 40 秒"
     }
   },
   "Bunker closing in 5 secs": {
@@ -835,8 +835,8 @@
       "US": "",
       "JP": "",
       "CN": "掩体将在5秒后关闭",
-      "KR": "",
-      "TW": ""
+      "KR": "벙커 닫히는 중 5secs",
+      "TW": "bunkers 闭幕剩 5 秒"
     }
   },
   "Bunker closing in 60 secs": {
@@ -845,7 +845,7 @@
       "US": "",
       "JP": "",
       "CN": "掩体将在60秒后关闭",
-      "KR": "",
+      "KR": "벙커가 닫히니 60sec",
       "TW": ""
     }
   },
@@ -853,10 +853,10 @@
     "translation": "电梯坏了。",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "エレベーター壊れた。",
       "CN": "电梯坏了。",
-      "KR": "",
-      "TW": ""
+      "KR": "식기 부서짐.",
+      "TW": "電梯故障。"
     }
   },
   "Good job, really, good job! Now you've done it! You pissed off the Fat Man!": {
@@ -865,15 +865,15 @@
       "US": "",
       "JP": "",
       "CN": "干得好，真的，干得好！现在你做到了！你惹怒了他！",
-      "KR": "",
-      "TW": ""
+      "KR": "GOOD JOB, REALLY, GOOD JOB! NOW YOU'VE DONE IT! YOU PISSED OFF THE FAT MAN!",
+      "TW": "好工作，真的，好工作！現在你做對了！你气走 FAT MAN！"
     }
   },
   "HO HO HO - naughty boys can only defend themselves with their knives...": {
     "translation": "HOHOHO-顽皮的孩子只能用刀自卫...",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "ホ・ホ・ホ - り Dress-up  boys は 刃物 唇 で 只 自身 を 守る...",
       "CN": "HOHOHO-顽皮的孩子只能用刀自卫...",
       "KR": "",
       "TW": ""
@@ -883,40 +883,40 @@
     "translation": "哈哈哈！圣诞老人今晚要来火星了，伙计们！",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "ホホホ！ファレラスたちは今夜火星に来ますよ！",
       "CN": "哈哈哈！圣诞老人今晚要来火星了，伙计们！",
-      "KR": "",
-      "TW": ""
+      "KR": "호 호 호! 달성자들, 오늘 밤 산타가 화성을 방문해요!",
+      "TW": "哈哈呵！聖誕老人今晚要來火星了各位！"
     }
   },
   "Holly Jolly-enerator Online :D": {
     "translation": "欢乐圣诞生成器在线 :D",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "ホリホリジェネレーターオンライン :D",
       "CN": "欢乐圣诞生成器在线 :D",
       "KR": "",
-      "TW": ""
+      "TW": "霍利耶誕-erator 在線 :D"
     }
   },
   "Holly Jolly-enerator offline :(": {
     "translation": "欢乐圣诞生成器离线 :(",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "ホリホリジェネレータオフライン:(",
       "CN": "欢乐圣诞生成器离线 :(",
-      "KR": "",
-      "TW": ""
+      "KR": "Holly Jolly-enerator 오프라인 :(`);",
+      "TW": "Holly Jolly-enerator 离线 :(|"
     }
   },
   "Holly Jolly-enerator waiting for restart.": {
     "translation": "欢乐圣诞生成器等待重启。",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "ホリデイジェネレーター待機中。",
       "CN": "欢乐圣诞生成器等待重启。",
-      "KR": "",
-      "TW": ""
+      "KR": "홀리 조리-저장기 기다리는 중.",
+      "TW": "霍利joy-enerator等待重新啟動。"
     }
   },
   "IT'S CHRISTMAS!!!!!!!!!!!": {
@@ -933,20 +933,20 @@
     "translation": "地图作者：Xquality，地图混合狮子王元素，模型来自Luffaren",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "マップ制作：Xquality, 重新混编：Santa, モデル提供：Luffaren",
       "CN": "地图作者：Xquality，地图混合狮子王元素，模型来自Luffaren",
-      "KR": "",
-      "TW": ""
+      "KR": "맵 제작者: Xquality, 리믹스由Santa, 모델由Luffaren",
+      "TW": "地图由Xquality製作，Santa重製，模型來自Luffaren"
     }
   },
   "Marslab self-destructing in...": {
     "translation": "火星实验室自毁倒计时...",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "マーレラブ自爆中…",
       "CN": "火星实验室自毁倒计时...",
-      "KR": "",
-      "TW": ""
+      "KR": "마스랩 자해 중...",
+      "TW": "火星實驗室自爆倒數中..."
     }
   },
   "Maybe you shouldn't open your presents...": {
@@ -955,38 +955,38 @@
       "US": "",
       "JP": "",
       "CN": "也许你不应该打开你的礼物...",
-      "KR": "",
-      "TW": ""
+      "KR": "MAYBE YOU SHOULDN'T OPEN YOUR PRESENTS...",
+      "TW": "可能你不應該開你的禮物…"
     }
   },
   "Mini airlock opening in 5.": {
     "translation": "迷你气闸将在5秒后开启。",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "ミニ空気 Lock opening in 5.",
       "CN": "迷你气闸将在5秒后开启。",
-      "KR": "",
-      "TW": ""
+      "KR": "미니 공기전환문이 5초 후에 열립니다.",
+      "TW": "迷你空閘門開啓於5。"
     }
   },
   "Pathetic and weak soyboys will make Santa do the job for them...": {
     "translation": "可怜而软弱的人们将让圣诞老人替他们完成工作...",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "弱小無能のソイ Sauce Boys...lenessがSantaに仕事をさせる...'neath",
       "CN": "可怜而软弱的人们将让圣诞老人替他们完成工作...",
-      "KR": "",
-      "TW": ""
+      "KR": "비겁하고 약한 콩 若要继续，请告知我。",
+      "TW": "pathetic 且 衰弱 的 豆油 党 只會 让 圣誕老人 代勞 ..."
     }
   },
   "Pole doors closing.": {
     "translation": "极地门关闭。",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "ポールドア Closureeding.",
       "CN": "极地门关闭。",
-      "KR": "",
-      "TW": ""
+      "KR": "포 게이트 닫히고 있습니다.",
+      "TW": "欄杆門正在關閉。"
     }
   },
   "REBUYS ARE DISABLED! FALL DAMAGE IS ENABLED!": {
@@ -995,118 +995,118 @@
       "US": "",
       "JP": "",
       "CN": "刷枪已禁用！摔落伤害已启用！",
-      "KR": "",
-      "TW": ""
+      "KR": "재구매는 비활성화되었습니다! 떨어짐 손상이 활성화되었습니다!",
+      "TW": "重買已禁用！掉落傷害已啟用！"
     }
   },
   "Santa will punish naughty boys and girls who don't save Christmas...": {
     "translation": "圣诞老人会惩罚那些不拯救圣诞节的调皮男孩和女孩...",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "サンタはクリスマスを救わない恶行の子供たちを责める...",
       "CN": "圣诞老人会惩罚那些不拯救圣诞节的调皮男孩和女孩...",
-      "KR": "",
-      "TW": ""
+      "KR": "사ANTA는 크리스마스를 지키지 않는 나쁜 남자와 여아들을 처벌할 것입니다...",
+      "TW": "聖誕老人會懲罰不救 CHRISTMAS 的 Naughty Boys and Girls……"
     }
   },
   "Security airlock closing.": {
     "translation": "安全气闸关闭。",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "セキュリティ空閂閉鎖。",
       "CN": "安全气闸关闭。",
-      "KR": "",
-      "TW": ""
+      "KR": "보안 공기막akening.",
+      "TW": "安全空Locker關閉中。"
     }
   },
   "You are starting to feel uneasy about Christmas this year...": {
     "translation": "你开始对今年的圣诞节感到不安...",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "今年のクリスマス关于......不安になってきた......",
       "CN": "你开始对今年的圣诞节感到不安...",
-      "KR": "",
-      "TW": ""
+      "KR": "이년의 크리스마스에 대해 서서히 불편함을 느끼기 시작했다...",
+      "TW": "您今年開始對聖誕節感到不安...]"
     }
   },
   "christmas is ruined": {
     "translation": "圣诞节被毁了",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "クリスマスは台無しにされた",
       "CN": "圣诞节被毁了",
-      "KR": "",
-      "TW": ""
+      "KR": "크리스마스가 망쳤다",
+      "TW": "聖誕節毀了"
     }
   },
   "god smites the unholy demons who follow santa": {
     "translation": "上帝惩罚那些追随圣诞老人的不义恶魔",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "神は聖なるサンタを追う呪われた妖精を殛る",
       "CN": "上帝惩罚那些追随圣诞老人的不义恶魔",
-      "KR": "",
-      "TW": ""
+      "KR": "圣诞未信仰的恶魔神降罚(>> <<)",
+      "TW": "神祇降臨制裁那些效忠聖誕老人的不聖靈怪"
     }
   },
   "perhaps we have been too naughty": {
     "translation": "也许我们太顽皮了",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "おそらく私たちはあまりにも悪びれずに寢igne",
       "CN": "也许我们太顽皮了",
-      "KR": "",
-      "TW": ""
+      "KR": "haps이我们也太闹腾了",
+      "TW": "perhaps we have been太淘氣"
     }
   },
   "santa was never really here": {
     "translation": "圣诞老人从未真正出现过",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "サンタは本当にここにいたことは決してありません",
       "CN": "圣诞老人从未真正出现过",
-      "KR": "",
-      "TW": ""
+      "KR": "サン타は実際にここにいたことは決してありませんでした",
+      "TW": "聖誕老人從來都不在這裡"
     }
   },
   "sinners must perish": {
     "translation": "罪人必须灭亡",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "罪人必須滅亡",
       "CN": "罪人必须灭亡",
-      "KR": "",
-      "TW": ""
+      "KR": "죄인들은 파멸해야 한다",
+      "TW": "罪人必須滅亡"
     }
   },
   "test 1": {
     "translation": "测试1",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "テスト 1",
       "CN": "测试1",
-      "KR": "",
-      "TW": ""
+      "KR": "테스트 1",
+      "TW": "測試 1"
     }
   },
   "test 2": {
     "translation": "测试2",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "テスト 2",
       "CN": "测试2",
-      "KR": "",
-      "TW": ""
+      "KR": "테스트 2",
+      "TW": "測試 2"
     }
   },
   "ye olde tram leaves in 4 seconds": {
     "translation": "古老的电车将在4秒后离开",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "古いtram 4秒後に発車します",
       "CN": "古老的电车将在4秒后离开",
-      "KR": "",
-      "TW": ""
+      "KR": "oldschooltram leaves in 4 seconds",
+      "TW": "老式tram離開還剩4秒"
     }
   },
   "help me step bro - i'm stuck!": {
@@ -1114,9 +1114,9 @@
     "MultiLang": {
       "US": "",
       "JP": "",
-      "CN": "",
-      "KR": "",
-      "TW": ""
+      "CN": "帮帮我吧兄弟 - 我卡住了！",
+      "KR": "도와줘 동생 - 나는 막혔어!",
+      "TW": "幫助我 StepsBro - 我卡住了！"
     }
   }
 }

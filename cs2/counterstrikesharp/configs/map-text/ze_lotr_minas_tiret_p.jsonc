@@ -13,7 +13,7 @@
     "translation": "!爆炸!",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "!!爆発!!",
       "CN": "!爆炸!",
       "KR": "!!폭발!!",
       "TW": "!!爆炸!!"
@@ -93,7 +93,7 @@
     "translation": "15秒后关闭大门！",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "扉が15秒後に閉鎖されます!!",
       "CN": "15秒后关闭大门！",
       "KR": "**문이 15초 후에 닫힙니다!!**",
       "TW": "**門在15秒後關閉！**"
@@ -106,7 +106,7 @@
       "JP": "**5秒後に爆発**",
       "CN": "5秒后爆炸!!",
       "KR": "**5초 후 폭발**",
-      "TW": ""
+      "TW": "***5秒後爆炸***"
     }
   },
   "**Gandalf staff has been picked!**": {
@@ -136,7 +136,7 @@
       "JP": "ゲートは今開きました！",
       "CN": "门现在打开了！",
       "KR": "문은现在已经打开！",
-      "TW": ""
+      "TW": "閘門已經開啟！"
     }
   },
   "**Gate is opened!**": {
@@ -146,7 +146,7 @@
       "JP": "ゲートが開きます！",
       "CN": "门已打开！",
       "KR": "✿ 문이 열렸다!",
-      "TW": ""
+      "TW": "門被打開了！"
     }
   },
   "**Gate up ahead appears closed! Defend until we can break it down.**": {
@@ -176,7 +176,7 @@
       "JP": "ゲートが30秒後に開きます！",
       "CN": "门30秒后打开！",
       "KR": "게이트 오픈 30초 후!",
-      "TW": ""
+      "TW": "閘門開啟倒數中！30秒後開启！"
     }
   },
   "**Gates opening!**": {
@@ -253,7 +253,7 @@
     "translation": "感谢Hannibal [SPA]（Rafuron）的材质与创意.",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "ありがとうございます 材料とアイデア提供のHannibal [SPA] (Rafuron)へ",
       "CN": "感谢Hannibal [SPA]（Rafuron）的材质与创意.",
       "KR": "**해당 자재와 아이디어를 제공한 Hannibal [SPA] (Rafuron)에 감사드립니다**",
       "TW": "**謝謝材料和想法给哈 Needle [SPA] (Rafuron)**"
@@ -332,8 +332,8 @@
   "**Your mission: don't let zombies capture all city**": {
     "translation": "你的任务：不要让僵尸占领整座城市",
     "MultiLang": {
-      "US": "",
-      "JP": "",
+      "US": "Your mission: don't let zombies capture the entire city",
+      "JP": "**あなたのミッション：ゾンビに全ての市を捕まえてはいけません**",
       "CN": "你的任务：不要让僵尸占领整座城市",
       "KR": "**임무: 모든 도시를 좀비들에 의해 포위하지 않도록**",
       "TW": ""

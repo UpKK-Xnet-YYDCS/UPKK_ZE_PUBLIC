@@ -103,7 +103,7 @@
     "translation": "**你将一无所获！**",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "***あなたには何も与えられません！***",
       "CN": "**你将一无所获！**",
       "KR": "***汝將一無所獲！***",
       "TW": "**你將1無所獲！**"
@@ -112,7 +112,7 @@
   "**A zombie has passed the GATE! Kill him or think about start a retreat!**": {
     "translation": "**一只僵尸通过了大门！杀死他或考虑开始撤退！**",
     "MultiLang": {
-      "US": "",
+      "US": "**A zombie has passed the GATE! Kill him or consider starting a retreat!**",
       "JP": "***ゾンビがゲートを通過しました！殺害するか、撤退を考えましょう！***",
       "CN": "**一只僵尸通过了大门！杀死他或考虑开始撤退！**",
       "KR": "2. >>>思维开始撤退<<<",
@@ -156,7 +156,7 @@
       "JP": "ドアが攻撃を受けている！",
       "CN": "**门正在遭受攻击！**",
       "KR": "문이 공격을 받고 있습니다!",
-      "TW": ""
+      "TW": "***门正被攻擊中！***"
     }
   },
   "**Door will close in 30 s  ** Get safe into Helms Deep!**": {
@@ -183,7 +183,7 @@
     "translation": "**号角激活** 带着无限弹药冲锋**",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "★★ホーンアクティブ ★★チャージ無限ammo",
       "CN": "**号角激活** 带着无限弹药冲锋**",
       "KR": "★★호ORN이 작동★★ 무한탄약으로 충전★★",
       "TW": "***號角啟動*** 充電無限ammo***"
@@ -196,7 +196,7 @@
       "JP": "Huge ladder は設置中！",
       "CN": "**巨大的梯子正在设置中！**",
       "KR": "거대한 계단이 설치 중입니다!",
-      "TW": ""
+      "TW": "巨大梯子正在設置！"
     }
   },
   "**Hurry! get in the hall!**": {
@@ -276,7 +276,7 @@
       "JP": "",
       "CN": "**坚持30秒！**",
       "KR": "***저항 30s!!***",
-      "TW": ""
+      "TW": "抵抗 30s！"
     }
   },
   "**Show them no mercy...**": {

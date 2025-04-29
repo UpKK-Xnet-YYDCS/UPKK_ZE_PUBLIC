@@ -2,10 +2,10 @@
   "< Admin Pressed Laser Stage >": {
     "translation": "< 管理员选择了RTV关 >",
     "MultiLang": {
-      "US": "",
+      "US": "[Admin Activated Laser Stage]",
       "JP": "アドmin レーザーステージ",
       "CN": "< 管理员选择了RTV关 >",
-      "KR": "",
+      "KR": "< 관리자가 레이저 스테이지에 압버렸습니다 >",
       "TW": ""
     }
   },
@@ -76,7 +76,7 @@
       "JP": "",
       "CN": "RTV关",
       "KR": "RTC",
-      "TW": ""
+      "TW": "NIGHTLY"
     }
   },
   "Stage-1": {
@@ -213,7 +213,7 @@
     "translation": "《80秒》",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "《80年代》",
       "CN": "《80秒》",
       "KR": "",
       "TW": "《80年代》"

@@ -6,7 +6,7 @@
       "JP": "*** 時間が10秒短縮 ***",
       "CN": "*** 时间减少 10 秒 ***",
       "KR": "*** 시간이 10초 감소하였습니다 ***",
-      "TW": ""
+      "TW": "*** 时间減少10秒 ***"
     }
   },
   "*** TIME REDUCED BY 15 SECONDS ***": {
@@ -15,7 +15,7 @@
       "US": "",
       "JP": "*** 時間が15秒削減されました ***",
       "CN": "*** 时间减少 15 秒 ***",
-      "KR": "",
+      "KR": "*** 시간이 15초 줄어들었습니다 ***",
       "TW": "*** 时间減少15秒 ***"
     }
   },
@@ -62,7 +62,7 @@
   "Another door? Hold a bit longer!": {
     "translation": "另一扇门？再坚持一会儿！",
     "MultiLang": {
-      "US": "",
+      "US": "Another door? Hold on just a little longer!",
       "JP": "Another door? ちょっと待って！",
       "CN": "另一扇门？再坚持一会儿！",
       "KR": "또 다른 문? 조금 더 기다려 보세요!",
@@ -146,7 +146,7 @@
       "JP": "Exit door opens soon, ここに彼らを誘導しろ",
       "CN": "出口门即将打开，在这里抵挡住他们",
       "KR": ".exit 문이 곧 열립니다, 여기서them 막아주세요",
-      "TW": ""
+      "TW": "Exit 門開不久， HOLD他们暫時在此。"
     }
   },
   "Generator has exploded! The doors should open soon": {
@@ -236,7 +236,7 @@
       "JP": "一部の汝らはventsに分かれて行動し、そこから扉を開けることができるかもしれない！",
       "CN": "你们中的一些人必须进入通风口，也许我们可以从那里打开门！",
       "KR": "某些人必须分成小组进入通风管，或许可以从那里打开门！",
-      "TW": ""
+      "TW": "Some of you 必須分開去通风管，maybe 我們可以从那里打开门！"
     }
   },
   "TO BE CONTINUED IN PART 2": {
@@ -382,7 +382,7 @@
   "The gas has turned some of our squad into ZOMBIES": {
     "translation": "毒气已经把我们的一些队员变成了僵尸",
     "MultiLang": {
-      "US": "",
+      "US": "The gas has turned some of our squad into Zombies",
       "JP": "ガスによって squad の一部がゾンビに変貌した",
       "CN": "毒气已经把我们的一些队员变成了僵尸",
       "KR": "가스로 우리 소대의 일부가 Zombies로 변환되었습니다",
@@ -543,9 +543,9 @@
     "translation": "这应该会带我们进入停车场，并进入更大的市区！",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "これで駐車場、そして大手のダウンタウン地区へと導いてくれるはずです！",
       "CN": "这应该会带我们进入停车场，并进入更大的市区！",
-      "KR": "",
+      "KR": "이제 주차장으로 이동하게 될 것입니다! 그리고 더 큰 도심 지역으로 들어서게 됩니다!",
       "TW": "此處應帶領我們進入停車場，並進入更大的市區地區！"
     }
   },

@@ -23,7 +23,7 @@
     "translation": "欢迎来到黑山基地",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "objectives NPST",
       "CN": "欢迎来到黑山基地",
       "KR": "주목적지 NPST에 오신 것을 환영합니다",
       "TW": "歡迎到達目標NPST"
@@ -52,7 +52,7 @@
   "<<< The yellow door leading to the HUB will open soon >>>": {
     "translation": "通往中心区域的黄色大门即将开启",
     "MultiLang": {
-      "US": "",
+      "US": "<< The yellow door leading to the HUB will open soon >> >>(Note: The \">\" at the end is added to match the special symbols in the original text.)",
       "JP": "<<< 黄色のドアはHUBへ通じるものを近い将来開く予定です >>>",
       "CN": "通往中心区域的黄色大门即将开启",
       "KR": "<<< 주황색 문은 곧 HUB로의 길을 열 것입니다 >>>",
@@ -155,8 +155,8 @@
       "US": "",
       "JP": "",
       "CN": "开润",
-      "KR": "",
-      "TW": ""
+      "KR": "런nings",
+      "TW": "RUNNING"
     }
   },
   "The door opened": {
@@ -243,7 +243,7 @@
     "translation": "快爬上梯子撤退",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "Climbing 上の梯子>>",
       "CN": "快爬上梯子撤退",
       "KR": "계단을 오르세요",
       "TW": "攀爬梯子"
