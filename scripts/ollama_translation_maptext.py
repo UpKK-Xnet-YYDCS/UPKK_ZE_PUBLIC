@@ -6,6 +6,7 @@
 # sudo systemctl start ollama
 # sudo apt install python3
 # sudo pip install tqdm requests argparse
+# 注 基于AI推理翻译每次运行结果可能都会不同 同时可能会犯错以及不正确的翻译.
 
 import json
 import os
