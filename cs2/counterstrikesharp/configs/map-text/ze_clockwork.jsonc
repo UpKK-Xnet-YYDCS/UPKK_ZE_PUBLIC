@@ -63,7 +63,7 @@
     "translation": "<由Dege151制作地图 翻译：Asteri3m 注意：跳刀提示已优化>",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "<地図by Dege151>",
       "CN": "<由Dege151制作地图 翻译：Asteri3m 注意：跳刀提示已优化>",
       "KR": "<맵_by_Degel51>",
       "TW": "<Map 由 Dege151>"
@@ -73,10 +73,10 @@
     "translation": "<正在播放 As The Cycle Goes On>",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "<<<周而复始>>>",
       "CN": "<正在播放 As The Cycle Goes On>",
       "KR": "<주기처럼 이어지며 게임을 진행하십시오>",
-      "TW": ""
+      "TW": "循環不盡遊戲中"
     }
   },
   "<Playing Time Will Catch Me First>": {
@@ -86,7 +86,7 @@
       "JP": "遊ぶ時間は先に Comes First >",
       "CN": "<正在播放 Time Will Catch Me First>",
       "KR": "<플레이 시간이 먼저 나를 잡을 거야>",
-      "TW": ""
+      "TW": "<玩時間會先抓到我>"
     }
   },
   "<Playing clockwork-philipp-klein>": {
@@ -96,7 +96,7 @@
       "JP": "",
       "CN": "<正在播放 clockwork-philipp-klein>",
       "KR": "<클로워크 필립 클린 플레이 중>",
-      "TW": ""
+      "TW": "<玩clockwork-菲利普· Klein>"
     }
   },
   "<TP will be useable in 30 sec>": {
@@ -194,7 +194,7 @@
     "MultiLang": {
       "US": "**south jump South-side Low Blade**",
       "JP": "**南跳 南边低刀**",
-      "CN": "",
+      "CN": "南边起跳 低刀",
       "KR": "**남쪽 점프 남邊低刀**",
       "TW": "**南邊低刀 南邊低刀**"
     }
@@ -204,9 +204,9 @@
     "MultiLang": {
       "US": "**west crouch West Side High Blade**",
       "JP": "WEST CROUCH 西边高刀",
-      "CN": "",
+      "CN": "西边蹲防",
       "KR": "**서쪽 숙어西侧高刀**",
-      "TW": ""
+      "TW": "西邊低伏 底刀"
     }
   },
   "**east crouch 东边高刀**": {
@@ -224,7 +224,7 @@
     "MultiLang": {
       "US": "**south crouch South Side Great Sword**",
       "JP": "**南側 squat 南边高刀**",
-      "CN": "",
+      "CN": "南边蹲伏 南边高刀",
       "KR": "**남쪽 앉一站南边高刀**",
       "TW": "**南邊縮刀 南边高刀**"
     }
@@ -243,9 +243,9 @@
     "translation": "",
     "MultiLang": {
       "US": "**north crouch North Blade**",
-      "JP": "",
+      "JP": "北側かがやき>><<",
       "CN": "**北边蹲伏 高刀**",
-      "KR": "",
+      "KR": "북쪽 기어들기 ***北方高刀***",
       "TW": "**北邊高刀**"
     }
   },

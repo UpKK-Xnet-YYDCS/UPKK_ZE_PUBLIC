@@ -55,7 +55,7 @@
       "US": "",
       "JP": "エルムlooks seperti tergenangan",
       "CN": "呃，看起来像是要淹水了",
-      "KR": "",
+      "KR": "어름Looks like it's flooding",
       "TW": "埃爾 Looks 如此淹水"
     }
   },
@@ -63,9 +63,9 @@
     "translation": "呃，你输了",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "エルム ユー・ロス",
       "CN": "呃，你输了",
-      "KR": "",
+      "KR": "어머.u 잃었다",
       "TW": ""
     }
   },
@@ -83,7 +83,7 @@
     "translation": "20秒内开启",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "開場まで20sec",
       "CN": "20秒内开启",
       "KR": "",
       "TW": "開機倒數中 20s"
@@ -93,20 +93,20 @@
     "translation": "25秒内开启",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "開幕まで25s",
       "CN": "25秒内开启",
-      "KR": "",
-      "TW": ""
+      "KR": "열리는 중 25s",
+      "TW": "開場還剩 25s"
     }
   },
   "OPENING IN 5s": {
     "translation": "5秒内开启",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "開場 5s",
       "CN": "5秒内开启",
-      "KR": "",
-      "TW": ""
+      "KR": "오픈_in_5s",
+      "TW": "開機中 5s"
     }
   },
   "Uhh i think we should go up tbh": {
@@ -123,10 +123,10 @@
     "translation": "看起来这些管子可以被打破",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "これらのチューブは破壊できるような気がする",
       "CN": "看起来这些管子可以被打破",
       "KR": "관 THESE TUBES CAN BE BROKENLooks_like_these_tubes_can_be_broken",
-      "TW": ""
+      "TW": "這些管子 Looks像可以打破"
     }
   },
   "next stop: lemonade control facility....": {
@@ -145,7 +145,7 @@
       "US": "",
       "JP": "ok 我们打破了所有管道",
       "CN": "好了，我们打破了所有的管子",
-      "KR": "",
+      "KR": "-ok 우리는 모든 호스를 깨웠음-",
       "TW": "ok 我們打破所有Tube"
     }
   },
@@ -163,9 +163,9 @@
     "translation": "热身 翻译：Asteri3m",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "ウォーミングアップ",
       "CN": "热身 翻译：Asteri3m",
-      "KR": "",
+      "KR": "워밍업",
       "TW": "暖身"
     }
   },
@@ -175,7 +175,7 @@
       "US": "",
       "JP": "暖up 10s",
       "CN": "热身时间10秒",
-      "KR": "",
+      "KR": "워밍업 10s",
       "TW": "暖機 10s"
     }
   },
@@ -183,9 +183,9 @@
     "translation": "热身时间30秒",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "ウォームアップ 30秒",
       "CN": "热身时间30秒",
-      "KR": "",
+      "KR": "워밍업 30초",
       "TW": "暖機 30s"
     }
   },
@@ -205,7 +205,7 @@
       "US": "",
       "JP": "暖機アップ 50s",
       "CN": "热身时间50秒",
-      "KR": "",
+      "KR": "워밍업 50초",
       "TW": "暖機 50s"
     }
   },

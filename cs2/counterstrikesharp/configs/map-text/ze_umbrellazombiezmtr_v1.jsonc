@@ -6,7 +6,7 @@
       "JP": "*** エvacuatieプロトコルが開始されました!!! ***",
       "CN": "*** 撤离协议已启动！！！ ***",
       "KR": "*** 응급 철수 프로토콜이 시작되었습니다!!! ***",
-      "TW": ""
+      "TW": "*** 防災預案已被啟動！！！***"
     }
   },
   "*** SECURITY DOORS WILL OPEN IN 25 SECONDS ! ***": {
@@ -16,14 +16,14 @@
       "JP": "*** セキュリティドアは25秒後に開きます！ ***",
       "CN": "*** 安全门将在25秒后打开！ ***",
       "KR": "*** 보안 문이 25초 후에 열립니다! ***",
-      "TW": ""
+      "TW": "*** 安全門将在25秒后开启！***"
     }
   },
   "10 SECONDS LATER THE DOOR CLOSES, RUN": {
     "translation": "10秒后门关闭，快跑",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "10秒後ドアが閉じます。走り吧。",
       "CN": "10秒后门关闭，快跑",
       "KR": "10초 후 문이 닫힙니다. 뛰세요.",
       "TW": "10秒後門關上，快跑"
@@ -33,10 +33,10 @@
     "translation": "炸弹已引爆！！！",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "ボムが爆発した!!!",
       "CN": "炸弹已引爆！！！",
       "KR": "폭탄이 폭발했습니다!!!",
-      "TW": ""
+      "TW": "炸彈引爆!!!"
     }
   },
   "Control Panel: Security door opens! 25 sec": {
@@ -133,10 +133,10 @@
     "translation": "出口1-2的门将打开，快走！",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "EXIT 1-2 のドアが開くGO！",
       "CN": "出口1-2的门将打开，快走！",
-      "KR": "",
-      "TW": ""
+      "KR": "The EXIT 1-2 문이 열리고 GO!",
+      "TW": "The EXIT 1-2 門將會開啟GO!"
     }
   },
   "The EXIT 1-2  doors will open in 30 seconds": {
@@ -146,7 +146,7 @@
       "JP": "EXIT 1-2 のドアは30秒後に開きます",
       "CN": "出口1-2的门将在30秒后打开",
       "KR": "EXIT 1-2의 문은 30초 후에 열립니다",
-      "TW": ""
+      "TW": "EXIT 1-2 的門将在30秒後打開"
     }
   },
   "The EXIT 3  door will open in 15 seconds": {
@@ -156,7 +156,7 @@
       "JP": "EXIT 3 の扉は15秒後に開きます",
       "CN": "出口3的门将在15秒后打开",
       "KR": "EXIT 3의 문은 15초 후에 열립니다",
-      "TW": ""
+      "TW": "EXIT 3之門将在15秒後開啟"
     }
   },
   "The EXIT 3  door will opening GO!": {
@@ -166,7 +166,7 @@
       "JP": "EXIT 3 の扉が開きます GO!",
       "CN": "出口3的门将打开，快走！",
       "KR": "(EXIT 3 문이 열리시겠어요! GO!)",
-      "TW": ""
+      "TW": "The EXIT 3door將開啟GO!"
     }
   },
   "The security door will open in 30 seconds": {
@@ -193,9 +193,9 @@
     "translation": "ze_umbrellazombie_v1_part2 即将推出",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "ze_傘ゾンビv1_part2  Coming Soon",
       "CN": "ze_umbrellazombie_v1_part2 即将推出",
-      "KR": "",
+      "KR": "ze_umbrellazombie_v1_part2 곧 출시",
       "TW": "ze_傘殭屍_v1_part2 即將到來"
     }
   },

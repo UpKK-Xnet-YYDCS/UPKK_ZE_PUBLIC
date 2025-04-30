@@ -16,7 +16,7 @@
       "JP": "***右エレベーター発車まで15秒***",
       "CN": "**右侧电梯将在15秒后离开**",
       "KR": "***오른쪽 엘리베이터 15초 후 출발***",
-      "TW": ""
+      "TW": "***右升降機15秒後離幵***"
     }
   },
   "**Train depart**": {
@@ -26,7 +26,7 @@
       "JP": "***列車出発***",
       "CN": "**火车出发**",
       "KR": "**열차 출발**",
-      "TW": ""
+      "TW": "***列車 Departure***"
     }
   },
   "**Train departs in 15 seconds**": {
@@ -73,7 +73,7 @@
     "translation": ">>地图修改者：LeGrem<<",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": ">>マップを修改したLeGrem<<",
       "CN": ">>地图修改者：LeGrem<<",
       "KR": ">>맵을 修改_by LeGrem<<",
       "TW": ">>地圖由LeGrem修改<<"
@@ -86,7 +86,7 @@
       "JP": ">>マップ由prof_yaffle制作<<",
       "CN": ">>地图制作：prof_yaffle 翻译：Asteri3m<<",
       "KR": ">>지도均由prof_yaffle绘制<<",
-      "TW": ""
+      "TW": ">>地圖由prof_yaffle繪製<<"
     }
   },
   ">>PRESS THE BUTTON TO START THE TRAIN<<": {
@@ -105,7 +105,7 @@
       "US": "",
       "JP": "自身停止",
       "CN": "自我禁用",
-      "KR": "",
+      "KR": "자기 차단",
       "TW": "自我禁用"
     }
   }

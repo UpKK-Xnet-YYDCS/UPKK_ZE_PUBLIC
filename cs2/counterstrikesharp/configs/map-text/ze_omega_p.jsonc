@@ -36,7 +36,7 @@
       "JP": "***カートコントロールドアが5秒後に閉まります***",
       "CN": "***货车控制门将在5秒后关闭***",
       "KR": "***카트 컨트롤 문이 5초 후에 닫힙니다***",
-      "TW": ""
+      "TW": "***車廂控制門關閉倒數5秒***"
     }
   },
   "***CartControl Door Opens in 5 Seconds***": {
@@ -93,9 +93,9 @@
     "translation": "***测试实验室门2在5秒后打开***",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "***Testlab Door2 5秒後開門***",
       "CN": "***测试实验室门2在5秒后打开***",
-      "KR": "",
+      "KR": "***Testlab Door2 오픈 후 5초***\n\nNote: The original \"Opens in 5 Seconds\" is translated to a more concise \"오픈 후 5초\", which means the same thing.",
       "TW": "***Testlab Door2 開啟於5秒後***"
     }
   },
@@ -105,8 +105,8 @@
       "US": "",
       "JP": "",
       "CN": "***测试实验室门3在5秒后打开***",
-      "KR": "",
-      "TW": ""
+      "KR": "***Testlab Door3 오픈 후 5초***",
+      "TW": "***Testlab Door3 開啟倒數5秒***"
     }
   },
   "***Tram Starts in 5 Seconds***": {
@@ -116,7 +116,7 @@
       "JP": "",
       "CN": "***有轨电车将在5秒后启动***",
       "KR": "注：此处将\"Seconds\"意译为“초”以适应韩语表达习惯，但保持了原文的数字和特殊符号不变。",
-      "TW": ""
+      "TW": "***tram起動計5秒***"
     }
   },
   "***Tram Tunnel Door opens in 1 Minute***": {
@@ -126,7 +126,7 @@
       "JP": "***tram隧道门开启还剩1分钟***",
       "CN": "***有轨电车隧道门将在1分钟后打开***",
       "KR": "***tram 터널 문이 1분 후에 열립니다***",
-      "TW": ""
+      "TW": "*** tram 暖庫 door 開啟於 1 分鐘後 ***"
     }
   },
   "***Water Flow 5 Seconds***": {
@@ -136,7 +136,7 @@
       "JP": "***ウォーターフロー 5 セCONDS***",
       "CN": "***水流5秒***",
       "KR": "***수유 5초***",
-      "TW": ""
+      "TW": "***水流 5 秒***"
     }
   }
 }

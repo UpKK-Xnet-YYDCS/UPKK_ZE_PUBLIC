@@ -13,7 +13,7 @@
     "translation": "!!!僵尸现在可以跳到BOSS平台上！！！",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "!!!ゾンビがボスプラットフォームにジャンプできるようになりました!!!",
       "CN": "!!!僵尸现在可以跳到BOSS平台上！！！",
       "KR": "!!! Zombie 가 이제 보스 플랫폼으로ジャン跳现在可以跳跃了!!!",
       "TW": "!!! 洄嘴現在可以跳到BOSS平台 !!!"
@@ -25,8 +25,8 @@
       "US": "",
       "JP": "!!! ゾンビが5秒後にテレポートします !!!",
       "CN": "!!!僵尸将在5秒后传送！！！",
-      "KR": "",
-      "TW": ""
+      "KR": "!!!!! 블 若要继续，请告知我。如果您需要翻译其他内容或有其他问题，请告诉我！",
+      "TW": "!!! Zombies 隸時出現 5 秒鐘 !!!"
     }
   },
   "!!! ZOMBIES TELEPORT IN 8 SECONDS !!!": {
@@ -35,7 +35,7 @@
       "US": "",
       "JP": "!!!ゾンビがテレポートするまで8秒!!!",
       "CN": "!!!僵尸将在8秒后传送！！！",
-      "KR": "",
+      "KR": "!!! 좀비들이 8초 후에 이동！！\n\n（注：这里的“이동”一词用于描述\"teleport\"，意译为移动以保持简短和游戏文本风格。）",
       "TW": "!!!丧屍瞬移出現倒數8秒!!!"
     }
   },
@@ -45,7 +45,7 @@
       "US": "",
       "JP": "!!! ズムズが5秒後にテレポートします !!!",
       "CN": "!!!僵尸将在5秒后传送到内部！！！",
-      "KR": "",
+      "KR": "!!! 브레인스 텔레포트 내로 들어오게 5초 후 !!!\n\n(Note: I've translated \"Zombies\" to \"브레인스\" which is the in-game term for zombies in Korean games, and kept the rest as close to the original as possible.)",
       "TW": "!!! Zombie 噴射入內 IN 5 SECONDS !!!"
     }
   },
@@ -66,7 +66,7 @@
       "JP": ">>> ケースは15秒後に破られる <<<",
       "CN": ">>>箱子将在15秒后破裂<<<",
       "KR": ">>> 캐스트들이 15초 후에 깨집니다 <<<",
-      "TW": ""
+      "TW": ">> 箱子在15秒後破壞 <<-"
     }
   },
   ">>> CRATES EXPLODE IN 20 SECONDS <<<": {
@@ -75,7 +75,7 @@
       "US": "",
       "JP": ">>> クレーンが20秒後に爆発します <<<",
       "CN": ">>>箱子将在20秒后爆炸<<<",
-      "KR": "",
+      "KR": ">>> 캐트레이트가 20초 후 폭발합니다 <<<",
       "TW": ">>> 箱子在20秒後爆炸 <<<"
     }
   },
@@ -143,20 +143,20 @@
     "translation": "快离开这里，潜行者",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "ここから出ろ、スターカー",
       "CN": "快离开这里，潜行者",
       "KR": "여기서 나가라고, 스테이커",
-      "TW": ""
+      "TW": "離開這裡，獵人"
     }
   },
   "GET OUT, IT'S GOING TO BLOW": {
     "translation": "快离开，这里要爆炸了",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "GET OUT これは吹き飛ぶöh",
       "CN": "快离开，这里要爆炸了",
-      "KR": "",
-      "TW": ""
+      "KR": "나가세요, 폭발할 거예요",
+      "TW": "快出去，要炸了"
     }
   },
   "MAP BY MIDRAN KIDRAN": {
@@ -166,17 +166,17 @@
       "JP": "マップbyミドラン キドラン",
       "CN": "地图作者：MIDRAN KIDRAN 翻译：Asteri3m",
       "KR": "맵_by_Midran_Kidran",
-      "TW": ""
+      "TW": "地圖由 MIDRAN KIDRAN 編繪"
     }
   },
   "SPECIAL THANKS TO MAPEADORES FOR TESTING": {
     "translation": "特别感谢Mapeadores服务器测试",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "スペシャル感谢MAPEADORES测试",
       "CN": "特别感谢Mapeadores服务器测试",
-      "KR": "",
-      "TW": ""
+      "KR": "MAPEADORES에 대한 특별 감사의 인사를 전합니다",
+      "TW": "特別感謝MAPEADORES測試"
     }
   },
   "THE BOSS WILL BE DAMAGEABLE IN 5 SECONDS": {
@@ -223,9 +223,9 @@
     "translation": "",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": ">>> クレーンが25秒後に爆発します <<<",
       "CN": ">>> 箱子将在25秒后爆炸 <<<",
-      "KR": "",
+      "KR": ">>> 크레이트가 25초 후에 폭발합니다 <<<",
       "TW": ">>> 箱子在25秒後爆炸 <<<"
     }
   },
