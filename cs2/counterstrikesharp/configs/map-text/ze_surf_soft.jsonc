@@ -2,7 +2,7 @@
   "<<< Ice used >>>": {
     "translation": "我曹，冰！",
     "MultiLang": {
-      "US": "",
+      "US": "<< Ice used >>>\n\n(Note: The symbol <<< is represented by << as it is not standard in the given text and might be a typographical error.)",
       "JP": "<<< 冰使用 >>>",
       "CN": "我曹，冰！",
       "KR": "<<< 얼음 사용 >>>",
@@ -66,7 +66,7 @@
       "JP": "<<< 鈍炸 >>>",
       "CN": "爆炸",
       "KR": "<<< 폭발 >>>",
-      "TW": ""
+      "TW": "<<<爆炸>>>"
     }
   },
   "<<< Imaginary anti wind >>>": {
@@ -115,7 +115,7 @@
       "US": "",
       "JP": "氷!!!",
       "CN": "我曹，冰！",
-      "KR": "",
+      "KR": "얼음!!!",
       "TW": "冰!!!"
     }
   },
@@ -135,7 +135,7 @@
       "US": "",
       "JP": "<<< 射击！>>>",
       "CN": "射击",
-      "KR": "",
+      "KR": "<<< 쏘아주세요! >>>",
       "TW": "<<< 射擊！>>>"
     }
   },
@@ -174,7 +174,7 @@
     "MultiLang": {
       "US": "",
       "JP": "<<< ゴ!! >>>",
-      "CN": "",
+      "CN": ">>> 去！ <<<",
       "KR": "<<< 가errupt!! >>>",
       "TW": "<<< 去吧!! >>>"
     }
@@ -226,7 +226,7 @@
       "JP": "<<< テレポート開始まで15秒 >>>",
       "CN": "开始传送在 15 秒内",
       "KR": "<<< 텔레포트 시작まで 15초 >>>",
-      "TW": ""
+      "TW": "<<<傳送啟動於15秒後>>>"
     }
   },
   "<<< Door opens in 10 seconds >>>": {
@@ -245,8 +245,8 @@
       "US": "",
       "JP": "",
       "CN": "僵尸传送即将开始",
-      "KR": "",
-      "TW": ""
+      "KR": "<<< afk 텔레포트 활성화 금방!! >>>",
+      "TW": "<<< afk teleport 激活-SpeedUp!! >>>"
     }
   },
   "<<< Go!!! >>>": {
@@ -254,7 +254,7 @@
     "MultiLang": {
       "US": "",
       "JP": "<<< ゴ!!! >>>",
-      "CN": "",
+      "CN": "<<< 去吧！！>>>()",
       "KR": "<<< 가요!!! >>>",
       "TW": "<<< 去吧!!! >>>"
     }
@@ -306,7 +306,7 @@
       "JP": "<<< スカイエレベーターは20秒後 MOVES >>>",
       "CN": "空中电梯在 20 秒内移动",
       "KR": "<<< 하늘 기차가 20초 후에 움직입니다 >>>",
-      "TW": ""
+      "TW": "<<<天階升降機在20秒後啟動>>>"
     }
   },
   "<<< 5 seconds >>>": {
@@ -354,9 +354,9 @@
     "MultiLang": {
       "US": "<< 10 seconds >>>(Note: The colon after \"seconds\" is preserved as a special symbol, but it's not a standard part of the text and might be omitted in some game contexts.)",
       "JP": "<<< 10秒 >>>",
-      "CN": "",
-      "KR": "",
-      "TW": ""
+      "CN": "<< 10 秒 >>",
+      "KR": "<<< 10 초 >>>",
+      "TW": "<<< 10 秒 >>>"
     }
   },
   "<<< Watch out!!!!! >>>": {
@@ -374,7 +374,7 @@
     "MultiLang": {
       "US": "",
       "JP": "<<< ありがとうございます!!!!! >>>",
-      "CN": "",
+      "CN": "感謝您的游玩!!!!",
       "KR": "<<< 감사합니다!!!!! >>>",
       "TW": "<<< 謝謝大家 Playing!!!! >>>"
     }

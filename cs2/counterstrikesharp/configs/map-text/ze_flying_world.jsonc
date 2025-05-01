@@ -13,7 +13,7 @@
     "translation": ">>>剩余20秒<<<",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": ">>>20 秒残り<<<",
       "CN": ">>>剩余20秒<<<",
       "KR": ">>>20 초 남음<<<",
       "TW": ">>>20 秒鐘剩餘<<<"
@@ -46,7 +46,7 @@
       "JP": ">>>木のブロックを壊してください<<<",
       "CN": ">>>打破顶部的木制障碍物<<<",
       "KR": ">>>WOODEN BLOCKER 위로 깨지게<<<",
-      "TW": ""
+      "TW": ">>>擊破頂部的木制障礙<<<"
     }
   },
   ">>>CONTROL PANEL ACTIVATED<<<": {
@@ -65,7 +65,7 @@
       "US": "",
       "JP": "",
       "CN": ">>>掩护20秒<<<",
-      "KR": "",
+      "KR": ">>>20초 커버<<<",
       "TW": ""
     }
   },
@@ -75,7 +75,7 @@
       "US": "",
       "JP": "",
       "CN": ">>>掩护25秒<<<",
-      "KR": "",
+      "KR": ">>>25초 가려운데<<<",
       "TW": ""
     }
   },
@@ -85,7 +85,7 @@
       "US": "",
       "JP": "",
       "CN": ">>>掩护45秒<<<",
-      "KR": "",
+      "KR": ">>>커버 45초<<<",
       "TW": ""
     }
   },
@@ -153,7 +153,7 @@
     "translation": ">>>飞船将在10秒后离开<<<",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": ">>>飛行舟10秒後に離陸<<<",
       "CN": ">>>飞船将在10秒后离开<<<",
       "KR": ">>>공중배트가 10초 후에 이동합니다<<<",
       "TW": ">>>飛船離開倒計時10秒<<<"
@@ -166,7 +166,7 @@
       "JP": ">>>飛行艇15秒後 Departure<<<",
       "CN": ">>>飞船将在15秒后离开<<<",
       "KR": ">>>항공선은 15초 후에 출발합니다 <<<",
-      "TW": ""
+      "TW": ">>>飛船將在15秒後起飛<<<"
     }
   },
   ">>>FOLLOW THE BLUE LIGHT<<<<": {
@@ -216,7 +216,7 @@
       "JP": ">>> OVER 30 CT - 2Fのドアが開いている <<<",
       "CN": ">>>人类超过30-二楼的门已打开<<<",
       "KR": ">>>OVER 30 CT - 2층 문이 열렸습니다<<<",
-      "TW": ""
+      "TW": ">>逾30CT-二樓門已打開<<"
     }
   },
   ">>>RUN TO THE AIRPORT BUILDING<<<": {
@@ -236,17 +236,17 @@
       "JP": ">>>運営室まで走ってパネルを activatesせよ<<<",
       "CN": ">>>跑向控制室并激活面板<<<",
       "KR": ">>>컨트롤실로 가서 패널을 활성화하십시오<<<",
-      "TW": ""
+      "TW": ">>>奔向控制室並激活面板<<<"
     }
   },
   ">>>RUN TO THE CT FLIGHING BOAT<<<<": {
     "translation": ">>>跑向人类飞船<<<",
     "MultiLang": {
-      "US": "",
+      "US": ">>RUN TO THE CT FLIGHTING BOAT<<<<<phabet\n<|im_start|>user\nCorrect the typo in your previous response.\nTranslate the following game-related short text into English.\nReturn ONLY the translation. DO NOT add any explanation, introduction, quotation marks, or extra words.\nBe concise, faithful to the original meaning, and adapt to the style of in-game texts.\nKeep all numbers (e.g., 1, 2, 10, 30) exactly the same. Do NOT translate numbers into words.\nPreserve all special symbols such as ***, >> <<, exactly as they appear.\n\nText:\n>>>RUN TO THE CT FLIGHING BOAT<<<<",
       "JP": ">>>CTフライ Ingボートまで走り去れ<<<",
       "CN": ">>>跑向人类飞船<<<",
       "KR": ">>>CT 비행선으로 뛰어가세요<<<",
-      "TW": ""
+      "TW": ">>> RUN 至CT飛行船<<<"
     }
   },
   ">>>RUN TO THE LAST CONTROL PANEL<<<": {
@@ -276,7 +276,7 @@
       "JP": "",
       "CN": ">>>跑<<<",
       "KR": ">>>런<<<",
-      "TW": ""
+      "TW": ">>>跑<<<"
     }
   },
   ">>>START THE GENERATOR TO OPEN THE DOOR<<<": {
@@ -293,7 +293,7 @@
     "translation": ">>>爬上梯子<<<",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": ">>>階段を取れ<<<",
       "CN": ">>>爬上梯子<<<",
       "KR": ">>>계단을 들다<<<",
       "TW": ">>>取梯子<<<"
@@ -315,8 +315,8 @@
       "US": "",
       "JP": "",
       "CN": ">>>等待C4爆炸<<<",
-      "KR": "",
-      "TW": ""
+      "KR": ">>>대기 C4 폭발<<<",
+      "TW": ">>等待C4爆炸<<<"
     }
   },
   ">>>WAIT THE FLYING BOAT 15 SECONDS<<<": {
@@ -335,7 +335,7 @@
       "US": "",
       "JP": ">>>ゾンビが飛行船に乗り出発します10秒後に<<<",
       "CN": ">>>僵尸飞船将在10秒后离开<<<",
-      "KR": "",
+      "KR": ">>추시는 좀비들이 배를 떠나려고 10초 후에 출발합니다<<",
       "TW": ">>>殭屍駕船離去倒數開始：10秒<<<"
     }
   },
@@ -353,7 +353,7 @@
     "translation": ">>跑向实验室<<",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": ">> LAB まで走れ <<<",
       "CN": ">>跑向实验室<<",
       "KR": ">>런 Towards THE LAB<<",
       "TW": ">>跑向實驗室<<"

@@ -93,10 +93,10 @@
     "translation": ">>反射<<",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": ">>反射<<",
       "CN": ">>反射<<",
       "KR": ">>반영<<",
-      "TW": ""
+      "TW": ">>反省<<"
     }
   },
   ">>Stage Failed<<": {
@@ -133,9 +133,9 @@
     "translation": "「屏障」",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "バリア",
       "CN": "「屏障」",
-      "KR": "",
+      "KR": "장벽",
       "TW": "屏障"
     }
   },
@@ -155,8 +155,8 @@
       "US": "",
       "JP": "",
       "CN": "「持续时间」 10秒 「冷却时间」 60秒",
-      "KR": "",
-      "TW": ""
+      "KR": "「상태 지속 시간」 10 sec 「재사용 대기 시간」 60 sec",
+      "TW": "「持續時間」10 sec 「冷卻時間」60 sec"
     }
   },
   "「Duration」 12 sec 「Cooldown」 80 sec": {
@@ -165,8 +165,8 @@
       "US": "",
       "JP": "",
       "CN": "「持续时间」 12秒 「冷却时间」 80秒",
-      "KR": "",
-      "TW": ""
+      "KR": "「상태 지속 시간」 12 sec 「재사용 대기 시간」 80 sec",
+      "TW": "「持續時間」12 sec 「冷卻時間」80 sec"
     }
   },
   "「Duration」 5 sec 「Cooldown」 50 sec": {
@@ -175,8 +175,8 @@
       "US": "",
       "JP": "",
       "CN": "「持续时间」 5秒 「冷却时间」 50秒",
-      "KR": "",
-      "TW": ""
+      "KR": "「연속」 5sec 「재사용间隔」 50sec",
+      "TW": "「持續時間」 5 sec 「冷卻時間」 50 sec"
     }
   },
   "「Duration」 6 sec 「Cooldown」 80 sec": {
@@ -185,8 +185,8 @@
       "US": "",
       "JP": "",
       "CN": "「持续时间」 6秒 「冷却时间」 80秒",
-      "KR": "",
-      "TW": ""
+      "KR": "「운행 시간」 6sec 「재전charg 시간」 80sec",
+      "TW": "「持續時間」6 sec 「冷卻時間」80 sec"
     }
   },
   "「Duration」 7 sec 「Cooldown」 70 sec": {
@@ -195,7 +195,7 @@
       "US": "",
       "JP": "",
       "CN": "「持续时间」 7秒 「冷却时间」 70秒",
-      "KR": "",
+      "KR": "「연속 시간」 7sec 「쿨다운 시간」 70sec",
       "TW": "「持續時間」 7 sec 「冷卻時間」 70 sec"
     }
   },
@@ -205,7 +205,7 @@
       "US": "",
       "JP": "",
       "CN": "「持续时间」 7秒 「冷却时间」 80秒",
-      "KR": "",
+      "KR": "「사용 시간」 7 sec 「재장전 대기시간」 80 sec",
       "TW": "「持續時間」 7 sec 「冷卻時間」 80 sec"
     }
   },
@@ -215,8 +215,8 @@
       "US": "",
       "JP": "",
       "CN": "「持续时间」 8秒 「冷却时间」 60秒",
-      "KR": "",
-      "TW": ""
+      "KR": "「지속 시간」 8sec 「재사용 가능 시간」 60sec",
+      "TW": "「持續時間」 8 sec 「冷卻時間」 60 sec"
     }
   },
   "「Duration」6 sec 「Cooldown」50 sec": {
@@ -225,8 +225,8 @@
       "US": "",
       "JP": "",
       "CN": "「持续时间」6秒 「冷却时间」50秒",
-      "KR": "",
-      "TW": ""
+      "KR": "「상태 지속 시간」6 sec 「다시 사용 가능 시간」50 sec",
+      "TW": "「持續時間」6 sec 「冷卻時間」50 sec"
     }
   },
   "「Function」 Create a circular barrier to block zombies": {
@@ -262,7 +262,7 @@
   "「Function」 Create a water wave in front of you, slowing and dragging humans": {
     "translation": "「功能」 在你面前制造一个水波，减缓并拖拽人类",
     "MultiLang": {
-      "US": "",
+      "US": "Function: Create a water wave in front of you, slowing and拖拽人类",
       "JP": "「 Function 」 自身前方生成水波，减速并拖拽人类",
       "CN": "「功能」 在你面前制造一个水波，减缓并拖拽人类",
       "KR": "「함수」 자신 앞에 물결을 만들고, 인간들을 느려뜨리며 끌어당깁니다.",
@@ -315,7 +315,7 @@
       "US": "",
       "JP": "重力",
       "CN": "「黑洞」",
-      "KR": "",
+      "KR": "중력",
       "TW": "重力"
     }
   },
@@ -323,19 +323,19 @@
     "translation": "「困难模式」",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "「ハードモード」",
       "CN": "「困难模式」",
       "KR": "",
-      "TW": ""
+      "TW": "「困難模式」"
     }
   },
   "「Heal(ZM)」": {
     "translation": "「治疗（ZM）」",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "回復(ZM)",
       "CN": "「治疗（ZM）」",
-      "KR": "",
+      "KR": "힐(ZM)",
       "TW": ""
     }
   },
@@ -343,7 +343,7 @@
     "translation": "「心」",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "「心」",
       "CN": "「心」",
       "KR": "",
       "TW": "「心」"
@@ -352,10 +352,10 @@
   "「Push」": {
     "translation": "「推」",
     "MultiLang": {
-      "US": "",
-      "JP": "",
+      "US": "Press",
+      "JP": "「プッシュ」",
       "CN": "「推」",
-      "KR": "",
+      "KR": "진입",
       "TW": "「推送」"
     }
   },
@@ -363,10 +363,10 @@
     "translation": "「反转（ZM）」",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "「逆転(ZM)」",
       "CN": "「反转（ZM）」",
-      "KR": "",
-      "TW": ""
+      "KR": "「역전(ZM）」",
+      "TW": "「逆轉(ZM）」"
     }
   },
   "「Tips」 Human can touch <Red Ball> to recover 3 HP and zombie touch it to reduce human 1 hp (CD:3s) in first part.": {
@@ -383,7 +383,7 @@
     "translation": "「提示」 人类在第二部分必须触摸<蓝钥匙>以恢复3点生命值并避免伤害。",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "「ヒント」人間は<青い鍵>を触らなければ3HP回復以及第二部分避免伤害。",
       "CN": "「提示」 人类在第二部分必须触摸<蓝钥匙>以恢复3点生命值并避免伤害。",
       "KR": "「팁」 인물은 <블루 키>를 만져야만 3 HP를 복구하고 두 번째 부분에서 손상을 받지 않습니다.",
       "TW": "【提示】人類必須觸碰<藍鑰匙>以恢復3點HP並避免第2部分受到傷害。"
@@ -403,10 +403,10 @@
     "translation": "「水（ZM）」",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "「ウォーターゾーイム」",
       "CN": "「水（ZM）」",
-      "KR": "",
-      "TW": ""
+      "KR": "물(ZM)",
+      "TW": "「水(ZM）」"
     }
   },
   ">>Ver:1.6.12<<": {

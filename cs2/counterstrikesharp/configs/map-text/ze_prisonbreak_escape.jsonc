@@ -4,7 +4,7 @@
     "MultiLang": {
       "US": "Zombies are rampaging! Please hold on for 1 minute!!",
       "JP": "ゾンビが盛んに襲来している！1分間頑張ってください！！",
-      "CN": "",
+      "CN": "丧尸嚣张起来啦！请坚持1分钟！！",
       "KR": "좀비가 활동하네! 1분 더 버텨!!",
       "TW": "殭屍猖獗起來了！請堅持1分鐘！！"
     }
@@ -25,7 +25,7 @@
       "US": "Close the door to end your turn.",
       "JP": "扉を閉めて本ターンを終了します。",
       "CN": "关门后才能结束本轮。",
-      "KR": "",
+      "KR": "문을 닫아야 이번 턴을 마칠 수 있습니다.",
       "TW": "關上門才能終止本回合。"
     }
   },
@@ -103,7 +103,7 @@
     "translation": "",
     "MultiLang": {
       "US": "Already activated 3rd controller!!",
-      "JP": "",
+      "JP": "すでに3号コントローラーを起動しました！！",
       "CN": "",
       "KR": "이미 3호 컨트롤러를 시작했습니다!!",
       "TW": "已啟動3號控制器！！"
@@ -184,7 +184,7 @@
     "MultiLang": {
       "US": "Second controller has planted a bomb! It will detonate in 1 minute!",
       "JP": "第二コントローラーが爆弾を設置しました、1分後に爆発します！",
-      "CN": "",
+      "CN": "第二个控制器已经安置了炸弹，1分钟后爆炸！",
       "KR": "두 번째 컨트롤러가 폭탄을 설치했습니다, 1분 후에 폭발!* *",
       "TW": ""
     }
@@ -236,7 +236,7 @@
       "JP": "第二コントローラーが破壊されました！",
       "CN": "第2个控制器损坏了！",
       "KR": "두 번째 컨트롤러가 파괴되었습니다！",
-      "TW": ""
+      "TW": "第二控制器破壞了！"
     }
   },
   "第四控制器被破坏了！": {
@@ -245,7 +245,7 @@
       "US": "The fourth controller is destroyed!",
       "JP": "Fourth controllers 被 破坏 了！",
       "CN": "",
-      "KR": "",
+      "KR": "제4 컨트롤러가 파괴되었습니다！",
       "TW": "第4個控制器破壞了！"
     }
   },
@@ -254,8 +254,8 @@
     "MultiLang": {
       "US": "The third controller is destroyed!",
       "JP": "THIRD コントローラーが破壊されました！",
-      "CN": "",
-      "KR": "",
+      "CN": "第三个控制器损坏了！",
+      "KR": "세 번째 컨트롤러가 파괴되었습니다！",
       "TW": "第3控制裝被破壞了！"
     }
   },
@@ -335,7 +335,7 @@
       "US": "Helicopter evacuation in 2 seconds...",
       "JP": "ヘリコプターの撤退開始まで2秒...",
       "CN": "",
-      "KR": "",
+      "KR": "헬리콥터 이동 전 2초...",
       "TW": "直升機撤離前2秒..."
     }
   },

@@ -33,7 +33,7 @@
     "translation": "",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "~ AFK テレ送を15sec後に有効化 ~",
       "CN": "~ AFK 传送启用倒计时 15 秒 ~",
       "KR": "~ AFK 텔레이트 활성화 15sec 후 ~",
       "TW": "~ AFK  TELE 启用倒計時 15sec ~"
@@ -55,7 +55,7 @@
       "US": "",
       "JP": "~ 5秒後にガラス破裂 ~",
       "CN": "~ 5秒后玻璃破裂 ~",
-      "KR": "",
+      "KR": "~ 유리 부reak in 5sec ~",
       "TW": "~玻璃5秒後破裂~"
     }
   },
@@ -115,7 +115,7 @@
       "US": "",
       "JP": "～一秒待って～",
       "CN": "~ 等1下 ~",
-      "KR": "",
+      "KR": "~ 잠깐 기다리세요 ~",
       "TW": "~ 等1下 ~"
     }
   },
@@ -123,10 +123,10 @@
     "translation": "",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "~ Afk テレ エnable in 10sec ~",
       "CN": "~ Afk 传送启用倒计时 10 秒 ~",
-      "KR": "",
-      "TW": ""
+      "KR": "~ Afk 텔레 업데이트 في 10sec ~",
+      "TW": "~ Afk移動啟用倒數中10秒~"
     }
   },
   "~ Glass is now moving!! ~": {
@@ -173,9 +173,9 @@
     "translation": "",
     "MultiLang": {
       "US": "",
-      "JP": "",
-      "CN": "",
-      "KR": "",
+      "JP": "～15secまでテレポートまで～",
+      "CN": "~ 15sec直到传送~",
+      "KR": "~ 15sec 까지 텔레 ~",
       "TW": "~ 15sec 前啟動 ~"
     }
   },
@@ -253,9 +253,9 @@
     "translation": "",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "オシテ！！",
       "CN": "",
-      "KR": "",
+      "KR": "오实干shit!!",
       "TW": ""
     }
   },
@@ -296,14 +296,14 @@
       "JP": "〜ポートル開くまで15sec〜",
       "CN": "~ 门户将在15秒后开启 ~",
       "KR": "~ 문이 15sec 후에 열립니다 ~",
-      "TW": ""
+      "TW": "~ Portal 開啟倒數15秒 ~"
     }
   },
   "~ Portal are now open ~": {
     "translation": "",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "～ポータルが開きました～\n\n(～ポータルを開けます～\n\n~ Portal wo hirakemasu~)\n\nNote: The second option is a more formal version of the translation which could be used if the game context requires a command or instruction rather than just an announcement. Given the context, the first option seems to fit better as an announcement.",
       "CN": "~ 传送门现已开启 ~",
       "KR": "~ 포털이 이제 열렸습니다 ~",
       "TW": "~ Portal 開放中 ~"
@@ -395,7 +395,7 @@
       "US": "",
       "JP": "~ 50sec まで ~",
       "CN": "~ 50sec 直到结束 ~",
-      "KR": "",
+      "KR": "~ 50sec까지 남음 ~",
       "TW": "~ 50sec 前結束 ~"
     }
   },
@@ -403,9 +403,9 @@
     "translation": "",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "~30secまでENDING ~",
       "CN": "~30sec直到结束~",
-      "KR": "",
+      "KR": "~ 30sec까지 남음 ~",
       "TW": "~ 30sec 前結束 ~"
     }
   },
@@ -415,7 +415,7 @@
       "US": "",
       "JP": "~ 20sec まで残り ~",
       "CN": "~ 20sec 直到结束 ~",
-      "KR": "",
+      "KR": "~ 20sec까지 끝 ~",
       "TW": "~ 20sec 前結束 ~"
     }
   },
@@ -425,7 +425,7 @@
       "US": "",
       "JP": "~ 10sec まで ~",
       "CN": "~ 10sec 直到结束 ~",
-      "KR": "",
+      "KR": "~ 10sec 까지 남음 ~",
       "TW": "~ 10sec 前結束 ~"
     }
   },
@@ -462,7 +462,7 @@
   "Port by 三百度幸运12121": {
     "translation": "",
     "MultiLang": {
-      "US": "",
+      "US": "Port by 3BD Luck 12121",
       "JP": "ポート由 三百度幸运12121",
       "CN": "港由 3百度幸运12121",
       "KR": "포트_by_삼백도뜨운_12121",
@@ -475,7 +475,7 @@
       "US": "",
       "JP": "~ 只有 2 次使用 ~",
       "CN": "~ 只有 2 次使用 ~",
-      "KR": "",
+      "KR": "~Only 2 사용 가능~",
       "TW": "~ 只有 2 次使用 ~"
     }
   },

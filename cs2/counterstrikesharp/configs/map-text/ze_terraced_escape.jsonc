@@ -5,7 +5,7 @@
       "US": "",
       "JP": "!!! ズボムがテレポートするまで3秒 !!!",
       "CN": "!!!僵尸将在3秒内传送!!!",
-      "KR": "",
+      "KR": "!!! Zombies 텔레포트In 3초!!!\n!!! Zombies teleport 인 3초!!!\n\nNote: The special symbol \"SECONDS\" was translated to \"초\" (seconds) in Korean, and the English abbreviation \"SECONDS\" is replaced with its Korean equivalent. The structure of the sentence has been preserved as closely as possible while adapting it to Korean language conventions.",
       "TW": "!!! 阴屍瞬移出現倒數3秒 !!!"
     }
   },
@@ -15,8 +15,8 @@
       "US": "",
       "JP": "!!! ゾンビがテレポートイン5秒 !!!",
       "CN": "!!!僵尸将在5秒内传送!!!",
-      "KR": "",
-      "TW": ""
+      "KR": "!!! 좀비들이 5초 후에 텔레포트!!!",
+      "TW": "!!! Zombies 雲隕而降 5 秒後 !!!"
     }
   },
   "!!! ZOMBIES TELEPORT IN 7 SECONDS !!!": {
@@ -25,8 +25,8 @@
       "US": "",
       "JP": "!!!ゾンビがテレポートするまでに7秒!!!",
       "CN": "!!!僵尸将在7秒内传送!!!",
-      "KR": "",
-      "TW": ""
+      "KR": "!!! 좀비가 7초 후에 텔레포트-ing !!!",
+      "TW": "!!! Zombie 噴 火 7 秒鐘後啟動 !!!"
     }
   },
   ">>> ELEVATOR LEAVES IN 15 SECONDS <<<": {
@@ -123,7 +123,7 @@
     "translation": "《夜困杀人场》（1986）",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "チェンジングマall (1986)",
       "CN": "《夜困杀人场》（1986）",
       "KR": "장바구니 치르기(1986)",
       "TW": "砍木場 (1986)"
@@ -165,7 +165,7 @@
       "US": "",
       "JP": "ドアを制御パネルを使用して開けてください！",
       "CN": "通过控制面板打开门！",
-      "KR": "",
+      "KR": "콘솔판을 통해 문을 열어보세요!",
       "TW": "開門請透過控制面板！"
     }
   },
@@ -175,7 +175,7 @@
       "US": "",
       "JP": "Fenceを撃つ",
       "CN": "射击栅栏",
-      "KR": "",
+      "KR": "빵틀-shoot>>",
       "TW": "射 Fence"
     }
   },
@@ -186,17 +186,17 @@
       "JP": "特別感谢MAPEADORES测试",
       "CN": "特别感谢MAPEADORES服务器测试",
       "KR": "특별한 감사의 마음을 전합니다. MaPadore们 测试",
-      "TW": ""
+      "TW": "特別感謝MAPEADORES測試"
     }
   },
   "Tourist Trap (1979)": {
     "translation": "《吓破胆》（1979）",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "観光誘致（1979）",
       "CN": "《吓破胆》（1979）",
-      "KR": "",
-      "TW": ""
+      "KR": "관광자 기물 (1979)",
+      "TW": "旅游陷阱（1979）"
     }
   },
   "a teleporter opened nearby ;)": {
@@ -225,7 +225,7 @@
       "US": "",
       "JP": "誰かが炎のアイテムを拾った",
       "CN": "有人捡起了火",
-      "KR": "",
+      "KR": "누군가 불 아이템을 들었다",
       "TW": "有人拾取了火把 ITEMS"
     }
   },
@@ -245,7 +245,7 @@
       "US": "",
       "JP": "誰かプッシュアイテムを拾いました",
       "CN": "有人捡起了推力",
-      "KR": "",
+      "KR": "누군가 푸시 아이템을 들었다",
       "TW": "有人拾取了推物 ITEMS"
     }
   },

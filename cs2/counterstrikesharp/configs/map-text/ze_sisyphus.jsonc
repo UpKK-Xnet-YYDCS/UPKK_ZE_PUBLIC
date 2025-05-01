@@ -123,7 +123,7 @@
     "translation": ">>> 正在播放 Loverboy - Workin' For The Weekend <<<",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": ">>> NOW Playing: ロバーボーイ - 週末のために <<<",
       "CN": ">>> 正在播放 Loverboy - Workin' For The Weekend <<<",
       "KR": ">>> NOW PLAYING: 로버보이 - 워킹 포 더 위크엔드 <<<",
       "TW": ">>> 現在播放：Loverboy - Workin' For The Weekend <<<"
@@ -153,9 +153,9 @@
     "translation": ">>> 正在播放 Modest Mouse - Sunspots In The House Of The Late Scapegoat <<<",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": ">>> 現在再生中: モデスト・マウス - 大罪の家に太陽斑 <<<",
       "CN": ">>> 正在播放 Modest Mouse - Sunspots In The House Of The Late Scapegoat <<<",
-      "KR": "",
+      "KR": ">>>NOW PLAYING: 모던 마우스 - 집에 있는 늦은 scapegoat의 태양무늬<<<",
       "TW": ">>> NOW PLAYING: 誠品樂團 - 房間裡的晚 scapegoat 瑞射點 <<<"
     }
   },
@@ -203,7 +203,7 @@
     "translation": ">>> 正在播放 Radiohead - Knives Out <<<",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": ">>> NOW PLAYING: ライオネル - Knives Out <<<",
       "CN": ">>> 正在播放 Radiohead - Knives Out <<<",
       "KR": ">>> NOW PLAYING: 라디오헤드 - 나이 Gizmo <<<",
       "TW": ">>> 現在播放： RADIOHEAD - KNAVES OUT <<<"
@@ -256,7 +256,7 @@
       "JP": ">>> NOW PLAYING: スペースダニー オリジナル・ストーリー・トラック - ファティでオホソゴディ <<<",
       "CN": ">>> 正在播放 Space Dandy OST - Fatty But Oh So Goody <<<",
       "KR": ">>> NOW PLAYING: 스페이스 닌자 OST - 페이티 바ut 오_so_고디 <<<",
-      "TW": ""
+      "TW": ">>> 現在播放：太空達尼原聲帶 - 肥肥好 !\");\n>>><<\n注意：最後一個字符應為半角感叹号，而非全角感叹号。"
     }
   },
   ">>> NOW PLAYING: Susumu Hirasawa - Gats <<<": {
@@ -303,10 +303,10 @@
     "translation": ">>> 正在播放 a-ha - Take On Me <<<",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": ">>> 現在再生：a-ha - Take On Me <<<",
       "CN": ">>> 正在播放 a-ha - Take On Me <<<",
-      "KR": "",
-      "TW": ""
+      "KR": ">>> 지금 재생 중: a-ha - Take On Me <<<",
+      "TW": ">> 現在播放：a-ha - Take On Me <<<"
     }
   },
   ">>> YOU ARE LISTENING TO || GFL ON 66.6 FM || SPONSORED BY GHOSTFAP.COM <<<": {
@@ -315,7 +315,7 @@
       "US": "",
       "JP": ">>> より听く||GFL ON 66.6 FM ||スポンサーby GHOSTFAP.COM <<<",
       "CN": ">>> 你正在收听 || GFL 66.6 FM || 赞助商：GHOSTFAP.COM <<<",
-      "KR": "",
+      "KR": ">>> 당신은 || GFL을 66.6 FM에서 듣고 있습니다 || GHOSTFAP.COM 후원 <<<",
       "TW": ">>> 您正在收聽 || GFL 在 66.6 FM || 感謝鬼喚網 ghostfap.com 支援 <<<"
     }
   },
@@ -336,7 +336,7 @@
       "JP": "janitor selected レベル 2",
       "CN": "清洁工选择了关卡2",
       "KR": "감독관 선택 Level 2",
-      "TW": ""
+      "TW": "JANITOR 選擇 等級 2"
     }
   },
   "Janitor selected Level 3": {

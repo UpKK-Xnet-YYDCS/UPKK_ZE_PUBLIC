@@ -55,7 +55,7 @@
       "US": "",
       "JP": "++終えreachtheend将提升难度++",
       "CN": "++到达终点将提高难度++",
-      "KR": "",
+      "KR": "++마지막까지 도달하면 난이도가 증가합니다++",
       "TW": "++達到最後將提高難度++"
     }
   },
@@ -65,7 +65,7 @@
       "US": "",
       "JP": "++難易度：ノーマル++",
       "CN": "++难度级别： 正常++",
-      "KR": "",
+      "KR": "+++난이도: 일반 +++",
       "TW": "++難度等級：NORMAL++"
     }
   },
@@ -86,7 +86,7 @@
       "JP": "++難易度：HARD++",
       "CN": "++难度等级：HARD++",
       "KR": "++난이도: HARD++",
-      "TW": ""
+      "TW": "++難度等級：HARD++"
     }
   },
   "++Zombies have made it past the cargo entrance, new spawn opening++": {
@@ -106,7 +106,7 @@
       "JP": "++止むな！++",
       "CN": "++拖住他们！++",
       "KR": "++그들을 억지로!++",
-      "TW": ""
+      "TW": "++ Hinderede之們！++"
     }
   },
   "++Zombies have made it past the high tower++": {
@@ -132,10 +132,10 @@
   "++Zombies have made it to the bridge, new spawn opening++": {
     "translation": "++僵尸已到达桥梁，新的传送点++",
     "MultiLang": {
-      "US": "",
+      "US": "++Zombies have reached the bridge, new spawn point open++",
       "JP": "+++ゾンビが橋に到着しました 新しい生成開始+++",
       "CN": "++僵尸已到达桥梁，新的传送点++",
-      "KR": "",
+      "KR": "+++좀비가 다리를 넘었어요, 새로운スポawn 열림+++",
       "TW": "++屍 GANG 已經到達橋樑，新的生成點開啟++"
     }
   },
@@ -162,7 +162,7 @@
   "++Zombies have gotten past the middle gate, new spawn opening++": {
     "translation": "++僵尸已经通过了中间的大门，新的传送点++",
     "MultiLang": {
-      "US": "",
+      "US": "++Zombies have passed the middle gate, new wave spawning++",
       "JP": "+++ゾンビが中門を突破し、新規生成開始+++",
       "CN": "++僵尸已经通过了中间的大门，新的传送点++",
       "KR": "+++좀비들이 중간 문을 통과했어요, 새로운スポawn 시작+++",

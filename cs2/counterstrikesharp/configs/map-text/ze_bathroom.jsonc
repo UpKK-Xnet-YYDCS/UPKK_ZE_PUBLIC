@@ -6,7 +6,7 @@
       "JP": ">>> |レベル 1| <<<",
       "CN": ">>> |第1关| <<<",
       "KR": ">>> |레벨 1| <<<",
-      "TW": ""
+      "TW": ">>> |級別 1| <<<"
     }
   },
   ">>> |LEVEL 2| <<<": {
@@ -16,7 +16,7 @@
       "JP": ">>> |レベル2| <<<",
       "CN": ">>> |第2关| <<<",
       "KR": ">>> |레벨 2| <<<",
-      "TW": ""
+      "TW": ">> |級別 2| <<<"
     }
   },
   ">>> |LEVEL 3| <<<": {
@@ -26,7 +26,7 @@
       "JP": ">>> |レベル3| <<<",
       "CN": ">>> |第3关| <<<",
       "KR": ">>> |레벨 3| <<<",
-      "TW": ""
+      "TW": ">> |等級 3| <<<"
     }
   },
   "Fall back we can walk across the door.": {
@@ -35,7 +35,7 @@
       "US": "Fall back, we can walk through the door.",
       "JP": "Fall back eway可通过门。",
       "CN": "撤退，我们可以进门。",
-      "KR": "",
+      "KR": "-backend으로 물러서我们可以走过去.-",
       "TW": "退回我們可以走過門口。"
     }
   },
@@ -66,16 +66,16 @@
       "JP": "15秒間ホールドしてください。",
       "CN": "防守15秒。",
       "KR": "15초간 유지하세요.",
-      "TW": ""
+      "TW": "持住15秒。"
     }
   },
   "Hold here until the blue sponge drops, then get in the tub!": {
     "translation": "在这里防守到蓝色海绵掉下来，然后进入浴缸！",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "ここで HOLD まで待って、青い Sponge が落ちたらバスボックスに入ってください >>",
       "CN": "在这里防守到蓝色海绵掉下来，然后进入浴缸！",
-      "KR": "",
+      "KR": "여기서 기다리세요. 파란 수건이 떨어지면 목욕조에 들어가세요!",
       "TW": "HOLD HERE 直到藍色海綿落下，再跳入浴缸！"
     }
   },
@@ -83,10 +83,10 @@
     "translation": "防守几秒钟。",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "数秒耐えてください。",
       "CN": "防守几秒钟。",
       "KR": "지금 몇 초간 참아주세요.",
-      "TW": ""
+      "TW": "再撐幾秒。"
     }
   },
   "Kill all zombies inside!": {
@@ -112,7 +112,7 @@
   "Mouse trap has been picked up.": {
     "translation": "老鼠夹已被拾取。",
     "MultiLang": {
-      "US": "",
+      "US": "Mouse trap picked up.",
       "JP": "マウストラップが拾われた。",
       "CN": "老鼠夹已被拾取。",
       "KR": "마우스 트랩을 획득했습니다.",
@@ -126,7 +126,7 @@
       "JP": "25秒抵抗。",
       "CN": "防守25秒。",
       "KR": "25초 저항하십시오.",
-      "TW": ""
+      "TW": "抵抗 25 秒。"
     }
   },
   "Resist for 30 seconds.": {
@@ -153,7 +153,7 @@
     "translation": "看来没有逃脱的办法。",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "脱出の方法がなさそうだ。",
       "CN": "看来没有逃脱的办法。",
       "KR": "scape가 보이지 않아.",
       "TW": "似乎沒有逃跑的方法。"
@@ -253,7 +253,7 @@
     "translation": "我们可以通过那个洞进入！撤退！",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "その穴から入可以！後退せよ！",
       "CN": "我们可以通过那个洞进入！撤退！",
       "KR": "우리는 그 구멍을 통해 들어갈 수 있다! 후퇴하세요!",
       "TW": "我們可以從那洞進入！退後！"
@@ -315,7 +315,7 @@
       "US": "You have won Level 1!",
       "JP": "您已解锁第一级！",
       "CN": "你赢得了第1关！",
-      "KR": "",
+      "KR": "당신은 1등을 차지했습니다!",
       "TW": "您已獲得1級！"
     }
   },
@@ -333,7 +333,7 @@
     "translation": "|管理员房间| *** 地图正在击杀所有人 ***",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "|管理室| *** MAP SLAYING EVERYONE ***",
       "CN": "|管理员房间| *** 地图正在击杀所有人 ***",
       "KR": "|관리실| ***MAP SLAYING EVERYONE***",
       "TW": "|行政房| *** MAP SLAYING EVERYONE ***"
@@ -342,7 +342,7 @@
   "|Admin Room|***Map has changed difficulty to LEVEL 1 ***": {
     "translation": "|管理员房间| ***已变更为第1关 ***",
     "MultiLang": {
-      "US": "",
+      "US": "|Admin Room|***Map Difficulty Changed to LEVEL 1***",
       "JP": "|管理室|***Map has changed difficulty to LEVEL 1 ***",
       "CN": "|管理员房间| ***已变更为第1关 ***",
       "KR": "|관리실|***Map has changed difficulty to LEVEL 1 ***",
@@ -352,8 +352,8 @@
   "|Admin Room|***Map has changed difficulty to LEVEL 2 ***": {
     "translation": "|管理员房间| ***已变更为第2关 ***",
     "MultiLang": {
-      "US": "",
-      "JP": "",
+      "US": "|Admin Room|***Map difficulty changed to LEVEL 2***",
+      "JP": "|管理室|***マップの難易度をLEVEL 2に変更しました***",
       "CN": "|管理员房间| ***已变更为第2关 ***",
       "KR": "|관리실|***Map has changed difficulty to LEVEL 2***",
       "TW": "|管理员房|***Map has changed difficulty to LEVEL 2 ***"

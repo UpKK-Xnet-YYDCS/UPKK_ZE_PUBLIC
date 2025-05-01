@@ -23,7 +23,7 @@
     "translation": "去绿色光亮区域",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "***青色の光が shiningなところへ行こう !***",
       "CN": "去绿色光亮区域",
       "KR": "*** 초록색 불빛이 빛나는 곳으로 가세요! ***",
       "TW": "*** 前往綠光閃耀的地方！***"
@@ -32,7 +32,7 @@
   "*** ZOMBIES WILL BE RELEASED SOON, SURF AWAY! ***": {
     "translation": "尸笼不久就会打开，快划！",
     "MultiLang": {
-      "US": "",
+      "US": "*** ZOMBIES WILL BE REleased SOon, SURF AWAY! ***",
       "JP": "***ゾンビが Shortly after, surf away! ***",
       "CN": "尸笼不久就会打开，快划！",
       "KR": "*** 좀비가 곧 방출됩니다, 서프아워! ***",
@@ -83,10 +83,10 @@
     "translation": "C4炸了，快跑快跑快跑！",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "*** C4 デトローダート、GO GO GO! ***",
       "CN": "C4炸了，快跑快跑快跑！",
-      "KR": "",
-      "TW": ""
+      "KR": "*** C4 폭발!,GO GO GO! ***",
+      "TW": "***C4引爆，快快快！***"
     }
   },
   "*** ACTIVATE THE CONSOLE AFTER THE LAVA***": {
@@ -116,7 +116,7 @@
       "JP": "***ウォールブレイク5秒後に開始***",
       "CN": "还有5s墙碎",
       "KR": "*** 벽이 5초 후에 깨집니다 ***",
-      "TW": ""
+      "TW": "***牆破壞計時中 5 秒鐘***"
     }
   },
   "*** WALL HAS BROKEN DOWN, RUN TO THE TELEPORT ***": {
@@ -135,15 +135,15 @@
       "US": "",
       "JP": "***ゾンビテレポートイン16セカンド***",
       "CN": "16s后僵尸传送",
-      "KR": "",
-      "TW": ""
+      "KR": "*** 블림! 좀비 텔레포트 남은 시간 16초 ***",
+      "TW": "*** Zombie 輸入於 16 秒 ***"
     }
   },
   "*** HOLD UNTIL WE GET TELEPORTED ***": {
     "translation": "守住直到我们被传送",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "***ホールドしてテレポートされるまで待ってください***",
       "CN": "守住直到我们被传送",
       "KR": "*** 유지해라.we 텔레포트될 때까지 ***",
       "TW": ""
@@ -182,18 +182,18 @@
   "*** PRESS BUTTON ON THE CONSOLE TO ENABLE THE ELEVATOR ***": {
     "translation": "控制台能激活电梯",
     "MultiLang": {
-      "US": "",
+      "US": "*** PRESS BUTTON ON THEConsoleTOENABLETHEELEVATOR ***",
       "JP": "*** コンソール上的按钮按下以启用电梯 ***",
       "CN": "控制台能激活电梯",
       "KR": "*** 콘솔上的按钮按下以启用电梯 ***",
-      "TW": ""
+      "TW": "***按下控制台上的按鈕以啟用升降機***"
     }
   },
   "*** BOXES SHORTCUT WILL OPEN IN 10 SECONDS ***": {
     "translation": "僵尸近路10s打开",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "***ボックスショートカットは10秒後に開きます***",
       "CN": "僵尸近路10s打开",
       "KR": "*** 박스 단축키는 10초 후에 열립니다 ***",
       "TW": "*** BOXES SHORTCUT 將在 10 秒後開啟 ***"
@@ -206,7 +206,7 @@
       "JP": "***エレベーターが開始、30秒後に移動します***",
       "CN": "30s后电梯激活",
       "KR": "*** 엘리베이터 작동, 30초 후 이동 ***",
-      "TW": ""
+      "TW": "***電梯啟動，30秒後离开***"
     }
   },
   "*** ELEVATOR LEAVING IN 20 SECONDS ***": {
@@ -216,7 +216,7 @@
       "JP": "***エレベーターは20秒後に離去***",
       "CN": "20s后电梯激活",
       "KR": "*** 엘레베이터 출발 20초 후 ***",
-      "TW": ""
+      "TW": "***電梯離開現場尚餘20秒***"
     }
   },
   "*** ELEVATOR LEAVING IN 10 SECONDS ***": {
@@ -226,7 +226,7 @@
       "JP": "***エレベーターが出発します。10秒後に移動します***",
       "CN": "10s后电梯激活",
       "KR": "*** 엘리베이터 출발 remnants 秒 ***",
-      "TW": ""
+      "TW": "***電梯於10秒後離開***"
     }
   },
   "*** ELEVATOR LEAVING IN 3 SECONDS ***": {
@@ -293,10 +293,10 @@
     "translation": "快跑快跑快跑",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "***GO GO GO、ゾンビが Shortly 释放***",
       "CN": "快跑快跑快跑",
       "KR": "",
-      "TW": ""
+      "TW": "*** GO GO GO，殭屍即將釋放 ***"
     }
   },
   "*** ZOMBIES RELEASED ***": {
@@ -305,7 +305,7 @@
       "US": "",
       "JP": "***ゾンビ解放***",
       "CN": "僵尸来喽",
-      "KR": "",
+      "KR": "***\n\nゾombie们释放***\n\n(This is a direct translation using Korean characters that may not be directly translatable due to language differences. The closest representation in Hangul would be: *** 좀비们释放 *** if you're looking for a phonetic translation rather than a conceptual one.)",
       "TW": "***殭屍釋放***"
     }
   },
@@ -313,7 +313,7 @@
     "translation": "30s后门开",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "*** ドアが30秒後で破られる ***\n>>",
       "CN": "30s后门开",
       "KR": "*** 문이 30초 후에 깨집니다 ***",
       "TW": "*** 門akest崩裂30秒後 ***"
@@ -323,10 +323,10 @@
     "translation": "5s",
     "MultiLang": {
       "US": "",
-      "JP": "",
-      "CN": "",
+      "JP": "***ドアが5秒後に破られる***",
+      "CN": "*** 大门将在5秒后自动破坏 ***",
       "KR": "*** 문이 5초 후에 부reak ***",
-      "TW": ""
+      "TW": "***門在5秒後破壞***"
     }
   },
   "*** LAST DOOR WILL CLOSE IN 30 SECONDS ***": {
@@ -336,7 +336,7 @@
       "JP": "*** 最後の扉は30秒後に閉鎖されます ***",
       "CN": "最终大门30s后关闭",
       "KR": "*** 마지막 문은 30초 후에 닫힙니다 ***",
-      "TW": ""
+      "TW": "***最後的門将在30秒後將關閉***"
     }
   },
   "*** THIS MAP HAS BEEN CREATED BY  --- FuTuRe ---": {
@@ -355,7 +355,7 @@
       "US": "",
       "JP": "",
       "CN": "*** 有 3 支会留下彩色轨迹的枪，GL 搜集它们 ***",
-      "KR": "",
+      "KR": "***\n\n3 대의 무기를 찾아보세요. 발사하면 색칠된 흔적이 남는 무기들이에요.\n\n***",
       "TW": ""
     }
   },

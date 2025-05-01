@@ -44,7 +44,7 @@
     "MultiLang": {
       "US": ">>>You still need to wait a bit more, 10 seconds left<<<",
       "JP": ">>まだ少し待たなければなりませんね, 10second left <<<",
-      "CN": "",
+      "CN": ">>还需要再等一会儿哦,10秒left<<<",
       "KR": ">>> 아직稍等一会哦,10 second left <<<",
       "TW": ""
     }
@@ -54,8 +54,8 @@
     "MultiLang": {
       "US": ">>>Need to wait a bit more, 30 seconds left <<<",
       "JP": ">>>まだ少し待たなければなりませんね, 30second left <<<",
-      "CN": "",
-      "KR": "",
+      "CN": ">>>还需要再等一会哦,10秒左 <<<",
+      "KR": ">> 아직稍等片刻，30秒后<<",
       "TW": ""
     }
   },
@@ -73,7 +73,7 @@
     "translation": "",
     "MultiLang": {
       "US": ">>>Great, you found it<<<",
-      "JP": "",
+      "JP": ">>>素晴らしい、あなたが見つけました<<<",
       "CN": "",
       "KR": ">>>좋아, 네가 찾았구나<<<",
       "TW": ""
@@ -116,7 +116,7 @@
       "JP": ">>>あなたは間違いにsemba<<<",
       "CN": "",
       "KR": ">>>너는顯然走錯了<<<",
-      "TW": ""
+      "TW": ">>>你好像走錯了<<<"
     }
   },
   "\">>>被你发现了<<<\"": {
@@ -163,10 +163,10 @@
     "translation": "",
     "MultiLang": {
       "US": ">>>Everyone will face their end, 10seconds<<<",
-      "JP": "",
+      "JP": ">>> Everyone will迎来终结，10second <<<",
       "CN": "",
       "KR": ">>>모두는 10second에 맞이하게 될 것이다<<<",
-      "TW": ""
+      "TW": ">>>每个人都會迎来終結，10second<<<"
     }
   },
   "\">>>僵尸要来了，20 seconds left<<<\"": {
@@ -175,7 +175,7 @@
       "US": ">>> Zombies are coming, 20 seconds left <<<",
       "JP": ">>>ゾンビが来ます、20秒残しました<<<",
       "CN": ">>>丧尸要来了，20秒后<<<",
-      "KR": "",
+      "KR": ">>> 좀비가 올 것 같아, 20 seconds left <<<",
       "TW": ">>>殭屍要來了，20 seconds left<<<"
     }
   },
@@ -186,7 +186,7 @@
       "JP": ">>>あなたに見つかった、10second left<<<",
       "CN": "",
       "KR": ">>>당신이 발견했습니다, 10second left<<<",
-      "TW": ""
+      "TW": ">>><被你發現了，10second left<<"
     }
   },
   ">>>地图作者：ze探险家<<<": {
@@ -315,7 +315,7 @@
       "US": ">>> Zombies blocked <<<",
       "JP": ">>>ゾンビを阻止<<<",
       "CN": "",
-      "KR": "",
+      "KR": ">>> 좀비가 막히기<<<",
       "TW": ">>>殭屍被擋住<<<"
     }
   },
@@ -373,7 +373,7 @@
     "translation": "",
     "MultiLang": {
       "US": ">>The road will appear in 20 seconds, 20 seconds left<<",
-      "JP": "",
+      "JP": ">>>道路还有20秒显现, 20秒後出现<<<",
       "CN": "",
       "KR": ">>>도로는 20초 후에 나타납니다, 20 seconds left<<<",
       "TW": ">>>道路還有20秒顯現, 20 seconds left<<<"
@@ -396,7 +396,7 @@
       "JP": ">>>10秒後にtp<<<",
       "CN": ">>>tp 在 10 秒钟<<<",
       "KR": ">>>10초 후 tp<<<",
-      "TW": ""
+      "TW": ">>10秒後tp<<"
     }
   },
   ">>>tp in 30 seconds<<<": {

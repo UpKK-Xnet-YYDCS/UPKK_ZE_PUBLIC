@@ -46,7 +46,7 @@
       "JP": ">>> Humansを全て TELEPORTING... <<<",
       "CN": "传送所有人类...",
       "KR": ">>>모든 인간들을 텔레포트중...<<<",
-      "TW": ""
+      "TW": ">>>傳送所有人類...<<<"
     }
   },
   ">>>Teleporting all Zombies...<<<": {
@@ -56,7 +56,7 @@
       "JP": ">>>全てのゾンビをテレポートする...<<<",
       "CN": "传送所有僵尸...",
       "KR": ">>>모든 좀비들을 텔레포트시키고 있습니다<<<",
-      "TW": ""
+      "TW": ">>>傳送所有殭屍...<<<"
     }
   },
   ">>>Door will Open in 3 sec. PREPARE TO RUN<<<": {
@@ -73,9 +73,9 @@
     "translation": "20 秒后墙碎",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": ">>>Respawn墙壁破壞倒計時20秒<<<",
       "CN": "20 秒后墙碎",
-      "KR": "",
+      "KR": ">>> RespAWN 월벽 해체 후 20sec <<<",
       "TW": ">>>重生牆破壞倒數20秒<<<"
     }
   },
@@ -93,7 +93,7 @@
     "translation": "访问 www.nextwin.ru",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": ">>>www-nextwin-ruにアクセス<<<",
       "CN": "访问 www.nextwin.ru",
       "KR": ">>>www.nextwin.ru방문<<<",
       "TW": ">>>訪問www.nextwin.ru<<<"
@@ -166,7 +166,7 @@
       "JP": ">>>5秒後に全員 TELEPORT<<<",
       "CN": "在 5 秒内传送所有人",
       "KR": ">>>5초 후 텔레포트<<<",
-      "TW": ""
+      "TW": ">>>5秒後传送所有人<<<"
     }
   },
   ">>>If you cant pass SURF try to pass XC level<<<": {
@@ -206,7 +206,7 @@
       "JP": ">>>テレポート有効20sec<<<",
       "CN": "20 秒后启用传送",
       "KR": ">>>텔porter 활성화 대기 중 20 sec<<<",
-      "TW": ""
+      "TW": ">>> TELEPORT 輸入啟用於 20 SEC <<<"
     }
   },
   ">>>If you can pass final SURF level you receive 10 of frags<<<": {
@@ -263,10 +263,10 @@
     "translation": "哦，不！装有炸药的桶正在燃烧！它将在几秒钟后爆炸！",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": ">>> Oh NO! 爆発寸前の Barrel は BURN！起爆するのもう几秒！ <<<",
       "CN": "哦，不！装有炸药的桶正在燃烧！它将在几秒钟后爆炸！",
       "KR": ">>>오호 아니야! 폭발성 가나가 빨니다! 몇 초 후에 튕겨올 거예요!!!<<<",
-      "TW": ""
+      "TW": ">>Oh NO! 有炸药的 Barrel會BURN！幾秒後它會爆炸！<<"
     }
   }
 }

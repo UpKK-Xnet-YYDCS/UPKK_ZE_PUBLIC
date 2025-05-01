@@ -3,7 +3,7 @@
     "translation": "人类治疗-治疗200hp，加速3秒，免疫感染5秒。65 cd。",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "人間回復 -200hp回復、速度上昇3秒、感染免疫5秒。クールダウン65。",
       "CN": "人类治疗-治疗200hp，加速3秒，免疫感染5秒。65 cd。",
       "KR": "Human Heal - 200 hp 회복, 3sec 속도UP 및 5sec 감염 면역. 65cd.",
       "TW": "Humans Heal - 治療 200 hp, 加速 3 秒且免疫感染 5 秒。65 冷卻時間。"
@@ -45,7 +45,7 @@
       "US": "",
       "JP": "ゾンビスノウ -あなた周りの-humanを3秒間 immobilize. 30cd",
       "CN": "僵尸雪-使周围的人类减速3秒。30 cd",
-      "KR": "",
+      "KR": "좀비 눈사람 - 근처의 인간을 3초간 늦추기. 30cd",
       "TW": "Zombie Snow -慢速困住你周围的人類，持續3秒。30冷卻時間。"
     }
   },
@@ -214,9 +214,9 @@
     "MultiLang": {
       "US": "",
       "JP": "",
-      "CN": "",
-      "KR": "",
-      "TW": ""
+      "CN": "<幻象世界>",
+      "KR": "< ze_이상한세계 >",
+      "TW": "幻境世界"
     }
   },
   "< Map by BlackRock. >": {
@@ -233,16 +233,16 @@
     "translation": "< CS2 移植 @Seth. >",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "< CS2 ポート by @Seth. >",
       "CN": "< CS2 移植 @Seth. >",
       "KR": "< CS2 포트_by @Seth. >",
-      "TW": ""
+      "TW": "< CS2 由 @Seth 制作. >"
     }
   },
   "<--A human has picked White Knight-->": {
     "translation": "<--一个人类选中了白骑士--> <--按 E 攻击，头顶 E 使用终极技能。",
     "MultiLang": {
-      "US": "",
+      "US": "<--A human has chosen White Knight-->",
       "JP": "<--人間がWhite Knightを選んだ-->",
       "CN": "<--一个人类选中了白骑士--> <--按 E 攻击，头顶 E 使用终极技能。",
       "KR": "<--인간이 흰 기사사를 선택했습니다-->",

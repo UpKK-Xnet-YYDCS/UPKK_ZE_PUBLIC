@@ -34,7 +34,7 @@
     "MultiLang": {
       "US": "(Touching the scarab will not trigger the mechanism)",
       "JP": "(聖甲虫に触れると機械が反応しない)",
-      "CN": "",
+      "CN": "(触摸圣甲虫时不会触发机关)",
       "KR": "(성충을 만♫时不触发机关)",
       "TW": "(觸碰聖甲蟲時不觸發機械)"
     }
@@ -94,7 +94,7 @@
     "MultiLang": {
       "US": "Please set the zombies to mutate 45 seconds after the start>>",
       "JP": "请設定ゾンビ在開始後45秒内变异",
-      "CN": "",
+      "CN": "请设置僵尸在开局45秒后转生",
       "KR": "請 설정 좀비가 시작 후 45초에서 부활📌>><<",
       "TW": "請設置殭屍在開局45秒後屍變"
     }
@@ -385,7 +385,7 @@
       "US": "",
       "JP": "0时にそこにはnesserarilyいて!\");",
       "CN": "倒计时0时你必须在里面！",
-      "KR": "",
+      "KR": "0에선 반드시 있어야doing it!",
       "TW": "在0你必須到位！"
     }
   },

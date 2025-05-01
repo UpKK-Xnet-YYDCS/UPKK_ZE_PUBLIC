@@ -26,7 +26,7 @@
       "JP": "*現在の力: 100*",
       "CN": "*当前能量：100*",
       "KR": "*현재 파워: 100*",
-      "TW": ""
+      "TW": "*當前戰力：100*"
     }
   },
   "*Current Power: 20*": {
@@ -126,7 +126,7 @@
       "JP": "ステージサークル -",
       "CN": "- 关卡：圆形 -",
       "KR": "- 스테이지 원반 -",
-      "TW": ""
+      "TW": "- 步驟圓圈-"
     }
   },
   "- STAGE SQUARE -": {
@@ -136,7 +136,7 @@
       "JP": "ステージスクエア -",
       "CN": "- 关卡：方形 -",
       "KR": "-[스테이지 제곱]-",
-      "TW": ""
+      "TW": "- 圖平方-"
     }
   },
   "- STAGE TRIANGLE -": {
@@ -146,26 +146,26 @@
       "JP": "- ステージ三角形 -",
       "CN": "- 关卡：三角形 -",
       "KR": "- 스테이지 삼각형 -",
-      "TW": ""
+      "TW": "- 階段三角形 -"
     }
   },
   "- THE FINAL -": {
     "translation": "- 最终关卡 -",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "- 最終章 -",
       "CN": "- 最终关卡 -",
       "KR": "[- 최종 -]",
-      "TW": ""
+      "TW": "- 最終 -"
     }
   },
   "- You will regret for no RTV -": {
     "translation": "- 你将会后悔没有 RTV -",
     "MultiLang": {
-      "US": "",
+      "US": "- You will regret if you don't RTV -",
       "JP": "- RTV不出則後悔 -",
       "CN": "- 你将会后悔没有 RTV -",
-      "KR": "",
+      "KR": "- 유니버스 리턴을 하지 않아 후회할 거예요 -",
       "TW": "- 你會為沒有RTV而後悔 -"
     }
   },
@@ -223,7 +223,7 @@
     "translation": "<< 管理员选择了关卡：三角形 >>",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "★★ 管理者選択ステージ三角 ★★",
       "CN": "<< 管理员选择了关卡：三角形 >>",
       "KR": "<< 관리자 선택 단계 삼각형 >>",
       "TW": "<< 管理員選關3角 >>"
@@ -246,7 +246,7 @@
       "JP": "<< 120秒後に終了 >>",
       "CN": "<< 120 秒后结束 >>",
       "KR": "<< 120초 후 종료 >>",
-      "TW": ""
+      "TW": "<<剩餘時間120秒>>"
     }
   },
   "<< Fog enable >>": {
@@ -344,9 +344,9 @@
     "MultiLang": {
       "US": "",
       "JP": "",
-      "CN": "",
+      "CN": "<< RTV请 >>",
       "KR": "",
-      "TW": ""
+      "TW": "<< RTV請 >>\n\nNote: The original text uses a mix of English and Chinese characters. In the translation, I preserved this style by using \"請\" (please) in Traditional Chinese while keeping the rest in English to match the original format."
     }
   },
   "<< RTV2 >>": {
@@ -376,7 +376,7 @@
       "JP": "<< ステージクリア >>",
       "CN": "<< 阶段完成 翻译：Ayanami♪ >>",
       "KR": "<< 스테이지 완료 >>",
-      "TW": ""
+      "TW": "<<<關卡完成>>>"
     }
   },
   "<< Shooting the square to recharge the power of the lift >>": {
@@ -496,7 +496,7 @@
       "JP": "現在のBGM: MAZRDOLL::#V[Sempronius]   -AcuticNotes",
       "CN": "当前 BGM：MAZRDOLL::#V[Sempronius]   -AcuticNotes",
       "KR": "현재 배경 음악: MAZRDOLL::#V[Sempronius]   -AcuticNotes",
-      "TW": ""
+      "TW": "當前BGM：MAZRDOLL::#V[Sempronius]   -AcuticNotes"
     }
   },
   "Current BGM: OutVid   -AcuticNotes": {
@@ -513,9 +513,9 @@
     "translation": "超负荷！！！（能量超出100，需重新充能）",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "オーバロード!!!",
       "CN": "超负荷！！！（能量超出100，需重新充能）",
-      "KR": "",
+      "KR": "오버로드!!!",
       "TW": ""
     }
   }

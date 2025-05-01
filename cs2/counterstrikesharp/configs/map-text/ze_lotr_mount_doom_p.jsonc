@@ -23,7 +23,7 @@
     "translation": "********** 地图作者：Hannibal[SPA] (Rafuron) 翻译：Asteri3m **********",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "**********マップ作成者：Hannibal[SPA] (Rafuron) **********",
       "CN": "********** 地图作者：Hannibal[SPA] (Rafuron) 翻译：Asteri3m **********",
       "KR": "**********맵 생성자: Hannibal[SPA] (Rafuron) **********",
       "TW": "**********MAP CREATED BY: 汉尼拔[SPA] (拉弗隆) **********"
@@ -43,7 +43,7 @@
     "translation": "***15秒后传送挂机玩家***",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "***AFK テレポートまで15秒***",
       "CN": "***15秒后传送挂机玩家***",
       "KR": "***AFK 텔레포트 후 15 s***",
       "TW": "***AFK 传送倒計時 15 s***"
@@ -55,14 +55,14 @@
       "US": "",
       "JP": "***キャリアが言う：リングは私のもの！***",
       "CN": "***携带者说：戒指是我的！***",
-      "KR": "",
+      "KR": "***캐리어가 말한다: 반지是我的翻译，不是韩语。正确的韩国语翻译如下：\n\n***캐리어가 말한다: 반지는 제게 있습니다!!***",
       "TW": "***載具說：戒指是我的！***"
     }
   },
   "***Earendil light has been picked***": {
     "translation": "***埃雅仁迪尔之星被捡起***",
     "MultiLang": {
-      "US": "",
+      "US": "***Earendil Light Has Been Picked***",
       "JP": "***Earendil light が選ばれ***",
       "CN": "***埃雅仁迪尔之星被捡起***",
       "KR": "***엘다릴 빛이 선택되었다***",
@@ -105,7 +105,7 @@
       "US": "",
       "JP": "*** Nazgûl 15 s later 到达希瑞斯·翁戈塔楼 ***",
       "CN": "***15秒内戒灵将到达西力斯昂哥之塔***",
-      "KR": "",
+      "KR": "***nazguls coming to cirith ungol 탑에서 15 s 후***",
       "TW": "*** Nazguls 到達 Cirith Ungol 塔樓於 15 s ***"
     }
   },
@@ -116,7 +116,7 @@
       "JP": "*** Nazguls 来到米纳斯魔苟斯 15 s ***",
       "CN": "***15秒内戒灵将到达米那斯魔窟***",
       "KR": "",
-      "TW": ""
+      "TW": "*** Nazguls 正前往 minions 呀 15 s ***"
     }
   },
   "***Nazguls coming to camp in 15 s***": {
@@ -133,20 +133,20 @@
     "translation": "***防守30秒！！***",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "***30秒 Resist!!***",
       "CN": "***防守30秒！！***",
       "KR": "***저항 30 s!!***",
-      "TW": ""
+      "TW": "***抵抗30秒!!***"
     }
   },
   "***Resist 50 s!!***": {
     "translation": "***防守50秒！！***",
     "MultiLang": {
-      "US": "",
+      "US": "***Resist for 50 s!!***",
       "JP": "",
       "CN": "***防守50秒！！***",
       "KR": "***저항 50 s!!***",
-      "TW": ""
+      "TW": "***抵抗50秒！！***"
     }
   },
   "***THE RING HAS REACHED THE MOUNT DOOM: the ring carrier MUST throw the ring inside the volcano***": {
@@ -162,11 +162,11 @@
   "***The Ring carrier has betrayed us! Get into the Mount Doom and defend during 40s!***": {
     "translation": "***持戒人背叛了我们！进入末日火山并防守40秒！***",
     "MultiLang": {
-      "US": "",
+      "US": "***The Ring bearer has betrayed us! Get into Mount Doom and defend for 40 seconds!***",
       "JP": "***リングキャリアが裏切り者だ！モールドゥムへ進み、40秒間防衛せよ！***",
       "CN": "***持戒人背叛了我们！进入末日火山并防守40秒！***",
       "KR": "***링을 운반하는 자가 우리를 배신했다! 멜kor그라드로 이동해 40초 동안 방어하라!***",
-      "TW": ""
+      "TW": "***戒指載體已背叛我們！進入摩爾杜因並防守40秒！***"
     }
   },
   "***The Ring has been destroyed! Escape from Mordor!***": {
@@ -176,7 +176,7 @@
       "JP": "***リングが破壊された！モルдорから脱出せよ！***",
       "CN": "***戒指已被摧毁！逃离魔多！***",
       "KR": "***반지가 파괴되었습니다! 모르도에서 탈출하세요!***",
-      "TW": ""
+      "TW": "***指環已被破壞！快逃出摩多！***"
     }
   },
   "***The door is NOW open! Escape from Cirith Ungol!***": {
@@ -232,11 +232,11 @@
   "**Lever pressed! Door will open in 15s**": {
     "translation": "**杠杆已按下！门将在15秒内打开**",
     "MultiLang": {
-      "US": "",
+      "US": "***Lever pulled! Door will open in 15s***",
       "JP": "レバーが押されました！扉は15秒後に開きます",
       "CN": "**杠杆已按下！门将在15秒内打开**",
       "KR": "★★버튼 눌러졌다! 문이 15초 후에 열린다★",
-      "TW": ""
+      "TW": "***桿按下！門将在15秒後打開***"
     }
   },
   "**Nazgul defeated!**": {
@@ -256,7 +256,7 @@
       "JP": "***ランダム・オブジェクト:***",
       "CN": "**随机目标：**",
       "KR": "**랜덤 목표:**",
-      "TW": ""
+      "TW": "***隨機目標:***"
     }
   },
   "**Reach the Mount Doom**": {
@@ -275,7 +275,7 @@
       "US": "",
       "JP": "リングカーザーは扉を開けるために下に降りるmust go down to open the door.",
       "CN": "**持戒人必须下去打开门。**",
-      "KR": "",
+      "KR": "***반지 수ARRIER는 문을 열기 위해 아래로 가야 합니다.***",
       "TW": "環 Carrier 必須下去 打開門。"
     }
   },

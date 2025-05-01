@@ -12,7 +12,7 @@
   "***STONE DOOR OPENING***": {
     "translation": "石门开启中",
     "MultiLang": {
-      "US": "",
+      "US": "***STONE DOOR UNLOCKED***",
       "JP": "***ストーンドアオープン***",
       "CN": "石门开启中",
       "KR": "***석문 열림***",
@@ -26,7 +26,7 @@
       "JP": "***ボート発着点へ20秒後に移動***",
       "CN": "20s后发船",
       "KR": "***배가 20초 후에 출발합니다***",
-      "TW": ""
+      "TW": "***船 Twenty 秒後起航***"
     }
   },
   "***BOAT LEAVES IN 10 SECONDS***": {
@@ -36,7 +36,7 @@
       "JP": "***ボートが出発するまでに10秒***",
       "CN": "10s后发船",
       "KR": "***배가 10초 후에 떠납니다***",
-      "TW": ""
+      "TW": "***船隻 Departure in 10秒***"
     }
   },
   "***PATH BLOCKERS BREAK IN 5 SECONDS***": {
@@ -46,7 +46,7 @@
       "JP": "***パスブロッカー突破5秒後に開始***",
       "CN": "5s后墙碎",
       "KR": "***경로 장애물 5초 후 해체***",
-      "TW": ""
+      "TW": "***パス这家公司隔5秒突破***"
     }
   },
   "***ALL MATERIALS FOR DIAMOND SWORD HAVE BEEN FOUND*** ": {
@@ -62,11 +62,11 @@
   "***PRESS use ON THE WORKBENCH AT THE TNT HOLD POINT*** ": {
     "translation": "按下TNT",
     "MultiLang": {
-      "US": "",
-      "JP": "",
+      "US": "*** PRESS USE ON THE WORKBench AT THE TNT HOLD POINT ***",
+      "JP": "***USEを Explosives 室の工作台上 に押してください***",
       "CN": "按下TNT",
       "KR": "*** PRESSES를 TNT 보관소에서 워크벤치에 사용하십시오 ***",
-      "TW": ""
+      "TW": "*** PRESS use 鐵礦炸彈點的工bench 上***"
     }
   },
   "***THIS WILL CRAFT THE SWORD*** ": {
@@ -83,9 +83,9 @@
     "translation": "TNT30s后爆炸",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "*** TNT 30秒後爆炸 ***",
       "CN": "TNT30s后爆炸",
-      "KR": "",
+      "KR": "*** TNT *** ***30초 후 폭발***",
       "TW": "***TNT爆炸倒計時30秒***"
     }
   },
@@ -95,7 +95,7 @@
       "US": "",
       "JP": "",
       "CN": "守住洞穴",
-      "KR": "",
+      "KR": "***\n\n사 若要继续，请告知我需要翻译的英文内容。上述已经是给定文本的韩语译文。\n\n HOLD THE CAVE!!!!",
       "TW": ""
     }
   },
@@ -103,9 +103,9 @@
     "translation": "还有20s",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "***TNT エキスパンディング 20 SEC***",
       "CN": "还有20s",
-      "KR": "",
+      "KR": "*** TNT 폭발까지 20초 ***",
       "TW": "***TNT爆炸倒計時20秒***"
     }
   },
@@ -113,9 +113,9 @@
     "translation": "还有10s",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "***TNT セカンド10で爆発***",
       "CN": "还有10s",
-      "KR": "",
+      "KR": "*** TNT 폭발까지 10초 ***",
       "TW": "***TNT爆炸倒數計時中：10秒後炸開***"
     }
   },
@@ -125,7 +125,7 @@
       "US": "",
       "JP": "",
       "CN": "还剩5s",
-      "KR": "",
+      "KR": "*** TNT 폭발까지 5초***",
       "TW": "***TNT爆炸倒計時5秒***"
     }
   },
@@ -136,17 +136,17 @@
       "JP": "***GOGO.. SLIPゲートまで行け***",
       "CN": "走走走",
       "KR": "***GOGO.. 슬립 게이트로 가세요***",
-      "TW": ""
+      "TW": "***GOGO.. 到 Slip Gate 那裡去***"
     }
   },
   "***AFK TELE TO CAGE IN 15 SECONDS**": {
     "translation": "15s后传送AFK玩家",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "***AFK テレポートtoキャ Gei 15 秒後***",
       "CN": "15s后传送AFK玩家",
-      "KR": "",
-      "TW": ""
+      "KR": "***AFK 텔레로 캐지 인 15초 후***",
+      "TW": "***AFK TELEPORT 到鳥籠 15 秒後**"
     }
   },
   "***THE SWORD HAS BEEN PICKED UP***": {
@@ -163,10 +163,10 @@
     "translation": "20s后传送AFK玩家",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "***AFK TELE 2 20秒後テレポート中***",
       "CN": "20s后传送AFK玩家",
-      "KR": "",
-      "TW": ""
+      "KR": "***AFK 텔레 2 텔레포팅 인 20 초***",
+      "TW": "***AFK TELE 2 電 Brain 轉移中，倒數 20 秒***"
     }
   },
   "***DOOR OPENING IN 15 SECONDS***": {
@@ -186,7 +186,7 @@
       "JP": "***ドアが開くまで10秒***",
       "CN": "10s后门开",
       "KR": "***문이 10초 후에 열립니다***",
-      "TW": ""
+      "TW": "***門扉即將開啟，在十秒後見面***"
     }
   },
   "***DOOR OPENING IN 5 SECONDS***": {
@@ -212,11 +212,11 @@
   "***DEFEND THE CASTLE DOORS***": {
     "translation": "守住城堡大门",
     "MultiLang": {
-      "US": "",
+      "US": "***DEFEND THE CASTLE GATES***",
       "JP": "***城門を防ごう***",
       "CN": "守住城堡大门",
       "KR": "***성문을 방어하세요***",
-      "TW": ""
+      "TW": "***守衛城堡門戶***"
     }
   },
   "***SWORD READY***": {
@@ -233,10 +233,10 @@
     "translation": "走...走，去矿山",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "***GO GO.. ミナに到着しなさい！***",
       "CN": "走...走，去矿山",
       "KR": "***GO GO.. 광산으로 가라!!***",
-      "TW": ""
+      "TW": "***GO GO.. 到礦坑去！***"
     }
   },
   "***TROLL FACE HAS BEEN PICKED UP***": {
@@ -276,27 +276,27 @@
       "JP": "***35秒間守備する***",
       "CN": "守住35s",
       "KR": "***35초간 방어하기***",
-      "TW": ""
+      "TW": "***防守35秒***"
     }
   },
   "***MINE CARTS ARRIVE IN 30 SECONDS***": {
     "translation": "30s后矿车抵达",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "***Mineカート到着まで30秒***",
       "CN": "30s后矿车抵达",
-      "KR": "",
-      "TW": ""
+      "KR": "***열차는 30초 후 도착***",
+      "TW": "*** Mining車到達時間為30秒 ***"
     }
   },
   "***MINE CARTS ARRIVE IN 25 SECONDS***": {
     "translation": "25s",
     "MultiLang": {
       "US": "",
-      "JP": "",
-      "CN": "",
-      "KR": "",
-      "TW": ""
+      "JP": "***ミネ carts arrive in 25 seconds***",
+      "CN": "***矿车25秒后到达***",
+      "KR": "***하위 25초 후 카트 도착***",
+      "TW": "***Mine車廂 arrive in 25 seconds***"
     }
   },
   "***MINE CARTS ARRIVE IN 20 SECONDS***": {
@@ -304,29 +304,29 @@
     "MultiLang": {
       "US": "",
       "JP": "",
-      "CN": "",
-      "KR": "",
-      "TW": ""
+      "CN": "***矿车20秒后到达***",
+      "KR": "***광车间 arrival in 20 seconds***",
+      "TW": "***Mine卡車 Arrival in 20秒***"
     }
   },
   "***MINE CARTS ARRIVE IN 15 SECONDS***": {
     "translation": "15s",
     "MultiLang": {
-      "US": "",
+      "US": "***MINE Carts Arrive in 15 Seconds***",
       "JP": "",
-      "CN": "",
-      "KR": "",
-      "TW": ""
+      "CN": "***矿车15秒后到达***",
+      "KR": "***하위 카트가 15초 후 도착***",
+      "TW": "*** Mining 車 庫 到 达 內 間 15 秒 ***"
     }
   },
   "***MINE CARTS ARRIVE IN 10 SECONDS***": {
     "translation": "10s",
     "MultiLang": {
       "US": "",
-      "JP": "",
-      "CN": "",
+      "JP": "***鉄 Mine Carts 到着 10 秒後に***",
+      "CN": "***矿车10秒后到达***",
       "KR": "***열두초 후 자동차 도착***",
-      "TW": ""
+      "TW": "***礦車 arrivals in 10秒***"
     }
   },
   "***MINE CARTS ARRIVE IN 5 SECONDS***": {
@@ -334,9 +334,9 @@
     "MultiLang": {
       "US": "",
       "JP": "",
-      "CN": "",
-      "KR": "",
-      "TW": ""
+      "CN": "***矿车5秒后到达***",
+      "KR": "***레일 카가 5초 후 도착***",
+      "TW": "*** Mining 車來達 5 秒鐘 ***"
     }
   },
   "***GET ON TOP OF THE MINE CARTS***": {
@@ -356,7 +356,7 @@
       "JP": "注：原文为英文，但根据指令要求翻译成日文。如果需要保留原文英文，请告知。",
       "CN": "到达庇护所",
       "KR": "***보unker 도달하였습니다***",
-      "TW": ""
+      "TW": "***堡壘已抵達***"
     }
   },
   "***BUNKER DOOR OPENING IN 20 SECONDS***": {
@@ -366,7 +366,7 @@
       "JP": "***バッカーンドアオープンIN 20セCONDS***",
       "CN": "庇护所大门20s后开",
       "KR": "***보급기지 문 열리는 중 20초 후***",
-      "TW": ""
+      "TW": "***掩體門扉開啟倒數20秒***"
     }
   },
   "***DEFEND THE RAILWAY TRACK***": {
@@ -386,7 +386,7 @@
       "JP": "***バッカードア開启倒计时15秒***",
       "CN": "庇护所大门还有15s",
       "KR": "보unker 문 열림 15초 후***",
-      "TW": ""
+      "TW": "***堡門開啟倒數中，15秒後開啟***"
     }
   },
   "***BUNKER DOOR OPENING IN 10 SECONDS***": {
@@ -394,7 +394,7 @@
     "MultiLang": {
       "US": "",
       "JP": "***ブンカー門開くまで10秒***",
-      "CN": "",
+      "CN": "***掩体门开启倒计时10秒***",
       "KR": "***보조문이 열리는 중입니다 10초 후***",
       "TW": "***塹壕門開啓倒數計時中 10 秒***"
     }
@@ -402,11 +402,11 @@
   "***BUNKER DOOR OPENING IN 5 SECONDS***": {
     "translation": "5s",
     "MultiLang": {
-      "US": "",
+      "US": "***Bunker Door Opening in 5 Seconds***",
       "JP": "***バッカードアオープンIN 5セCONDS***",
       "CN": "",
       "KR": "***벙커 문 오픈 5초 후***",
-      "TW": ""
+      "TW": "***堡壘門扉開啟倒數五秒***"
     }
   },
   "***BUNKER DOOR OPEN!***": {
@@ -416,7 +416,7 @@
       "JP": "***バンカードア開启！***",
       "CN": "门开了",
       "KR": "堡akening 문열림!!",
-      "TW": ""
+      "TW": "***堡門開啟！***"
     }
   },
   "***GET INSIDE THE BUNKER***": {
@@ -432,7 +432,7 @@
   "***BUNKER DOOR CLOSING***": {
     "translation": "大门关闭中",
     "MultiLang": {
-      "US": "",
+      "US": "***Bunker Door Closing***",
       "JP": "***バンクeringドアクロージング***",
       "CN": "大门关闭中",
       "KR": "***보급고문서 닫히고 있습니다***",
@@ -443,9 +443,9 @@
     "translation": "发射核弹",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "***ナuke発射！***",
       "CN": "发射核弹",
-      "KR": "",
+      "KR": "***\n\n노DMI발사!!  \n\n(注：韩语中没有 \"***\" 这样的符号，保留原样可能不符合常规书写习惯。如果需要适应韩国文本的表达习惯，请告知是否去掉 \"***\" 符号或者有其他特殊处理方式)",
       "TW": ""
     }
   },
@@ -456,7 +456,7 @@
       "JP": "***矢が拾われた***",
       "CN": "弓被捡起",
       "KR": "***보가 집各样***",
-      "TW": ""
+      "TW": "***箭已拾取***"
     }
   },
   "***PUMPKIN HEAD HAS BEEN PICKED UP***": {
@@ -475,8 +475,8 @@
       "US": "",
       "JP": "***ゾンビがボートに検知されました***",
       "CN": "***丧尸已在船中被检测到***",
-      "KR": "",
-      "TW": ""
+      "KR": "*** 좀비가 배에서 감지되었습니다***",
+      "TW": "*** Zombie 已被偵測到在船上游荡 ***"
     }
   },
   "***BOAT SELF DESTRUCT!!***": {
@@ -484,9 +484,9 @@
     "MultiLang": {
       "US": "",
       "JP": "***ボート自爆!!***",
-      "CN": "",
-      "KR": "",
-      "TW": ""
+      "CN": "***船自毁！！***",
+      "KR": "***배 폭발!!***",
+      "TW": "*** Boat 自destruct!! ***"
     }
   }
 }

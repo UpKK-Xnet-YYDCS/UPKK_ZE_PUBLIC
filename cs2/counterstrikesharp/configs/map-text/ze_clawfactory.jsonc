@@ -66,7 +66,7 @@
       "JP": "*** 左端へGO ! ***",
       "CN": "***去最左边！***",
       "KR": "***Far 왼쪽으로 가세요!!!***",
-      "TW": ""
+      "TW": "***去最左邊！***"
     }
   },
   "*** GO TO THE FAR RIGHT ! ***": {
@@ -135,7 +135,7 @@
       "US": "",
       "JP": "*** ああ！遅い！！！！ ***",
       "CN": "***哦不！太晚了！！！***",
-      "KR": "",
+      "KR": "*** 오호 noe ! 너무 늦었어!!! ***",
       "TW": "***Oh no! 已經太遲了!!!***"
     }
   },
@@ -155,7 +155,7 @@
       "US": "",
       "JP": "*** オッケーGO GO GO ***",
       "CN": "***好吧，走，走，走！***",
-      "KR": "",
+      "KR": "***\n\n-ok 가고 가고 가고-\n\n***",
       "TW": "*** 好 歡迎開始 ***"
     }
   },
@@ -173,7 +173,7 @@
     "translation": "***剩余5秒！***",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "***Only 5秒-left!!!***",
       "CN": "***剩余5秒！***",
       "KR": "",
       "TW": "*** 只剩 5 秒鐘 ! ***"
@@ -285,15 +285,15 @@
       "US": "",
       "JP": "*** レイドに成功した！ ***",
       "CN": "***我们成功了！***",
-      "KR": "",
+      "KR": "*** 우리가 성공했어요! ***",
       "TW": "*** 我們做到了！***"
     }
   },
   "*** We made it ! Congratulations boys ! ***": {
     "translation": "***我们成功了！恭喜，伙计们！***",
     "MultiLang": {
-      "US": "",
-      "JP": "",
+      "US": "*** We made it! Congrats, boys! ***",
+      "JP": "***We made it! boys！おめでとう！！***",
       "CN": "***我们成功了！恭喜，伙计们！***",
       "KR": "우리做到了！恭喜各位！***",
       "TW": "*** 我們做到了！恭喜夥伴们！***"
@@ -306,7 +306,7 @@
       "JP": "***ゾンビズTPin10秒***",
       "CN": "***僵尸将在10秒后传送***",
       "KR": "*** 브레인zes TPใน 10 초 ***",
-      "TW": ""
+      "TW": "***殭屍TP進場10秒***"
     }
   },
   "*** Zombies TP in 5 seconds ! ***": {
@@ -316,7 +316,7 @@
       "JP": "***ゾンビズTPInSeconds！***",
       "CN": "***僵尸将在5秒后传送！***",
       "KR": "*** 블리즈 5 초 후에TP ! ***",
-      "TW": ""
+      "TW": "***殭屍TP在5秒後！***"
     }
   },
   "*** Zombies shortcut will open in 20 seconds ***": {
@@ -333,7 +333,7 @@
     "translation": "地图作者：BLUE BLUE，感谢MAPEADORES DISCORD 的帮助，翻译：Asteri3m",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "マップを描画したBLUE BLUE、MAPEADORES DISCORDの支援によって",
       "CN": "地图作者：BLUE BLUE，感谢MAPEADORES DISCORD 的帮助，翻译：Asteri3m",
       "KR": "맵-by Blue Blue, với sự giúp đỡ của Mapeadores Discord",
       "TW": ""

@@ -5,8 +5,8 @@
       "US": "",
       "JP": "",
       "CN": ">>> CSS移植：Xen <<<",
-      "KR": "",
-      "TW": ""
+      "KR": ">>>css 포트_BY_xen<<<",
+      "TW": ">>>css(port)由xen<<<"
     }
   },
   ">>>backport by koen <<<": {
@@ -15,7 +15,7 @@
       "US": "",
       "JP": "",
       "CN": ">>> 由 Koen 进行反向移植到CSGO <<<",
-      "KR": "",
+      "KR": ">>>백포트 oleh 코엔 <<<",
       "TW": ">>>backport by 貴恩 <<<"
     }
   },
@@ -64,7 +64,7 @@
     "MultiLang": {
       "US": "",
       "JP": "ステージ - A <",
-      "CN": "",
+      "CN": "舞台 - A >",
       "KR": "> 스테이지 - A <",
       "TW": "> 圖譜 - A <"
     }
@@ -134,7 +134,7 @@
     "MultiLang": {
       "US": "",
       "JP": "ステージ - D <",
-      "CN": "",
+      "CN": "阶段 - D",
       "KR": "> 스테이지 - D <",
       "TW": "> 階段 - D <"
     }
@@ -165,8 +165,8 @@
       "US": "",
       "JP": ">>> D インサン modes ディーアン使われます ネクストラウンド <<<",
       "CN": ">>> 下一回合 Stage - D 启用INSANE模式 <<<",
-      "KR": "",
-      "TW": ""
+      "KR": ">>> D 인식 모드 활성화 для下一回合启用狂暴模式<<<",
+      "TW": ">>> DINSANE模式已啟用於下一輪<<<"
     }
   },
   "> Stage - Insane D <": {
@@ -185,15 +185,15 @@
       "US": "",
       "JP": "",
       "CN": ">>> CSS移植：Xen <<<",
-      "KR": "",
-      "TW": ""
+      "KR": ">>> css 포트_by xen <<<",
+      "TW": ">>> css 翻譯由xen<<<"
     }
   },
   ">>> csgo k3 version port by koen <<<": {
     "translation": ">>> CSGO K3 版本由 Koen 进行反向移植 <<<",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": ">>> csgo k3 版本移植 by koen <<<",
       "CN": ">>> CSGO K3 版本由 Koen 进行反向移植 <<<",
       "KR": ">>> cs:go k3 버전 포트_by koen <<<",
       "TW": ">>> csgo k3 版本ported by 肯 <<<"
@@ -203,7 +203,7 @@
     "translation": ">>> CS2移植：Tenshi. 翻译：Ayanami♪ <<<",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": ">>> cs2 ポートby Tenshi. <<<",
       "CN": ">>> CS2移植：Tenshi. 翻译：Ayanami♪ <<<",
       "KR": ">>> cs2 포트_by Tenshi. <<<",
       "TW": ">>> cs2港由Tenshi。 <<<"
@@ -213,7 +213,7 @@
     "translation": ">>> 管理员已跳过STAGE A <<<",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": ">>> ADMIN がステージAをスキップしました <<<",
       "CN": ">>> 管理员已跳过STAGE A <<<",
       "KR": ">>> 관리자가 단계 A를 건너뛰었습니다 <<<",
       "TW": ">>> ADMIN 已跳過A關 <<<"
@@ -233,7 +233,7 @@
     "translation": ">>> 管理员已跳过STAGE C <<<",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": ">>> ADMIN がステージCをスキップした <<<",
       "CN": ">>> 管理员已跳过STAGE C <<<",
       "KR": ">>>ADMIN이 STAGE C를 건너뛰었습니다<<<",
       "TW": ">>> 管理員跳過了C關 <<<"
@@ -405,7 +405,7 @@
       "US": "",
       "JP": ">>>ゾンビがエレベータに侵入した<<<",
       "CN": ">>> 僵尸进入电梯 <<<",
-      "KR": "",
+      "KR": ">>> 좀비가 리프트 안에 들어갔음 <<<",
       "TW": ">>> 蘑菇人進 Elevator <<<"
     }
   },
@@ -482,7 +482,7 @@
   ">>> csgo backport by koen <<<": {
     "translation": ">>> 由 Koen 进行反向移植到CSGO <<<",
     "MultiLang": {
-      "US": "",
+      "US": ">>> CS:GO backport by Koen <<<",
       "JP": "",
       "CN": ">>> 由 Koen 进行反向移植到CSGO <<<",
       "KR": ">>> 콘 바백포트_by koen <<<",
@@ -503,7 +503,7 @@
     "translation": ">>> 管理员已启用 D INSANE MODE <<<",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": ">>> アドmin が D インサンス モード を有効にしました <<<",
       "CN": ">>> 管理员已启用 D INSANE MODE <<<",
       "KR": ">>> 관리자가 D 미친 모드를 활성화했습니다 <<<",
       "TW": ">>> ADMIN 已啟用 D Insane 模式 <<<"
@@ -512,7 +512,7 @@
   "D关逃亡路的刀增加持续1.5秒的0.5减速(by bxzl)": {
     "translation": "",
     "MultiLang": {
-      "US": "",
+      "US": "Dungeon Escape Blade Increase Deceleration by 0.5 for 1.5 seconds (by bxzl)",
       "JP": "D関逃亡路の刀増加連続1.5秒の0.5减速(by bxzl)",
       "CN": "",
       "KR": "D관 피신길의 검增加持续1.5秒的0.5减速(by bxzl)",

@@ -13,7 +13,7 @@
     "translation": ">>>剩余 2 次尝试<<<",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": ">>>2 タイム残余<<<",
       "CN": ">>>剩余 2 次尝试<<<",
       "KR": ">>>2 시도 남음<<<",
       "TW": ">>>2 尋跡剩餘<<<"
@@ -43,20 +43,20 @@
     "translation": ">>地图作者：POLYNATION 翻译：Ayanami♪<<",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": ">>マップbyポリナーション<<",
       "CN": ">>地图作者：POLYNATION 翻译：Ayanami♪<<",
       "KR": ">>맵_by_polynation<<",
-      "TW": ""
+      "TW": ">>地圖由POLYNATION製作<<"
     }
   },
   ">>OPTIMIZATION BY BLUE DRAGON<<": {
     "translation": ">>由 BLUE DRAGON 优化<<",
     "MultiLang": {
-      "US": "",
+      "US": ">>OPTIMIZED BY BLUE DRAGON<<",
       "JP": ">>BLUE DRAGONによる最適化<<",
       "CN": ">>由 BLUE DRAGON 优化<<",
       "KR": ">>BLUE DRAGON으로의 최적화<<",
-      "TW": ""
+      "TW": ">>藍龍優化<<"
     }
   },
   ">>ZE LAZERS<<": {
@@ -64,7 +64,7 @@
     "MultiLang": {
       "US": "",
       "JP": ">>ゼラザーズ<<",
-      "CN": "",
+      "CN": ">>泽激光<<",
       "KR": "",
       "TW": ""
     }
@@ -116,7 +116,7 @@
       "JP": "＞ドアが開くまで44秒<",
       "CN": ">门将在 44 秒后打开<",
       "KR": ">문이 열리는 중입니다. 44초 후<",
-      "TW": ""
+      "TW": "門已在44秒後開啟"
     }
   },
   ">Doors Opening in 5 Seconds<": {
@@ -163,10 +163,10 @@
     "translation": ">渔船将在 10 秒后离开<",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "フィッシングボート离去 10秒後に出発",
       "CN": ">渔船将在 10 秒后离开<",
       "KR": "낚시ailable dalam 10 초 후",
-      "TW": ""
+      "TW": "Fishing Boat 當前 10 秒後離開"
     }
   },
   ">GFL Admin Has Been Defeated<": {
@@ -185,7 +185,7 @@
       "US": "",
       "JP": "ヘリコプターは10秒後に離陸します",
       "CN": ">直升机将在 10 秒后离开<",
-      "KR": "",
+      "KR": "헬리콥터 나가기 10초 후",
       "TW": "直升机10秒後離開"
     }
   },
@@ -213,7 +213,7 @@
     "translation": ">充气船在 10 秒后离开<",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "インフレータブルボート5秒後に離陸",
       "CN": ">充气船在 10 秒后离开<",
       "KR": "膨胀식 배가 10초 후에 출발합니다",
       "TW": "充氣艇離開倒計時 10 秒"
@@ -226,7 +226,7 @@
       "JP": "30秒後に核爆発",
       "CN": ">核弹在 30 秒后发射<",
       "KR": "ヌclé아이 30 초에서",
-      "TW": ""
+      "TW": "30秒後爆彈"
     }
   },
   ">Nuke in 5 Seconds<": {
@@ -236,7 +236,7 @@
       "JP": "5秒後に核爆発",
       "CN": ">核弹在 5 秒后发射<",
       "KR": "ヌclé아 5 秒後",
-      "TW": ""
+      "TW": "核武 detonates 5 秒後"
     }
   },
   ">Stealth Boat Leaving in 40 Seconds<": {
@@ -245,7 +245,7 @@
       "US": "",
       "JP": "＞スリルボート離陸 40秒後に開始<",
       "CN": ">隐形船在 40 秒后离开<",
-      "KR": "",
+      "KR": "40초 후 슬레이트 보트 출발<",
       "TW": "潛行艇離開倒數40秒"
     }
   },
@@ -253,7 +253,7 @@
     "translation": ">隐形船在 10 秒后离开<",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "Stealth Boat 離開 10 秒後<",
       "CN": ">隐形船在 10 秒后离开<",
       "KR": "방음선 10초 후 출발<",
       "TW": "潜航艇10秒後啟動"
@@ -283,7 +283,7 @@
     "translation": ">运输机在 10 秒后启动<",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": ">輸送機10秒後開启<",
       "CN": ">运输机在 10 秒后启动<",
       "KR": ">트랜스포터 열림 후 10초<",
       "TW": ">運送器啟動倒計時10秒<"
@@ -293,10 +293,10 @@
     "translation": ">通风口打开<",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": ">換気口開く<",
       "CN": ">通风口打开<",
       "KR": "보ilers Opened<",
-      "TW": ""
+      "TW": ">閥門開啟<"
     }
   },
   ">Wall Breaking in 15 Seconds<": {
@@ -325,18 +325,18 @@
       "US": "",
       "JP": "＞ウォール破壊は10秒後に開始<",
       "CN": ">10 秒后打破墙壁<",
-      "KR": "",
-      "TW": ""
+      "KR": "10초 후 벽이 깨집니다>>",
+      "TW": "牆将在10秒後崩塌"
     }
   },
   ">Zombies have made it to end nuking in 5 Seconds<": {
     "translation": ">5 秒后核弹触发<",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "ゾンビが最終核爆击到来了 5秒后",
       "CN": ">5 秒后核弹触发<",
-      "KR": "",
-      "TW": ""
+      "KR": ">>\n\n행글리지들이 5초 후 엔드 낫팅에 도달했습니다\n\n<<",
+      "TW": "Zombies 已在 5 秒內到達終極核爆"
     }
   },
   "Now Playing: 3 Big Balls - DigBar": {
@@ -345,7 +345,7 @@
       "US": "",
       "JP": "現在プレイ中：3 大球 - DigBar",
       "CN": "正在播放：3 Big Balls - DigBar",
-      "KR": "",
+      "KR": "現在進行中: 3대 큰 공 -DigBar",
       "TW": "現在 PLAYING: 3 大球 - DigBar"
     }
   },
@@ -375,7 +375,7 @@
       "US": "",
       "JP": "現在再生中: By The Way - Neco Arc Chili Peppers",
       "CN": "正在播放：By The Way - Neco Arc Chili Peppers",
-      "KR": "",
+      "KR": "현재 플레이 중: By The Way - Neco Arc Chili Peppers",
       "TW": "現在播放：By The Way - Neco Arc Chili Peppers"
     }
   },
@@ -385,7 +385,7 @@
       "US": "",
       "JP": "現在プレイ中：エモーショナル・タイタニック flute",
       "CN": "正在播放：Emotional Titanic Flute",
-      "KR": "",
+      "KR": "현재 게임 중:Emotional Titanic Flute",
       "TW": "現在播放：情感泰坦尼克號長笛"
     }
   },
@@ -435,7 +435,7 @@
       "US": "",
       "JP": "現在プレイ中: KFC - Glorb, Dankton, & The Notorious P.A.T.",
       "CN": "正在播放：KFC - Glorb, Dankton, & The Notorious P.A.T.",
-      "KR": "",
+      "KR": "현재 게임 중: KFC - Glorb, Dankton, & The Notorious P.A.T.",
       "TW": "現在播放：KFC - Glorb, Dankton, & The Notorious P.A.T."
     }
   },
@@ -445,7 +445,7 @@
       "US": "",
       "JP": "現在再生中：Little Girls - Oingo Boingo",
       "CN": "正在播放：Little Girls - Oingo Boingo",
-      "KR": "",
+      "KR": "현재 게임 중:Little Girls - Oingo Boingo",
       "TW": "現在 PLAYING: 小女孩們 - Oingo Boingo"
     }
   },
@@ -475,7 +475,7 @@
       "US": "",
       "JP": "現在再生中: On Da Creep - Tommy Wright III",
       "CN": "正在播放：On Da Creep - Tommy Wright III",
-      "KR": "",
+      "KR": "현재 플레이 중: On Da Creep - 토미 라이트 셋",
       "TW": "現在播放：On Da Creep - Tommy Wright III"
     }
   },
@@ -485,7 +485,7 @@
       "US": "",
       "JP": "現在プレイ中: On The Floor - IceJJFish",
       "CN": "正在播放：On The Floor - IceJJFish",
-      "KR": "",
+      "KR": "현재 게임 중: 바닥에 있음 - IceJJFish",
       "TW": "現在游玩：On The Floor - IceJJFish"
     }
   },
@@ -495,7 +495,7 @@
       "US": "",
       "JP": "現在再生中：Pendulum - Im Not Alone (Live)",
       "CN": "正在播放：Pendulum - Im Not Alone (Live)",
-      "KR": "",
+      "KR": "-now playing: 펜텀 - 혼자만이 아니야 (라이브)",
       "TW": "現在播放：Pendulum - Im Not Alone (Live)"
     }
   },
@@ -505,7 +505,7 @@
       "US": "",
       "JP": "今放送中：Shes So Kawaii - LeetStreet Boys",
       "CN": "正在播放：Shes So Kawaii - LeetStreet Boys",
-      "KR": "",
+      "KR": "현재 재생 중: 쉬 스오 카와이 - 리트스トリ트 보이즈",
       "TW": "現在 Plays: She's So Kawaii - LeetStreet Boys"
     }
   },
@@ -525,7 +525,7 @@
       "US": "",
       "JP": "現在再生中：君が渋い want to be? ( OWN デックを吸いろ ) - SkyCorp",
       "CN": "正在播放：So You Wanna Be Hip? （Suck Your Own Dick）- SkyCorp",
-      "KR": "",
+      "KR": "현재 게임 중: 네가Hip되려면?(자기 자신의🔍를 빨아보세요) - SkyCorp",
       "TW": "現在Playing: 你 Wanna 成 HIP? (自己 咕嚕 1下) - SkyCorp"
     }
   },
@@ -555,7 +555,7 @@
       "US": "",
       "JP": "现在プレイ中：Witchcraft - Pendulum",
       "CN": "正在播放：Witchcraft - Pendulum",
-      "KR": "",
+      "KR": "현재 게임 중: 정령술 - 진동기",
       "TW": "現在玩 spel：巫術 - 摇桿"
     }
   },
