@@ -2,7 +2,7 @@
   "** BOAT LEAVING 15 SECONDS **": {
     "translation": "**船将在15秒后离开**",
     "MultiLang": {
-      "US": "",
+      "US": "*** BOAT LEAVING IN 15Seconds ***",
       "JP": "**ボート離陸 15 セカンド**",
       "CN": "**船将在15秒后离开**",
       "KR": "** 배 떠나기 15초 **",
@@ -23,7 +23,7 @@
     "translation": "*萨菲罗斯的跳刀将在10秒后解锁。*",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "*セフィロスのレーザーは10秒後に unlocks.*",
       "CN": "*萨菲罗斯的跳刀将在10秒后解锁。*",
       "KR": "*세피로스 레이저는 10sec 후에 해금됩니다.*",
       "TW": "*Sephiroth的激光將在10 sec後解除鎖定.*"
@@ -63,7 +63,7 @@
     "translation": "< 直升机将在10秒后离开 >",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "ヘリ離去 10秒後",
       "CN": "< 直升机将在10秒后离开 >",
       "KR": "<HEL기체 떠나기 10초>",
       "TW": ""
@@ -73,10 +73,10 @@
     "translation": "< 直升机将在20秒后离开 >",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "ヘリ離去 20秒",
       "CN": "< 直升机将在20秒后离开 >",
       "KR": "<헬리 떠나기 20초>",
-      "TW": ""
+      "TW": "<直升飛機離開倒數20秒>"
     }
   },
   "< Map by @Seth >": {
@@ -93,27 +93,27 @@
     "translation": "< 核弹将在10秒后爆炸 >",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "< ナuke in 10秒 >",
       "CN": "< 核弹将在10秒后爆炸 >",
       "KR": "< 10초 후 폭발 >>",
-      "TW": ""
+      "TW": "< 10 秒後爆發 >"
     }
   },
   "< NUKE IN 5 SECONDS >": {
     "translation": "< 核弹将在5秒后爆炸 >",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "< 5秒後に核爆発 >",
       "CN": "< 核弹将在5秒后爆炸 >",
       "KR": "< 5초 후 폭발 >",
-      "TW": ""
+      "TW": "< 5秒後爆炸 >"
     }
   },
   "< RESCUE BOAT & HELI INBOUND 60 SECONDS >": {
     "translation": "< 救援船和直升机将在60秒后到达 >",
     "MultiLang": {
-      "US": "",
-      "JP": "",
+      "US": "REScue BOAT & HELI INBOUND 60 SEConds",
+      "JP": "< 救援ボート&ヘリ inbound 60秒 >",
       "CN": "< 救援船和直升机将在60秒后到达 >",
       "KR": "< 수색보트 & Helicopter 내부 60 초 >",
       "TW": "<救難船及直升機60秒後到達>"
@@ -126,7 +126,7 @@
       "JP": "",
       "CN": "< 电车将在14秒后离开 >",
       "KR": "< 트램이 14초 후에 출발합니다 >",
-      "TW": ""
+      "TW": "<電車離開14秒>"
     }
   },
   "< Teleport in 10 sec. >": {
@@ -136,7 +136,7 @@
       "JP": "テレポーテーションは10秒後に開始します。",
       "CN": "< 传送将在10秒后进行。>",
       "KR": "< 10 초 후 텔레포트합니다. >>",
-      "TW": ""
+      "TW": "teleport 在 10 秒後。"
     }
   },
   "< Teleport in 20 sec. >": {
@@ -156,17 +156,17 @@
       "JP": "<ゾンビポートルが有効になりました！>",
       "CN": "< 僵尸传送门已启用！>",
       "KR": "< 좀비 포털이 활성화됨! >",
-      "TW": ""
+      "TW": "< Zombies 之門已啟動！>"
     }
   },
   "< ze_Boatescape_Ultimate > Alpha Ver 1.5": {
     "translation": "< ze_Boatescape_Ultimate 坐船逃跑终极版 > Alpha Ver 1.5",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "< ze_Boatescape_Ultimate > アルファ版 1.5",
       "CN": "< ze_Boatescape_Ultimate 坐船逃跑终极版 > Alpha Ver 1.5",
-      "KR": "",
-      "TW": ""
+      "KR": "< ze_Boatescape_Ultimate > 엠 1.5",
+      "TW": "< ze_Boatescape_Ultimate > 阿法版 1.5"
     }
   },
   "< 仅限制一种皮肤有限克隆. >": {
@@ -335,7 +335,7 @@
       "US": "",
       "JP": "ヘリコプター離陸まで7秒。",
       "CN": "> 直升机将在7秒后离开。<",
-      "KR": "",
+      "KR": "헬리콥터 출발 후 7sec.",
       "TW": "直升机離開倒數中，7秒。"
     }
   },
@@ -362,11 +362,11 @@
   "> Teleport afk player in 10 sec. <": {
     "translation": "> 10秒后传送挂机玩家。<",
     "MultiLang": {
-      "US": "",
+      "US": "Teleport AFK player in 10 sec.",
       "JP": "> 10秒後AFKプレイヤーにテレポートする。<",
       "CN": "> 10秒后传送挂机玩家。<",
       "KR": "> 10sec에 afk 플레이어 텔레포트.<",
-      "TW": ""
+      "TW": "teleport afk玩家於10秒後传送。 <"
     }
   },
   "> The rescue ship is on the way. <": {
@@ -423,10 +423,10 @@
     "translation": "",
     "MultiLang": {
       "US": "",
-      "JP": "",
-      "CN": "",
-      "KR": "",
-      "TW": ""
+      "JP": "< ze_Boatescape_Ultimate > アルファバージョン 1.8",
+      "CN": "< ze_Boatescape_Ultimate > 阿尔法版 1.8",
+      "KR": "< ze_Boatescape_Ultimate > 알파 버전 1.8",
+      "TW": "< ze_Boatescape_Ultimate > 阿法版 1.8"
     }
   },
   "< 当前模式: 无事发生(热身) >": {
@@ -434,7 +434,7 @@
     "MultiLang": {
       "US": "Current Mode: Nothing Happens (Warm-Up) >",
       "JP": "現在のモード: 何も起こらず(暖機)",
-      "CN": "",
+      "CN": "当前模式:  nothing happening(热身)",
       "KR": "현재 모드: 무사히(워밍업) >",
       "TW": "當前模式: 無事發生(熱身) >"
     }
@@ -465,7 +465,7 @@
       "US": "",
       "JP": "*** プレイヤーがエレクトロマテリアルを獲得しました ***",
       "CN": "** 有1玩家获得了 ELECTRO MATERIA **",
-      "KR": "",
+      "KR": "*** 플레이어가 전기 마터리아를 획득했습니다 ***",
       "TW": "** 有的玩家已獲得 ELECTRO MATERIA **"
     }
   },
@@ -516,7 +516,7 @@
       "JP": "***プレイヤーがアイテムを拾いました - ロケット Cannon***",
       "CN": "***玩家拾取物品 - 火箭炮***",
       "KR": "***플레이어가 아이템을 줍니다 - 로켓 캐논***",
-      "TW": ""
+      "TW": "*** PLAYER PICKED UP ITEM - 火箭炮 ***"
     }
   },
   "***PLAYER PICKED UP ITEM - BEAM CANNON***": {
@@ -563,9 +563,9 @@
     "translation": "",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "< ze_Boatescape_Ultimate > アルファバージョン2",
       "CN": "",
-      "KR": "",
+      "KR": "< ze_Boatescape_Ultimate > 알파 버전 2",
       "TW": ""
     }
   },
@@ -613,7 +613,7 @@
     "translation": "",
     "MultiLang": {
       "US": "Current Mode: ZM Battlegrounds",
-      "JP": "",
+      "JP": "現在モード: ZM大逃殺",
       "CN": "",
       "KR": "현재 모드: ZM 대방주",
       "TW": "當前模式: ZM大逃殺 >"
@@ -636,7 +636,7 @@
       "JP": "神器 skins を持って どこかで 240 秒 生存 してみよう！",
       "CN": "",
       "KR": "神器 피부를 착용하고 240초 동안 생존해 보세요!",
-      "TW": ""
+      "TW": "拿上神器 Skin 找個地方生存240秒吧！"
     }
   },
   "距离僵尸核爆还有240秒！": {
@@ -685,7 +685,7 @@
       "US": "Distance to Zombie Bombing: 30 seconds!",
       "JP": "Zombies爆発まで30秒！",
       "CN": "",
-      "KR": "",
+      "KR": "지ombies 폭발까지 30초 남았습니다!",
       "TW": "距離殭屍爆炸還有30秒！"
     }
   },
@@ -805,7 +805,7 @@
       "US": "Fight Dance Contest begins!",
       "JP": "",
       "CN": "",
-      "KR": "",
+      "KR": "斗舞大会 공식 시작！",
       "TW": ""
     }
   },
@@ -833,7 +833,7 @@
     "translation": "",
     "MultiLang": {
       "US": "Someone has selected the ZM Battle Royale mode for next round!",
-      "JP": "",
+      "JP": "***次局にZM大逃杀モードが選ばれました !***",
       "CN": "",
       "KR": "<어떤 người가 다음 시즌에서 ZM 대학살 모드를 선택했습니다!>",
       "TW": "有人為下局选择了ZM大逃殺模式！"
@@ -874,7 +874,7 @@
     "MultiLang": {
       "US": "Current Mode: Lucky Box Challenge",
       "JP": "現在のモード: カ让您挑战",
-      "CN": "",
+      "CN": "当前模式: 幸运转盘挑战",
       "KR": "현재 모드: 행운의 상자 도전 >",
       "TW": "當前模式: 幸運盒挑戰"
     }
@@ -905,7 +905,7 @@
       "US": "Zombie Lucky Box Limit Reached!",
       "JP": "ゾンビ運極ボックスに達しました！",
       "CN": "",
-      "KR": "",
+      "KR": "지OMB스운좋은박스已达上限！",
       "TW": "僵尸幸運盒子已達上限！"
     }
   },

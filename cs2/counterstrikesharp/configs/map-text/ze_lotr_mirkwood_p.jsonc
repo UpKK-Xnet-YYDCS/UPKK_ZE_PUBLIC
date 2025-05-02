@@ -6,14 +6,14 @@
       "JP": "**レベル2**",
       "CN": "**第二关**",
       "KR": "**레벨2**",
-      "TW": ""
+      "TW": "***等級2***"
     }
   },
   "10s": {
     "translation": "10秒",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "10秒",
       "CN": "10秒",
       "KR": "",
       "TW": ""
@@ -35,7 +35,7 @@
       "US": "",
       "JP": "20秒",
       "CN": "20秒",
-      "KR": "",
+      "KR": "20스",
       "TW": ""
     }
   },
@@ -86,14 +86,14 @@
       "JP": "LOTРマップBy hotEvercLear",
       "CN": "《指环王》地图 由 hotEvercLear 制作 翻译：Asteri3m",
       "KR": "LOTR 맵_by_hotEvercLear",
-      "TW": ""
+      "TW": "洛熱Ever-clear地圖"
     }
   },
   "Gandalf: Orcs are coming... RUN!!!!!": {
     "translation": "甘道夫：兽人来了... 跑！！！！",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "Gandalf: オrcs are coming... 避難!!!!!",
       "CN": "甘道夫：兽人来了... 跑！！！！",
       "KR": "Gandalf: 오르크들이 오고 있어... 달아나!!!!!!!!",
       "TW": "甘道夫：orc are coming... RUN!!!!!"
@@ -275,7 +275,7 @@
       "US": "Thorin: Something has knocked over these trees, quickly now, climb over them!",
       "JP": "Thorin: 这些树被什么东西撞倒了，快点，爬过去！",
       "CN": "索林：有什么东西撞倒了这些树，快点，现在翻过去！",
-      "KR": "",
+      "KR": ",Thorin: 이 나무들이 넘어진 게 뭔가 있군요. 서둘러,上面的文字没有剩余部分，以下是已有的翻译内容：\n\n Thorin: 이 나무들이 넘어진 게 뭔가 있군요. 서둘러, 이 THEM들 위를 넘과세요!",
       "TW": "Thorin: 這些樹被擊倒了，快點，爬過去！"
     }
   },
@@ -322,7 +322,7 @@
   "Thorin: The path ahead is blocked, defend here": {
     "translation": "索林：前方的路被堵住了，在这里防守",
     "MultiLang": {
-      "US": "",
+      "US": "Thorin: The way ahead is barred, defend here.",
       "JP": "トールシン：先に進む道が阻まれている。ここを防ごう。",
       "CN": "索林：前方的路被堵住了，在这里防守",
       "KR": "Thorin:앞의 길이 막혀 있어, 방어하고 있거라",
@@ -332,7 +332,7 @@
   "Thorin: The path ahead is blocked, defend here while we clear it": {
     "translation": "索林：前方的路被堵住了，在我们清理时在这里防守",
     "MultiLang": {
-      "US": "",
+      "US": "Thorin: The way ahead is barred. Defend here while we clear it.",
       "JP": "ザロビン：先の道が阻まれている。ここを守りながら道を開くよ",
       "CN": "索林：前方的路被堵住了，在我们清理时在这里防守",
       "KR": "Thorin: 앞의 길이 막혀 있어, 길을 열기 위해 여기서 방어해.",
@@ -405,7 +405,7 @@
       "US": "",
       "JP": "トールキン: 橋の側面が割れてるぞ、踏ま别に、壊れるかもしれない!!!!!",
       "CN": "索林：桥的侧面开始裂开，不要踩上去，它们会断裂！！！",
-      "KR": "",
+      "KR": ",Thorin: 다리의 양측이 갈라지고 있어, 그 위에 발을 디디지 마, 깨질 수 있/Branch",
       "TW": "Thorin: 橫梁正在裂開，不要踏上去，它們會崩潰!!!!!"
     }
   },
@@ -435,7 +435,7 @@
       "US": "",
       "JP": "トールキン: これは私たちの休息だ、光が来まで彼らを押さえてくれ！ダルビンの息子たちは！！！",
       "CN": "索林：这是我们的休息时间，抵挡他们直到天亮，杜林之子们！！！！",
-      "KR": "",
+      "KR": ",Thorin: 이 순간은 우리가 잠시의 휴식이야. 빛이 와.before they breakthrough, 드루인의 아들들이!!!!!!",
       "TW": "Thorin: 此刻是我们的喘息之機，將他們拖延到光明來臨，杜林Son!!!!!"
     }
   },
@@ -546,13 +546,13 @@
       "JP": "レベル1",
       "CN": "**第一关**",
       "KR": "**레벨1**",
-      "TW": ""
+      "TW": "***級1***"
     }
   },
   "WE FOUND IT!!! WE FOUND THE PATH!!! We are clearing the entrance now, fall back to us NOW!!!!": {
     "translation": "我们找到了！我们找到了路！我们正在清理入口，现在就撤退到我们这里！",
     "MultiLang": {
-      "US": "",
+      "US": "WE FOUND IT!!! WE FOUND THE PATH!!! Clearing the entrance now, FALL BACK TO US NOW!!!!!",
       "JP": "発見しました!!! 出口を見つけました!!! 入口をクリアしています、今即刻後退してきて!!!!!",
       "CN": "我们找到了！我们找到了路！我们正在清理入口，现在就撤退到我们这里！",
       "KR": "WE FOUND IT!!! WE FOUND THE PATH!!! 지금 엔트리부터 청소하고 있어, 즉시 우리에게 돌아와!!!!!",

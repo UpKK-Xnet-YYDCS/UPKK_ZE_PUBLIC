@@ -16,7 +16,7 @@
       "JP": "ADMIN ROOM - STAGE 2に変更します",
       "CN": "管理员房间-切换到关卡2",
       "KR": "ADMIN ROOM - STAGE 2로 변경doing",
-      "TW": ""
+      "TW": "ADMIN 房間 - 變更至階段 2"
     }
   },
   "ADMIN ROOM - ENDING ROUND": {
@@ -26,7 +26,7 @@
       "JP": "",
       "CN": "管理员房间-回合结束",
       "KR": "관리실 - 최종 라운드",
-      "TW": ""
+      "TW": "管理员房 - 最後一輪"
     }
   },
   "STAGE 1 - Infiltration": {
@@ -132,7 +132,7 @@
   "[Comms]: C4 is about to explode.": {
     "translation": "[通讯]:C4即将爆炸。",
     "MultiLang": {
-      "US": "",
+      "US": "[Comms]: C4 is about to detonate.",
       "JP": "[Comms]: C4 はすぐ爆発する。",
       "CN": "[通讯]:C4即将爆炸。",
       "KR": "[Comms]: C4이 곧 폭발할 것이다.",
@@ -313,7 +313,7 @@
     "translation": "[通讯]:撤离预计时间15秒。",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "[通話]: 遺留时间 15 秒。",
       "CN": "[通讯]:撤离预计时间15秒。",
       "KR": "[통신]: 피난 시간 15초.",
       "TW": "[Comms]: 微幅ETA 15秒。"
@@ -682,7 +682,7 @@
   "[Comms]: Zombies picked up the keycard, elevator speed reduced by 75%": {
     "translation": "[通讯]:僵尸拾取了钥匙卡，电梯速度降低75%",
     "MultiLang": {
-      "US": "",
+      "US": "[Comms]: Zombies grabbed the keycard, elevator speed decreased by 75%.",
       "JP": "[Comms]:ゾンビがキーカードを拾い上げた、エレベーター速度は75％低下しました",
       "CN": "[通讯]:僵尸拾取了钥匙卡，电梯速度降低75%",
       "KR": "[통신]: walkerspicked up the keycard, 엘리베이터 속도가 75% 감소하였습니다.",

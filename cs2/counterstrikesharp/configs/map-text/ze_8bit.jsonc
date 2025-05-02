@@ -63,10 +63,10 @@
     "translation": "** 地图由 FRENCHY 制作 翻译：Asteri3m **",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "*** マップbyフランス党风っくり ***",
       "CN": "** 地图由 FRENCHY 制作 翻译：Asteri3m **",
       "KR": "** 맵 제작자 : فرنشي **",
-      "TW": ""
+      "TW": "*** 圖案由 FRENCHY 制作***"
     }
   },
   "** Player has picked up Ammo. **": {
@@ -166,7 +166,7 @@
       "JP": "",
       "CN": "90秒",
       "KR": "90초",
-      "TW": ""
+      "TW": "90 秒鐘"
     }
   },
   ">> Kill The Remaining Zombie! <<": {
@@ -183,10 +183,10 @@
     "translation": "10秒后AFK传送",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "AFKテレポト在游戏中10秒后生效",
       "CN": "10秒后AFK传送",
       "KR": "AFK 텔레포트 10초 후",
-      "TW": ""
+      "TW": "離線 TELEPORT 過後10秒"
     }
   },
   "BOSS FIGHT ": {
@@ -195,7 +195,7 @@
       "US": "",
       "JP": "ボス戦闘",
       "CN": "BOSS战",
-      "KR": "",
+      "KR": "보스전투",
       "TW": "BOSS戰斗"
     }
   },
@@ -203,7 +203,7 @@
     "translation": "10秒后BOSS战",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "ボス戦スタート10秒後",
       "CN": "10秒后BOSS战",
       "KR": "보스전은 10초 후 시작",
       "TW": "BOSS戰鬥於10秒後開始"
@@ -216,14 +216,14 @@
       "JP": "ボスは死んだ",
       "CN": "BOSS已死",
       "KR": "보스가 죽었습니다",
-      "TW": ""
+      "TW": "BOSS 已経死掉"
     }
   },
   "LOCKS WILL OPEN IN 25 SECONDS": {
     "translation": "25秒后锁将打开",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "ロックは25秒後に開きます",
       "CN": "25秒后锁将打开",
       "KR": "",
       "TW": "鎖将在25秒后开启"
@@ -233,9 +233,9 @@
     "translation": "5秒后锁将打开",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "5秒後にロックが開きます",
       "CN": "5秒后锁将打开",
-      "KR": "",
+      "KR": "락이 5초 후에 열립니다",
       "TW": "鎖将在5秒後打開"
     }
   },
@@ -256,7 +256,7 @@
       "JP": "",
       "CN": "只需防守！180秒后启用传送",
       "KR": "",
-      "TW": ""
+      "TW": "惟有防守！ TELEPORT 預計啟用於 180 秒後"
     }
   },
   "PHASE 1": {
@@ -273,9 +273,9 @@
     "translation": "阶段1 只射击蓝色BOSS",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "PHASE 1 仅射击蓝色boss",
       "CN": "阶段1 只射击蓝色BOSS",
-      "KR": "",
+      "KR": "PHASE 1 ONLY BLUE BOSS을 SHOOT",
       "TW": "-phase 1 只射藍色BOSS-"
     }
   },
@@ -293,10 +293,10 @@
     "translation": "按下2个按钮",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "2ボタンを押してください",
       "CN": "按下2个按钮",
-      "KR": "",
-      "TW": ""
+      "KR": "두 버튼을 누르세요",
+      "TW": "PRESS 2 鈕"
     }
   },
   "SHOOT THE BOSS!!!": {
@@ -306,14 +306,14 @@
       "JP": "シューティングボス!!!",
       "CN": "射击BOSS！！！",
       "KR": "슈터iện 보스!!",
-      "TW": ""
+      "TW": "射BOSS!!!"
     }
   },
   "STAGE 7 COMING SOON! NOW ZM ROUND!": {
     "translation": "关卡7 即将到来！现在是ZM关！",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "ステージ7 Coming Soon! 現在zmラウンド！",
       "CN": "关卡7 即将到来！现在是ZM关！",
       "KR": "스테이지 7 곧 출시! 현재 zm 라운드!",
       "TW": "stagé 7 来臨！現在 zm 圓圈！"
@@ -336,7 +336,7 @@
       "JP": "扉は25秒後に開く",
       "CN": "25秒后门将打开",
       "KR": "문이 25초 후에 열립니다",
-      "TW": ""
+      "TW": "門在25秒後打開"
     }
   },
   "THE DOOR OPEN IN 5 SECOND": {
@@ -346,7 +346,7 @@
       "JP": "ドアが開くまで5秒",
       "CN": "5秒后门将打开",
       "KR": "문이 5초 후에 열립니다",
-      "TW": ""
+      "TW": "門在5秒後打開"
     }
   },
   "THE DOOR TO BOSS WILL OPEN IN 30 SECONDS": {
@@ -426,7 +426,7 @@
       "JP": "ドアは20秒後に開きます",
       "CN": "20秒后门将打开",
       "KR": "문은 20초 후에 열립니다",
-      "TW": ""
+      "TW": "Doors 將在 20 秒後開啟"
     }
   },
   "THE DOORS WILL OPEN IN 25 SECONDS": {
@@ -676,7 +676,7 @@
       "JP": "[ステージ1エクストリーム]",
       "CN": "[关卡1 极限]",
       "KR": "[스테이지 1 초 difficoltà]",
-      "TW": ""
+      "TW": "[階段 1 极限]"
     }
   },
   "[STAGE 1 NORMAL]": {
@@ -706,7 +706,7 @@
       "JP": "【ステージ2ノーマル】",
       "CN": "[关卡2 普通]",
       "KR": "[스테이지 2 노말]",
-      "TW": ""
+      "TW": "[ stagé 2 正常 ]"
     }
   },
   "[STAGE 3 EXTREME]": {
@@ -716,7 +716,7 @@
       "JP": "【ステージ3エクストリーム】",
       "CN": "[关卡3 极限]",
       "KR": "[스테이지 3 엑스트림]",
-      "TW": ""
+      "TW": "[第三章極限]"
     }
   },
   "[STAGE 3 NORMAL]": {

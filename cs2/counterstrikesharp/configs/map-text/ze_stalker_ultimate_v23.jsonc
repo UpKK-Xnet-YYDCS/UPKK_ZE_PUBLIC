@@ -6,7 +6,7 @@
       "JP": "***そして退却し、壁が開くのを待つ**",
       "CN": "***然后撤退并等待空气墙打开***",
       "KR": "***그리고 천천히 후퇴하며 벽이 열릴 때까지 기다려**",
-      "TW": ""
+      "TW": "***然後撤退並等待障礙解除***"
     }
   },
   "***Break the spheres to escape***": {
@@ -16,7 +16,7 @@
       "JP": "*** Balls を破壊して脱出 ***",
       "CN": "***打破中间所有的玻璃圆柱然后逃走***",
       "KR": "***구슬을 깨여 탈출하기***",
-      "TW": ""
+      "TW": "***擊破光球逃生***"
     }
   },
   "***IF YOU WANT TO OPEN THE GATES TURN THE ELECTRICITY ON!!!***": {
@@ -26,7 +26,7 @@
       "JP": "***もしゲートを開けるなら電気をつけてください！！!!***",
       "CN": "***如果你想打开大门，请开启电源！！！***",
       "KR": "***만약 문을 열고자 한다면 전기를 켜세요!!!!!***",
-      "TW": ""
+      "TW": "***如果你想要開門就快把電流開起來!!***"
     }
   },
   "***OH NO WHO IS IT? WE MUST KILL IT!***": {
@@ -36,7 +36,7 @@
       "JP": "",
       "CN": "***哦，不，是谁？我们必须杀死它！***",
       "KR": "",
-      "TW": ""
+      "TW": "***OH NO WHO IS IT? 我們必須幹掉它！***"
     }
   },
   "***THE BOSS HAS MAXIMUM HP***": {
@@ -46,7 +46,7 @@
       "JP": "***ボスのHPは最大です***",
       "CN": "***BOSS生命值已满***",
       "KR": "***보스의 체력이 최대입니다***",
-      "TW": ""
+      "TW": "***BOSS的生命值已滿***"
     }
   },
   "***The electricity in on. You can push the panels to open the gates***": {
@@ -66,7 +66,7 @@
       "JP": "***あなたは隠れたアイテムを探す時間があります***",
       "CN": "***你有时间寻找一些隐藏的神器***",
       "KR": "***당신은 몇 가지 숨겨진 아이템을 찾는 데 시간이 있습니다***",
-      "TW": ""
+      "TW": "***你有時間搜尋一些隱藏物品***"
     }
   },
   "**.. Is it a new anomaly?!..**": {
@@ -106,17 +106,17 @@
       "JP": "15 秒_residual_ 剩余",
       "CN": "**剩下15秒**",
       "KR": "***15 초 남음***",
-      "TW": ""
+      "TW": "***15 秒鐘剩餘***"
     }
   },
   "**5 SECONDS LEFT**": {
     "translation": "**剩下5秒**",
     "MultiLang": {
-      "US": "",
-      "JP": "",
+      "US": "***5SecondsLeft***",
+      "JP": "***5 セCONDS LEFT***",
       "CN": "**剩下5秒**",
       "KR": "***5 초 남음***",
-      "TW": ""
+      "TW": "**5 秒鐘剩餘**"
     }
   },
   "**A PIECE OF FLESH GOT MAXIMUM POWER**": {
@@ -135,7 +135,7 @@
       "US": "",
       "JP": "",
       "CN": "**管理员房间：已选择关卡1**",
-      "KR": "",
+      "KR": "***관리자가 관리실에서 레벨 1 설정합니다***",
       "TW": ""
     }
   },
@@ -146,7 +146,7 @@
       "JP": "",
       "CN": "**管理员房间：已选择关卡2**",
       "KR": "**관리자 설정 룸에서 레벨 2로 설정합니다**",
-      "TW": ""
+      "TW": "***ADMIN 设定等級 2 在管理员室***"
     }
   },
   "**ADMIN SET LEVEL 3 IN THE ADMIN ROOM**": {
@@ -155,8 +155,8 @@
       "US": "",
       "JP": "",
       "CN": "**管理员房间：已选择关卡3**",
-      "KR": "",
-      "TW": ""
+      "KR": "***관리자 설정 룸에서 레벨 3으로 설정***",
+      "TW": "***ADMIN 设定等級 3 在行政房***"
     }
   },
   "**ADMIN SET LEVEL 4 IN THE ADMIN ROOM**": {
@@ -175,8 +175,8 @@
       "US": "",
       "JP": "",
       "CN": "**管理员房间：已选择关卡5**",
-      "KR": "",
-      "TW": ""
+      "KR": "***관리진이 관리실에서 레벨 5 설정했습니다***",
+      "TW": "***ADMIN設置等級5在管理员房間***"
     }
   },
   "**ALL AFK AND SLOW PLAYERS WERE TELEPORTED**": {
@@ -193,10 +193,10 @@
     "translation": "**自动处死已启用**",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "***オートスレイヤー有効***",
       "CN": "**自动处死已启用**",
       "KR": "**자동슬레이어 활성화**",
-      "TW": ""
+      "TW": "***AUTO-SLAYER 啓用***"
     }
   },
   "**And then go to the pool**": {
@@ -226,7 +226,7 @@
       "JP": "***彼を失敗させないで！！***",
       "CN": "**别让他对我们失望！！**",
       "KR": "***그를 우리에게 실패시키지 말lah!!!***",
-      "TW": ""
+      "TW": "***不要让他讓我們失望!!***"
     }
   },
   "**Defend a bit**The door will explode in a few seconds!**": {
@@ -243,19 +243,19 @@
     "translation": "**发生故障**故障保护系统已开启**",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "**⚗️エラー検出**ギルト・ウィン保護がオン])**",
       "CN": "**发生故障**故障保护系统已开启**",
-      "KR": "",
-      "TW": ""
+      "KR": "**실패 감지됨**,GLITCH 승리 보호 ON**",
+      "TW": "***失敗偵測***異常勝利防護已啟動***"
     }
   },
   "**FIREBALL GOT MAXIMUM POWER**": {
     "translation": "**火球升级到最高级**",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "***ファイアボールが最大の力got maximum power***",
       "CN": "**火球升级到最高级**",
-      "KR": "",
+      "KR": "***불볼트가 최대功率***",
       "TW": ""
     }
   },
@@ -263,16 +263,16 @@
     "translation": "**电磁风暴升级到最高级**",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "***フラッシュが最大功率に***",
       "CN": "**电磁风暴升级到最高级**",
-      "KR": "",
-      "TW": ""
+      "KR": "***FLASHGot최대출력***",
+      "TW": "*** FLASH 获得最大功率 ***"
     }
   },
   "**GO INTO THE TELEPORTER***": {
     "translation": "**进入传送器***",
     "MultiLang": {
-      "US": "",
+      "US": "***STEP INTO THE TELEPORTER***",
       "JP": "**テレポーターに進む***",
       "CN": "**进入传送器***",
       "KR": "**텔porter로 들어가세요***",
@@ -326,7 +326,7 @@
       "JP": ">> 25秒間保持この位置<<",
       "CN": "**在这里防守25秒**",
       "KR": "**25초간 지키기**",
-      "TW": ""
+      "TW": "留住位置25秒"
     }
   },
   "**Hold this way for 10 seconds**": {
@@ -336,7 +336,7 @@
       "JP": "***10秒間このように持つ***",
       "CN": "**在这里防守10秒**",
       "KR": "**10초 동안 이렇게_HOLD**",
-      "TW": ""
+      "TW": "***持這個方式10秒***"
     }
   },
   "**It's dead. Good job**": {
@@ -356,17 +356,17 @@
       "JP": "",
       "CN": "**减速升级到最高级**",
       "KR": "",
-      "TW": ""
+      "TW": "NIGHTSTAR 最大功率"
     }
   },
   "**NOW WE ARE READY TO GO**": {
     "translation": "**现在我们准备出发**",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "***今私たちは出発する準備が整いました***",
       "CN": "**现在我们准备出发**",
-      "KR": "",
-      "TW": ""
+      "KR": "***\n>> 이제 준비 되었습니다 <<",
+      "TW": "***現在我們準備好出發***"
     }
   },
   "**Now go away to the coast**": {
@@ -375,7 +375,7 @@
       "US": "***Go away to the coast now***",
       "JP": "***今去いなteriorに退く***",
       "CN": "**现在离开去海岸**",
-      "KR": "",
+      "KR": "***해변으로 가서 지금 나가렴***",
       "TW": "現在去海岸 \"***\""
     }
   },
@@ -393,7 +393,7 @@
     "translation": "**发挥你的技术**",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "***プレイできる限り***",
       "CN": "**发挥你的技术**",
       "KR": "**플레이 가능한 대로 플레이하세요**",
       "TW": ""
@@ -406,7 +406,7 @@
       "JP": "**10秒後に動く準備をして！**",
       "CN": "**准备在10秒后撤退！**",
       "KR": "**10초 후 움직이 준비하세요!!**",
-      "TW": ""
+      "TW": "***準備於10秒後行動！***"
     }
   },
   "**Prepare for ultimate survival. Fight for your life!!**": {
@@ -422,18 +422,18 @@
   "**Prepare to FIGHT**": {
     "translation": "**准备战斗**",
     "MultiLang": {
-      "US": "",
-      "JP": "",
+      "US": "***PREPARE TO FIGHT***",
+      "JP": "***戦闘に備えよ***",
       "CN": "**准备战斗**",
       "KR": "**전투 준비를 하십시오**",
-      "TW": ""
+      "TW": "***準備好戰鬥***"
     }
   },
   "**REWARD**YOU HAVE OBTAINED ONE MORE ITEM ON THIS STAGE": {
     "translation": "**奖励**你在这一关可使用更高级的神器",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "***報酬***あなたはこのステージでさらに1つのアイテムを獲得しました",
       "CN": "**奖励**你在这一关可使用更高级的神器",
       "KR": "**보상**이용자는 이 스테이지에서 한 가지 더 아이템을 획득했습니다.",
       "TW": "你已在本 stag 獲得另1項物品"
@@ -443,19 +443,19 @@
     "translation": "**快跑快跑快跑！！！**",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "***走走走!!!***",
       "CN": "**快跑快跑快跑！！！**",
       "KR": "***런 런 런!!!***",
-      "TW": ""
+      "TW": "***逃逃逃!!!!!***"
     }
   },
   "**SPIKEBALL GOT MAXIMUM POWER**": {
     "translation": "**治疗升级到最高级**",
     "MultiLang": {
-      "US": "",
-      "JP": "",
+      "US": "***SPIKEBALL GAINED MAXIMUM POWER***",
+      "JP": "***SPIKEBALL 的最大功率***",
       "CN": "**治疗升级到最高级**",
-      "KR": "",
+      "KR": "***스피크볼 최대력량***",
       "TW": "**_SPIKEBALL 获得最大功率_**"
     }
   },
@@ -463,17 +463,17 @@
     "translation": "**管理员生成了核弹。你将在20秒内死亡**",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "***ザ・ADMINセットボウアウト。U GONNA DIE IN 20 SECONDS***",
       "CN": "**管理员生成了核弹。你将在20秒内死亡**",
       "KR": "**관리자가 폭파设置了。20초 후에 죽는다**",
-      "TW": ""
+      "TW": "***ADMIN設定暴 Baths。你gonna死在20秒後***"
     }
   },
   "**THE BOSS IS CONTROLLING YOUR BRAINS!!THIS PLACE IS NOT REAL!!**": {
     "translation": "**BOSS正在操控你的思维！！这个地方并不真实！！**",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "★★★このボスが脳をコントロールしている！！ここは現実ではない！！★★",
       "CN": "**BOSS正在操控你的思维！！这个地方并不真实！！**",
       "KR": "★★바스는 당신의 뇌를 통제하고 있나!!이곳은 실제가 아님!!★★",
       "TW": "***BOSS正在控制你的大腦!!這不是真實的地方!!***"
@@ -482,11 +482,11 @@
   "**THE LEVEL IS FAILED** ZOMBIES MADE IT TO THE SECOND WAY**": {
     "translation": "**关卡失败**僵尸已到达第二条路**",
     "MultiLang": {
-      "US": "",
+      "US": "***LEVEL FAIL*** ZOMBIES REACHED THE SECOND WAY",
       "JP": "***レベルは失敗しました***ゾンビが2番目への道まで到達した**",
       "CN": "**关卡失败**僵尸已到达第二条路**",
       "KR": "***레벨 실패*** 좀비들이 두 번째 방으로 도달했습니다***",
-      "TW": ""
+      "TW": "***關卡失敗***不死鳥抵達第二道***"
     }
   },
   "**THEY WANT TO KILL US!! SHOOT AS U CAN!!!**": {
@@ -505,15 +505,15 @@
       "US": "",
       "JP": "**爆爆開始**",
       "CN": "**爆炸即将来临**",
-      "KR": "",
-      "TW": ""
+      "KR": "***폭발은 곧있을 것이다***",
+      "TW": "***高潮即將到來***"
     }
   },
   "**The documents are here!**We are too close!**": {
     "translation": "**机密文件就在这里！我们快要成功了！！**",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "***文書はここにあります !***私たち、近づきすぎた/***/",
       "CN": "**机密文件就在这里！我们快要成功了！！**",
       "KR": "**문서들이 여기 있어!** 우리는 너무 가까워!**",
       "TW": "***文檔已經準備好！***我們快到了！***"
@@ -563,10 +563,10 @@
     "translation": "**未知的物品**任务完成",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "** UNKNOWN ARTEFACT ** クエスト完了",
       "CN": "**未知的物品**任务完成",
       "KR": "**UNKNOWN ARTEFACT** 업적 완료",
-      "TW": ""
+      "TW": "***未知遺跡***任務完成"
     }
   },
   "**Wait until the debris break**": {
@@ -586,7 +586,7 @@
       "JP": "***あなたは勝つのに norsuto keshi*** KEEP HOLDING**",
       "CN": "****你距离胜利太近了**继续守住**",
       "KR": "***당신은 승리를 너무 가까이 가져왔습니다***继续保持**",
-      "TW": ""
+      "TW": "***你離勝利太近了保持握緊***KEEP HOLDING***"
     }
   },
   "**YOU DID IT!!!**GOOD LUCK!!**": {
@@ -596,17 +596,17 @@
       "JP": "***あなたが成功した！！！***良い luck!!***",
       "CN": "**你做到了！！！**祝你好运！！**",
       "KR": "***너가 성공했어!!!*** 행운을 빈다!!**",
-      "TW": ""
+      "TW": "***你做到了！！！***祝你好運！！"
     }
   },
   "**YOU HAVE FAILED**": {
     "translation": "**你失败了**",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "***あなたは失敗しました***",
       "CN": "**你失败了**",
       "KR": "**당신은 실패하였습니다**",
-      "TW": ""
+      "TW": "***你已失敗***"
     }
   },
   "**YOU WIN THE MAP!!YOU ARE THE TRUE STALKERS!!!**": {
@@ -623,10 +623,10 @@
     "translation": "**你的神器升级到最高级**必要时使用它**",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "***あなたのアイテムが最大の力に***-use when necessary***",
       "CN": "**你的神器升级到最高级**必要时使用它**",
       "KR": "**당신의 아이템이 최대 파워로 변환되었습니다**필요할 때 사용하세요**",
-      "TW": ""
+      "TW": "***你的物品獲得最大功率***-use when necessary***"
     }
   },
   "**You did it!! You have completed stage 2!!**": {
@@ -635,7 +635,7 @@
       "US": "",
       "JP": "ステージ2を完成した!!***",
       "CN": "**你做到了！！你已经完成第二关！！**",
-      "KR": "",
+      "KR": "***너가 했다!! 단계 2를 완료했다!!***",
       "TW": "***你做到了!! 你已經完成了第2stage!!***"
     }
   },
@@ -756,7 +756,7 @@
       "JP": "この位置を10秒間保つ！！",
       "CN": "在此位置防守10秒！！",
       "KR": "이 위치에서 10초 동안 지켜!!",
-      "TW": ""
+      "TW": "持這個位置10秒!!!!!"
     }
   },
   "Lab door 1 will open for zombies in 18 seconds": {
@@ -805,7 +805,7 @@
       "US": "",
       "JP": "マップby gleb_erilov(Headshooter.SC) 特别感谢HaRyDe POMKA Said Z-O-M-B-I-E",
       "CN": "地图作者：gleb_erilov(Headshooter.SC) 特别感谢：HaRyDe POMKA Said Z-O-M-B-I-E 翻译：Asteri3m 蓬莱山帅比♪",
-      "KR": "",
+      "KR": "맵_by_gleb_erilov(Headshooter.SC)_특별한 감사의 인사를_HaRyDe_POMKA_Said_Z-O-M-B-I-E",
       "TW": "地圖由gleb_erilov(Headshooter.SC)設計 特別感謝HaRyDe POMKA Said Z-O-M-B-I-E"
     }
   },
@@ -836,7 +836,7 @@
       "JP": "",
       "CN": "**电梯2将在9秒后离开**",
       "KR": "제동 2는 9초 후에 출발합니다",
-      "TW": ""
+      "TW": "THE LIFT 2 將在 9 秒後起動"
     }
   },
   "The Chernobyl gate will open in 20 seconds.": {
@@ -873,7 +873,7 @@
     "translation": "在控制台输入mat_colorcorrection 1来开启色彩校正！！",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "コンソールに mat_colorcorrection 1 を入力すると動的な効果が!!",
       "CN": "在控制台输入mat_colorcorrection 1来开启色彩校正！！",
       "KR": "콘솔에 mat_colorcorrection 1 입력하세요!!",
       "TW": "型錄控制台 mat_colorcorrection 1 以啟用動態效果!!"

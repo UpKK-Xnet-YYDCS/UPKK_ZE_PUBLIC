@@ -92,7 +92,7 @@
   "< Supporter だい すきです is in the party! >": {
     "translation": "< 赞助者 だい すきです 进入游戏！ >",
     "MultiLang": {
-      "US": "",
+      "US": "<Supporter dai sukidesu is in the party!>",
       "JP": "< SUPPORTER だい すきです は 党派にいます! >",
       "CN": "< 赞助者 だい すきです 进入游戏！ >",
       "KR": "< 지원자 대好きです>는 파티에 있습니다!",
@@ -125,7 +125,7 @@
       "US": "",
       "JP": "特別感谢 Moltard, Nostar, Raphi, Kaemon, Luffaren",
       "CN": "特别感谢 Moltard、Nostar、Raphi、Kaemon、Luffaren",
-      "KR": "",
+      "KR": "특별한 감사의 인사를 드립니다. Moltard, Nostar, Raphi, Kaemon, Luffaren",
       "TW": "特別感謝 Moltard, Nostar, Raphi, Kaemon, Luffaren"
     }
   },
@@ -133,10 +133,10 @@
     "translation": "| 还有 10 秒！ |",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "| 10 もう几秒 |",
       "CN": "| 还有 10 秒！ |",
-      "KR": "",
-      "TW": ""
+      "KR": "| 10초 더 ! |",
+      "TW": "| 10 秒鐘再來！ |"
     }
   },
   "| 5 seconds left |": {
@@ -162,7 +162,7 @@
   "| Abyss guardian has been defeated |": {
     "translation": "| 深渊守护者已被击败 |",
     "MultiLang": {
-      "US": "",
+      "US": "| Abyss guardian defeated |",
       "JP": "| 深渊守護者已被擊敗 |",
       "CN": "| 深渊守护者已被击败 |",
       "KR": "abyss guardians가 패배했음 |",
@@ -245,7 +245,7 @@
       "US": "",
       "JP": "教会の門は25秒後に開きます |",
       "CN": "| 教堂大门将在 25 秒后开启 |",
-      "KR": "",
+      "KR": "| 교회 문이 25초 후에 열립니다 |",
       "TW": "| 教堂門廊開啟倒數25秒 |"
     }
   },
@@ -705,7 +705,7 @@
       "US": "",
       "JP": "ゾンビが最後の扉に達した |",
       "CN": "| 僵尸已经进入最后一扇门 |",
-      "KR": "",
+      "KR": "| 블로어까지 좀비들이 도달했음 |",
       "TW": "|殭屍已經reach到最後1扇門|"
     }
   },
