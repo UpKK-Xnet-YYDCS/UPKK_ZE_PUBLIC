@@ -23,20 +23,20 @@
     "translation": "",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "ハードモード",
       "CN": "硬模式",
-      "KR": "",
-      "TW": ""
+      "KR": "< HARD 모드 >",
+      "TW": "硬模式"
     }
   },
   "< 最终幻想14:醴泉神社 > Ver 1.0": {
     "translation": "",
     "MultiLang": {
       "US": "Final Fantasy XIV: Yamagami Shrine Ver 1.0",
-      "JP": "",
+      "JP": "最終幻想14:霊泉神社 Ver 1.0",
       "CN": "",
       "KR": "【절대 마지막fantasy 14: 의류 quán 신사】Ver 1.0",
-      "TW": ""
+      "TW": "最終 Fantasy XIV:醴泉神社 Ver 1.0"
     }
   },
   "< FFXIV_Reisen_Temple > Ver 1.0": {
@@ -94,7 +94,7 @@
     "MultiLang": {
       "US": "[Treatment] Place treatment area for 7 seconds, restore 225 HP, 50-second cooldown.",
       "JP": "[治療術] 治療区域を7秒放置し、225の HP を回復、50秒クールダウン。",
-      "CN": "",
+      "CN": "[治疗术] 设置治疗区域7秒，恢复225生命值，50秒冷却。",
       "KR": "[치료술] 치료 지역을 7초 동안 설정하여 225의 HP를 회복합니다. 쿨타임 50초.",
       "TW": "[治療術] 部署治療區域7秒，恢復225點生命值，50秒冷卻。"
     }
@@ -334,9 +334,9 @@
     "MultiLang": {
       "US": "",
       "JP": "<玄武>: No.",
-      "CN": "",
+      "CN": "Genbu: 没有。",
       "KR": "제기문: 아니오.",
-      "TW": ""
+      "TW": "<玄武>: 不行。"
     }
   },
   "<Genbu>: Leave it to me,Byakko.": {
@@ -482,7 +482,7 @@
   "[Stone Jail] It will Freeze Bosses movement.": {
     "translation": "",
     "MultiLang": {
-      "US": "",
+      "US": "[Stone Jail] Freezes Boss Movement.",
       "JP": "【石獄】ボスの移動を凍結します。",
       "CN": "【石狱】将冻结Boss的移动。",
       "KR": "[석기 감옥] 보스의 움직임을凍结。",
@@ -695,7 +695,7 @@
       "US": "",
       "JP": ">> 寺院の近くにいてください。そこで得られる光が保護します。",
       "CN": "围绕神庙停留，它的光会保护你。",
-      "KR": "",
+      "KR": "사원 주변에 머물러 있으세요, 그 빛이 당신을 보호할 것입니다.",
       "TW": "> 離 temples 近些，它的光會保護你。 <"
     }
   },
@@ -744,7 +744,7 @@
     "MultiLang": {
       "US": "[Nu Lei] Applies weak slow effect for 7 seconds on zombies in range, 50-second cooldown.",
       "JP": "[怒雷] 複製範囲内のゾンビに微弱な遅滞効果を7秒与え、50秒のクールダウンを持つ。",
-      "CN": "",
+      "CN": "[怒雷] 对范围内的僵尸造成轻微减速，持续7秒，50秒冷却。",
       "KR": "[노레이] 범위 내 좀비에게 약하게 체력 소모를 주고 7초 지속, 50초 재사용 대기 시간.",
       "TW": "[怒雷] 对範圍內殭屍造成微弱減速7秒,50秒冷卻."
     }
@@ -752,7 +752,7 @@
   "[Thunder] Soft slow down zombie in area for 7 sec,50 cd.": {
     "translation": "",
     "MultiLang": {
-      "US": "",
+      "US": "[Thunder] Softens and slows zombies in area for 7 sec, 50 cd.",
       "JP": "[雷電] 区域内缓慢减速僵尸 7 秒，50 冷却。",
       "CN": "[雷电] 在区域内_soft慢速减速僵尸7秒，50cd。",
       "KR": "[번개] 해당 지역의 좀비를 7초 동안 부드럽게 감속시킵니다.(50cd)",
@@ -1073,7 +1073,7 @@
     "translation": "",
     "MultiLang": {
       "US": "There are zombies that learned Explosive Flame.",
-      "JP": "",
+      "JP": "僵尸学会了爆炎。",
       "CN": "有僵尸学会了爆炎。",
       "KR": "존재하는 블라인드 zombies가 폭염을 익혔습니다.",
       "TW": "有殭屍習得了爆炎。"
@@ -1103,10 +1103,10 @@
     "translation": "",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "< 管理者、ステージ極限に切り替えます。>",
       "CN": "< Admin 切换至关卡极限。>",
-      "KR": "",
-      "TW": ""
+      "KR": "< 관리자 Stage Extreme으로 전환합니다. >",
+      "TW": "<Admin 切換到極限場地。>"
     }
   },
   "<Byakko>: You are...truly unique...": {
@@ -1163,9 +1163,9 @@
     "translation": "",
     "MultiLang": {
       "US": "Thanks everyone for testing my map!",
-      "JP": "",
+      "JP": "テストにご協力いただきありがとうございます！",
       "CN": "感谢大家测试我的地图！",
-      "KR": "",
+      "KR": "감사합니다! 제 맵을 테스트해 주셔서.",
       "TW": "感謝各位測試我的地圖！"
     }
   },
