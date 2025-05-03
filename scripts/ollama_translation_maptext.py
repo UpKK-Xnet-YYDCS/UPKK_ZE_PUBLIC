@@ -20,7 +20,7 @@ from difflib import SequenceMatcher
 import logging
 
 # 配置
-OLLAMA_URL = "http://127.0.0.1:11434/api/generate"
+OLLAMA_URL = "http://192.168.50.5:11434/api/generate" #内网 Mac Mini 设备地址
 MODEL = "qwen2.5:7b-instruct"
 DIRECTORY = os.getcwd()  # 默认设置为当前目录
 HEADERS = {"Content-Type": "application/json"}
