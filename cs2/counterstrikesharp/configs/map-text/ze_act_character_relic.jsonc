@@ -22,7 +22,7 @@
   "[Captain.Li] Dr.He is ok.Team Alpha can still finish mission.": {
     "translation": "[Captain.Li] Dr.He 没事。Alpha 小组仍然可以完成任务。",
     "MultiLang": {
-      "US": "",
+      "US": "[Captain.Li] Dr. He is okay. Team Alpha can still complete the mission.",
       "JP": "[ Captain.Li ] Dr.Heは大丈夫です。Team Alphaはミッションを完了できます。",
       "CN": "[Captain.Li] Dr.He 没事。Alpha 小组仍然可以完成任务。",
       "KR": "[캡틴.리] 드레이는 괜찮아. 팀 알파는 임무를Still 완수할 수 있다.",
@@ -102,7 +102,7 @@
   "[Dr.He] So I think they Caused this.": {
     "translation": "[Dr.He] 所以我认为是他们造成的。",
     "MultiLang": {
-      "US": "",
+      "US": "[Dr.He] So I think they CAUSED this.",
       "JP": "[Dr.He] それらがこれを作り出したと Thinking する。",
       "CN": "[Dr.He] 所以我认为是他们造成的。",
       "KR": "[Dr.He] 그렇게 봐도 될 것 같아. 이걸 만들었지.",
@@ -262,7 +262,7 @@
   "[Map] Nuke in 30 seconds": {
     "translation": "核弹将在 30 秒后发射",
     "MultiLang": {
-      "US": "",
+      "US": "[Map] Nuclear strike in 30 seconds",
       "JP": "[マップ] ナuke in 30秒",
       "CN": "核弹将在 30 秒后发射",
       "KR": "[맵] 터렛 30초 후boom",
@@ -382,7 +382,7 @@
   "[Radio] More survivors have lost contact with us.It doesn't well.How about Dr.He and others.": {
     "translation": "[无线电] 更多的幸存者与我们失去了联系。情况不妙。何医生和其他人怎么样了。",
     "MultiLang": {
-      "US": "",
+      "US": "[Radio] More survivors have lost contact with us. Not good. What about Dr. He and the others.",
       "JP": "[ラジオ] more survivors have lost contact with us. it doesn't well. how about dr.he and others.",
       "CN": "[无线电] 更多的幸存者与我们失去了联系。情况不妙。何医生和其他人怎么样了。",
       "KR": "[라디오] 더 많은 생존자가联系我们失去联系。情况不太好。He博士和其他人怎么样了。",
@@ -475,7 +475,7 @@
       "US": "",
       "JP": "*** 何らかの理由でマップは2kでコンパイル仅限。 ***",
       "CN": "*** 由于某些原因，地图只使用2k编译。 ***",
-      "KR": "",
+      "KR": "*** 어떤 이유 때문에 맵은 2k 해상도로만 컴파일됩니다. ***",
       "TW": "*** 因為某些理由，地圖只使用 2k 單元編譯。***"
     }
   },
@@ -852,7 +852,7 @@
   "[Dr.He] Careful!We need to stop ZM touch this area 22 seconds.": {
     "translation": "[Dr.He] 小心！我们需要阻止僵尸触碰该区域 22 秒。",
     "MultiLang": {
-      "US": "",
+      "US": "[Dr.He]小心！我们需要在22秒内阻止ZM触碰这个区域。",
       "JP": "[ドクター・ヒー] 注意！このエリアに触れるのを22秒で阻止しなければならない。",
       "CN": "[Dr.He] 小心！我们需要阻止僵尸触碰该区域 22 秒。",
       "KR": "[드레인 He] 주의! 이 지역을 ZM이 22초 동안 觛触 须须我们要阻止它接触这个区域。",
@@ -903,19 +903,19 @@
     "translation": "",
     "MultiLang": {
       "US": "",
-      "JP": "",
-      "CN": "",
-      "KR": "",
-      "TW": ""
+      "JP": "尻しろう",
+      "CN": "屁sus",
+      "KR": "비행 의심스러움",
+      "TW": "屁股 Sus"
     }
   },
   "caonima2": {
     "translation": "",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "かんねえ2",
       "CN": "日尼玛2",
-      "KR": "",
+      "KR": "카오nim2",
       "TW": "操你妈2"
     }
   },
@@ -955,8 +955,8 @@
       "US": "fuck",
       "JP": "",
       "CN": "日尼玛",
-      "KR": "",
-      "TW": ""
+      "KR": "캐오니마",
+      "TW": "草泥馬"
     }
   },
   "filter sus": {
@@ -975,7 +975,7 @@
       "US": "",
       "JP": "トリガーＳＵＳ",
       "CN": "触发疑点",
-      "KR": "",
+      "KR": "트리거 스sus",
       "TW": "触发疑慮"
     }
   },
@@ -1035,18 +1035,18 @@
       "US": "",
       "JP": "** 因为什么，最終エリアの光は最悪 **",
       "CN": "** 因为某些原因，最终区域的灯光很糟糕 **",
-      "KR": "",
+      "KR": "*** 때문이긴 하지만, 최종 지역 빛은 정말로 나쁘다 ***",
       "TW": "*** 因為什麼，最終區域光源很糟糕 ***"
     }
   },
   "** Sry to all player **": {
     "translation": "** 向所有玩家表示抱歉 **",
     "MultiLang": {
-      "US": "",
+      "US": "*** Sry to All Players ***",
       "JP": "*** すべてのプレイヤーには申し訳ありません ***",
       "CN": "** 向所有玩家表示抱歉 **",
-      "KR": "",
-      "TW": ""
+      "KR": "*** 모든 플레이어에게 죄송 ***",
+      "TW": "***對所有玩家致歉***"
     }
   },
   "[Map] Outside Door open in 40 seconds.": {
@@ -1055,7 +1055,7 @@
       "US": "",
       "JP": "[マップ] 外部ドアが40秒後に開きます。",
       "CN": "外门在 40 秒后打开。",
-      "KR": "",
+      "KR": "[맵] 외부 문扉开 在 40秒后打开。",
       "TW": "[地圖] 外門開放倒數 40 秒。"
     }
   },

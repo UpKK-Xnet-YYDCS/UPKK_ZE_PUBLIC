@@ -16,7 +16,7 @@
       "JP": "***プラズミド取得：GRAVITY WELL***",
       "CN": "***获得的质粒：重力***",
       "KR": "플라즈미드 획득:avity WELL***",
-      "TW": ""
+      "TW": "***獲得基因體：重力井***"
     }
   },
   "***Plasmid obtained: Incinerate***": {
@@ -55,7 +55,7 @@
       "US": "",
       "JP": "***プラズミド取得: 冬の爆発***",
       "CN": "***获得的质粒：寒霜***",
-      "KR": "",
+      "KR": "***플라즈마이드 획득: 겨울 폭풍***",
       "TW": "***Plasmid取得：冬日寒流***"
     }
   },
@@ -183,19 +183,19 @@
     "translation": "*管理员房间：难度永久设置为简单*",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "*ADMIN Room: 難易度を永久にEASYに設定しました*",
       "CN": "*管理员房间：难度永久设置为简单*",
-      "KR": "",
-      "TW": ""
+      "KR": "*ADMIN Room: 난이도 영구히Easy로 설정되어 있습니다*",
+      "TW": "*ADMIN 房間：難度永久設置為簡單*"
     }
   },
   "*ADMIN Room: Difficulty permanently set to HARD*": {
     "translation": "*管理员房间：难度永久设置为困难*",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "*ADMIN Room: 困難度を永久にHARDに設定しました*",
       "CN": "*管理员房间：难度永久设置为困难*",
-      "KR": "",
+      "KR": "*ADMIN Room: 어려움 난이도로 영구 설정*",
       "TW": "*ADMIN 房間: 困難度永久設置為 HARD*"
     }
   },
@@ -203,17 +203,17 @@
     "translation": "*管理员房间：下一轮设置为1999模式。祝好运！*",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "*ADMIN Room: 次回は1999モードに設定します。 GOOD LUCK!*",
       "CN": "*管理员房间：下一轮设置为1999模式。祝好运！*",
-      "KR": "",
-      "TW": ""
+      "KR": "*ADMIN Room: 다음 라운드는 1999 모드로 설정되었습니다. GOOD LUCK!*",
+      "TW": "*ADMIN 房間：下一輪設為1999模式。祝運氣好！*"
     }
   },
   "*ADMIN Room: Next round set to Chapter 1*": {
     "translation": "*管理员房间：下一轮设置为第一章*",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "*ADMIN室：次のラウンドは第1章に設定されています*",
       "CN": "*管理员房间：下一轮设置为第一章*",
       "KR": "관리자방: 다음 라운드는第一章设置",
       "TW": "*ADMIN房間: 下1輪設置為第1章*"
@@ -223,7 +223,7 @@
     "translation": "*管理员房间：下一轮设置为第二章*",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "*ADMIN室：次のラウンドは第2章に設定されています*",
       "CN": "*管理员房间：下一轮设置为第二章*",
       "KR": "*[ADMIN Room: 다음 라운드가 제2챕터로 설정되었습니다]*",
       "TW": "*ADMIN 房間: 下1輪設定為第2章*"
@@ -243,30 +243,30 @@
     "translation": "*管理员房间：下一轮设置为第四章*",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "*ADMIN 室：次のラウンドは第4章に設定しています*",
       "CN": "*管理员房间：下一轮设置为第四章*",
       "KR": "ADMIN 방: 다음 라운드는 제4챕터로 설정되었습니다.*",
-      "TW": ""
+      "TW": "*ADMIN房間: 下一關設置為第4章*"
     }
   },
   "*ADMIN Room: Plasmids set to max level*": {
     "translation": "*管理员房间：质粒设置为最高级*",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "*ADMIN Room: Plasmids に設定 maximal レベル*",
       "CN": "*管理员房间：质粒设置为最高级*",
-      "KR": "",
-      "TW": ""
+      "KR": "*ADMIN Room: 플라즈마드를 최대 레벨로 설정했습니다*",
+      "TW": "*ADMIN 房間：基因體設為最高等級*"
     }
   },
   "*ADMIN Room: Set Chapter 4 ending to BAD*": {
     "translation": "*管理员房间：将第四章结局设置为坏结局*",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "* ADMIN Room: 章4の終了をBADに設定 *",
       "CN": "*管理员房间：将第四章结局设置为坏结局*",
       "KR": "*ADMIN Room: 제4장 결말을 BAD로 설정*",
-      "TW": ""
+      "TW": "*ADMIN 房間: 設定第4章結局為恶劣*"
     }
   },
   "*ADMIN Room: Set Chapter 4 ending to GOOD*": {
@@ -276,27 +276,27 @@
       "JP": "*[ADMIN Room: 第4章结局设为良好]*",
       "CN": "*管理员房间：将第四章结局设置为好结局*",
       "KR": "*[ADMİN Room: 차pter 4 끝을 GOOD으로 설정]*",
-      "TW": ""
+      "TW": "*ADMIN房間：設定第4章結束為良好*"
     }
   },
   "*ADMIN Room: Slaying CTs*": {
     "translation": "*管理员房间：消灭CT*",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "*ADMIN Room: CTを倒せ*",
       "CN": "*管理员房间：消灭CT*",
-      "KR": "",
-      "TW": ""
+      "KR": "*ADMIN Room: CT소탕*",
+      "TW": "*ADMIN房間: 杀掉CT*"
     }
   },
   "*AFK teleport in 3s*": {
     "translation": "*挂机传送将在3秒后进行*",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "*AFKテレポート3秒後*",
       "CN": "*挂机传送将在3秒后进行*",
       "KR": "*AFK 텔레포트 후 3s*",
-      "TW": ""
+      "TW": "*離線 TELEPORT 在3S後*"
     }
   },
   "*AFK teleport in 5s*": {
@@ -306,17 +306,17 @@
       "JP": "*AFKテレポート5秒後に実行*",
       "CN": "*挂机传送将在5秒后进行*",
       "KR": "* AFK 텔레포트 후 5s *",
-      "TW": ""
+      "TW": "*離線 Teleport 5s後*"
     }
   },
   "*AFK teleport in 5s*>3》1": {
     "translation": "*挂机传送将在5秒后进行*",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "*AFK再転送5秒後*>3》1",
       "CN": "*挂机传送将在5秒后进行*",
       "KR": "*AFK 텔레포트 후 5s*>3》1",
-      "TW": ""
+      "TW": "*離線瞬移後5秒*>3》1"
     }
   },
   "*Splicers have been blocked for 2 seconds*": {
@@ -426,7 +426,7 @@
       "JP": ">>>バットシフェルドアが20秒後に開きます<<<",
       "CN": ">>>潜水艇门将在20秒后开启<<<",
       "KR": ">>>바스프리피 문이 20초 후에 열립니다<<<",
-      "TW": ""
+      "TW": ">>深海探勘艙門扉在10秒後開啟<<<"
     }
   },
   ">>>CONGRATULATIONS!<<<": {
@@ -463,7 +463,7 @@
     "translation": ">>>恭喜<<<",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": ">>>おめでとう<<<",
       "CN": ">>>恭喜<<<",
       "KR": ">>>축하합니다<<",
       "TW": ">>>恭喜<<<"
@@ -476,7 +476,7 @@
       "JP": ">>>エルイザベス：ボート！ボートに乗りなさい <<<",
       "CN": ">>>伊丽莎白：船！快上船<<<",
       "KR": ">>>엘리자베스: 배야! 배에 들어가)!",
-      "TW": ""
+      "TW": ">>>ELIZABETH: 船！上船來！<<<"
     }
   },
   ">>>ELIZABETH: This is it! Defend the boat!<<<": {
@@ -486,17 +486,17 @@
       "JP": ">>>エルيزベス：これだ！ボートを守れ！<<<",
       "CN": ">>>伊丽莎白：就是这里！保护船只！<<<",
       "KR": ">>>엘리자베스: 이거야! 배를 지켜!\" <<<",
-      "TW": ""
+      "TW": ">>>ELIZABETH: 此舉關頭！守衛救生船！<<<"
     }
   },
   ">>>ESCAPE FAILED!<<<": {
     "translation": ">>>逃脱失败！<<<",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": ">>>脱出失敗！<<<",
       "CN": ">>>逃脱失败！<<<",
-      "KR": "",
-      "TW": ""
+      "KR": ">>>탈출 실패!<<<",
+      "TW": ">>>逃生失敗！<<<"
     }
   },
   ">>>Elizabeth can't control the tear! Teleport in 5 seconds<<<": {
@@ -516,7 +516,7 @@
       "JP": ">>>秘密を SEEK し true ending を得る<<<",
       "CN": ">>>找到真结局的秘密<<<",
       "KR": ">>>진정한 끝을 위한 비밀 찾기<<<",
-      "TW": ""
+      "TW": ">>找到真相才會有真正的結局<<"
     }
   },
   ">>>Introduction Complete<<<": {
@@ -526,7 +526,7 @@
       "JP": ">>>導入-complete<<<",
       "CN": ">>>介绍完成<<<",
       "KR": ">>>소개 완료<<<",
-      "TW": ""
+      "TW": ">> introductions 完成 <<<"
     }
   },
   ">>>Jump onto the rail!<<<": {
@@ -543,9 +543,9 @@
     "translation": ">>>达成真结局<<<",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": ">>>本当の終わりを取得しました<<<",
       "CN": ">>>达成真结局<<<",
-      "KR": "",
+      "KR": ">>>참 최종 결말 얻음<<<",
       "TW": ">>>真正結局取得<<<"
     }
   },
@@ -586,24 +586,24 @@
       "JP": ">>AFK テレポート5秒後に実行<<",
       "CN": ">>挂机传送将在5秒后进行<<",
       "KR": ">>AFK 텔레포트 후 5초<<",
-      "TW": ""
+      "TW": ">>離線 TELEPORT在5S<<"
     }
   },
   ">>AFK teleport in 5s<<": {
     "translation": ">>挂机传送将在5秒后进行<<",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": ">>AFKテレポート5秒後<<",
       "CN": ">>挂机传送将在5秒后进行<<",
       "KR": ">>AFK 텔레포트 후 5s<<",
-      "TW": ""
+      "TW": ">>離線瞬移5s後返回<<"
     }
   },
   ">>Bathysphere is docking...<<": {
     "translation": ">>潜水艇正在对接...<<",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": ">>バッシー friesはドocking...<<",
       "CN": ">>潜水艇正在对接...<<",
       "KR": ">>바스fä프레이는 접륙 중입니다<<",
       "TW": ">>Bathysphere正在降落...<<"
@@ -775,7 +775,7 @@
       "US": "",
       "JP": ">>爆破隧道，摧毁之<<",
       "CN": ">>引爆并摧毁隧道<<",
-      "KR": "",
+      "KR": ">>폭발시켜 터널을 파괴하세요<<<",
       "TW": ">>引爆並摧毀隧道<<"
     }
   },
@@ -845,7 +845,7 @@
       "US": "",
       "JP": ">>楽しんで<<",
       "CN": ">>享受吧<<",
-      "KR": "",
+      "KR": ">>\n\n이용하시;/* */\n\n<<",
       "TW": ">>享受它<<"
     }
   },
@@ -863,10 +863,10 @@
     "translation": ">>额外章节-1999<<",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": ">>特別章 - 1999<<",
       "CN": ">>额外章节-1999<<",
       "KR": ">>추가 장 - 1999<<",
-      "TW": ""
+      "TW": ">>額外章節 - 1999<<"
     }
   },
   ">>Get back to the elevator<<": {
@@ -956,7 +956,7 @@
       "JP": ">>バルコニーを守れ<<",
       "CN": ">>防守阳台<<",
       "KR": ">>베이코니 유지<<",
-      "TW": ""
+      "TW": ">>持 balconies<<"
     }
   },
   ">>Hold the Decompression Chamber<<": {
@@ -976,7 +976,7 @@
       "JP": ">>ワイナリーを守れ - 25s<<",
       "CN": ">>防守酒庄-25秒<<",
       "KR": ">>주유소 지키기 - 25s<<",
-      "TW": ""
+      "TW": ">>持有酒庄 - 25s<<"
     }
   },
   ">>Hold the doorway - 5s<<": {
@@ -986,7 +986,7 @@
       "JP": ">>ドアewayを守る - 5s<<",
       "CN": ">>防守门口-5秒<<",
       "KR": ">>문을 지키세요 - 5s<<",
-      "TW": ""
+      "TW": ">>守住門口 - 5s<<"
     }
   },
   ">>Hold until secuity door releases - 15s<<": {
@@ -996,13 +996,13 @@
       "JP": ">> Holds直至安全门释放 - 15s<<",
       "CN": ">>防守直到安全门释放-15秒<<",
       "KR": ">>보안 문이 열리기까지 기다려 주세요 - 15s<<",
-      "TW": ""
+      "TW": ">> HOLD 直到保安門開啟 - 15s<<"
     }
   },
   ">>Hold until the security door releases<<": {
     "translation": ">>防守直到安全门释放<<",
     "MultiLang": {
-      "US": "",
+      "US": ">>Hold until the security door unlocks<<",
       "JP": ">>セキュリティドアが開放されるまで保持する<<",
       "CN": ">>防守直到安全门释放<<",
       "KR": ">>보안 문이 열릴 때까지 유지<<",
@@ -1026,7 +1026,7 @@
       "JP": ">>紹介<<",
       "CN": ">>介绍<<",
       "KR": ">>소개<<",
-      "TW": ""
+      "TW": ">>介紹<<"
     }
   },
   ">>It's your chance. Kill the Songbird<<": {
@@ -1086,7 +1086,7 @@
       "JP": ">>マップ由DormantLemon制作<<",
       "CN": ">>地图作者：DormantLemon 翻译：Asteri3m 清新的二哈?<<",
       "KR": ">>맵 제작자 DormantLemon<<",
-      "TW": ""
+      "TW": ">>地圖由DormantLemon製作<<"
     }
   },
   ">>SECRET: Found the Airship Token<<": {
@@ -1176,7 +1176,7 @@
       "JP": ">>TIP #3: プラズミドは限定使用。数を管理!\");<",
       "CN": ">>提示#3：质粒使用有使用次数限制。酌情使用！<<",
       "KR": ">>팁 #3: 플라즈미드는 한정된 사용입니다. 세트를 관리하세요!<<",
-      "TW": ""
+      "TW": ">>提示 #%3: 原生質體僅限使用。記得計數！<<"
     }
   },
   ">>TIP #4: Upgrade your Plasmids at Power to the People stations. Upgrades are PERMANENT. Choose carefully!<<": {
@@ -1186,7 +1186,7 @@
       "JP": ">>TIP #4: パワートゥザ让人们升级你的Plasmids。アップグレードはPERMANENTです。慎重に選んでください！<<",
       "CN": ">>提示#4：在人民力量机器升级你的质粒。升级是永久性的。谨慎选择！<<",
       "KR": ">>경고 #4: Power to the People 스테이션에서 플라스미드를 업그레이드하세요. 업그레이드는 영구적입니다. 신중히 선택하세요!<<",
-      "TW": ""
+      "TW": ">>提示#4：在人民之力站升級您的異能。升級永久有效，請謹慎選擇！<<"
     }
   },
   ">>TIP #5: Little Sister can harvest corpses to buff her teammates. Search them out!<<": {
@@ -1202,11 +1202,11 @@
   ">>TIP #6: Gene Tonics take effect on death. Don't die in vain!<<": {
     "translation": ">>提示#6：基因药水在死亡时生效。不要白白牺牲！<<",
     "MultiLang": {
-      "US": "",
+      "US": ">>TIP #6: Gene Tonics activate upon death. Don't die in vain!<<",
       "JP": ">>TIP #6: ジェンス Tonics は死んだときに効果が発揮される。無駄に死なないでください！<<",
       "CN": ">>提示#6：基因药水在死亡时生效。不要白白牺牲！<<",
       "KR": ">>TIP #6: 게놈Tonics 효과 발현 시Corpse. 사망하지 말라!<<",
-      "TW": ""
+      "TW": ">>提示＃6：基因 tonic在死亡時生效。不要徒然送命！<<"
     }
   },
   ">>TIP #7: Lost health? Visit a health station to recover it!<<": {
@@ -1216,7 +1216,7 @@
       "JP": ">>TIP #7: ロストヒットポイント? 健康ステーションで回復させよう!<<",
       "CN": ">>提示#7：失去生命值？去回血点恢复！<<",
       "KR": ">>팁 #7: HP가 떨어졌나요? 치료소에서 회복하세요!<<",
-      "TW": ""
+      "TW": ">>提示 #%7: 生命值歸零？前往 HEALTH STATION 恢復吧！<<"
     }
   },
   ">>Thank you for playing. Try 1999 mode for a true challenge<<": {
@@ -1253,7 +1253,7 @@
     "translation": ">>提示：鸣鸟的头部是弱点。记住这一点<<",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": ">>ヒント：スongsToは頭射-onlyでしか Vulnerable ではありません。これを覚えておいてください<<",
       "CN": ">>提示：鸣鸟的头部是弱点。记住这一点<<",
       "KR": ">>팁: 골😄짜는 머리에 맞히지 않는 한 약한 상태가 아닙니다. 이 점을 기억하세요<<",
       "TW": ">>提示：鵯鳥Only對頭 Shot才會受伤。請記住這個<<"
@@ -1416,7 +1416,7 @@
       "JP": "",
       "CN": ">>ze_bioshock 生化奇兵v6<<",
       "KR": ">>ze_바이오시크?>>",
-      "TW": ""
+      "TW": ">>ze_生物奇觀<<"
     }
   },
   "I warned you before...": {
@@ -1435,7 +1435,7 @@
       "US": "",
       "JP": "那是个小妹妹。看起来好像一个人...",
       "CN": "那是一个小妹妹。看起来她是一个人...",
-      "KR": "",
+      "KR": "그는 작은 여동생이다. 혼자 보인다...",
       "TW": "那是1個小妹妹。看起來她似乎 Alone..."
     }
   },

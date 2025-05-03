@@ -33,7 +33,7 @@
     "translation": "",
     "MultiLang": {
       "US": "<Received, sir.>",
-      "JP": "",
+      "JP": "<受け取った、長官。>",
       "CN": "",
       "KR": "<받aleza, 장관.>",
       "TW": "<收到,長官.>"
@@ -55,7 +55,7 @@
       "US": "That mechanical behemoth nearly halved our warriors' numbers; we need reinforcement.",
       "JP": "その機械的巨大な Monsters は私たちの半分以上の戦士を失わせた。援軍が必要だ。",
       "CN": "",
-      "KR": "",
+      "KR": "그 거대한 기계 포식자가 거의 우리 반의 전사들을消灭了我们一半的战士, 我们需要增援.我们需要增援.",
       "TW": "那頭機械巨獸幾乎抹去了我們1半的戰士,我們需要增援."
     }
   },
@@ -93,10 +93,10 @@
     "translation": "",
     "MultiLang": {
       "US": ">Fuck, did it really happen in the end..>",
-      "JP": "",
+      "JP": "他妈の、终究还是发生了嗎..",
       "CN": "",
-      "KR": "",
-      "TW": ""
+      "KR": "타마의,终究还是发生了吗..",
+      "TW": "他妈的，終究還是發生了嗎.."
     }
   },
   "*无线电*: 代号Filth,发生什么了,赶紧回复.": {
@@ -114,7 +114,7 @@
     "MultiLang": {
       "US": "[The teammate in the rear compartment has been virus-altered and is attacking the train!]",
       "JP": "後ろの車両の teammate がウイルスによって異常に変化し、他们正在袭击列车！",
-      "CN": "",
+      "CN": "后备厢的队友被病毒感染了，他们正在攻击列车!",
       "KR": "후차厢의 팀원이 바이러스로 변했다. 그들은 기차를 공격하고 있다!",
       "TW": "後車廂的隊友被病毒異化了，他們在攻擊列車!"
     }
@@ -146,7 +146,7 @@
       "JP": "全ての人間、しっかり抓めて！私たちは列車を脱軌させなければならない！>",
       "CN": "",
       "KR": "<모두牢牢抓紧!我们必须让列车出轨了!?>",
-      "TW": ""
+      "TW": "所有人抓穩!我们必须讓列車脫軌了!"
     }
   },
   "<我靠..我们还活着..看来还没到该死去的时候.>": {
@@ -175,7 +175,7 @@
       "US": "We need to find a way out around here; maybe we can also find a new train.",
       "JP": "我々は外に出る方法を考えなければならず、新しい列車を見つけられるかもしれません。",
       "CN": "",
-      "KR": "",
+      "KR": "우리가eway找办法绕出去 maybe还能找到新列车 >",
       "TW": "我們得想辦法繞出去,也許還能找到新的列車。"
     }
   },
@@ -235,7 +235,7 @@
       "US": "[Niumo's Reward, Out of Mana!]",
       "JP": "牛魔の酬宾,没电了!",
       "CN": "",
-      "KR": "",
+      "KR": "우물-Token의 상품, 전력이 떨어졌습니다!",
       "TW": "牛魔的酬賓,沒電了!"
     }
   },
@@ -323,7 +323,7 @@
     "translation": "",
     "MultiLang": {
       "US": "Those are... the allies' helicopters?",
-      "JP": "",
+      "JP": "Those are...同盟的直升机?",
       "CN": "",
       "KR": "그those는... 동맹의 helicopter?",
       "TW": ""
@@ -376,7 +376,7 @@
       "JP": "",
       "CN": "",
       "KR": "<원래他们是干的..可恶..他们到底是什么人.>",
-      "TW": ""
+      "TW": "原來是他們幹的..可惡..他們到底是什么人."
     }
   },
   "<有一批武装人员从直升机下来了!>": {
@@ -385,7 +385,7 @@
       "US": ">> There is a group of armed personnel landing from the helicopter! <<",
       "JP": "<武装人員がヘリコプターから降車しました!]",
       "CN": "",
-      "KR": "",
+      "KR": "한helicopter에서一批武装人员下来了!",
       "TW": "<有1批武裝人員從直升機下來了!>"
     }
   },
@@ -663,7 +663,7 @@
     "translation": "",
     "MultiLang": {
       "US": "It seems we can only pass through the drain.",
-      "JP": "",
+      "JP": "看来只能从下水道过去。",
       "CN": "看来只能从下水道过去。",
       "KR": "<보아하니唯有下水道可以通行.>",
       "TW": "<看来只能從下水道過过去了.>>"
@@ -674,7 +674,7 @@
     "MultiLang": {
       "US": ">> Should be about ready, get prepared!<<",
       "JP": "べき差不多了, 準備做好!",
-      "CN": "",
+      "CN": "差不多了，做好准备！",
       "KR": "<약간의 시간이 더 필요하지만, 준비를 마)__完成翻译，请继续。>",
       "TW": "應該差不多了,做好準備!"
     }
@@ -762,7 +762,7 @@
   "<快进来!我要关上这个门了!>": {
     "translation": "",
     "MultiLang": {
-      "US": "",
+      "US": "Come in fast! I'm going to close this door!",
       "JP": "<早く入って来な！このドア closing 时だ！>",
       "CN": "快来里面!我要关门了!",
       "KR": "<快来吧! 문을 닫으려고doing so now.!>",
@@ -825,7 +825,7 @@
       "US": "They are preparing to break through here, prepare to evacuate!",
       "JP": "彼らはここを攻めようとしているので、準備して避難しなさい!",
       "CN": "",
-      "KR": "",
+      "KR": "그들은 여기를 공격할 준비가 되었다, 철수 준비!/>>",
       "TW": "他们準備攻破這裡了,準備撤離!"
     }
   },
@@ -935,7 +935,7 @@
       "US": "Action quickly, all of you get on the locomotive!",
       "JP": "動作を早めて、全員が車頭に乗れ!",
       "CN": "<快行动,全都给我挤上火车头!]",
-      "KR": "",
+      "KR": "행동快来点,都给我滚上火车头!",
       "TW": "動作快點,都給我擠上火車頭!"
     }
   },
@@ -1023,7 +1023,7 @@
     "translation": "",
     "MultiLang": {
       "US": "*Radio*: ..They are Reescape, the key to the success or failure of NPST operation..",
-      "JP": "",
+      "JP": "*無線電*: ..他们是代号Reescape，是NPST行动成败的关键..",
       "CN": "",
       "KR": "*무선 통신*: ..그들은 대호 Reescape이며 NPST 작전의 성패가 걸린 절대적인 요인이다..",
       "TW": "*無線電*: ..他們是代號Reescape，是NPST行動成敗的關鍵.."
@@ -1095,7 +1095,7 @@
       "US": "<...But we will do our utmost to complete the mission.>",
       "JP": "<...しかし、私たちはmissionを全力で果たそうとする。>",
       "CN": "",
-      "KR": "",
+      "KR": "<...하지만, 우리는 임무를 최선을 다해 수행할 것입니다.>",
       "TW": "<...但是,我們會竭盡全力完成使命.>"
     }
   },
@@ -1133,7 +1133,7 @@
     "translation": "",
     "MultiLang": {
       "US": "<<The only way to complete the task is this.>>",
-      "JP": "",
+      "JP": "しかない方法がある。",
       "CN": "",
       "KR": "<한 가지 방법밖에 없어.Task를 완료할 수 있다.>",
       "TW": "[只能用這個方法來完成任務.]"
@@ -1156,7 +1156,7 @@
       "JP": "<工場電源が再起動しました！>",
       "CN": "工厂电源重启中!",
       "KR": "[공장 전원이 재시작 중!]",
-      "TW": ""
+      "TW": ".Factory電源已重新啟動!"
     }
   },
   "<大概要60秒恢复电力.>": {
@@ -1193,7 +1193,7 @@
     "translation": "",
     "MultiLang": {
       "US": "Already no way to retreat...",
-      "JP": "",
+      "JP": "すでに後ろに道はなく...",
       "CN": "",
       "KR": "< 이미 도로가 없어졌나...>",
       "TW": "已經無路可退了..."
@@ -1205,7 +1205,7 @@
       "US": "This will be our final battle.",
       "JP": "これは最後の戦いだ。<..",
       "CN": "",
-      "KR": "",
+      "KR": "이것은 우리 마지막 전투입니다.",
       "TW": "這是我們最後1戰."
     }
   },
@@ -1223,7 +1223,7 @@
     "translation": "",
     "MultiLang": {
       "US": "Don't let these zinc slag escape... Let them all go to hell!",
-      "JP": "",
+      "JP": "THESE 鉛渣 别想跑出去...一起 下地獄去吧!",
       "CN": "",
       "KR": "< näm니这些东西不要逃出去...一起下去见鬼去吧!>",
       "TW": "別讓這些錦渣逃出去...1起他媽下地獄吧!"
@@ -1283,10 +1283,10 @@
     "translation": "",
     "MultiLang": {
       "US": "[Version 1.3] Minigun reset, pipeline trigger modification, etc.",
-      "JP": "",
-      "CN": "",
+      "JP": "バージョン1.3 ミニガン再設定、パイプトリガー修正など.",
+      "CN": "<Ver 1.3> 缔造者机枪重置，管道触发修改等",
       "KR": "<Ver 1.3> Minigun 재설정, 파이프 트리거 수정 등.",
-      "TW": ""
+      "TW": "<Ver 1.3>_minigun重置,管道觸發修改等."
     }
   }
 }

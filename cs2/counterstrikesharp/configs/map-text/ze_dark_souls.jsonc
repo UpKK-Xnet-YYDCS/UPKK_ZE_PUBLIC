@@ -32,7 +32,7 @@
   "** 3/6 crystal lizards were collected **": {
     "translation": "** 收集了 3/6 个结晶蜥蜴 **",
     "MultiLang": {
-      "US": "",
+      "US": "*** 3/6 Crystal Lizards Collected ***",
       "JP": "*** 3/6クリスタルリザードが集められた ***",
       "CN": "** 收集了 3/6 个结晶蜥蜴 **",
       "KR": "*** 3/6 크рист알 릴레이지가 수집되었습니다 ***",
@@ -52,7 +52,7 @@
   "** 5/6 crystal lizards were collected **": {
     "translation": "** 收集了 5/6 个结晶蜥蜴 **",
     "MultiLang": {
-      "US": "",
+      "US": "*** 5/6 Crystal Lizards Collected ***",
       "JP": "*** 5/6クリスタルリザードが集められました ***",
       "CN": "** 收集了 5/6 个结晶蜥蜴 **",
       "KR": "*** 5/6 크рист탈 라이저가 수집되었습니다 ***",
@@ -93,7 +93,7 @@
     "translation": "** 管理员设置为冠军模式 **",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "*** 管理者設定チャレンジモード ***",
       "CN": "** 管理员设置为冠军模式 **",
       "KR": "*** 관리자 설정 챔피온 모드 ***",
       "TW": "** Admin 设定戰將模式 **"
@@ -103,10 +103,10 @@
     "translation": "** 管理员设置为普通模式 **",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "*** 管理者設定 正常模式 ***",
       "CN": "** 管理员设置为普通模式 **",
       "KR": "** 관리자 설정 정상 모드 **",
-      "TW": ""
+      "TW": "*** 管理員設定普通模式 ***"
     }
   },
   "** All Undead are corralled and led to the Asylum. meant to reside here till the end of the world **": {
@@ -263,7 +263,7 @@
     "translation": "** 收集了 6/7 个眼眸 **",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "***目集めた6/7***",
       "CN": "** 收集了 6/7 个眼眸 **",
       "KR": "** 눈 모아 6/7**",
       "TW": "**眼收集6/7**"
@@ -336,7 +336,7 @@
       "JP": "★★ よくやった。深さの門は15秒後に開きます ★★",
       "CN": "** 干得好。底层门将在 15 秒后打开 **",
       "KR": "*** 대단합니다. 깊은 곳 문은 15초 후에 열립니다 ***",
-      "TW": ""
+      "TW": "*** 好工作。深淵之門將在15秒後開啟 ***"
     }
   },
   "** It serves as a giant prison for the Undead branded with the Darksign. Allowing them to be reborn after death **": {
@@ -376,7 +376,7 @@
       "JP": "*** 主門が閉まっているようだ。開けるためにはレバーを見つけなければならない ***",
       "CN": "** 看起来主门是关闭的。我们需要找到一个杠杆来打开它 **",
       "KR": "★★ 주yletter_main_gate 닫혀 Appears我们需要找到一个杠杆来打开它★★",
-      "TW": ""
+      "TW": "*** 看來主門關上了，我們需要找一個開關才能打開它 ***"
     }
   },
   "** Looks like the main path is destroyed. We need to find another path to Old Church **": {
@@ -406,7 +406,7 @@
       "JP": "",
       "CN": "** 地图作者：HaRyDe、Microsoft、Kotya 翻译：Asteri3m **",
       "KR": "** 맵由HaRyDe.微软.柯雅**",
-      "TW": ""
+      "TW": "** 圖版由HaRyDe. 微軟. 科 nya **"
     }
   },
   "** Not far from the old church. according to legends. there is the grave of a legendary hero. from where the howl of a lone wolf can sometimes be heard **": {
@@ -945,7 +945,7 @@
       "US": "",
       "JP": "** この像...美しいだけでなく、周りに不思議な温かみを放っている **",
       "CN": "** 这座雕像……它美丽非凡，而且周围散发出一种异乎寻常的温暖 **",
-      "KR": "",
+      "KR": "*** 이 조각상... 아름다우면서도 낯선 따뜻함이 그 주변을 둘러싸고 있답니다 ***",
       "TW": "** 此雕像……美得令人窒息，周圍散發出1種異常的溫暖 **"
     }
   },
@@ -963,17 +963,17 @@
     "translation": "** 版本 1.0.1.3 **",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "*** バージョン 1.0.1.3 ***",
       "CN": "** 版本 1.0.1.3 **",
       "KR": "** 버전 1.0.1.3 **",
-      "TW": ""
+      "TW": "** 版本 1.0.1.3 **"
     }
   },
   "** WATCH OUT FOR BOULDERS! **": {
     "translation": "** 小心巨石！ **",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "***落石に注意！***",
       "CN": "** 小心巨石！ **",
       "KR": "*** 돌출산이 있으니 조심하세요! ***",
       "TW": "** 注意石塊！ **"
@@ -983,7 +983,7 @@
     "translation": "** 干得好。主大门将在 10 秒后打开 **",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "***よく_done. 主門_は10秒後に開きます***",
       "CN": "** 干得好。主大门将在 10 秒后打开 **",
       "KR": "*** 잘하셨습니다. 주요 문은 10초 후에 열립니다 ***",
       "TW": "** 好極了。主門将在10秒後開啟 **"
@@ -993,7 +993,7 @@
     "translation": "** 干得好。再等 5 秒直到大门打开 **",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "*** よくやった。ゲートが開くまで5秒待って ***",
       "CN": "** 干得好。再等 5 秒直到大门打开 **",
       "KR": "*** 잘했어요. 문이 열릴 때까지 더_WAIT_5_초_기다려주세요 ***",
       "TW": "** 好了，再等 5 秒鐘門就開了 **"
@@ -1186,13 +1186,13 @@
       "JP": "***... 你的命运由你选择...***",
       "CN": "**...选择你的命运...**",
       "KR": "***... 운명을 선택하라...***",
-      "TW": ""
+      "TW": "... 選擇你的命運 ..."
     }
   },
   "**...Gwyn knew that only the Dark Lord will be able to reach him... and the First flame...**": {
     "translation": "**...葛温知道只有黑暗之王才能找到他...以及初始之火...**",
     "MultiLang": {
-      "US": "",
+      "US": "***...Gwyn knew that only the Dark Lord could reach him... and the First Flame...***",
       "JP": "***...グウィンは闇の主しか彼に達することができないことを知っていた...そして初めの炎...***",
       "CN": "**...葛温知道只有黑暗之王才能找到他...以及初始之火...**",
       "KR": "***...그위인은 단지 어둠의 주인이 도달할 수 있을 뿐이고... 그리고 첫 번째 화염...***",
@@ -1206,7 +1206,7 @@
       "JP": "***...ジブンはabyssが身近に realizationした。その後最期の力を取り纏め...***",
       "CN": "**...葛温意识到深渊就在他周围。然后他聚集了他最后的力量...**",
       "KR": "***...그위인은 어둠의abyss는 자신 주변에 있다는 것을 깨달았다. 그런 다음 마지막 힘을 모았다...***",
-      "TW": ""
+      "TW": "***...蓋文意識到byss就在他周圍。隨後他聚集起最後的力量...***"
     }
   },
   "**...He ordered his Black Knightes to seal the passage to the First Flame...**": {
@@ -1226,7 +1226,7 @@
       "JP": "***オオラシールの滅亡後。顧問の裏切りと四王の消失...***",
       "CN": "**在乌拉席露陨落后，顾问的背叛和四王消失之后...**",
       "KR": "***오올아실의 함락 후. 조언자의 배신과 네 왕의 사라짐...***",
-      "TW": ""
+      "TW": "***奧拉西勒之敗。顧問的背叛與四王的消失...]***"
     }
   },
   "**Gwyn Lord of Cinder is dead...**": {
@@ -1236,7 +1236,7 @@
       "JP": "**灰烬之王グウィンは死んだ...]",
       "CN": "**薪王葛温已死亡...**",
       "KR": "**/ayn Lord of Cinder는 죽었습니다...**",
-      "TW": ""
+      "TW": "***Gwyn爐炭之主已死...***"
     }
   },
   "**The fire will fade away in 10 seconds**": {
@@ -1246,7 +1246,7 @@
       "JP": "**火は10秒後に消えてなくなる**",
       "CN": "**火焰将在10秒内熄灭**",
       "KR": "**불은 10초 후에 사라질 것이다**",
-      "TW": ""
+      "TW": "***火焰将在10秒後熄滅***"
     }
   },
   "**The fire will fade away in 20 seconds**": {
@@ -1283,10 +1283,10 @@
     "translation": "",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "** 版本 1.0.2.1 **",
       "CN": "版本 1.0.2.1",
       "KR": "** 버전 1.0.2.1 **",
-      "TW": ""
+      "TW": "*** 版本 1.0.2.1 ***"
     }
   },
   "** Map by HaRyDe. Microrost. Kotya. Friend **": {
@@ -1294,8 +1294,8 @@
     "MultiLang": {
       "US": "",
       "JP": "** マップ由 HaRyDe. Microrost. Kotya. Friend **",
-      "CN": "",
-      "KR": "",
+      "CN": "**地图由HaRyDe.Microrost.Kotya.Friend制作**",
+      "KR": "*** 맵 제작자 : HaRyDe. 마이크로스트. Kotya. 친구 ***",
       "TW": "** 圖版由 HaRyDe. Microrost. Kotya. 朋友 **"
     }
   },
