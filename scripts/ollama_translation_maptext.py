@@ -63,6 +63,12 @@ def translate_text(original_text, lang_code, filename):
         logging.info(message)
         print(message)  # 控制台输出
         return None
+    
+    if lang_code == "US" and is_english(original_text):
+        message = f"[Skip]: 文件: {filename} | 原文: {original_text} | 原语言: 英文 | 目标语言: US | 理由: 原文为英语"
+        logging.info(message)
+        print(message)  # 控制台输出
+        return None
 
     _, lang_en_name = LANGUAGE_MAP[lang_code]
     prompt = build_prompt(lang_en_name, original_text)
@@ -192,7 +198,8 @@ def process_file(file_path):
 
 # 判断原文是否是英语
 def is_english(text):
-    return bool(re.match(r'^[a-zA-Z0-9\s]*$', text))
+    # 判断是否只包含英文字母、数字和空格
+    return bool(re.match(r'^[a-zA-Z0-9\s]*$', text.strip()))
 
 # 主程序
 def main():
