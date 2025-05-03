@@ -3,10 +3,10 @@
     "translation": "<success>",
     "MultiLang": {
       "US": "[Success]",
-      "JP": "",
-      "CN": "",
-      "KR": "",
-      "TW": ""
+      "JP": "<成功>",
+      "CN": "<成功>",
+      "KR": "<성공>",
+      "TW": "<成功>"
     }
   },
   "<“…了解，我们会尽力完成任务…”>": {
@@ -55,7 +55,7 @@
       "US": "\"Sir, despite some setbacks, we have still completed our mission. We brought back the final key, Sirius, from the apollyon facility.\"",
       "JP": "長官、いくつかの挫折を経虽然，任務は無事完了しました。私たちがアポリヨン施設から取り戻した最後の鍵は〈シオン狼星〉です。",
       "CN": "<“长官，尽管遇到了一些挫折，我们还是圆满完成任务。我们从apollyon设施中带回了最后的钥匙〈天狼星〉”>",
-      "KR": "",
+      "KR": "\"상관님,虽说遇到了一些挫折，但我们还是圆满完成了任务。我们从apollyon设施中带回了最后一把钥匙〈天狼星〉\"",
       "TW": "「長官，儘管遇到了1些挫折，我們還是-complete the task 〈天狼星〉」"
     }
   },
@@ -113,7 +113,7 @@
     "translation": "<在你们到来前，“落雪”小队负责对基地的探索，但是全部下落不明，无法再接收他们的救援信号，指挥部猜测他们已经遇难，如果是你们，我们希望能找到他们的线索。>",
     "MultiLang": {
       "US": "Before your arrival, Team \"Snowfall\" was responsible for exploring the base, but they all went missing and couldn't receive their rescue signals. Headquarters suspects they have perished. If you are them, we hope you can find some clues for us.",
-      "JP": "",
+      "JP": "「到着する前に、「雪片」小隊は基地の探索に担当されていましたが、全員連絡不能となり、救助 SIGNAL を受信できなくなりました。本部では彼らが既に犠牲になったと考えています。もし貴方達であれば、彼らの手がかりを見つけられるでしょう。」",
       "CN": "<在你们到来前，“落雪”小队负责对基地的探索，但是全部下落不明，无法再接收他们的救援信号，指挥部猜测他们已经遇难，如果是你们，我们希望能找到他们的线索。>",
       "KR": "",
       "TW": "在你們到来前，“落雪”小隊負責對基地的探索，但是全部下落不明，無法再接收他們的救援信號，指揮部猜测他們已經遇難，如果是我們，希望能找到他們的線索。"
@@ -183,9 +183,9 @@
     "translation": "<正是如此，因此这里也被称作“落雪长眠之地”，因地处高纬极寒地带，基地外部常年被冰雪笼罩，周边为高耸入云的雪山群，以此其隐蔽性也独具一格...>",
     "MultiLang": {
       "US": "Exactly for this reason, it is also known as the \"Snowfall Dormitory.\" Due to its location in the high-latitude freezing region, the base is perpetually shrouded in ice and snow, surrounded by towering mountain ranges that pierce the sky. Its隐蔽性也独具一格...",
-      "JP": "",
+      "JP": "これはまさにその通りで、ここは「落雪長眠之地」などと呼ばれる。極寒の高地に位置し、基地の外側は年間を通じて冰雪で覆われており、周囲には雲天まで届く高耸雪山群が連なる。そのためのここの隠蔽性も一風変わったものとなっている...",
       "CN": "<正是如此，因此这里也被称作“落雪长眠之地”，因地处高纬极寒地带，基地外部常年被冰雪笼罩，周边为高耸入云的雪山群，以此其隐蔽性也独具一格...>",
-      "KR": "",
+      "KR": "이менно vậy因此这里也被称作“雪花长眠之地”，由于地处高纬极寒地带，基地外部常年被冰雪覆盖，周边是高耸入云的雪峰群，因而其隐蔽性也独树一帜...",
       "TW": "<正是如此，因此這裡也被稱作“落雪長眠之地”，因地处高緯極寒地带，基地外部常年被冰雪笼罩，周边為高耸入雲的雪山群，以此其隐蔽性也独具1格...>"
     }
   },
@@ -213,9 +213,9 @@
     "translation": "<衔尾蛇小队，我收到了你们此次行动的代号，你们的行动就称作破晓…（信号断开，滋滋声）>",
     "MultiLang": {
       "US": "[Serpent Coil Squad, I received your operation code for this mission. Your行动 will be called Dawn… (Signal cut off, buzzing sound)]",
-      "JP": "",
+      "JP": "衔尾蛇小队、今回の行動のコードネームを受け取りました、你的行动称为破晓…（信号切断、ズズッ）",
       "CN": "<衔尾蛇小队，我收到了你们此次行动的代号，你们的行动就称作破晓…（信号断开，滋滋声）>",
-      "KR": "",
+      "KR": "연결된 스네이크 소대, 이번 작전의 코드명을 받았습니다. 당신들의 작전은 새벽akest... (신호가 끊겼다, 흐름음)",
       "TW": "<衔尾蛇小隊，我收到了你們此次行動的代號，你們的行動就稱作破曉…（信號斷開，滋滋聲）>"
     }
   },
@@ -356,7 +356,7 @@
       "JP": "“Asterac隊長！！”",
       "CN": "“Asterac队长！！”",
       "KR": "Asterac대장!!",
-      "TW": ""
+      "TW": "“asterac隊長！！”"
     }
   },
   "“MS的增员来了！我能听到战斗机引擎的轰鸣声！”": {
@@ -443,9 +443,9 @@
     "translation": "“他妈的！是他们的武装直升机！注意躲避！！”",
     "MultiLang": {
       "US": "F**k! Their armed helicopters! Watch out for dodging!!",
-      "JP": "",
+      "JP": "「他媽的！是他們的武裝直升機！注意閃避！！」",
       "CN": "“他妈的！是他们的武装直升机！注意躲避！！”",
-      "KR": "",
+      "KR": "천만에! 그들의 장비 헬기라! 주의해서 피하라!!",
       "TW": "「該死的！是他們的武裝直升機！注意閃避!!」"
     }
   },
@@ -505,7 +505,7 @@
       "US": "Prepare to启动Ragnarok协议，对近卫炮蓄能",
       "JP": "準備啟動Ragnarok協議，對近衛砲蓄能",
       "CN": "“准备启动Ragnarok协议，对近卫炮蓄能”",
-      "KR": "",
+      "KR": "\"라그나로크 프로토콜 준비 시작, 근위병 대포 충전 ready\"",
       "TW": "準備啟動雷神協議，對近衛炮蓄能"
     }
   },
@@ -526,14 +526,14 @@
       "JP": "前には昇降機があります。ここから本機能室に到達できるでしょうが、感染者的な敵に気をつけて、彼らにプラットフォームに乗せてはいけません！",
       "CN": "“前面就是升降梯了，从这里应该可以到达主控室，但是要小心这里的感染者，不要让他们登上平台！”",
       "KR": "4. 번역 오류나 과도한 추가로 인해 실패视图模式",
-      "TW": ""
+      "TW": "前面就是升降梯了，從這裡應該可以到達主控室，但是要小心這裡的感染者，不要讓他們登上平台！"
     }
   },
   "“千般荒凉，以此为梦…这是我的死地，也是我的归宿，牺牲是为了帮助你们走更长的路，记得将落雪小队的意志带回总部，永远追随你们的步伐...”": {
     "translation": "“千般荒凉，以此为梦…这是我的死地，也是我的归宿，牺牲是为了帮助你们走更长的路，记得将落雪小队的意志带回总部，永远追随你们的步伐...”",
     "MultiLang": {
       "US": "\"Desolate and lonely, this is where I dream... This is my death and my home, the sacrifice for your longer journey ahead, remember to convey the Will of Snowfall Squad back to headquarters, always follow your footsteps...\"",
-      "JP": "",
+      "JP": "「千般荒涼、以此為夢…これは私の死地、也是我的歸宿，犧牲はあなたたちがより長い道を歩むためにある、落雪小隊の意志を本部に伝えよ、永遠にあなたの足取りを追いかける……」",
       "CN": "“千般荒凉，以此为梦…这是我的死地，也是我的归宿，牺牲是为了帮助你们走更长的路，记得将落雪小队的意志带回总部，永远追随你们的步伐...”",
       "KR": "4. 번역 오류나 과도한 번역은 임무 실패로 치一回事的荒凉，以此为梦…这是我的死地，也是我的归宿，牺牲是为了帮助你们走更长的路，记得将落雪小队的意志带回总部，永远追随你们的步伐...",
       "TW": "“千般荒涼，以此為夢…這是我的死地，也是我的歸宿，犧牲是为了幫助你們走更長的路，記得將落雪小隊的意志带回總部，永遠追随你們的步伐...”"
@@ -645,7 +645,7 @@
       "US": "\"Tanks seem usable, drive it to blast the door apart!\"",
       "JP": "「タンクはまだ使えるsembi，運転してそれを扉に爆破させろ！」",
       "CN": "“坦克似乎还能用，驾驶它炸碎大门！”",
-      "KR": "",
+      "KR": "탱크는 아직 usable 하다.驾驭它砸碎大门！",
       "TW": "“坦克似乎還能用，開著它炸碎大門！”"
     }
   },
@@ -775,7 +775,7 @@
       "US": "Infectors continue to pour in endlessly. If the base station in the Main Control Room is destroyed, the Ragnarok mission will also come to an end... Xiaolu's sacrifice will be in vain....",
       "JP": "感染者は依然として連 tục的に蜂巣い incoming, 总控室的基站若被破坏，则Ragnarok任务亦将终结…落雪的牺牲也将化为泡影…",
       "CN": "“感染者还在源源不断涌入，总控室的基站如果被毁，那Ragnarok任务也将落幕…落雪的牺牲将化为乌有…”",
-      "KR": "",
+      "KR": "“감염자들이 계속源源不断地涌进来，总控室的基站如果被毁，那Ragnarok任务也将落幕… 러셀的牺牲将化为乌有…”",
       "TW": "感染者仍在源源不絕湧入，總控室的基站如果被毀，那Ragnarok任務也將落幕…落雪的犧牲將化為烏有…"
     }
   },
@@ -885,7 +885,7 @@
       "US": "I have sustained severe injuries... Many unknown creatures appeared in the base, nearly annihilating our entire squad. I am searching for missing teammates here and accidentally entered the archive room where I found the **<Caghdothaya>**. This is the last key to启动灯塔...",
       "JP": "「すでに重傷…基地には多くの未知生物が現れ、私たちは小隊をほぼ破壊された。私はここで亡失した部下を探し、偶然資料室に入り〈カゴチュア〉を見つけた。これは灯台を起動する最後の鍵だ…」",
       "CN": "“我已经身受重伤…基地中出现了许多未知的生物，他们几乎毁灭了我们整个小队，我在这里寻找遗失的队员，误打误撞进入了档案室找到了〈卡冈图雅〉，这是启动灯塔的最后一把钥匙…”",
-      "KR": "",
+      "KR": "“我已经身受重伤…기지 중에 많은 미지의 생물들이 나타나서 우리의 전체 소대를 거의 파괴했어요, 여기서 잃어버린 동료들을 찾다가档案室找到了〈卡冈图雅〉，这是启动灯塔的最后一把钥匙…”",
       "TW": "“我已經身受重傷…基地中出現了許多未知的生物，他們幾乎毀滅了我們整個小隊，我在這裡尋找遺失的隊員，誤打误撞進入了檔案室找到了〈卡冈图雅〉，這是啟動燈塔的最后1把钥匙…”"
     }
   },
@@ -1003,9 +1003,9 @@
     "translation": "“核心成功启动了！强大的能量竟然被控制住了！不对，上空的光环是什么？算了...管不了这么多了，快走！”",
     "MultiLang": {
       "US": "Core activation successful! Powerful energy surprisingly contained! Wait, what is the halo above? Never mind... Can't afford to think about it, let's go!",
-      "JP": "",
+      "JP": "核心成功启动了！強大的能量竟然被控制住了！不对，上空的光环是什么？算了...これほど時間はない、早く行こう！",
       "CN": "“核心成功启动了！强大的能量竟然被控制住了！不对，上空的光环是什么？算了...管不了这么多了，快走！”",
-      "KR": "",
+      "KR": "핵심 성공 시작了自己的能量竟然被控制住了！不对，天空中的光环是什么？ thôi... 이 MUCH 더 이상 신경 쓸 시간이 없으니, 빨리 가자!",
       "TW": ""
     }
   },
@@ -1016,7 +1016,7 @@
       "JP": "「核芯能量溢出、すべてのテスト人員は即刻基地から退出してください、 Repeat！すべてのテスト人員は基地から退出！」",
       "CN": "“核心能量溢出，请所有测试人员立刻离开基地，重复！所有测试人员离开基地！”",
       "KR": "\"핵심 에너지 유출입니다. 모든 테스터들은 즉시 기지를 떠나십시오. 다시 말씀드립니다! 모든 테스터들이 기지를 떠나십시오!\"",
-      "TW": ""
+      "TW": "核心能量溢出，請所有測試人員立刻離開基地，重複！所有測試人員離開基地！"
     }
   },
   "“检测到核心受损程度超过三分之一，启动核心气浪系统”": {
@@ -1033,7 +1033,7 @@
     "translation": "“求你了，队长，我深知我已命不久矣，但请允许我陪伴你们最后一战，既是为了灯塔，也是为了落雪小队…”",
     "MultiLang": {
       "US": "\"Please, Captain, I know my time is short, but let me accompany you in this last battle for the lighthouse, and also for Snowfall Squad...\"",
-      "JP": "",
+      "JP": "「お願いします、隊長。私は自分が时日不多深感到了解，但仍请让我陪伴你们最后一战，既是为灯塔，也是为落雪小队…」",
       "CN": "“求你了，队长，我深知我已命不久矣，但请允许我陪伴你们最后一战，既是为了灯塔，也是为了落雪小队…”",
       "KR": "\"선수님, 부탁드립니다. 제가 이미 임박한 생을 알고는 있지만, 마지막 전투에서 여러분들 곁에 있길 허락해주실 수 있을까요? 빛나는등대와 함께, 그리고 로⬇️설 소속팀…”",
       "TW": "“求你了，隊長，我深知我已命不久矣，但請允許我陪伴你們最後1戰，既是为了燈塔，也是為了落雪小隊…”"
@@ -1045,7 +1045,7 @@
       "US": "\"Burn!\"",
       "JP": "「燃え上がれ！」",
       "CN": "“燃烧起来！”",
-      "KR": "",
+      "KR": "горение 시작!\"",
       "TW": "燃燒起來！"
     }
   },
@@ -1076,7 +1076,7 @@
       "JP": "「エレベーターが再起動中、彼らに近づかせないでください！20秒間守り切る」",
       "CN": "“电梯正在重启，不要让他们接近这里！防守20秒”",
       "KR": "전기차를 재시작 중입니다. 그들에게 이곳에 다가서지让用户继续，不再显示无关信息。",
-      "TW": ""
+      "TW": "電梯正在重新啟動，不要讓他們接近這裡！守護20秒"
     }
   },
   "“直到最后，没有什么可以被遗忘的了，我才想起，死亡也是记忆的一种方式…”": {
@@ -1095,17 +1095,17 @@
       "US": "It seems this test facility has its own backup power supply. Hurry and leave the control room, I have a bad feeling...",
       "JP": "「ここにある実験施設には備蓄電力があるらしい。-control室から早く離れて、何か不吉な予感がする…」",
       "CN": "“看来这里的试验区拥有自己的备用电力，快离开控制室，我有种不祥的预感...”",
-      "KR": "",
+      "KR": "\"여기서 실험실은 본래 비상 전력이 있던 것 같다. 통제실에서 빨리 벗어나자. 어떤 악感应的翻译结果：\n\n\"看来这里的试验区拥有自己的备用电力，快离开控制室，我有种不祥的预感...\"\n\n翻译为韩语：\n\n\"여기서 실험실은 본래 비상 전력이 있던 것 같다. 통제실에서 빨리 벗어나자. 어떤 악感应\"",
       "TW": "“看來這裡的實驗區有自己的備用電力，快離開控制室，我有种不祥的預感...”"
     }
   },
   "“破晓终幕（Ragnarok)!”": {
     "translation": "“破晓终幕（Ragnarok)!”",
     "MultiLang": {
-      "US": "",
-      "JP": "",
+      "US": "\"Break Dawn Final Act (Ragnarok)!\"",
+      "JP": "破曉終幕（ラグナロク)!",
       "CN": "“破晓终幕（Ragnarok)!”",
-      "KR": "",
+      "KR": "“새벽이 찾아왔어(Ragnarok)! ”",
       "TW": "“破曉終幕（Ragnarok)!”"
     }
   },
@@ -1115,7 +1115,7 @@
       "US": "Finally found the elevator, let's see if it's operational... F**k! Be careful above your head! They're attacking from above! Give me 15 seconds, and the elevator will be here!",
       "JP": "“エレベーターを見つけたぞ、動いているかどうか試してみる...我草！頭上面に注意！彼らから上からの攻撃が来た！すぐに15秒間待って、エレベーターが来い！”",
       "CN": "“终于找到电梯了，试试看能否运作...我草！小心头顶！他们从上面进攻了！给我15秒，电梯马上就来！”",
-      "KR": "",
+      "KR": "마침내 엘리베이터를 찾았다, 작동하는지 시험해보도록...ABCDEFGHIJKLKJIHGFEDCBA！ 위로부터 공격来袭了！给我15秒，电梯马上到位！”",
       "TW": "“終於找到電梯了，試試看能否運作...我草！小心頭頂！他們從上面進攻了！給我15秒，電梯馬上就來！”"
     }
   },
@@ -1233,7 +1233,7 @@
     "translation": "“请让我去吧...”",
     "MultiLang": {
       "US": "\"Please let me go...\"",
-      "JP": "",
+      "JP": "「お願いします...」",
       "CN": "“请让我去吧...”",
       "KR": "\"바게트能让我去...)\"",
       "TW": "請讓我去吧..."
@@ -1275,7 +1275,7 @@
       "US": "Here too are the infected. How did they find their way here...",
       "JP": "ここにも感染者が隠れており、彼らはどのようにしてここに来たのか...",
       "CN": "“这里也藏有感染者，他们是怎么找到这里的...”",
-      "KR": "",
+      "KR": "여기도 감염자들이 숨어 있대. 그들은 어떻게 여기를 찾았을까...",
       "TW": "這裡也藏有感染者，他們是怎麼找到這裡..."
     }
   },
@@ -1283,7 +1283,7 @@
     "translation": "“这里似乎也停电了，从下面的大门过去，重启电力”",
     "MultiLang": {
       "US": "Here seems to be a power outage as well. Go through the door below to restart the power.",
-      "JP": "",
+      "JP": "ここにも電気が止まっているみたいだよ。下の扉を通りcasserturally pasting the translated text as requested:\n\nここにも電気が止まっているみたいだよ。下的扉を通って、電力を再起動せよ。",
       "CN": "“这里似乎也停电了，从下面的大门过去，重启电力”",
       "KR": "여기도 보수 전신이 Appears to be down, 아래의 문을 통과하여 전력을 재시작하세요.",
       "TW": "這裡似乎也斷電了，從下面的門過去，重新啟動電力"
@@ -1295,7 +1295,7 @@
       "US": "Here is the main control room, right...",
       "JP": "こちらがコントロールルームか...",
       "CN": "“这里就是主控室了吧...”",
-      "KR": "",
+      "KR": "이곳이 주제실일 걸...'",
       "TW": "這裡就是主控室了吧..."
     }
   },
@@ -1365,7 +1365,7 @@
       "US": "\"Seems like there's a person lying there... Hurry and check it out.\"",
       "JP": "「そ那に見こ見えてる人がある……早く見て coming」",
       "CN": "“那里好像躺着一个人…快去看看”",
-      "KR": "",
+      "KR": "\"저기 Looks like there's a person lying... Go check quickly.\"",
       "TW": "「那里好像躺著1個人…快去看看」"
     }
   },

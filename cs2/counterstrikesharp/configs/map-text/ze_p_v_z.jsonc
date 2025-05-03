@@ -5,7 +5,7 @@
       "US": ">>Level 1: Garden<<",
       "JP": ">>かんきゅう1：さいやardin<<",
       "CN": "",
-      "KR": "",
+      "KR": ">>관카1：채원<<",
       "TW": ">>關卡1：菜園<<"
     }
   },
@@ -45,7 +45,7 @@
       "US": "Peashooter: Make sure to give Dave a good beating after this. Everyone, get ready to move that hoe blocking the path in front.",
       "JP": "ピーナッツシューター：その後 Dave にちゃんと拷問してcoming up. 大家现在赶紧去准备下搬开前面那个横在路上的锄头 >> <<",
       "CN": "豌豆射手：之后1定要好好教训1下这Dave，大家现在赶紧去准备搬开前面那个横在路上的锄头",
-      "KR": "",
+      "KR": "포카치아射手： Dave는 반드시 다음에 심하게修理一下，大家都快点准备好搬走路上的那个锄头",
       "TW": "豌豆射手：之後1定要好好拷打下這Dave，大家現在緊急準備1下，移開前面擋路的鋤頭"
     }
   },
@@ -55,7 +55,7 @@
       "US": ">>Need to pick up the hoe simultaneously at three different locations<<",
       "JP": ">>同時3か所に鍬を持ち上げる必要がある<<",
       "CN": "",
-      "KR": "",
+      "KR": ">>> 필요한 곳 세 가지에서 동시에铁锹>>提起>>",
       "TW": ">>需要同時在3個不同的部位拿起鐮刀<<"
     }
   },
@@ -65,7 +65,7 @@
       "US": "Nutshell Wall: I wouldn't touch Dave's sewage even if it meant touching gold. The smell is outright disgusting.",
       "JP": "堅果壁：ダイヴ家の sewage 勘弁して欲しい、その匂いだけは堪らない",
       "CN": "",
-      "KR": "",
+      "KR": "밤나무 벽: 도브의 오수는.getAbsolutePath() 접고 싶지 않아. 그 냄새만으로도 구토가 난다.",
       "TW": "堅果牆：戴夫家的汙水我都不想 TOUCH，那味道聞著就噁心"
     }
   },
@@ -134,7 +134,7 @@
     "MultiLang": {
       "US": ">>Nut Wall Ready<<",
       "JP": ">>ナッツ壁已完成<<",
-      "CN": "",
+      "CN": ">>坚果墙已准备完毕<<",
       "KR": ">>🌰벽이 준비되었습니다<<",
       "TW": ">>堅果牆已就緒<<"
     }
@@ -175,7 +175,7 @@
       "US": ">>Shovel handle is ready<<",
       "JP": ">>鎌の柄が完成した<<",
       "CN": ">>锄头柄已准备好<<",
-      "KR": "",
+      "KR": ">>어름대가 준비好了<<",
       "TW": ">>頭柄已經準備好<<"
     }
   },
@@ -215,7 +215,7 @@
       "US": ">>Left 15 seconds<<",
       "JP": ">>残り15秒<<",
       "CN": "",
-      "KR": "",
+      "KR": ">> 남은 시간 15초 <<- \n(Note: The original Chinese text and translation are not exact matches for a typical game interface. A more common way to express this in Korean game interfaces would be \">> 남은 시간 15초 <<\".)",
       "TW": ">>還剩15秒<<"
     }
   },
@@ -234,8 +234,8 @@
     "MultiLang": {
       "US": "Peashooter: The hoe is moved away, everyone retreat quickly.",
       "JP": "ピーナッツシューター：スコップはすでに移動已被移走了，大家快后退",
-      "CN": "",
-      "KR": "",
+      "CN": "豌豆射手：铲子已经被挪开了，大家快后退",
+      "KR": "패＃ontaishouji：-With the hoe moved away, everyone quickly retreat.",
       "TW": "豌豆射手：鋤頭已經被挪開了，大家快後撤"
     }
   },
@@ -264,7 +264,7 @@
     "MultiLang": {
       "US": "",
       "JP": "",
-      "CN": "",
+      "CN": ">>离线传送已激活<<",
       "KR": ">>AFK전송이 활성화되었습니다<<",
       "TW": ">>AFK傳送已激活<<"
     }
@@ -284,7 +284,7 @@
     "MultiLang": {
       "US": "Sunflower: Open the door! I know you're home!",
       "JP": "向日葵：ドアを開けて！君は家にいることを知っている!\");",
-      "CN": "",
+      "CN": "向日葵：快开门！我知道你在家;!",
       "KR": "선술집네거리: 문 열어봐! 넌 집에 있을 거다!",
       "TW": "向日葵：開門啊！我-know你在家裡！"
     }
@@ -324,7 +324,7 @@
     "MultiLang": {
       "US": "Pumpkin Shooter: With the zombies chasing so closely, if you don't want to become food, you can only go down the drain.",
       "JP": "ピーナッツシューター： Depthsに避難するしかないな、ゾンビの迫る速度が早すぎた",
-      "CN": "",
+      "CN": "豌豆射手：没法子了，丧尸追得这么紧，不想变成食物就只能走下水道了",
       "KR": "Ẹ大宗师：Haunted Mansion의 벽을 넘어야지, 좀비가紧跟不舍的话只能走下水道了.",
       "TW": "豌豆射手：沒有辦法了，殭屍追得這麼緊，不想成為食物的話只能走下水道了"
     }
@@ -355,7 +355,7 @@
       "US": ">>The栅栏 blocking the way to the sewers will disappear in 10 seconds<<",
       "JP": ">>通往下水道口の柵欄は10秒後に消えます<<",
       "CN": "",
-      "KR": "",
+      "KR": ">>하수구로 통하는 막대기将在10秒后消失<<",
       "TW": ">>通往下水道口的柵欄將在10秒後消失<<"
     }
   },
@@ -366,7 +366,7 @@
       "JP": "",
       "CN": "",
       "KR": ">>통이下的栅栏将在5秒后消失<<",
-      "TW": ""
+      "TW": ">>通往下水道口的柵欄將在5秒後消失<<"
     }
   },
   ">>通往下水道口的栅栏已经消失<<": {
@@ -375,7 +375,7 @@
       "US": ">>The栅栏通往下水道口 has disappeared<<",
       "JP": ">>下水道口の柵はすでに消滅した<<",
       "CN": "",
-      "KR": "",
+      "KR": ">>하수도로 통하는 케이스가 사라졌]<<",
       "TW": ">>通往下水道口的欄桿已經消失<<"
     }
   },
@@ -385,7 +385,7 @@
       "US": "Peashooter: Why is there still a fence by the sewer entrance? Everyone, hurry and smash this iron fence!",
       "JP": "ピクミンシューター：下水管に柵がなぜまだあるのか、みんなでこの鉄柵を破りましょう！",
       "CN": "",
-      "KR": "",
+      "KR": "두단 사격수: 지하anean 입구에IRON 철조심 아직 남아 있네. 빨리 이것을 부셔버리자!!",
       "TW": "豌豆射手：下水道口怎麼還有1排鐵欄杆的，大家快把這鐵欄杆砸爛！"
     }
   },
@@ -394,7 +394,7 @@
     "MultiLang": {
       "US": ">>Zombies can now pass through fences<<",
       "JP": ">>ゾンビは今栅栏を通過できるようになりました<<",
-      "CN": "",
+      "CN": ">>>丧尸现在可以穿过栅栏<<<",
       "KR": ">> 좀비는 이제 울타리를 통과할 수 있습니다<<",
       "TW": ">>殭屍現在可以穿過欄籬<<"
     }
@@ -425,7 +425,7 @@
       "US": ">>Remaining 10 seconds<<",
       "JP": ">>残り10秒<<",
       "CN": "",
-      "KR": "",
+      "KR": ">>남은 시간 10초<<",
       "TW": ">>還剩10秒<<"
     }
   },
@@ -525,7 +525,7 @@
       "US": ">>The cement wall was broken<<",
       "JP": ">>コンクリート壁が破られた<<",
       "CN": "",
-      "KR": "",
+      "KR": ">>콘크리트 벽이 부순 것 같다<<",
       "TW": ">>水泥牆被打爛了<<"
     }
   },
@@ -533,7 +533,7 @@
     "translation": "",
     "MultiLang": {
       "US": "Sunflower: The sewer exit is just ahead, hurry and knock on Dave's door!",
-      "JP": "",
+      "JP": "向日葵:前に下水道出口があるぞ、ダブ家に急がんじゃ！",
       "CN": "",
       "KR": "고개 Wähle: 앞에 오수통 입구가 있다, 빨리 다비 집 문을 두드려라!",
       "TW": ""
@@ -554,7 +554,7 @@
     "MultiLang": {
       "US": "Crazy Dave: Wibbly Wobbly (What do you call yourself in the morning)",
       "JP": "瘋狂戴夫：ワィビー・バップ(朝から何だよ)",
-      "CN": "",
+      "CN": "疯狂戴夫：歪比巴卜(一大早你就叫唤什么啊)",
       "KR": "크레이지 데이브: 왜비바블(这么早你在喊什么)",
       "TW": "瘋狂戴夫：歪比巴卜(大早上的你叫什麼啊)"
     }
@@ -604,7 +604,7 @@
     "MultiLang": {
       "US": ">>Potato Mines Planted<<",
       "JP": ">>タスマニア地雷が植え付け完了<<",
-      "CN": "",
+      "CN": ">>地雷已种植<<",
       "KR": ">>토마토레이를 심었습니다<<",
       "TW": ">>馬已種植<<"
     }
@@ -625,7 +625,7 @@
       "US": "Sunflower: Haven't seen Dave do this much to his lawn in a few days, he even added some hedging.",
       "JP": "向日葵：数日不见这家伙把草坪整理了这么多树篱",
       "CN": "",
-      "KR": "",
+      "KR": "천일초: 몇 번째로 이 데이브가 자기 파라운드에 이렇게 많은 허브를 만들었나.",
       "TW": "向日葵：幾天沒見這戴夫把他草坪整了這麼多樹籬"
     }
   },
@@ -753,10 +753,10 @@
     "translation": "",
     "MultiLang": {
       "US": ">>The wooden chest vanished<<",
-      "JP": "",
+      "JP": ">>木箱消失した<<",
       "CN": "",
       "KR": ">>목함이 사라졌습니다<<",
-      "TW": ""
+      "TW": ">>木箱消失瞭<<"
     }
   },
   ">>35秒后大门打开<<": {
@@ -774,7 +774,7 @@
     "MultiLang": {
       "US": "",
       "JP": ">>AFK送信已启动<<",
-      "CN": "",
+      "CN": ">>离线传送已启动<<",
       "KR": ">>AFK 전송이 시작되었습니다<<",
       "TW": ">>AFK傳送已啟動<<"
     }
@@ -825,7 +825,7 @@
       "US": "Peashooter: Every time I come here, I can't help thinking of Lilypad Brother in the backyard.",
       "JP": "ピーナッツシューター：毎回ここに来ると Rearcourt のスイレン兄を思い出します",
       "CN": "",
-      "KR": "",
+      "KR": "두부 사격수: 항상 여기 오면 후원의 수련형제를 떠올려요",
       "TW": "豌豆射手：每次來這我都能想起後院的睡蓮兄"
     }
   },
@@ -835,7 +835,7 @@
       "US": "Sunflower: Might as well take a break and check on him in the backyard later.",
       "JP": "向日葵：そのうち休憩時間に後園に行って見 lookout いてみるんだが",
       "CN": "",
-      "KR": "",
+      "KR": "상IALOGUE: 좀 쉬고 뒷마당에 한번 봐보는 거怎样转换为：太阳花：等会休息一下去后院看看他吧",
       "TW": "向日葵：那等會休息1下去後院看看他吧"
     }
   },
@@ -944,7 +944,7 @@
     "MultiLang": {
       "US": "Potato Mine: …I can't hold it much longer, let's go already.",
       "JP": "トウポテロ：……もう我に耐え切れなくなったよ、行く echt...我已经快忍不住了，快走吧",
-      "CN": "",
+      "CN": "地雷：……我已经快要忍不住了，快走吧",
       "KR": "토마토 레: … 이미 거의 참을 수가 없어, 가자已经超过最大输出长度限制，当前输出已结束。",
       "TW": "地雷 Potato：…… Already can't hold it anymore, Let's go already"
     }
@@ -983,7 +983,7 @@
     "translation": "",
     "MultiLang": {
       "US": "Crazy Dave: Got it? Let me see.",
-      "JP": "",
+      "JP": "狂暴ダイブ：ゲットしたか？見せてみせんか",
       "CN": "疯狂戴夫：拿到啦？让我瞧瞧吧？",
       "KR": "uforia대브: 잡았나? 보여주지?",
       "TW": "瘋狂戴夫：拿到啦？讓我看看吧？"
@@ -1024,7 +1024,7 @@
     "MultiLang": {
       "US": ">>Detected human survival, initiating nuclear strike<<",
       "JP": ">>人類が生存していることを検知しました。核爆発を開始します<<",
-      "CN": "",
+      "CN": ">>检测到人类幸存，启动核爆<<",
       "KR": ">>인류가 생존 중임을 감지함에 따라 원자폭탄 작동啟动<<",
       "TW": ">>檢測到人類存活，啟用核爆<<"
     }
@@ -1054,7 +1054,7 @@
     "MultiLang": {
       "US": "Peashooter: When is Dave going to finish mowing the backyard lawn?",
       "JP": "ピーナッツシューター：Daveはいつ⚗️ backyardの草 MERCHANTABILITYを全部取り除いたの吗？",
-      "CN": "",
+      "CN": "豌豆射手：Dave啥时候把后院的草坪都铲了",
       "KR": "豌豆射手：Dave가 언제 후원의 초소초를 다 갈아엎었지",
       "TW": "豌豆射手：這戴夫什麼時候把後院的草地全都清乾淨了"
     }
@@ -1066,7 +1066,7 @@
       "JP": "氷結けの茸：一箇所全部が池で、どこから進むべきかわからない",
       "CN": "",
       "KR": "한랭.§조: 하나의 호수만 있 AndAlso 몽땅 갈 곳을 모르고",
-      "TW": ""
+      "TW": "寒冰菇：一片全是池塘，根本不知道往哪走"
     }
   },
   "坚果墙：右边好像就是入口，那有个牌子不知道上面写的啥": {
@@ -1104,7 +1104,7 @@
     "MultiLang": {
       "US": "Peashooter: Everyone has noticed the warning, I'm about to press the button.",
       "JP": "ピーダンショッター：みんな警告をよく見ましたか？ボタンを押すよ",
-      "CN": "",
+      "CN": "豌豆射手：大家 seen 清楚 警告 了吧，我 要 按 按钮 唿噜",
       "KR": "Ẹ-Allow: 모두 경고를 잘 봤나요? 버튼을 눌러야 돼요",
       "TW": "豌豆射手：大家看得清楚警告了吧，我就要按下按鈕了"
     }
@@ -1116,7 +1116,7 @@
       "JP": ">>池塘への道は20秒後に現れます<<",
       "CN": "",
       "KR": ">>정원으로 가는 길이 20초 후에 나타납니다<<",
-      "TW": ""
+      "TW": ">>通往池塘的道路將在20秒後出現<<"
     }
   },
   ">>通往第二个岛的桥将在20秒后开放<<": {
@@ -1134,7 +1134,7 @@
     "MultiLang": {
       "US": ">>Big Mouth Flower Ready<<",
       "JP": "",
-      "CN": "",
+      "CN": ">>大嘴花已准备完毕<<",
       "KR": ">>대广告服务已准备就绪<<",
       "TW": ">>大嘴花已就緒<<"
     }
@@ -1144,7 +1144,7 @@
     "MultiLang": {
       "US": ">>Wooden Bridge Opened<<",
       "JP": ">>木橋已開放<<",
-      "CN": "",
+      "CN": ">>木桥已开启<<",
       "KR": ">>목교가 개방되었습니다<<",
       "TW": ">>木橋已開放<<"
     }
@@ -1174,7 +1174,7 @@
     "MultiLang": {
       "US": ">>Left bridge open<<",
       "JP": ">>左路木橋已開放<<",
-      "CN": "",
+      "CN": ">>左路木桥已开通<<",
       "KR": ">>좌로 나무 다리 열렸습니다<<",
       "TW": ">>左路木橋已開放<<"
     }
@@ -1224,7 +1224,7 @@
     "MultiLang": {
       "US": "Water Lily: Destroyer Yesterday came to borrow my TV and still hasn't returned it, I'm sad.",
       "JP": "睡蓮：昨日の Destruction 蘑蕾 来借我的テレビ 视频没还，好伤心。",
-      "CN": "",
+      "CN": "睡莲： yesterday 毁灭菇 来借我的电视 看 现在还没有还 我 很伤心",
       "KR": "睡蓮: 폐렴이가 어제 내 TV 빌려다看你没还给我真伤心了",
       "TW": "睡蓮： Yesterday 噪菇 来借我的電視看，直到現在都沒有還給我，好心傷。"
     }
@@ -1234,7 +1234,7 @@
     "MultiLang": {
       "US": "Mossmallow: This Destroyer Mushroom is still the same. Go see what he's doing.",
       "JP": "寒冰菇：この破滅茸も昔のままだな。何かDoingなことを見にいこうか？",
-      "CN": "",
+      "CN": "寒冰菇：这毁灭菇还是这个样，去看看他在干嘛？",
       "KR": "한빙.§菇：이 파괴§菇还是原来的样子啊,去看下他在干嘛？",
       "TW": "寒冰菇：這毀滅菇還是1樣，去看看他幹嗎？"
     }
@@ -1255,8 +1255,8 @@
       "US": "Peashooter: Alright, let's go.",
       "JP": "ピーナッツシューター：いいよ、行くよ",
       "CN": "",
-      "KR": "",
-      "TW": ""
+      "KR": "파프리카 사격수: 됐어, 가볼까?",
+      "TW": "豌豆射 thủ：行，走吧"
     }
   },
   ">>木桥将在50秒后开放<<": {
@@ -1375,7 +1375,7 @@
       "US": ">>The wooden board on the upper diving board is rotten<<",
       "JP": ">>上層跳水台的木板爛掉了<<",
       "CN": "",
-      "KR": "",
+      "KR": ">>상층 점프 플랫폼의 나무 판이 부러졌습니다<<",
       "TW": ">>上層跳水台的木板爛掉了<<"
     }
   },
@@ -1394,7 +1394,7 @@
     "MultiLang": {
       "US": "Pumpkin Shooter: Watching TV for so long, should be returned to the Lily Pad already.",
       "JP": "ピーダンシューター：テレビ見 acompaño tanto deberías返した方がいいよ sleepyflower",
-      "CN": "",
+      "CN": "豌豆射手：电视看了那么久该还给睡莲了吧",
       "KR": "페인트샷터: 텔레비전 보는 거 그렇게 오래 봐서는不行，应该还给莲花炮台了吧",
       "TW": "豌豆射手：為甚麼看得那麼久，該還給睡蓮了"
     }
@@ -1414,7 +1414,7 @@
     "MultiLang": {
       "US": "Icicle Mushroom: He's probably gotten hooked, just turn off his TV's power supply.",
       "JP": "寒冰菇：彼は見入っているのだろうか、テレビの電源を切ればよい了吧",
-      "CN": "",
+      "CN": "寒冰菇：他怕不是看上瘾了，把他的电视电源插头拔了得了",
       "KR": "한빙버섯: 그가 보다 못한 건지 텔레비전의 전원을 끈 거일지도 모르겠다.",
       "TW": "寒冰菇：他怕不是看上癮了，把他的電閘關了得了"
     }
@@ -1424,7 +1424,7 @@
     "MultiLang": {
       "US": ">>The path to the breaker room is clear<<",
       "JP": ">>電気盤への道が開けた<<",
-      "CN": "",
+      "CN": "通往电闸的道路已打开>>",
       "KR": ">>전기장치로의 길이 열렸습니다<<",
       "TW": ">>通往電閘的路已開啟<<"
     }
@@ -1444,7 +1444,7 @@
     "MultiLang": {
       "US": "Mushroom of Annihilation: NO! My TV! My pots and pans!",
       "JP": "滅炎菇：NO!我的テレビ！我的トワ！",
-      "CN": "",
+      "CN": "毁灭菇：NO！我的电视！我的陶罐！",
       "KR": "소멸버섯：NO! 내 TV! 내 파우 ((!))!",
       "TW": "毀滅菇：NO!我的電視！我的陶罐！"
     }
@@ -1504,7 +1504,7 @@
     "MultiLang": {
       "US": "Peashooter: Damned",
       "JP": "ピーナッツシューター：壊れた",
-      "CN": "",
+      "CN": "豌豆射手：中了",
       "KR": "패스티유SHOOTER: 빠진다",
       "TW": "豌豆射手：完了"
     }
@@ -1533,7 +1533,7 @@
     "translation": "",
     "MultiLang": {
       "US": "Potato Mine: Everyone, let's move quickly!",
-      "JP": "",
+      "JP": "地雷：みんな急げ！",
       "CN": "地雷：大家快走！",
       "KR": "토마토레이: 모두 빨리 가세요!",
       "TW": "地雷：大家快走！"
@@ -1564,7 +1564,7 @@
     "MultiLang": {
       "US": "Peashooter: Sigh, Dave is going to give us a tongue-lashing.",
       "JP": "ピーナッツシューター：うーん、今回はデイブに怒られまくら555",
-      "CN": "",
+      "CN": "豌豆射手：唉，这回Dave又要把我们狠狠批一顿了",
       "KR": "패비지 사살기: 아, 이번엔 더프에게狠狠批評我們了吧",
       "TW": "豌豆射手：唉，這下Dave又要痛批我們了"
     }
@@ -1634,7 +1634,7 @@
     "MultiLang": {
       "US": ">>Nymphaea can only be used 4 times<<",
       "JP": ">>睡蓮はonly 4回使用可能<<",
-      "CN": "",
+      "CN": ">>睡莲只能使用4次<<",
       "KR": ">>수국은만에 4번만 사용할 수 있습니다<<",
       "TW": ">>睡蓮僅能使用4次<<"
     }
@@ -1704,7 +1704,7 @@
     "MultiLang": {
       "US": ">>Arrive at the Top of the Chimney<<",
       "JP": ">>煙突の上に到着<<",
-      "CN": "",
+      "CN": ">>抵达烟囱顶端<<",
       "KR": ">>囱_Top에 도착<<",
       "TW": ">>抵達煙囪頂部<<"
     }
@@ -1723,8 +1723,8 @@
     "translation": "",
     "MultiLang": {
       "US": ">>Ladder open in 50 seconds<<",
-      "JP": "",
-      "CN": "",
+      "JP": ">>梯子50秒後に開放<<",
+      "CN": ">>梯子50秒后开启<<",
       "KR": ">>터널 50초 후 열림<<",
       "TW": ">>梯子50秒後開放<<"
     }
@@ -1743,7 +1743,7 @@
     "translation": "",
     "MultiLang": {
       "US": ">>A player obtained a three-leaf clover<<",
-      "JP": "",
+      "JP": ">>一名プレイヤーが三葉草を獲得しました<<",
       "CN": "",
       "KR": ">>한 giocatore 얻은 세foil<<",
       "TW": ">>1名玩家獲得3葉草<<"
@@ -1754,7 +1754,7 @@
     "MultiLang": {
       "US": ">>Level 5: Roof<<",
       "JP": ">>5番目のステージ：屋上<<",
-      "CN": "",
+      "CN": ">>第5关：屋顶<<",
       "KR": ">>관카 5: 옥상<<",
       "TW": ">>關卡5：屋頂<<"
     }
@@ -1764,7 +1764,7 @@
     "MultiLang": {
       "US": "Peashooter: Why are there so many违章 buildings on this roof?",
       "JP": "ピーダンシューター：この屋根になんで違法建築したの？",
-      "CN": "",
+      "CN": "豌豆射手：这座顶怎么盖了这么多违建",
       "KR": "파인아이 샷어: 이 집붕怎样继续？",
       "TW": "豌豆射手：這屋頂怎麼搞了那麼多違規建築"
     }
@@ -1775,7 +1775,7 @@
       "US": "Sunflower: Forget about it for now, we're here to fix the antenna",
       "JP": "向日葵：別管那麼多了，我們是來修天線的",
       "CN": "",
-      "KR": "",
+      "KR": "선镗화식물: 그렇게 신경 쓸 것 없다, 우리는 안테나 수리 Coming",
       "TW": "向日葵：別管那麼多了，我們是來修天線的"
     }
   },
@@ -1794,7 +1794,7 @@
     "MultiLang": {
       "US": ">>Need players on both lanes simultaneously<<",
       "JP": ">>左右路にプレイヤーが同時に存在する必要がある<<",
-      "CN": "",
+      "CN": ">>需要左右路同时有玩家<<(10/30)",
       "KR": ">>양측로에 동시에 플레이어가 있어야 합니다<<",
       "TW": ">>需左右兩路同時有玩家<<"
     }
@@ -1834,7 +1834,7 @@
     "MultiLang": {
       "US": "Peashooter: Why does this one need a key too?",
       "JP": "ピーナッツシューター：この砲台は鍵が必要なのか？",
-      "CN": "",
+      "CN": "豌豆射手：这门为什么还需要钥匙",
       "KR": "파프리카: 왜 이건 열쇠가 필요해?",
       "TW": "豌豆射手：這門怎麼還要鑰匙的"
     }
@@ -1844,7 +1844,7 @@
     "MultiLang": {
       "US": "Sunflower: Someone might be in the house across. Go check on them.",
       "JP": "向日葵：向かいの部屋に人がいるみたいだ。様子見に行こう。",
-      "CN": "",
+      "CN": "向日葵：对面的屋子里好像有人，过去问问吧",
       "KR": "마리아민︰面对面的房子里面好像有人，过去问他吧。",
       "TW": "向日葵：對面的房子裡好像有 Rentals，過去問1下他吧"
     }
@@ -1854,7 +1854,7 @@
     "MultiLang": {
       "US": "Peashooter: Alright! Guys, let's knock down those two iron gates!",
       "JP": "ピーナッツシューター：行こう！みんなでこの2つの鉄格子門を破ろう！",
-      "CN": "",
+      "CN": "豌豆射手：好！带着我的小伙伴们，干掉这俩铁栅门！",
       "KR": "파프리 총사: 됐다! 동료들, 이 두 개의 철조문을 날려버리자!",
       "TW": "豌豆射手：行！帶夥們，給這兩個鐵柵門拆了！"
     }
@@ -1874,7 +1874,7 @@
     "MultiLang": {
       "US": "Watermelon Thrower: Who's making so much noise! I was taking a nap!",
       "JP": "西瓜投手：誰這麼騒がしいんだ！俺は昼寝してんじゃねえか！",
-      "CN": "",
+      "CN": "西瓜投手：这么吵是谁啊！我正在午睡呢！",
       "KR": "과일杓수：어디서这样的人啊！我在午睡呢！",
       "TW": "西瓜投手：誰那麼吵啊！我正在午睡呢！"
     }
@@ -1924,7 +1924,7 @@
     "MultiLang": {
       "US": ">>Three-leaf Clover Ready<<",
       "JP": ">>三葉草已就緒<<",
-      "CN": "",
+      "CN": ">>三叶草已准备完毕<<",
       "KR": ">>삼😄레초 이미 준비되었습니다<<",
       "TW": ">>3葉草已就緒<<"
     }
@@ -1994,7 +1994,7 @@
     "MultiLang": {
       "US": "Watermelon Pitcher: Of course, I have no idea what he was thinking; he just said to build a few houses on his roof.",
       "JP": "西瓜投手：もちろんよ、彼がどう思っているのか私も知らないけど、彼は自分の屋根上に何軒かの家を建てることを言った",
-      "CN": "",
+      "CN": "西瓜投手：那当然了，我也不知道他咋想的，就在他屋子里盖了几栋楼>>",
       "KR": "과일상인: 당然后啦，我也搞不懂他怎么想的，就在他屋顶上建了几栋房子",
       "TW": "西瓜投手：那當然咯，我也不知道他咋想的，他就說在他屋頂蓋幾棟房子"
     }
@@ -2145,7 +2145,7 @@
       "US": "Peashooter: Everyone, watch out not to fall!",
       "JP": "ピーナッツシューター：みんな落としちゃ駄目だぞ！",
       "CN": "",
-      "KR": "",
+      "KR": "베이비페인트-shooter:大家都注意别掉下去了！",
       "TW": ""
     }
   },
@@ -2184,7 +2184,7 @@
     "MultiLang": {
       "US": "Watermelon Thrower: The control room of the antenna is on the fourth floor of the second house.",
       "JP": "西瓜投手：天线の制御室は2番目の家から4F経由で前往してください",
-      "CN": "",
+      "CN": "西瓜投手：需要从第二个房子的四楼去控制室",
       "KR": "와키자기 投手：천선의 제어실은 두 번째 집의 4층으로 가야 합니다 >>",
       "TW": "西瓜投手：天線的控制室需要從第2個房子的4樓過去"
     }
@@ -2225,7 +2225,7 @@
       "US": ">>The door on the first floor opened<<",
       "JP": ">>1階の門が開いた<<",
       "CN": "",
-      "KR": "",
+      "KR": ">>일층의 문이 열렸습니다<<",
       "TW": ">>1樓的門打開了<<"
     }
   },
@@ -2325,7 +2325,7 @@
       "US": ">>Now you can climb up to the second floor using the ladder on the first floor<<",
       "JP": ">>現在は階段で1階から2階に上がれるようになった<<<<<<<<<<<<<<<<<<<",
       "CN": "",
-      "KR": "",
+      "KR": ">> 이제 1층 계단으로 2층에上去了吧<<",
       "TW": ">>現在可以从1樓的梯子上到2樓了<<"
     }
   },
@@ -2344,7 +2344,7 @@
     "MultiLang": {
       "US": "Watermelon Pitcher: The antenna control room is ahead. Everyone, hold on a bit longer.",
       "JP": "西瓜投手：先に天線制御室があります。みんなもう少しご耐忍びください。",
-      "CN": "",
+      "CN": "西瓜投手：前方就是天线控制室，大家再坚持一下",
       "KR": "와키자브로커: 이제 앞에 항전 제어실이 있어,大家一起再坚持一下",
       "TW": "西瓜投手：前方就是天線控制室了，大家再多堅持1下"
     }
@@ -2353,10 +2353,10 @@
     "translation": "",
     "MultiLang": {
       "US": ">>The door to the Antenna Control Room will open in 40 seconds<<",
-      "JP": "",
+      "JP": ">>天线控制室の扉は40秒後に開きます<<",
       "CN": "",
       "KR": ">>천선 제어실의 문은 40초 후에 열립니다<<",
-      "TW": ""
+      "TW": ">>天線控制室的大門將在40秒後打開<<"
     }
   },
   ">>现在可以从二楼的楼梯上到四楼了<<": {
@@ -2364,7 +2364,7 @@
     "MultiLang": {
       "US": ">>Now you can climb to the 4th floor from the stairs on the 2nd floor<<",
       "JP": ">>今から2階の階段で4階に上がれるようになりました<<",
-      "CN": "",
+      "CN": ">>现在可以從二樓的stairs上到四樓了<<",
       "KR": ">>현제는 두층의 계단을 이용하여 네층으로 올라갈 수 있습니다<<",
       "TW": ">>現在可以從2樓的stairs 上到4樓了<<"
     }
@@ -2423,7 +2423,7 @@
     "translation": "",
     "MultiLang": {
       "US": ">>Antenna repaired<<",
-      "JP": "",
+      "JP": ">>天線已修復完成<<",
       "CN": "",
       "KR": ">>천선이 수리 완료되었습니다<<",
       "TW": ">>天線已Repair完成<<"
@@ -2474,7 +2474,7 @@
     "MultiLang": {
       "US": ">>Jump into the chimney<<",
       "JP": ">>煙突の口に跳び込む<<",
-      "CN": "",
+      "CN": ">>跳进烟囪口<<",
       "KR": ">>囱문에跳出<<",
       "TW": ">>跳進煙囪口<<"
     }
@@ -2534,7 +2534,7 @@
     "MultiLang": {
       "US": "Nutshell Wall: Heard this electrical box is very unstable, had better not touch it.",
       "JP": "堅果壁：この電気ボックスは不安定なようだので、触らない方が良いungkin",
-      "CN": "",
+      "CN": "坚果墙：据说这个电箱不太稳定，最好不要碰为好",
       "KR": "과일 벽: 이 전기함이 불안정하다는 것을 들었으니, 그래도선 좋을 것 같다.",
       "TW": "堅果牆：聽說這個電箱很不穩定，最好還是不要碰的好"
     }
@@ -2574,7 +2574,7 @@
     "MultiLang": {
       "US": ">>Someone broke the iron plank bridge<<",
       "JP": "",
-      "CN": "",
+      "CN": ">>有人打破了铁板桥<<",
       "KR": ">>어떤คน이 hier steigert den Eisendurchbruch破坏了铁板桥<<",
       "TW": ">>有人打碎了鐵板橋<<"
     }
@@ -2614,7 +2614,7 @@
     "MultiLang": {
       "US": ">>This door requires the button in the pavilion to be pressed to open<<",
       "JP": ">>この扉は茶屋のボタンを押す必要がある<<",
-      "CN": "",
+      "CN": ">>该门需要在凉亭中按按钮才能打开<<",
       "KR": ">>해당 문은 축소연못 중의 버튼을 누르도록 해야만 열립니다<<",
       "TW": ">>該門需要按下涼亭中的按鈕才能打開<<"
     }
@@ -2665,7 +2665,7 @@
       "US": ">>A zombie found a flag<<",
       "JP": ">>ゾンビが旗を見つけた<<",
       "CN": "",
-      "KR": "",
+      "KR": ">>한 마리의 좀비가 깃발을 발견했]<<",
       "TW": ">>1只殭屍找到了1面旗<<"
     }
   },
@@ -2715,7 +2715,7 @@
       "US": "Peashooter: What's all this noise at night? Renovation maybe?",
       "JP": "ピーナッツシューター：こんな時間で何だよ、リノベーションか？",
       "CN": "豌豆射手：大晚上的是不是在装修啊？",
-      "KR": "",
+      "KR": "패DCF이: 밤에 뭔 소리지? 리모델링인가요?",
       "TW": "豌豆射手：大晚上的闹什麼 Loud noise？搞裝修？"
     }
   },
@@ -2732,7 +2732,7 @@
   "？？？：识相的话就乖乖出来挨打，不然我就把这个房子全拆了！": {
     "translation": "",
     "MultiLang": {
-      "US": "",
+      "US": "??? : Come out and take it if you know what's good for you, or I'll tear this place down!",
       "JP": "？？？：賢明的话就乖乖出来被打，不然我就把這房子全拆了！",
       "CN": "",
       "KR": "??? : 잘 들어오라고 나오고 받으라구! 아니면 이 집을 다 내다버리겠소!",
@@ -2744,17 +2744,17 @@
     "MultiLang": {
       "US": "Peashooter: Then you've got to have that skill. Who beats who is never certain!",
       "JP": "ピーナッツシューター：じゃ君がそれを持ってないと誰が勝つかは分からんね！",
-      "CN": "",
-      "KR": "",
+      "CN": "豌豆射手：那可说不准，=__=",
+      "KR": "두단 사수: 그럼 너가 그 능력을 가진 사람이다. 누가 누구를 이길지 아직 모른다!",
       "TW": "豌豆射手：那得要有这个本事，誰打誰還不1定呢！"
     }
   },
   "？？？：呵呵，那就让我来让你们知道什么是高科技！": {
     "translation": "",
     "MultiLang": {
-      "US": "",
+      "US": "??? : Haha, let me show you what high technology is!",
       "JP": "？？？：へ-he，じゃあこれで君たちに高技術の意味を教えるよ！",
-      "CN": "",
+      "CN": "???：呵呵，那我就让你们见识一下高科技！",
       "KR": "??? : 혀르레, 그럼 제가 고테크什么是高科技！让大家知道吧！",
       "TW": "？？？：呵呵，那就讓我來讓你們知道什麼是高科技！"
     }
@@ -2784,7 +2784,7 @@
     "MultiLang": {
       "US": ">>Only by defeating the Stake King can you pass this level<<",
       "JP": ">>本关仅可通过击败僵王通关<<",
-      "CN": "",
+      "CN": ">>本关只有击败僵王才能通关<<",
       "KR": ">>본관에만 강왕을 물리치才是真正通关<<",
       "TW": ">>本關僅有擊敗僵王才可通关<<"
     }
@@ -2834,7 +2834,7 @@
     "MultiLang": {
       "US": "Furious TV: noooo! My Zang Wang Mech!",
       "JP": "激昂テレビ：noooo！私の僵王者機甲！",
-      "CN": "",
+      "CN": "怒tv：noooo！我的僵王机甲！",
       "KR": "노노노! 내 스턴그릴 메카닉스!",
       "TW": "怒吼電視：noooo！我的殭王機械！"
     }
@@ -2866,7 +2866,7 @@
       "JP": ">>あなたたちは怒りテレビを勝ちました！<<",
       "CN": "",
       "KR": ">>공정TV를 이겼습니다.!<<",
-      "TW": ""
+      "TW": ">>你們擊敗了怒TV！<<"
     }
   },
   ">>感谢游玩<<": {
@@ -2895,7 +2895,7 @@
       "US": ">>Punch Left<<",
       "JP": ">>左回しパンチ<<",
       "CN": ">>左击<<",
-      "KR": "",
+      "KR": ">>좌측 공격<<",
       "TW": ">>左側出拳<<"
     }
   },
@@ -2904,7 +2904,7 @@
     "MultiLang": {
       "US": ">>Midgame Punch<<",
       "JP": ">>スタンドロール<<",
-      "CN": "",
+      "CN": ">>中场出击<<",
       "KR": ">>중장기 공격<<",
       "TW": ">>中場出拳<<"
     }
@@ -2935,7 +2935,7 @@
       "US": ">>You found Dave's hidden room<<",
       "JP": ">>君はデイブの隠れ部屋を見つけた<<",
       "CN": "",
-      "KR": "",
+      "KR": ">>Dave의 숨겨진 방을 찾았습니다<<",
       "TW": ">>你找到了戴夫的隱藏房間<<"
     }
   },
@@ -2954,7 +2954,7 @@
     "MultiLang": {
       "US": ">>Streak of Defeats: 2<<",
       "JP": ">>連敗計数：2<<",
-      "CN": "",
+      "CN": ">>连败次数：2<<",
       "KR": ">>연속 패배 카운트：2<<",
       "TW": ">>連敗計數：2<<"
     }
@@ -3053,9 +3053,9 @@
     "translation": "",
     "MultiLang": {
       "US": ">>The stairs at the diving board will open in 5s<<",
-      "JP": "",
+      "JP": ">>跳水台の階段は5秒後開きます<<",
       "CN": "",
-      "KR": "",
+      "KR": ">>점프대 계단은 5s 후에 개방됩니다<<",
       "TW": ">>跳水台的 stairs 将在 5s 后 open<<"
     }
   },
