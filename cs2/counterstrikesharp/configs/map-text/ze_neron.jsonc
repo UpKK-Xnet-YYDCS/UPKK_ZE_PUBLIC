@@ -55,7 +55,7 @@
       "US": "",
       "JP": "60 秒",
       "CN": "60秒",
-      "KR": "",
+      "KR": "60 초",
       "TW": "60 秒鐘"
     }
   },
@@ -104,7 +104,7 @@
     "MultiLang": {
       "US": "",
       "JP": "?????:カルルLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLL",
-      "CN": "",
+      "CN": "?????:卡rrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrl",
       "KR": "?????:카를LLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLL",
       "TW": ""
     }
@@ -153,7 +153,7 @@
     "translation": "Brand：我成功启动了传送门。",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "ブランド: TELEPORTATION PORTAL ACTIVATED SUCCESSFULLY.",
       "CN": "Brand：我成功启动了传送门。",
       "KR": "브랜드:teleportation portal을 성공적으로 활성화했습니다.",
       "TW": "品牌:我已成功激活传送門。"
@@ -183,7 +183,7 @@
     "translation": "Brand：幸好我还有备用计划。我把我的意识上传到了这里的网络。",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "ブランド:幸運なことに、バックアップ計画があった。意識を NETWORK にアップロードした。",
       "CN": "Brand：幸好我还有备用计划。我把我的意识上传到了这里的网络。",
       "KR": "브랜드: 다행히도 백업 계획이 있었어요. 여기서 인식을 네트워크에 업로드했죠.",
       "TW": "品牌:幸運的是，我有1個備用計畫。我已將意識上載到這裡的網絡。"
@@ -213,10 +213,10 @@
     "translation": "Brand：STOPPPPPPPPPPPPPPPPPPPPP",
     "MultiLang": {
       "US": "",
-      "JP": "",
-      "CN": "",
+      "JP": "ブランド:ストップPPPPPPPPPPPPPPPP",
+      "CN": "品牌：STOPPPPPPPPPPPPPPPPPPPP",
       "KR": "브랜드:STOPPPPPPPPPPPPPPPPPPPP",
-      "TW": ""
+      "TW": "品牌：STOPPPPPPPPPPPPPPPPPPPP"
     }
   },
   "Hint:There should be no more than two people on the wheel.": {
@@ -242,7 +242,7 @@
   "K:It's alright, just wanted to remind you to be more cautious. I have a feeling something is off.": {
     "translation": "K：没事，只是想提醒你要小心。我感觉有些不对劲。",
     "MultiLang": {
-      "US": "",
+      "US": "K: It's fine, just wanted to remind you to be more cautious. I have a feeling something isn't right.",
       "JP": "K:大丈夫、ただ注意を precautiously したいだけだ。何か怪しい感じがする。",
       "CN": "K：没事，只是想提醒你要小心。我感觉有些不对劲。",
       "KR": "K: 괜찮아, 그냥 주의 좀 더 해보라고 안내하고 싶었을 뿐. 어떤 것이 이상하다는 느낌이 들어.",
@@ -253,8 +253,8 @@
     "translation": "K：Kiki……",
     "MultiLang": {
       "US": "",
-      "JP": "",
-      "CN": "",
+      "JP": "K:キキ....",
+      "CN": "K:基基.....",
       "KR": "",
       "TW": ""
     }
@@ -263,9 +263,9 @@
     "translation": "K：Kiki……不……",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "K:キキ..ノー...",
       "CN": "K：Kiki……不……",
-      "KR": "",
+      "KR": "K:Kiki..노...",
       "TW": ""
     }
   },
@@ -293,7 +293,7 @@
     "translation": "K：我们到家了，Kiki。",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "K：帰ってきちゃった、キキ。",
       "CN": "K：我们到家了，Kiki。",
       "KR": "K:우리 집에 왔어, 키키.",
       "TW": "家裡來囉， Kitsune。"
@@ -313,10 +313,10 @@
     "translation": "K：所以",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "K:そう",
       "CN": "K：所以",
       "KR": "K:소",
-      "TW": ""
+      "TW": "K:所以"
     }
   },
   "KIki:He escaped to the upper levels. Let's chase him. We must extract from him what has happened here.": {
@@ -403,7 +403,7 @@
     "translation": "Kiki：Brand逃走了。",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "キキ：ブランドが脱走した。",
       "CN": "Kiki：Brand逃走了。",
       "KR": "키키: Brand 전원 탈출.",
       "TW": "Kiki:Brand逃了。"
@@ -783,7 +783,7 @@
     "translation": "Kiki：Karl……不，应该是‘爸爸，欢迎回来。’",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "Kiki:Karl... -no, 「 Daddy, 返還 welcomed. 」",
       "CN": "Kiki：Karl……不，应该是‘爸爸，欢迎回来。’",
       "KR": "기키:카르ル... 아니면 '아빠 돌아오셨다.'로 해야doing.",
       "TW": "Kiki:Karl... 沒有，應該說「爸爸歡迎回來」。"
@@ -825,7 +825,7 @@
       "US": "",
       "JP": "キキ：エネルギー球8つを押して開ける Doorsを開くためには8つのエネルギー球を触る придется跳躍才行",
       "CN": "Kiki：看来我们要跳起来，触摸8个能量球才能打开门",
-      "KR": "",
+      "KR": "키키: 문을 열기 위해서는 8개의 에너지 구슬을 건너뛰어触及文本描述，这句翻译应为：키키: 문을 열기 위해선 8 개의 에너지 볼들을 찍어야 할 것 같아",
       "TW": "Kiki: 看來我們必須跳起來觸碰8個能量球才能打開門扉"
     }
   },
@@ -845,7 +845,7 @@
       "US": "",
       "JP": "キキ：気にしない",
       "CN": "Kiki：没关系",
-      "KR": "",
+      "KR": "키키:新浪财经",
       "TW": "Kiki:無妨"
     }
   },
@@ -925,7 +925,7 @@
       "US": "",
       "JP": "キキ:誰の情報がここに散乱しているlicted?",
       "CN": "Kiki：有些人的信息散落在这儿，会是谁呢？",
-      "KR": "",
+      "KR": "키키: 어떤 사람의 정보가 여기 널린 것 같아, 누가 될까?",
       "TW": "Kiki:某些人的資訊 여기서 흩어져 있네요, 누군가 될 수 있어?"
     }
   },
@@ -982,7 +982,7 @@
   "Kiki:The desk is covered with a lot of research materials. It seems that the owner of this office holds a high position.": {
     "translation": "Kiki：桌子上堆满了研究资料，看来这间办公室的主人地位很高。",
     "MultiLang": {
-      "US": "",
+      "US": "Kiki: The desk is covered in lots of research materials. It seems the office's owner holds a high position.",
       "JP": "Kiki:机は多くの研究資料で覆われている。このオフィスの所有者は高位を占めているように見受けられる。",
       "CN": "Kiki：桌子上堆满了研究资料，看来这间办公室的主人地位很高。",
       "KR": "키키: 책상은 많은 연구 자료로 가득 차 있다. 이 사무실의 주인이 높은 지위를 가지고 있는 것 같다.",
@@ -1236,24 +1236,24 @@
       "JP": "マッパー・エンイドヌ",
       "CN": "地图作者：Enidnu",
       "KR": "지도제작자 Enidnu",
-      "TW": ""
+      "TW": "mapping 執行人 Enidnu"
     }
   },
   "Port by 花澪墨音": {
     "translation": "移植：花澪墨音 翻译：Ayanami♪",
     "MultiLang": {
-      "US": "",
+      "US": "Port by Huā Miǎn Mò Yīn",
       "JP": "ポート：花澪墨音",
       "CN": "移植：花澪墨音 翻译：Ayanami♪",
       "KR": "제작자: 花澪墨音",
-      "TW": ""
+      "TW": "港由 花澪墨音"
     }
   },
   "Special Thanks:X1a0Fu/健忘症晚期/lopb/Koen": {
     "translation": "特别感谢：X1a0Fu/健忘症晚期/lopb/Koen",
     "MultiLang": {
       "US": "Special Thanks:X1a0Fu/Amnesia Late Stage/lopb/Koen",
-      "JP": "",
+      "JP": "SPECIAL THANKS:X1a0Fu/健忘症晚期/lopb/Koen",
       "CN": "特别感谢：X1a0Fu/健忘症晚期/lopb/Koen",
       "KR": "특별 감사의 인사:X1a0Fu/기억상실증중기/lopb/Koen",
       "TW": "SPECIAL THANKS:X1a0Fu/健忘症晚期/lopb/Koen"
@@ -1266,7 +1266,7 @@
       "JP": "スポンサー：せんおとせいかり",
       "CN": "赞助：千音星璃",
       "KR": "スポンサー：천음성리",
-      "TW": ""
+      "TW": "Sponsored by:千音星璃"
     }
   },
   "bad ending:Kiki couldn't dodge Brand's attack while trying to save you.": {
@@ -1366,7 +1366,7 @@
       "JP": "ストーリー8 解禁",
       "CN": "故事8解锁",
       "KR": "스토리8 해제",
-      "TW": ""
+      "TW": "STORY8 解鎖"
     }
   },
   "story9 unlock": {

@@ -2,7 +2,7 @@
   "** EXTREME mode is beaten. Get ready for your last challenge ...**": {
     "translation": "** 已通关极限模式。准备迎接最后的挑战...**",
     "MultiLang": {
-      "US": "",
+      "US": "*** EXTREME mode cleared. Prepare for your final challenge ...***",
       "JP": "*** EXTREME mode はクリアしました。最後の挑戦 ...**",
       "CN": "** 已通关极限模式。准备迎接最后的挑战...**",
       "KR": "*** EXTREME 모드가 클리어되었습니다. 마지막 도전 준비를 해보세요 ...***",
@@ -13,7 +13,7 @@
     "translation": "** 手雷能造成更多的伤害。**",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "*** Nades はより多くのダメージをもたらす。***",
       "CN": "** 手雷能造成更多的伤害。**",
       "KR": "*** 넺데 더 많은 피해를 주세요. ***",
       "TW": "** Nades 造更多傷害。 **"
@@ -46,17 +46,17 @@
       "JP": "***...オッケー俺は消えていくよ...***",
       "CN": "**...好吧，我消失了...**",
       "KR": "***...오케이 나는 사라지고 있어...***",
-      "TW": ""
+      "TW": "...好 Okay 我在消失中..."
     }
   },
   "**1 MINUTES LEFT!**": {
     "translation": "**还剩1分钟！**",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "***1 分鐘剩餘！***",
       "CN": "**还剩1分钟！**",
       "KR": "",
-      "TW": ""
+      "TW": "***1 分鐘剩餘！***"
     }
   },
   "**10 SECONDS LEFT**": {
@@ -66,17 +66,17 @@
       "JP": "",
       "CN": "**还剩10秒**",
       "KR": "**10초 남음**",
-      "TW": ""
+      "TW": "***10 秒鐘剩下***"
     }
   },
   "**15 SECONDS LEFT!**": {
     "translation": "**还剩15秒！**",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "***15 SEC ONDS余♪!***",
       "CN": "**还剩15秒！**",
       "KR": "**15 초 남음!**",
-      "TW": ""
+      "TW": "***15 秒鐘剩餘！***"
     }
   },
   "**2 MINUTES LEFT!**": {
@@ -86,7 +86,7 @@
       "JP": "***2 分钟剩余！***",
       "CN": "**还剩2分钟！**",
       "KR": "**2분 남음!**",
-      "TW": ""
+      "TW": "***2 分鐘剩餘 !***"
     }
   },
   "**30 SECONDS LEFT!**": {
@@ -96,14 +96,14 @@
       "JP": "",
       "CN": "**还剩30秒！**",
       "KR": "***30 초 남음!***",
-      "TW": ""
+      "TW": "***30 秒鐘剩餘！***"
     }
   },
   "**5 SECONDS LEFT**": {
     "translation": "**还剩5秒**",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "**5 セコンド残り**",
       "CN": "**还剩5秒**",
       "KR": "**5 초 남음**",
       "TW": "【5 秒鐘剩下】"
@@ -233,10 +233,10 @@
     "translation": "**管理员在管理室更改了地图关卡**",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "***ADMIN が管理室を使ってマップレベルを変更しました***",
       "CN": "**管理员在管理室更改了地图关卡**",
       "KR": "**관리자가 관리 방을 이용해 지도 단계를 변경했습니다**",
-      "TW": ""
+      "TW": "***ADMIN 已透過管理房更改地圖等級***"
     }
   },
   "**ADMIN PRESSED KILL ALL BUTTON**": {
@@ -252,11 +252,11 @@
   "**CHEST SIDEQUEST STARTED**": {
     "translation": "**宝箱支线任务开始**",
     "MultiLang": {
-      "US": "",
+      "US": "***SIDEQUEST STARTED***",
       "JP": "",
       "CN": "**宝箱支线任务开始**",
-      "KR": "",
-      "TW": ""
+      "KR": "***상자 씨드 Quest 시작***",
+      "TW": "*** Chest 副任务開始 ***"
     }
   },
   "**Chest Quest completed!**": {
@@ -273,9 +273,9 @@
     "translation": "**在这里掩护10秒，清理障碍**",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "***この場所に10秒隠れておいてください***",
       "CN": "**在这里掩护10秒，清理障碍**",
-      "KR": "",
+      "KR": "***여기서 10초간 숨어 있어요 다음 장애물 Clearance 전에요***",
       "TW": ""
     }
   },
@@ -283,9 +283,9 @@
     "translation": "**在这里掩护15秒，清理障碍**",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "***ここに隠れて15秒待ってください-catching this obstacle-***",
       "CN": "**在这里掩护15秒，清理障碍**",
-      "KR": "",
+      "KR": "***여기서 15초 동안 숨어 있어라 다음 장애물을 넘기 전에***",
       "TW": ""
     }
   },
@@ -293,9 +293,9 @@
     "translation": "**在这里掩护5秒，清理障碍**",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "***5秒ここでカバーしてから次の障害物をクリアする***",
       "CN": "**在这里掩护5秒，清理障碍**",
-      "KR": "",
+      "KR": "***여기서 5초간 숨어 있어요 다음 장애물 Clearance하기 전까지***",
       "TW": ""
     }
   },
@@ -305,8 +305,8 @@
       "US": "",
       "JP": "扉は40秒後に開きます",
       "CN": "**门将在40秒后打开**",
-      "KR": "",
-      "TW": ""
+      "KR": "***40초 후 문이 열립니다***",
+      "TW": "***門在40秒後開啟***"
     }
   },
   "**Defend here for 15 seconds before the platform leaves**": {
@@ -316,7 +316,7 @@
       "JP": "ここを守ってください。プラットフォームが離れるまで 15 秒待ってください ***",
       "CN": "**在这里防守15秒，直到平台离开**",
       "KR": "이곳에서 15초간 방어하세요 ***platform leaves**",
-      "TW": ""
+      "TW": "在此守護15秒，等平台離開***"
     }
   },
   "**Defend here for 25 seconds until the gates open**": {
@@ -326,27 +326,27 @@
       "JP": "ここで守り続ける ※25秒まで>> <<城門が開くまで",
       "CN": "**在这里防守25秒，直到大门打开**",
       "KR": "★★여기 방어하십시오. 25초까지 기다려 문이 열리게 하세요★★",
-      "TW": ""
+      "TW": "在此防守 25 秒直到城門開啟"
     }
   },
   "**EXTREME MODE**": {
     "translation": "**极限模式**",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "***極限モード***",
       "CN": "**极限模式**",
-      "KR": "",
-      "TW": ""
+      "KR": "***극한 모드***",
+      "TW": "***極限模式***"
     }
   },
   "**FALL BACK**": {
     "translation": "**撤退**",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "***後退する***",
       "CN": "**撤退**",
-      "KR": "",
-      "TW": ""
+      "KR": "***후퇴***",
+      "TW": "***退回***"
     }
   },
   "**FIND ALL THE GOLDEN CHESTS TO GET A SPECIAL  ITEM THAT WILL HELP YOU ON GI NATTAK**": {
@@ -356,17 +356,17 @@
       "JP": "***すべてのゴールデン・チェストを見つけ、GI・ナタックでの特別アイテムを手に入れることが可能です***",
       "CN": "**找到所有金色宝箱，获得帮助你在基纳塔克战斗中的特殊神器**",
       "KR": "**금urge 모든 골든 가이스를 찾아_special 아이템을 얻으세요_GI 난타크에서 특별한 도움을 받으세요**",
-      "TW": ""
+      "TW": "找到所有金色宝箱，獲得特殊道具帮助你對抗GI納塔克。"
     }
   },
   "**GI NATTAK IS USING ULTIMA. KILL HIM FASTER!!**": {
     "translation": "**15秒，基纳塔克正在使用终极。快点打败他！！**",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "***GI NATTAK は最終技を使用しました。早く殺しろ！！***",
       "CN": "**15秒，基纳塔克正在使用终极。快点打败他！！**",
       "KR": "★★GI NATTAK은 유니마를 사용 중이다. 빠르게 그를 잡아라!!★",
-      "TW": ""
+      "TW": "***GI NATTAK 使用 ultima。快點殺死他!!***"
     }
   },
   "**GI NATTAK USES LAVA SUPERATTACK**": {
@@ -385,7 +385,7 @@
       "US": "",
       "JP": "***手榴弹会造成大量伤害。使用它们！***",
       "CN": "**手雷能造成更多的伤害。使用它们！**",
-      "KR": "",
+      "KR": "***플로 若要继续，请告知我。",
       "TW": "***手榴彈傷害巨大。快使用！***"
     }
   },
@@ -445,7 +445,7 @@
       "US": "",
       "JP": "★★Gi Nattak は 150hp を回復した★",
       "CN": "**基纳塔克恢复了150点生命值**",
-      "KR": "",
+      "KR": "**Gi Nattak은 150hp를 회복시켰습니다**",
       "TW": "**Gi Nattak 已恢復 150 hp**"
     }
   },
@@ -455,7 +455,7 @@
       "US": "",
       "JP": "***Gi Nattakはミンニンを生成しています。注意してください***",
       "CN": "**基纳塔克召唤了水晶。小心它们**",
-      "KR": "",
+      "KR": "***Gi Nattak은 미니언들을 소환합니다. 주의하세요***",
       "TW": "**Gi Nattak是 spawns 小兵。注意他們**"
     }
   },
@@ -545,7 +545,7 @@
       "US": "",
       "JP": "ハードモード",
       "CN": "**困难模式**",
-      "KR": "",
+      "KR": "***하드 모드***",
       "TW": ""
     }
   },
@@ -553,10 +553,10 @@
     "translation": "**已通关困难模式。挑战自己，准备进入极限模式！**",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "***ハードモードをクリア。本気で挑戦吧！EXTREMEモード！！***",
       "CN": "**已通关困难模式。挑战自己，准备进入极限模式！**",
       "KR": "**하드 모드를 클리어하였습니다. EXTREME 모드에서 자신을 도전해보세요!**",
-      "TW": ""
+      "TW": "***-hard模式已通关-挑战自己在EXTREME模式！***"
     }
   },
   "**Ifrit is defeated! Get on the airship**": {
@@ -596,7 +596,7 @@
       "JP": "**マップby Headshooter.SC & HaRyDe**",
       "CN": "**地图由Headshooter.SC和HaRyDe制作 翻译：UPKK_ZE_PUBLIC，Asteri3m**",
       "KR": "**맵由Headshooter.SC & HaRyDe制作**",
-      "TW": ""
+      "TW": "***-map 由 Headshooter.SC & HaRyDe 制作***"
     }
   },
   "**Map has been beaten. Find a place to defend yourself on and keep the zombies away from it**": {
@@ -616,7 +616,7 @@
       "JP": "***ノーマルモード***",
       "CN": "**普通模式**",
       "KR": "**노말 모드**",
-      "TW": ""
+      "TW": "***普通模式***"
     }
   },
   "**NORMAL mode was beaten. Unlocking HARD mode **": {
@@ -636,7 +636,7 @@
       "JP": "**今ではギー洞窟から出られます**",
       "CN": "**现在你可以离开基族洞穴**",
       "KR": "** 이제 동키 광산에서 나올 수 있습니다 **",
-      "TW": ""
+      "TW": "現在你可以離開***洞穴之巖***"
     }
   },
   "**RAGE MODE**": {
@@ -645,8 +645,8 @@
       "US": "",
       "JP": "",
       "CN": "**疯狂模式**",
-      "KR": "",
-      "TW": ""
+      "KR": "***레이지 모드***",
+      "TW": "暴怒模式"
     }
   },
   "**SOME OF YOUR ITEMS CAN DAMAGE THE BOSS**": {
@@ -656,7 +656,7 @@
       "JP": "***あなたのアイテムの一部はボスにダメージを与えます***",
       "CN": "**5秒，一些神器可以对BOSS造成伤害，例如：火、电、毒、终极**",
       "KR": "***당신의 일부 아이템은 보스를 손상시킬 수 있습니다***",
-      "TW": ""
+      "TW": "***您的部分物品可能會對BOSS造成傷害***"
     }
   },
   "**Shinra gates will open in 25 seconds**": {
@@ -683,10 +683,10 @@
     "translation": "**25秒后炸开岩石**",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "***25秒後に爆発的な意気が岩石を破る***",
       "CN": "**25秒后炸开岩石**",
-      "KR": "",
-      "TW": ""
+      "KR": "***폭발적인 의지가 25초 후에 바위를 폭파시킵니다***",
+      "TW": "*** Explosive 將在 25 秒後炸開岩石 ***"
     }
   },
   "**THE WINNERS HAD SELECTED THE MODE**": {
@@ -696,17 +696,17 @@
       "JP": "***WINNERがモードを選択しました***",
       "CN": "**胜利者已选择接下来游玩的模式**",
       "KR": "**WINNERS가 모드를 선택했습니다**",
-      "TW": ""
+      "TW": "***WINNER選定了模式***"
     }
   },
   "**Teleporting humans to the Observatory**": {
     "translation": "**正在将人类传送到天文台**",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "***人類を天文台に teleport する***",
       "CN": "**正在将人类传送到天文台**",
       "KR": "**인류를 관측소로 텔레포트시키기**",
-      "TW": ""
+      "TW": "將人類傳送到觀測台***"
     }
   },
   "**The airship is right here...**": {
@@ -725,8 +725,8 @@
       "US": "",
       "JP": "***空中城舰前往雪拉将在30秒后到达***",
       "CN": "**通往神罗基地的飞船将在30秒后到来**",
-      "KR": "",
-      "TW": ""
+      "KR": "***신라행 기뢰는 30초 후 도착합니다***",
+      "TW": "***飛往希納的空船將會在30秒後到達***"
     }
   },
   "**The barman will open the door in 5 seconds**": {
@@ -763,7 +763,7 @@
     "translation": "**基族洞穴的大门将在15秒后打开**",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "***ジカavernの扉は15秒後に開きます***",
       "CN": "**基族洞穴的大门将在15秒后打开**",
       "KR": "**지기굴의 문은 15초 후에 열립니다**",
       "TW": "***gi洞穴的大門將在15秒後開啟***"
@@ -773,10 +773,10 @@
     "translation": "**大门将在15秒后打开**",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "***ゲートが開くまでに15秒***",
       "CN": "**大门将在15秒后打开**",
-      "KR": "",
-      "TW": ""
+      "KR": "*** 문은 15초 후에 열립니다 ***",
+      "TW": "***大門將在15秒後開啟***"
     }
   },
   "**The gates will open in 25 seconds**": {
@@ -786,7 +786,7 @@
       "JP": "ゲートは25秒後に開きます***",
       "CN": "**大门将在25秒后打开**",
       "KR": "문은 25초 후에 열립니다",
-      "TW": ""
+      "TW": "***大門將會在25秒後開啟***"
     }
   },
   "**The gates will open in 30 seconds**": {
@@ -796,7 +796,7 @@
       "JP": ">>> 大门将在30秒后打开 <<<",
       "CN": "**大门将在30秒后打开**",
       "KR": "*** 문이 열리는 시간은 30초 후입니다 ***)",
-      "TW": ""
+      "TW": "***大門將在30秒後開啟***"
     }
   },
   "**The gi gate will open in 35 seconds**": {
@@ -806,7 +806,7 @@
       "JP": "**ゲートは35秒後に開きます**",
       "CN": "**基纳塔克竞技场将在35秒后打开**",
       "KR": "**지Gi 문은 35초 후에 열립니다**",
-      "TW": ""
+      "TW": "***gi之門將在35秒後開啟***"
     }
   },
   "**The platform is leaving**": {
@@ -822,11 +822,11 @@
   "**The power is lost. Defend until the emergency generators are on**": {
     "translation": "**电力中断。防守直到应急发电机启动**",
     "MultiLang": {
-      "US": "",
+      "US": "***Power lost. Defend until emergency generators online.***",
       "JP": "★★電力が喪失された。緊急発電機が起動するまで防御を続ける★★",
       "CN": "**电力中断。防守直到应急发电机启动**",
       "KR": "**력이 소진되었습니다. 긴급 발전기 가동까지 방어하세요**",
-      "TW": ""
+      "TW": "***力量耗盡。直到緊急發電機啟動前都必須防守***"
     }
   },
   "**The reward is waiting for you in the gi cave**": {
@@ -836,7 +836,7 @@
       "JP": "★★ジーカAVEの報酬はあなたを待っています★",
       "CN": "**奖励正在基纳塔克洞穴内等待你**",
       "KR": "**보상이 지하 감방에서 기다리고 있습니다**",
-      "TW": ""
+      "TW": "***獎勵在幽靈洞等著你***"
     }
   },
   "**The rock will explode in 25 seconds**": {
@@ -873,20 +873,20 @@
     "translation": "**热身回合**",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "***ウォームアップラウンド***",
       "CN": "**热身回合**",
       "KR": "**워밍업 라운드**",
-      "TW": ""
+      "TW": "***暖身 ROUND***"
     }
   },
   "**WINNERS GONNA CHANGE NEXT STAGE**": {
     "translation": "**胜者将更换接下来的模式**",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "***勝者は次のステージで変わる***",
       "CN": "**胜者将更换接下来的模式**",
       "KR": "***승자들은 다음 단계에서 바뀔 거야***",
-      "TW": ""
+      "TW": "***勝者下一 stag 將會變更***"
     }
   },
   "**Wait 5 more seconds**": {
@@ -936,7 +936,7 @@
       "JP": "***あなたは全てのゾンビをkillsするまで勝てません***",
       "CN": "**你必须杀死所有僵尸才能获胜**",
       "KR": ">> 당신은 모든 좀비를 죽여야 이길 수 있습니다 <<",
-      "TW": ""
+      "TW": "***你必須殺光所有殭屍才能勝利***"
     }
   },
   "**You are too slow**": {
@@ -966,7 +966,7 @@
       "JP": "",
       "CN": "**ZE_FFVII_COSMO_CANYON 最终幻想7：宇宙大峡谷**",
       "KR": "",
-      "TW": ""
+      "TW": "***ZE_FFVII_宇宙峽谷***"
     }
   },
   "**ZM MODE**": {
@@ -1005,7 +1005,7 @@
       "US": "",
       "JP": "Zombies are coming. Cosmo Barを25秒間守ってから後部ドアを開けます ***",
       "CN": "**僵尸来了。在我们打开酒馆后门之前，防守25秒**",
-      "KR": "",
+      "KR": "***좀비들이 오고 있습니다. 25초 동안 코스모 바를 방어해 주세요. 문을 열기 전에요***",
       "TW": "**殭屍們來襲。在我們開後門之前，先守衛太陽酒吧25秒**"
     }
   },
@@ -1016,7 +1016,7 @@
       "JP": "ゾンビが来ます。バックドアを開ける前にコスモバーを守って30秒間待機してください *** >> <<",
       "CN": "**僵尸来了。在我们打开酒馆后门之前，防守30秒**",
       "KR": "★★좀비들이Coming. 30초 동안 코스모 바를 방어하라 trước 백문을 열기 전에★",
-      "TW": ""
+      "TW": "***殭屍來攻。先守住太陽酒吧30秒，再開後門***"
     }
   },
   "[Cloud] Ay.. There you are!": {
@@ -1033,7 +1033,7 @@
     "translation": "[Cloud] 尤其是如果他得到了基纳塔克的灵魂.. 很难想象他会变得多么强大..",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "[クラウド]  Özellikleギ・ナタックの魂が手に入ったら…どれだけ強くなるのか想像し難い….",
       "CN": "[Cloud] 尤其是如果他得到了基纳塔克的灵魂.. 很难想象他会变得多么强大..",
       "KR": "[구름]Gi 난다크의 영혼을 얻으면pecially nếu 그가 Gi 난다크의 영혼을 얻었다면... 그게 얼마나 강력해지는지 상상하기 어렵다..",
       "TW": "[雲端] 尤其是他得到吉納塔克靈魂… 想像不到他会变得有多強大…."
@@ -1062,7 +1062,7 @@
   "[Cloud] Hold on! I will take you on the airship.. And then we will go to Shinra base. ": {
     "translation": "[Cloud] 等等！我会带你上飞船.. 然后我们去神罗基地。",
     "MultiLang": {
-      "US": "",
+      "US": "[Cloud] Hang on! I'll take you on the airship... Then we'll head to Shinra基地.",
       "JP": "[クラウド] ちょっと待って！空母に連れて行きますよ…そしてシーラ基地に行きます。",
       "CN": "[Cloud] 等等！我会带你上飞船.. 然后我们去神罗基地。",
       "KR": "[클라우드] 잠깐! 나는 공중함선으로带你去……然后我们去谢林基地。",
@@ -1072,7 +1072,7 @@
   "[Cloud] Hurry! Get on the airship! I can not stay for long here!": {
     "translation": "[Cloud] 快点！上飞船！我不能在这里停留太久！",
     "MultiLang": {
-      "US": "",
+      "US": "[Cloud] Hurry! Get on the airship! I can't stay here long!",
       "JP": "[クラウド] 早く！空母にのせろ！ここに留まる時間がない！",
       "CN": "[Cloud] 快点！上飞船！我不能在这里停留太久！",
       "KR": "[CLOUD] 서두르세요! 공중전함에 오르세요! 여기서 오래 머무를 수 없습니다!",
@@ -1323,7 +1323,7 @@
     "translation": "[Red-XIII] 恭喜！你成功了.. 但看起来基纳塔克跑掉了.. 我们下次会打败他..",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "[レッド-XIII] ゴールドメイル！やったね…けど、ジ・ナタックが何故か逃げちゃったような…次は必ず彼を倒すよ..",
       "CN": "[Red-XIII] 恭喜！你成功了.. 但看起来基纳塔克跑掉了.. 我们下次会打败他..",
       "KR": "[_Red-XIII_] 축하한다! 그렇게까지 왔다.. 하지만Gi Nattak은 어떻게 đó나갔는지 보이지 않아.. 다음 번에 그를 격퇴시킬 것이다..",
       "TW": "[紅-XIII]恭喜！你成功了……但似乎吉·納塔克不知何故逃走了……我們下次再戰……"
@@ -1342,7 +1342,7 @@
   "[Red-XIII] Do not bring this close to your heart.. He died like a hero and I hope that you guys can defeat him..": {
     "translation": "[Red-XIII] 不要放在心上.. 他像英雄一样死去，我希望你们能打败他..",
     "MultiLang": {
-      "US": "",
+      "US": "[Red-XIII] Don't get too close to your heart... He died a hero's death and I hope you can defeat him.",
       "JP": "[Red-XIII] このことは心に留めないでください。。彼は英雄として死んでおり、あなた方が彼を倒せる事を願っています。。",
       "CN": "[Red-XIII] 不要放在心上.. 他像英雄一样死去，我希望你们能打败他..",
       "KR": "[레드- XIII] 이것을 마음에 가지 말아라.. 영웅으로 죽었고, 희망한다만 네가 그를 이길 수 있기를..",
@@ -1402,17 +1402,17 @@
   "[Red-XIII] Possibly he needs the Gi Nattak soul.. Because it contains huge amount of power.": {
     "translation": "[Red-XIII] 可能他需要基纳塔克的灵魂.. 因为它包含巨大的能量。",
     "MultiLang": {
-      "US": "",
-      "JP": "",
+      "US": "[Red-XIII] He might need the Gi Nattak soul.. As it contains a huge amount of power.",
+      "JP": "[Red-XIII]Possibly その魂はギ・ナタック need される.. 因为它蕴含巨大的力量。",
       "CN": "[Red-XIII] 可能他需要基纳塔克的灵魂.. 因为它包含巨大的能量。",
       "KR": "[레드- XIII] 아마Gi Nattak의 영혼이 필요할 수 있음...因为它含有巨大的力量。",
-      "TW": ""
+      "TW": "[紅-XIII] POSSIBLY他需要Gi Nattak的灵魂…因為其中含有巨大的力量。"
     }
   },
   "[Red-XIII] That guy could summon Bahamut.. Where did he take that power?": {
     "translation": "[Red-XIII] 那家伙能召唤巴哈姆特.. 他从哪里获得那种力量？",
     "MultiLang": {
-      "US": "",
+      "US": "[Red-XIII] He could summon Bahamut... Where did he get that power from?",
       "JP": "[Red-XIII] あの人はバハムートを召喚できる..'その力をどこから取ったんだろ？",
       "CN": "[Red-XIII] 那家伙能召唤巴哈姆特.. 他从哪里获得那种力量？",
       "KR": "[레드- XIII] 그 남자가 바하무트를 소환할 수 있었을까… 그 힘은 어디서 얻었나?",
@@ -1476,7 +1476,7 @@
       "JP": "**Gi Nattak は TELEPORT を使用しています**",
       "CN": "5秒，基纳塔克正在使用传送。不要移动！！",
       "KR": "**Gi Nattak은 텔레포트 사용 중입니다**",
-      "TW": ""
+      "TW": "***Gi Nattak 使用 TELEPORT***"
     }
   }
 }
