@@ -1,8 +1,9 @@
-# 本地部署ollama 并利用 Qwen2.5:7B-Instruct (阿里千问2.5:7b)模型 进行自动化翻译
+# 本地部署ollama 并利用 goole gemma3 模型 进行自动化翻译
 # 此脚本目前不会对现有翻译进行覆盖
 # 将配置和路径修改为正确的本地ollama地址 运行此脚本.
 # 如具有更好的GPU算力则可以使用更大的模型以达到更精确的效果
 # ollama pull Qwen2.5:7B-Instruct
+# ollama pull gemma3:4b
 # sudo systemctl start ollama
 # sudo apt install python3
 # sudo pip install tqdm requests argparse
@@ -21,7 +22,8 @@ import logging
 
 # 配置
 OLLAMA_URL = "http://192.168.50.5:11434/api/generate" #内网 Mac Mini 设备地址
-MODEL = "qwen2.5:7b-instruct"
+#MODEL = "qwen2.5:7b-instruct"
+MODEL = "gemma3:4b"
 DIRECTORY = os.getcwd()  # 默认设置为当前目录
 HEADERS = {"Content-Type": "application/json"}
 
@@ -203,7 +205,7 @@ def is_english(text):
 
 # 主程序
 def main():
-    parser = argparse.ArgumentParser(description="本地批量翻译或单文件翻译脚本 (使用 Ollama + Qwen2:7b) ")
+    parser = argparse.ArgumentParser(description="本地批量翻译或单文件翻译脚本 ")
     parser.add_argument(
         "-f", "--file",
         type=str,
