@@ -15,7 +15,7 @@
     "AbilityList": [
       {
         "Name": "Item_BLM_button",
-        "ButtonID": 15755,
+        "ButtonID": 15763,
         "ButtonClass": "func_button",
         "Filter": "Player_BLM:1",
         "Chat_Uses": true,
@@ -24,7 +24,7 @@
         "CoolDown": 0,
         "Ignore": false,
         "LockItem": false,
-        "MathID": 15763,
+        "MathID": 15755,
         "MathNameFix": false,
         "MathFindSpawned": false,
         "MathDontShowMax": true
