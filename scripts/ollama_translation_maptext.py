@@ -1,3 +1,14 @@
+# 本地部署ollama 并利用 google gemma3 模型 进行自动化翻译
+# 此脚本目前不会对现有翻译进行覆盖
+# 将配置和路径修改为正确的本地ollama地址 运行此脚本.
+# 如具有更好的GPU算力则可以使用更大的模型以达到更精确的效果
+# ollama pull Qwen2.5:7B-Instruct
+# ollama pull gemma3:4b
+# sudo systemctl start ollama
+# sudo apt install python3
+# sudo pip install tqdm requests argparse
+# 注 基于AI推理翻译每次运行结果可能都会不同 同时可能会犯错以及不正确的翻译.
+
 import json
 import os
 import re
@@ -110,7 +121,14 @@ def translate_text(original_text, lang_code, filename):
             response = requests.post(OLLAMA_URL, headers=HEADERS, json=payload, timeout=TIMEOUT_SECONDS)
             response.raise_for_status()
             result = response.json()
-            translation = result.get('response', '').strip()
+            raw_translation = result.get('response', '').strip()
+
+            # 提取返回结果中的 "text" 字段
+            try:
+                translation_json = json.loads(raw_translation)
+                translation = translation_json.get("text", "").strip()
+            except json.JSONDecodeError:
+                translation = raw_translation  # 如果不是 JSON 格式，则直接使用原结果
 
             if is_correct_language(translation, lang_code):
                 logging.info(f"[OK][{filename}] 原文: {original_text} -> 翻译: {translation} | 目标语言: {LANGUAGE_MAP[lang_code][0]}")
