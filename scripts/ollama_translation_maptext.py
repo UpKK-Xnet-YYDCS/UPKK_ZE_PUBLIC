@@ -134,8 +134,11 @@ def translate_text(original_text, lang_code):
                 translation_json = json.loads(raw_translation)
                 translation = translation_json.get("text", "").strip()
             except json.JSONDecodeError:
-                translation = raw_translation
-                print(f"[ERROR]: | 原文: {original_text} | 目标语言: {LANGUAGE_MAP[lang_code][0]} | 理由: 返回了非标准的JSON")
+                print(f"[JSON解析错误]: 原文: {original_text} | 目标语言: {LANGUAGE_MAP[lang_code][0]} | 尝试: {attempt}/{MAX_RETRIES}")
+                if attempt < MAX_RETRIES:  # 如果还有重试机会
+                    time.sleep(2)  # 等待后重试
+                    continue
+                translation = raw_translation  # 最后一次直接使用原始返回值作为翻译文本
 
             if is_correct_language(translation, lang_code):
                 return sanitize_text(translation)
