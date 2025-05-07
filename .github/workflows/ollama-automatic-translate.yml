@@ -5,9 +5,9 @@ env:
 
 on:
   workflow_dispatch:
-  push:
-    paths:
-      - 'cs2/counterstrikesharp/configs/map-text/**/*.jsonc'
+  #push:
+    #paths:
+      #- 'cs2/counterstrikesharp/configs/map-text/**/*.jsonc'
 
 jobs:
   translate_and_pr:
