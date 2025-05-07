@@ -33,20 +33,20 @@
     "translation": "--BOOM!--",
     "MultiLang": {
       "US": "",
-      "JP": "---バン！---",
-      "CN": "——轰！",
-      "KR": "",
-      "TW": ""
+      "JP": "---ドーン！---",
+      "CN": "--BOOM!--",
+      "KR": "---폭발---",
+      "TW": "——砰！——"
     }
   },
   "--BOOM--": {
     "translation": "--BOOM--",
     "MultiLang": {
       "US": "",
-      "JP": "---バンマン---",
-      "CN": "--轰--",
-      "KR": "--폭발--",
-      "TW": ""
+      "JP": "---ドーン---",
+      "CN": "--BOOM--",
+      "KR": "---폭발---",
+      "TW": "---巨響---"
     }
   },
   ".............": {
@@ -54,8 +54,8 @@
     "MultiLang": {
       "US": "",
       "JP": "",
-      "CN": "",
-      "KR": "3. 숫자는 다른 언어나 중국어로 번역하지 마세요. 반드시 아라비아숫자로保持中文格式",
+      "CN": ".............",
+      "KR": "",
       "TW": ""
     }
   },
@@ -74,7 +74,7 @@
     "MultiLang": {
       "US": "",
       "JP": "",
-      "CN": "",
+      "CN": "??????????????????",
       "KR": "",
       "TW": ""
     }
@@ -84,19 +84,19 @@
     "MultiLang": {
       "US": "",
       "JP": "",
-      "CN": "",
+      "CN": "????????????????????????",
       "KR": "",
-      "TW": "【開始翻譯】"
+      "TW": ""
     }
   },
   "????????????????????????????????????????????????": {
     "translation": "????????????????????????????????????????????????",
     "MultiLang": {
       "US": "",
-      "JP": "開始翻訳",
-      "CN": "",
+      "JP": "",
+      "CN": "????????????????????????????????????????????????",
       "KR": "",
-      "TW": "【開始翻譯】"
+      "TW": ""
     }
   },
   "???????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????!": {
@@ -104,7 +104,7 @@
     "MultiLang": {
       "US": "",
       "JP": "",
-      "CN": "",
+      "CN": "???????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????!",
       "KR": "",
       "TW": ""
     }
@@ -114,629 +114,629 @@
     "MultiLang": {
       "US": "",
       "JP": "",
-      "CN": "",
+      "CN": "C4????????????15????????????",
       "KR": "",
-      "TW": "C4????????????15??????????? '?' 代表未知或未命名的項目"
+      "TW": ""
     }
   },
   "查理:3,2,1！什么？居然炸膛了？果然不了解结构的话造不出来啊": {
     "translation": "查理:3,2,1！什么？居然炸膛了？果然不了解结构的话造不出来啊",
     "MultiLang": {
-      "US": "Charlie: 3, 2, 1! What? It actually misfired? As expected, you can't make it without understanding the structure.",
-      "JP": "チャールズ: 3,2,1！何だこれ？実装が破裂したか？果たして構造を把握しないと作れないな",
+      "US": "Charlie: 3, 2, 1! What? How did I explode?! Guess I don't understand the structure well enough to build it.",
+      "JP": "チャーリー:3,2,1！なんだ？まさか爆発とか？構造が分かってないから、作れないかったっすね。",
       "CN": "查理:3,2,1！什么？居然炸膛了？果然不了解结构的话造不出来啊",
-      "KR": "차릴리: 3,2,1! 뭐?被誉발사라?果然不了解构造的话造不出来啊",
-      "TW": "查理:3,2,1！什麼？竟然炸膛了？果然不了解結構的話造不出来啊"
+      "KR": "찰리: 3, 2, 1! 뭐? 갑자기 엉덩이 폭발이라니? 구조를 몰라서 그런 거네.",
+      "TW": "查理:3,2,1！什麼？居然炸膛了？果然不了解結構的話造不出來啊"
     }
   },
   "查理:全体进入掩体，准备炮击！": {
     "translation": "查理:全体进入掩体，准备炮击！",
     "MultiLang": {
-      "US": "Charlie: Enter the shelters, prepare for bombardment!",
-      "JP": "チャールズ: 全体進入隠蔽處、準備砲擊！",
+      "US": "Charlie: Everyone, take cover and prepare to fire!",
+      "JP": "チャーリー: 全体、掩体へ進入、砲撃の準備を！",
       "CN": "查理:全体进入掩体，准备炮击！",
-      "KR": "차리: 전체가 피난소로 들어가세요, 총격 준비!*",
-      "TW": "查理: 全體進入掩體，準備砲擊！"
+      "KR": "찰리: 전체는 엄폐물로 진입하여 포격을 준비한다!",
+      "TW": ""
     }
   },
   "查理:准备看好戏吧！": {
     "translation": "查理:准备看好戏吧！",
     "MultiLang": {
-      "US": "Charlie: Prepare to watch the show!",
-      "JP": "チャールズ: 相手の演技を楽しんで見よ！",
+      "US": "Charlie: Let's watch the show!",
+      "JP": "チャーリー: さあ、最高のエンディングを見よう！",
       "CN": "查理:准备看好戏吧！",
-      "KR": "찰리: 준비하라! 좋을 것이 있다!",
-      "TW": "查理:準備看好戲吧！"
+      "KR": "찰리: 자, 기대하고 볼까!",
+      "TW": "查理: 準備看好戲吧！"
     }
   },
   "查理:剩下的就交给我了！让这帮僵尸尝尝我的大杀器！": {
     "translation": "查理:剩下的就交给我了！让这帮僵尸尝尝我的大杀器！",
     "MultiLang": {
-      "US": "Charlie: Let the zombies feel my big weapon!",
-      "JP": "チャールズ:残りは私に任せる！このゾンビたちに私の大殺器を味わって貰おう！",
+      "US": "Charlie: I'll take care of the rest! Let these zombies taste my ultimate weapon!",
+      "JP": "チャーリー:残りの件は任せてくれ！このゾンビどもに、俺の最強兵器を味わわせてやる！",
       "CN": "查理:剩下的就交给我了！让这帮僵尸尝尝我的大杀器！",
-      "KR": "찰리: 남은 것은 나에게 맡기도록! 이 놈들의 무서운 무기를 시험시켜주게!",
-      "TW": "查理:剩下的就交給我了！讓這幫殭屍嘗嘗我的大殺器！"
+      "KR": "찰리: 남은 건 다 내가 맡아! 이 놈들한테 내 흉악한 무기 맛을 보여주마!",
+      "TW": "查理:剩下的都交給我了！讓這幫殭屍嚐嚐我的大殺器！"
     }
   },
   "查理:我们把坦克造出来了，厉害吧？！": {
     "translation": "查理:我们把坦克造出来了，厉害吧？！",
     "MultiLang": {
-      "US": "Charlie: We made the tanks, huh? Pretty cool, right?!",
-      "JP": "チャーリー: テンパシーを作り出したよ、凄いわね?!",
+      "US": "Charlie: We've built the tanks! Isn't that awesome?!",
+      "JP": "チャーリー:　ついに戦車を完成させたぞ！　すごいだろ？！",
       "CN": "查理:我们把坦克造出来了，厉害吧？！",
-      "KR": "차리: 우리는 탱크를 만들었어요,厉害吧？！",
-      "TW": "查理:我們把坦克造出來了，厲不厲害？！"
+      "KR": "찰리: 우리 탱크를 만들었어! 대단하지 않아?!",
+      "TW": "查理:我們把坦克造出來了，厲害吧？！"
     }
   },
   "查理:我是查理,Guild的负责人,守住最后的30S": {
     "translation": "查理:我是查理,Guild的负责人,守住最后的30S",
     "MultiLang": {
-      "US": "Charlie: I am Charlie, the Guild leader. Hold out for the last 30S.",
-      "JP": "チャールズ: 我是チャールズ、ギルドの責任者、最後の30Sを守れ",
+      "US": "Charlie: I am Charlie, the Guild leader. Defend the last 30 seconds.",
+      "JP": "チャーリー：私はチャーリーだ、ギルドのリーダー。最後の30秒を守れ。",
       "CN": "查理:我是查理,Guild的负责人,守住最后的30S",
-      "KR": "차리: 나는 차리이고, Guild의Leader다. 마지막 30S를 지켜라.",
-      "TW": "查理:我是查理,Guild的負責人,守最後的30S"
+      "KR": "찰리: 나는 찰리야, 길드의 책임자. 마지막 30초를 지켜.",
+      "TW": "查理:我是查理,公會的負責人,守住最後的30S"
     }
   },
   "查理:果然不愧是由理子，居然能通过这么多陷阱来到Guild最深处": {
     "translation": "查理:果然不愧是由理子，居然能通过这么多陷阱来到Guild最深处",
     "MultiLang": {
-      "US": "Charlie: Sure enough, it's Yuriko alright, managing to reach the Guild's deepest layer through so many traps.",
-      "JP": "チャーリー: 的确は subparagraph 由里子が竟然ここまで罠を乗り越えてギルドの deepest part に来られたか",
+      "US": "Charlie: As expected, Izumi could actually make it through so many traps and arrive at the deepest part of the Guild!",
+      "JP": "チャーリー:やっぱり理子 worthy, 居然能通过这么多陷阱来到ギルド最深处",
       "CN": "查理:果然不愧是由理子，居然能通过这么多陷阱来到Guild最深处",
-      "KR": "채리:果然/by 여지껏/by 子能做到通過這麼多陷井來到Guild最深處",
-      "TW": "查理:果然不愧是理子，竟然能通過這麼多陷阱來到公會最深處"
+      "KR": "찰리: 역시, 유리 자에게는 이렇게 많은 함몰을 통과해서 길드 가장 깊숙한 곳까지 올 줄이야.",
+      "TW": "查理:果然不愧是由理子，居然能透過這麼多陷阱來到Guild最深處"
     }
   },
   "查理:那当然！也不看看我们是谁": {
     "translation": "查理:那当然！也不看看我们是谁",
     "MultiLang": {
-      "US": "Charlie: Of course! You should know who we are.",
-      "JP": "チャーリー: もちろんです！誰々を知ってないわよ！",
+      "US": "Charlie: Of course! Look at who we are.",
+      "JP": "チャールズ: 当然だ！まさか俺たちが誰だか知らないと思ってるの？",
       "CN": "查理:那当然！也不看看我们是谁",
-      "KR": "차리: 당연히 그래! 우리가 누구인지 모르는 거야?",
-      "TW": "查理:那當然！也不看看我們是誰"
+      "KR": "찰리: 당연하지! 우리가 대체 누구지 보냐!",
+      "TW": ""
     }
   },
   "游佐:C4将在15秒后爆炸": {
     "translation": "游佐:C4将在15秒后爆炸",
     "MultiLang": {
-      "US": "Yuzo: C4 will detonate in 15 seconds",
-      "JP": "遊佐:C4は15秒後で爆発します",
+      "US": "Yusho: The C4 will explode in 15 seconds.",
+      "JP": "游佐:C4は15秒後に爆発する",
       "CN": "游佐:C4将在15秒后爆炸",
-      "KR": "유佐:C4는 15초 후에 폭발할 것이다",
-      "TW": "遊佐:C4將在15秒後爆炸"
+      "KR": "유조: C4가 15초 후에 폭발한다",
+      "TW": "游佐:C4會在15秒後爆炸"
     }
   },
   "游佐:Guild的入口在舞台下方": {
     "translation": "游佐:Guild的入口在舞台下方",
     "MultiLang": {
-      "US": "Yuzo: The guild entrance is below the stage.",
-      "JP": "遊佐:ギルドの入口は舞台の下にあります",
+      "US": "Yusho: The entrance to the Guild is under the stage.",
+      "JP": "游佐:ギルドの入り口は舞台の下にある",
       "CN": "游佐:Guild的入口在舞台下方",
-      "KR": "유소:ギルド의 입구는 무대 아래에 있습니다",
-      "TW": ""
+      "KR": "游佐: 길드의 입구는 무대 아래에 있다.",
+      "TW": "游佐：公會入口在舞台下方"
     }
   },
   "游佐:~~咕噜咕噜咕噜咕噜~~": {
     "translation": "游佐:~~咕噜咕噜咕噜咕噜~~",
     "MultiLang": {
-      "US": "Yuzo: ~~咕噜咕噜咕噜咕噜~~",
-      "JP": "游佐:~~グログログログロ~~",
+      "US": "Youzou:~~Burp burp burp burp~~",
+      "JP": "游佐:~~ゴロゴロゴロゴロ~~",
       "CN": "游佐:~~咕噜咕噜咕噜咕噜~~",
-      "KR": "유조:~~咕噜咕噜咕噜咕噜~~",
+      "KR": "",
       "TW": "游佐:~~咕嚕咕嚕咕嚕咕嚕~~"
     }
   },
   "游佐:下面是水淹...": {
     "translation": "游佐:下面是水淹...",
     "MultiLang": {
-      "US": "Yuzo: Below is water flooding...",
-      "JP": "遊佐: 下は水淹...",
+      "US": "Yusho: Here's the flood...",
+      "JP": "遊佐: 水没だよ…",
       "CN": "游佐:下面是水淹...",
-      "KR": "유佐: 다음은 수담...",
-      "TW": "遊佐: 下面是水淹..."
+      "KR": "游佐: 다음은 물범...",
+      "TW": ""
     }
   },
   "游佐:不过体育馆正门被锁住了,请走侧门": {
     "translation": "游佐:不过体育馆正门被锁住了,请走侧门",
     "MultiLang": {
-      "US": "Yuzo: However, the main entrance of the gym is locked. Please use the side entrance.",
-      "JP": "遊佐:ただし体育館の正門が閉鎖されていますので、側門から入ってください",
+      "US": "Yusho: But the main entrance to the gymnasium is locked, please use the side entrance.",
+      "JP": "遊佐: ただ、体育館正門は鍵がかかっています。側門から入ってください。",
       "CN": "游佐:不过体育馆正门被锁住了,请走侧门",
-      "KR": "유조: 다만 체육관 정문이 잠겨 있어요, 부대문으로 들어가세요",
-      "TW": "游佐:不過體育館正門被鎖住了,請走側門"
+      "KR": "",
+      "TW": "游佐:不過體育館正門被鎖住了，請走側門"
     }
   },
   "游佐:基地Guild在体育馆正下方": {
     "translation": "游佐:基地Guild在体育馆正下方",
     "MultiLang": {
-      "US": "Yuzo: Base Guild directly below the gym",
-      "JP": "遊佐: 基地Guildは体育館の正下方にあります。",
+      "US": "Yusho: The Base Guild is directly below the gymnasium.",
+      "JP": "游佐:基地ギルドは体育館の真下です",
       "CN": "游佐:基地Guild在体育馆正下方",
-      "KR": "유지: 기지를 겸사관 바로 아래에 두세요.",
-      "TW": "遊佐:基地Guild在體育館正下方"
+      "KR": "游佐:基地 길드 체육관 바로 아래",
+      "TW": "游佐：基地公會位於體育館的正下方"
     }
   },
   "游佐:她好像有点不太对劲（注意小奏的音速手刃）": {
     "translation": "游佐:她好像有点不太对劲（注意小奏的音速手刃）",
     "MultiLang": {
-      "US": "Yuzo: She seems a bit off (watch little Suna's sound velocity割裂).",
-      "JP": "遊佐: 何かちょっとおかしい気がする（小奏の音速手刀に注意）",
+      "US": "Yousho: Something seems a little off about her (Pay attention to Koushou's lightning-fast execution).",
+      "JP": "",
       "CN": "游佐:她好像有点不太对劲（注意小奏的音速手刃）",
-      "KR": "유조:she seems a bit off (note 小奏's sound speed刀刃)",
-      "TW": "游佐:她好像有點不太對勁（注意小奏的音速手刃）"
+      "KR": "",
+      "TW": "游佐：她好像有點不太對勁（注意小奏的音速手刃）"
     }
   },
   "游佐:如果我没记错的话,这里的地板会碎！": {
     "translation": "游佐:如果我没记错的话,这里的地板会碎！",
     "MultiLang": {
-      "US": "Yuzo: If I remember correctly, the floor here will break!",
-      "JP": "遊佐:もし間違えなければ、この床は砕ける！",
+      "US": "Yusō: If I don't misremember, the floor here will break!",
+      "JP": "游佐:もし私が間違えていないなら、この床は壊れるぞ！",
       "CN": "游佐:如果我没记错的话,这里的地板会碎！",
-      "KR": "유소: 만약 기억이 맞는다면 여기 바닥은 부서질 것이다!",
-      "TW": "遊佐:如果我没記錯的話,這裡的地板會碎！"
+      "KR": "유조: 만약 내가 제대로 기억한다면, 이 바닥은 부서질 거야!",
+      "TW": ""
     }
   },
   "游佐:守住这里，我来开门": {
     "translation": "游佐:守住这里，我来开门",
     "MultiLang": {
-      "US": "Yuzo: Hold here, I'll open the door",
-      "JP": "遊佐: ここで守っておいてくれ、私は開ける",
+      "US": "Yousho: Hold this position, I'll open the door.",
+      "JP": "",
       "CN": "游佐:守住这里，我来开门",
-      "KR": "유조: 여기를 지키고, 나는 문을 열어보겠습니다.",
-      "TW": "游佐: 守住這裡，我去開門"
+      "KR": "유조: 여기 지키고, 내가 문 열어.",
+      "TW": "游佐：守住這裡，我來開門"
     }
   },
   "游佐:小心,前方发现天使": {
     "translation": "游佐:小心,前方发现天使",
     "MultiLang": {
-      "US": "Yuzo: Be careful, an angel is ahead.",
-      "JP": "遊佐: 注意, 前方出现天使",
+      "US": "Yusho: Be careful, an angel has been spotted ahead.",
+      "JP": "游佐: 小心、前方発見 天使",
       "CN": "游佐:小心,前方发现天使",
-      "KR": "유佐: 조심, 앞서angelo 나타났음",
-      "TW": "游佐:小心，前方發現天使"
+      "KR": "游佐: 조심해, 앞쪽에 천사가 나타났어.",
+      "TW": "游佐：小心，前方發現天使"
     }
   },
   "游佐:小心了！前方是送终鸡的刀光剑影！": {
     "translation": "游佐:小心了！前方是送终鸡的刀光剑影！",
     "MultiLang": {
-      "US": "Yuzo: Watch out! Ahead is the Scissor Shadow of the Funeral Rooster!",
-      "JP": "游佐: くれ arter! 前方は送終雞の刀光劍影！",
+      "US": "Yusho: Be careful! Ahead, it's the blade and shadow of the ritual sacrifice chickens!",
+      "JP": "",
       "CN": "游佐:小心了！前方是送终鸡的刀光剑影！",
-      "KR": "유佐: 조심해! 앞서는 종식 달걀의 칼빛 검연이다!",
-      "TW": "游佐: 小心了！前方是送終雞的刀光劍影！"
+      "KR": "游佐: 조심해! 앞쪽은 송결치(송결닭)의 칼빛 그림자야!",
+      "TW": ""
     }
   },
   "游佐:岩石将在15秒后破碎": {
     "translation": "游佐:岩石将在15秒后破碎",
     "MultiLang": {
-      "US": "Yuzo: The rocks will crumble in 15 seconds.",
+      "US": "Yusho: The rock will break in 15 seconds.",
       "JP": "",
       "CN": "游佐:岩石将在15秒后破碎",
-      "KR": "유조: 돌은 15초 후에 부reak }}\"></br>",
-      "TW": "游佐: rocks will shatter in 15 seconds"
+      "KR": "",
+      "TW": ""
     }
   },
   "游佐:岩石将在25秒后破碎": {
     "translation": "游佐:岩石将在25秒后破碎",
     "MultiLang": {
-      "US": "Yuzo: The rock will break in 25 seconds.",
-      "JP": "遊佐: 石は25秒後爆発する",
+      "US": "Yusho: The rock will break in 25 seconds.",
+      "JP": "遊佐:岩石は25秒後に崩壊します",
       "CN": "游佐:岩石将在25秒后破碎",
-      "KR": "유지: 바위는 25초 후에 부서질 것이다",
-      "TW": "遊佐:岩⽯將在25秒後破碎"
+      "KR": "",
+      "TW": ""
     }
   },
   "游佐:开关在第一台电脑处": {
     "translation": "游佐:开关在第一台电脑处",
     "MultiLang": {
-      "US": "Yuzo: The switch is at the first computer.",
-      "JP": "遊佐: スイッチは最初のパソコンにあります",
+      "US": "Yusho: The switch is at the first computer.",
+      "JP": "",
       "CN": "游佐:开关在第一台电脑处",
-      "KR": "유조: 스위치는 첫 번째 컴퓨터에 있습니다.",
-      "TW": "游佐:開關在第1台電腦處"
+      "KR": "",
+      "TW": "游佐:開關在第一台電腦處"
     }
   },
   "游佐:很抱歉..我不会游...": {
     "translation": "游佐:很抱歉..我不会游...",
     "MultiLang": {
-      "US": "Yuzo: Sorry... I can't swim...",
-      "JP": "遊佐: すみません..私不會泳...",
+      "US": "Yusho: I'm sorry... I can't swim...",
+      "JP": "",
       "CN": "游佐:很抱歉..我不会游...",
-      "KR": "유지:很方便... 나는ไมNintendo能继续，超出50个字符限制，请查看原文。",
-      "TW": "遊佐:很抱歉..我不會游..."
+      "KR": "游佐: 미안해... 난 游하지 못해...",
+      "TW": ""
     }
   },
   "游佐:快跑！": {
     "translation": "游佐:快跑！",
     "MultiLang": {
-      "US": "Yuzo: Run fast!",
-      "JP": "遊佐: 早く走れ！",
+      "US": "Yusō: Run!",
+      "JP": "やさ:㐂っ！",
       "CN": "游佐:快跑！",
-      "KR": "유佐: 빨리 달려!",
-      "TW": "遊佐:快跑！"
+      "KR": "유조: 빨리 달려!",
+      "TW": ""
     }
   },
   "游佐:收到，请各位现在前往体育馆": {
     "translation": "游佐:收到，请各位现在前往体育馆",
     "MultiLang": {
-      "US": "Yuzo: Received. Please head to the gym now.",
-      "JP": "遊佐: 收到、ご各位現在体育館へ移動ください",
+      "US": "Yusho: Received, please proceed to the gymnasium now.",
+      "JP": "",
       "CN": "游佐:收到，请各位现在前往体育馆",
-      "KR": "유佐: 받았습니다. 지금 모두體育館으로 가주세요>>",
-      "TW": "游佐: 收到，請各位現在前往體育館"
+      "KR": "",
+      "TW": "游佐：收到，請各位現在前往體育館"
     }
   },
   "游佐:注意,岩石后面道路的尽头有一个可怕的陷阱": {
     "translation": "游佐:注意,岩石后面道路的尽头有一个可怕的陷阱",
     "MultiLang": {
-      "US": "Yuzo: Watch out, there's a terrible trap at the end of the road behind the rocks.",
-      "JP": "遊佐: 注意、岩の後ろの道の端に恐ろしい罠がある>> <<",
+      "US": "Yusho: Pay attention, there's a terrifying trap at the end of the road behind the rocks.",
+      "JP": "游佐:注意、岩石の後に続く道には、恐ろしい罠がある。",
       "CN": "游佐:注意,岩石后面道路的尽头有一个可怕的陷阱",
-      "KR": "유저ZO: 주의, 바위 뒤 길의 끝에 무서운 함정이 있습니다.",
-      "TW": "游佐:注意， Rocks 后面道路的盡頭有1個可怕的陷阱"
+      "KR": "游佐: 주의, 암석 뒤의 길 끝에는 끔찍한 함정이 있다.",
+      "TW": "游佐：注意，岩石後面道路的盡頭有一個可怕的陷阱"
     }
   },
   "游佐:注意脚下的红色地板": {
     "translation": "游佐:注意脚下的红色地板",
     "MultiLang": {
-      "US": "Yuzo: Watch your step on the red floor tiles",
-      "JP": "游佐: 足元に赤い床に注意",
+      "US": "Yusho: Watch your feet – the red floor.",
+      "JP": "遊佐: 注意脚下の赤い床",
       "CN": "游佐:注意脚下的红色地板",
-      "KR": "유조: 발 아래의 빨간 바닥에 주의하세요",
-      "TW": "游佐: 注意腳下的紅色地板"
+      "KR": "游佐: 주의 발 아래의 빨간 바닥을 봐.",
+      "TW": "游佐：注意腳下的紅色地板"
     }
   },
   "游佐:注意！岩石后面是天花板坠落陷阱！": {
     "translation": "游佐:注意！岩石后面是天花板坠落陷阱！",
     "MultiLang": {
-      "US": "Yuzo: Caution! Ceiling collapse trap behind the rocks!",
-      "JP": "游佐: 注意！岩の後ろには天井落下トラップがある！",
+      "US": "Yusho: Pay attention! Behind the rocks is a ceiling fall trap!",
+      "JP": "",
       "CN": "游佐:注意！岩石后面是天花板坠落陷阱！",
-      "KR": "유조: 주의! 바위 뒤에는 천장붕괴 함정이 있습니다!",
-      "TW": "遊佐:注意！ Rocks後面是 Ceiling下墜陷阱！"
+      "KR": "游佐: 주의! 바위 뒤에는 천장으로 떨어지는 함정이 있습니다!",
+      "TW": "游佐：注意！岩石後面是天花板墜落陷阱！"
     }
   },
   "游佐:注意！这里是滚石陷阱！": {
     "translation": "游佐:注意！这里是滚石陷阱！",
     "MultiLang": {
-      "US": "Yuzo: Watch out! This is a rolling stone trap!",
-      "JP": "遊佐: 注意！ここはローリングストーントラップだ！",
+      "US": "Youso: Attention! This is a boulder trap!",
+      "JP": "",
       "CN": "游佐:注意！这里是滚石陷阱！",
-      "KR": "유소: 주의! 여기 롤링 스톤 트랩이다!",
-      "TW": "游佐: 注意！這裡是滾石陷阱！"
+      "KR": "유조: 주의! 여기는 굴러떨어지는 함정이야!",
+      "TW": "游佐:注意！這裡是滾石陷阱！"
     }
   },
   "游佐:玻璃门将在5秒后关闭": {
     "translation": "游佐:玻璃门将在5秒后关闭",
     "MultiLang": {
-      "US": "Yuzo: The glass door will close in 5 seconds.",
-      "JP": "游佐:ガラス扉は5秒後におわります",
+      "US": "Youso: The glass door will close in 5 seconds.",
+      "JP": "",
       "CN": "游佐:玻璃门将在5秒后关闭",
-      "KR": "유佐: 유리문은 5초 후에 닫힙니다.",
-      "TW": "游佐:玻璃門將在5秒後關閉"
+      "KR": "",
+      "TW": ""
     }
   },
   "游佐:舞台下方的暗门将在30秒后打开,守住这里": {
     "translation": "游佐:舞台下方的暗门将在30秒后打开,守住这里",
     "MultiLang": {
-      "US": "Yuzo: The hidden door below the stage will open in 30 seconds. Hold your ground here.",
-      "JP": "遊佐: 座敷下的暗門は30秒後 openingsする、ここを守れ",
+      "US": "Yusho: The secret passage beneath the stage will open in 30 seconds. Guard this place.",
+      "JP": "遊佐: 舞台の下方の暗門は、30秒後に開きます。守ってください。",
       "CN": "游佐:舞台下方的暗门将在30秒后打开,守住这里",
-      "KR": "유佐: 무대 아래쪽에 있는 은닉된 문이 30초 후에 열립니다. 여기를 지켜십시오.",
-      "TW": "游佐:舞台下方的暗門将在30秒後打開,守住這裡"
+      "KR": "유사: 무대 아래쪽의 숨겨진 문이 30초 후에 열리도록, 이 자리를 지키시오.",
+      "TW": "游佐:舞台下方暗門將在30秒後開啟，守住這裡"
     }
   },
   "游佐:请靠着白色柱子前进！": {
     "translation": "游佐:请靠着白色柱子前进！",
     "MultiLang": {
-      "US": "Yuzo: Please move forward by the white pillar!",
-      "JP": "游佐: 白色の柱に寄って進んでください！",
+      "US": "Yusa: Please move by leaning against the white pillar!",
+      "JP": "",
       "CN": "游佐:请靠着白色柱子前进！",
-      "KR": "유佐: 白색의 기둥에 의지해 앞으로 나가세요!",
-      "TW": "游佐:請靠著白色柱子前進！"
+      "KR": "游佐: 벽돌 기둥에 기대서 앞으로 이동하세요!",
+      "TW": "游佐：請靠著白色柱子前進！"
     }
   },
   "游佐:躲不开的话会被它用最好的手法切成两半！": {
     "translation": "游佐:躲不开的话会被它用最好的手法切成两半！",
     "MultiLang": {
-      "US": "Yuzo: If you can't dodge, it will cut you in half with its best technique!",
-      "JP": "遊佐: 躲不开的话就被它用最好的手法切成兩半！",
+      "US": "Yusho: If you can't escape, it will cut you in half with its best technique!",
+      "JP": "遊佐: 如果躲不开，它就会用最完美的手段将你切成两半！",
       "CN": "游佐:躲不开的话会被它用最好的手法切成两半！",
-      "KR": "유조: 피해서 안 되면 이 솜씨로 두Half에 잘라⚗️",
-      "TW": "游佐:躲不开的話會被它用最好的手法切成兩半！"
+      "KR": "유자: 벗어나면 최상의 방법으로 썰어버릴 거야!",
+      "TW": ""
     }
   },
   "游佐:门开之后一定要跑起来！": {
     "translation": "游佐:门开之后一定要跑起来！",
     "MultiLang": {
-      "US": "Yuzo: Run after the door opens!",
-      "JP": "游佐: 扉開きinsula一定要跑起來！",
+      "US": "Yousho: Run after the door opens!",
+      "JP": "",
       "CN": "游佐:门开之后一定要跑起来！",
-      "KR": "유소: 문이 열리면 꼭 달려가세요!",
-      "TW": "游佐: 門開之後1定要闻跑起來！"
+      "KR": "游佐: 문을 열고 나면 반드시 달려야 해!",
+      "TW": ""
     }
   },
   "游佐:门开了,快走": {
     "translation": "游佐:门开了,快走",
     "MultiLang": {
-      "US": "Yuzo: The door is open, hurry up and go.",
-      "JP": "遊佐: 门开了, 快走",
+      "US": "Youzo: The door's open, hurry!",
+      "JP": "游佐:門が開いた、早く走れ！",
       "CN": "游佐:门开了,快走",
-      "KR": "유지: 문이 열렸다, 빨리 들어가라",
-      "TW": "游佐:門開了,快走"
+      "KR": "游佐: 문 열렸어, 빨리 가!",
+      "TW": "游佐: 門打開了, 快走"
     }
   },
   "由依:啊！游佐！！！": {
     "translation": "由依:啊！游佐！！！",
     "MultiLang": {
-      "US": "Yui: Ah! Yuzo!!!",
-      "JP": "由依: あ！ゆさ！！！",
+      "US": "Yi: Ah! Yuza!!!",
+      "JP": "",
       "CN": "由依:啊！游佐！！！",
-      "KR": "유이: 아! 유조!!!!!",
-      "TW": "由依: 哇！遊佐！！！"
+      "KR": "유이: 어!! 유조!!!",
+      "TW": ""
     }
   },
   "由依:小奏为什么要袭击我们？": {
     "translation": "由依:小奏为什么要袭击我们？",
     "MultiLang": {
-      "US": "Yui: Why did Kongosuzume attack us?",
-      "JP": "由依: 为什么小奏要袭击我们？",
+      "US": "Yi: Why does Xiao Zhuang attack us?",
+      "JP": "由依: 小奏はなぜ私たちを襲うんだ？",
       "CN": "由依:小奏为什么要袭击我们？",
-      "KR": "의아: 소주가 왜 우리를 공격하는지 모르겠나?",
-      "TW": "由依: 小奏為什麼要襲擊我們？"
+      "KR": "유이: 소조가 왜 우리를 공격하는 거지?",
+      "TW": "依: 小奏為什麼要攻擊我們？"
     }
   },
   "由依:我们不是同伴吗？": {
     "translation": "由依:我们不是同伴吗？",
     "MultiLang": {
-      "US": "By Yi: Aren't we companions?",
+      "US": "Yi: Aren't we companions?",
       "JP": "",
       "CN": "由依:我们不是同伴吗？",
-      "KR": "의아: 우리는 동료가 아니야?",
-      "TW": "由依:我們不是同伴嗎？"
+      "KR": "유이: 우리, 동료 아니에요?",
+      "TW": "依依: 我們不是同伴嗎？"
     }
   },
   "由依:等等,这里的陷阱为什么还是开着的": {
     "translation": "由依:等等,这里的陷阱为什么还是开着的",
     "MultiLang": {
-      "US": "Yi: Hold on, why is the trap still activated here?",
-      "JP": "由依: ちょっと待って、ここにある罠なぜまだ開いているの？",
+      "US": "Yi: Why is this trap still open?",
+      "JP": "由依: そもそも、ここが罠なのに、どうして罠の扉が開いているんだろう？",
       "CN": "由依:等等,这里的陷阱为什么还是开着的",
-      "KR": "유이: 잠시, 이곳의 함정 왜 여전히 활성화된 상태야",
-      "TW": "由依: 等等,這裡的陷階為什麼還開著的"
+      "KR": "유이:  এদিকে 함정은 왜 아직 열려있어?",
+      "TW": "由依:等等，這裡的陷阱為什麼還是開着的"
     }
   },
   "由依:那怎么办？？？": {
     "translation": "由依:那怎么办？？？",
     "MultiLang": {
-      "US": "By Yi: What should we do??",
-      "JP": "由依: それ该怎么办？？？",
+      "US": "Yi: What do we do????",
+      "JP": "由依: どうしよう？？？",
       "CN": "由依:那怎么办？？？",
-      "KR": "유이:深交咋办？？？",
+      "KR": "유이: 그럼 어떻게 해?",
       "TW": ""
     }
   },
   "由依:难道他们想杀了我们吗？": {
     "translation": "由依:难道他们想杀了我们吗？",
     "MultiLang": {
-      "US": "By Yi: Do they want to kill us?",
-      "JP": "由依: 他們は私たちを殺そうとしているのか？",
+      "US": "Yi: Do they really want to kill us?",
+      "JP": "由依: なぜか、彼らは私たちを殺そうとしているのか？",
       "CN": "由依:难道他们想杀了我们吗？",
-      "KR": "이야: 그들이 우리를 죽일까 봐 Müslmouseenter吗？",
-      "TW": "由依:難道他們想殺了我們嗎？"
+      "KR": "유이: 대체 그들이 우리를 죽이려고 하는 건가?",
+      "TW": "由依: 他們竟然想殺死我們嗎？"
     }
   },
   "由理子:不对，应该是僵尸正在入侵这里": {
     "translation": "由理子:不对，应该是僵尸正在入侵这里",
     "MultiLang": {
-      "US": "Yuriko: No, it should be that the zombies are invading here.",
-      "JP": "由理子:間違 gårde, これはゾンビがここに侵入しているべきです",
+      "US": "Yuri: It's not, zombies are invading here.",
+      "JP": "",
       "CN": "由理子:不对，应该是僵尸正在入侵这里",
-      "KR": "리코: 아니야,.should be >> 블레이ders正在侵入这里<<",
-      "TW": "由理子:不對，應該是殭屍正在入侵這裡"
+      "KR": "유리코: 틀렸어, 좀비가 여기로 침투하고 있어",
+      "TW": ""
     }
   },
   "由理子:他们开启了陷阱防御,全体注意小心陷阱！": {
     "translation": "由理子:他们开启了陷阱防御,全体注意小心陷阱！",
     "MultiLang": {
-      "US": "Yuriko: They activated the trap defense. Everyone be careful of the traps!",
-      "JP": "由理子:彼らは罠防御を启动しました。全員注意、罠に気をつけてください！",
+      "US": "Riko: They've activated the trap defense, everyone be careful of traps!",
+      "JP": "ゆうりこ: テンポラをハイドマンに、みんな全体注意！トラップに注意！",
       "CN": "由理子:他们开启了陷阱防御,全体注意小心陷阱！",
-      "KR": "리코:他們啟用了陷阱防禦,全體注意小心陷阱！",
-      "TW": "由理子:他們啟動了陷阱防禦,全體注意小心陷阱！"
+      "KR": "유리자: 그들이 함정 방어를 시작했으니, 모두 주의해서 함정에 조심하세요!",
+      "TW": "理子：他們開啟了陷阱防禦，全體注意小心陷阱！"
     }
   },
   "由理子:全体进入电梯，准备引爆Guild基地": {
     "translation": "由理子:全体进入电梯，准备引爆Guild基地",
     "MultiLang": {
-      "US": "Yu Riko: Enter the elevator, everyone. Prepare to detonate the Guild base.",
-      "JP": "由理子: 全体にエレベーターにenterしてください。ギルド基地を爆発させる準備をしろ。",
+      "US": "Riize: Everyone, enter the elevator and prepare to blow up the Guild base.",
+      "JP": "ゆりこ: 全体、エレベーターに進入し、ギルド基地を爆破する準備をする",
       "CN": "由理子:全体进入电梯，准备引爆Guild基地",
-      "KR": "리코: 전체가 엘리베이터에nEnter预备引爆公会基地",
-      "TW": "由理子: 全體進入電梯，準備引爆炸 Guild 基地"
+      "KR": "由理子: 전체를 엘리베이터로 이동시켜 길드 기지 폭파 준비를 하라.",
+      "TW": ""
     }
   },
   "由理子:加油！我们很快到终点了！！！": {
     "translation": "由理子:加油！我们很快到终点了！！！",
     "MultiLang": {
-      "US": "Yuriko: Keep it up! We're almost to the finish line!!!",
-      "JP": "由理子: よい加減にしよう！終点までもうちょっとだ！！！",
+      "US": "Yuri-zo: Come on! We're almost there to the finish line!!!",
+      "JP": "ゆうりこ: げんよ！われわれ きっかくてんぽに きました！！！",
       "CN": "由理子:加油！我们很快到终点了！！！",
-      "KR": "리코: 달려라! 우리는 곧 최종선을 지나간다!!!",
-      "TW": "由理子:加油！我們很快到終點了！！！"
+      "KR": "유리코: 힘내! 곧 결승지에 도착한다!!!",
+      "TW": ""
     }
   },
   "由理子:可恶，虽然很想救她，但是我们现在自保都困难": {
     "translation": "由理子:可恶，虽然很想救她，但是我们现在自保都困难",
     "MultiLang": {
-      "US": "由理子: Damned if I want to save her, but we're struggling to protect ourselves right now.",
-      "JP": "由理子: あらばば、彼女を助けるのも難しいが今は自分たちの安全も確保する必要がある",
+      "US": "Riize: This is awful. Although I really want to save her, it's currently difficult for us to protect ourselves.",
+      "JP": "由理子: 真是糟糕啊，虽然很想救她，但是现在我们自保都很难。",
       "CN": "由理子:可恶，虽然很想救她，但是我们现在自保都困难",
-      "KR": "리코: 싫다虽然是很想救她，但是我们现在自保都困难",
-      "TW": "由理子:可惡，雖很想救她，但我們現在自救都困難"
+      "KR": "유리자: 젠장, 정말 살리고 싶지만, 지금 우리 둘이서 자기 보기도 힘들어.",
+      "TW": "由理子: 真是可惡，雖然很想救她，但是我們現在自保都困難。"
     }
   },
   "由理子:坦克？！你们居然能造出这种级别的武器？！真厉害！！": {
     "translation": "由理子:坦克？！你们居然能造出这种级别的武器？！真厉害！！",
     "MultiLang": {
-      "US": "Yuriko: Tank?! You guys actually managed to build a weapon of this caliber?!! Incredible!!",
-      "JP": "由理子:タンク？！そんなレベルの武器を造れるなんて本当に驚き！！すごい！！",
+      "US": "Riize: Tanks?! You guys actually managed to create weapons of this level?! That's amazing!!",
+      "JP": "ゆりこ: タンク？！ jullie kunnen zelfs wapens van dit niveau bouwen?! Super krachtig!!",
       "CN": "由理子:坦克？！你们居然能造出这种级别的武器？！真厉害！！",
-      "KR": "리코: 탱크?! 그런급의 무기까지 만들어 낼 줄 알고?! 정말 놀라워!!",
-      "TW": "由理子:戰車？！竟然能製作出這種級別的武器？！真是強力之極！！"
+      "KR": "유리자: 탱크?! 여러분居然 이렇게 강력한 무기를 만들 수 있다구요?! 정말 대단하시네요!!",
+      "TW": "理子: 坦克？！你們居然能造出這種級別的武器？！真厲害！！"
     }
   },
   "由理子:大杀器？你们又做出了什么东西？": {
     "translation": "由理子:大杀器？你们又做出了什么东西？",
     "MultiLang": {
-      "US": "Yu Riko: Mega weapon? What have you guys come up with this time?",
-      "JP": "由理子: 大殺器？また何かを創り出したか？",
+      "US": "Riize: Big killer? What did you guys make again?",
+      "JP": "ゆりこ:だいさつき？あなたたちはまた何か作ったの？",
       "CN": "由理子:大杀器？你们又做出了什么东西？",
-      "KR": "리코: 대형무기? 또 무엇을 만들었나?",
-      "TW": "由理子:大殺器？你們又做出了什麼東西？"
+      "KR": "유리자: 대살기? 또 뭘 만드는데?",
+      "TW": "理子: 什麼大殺器？你們又做了什麼東西？"
     }
   },
   "由理子:好在她看来没有生命危险": {
     "translation": "由理子:好在她看来没有生命危险",
     "MultiLang": {
-      "US": "Yuriko:幸好的是她看起来没有生命危险",
-      "JP": "由理子:幸 GOODS 她看上去没有生命危险",
+      "US": "Riko: It doesn't seem like she's in any danger.",
+      "JP": "",
       "CN": "由理子:好在她看来没有生命危险",
-      "KR": "리코: 다행히 그녀는 생명 위험 없어 보인다",
-      "TW": "由理子:还好她看起來沒有生命危險"
+      "KR": "",
+      "TW": ""
     }
   },
   "由理子:小奏被控制了！": {
     "translation": "由理子:小奏被控制了！",
     "MultiLang": {
-      "US": "Yuriko: Shirabe is controlled!",
-      "JP": "",
+      "US": "Riko: Kohaku is under control!",
+      "JP": "由理子: 小奏が制御されている！",
       "CN": "由理子:小奏被控制了！",
-      "KR": "유리: 소노가 통제당했습니다!",
+      "KR": "유리코: 소카가 제어당했어!",
       "TW": ""
     }
   },
   "由理子:小心！注意旁边的风扇！！！": {
     "translation": "由理子:小心！注意旁边的风扇！！！",
     "MultiLang": {
-      "US": "Yuriko: Watch out! Pay attention to the fan next to you!!!",
-      "JP": "由理子: にごりゃ！そばの風扇に気をつけて！！！",
+      "US": "Yuri: Be careful! Watch out for the fans nearby!!!",
+      "JP": "",
       "CN": "由理子:小心！注意旁边的风扇！！！",
-      "KR": "유리자: 주의! 옆에 있는 풍차에 신경 쓰세요!!",
-      "TW": "由理子: 小心！注意旁邊的風扇！！！"
+      "KR": "유리코: 조심해! 주변의 선풍기 조심!!!",
+      "TW": ""
     }
   },
   "由理子:我们先去Guild，再想办法": {
     "translation": "由理子:我们先去Guild，再想办法",
     "MultiLang": {
-      "US": "Yuriko: Let's go to the Guild first, then figure out what to do.",
-      "JP": "由理子: 先へギルドに行きましょう然后再考えます",
+      "US": "Riko: Let's go to the Guild first and think of a plan.",
+      "JP": "由理子: まずギルドに行って、考えよう。",
       "CN": "由理子:我们先去Guild，再想办法",
-      "KR": "유리아: 먼저 Gilld으로 가자. 방법을 찾아보세.",
-      "TW": "由理子:我們先去Guild，再想想辦法"
+      "KR": "유리자: 일단 길드 먼저 가고, 방법을 생각해 보자.",
+      "TW": ""
     }
   },
   "由理子:我们需要前往Guild获取武器以消灭僵尸": {
     "translation": "由理子:我们需要前往Guild获取武器以消灭僵尸",
     "MultiLang": {
-      "US": "由理子: We need to go to the Guild for weapons to eliminate the zombies.",
-      "JP": "由理子: 我々はギルドに武器を取得しに行かなければなりません。ゾンビを滅ぼすためです。",
+      "US": "Riko: We need to head to the Guild to acquire weapons to eliminate the zombies.",
+      "JP": "由理子: ギルドへ武器を奪ってゾンビを消滅させよう。",
       "CN": "由理子:我们需要前往Guild获取武器以消灭僵尸",
-      "KR": "유리코:我们需要前往公会获取武器以消灭僵尸",
-      "TW": "由理子:我們需要前往Guild取得武器以滅亡 Zombies"
+      "KR": "유리자: 저희는 길드에서 무기를 얻어 좀들을 제거해야 합니다.",
+      "TW": ""
     }
   },
   "由理子:看来这病毒和影子怪物一样可以控制人类": {
     "translation": "由理子:看来这病毒和影子怪物一样可以控制人类",
     "MultiLang": {
-      "US": "由理子: Looks like this virus can control humans just like the shadow monsters.",
-      "JP": "由理子: このウイルスも影子モンスターのように人間を操ることができる=\\\"\"",
+      "US": "Riko: It seems this virus and the Shadow Monster can both control humans.",
+      "JP": "",
       "CN": "由理子:看来这病毒和影子怪物一样可以控制人类",
-      "KR": "리코스: 보이看来这病毒和影子怪物一样可以控制人类",
-      "TW": "由理子:看来這病毒和影子怪獸1樣可以控制人類"
+      "KR": "유리코: 이 바이러스랑 그림자 괴물처럼 인간도 조종할 수 있겠네.",
+      "TW": "由理子:看起來這病毒和影子怪物一樣可以控制人類"
     }
   },
   "由理子:笨蛋！不会造的东西不要乱造啊！会死人的！": {
     "translation": "由理子:笨蛋！不会造的东西不要乱造啊！会死人的！",
     "MultiLang": {
-      "US": "Yuriko: Idiot! Don't randomly create things you don't know how to make! You could die from that!",
-      "JP": "由理子: ツ馬鹿野郎！造らないで📐な！人を殺すぞ！",
+      "US": "Riko: You idiot! Don't make random stuff! It's lethal!",
+      "JP": "由理子: 你这笨蛋！不要瞎搞！会死人的！",
       "CN": "由理子:笨蛋！不会造的东西不要乱造啊！会死人的！",
-      "KR": "리코: 바보! 모르는 건隨意制造會死人的！",
-      "TW": "由理子:笨蛋！不會造的東西不要亂造啊！會死人的！"
+      "KR": "유리코: 바보 같으니! 쓸데없이 멍청하게 뚝딱뚝딱 만들지 마! 사람 죽게 만들 셈이냐?!",
+      "TW": "理子: 蠢貨！不要瞎搞造東西啊！會死人的！"
     }
   },
   "由理子:糟了,还记得之前的影子怪物吗？": {
     "translation": "由理子:糟了,还记得之前的影子怪物吗？",
     "MultiLang": {
-      "US": "By Riru: Oh no, do you still remember the shadow monsters from before?",
-      "JP": "由理子:ocaly, 先前の影のモンスターを覚えてるか？",
+      "US": "Riyo: Oh no, do you remember those Shadow Monsters from before?",
+      "JP": "ゆりこ: くずれ、前の影の怪物のこと覚えてる？",
       "CN": "由理子:糟了,还记得之前的影子怪物吗？",
-      "KR": "리코:糟糕,还记得之前的影子怪物吗？",
-      "TW": "由理子:糟了,還記得之前 Those >> 影子怪物 << 吗？"
+      "KR": "유리코: 젠장, 전에 나왔던 그림자 괴물 기억해?",
+      "TW": ""
     }
   },
   "由理子:紧急情况，死后世界爆发了僵尸病毒": {
     "translation": "由理子:紧急情况，死后世界爆发了僵尸病毒",
     "MultiLang": {
-      "US": "Yuriko: Emergency situation, zombies broke out in the afterlife world",
-      "JP": "由理子:緊急事態、死後世界でゾンビウィルスが発生した",
+      "US": "Riko: Emergency situation, zombies have emerged in the afterlife!",
+      "JP": "",
       "CN": "由理子:紧急情况，死后世界爆发了僵尸病毒",
-      "KR": "리코: 긴급상황, 사후 세계에서 브레인zte 발발中",
-      "TW": "由理子:緊急情況，死後世界爆發了殭屍病毒"
+      "KR": "유리코: 긴급 상황 발생! 사후 세계에 좀비 바이러스가 퍼졌어.",
+      "TW": ""
     }
   },
   "由理子:让这些僵尸沉睡于此吧！": {
     "translation": "由理子:让这些僵尸沉睡于此吧！",
     "MultiLang": {
-      "US": "Rin: Let these zombies sleep here!",
-      "JP": "由理子: これらのゾンビをここに眠らせておこう！",
+      "US": "Riize: Let these zombies sleep here!",
+      "JP": "ゆりこ: これらのゾンビたちをここで眠らせてしまおう！",
       "CN": "由理子:让这些僵尸沉睡于此吧！",
-      "KR": "유리코: 이들의 좀비들을 여기에서 잠자게 해보세!",
-      "TW": "由理子:讓這些殭屍沉睡在此吧！"
+      "KR": "유리코: 이 좀비들을 여기서 잠들게 하자!",
+      "TW": "由理子:讓這些僵屍沉睡於此吧！"
     }
   },
   "由理子:都给我守住这里！不许后退！": {
     "translation": "由理子:都给我守住这里！不许后退！",
     "MultiLang": {
-      "US": "Yuriko: Hold your positions! No retreating!",
-      "JP": "由理子: ここで全部守っておくれ！後ろに動かないで！",
+      "US": "Ruri: Everyone, hold this position! Don't retreat!",
+      "JP": "ゆりこ:都を、守ってここにいろ！後ずさるな！",
       "CN": "由理子:都给我守住这里！不许后退！",
-      "KR": "리코: 여기서 모두 버티고 있어! 물러서지 않게!",
+      "KR": "유리자: 이 곳은 모두 저지 마! 후퇴하지 마!",
       "TW": "由理子:都給我守住這裡！不許後退！"
     }
   },
   "由理子:马上行动，游佐，你来带路": {
     "translation": "由理子:马上行动，游佐，你来带路",
     "MultiLang": {
-      "US": "由理子: Act now, Yuuza, you lead the way.",
-      "JP": "由理子: すぐに行動しろ、遊佐、君が案内する",
+      "US": "Riko: Let's move out, Yuzo, you take the lead.",
+      "JP": "ゆりこ: さっさと動け、ゆうぞう。おまえが道案内だ。",
       "CN": "由理子:马上行动，游佐，你来带路",
-      "KR": "리코: 서둘러, 우사오, 네가 길을 이끌어라",
-      "TW": "由理子:馬上行動，遊佐，你來帶路"
+      "KR": "유리자: 당장 움직이자, 유조, 네가 이끌어줘.",
+      "TW": "由理子: 馬上行動，游佐，你來帶路"
     }
   },
   "立华奏:Hand sonic（音速手刃）": {
     "translation": "立华奏:Hand sonic（音速手刃）",
     "MultiLang": {
-      "US": "立华奏: Hand Sonic",
+      "US": "Lì Huá Zòu: Hand sonic (Yìsù shǒu rén)",
       "JP": "",
       "CN": "立华奏:Hand sonic（音速手刃）",
-      "KR": "립화 카오스: Hand Sonic(음속 손전기)",
-      "TW": ""
+      "KR": "리화조: 핸드 소닉 (음속 손견)",
+      "TW": "立華奏:手音（音速手刃）"
     }
   },
   "（游佐顺着水流被冲走了...）（我们失去了游佐的踪迹...）": {
     "translation": "（游佐顺着水流被冲走了...）（我们失去了游佐的踪迹...）",
     "MultiLang": {
-      "US": "(Kyozō was carried away by the current...) (We lost track of Kyozō...)",
-      "JP": "（游佐は流れにのって消え去了...）（遊佐の行方が分からなくなった...）",
+      "US": "(Yusa was swept away by the water flow...)(We lost track of Yusa...)",
+      "JP": "",
       "CN": "（游佐顺着水流被冲走了...）（我们失去了游佐的踪迹...）",
-      "KR": "(유佐가 물流浪ONGLIU去了...) (우리는 유佐의 행방을 잃어버렸다...)",
-      "TW": "（遊佐隨著水流被沖走了...）（我們失去了遊佐的蹤跡...）"
+      "KR": "",
+      "TW": ""
     }
   }
 }
