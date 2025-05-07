@@ -1,0 +1,1170 @@
+2025-05-07 12:59:03,683 - [Skip]: 文件: AI_TranslateTest.jsonc | 原文: ***Activating Bridge In 5 Seconds*** | 原语言: 英文 | 目标语言: 英文 | 理由: 原文为英语，无需翻译
+2025-05-07 12:59:05,904 - [OK][AI_TranslateTest.jsonc] 原文: ***Activating Bridge In 5 Seconds*** -> 翻译: ```json
+{
+  "text": "***橋の起動まで5秒***"
+}
+``` | 目标语言: 日文
+2025-05-07 12:59:08,162 - [OK][AI_TranslateTest.jsonc] 原文: ***Activating Bridge In 5 Seconds*** -> 翻译: ```json
+{
+  "text": "***다리 활성화까지 5초 후***"
+}
+``` | 目标语言: 韩文
+2025-05-07 12:59:10,438 - [OK][AI_TranslateTest.jsonc] 原文: ***Activating Bridge In 5 Seconds*** -> 翻译: ```json
+{
+  "text": "***橋樑啟動倒數五秒***"
+}
+``` | 目标语言: 繁体中文
+2025-05-07 12:59:10,438 - [Skip]: 文件: AI_TranslateTest.jsonc | 原文: ***COOKIE PAPER HAVE DIED*** | 原语言: 英文 | 目标语言: 英文 | 理由: 原文为英语，无需翻译
+2025-05-07 12:59:12,525 - [OK][AI_TranslateTest.jsonc] 原文: ***COOKIE PAPER HAVE DIED*** -> 翻译: ```json
+{
+  "text": "***クッキーペーパーが死亡***"
+}
+``` | 目标语言: 日文
+2025-05-07 12:59:14,621 - [OK][AI_TranslateTest.jsonc] 原文: ***COOKIE PAPER HAVE DIED*** -> 翻译: ```json
+{
+  "text": "***쿠키 종이 소진***"
+}
+``` | 目标语言: 韩文
+2025-05-07 12:59:16,646 - [OK][AI_TranslateTest.jsonc] 原文: ***COOKIE PAPER HAVE DIED*** -> 翻译: ```json
+{
+  "text": "***餅紙已死亡***"
+}
+``` | 目标语言: 繁体中文
+2025-05-07 12:59:16,646 - [Skip]: 文件: AI_TranslateTest.jsonc | 原文: ***Cookie Paper Monster Are Using Laser*** | 原语言: 英文 | 目标语言: 英文 | 理由: 原文为英语，无需翻译
+2025-05-07 12:59:18,960 - [OK][AI_TranslateTest.jsonc] 原文: ***Cookie Paper Monster Are Using Laser*** -> 翻译: ```json
+{
+  "text": "***クッキーペーパーモンスターがレーザーを使っている***"
+}
+``` | 目标语言: 日文
+2025-05-07 12:59:21,531 - [OK][AI_TranslateTest.jsonc] 原文: ***Cookie Paper Monster Are Using Laser*** -> 翻译: ```json
+{
+  "text": "***쿠키 지폐 몬스터가 레이저를 사용 중입니다***"
+}
+``` | 目标语言: 韩文
+2025-05-07 12:59:23,720 - [OK][AI_TranslateTest.jsonc] 原文: ***Cookie Paper Monster Are Using Laser*** -> 翻译: ```json
+{
+  "text": "***餅乾紙怪獸正在使用激光***"
+}
+``` | 目标语言: 繁体中文
+2025-05-07 12:59:23,720 - [Skip]: 文件: AI_TranslateTest.jsonc | 原文: ***Cookie Paper Monster Are Using Magic On Zombie Cage*** | 原语言: 英文 | 目标语言: 英文 | 理由: 原文为英语，无需翻译
+2025-05-07 12:59:26,279 - [OK][AI_TranslateTest.jsonc] 原文: ***Cookie Paper Monster Are Using Magic On Zombie Cage*** -> 翻译: ```json
+{
+  "text": "***クッキーペーパーモンスターがゾンビケージに魔法を使っている***"
+}
+``` | 目标语言: 日文
+2025-05-07 12:59:29,309 - [OK][AI_TranslateTest.jsonc] 原文: ***Cookie Paper Monster Are Using Magic On Zombie Cage*** -> 翻译: ```json
+{
+  "text": "***쿠키 페이퍼 몬스터가 좀비 케이지에 마법을 사용 중입니다.***"
+}
+``` | 目标语言: 韩文
+2025-05-07 12:59:31,793 - [OK][AI_TranslateTest.jsonc] 原文: ***Cookie Paper Monster Are Using Magic On Zombie Cage*** -> 翻译: ```json
+{
+  "text": "***餅乾紙怪獸正在使用魔法攻擊僵屍籠***"
+}
+``` | 目标语言: 繁体中文
+2025-05-07 12:59:31,795 - [Skip]: 文件: AI_TranslateTest.jsonc | 原文: ***Cookie Paper Monster Are Using Shield*** | 原语言: 英文 | 目标语言: 英文 | 理由: 原文为英语，无需翻译
+2025-05-07 12:59:34,078 - [OK][AI_TranslateTest.jsonc] 原文: ***Cookie Paper Monster Are Using Shield*** -> 翻译: ```json
+{
+  "text": "クッキーペーパーモンスターがシールドを使用中"
+}
+``` | 目标语言: 日文
+2025-05-07 12:59:36,590 - [OK][AI_TranslateTest.jsonc] 原文: ***Cookie Paper Monster Are Using Shield*** -> 翻译: ```json
+{
+  "text": "쿠키 페이퍼 몬스터가 방패를 사용 중"
+}
+``` | 目标语言: 韩文
+2025-05-07 12:59:38,903 - [OK][AI_TranslateTest.jsonc] 原文: ***Cookie Paper Monster Are Using Shield*** -> 翻译: ```json
+{
+  "text": "***餅乾紙怪物正在使用盾牌***"
+}
+``` | 目标语言: 繁体中文
+2025-05-07 12:59:38,904 - [Skip]: 文件: AI_TranslateTest.jsonc | 原文: ***Cookie Paper Monster Are Using Wind*** | 原语言: 英文 | 目标语言: 英文 | 理由: 原文为英语，无需翻译
+2025-05-07 12:59:41,187 - [OK][AI_TranslateTest.jsonc] 原文: ***Cookie Paper Monster Are Using Wind*** -> 翻译: ```json
+{
+  "text": "***クッキーペーパーモンスターは風を使っている***"
+}
+``` | 目标语言: 日文
+2025-05-07 12:59:43,749 - [OK][AI_TranslateTest.jsonc] 原文: ***Cookie Paper Monster Are Using Wind*** -> 翻译: ```json
+{
+  "text": "***쿠키 페이퍼 몬스터가 바람을 사용하고 있습니다***"
+}
+``` | 目标语言: 韩文
+2025-05-07 12:59:46,097 - [OK][AI_TranslateTest.jsonc] 原文: ***Cookie Paper Monster Are Using Wind*** -> 翻译: ```json
+{
+  "text": "***餅乾紙怪獸正在使用風***"
+}
+``` | 目标语言: 繁体中文
+2025-05-07 12:59:46,098 - [Skip]: 文件: AI_TranslateTest.jsonc | 原文: ***Defend 15 Seconds*** | 原语言: 英文 | 目标语言: 英文 | 理由: 原文为英语，无需翻译
+2025-05-07 12:59:48,187 - [OK][AI_TranslateTest.jsonc] 原文: ***Defend 15 Seconds*** -> 翻译: ```json
+{
+  "text": "***15秒 防御***"
+}
+``` | 目标语言: 日文
+2025-05-07 12:59:50,264 - [OK][AI_TranslateTest.jsonc] 原文: ***Defend 15 Seconds*** -> 翻译: ```json
+{
+  "text": "***방어 15초***"
+}
+``` | 目标语言: 韩文
+2025-05-07 12:59:52,400 - [OK][AI_TranslateTest.jsonc] 原文: ***Defend 15 Seconds*** -> 翻译: ```json
+{
+  "text": "***防守 15 秒***"
+}
+``` | 目标语言: 繁体中文
+2025-05-07 12:59:52,400 - [Skip]: 文件: AI_TranslateTest.jsonc | 原文: ***Defend 20 Seconds*** | 原语言: 英文 | 目标语言: 英文 | 理由: 原文为英语，无需翻译
+2025-05-07 12:59:54,547 - [OK][AI_TranslateTest.jsonc] 原文: ***Defend 20 Seconds*** -> 翻译: ```json
+{
+  "text": "***20秒で防御！***"
+}
+``` | 目标语言: 日文
+2025-05-07 12:59:56,643 - [OK][AI_TranslateTest.jsonc] 原文: ***Defend 20 Seconds*** -> 翻译: ```json
+{
+  "text": "***20초 방어***"
+}
+``` | 目标语言: 韩文
+2025-05-07 12:59:58,775 - [OK][AI_TranslateTest.jsonc] 原文: ***Defend 20 Seconds*** -> 翻译: ```json
+{
+  "text": "***防守 20 秒***"
+}
+``` | 目标语言: 繁体中文
+2025-05-07 12:59:58,775 - [Skip]: 文件: AI_TranslateTest.jsonc | 原文: ***Defend 35 Seconds*** | 原语言: 英文 | 目标语言: 英文 | 理由: 原文为英语，无需翻译
+2025-05-07 13:00:00,776 - [OK][AI_TranslateTest.jsonc] 原文: ***Defend 35 Seconds*** -> 翻译: ```json
+{
+  "text": "***35秒 防衛***"
+}
+``` | 目标语言: 日文
+2025-05-07 13:00:02,862 - [OK][AI_TranslateTest.jsonc] 原文: ***Defend 35 Seconds*** -> 翻译: ```json
+{
+  "text": "***35초 방어***"
+}
+``` | 目标语言: 韩文
+2025-05-07 13:00:05,000 - [OK][AI_TranslateTest.jsonc] 原文: ***Defend 35 Seconds*** -> 翻译: ```json
+{
+  "text": "***防禦 35 秒***"
+}
+``` | 目标语言: 繁体中文
+2025-05-07 13:00:05,000 - [Skip]: 文件: AI_TranslateTest.jsonc | 原文: ***Defend For 25 Seconds*** | 原语言: 英文 | 目标语言: 英文 | 理由: 原文为英语，无需翻译
+2025-05-07 13:00:07,175 - [OK][AI_TranslateTest.jsonc] 原文: ***Defend For 25 Seconds*** -> 翻译: ```json
+{
+  "text": "***25秒間防衛！***"
+}
+``` | 目标语言: 日文
+2025-05-07 13:00:09,410 - [OK][AI_TranslateTest.jsonc] 原文: ***Defend For 25 Seconds*** -> 翻译: ```json
+{
+  "text": "***25초 동안 방어하기***"
+}
+``` | 目标语言: 韩文
+2025-05-07 13:00:11,550 - [OK][AI_TranslateTest.jsonc] 原文: ***Defend For 25 Seconds*** -> 翻译: ```json
+{
+  "text": "***堅守 25 秒***"
+}
+``` | 目标语言: 繁体中文
+2025-05-07 13:00:11,550 - [Skip]: 文件: AI_TranslateTest.jsonc | 原文: ***Defend The Boat*** | 原语言: 英文 | 目标语言: 英文 | 理由: 原文为英语，无需翻译
+2025-05-07 13:00:13,514 - [OK][AI_TranslateTest.jsonc] 原文: ***Defend The Boat*** -> 翻译: ```json
+{
+  "text": "***船を守れ***"
+}
+``` | 目标语言: 日文
+2025-05-07 13:00:15,603 - [OK][AI_TranslateTest.jsonc] 原文: ***Defend The Boat*** -> 翻译: ```json
+{
+  "text": "***보트를 방어하세요***"
+}
+``` | 目标语言: 韩文
+2025-05-07 13:00:17,595 - [OK][AI_TranslateTest.jsonc] 原文: ***Defend The Boat*** -> 翻译: ```json
+{
+  "text": "***防守長舟***"
+}
+``` | 目标语言: 繁体中文
+2025-05-07 13:00:17,595 - [Skip]: 文件: AI_TranslateTest.jsonc | 原文: ***Door Closes in 15 Seconds!!*** | 原语言: 英文 | 目标语言: 英文 | 理由: 原文为英语，无需翻译
+2025-05-07 13:00:19,883 - [OK][AI_TranslateTest.jsonc] 原文: ***Door Closes in 15 Seconds!!*** -> 翻译: ```json
+{
+  "text": "***ドアが15秒で閉まります!!***"
+}
+``` | 目标语言: 日文
+2025-05-07 13:00:22,320 - [OK][AI_TranslateTest.jsonc] 原文: ***Door Closes in 15 Seconds!!*** -> 翻译: ```json
+{
+  "text": "***문이 15초 안에 닫힙니다!!***"
+}
+``` | 目标语言: 韩文
+2025-05-07 13:00:24,647 - [OK][AI_TranslateTest.jsonc] 原文: ***Door Closes in 15 Seconds!!*** -> 翻译: ```json
+{
+  "text": "***門在15秒後鎖上！！***"
+}
+``` | 目标语言: 繁体中文
+2025-05-07 13:00:24,647 - [Skip]: 文件: AI_TranslateTest.jsonc | 原文: ***Door Closes in 5 Seconds!!*** | 原语言: 英文 | 目标语言: 英文 | 理由: 原文为英语，无需翻译
+2025-05-07 13:00:26,850 - [OK][AI_TranslateTest.jsonc] 原文: ***Door Closes in 5 Seconds!!*** -> 翻译: ```json
+{
+  "text": "***ドアが5秒で閉まります！！***"
+}
+``` | 目标语言: 日文
+2025-05-07 13:00:29,226 - [OK][AI_TranslateTest.jsonc] 原文: ***Door Closes in 5 Seconds!!*** -> 翻译: ```json
+{
+  "text": "***문이 5초 후에 닫힙니다!!***"
+}
+``` | 目标语言: 韩文
+2025-05-07 13:00:31,474 - [OK][AI_TranslateTest.jsonc] 原文: ***Door Closes in 5 Seconds!!*** -> 翻译: ```json
+{
+  "text": "***門關閉倒數5秒！！***"
+}
+``` | 目标语言: 繁体中文
+2025-05-07 13:00:31,474 - [Skip]: 文件: AI_TranslateTest.jsonc | 原文: ***Door Open In 5 Seconds*** | 原语言: 英文 | 目标语言: 英文 | 理由: 原文为英语，无需翻译
+2025-05-07 13:00:33,771 - [OK][AI_TranslateTest.jsonc] 原文: ***Door Open In 5 Seconds*** -> 翻译: ```json
+{
+  "text": "***ドアが開きます（5秒後）***"
+}
+``` | 目标语言: 日文
+2025-05-07 13:00:36,037 - [OK][AI_TranslateTest.jsonc] 原文: ***Door Open In 5 Seconds*** -> 翻译: ```json
+{
+  "text": "***문이 5초 후에 열립니다.***"
+}
+``` | 目标语言: 韩文
+2025-05-07 13:00:38,243 - [OK][AI_TranslateTest.jsonc] 原文: ***Door Open In 5 Seconds*** -> 翻译: ```json
+{
+  "text": "***門打開倒數5秒***"
+}
+``` | 目标语言: 繁体中文
+2025-05-07 13:00:38,243 - [Skip]: 文件: AI_TranslateTest.jsonc | 原文: ***Door Open in 10 Seconds*** | 原语言: 英文 | 目标语言: 英文 | 理由: 原文为英语，无需翻译
+2025-05-07 13:00:41,119 - [OK][AI_TranslateTest.jsonc] 原文: ***Door Open in 10 Seconds*** -> 翻译: ```json
+{
+  "text": "***ドアが開きます (Doa ga Klimasu) - 10秒 (10 Byou)"
+}
+``` | 目标语言: 日文
+2025-05-07 13:00:43,466 - [OK][AI_TranslateTest.jsonc] 原文: ***Door Open in 10 Seconds*** -> 翻译: ```json
+{
+  "text": "***문이 10초 후에 열립니다.***"
+}
+``` | 目标语言: 韩文
+2025-05-07 13:00:45,720 - [OK][AI_TranslateTest.jsonc] 原文: ***Door Open in 10 Seconds*** -> 翻译: ```json
+{
+  "text": "***門在10秒後開啟***"
+}
+``` | 目标语言: 繁体中文
+2025-05-07 13:00:45,721 - [Skip]: 文件: AI_TranslateTest.jsonc | 原文: ***Door Open in 30 Seconds*** | 原语言: 英文 | 目标语言: 英文 | 理由: 原文为英语，无需翻译
+2025-05-07 13:00:47,953 - [OK][AI_TranslateTest.jsonc] 原文: ***Door Open in 30 Seconds*** -> 翻译: ```json
+{
+  "text": "***ドアが開きます（30秒）***"
+}
+``` | 目标语言: 日文
+2025-05-07 13:00:50,260 - [OK][AI_TranslateTest.jsonc] 原文: ***Door Open in 30 Seconds*** -> 翻译: ```json
+{
+  "text": "***문이 30초 후에 열립니다.***"
+}
+``` | 目标语言: 韩文
+2025-05-07 13:00:52,428 - [OK][AI_TranslateTest.jsonc] 原文: ***Door Open in 30 Seconds*** -> 翻译: ```json
+{
+  "text": "***門打開倒數 30 秒***"
+}
+``` | 目标语言: 繁体中文
+2025-05-07 13:00:52,428 - [Skip]: 文件: AI_TranslateTest.jsonc | 原文: ***Door Open in 5 Seconds*** | 原语言: 英文 | 目标语言: 英文 | 理由: 原文为英语，无需翻译
+2025-05-07 13:00:54,650 - [OK][AI_TranslateTest.jsonc] 原文: ***Door Open in 5 Seconds*** -> 翻译: ```json
+{
+  "text": "***ドアが開きます（5秒後）***"
+}
+``` | 目标语言: 日文
+2025-05-07 13:00:56,885 - [OK][AI_TranslateTest.jsonc] 原文: ***Door Open in 5 Seconds*** -> 翻译: ```json
+{
+  "text": "***문이 5초 후에 열립니다.***"
+}
+``` | 目标语言: 韩文
+2025-05-07 13:00:59,025 - [OK][AI_TranslateTest.jsonc] 原文: ***Door Open in 5 Seconds*** -> 翻译: ```json
+{
+  "text": "***門在5秒後開啟***"
+}
+``` | 目标语言: 繁体中文
+2025-05-07 13:00:59,026 - [Skip]: 文件: AI_TranslateTest.jsonc | 原文: ***Elevator 1 Leaves in 10 Seconds*** | 原语言: 英文 | 目标语言: 英文 | 理由: 原文为英语，无需翻译
+2025-05-07 13:01:01,443 - [OK][AI_TranslateTest.jsonc] 原文: ***Elevator 1 Leaves in 10 Seconds*** -> 翻译: ```json
+{
+  "text": "***エレベーター1が10秒後に出発します***"
+}
+``` | 目标语言: 日文
+2025-05-07 13:01:03,985 - [OK][AI_TranslateTest.jsonc] 原文: ***Elevator 1 Leaves in 10 Seconds*** -> 翻译: ```json
+{
+  "text": "***엘리베이터 1, 10초 후 출발***"
+}
+``` | 目标语言: 韩文
+2025-05-07 13:01:06,317 - [OK][AI_TranslateTest.jsonc] 原文: ***Elevator 1 Leaves in 10 Seconds*** -> 翻译: ```json
+{
+  "text": "***電梯1將在10秒後離開***"
+}
+``` | 目标语言: 繁体中文
+2025-05-07 13:01:06,319 - [Skip]: 文件: AI_TranslateTest.jsonc | 原文: ***Elevator 1 Leaves in 5 Seconds*** | 原语言: 英文 | 目标语言: 英文 | 理由: 原文为英语，无需翻译
+2025-05-07 13:01:08,661 - [OK][AI_TranslateTest.jsonc] 原文: ***Elevator 1 Leaves in 5 Seconds*** -> 翻译: ```json
+{
+  "text": "***エレベーター1が5秒後に出発します***"
+}
+``` | 目标语言: 日文
+2025-05-07 13:01:11,097 - [OK][AI_TranslateTest.jsonc] 原文: ***Elevator 1 Leaves in 5 Seconds*** -> 翻译: ```json
+{
+  "text": "***엘리베이터 1, 5초 후 출발***"
+}
+``` | 目标语言: 韩文
+2025-05-07 13:01:13,407 - [OK][AI_TranslateTest.jsonc] 原文: ***Elevator 1 Leaves in 5 Seconds*** -> 翻译: ```json
+{
+  "text": "***電梯一號將在5秒後離開***"
+}
+``` | 目标语言: 繁体中文
+2025-05-07 13:01:13,408 - [Skip]: 文件: AI_TranslateTest.jsonc | 原文: ***Elevator 2 Leaves in 10 Seconds*** | 原语言: 英文 | 目标语言: 英文 | 理由: 原文为英语，无需翻译
+2025-05-07 13:01:15,851 - [OK][AI_TranslateTest.jsonc] 原文: ***Elevator 2 Leaves in 10 Seconds*** -> 翻译: ```json
+{
+  "text": "***エレベーター2階が出発まで10秒で***"
+}
+``` | 目标语言: 日文
+2025-05-07 13:01:18,435 - [OK][AI_TranslateTest.jsonc] 原文: ***Elevator 2 Leaves in 10 Seconds*** -> 翻译: ```json
+{
+  "text": "***엘리베이터 2층 탈출 10초 후***"
+}
+``` | 目标语言: 韩文
+2025-05-07 13:01:20,904 - [OK][AI_TranslateTest.jsonc] 原文: ***Elevator 2 Leaves in 10 Seconds*** -> 翻译: ```json
+{
+  "text": "***電梯2樓逃脫時間倒數10秒***"
+}
+``` | 目标语言: 繁体中文
+2025-05-07 13:01:20,904 - [Skip]: 文件: AI_TranslateTest.jsonc | 原文: ***Elevator 2 Leaves in 5 Seconds*** | 原语言: 英文 | 目标语言: 英文 | 理由: 原文为英语，无需翻译
+2025-05-07 13:01:23,351 - [OK][AI_TranslateTest.jsonc] 原文: ***Elevator 2 Leaves in 5 Seconds*** -> 翻译: ```json
+{
+  "text": "***エレベーター2階が出発まで5秒で***"
+}
+``` | 目标语言: 日文
+2025-05-07 13:01:26,109 - [OK][AI_TranslateTest.jsonc] 原文: ***Elevator 2 Leaves in 5 Seconds*** -> 翻译: ```json
+{
+  "text": "***엘리베이터 2개 문이 5초 후 닫힙니다***"
+}
+``` | 目标语言: 韩文
+2025-05-07 13:01:28,377 - [OK][AI_TranslateTest.jsonc] 原文: ***Elevator 2 Leaves in 5 Seconds*** -> 翻译: ```json
+{
+  "text": "***電梯2秒後離開2層***"
+}
+``` | 目标语言: 繁体中文
+2025-05-07 13:01:28,377 - [Skip]: 文件: AI_TranslateTest.jsonc | 原文: ***FALL BACK!!*** | 原语言: 英文 | 目标语言: 英文 | 理由: 原文为英语，无需翻译
+2025-05-07 13:01:30,339 - [OK][AI_TranslateTest.jsonc] 原文: ***FALL BACK!!*** -> 翻译: ```json
+{
+  "text": "***後退！！***"
+}
+``` | 目标语言: 日文
+2025-05-07 13:01:32,251 - [OK][AI_TranslateTest.jsonc] 原文: ***FALL BACK!!*** -> 翻译: ```json
+{
+  "text": "***후퇴!!***"
+}
+``` | 目标语言: 韩文
+2025-05-07 13:01:34,199 - [OK][AI_TranslateTest.jsonc] 原文: ***FALL BACK!!*** -> 翻译: ```json
+{
+  "text": "***撤退！***"
+}
+``` | 目标语言: 繁体中文
+2025-05-07 13:01:34,199 - [Skip]: 文件: AI_TranslateTest.jsonc | 原文: ***FIGHT THE BOSS*** | 原语言: 英文 | 目标语言: 英文 | 理由: 原文为英语，无需翻译
+2025-05-07 13:01:36,294 - [OK][AI_TranslateTest.jsonc] 原文: ***FIGHT THE BOSS*** -> 翻译: ```json
+{
+  "text": "***ボスに勝利せよ！***"
+}
+``` | 目标语言: 日文
+2025-05-07 13:01:38,367 - [OK][AI_TranslateTest.jsonc] 原文: ***FIGHT THE BOSS*** -> 翻译: ```json
+{
+  "text": "***Boss전 도전하세요!***"
+}
+``` | 目标语言: 韩文
+2025-05-07 13:01:40,450 - [OK][AI_TranslateTest.jsonc] 原文: ***FIGHT THE BOSS*** -> 翻译: ```json
+{
+  "text": "***打敗首領***"
+}
+``` | 目标语言: 繁体中文
+2025-05-07 13:01:40,451 - [Skip]: 文件: AI_TranslateTest.jsonc | 原文: ***Gate Open In 15 Seconds*** | 原语言: 英文 | 目标语言: 英文 | 理由: 原文为英语，无需翻译
+2025-05-07 13:01:42,718 - [OK][AI_TranslateTest.jsonc] 原文: ***Gate Open In 15 Seconds*** -> 翻译: ```json
+{
+  "text": "***門が開きます。15秒***"
+}
+``` | 目标语言: 日文
+2025-05-07 13:01:45,018 - [OK][AI_TranslateTest.jsonc] 原文: ***Gate Open In 15 Seconds*** -> 翻译: ```json
+{
+  "text": "***게이트 오픈: 15초 후"***
+}
+``` | 目标语言: 韩文
+2025-05-07 13:01:47,342 - [OK][AI_TranslateTest.jsonc] 原文: ***Gate Open In 15 Seconds*** -> 翻译: ```json
+{
+  "text": "***大門開啟倒數 15 秒***"
+}
+``` | 目标语言: 繁体中文
+2025-05-07 13:01:47,343 - [Skip]: 文件: AI_TranslateTest.jsonc | 原文: ***Gate Open In 5 Seconds*** | 原语言: 英文 | 目标语言: 英文 | 理由: 原文为英语，无需翻译
+2025-05-07 13:01:49,604 - [OK][AI_TranslateTest.jsonc] 原文: ***Gate Open In 5 Seconds*** -> 翻译: ```json
+{
+  "text": "***門が開きます（残り5秒）***"
+}
+``` | 目标语言: 日文
+2025-05-07 13:01:51,814 - [OK][AI_TranslateTest.jsonc] 原文: ***Gate Open In 5 Seconds*** -> 翻译: ```json
+{
+  "text": "***문이 5초 후에 열립니다***"
+}
+``` | 目标语言: 韩文
+2025-05-07 13:01:54,023 - [OK][AI_TranslateTest.jsonc] 原文: ***Gate Open In 5 Seconds*** -> 翻译: ```json
+{
+  "text": "***門扉開啟倒數5秒***"
+}
+``` | 目标语言: 繁体中文
+2025-05-07 13:01:54,024 - [Skip]: 文件: AI_TranslateTest.jsonc | 原文: ***Glass Breaks In 5 Seconds*** | 原语言: 英文 | 目标语言: 英文 | 理由: 原文为英语，无需翻译
+2025-05-07 13:01:56,229 - [OK][AI_TranslateTest.jsonc] 原文: ***Glass Breaks In 5 Seconds*** -> 翻译: ```json
+{
+  "text": "***ガラスが5秒で割れます***"
+}
+``` | 目标语言: 日文
+2025-05-07 13:01:58,424 - [OK][AI_TranslateTest.jsonc] 原文: ***Glass Breaks In 5 Seconds*** -> 翻译: ```json
+{
+  "text": "***유리 파손 in 5초***"
+}
+``` | 目标语言: 韩文
+2025-05-07 13:02:00,696 - [OK][AI_TranslateTest.jsonc] 原文: ***Glass Breaks In 5 Seconds*** -> 翻译: ```json
+{
+  "text": "***玻璃破碎 倒數 5 秒***"
+}
+``` | 目标语言: 繁体中文
+2025-05-07 13:02:00,696 - [Skip]: 文件: AI_TranslateTest.jsonc | 原文: ***HEALTH: 100000*** | 原语言: 英文 | 目标语言: 英文 | 理由: 原文为英语，无需翻译
+2025-05-07 13:02:02,968 - [OK][AI_TranslateTest.jsonc] 原文: ***HEALTH: 100000*** -> 翻译: ```json
+{
+  "text": "***体力: 100000***"
+}
+``` | 目标语言: 日文
+2025-05-07 13:02:05,326 - [OK][AI_TranslateTest.jsonc] 原文: ***HEALTH: 100000*** -> 翻译: ```json
+{
+  "text": "***체력: 100000***"
+}
+``` | 目标语言: 韩文
+2025-05-07 13:02:07,777 - [OK][AI_TranslateTest.jsonc] 原文: ***HEALTH: 100000*** -> 翻译: ```json
+{
+  "text": "***血量: 100000***"
+}
+``` | 目标语言: 繁体中文
+2025-05-07 13:02:07,778 - [Skip]: 文件: AI_TranslateTest.jsonc | 原文: ***Hint: If Any Zombies Still Are On The Platform. Shoot Them Down!*** | 原语言: 英文 | 目标语言: 英文 | 理由: 原文为英语，无需翻译
+2025-05-07 13:02:10,629 - [OK][AI_TranslateTest.jsonc] 原文: ***Hint: If Any Zombies Still Are On The Platform. Shoot Them Down!*** -> 翻译: ```json
+{
+  "text": "***ヒント：プラットフォーム上にゾンビがまだいる場合は、撃ち落とせ！***"
+}
+``` | 目标语言: 日文
+2025-05-07 13:02:13,302 - [OK][AI_TranslateTest.jsonc] 原文: ***Hint: If Any Zombies Still Are On The Platform. Shoot Them Down!*** -> 翻译: ```json
+{
+  "text": "***힌트: 플랫폼에 아직 좀비가 남아 있다면, 격추하세요!***"
+}
+``` | 目标语言: 韩文
+2025-05-07 13:02:16,002 - [OK][AI_TranslateTest.jsonc] 原文: ***Hint: If Any Zombies Still Are On The Platform. Shoot Them Down!*** -> 翻译: ```json
+{
+  "text": "***提示：如果還有任何僵屍留在平台上，擊殺它們！***"
+}
+``` | 目标语言: 繁体中文
+2025-05-07 13:02:16,002 - [Skip]: 文件: AI_TranslateTest.jsonc | 原文: ***MAP BY: RASTAFARIAN (DK)*** | 原语言: 英文 | 目标语言: 英文 | 理由: 原文为英语，无需翻译
+2025-05-07 13:02:18,470 - [OK][AI_TranslateTest.jsonc] 原文: ***MAP BY: RASTAFARIAN (DK)*** -> 翻译: ```json
+{
+  "text": "***マップ作成者: RASTAFARIAN (DK)***"
+}
+``` | 目标语言: 日文
+2025-05-07 13:02:20,869 - [OK][AI_TranslateTest.jsonc] 原文: ***MAP BY: RASTAFARIAN (DK)*** -> 翻译: ```json
+{
+  "text": "***맵 제작: RASTAFARIAN (DK)***"
+}
+``` | 目标语言: 韩文
+2025-05-07 13:02:23,500 - [OK][AI_TranslateTest.jsonc] 原文: ***MAP BY: RASTAFARIAN (DK)*** -> 翻译: ```json
+{
+  "text": "***地圖由：RASTAFARIAN (DK) 製作***"
+}
+``` | 目标语言: 繁体中文
+2025-05-07 13:02:23,501 - [Skip]: 文件: AI_TranslateTest.jsonc | 原文: ***NUKE... NUKE... NUKE...*** | 原语言: 英文 | 目标语言: 英文 | 理由: 原文为英语，无需翻译
+2025-05-07 13:02:25,936 - [OK][AI_TranslateTest.jsonc] 原文: ***NUKE... NUKE... NUKE...*** -> 翻译: ```json
+{
+  "text": "***ヌーク… ヌーク… ヌーク…***"
+}
+``` | 目标语言: 日文
+2025-05-07 13:02:28,030 - [OK][AI_TranslateTest.jsonc] 原文: ***NUKE... NUKE... NUKE...*** -> 翻译: ```json
+{
+  "text": "***핵... 핵... 핵...***"
+}
+``` | 目标语言: 韩文
+2025-05-07 13:02:30,366 - [Fail][AI_TranslateTest.jsonc] 原文: ***NUKE... NUKE... NUKE...*** | 翻译: ```json
+{
+  "text": "*** النوكي... النوكي... النوكي...***"
+}
+``` | 目标语言: 繁体中文
+2025-05-07 13:02:32,057 - [Fail][AI_TranslateTest.jsonc] 原文: ***NUKE... NUKE... NUKE...*** | 翻译: ```json
+{
+  "text": "*** النوكي... النوكي... النوكي...***"
+}
+``` | 目标语言: 繁体中文
+2025-05-07 13:02:33,739 - [Fail][AI_TranslateTest.jsonc] 原文: ***NUKE... NUKE... NUKE...*** | 翻译: ```json
+{
+  "text": "*** النوكي... النوكي... النوكي...***"
+}
+``` | 目标语言: 繁体中文
+2025-05-07 13:02:35,390 - [Fail][AI_TranslateTest.jsonc] 原文: ***NUKE... NUKE... NUKE...*** | 翻译: ```json
+{
+  "text": "*** النوكي... النوكي... النوكي...***"
+}
+``` | 目标语言: 繁体中文
+2025-05-07 13:02:37,042 - [Fail][AI_TranslateTest.jsonc] 原文: ***NUKE... NUKE... NUKE...*** | 翻译: ```json
+{
+  "text": "*** النوكي... النوكي... النوكي...***"
+}
+``` | 目标语言: 繁体中文
+2025-05-07 13:02:37,042 - [Skip]: 文件: AI_TranslateTest.jsonc | 原文: ***Sidedoors Open in 10 Seconds*** | 原语言: 英文 | 目标语言: 英文 | 理由: 原文为英语，无需翻译
+2025-05-07 13:02:39,281 - [OK][AI_TranslateTest.jsonc] 原文: ***Sidedoors Open in 10 Seconds*** -> 翻译: ```json
+{
+  "text": "***ドアが10秒で開きます***"
+}
+``` | 目标语言: 日文
+2025-05-07 13:02:41,591 - [OK][AI_TranslateTest.jsonc] 原文: ***Sidedoors Open in 10 Seconds*** -> 翻译: ```json
+{
+  "text": "***문이 10초 후에 열립니다***"
+}
+``` | 目标语言: 韩文
+2025-05-07 13:02:43,802 - [OK][AI_TranslateTest.jsonc] 原文: ***Sidedoors Open in 10 Seconds*** -> 翻译: ```json
+{
+  "text": "***側門10秒後開啟***"
+}
+``` | 目标语言: 繁体中文
+2025-05-07 13:02:43,803 - [Skip]: 文件: AI_TranslateTest.jsonc | 原文: ***Teleport in 10 Seconds*** | 原语言: 英文 | 目标语言: 英文 | 理由: 原文为英语，无需翻译
+2025-05-07 13:02:46,021 - [OK][AI_TranslateTest.jsonc] 原文: ***Teleport in 10 Seconds*** -> 翻译: ```json
+{
+  "text": "***テレポート開始まで10秒***"
+}
+``` | 目标语言: 日文
+2025-05-07 13:02:48,412 - [OK][AI_TranslateTest.jsonc] 原文: ***Teleport in 10 Seconds*** -> 翻译: ```json
+{
+  "text": "***텔레포트 시작까지 10초"***
+}
+``` | 目标语言: 韩文
+2025-05-07 13:02:50,505 - [OK][AI_TranslateTest.jsonc] 原文: ***Teleport in 10 Seconds*** -> 翻译: ```json
+{
+  "text": "***传送倒数10秒***"
+}
+``` | 目标语言: 繁体中文
+2025-05-07 13:02:50,505 - [Skip]: 文件: AI_TranslateTest.jsonc | 原文: ***Tram Leaves In 10 Seconds*** | 原语言: 英文 | 目标语言: 英文 | 理由: 原文为英语，无需翻译
+2025-05-07 13:02:52,936 - [Fail][AI_TranslateTest.jsonc] 原文: ***Tram Leaves In 10 Seconds*** | 翻译: ```json
+{
+  "text": "***ترام ترحل خلال 10 ثوانٍ***"
+}
+``` | 目标语言: 日文
+2025-05-07 13:02:54,564 - [OK][AI_TranslateTest.jsonc] 原文: ***Tram Leaves In 10 Seconds*** -> 翻译: ```json
+{
+  "text": "***トラムが10秒で出発します***"
+}
+``` | 目标语言: 日文
+2025-05-07 13:02:56,786 - [OK][AI_TranslateTest.jsonc] 原文: ***Tram Leaves In 10 Seconds*** -> 翻译: ```json
+{
+  "text": "***트램 출발까지 10초***"
+}
+``` | 目标语言: 韩文
+2025-05-07 13:02:59,108 - [OK][AI_TranslateTest.jsonc] 原文: ***Tram Leaves In 10 Seconds*** -> 翻译: ```json
+{
+  "text": "***列車即將 departing in 10 秒***"
+}
+``` | 目标语言: 繁体中文
+2025-05-07 13:02:59,108 - [Skip]: 文件: AI_TranslateTest.jsonc | 原文: ***Tram Leaves In 5 Seconds*** | 原语言: 英文 | 目标语言: 英文 | 理由: 原文为英语，无需翻译
+2025-05-07 13:03:01,344 - [OK][AI_TranslateTest.jsonc] 原文: ***Tram Leaves In 5 Seconds*** -> 翻译: ```json
+{
+  "text": "***電車が5秒で出発します***"
+}
+``` | 目标语言: 日文
+2025-05-07 13:03:03,549 - [OK][AI_TranslateTest.jsonc] 原文: ***Tram Leaves In 5 Seconds*** -> 翻译: ```json
+{
+  "text": "***기차 출발까지 5초 ***"
+}
+``` | 目标语言: 韩文
+2025-05-07 13:03:05,816 - [OK][AI_TranslateTest.jsonc] 原文: ***Tram Leaves In 5 Seconds*** -> 翻译: ```json
+{
+  "text": "***列車即將 departing in 5 秒***"
+}
+``` | 目标语言: 繁体中文
+2025-05-07 13:03:05,816 - [Skip]: 文件: AI_TranslateTest.jsonc | 原文: ***Vent Is Open*** | 原语言: 英文 | 目标语言: 英文 | 理由: 原文为英语，无需翻译
+2025-05-07 13:03:07,841 - [OK][AI_TranslateTest.jsonc] 原文: ***Vent Is Open*** -> 翻译: ```json
+{
+  "text": "***換気が開いています***"
+}
+``` | 目标语言: 日文
+2025-05-07 13:03:09,929 - [OK][AI_TranslateTest.jsonc] 原文: ***Vent Is Open*** -> 翻译: ```json
+{
+  "text": "***환기 시스템 개방***"
+}
+``` | 目标语言: 韩文
+2025-05-07 13:03:12,006 - [OK][AI_TranslateTest.jsonc] 原文: ***Vent Is Open*** -> 翻译: ```json
+{
+  "text": "***通風口已開啟***"
+}
+``` | 目标语言: 繁体中文
+2025-05-07 13:03:12,252 - [Skip]: 文件: ze_solidarity_paper_cs2_l.jsonc | 原文: ***Activating Bridge In 5 Seconds*** | 原语言: 英文 | 目标语言: 英文 | 理由: 原文为英语，无需翻译
+2025-05-07 13:03:14,385 - [OK][ze_solidarity_paper_cs2_l.jsonc] 原文: ***Activating Bridge In 5 Seconds*** -> 翻译: ```json
+{
+  "text": "***橋の起動まで5秒***"
+}
+``` | 目标语言: 日文
+2025-05-07 13:03:16,666 - [OK][ze_solidarity_paper_cs2_l.jsonc] 原文: ***Activating Bridge In 5 Seconds*** -> 翻译: ```json
+{
+  "text": "***다리 활성화 5초 후***"
+}
+``` | 目标语言: 韩文
+2025-05-07 13:03:18,873 - [OK][ze_solidarity_paper_cs2_l.jsonc] 原文: ***Activating Bridge In 5 Seconds*** -> 翻译: ```json
+{
+  "text": "***橋樑啟動倒數五秒***"
+}
+``` | 目标语言: 繁体中文
+2025-05-07 13:03:18,873 - [Skip]: 文件: ze_solidarity_paper_cs2_l.jsonc | 原文: ***COOKIE PAPER HAVE DIED*** | 原语言: 英文 | 目标语言: 英文 | 理由: 原文为英语，无需翻译
+2025-05-07 13:03:20,967 - [OK][ze_solidarity_paper_cs2_l.jsonc] 原文: ***COOKIE PAPER HAVE DIED*** -> 翻译: ```json
+{
+  "text": "***クッキーペーパーが死亡***"
+}
+``` | 目标语言: 日文
+2025-05-07 13:03:23,182 - [OK][ze_solidarity_paper_cs2_l.jsonc] 原文: ***COOKIE PAPER HAVE DIED*** -> 翻译: ```json
+{
+  "text": "***쿠키 종이, 소진됨***"
+}
+``` | 目标语言: 韩文
+2025-05-07 13:03:25,286 - [OK][ze_solidarity_paper_cs2_l.jsonc] 原文: ***COOKIE PAPER HAVE DIED*** -> 翻译: ```json
+{
+  "text": "***餅乾紙已死亡***"
+}
+``` | 目标语言: 繁体中文
+2025-05-07 13:03:25,286 - [Skip]: 文件: ze_solidarity_paper_cs2_l.jsonc | 原文: ***Cookie Paper Monster Are Using Laser*** | 原语言: 英文 | 目标语言: 英文 | 理由: 原文为英语，无需翻译
+2025-05-07 13:03:27,644 - [OK][ze_solidarity_paper_cs2_l.jsonc] 原文: ***Cookie Paper Monster Are Using Laser*** -> 翻译: ```json
+{
+  "text": "***クッキーペーパーモンスターがレーザーを使っている***"
+}
+``` | 目标语言: 日文
+2025-05-07 13:03:30,181 - [OK][ze_solidarity_paper_cs2_l.jsonc] 原文: ***Cookie Paper Monster Are Using Laser*** -> 翻译: ```json
+{
+  "text": "***쿠키 종이 몬스터가 레이저를 사용 중입니다***"
+}
+``` | 目标语言: 韩文
+2025-05-07 13:03:32,381 - [OK][ze_solidarity_paper_cs2_l.jsonc] 原文: ***Cookie Paper Monster Are Using Laser*** -> 翻译: ```json
+{
+  "text": "***餅乾紙怪獸正在使用激光***"
+}
+``` | 目标语言: 繁体中文
+2025-05-07 13:03:32,381 - [Skip]: 文件: ze_solidarity_paper_cs2_l.jsonc | 原文: ***Cookie Paper Monster Are Using Magic On Zombie Cage*** | 原语言: 英文 | 目标语言: 英文 | 理由: 原文为英语，无需翻译
+2025-05-07 13:03:34,987 - [OK][ze_solidarity_paper_cs2_l.jsonc] 原文: ***Cookie Paper Monster Are Using Magic On Zombie Cage*** -> 翻译: ```json
+{
+  "text": "***クッキーペーパーモンスターがゾンビケージに魔法を使っている***"
+}
+``` | 目标语言: 日文
+2025-05-07 13:03:37,764 - [OK][ze_solidarity_paper_cs2_l.jsonc] 原文: ***Cookie Paper Monster Are Using Magic On Zombie Cage*** -> 翻译: ```json
+{
+  "text": "***쿠키 종이 괴물이 좀비 감옥에 마법을 사용 중입니다***"
+}
+``` | 目标语言: 韩文
+2025-05-07 13:03:40,310 - [OK][ze_solidarity_paper_cs2_l.jsonc] 原文: ***Cookie Paper Monster Are Using Magic On Zombie Cage*** -> 翻译: ```json
+{
+  "text": "***餅乾紙怪物正在使用魔法在殭屍籠上。***"
+}
+``` | 目标语言: 繁体中文
+2025-05-07 13:03:40,312 - [Skip]: 文件: ze_solidarity_paper_cs2_l.jsonc | 原文: ***Cookie Paper Monster Are Using Shield*** | 原语言: 英文 | 目标语言: 英文 | 理由: 原文为英语，无需翻译
+2025-05-07 13:03:42,760 - [OK][ze_solidarity_paper_cs2_l.jsonc] 原文: ***Cookie Paper Monster Are Using Shield*** -> 翻译: ```json
+{
+  "text": "***クッキー・ペーパー・モンスターがシールドを使用中***"
+}
+``` | 目标语言: 日文
+2025-05-07 13:03:45,314 - [OK][ze_solidarity_paper_cs2_l.jsonc] 原文: ***Cookie Paper Monster Are Using Shield*** -> 翻译: ```json
+{
+  "text": "쿠키 페이퍼 몬스터가 방패를 사용 중"
+}
+``` | 目标语言: 韩文
+2025-05-07 13:03:47,649 - [OK][ze_solidarity_paper_cs2_l.jsonc] 原文: ***Cookie Paper Monster Are Using Shield*** -> 翻译: ```json
+{
+  "text": "***餅乾紙怪獸正在使用盾牌***"
+}
+``` | 目标语言: 繁体中文
+2025-05-07 13:03:47,649 - [Skip]: 文件: ze_solidarity_paper_cs2_l.jsonc | 原文: ***Cookie Paper Monster Are Using Wind*** | 原语言: 英文 | 目标语言: 英文 | 理由: 原文为英语，无需翻译
+2025-05-07 13:03:49,941 - [OK][ze_solidarity_paper_cs2_l.jsonc] 原文: ***Cookie Paper Monster Are Using Wind*** -> 翻译: ```json
+{
+  "text": "***クッキーペーパーモンスターが風を使っている***"
+}
+``` | 目标语言: 日文
+2025-05-07 13:03:52,456 - [OK][ze_solidarity_paper_cs2_l.jsonc] 原文: ***Cookie Paper Monster Are Using Wind*** -> 翻译: ```json
+{
+  "text": "***쿠키 종이 몬스터가 바람을 사용 중입니다***"
+}
+``` | 目标语言: 韩文
+2025-05-07 13:03:54,671 - [OK][ze_solidarity_paper_cs2_l.jsonc] 原文: ***Cookie Paper Monster Are Using Wind*** -> 翻译: ```json
+{
+  "text": "***餅乾紙怪物正在使用風***"
+}
+``` | 目标语言: 繁体中文
+2025-05-07 13:03:54,672 - [Skip]: 文件: ze_solidarity_paper_cs2_l.jsonc | 原文: ***Defend 15 Seconds*** | 原语言: 英文 | 目标语言: 英文 | 理由: 原文为英语，无需翻译
+2025-05-07 13:03:56,751 - [OK][ze_solidarity_paper_cs2_l.jsonc] 原文: ***Defend 15 Seconds*** -> 翻译: ```json
+{
+  "text": "***15秒 防衛***"
+}
+``` | 目标语言: 日文
+2025-05-07 13:03:58,773 - [OK][ze_solidarity_paper_cs2_l.jsonc] 原文: ***Defend 15 Seconds*** -> 翻译: ```json
+{
+  "text": "***15초 방어***"
+}
+``` | 目标语言: 韩文
+2025-05-07 13:04:00,908 - [OK][ze_solidarity_paper_cs2_l.jsonc] 原文: ***Defend 15 Seconds*** -> 翻译: ```json
+{
+  "text": "***防禦 15 秒***"
+}
+``` | 目标语言: 繁体中文
+2025-05-07 13:04:00,908 - [Skip]: 文件: ze_solidarity_paper_cs2_l.jsonc | 原文: ***Defend 20 Seconds*** | 原语言: 英文 | 目标语言: 英文 | 理由: 原文为英语，无需翻译
+2025-05-07 13:04:02,970 - [OK][ze_solidarity_paper_cs2_l.jsonc] 原文: ***Defend 20 Seconds*** -> 翻译: ```json
+{
+  "text": "***20秒 防衛***"
+}
+``` | 目标语言: 日文
+2025-05-07 13:04:05,033 - [OK][ze_solidarity_paper_cs2_l.jsonc] 原文: ***Defend 20 Seconds*** -> 翻译: ```json
+{
+  "text": "***20초 방어***"
+}
+``` | 目标语言: 韩文
+2025-05-07 13:04:07,176 - [OK][ze_solidarity_paper_cs2_l.jsonc] 原文: ***Defend 20 Seconds*** -> 翻译: ```json
+{
+  "text": "***防守 20 秒***"
+}
+``` | 目标语言: 繁体中文
+2025-05-07 13:04:07,176 - [Skip]: 文件: ze_solidarity_paper_cs2_l.jsonc | 原文: ***Defend 35 Seconds*** | 原语言: 英文 | 目标语言: 英文 | 理由: 原文为英语，无需翻译
+2025-05-07 13:04:09,275 - [OK][ze_solidarity_paper_cs2_l.jsonc] 原文: ***Defend 35 Seconds*** -> 翻译: ```json
+{
+  "text": "***35秒 防衛***"
+}
+``` | 目标语言: 日文
+2025-05-07 13:04:11,372 - [OK][ze_solidarity_paper_cs2_l.jsonc] 原文: ***Defend 35 Seconds*** -> 翻译: ```json
+{
+  "text": "***35초 방어***"
+}
+``` | 目标语言: 韩文
+2025-05-07 13:04:13,525 - [OK][ze_solidarity_paper_cs2_l.jsonc] 原文: ***Defend 35 Seconds*** -> 翻译: ```json
+{
+  "text": "***防禦 35 秒***"
+}
+``` | 目标语言: 繁体中文
+2025-05-07 13:04:13,525 - [Skip]: 文件: ze_solidarity_paper_cs2_l.jsonc | 原文: ***Defend For 25 Seconds*** | 原语言: 英文 | 目标语言: 英文 | 理由: 原文为英语，无需翻译
+2025-05-07 13:04:15,736 - [OK][ze_solidarity_paper_cs2_l.jsonc] 原文: ***Defend For 25 Seconds*** -> 翻译: ```json
+{
+  "text": "***25秒間防衛せよ***"
+}
+``` | 目标语言: 日文
+2025-05-07 13:04:17,858 - [OK][ze_solidarity_paper_cs2_l.jsonc] 原文: ***Defend For 25 Seconds*** -> 翻译: ```json
+{
+  "text": "***25초 동안 방어하기***"
+}
+``` | 目标语言: 韩文
+2025-05-07 13:04:20,003 - [OK][ze_solidarity_paper_cs2_l.jsonc] 原文: ***Defend For 25 Seconds*** -> 翻译: ```json
+{
+  "text": "***堅守 25 秒***"
+}
+``` | 目标语言: 繁体中文
+2025-05-07 13:04:20,003 - [Skip]: 文件: ze_solidarity_paper_cs2_l.jsonc | 原文: ***Defend The Boat*** | 原语言: 英文 | 目标语言: 英文 | 理由: 原文为英语，无需翻译
+2025-05-07 13:04:21,908 - [OK][ze_solidarity_paper_cs2_l.jsonc] 原文: ***Defend The Boat*** -> 翻译: ```json
+{
+  "text": "***船を守れ***"
+}
+``` | 目标语言: 日文
+2025-05-07 13:04:23,965 - [OK][ze_solidarity_paper_cs2_l.jsonc] 原文: ***Defend The Boat*** -> 翻译: ```json
+{
+  "text": "***보트를 방어하세요***"
+}
+``` | 目标语言: 韩文
+2025-05-07 13:04:26,064 - [OK][ze_solidarity_paper_cs2_l.jsonc] 原文: ***Defend The Boat*** -> 翻译: ```json
+{
+  "text": "***防守載船***"
+}
+``` | 目标语言: 繁体中文
+2025-05-07 13:04:26,064 - [Skip]: 文件: ze_solidarity_paper_cs2_l.jsonc | 原文: ***Door Closes in 15 Seconds!!*** | 原语言: 英文 | 目标语言: 英文 | 理由: 原文为英语，无需翻译
+2025-05-07 13:04:28,317 - [OK][ze_solidarity_paper_cs2_l.jsonc] 原文: ***Door Closes in 15 Seconds!!*** -> 翻译: ```json
+{
+  "text": "***ドアが15秒で閉まります!!***"
+}
+``` | 目标语言: 日文
+2025-05-07 13:04:30,752 - [OK][ze_solidarity_paper_cs2_l.jsonc] 原文: ***Door Closes in 15 Seconds!!*** -> 翻译: ```json
+{
+  "text": "***문이 15초 후에 닫힙니다!!***"
+}
+``` | 目标语言: 韩文
+2025-05-07 13:04:33,033 - [OK][ze_solidarity_paper_cs2_l.jsonc] 原文: ***Door Closes in 15 Seconds!!*** -> 翻译: ```json
+{
+  "text": "***門在15秒後關閉！！***"
+}
+``` | 目标语言: 繁体中文
+2025-05-07 13:04:33,035 - [Skip]: 文件: ze_solidarity_paper_cs2_l.jsonc | 原文: ***Door Closes in 5 Seconds!!*** | 原语言: 英文 | 目标语言: 英文 | 理由: 原文为英语，无需翻译
+2025-05-07 13:04:35,219 - [OK][ze_solidarity_paper_cs2_l.jsonc] 原文: ***Door Closes in 5 Seconds!!*** -> 翻译: ```json
+{
+  "text": "***ドアが5秒で閉まります!!***"
+}
+``` | 目标语言: 日文
+2025-05-07 13:04:37,635 - [OK][ze_solidarity_paper_cs2_l.jsonc] 原文: ***Door Closes in 5 Seconds!!*** -> 翻译: ```json
+{
+  "text": "***문이 5초 후에 닫힙니다!!***"
+}
+``` | 目标语言: 韩文
+2025-05-07 13:04:39,948 - [OK][ze_solidarity_paper_cs2_l.jsonc] 原文: ***Door Closes in 5 Seconds!!*** -> 翻译: ```json
+{
+  "text": "***門在5秒後鎖上！！***"
+}
+``` | 目标语言: 繁体中文
+2025-05-07 13:04:39,950 - [Skip]: 文件: ze_solidarity_paper_cs2_l.jsonc | 原文: ***Door Open In 5 Seconds*** | 原语言: 英文 | 目标语言: 英文 | 理由: 原文为英语，无需翻译
+2025-05-07 13:04:42,173 - [OK][ze_solidarity_paper_cs2_l.jsonc] 原文: ***Door Open In 5 Seconds*** -> 翻译: ```json
+{
+  "text": "***ドアが開きます。5秒で***"
+}
+``` | 目标语言: 日文
+2025-05-07 13:04:44,405 - [OK][ze_solidarity_paper_cs2_l.jsonc] 原文: ***Door Open In 5 Seconds*** -> 翻译: ```json
+{
+  "text": "***문이 5초 후에 열립니다***"
+}
+``` | 目标语言: 韩文
+2025-05-07 13:04:46,532 - [OK][ze_solidarity_paper_cs2_l.jsonc] 原文: ***Door Open In 5 Seconds*** -> 翻译: ```json
+{
+  "text": "***門打開倒數5秒***"
+}
+``` | 目标语言: 繁体中文
+2025-05-07 13:04:46,532 - [Skip]: 文件: ze_solidarity_paper_cs2_l.jsonc | 原文: ***Door Open in 10 Seconds*** | 原语言: 英文 | 目标语言: 英文 | 理由: 原文为英语，无需翻译
+2025-05-07 13:04:48,802 - [OK][ze_solidarity_paper_cs2_l.jsonc] 原文: ***Door Open in 10 Seconds*** -> 翻译: ```json
+{
+  "text": "***ドアが開きます（10秒後）***"
+}
+``` | 目标语言: 日文
+2025-05-07 13:04:51,146 - [OK][ze_solidarity_paper_cs2_l.jsonc] 原文: ***Door Open in 10 Seconds*** -> 翻译: ```json
+{
+  "text": "***문이 10초 후에 열립니다.***"
+}
+``` | 目标语言: 韩文
+2025-05-07 13:04:53,471 - [OK][ze_solidarity_paper_cs2_l.jsonc] 原文: ***Door Open in 10 Seconds*** -> 翻译: ```json
+{
+  "text": "***門在 10 秒後開啟***"
+}
+``` | 目标语言: 繁体中文
+2025-05-07 13:04:53,472 - [Skip]: 文件: ze_solidarity_paper_cs2_l.jsonc | 原文: ***Door Open in 30 Seconds*** | 原语言: 英文 | 目标语言: 英文 | 理由: 原文为英语，无需翻译
+2025-05-07 13:04:55,706 - [OK][ze_solidarity_paper_cs2_l.jsonc] 原文: ***Door Open in 30 Seconds*** -> 翻译: ```json
+{
+  "text": "***ドアが開きます（30秒）***"
+}
+``` | 目标语言: 日文
+2025-05-07 13:04:57,975 - [OK][ze_solidarity_paper_cs2_l.jsonc] 原文: ***Door Open in 30 Seconds*** -> 翻译: ```json
+{
+  "text": "***문이 30초 후에 열립니다***"
+}
+``` | 目标语言: 韩文
+2025-05-07 13:05:00,153 - [OK][ze_solidarity_paper_cs2_l.jsonc] 原文: ***Door Open in 30 Seconds*** -> 翻译: ```json
+{
+  "text": "***門打開 30 秒***"
+}
+``` | 目标语言: 繁体中文
+2025-05-07 13:05:00,155 - [Skip]: 文件: ze_solidarity_paper_cs2_l.jsonc | 原文: ***Door Open in 5 Seconds*** | 原语言: 英文 | 目标语言: 英文 | 理由: 原文为英语，无需翻译
+2025-05-07 13:05:02,354 - [OK][ze_solidarity_paper_cs2_l.jsonc] 原文: ***Door Open in 5 Seconds*** -> 翻译: ```json
+{
+  "text": "***ドアが開きます（5秒後）***"
+}
+``` | 目标语言: 日文
+2025-05-07 13:05:04,620 - [OK][ze_solidarity_paper_cs2_l.jsonc] 原文: ***Door Open in 5 Seconds*** -> 翻译: ```json
+{
+  "text": "***문이 5초 후에 열립니다.***"
+}
+``` | 目标语言: 韩文
+2025-05-07 13:05:06,810 - [OK][ze_solidarity_paper_cs2_l.jsonc] 原文: ***Door Open in 5 Seconds*** -> 翻译: ```json
+{
+  "text": "***門在5秒後開啟***"
+}
+``` | 目标语言: 繁体中文
+2025-05-07 13:05:06,810 - [Skip]: 文件: ze_solidarity_paper_cs2_l.jsonc | 原文: ***Elevator 1 Leaves in 10 Seconds*** | 原语言: 英文 | 目标语言: 英文 | 理由: 原文为英语，无需翻译
+2025-05-07 13:05:09,123 - [OK][ze_solidarity_paper_cs2_l.jsonc] 原文: ***Elevator 1 Leaves in 10 Seconds*** -> 翻译: ```json
+{
+  "text": "***エレベーター1が出発まで10秒***"
+}
+``` | 目标语言: 日文
+2025-05-07 13:05:11,617 - [OK][ze_solidarity_paper_cs2_l.jsonc] 原文: ***Elevator 1 Leaves in 10 Seconds*** -> 翻译: ```json
+{
+  "text": "***엘리베이터 1, 10초 후 출발***"
+}
+``` | 目标语言: 韩文
+2025-05-07 13:05:14,100 - [OK][ze_solidarity_paper_cs2_l.jsonc] 原文: ***Elevator 1 Leaves in 10 Seconds*** -> 翻译: ```json
+{
+  "text": "***電梯 1 即將離開 (10 秒)***"
+}
+``` | 目标语言: 繁体中文
+2025-05-07 13:05:14,100 - [Skip]: 文件: ze_solidarity_paper_cs2_l.jsonc | 原文: ***Elevator 1 Leaves in 5 Seconds*** | 原语言: 英文 | 目标语言: 英文 | 理由: 原文为英语，无需翻译
+2025-05-07 13:05:16,399 - [OK][ze_solidarity_paper_cs2_l.jsonc] 原文: ***Elevator 1 Leaves in 5 Seconds*** -> 翻译: ```json
+{
+  "text": "***エレベーター1が5秒後に出発します***"
+}
+``` | 目标语言: 日文
+2025-05-07 13:05:18,843 - [OK][ze_solidarity_paper_cs2_l.jsonc] 原文: ***Elevator 1 Leaves in 5 Seconds*** -> 翻译: ```json
+{
+  "text": "***엘리베이터 1, 5초 후 출발***"
+}
+``` | 目标语言: 韩文
+2025-05-07 13:05:21,286 - [OK][ze_solidarity_paper_cs2_l.jsonc] 原文: ***Elevator 1 Leaves in 5 Seconds*** -> 翻译: ```json
+{
+  "text": "***電梯 1 將在 5 秒後離開***"
+}
+``` | 目标语言: 繁体中文
+2025-05-07 13:05:21,286 - [Skip]: 文件: ze_solidarity_paper_cs2_l.jsonc | 原文: ***Elevator 2 Leaves in 10 Seconds*** | 原语言: 英文 | 目标语言: 英文 | 理由: 原文为英语，无需翻译
+2025-05-07 13:05:23,748 - [OK][ze_solidarity_paper_cs2_l.jsonc] 原文: ***Elevator 2 Leaves in 10 Seconds*** -> 翻译: ```json
+{
+  "text": "***エレベーター2階が出発まで10秒です***"
+}
+``` | 目标语言: 日文
+2025-05-07 13:05:26,470 - [OK][ze_solidarity_paper_cs2_l.jsonc] 原文: ***Elevator 2 Leaves in 10 Seconds*** -> 翻译: ```json
+{
+  "text": "***엘리베이터 2칸이 10초 후에 나갑니다.***"
+}
+``` | 目标语言: 韩文
+2025-05-07 13:05:29,015 - [OK][ze_solidarity_paper_cs2_l.jsonc] 原文: ***Elevator 2 Leaves in 10 Seconds*** -> 翻译: ```json
+{
+  "text": "***電梯 2 樓在 10 秒後離開***"
+}
+``` | 目标语言: 繁体中文
+2025-05-07 13:05:29,016 - [Skip]: 文件: ze_solidarity_paper_cs2_l.jsonc | 原文: ***Elevator 2 Leaves in 5 Seconds*** | 原语言: 英文 | 目标语言: 英文 | 理由: 原文为英语，无需翻译
+2025-05-07 13:05:31,414 - [OK][ze_solidarity_paper_cs2_l.jsonc] 原文: ***Elevator 2 Leaves in 5 Seconds*** -> 翻译: ```json
+{
+  "text": "***エレベーター２ドアが５秒後に閉じます***"
+}
+``` | 目标语言: 日文
+2025-05-07 13:05:34,192 - [OK][ze_solidarity_paper_cs2_l.jsonc] 原文: ***Elevator 2 Leaves in 5 Seconds*** -> 翻译: ```json
+{
+  "text": "***엘리베이터 2개 문이 5초 후에 닫힙니다***"
+}
+``` | 目标语言: 韩文
+2025-05-07 13:05:36,457 - [OK][ze_solidarity_paper_cs2_l.jsonc] 原文: ***Elevator 2 Leaves in 5 Seconds*** -> 翻译: ```json
+{
+  "text": "***電梯2層在5秒後離開***"
+}
+``` | 目标语言: 繁体中文
+2025-05-07 13:05:36,458 - [Skip]: 文件: ze_solidarity_paper_cs2_l.jsonc | 原文: ***FALL BACK!!*** | 原语言: 英文 | 目标语言: 英文 | 理由: 原文为英语，无需翻译
+2025-05-07 13:05:38,433 - [OK][ze_solidarity_paper_cs2_l.jsonc] 原文: ***FALL BACK!!*** -> 翻译: ```json
+{
+  "text": "***後退！！***"
+}
+``` | 目标语言: 日文
+2025-05-07 13:05:40,331 - [OK][ze_solidarity_paper_cs2_l.jsonc] 原文: ***FALL BACK!!*** -> 翻译: ```json
+{
+  "text": "***후퇴!!***"
+}
+``` | 目标语言: 韩文
+2025-05-07 13:05:42,278 - [OK][ze_solidarity_paper_cs2_l.jsonc] 原文: ***FALL BACK!!*** -> 翻译: ```json
+{
+  "text": "***退避！***"
+}
+``` | 目标语言: 繁体中文
+2025-05-07 13:05:42,278 - [Skip]: 文件: ze_solidarity_paper_cs2_l.jsonc | 原文: ***FIGHT THE BOSS*** | 原语言: 英文 | 目标语言: 英文 | 理由: 原文为英语，无需翻译
+2025-05-07 13:05:44,292 - [OK][ze_solidarity_paper_cs2_l.jsonc] 原文: ***FIGHT THE BOSS*** -> 翻译: ```json
+{
+  "text": "***ボスに勝て！***"
+}
+``` | 目标语言: 日文
+2025-05-07 13:05:46,385 - [OK][ze_solidarity_paper_cs2_l.jsonc] 原文: ***FIGHT THE BOSS*** -> 翻译: ```json
+{
+  "text": "***전 보스 처치!***"
+}
+``` | 目标语言: 韩文
+2025-05-07 13:05:48,421 - [OK][ze_solidarity_paper_cs2_l.jsonc] 原文: ***FIGHT THE BOSS*** -> 翻译: ```json
+{
+  "text": "***打倒BOSS***"
+}
+``` | 目标语言: 繁体中文
+2025-05-07 13:05:48,422 - [Skip]: 文件: ze_solidarity_paper_cs2_l.jsonc | 原文: ***Gate Open In 15 Seconds*** | 原语言: 英文 | 目标语言: 英文 | 理由: 原文为英语，无需翻译
+2025-05-07 13:05:50,551 - [OK][ze_solidarity_paper_cs2_l.jsonc] 原文: ***Gate Open In 15 Seconds*** -> 翻译: ```json
+{
+  "text": "***門が開きます。15秒***"
+}
+``` | 目标语言: 日文
+2025-05-07 13:05:53,039 - [OK][ze_solidarity_paper_cs2_l.jsonc] 原文: ***Gate Open In 15 Seconds*** -> 翻译: ```json
+{
+  "text": "***문이 열릴 준비를 하세요. 15초 후!"
+}
+``` | 目标语言: 韩文
+2025-05-07 13:05:55,301 - [OK][ze_solidarity_paper_cs2_l.jsonc] 原文: ***Gate Open In 15 Seconds*** -> 翻译: ```json
+{
+  "text": "***大門開啟倒數 15 秒***"
+}
+``` | 目标语言: 繁体中文
+2025-05-07 13:05:55,301 - [Skip]: 文件: ze_solidarity_paper_cs2_l.jsonc | 原文: ***Gate Open In 5 Seconds*** | 原语言: 英文 | 目标语言: 英文 | 理由: 原文为英语，无需翻译
+2025-05-07 13:05:58,515 - [OK][ze_solidarity_paper_cs2_l.jsonc] 原文: ***Gate Open In 5 Seconds*** -> 翻译: ```json
+{
+  "text": "***門が開きます (Kaেমn ga きたいます) - 5秒で！ (5-pyou de!)"
+}
+``` | 目标语言: 日文
+2025-05-07 13:06:00,954 - [OK][ze_solidarity_paper_cs2_l.jsonc] 原文: ***Gate Open In 5 Seconds*** -> 翻译: ```json
+{
+  "text": "***문 열림 (남은 시간: 5초)***"
+}
+``` | 目标语言: 韩文
+2025-05-07 13:06:03,228 - [OK][ze_solidarity_paper_cs2_l.jsonc] 原文: ***Gate Open In 5 Seconds*** -> 翻译: ```json
+{
+  "text": "***大門開啟倒數五秒***"
+}
+``` | 目标语言: 繁体中文
+2025-05-07 13:06:03,228 - [Skip]: 文件: ze_solidarity_paper_cs2_l.jsonc | 原文: ***Glass Breaks In 5 Seconds*** | 原语言: 英文 | 目标语言: 英文 | 理由: 原文为英语，无需翻译
+2025-05-07 13:06:05,363 - [OK][ze_solidarity_paper_cs2_l.jsonc] 原文: ***Glass Breaks In 5 Seconds*** -> 翻译: ```json
+{
+  "text": "***ガラスが5秒で割れます***"
+}
+``` | 目标语言: 日文
+2025-05-07 13:06:07,555 - [OK][ze_solidarity_paper_cs2_l.jsonc] 原文: ***Glass Breaks In 5 Seconds*** -> 翻译: ```json
+{
+  "text": "***유리 파손 in 5초***"
+}
+``` | 目标语言: 韩文
+2025-05-07 13:06:09,586 - [OK][ze_solidarity_paper_cs2_l.jsonc] 原文: ***Glass Breaks In 5 Seconds*** -> 翻译: ```json
+{
+  "text": "***玻璃破碎五秒***"
+}
+``` | 目标语言: 繁体中文
+2025-05-07 13:06:09,586 - [Skip]: 文件: ze_solidarity_paper_cs2_l.jsonc | 原文: ***HEALTH: 100000*** | 原语言: 英文 | 目标语言: 英文 | 理由: 原文为英语，无需翻译
+2025-05-07 13:06:11,838 - [OK][ze_solidarity_paper_cs2_l.jsonc] 原文: ***HEALTH: 100000*** -> 翻译: ```json
+{
+  "text": "***体力: 100000***"
+}
+``` | 目标语言: 日文
+2025-05-07 13:06:14,154 - [OK][ze_solidarity_paper_cs2_l.jsonc] 原文: ***HEALTH: 100000*** -> 翻译: ```json
+{
+  "text": "***체력: 100000***"
+}
+``` | 目标语言: 韩文
+2025-05-07 13:06:16,541 - [OK][ze_solidarity_paper_cs2_l.jsonc] 原文: ***HEALTH: 100000*** -> 翻译: ```json
+{
+  "text": "***生命值: 100000***"
+}
+``` | 目标语言: 繁体中文
+2025-05-07 13:06:16,541 - [Skip]: 文件: ze_solidarity_paper_cs2_l.jsonc | 原文: ***Hint: If Any Zombies Still Are On The Platform. Shoot Them Down!*** | 原语言: 英文 | 目标语言: 英文 | 理由: 原文为英语，无需翻译
+2025-05-07 13:06:19,420 - [OK][ze_solidarity_paper_cs2_l.jsonc] 原文: ***Hint: If Any Zombies Still Are On The Platform. Shoot Them Down!*** -> 翻译: ```json
+{
+  "text": "***ヒント：プラットフォーム上にゾンビがまだいる場合、射出して排除！***"
+}
+``` | 目标语言: 日文
+2025-05-07 13:06:22,038 - [OK][ze_solidarity_paper_cs2_l.jsonc] 原文: ***Hint: If Any Zombies Still Are On The Platform. Shoot Them Down!*** -> 翻译: ```json
+{
+  "text": "***힌트: 플랫폼에 아직 좀비가 있다면, 격추하세요!***"
+}
+``` | 目标语言: 韩文
+2025-05-07 13:06:24,845 - [OK][ze_solidarity_paper_cs2_l.jsonc] 原文: ***Hint: If Any Zombies Still Are On The Platform. Shoot Them Down!*** -> 翻译: ```json
+{
+  "text": "***提示：如果還有不死者留在平台上，請射擊消滅他們！***"
+}
+``` | 目标语言: 繁体中文
+2025-05-07 13:06:24,846 - [Skip]: 文件: ze_solidarity_paper_cs2_l.jsonc | 原文: ***MAP BY: RASTAFARIAN (DK)*** | 原语言: 英文 | 目标语言: 英文 | 理由: 原文为英语，无需翻译
+2025-05-07 13:06:27,239 - [OK][ze_solidarity_paper_cs2_l.jsonc] 原文: ***MAP BY: RASTAFARIAN (DK)*** -> 翻译: ```json
+{
+  "text": "***マップ作成: RASTAFARIAN (DK)***"
+}
+``` | 目标语言: 日文
+2025-05-07 13:06:29,626 - [OK][ze_solidarity_paper_cs2_l.jsonc] 原文: ***MAP BY: RASTAFARIAN (DK)*** -> 翻译: ```json
+{
+  "text": "***맵 제작: RASTAFARIAN (DK)***"
+}
+``` | 目标语言: 韩文
+2025-05-07 13:06:32,260 - [OK][ze_solidarity_paper_cs2_l.jsonc] 原文: ***MAP BY: RASTAFARIAN (DK)*** -> 翻译: ```json
+{
+  "text": "***地圖由：RASTAFARIAN (DK) 製作***"
+}
+``` | 目标语言: 繁体中文
+2025-05-07 13:06:32,260 - [Skip]: 文件: ze_solidarity_paper_cs2_l.jsonc | 原文: ***NUKE... NUKE... NUKE...*** | 原语言: 英文 | 目标语言: 英文 | 理由: 原文为英语，无需翻译
+2025-05-07 13:06:34,739 - [OK][ze_solidarity_paper_cs2_l.jsonc] 原文: ***NUKE... NUKE... NUKE...*** -> 翻译: ```json
+{
+  "text": "***ヌーク… ヌーク… ヌーク…***"
+}
+``` | 目标语言: 日文
+2025-05-07 13:06:36,837 - [OK][ze_solidarity_paper_cs2_l.jsonc] 原文: ***NUKE... NUKE... NUKE...*** -> 翻译: ```json
+{
+  "text": "***핵... 핵... 핵...***"
+}
+``` | 目标语言: 韩文
+2025-05-07 13:06:39,119 - [Fail][ze_solidarity_paper_cs2_l.jsonc] 原文: ***NUKE... NUKE... NUKE...*** | 翻译: ```json
+{
+  "text": "*** النوكي... النوكي... النوكي...***"
+}
+``` | 目标语言: 繁体中文
+2025-05-07 13:06:40,791 - [Fail][ze_solidarity_paper_cs2_l.jsonc] 原文: ***NUKE... NUKE... NUKE...*** | 翻译: ```json
+{
+  "text": "*** النوكي... النوكي... النوكي...***"
+}
+``` | 目标语言: 繁体中文
+2025-05-07 13:06:42,451 - [Fail][ze_solidarity_paper_cs2_l.jsonc] 原文: ***NUKE... NUKE... NUKE...*** | 翻译: ```json
+{
+  "text": "*** النوكي... النوكي... النوكي...***"
+}
+``` | 目标语言: 繁体中文
+2025-05-07 13:06:44,124 - [Fail][ze_solidarity_paper_cs2_l.jsonc] 原文: ***NUKE... NUKE... NUKE...*** | 翻译: ```json
+{
+  "text": "*** النوكي... النوكي... النوكي...***"
+}
+``` | 目标语言: 繁体中文
+2025-05-07 13:06:45,827 - [Fail][ze_solidarity_paper_cs2_l.jsonc] 原文: ***NUKE... NUKE... NUKE...*** | 翻译: ```json
+{
+  "text": "*** النوكي... النوكي... النوكي...***"
+}
+``` | 目标语言: 繁体中文
+2025-05-07 13:06:45,828 - [Skip]: 文件: ze_solidarity_paper_cs2_l.jsonc | 原文: ***Sidedoors Open in 10 Seconds*** | 原语言: 英文 | 目标语言: 英文 | 理由: 原文为英语，无需翻译
+2025-05-07 13:06:48,101 - [OK][ze_solidarity_paper_cs2_l.jsonc] 原文: ***Sidedoors Open in 10 Seconds*** -> 翻译: ```json
+{
+  "text": "***ドアが10秒で開きます***"
+}
+``` | 目标语言: 日文
+2025-05-07 13:06:50,378 - [OK][ze_solidarity_paper_cs2_l.jsonc] 原文: ***Sidedoors Open in 10 Seconds*** -> 翻译: ```json
+{
+  "text": "***문이 10초 후에 열립니다***"
+}
+``` | 目标语言: 韩文
+2025-05-07 13:06:52,565 - [OK][ze_solidarity_paper_cs2_l.jsonc] 原文: ***Sidedoors Open in 10 Seconds*** -> 翻译: ```json
+{
+  "text": "***側門10秒後開啟***"
+}
+``` | 目标语言: 繁体中文
+2025-05-07 13:06:52,565 - [Skip]: 文件: ze_solidarity_paper_cs2_l.jsonc | 原文: ***Teleport in 10 Seconds*** | 原语言: 英文 | 目标语言: 英文 | 理由: 原文为英语，无需翻译
+2025-05-07 13:06:54,766 - [OK][ze_solidarity_paper_cs2_l.jsonc] 原文: ***Teleport in 10 Seconds*** -> 翻译: ```json
+{
+  "text": "***テレポート開始まで10秒***"
+}
+``` | 目标语言: 日文
+2025-05-07 13:06:56,989 - [OK][ze_solidarity_paper_cs2_l.jsonc] 原文: ***Teleport in 10 Seconds*** -> 翻译: ```json
+{
+  "text": "***텔레포트 10초 후***"
+}
+``` | 目标语言: 韩文
+2025-05-07 13:06:59,190 - [OK][ze_solidarity_paper_cs2_l.jsonc] 原文: ***Teleport in 10 Seconds*** -> 翻译: ```json
+{
+  "text": "***传送倒计时：10秒***"
+}
+``` | 目标语言: 繁体中文
+2025-05-07 13:06:59,190 - [Skip]: 文件: ze_solidarity_paper_cs2_l.jsonc | 原文: ***Tram Leaves In 10 Seconds*** | 原语言: 英文 | 目标语言: 英文 | 理由: 原文为英语，无需翻译
+2025-05-07 13:07:01,449 - [OK][ze_solidarity_paper_cs2_l.jsonc] 原文: ***Tram Leaves In 10 Seconds*** -> 翻译: ```json
+{
+  "text": "***電車が10秒後に発車します***"
+}
+``` | 目标语言: 日文
+2025-05-07 13:07:03,706 - [OK][ze_solidarity_paper_cs2_l.jsonc] 原文: ***Tram Leaves In 10 Seconds*** -> 翻译: ```json
+{
+  "text": "***트램 출발까지 10초"***
+}
+``` | 目标语言: 韩文
+2025-05-07 13:07:06,054 - [OK][ze_solidarity_paper_cs2_l.jsonc] 原文: ***Tram Leaves In 10 Seconds*** -> 翻译: ```json
+{
+  "text": "***列車即將 departing in 10 seconds***"
+}
+``` | 目标语言: 繁体中文
+2025-05-07 13:07:06,054 - [Skip]: 文件: ze_solidarity_paper_cs2_l.jsonc | 原文: ***Tram Leaves In 5 Seconds*** | 原语言: 英文 | 目标语言: 英文 | 理由: 原文为英语，无需翻译
+2025-05-07 13:07:08,322 - [Fail][ze_solidarity_paper_cs2_l.jsonc] 原文: ***Tram Leaves In 5 Seconds*** | 翻译: ```json
+{
+  "text": "***ترام تترك في 5 ثوانٍ***"
+}
+``` | 目标语言: 日文
+2025-05-07 13:07:09,863 - [OK][ze_solidarity_paper_cs2_l.jsonc] 原文: ***Tram Leaves In 5 Seconds*** -> 翻译: ```json
+{
+  "text": "***電車が5秒後に発車します***"
+}
+``` | 目标语言: 日文
+2025-05-07 13:07:11,991 - [OK][ze_solidarity_paper_cs2_l.jsonc] 原文: ***Tram Leaves In 5 Seconds*** -> 翻译: ```json
+{
+  "text": "***기차 출발까지 5초***"
+}
+``` | 目标语言: 韩文
+2025-05-07 13:07:14,283 - [OK][ze_solidarity_paper_cs2_l.jsonc] 原文: ***Tram Leaves In 5 Seconds*** -> 翻译: ```json
+{
+  "text": "***列車即將 departed in 5 seconds***"
+}
+``` | 目标语言: 繁体中文
+2025-05-07 13:07:14,283 - [Skip]: 文件: ze_solidarity_paper_cs2_l.jsonc | 原文: ***Vent Is Open*** | 原语言: 英文 | 目标语言: 英文 | 理由: 原文为英语，无需翻译
+2025-05-07 13:07:16,297 - [OK][ze_solidarity_paper_cs2_l.jsonc] 原文: ***Vent Is Open*** -> 翻译: ```json
+{
+  "text": "***換気が開放されています***"
+}
+``` | 目标语言: 日文
+2025-05-07 13:07:18,201 - [OK][ze_solidarity_paper_cs2_l.jsonc] 原文: ***Vent Is Open*** -> 翻译: ```json
+{
+  "text": "***환기 가능***"
+}
+``` | 目标语言: 韩文
+2025-05-07 13:07:20,276 - [OK][ze_solidarity_paper_cs2_l.jsonc] 原文: ***Vent Is Open*** -> 翻译: ```json
+{
+  "text": "***通風口開啟***"
+}
+``` | 目标语言: 繁体中文
