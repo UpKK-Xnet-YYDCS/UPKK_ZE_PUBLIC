@@ -38,9 +38,28 @@ MAX_RETRIES = 5
 TIMEOUT_SECONDS = 60
 SIMILARITY_THRESHOLD = 0.88
 LOG_FILE = 'translation_log.txt'  # 日志文件路径
+SHOW_LOGS = False  # 是否显示日志
+DISABLE_FILE_LOG = True  # 是否禁用文件日志
 
 # 设置日志
-logging.basicConfig(filename=LOG_FILE, level=logging.INFO, format='%(asctime)s - %(message)s')
+def setup_logging(show_logs, disable_file_log):
+    # 清除所有已有的日志处理器
+    for handler in logging.root.handlers[:]:
+        logging.root.removeHandler(handler)
+
+    logging_handlers = []
+    if show_logs:
+        console_handler = logging.StreamHandler()
+        console_handler.setLevel(logging.INFO)
+        console_handler.setFormatter(logging.Formatter('%(asctime)s - %(message)s'))
+        logging_handlers.append(console_handler)
+    if not disable_file_log:
+        file_handler = logging.FileHandler(LOG_FILE, encoding="utf-8")  # 指定 UTF-8 编码
+        file_handler.setLevel(logging.INFO)
+        file_handler.setFormatter(logging.Formatter('%(asctime)s - %(message)s'))
+        logging_handlers.append(file_handler)
+
+    logging.basicConfig(level=logging.INFO, handlers=logging_handlers)
 
 # 检测文本是否为正确的语言
 def is_correct_language(text, lang):
@@ -51,15 +70,7 @@ def is_correct_language(text, lang):
         "TW": r'[\u4e00-\u9fff]',  # 繁体中文
         "US": r'[a-zA-Z]'  # 英语
     }
-    pattern = language_patterns.get(lang, "")
-    if not pattern:
-        logging.warning(f"[Warning] 未知的目标语言: {lang}")
-        return False
-
-    match = bool(re.search(pattern, text))
-    if not match:
-        logging.debug(f"[Language Mismatch] 文本: {text} 不符合目标语言: {lang}")
-    return match
+    return bool(re.search(language_patterns.get(lang, ""), text))
 
 # 判断原文是否仅包含符号或数字
 def is_text_symbol_or_number(text):
@@ -67,13 +78,12 @@ def is_text_symbol_or_number(text):
 
 # 判断原文是否是英语
 def is_english(text):
-    # 判断是否只包含英文字母、数字和空格
     return bool(re.match(r'^[a-zA-Z0-9\s\*\_\-\!\@\#\$\%\^\&\(\)\[\]\{\}\,\.\?\:\;\"\'\<\>\\\/\|\+\=]*$', text.strip()))
 
 # 构建翻译提示的函数
 def build_prompt(target_language, original_text):
     original_text = re.sub(r"【.*?】", "", original_text)  # 去除特殊标记
-    prompt = (
+    return (
         f"Translate the following game text into {target_language}.\n"
         f"Rules:\n"
         f"1. If the source text is already in {target_language}, return it as is, without modification.\n"
@@ -85,15 +95,13 @@ def build_prompt(target_language, original_text):
         f"Text:\n{original_text}\n"
         f"Output the translation in JSON format (e.g., {{\"text\": \"<translation>\"}})."
     )
-    return prompt
 
 # 清理文本（移除不需要的字符）
 def sanitize_text(text):
     if not text:
         return ""
     text = re.sub(r'\\(?![ntr"\\/])', '', text)
-    text = ''.join(c for c in text if c >= ' ' or c == '\n')
-    return text.strip()
+    return ''.join(c for c in text if c >= ' ' or c == '\n').strip()
 
 # 计算文本相似度
 def calculate_similarity(text1, text2):
@@ -103,13 +111,11 @@ def calculate_similarity(text1, text2):
     return sequence_matcher.ratio()
 
 # 翻译文本
-def translate_text(original_text, lang_code, filename):
+def translate_text(original_text, lang_code):
     if is_text_symbol_or_number(original_text):
-        logging.info(f"[Skip]: 文件: {filename} | 原文: {original_text} | 目标语言: {LANGUAGE_MAP[lang_code][0]} | 理由: 仅包含符号或数字")
         return None
 
     if lang_code == "US" and is_english(original_text):
-        logging.info(f"[Skip]: 文件: {filename} | 原文: {original_text} | 目标语言: {LANGUAGE_MAP[lang_code][0]} | 理由: 原文为英语，无需翻译")
         return None
 
     _, lang_en_name = LANGUAGE_MAP[lang_code]
@@ -123,22 +129,18 @@ def translate_text(original_text, lang_code, filename):
             result = response.json()
             raw_translation = result.get('response', '').strip()
 
-            # 提取返回结果中的 "text" 字段
             try:
+                raw_translation = re.sub(r'^```json|```$', '', raw_translation.strip(), flags=re.MULTILINE).strip()
                 translation_json = json.loads(raw_translation)
                 translation = translation_json.get("text", "").strip()
             except json.JSONDecodeError:
-                translation = raw_translation  # 如果不是 JSON 格式，则直接使用原结果
+                translation = raw_translation
+                print(f"[ERROR]: | 原文: {original_text} | 目标语言: {LANGUAGE_MAP[lang_code][0]} | 理由: 返回了非标准的JSON")
 
             if is_correct_language(translation, lang_code):
-                logging.info(f"[OK][{filename}] 原文: {original_text} -> 翻译: {translation} | 目标语言: {LANGUAGE_MAP[lang_code][0]}")
                 return sanitize_text(translation)
-            else:
-                logging.error(f"[Fail][{filename}] 原文: {original_text} | 翻译: {translation} | 目标语言: {LANGUAGE_MAP[lang_code][0]}")
-        except Exception as e:
-            logging.error(f"[Error][{filename}] 原文: {original_text} | 错误: {e} | 目标语言: {LANGUAGE_MAP[lang_code][0]}")
-            if attempt < MAX_RETRIES:
-                time.sleep(2)
+        except Exception:
+            time.sleep(2)
     return None
 
 # 处理文件
@@ -148,8 +150,8 @@ def process_file(file_path):
         with open(file_path, 'r', encoding='utf-8') as f:
             data = json.load(f)
     except Exception as e:
-        logging.error(f"打开文件失败: {file_path}, 错误: {e}")
-        return
+        logging.error(f"文件打开失败: {filename}, 错误: {e}")
+        return False
 
     keys = list(data.keys())
     modified = False
@@ -163,16 +165,20 @@ def process_file(file_path):
             original_text = key.strip()
             value = data[key]['MultiLang']
 
+            # 动态更新进度条的描述信息，仅显示当前原文片段
+            pbar.set_description(f"[文件] {filename} | 正在翻译: {original_text[:30]} ...")
+
             for lang_code in LANGUAGE_MAP.keys():
                 if lang_code == "US" and is_english(original_text):
-                    logging.info(f"[Skip]: 文件: {filename} | 原文: {original_text} | 原语言: 英文 | 目标语言: {LANGUAGE_MAP[lang_code][0]} | 理由: 原文为英语，无需翻译")
                     continue
 
                 if not value.get(lang_code):
-                    translated = translate_text(original_text, lang_code, filename)
+                    # 翻译文本
+                    translated = translate_text(original_text, lang_code)
                     if translated and calculate_similarity(original_text, translated) < SIMILARITY_THRESHOLD:
                         value[lang_code] = translated
                         modified = True
+
             pbar.update(1)
 
     if modified:
@@ -180,21 +186,25 @@ def process_file(file_path):
             with open(file_path, 'w', encoding='utf-8') as f:
                 json.dump(data, f, ensure_ascii=False, indent=2)
         except Exception as e:
-            logging.error(f"保存文件失败: {file_path}, 错误: {e}")
+            logging.error(f"文件保存失败: {filename}, 错误: {e}")
+
+    return True
 
 # 主程序
 def main():
-    parser = argparse.ArgumentParser(description="本地批量翻译脚本 (使用 Ollama + Qwen2.5:7B-Instruct)")
+    parser = argparse.ArgumentParser(description="本地批量翻译脚本 (使用 Ollama + Gemma3)")
     parser.add_argument("-f", "--file", type=str, help="指定单个文件进行翻译处理")
     parser.add_argument("-p", "--parallel", type=int, default=1, help="并行处理文件数")
     args = parser.parse_args()
+
+    setup_logging(SHOW_LOGS, DISABLE_FILE_LOG)
 
     if args.file:
         process_file(args.file)
     else:
         files = [os.path.join(DIRECTORY, f) for f in os.listdir(DIRECTORY) if f.endswith('.jsonc')]
         with concurrent.futures.ThreadPoolExecutor(max_workers=args.parallel) as executor:
-            list(tqdm(executor.map(process_file, files), total=len(files), desc="处理所有文件"))
+            list(tqdm(executor.map(process_file, files), total=len(files), desc="Processing all files"))
 
 if __name__ == "__main__":
     main()
