@@ -3,99 +3,99 @@
     "translation": "!!! 僵尸 15 秒后传送 !!!",
     "MultiLang": {
       "US": "",
-      "JP": "(Note: The original text uses \"ZOMBIE\" capitalized, which is preserved as \"ズンビズ\" in Japanese. Also, the double exclamation marks and the number are kept as instructed.)",
+      "JP": "!!! ゾンビが15秒でワープイン！ !!!",
       "CN": "!!! 僵尸 15 秒后传送 !!!",
-      "KR": "!!! 블루지ombies 텔레포트 15초 후 !!!\n\nNote: I have adjusted \"ZOMBIES\" to \"블루지ombies\" as it seems there might be a typo or specific brand name in the original text. If \"ZOMBIES\" is supposed to remain as-is, please let me know and I can adjust accordingly.",
-      "TW": "!!! Zombies 隖移入 15 秒！！！"
+      "KR": "!!! 좀비가 15초 후에 순간이동합니다 !!!",
+      "TW": "!!!殭屍在15秒後出現！！！"
     }
   },
   "!!! ZOMBIES TELEPORT IN 20 SECONDS !!!": {
     "translation": "!!! 僵尸 20 秒后传送 !!!",
     "MultiLang": {
       "US": "",
-      "JP": "!!! ズボムズがテレポーティングに20秒 !!!",
+      "JP": "!!! ゾンビが20秒でテレポーテーションします！！！",
       "CN": "!!! 僵尸 20 秒后传送 !!!",
-      "KR": "!!! 좀비들이 20초 후에 전이 Appears ！！！",
-      "TW": "!!! Zombie 噴射物進來 20 秒 !!!"
+      "KR": "!!! 좀비가 20초 안에 순간이동합니다 !!!",
+      "TW": "!!! 殭屍在20秒內出現！！！"
     }
   },
   "!!! ZOMBIES TELEPORT IN 20 SECONDS, GET OUT OF YOUR DEFENCE SPOT !!!": {
     "translation": "!!! 僵尸 20 秒后传送，快撤退 !!!",
     "MultiLang": {
       "US": "",
-      "JP": "（注意：此处\"teleport\"一词在日语中通常写作「テレポート」或保留英文形式，根据游戏风格选择；原文感叹号保持不变。）",
+      "JP": "!!! ゾンビが20秒でテレポート！防御地点から脱出だ！!!!",
       "CN": "!!! 僵尸 20 秒后传送，快撤退 !!!",
-      "KR": "!!! 블라인드 투게더 타임 20초 후 떼ROID 텔레포트, 방어 위치에서 벗어나세요 !!!",
-      "TW": "!!! Zombie斯瞬移入場，快離開你的防禦位置！！!"
+      "KR": "!!! 좀비가 20초 후에 순간이동합니다! 방어 위치에서 벗어나세요 !!!",
+      "TW": "！！！殭屍在20秒內傳送，逃離你的防禦點！！！"
     }
   },
   ">>> DOOR BREAKS IN 15 SECONDS <<<": {
     "translation": ">>> 门将在 15 秒后被打破 <<<",
     "MultiLang": {
       "US": "",
-      "JP": ">>> ドアが15秒後に破れる <<<",
+      "JP": ">>> ドアが15秒で壊れます <<<",
       "CN": ">>> 门将在 15 秒后被打破 <<<",
-      "KR": ">>> 문이 15초 후에 열린다 <<<",
-      "TW": ">>> 門在15秒後 BREAKS IN <<<"
+      "KR": ">>> 문이 15초 안에 부서집니다 <<<",
+      "TW": ">>> 門會毀壞在15秒內 <<<"
     }
   },
   ">>> DOOR BREAKS IN 20 SECONDS <<<": {
     "translation": ">>> 门将在 20 秒后被打破 <<<",
     "MultiLang": {
       "US": "",
-      "JP": ">>> ドアが20秒で破損 <<<",
+      "JP": ">>> ドアが20秒で破壊される <<<",
       "CN": ">>> 门将在 20 秒后被打破 <<<",
-      "KR": ">>> 문이 20초 후에 깨진다 <<<",
-      "TW": ">>> 門在20秒後破壞 <<<"
+      "KR": ">>> 문이 20초 안에 부서집니다 <<<",
+      "TW": ">>> 門在20秒內損毀 <<<"
     }
   },
   ">>> FINAL DOOR CLOSES IN 20 SECONDS <<<": {
     "translation": ">>> 最后一扇门 20 秒后关闭 <<<",
     "MultiLang": {
       "US": "",
-      "JP": ">>> 最終 Doors 閉鎖 あと 20 秒 <<<",
+      "JP": ">>> 最終扉は20秒で閉鎖されます <<<",
       "CN": ">>> 最后一扇门 20 秒后关闭 <<<",
-      "KR": ">>> 최종 문이 20초 후에 닫힙니다 <<<",
-      "TW": ">>> 最後門關閉於20秒之內 <<<"
+      "KR": ">>> 최종 문이 20초 안에 닫힙니다 <<<",
+      "TW": ">>> 最終門關閉倒數20秒 <<<"
     }
   },
   ">>> FINAL DOOR OPENS IN 30 SECONDS <<<": {
     "translation": ">>> 最后一扇门 30 秒后打开 <<<",
     "MultiLang": {
       "US": "",
-      "JP": ">>> 最終 Doors 開启於 30 秒後 <<<",
+      "JP": ">>> 最終扉が開くまで30秒 <<<",
       "CN": ">>> 最后一扇门 30 秒后打开 <<<",
       "KR": ">>> 최종 문이 30초 후에 열립니다 <<<",
-      "TW": ">>> 最後門開啓於30秒後 <<<"
+      "TW": ">>> 最後一扇門將在30秒後開啟 <<<"
     }
   },
   ">>> GATE CLOSES IN 10 SECONDS <<<": {
     "translation": ">>> 大门 10 秒后关闭 <<<",
     "MultiLang": {
       "US": "",
-      "JP": ">>> ゴテイクローズイン10セカンド <<<",
+      "JP": ">>> ゴールが10秒で閉鎖されます <<<",
       "CN": ">>> 大门 10 秒后关闭 <<<",
-      "KR": ">>> 문이 10 초 후에 닫힙니다 <<<",
-      "TW": ">>> 大門在10秒後關閉 <<<"
+      "KR": ">>> 게이트 닫힘까지 10초 <<<",
+      "TW": ">>> 門在 10 秒後關閉 <<<"
     }
   },
   ">>> GATE OPENS IN 10 SECONDS <<<": {
     "translation": ">>> 大门 10 秒后打开 <<<",
     "MultiLang": {
       "US": "",
-      "JP": ">>> ドアが開くまで10秒 <<<",
+      "JP": ">>>門が開門します（10秒）<<<",
       "CN": ">>> 大门 10 秒后打开 <<<",
-      "KR": ">>> 문이 10 초 후에 열립니다 <<<",
-      "TW": ">>> 大門在10秒後打開 <<<"
+      "KR": ">>> 문이 10초 후에 열립니다 <<<",
+      "TW": ">>> 門打開 10 秒 <<<"
     }
   },
   ">>> GATE OPENS IN 20 SECONDS <<<": {
     "translation": ">>> 大门 20 秒后打开 <<<",
     "MultiLang": {
       "US": "",
-      "JP": ">>> ドアが開きます。20秒後 <<<",
+      "JP": ">>> 門が開門します 20 秒 <<<",
       "CN": ">>> 大门 20 秒后打开 <<<",
-      "KR": ">>> 문이 20초 후에 열립니다 <<<",
+      "KR": ">>> 게이트 오픈 20초 <<<",
       "TW": ">>> 門在20秒後開啟 <<<"
     }
   },
@@ -103,29 +103,29 @@
     "translation": ">>> 大门 20 秒后开始打开 ​​<<<",
     "MultiLang": {
       "US": "",
-      "JP": ">>> ドアが開き始めるまで20秒 <<<",
+      "JP": ">>> 門が開くまでの残り20秒 <<<",
       "CN": ">>> 大门 20 秒后开始打开 ​​<<<",
       "KR": ">>> 문이 20초 후에 열립니다 <<<",
-      "TW": ">>> 閘門將在20秒後開啟 <<<"
+      "TW": ">>> 門正在開啟，倒數 20 秒 <<<"
     }
   },
   ">>> SECOND GATE BREAKS IN 20 SECONDS <<<": {
     "translation": ">>> 第二扇大门 20 秒后被打破 <<<",
     "MultiLang": {
       "US": "",
-      "JP": ">>> 第二ゲート破壊は20秒後 <<<",
+      "JP": ">>> 20秒で第二の門が開く <<<",
       "CN": ">>> 第二扇大门 20 秒后被打破 <<<",
-      "KR": ">>> 두 번째 문이 20초 후에 열립니다 <<<",
-      "TW": ">>> 第2道門在210秒後 BREAKS IN <<<"
+      "KR": ">>> 20초 안에 SECOND GATE가 부서집니다 <<<",
+      "TW": ">>> 第二扇門在 20 秒內崩塌 <<<"
     }
   },
   ">>> SHOOT THE GATE <<<": {
     "translation": ">>> 射击大门 <<<",
     "MultiLang": {
       "US": "",
-      "JP": ">>> ゴールドアを射て <<<",
+      "JP": ">>> 門を射よ <<<",
       "CN": ">>> 射击大门 <<<",
-      "KR": ">>> 문을 발사하세요 <<<",
+      "KR": ">>> 슈트 더 게이트 <<<",
       "TW": ">>> 射門 <<<"
     }
   },
@@ -133,90 +133,90 @@
     "translation": ">>> 存活 40 秒 <<<",
     "MultiLang": {
       "US": "",
-      "JP": ">>> 40秒 survival <<<",
+      "JP": ">>> 40秒 生き残れ <<<",
       "CN": ">>> 存活 40 秒 <<<",
       "KR": ">>> 40초 생존 <<<",
-      "TW": ">>> 準備-survive 40 秒 <<<"
+      "TW": ">>> 生存40秒 <<<"
     }
   },
   ">>> TRIGGER IS IN THE BUILDING <<<": {
     "translation": ">>> 提示：触发开关在建筑物内 3s <<<",
     "MultiLang": {
       "US": "",
-      "JP": ">>> ブリッジ在游戏中触发 <<<",
+      "JP": ">>> トリガーは建物内にあります <<<",
       "CN": ">>> 提示：触发开关在建筑物内 3s <<<",
-      "KR": ">>> 트리거가 건물 안에 있습니다 <<<",
-      "TW": ">>> 装置已啟動 <<<"
+      "KR": ">>> 건물 안에 트리거가 있습니다 <<<",
+      "TW": ">>> 觸發點在建築物內 <<<"
     }
   },
   "DOOR BREAKS IN 25 SECONDS": {
     "translation": "大门将在 25 秒后被打破",
     "MultiLang": {
       "US": "",
-      "JP": "ドアが25秒後に破れる",
+      "JP": "ドアが壊れるまで25秒",
       "CN": "大门将在 25 秒后被打破",
-      "KR": "문이 25초 후에 부reak_in",
-      "TW": "門破壞於25秒後"
+      "KR": "문이 25초 안에 부서집니다",
+      "TW": "門在25秒後會破碎"
     }
   },
   "MAP BY MIDRAN KIDRAN": {
     "translation": "地图作者：MIDRAN KIDRAN 翻译：Ayanami♪",
     "MultiLang": {
       "US": "",
-      "JP": "マップbyミドラン・キドラン",
+      "JP": "",
       "CN": "地图作者：MIDRAN KIDRAN 翻译：Ayanami♪",
-      "KR": "맵 제작자: Midran Kidran",
-      "TW": ""
+      "KR": "맵 제작: MIDRAN KIDRAN",
+      "TW": "地圖由 米德蘭·基德蘭 製作"
     }
   },
   "SOME ASSHOLE OPENED THE OUTER BRIDGES BY PRESSING INVISIBLE BUTTONS": {
     "translation": "有人按下了隐形按钮打开了外桥（有人麦仁！）",
     "MultiLang": {
       "US": "",
-      "JP": "SOME ASSHOLE 隠蔽のボタンを押して外側ブリッジを開いた",
+      "JP": "クソッタレが、見えないボタンを押してアウトサイドブリッジを開けやがった",
       "CN": "有人按下了隐形按钮打开了外桥（有人麦仁！）",
-      "KR": "부스러기 같은애가 비밀버튼을 눌러 외부 다리를 열었음",
-      "TW": "有些王8蛋按了隱藏按鈕開了外橋"
+      "KR": "일련의 멍청이가 보이지 않는 버튼을 눌러 바깥 다리를 열었습니다.",
+      "TW": "一個混蛋用按住隱藏按鈕的方式打開了外橋。"
     }
   },
   "SPECIAL THANKS TO MAPEADORES FOR TESTING": {
     "translation": "特别感谢 MAPEADORES 的测试",
     "MultiLang": {
       "US": "",
-      "JP": "スペシャル感謝をマペアドヤーzに withholding \"s\" in \"マペアドヤー\" as per instruction",
+      "JP": "マペアドーラーの皆様、テストにご協力いただきありがとうございました！",
       "CN": "特别感谢 MAPEADORES 的测试",
-      "KR": "MAPEADORES에 대한 특별 감사의 인사를 전합니다",
-      "TW": "特別感謝MAPEADORES測試"
+      "KR": "MAPEADORES 님들께 특별 감사 드립니다. 테스트에 참여해주셔서 감사합니다!",
+      "TW": "特別感謝 MAPEADORES 的測試"
     }
   },
   "THANKS MAPEADORES FOR TESTING": {
     "translation": "感谢 MAPEADORES 的测试",
     "MultiLang": {
       "US": "",
-      "JP": "マペアドレーズ谢谢测试",
+      "JP": "マペアドラーの皆様、テストにご協力いただきありがとうございました！",
       "CN": "感谢 MAPEADORES 的测试",
-      "KR": "MAPEADORES에게 감사드립니다. 테스트해 주셔서.",
-      "TW": "感謝MAPEADORES測試"
+      "KR": "맵어 도사들에게 테스트에 참여해주셔서 감사합니다!",
+      "TW": "感謝各位玩家進行測試！"
     }
   },
   "ONE PERSON HAS TO TRIGGER IN THE VENT": {
     "translation": "",
     "MultiLang": {
       "US": "",
-      "JP": "一人がVENTでトリガーしなければなりません",
-      "CN": "1人触发通风口",
-      "KR": "한 명이 베이트에서 트리거 해야 합니다.",
-      "TW": "1人須觸發在通风口"
+      "JP": "一人か、通気口内でトリガーを起動しなければならない。",
+      "CN": "一人必须在通风管道中触发",
+      "KR": "한 명이 굴뚝에서 트리거를 해야 합니다.",
+      "TW": "一人必須在通風管道中觸發"
     }
   },
   "!!! ZOMBIES TELEPORT IN 30 SECONDS !!!": {
     "translation": "",
     "MultiLang": {
       "US": "",
-      "JP": "!!! ズブミがテレポーテーション開始まで30秒 !!!",
-      "CN": "!!! 活尸瞬移来袭 30 秒钟 !!!",
-      "KR": "!!! 좀비가 30초 후에 텔레포트 도착 !!!\n\nNote: The term \"텔레포트\" (teleport) is used to maintain the excitement and style of in-game texts, but it may not be a literal translation. In many games, \"텔레포트\" refers specifically to teleportation abilities or events, which could fit well here.",
-      "TW": "!!! 活屍 TELEPORT 在 30 秒後 出現 !!!"
+      "JP": "!!! ゾンビが30秒でテレポートします！",
+      "CN": "!!! 僵尸传送倒计时30秒 !!!",
+      "KR": "!!! 좀비가 30초 안에 순간이동합니다 !!!",
+      "TW": "！！！殭屍在30秒內出現！！！"
     }
   }
 }

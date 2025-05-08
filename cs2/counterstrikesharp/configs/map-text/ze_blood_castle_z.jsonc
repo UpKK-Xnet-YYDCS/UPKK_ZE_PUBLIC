@@ -2,11 +2,11 @@
   "<<BUG反馈请前往Dc频道>>": {
     "translation": "<<BUG反馈请前往Dc频道>>",
     "MultiLang": {
-      "US": "BUG feedback please go to Dc channel",
-      "JP": "<<BUGフィードバックはDcチャンネルへ>>",
+      "US": "<<Bug reports please go to the Dc channel>>",
+      "JP": "<<バグ報告はDcチャンネルへ>>",
       "CN": "<<BUG反馈请前往Dc频道>>",
-      "KR": "<<BUG 피드백은 Dc 채널로>>",
-      "TW": "<<BUG回饋請前往Dc頻道>>"
+      "KR": "<<버그 신고는 Dc 채널로 가세요>>",
+      "TW": "<<BUG回報請前往Dc頻道>>"
     }
   },
   "<<discord.gg/FQntFDYW8U>>": {
@@ -14,7 +14,7 @@
     "MultiLang": {
       "US": "",
       "JP": "",
-      "CN": "",
+      "CN": "<<discord.gg/FQntFDYW8U>>",
       "KR": "",
       "TW": ""
     }
@@ -23,9 +23,9 @@
     "translation": "<<当前版本号码为000>>",
     "MultiLang": {
       "US": "<<Current version number is 000>>",
-      "JP": "<<現在のバージョン番号は000>>",
+      "JP": "<<現在版の番号は000>>",
       "CN": "<<当前版本号码为000>>",
-      "KR": "<<현재 버전 번호는 000>>",
+      "KR": "<<현재 버전 번호는 000입니다>>",
       "TW": "<<當前版本號碼為000>>"
     }
   },
@@ -33,9 +33,9 @@
     "translation": ">> 门将在15秒后打开 <<",
     "MultiLang": {
       "US": "",
-      "JP": ">> ドアは15秒後に開きます <<",
+      "JP": ">> ドアが開きます。15秒 <<",
       "CN": ">> 门将在15秒后打开 <<",
-      "KR": ">> 문은 15초 후에 열립니다 <<",
+      "KR": ">> 15초 후에 문이 열립니다 <<",
       "TW": ">> 門將在15秒後開啟 <<"
     }
   },
@@ -43,20 +43,20 @@
     "translation": ">> 逃脱成功 <<",
     "MultiLang": {
       "US": "",
-      "JP": ">> エスケープ成功 <<",
+      "JP": ">> 脱出成功 <<",
       "CN": ">> 逃脱成功 <<",
       "KR": ">> 탈출 성공 <<",
-      "TW": ">> 逃生成功 <<"
+      "TW": ">> 逃脫成功 <<"
     }
   },
   ">> Hold 12 Seconds <<": {
     "translation": ">> 防守12秒 <<",
     "MultiLang": {
       "US": "",
-      "JP": ">> 12秒間保持 <<",
+      "JP": ">> 12秒保持 <<",
       "CN": ">> 防守12秒 <<",
       "KR": ">> 12초 유지 <<",
-      "TW": ">> 持續12秒 <<"
+      "TW": ">> 保持 12 秒 <<"
     }
   },
   ">> Hold 25 Seconds <<": {
@@ -65,58 +65,58 @@
       "US": "",
       "JP": ">> 25秒間保持 <<",
       "CN": ">> 防守25秒 <<",
-      "KR": ">> 25초 유지 <<",
-      "TW": ">> 持續 25 秒 <<"
+      "KR": ">> 25초 보유 >>",
+      "TW": ">> 保持 25 秒 <<"
     }
   },
   ">> Hold 3 Seconds <<": {
     "translation": ">> 防守3秒 <<",
     "MultiLang": {
       "US": "",
-      "JP": ">> 3秒間ホールド <<",
+      "JP": ">> 3秒保持 <<",
       "CN": ">> 防守3秒 <<",
-      "KR": ">> 3초간 유지 <<",
-      "TW": ">> 持續3秒 <<"
+      "KR": ">> 3초 유지 <<",
+      "TW": ">> 保持 3 秒 <<"
     }
   },
   ">> Hold 5 Seconds <<": {
     "translation": ">> 防守5秒 <<",
     "MultiLang": {
       "US": "",
-      "JP": ">> 5秒間持ち続ける <<",
+      "JP": ">> 5秒保持 <<",
       "CN": ">> 防守5秒 <<",
-      "KR": ">> 5초간 유지 <<",
-      "TW": "【結束翻譯】"
+      "KR": ">> 5초 동안 유지 <<",
+      "TW": ">> 按住 5 秒 <<"
     }
   },
   ">> Map by Hestia <<": {
     "translation": ">> 地图作者：Hestia 翻译：Asteri3m <<",
     "MultiLang": {
       "US": "",
-      "JP": ">> 地図由Hestia绘制 <<",
+      "JP": ">> 地図作成：ヘスティア <<",
       "CN": ">> 地图作者：Hestia 翻译：Asteri3m <<",
-      "KR": ">> 맵 제작자 Hestia <<",
-      "TW": ">> 地圖由Hestia 制作 <<"
+      "KR": ">> 지도 제작: Hestia <<",
+      "TW": ">> 地圖由 Hestia 製作 <<"
     }
   },
   ">> This map is based on CSO ze_bloodcastle <<": {
     "translation": ">> 本地图基于反恐精英Online ze_bloodcastle制作 <<",
     "MultiLang": {
       "US": "",
-      "JP": ">> このマップはCSO ze_bloodcastleに基づいています <<",
+      "JP": ">> このマップは CSO ze_bloodcastle に基づいています <<",
       "CN": ">> 本地图基于反恐精英Online ze_bloodcastle制作 <<",
-      "KR": ">> 이 맵은 CSO ze_bloodcastle 기반입니다 <<",
-      "TW": ">> 這張圖是以CSO ze_bloodcastle為基礎 <<"
+      "KR": ">> 이 맵은 CSO ze_bloodcastle를 기반으로 합니다 <<",
+      "TW": ">> 地圖乃基於 CSO 血堡城堡而製 <<"
     }
   },
   ">> Zombie Escaped <<": {
     "translation": ">> 僵尸已逃脱 <<",
     "MultiLang": {
       "US": "",
-      "JP": ">> ゾンビが脱走 <<",
+      "JP": ">> ゾンビ脱走 <<",
       "CN": ">> 僵尸已逃脱 <<",
-      "KR": ">> 좀비가 도망쳤습니다 <<",
-      "TW": ">> 生還者逃出 <<"
+      "KR": ">> 좀비 탈출 <<",
+      "TW": ">> 殭屍逃脫 <<"
     }
   },
   "<<当前版本号码为001>>": {
@@ -125,8 +125,8 @@
       "US": "<<Current version number is 001>>",
       "JP": "<<現在のバージョン番号は001>>",
       "CN": "",
-      "KR": "<<현재 버전 번호는 001입니다>>&lt;<()>",
-      "TW": "<<當前版本號碼為001>>"
+      "KR": "<<현재 버전 번호는 001입니다>>",
+      "TW": "<<目前版本號碼為001>>"
     }
   },
   "<<discord.gg/eXR7xumCfP>>": {

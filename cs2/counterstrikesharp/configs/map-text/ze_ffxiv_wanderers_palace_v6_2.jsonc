@@ -2,11 +2,11 @@
   "!aimer": {
     "translation": "歌手：Aimer",
     "MultiLang": {
-      "US": "!Aimer",
-      "JP": "!ライナー",
+      "US": "",
+      "JP": "",
       "CN": "歌手：Aimer",
-      "KR": "!격수",
-      "TW": "!瞄準器"
+      "KR": "!에메르",
+      "TW": "!愛慕"
     }
   },
   "!daniel": {
@@ -23,320 +23,320 @@
     "translation": "- 一名玩家获得了梦境破坏者 -",
     "MultiLang": {
       "US": "",
-      "JP": "--- プレイヤーがDream Breakerを獲得しました ---",
+      "JP": "プレイヤーが「夢の破壊者」を手に入れた -",
       "CN": "- 一名玩家获得了梦境破坏者 -",
-      "KR": "- 플레이어가 드림 브레이커를 획득했습니다 -",
-      "TW": "- 1位玩家獲得Dream Breaker -"
+      "KR": "플레이어가 드림 브레이커를 획득했습니다.",
+      "TW": "玩家已獲得：夢之破滅"
     }
   },
   "- Dream Fall -": {
     "translation": "- 梦之坠落 -",
     "MultiLang": {
       "US": "",
-      "JP": "--- ドリーム・フェイ Fallen Dreams ---",
+      "JP": "- 夢の崩れ -",
       "CN": "- 梦之坠落 -",
-      "KR": "4. 번역 오류나 과도한 번역은 작업 실패视图模式",
-      "TW": "夢落 -"
+      "KR": "- 드림 폴 (Dream Fall) -",
+      "TW": "- 夢境墜落 -"
     }
   },
   "- Dream Weaving - Aether -": {
     "translation": "- 织梦者 - 以太 -",
     "MultiLang": {
-      "US": "- Dreamweaver - Aether -",
-      "JP": "夢織り - アイザー -",
+      "US": "",
+      "JP": "- 夢の紡ぎ - エーテル -",
       "CN": "- 织梦者 - 以太 -",
-      "KR": "드림 웨빙 - 에테르 -",
-      "TW": "夢織 - 藍幕 -"
+      "KR": "- 드림 위빙 - 에테르 -",
+      "TW": "- 夢境編織 - 埃特 -"
     }
   },
   "- Dream Weaving - Boss Health Add -": {
     "translation": "- 织梦者 - Boss生命值增加 -",
     "MultiLang": {
       "US": "",
-      "JP": "夢紡き - ボスHP追加 -",
+      "JP": "- 夢の紡ぎ - ボスHP追加 -",
       "CN": "- 织梦者 - Boss生命值增加 -",
-      "KR": "- 꾀어내는  - 보스 체력 추가 -",
-      "TW": "- 梦織 - BOSS血量加成 -"
+      "KR": "- 꿈결 직조 - 보스 체력 추가 -",
+      "TW": "- 夢境編織 - 巨魔血量增加 -"
     }
   },
   "- Dream Weaving - Boss Health Subtract -": {
     "translation": "- 织梦者 - Boss生命值减少 -",
     "MultiLang": {
       "US": "",
-      "JP": "- ジュエ dreaming - ボスHP減少 -",
+      "JP": "- 夢の紡ぎ - ボスHP減 -",
       "CN": "- 织梦者 - Boss生命值减少 -",
-      "KR": "- 꿈紡김 - 보스 체력 감소 -",
-      "TW": "- 綢夢 - BOSS血量減除 -"
+      "KR": "- 꿈결 직조 - 보스 체력 감소 -",
+      "TW": "- 夢境編織 - 巨魔生命值扣除 -"
     }
   },
   "- Dream Weaving - Burn -": {
     "translation": "- 织梦者 - 烧灼 -",
     "MultiLang": {
       "US": "",
-      "JP": "- ジェイムスウィービング - バーン -",
+      "JP": "- 夢の紡ぎ - 燃焼 -",
       "CN": "- 织梦者 - 烧灼 -",
-      "KR": "- 꿈설계 - 태우기 -",
-      "TW": "夢織 - 燒烧 -"
+      "KR": "- 꿈결 직조 - 불태움 -",
+      "TW": "- 夢境編織 - 焚燒 -"
     }
   },
   "- Dream Weaving - Control -": {
     "translation": "- 织梦者 - 控制 -",
     "MultiLang": {
-      "US": "- Dream Weaver - Control -",
-      "JP": "- 梦纺 - 控制 -",
+      "US": "",
+      "JP": "- 夢の紡ぎ - 制御 -",
       "CN": "- 织梦者 - 控制 -",
-      "KR": "绝对수면 - 제어 -",
-      "TW": "- 梦織 - 控制 -"
+      "KR": "- 꿈 짜기 - 제어 -",
+      "TW": "- 夢境編織 - 控制 -"
     }
   },
   "- Dream Weaving - Cure -": {
     "translation": "- 织梦者 - 治愈 -",
     "MultiLang": {
       "US": "",
-      "JP": "- シュメール - ティール -",
+      "JP": "- 夢紡ぎ - 癒し -",
       "CN": "- 织梦者 - 治愈 -",
-      "KR": "- 꿈紡기 - 치료 -",
-      "TW": "- 梦織 - 治愈 -"
+      "KR": "- 꿈결 치유 -",
+      "TW": "- 夢境編織 - 治療 -"
     }
   },
   "- Dream Weaving - Damage -": {
     "translation": "- 织梦者 - 伤害 -",
     "MultiLang": {
       "US": "",
-      "JP": "- 梦纺 - ダメージ -",
+      "JP": "夢の紡ぎ -  DAMAGE -",
       "CN": "- 织梦者 - 伤害 -",
-      "KR": "- 꿈심고 - 피해 -",
-      "TW": "- 梦織 - 損傷 -"
+      "KR": "- 꿈결 직조 - 피해 -",
+      "TW": "- 夢境編織 - 傷害 -"
     }
   },
   "- Dream Weaving - Lost -": {
     "translation": "- 织梦者 - 遗失 -",
     "MultiLang": {
       "US": "",
-      "JP": "- シュートウィーヴィング - ロスト -",
+      "JP": "- 夢の紡ぎ - 失われた -",
       "CN": "- 织梦者 - 遗失 -",
-      "KR": "드림 웨이브 - 잃어버린 -",
-      "TW": "-夢織-迷失-"
+      "KR": "- 꿈의 짜임 - 잃어버린 -",
+      "TW": "- 夢境編織 - 遺失 -"
     }
   },
   "- Dream Weaving - Low Gravity -": {
     "translation": "- 织梦者 - 低重力 -",
     "MultiLang": {
       "US": "",
-      "JP": "デュームウィーヴィング - 低重力 -",
+      "JP": "- 夢の紡ぎ - 低重力 -",
       "CN": "- 织梦者 - 低重力 -",
-      "KR": "드림 위빙 - 낮은 중력 -",
-      "TW": "夢織 - 低重力 -"
+      "KR": "- 꿈결 직조 - 저중력 -",
+      "TW": "- 夢境編織 - 低重力 -"
     }
   },
   "- Dream Weaving - Protect -": {
     "translation": "- 织梦者 - 保护 -",
     "MultiLang": {
       "US": "",
-      "JP": "- 缢夢織 - 保護 -",
+      "JP": "- 夢の紡ぎ - 防御 -",
       "CN": "- 织梦者 - 保护 -",
-      "KR": "- 꿈mspinning - 보호 -",
-      "TW": "- 梦紡 - 保護 -"
+      "KR": "- 꿈결 수놓기 - 방어 -",
+      "TW": "- 夢境編織 - 防禦 -"
     }
   },
   "- Dream Weaving - Rage -": {
     "translation": "- 织梦者 - 狂暴 -",
     "MultiLang": {
-      "US": "- Dream Weaving - Fury -",
-      "JP": "夢織り - 愤怒 -",
+      "US": "",
+      "JP": "- 夢の紡ぎ - 怒り -",
       "CN": "- 织梦者 - 狂暴 -",
-      "KR": "- 꿈직그리기 - 분노 -",
-      "TW": "- 梦織 - 怒火 -"
+      "KR": "- 꿈결 직조 - 분노 -",
+      "TW": "- 夢境編織 - 憤怒 -"
     }
   },
   "- Dream Weaving - Slow -": {
     "translation": "- 织梦者 - 减速 -",
     "MultiLang": {
-      "US": "- Dream Weaver - Slow -",
-      "JP": "- 缢夢者 - 慢 -",
+      "US": "",
+      "JP": "- 夢の紡ぎ - 遅い -",
       "CN": "- 织梦者 - 减速 -",
-      "KR": "- 꿈설계 - 느린 속도 -",
-      "TW": "- 梦織 - 缓慢 -"
+      "KR": "- 꿈의 직조 - 느림 -",
+      "TW": "- 夢境編織 - 緩慢 -"
     }
   },
   "- Dream Weaving - Strengthen Buff -": {
     "translation": "- 织梦者 - 增强buff -",
     "MultiLang": {
       "US": "",
-      "JP": "- ジェイムスウィービング - 強化バフ -",
+      "JP": "- 夢の紡ぎ - バフ強化 -",
       "CN": "- 织梦者 - 增强buff -",
-      "KR": "- 꿈cht단 - 강화 버프 -",
-      "TW": "- 梦織 - 加強 BUFF -"
+      "KR": "- 꿈결 직조 - 버프 강화 -",
+      "TW": "- 夢境編織 - 強化效果 -"
     }
   },
   "- Dream Weaving - Strengthen Debuff -": {
     "translation": "- 织梦者 - 增强debuff -",
     "MultiLang": {
       "US": "",
-      "JP": "夢紡き - 傷害削弱 -",
+      "JP": "- 夢の紡ぎ - 弱体強化 -",
       "CN": "- 织梦者 - 增强debuff -",
-      "KR": "드림 원위빙 - 강화 감소상태 -",
-      "TW": "-夢織 - 加強減益 -"
+      "KR": "- 꿈결 직조 - 디버프 강화 -",
+      "TW": "- 夢境編織 - 削弱強化 -"
     }
   },
   "- Dream Weaving - Summon -": {
     "translation": "- 织梦者 - 召唤 -",
     "MultiLang": {
-      "US": "- Dreamweaver - Summon -",
-      "JP": "- 梦纺 - 召唤 -",
+      "US": "",
+      "JP": "- 夢紡ぎ - 召喚 -",
       "CN": "- 织梦者 - 召唤 -",
-      "KR": "꿈조각 짜기 -召唤-",
-      "TW": "- 梦織 - 召喚 -"
+      "KR": "- 꿈결 수놓기 - 소환 -",
+      "TW": "- 夢境編織 - 召喚 -"
     }
   },
   "- Dream Weaving - Teleporter -": {
     "translation": "- 织梦者 - 传送门 -",
     "MultiLang": {
       "US": "",
-      "JP": "- 梦紡ぎ - 選択装置 -",
+      "JP": "- 夢の紡ぎ - テレポーター -",
       "CN": "- 织梦者 - 传送门 -",
-      "KR": "【시작 번역】",
-      "TW": "組件織者 - 輸送門 -"
+      "KR": "- 꿈결 직조 - 순간이동 장치 -",
+      "TW": "- 夢境編織 - 傳送門 -"
     }
   },
   "- Dreamland Journey -": {
     "translation": "- 梦境之旅 -",
     "MultiLang": {
       "US": "",
-      "JP": "- ドリーミランジェンニ查看详情 -",
+      "JP": "- ドリームランド・ジャーニー -",
       "CN": "- 梦境之旅 -",
-      "KR": "드림랜드 여행 -",
-      "TW": "- 梦幻之旅 -"
+      "KR": "- 드림랜드 여정 -",
+      "TW": "- 夢幻之旅 -"
     }
   },
   "- Dreamless -": {
     "translation": "- 无梦之夜 -",
     "MultiLang": {
       "US": "",
-      "JP": "- ドリームレス -",
+      "JP": "- 夢よけ -",
       "CN": "- 无梦之夜 -",
-      "KR": "- 꿈 없는 -",
-      "TW": "- 憐夢 -"
+      "KR": "- 꿈결 속에 -",
+      "TW": "- 夢境一片空白 -"
     }
   },
   "- Dreamless - The dream is broken -": {
     "translation": "- 无梦之夜 - 梦已破碎 -",
     "MultiLang": {
       "US": "",
-      "JP": "夢なき - 夢は破られた -",
+      "JP": "-夢の中 - 夢は途切れる -",
       "CN": "- 无梦之夜 - 梦已破碎 -",
-      "KR": "- 꿈 없는 밤 - 이 깨짐 -",
-      "TW": "- 夢無痕 - 梦已碎 -"
+      "KR": "- 꿈결의 파편 - 꿈은 깨졌다 -",
+      "TW": "- 夢境破碎 - 夢境已破 -"
     }
   },
   "- Dreamless - The dream will continue to weave -": {
     "translation": "- 无梦之夜 - 梦将继续交织 -",
     "MultiLang": {
       "US": "",
-      "JP": "- ドリームレス - 夢は紡がれ続け2 -",
+      "JP": "-夢の中- 夢は紡ぎ続ける -",
       "CN": "- 无梦之夜 - 梦将继续交织 -",
-      "KR": "- 꿈 없는 밤 - 꿈은 계속編織下去 -",
-      "TW": "無夢 - 梦魘將會繼續綴織 -"
+      "KR": "- 꿈결 - 꿈은 계속 얽히겠지 -",
+      "TW": "- 夢境無痕 - 夢境將繼續交織 -"
     }
   },
   "- End of weaving - Dreamland reappearance -": {
     "translation": "- 交织结束 - 梦境再现 -",
     "MultiLang": {
       "US": "",
-      "JP": "-織り終え -ドリームランド再現 -",
+      "JP": "- 紡がれし終焉 - ドリームランドの再臨 -",
       "CN": "- 交织结束 - 梦境再现 -",
-      "KR": "- 실버워프 완료 - 드림랜드 재등장 -",
-      "TW": "[- 絮 woven - 梦幻 land再现 -]"
+      "KR": "- 직조 완료 - 드림랜드의 귀환 -",
+      "TW": "- 織物結束 - 夢境再現 -"
     }
   },
   "- End of weaving - Dreamland vanishes -": {
     "translation": "- 交织结束 - 梦境消失 -",
     "MultiLang": {
       "US": "",
-      "JP": "- 網を切る - 夢の大地が消える -",
+      "JP": "- 紡がれ終えた - ドリームランドは消滅する -",
       "CN": "- 交织结束 - 梦境消失 -",
-      "KR": "- 실버워프 끝 - 드림랜드 사라짐 -",
-      "TW": "- 织繍結束 - 梦境消散 -"
+      "KR": "- 직조 완료 - 드림랜드 소멸 -",
+      "TW": "- 織物結束 - 夢境消逝 -"
     }
   },
   "- Memory confusion between dreams and reality -": {
     "translation": "- 梦境与现实的记忆交错 -",
     "MultiLang": {
       "US": "",
-      "JP": "記憶の混乱　夢と現実之间 -",
+      "JP": "-夢と現実の混乱 -",
       "CN": "- 梦境与现实的记忆交错 -",
-      "KR": "- 꿈과 현실 사이의 기억 혼동 -",
-      "TW": "- 梦與Reality的記憶混淆 -"
+      "KR": "- 꿈과 현실 사이의 기억 혼란 -",
+      "TW": "- 夢境與現實的混淆 -"
     }
   },
   "- Nightmare -": {
     "translation": "- 噩梦 -",
     "MultiLang": {
       "US": "",
-      "JP": "- 夜mares -",
+      "JP": "-悪夢 -",
       "CN": "- 噩梦 -",
       "KR": "- 악몽 -",
-      "TW": "- 魚夢 -"
+      "TW": "- 噩夢 -"
     }
   },
   "- Sing - Dream Breaker -": {
     "translation": "- 咏唱 - 梦境破坏者 -",
     "MultiLang": {
       "US": "",
-      "JP": "- 歌う - 夢破壊者 -",
+      "JP": "歌う - 夢を砕く者 -",
       "CN": "- 咏唱 - 梦境破坏者 -",
-      "KR": "- 노래 - 꿈 깨부수자 -",
-      "TW": "- 唱 - 醜夢破壞者 -"
+      "KR": "- 노래 - 꿈파괴자 -",
+      "TW": "- 歌 - 夢碎者 -"
     }
   },
   "- Sweet Dream -": {
     "translation": "- 甜蜜梦境 -",
     "MultiLang": {
       "US": "",
-      "JP": "- 甘い夢 -",
+      "JP": "- 素敵な夢 -",
       "CN": "- 甜蜜梦境 -",
       "KR": "- 달콤한 꿈 -",
-      "TW": "- 甜夢 -"
+      "TW": "- 甜蜜的夢鄉 -"
     }
   },
   "- Sweet dreams are always the best -": {
     "translation": "- 甜蜜的梦总是最美好的 -",
     "MultiLang": {
       "US": "",
-      "JP": "－甘い夢はいつも最高 -",
+      "JP": "- 素敵な夢が見られますように -",
       "CN": "- 甜蜜的梦总是最美好的 -",
-      "KR": "- 달콤한 꿈은 항상 최고 -",
-      "TW": "甜夢總是最好的 -"
+      "KR": "- 달콤한 꿈은 언제나 최고야 -",
+      "TW": "- 甜蜜的夢總是最好的 -"
     }
   },
   "- The dream has been changed -": {
     "translation": "- 梦已改变 -",
     "MultiLang": {
       "US": "",
-      "JP": "夢は変更されました -",
+      "JP": "- 夢が変更されました -",
       "CN": "- 梦已改变 -",
       "KR": "- 꿈이 바뀌었습니다 -",
-      "TW": "夢已更改 -"
+      "TW": "- 夢境已變 -"
     }
   },
   "- The nightmare continues -": {
     "translation": "- 噩梦继续 -",
     "MultiLang": {
       "US": "",
-      "JP": "悪夢は続く -",
+      "JP": "-悪夢は続く -",
       "CN": "- 噩梦继续 -",
-      "KR": "지난 광경이 계속됩니다 -",
-      "TW": "噩夢持續 -"
+      "KR": "- 악몽은 계속된다 -",
+      "TW": "- 噩夢仍在繼續 -"
     }
   },
   "- You did not break anything -": {
     "translation": "- 你没有做到任何事 -",
     "MultiLang": {
       "US": "",
-      "JP": "- 何も壊してないよ -",
+      "JP": "- 何も壊しませんでした -",
       "CN": "- 你没有做到任何事 -",
-      "KR": "-ething을 깨지 않았어요 -",
-      "TW": "您沒有弄壞任何東西 -"
+      "KR": "물건 하나도 망치지 않았네 -",
+      "TW": "- 你沒弄壞任何東西 -"
     }
   },
   "...": {
@@ -344,529 +344,529 @@
     "MultiLang": {
       "US": "",
       "JP": "",
-      "CN": "",
+      "CN": "...",
       "KR": "",
-      "TW": "【開始翻譯】"
+      "TW": ""
     }
   },
   "< ??? is no longer sealed! >": {
     "translation": "< 镇魂之地不再被封印！ >",
     "MultiLang": {
       "US": "",
-      "JP": "< ??? は封じ込められなくなった！>",
+      "JP": "< ??? はもはや封印されていません！>",
       "CN": "< 镇魂之地不再被封印！ >",
       "KR": "< ???는 더 이상 봉인되지 않았다! >",
-      "TW": "< ????? 為止不再封鎖！ >"
+      "TW": "< ??? 已不再被封印！>"
     }
   },
   "< ??? is sealed off! >": {
     "translation": "< 镇魂之地已被封锁！ >",
     "MultiLang": {
       "US": "",
-      "JP": "< ???は封鎖されました！>",
+      "JP": "< ??? が封印された！>",
       "CN": "< 镇魂之地已被封锁！ >",
-      "KR": "< ???는 격리되었습니다! >",
-      "TW": "< ???被封印！>"
+      "KR": "< ??? 가 봉쇄되었습니다! >",
+      "TW": "< ??? 已被封印！>"
     }
   },
   "< ??? will be sealed off in 15 seconds! >": {
     "translation": "< 镇魂之地将在15秒内被封锁！ >",
     "MultiLang": {
       "US": "",
-      "JP": "< 15秒後に???は封鎖される！ >",
+      "JP": "< ??? が 15 秒で封印されます！>",
       "CN": "< 镇魂之地将在15秒内被封锁！ >",
-      "KR": "< ???: 15초 후에 격리됩니다! >",
-      "TW": "[絕對在15秒後封鎖???！]"
+      "KR": "< ??? 는 15초 후에 봉쇄됩니다! >",
+      "TW": "< ??? 將於 15 秒後被封印！>"
     }
   },
   "< A Player has acquired Apex Arrow >": {
     "translation": "< 一名玩家获得了绝峰箭 >",
     "MultiLang": {
       "US": "",
-      "JP": "プレイヤーがアックスアローを獲得しました >",
+      "JP": "プレイヤーがアペックス・アローを入手しました >",
       "CN": "< 一名玩家获得了绝峰箭 >",
-      "KR": "< 플레이어가 Apex Arrow을 획득했습니다 >",
-      "TW": "1玩家獲得極限箭矢"
+      "KR": "< 플레이어가 에픽 화살을 획득했습니다 >",
+      "TW": "一名玩家獲得了標刺箭 >"
     }
   },
   "< A Player has acquired Blizzard III >": {
     "translation": "< 一名玩家获得了冰 III >",
     "MultiLang": {
       "US": "",
-      "JP": "プレイヤーがBlizzard IIIを取得しました >",
+      "JP": "<プレイヤーがブリザードIIIを入手しました>",
       "CN": "< 一名玩家获得了冰 III >",
-      "KR": "< 플레이어가 블리자드 III을 획득했습니다 >",
-      "TW": "1玩家獲得Blizzard III"
+      "KR": "<플레이어가 블리자드 III를 획득했습니다>",
+      "TW": "<玩家已獲得暴風 III>"
     }
   },
   "< A Player has acquired Gravity >": {
     "translation": "< 一名玩家获得了重力 >",
     "MultiLang": {
       "US": "",
-      "JP": "プレイヤーが重力を得た＞",
+      "JP": "プレイヤーが重力を獲得しました",
       "CN": "< 一名玩家获得了重力 >",
-      "KR": "<플레이어가 중력을 얻었습니다 >",
-      "TW": "1個玩家獲得重力"
+      "KR": "플레이어가 중력을 획득했습니다.",
+      "TW": "玩家已獲得重力"
     }
   },
   "< A Player has acquired Heal >": {
     "translation": "< 一名玩家获得了治疗 >",
     "MultiLang": {
       "US": "",
-      "JP": "プレイヤーがヒールを獲得しました >>",
+      "JP": "プレイヤーがヒールを手に入れた",
       "CN": "< 一名玩家获得了治疗 >",
-      "KR": "<플레이어가 치유를 획득했습니다>",
-      "TW": "1個玩家獲得 Heal"
+      "KR": "플레이어가 치유를 획득했습니다.",
+      "TW": "玩家已獲得治療"
     }
   },
   "< A Player has acquired Heart of Light >": {
     "translation": "< 一名玩家获得了光之心 >",
     "MultiLang": {
       "US": "",
-      "JP": "＜プレイヤーが光之心を獲得しました＞",
+      "JP": "<プレイヤーが光の心を手に入れた>",
       "CN": "< 一名玩家获得了光之心 >",
-      "KR": "<플레이어가 빛的心脏 获取>",
-      "TW": "<1名玩家獲得光明之心>"
+      "KR": "<플레이어가 빛의 심장을 얻었습니다>",
+      "TW": "<玩家獲得了光明之心>"
     }
   },
   "< A Player has acquired Ley Lines >": {
     "translation": "< 一名玩家获得了黑魔纹 >",
     "MultiLang": {
       "US": "",
-      "JP": "プレイヤーがレイラインズを取得しました >",
+      "JP": "<プレイヤーがレイルラインを入手しました>",
       "CN": "< 一名玩家获得了黑魔纹 >",
-      "KR": "<플레이어가 레이 리라인을 획득했습니다>",
-      "TW": "1玩家獲得 ley lines"
+      "KR": "< 플레이어가 레이라인을 습득했습니다 >",
+      "TW": "玩家已獲得 路線"
     }
   },
   "< A Player has acquired Ricochet >": {
     "translation": "< 一名玩家获得了弹射 >",
     "MultiLang": {
       "US": "",
-      "JP": "<< プレイヤーがリコ介绍一下切获取 >>",
+      "JP": "<プレイヤーがリコシェットを手に入れた>",
       "CN": "< 一名玩家获得了弹射 >",
-      "KR": "<플레이어가 리코저를 획득했습니다>",
-      "TW": "1玩家取得瑞奇態>"
+      "KR": "<플레이어가 리코쳇을 획득했습니다>",
+      "TW": "<玩家已獲得Ricochet>"
     }
   },
   "< A Player has acquired Summon Bahamut - Blizzaga >": {
     "translation": "< 一名玩家获得了召唤巴哈姆特 - 冰封术 >",
     "MultiLang": {
       "US": "",
-      "JP": "プレイヤーがコマンドバハムート - ブリザガを獲得しました",
+      "JP": "プレイヤーがバハムート - ブリザガを習得しました",
       "CN": "< 一名玩家获得了召唤巴哈姆特 - 冰封术 >",
-      "KR": "< 플레이어가 소환수 바하무트 - 블리자간을 획득하였습니다 >",
-      "TW": "1玩家獲得召喚巴哈姆特 - 冰風暴"
+      "KR": "플레이어가 바하뭇 - 블리자가를 습득했습니다.",
+      "TW": "玩家已獲得：冰雪霸魔 - 冰雪霸魔"
     }
   },
   "< A Player has acquired Summon Bahamut - Firaga >": {
     "translation": "< 一名玩家获得了召唤巴哈姆特 - 龙炎术 >",
     "MultiLang": {
       "US": "",
-      "JP": "<プレイヤーがシュムーン バハムート - フィラガを獲得しました>",
+      "JP": "プレイヤーが召喚・バハムート - フィラガを手に入れた",
       "CN": "< 一名玩家获得了召唤巴哈姆特 - 龙炎术 >",
-      "KR": "<플레이어가 소환수 바하무트 - 피라가를 획득하였습니다>",
-      "TW": "1玩家獲得召喚獸 - 菲迦"
+      "KR": "플레이어가 바알못 - 피라가를 소환했습니다.",
+      "TW": "玩家已獲得 - 菲烏加 (Firaga)"
     }
   },
   "< A Player has acquired Summon Bahamut - Thundaga >": {
     "translation": "< 一名玩家获得了召唤巴哈姆特 - 轰雷术 >",
     "MultiLang": {
       "US": "",
-      "JP": "<< プレイヤーがサモン・バハムート - ストゥンダガ を獲得しました >>",
+      "JP": "プレイヤーがバハムート - サンドガを習得しました",
       "CN": "< 一名玩家获得了召唤巴哈姆特 - 轰雷术 >",
-      "KR": "<플레이어가 소환뱀무트 - 번다가를 획득했습니다>",
-      "TW": "<1玩家獲得召喚巴哈姆特-Thundera >"
+      "KR": "플레이어가 썬더가와 바알마트를 소환했습니다.",
+      "TW": "玩家已獲得： summoned 霸馬突 - 閃電歌"
     }
   },
   "< A Player has acquired Thunder IV >": {
     "translation": "< 一名玩家获得了雷电 IV >",
     "MultiLang": {
       "US": "",
-      "JP": "＜プレイヤーがサンダーIVを獲得しました＞",
+      "JP": "<プレイヤーがサンダーIVを入手しました>",
       "CN": "< 一名玩家获得了雷电 IV >",
-      "KR": "< 플레이어가 번개 IV를 획득했습니다 >",
-      "TW": "1玩家已獲得雷電 IV"
+      "KR": "< 플레이어는 천둥 IV를 획득했습니다. >",
+      "TW": "<一個玩家獲得了雷霆IV>"
     }
   },
   "< A hidden door slides open! >": {
     "translation": "< 一扇隐藏的门悄声无息的打开了！ >",
     "MultiLang": {
       "US": "",
-      "JP": "隠された扉が滑って開く！",
+      "JP": "<隠された扉が開く！>",
       "CN": "< 一扇隐藏的门悄声无息的打开了！ >",
-      "KR": "< 숨겨진 문이 슬라이드로 열린다! >",
-      "TW": "<1扇隱藏的門滑開了！>"
+      "KR": "< 숨겨진 문이 열립니다! >",
+      "TW": "<一扇隱藏的門滑開了！>"
     }
   },
   "< All Nymian Devices have been pressed >": {
     "translation": "< 尼姆装置已全部激活,大门将在24秒后打开! >",
     "MultiLang": {
       "US": "",
-      "JP": "<全てのニミアンデバイスが押された>",
+      "JP": "<すべてのニミア装置が圧力を加えられた>",
       "CN": "< 尼姆装置已全部激活,大门将在24秒后打开! >",
-      "KR": "< 모든 니미안 장치들이 눌렸습니다 >",
-      "TW": "<< 所有尼米安裝置已按下 >>"
+      "KR": "<모든 님ಿಯನ್ 장치들이 압축되었습니다>",
+      "TW": "<所有尼米亞裝置已激活>"
     }
   },
   "< Congratulations! - You won Easy Mode >": {
     "translation": "< 恭喜！ - 你赢得了简单模式 >",
     "MultiLang": {
       "US": "",
-      "JP": "< おめでとう！- エイジーモードで勝利しました >",
+      "JP": "おめでとう！ - エイジモードでクリアしました",
       "CN": "< 恭喜！ - 你赢得了简单模式 >",
-      "KR": "<축하합니다! - 쉬운 모드에서 승리하였습니다>",
-      "TW": "<恭喜！- 你已輕鬆模式獲勝>"
+      "KR": "<축하합니다! - 쉬운 모드에서 승리했습니다>",
+      "TW": "<恭喜！- 你已通過簡單模式>"
     }
   },
   "< Congratulations! - You won Extreme Mode >": {
     "translation": "< 恭喜！ - 你赢得了极限模式 >",
     "MultiLang": {
       "US": "",
-      "JP": "Congratulation! - あなたは極限モードで勝利しました >",
+      "JP": "<おめでとう！ - エクストリームモードをクリアしました>",
       "CN": "< 恭喜！ - 你赢得了极限模式 >",
-      "KR": "< 축하합니다! - 극限모드에서 승리했습니다 >",
-      "TW": "<恭喜！- 你贏了極限模式 >"
+      "KR": "🎉 축하합니다! - 극강 모드에서 승리했습니다 🎉",
+      "TW": "<恭喜！- 你已通關極限模式>"
     }
   },
   "< Congratulations! - You won Hard Mode >": {
     "translation": "< 恭喜！ - 你赢得了困难模式 >",
     "MultiLang": {
       "US": "",
-      "JP": "Congratulations! - ハードモードで勝利しました >",
+      "JP": "<おめでとう！ - ハードモードをクリアしました>",
       "CN": "< 恭喜！ - 你赢得了困难模式 >",
-      "KR": "축하합니다! - 하드 모드에서 승리하였습니다",
-      "TW": "<恭喜！- 你征服了難mode >"
+      "KR": "<축하합니다! - 하드 모드에서 승리했습니다>",
+      "TW": "<恭喜！- 你已通關困難模式>"
     }
   },
   "< Congratulations! - You won Normal Mode >": {
     "translation": "< 恭喜！ - 你赢得了普通模式 >",
     "MultiLang": {
       "US": "",
-      "JP": "Congratulations! - 通常モードで勝利",
+      "JP": "<おめでとう！ - ノーマルモードで勝利しました>",
       "CN": "< 恭喜！ - 你赢得了普通模式 >",
-      "KR": "축하합니다! - 정상 모드에서 승리하였습니다",
-      "TW": "<恭喜！- 你已_normal模式胜利>"
+      "KR": "축하합니다! - 정상 모드에서 승리했습니다.",
+      "TW": "<恭喜！- 你已通關普通模式>"
     }
   },
   "< Defend until the gates open! >": {
     "translation": "< 防守直到大门打开！ >",
     "MultiLang": {
       "US": "",
-      "JP": "防衛し CONTINUE直到門開啓！",
+      "JP": "<門が開くまで防衛を！>",
       "CN": "< 防守直到大门打开！ >",
-      "KR": "< 문이 열릴 때까지 방어하세요! >",
-      "TW": "守住直到城門開啟！"
+      "KR": "< 게이트가 열릴 때까지 방어하세요! >",
+      "TW": "< 防禦直到門打開！>"
     }
   },
   "< Easy Mode >": {
     "translation": "< 简单模式 >",
     "MultiLang": {
       "US": "",
-      "JP": "< イージー モード >",
+      "JP": "<モード EASY>",
       "CN": "< 简单模式 >",
-      "KR": "< 쉽게 설정 >>",
-      "TW": "<簡單模式>"
+      "KR": "< 쉬운 모드 >",
+      "TW": "< 簡單模式 >"
     }
   },
   "< Extreme Mode >": {
     "translation": "< 极限模式 >",
     "MultiLang": {
       "US": "",
-      "JP": "< 极限模式 >",
+      "JP": "<モード極> (モードゴク)",
       "CN": "< 极限模式 >",
-      "KR": "< 극한 모드 >",
-      "TW": "<極限模式 >"
+      "KR": "< 모드: 극강 >",
+      "TW": "< 極端模式 >"
     }
   },
   "< Hard Mode >": {
     "translation": "< 困难模式 >",
     "MultiLang": {
       "US": "",
-      "JP": "ハードモード",
+      "JP": "<ハードモード>",
       "CN": "< 困难模式 >",
-      "KR": "",
-      "TW": "<硬模式>"
+      "KR": "< 어려움 모드 >",
+      "TW": "<困難模式>"
     }
   },
   "< KILL THE REMAINING ZOMBIES >": {
     "translation": "< 杀死剩余的僵尸 >",
     "MultiLang": {
       "US": "",
-      "JP": "<残りのゾンビを倒す>",
+      "JP": "<ゾンビを殲滅せよ>",
       "CN": "< 杀死剩余的僵尸 >",
-      "KR": "<생존자们消灭剩余的僵尸>",
-      "TW": "殺滅剩餘的殭屍"
+      "KR": "< 좀비들을 모두 처치하세요 >",
+      "TW": "<消滅所有倖存的殭屍>"
     }
   },
   "< Map Update: 12/04/25 >": {
     "translation": "< 地图更新：12/04/25 >",
     "MultiLang": {
       "US": "",
-      "JP": "<マップアップデート：12/04/25>",
+      "JP": "<マップ更新: 2025/12/04>",
       "CN": "< 地图更新：12/04/25 >",
-      "KR": "< 지도 업데이트: 12/04/25 >",
-      "TW": "< 地圖更新：12/04/25 >"
+      "KR": "< 맵 업데이트: 2025년 12월 4일 >",
+      "TW": "<更新地圖：2025/12/04>"
     }
   },
   "< Map by Dakotec & Lishang >": {
     "translation": "< 地图作者：Dakotec & Lishang >",
     "MultiLang": {
       "US": "",
-      "JP": "マップ由Dakotec & Lishang制作",
+      "JP": "<マップ作成: Dakotec & Lishang>",
       "CN": "< 地图作者：Dakotec & Lishang >",
-      "KR": "< 맵 제작자 Dakotec & Lishang >",
-      "TW": "< 圖譜由Dakotec & Lishang 制 >"
+      "KR": "< 지도 제작: Dakotec & Lishang >",
+      "TW": "< 地圖由 Dakotec & Lishang 製>"
     }
   },
   "< Map ported by Waffel. Thanks to NiceShot, koen and jaek for helping. >": {
     "translation": "< 地图移植：Waffel 感谢 NiceShot、koen 和 jaek 的帮助。 翻译：Asteri3m >",
     "MultiLang": {
       "US": "",
-      "JP": "マップ移植by Waffel. NiceShot, koen, jaek に感謝します。",
+      "JP": "<マップをWaffel氏が移植。NiceShot、koen、jaek氏に感謝。>",
       "CN": "< 地图移植：Waffel 感谢 NiceShot、koen 和 jaek 的帮助。 翻译：Asteri3m >",
-      "KR": "< 맵移植由Waffel. 感谢NiceShot, koen和jaek的帮助. >",
-      "TW": "< 地圖由Waffel移植。感謝NiceShot、koen和jaek的幫助。>"
+      "KR": "< 지도 Waffel에 의해 포트됨. NiceShot, koen, jaek에게 도움을 주셔서 감사합니다. >",
+      "TW": "< 地圖由 Waffel 移植。感謝 NiceShot、koen 和 jaek 的協助。>"
     }
   },
   "< Normal Mode >": {
     "translation": "< 普通模式 >",
     "MultiLang": {
       "US": "",
-      "JP": "通常モード>>",
+      "JP": "<ノーマルモード>",
       "CN": "< 普通模式 >",
-      "KR": "< 정상 모드 >",
-      "TW": "正常模式"
+      "KR": "< 모드: 일반 >",
+      "TW": "< 正常模式 >"
     }
   },
   "< Nymian Device 1 has been pressed >": {
     "translation": "< 尼姆装置一号已被激活 >",
     "MultiLang": {
       "US": "",
-      "JP": "<Nymian Device 1 が押された>",
+      "JP": "<ニムイアン裝置 1 が押されました>",
       "CN": "< 尼姆装置一号已被激活 >",
-      "KR": "<Nymi안 기기 1이 눌렸습니다>",
-      "TW": "<Nymian Device 1 已被按下>"
+      "KR": "<N미안 기계 1이 눌렸습니다>",
+      "TW": "<Nymian裝置1已按下>"
     }
   },
   "< Nymian Device 2 has been pressed >": {
     "translation": "< 尼姆装置二号已被激活 >",
     "MultiLang": {
       "US": "",
-      "JP": "<Nymian Device 2 が押された>",
+      "JP": "<ニーミア装置2が押されました>",
       "CN": "< 尼姆装置二号已被激活 >",
-      "KR": "<Nymián 장치 2가 누르여졌음>",
-      "TW": "<Nymian Device 2 已被按下>"
+      "KR": "<N미안 기계 2가 눌러졌습니다>",
+      "TW": "<裝置二已按下>"
     }
   },
   "< Nymian Device 3 has been pressed >": {
     "translation": "< 尼姆装置三号已被激活 >",
     "MultiLang": {
       "US": "",
-      "JP": "<Nymian Device 3 が押された>",
+      "JP": "<ニミアンのデバイス3が押されました>",
       "CN": "< 尼姆装置三号已被激活 >",
-      "KR": "< 니미안 장치 3이 눌렸습니다 >",
-      "TW": "<Nymian Device 3 已被按下>"
+      "KR": "<N미안 장치 3이 눌렸습니다>",
+      "TW": "< 尼米亞裝置 3 已被按下 >"
     }
   },
   "< Nymian Device 4 has been pressed >": {
     "translation": "< 尼姆装置四号已被激活 >",
     "MultiLang": {
       "US": "",
-      "JP": "<Nymian Device 4 が押された>",
+      "JP": "<ニミアンのデバイス4が押されました>",
       "CN": "< 尼姆装置四号已被激活 >",
-      "KR": "< 니미안 장치 4가 누름 >",
-      "TW": "<Nymian Device 4 已被按下>"
+      "KR": "<디바이스 4 (니미안)이 작동되었습니다>",
+      "TW": "<Nymian裝置4已按下>"
     }
   },
   "< Nymian Device has been pressed >": {
     "translation": "< 尼姆装置已被按下,10秒后大门打开 >",
     "MultiLang": {
       "US": "",
-      "JP": "<Nymian Device が押された>",
+      "JP": "<ニミアンのデバイスが作動した>",
       "CN": "< 尼姆装置已被按下,10秒后大门打开 >",
-      "KR": "<Nymi안 기기 가 작동되었습니다>",
-      "TW": "<Nymian裝置已按下>"
+      "KR": "<니미안 장치가 눌렸습니다>",
+      "TW": "<裝置已按下>"
     }
   },
   "< Refrain Mode >": {
     "translation": "< 禁绝模式 >",
     "MultiLang": {
       "US": "",
-      "JP": "<制限模式>",
+      "JP": "<モードリフレイン>",
       "CN": "< 禁绝模式 >",
-      "KR": "< 극장 모드 >",
-      "TW": "休眠模式"
+      "KR": "< Refrain 모드 >",
+      "TW": "< 迴避模式 >"
     }
   },
   "< Special thanks - Tianli >": {
     "translation": "< 特别感谢 - Tianli >",
     "MultiLang": {
       "US": "",
-      "JP": "特別感谢 - 天利",
+      "JP": "<スペシャル感謝 - 天理 >",
       "CN": "< 特别感谢 - Tianli >",
-      "KR": "특별 감사의 인사 - Tianli",
-      "TW": "特別感謝 - 天利"
+      "KR": "< 특별 감사 - 톈리 >",
+      "TW": "< 特別感謝 - 天力 >"
     }
   },
   "< Still Waters is no longer sealed! >": {
     "translation": "< 水上庭院已不再被封锁！ >",
     "MultiLang": {
       "US": "",
-      "JP": "Still Waters は封じられ不再！",
+      "JP": "<静かな水面はもう封印されていません！>",
       "CN": "< 水上庭院已不再被封锁！ >",
-      "KR": "<< 여전한 고요는 더 이상 막혀 있지 않다! >>",
-      "TW": "靜水不再封鎖！"
+      "KR": "< 고요한 물은 더 이상 봉쇄되지 않았다! >",
+      "TW": "<靜水已不再封印！>"
     }
   },
   "< Still Waters is sealed off! >": {
     "translation": "< 水上庭院已被封锁！ >",
     "MultiLang": {
       "US": "",
-      "JP": "Still Waters は封鎖されています！",
+      "JP": "<静かな水域は封鎖されています！>",
       "CN": "< 水上庭院已被封锁！ >",
-      "KR": "< 여전히 평온한 물은 고립되었다! >",
-      "TW": "靜水封鎖！"
+      "KR": "<고요한 물은 막혔다!>",
+      "TW": "<靜水已封鎖！>"
     }
   },
   "< Still Waters will be sealed off in 15 seconds! >": {
     "translation": "< 水上庭院将在15秒内封锁！ >",
     "MultiLang": {
       "US": "",
-      "JP": "Still Watersを15秒後に封鎖します！",
+      "JP": "<静かな水面は15秒で封鎖されます！>",
       "CN": "< 水上庭院将在15秒内封锁！ >",
-      "KR": "< 여전히 평온한 물이 15초 후에 막 }}\"></translation>",
-      "TW": "<Still Waters將於15秒後封鎖！>"
+      "KR": "< 조용한 물은 15초 후에 막힐 것입니다! >",
+      "TW": "< 靜水將在15秒後被封鎖！>"
     }
   },
   "< The Final Ease is no longer sealed! >": {
     "translation": "< 旅人安息所已不再被封锁！ >",
     "MultiLang": {
       "US": "",
-      "JP": "最終の安堵は封じられ不再契約！",
+      "JP": "<最終的な解放はもはや封印されていません！>",
       "CN": "< 旅人安息所已不再被封锁！ >",
-      "KR": "최종 안정은 더 이상 막혀 있지 않아!",
-      "TW": "最後的安撫已不再封印！"
+      "KR": "<최종 평화는 더 이상 봉쇄되지 않았다!>",
+      "TW": "<最終的安寧不再被封印！>"
     }
   },
   "< The Final Ease is sealed off! >": {
     "translation": "< 旅人安息所已被封锁！ >",
     "MultiLang": {
       "US": "",
-      "JP": "最終の安らぎが封鎖されました！",
+      "JP": "<最終的な安寧が封印された！>",
       "CN": "< 旅人安息所已被封锁！ >",
-      "KR": "최종 엘레스가 폐쇄되었습니다!",
-      "TW": "<最終Ease封鎖！>"
+      "KR": "<최후의 평온이 봉인되었습니다!>",
+      "TW": "<最終的安寧已被封印！>"
     }
   },
   "< The Final Ease will be sealed off in 15 seconds! >": {
     "translation": "< 旅人安息所将在15秒内被封锁！ >",
     "MultiLang": {
       "US": "",
-      "JP": "＜最終の安堵は15秒後に封じられます！＞",
+      "JP": "<ファイナル・イーズが15秒で封鎖されます！>",
       "CN": "< 旅人安息所将在15秒内被封锁！ >",
-      "KR": "< 최종 안식은 15초 후에 폐쇄됩니다! >",
-      "TW": "最後的安詳将在15秒後封鎖！"
+      "KR": "<최종 평화의 균열은 15초 후에 봉쇄됩니다!>",
+      "TW": "<最終的安寧將在15秒後被封印！>"
     }
   },
   "< The chantry is no longer sealed! >": {
     "translation": "< 放浪神礼堂已不再被封锁！ >",
     "MultiLang": {
       "US": "",
-      "JP": "荘園は封じられていません！",
+      "JP": "<神殿はもう封印されていません！>",
       "CN": "< 放浪神礼堂已不再被封锁！ >",
-      "KR": "chantry가 더 이상 닫혀 있지 않습니다!",
-      "TW": "教區已不再封鎖！"
+      "KR": "<찬트리가 더 이상 봉쇄되지 않았다!>",
+      "TW": "<神殿已不再封印！>"
     }
   },
   "< The chantry is sealed off! >": {
     "translation": "< 放浪神礼堂已被封锁！ >",
     "MultiLang": {
       "US": "",
-      "JP": "荘園は閉鎖されました！",
+      "JP": "<神殿が封鎖されました！>",
       "CN": "< 放浪神礼堂已被封锁！ >",
-      "KR": "채antry는 밀 MediaTek!",
-      "TW": "***神殿已封鎖！***"
+      "KR": "<찬트리가 봉쇄되었습니다!>",
+      "TW": "<神殿已被封鎖！>"
     }
   },
   "< The chantry will be sealed off in 15 seconds! >": {
     "translation": "< 放浪神礼堂将在15秒内被封锁！ >",
     "MultiLang": {
       "US": "",
-      "JP": "15秒後、聖堂は閉鎖されます！",
+      "JP": "<神殿は15秒後に封鎖されます！>",
       "CN": "< 放浪神礼堂将在15秒内被封锁！ >",
-      "KR": "채전은 15초 후에 고립됩니다!",
-      "TW": "<span style=\"color:#FF0000\">道館將在15秒後封鎖！></span>"
+      "KR": "<찬트리가 15초 안에 봉쇄됩니다!>",
+      "TW": "< 聖堂將在 15 秒後封鎖！ >"
     }
   },
   "< The door opens. >": {
     "translation": "< 门已打开。 >",
     "MultiLang": {
       "US": "",
-      "JP": "ドアが開く。",
+      "JP": "<ドアが開く。>",
       "CN": "< 门已打开。 >",
-      "KR": "< 문이 열립니다. >",
-      "TW": "門開了。"
+      "KR": "<문이 열린다.>",
+      "TW": "<門打開了。>"
     }
   },
   "< The sealed gate opens! >": {
     "translation": "< 封闭的门打开了！ >",
     "MultiLang": {
       "US": "",
-      "JP": "密閉の扉が開きます！",
+      "JP": "<封印された門が開いた！>",
       "CN": "< 封闭的门打开了！ >",
-      "KR": "제한된 문이 열립니다!",
-      "TW": "封印之門開啟！"
+      "KR": "< 밀폐된 문이 열렸다! >",
+      "TW": "<大門被封印解除！>"
     }
   },
   "< The wall will break soon >": {
     "translation": "< 墙壁即将破裂---15秒 >",
     "MultiLang": {
       "US": "",
-      "JP": "壁は不久崩れる >>",
+      "JP": "<壁が崩れようとしている>",
       "CN": "< 墙壁即将破裂---15秒 >",
-      "KR": "벽은 곧 무너질 것이다 >",
-      "TW": "牆 sẽ tan vỡ sớm thôi >"
+      "KR": "<벽이 곧 부서질 거야>",
+      "TW": "<牆壁很快就會破碎>"
     }
   },
   "< The water has completely drained from the causeway >": {
     "translation": "< 水已完全排出通道 >",
     "MultiLang": {
       "US": "",
-      "JP": "Causewayの水が完全に draining 完了 >>",
+      "JP": "<水たまりが完全に干上がっている>",
       "CN": "< 水已完全排出通道 >",
-      "KR": "< 고원의 물이 모두 말라버렸다 >",
-      "TW": "渠道中的水已完全 Drainage完毕 >"
+      "KR": "<수로가 완전히 말랐습니다>",
+      "TW": "<水干涸了，導致路完全乾涸>"
     }
   },
   "< Water drains from the causeway revealing a passage! >": {
     "translation": "< 利用下水道排水,使逃离的道路显现出来!---17秒 >",
     "MultiLang": {
       "US": "",
-      "JP": "< 橋上排水現す通路！ >",
+      "JP": "<水が原因となる通路から流れ出て、通路が現れた！>",
       "CN": "< 利用下水道排水,使逃离的道路显现出来!---17秒 >",
-      "KR": "< 수anal从桥道上流走，露出一条通道！>",
-      "TW": "水從長堤滲漏露出1條通道！"
+      "KR": "< 물길이 다리에서 물이 빠지면서 통로가 드러났다! >",
+      "TW": "<水从堤道上退去，露出一条通道！>"
     }
   },
   "< You are the hero of the light! >": {
     "translation": "< 你是光之英雄！ >",
     "MultiLang": {
       "US": "",
-      "JP": "< あなたは光の英雄です！ >",
+      "JP": "<あなたは光の英雄です！>",
       "CN": "< 你是光之英雄！ >",
-      "KR": "< 당신은 빛의 영웅이야! >",
-      "TW": "<你是最強的光之英雄！>"
+      "KR": "<당신은 빛의 영웅입니다!>",
+      "TW": "<你就是光明之戰士！>"
     }
   },
   "< ZOMBIE ESCAPED >": {
     "translation": "< 僵尸逃脱了 >",
     "MultiLang": {
       "US": "",
-      "JP": "<ゾンビが脱走しました>",
+      "JP": "<ゾンビ脱出>",
       "CN": "< 僵尸逃脱了 >",
-      "KR": "",
-      "TW": "<<<殭屍逃出>>>"
+      "KR": "< 좀비 탈출 >",
+      "TW": "<逃脫喪屍>"
     }
   },
   "< ze_FFXIV_Wanderers_Palace >": {
@@ -875,8 +875,8 @@
       "US": "",
       "JP": "",
       "CN": "< ze_FFXIV_Wanderers_Palace 最终幻想14:放浪古神殿 >",
-      "KR": "< ze_FFXIV_유랑자궁전 >",
-      "TW": "< ze_FFXIV_流浪者宮殿 >"
+      "KR": "",
+      "TW": "< 幻影莊園 >"
     }
   },
   "<pos> 999999999": {
@@ -884,7 +884,7 @@
     "MultiLang": {
       "US": "",
       "JP": "",
-      "CN": "",
+      "CN": "<pos> 999999999",
       "KR": "",
       "TW": ""
     }
@@ -894,7 +894,7 @@
     "MultiLang": {
       "US": "",
       "JP": "",
-      "CN": "",
+      "CN": "> ...",
       "KR": "",
       "TW": ""
     }
@@ -903,129 +903,129 @@
     "translation": "> 天下无不散之宴席. ---20秒",
     "MultiLang": {
       "US": "",
-      "JP": "すべての良いものは終わりを告げる。",
+      "JP": "全てが良いことは終わりを迎える。",
       "CN": "> 天下无不散之宴席. ---20秒",
-      "KR": "모든 좋은 것들은 반드시 끝나야 한다.",
-      "TW": ">> 所有好的事物都必須終結。"
+      "KR": "모든 좋은 일은 결국에는 끝나야 한다.",
+      "TW": "一切美好的事物終將結束。"
     }
   },
   "> I shall live with my regret until the world itself hath ceased to be.": {
     "translation": "> 我将伴随遗憾生活，直到这个世界消逝的一天。",
     "MultiLang": {
       "US": "",
-      "JP": "自分自身の後悔と共にこの世が滅びるまで生きていく。",
+      "JP": "この後悔と生き抜く。世界そのものが滅びても構わない。",
       "CN": "> 我将伴随遗憾生活，直到这个世界消逝的一天。",
-      "KR": "세상이 스스로 존재 자체를 멈추기 전까지 tôi는 아쉬움과 함께 살아갈 것이다.",
-      "TW": "我將與我的遺憾共存，直到世界本身已然不再。"
+      "KR": "세상이 멈추고 나서도 나는 내 후회를 살아갈 것이다.",
+      "TW": "我將與我的後悔共存，直到世界本身停止存在。"
     }
   },
   "> It's time to leave here now.": {
     "translation": "> 现在是时候离开这里了。",
     "MultiLang": {
       "US": "",
-      "JP": "ここを離れるのは今だ。",
+      "JP": "ここを離れる時だ。",
       "CN": "> 现在是时候离开这里了。",
-      "KR": "이제 여기를 떠나야 한다.",
-      "TW": "現在是離開這裡的時候了。"
+      "KR": "이제 여기서 나가야 할 때야.",
+      "TW": "現在該離開這裡了。"
     }
   },
   "> Such is my just punishment for consorting with Darkness ...": {
     "translation": "> 这就是我与黑暗为伍的应得惩罚……",
     "MultiLang": {
       "US": "",
-      "JP": ">> これが闇と協力した私の罰...",
+      "JP": "これこそが、闇に手を染めたことへの正当な罰だ...",
       "CN": "> 这就是我与黑暗为伍的应得惩罚……",
-      "KR": "> 이런 것이 어둠과 협력한 저의 정당한 처벌이다...",
-      "TW": "如此便是我與黑暗為伍的代價..."
+      "KR": "바로 어둠과 교류한 대가... 이것이 내 받을 형벌이다.",
+      "TW": "這便是因為與黑暗勾結而受到的正義懲罰..."
     }
   },
   "> The end is also a beginning.": {
     "translation": "> 结束也是新的开始。",
     "MultiLang": {
       "US": "",
-      "JP": "終亦始也。",
+      "JP": "終わりも始まりなり。",
       "CN": "> 结束也是新的开始。",
-      "KR": "끝은 또한 시작이다.",
-      "TW": "結局也是開始。"
+      "KR": "끝은 시작이기도 하다.",
+      "TW": "終點也是一個開始。"
     }
   },
   "> The release of death is denied me here ": {
     "translation": "> 在这里，我不能获得死亡的解脱。",
     "MultiLang": {
       "US": "",
-      "JP": "ここでの死の解放は許されない",
+      "JP": "ここに死の解放は拒絶される",
       "CN": "> 在这里，我不能获得死亡的解脱。",
-      "KR": "_death의 해방은 저에게 거부당해 >>_",
-      "TW": ">> 此處拒絶我 RELEASE 的死deo釋"
+      "KR": "여기서 죽음의 해방은 거부당했네",
+      "TW": "這裡拒絕我接受死亡的降臨。"
     }
   },
   "> The story is coming to an end ...": {
     "translation": "> 故事即将结束...",
     "MultiLang": {
       "US": "",
-      "JP": "ストーリーは終盤...",
+      "JP": "物語は終わりを迎えよう... (Monogatari wa owari o mukaeyou...)",
       "CN": "> 故事即将结束...",
-      "KR": "스토리는 이어질 끝이오 ...",
-      "TW": "故事情節即將結束..."
+      "KR": "이야기는 이제 끝이 다가오고 있습니다...",
+      "TW": "故事即將結束了..."
     }
   },
   "> We are almost near the end ...": {
     "translation": "> 我们快接近尾声了...",
     "MultiLang": {
       "US": "",
-      "JP": "【翻訳終了】",
+      "JP": "もうすぐ終わりが来る... (Mou sugu owari ga kuru...)",
       "CN": "> 我们快接近尾声了...",
-      "KR": "> 우리는 거의 끝이near ...",
-      "TW": "> 我們快到結尾了 ..."
+      "KR": "거의 다 왔어...",
+      "TW": "我們快要接近終點了..."
     }
   },
   "> blackeneth my beloved's memory.": {
     "translation": "> 抹黑了我挚爱的记忆。",
     "MultiLang": {
       "US": "",
-      "JP": "黒き我愛る者の MEMORY.",
+      "JP": "黒い記憶で愛する者の心を闇にする。",
       "CN": "> 抹黑了我挚爱的记忆。",
-      "KR": "사랑하는 이를 어둡게 만든다.",
-      "TW": "黒汙我愛人的記憶。"
+      "KR": "흑색하여 나의 사랑하는 기억을 어둡게 하라.",
+      "TW": "玷污我心爱的记忆。"
     }
   },
   "> for calling forth aloathsome and lamentable creature which ...": {
     "translation": "> 因为召唤了可憎和可怜的生物...",
     "MultiLang": {
-      "US": ">> for calling forth an abhorrent and lamentable creature which ...",
-      "JP": "> あ lupus で畏れられる且つ悲しむべき存在を呼び出す...",
+      "US": "",
+      "JP": "忌まわしい、嘆かわしいの存在を呼び起こすため…",
       "CN": "> 因为召唤了可憎和可怜的生物...",
-      "KR": "> 아로스메从严治捺和悲慟的生物...",
-      "TW": "> 針對召喚可惡而可憐的生物……"
+      "KR": "끔찍하고 비탄의 존재를 소환하기 위해...",
+      "TW": "為了喚起一種令人厭惡且悲慘的生物，..."
     }
   },
   "FAKE DOLL": {
     "translation": "FAKE DOLL",
     "MultiLang": {
       "US": "",
-      "JP": "",
-      "CN": "假偶娃娃",
+      "JP": "偽のドール",
+      "CN": "FAKE DOLL",
       "KR": "가짜 인형",
-      "TW": "假偶娃娃"
+      "TW": "假娃娃"
     }
   },
   "Good luck wanderers.": {
     "translation": "祝好运，流浪者们。",
     "MultiLang": {
       "US": "",
-      "JP": "旅人たち、運を試してみてください。",
+      "JP": "幸運を祈る、冒険者たち。",
       "CN": "祝好运，流浪者们。",
-      "KR": "유명한 모험가들, 행운을!",
-      "TW": "祝探險者們幸運。"
+      "KR": "모험가 여러분, 행운을 빕니다.",
+      "TW": "各位探險家，祝你好運。"
     }
   },
   "Hollow World": {
     "translation": "Hollow World",
     "MultiLang": {
-      "US": "Empty World",
-      "JP": "",
-      "CN": "空洞世界",
-      "KR": "허공의 세계",
+      "US": "",
+      "JP": "虚無の世界",
+      "CN": "Hollow World",
+      "KR": "",
       "TW": "空洞世界"
     }
   },
@@ -1034,109 +1034,109 @@
     "MultiLang": {
       "US": "",
       "JP": "",
-      "CN": "空壳世界",
-      "KR": "황량한 세계",
-      "TW": "空殼世界"
+      "CN": "Hollow-World",
+      "KR": "",
+      "TW": ""
     }
   },
   "Hollow.": {
     "translation": "Hollow.",
     "MultiLang": {
       "US": "",
-      "JP": "空洞。",
-      "CN": "空壳。",
-      "KR": "공허하다.",
-      "TW": ""
+      "JP": "虚無。",
+      "CN": "Hollow.",
+      "KR": "텅 빈 공간.",
+      "TW": "空洞。"
     }
   },
   "I apologize for my lie": {
     "translation": "我为我的谎言道歉",
     "MultiLang": {
       "US": "",
-      "JP": "私は嘘を言ったことについて謝罪します",
+      "JP": "ごめんなさい、私の嘘を。",
       "CN": "我为我的谎言道歉",
-      "KR": "저의 거짓말에 대해 사과드립니다.",
-      "TW": "我為我的謊言道歉"
+      "KR": "거짓말을 사과드립니다.",
+      "TW": "對於我的謊言，我深感抱歉。"
     }
   },
   "I don't want you here.": {
     "translation": "我不想要你在这里。",
     "MultiLang": {
       "US": "",
-      "JP": "あなたはここにい不要再待。",
+      "JP": "ここにいる必要はない。",
       "CN": "我不想要你在这里。",
-      "KR": "이곳에 당신은 안 된다.",
-      "TW": "我不想要你在此。"
+      "KR": "여기 있는 거 싫어.",
+      "TW": "我不希望你在此。"
     }
   },
   "I hate December ": {
     "translation": "我讨厌12月",
     "MultiLang": {
       "US": "",
-      "JP": "12月は嫌いです",
+      "JP": "12月は嫌い",
       "CN": "我讨厌12月",
-      "KR": "12월은 싫다",
-      "TW": "我恨102月"
+      "KR": "12월 진짜 싫어",
+      "TW": "我討厭十二月"
     }
   },
   "Never gonna give you up": {
     "translation": "永远不会抛弃你",
     "MultiLang": {
       "US": "",
-      "JP": "絶対にあなたを放棄しない",
+      "JP": "",
       "CN": "永远不会抛弃你",
-      "KR": "절대 포기하지 않겠습니다.",
-      "TW": "Never gonna 嘗試放棄你"
+      "KR": "절대로 포기하지 않을 거야",
+      "TW": "永不放棄你"
     }
   },
   "Never gonna let you down": {
     "translation": "永远不会让你失望",
     "MultiLang": {
       "US": "",
-      "JP": "絶対に君を裏切らない",
+      "JP": "絶対に落ちさせない",
       "CN": "永远不会让你失望",
-      "KR": "절대 당신을 버리지 않겠음",
-      "TW": "Never gonna讓你失望"
+      "KR": "절대 실망시키지 않아",
+      "TW": "永不放棄你"
     }
   },
   "Never gonna make you cry": {
     "translation": "永远不会让你哭泣",
     "MultiLang": {
       "US": "",
-      "JP": "絶対にあなたを泣かせない",
+      "JP": "",
       "CN": "永远不会让你哭泣",
-      "KR": "항상 당신을 울리지 않을 거야",
-      "TW": "never gonna 讓你哭"
+      "KR": "절대로 너를 울게 할 수 없어",
+      "TW": "永不讓你哭"
     }
   },
   "Never gonna run around and desert you": {
     "translation": "绝对不会抛下你，离开你",
     "MultiLang": {
       "US": "",
-      "JP": "絶対にあなたを放棄しない",
+      "JP": "絶対に一緒に走り回って逃げないよ",
       "CN": "绝对不会抛下你，离开你",
-      "KR": "절대 기다리지 않아 당신을 놔버리지 않겠다",
-      "TW": "Never gonna跑-around和拋棄你"
+      "KR": "절대 빙빙 돌거나 너를 떠나지 않아",
+      "TW": "從此不再漫遊四方，拋棄你"
     }
   },
   "Never gonna say goodbye": {
     "translation": "永远不会说再见",
     "MultiLang": {
       "US": "",
-      "JP": "絶対にbyebyeを说かない",
+      "JP": "絶対にさよならなんて言わない",
       "CN": "永远不会说再见",
-      "KR": "절대 떠나지 말겠다",
-      "TW": "永不說再见"
+      "KR": "절대 작별 인사를 하지 않을 거야",
+      "TW": "永不說再見"
     }
   },
   "Never gonna tell a lie and hurt you": {
     "translation": "永远不会说谎并伤害你",
     "MultiLang": {
       "US": "",
-      "JP": "絶対に嘘をついてあなたを傷つけない",
+      "JP": "嘘をつき、君を傷つけるなんて絶対にしないよ。",
       "CN": "永远不会说谎并伤害你",
-      "KR": "항상 진심을 말하고 상처绐予你",
-      "TW": "Never gonna 嘔你和傷你"
+      "KR": "거짓말하고 너 아프게 할 셈은 안 해",
+      "TW": "從來不會說謊，傷害你"
     }
   },
   "Nobody cares.": {
@@ -1145,258 +1145,258 @@
       "US": "",
       "JP": "誰も気にしない。",
       "CN": "没人关心.",
-      "KR": "누구도 관심없다.",
-      "TW": "没有人關心。"
+      "KR": "아무도 신경 쓰지 않아.",
+      "TW": "沒人管。"
     }
   },
   "Oops ": {
     "translation": "哎呀",
     "MultiLang": {
       "US": "",
-      "JP": "オOps",
+      "JP": "あちゃー",
       "CN": "哎呀",
-      "KR": "오오PS",
-      "TW": ""
+      "KR": "앗, 실수했어요.",
+      "TW": "哎呀"
     }
   },
   "Rickroll'd :D": {
     "translation": "被整了，哈哈 :D",
     "MultiLang": {
       "US": "",
-      "JP": "リックロールド :D",
+      "JP": "リックロール！ :D",
       "CN": "被整了，哈哈 :D",
-      "KR": "리크롤드 :D",
-      "TW": ""
+      "KR": "릭롤링당 ㅋㅋㅋ",
+      "TW": "被Rickroll了 :D"
     }
   },
   "STFU": {
     "translation": "闭嘴",
     "MultiLang": {
       "US": "",
-      "JP": "シュツフ",
+      "JP": "黙れ",
       "CN": "闭嘴",
-      "KR": "스微信公众账号：阿里云助手，请勿打扰",
-      "TW": "閉嘴"
+      "KR": "",
+      "TW": ""
     }
   },
   "Slay goober": {
     "translation": "处死goober",
     "MultiLang": {
       "US": "",
-      "JP": "ゴブラーを倒せ",
+      "JP": "クズを倒せ",
       "CN": "处死goober",
-      "KR": "슬레이 구브어",
-      "TW": "殲滅GOOBER"
+      "KR": "고버 처치",
+      "TW": "殲滅蠢物"
     }
   },
   "The map is from Final Fantasy XIV.": {
     "translation": "这张地图来自最终幻想14。",
     "MultiLang": {
       "US": "",
-      "JP": "地図はFinal Fantasy XIVのものです。",
+      "JP": "このマップはファイナルファンタジーXIVからです。",
       "CN": "这张地图来自最终幻想14。",
-      "KR": "지도는FINAL FANTASY XIV에서Coming Soon.",
-      "TW": "地圖來自最终幻想XIV。"
+      "KR": "지도는 Final Fantasy XIV에서 온 것입니다.",
+      "TW": "地圖來自 Final Fantasy XIV。"
     }
   },
   "Type 1 in chat to get solo.": {
     "translation": "在聊天框中输入1获取神秘力量。",
     "MultiLang": {
       "US": "",
-      "JP": "チャットに1をタイプしてソロへ。",
+      "JP": "チャットで「1」を入力してソロに参加。",
       "CN": "在聊天框中输入1获取神秘力量。",
-      "KR": "채팅에 1을 입력하여 솔로로 게임합니다.",
-      "TW": "型1在聊天欄輸入即可單人對戰。"
+      "KR": "채팅에 'Type 1'을 입력하여 솔로 플레이를 시작하세요.",
+      "TW": "點擊 1 在聊天中獲得單人模式。"
     }
   },
   "[ Admin ] -> I had a sensation of falling": {
     "translation": "[ 管理员 ] -> 我有一种坠落的感觉",
     "MultiLang": {
       "US": "",
-      "JP": "[ オムニゲート ] -> フォール감을 느꼈습니다",
+      "JP": "[ 管理人 ] -> 落ちる感覚があった",
       "CN": "[ 管理员 ] -> 我有一种坠落的感觉",
-      "KR": "[ 관리자 ] -> 떨어지는 느낌이 들었어",
-      "TW": "[ 管理員 ] -> 我有种墜落的感覺"
+      "KR": "[ 관리자 ] -> 뭔가 떨어지는 느낌이 들었어.",
+      "TW": "[ 管理員 ] -> 我感覺自己像是在墜落。"
     }
   },
   "[ Admin ] -> Killed all zombie items.": {
     "translation": "[ 管理员 ] -> 消灭所有僵尸神器。",
     "MultiLang": {
       "US": "",
-      "JP": "[ Admin ] -> すべてのゾンビアイテムを殺しました。",
+      "JP": "[ 管理人 ] -> 全てのゾンビアイテムを破壊しました。",
       "CN": "[ 管理员 ] -> 消灭所有僵尸神器。",
-      "KR": "[_ADMIN] -> 모든 블록僵尸.",
-      "TW": "[ Admin ] -> 杀掉了所有 Zombie 物品。"
+      "KR": "[ 관리자 ] -> 모든 좀비 아이템을 파괴했습니다.",
+      "TW": "[ 管理員 ] -> 擊殺了所有僵屍道具。"
     }
   },
   "[ Admin ] -> Killed the current boss.": {
     "translation": "[ 管理员 ] -> 杀死当前Boss。",
     "MultiLang": {
       "US": "",
-      "JP": "[ 管理者 ] -> 現在のボスを倒しました。",
+      "JP": "[ 管理人 ] -> 現在のボスを倒した。",
       "CN": "[ 管理员 ] -> 杀死当前Boss。",
-      "KR": "[ 관리자 ] -> 현재 보스를 처단했습니다.",
-      "TW": "[管理员] -> 杀死了當前Boss。"
+      "KR": "[ 관리자 ] -> 현재 보스 처치 완료.",
+      "TW": "[ 管理員 ] -> 擊殺了當前老闆。"
     }
   },
   "[ Admin ] -> Selected Easy Mode for next round.": {
     "translation": "[ 管理员 ] -> 下一轮为简单模式。",
     "MultiLang": {
       "US": "",
-      "JP": "[ Admin ] -> 次のラウンドではEasyモードを選択しました。",
+      "JP": "[ 管理者 ] -> 次ラウンドで簡単なモードを選択しました。",
       "CN": "[ 管理员 ] -> 下一轮为简单模式。",
-      "KR": "[ 관리자 ] -> 다음 라운드에서 쉬운 모드로 설정했습니다.",
-      "TW": "[管理员] -> 選擇下1輪使用Easy模式。"
+      "KR": "[ 관리자 ] -> 다음 라운드에 쉬운 모드를 선택했습니다.",
+      "TW": "[ 管理員 ] -> 已選取下次回合的簡單模式。"
     }
   },
   "[ Admin ] -> Selected Extreme Mode for next round.": {
     "translation": "[ 管理员 ] -> 下一轮为极限模式。",
     "MultiLang": {
       "US": "",
-      "JP": "[ 管理者 ] -> 次のラウンドは極限モードにしました。",
+      "JP": "[ 管理者 ] -> 次ラウンドでExtremeモードを選択しました。",
       "CN": "[ 管理员 ] -> 下一轮为极限模式。",
-      "KR": "[ 관리자 ] -> 다음 라운드에 극한 모드로 설정되었습니다.",
-      "TW": "[管理员] -> 選擇下1輪極限模式。"
+      "KR": "[ 관리자 ] -> 다음 라운드에 Extreme 모드를 선택했습니다.",
+      "TW": "[ 管理員 ] -> 下一輪選擇極端模式。"
     }
   },
   "[ Admin ] -> Selected Hard Mode for next round.": {
     "translation": "[ 管理员 ] -> 下一轮为困难模式。",
     "MultiLang": {
       "US": "",
-      "JP": "[ アドミン ] -> 次のラウンドでハードモードを選定了。",
+      "JP": "[ 管理者 ] -> 次ラウンドでハードモードを選択しました。",
       "CN": "[ 管理员 ] -> 下一轮为困难模式。",
-      "KR": "[ 관리자 ] -> 다음 라운드에 하드 모드 선택했습니다.",
-      "TW": "[管理员] -> 選擇下1輪困難模式。"
+      "KR": "[ 관리자 ] -> 다음 라운드에 하드 모드를 선택했습니다.",
+      "TW": "[ 管理員 ] -> 下一輪已選擇困難模式。"
     }
   },
   "[ Admin ] -> Selected Normal Mode for next round.": {
     "translation": "[ 管理员 ] -> 下一轮为普通模式。",
     "MultiLang": {
       "US": "",
-      "JP": "[管理者] -> 次のラウンドはノーマルモードにしました。",
+      "JP": "[ 管理者 ] -> 次ラウンドでノーマルモードを選択しました。",
       "CN": "[ 管理员 ] -> 下一轮为普通模式。",
-      "KR": "[ 관리자 ] -> 다음 라운드에 정상 모드로 설정되었습니다.",
-      "TW": "[管理员] -> 選定普通模式下1輪。"
+      "KR": "[ 관리자 ] -> 다음 라운드에서 Normal 모드를 선택했습니다.",
+      "TW": "[ 管理員 ] -> 下一輪已選擇普通模式。"
     }
   },
   "[ Admin ] -> Selected Refrain Mode for next round.": {
     "translation": "[ 管理员 ] -> 下一轮为禁绝模式。",
     "MultiLang": {
       "US": "",
-      "JP": "[ アドミン ] -> 次のラウンドでリフリンモードを選択しました。",
+      "JP": "[ 管理者 ] -> 次ラウンドのフレーンモードが選択されました。",
       "CN": "[ 管理员 ] -> 下一轮为禁绝模式。",
-      "KR": "[ 관리자 ] -> 다음 라운드에 리프레인 모드로 설정되었습니다.",
-      "TW": "[管理员] -> 選擇採用制衡模式進行下1輪。"
+      "KR": "[ 관리자 ] -> 다음 라운드에 Refrain 모드를 선택했습니다.",
+      "TW": "[ 管理員 ] -> 下一輪已選擇迴旋模式。"
     }
   },
   "[ Admin ] -> Spawned Dream Breaker & Dream Weaver.": {
     "translation": "[ 管理员 ] -> 生成梦境破坏者和梦境编织者。",
     "MultiLang": {
       "US": "",
-      "JP": "[ アドmin ] -> ドリームブレイカー & ドリームウィーバー生成。",
+      "JP": "[ 管理人 ] -> 夢の破壊者と夢の織り手が出現しました。",
       "CN": "[ 管理员 ] -> 生成梦境破坏者和梦境编织者。",
-      "KR": "[ 관리자 ] -> 드림 븠셔커 & 드림 웨이버Spawned",
-      "TW": "[管理员] -> 生命打斷者 & 梦幻編織者。"
+      "KR": "[ 관리자 ] -> 드림 브레이커 및 드림 위버 생성.",
+      "TW": "[ 管理員 ] -> 產生夢之破壞者與夢之編織者。"
     }
   },
   "[ Admin ] -> Spawned all S items.": {
     "translation": "[ 管理员 ] -> 生成所有S系神器。",
     "MultiLang": {
       "US": "",
-      "JP": "[ Admin ] -> すべてのSアイテムを生成しました。",
+      "JP": "[ 管理者 ] -> 全てのSアイテムを生成しました。",
       "CN": "[ 管理员 ] -> 生成所有S系神器。",
-      "KR": "[ 관리자 ] -> 모든 S 아이템 생성完毕",
-      "TW": "[ 管理員 ] -> 育成了所有S級物品。"
+      "KR": "[ 관리자 ] -> 모든 S 아이템이 생성되었습니다.",
+      "TW": "[ 管理員 ] -> 刷新所有 S 道具。"
     }
   },
   "[ Admin ] -> as if in a dream.": {
     "translation": "[ 管理员 ] -> 宛如梦境.",
     "MultiLang": {
-      "US": "[Admin] -> like a dream.",
-      "JP": "[ Admin ] -> 夢の如く。",
+      "US": "",
+      "JP": "[ 管理者 ] -> 夢の中にいるかのような。",
       "CN": "[ 管理员 ] -> 宛如梦境.",
-      "KR": "[ 관리자 ] -> 꿈一样。",
-      "TW": "[管理员] -> 如夢似幻。"
+      "KR": "[ 관리자 ] -> 마치 꿈속에 있는 것처럼.",
+      "TW": "[ 管理員 ] -> 好像在做夢。"
     }
   },
   "[ Chaos ] -> I thirst for carnage.": {
     "translation": "[ 混沌体现 ] -> 我渴望屠杀。",
     "MultiLang": {
-      "US": "[ Chaos ] -> I crave slaughter.",
-      "JP": "[ チャos ] -> カン干事创业之渴。",
+      "US": "",
+      "JP": "[ 混沌 ] -> 私は凄惨な殺戮を渇望する。",
       "CN": "[ 混沌体现 ] -> 我渴望屠杀。",
-      "KR": "[ 혼돈 ] -> 난 살육을 갈구한다.",
-      "TW": "[混沌] -> 我渴朒血。"
+      "KR": "[ 혼돈 ] -> 나는 살육을 갈구한다.",
+      "TW": "[ 混沌 ] -> 我渴望血腥。"
     }
   },
   "[ Chaos ] -> Like lambs to the slaughter!": {
     "translation": "[ 混沌体现 ] -> 你们应当像羔羊一样被宰杀！",
     "MultiLang": {
-      "US": "[ Chaos ] -> To the slaughter like lambs!",
-      "JP": "[混沌] -> 豬のように切り分ける！",
+      "US": "",
+      "JP": "[ 混沌 ] -> 如く羊を屠るが如し！",
       "CN": "[ 混沌体现 ] -> 你们应当像羔羊一样被宰杀！",
-      "KR": "[ 혼돈 ] -> 떼지근거리는 양들처럼!",
-      "TW": "[亂世] -> 送羊入虎口！"
+      "KR": "[ 혼돈 ] -> 마치 바다에 던져진 양들처럼!",
+      "TW": "[ 混沌 ] -> 像羔羊般赴死啊！"
     }
   },
   "[ Chaos ] -> Show me power befitting your station.": {
     "translation": "[ 混沌体现 ] -> 让我看看你的身份该有怎样的力量!",
     "MultiLang": {
       "US": "",
-      "JP": "[ チaos ] -> 你的地位配得上这种力量。",
+      "JP": "[ 混沌 ] -> 君の地位に相応しい力を示せ。",
       "CN": "[ 混沌体现 ] -> 让我看看你的身份该有怎样的力量!",
-      "KR": "[ 혼돈 ] -> 당신의 위치에 걸맞는 힘을 보여라.",
-      "TW": "[亂世] -> 展現 Fits 你的地位的強大。"
+      "KR": "[ 혼돈 ] -> 네 지위에 걸맞은 힘을 보여줘.",
+      "TW": "[ 混沌 ] -> 展現適合你地位的力量。"
     }
   },
   "[ Lishang ] -> All good things must come to an end.": {
     "translation": "[ Lishang ] -> 天下无不散之宴席.",
     "MultiLang": {
       "US": "",
-      "JP": "[ リシャン ] -> すべての良いことが終わりを告げる時が来ます。",
+      "JP": "[ Lishang ] -> すべての素晴らしいことは終わりを迎える。",
       "CN": "[ Lishang ] -> 天下无不散之宴席.",
-      "KR": "[ 리상 ] -> 모든 좋은 것들은 반드시 끝이 납니다.",
-      "TW": "[利商] -> 所有的好时光都会结束。"
+      "KR": "[ Lishang ] -> 모든 좋은 일도 결국에는 끝난다.",
+      "TW": "[ ılışań ] -> 所有美好事物終將結束。"
     }
   },
   "and i m tired too ": {
     "translation": "我也累了",
     "MultiLang": {
       "US": "",
-      "JP": "そして私も疲れている-too",
+      "JP": "もう俺も疲れた",
       "CN": "我也累了",
-      "KR": "그리고 저는 너무 지쳤어요",
-      "TW": "並且我也好累太"
+      "KR": "그리고 나도 지쳤어",
+      "TW": "我我也好累喔"
     }
   },
   "cuz this version is v6_2 instead of v7 xD": {
     "translation": "因为这个是v6_2版本而不是v7 xD",
     "MultiLang": {
       "US": "",
-      "JP": "cuz このバージョンは v6_2 instead of v7 xD",
+      "JP": "え、これバージョンがv6_2なんだね、v7じゃないのXD",
       "CN": "因为这个是v6_2版本而不是v7 xD",
-      "KR": "**/\n이 버전은 v6_2 вместо v7 xd",
-      "TW": "因為這版本是v6_2而不是v7 xD"
+      "KR": "어휴, 여기는 v6_2 버전인데 v7이 아니네 xD",
+      "TW": "因為這個版本是 v6_2 而不是 v7 xD"
     }
   },
   "everyone rtv for mako": {
     "translation": "赶紧换张mako",
     "MultiLang": {
       "US": "",
-      "JP": "大家rtv为Mako",
+      "JP": "みんな、マコのためにリターン！",
       "CN": "赶紧换张mako",
-      "KR": "모두 Mako RTV",
-      "TW": "大家RTV為 MAKO"
+      "KR": "모두 마코를 위해 rtv!",
+      "TW": "大家回報 Mako 的消息！"
     }
   },
   "holLow wORlD": {
     "translation": "holLow wORlD",
     "MultiLang": {
-      "US": "holeW ORld",
-      "JP": "ほら Low WORLD",
-      "CN": "低落世界观",
-      "KR": "하ロー 세계",
-      "TW": "低聲 WORLD"
+      "US": "",
+      "JP": "",
+      "CN": "holLow wORlD",
+      "KR": "",
+      "TW": ""
     }
   }
 }

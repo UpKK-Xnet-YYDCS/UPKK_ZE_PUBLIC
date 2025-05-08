@@ -3,120 +3,120 @@
     "translation": "***挂机玩家和僵尸已被传送***",
     "MultiLang": {
       "US": "",
-      "JP": "*** AFK & HUNTERS がテレポーティング***",
+      "JP": "",
       "CN": "***挂机玩家和僵尸已被传送***",
-      "KR": "*** AFK & 킬러들이 토픽되었다 ***",
-      "TW": "*** AFK & 捕獵者已被傳送***"
+      "KR": "*** AFK 플레이어 및 헌터들이 순간이동되었습니다.***",
+      "TW": "*** AFK & 獵戶已通過텔레포터被傳送到"
     }
   },
   "***AFK TELEPORTING 10 SECONDS***": {
     "translation": "***挂机玩家将在10秒内传送***",
     "MultiLang": {
       "US": "",
-      "JP": "***AFK テレポート 10 セカンド***",
+      "JP": "***仮面舞踏会：テレポーテーション 10 秒***",
       "CN": "***挂机玩家将在10秒内传送***",
-      "KR": "***AFK 텔레포팅 10초***",
-      "TW": "***離線瞬移 10 秒***"
+      "KR": "***AFK텔포 10초***",
+      "TW": "***遠離狀態瞬間移動 - 10 秒***"
     }
   },
   "***AFK TELEPORTING 20 SECONDS***": {
     "translation": "***挂机玩家将在20秒内传送***",
     "MultiLang": {
       "US": "",
-      "JP": "***AFK テレポート 20 秒***",
+      "JP": "***AFKテレポータリング 20秒***",
       "CN": "***挂机玩家将在20秒内传送***",
-      "KR": "***\n\nAFK 텔레포팅 20초 ***",
-      "TW": "***離線 teleporting 20 秒***"
+      "KR": "***AFK 순간이동 20초***",
+      "TW": "***遠離遠征：20 秒***"
     }
   },
   "***BOAT LEAVING 15 SECONDS***": {
     "translation": "***船将在15秒内离开***",
     "MultiLang": {
       "US": "",
-      "JP": "***ボート離去 15 秒***",
+      "JP": "***ボート発乗船15秒***",
       "CN": "***船将在15秒内离开***",
-      "KR": "***보트 출발 15초***",
-      "TW": "***船離開倒數15秒***"
+      "KR": "***보트 출발 15초 후***",
+      "TW": "***船隻即將離開15秒***"
     }
   },
   "***HELI LEAVING 10 SECONDS***": {
     "translation": "***直升机将在10秒内离开***",
     "MultiLang": {
-      "US": "***HELICOPTER LEAVING IN 10Seconds***",
-      "JP": "***ヘリ departing 10 秒***",
+      "US": "",
+      "JP": "ヘリ脱航まで10秒",
       "CN": "***直升机将在10秒内离开***",
-      "KR": "***헬리 떠나기 10초***",
-      "TW": "***直升機離開倒數10秒***"
+      "KR": "***헬리 출발 10초 후",
+      "TW": "***葉離開10秒***"
     }
   },
   "***HELI LEAVING 20 SECONDS***": {
     "translation": "***直升机将在20秒内离开***",
     "MultiLang": {
       "US": "",
-      "JP": "***ヘリ Departing 20 Seconds***",
+      "JP": "ヘリ脱航まで 20 秒",
       "CN": "***直升机将在20秒内离开***",
-      "KR": "Note: The term \"헬리콥터\" (helicopter) is adapted to fit the in-game text style while keeping the meaning clear.",
-      "TW": "***HELIL 留下 20 頓***"
+      "KR": "***헬리 출발 20초 후",
+      "TW": "***希麗離開倒數20秒***"
     }
   },
   "***MAP BY thegregster101***": {
     "translation": "***地图由thegregster101制作 翻译：Asteri3m***",
     "MultiLang": {
       "US": "",
-      "JP": "***マップby thegregster101***",
+      "JP": "***マップ作成者: thegregster101***",
       "CN": "***地图由thegregster101制作 翻译：Asteri3m***",
-      "KR": "***맵 만든 thegregster101***",
-      "TW": ""
+      "KR": "***지도 제작자: thegregster101***",
+      "TW": "***地圖由thegregster101製作***"
     }
   },
   "***NUKE IN 10 SECONDS***": {
     "translation": "***10秒内核爆***",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "***10秒で核ミサイル！***",
       "CN": "***10秒内核爆***",
-      "KR": "***\n\nヌclé어 10 초 후***\n\n(Translated directly to Korean with nucl-e-어 instead of using the English spelling to fit Korean phonetics)",
-      "TW": ""
+      "KR": "***핵탄 10초 안에***",
+      "TW": "***核彈10秒內釋放***"
     }
   },
   "***NUKE IN 5 SECONDS***": {
     "translation": "***5秒内核爆***",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "***5秒で核弾を！***",
       "CN": "***5秒内核爆***",
-      "KR": "***누clé어 5초 후 폭발***",
-      "TW": ""
+      "KR": "***핵탄 발사 in 5초 후***",
+      "TW": "***核彈即將引爆，5秒後***"
     }
   },
   "***RESCUE BOAT & HELI INBOUND 60 SECONDS***": {
     "translation": "***救援船和直升机将在60秒内到达***",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "***救助艇＆ヘリ 到着まで60秒***",
       "CN": "***救援船和直升机将在60秒内到达***",
-      "KR": "***구조선과 헬리 인바운드 60초***",
-      "TW": "***救援船及直升機進港 60 秒***"
+      "KR": "***구명선 & 헬리 도착 예정 60초***",
+      "TW": "***搜救船及直升机即将抵达，60秒！***"
     }
   },
   "***TRAM LEAVES 10 SECONDS***": {
     "translation": "***电车将在10秒内离开***",
     "MultiLang": {
       "US": "",
-      "JP": "***トラムが10秒後に発車***",
+      "JP": "***トラム 10秒経過***",
       "CN": "***电车将在10秒内离开***",
-      "KR": "***트램 떠나기 10초***",
-      "TW": "***電車離開10秒***"
+      "KR": "***트램 이동 10초***",
+      "TW": "***輪迴葉片倒數10秒***"
     }
   },
   "***USE RADIO TO CALL FOR HELP!***": {
     "translation": "***使用无线电呼叫求助！***",
     "MultiLang": {
       "US": "",
-      "JP": "***ラジオを使用して助けを呼んでください!***",
+      "JP": "***ラジオで助けを求める！***",
       "CN": "***使用无线电呼叫求助！***",
-      "KR": "***라디오를 사용해 도움을 청하세요!!***",
-      "TW": "***使用收音機求救！***"
+      "KR": "***무전기를 사용하여 구조 요청!***",
+      "TW": "***使用無線電求助！***"
     }
   }
 }

@@ -3,223 +3,23 @@
     "translation": "",
     "MultiLang": {
       "US": "",
-      "JP": ">>マップ由Runa制作<<",
-      "CN": ">>地图由Runa制作<<",
-      "KR": ">>맵 제작자 Runa<<",
-      "TW": ">>地圖由Runa繪製<<"
+      "JP": ">>地図作成: Runa<<",
+      "CN": ">>地图由 Runa 绘制<<",
+      "KR": ">>지도 제작: Runa<<",
+      "TW": ">>地圖由 Runa 繪製 <<"
     }
   },
   ">>Thanks to Tianli & Dakotec and i7 for providing models<<": {
     "translation": "",
     "MultiLang": {
       "US": "",
-      "JP": ">>天利&Dakotecおよびi7にモデル提供 dankası olarak teşekkür ederiz<<",
-      "CN": ">>感谢天利 & 大可特和i7提供模型<<",
-      "KR": ">>천리 & 다코테크와 i7에게 제공된 모델에 감사합니다<<",
-      "TW": ">>感謝天利 & 大科特 和 i7 提供模型<<"
+      "JP": ">>ティアンリ、ダコテック、i7様がモデルをご提供いただき、ありがとうございます<<",
+      "CN": ">>感谢 Tianli & Dakotec 和 i7 提供模型<<",
+      "KR": ">>티안리 & 다코텍 및 i7에게 모델 제공에 감사드립니다<<",
+      "TW": ">>感謝 Tianli & Dakotec 和 i7 提供模型<<"
     }
   },
   "Stage ->Encounter": {
-    "translation": "",
-    "MultiLang": {
-      "US": "",
-      "JP": "ステージ ->遭遇",
-      "CN": "阶段 ->遭遇",
-      "KR": "스테이지 -> 인OUNTER",
-      "TW": "階段 -> 遭遇"
-    }
-  },
-  ">>Defend until the path is clear<<": {
-    "translation": "",
-    "MultiLang": {
-      "US": "",
-      "JP": ">>防衛し続けろ直到道路安全<<",
-      "CN": ">>坚守直到道路畅通<<",
-      "KR": ">>방어를 계속하세요直至路径清晰<<",
-      "TW": ">>防禦直到路徑 Clearance<<"
-    }
-  },
-  ">>A player has learned an ability from Scholar<<": {
-    "translation": "",
-    "MultiLang": {
-      "US": "",
-      "JP": ">>プレイヤーが学究から能力を習得しました<<",
-      "CN": ">>1名玩家从学者处学会了能力<<",
-      "KR": ">>플레이어가 학자로부터 능력치를 배웠습니다<<",
-      "TW": ">>1玩家從學者那裡習得了1種能力<<"
-    }
-  },
-  ">>A player has picked up Electric <<": {
-    "translation": "",
-    "MultiLang": {
-      "US": "",
-      "JP": ">>プレイヤーが電気を拾いました<<",
-      "CN": ">>1名玩家捡起了电能<<",
-      "KR": ">>플레이어가 전기를 얻었습니다<<",
-      "TW": ">>1位玩家拾取了Electric<<"
-    }
-  },
-  ">>A player has learned an ability from White Mage <<": {
-    "translation": "",
-    "MultiLang": {
-      "US": "",
-      "JP": ">>プレイヤーがホワイトマジシャンからスキルを学びました<<",
-      "CN": ">>1名玩家从白魔法师那里学习了1个能力<<",
-      "KR": ">>플레이어가 백매지로부터 능력치를 배웠습니다<<",
-      "TW": ">>1位玩家從白魔法师和解了1種能力<<"
-    }
-  },
-  ">>A player has learned an ability from Bard<<": {
-    "translation": "",
-    "MultiLang": {
-      "US": "",
-      "JP": ">>プレイヤーがバードから能力を習得しました<<",
-      "CN": ">>1名玩家从吟游诗人那里学习了能力<<",
-      "KR": ">>플레이어가 bard로부터 능력치를 배웠습니다<<",
-      "TW": ">>1名玩家從吟遊詩人處學會了1項能力<<"
-    }
-  },
-  ">>Defend 40s for the teleport<<": {
-    "translation": "",
-    "MultiLang": {
-      "US": ">>Defend for 40s to teleport<<",
-      "JP": ">>40秒で防御<<",
-      "CN": ">>防守40s后传送<<",
-      "KR": ">>40초간 방어하여 텔레포트<<",
-      "TW": ">>防禦40s後傳送到<<( Traditional Chinese )"
-    }
-  },
-  ">>Defend until both sides doors open<<": {
-    "translation": "",
-    "MultiLang": {
-      "US": "",
-      "JP": ">>両方の扉が開くまで守り続ける<<",
-      "CN": ">>守到两边门开<<",
-      "KR": ">>양쪽 문이 열릴 때까지 방어하다<<",
-      "TW": ">>守護直到雙方門開<<"
-    }
-  },
-  ">>AFK 40s<<": {
-    "translation": "",
-    "MultiLang": {
-      "US": "",
-      "JP": "",
-      "CN": "",
-      "KR": "",
-      "TW": ">>離線40s<<"
-    }
-  },
-  ">>AFK 80s<<": {
-    "translation": "",
-    "MultiLang": {
-      "US": "",
-      "JP": "",
-      "CN": "",
-      "KR": "",
-      "TW": ">>離線80級<<"
-    }
-  },
-  ">>Small ADS can provide speed to zombie<<": {
-    "translation": "",
-    "MultiLang": {
-      "US": "",
-      "JP": ">>小型ADS dapat memberikan kecepatan kepada zombi<<",
-      "CN": ">>小ADS可以提供速度给僵尸<<",
-      "KR": ">>작은 ADS는 좀비에게 속도를 제공할 수 있습니다<<",
-      "TW": ">>小ADS可提供移速給殭屍<<"
-    }
-  },
-  ">>Destory small ADS can also reduce the main ADS hp<<": {
-    "translation": "",
-    "MultiLang": {
-      "US": "",
-      "JP": ">>小ADS破壊でもメインADSのHPを減らすことができる<<",
-      "CN": ">>摧毁小型ADS也可减少主要ADS血量<<",
-      "KR": ">>소형 ADS를 파괴하면 주 ADS의 HP도 감소합니다<<",
-      "TW": ">>摧毀小型ADS也能減少主要ADS的血量<<"
-    }
-  },
-  ">>A player has learned an ability from Astrologian <<": {
-    "translation": "",
-    "MultiLang": {
-      "US": "",
-      "JP": ">>プレイヤーが占星学者から能力を習得しました<<",
-      "CN": ">>1名玩家从占星师处学会了能力<<",
-      "KR": ">>플레이어가 아스트로리아니가로부터 능력을 배웠습니다<<",
-      "TW": ">>1名玩家從占卜師那裡學會了1種能力<<"
-    }
-  },
-  ">>Destory ADS in 180s<<": {
-    "translation": "",
-    "MultiLang": {
-      "US": "",
-      "JP": ">>180秒内摧毁ADS<<",
-      "CN": ">>在180秒内摧毁ADS<<",
-      "KR": ">>ADS를 180초 내에 파괴<<",
-      "TW": ">>180秒內摧毀ADS<<"
-    }
-  },
-  ">>Last defense, keep holding here for 15s!<<": {
-    "translation": "",
-    "MultiLang": {
-      "US": "",
-      "JP": ">>最終防線、ここで15s維持!!<<",
-      "CN": ">>最后1道防线，坚持再撑15s！<<",
-      "KR": ">>최후의 방어, 여기서 15초 더 지켜내세요!<<",
-      "TW": ">>最後防線，這裡堅守15s！<<"
-    }
-  },
-  "Stage -> Aggression": {
-    "translation": "",
-    "MultiLang": {
-      "US": "",
-      "JP": "ステージ -> 攻撃力",
-      "CN": "阶段 -> 进攻",
-      "KR": "스테이지 -> 공격xing",
-      "TW": "階段 -> 攻勢"
-    }
-  },
-  ">>The road on the right is blocked. We should find another way to go<<": {
-    "translation": "",
-    "MultiLang": {
-      "US": "",
-      "JP": ">>右側の道は塞がっています。別の方法で進むべきです<<",
-      "CN": ">>右侧的道路被堵住了。我们应该找另1个方向前进<<",
-      "KR": ">>오른쪽 길이 막혀 있습니다. 다른 길을 찾아야겠네요<<",
-      "TW": ">>右邊的路被阻擋了。我們應該找另1條路走<<"
-    }
-  },
-  ">>Look! There is a teleporter<<": {
-    "translation": "",
-    "MultiLang": {
-      "US": "",
-      "JP": ">>見ろ！テレポーターがある<<",
-      "CN": ">>看！有个传送器<<",
-      "KR": ">>보看你！ там есть телепортер<<",
-      "TW": ">>看！有個傳送門<<"
-    }
-  },
-  ">>Defend<<": {
-    "translation": "",
-    "MultiLang": {
-      "US": "",
-      "JP": ">>防衛<<",
-      "CN": ">>防守<<",
-      "KR": ">>방어<<",
-      "TW": ">>防守<<"
-    }
-  },
-  ">>Defend 15s<<": {
-    "translation": "",
-    "MultiLang": {
-      "US": "",
-      "JP": ">>防禦15s<<",
-      "CN": ">>防守15s<<",
-      "KR": ">>15s 방어<<",
-      "TW": ">>防禦15s<<"
-    }
-  },
-  ">>AFK 5s<<": {
     "translation": "",
     "MultiLang": {
       "US": "",
@@ -229,194 +29,394 @@
       "TW": ""
     }
   },
+  ">>Defend until the path is clear<<": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": ">>道を確保するまで防衛を続ける<<",
+      "CN": ">>> 防守，直到道路畅通 <<<",
+      "KR": ">>길이 뚫릴 때까지 방어해<<",
+      "TW": ">>守護直到道路暢通<<"
+    }
+  },
+  ">>A player has learned an ability from Scholar<<": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": ">>プレイヤーが学者から能力を習得しました<<",
+      "CN": ">>一名玩家学习了学者的技能<<",
+      "KR": ">> 플레이어가 학자로부터 능력을 배웠습니다 <<",
+      "TW": ">>一位玩家學習了學者技能<<"
+    }
+  },
+  ">>A player has picked up Electric <<": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": ">>プレイヤーがエレクトリックを手に入れた <<",
+      "CN": ">>一名玩家捡到了电击 <<",
+      "KR": ">>플레이어가 전기(Electric)을 획득했습니다 <<",
+      "TW": ">>一位玩家撿到了電擊 <<"
+    }
+  },
+  ">>A player has learned an ability from White Mage <<": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": ">>プレイヤーがホワイトメイジの能力を習得しました <<",
+      "CN": ">>>一名玩家学会了白魔法 <<<",
+      "KR": ">>플레이어가 화이트 메이지의 기술을 습득했습니다 <<",
+      "TW": ">>一名玩家學會了白魔法技能 <<"
+    }
+  },
+  ">>A player has learned an ability from Bard<<": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": ">>プレイヤーがバードから能力を習得しました<<",
+      "CN": ">>一名玩家学习了来自巴德的能力<<",
+      "KR": ">> 한 플레이어가 바드의 능력을 배웠습니다 <<",
+      "TW": ">>玩家已學習了來自吟遊詩人的能力<<"
+    }
+  },
+  ">>Defend 40s for the teleport<<": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": ">>テレポートの防御コスト40秒<<",
+      "CN": "防守40秒传送术。",
+      "KR": ">>>텔포 데미지 40스 >>>",
+      "TW": "防禦 40 秒時的传送 >>>"
+    }
+  },
+  ">>Defend until both sides doors open<<": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": ">>両側のドアが開くまで防衛を続けた<<",
+      "CN": ">> 防守直到双方的门同时打开 <<",
+      "KR": ">>>두 팀의 문이 모두 열릴 때까지 방어해<<<",
+      "TW": ">>直到雙方的大門都打開了，則繼續防守<<"
+    }
+  },
+  ">>AFK 40s<<": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": ">>40秒AFK<<",
+      "CN": "》离线40秒《",
+      "KR": ">> 40초 AFK <<",
+      "TW": ""
+    }
+  },
+  ">>AFK 80s<<": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": ">>80年代<<",
+      "CN": "",
+      "KR": ">>80년대 AFK<<",
+      "TW": ""
+    }
+  },
+  ">>Small ADS can provide speed to zombie<<": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": ">>小規模なADSはゾンビの速度を上げる可能性がある<<",
+      "CN": ">>小型ADS可以为僵尸提供速度<<",
+      "KR": ">>작은 ADS는 좀비에게 속도를 제공할 수 있습니다<<",
+      "TW": ">>小型 ADS 可以提供給殭屍速度<<"
+    }
+  },
+  ">>Destory small ADS can also reduce the main ADS hp<<": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "小型のADSを破壊することで、メインのADSのHPも減少します。",
+      "CN": "摧毁小型ADS也能降低主ADS的生命值。",
+      "KR": "작은 ADS를 파괴하면 메인 ADS 체력도 감소합니다.",
+      "TW": "摧毀小型ADS也能降低主ADS的HP"
+    }
+  },
+  ">>A player has learned an ability from Astrologian <<": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": ">>プレイヤーがアストログラニアンの能力を習得しました <<",
+      "CN": ">>一名玩家学习了天文学家的技能 <<",
+      "KR": ">> 플레이어가 아스트로기안의 기술을 배웠습니다 <<",
+      "TW": ">>一位玩家學習了來自星象師的能力 <<"
+    }
+  },
+  ">>Destory ADS in 180s<<": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "180秒でADSを破壊せよ",
+      "CN": ">>在180秒内摧毁ADS<<",
+      "KR": ">>180초 안에 ADS 파괴<<",
+      "TW": ">>180秒內摧毀ADS<<"
+    }
+  },
+  ">>Last defense, keep holding here for 15s!<<": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "最後の防衛線、15秒間こちらを守りきれ！",
+      "CN": ">>最后防线，坚持守住这里15秒！<<",
+      "KR": ">>마지막 방어선, 15초 동안 계속 버텨!<<",
+      "TW": "「最後防線，堅持守住這裡15秒！」"
+    }
+  },
+  "Stage -> Aggression": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "Stage -> 攻撃 (Kōgeki)",
+      "CN": "阶段 -> 侵略",
+      "KR": "Stage -> 공격 (Gong-gye)",
+      "TW": "階段 ->  saldırı"
+    }
+  },
+  ">>The road on the right is blocked. We should find another way to go<<": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "右の道は塞がれています。別の方法で進むべきです。",
+      "CN": "右边的道路被封锁了。我们应该找到另一种方法去。",
+      "KR": "오른쪽 길은 막혔습니다. 다른 길을 찾아야 합니다.",
+      "TW": ">>右邊的路被封鎖了。我們應該找到另一條路線。<<"
+    }
+  },
+  ">>Look! There is a teleporter<<": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "ほら！テレポーターがあるぞ！",
+      "CN": ">>看！有一个传送器<<",
+      "KR": "봐! 테슬레이터가 있어 <<",
+      "TW": ">>看！這裡有一個透時器<<<"
+    }
+  },
+  ">>Defend<<": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "守れ",
+      "CN": ">>防守<<",
+      "KR": ">>방어<<",
+      "TW": "防守"
+    }
+  },
+  ">>Defend 15s<<": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": ">>15秒の防御<<",
+      "CN": ">> 防守 15 秒 <<",
+      "KR": ">>방어 15초<<",
+      "TW": ">>防守15秒<<"
+    }
+  },
+  ">>AFK 5s<<": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": ">>5分AFK<<",
+      "CN": "",
+      "KR": ">> 5분 AFK <<",
+      "TW": ""
+    }
+  },
   ">>Provoke Unlock <<": {
     "translation": "",
     "MultiLang": {
       "US": "",
-      "JP": ">>誘発 unlocks <<",
-      "CN": ">>激发解锁<<",
-      "KR": ">>일ock <<",
-      "TW": ">>引發解鎖<<"
+      "JP": ">>挑発 解き放つ <<",
+      "CN": ">>激怒解锁<<",
+      "KR": ">>>격분 - 잠금 해제<<<",
+      "TW": ">>激怒解鎖 <<"
     }
   },
   ">>Iron Chariot<<": {
     "translation": "",
     "MultiLang": {
       "US": "",
-      "JP": ">>鉄の戦車<<",
-      "CN": ">>铁甲战车<<",
-      "KR": ">>강철 전차<<",
-      "TW": ">>鐵輪車<<"
+      "JP": ">>鉄の車輪<<",
+      "CN": ">>铁战车<<",
+      "KR": ">>철제 수레<<",
+      "TW": ">>鐵輪戰車<<"
     }
   },
   "|||No.1 Lunar Dynamo|||": {
     "translation": "",
     "MultiLang": {
       "US": "",
-      "JP": "|||No.1 ルナリックダイナモ|||",
-      "CN": "|||第1号月光动力|||",
-      "KR": "|||No.1 루나리徐州动力|||",
-      "TW": "|||第1號月光動力|||"
+      "JP": "",
+      "CN": "|||月球动力师 No.1|||",
+      "KR": "",
+      "TW": ""
     }
   },
   ">>Provoke<<": {
     "translation": "",
     "MultiLang": {
-      "US": ">>Provokate<<",
-      "JP": ">>挑逗<<",
-      "CN": ">>激怒<<",
-      "KR": "",
-      "TW": ">>挑釁<<"
+      "US": "",
+      "JP": "挑発",
+      "CN": "挑衅",
+      "KR": ">>>격분<<<",
+      "TW": "挑釁"
     }
   },
   ">>Dalamud Dive<<": {
     "translation": "",
     "MultiLang": {
       "US": "",
-      "JP": ">>デムードダイブ<<",
-      "CN": ">>德兰姆潜行<<",
-      "KR": ">>(데미두드 라이브)<<",
-      "TW": ">>黛玛圖潜行<<"
+      "JP": "",
+      "CN": ">>雲幕潛入<<",
+      "KR": "",
+      "TW": ">>雲幕潛入<<"
     }
   },
   ">>Lunar Dynamo<<": {
     "translation": "",
     "MultiLang": {
       "US": "",
-      "JP": ">>ラナールダイナミコ<<",
-      "CN": ">>月轮动力<<",
-      "KR": ">>달력 동적기<<",
-      "TW": ">>月亮動力<<"
+      "JP": ">>ルーン・ダイナモ<<",
+      "CN": ">>月影主宰<<",
+      "KR": ">>달의 역동자<<",
+      "TW": ">>月影武者<<"
     }
   },
   "|||No.1 Iron Chariot|||": {
     "translation": "",
     "MultiLang": {
       "US": "",
-      "JP": "|||No.1 鋼鉄の車輸|||",
-      "CN": "|||第1号铁战车|||",
-      "KR": "|||No.1 철갑차|||",
-      "TW": "|||第1號鐵戰車|||"
+      "JP": "",
+      "CN": "|||#1 铁战车|||",
+      "KR": "|||#1 강철 수레 |||",
+      "TW": "|||號誌一：鐵車鎧|||"
     }
   },
   "Stage -> Truth": {
     "translation": "",
     "MultiLang": {
       "US": "",
-      "JP": "ステージ -> 真実",
-      "CN": "阶段 -> 真相",
-      "KR": "스테이지 -> 진실",
-      "TW": "階段 -> 真相"
+      "JP": "",
+      "CN": "",
+      "KR": "",
+      "TW": ""
     }
   },
   ">> Piercing Laser <<": {
     "translation": "",
     "MultiLang": {
       "US": "",
-      "JP": ">> 濾し光線 <<",
-      "CN": ">> 穿刺激光 <<",
-      "KR": ">> 뚫는 레이저 <<",
-      "TW": ">> 穿刺激光 <<"
+      "JP": ">> レーザーパンチ <<",
+      "CN": ">> 穿透激光 <<",
+      "KR": ">> 레이저 꿰뚫기 <<",
+      "TW": ">> 穿透激光 <<"
     }
   },
   ">>A zombie got some power from Ifrit<<": {
     "translation": "",
     "MultiLang": {
       "US": "",
-      "JP": ">>イフリートから復活の力を受け取ったゾンビ<<",
-      "CN": ">>1个丧尸从若莱那里获得了1些力量<<",
-      "KR": ">>>Ifrit의 힘으로 좀비가 무기력에서 벗어났다<<<",
-      "TW": ">>1只殭屍從Ifrit那裡獲得了些力量<<"
+      "JP": ">>イフリートから力を得たゾンビ <<",
+      "CN": ">>一个僵尸从伊弗伊获得了一些力量<<",
+      "KR": ">>좀비가 이프리트에서 힘을 얻었다 <<",
+      "TW": ">>殭屍從伊夫瑞得到了一些力量<<"
     }
   },
   ">>Defend 20s<<": {
     "translation": "",
     "MultiLang": {
       "US": "",
-      "JP": ">>20秒防禦<<",
+      "JP": ">>防衛 20秒<<",
       "CN": ">>防守20秒<<",
-      "KR": ">>방어 20s<<",
-      "TW": ">>防禦20s<<"
+      "KR": ">>방어 20초<<",
+      "TW": ">>防守 20 秒<<"
     }
   },
   ">>Wait until the platform go up<<": {
     "translation": "",
     "MultiLang": {
       "US": "",
-      "JP": ">>プラットフォームが上に上がるのを待ting<<",
-      "CN": ">>等平台上升再行动<<",
-      "KR": ">>플랫폼이 올라가도록 기다리세요<<",
-      "TW": ">>等待平台上升<<"
+      "JP": "待って、プラットフォームが上昇するまで",
+      "CN": ">>等待平台升起<<",
+      "KR": "플랫폼이 올라올 때까지 기다려.",
+      "TW": ">>等待平台升起<<"
     }
   },
   ">>Zombies can climb up from both sides<<": {
     "translation": "",
     "MultiLang": {
       "US": "",
-      "JP": ">>ゾンビは両サイドから登ることができます<<",
-      "CN": ">>丧尸可以从两侧爬上来<<",
-      "KR": ">>\n\nゾ메지들은 양쪽에서 올라올 수 있음\n\n<<( Zoemejeotteul yangjokkeure ollaolseum)\n\n>> Zombies can climb up from both sides<<",
-      "TW": ">>殭屍可以从兩邊爬上来<<"
+      "JP": ">>ゾンビは両面から上へ登ることができます<<",
+      "CN": ">>>僵尸可以从两侧向上爬<<<",
+      "KR": ">>좀비는 양쪽 모두에서 위로 올라갈 수 있습니다<<",
+      "TW": ">>殭屍可以從兩側爬上去<<"
     }
   },
   ">>Phoenix is going to wake up in 10 seconds<<": {
     "translation": "",
     "MultiLang": {
-      "US": ">>Phoenix will wake up in 10 seconds<<",
-      "JP": ">>フェニックスは10秒後に覚醒する<<",
+      "US": "",
+      "JP": ">>フェニックスは10秒後に目覚める>>",
       "CN": ">>凤凰将在10秒后苏醒<<",
-      "KR": ">>페인 FixedUpdate는 10초 후에 깨어납니다<<",
-      "TW": ">>鳳凰將在10秒後醒來<<"
+      "KR": ">>페닉스가 10초 후에 깨어날 것입니다<<",
+      "TW": ">>>鳳凰將在10秒後甦醒<<<"
     }
   },
   ">>Shield<<": {
     "translation": "",
     "MultiLang": {
       "US": "",
-      "JP": ">>シールド<<",
-      "CN": ">>护盾<<",
-      "KR": ">>방어<<",
-      "TW": ">>防禦<<"
+      "JP": "<<シールド>>",
+      "CN": "<<护盾>>",
+      "KR": ">>방패<<",
+      "TW": "<<盾牌>>"
     }
   },
   ">>BrandofPurgatory<<": {
     "translation": "",
     "MultiLang": {
-      "US": ">>PurgatoryBrand<<",
-      "JP": ">>地獄の-brandof-<<",
-      "CN": ">>炼狱之刃<<",
-      "KR": ">>지옥의브랜드<<",
-      "TW": ">>煉獄之-brandof-purgatory<<"
+      "US": "",
+      "JP": ">>ブランド・オブ・バージョリ<<",
+      "CN": ">>炼狱品牌<<",
+      "KR": "",
+      "TW": ">>煉獄之域<<"
     }
   },
   ">>FlamesofUnforgiveness<<": {
     "translation": "",
     "MultiLang": {
       "US": "",
-      "JP": ">>罰を忘れない炎<<",
-      "CN": ">>宽恕之炎<<",
-      "KR": ">>불용서의 불꽃<<",
-      "TW": ">>不諒解之炎<<"
+      "JP": ">>炎の許しなきもの<<",
+      "CN": "<<火焰永不饶恕>>",
+      "KR": "<<불관용의 불꽃>>",
+      "TW": "<<烈焰之怒>>"
     }
   },
   ">>Fountain of Fire<<": {
     "translation": "",
     "MultiLang": {
       "US": "",
-      "JP": ">>炎の泉<<",
-      "CN": ">>火焰之泉<<",
-      "KR": ">>화염 샘?>>",
-      "TW": ">>火之泉<<"
+      "JP": "<<炎の泉>>",
+      "CN": "<<火焰喷泉>>",
+      "KR": ">>분수대: 불꽃<<",
+      "TW": ">>噴火池<<"
     }
   },
   ">>Revelation<<": {
     "translation": "",
     "MultiLang": {
       "US": "",
-      "JP": "<<<啓示>>>",
-      "CN": ">>启示<<",
-      "KR": ">>공개<<",
-      "TW": ">>啟示<<"
+      "JP": ">>啓示<<",
+      "CN": ">>启示录<<",
+      "KR": ">>구원선언<<",
+      "TW": ">>揭示 (jìshì)<<"
     }
   },
   ">>Gravity<<": {
@@ -433,20 +433,20 @@
     "translation": "",
     "MultiLang": {
       "US": "",
-      "JP": ">>衝突<<",
-      "CN": ">>碰撞<<",
-      "KR": ">>충돌<<",
-      "TW": ">>碰撞<<"
+      "JP": "衝突",
+      "CN": "碰撞",
+      "KR": "충돌",
+      "TW": "碰撞"
     }
   },
   ">>Phoenix is going to destroy us with FlamesofRebirth<<": {
     "translation": "",
     "MultiLang": {
-      "US": ">>Phoenix will destroy us with FlamesofRebirth<<",
-      "JP": ">>フェニックスは再生の炎で私たちを破滅させるつもりだ<<",
-      "CN": ">>凤凰将以再生之焰毁灭我们<<",
-      "KR": ">>불생명이 우리를 파괴할 것이다<<",
-      "TW": ">>鳳凰將用重生之焰毀滅我們<<"
+      "US": "",
+      "JP": ">>フェニックスが、レジェンズ・オブ・リバイバルで私たちを炎で滅ぼすぞ！<<",
+      "CN": ">>凤凰将用《涅槃之焰》毁灭我们<<",
+      "KR": ">>페닉스가 리바스 오브 플레임으로 우리를 파괴할 것이다<<",
+      "TW": ">>鳳凰將用《涅槃之火》毀滅我們<<"
     }
   },
   ">>1<<": {
@@ -553,20 +553,20 @@
     "translation": "",
     "MultiLang": {
       "US": "",
-      "JP": ">>ミリオン核爆発st<<",
-      "CN": ">>千万核爆炸<<",
+      "JP": ">>百万の核爆弾<<",
+      "CN": ">>百万核爆炸<<",
       "KR": ">>백만 핵 폭발<<",
-      "TW": ">>百万核爆<<<"
+      "TW": ">>百万核爆炸<<"
     }
   },
   ">>A zombie got some power from Garuda<<": {
     "translation": "",
     "MultiLang": {
       "US": "",
-      "JP": ">>ガラーダから生還者が力を得た<<",
-      "CN": ">>1只僵尸从迦鲁达那里获得了力量<<",
-      "KR": ">>거다라에서 좀비가 힘을 얻었다<<",
-      "TW": ">>1支屍 resil取自迦魯達的強大<<(保留原文标点和格式)"
+      "JP": ">>ゾンビがガルダから力を得た<<",
+      "CN": ">>一个僵尸从加拉哈德获得了力量<<",
+      "KR": ">>좀비가 가루다로부터 힘을 얻었다 <<",
+      "TW": ">>一個殭屍從加拉杜那裡獲得了力量<<"
     }
   }
 }

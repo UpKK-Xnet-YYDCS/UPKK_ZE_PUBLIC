@@ -2,21 +2,21 @@
   ">>10秒后启用强制传送<<": {
     "translation": ">>10秒后启用强制传送<<",
     "MultiLang": {
-      "US": ">>Activate forced teleport in 10 seconds<<",
-      "JP": ">>10秒後に強制移動启用<<",
+      "US": ">>10 seconds to enable forced teleport <<",
+      "JP": ">>10秒後に強制移動を開始<<",
       "CN": ">>10秒后启用强制传送<<",
-      "KR": ">>10초 후 강제 이동 시작<<",
-      "TW": ">>10秒後啟用手動傳送<<"
+      "KR": ">>10초 뒤 강제 이동 활성화 <<",
+      "TW": ""
     }
   },
   ">>20 seconds left<<": {
     "translation": ">>20秒<<",
     "MultiLang": {
       "US": "",
-      "JP": ">>20秒-left<<",
+      "JP": "",
       "CN": ">>20秒<<",
-      "KR": ">>20 초 남음<<",
-      "TW": ">>20秒剩餘<<"
+      "KR": "",
+      "TW": ">>時間剩餘20秒<<"
     }
   },
   ">>20<<": {
@@ -33,10 +33,10 @@
     "translation": ">>25秒<<",
     "MultiLang": {
       "US": "",
-      "JP": ">>25秒残り<<",
+      "JP": ">>25秒経過<<",
       "CN": ">>25秒<<",
-      "KR": ">>25 초 남음<<",
-      "TW": ">>25秒剩餘<<"
+      "KR": "",
+      "TW": ">>25 秒餘<<"
     }
   },
   ">>30<<": {
@@ -53,19 +53,19 @@
     "translation": ">>40秒<<",
     "MultiLang": {
       "US": "",
-      "JP": ">>40秒後<<",
+      "JP": "<<残り40秒>>",
       "CN": ">>40秒<<",
-      "KR": ">>40 초 남음<<",
-      "TW": ">>40秒剩余<<"
+      "KR": "",
+      "TW": ">>40秒時間剩餘<<"
     }
   },
   ">>Gate of Babylon<<": {
     "translation": ">>王之财宝<<",
     "MultiLang": {
       "US": "",
-      "JP": ">>バビロニアの門<<",
+      "JP": "<<バビロンの門>>",
       "CN": ">>王之财宝<<",
-      "KR": ">>바빌론 문<<",
+      "KR": ">>바빌론의 문<<",
       "TW": ">>巴比倫之門<<"
     }
   },
@@ -73,340 +73,340 @@
     "translation": ">>servant berserker<<",
     "MultiLang": {
       "US": "",
-      "JP": ">>サーヴァントバーサーク<<",
-      "CN": ">>侍从狂战士<<",
-      "KR": ">>서버트 버저커<<",
+      "JP": ">>サーバント バーサーカー<<",
+      "CN": ">>servant berserker<<",
+      "KR": ">>종복 광전사<<",
       "TW": ">>侍從狂戰士<<"
     }
   },
   ">>也许某处的梯子可以让我们上到地表<<": {
     "translation": ">>也许某处的梯子可以让我们上到地表<<",
     "MultiLang": {
-      "US": ">>Maybe some ladder somewhere can get us to the surface<<",
-      "JP": ">>どこかの階段で地面に上がれるかもしれない<<",
+      "US": ">>Maybe a ladder somewhere can let us get to the surface<<",
+      "JP": ">>もしかしたらどこかの階段で地面まで登れるかも<<",
       "CN": ">>也许某处的梯子可以让我们上到地表<<",
-      "KR": ">>일단은 어디서든 계단이SURFACE로上去到表面<<",
+      "KR": ">>어딘가에 층이 있을지도 모른다, 그걸로 지상으로 올라갈 수 있을지도 <<",
       "TW": ">>也許某處的梯子可以讓我們上到地表<<"
     }
   },
   ">>传送将于50秒后启用<<": {
     "translation": ">>传送将于50秒后启用<<",
     "MultiLang": {
-      "US": ">>Transmission will activate in 50 seconds<<",
-      "JP": ">>送信は50秒後で開始されます<<",
+      "US": ">>Teleport will be enabled in 50 seconds<<",
+      "JP": "",
       "CN": ">>传送将于50秒后启用<<",
-      "KR": ">>전송은 50초 후에 사용 가능)<<",
-      "TW": ">>传送將於50秒後啟用<<"
+      "KR": ">>전송은 50초 후에 활성화됩니다<<",
+      "TW": ""
     }
   },
   ">>你告诉我你出了什么?<<": {
     "translation": ">>你告诉我你出了什么?<<",
     "MultiLang": {
-      "US": ">>You tell me what you got?>>",
-      "JP": ">>君に何が起こったかtell me<<",
+      "US": ">>Tell me what happened?<<",
+      "JP": ">>君に何が起きたのか教えてくれない？<<",
       "CN": ">>你告诉我你出了什么?<<",
-      "KR": ">> 너가 뭔usercontent(系统未识别到指令，请检查输入)?>>",
-      "TW": ">>你告訴我你出了什麼??<<"
+      "KR": ">>네, 무슨 일이 있었어?<<",
+      "TW": ""
     }
   },
   ">>倒下的树木拦住了我们的去路,再坚持30秒<<": {
     "translation": ">>倒下的树木拦住了我们的去路,再坚持30秒<<",
     "MultiLang": {
-      "US": ">>Felled trees blocked our way. Hold on for 30 more seconds<<",
-      "JP": ">>倒れた木が私たちの道を阻み、もう30秒我慢<<",
+      "US": ">>The fallen trees blocked our path, hold on for 30 seconds <<",
+      "JP": "",
       "CN": ">>倒下的树木拦住了我们的去路,再坚持30秒<<",
-      "KR": ">> diseñador 숙]={\n我们的道路被倒下的树木阻拦, 더 견디세요 30초<<",
-      "TW": ">>倒下的樹木擋住了我們的去路,再堅持30秒<<"
+      "KR": ">> 무너진 나무들이 우리의 길을 막았어. 다시 30초만 버텨. <<",
+      "TW": ""
     }
   },
   ">>僵尸传送将于15秒后生效<<": {
     "translation": ">>僵尸传送将于15秒后生效<<",
     "MultiLang": {
-      "US": ">>Zombie teleport will activate in 15 seconds<<",
-      "JP": ">>ゾンビの teleport は15秒後に有効になります<<",
+      "US": "Zombie teleport will take effect in 15 seconds.",
+      "JP": ">>ゾンビ転送は15秒後に有効になります<<",
       "CN": ">>僵尸传送将于15秒后生效<<",
-      "KR": ">>좀비 전송은 15초 후에 발동됩니다<<",
-      "TW": ">>殭屍傳送將於15秒後生效<<"
+      "KR": ">>좀비 전송은 15초 후에 활성화됩니다<<",
+      "TW": ""
     }
   },
   ">>僵尸将于30秒后传送<<": {
     "translation": ">>僵尸将于30秒后传送<<",
     "MultiLang": {
-      "US": ">>Zombies will teleport in 30 seconds<<",
-      "JP": ">>ゾンビは30秒後に移送される<<",
+      "US": "Zombies will teleport in 30 seconds.",
+      "JP": ">>ゾンビが30秒後に传送<<",
       "CN": ">>僵尸将于30秒后传送<<",
-      "KR": ">> 좀비는 30초 후에 전송됩니다<<",
-      "TW": ">>殭屍將於30秒後傳送<<"
+      "KR": ">>좀비는 30초 후에 소환될 것이다 <<",
+      "TW": ">>殭屍會在30秒後傳送<<"
     }
   },
   ">>出现了奇怪的迷雾,它会使得我们的行动变得迟缓!<<": {
     "translation": ">>出现了奇怪的迷雾,它会使得我们的行动变得迟缓!<<",
     "MultiLang": {
-      "US": ">>Strange fog appeared, it will slow down our movements!!<<",
-      "JP": ">>不思議な霧が現れた、これにより行動は遅れそうだ！<<",
+      "US": ">>A strange mist has appeared, it will make our actions slow!<<",
+      "JP": ">>奇妙な霧が現れ、私たちの行動を遅らせる！<<",
       "CN": ">>出现了奇怪的迷雾,它会使得我们的行动变得迟缓!<<",
-      "KR": ">>추운 안개가 나타났다. 그것이 우리의 행동을 늦추게 한다!<<",
-      "TW": ">>出現了奇怪的迷霧,它會使得我們的行動變得遲緩!<<"
+      "KR": "",
+      "TW": ""
     }
   },
   ">>前方区域30秒后可通行<<": {
     "translation": ">>前方区域30秒后可通行<<",
     "MultiLang": {
-      "US": ">>/Area ahead clear in 30 seconds<<",
-      "JP": ">>先方エリア30秒後通行可能<<",
+      "US": ">>>The area is accessible in 30 seconds.<<<",
+      "JP": "",
       "CN": ">>前方区域30秒后可通行<<",
-      "KR": ">>앞방 지역 30초 후 통행 가능<<",
-      "TW": ">>前方區域30秒後可通行<<"
+      "KR": ">>30초 후부터 해당 지역 통과 가능 <<",
+      "TW": ">>本區域30秒後可通行<<"
     }
   },
   ">>前方的区域30秒后可通行<<": {
     "translation": ">>前方的区域30秒后可通行<<",
     "MultiLang": {
-      "US": ">>The area in front is clear in 30 seconds<<",
-      "JP": ">>先方のエリアは30秒後方可通行<<",
+      "US": "The area ahead will be accessible in 30 seconds.",
+      "JP": "",
       "CN": ">>前方的区域30秒后可通行<<",
-      "KR": ">>앞방의 지역은 30초 후에 통과 가능합니다<<",
+      "KR": ">>앞쪽 지역은 30초 후부터 이동 가능합니다<<",
       "TW": ">>前方區域30秒後可通行<<"
     }
   },
   ">>妄想心音,对命中的敌人延迟施加负面效果,有概率直接秒杀(幸运E),标记可被治愈魔术清除<<": {
     "translation": ">>妄想心音,对命中的敌人延迟施加负面效果,有概率直接秒杀(幸运E),标记可被治愈魔术清除<<",
     "MultiLang": {
-      "US": ">>Delusional Heartbeat - Delays applying negative effects to命中 enemies, with a chance to one-hit kill (Lucky E). Markers can be removed by healing magic<<",
-      "JP": ">>妄想心音,命中敵人时延迟施加負面效果,有一定概率直接秒殺(幸運E),標記可被治療魔術消除<<",
+      "US": ">>Phantom Echo, applies negative effects to enemies with delayed timing, has a chance to instantly kill them (Lucky E), Mark can be healed by Cure Magic Clear<<",
+      "JP": "",
       "CN": ">>妄想心音,对命中的敌人延迟施加负面效果,有概率直接秒杀(幸运E),标记可被治愈魔术清除<<",
-      "KR": ">>착시心想,對命中敵人延遲施加負面效果,有概率直接秒殺(幸運E),標記可被治療魔術清除<<",
-      "TW": ">>妄想心音,對命中的敵人延遲施加負面效果,有機率直接秒殺(幸運E),標記可被治療魔法清除<<"
+      "KR": ">>> 망상 심음, 운명의 적에게 지연된 부정 효과를 부여하며, 확률적으로 즉사(행운E)를 시전합니다.  마킹은 치유 마법으로 제거 가능 <<",
+      "TW": ""
     }
   },
   ">>屏障将于30秒后消失<<": {
     "translation": ">>屏障将于30秒后消失<<",
     "MultiLang": {
-      "US": ">>Barrier will vanish in 30 seconds<<",
-      "JP": ">>バリアは30秒後で消滅します<<",
+      "US": ">>The barrier will disappear in 30 seconds <<",
+      "JP": ">>壁が30秒後に消えます<<",
       "CN": ">>屏障将于30秒后消失<<",
-      "KR": ">>장벽은 30초 후에 사라집니다<<",
-      "TW": ">>屏障將於30秒後消逝<<"
+      "KR": ">>방벽이 30초 후에 사라집니다<<",
+      "TW": ">>防護欄將在30秒後消失<<"
     }
   },
   ">>强制传送将于25秒后启用<<": {
     "translation": ">>强制传送将于25秒后启用<<",
     "MultiLang": {
-      "US": ">> Forced teleportation will activate in 25 seconds<<",
-      "JP": ">>強制傳送将于25秒后启用<<",
+      "US": ">>Force teleport will be enabled after 25 seconds<<",
+      "JP": ">>強制ポータルは25秒後に有効になります<<",
       "CN": ">>强制传送将于25秒后启用<<",
-      "KR": ">>강제 전송은 25초 후에 활성화됩니다<<",
-      "TW": ">>強制傳送於25秒後啟用<<"
+      "KR": ">>강제 이동은 25초 후에 활성화됩니다<<",
+      "TW": ""
     }
   },
   ">>死棘之枪,使用后腾空,蓄力后向指定方向投出死棘之枪，到达人类附近后爆炸,冷却60秒<<": {
     "translation": ">>死棘之枪,使用后腾空,蓄力后向指定方向投出死棘之枪，到达人类附近后爆炸,冷却60<<",
     "MultiLang": {
-      "US": ">>Deadthorn Spear, use to leap into the air, build up force then throw it in a designated direction. It will explode near humans.Cooldown: 60s<<",
-      "JP": ">>死棘の槍, 使用すると跳躍し、蓄力後指定方向に投擲して死棘の槍が Humans付近で爆発する。クールダウン60秒<<",
+      "US": "Deadbolt Shot, upon use, launches you into the air.  Upon charging, fire the Deadbolt Shot in a designated direction, which explodes near humans. Cooldown: 60 seconds.",
+      "JP": "",
       "CN": ">>死棘之枪,使用后腾空,蓄力后向指定方向投出死棘之枪，到达人类附近后爆炸,冷却60<<",
-      "KR": ">>사망의 주추, 사용 후腾空,蓄力后向指定方向投出死棘之枪，到达人类附近后爆炸, 冷却60秒<<",
-      "TW": ">>死棘之槍, 使用後騰空, 蓄力後向指定方向投出死棘之槍，到達人類附近後爆炸, 冷卻60秒<<"
+      "KR": ">>죽음의 덫 총, 사용 후 튕겨 나가며, 충전 후 지정 방향으로 죽음의 덫 총을 발사하여 인간 근처에 도달하면 폭발합니다. 냉각 시간 60초 <<",
+      "TW": ">>死棘之槍, 使用後騰空, 蓄力後向指定方向投出死棘之槍，到達人類附近後爆炸, 冷却60秒<<"
     }
   },
   ">>水底似乎有什么动静<<": {
     "translation": ">>水底似乎有什么动静<<",
     "MultiLang": {
-      "US": ">>There seems to be some movement underwater<<",
-      "JP": ">>水底に何かの動きがある似乎是的<<",
+      "US": "Something seems to be moving down below.",
+      "JP": ">>水底には何か動きがあるようだ<<",
       "CN": ">>水底似乎有什么动静<<",
-      "KR": ">>물 아래에 무엇인가 움직이고 있는 것 같아<<",
-      "TW": ">>水底似乎有什麼動靜<<"
+      "KR": ">> 물 밑에서 뭔가 움직이는 듯한 소리가 들린다 <<",
+      "TW": ""
     }
   },
   ">>水面传送将于20秒后消失<<": {
     "translation": ">>水面传送将于20秒后消失<<",
     "MultiLang": {
-      "US": ">>The water surface teleport will disappear in 20 seconds<<",
-      "JP": ">>水面上の傳送は20秒後に消滅する<<",
+      "US": "Water teleport will disappear after 20 seconds.",
+      "JP": "",
       "CN": ">>水面传送将于20秒后消失<<",
-      "KR": ">>수면 전송은 20초 후에 사라집니다<<",
-      "TW": ">>水面傳送將於20秒後消失<<"
+      "KR": ">>물 표면 전송은 20초 후 사라집니다<<",
+      "TW": ""
     }
   },
   ">>治愈魔术，为范围内的人类持续恢复至250生命，持续时间10秒<<": {
     "translation": ">>治愈魔术，为范围内的人类持续恢复至250生命，持续时间10<<",
     "MultiLang": {
-      "US": ">>Healing Magic, restores 250 health to humans in range for 10 seconds<<",
-      "JP": ">>治療魔法、範囲内の人類に10秒間連続で250の生命を回復する<<",
+      "US": "Healing Magic: Continuously restores up to 250 health to all humans within range for 10 seconds.",
+      "JP": ">>治癒魔法、範囲内の人間を継続的に250まで回復させ、持続時間10秒<<",
       "CN": ">>治愈魔术，为范围内的人类持续恢复至250生命，持续时间10<<",
-      "KR": ">>치유 마법, 250의 생명을 10초 동안 지속적으로 회복시킵니다<<(韩文)",
-      "TW": ">>療癒 magic，對範圍內的人類持續恢復250生命，持續時間10秒<<"
+      "KR": ">>>치유 마술, 범위 내의 모든 인간에게 지속적으로 생명력을 250까지 회복시킵니다. 지속 시간은 10초입니다<<<",
+      "TW": ">>治癒魔術，為範圍內的人類持續恢復至250生命，持續時間10秒<<"
     }
   },
   ">>火球,命中僵尸产生爆炸,冷却30秒<<": {
     "translation": ">>火球,命中僵尸产生爆炸,冷却30<<",
     "MultiLang": {
-      "US": ">>Fireball, hits zombies cause explosion, cooldown 30 seconds<<",
-      "JP": ">>炎の玉、ゾンビに命中すると爆発し、クールダウン30秒<<",
+      "US": "Fireball, hits zombies to create explosions, cooldown 30 seconds",
+      "JP": "",
       "CN": ">>火球,命中僵尸产生爆炸,冷却30<<",
-      "KR": ">>화염구가 블록에 맞으면 폭발, 재사용 대기 시간 30초<<",
-      "TW": ">>火球,命中殭尸產生爆炸,冷卻30秒<<"
+      "KR": ">> 화구, 좀비에 명중 시 폭발, 냉각 30초 <<",
+      "TW": ">>火焰球，擊中僵屍產生爆炸，冷卻30秒<<"
     }
   },
   ">>狂化<<": {
     "translation": ">>狂化<<",
     "MultiLang": {
-      "US": ">>Frenzy<<",
+      "US": "RAGE",
       "JP": "",
       "CN": ">>狂化<<",
-      "KR": ">>광화<<",
+      "KR": ">>>키메라<<<",
       "TW": ""
     }
   },
   ">>王之财宝,向前方发射武器,命中敌人增加充能,满充能发射天之锁定身敌人5秒<<": {
     "translation": ">>王之财宝,向前方发射武器,命中敌人增加充能,满充能发射天之锁定身敌人5<<",
     "MultiLang": {
-      "US": ">>King's Treasure, fire weapons forward, hit enemies to increase charge, full charge fires Heavenly Lock on enemy for 5 seconds<<",
-      "JP": ">>王の財宝，前方に兵器を発射し、敵に命中すると充電量が増加します。充電満了で天空の制圧による敵5秒 immobilize<<",
+      "US": "Wang Zhi Bao, fire weapons forward, hitting enemies increases charge, full charge fires Sky Lock Body on enemies for 5 seconds",
+      "JP": ">>王の宝物、前方へ武器を発射、敵に命中すると充能が増加、満充能で天の鎖を投げて5秒間敵を锁定<<",
       "CN": ">>王之财宝,向前方发射武器,命中敌人增加充能,满充能发射天之锁定身敌人5<<",
-      "KR": ">>왕의 재산, 전방으로 무기를 발사하여 적에 맞으면 충전량 증가,滿充能发射天之锁定使敌人5秒<<",
-      "TW": ">>王之財寶,向前方發射武器,命中有敵人增加充能,滿充能發射天之鎖定鎖定敵人5秒<<"
+      "KR": ">>왕의 보물, 전방에 무기를 발사하여 적을 맞추면 충전이 증가합니다. 완전히 충전되어 적을 5초 동안 묶습니다.<<",
+      "TW": ">>王之財寶,向前方發射武器,命中敵人增加充能,滿充能發射天之鎖定身敵人5秒<<"
     }
   },
   ">>破裂的石墙后面有梯子,先爬上去看看吧<<": {
     "translation": ">>破裂的石墙后面有梯子,先爬上去看看吧<<",
     "MultiLang": {
-      "US": ">>There's a ladder behind the broken stone wall, why not climb up and see first?<<",
-      "JP": ">>裂んだ石の壁の向こうにlestThereBeLaddersがあり、まずは上まで登ってみましょう<<",
+      "US": "Behind the cracked stone wall is a ladder, climb up to take a look.",
+      "JP": ">>亀裂だらけの石壁の奥に梯子がある。まずは上へ行って様子を見るのが良いだろう<<",
       "CN": ">>破裂的石墙后面有梯子,先爬上去看看吧<<",
-      "KR": ">>แตก한砖 WALL에 뒤쪽으로 계단이 있습니다. 먼저 오르보세요<<",
-      "TW": ">>裂開的石牆後面有梯子,先爬上去看看看吧<<"
+      "KR": ">> 깨진 돌 벽 뒤에 층이 있습니다. 먼저 올라가서 살펴봐야죠 <<",
+      "TW": ">>裂縫中的石牆後面有梯子，先爬上去看看吧<<"
     }
   },
   ">>蔷薇双枪,右键使用破魔红蔷薇向前冲刺,左键使用必灭黄蔷薇进行横扫，被命中的敌人无法进行恢复<<": {
     "translation": ">>蔷薇双枪,右键使用破魔红蔷薇向前冲刺,左键使用必灭黄蔷薇进行横扫，被命中的敌人无法进行恢复<<",
     "MultiLang": {
-      "US": ">>Rose Duel Pistols, right-click to use Crimson Rose of Damnation for a forward dash, left-click to use Will annihilate Yellow Rose for a sweep. Enemies hit cannot recover.<<<(Note: The Chinese character \"蔷\" is kept as \"Rose\" in the translation, and all other instructions are followed faithfully.)",
-      "JP": ">> Roses Double Guns, 右键使用破魔红蔷薇向前冲锋, 左键使用必灭黄蔷薇进行横扫，被命中的敌人无法进行回复<<",
+      "US": "Rose Guns, right-click to use the Demon-Shattering Red Rose for a forward dash, left-click to use the Obliteration Yellow Rose for a horizontal sweep. Enemies hit cannot recover.",
+      "JP": ">>紅蔷薇雙槍，右鍵使用破魔紅蔷薇向前衝刺，左鍵使用必滅黃蔷薇進行橫掃，被命中的敵人無法進行恢復<<",
       "CN": ">>蔷薇双枪,右键使用破魔红蔷薇向前冲刺,左键使用必灭黄蔷薇进行横扫，被命中的敌人无法进行恢复<<",
-      "KR": ">>🌹백화단총, 오른쪽 클릭으로 성파적 빨간 푸른蔷薇 전방 돌진, 왼쪽 클릭으로 필멸적 황색蔷薇 횡扫一 AndAlso受到攻击的敌方单位无法回复<<",
-      "TW": ">>薔薇雙槍,右鍵使用破魔紅薔薇向前衝刺,左鍵使用必滅黃薔薇進行橫掃，被命中的敵人無法進行恢復<<"
+      "KR": ">>홍록궁수, 오른쪽 버튼으로 파마홍록을 앞으로 돌진, 왼쪽 버튼으로 필멸황록으로 측면 견격을 합니다. 적의 명중으로 회복이 불가능합니다<<",
+      "TW": ">>薔薇雙槍, 右鍵使用破魔紅薔薇向前衝刺, 左鍵使用必滅黃薔薇進行橫掃，被命中的敵人無法進行恢復<<"
     }
   },
   ">>誓约胜利之剑,蓄力后向前方发起强力的攻击,造成高额伤害和击退,冷却90秒<<": {
     "translation": ">>誓约胜利之剑,蓄力后向前方发起强力的攻击,造成高额伤害和击退,冷却90<<",
     "MultiLang": {
-      "US": ">>Sworn Victory Blade, deal massive damage and knock back on a powerful attack after channeling. Cooldown: 90s<<",
-      "JP": ">>約束の勝利の剣、充填後前方に強力な攻撃を発動し、大ダメージと吹き飛ばしを与える、クールダウン90秒<<",
+      "US": "Invocation Victory Blade, upon charging, unleashes a powerful attack forward, dealing high damage and knockback, cooldown 90 seconds",
+      "JP": "",
       "CN": ">>誓约胜利之剑,蓄力后向前方发起强力的攻击,造成高额伤害和击退,冷却90<<",
-      "KR": ">>선언의 승리의 검, 적 방향으로 강력한 공격을發起，造成大量伤害并击退敌人，冷却时间90秒<<",
-      "TW": ">>誓約勝利之劍,蓄力後向前方發起強力的攻擊,造成額外傷害和擊退,冷卻90秒<<"
+      "KR": ">>맹세의 승리 검, 발사 후 전방으로 강력한 공격을 시작하여 높은 데미지와 이펙트(넉백)를 발생시킵니다. 차단 시간 90초<<",
+      "TW": ">>誓約勝利之劍，蓄力後向前方發起強力的攻擊，造成高額傷害和擊退，冷卻90秒<<"
     }
   },
   ">>这投射进来的光线或许是我们出去的关键<<": {
     "translation": ">>这投射进来的光线或许是我们出去的关键<<",
     "MultiLang": {
-      "US": ">>This light projection might be key for us to go out<<",
-      "JP": ">>この投影された光線が私たちの外出に必要なものかもしれません<<",
+      "US": ">>This ray of light might be the key to our escape <<",
+      "JP": "",
       "CN": ">>这投射进来的光线或许是我们出去的关键<<",
-      "KR": ">>이 투사된 빛이 우리走出去的关键也许就在其中<<",
-      "TW": ">>這投射進來的光線或許是我們出去的关键<<"
+      "KR": "",
+      "TW": ">>這投射進來的光線或許是我们出去的關鍵<<"
     }
   },
   ">>道路已开启<<": {
     "translation": ">>道路已开启<<",
     "MultiLang": {
-      "US": ">>Road Opened<<",
-      "JP": ">>道が開けました<<",
+      "US": "The road is open.",
+      "JP": "",
       "CN": ">>道路已开启<<",
-      "KR": ">>도로가 열렸습니다<<",
-      "TW": ">>道路已開啟<<"
+      "KR": ">> 길が開通しました <<",
+      "TW": ""
     }
   },
   ">>道路已打开<<": {
     "translation": ">>道路已打开<<",
     "MultiLang": {
-      "US": ">>Road Clear<<",
-      "JP": ">>道が開けました<<",
+      "US": ">>The road is open<<",
+      "JP": "",
       "CN": ">>道路已打开<<",
-      "KR": ">>도로가 열렸습니다<<",
-      "TW": ">>道路已打開<<"
+      "KR": ">> 길が開通しました <<",
+      "TW": ""
     }
   },
   ">>门将于15秒后打开<<": {
     "translation": ">>门将于15秒后打开<<",
     "MultiLang": {
-      "US": ">>The door will open in 15 seconds<<",
-      "JP": ">>門は15秒後 openings]<<",
+      "US": ">>The door will open after 15 seconds <<",
+      "JP": "",
       "CN": ">>门将于15秒后打开<<",
-      "KR": ">> 문이 15초 후에 열립니다 <<",
-      "TW": ">>門将于15秒后打開<<"
+      "KR": ">>문이 15초 후 열림<<",
+      "TW": ""
     }
   },
   ">>集体传送将于10秒后启用,不要放他们出来!<<": {
     "translation": ">>集体传送将于10秒后启用,不要放他们出来!<<",
     "MultiLang": {
-      "US": ">>>Group teleportation will activate in 10 seconds, don't let them out!!<<<",
-      "JP": ">>集団传送10秒後启用,不要放他们出来!<<",
+      "US": "Mass teleportation will be enabled in 10 seconds, don't let them out!",
+      "JP": ">>団体移動（集団伝送）は10秒後に開始されます。絶対に外に出さないでください！<<",
       "CN": ">>集体传送将于10秒后启用,不要放他们出来!<<",
-      "KR": ">>집단 이동은 10초 후에 활성화됩니다. 절대 풀지 마세요!<<",
-      "TW": ">>集体傳送將於10秒後啟用,不要放他們出來!<<"
+      "KR": ">>단체 이동은 10초 후 활성화됩니다. 밖으로 내쫓지 마세요!<<",
+      "TW": ">>群體传送将于10秒后启用，不要放他们出来！<<"
     }
   },
   ">>需要20秒来清理出山洞入口<<": {
     "translation": ">>需要20秒来清理出山洞入口<<",
     "MultiLang": {
-      "US": ">>It takes 20 seconds to clear the cave entrance<<",
-      "JP": ">>20秒で山洞入口を清掃する必要がある<<",
+      "US": "It takes 20 seconds to clear the cave entrance.",
+      "JP": "",
       "CN": ">>需要20秒来清理出山洞入口<<",
-      "KR": ">>20초 동안 동굴 입구를 청소해야 합니다<<",
-      "TW": ">>需要20秒來清 Cleansing洞入口<<"
+      "KR": ">> 20초 안에 동굴 입구 정비 완료 <<",
+      "TW": ""
     }
   },
   ">>风场魔术,生成超大范围的微弱push风场,冷却80秒<<": {
     "translation": ">>风场魔术,生成超大范围的微弱push风场,冷却80<<",
     "MultiLang": {
-      "US": ">>Wind Field Magic, generates a large area weak push wind field, cooldown 80 seconds<<",
-      "JP": ">>風場魔術, 超大範囲の微弱push風場を生成, 冷却80秒<<",
+      "US": "Wind Field Magic, generates a large range of weak wind fields, cooldown 80 seconds",
+      "JP": ">>ウィンドフィールドマジック、超大範囲の微弱な推力風場を生成、クールダウン80秒<<",
       "CN": ">>风场魔术,生成超大范围的微弱push风场,冷却80<<",
-      "KR": ">>풍场所술, 초대형 범위의 약한 push 풍场所술을 생성, 쿨타임 80초<<",
-      "TW": ">>風場魔術,生成超大範圍的微弱push風場,冷卻80秒<<"
+      "KR": ">> 바람 필드 마술, 엄청난 범위의 약한 바람 필드를 생성, 쿨타임 80초 <<",
+      "TW": ">>風場魔術，生成超大範圍的微弱推風場，冷卻80秒<<"
     }
   },
   ">>魔力值小于100<<": {
     "translation": ">>魔力值小于100<<",
     "MultiLang": {
-      "US": ">>>Mana < 100<<<",
-      "JP": ">>魔力値が100未満<<",
+      "US": "Magic Points less than 100",
+      "JP": "魔力値が100未満",
       "CN": ">>魔力值小于100<<",
-      "KR": ">>마나량이 100 미만<<",
-      "TW": ">>魔力值小於100<<"
+      "KR": ">>>마력값 미만 100<<<",
+      "TW": ""
     }
   },
   ">>魔力值小于40<<": {
     "translation": ">>魔力值小于40<<",
     "MultiLang": {
-      "US": ">>Magic below 40<<",
-      "JP": "",
+      "US": "Magic Points less than 40",
+      "JP": ">>>魔力値小于40<<<",
       "CN": ">>魔力值小于40<<",
-      "KR": ">>마력이 40 미만<<<",
-      "TW": ">>魔力值小於40<<"
+      "KR": ">>>마력값 40 미만<<<",
+      "TW": ""
     }
   },
   ">>鲜血神殿,持续为范围内的僵尸恢复生命,并提供移速加成,中心区域可以为僵尸抵挡人类子弹,冷却90秒<<": {
     "translation": ">>鲜血神殿,持续为范围内的僵尸恢复生命,并提供移速加成,中心区域可以为僵尸抵挡人类子弹,冷却90<<",
     "MultiLang": {
-      "US": ">>Blood Chapel, continuously restores health to zombies in the area and provides movement speed bonus. Center area can block human bullets for zombies. Cooldown: 90s<<",
-      "JP": ">>血塚神殿、範囲内のゾンビに生命を回復し、移動速度上昇を提供する。中心部ではゾンビが人類の Bullet を防ぐことができる。クールダウン90秒<<",
+      "US": "Blood Temple, continuously restores health to nearby zombies and provides movement speed boosts. The central area can also block human bullets for zombies. Cooldown: 90 seconds",
+      "JP": ">>鮮血神殿、継続的に範囲内のゾンビに生命を回復させ、移動速度上昇効果を付与。中心エリアはゾンビに人間弾を防御。クールダウン90秒<<",
       "CN": ">>鲜血神殿,持续为范围内的僵尸恢复生命,并提供移速加成,中心区域可以为僵尸抵挡人类子弹,冷却90<<",
-      "KR": ">>혈액 신전, 범위 내의 좀비에게 생명력을 회복시키고 이동 속도 증가 효과를 제공합니다. 중심 지역은 인간의 총알을 좀비에게 맞게 방어할 수 있습니다. 냉각 시간 90초<<",
-      "TW": ">>鮮血神殿,持續為範圍內的殭屍恢復生命,並提供移速加成,中心區域可以為殭屍抵挡人類子彈,冷卻90秒<<"
+      "KR": ">>핏빛 성전, 지속적으로 범위 내의 좀비에게 생명력을 회복시키고, 이동 속도 버프를 제공합니다. 중심 지역에서는 좀비에게 인간 총탄을 방어할 수 있습니다. 냉각 시간 90초<<",
+      "TW": ">>血祭神殿，持续为范围内丧尸恢复生命，并提供移动速度加成，中心区域可为丧尸抵挡人类子弹，冷却90秒<<"
     }
   },
   ">>黑键,用魔力编织出剑刃并投掷,命中目标后在其附近形成一个控制型立场,冷却40秒<<": {
     "translation": ">>黑键,用魔力编织出剑刃并投掷,命中目标后在其附近形成一个控制型立场,冷却40<<",
     "MultiLang": {
-      "US": ">>Black Key: Weave a blade with magic and throw it. Upon hitting the target, create a control-based stance nearby. Cooldown: 40s<<",
-      "JP": ">>黒鍵、魔力を編み出し刀剣に変化させて投げ撃つ、命中地点周辺に制御型立場を形成し再度使用まで40秒クール<<",
+      "US": "Black key, weave a sword blade with magic and throw it, creating a control-type stance nearby after hitting the target, cooldown 40 seconds",
+      "JP": ">>黒鍵, 魔法力で剣刃を編み出し投擲し、目標に命中した後、その付近に制御型のステーションを形成。冷却40秒<<",
       "CN": ">>黑键,用魔力编织出剑刃并投掷,命中目标后在其附近形成一个控制型立场,冷却40<<",
-      "KR": ">>黑马크, 마력을 활용해 검tip을 얻어 던진다. 목표에 맞추면 근처에서 통제형 필드가 형성되며 쿨타임 40초<<",
-      "TW": ">>黑鍵，用魔力編織出劍刃並投掷，命中目標後在其附近形成1個控制型立場，冷卻40秒<<"
+      "KR": ">>검블랙, 마력을 사용하여 검심을 제작하고 던지며, 목표에 명중하면 그 근처에 제어형 위치를 생성, 쿨다운 40초<<",
+      "TW": ">>按下黑色按键，利用魔力编织出一把剑刃并投掷，命中目标后在其附近形成一个控制型立场，冷却40秒<<"
     }
   },
   "引力黑洞": {
@@ -415,47 +415,47 @@
       "US": "Gravitational Black Hole",
       "JP": "引力ブラックホール",
       "CN": "引力黑洞",
-      "KR": "중력 黑洞",
-      "TW": "引力恆星捲洞"
+      "KR": "블랙홀의 중력",
+      "TW": ""
     }
   },
   "投影魔术，投影数把巨剑阻挡敌人，持续时间10秒": {
     "translation": "投影魔术，投影数把巨剑阻挡敌人，持续时间10",
     "MultiLang": {
-      "US": "Projected Magic: Project 2巨大剑挡敌，持续10秒",
-      "JP": "投影魔术、投影数把巨劍を敵に阻む、持続時間10秒",
+      "US": "Projection Magic, projecting a number of giant swords to block the enemy, duration 10 seconds",
+      "JP": "投影魔術、投影数把巨劍阻擋敵人，持續時間10秒",
       "CN": "投影魔术，投影数把巨剑阻挡敌人，持续时间10",
-      "KR": "이미지 마법, 이미지로 10초 동안 적을 막는 거대한 검 2개 사용",
-      "TW": "投影 MAGIC，投射數把巨劍擋住敵人，持續時間10秒"
+      "KR": "프로젝션 마술, 프로젝션 수로 거대한 검으로 적을 막고, 지속 시간 10초",
+      "TW": "投影魔術，投影數把巨劍阻擋敵人，持續時間10秒"
     }
   },
   "斩击": {
     "translation": "斩击",
     "MultiLang": {
       "US": "Slash",
-      "JP": "斬撃",
+      "JP": "",
       "CN": "斩击",
-      "KR": "날slashes",
-      "TW": "砍擊"
+      "KR": "",
+      "TW": "斬擊"
     }
   },
   "星坠": {
     "translation": "星坠",
     "MultiLang": {
-      "US": "Starfall",
-      "JP": "星墜",
+      "US": "Falling Stars",
+      "JP": "",
       "CN": "星坠",
-      "KR": "별이陨落",
+      "KR": "별 떨어짐",
       "TW": "星墜"
     }
   },
   "磁暴": {
     "translation": "磁暴",
     "MultiLang": {
-      "US": "Magnetic Storm",
+      "US": "Solar Flare",
       "JP": "",
       "CN": "磁暴",
-      "KR": "자기嵐",
+      "KR": "자기장 폭발",
       "TW": ""
     }
   },
@@ -466,57 +466,57 @@
       "JP": "エネルギー吸収",
       "CN": "能量吸收",
       "KR": "에너지 흡수",
-      "TW": "能量吸取"
+      "TW": ""
     }
   },
   "能量屏障": {
     "translation": "能量屏障",
     "MultiLang": {
-      "US": "Energy Shield",
-      "JP": "エネルギー障壁",
+      "US": "Energy Barrier",
+      "JP": "エネルギーシールド",
       "CN": "能量屏障",
-      "KR": "에너지 막대기",
-      "TW": "能量障礙"
+      "KR": "에너지 장벽",
+      "TW": ""
     }
   },
   "致命毒雾": {
     "translation": "致命毒雾",
     "MultiLang": {
-      "US": "Lethal Poison Fog",
-      "JP": "致命の毒霧",
+      "US": "Deadly Toxic Mist",
+      "JP": "死毒霧",
       "CN": "致命毒雾",
-      "KR": "致사 독구름",
+      "KR": "데스 옥스 베이(Death Ox Bay)",
       "TW": "致命毒霧"
     }
   },
   ">>集体传送将于20秒后启用,不要放他们出来!<<": {
     "translation": ">>集体传送将于20秒后启用,不要放他们出来!<<",
     "MultiLang": {
-      "US": ">>Mass teleportation will activate in 20 seconds, don't let them out!<<",
-      "JP": ">>集団傳送は20秒後に開始しますので、出さないでください！<<",
+      "US": "Mass teleportation will be enabled in 20 seconds, don't let them out!",
+      "JP": ">>集団传送将于20秒后启用，不要让他们出来！<<",
       "CN": ">>集体传送将于20秒后启用,不要放他们出来!<<",
-      "KR": ">>전체 전송은 20초 후에 활성화됩니다. 납치한 사람들은 나오지 않도록 해!<<",
-      "TW": ">>集體傳送於20秒後啟用,不要放他們出來!<<"
+      "KR": ">>단체 이동은 20초 후에 활성화됩니다. 절대 내보내지 마세요!<<",
+      "TW": ">>群體傳送將於20秒後啟用，不要放他們出來！<<"
     }
   },
   ">>水旋涡,对范围内僵尸造成持续减速冷却80秒<<": {
     "translation": ">>水旋涡,对范围内僵尸造成持续减速,冷却80<<",
     "MultiLang": {
-      "US": ">>Water vortex, causes continuous slowdown to zombies in range for 80 seconds<<",
-      "JP": ">>水旋涡,範囲内のゾンビに連続して減速効果を施し cooldown 80秒<<",
+      "US": "Whirlpool, applies a continuous slowing effect on zombies within range, with a 80-second cooldown.",
+      "JP": "",
       "CN": ">>水旋涡,对范围内僵尸造成持续减速,冷却80<<",
-      "KR": ">>수회전涡, 지정된 범위 내의 블록을 80초간 지속적으로 충격시키며 냉각시킵니다<<",
-      "TW": ">>水旋渦,對範圍內殭屍造成持續減速冷卻80秒<<"
+      "KR": ">>수면의 맴돌이, 범위 내의 좀비에게 80초 지속적인 감속 냉각 효과<<",
+      "TW": ">>水旋渦，對範圍內僵屍造成持續減速，冷卻80秒<<"
     }
   },
   ">>闪电魔术,持续发射闪电光束,降低僵尸速度,冷却60秒<<": {
     "translation": ">>闪电魔术,持续发射闪电光束,降低僵尸速度,冷却60<<",
     "MultiLang": {
-      "US": ">>Thunder Magic, continuously shoots lightning beams to reduce zombie speed, cooldown 60 seconds<<",
-      "JP": ">>サンショクデンマジック、闪电魔术、連続して雷光线照射、ゾンガースの移動を遅くし、冷 却60秒<<",
+      "US": "Lightning Magic, continuously fires lightning beams, reduces zombie speed, cooldown 60 seconds",
+      "JP": ">>サンデームマジュツ、シキツニハンサエイサンデームクウショウ、コウリョウジンソウコウ、コウリョウ60セカン、フウコウ<<",
       "CN": ">>闪电魔术,持续发射闪电光束,降低僵尸速度,冷却60<<",
-      "KR": ">>번개 마법, 60초마다 번개 빛을 지속 발사하여 좀비의 속도를 감소시킵니다<<",
-      "TW": ">>闪电 MAGIC, 持续發射電閃光束, 降低屍蠍速度, 冷卻60秒<<"
+      "KR": ">>번개 마법, 지속적으로 번개 광선을 발사하여 좀비 속도를 감소시키고, 쿨다운 60초<<",
+      "TW": "閃電魔術，持續發射閃電光束，降低僵屍速度，冷卻60秒"
     }
   }
 }
