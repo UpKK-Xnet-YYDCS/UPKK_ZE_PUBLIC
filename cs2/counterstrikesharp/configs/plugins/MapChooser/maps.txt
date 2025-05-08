@@ -2318,6 +2318,7 @@
 		"filename"		"ze_silenthill_pt"
 		"updatedname"		"ze_silenthill_pt"
 		"search"		"寂静岭;PT"
+		"RestrictedTimes"	"00:00-08:00;19:00-23:59"
 	}
 	"ze_conflict"
 	{
@@ -2475,6 +2476,7 @@
 		"enabled"		"1"
 		"filename"		"ze_box_defend_v1_4"
 		"updatedname"		"ze_box_defend_v1_4"
+		"RestrictedTimes"	"00:00-08:00;19:00-23:59"
 	}
 	"ze_silent_hill_3_dawn"
 	{
@@ -4201,6 +4203,7 @@
 		"enabled"		"1"
 		"filename"		"ze_maontain_escape"
 		"updatedname"		"ze_maontain_escape"
+		"RestrictedTimes"	"00:00-08:00;19:00-23:59"
 	}
 	"ze_yurilnier"
 	{
@@ -4247,14 +4250,6 @@
 		"enabled"		"1"
 		"filename"		"ze_negative_legacy"
 		"updatedname"		"ze_negative_legacy"
-		"OnlyNominate"		"1"
-	}
-	"ze_raid_ffxiv_eorzea"
-	{
-		"workshop_id"		"3474157957"
-		"enabled"		"0"
-		"filename"		"ze_raid_ffxiv_eorzea"
-		"updatedname"		"ze_raid_ffxiv_eorzea"
 		"OnlyNominate"		"1"
 	}
 	"ze_rien_z"
