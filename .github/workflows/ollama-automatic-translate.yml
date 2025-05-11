@@ -13,7 +13,7 @@ jobs:
   translate_and_pr:
     runs-on: self-hosted
     timeout-minutes: 60   # 总执行最多60分钟
-    if: github.event_name == 'push'
+    if: github.event_name == 'push' && github.event.head_commit.message != 'Merge pull request' # 排除 PR 合并事件
     steps:
       - name: Checkout code
         uses: actions/checkout@v4
