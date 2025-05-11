@@ -1,6 +1,7 @@
 # 本地部署ollama 并利用 google gemma3 模型 进行自动化翻译
 # 此脚本目前不会对现有翻译进行覆盖
 # 将配置和路径修改为正确的本地ollama地址 运行此脚本.
+# https://ollama.com/
 # 如具有更好的GPU算力则可以使用更大的模型以达到更精确的效果
 # ollama pull Qwen2.5:7B-Instruct
 # ollama pull gemma3:4b
@@ -21,7 +22,7 @@ from difflib import SequenceMatcher
 import logging
 
 # 配置
-OLLAMA_URL = "http://192.168.50.5:11434/api/generate"  # 本地 Ollama 地址
+OLLAMA_URL = "http://192.168.50.5:11434/api/generate"  # 本地 Ollama服务器 地址 (使用 Apple Mac Mini) 
 MODEL = "gemma3:4b"
 DIRECTORY = os.getcwd()  # 默认设置为当前目录
 HEADERS = {"Content-Type": "application/json"}
