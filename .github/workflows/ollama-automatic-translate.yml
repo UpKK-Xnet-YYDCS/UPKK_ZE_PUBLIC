@@ -1,4 +1,4 @@
-name: Ollama - automatic Translate and Create PR
+name: Ollama - Automatic Translate and Create PR
 
 env:
   PYTHONUTF8: 1
@@ -6,19 +6,22 @@ env:
 on:
   workflow_dispatch:
   push:
+    branches:
+      - master  # Only run on pushes to the master branch
     paths:
       - 'cs2/counterstrikesharp/configs/map-text/**/*.jsonc'
 
 jobs:
   translate_and_pr:
     runs-on: self-hosted
-    timeout-minutes: 60   # 总执行最多60分钟
-    if: github.event_name == 'push' && github.event.head_commit.message != 'Merge pull request' # 排除 PR 合并事件
+    timeout-minutes: 60
+    # Only run for direct pushes, not PR merges
+    if: github.event_name == 'push' && github.event.pull_request == null
     steps:
       - name: Checkout code
         uses: actions/checkout@v4
         with:
-          fetch-depth: 0  # 拉取完整历史，确保能创建新分支
+          fetch-depth: 0  # Fetch full history for branch creation
 
       - name: Set up Python
         uses: actions/setup-python@v5
@@ -34,38 +37,38 @@ jobs:
         id: run_translation
         shell: bash
         run: |
-          echo "查找本次提交变更的 .jsonc 文件..."
+          echo "Finding changed .jsonc files..."
           CHANGED_FILES=$(git diff --name-only ${{ github.event.before }} ${{ github.event.after }} | grep '^cs2/counterstrikesharp/configs/map-text/.*\.jsonc$' || true)
 
           if [ -z "$CHANGED_FILES" ]; then
-            echo "没有变化的 .jsonc 文件。退出。"
+            echo "No changed .jsonc files. Exiting."
             echo "files_changed=false" >> $GITHUB_ENV
             exit 0
           fi
 
-          echo "以下文件将被处理:"
+          echo "Files to process:"
           echo "$CHANGED_FILES"
           for file in $CHANGED_FILES; do
-            echo "处理: $file"
+            echo "Processing: $file"
             python scripts/ollama_translation_maptext.py --file "$file"
           done
 
-          # 取第一个变化的文件名，去掉路径前缀
+          # Get the first changed file's basename
           FIRST_FILE=$(echo "$CHANGED_FILES" | head -n 1)
           BASE_FILENAME=$(basename "$FIRST_FILE")
 
-          echo "第一个变更文件: $BASE_FILENAME"
-          echo "pr_title=${BASE_FILENAME}-GitAction-本地模型 gemma3:4b 自动化翻译" >> $GITHUB_ENV
+          echo "First changed file: $BASE_FILENAME"
+          echo "pr_title=${BASE_FILENAME}-GitAction-本地模型-gemma3:4b-自动化翻译" >> $GITHUB_ENV
           echo "files_changed=true" >> $GITHUB_ENV
 
       - name: Create Pull Request
         if: env.files_changed == 'true'
         uses: peter-evans/create-pull-request@v5
         with:
-          commit-message: '自动化翻译更新'
+          commit-message: 'Automated translation update'
           title: '${{ env.pr_title }}'
           body: |
-            该 PR 包含自动翻译更新的内容。
-            请审核并确认更改。
+            This PR contains automated translation updates.
+            Please review and confirm the changes.
           branch: 'auto-translate-${{ github.run_id }}'
           base: master
