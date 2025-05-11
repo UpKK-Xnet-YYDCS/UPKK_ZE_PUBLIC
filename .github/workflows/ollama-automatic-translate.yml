@@ -15,8 +15,8 @@ jobs:
   translate_and_pr:
     runs-on: self-hosted
     timeout-minutes: 60
-    # Only run for direct pushes, not PR merges
-    if: github.event_name == 'push' && github.event.pull_request == null
+    # Only run for direct pushes, not PR merges, and skip commits with specific message
+    if: github.event_name == 'push' && github.event.pull_request == null && !contains(github.event.head_commit.message, 'Automated translation update')
     steps:
       - name: Checkout code
         uses: actions/checkout@v4
@@ -72,4 +72,4 @@ jobs:
             Please review and confirm the changes.
           branch: 'auto-translate-${{ github.run_id }}'
           base: master
-          delete-branch: true  
+          delete-branch: true
