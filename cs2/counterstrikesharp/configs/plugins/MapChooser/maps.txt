@@ -4192,7 +4192,7 @@
 	"ze_obj_eclipsis"
 	{
 		"workshop_id"		"3469187893"
-		"enabled"		"0"
+		"enabled"		"1"
 		"filename"		"ze_obj_eclipsis"
 		"updatedname"		"ze_obj_eclipsis"
 		"OnlyNominate"		"1"
@@ -4258,6 +4258,21 @@
 		"enabled"		"1"
 		"filename"		"ze_rien_z"
 		"updatedname"		"ze_rien_z"
+		"OnlyNominate"		"1"
+	}
+	"ze_rainbow_factory"
+	{
+		"workshop_id"		"3472829484"
+		"enabled"		"1"
+		"filename"		"ze_rainbow_factory"
+		"updatedname"		"ze_rainbow_factory"
+	}
+	"ze_lego"
+	{
+		"workshop_id"		"3471190473"
+		"enabled"		"1"
+		"filename"		"ze_lego"
+		"updatedname"		"ze_lego"
 		"OnlyNominate"		"1"
 	}
 }
