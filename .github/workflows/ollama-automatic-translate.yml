@@ -58,7 +58,7 @@ jobs:
           BASE_FILENAME=$(basename "$FIRST_FILE")
 
           echo "First changed file: $BASE_FILENAME"
-          echo "pr_title=${BASE_FILENAME}-GitAction-本地模型-gemma3:4b-自动化翻译" >> $GITHUB_ENV
+          echo "pr_title=${BASE_FILENAME}-GitAction-本地模型-gemma3:12b-it-qat-自动化翻译" >> $GITHUB_ENV
           echo "files_changed=true" >> $GITHUB_ENV
 
       - name: Create Pull Request
