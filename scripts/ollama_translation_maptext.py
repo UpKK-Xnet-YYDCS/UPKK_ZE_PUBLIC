@@ -119,6 +119,9 @@ def translate_text(original_text, lang_code):
     if lang_code == "US" and is_english(original_text):
         return None
 
+    if lang_code == "CN" and is_correct_language(original_text, "CN"):
+        return None  # 如果文本已包含显著中文，则跳过翻译
+
     _, lang_en_name = LANGUAGE_MAP[lang_code]
     prompt = build_prompt(lang_en_name, original_text)
 
