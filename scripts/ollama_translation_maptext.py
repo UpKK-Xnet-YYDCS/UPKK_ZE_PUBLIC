@@ -4,7 +4,7 @@
 # https://ollama.com/
 # 如具有更好的GPU算力则可以使用更大的模型以达到更精确的效果
 # ollama pull Qwen2.5:7B-Instruct
-# ollama pull gemma3:4b
+# ollama pull gemma3:4b gemma3:12b-it-qat
 # sudo systemctl start ollama
 # sudo apt install python3
 # sudo pip install tqdm requests argparse
@@ -22,8 +22,8 @@ from difflib import SequenceMatcher
 import logging
 
 # 配置
-OLLAMA_URL = "http://192.168.50.5:11434/api/generate"  # 本地 Ollama服务器 地址 (使用 Apple Mac Mini) 
-MODEL = "gemma3:4b"
+OLLAMA_URL = "http://192.168.50.7:11434/api/generate"  # 本地 Ollama服务器 地址 (使用 Apple Mac Mini) 
+MODEL = "gemma3:12b-it-qat"
 DIRECTORY = os.getcwd()  # 默认设置为当前目录
 HEADERS = {"Content-Type": "application/json"}
 
