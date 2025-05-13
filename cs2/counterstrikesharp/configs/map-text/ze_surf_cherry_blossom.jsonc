@@ -52,7 +52,7 @@
   "~ Glass break in 5sec ~": {
     "translation": "",
     "MultiLang": {
-      "US": "",
+      "US": "~ Glass breaks in 5 seconds ~",
       "JP": "~ 5秒後にガラス破裂 ~",
       "CN": "~ 5秒后玻璃破裂 ~",
       "KR": "~ 유리 부reak in 5sec ~",
@@ -83,10 +83,10 @@
     "translation": "",
     "MultiLang": {
       "US": "",
-      "JP": "",
-      "CN": "",
-      "KR": "",
-      "TW": ""
+      "JP": "~ 5秒 ~",
+      "CN": "~ 5秒 ~",
+      "KR": "~ 5초 ~",
+      "TW": "~ 5秒 ~"
     }
   },
   "~ Zombies come in 15sec ~": {
@@ -243,7 +243,7 @@
     "translation": "",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "それ何？",
       "CN": "那是什么",
       "KR": "그게 무엇인가요",
       "TW": "那是什么"
@@ -254,9 +254,9 @@
     "MultiLang": {
       "US": "",
       "JP": "オシテ！！",
-      "CN": "",
+      "CN": "卧槽！！",
       "KR": "오实干shit!!",
-      "TW": ""
+      "TW": "臥槽！！"
     }
   },
   "~ AFK tele enable in 25sec ~": {
@@ -276,7 +276,7 @@
       "JP": "~ AFKテレポート有効化まで5sec ~",
       "CN": "~ AFK 传送启用倒计时 5 秒 ~",
       "KR": "~ AFK 텔레 인能把 5sec 후 ~",
-      "TW": ""
+      "TW": "~ AFK 離開模式已啟用，5秒後 ~"
     }
   },
   "~ Emergency TP currently not available >: ~": {
@@ -493,10 +493,10 @@
     "translation": "",
     "MultiLang": {
       "US": "",
-      "JP": "",
-      "CN": "",
-      "KR": "",
-      "TW": ""
+      "JP": "秘密",
+      "CN": "秘密",
+      "KR": "비밀",
+      "TW": "秘密"
     }
   },
   "A Secret Story": {
@@ -504,19 +504,19 @@
     "MultiLang": {
       "US": "",
       "JP": "",
-      "CN": "",
-      "KR": "",
-      "TW": ""
+      "CN": "一个秘密的故事",
+      "KR": "비밀 이야기",
+      "TW": "一個秘密的故事\n\n發出消息！發現了一份神秘的文件！"
     }
   },
   "~ Zombies come in 30 ~": {
     "translation": "",
     "MultiLang": {
       "US": "",
-      "JP": "",
-      "CN": "",
-      "KR": "",
-      "TW": ""
+      "JP": "～ ゾンビが30体出現～",
+      "CN": "~ 僵尸数量为30 ~",
+      "KR": "~ 좀비가 30마리 출현 ~",
+      "TW": "~ 殭屍數量為 30 ~"
     }
   }
 }
