@@ -285,8 +285,8 @@
       "US": "",
       "JP": "",
       "CN": "lua脚本已经加载\")",
-      "KR": "",
-      "TW": ""
+      "KR": "{\"text\": \"lua 로드\")",
+      "TW": "{\"text\": \"lua 加載\") }"
     }
   },
   "map:forhidden void||original made by Blackrock": {
@@ -1023,40 +1023,40 @@
     "translation": "",
     "MultiLang": {
       "US": "",
-      "JP": "",
-      "CN": "",
-      "KR": "",
-      "TW": ""
+      "JP": "左側\n\n翻訳を出力してください。",
+      "CN": "左侧\n输出翻译结果，JSON格式（例如：{\"text\": \"<翻译>\"})",
+      "KR": "왼쪽",
+      "TW": "左側\n輸出翻譯結果，JSON 格式 (例如：{\"text\": \"<翻譯>\"})."
     }
   },
   "Wait for the crystal to fall [23 sec]": {
     "translation": "",
     "MultiLang": {
       "US": "",
-      "JP": "",
-      "CN": "",
-      "KR": "",
-      "TW": ""
+      "JP": "クリスタルの落下を待つ [23秒]",
+      "CN": "等待水晶落下 [23 秒]",
+      "KR": "결정이 떨어지길 기다립니다 [23 초]",
+      "TW": "等待水晶落下 [23 秒]"
     }
   },
   "trigger the crystal to activate portal": {
     "translation": "",
     "MultiLang": {
       "US": "",
-      "JP": "",
-      "CN": "",
-      "KR": "",
-      "TW": ""
+      "JP": "クリスタルを起動してポータルを起動",
+      "CN": "激活水晶以开启传送门",
+      "KR": "결정을 활성화하여 포털을 작동시키세요.",
+      "TW": "觸發水晶以激活傳送門"
     }
   },
   "Portal is open ": {
     "translation": "",
     "MultiLang": {
       "US": "",
-      "JP": "",
-      "CN": "",
-      "KR": "",
-      "TW": ""
+      "JP": "ポータルが開きました",
+      "CN": "传送门已打开",
+      "KR": "포털이 열렸습니다",
+      "TW": "傳送門已開啟"
     }
   }
 }
