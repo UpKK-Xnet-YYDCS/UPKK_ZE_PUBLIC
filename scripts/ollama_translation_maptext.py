@@ -4,16 +4,16 @@
 # https://ollama.com/
 # 如具有更好的GPU算力则可以使用更大的模型以达到更精确的效果
 # ollama pull Qwen2.5:7B-Instruct
-# ollama pull gemma3:4b gemma3:12b-it-qat
+# ollama pull gemma3:27b-it-qat
 # sudo systemctl start ollama
 # sudo apt install python3
 # sudo pip install tqdm requests argparse
 # 注 基于AI推理翻译每次运行结果可能都会不同 同时可能会犯错以及不正确的翻译.
 
-# 建议使用 gemma3:12b-it-qat 模型来进行翻译
+# 建议使用 gemma3:27b-it-qat 模型来进行翻译
 # it：表示“instruction-tuned”（指令微调）。这是指模型经过额外的微调，以更好地理解和响应用户指令，特别适合对话、问答、任务执行等场景。相较于预训练模型（pre-trained, PT），指令微调模型在处理特定任务时表现更优，尤其是需要遵循用户提示（prompt）的场景。
 # qat：表示“Quantization-Aware Training”（量化感知训练）。这是一种在模型训练过程中引入量化操作的技术，旨在让模型适应低精度计算（如从BF16到int4），从而减少内存占用，同时尽量保持与高精度模型相似的性能。QAT通过在训练时模拟低精度运算，优化模型权重和激活值，相比传统的训练后量化（Post-Training Quantization, PTQ），QAT能显著降低量化带来的精度损失。
-# 12b：表示模型有120亿个参数，属于中等规模的Gemma 3模型。
+# 27b：表示模型有270亿个参数，属于中等规模的Gemma 3模型。
 
 import json
 import os
@@ -28,7 +28,7 @@ import logging
 
 # 配置
 OLLAMA_URL = "http://192.168.50.7:11434/api/generate"  # 本地 Ollama服务器 地址 (使用 Apple Mac Mini) 
-MODEL = "gemma3:12b-it-qat"
+MODEL = "gemma3:27b-it-qat"
 DIRECTORY = os.getcwd()  # 默认设置为当前目录
 HEADERS = {"Content-Type": "application/json"}
 
