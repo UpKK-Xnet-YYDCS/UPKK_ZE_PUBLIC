@@ -14,7 +14,7 @@ on:
 jobs:
   translate_and_pr:
     runs-on: self-hosted
-    timeout-minutes: 60
+    timeout-minutes: 240
     # Only run for direct pushes, not PR merges, and skip commits with specific message
     if: github.event_name == 'push' && github.event.pull_request == null && !contains(github.event.head_commit.message, 'Automated translation update')
     steps:
