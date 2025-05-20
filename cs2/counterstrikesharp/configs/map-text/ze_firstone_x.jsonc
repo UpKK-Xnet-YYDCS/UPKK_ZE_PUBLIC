@@ -93,7 +93,7 @@
     "translation": "AI:传送正在生成",
     "MultiLang": {
       "US": "AI: Teleportation is generating",
-      "JP": "",
+      "JP": "AI:転送を開始します",
       "CN": "AI:传送正在生成",
       "KR": "AI: 전송이 생성 중입니다.",
       "TW": "AI：傳送正在生成"
@@ -153,7 +153,7 @@
     "translation": "AI:压力器已解锁",
     "MultiLang": {
       "US": "Stress Gauge Unlocked",
-      "JP": "",
+      "JP": "AI：圧力計がアンロックされました",
       "CN": "AI:压力器已解锁",
       "KR": "AI: 압력기 해제",
       "TW": "AI:壓力器已解鎖"
@@ -743,7 +743,7 @@
     "translation": "AI:超级AI实体已泄露,机体已损坏.",
     "MultiLang": {
       "US": "AI: Super AI entity has been leaked, chassis damaged.",
-      "JP": "",
+      "JP": "AI:超AI実体漏洩、機体破損。",
       "CN": "AI:超级AI实体已泄露,机体已损坏.",
       "KR": "AI: 초월 AI 실체가 누출되었으며, 기체가 손상되었습니다.",
       "TW": "AI:超級AI實體已洩露，機體已損壞。"
@@ -856,7 +856,7 @@
       "JP": "AI:制限装置が解除されました",
       "CN": "AI:限制器已经被解除",
       "KR": "AI: 제약기기가 해제되었습니다.",
-      "TW": ""
+      "TW": "AI：限制器已解除"
     }
   },
   "AI:院门需要7秒打开": {
@@ -926,7 +926,7 @@
       "JP": "スペクトラ：留守にしておる",
       "CN": "Spectra:拖住他们",
       "KR": "스펙트라: 이 녀석들 쫓아내",
-      "TW": ""
+      "TW": "Spectra：拖住他們"
     }
   },
   "Spectra:闪刀变更!": {
@@ -1013,7 +1013,7 @@
     "translation": "α:一部分人清理道路其他人保持火力!",
     "MultiLang": {
       "US": "Alpha: Some of you clear the road, others maintain fire!",
-      "JP": "",
+      "JP": "α：一部の人で道路の清掃、他は火力維持！",
       "CN": "α:一部分人清理道路其他人保持火力!",
       "KR": "α: 일부는 길을 정리하고, 다른 사람들은 화력을 유지해!",
       "TW": ""
@@ -1593,7 +1593,7 @@
     "translation": "",
     "MultiLang": {
       "US": "AI: Teleportation needs 5 seconds.",
-      "JP": "",
+      "JP": "AI:転送まであと5秒",
       "CN": "",
       "KR": "AI: 순간이동은 5초가 필요합니다",
       "TW": "AI：传送還需要5秒"
@@ -1613,7 +1613,7 @@
     "translation": "",
     "MultiLang": {
       "US": "<Great White Cannons>",
-      "JP": "",
+      "JP": "<虎鲨加農砲>",
       "CN": "",
       "KR": "<  호상 강포  >",
       "TW": "<虎鯊加農炮>"
@@ -1776,7 +1776,7 @@
       "JP": "--- エネルギー ---",
       "CN": "",
       "KR": "--  에너지  --",
-      "TW": ""
+      "TW": "－ 能量 －"
     }
   },
   "AI:还需要10秒": {
@@ -1843,7 +1843,7 @@
     "translation": "",
     "MultiLang": {
       "US": "A: Maintain fire suppression, later.",
-      "JP": "",
+      "JP": "α:火力維持、後ほど",
       "CN": "",
       "KR": "α: 화력을 유지하며 압도하고, 뒤를 보고 움직여라.",
       "TW": "α：保持火力壓制，稍後"
@@ -2033,7 +2033,7 @@
     "translation": "",
     "MultiLang": {
       "US": "soldier: Projection successful",
-      "JP": "",
+      "JP": "兵士:投影成功",
       "CN": "",
       "KR": "soldier: 투영 성공",
       "TW": "士兵：投影成功"
@@ -2043,7 +2043,7 @@
     "translation": "",
     "MultiLang": {
       "US": "<Cosmic Light>",
-      "JP": "",
+      "JP": "<宇宙の光>",
       "CN": "",
       "KR": "< 우주의 빛 >",
       "TW": ""
@@ -2054,8 +2054,8 @@
     "MultiLang": {
       "US": "",
       "JP": "パート1\n\n出力",
-      "CN": "",
-      "KR": "",
+      "CN": "第一部分",
+      "KR": "파트 1",
       "TW": ""
     }
   },
@@ -2063,17 +2063,17 @@
     "translation": "",
     "MultiLang": {
       "US": "<< Crown of the End Universe >>",
-      "JP": "",
+      "JP": "<< 終局宇宙に輝く獣冠 >>",
       "CN": "",
       "KR": "<< 종말 우주를 비추는 짐승의 왕관 >>",
-      "TW": ""
+      "TW": "<<  閃耀於終局宇宙的獸冠  >>"
     }
   },
   "<<  宇宙之尘埃  >>": {
     "translation": "",
     "MultiLang": {
       "US": "<< Cosmic Dust >>",
-      "JP": "",
+      "JP": "<< 宇宙の塵埃 >>",
       "CN": "",
       "KR": "<< 우주의 먼지 >>",
       "TW": "<< 宇宙之塵埃 >>"
@@ -2103,7 +2103,7 @@
     "translation": "",
     "MultiLang": {
       "US": "AI: We are unable to open the door using identity.",
-      "JP": "",
+      "JP": "AI:これ以上、身分で門を開けることはできません。",
       "CN": "",
       "KR": "AI: 우리는 더 이상 신분으로 문을 열 수 없습니다.",
       "TW": "AI：我們無法再以身份開啟大門"
@@ -2153,7 +2153,7 @@
     "translation": "",
     "MultiLang": {
       "US": "α: The enemy is really relentless.",
-      "JP": "",
+      "JP": "α: 敵は本当に執拗に追ってくるわ。",
       "CN": "",
       "KR": "α: 적들은 정말 집요하게 추격해오네요.",
       "TW": "α: 敵人真是緊追不舍啊."
@@ -2173,7 +2173,7 @@
     "translation": "",
     "MultiLang": {
       "US": "α: Maintain firepower",
-      "JP": "",
+      "JP": "α:火力維持",
       "CN": "",
       "KR": "α: 유지 화력",
       "TW": ""
@@ -2213,7 +2213,7 @@
     "translation": "",
     "MultiLang": {
       "US": "AI: Searching for a way out",
-      "JP": "",
+      "JP": "AI:脱出方法を探しています",
       "CN": "",
       "KR": "AI: 방법을 찾고 있어요",
       "TW": "AI：正在尋找出路"
@@ -2243,7 +2243,7 @@
     "translation": "",
     "MultiLang": {
       "US": ">>Black Coffin Charging Complete<<",
-      "JP": "",
+      "JP": ">>>>黒棺充能完毕<<<<",
       "CN": "",
       "KR": ">>>> 검은 관 충전 완료 <<<<",
       "TW": ""
@@ -2266,7 +2266,7 @@
       "JP": "",
       "CN": "",
       "KR": "<<불멸의 고통>>",
-      "TW": ""
+      "TW": "<<不滅的痛苦>>"
     }
   },
   "AI:无法修正!": {
@@ -2363,7 +2363,7 @@
     "translation": "",
     "MultiLang": {
       "US": "<< Darkness >>",
-      "JP": "",
+      "JP": "<< 闇 >>",
       "CN": "",
       "KR": "<< 어둠 >>",
       "TW": ""
@@ -2433,7 +2433,7 @@
     "translation": "",
     "MultiLang": {
       "US": "AI: Teleportation point confirmed",
-      "JP": "",
+      "JP": "AI：転送先を確認しました。",
       "CN": "",
       "KR": "AI: 전송 위치 확인 완료",
       "TW": "AI：傳送地點已確認"
@@ -2443,7 +2443,7 @@
     "translation": "",
     "MultiLang": {
       "US": "AI: Teleport Destination Correct",
-      "JP": "",
+      "JP": "AI：転送地正当",
       "CN": "",
       "KR": "AI: 전송 위치 정확",
       "TW": "AI: 傳送地正確"
@@ -2473,7 +2473,7 @@
     "translation": "",
     "MultiLang": {
       "US": "α: The bridge is too sturdy. Needs to be destroyed from the middle.",
-      "JP": "",
+      "JP": "α：橋が強固すぎる。真ん中から破壊する必要がある。",
       "CN": "",
       "KR": "α: 다리가 너무 튼튼해서요. 중앙을 부숴야 합니다.",
       "TW": "α: 不好，桥梁太堅固了。需要從中間破壞。"
@@ -2542,21 +2542,21 @@
   "<<  序章:任务开始  >>": {
     "translation": "",
     "MultiLang": {
-      "US": "",
-      "JP": "",
+      "US": "<< Prologue: Mission Start >>",
+      "JP": "<< 序章:任務開始 >>",
       "CN": "",
-      "KR": "",
-      "TW": ""
+      "KR": "<< 서장: 임무 시작 >>",
+      "TW": "<< 序章：任務開始 >>"
     }
   },
   "<<  序章:逃脱  >>": {
     "translation": "",
     "MultiLang": {
-      "US": "",
+      "US": "<< Prologue: Escape >>",
       "JP": "",
       "CN": "",
-      "KR": "",
-      "TW": ""
+      "KR": "<< 서장: 탈출 >>",
+      "TW": "<<  序章：逃脫  >>"
     }
   },
   ">>>>GWC-06<<<<": {
@@ -2573,50 +2573,50 @@
     "translation": "",
     "MultiLang": {
       "US": "",
-      "JP": "",
-      "CN": "",
-      "KR": "",
-      "TW": ""
+      "JP": ">>>>黒猫<<<<",
+      "CN": ">>>>黑猫<<<<",
+      "KR": ">>>>검은 고양이<<<<",
+      "TW": ">>>>黑貓<<<<"
     }
   },
   ">>>>生命汲取<<<<": {
     "translation": "",
     "MultiLang": {
-      "US": "",
-      "JP": "",
+      "US": ">>>>Life Drain<<<<",
+      "JP": ">>>>ライフドレイン<<<<",
       "CN": "",
-      "KR": "",
+      "KR": ">>>>생명 흡수<<<<",
       "TW": ""
     }
   },
   ">>>>黑暗收割<<<<": {
     "translation": "",
     "MultiLang": {
-      "US": "",
-      "JP": "",
+      "US": ">>>>Dark Harvest<<<<",
+      "JP": ">>>>暗黒収穫<<<<",
       "CN": "",
-      "KR": "",
+      "KR": ">>>>어둠의 수확<<<<",
       "TW": ""
     }
   },
   ">>>>鹰式推进器<<<<": {
     "translation": "",
     "MultiLang": {
-      "US": "",
-      "JP": "",
+      "US": ">>>>Eagle Thruster<<<<",
+      "JP": ">>>>鷹式推進器<<<<",
       "CN": "",
-      "KR": "",
-      "TW": ""
+      "KR": ">>>>鷹式 추진기<<<<",
+      "TW": ">>>>鷹式推進器<<<<"
     }
   },
   ">>>>极速之风<<<<": {
     "translation": "",
     "MultiLang": {
-      "US": "",
-      "JP": "",
+      "US": ">>>>Rapid Wind<<<<",
+      "JP": ">>>>極速の風<<<<",
       "CN": "",
-      "KR": "",
-      "TW": ""
+      "KR": ">>>>극속의 바람<<<<",
+      "TW": ">>>>極速之風<<<<"
     }
   }
 }
