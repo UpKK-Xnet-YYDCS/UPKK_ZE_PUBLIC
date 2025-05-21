@@ -2,7 +2,6 @@ import requests
 import json
 import time
 import os
-import logging
 import subprocess
 
 # 配置
@@ -13,23 +12,17 @@ DEFAULT_APPID = 730  # 默认 CS:GO/CS2 AppID
 STEAM_ID = "76561198012345678"  # 直接指定 SteamID64
 WHITELIST_FILE = "scripts/workshop_white_steam64.txt"  # 白名单文件
 
-# 设置日志
-logging.basicConfig(filename="workshop_errors.log", level=logging.DEBUG, 
-                   format="%(asctime)s - %(levelname)s - %(message)s")
 
 def load_whitelist(file_path):
     """从文件加载白名单列表"""
     try:
         with open(file_path, 'r', encoding='utf-8') as f:
             whitelist = {line.strip() for line in f if line.strip()}  # 使用集合避免重复
-        logging.info(f"从 {file_path} 加载了 {len(whitelist)} 个白名单 SteamID")
         return whitelist
     except FileNotFoundError:
-        logging.error(f"白名单文件 {file_path} 未找到")
         print(f"错误：白名单文件 {file_path} 未找到")
         return set()
     except Exception as e:
-        logging.error(f"读取白名单文件 {file_path} 时出错: {e}")
         print(f"读取白名单文件时出错: {e}")
         return set()
 
@@ -40,7 +33,7 @@ def get_workshop_maps(steam_id, api_key, appid=730, search_prefix="ze_", whiteli
         "key": api_key,
         "query_type": 1,  #排序依据：按发布时间排序
         "appid": appid,
-        "numperpage": 100,  # 每页最大数量
+        "numperpage": 200,  # 每页最大数量
         "return_details": True,
         "search_text": search_prefix,  # 使用参数作为搜索文本
         "return_tags": True,
@@ -57,7 +50,6 @@ def get_workshop_maps(steam_id, api_key, appid=730, search_prefix="ze_", whiteli
 
         # 检查是否有数据
         if not data.get("response") or not data["response"].get("publishedfiledetails"):
-            logging.info(f"SteamID {steam_id}: 未找到创意工坊内容")
             return []
 
         # 提取内容信息
@@ -100,7 +92,6 @@ def get_workshop_maps(steam_id, api_key, appid=730, search_prefix="ze_", whiteli
         return items
 
     except requests.RequestException as e:
-        logging.error(f"SteamID {steam_id}: 抓取创意工坊内容时出错: {e}")
         print(f"SteamID {steam_id}: 抓取创意工坊内容时出错: {e}")
         return []
 
@@ -140,9 +131,7 @@ def main():
                         # 传递 id 和 title 到 add_map.py 脚本
             try:
                 subprocess.run(["python3", "scripts/add_map.py", "cs2/counterstrikesharp/configs/plugins/MapChooser/maps.txt", item["title"], str(item["id"])], check=True)
-                logging.info(f"成功将地图 {item['title']} (ID: {item['id']}) 添加到 MapChooser")
             except subprocess.CalledProcessError as e:
-                logging.error(f"运行 add_map.py 脚本时出错 (地图 {item['title']} ID: {item['id']}): {e}")
                 print(f"运行 add_map.py 脚本时出错 (地图 {item['title']} ID: {item['id']}): {e}")
 
     # 保存结果，移除 SteamID
