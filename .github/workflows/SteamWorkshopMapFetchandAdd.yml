@@ -31,14 +31,13 @@ jobs:
         env:
           STEAM_API_KEY: ${{ secrets.STEAM_API_KEY }}  # Ensure the environment variable is also available to the script
 
-      - name: Create Pull Request if previous step failed
-        if: failure()  # This will trigger only if the previous step fails
+      - name: Create Pull Request if necessary
         uses: peter-evans/create-pull-request@v5
         with:
-          token: ${{ secrets.GITHUB_TOKEN }}  # GitHub automatically provides this secret
-          title: "Fix issues in map fetching or adding"
+          token: ${{ secrets.GITHUB_TOKEN }}
+          title: "自动添加创意工坊地图"
           body: |
-            This PR fixes issues encountered during the map fetching and adding process.
-            Please review the changes made to correct the errors.
-          base: main  # The base branch where the PR will be created (can be changed)
-          head: error-fix-branch  # Name of the new branch to create for the PR
+            此PR自动添加了创意工坊地图。
+            请审核并确认,它们来自 scripts/workshop_white_steam64.txt 中白名单作者steam64
+          base: main
+          head: error-fix-branch
