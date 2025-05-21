@@ -11,7 +11,7 @@ BASE_URL = "https://api.steampowered.com"
 DEFAULT_OUTPUT_FILE = "workshop_maps.json"
 DEFAULT_APPID = 730  # 默认 CS:GO/CS2 AppID
 STEAM_ID = "76561198012345678"  # 直接指定 SteamID64
-WHITELIST_FILE = "workshop_white_steam64.txt"  # 白名单文件
+WHITELIST_FILE = "scripts/workshop_white_steam64.txt"  # 白名单文件
 
 # 设置日志
 logging.basicConfig(filename="workshop_errors.log", level=logging.DEBUG, 
