@@ -14,7 +14,7 @@ on:
 jobs:
   translate_and_pr:
     runs-on: self-hosted
-    timeout-minutes: 60
+    timeout-minutes: 240
     # Only run for direct pushes, not PR merges, and skip commits with specific message
     if: github.event_name == 'push' && github.event.pull_request == null && !contains(github.event.head_commit.message, 'Automated translation update')
     steps:
@@ -58,7 +58,7 @@ jobs:
           BASE_FILENAME=$(basename "$FIRST_FILE")
 
           echo "First changed file: $BASE_FILENAME"
-          echo "pr_title=${BASE_FILENAME}-GitAction-本地模型-gemma3:12b-it-qat-自动化翻译" >> $GITHUB_ENV
+          echo "pr_title=${BASE_FILENAME}-GitAction-本地模型-gemma3:27b-it-qat-自动化翻译" >> $GITHUB_ENV
           echo "files_changed=true" >> $GITHUB_ENV
 
       - name: Create Pull Request

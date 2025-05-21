@@ -1,0 +1,992 @@
+{
+  "<< Teleport in 20 seconds >>": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "<< 20秒後にテレポート >>",
+      "CN": "<< 20秒后传送 >>",
+      "KR": "<< 20초 후에 텔레포트 >>",
+      "TW": "<< 20秒後傳送 >>"
+    }
+  },
+  "<< AFK Teleport in 10 seconds >>": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "<< 10秒後にAFKテレポーテーション >>",
+      "CN": "<< 10秒后自动传送 >>",
+      "KR": "<< 10초 후에 AFK 자동 이동 >>",
+      "TW": "<< 10秒後自動傳送 >>"
+    }
+  },
+  "<< A player has picked up electro magic >>": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "<< プレイヤーが電撃魔法を手に入れました >>",
+      "CN": "<< 一名玩家获得了电魔法 >>",
+      "KR": "<< 한 플레이어가 전자기 마법을 획득했습니다 >>",
+      "TW": "<< 一名玩家拾取了電魔法 >>"
+    }
+  },
+  "<< A player has picked up heal magic >>": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "<< プレイヤーがヒール魔法を手に入れた >>",
+      "CN": "<< 一名玩家获得了治疗魔法 >>",
+      "KR": "<< 한 플레이어가 회복 마법을 획득했습니다 >>",
+      "TW": "<< 一位玩家拾取了治療魔法 >>"
+    }
+  },
+  "<< A player has picked up snow magic >>": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "<< プレイヤーが雪魔法を手に入れました >>",
+      "CN": "<< 一名玩家获得了雪魔法 >>",
+      "KR": "<< 한 플레이어가 눈 마법을 획득했습니다 >>",
+      "TW": "<< 一位玩家獲得了雪魔法 >>"
+    }
+  },
+  "<< the bridge will open in 20 seconds >>": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "<< 橋は20秒後に開きます >>",
+      "CN": "<< 桥将在20秒后开启 >>",
+      "KR": "<< 다리는 20초 후에 열립니다 >>",
+      "TW": "<< 橋梁將在 20 秒後開啟 >>"
+    }
+  },
+  "<< A player has picked up wind magic >>": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "<< プレイヤーが風魔法を手に入れた >>",
+      "CN": "<< 一位玩家获得了风系魔法 >>",
+      "KR": "<< 플레이어가 바람 마법을 획득했습니다 >>",
+      "TW": "<< 一位玩家習得風系魔法 >>"
+    }
+  },
+  "<< the way is able to pass now >>": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "<< 道は通れるようになりました >>",
+      "CN": "<< 道路现在可以通过 >>",
+      "KR": "<< 이제 통행할 수 있습니다 >>",
+      "TW": "<< 道路現在可行了 >>"
+    }
+  },
+  "<< the way will be able to pass in 10 seconds >>": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "<< 10秒後に道が開ける >>",
+      "CN": "<< 10秒后即可通行 >>",
+      "KR": "<< 10초 안에 통과할 수 있는 길이 열립니다 >>",
+      "TW": "<< 道路將在 10 秒後通行 >>"
+    }
+  },
+  "<< the way will be able to pass in 20 seconds >>": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "<< 20秒以内に道が開ける >>",
+      "CN": "<< 20秒后通道开启 >>",
+      "KR": "<< 20초 안에 통과할 수 있는 길 >>",
+      "TW": "<< 在 20 秒內可通關 >>"
+    }
+  },
+  "<< wait for 30 seconds >>": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "<< 30秒待機 >>",
+      "CN": "<< 等待30秒 >>",
+      "KR": "<< 30초 대기 >>",
+      "TW": "<< 等待 30 秒 >>"
+    }
+  },
+  "<< defend for 20 seconds >>": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "<< 20秒間 防御 >>",
+      "CN": "<< 防守 20 秒 >>",
+      "KR": "<< 20초 동안 방어 >>",
+      "TW": "<< 防守 20 秒 >>"
+    }
+  },
+  "<< defend for 25 seconds >>": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "<< 25秒間 防御 >>",
+      "CN": "<< 防守 25 秒 >>",
+      "KR": "<< 25초 동안 방어하세요 >>",
+      "TW": "<< 防禦 25 秒 >>"
+    }
+  },
+  "<< wait for 20 seconds >>": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "<< 20秒待機 >>",
+      "CN": "<< 等待20秒 >>",
+      "KR": "<< 20초 대기 >>",
+      "TW": "<< 等待 20 秒 >>"
+    }
+  },
+  "<< the platform wil rise in 20 seconds >>": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "<< プラットフォームが20秒後に上昇します >>",
+      "CN": "<< 平台将在 20 秒后上升 >>",
+      "KR": "<< 플랫폼이 20초 후에 올라갑니다 >>",
+      "TW": "<< 平台將在 20 秒後上升 >>"
+    }
+  },
+  "<< defend for 35 seconds >>": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "<< 35秒間 防御 >>",
+      "CN": "<< 守卫35秒 >>",
+      "KR": "<< 35초 동안 방어하세요 >>",
+      "TW": "<< 防守 35 秒 >>"
+    }
+  },
+  "<< STAGE I COMPLETE >>": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": "<< 第一关完成 >>",
+      "KR": "<< 스테이지 I 완료 >>",
+      "TW": "<< 第一關完成 >>"
+    }
+  },
+  "<< teleport human in 20 seconds >>": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "<< 20秒で人間をテレポート >>",
+      "CN": "<< 在20秒内传送人类 >>",
+      "KR": "<< 20초 안에 인간을 순간이동 >>",
+      "TW": "<< 20秒內傳送人類 >>"
+    }
+  },
+  "<< the bridge will appear in 20 seconds >>": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "<< 橋は20秒後に現れます >>",
+      "CN": "<< 桥将在 20 秒后出现 >>",
+      "KR": "<< 다리는 20초 후에 나타납니다 >>",
+      "TW": "<< 橋樑將在 20 秒後出現 >>"
+    }
+  },
+  "<< wait for a few seconds >>": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "<< 数秒待ってください >>",
+      "CN": "<< 等待几秒钟 >>",
+      "KR": "<< 몇 초 정도 기다리세요 >>",
+      "TW": "<< 等待幾秒鐘 >>"
+    }
+  },
+  "<< defend for 30 seconds >>": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "<< 30秒間 防御 >>",
+      "CN": "<< 防守 30 秒 >>",
+      "KR": "<< 30초 동안 방어하세요 >>",
+      "TW": "<< 防守 30 秒 >>"
+    }
+  },
+  "<< defend for 10 seconds >>": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "<< 10秒間 防御 >>",
+      "CN": "<< 防守10秒 >>",
+      "KR": "<< 10초 동안 방어하세요 >>",
+      "TW": "<< 防禦 10 秒 >>"
+    }
+  },
+  "<< defend for 15 seconds >>": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "<< 15秒間 防御 >>",
+      "CN": "<< 防守 15 秒 >>",
+      "KR": "<< 15초 동안 방어하세요 >>",
+      "TW": "<< 防守 15 秒 >>"
+    }
+  },
+  "<< hold for 25 seconds >>": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "<< 25秒間保持 >>",
+      "CN": "<< 按住25秒 >>",
+      "KR": "<< 25초 동안 유지 >>",
+      "TW": "<< 按住 25 秒 >>"
+    }
+  },
+  "<< defend for 40 seconds >>": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "<< 40秒間 防御 >>",
+      "CN": "<< 防守 40 秒 >>",
+      "KR": "<< 40초 동안 방어하세요 >>",
+      "TW": "<< 防守 40 秒 >>"
+    }
+  },
+  "<< STAGE II COMPLETE >>": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": "<< 第二阶段完成 >>",
+      "KR": "<< STAGE II 완료 >>",
+      "TW": "<< 第二關完成 >>"
+    }
+  },
+  "<< A zombie has picked up zmskin >>": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "<< ゾンビがzmskinを拾った >>",
+      "CN": "<< 一只僵尸拾取了僵尸皮肤 >>",
+      "KR": "<< 좀비가 zmskin을 획득했습니다 >>",
+      "TW": "<< 一隻殭屍撿到 zmskin >>"
+    }
+  },
+  "<< The next button will unlock in 10 seconds >>": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "<< 次のボタンは10秒後に解放されます >>",
+      "CN": "<< 下一个按钮将在 10 秒后解锁 >>",
+      "KR": "<< 다음 버튼은 10초 후에 잠금 해제됩니다 >>",
+      "TW": "<< 下一個按鈕將在 10 秒後解鎖 >>"
+    }
+  },
+  "<< This Tomb is used to commemorate the player who win ze_misaka with bhop hack >>": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "<< この墓は、bhopハックでze_misakaを制覇したプレイヤーを記念するために使われています >>",
+      "CN": "<< 此墓用于纪念使用 bhop 插件赢得 ze_misaka 的玩家 >>",
+      "KR": "<< 이 무덤은 ze_misaka를 bhop 핵으로 승리한 플레이어를 기리기 위해 사용됩니다 >>",
+      "TW": "<< 此墓用於紀念使用 bhop 技巧 hack 贏得 ze_misaka 的玩家 >>"
+    }
+  },
+  "<< R.I.P >>": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "<<安らかに眠れ>>",
+      "CN": "<< 愿逝者安息 >>",
+      "KR": "",
+      "TW": "<< 願安息 >>"
+    }
+  },
+  "<< the boat will move in 10 seconds >>": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "<< ボートは10秒後に移動します >>",
+      "CN": "<< 船将在10秒后移动 >>",
+      "KR": "<< 배는 10초 후에 움직입니다 >>",
+      "TW": "<< 船隻將於 10 秒後移動 >>"
+    }
+  },
+  "<< the boat will move again in 10 seconds >>": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "<< ボートは10秒後に再び動き出します >>",
+      "CN": "<< 船将在 10 秒后移动 >>",
+      "KR": "<< 배가 10초 후에 다시 움직입니다 >>",
+      "TW": "<< 船隻將於 10 秒後再次移動 >>"
+    }
+  },
+  "<< the way will close in 10 seconds >>": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "<< 10秒後に道が閉じる >>",
+      "CN": "<< 道路将在10秒后关闭 >>",
+      "KR": "<< 10초 후에 길이 닫힙니다 >>",
+      "TW": "<< 路徑將於 10 秒後關閉 >>"
+    }
+  },
+  "<< MEGA PUSH >>": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": "<< 超级推进 >>",
+      "KR": "<< MEGA 푸시 >>",
+      "TW": "<< 巨力推動 >>"
+    }
+  },
+  "<< Fallen Sky >>": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "<< 墜ちた空 >>",
+      "CN": "<< 陨落天空 >>",
+      "KR": "<< 추락한 하늘 >>",
+      "TW": "<< 殞落天空 >>"
+    }
+  },
+  "<< GIGA DRAIN >>": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "<< ギガドレイン >>",
+      "CN": "<< 巨型吸取 >>",
+      "KR": "<<기가 드레인>>",
+      "TW": "<< 巨型吸取 >>"
+    }
+  },
+  "** Plant the C4, add leave there immediately!!! **": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "** C4を設置し、すぐに離脱しろ!!! **",
+      "CN": "** 放置C4，立刻离开!!! **",
+      "KR": "** C4를 설치하고 즉시 자리를 뜨세요!!! **",
+      "TW": "** 安置 C4，立刻離開!!! **"
+    }
+  },
+  "** C4 will explode in 20 seconds **": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "**C4は20秒後に爆発します**",
+      "CN": "**C4将在20秒后爆炸**",
+      "KR": "** C4가 20초 후에 폭발합니다 **",
+      "TW": "** C4 將於 20 秒後爆炸 **"
+    }
+  },
+  "<< AFK teleport in 10>>": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "<< AFKテレポーテーション 10秒後 >>",
+      "CN": "<<10秒后自动传送>>",
+      "KR": "<< 10초 후에 AFK 이동 >>",
+      "TW": "<< 10秒後自動傳送 >>"
+    }
+  },
+  "** Something will happen in 20 seconds **": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "20秒後に何か起こります **",
+      "CN": "** 20秒后会发生一些事情 **",
+      "KR": "** 20초 후에 무언가가 일어날 것입니다 **",
+      "TW": "** 20 秒後將會發生一些事情 **"
+    }
+  },
+  "*** Mapper: I will help you from the next round ***": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** マッパー：次のラウンドからお手伝いします ***",
+      "CN": "***地图绘制者: 我将从下一轮开始帮助你***",
+      "KR": "*** 맵 제작자: 다음 라운드부터 도와드리겠습니다 ***",
+      "TW": "*** 地圖製作人：我將從下一回合開始協助你 ***"
+    }
+  },
+  "*** Mapper: Only if you can complete this challenge!!! **": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** マッパー：この挑戦をクリアできる者のみ！**",
+      "CN": "*** 作者：只有你能完成这个挑战！！！**",
+      "KR": "*** 맵 제작자: 이 도전 과제를 완료할 수 있다면!! **",
+      "TW": "*** 地圖設計者：只有你能完成這個挑戰！！！**"
+    }
+  },
+  "*** Defeat Misaka or Survive for 30 seconds ***": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** 美咲を倒すか、30秒間生き残る ***",
+      "CN": "*** 击败御坂神里或生存30秒 ***",
+      "KR": "*** 미사카를 처치하거나 30초 동안 생존하세요 ***",
+      "TW": "*** 擊敗御坂美琴 或 存活 30 秒 ***"
+    }
+  },
+  "*** Mapper: Seems that you guys are good at DODGING LASER ***": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** マッパー: どうやら君たちはレーザー回避が得意のようだ ***",
+      "CN": "*** 地图制作人: 看来你们很擅长躲避激光 ***",
+      "KR": "*** 맵퍼: 레이저 피하는 데들 아주 능숙하군요 ***",
+      "TW": "*** 地圖製作者：看來你們很擅長閃避雷射 ***"
+    }
+  },
+  "*** Mapper: OK Now just finish this round ***": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** マッパー: OK さあ、このラウンドを終えてくれ ***",
+      "CN": "*** 地图绘制者：好了，现在只需完成这一轮 ***",
+      "KR": "*** 맵 제작자: OK 이제 이 라운드만 끝내세요 ***",
+      "TW": "*** 地圖製作人：好，現在只要完成這一回合 ***"
+    }
+  },
+  "*** Mapper: I will help you after this round, good luck ***": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** マッパー: このラウンドが終わったら助けます、幸運を祈ります ***",
+      "CN": "*** 地图制作者：这轮结束后我会帮助你，祝你好运 ***",
+      "KR": "*** 맵 제작자: 이번 라운드 후에 도와드릴게요, 행운을 빌어요 ***",
+      "TW": "*** 地圖製作人：這回合結束後我會幫你，祝你好運 ***"
+    }
+  },
+  "*** Defend final 25 seconds ***": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** 最終25秒を守れ ***",
+      "CN": "*** 防守最后25秒 ***",
+      "KR": "*** 최종 25초 방어 ***",
+      "TW": "*** 防守最後25秒 ***"
+    }
+  },
+  "*** STAGE III Complete ***": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** STAGE III クリア ***",
+      "CN": "*** 第3关 完成 ***",
+      "KR": "*** STAGE III 완료 ***",
+      "TW": "*** 第三階段完成 ***"
+    }
+  },
+  "*** Human Item Misaka will be Unlocked from next round ***": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** ヒューマン・アイテム 美柑が次回のラウンドからアンロックされます ***",
+      "CN": "*** 人类道具 御坂少女 将在下一轮解锁 ***",
+      "KR": "*** 인간 아이템 미사카가 다음 라운드부터 잠금 해제됩니다 ***",
+      "TW": "*** 人工物品 御坂妹神將於下一回合解鎖 ***"
+    }
+  },
+  "<< A zombie has picked up gravity magic >>": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "<< ゾンビが重力魔法を手に入れた >>",
+      "CN": "<< 一只僵尸获得了重力魔法 >>",
+      "KR": "<< 좀비가 중력 마법을 습득했습니다 >>",
+      "TW": "<< 一隻殭屍拾取了重力魔法 >>"
+    }
+  },
+  "<< Misaka will help you >>": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "<< 美咲があなたを助けます >>",
+      "CN": "<< 御坂美琴会帮助你 >>",
+      "KR": "<< 미사카가 당신을 도와줄 것입니다 >>",
+      "TW": "<< 御坂美琴會幫助你 >>"
+    }
+  },
+  "<< The cannon will deactive if misaka pick other magic >>": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "<< ミサカが他の魔法を選んだ場合、大砲は作動しなくなります >>",
+      "CN": "<< 如果御坂选了其他魔法，大炮将会停用 >>",
+      "KR": "<< 미사카가 다른 마법을 선택하면 대포는 비활성화됩니다 >>",
+      "TW": "<< 如果御坂美琴選擇其他魔法，大砲就會停用 >>"
+    }
+  },
+  "<< A zombie has picked up zmshiel >>": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "<< ゾンビがzmshielを拾った >>",
+      "CN": "<< 一只僵尸捡到了 zmshiel >>",
+      "KR": "<< 좀비가 zmshiel을 획득했습니다 >>",
+      "TW": "<< 一隻殭屍撿到了 zmshiel >>"
+    }
+  },
+  "<< CANNON READY >>": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "<< 大砲準備完了 >>",
+      "CN": "<< 火炮已就绪 >>",
+      "KR": "<< 대포 준비 완료 >>",
+      "TW": "<< 火砲就緒 >>"
+    }
+  },
+  "<< Misaka will release the power in 20 seconds >>": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "<< 美咲は20秒後に能力を発動します >>",
+      "CN": "<< 御坂将会在20秒后释放力量 >>",
+      "KR": "<< 미사카가 20초 후에 힘을 발휘합니다 >>",
+      "TW": "<< 御坂妹將於20秒後釋放力量 >>"
+    }
+  },
+  "<< CANNON >>": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "<< 大砲 >>",
+      "CN": "<< 大炮 >>",
+      "KR": "<< 대포 >>",
+      "TW": "<< 大砲 >>"
+    }
+  },
+  "<< Flame of Revenge >>": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "<< 復讐の炎 >>",
+      "CN": "<< 复仇之焰 >>",
+      "KR": "<< 복수의 불꽃 >>",
+      "TW": "<< 復仇之焰 >>"
+    }
+  },
+  "<< Hunting Instinct >>": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "<< ハンティング・インスティンクト >>",
+      "CN": "<< 狩猎本能 >>",
+      "KR": "<< 사냥 본능 >>",
+      "TW": "<<狩獵本能>>"
+    }
+  },
+  "<< FALL OF EARTH >>": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "<< 大地の崩壊 >>",
+      "CN": "<< 地球陨落 >>",
+      "KR": "<< 지구의 몰락 >>",
+      "TW": "<< 地球隕落 >>"
+    }
+  },
+  "<< The final fence will break in 120 seconds >>": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "<< 最終の柵は120秒後に破壊されます >>",
+      "CN": "<< 最后一道围墙将在 120 秒后被破坏 >>",
+      "KR": "<< 최종 방벽이 120초 후에 파괴됩니다 >>",
+      "TW": "<< 最後一道屏障會在 120 秒後崩塌 >>"
+    }
+  },
+  "--离平台链接消失还有12秒--": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Platform link will disappear in 12 seconds--",
+      "JP": "プラットフォームへのリンク消失まであと12秒",
+      "CN": "",
+      "KR": "--플랫폼 연결 종료까지 12초--",
+      "TW": "--離平台連結消失還有12秒--"
+    }
+  },
+  "<<云从月出现了！>>": {
+    "translation": "",
+    "MultiLang": {
+      "US": "<<Yun Cong Yue has appeared!>>",
+      "JP": "<<云从月 appeared!>>",
+      "CN": "",
+      "KR": "<<운종월이 나타났습니다!>>",
+      "TW": ""
+    }
+  },
+  "<<云从月：再加把劲让我看看吧......>>": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Yun Cong Yue: A little more effort, let me see... >>",
+      "JP": "",
+      "CN": "",
+      "KR": "<<운종월: 조금만 더 힘내 봐......>>",
+      "TW": "<<云从月：再加把勁讓我看看吧......>>"
+    }
+  },
+  "<<云从月：还不赖......不过下一次你们就没有这么好的运气了! >": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Yun Cong Yue: Not bad… but you won't be so lucky next time!",
+      "JP": "",
+      "CN": "",
+      "KR": "<<운종월: 꽤 괜찮군...... 하지만 다음번엔 이렇게 운이 좋지 않을 거야! >>",
+      "TW": "<<云从月：还不賴......不過下次你們就沒有這麼好的運氣了! >>"
+    }
+  },
+  "<< STAGE IV COMPLETE >>": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": "<< 第IV阶段完成 >>",
+      "KR": "<< STAGE IV 완료 >>",
+      "TW": "<< 第四階段完成 >>"
+    }
+  },
+  "*** Hello, this is mapper saying ***": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** こんにちは、マッパーがお伝えします ***",
+      "CN": "*** 你好，这里是地图制作人说 ***",
+      "KR": "*** 안녕하세요, 맵 제작자입니다. ***",
+      "TW": "��� Hello, 這是一位地圖製作者���"
+    }
+  },
+  "*** As you see in the last round, the world I created has been taken over by unknown forces  ***": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** 先程のラウンドでご覧の通り、私が作り出した世界は、未知の勢力に支配されてしまいました ***",
+      "CN": "*** 正如你在上一轮所见，我创造的世界已被未知力量接管 ***",
+      "KR": "*** 이전 라운드에서 보셨듯이, 제가 창조한 세계가 알 수 없는 힘에 의해 점령당했습니다 ***",
+      "TW": "*** 正如你在上一輪所見，我創造的世界已被未知力量所掌控 ***"
+    }
+  },
+  "*** I'm impressed with what you've done, and I want you to help me weed out the aggressor  ***": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** 君のやったことには感心した。それで、攻撃者を炙り出す手伝いを頼みたいんだ ***",
+      "CN": "*** 我对你所做的事情印象深刻，我想让你帮我清除异己 ***",
+      "KR": "*** 네가 해낸 일에 감탄했고, 공격자를 색출하는 것을 도와주길 바란다 ***",
+      "TW": "*** 我對你的表現印象深刻，我想請你幫我找出那個挑釁者。 ***"
+    }
+  },
+  "*** This is where the aggressor is, go ahead and defeat it! ***": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "*** こちらが敵対者です。討ち倒してください！ ***",
+      "CN": "*** 这是攻击者的位置，去消灭它！ ***",
+      "KR": "*** 침략자가 여기 있습니다! 쓰러뜨리세요! ***",
+      "TW": "*** 這是敵人的位置，請前去擊敗它！ ***"
+    }
+  },
+  "** Door will open in 20 seconds **": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "**20秒後にドアが開きます**",
+      "CN": "** 门将在20秒后打开 **",
+      "KR": "** 20초 후에 문이 열립니다 **",
+      "TW": "** 門將在 20 秒後開啟 **"
+    }
+  },
+  "--20s--": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": "",
+      "KR": "",
+      "TW": ""
+    }
+  },
+  "** We're getting closer to where the aggressor are, so if you're ready, press the button to enter the inner world **": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "** 敵のいる場所が近づいてきました。準備ができたら、ボタンを押して内部世界へ入ってください **",
+      "CN": "**我们越来越接近敌人的所在地了，如果你准备好了，按下按钮进入内部世界**",
+      "KR": "** 공격자의 근처에 다가가고 있습니다. 준비되었다면 버튼을 눌러 내부 세계에 진입하세요 **",
+      "TW": "**我們越來越接近敵人的所在地，如果你準備好了，按下按鈕進入內層世界**"
+    }
+  },
+  "** You press this button now **": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "** 今、このボタンを押します **",
+      "CN": "** 你现在按下这个按钮 **",
+      "KR": "** 지금 이 버튼을 누릅니다 **",
+      "TW": "** 你現在按下這個按鈕 **"
+    }
+  },
+  "** Now its time to face the aggressor **": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "** いよいよ、侵略者と対峙する時が来た **",
+      "CN": "** 现在是面对侵略者的时候了 **",
+      "KR": "** 이제 침략자를 마주할 시간입니다 **",
+      "TW": "** 現在是面對侵略者的時候了 **"
+    }
+  },
+  "** Teleport will enable in 35 seconds **": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "** 35秒後にテレポーテーションが使用可能になります **",
+      "CN": "** 传送将在35秒后开启 **",
+      "KR": "** 35초 후에 텔레포트 활성화됩니다 **",
+      "TW": "** 傳送將在 35 秒後開啟 **"
+    }
+  },
+  "入侵者：哈哈，又是你这个无能的mapper": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Invader: Haha, it's you again, the incompetent mapper",
+      "JP": "侵略者：ハハ、またお前か、無能なmapper",
+      "CN": "",
+      "KR": "침입자: 하하, 또 너냐, 무능한 맵퍼",
+      "TW": "入侵者：哈哈，又是你這個無能的map製作人"
+    }
+  },
+  "入侵者：你想利用你自己的权限把我抹除，但是你的实力太差了，你根本就没有能力来抹除我": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Invader: You want to use your own authority to erase me, but your strength is too weak. You simply don't have the ability to erase me.",
+      "JP": "侵入者：自分の権限を使って私を抹消しようとしているようだな。だが、お前の実力では無理だ。私を抹消する力など、お前にはない。",
+      "CN": "",
+      "KR": "침입자: 당신은 당신의 권한을 이용해서 나를 없애려고 하지만, 당신의 실력은 너무 부족합니다. 당신은 나를 없앨 능력이 전혀 없습니다.",
+      "TW": ""
+    }
+  },
+  "入侵者：呵呵，我还没仔细看清，原来你还带了一些自以为是的玩家来？": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Invader: Heh, I hadn't looked closely yet. So you brought some self-righteous players with you?",
+      "JP": "侵略者：呵呵、まだよく見てなかったんだ。お前、勘違いしてるプレイヤーどもを連れてきたのか？",
+      "CN": "",
+      "KR": "침입자: 呵呵, 아직 제대로 보지도 못했는데, 자네가 쓸모없는 플레이어들을 데려왔나 보군?",
+      "TW": ""
+    }
+  },
+  "入侵者：你不会以为就凭这些人就能把我抹除吧？": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Intruder: You don't really think *these* people can erase me, do you?",
+      "JP": "侵略者：この程度の人数で、私を消し去れると思っているのか？",
+      "CN": "",
+      "KR": "침입자: 이 사람들만으로는 날 없앨 수 있다고 생각하지 마!",
+      "TW": "入侵者：你不會以為就憑這些人就能把我抹除吧？"
+    }
+  },
+  "入侵者：对付你们这些人我甚至不用使出全力！": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Invaders: I don't even need to go all out to deal with you guys!",
+      "JP": "入侵者：対抗するあなたたちには、全力を使う必要すらありません！",
+      "CN": "",
+      "KR": "침입자: 너희들 상대하려면 전력을 다할 필요조차 없어!",
+      "TW": "入侵者：對付你們這些人我甚至不用使出全力！"
+    }
+  },
+  "入侵者：加把劲让我瞧瞧吧，可别让我不用一点实力就把你们彻底击溃！！！": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Invaders: Come on, let me see what you've got! Don't let me crush you completely without even trying!!!",
+      "JP": "",
+      "CN": "",
+      "KR": "침입자: 힘을 더 써 봐, 어디 한번 실력을 보여봐! 겨우 힘도 안 쓰고 널 완전히 박살 내는 건 절대 용납 못해!!!",
+      "TW": "入侵者：加把劲讓我瞧瞧吧，可別讓我不用一點實力就把你們徹底擊潰！！！"
+    }
+  },
+  "<< 60 >>": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": "",
+      "KR": "",
+      "TW": ""
+    }
+  },
+  "--- 云从月暂时撤退了...... ---": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Yun Cong Yue has temporarily retreated...",
+      "JP": "--- 云从月は一時的に撤退しました...... ---",
+      "CN": "",
+      "KR": "--- 운종월이 일시적으로 후퇴했습니다... ---",
+      "TW": "雲從月暫時撤退了......"
+    }
+  },
+  "<< ESCAPE IN 140 seconds >>": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "<< 140秒以内に脱出 >>",
+      "CN": "<< 140秒内逃脱 >>",
+      "KR": "<< 140초 안에 탈출 >>",
+      "TW": "<< 逃脫於 140 秒內 >>"
+    }
+  },
+  "** all things will teleport out of the inner world in 15 seconds **": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "** 15秒後、すべてのものが内世界からテレポートします **",
+      "CN": "**所有东西将在15秒后从内界传送出**",
+      "KR": "** 15초 안에 모든 것이 내면 세계에서 텔레포트됩니다 **",
+      "TW": "**所有物品將在 15 秒後從內界傳送出**"
+    }
+  },
+  "入侵者：你......你们这些可恶的人类！": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Invaders: You... you despicable humans!",
+      "JP": "侵略者：貴様ら……忌々しい人間ども！",
+      "CN": "",
+      "KR": "침입자: 넌...... 너희 놈들, 정말 끔찍한 인간들!",
+      "TW": "入侵者：你……你們這些可惡的人類！"
+    }
+  },
+  "入侵者：我花了这么久才控制了这个无能mapper创造的世界，怎么能这么轻易被你们抹除！": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Invaders: I spent so long controlling this incompetent mapper's creation, how could you erase it so easily!",
+      "JP": "侵略者：こんなに時間をかけてこの無能なmapperが作った世界を掌握したのに、こんなに簡単にあなたたちに消されるなんて！",
+      "CN": "",
+      "KR": "침입자: 내가 이렇게 오래 걸려 이 무능한 mapper가 만든 세계를 장악했는데, 이렇게 쉽게 너희들에게 지워질 순 없어!",
+      "TW": "入侵者：我花了這麼久才控制這個無能mapper創造的世界，怎麼能這麼容易被你們抹除！"
+    }
+  },
+  "入侵者：我.....我已经坚持不了太久了......": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Invader: I... I can't hold on much longer...",
+      "JP": "侵略者：我…もう、長くはもたない…",
+      "CN": "",
+      "KR": "침입자: 저… 더 이상 버틸 수 없을 것 같습니다…",
+      "TW": "入侵者：我…我已經堅持不了太久了…"
+    }
+  },
+  "入侵者：但是就算是这样，你们也别想活着从这里离开！！！": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Intruders: But even so, you won't leave here alive!!!",
+      "JP": "入侵者：しかしそれでも、生きてここから逃げ出すことはできないぞ！！！",
+      "CN": "",
+      "KR": "침입자: 하지만 그렇다고 해서, 여기서 살아 돌아갈 수 있을 거라고 생각하지 마세요!!!",
+      "TW": "入侵者：但是就算是這樣，你們也別想活著從這裡離開！！！"
+    }
+  },
+  "入侵者：都给我去死吧！！！": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Invaders: Die, all of you!!!",
+      "JP": "侵略者：皆殺しにしてやる！！！",
+      "CN": "",
+      "KR": "침입자: 모두 죽어라!!!",
+      "TW": ""
+    }
+  },
+  "<< 不要相信黑色的刀！！ >>": {
+    "translation": "",
+    "MultiLang": {
+      "US": "<< Do not trust the black blade!! >>",
+      "JP": "<< 不要信じる黒い刀！！ >>",
+      "CN": "",
+      "KR": "<< 검은 칼을 믿지 마세요!! >>",
+      "TW": ""
+    }
+  },
+  "<< DO NOT TRUST THE BLACK LASER YOU SEE!!! >>": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "<< 黒いレーザーを信用しないでください!!! >>",
+      "CN": "<< 不要相信你看到的黑色激光！！！ >>",
+      "KR": "<< 검은 레이저를 절대 믿지 마세요!!! >>",
+      "TW": "<< 不要相信你看到的黑色激光！！！ >>"
+    }
+  },
+  "<< SURVIVE FOR FINAL 20 SECONDS !!! >>": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "<< 残り20秒で生き残れ!!! >>",
+      "CN": "<< 坚持最后的 20 秒 !!! >>",
+      "KR": "<< 최종 20초 동안 생존하세요 !!! >>",
+      "TW": "<< 生存最後 20 秒 !!! >>"
+    }
+  },
+  "<< Congratulations !!! >>": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "<< おめでとうございます !!! >>",
+      "CN": "<< 恭喜!!! >>",
+      "KR": "<< 축하합니다 !!! >>",
+      "TW": "<< 恭喜您 !!! >>"
+    }
+  },
+  "<< You have win all stage!!! >>": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "<< すべてのステージをクリアしました!!! >>",
+      "CN": "<< 你已经通关所有关卡!!! >>",
+      "KR": "<< 모든 스테이지를 클리어했습니다!!! >>",
+      "TW": "<< 你已贏得所有關卡!!! >>"
+    }
+  },
+  "<< Map by Misaka >>": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "<< ミサカによるマップ >>",
+      "CN": "<< 地图由未纱绘制 >>",
+      "KR": "<< 미사카 제작 지도 >>",
+      "TW": "<< 地圖由美咲製作 >>"
+    }
+  },
+  "<< Do not select this stage!!! >>": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "<< このステージは選択しないでください!!! >>",
+      "CN": "<< 不要选择这个关卡！！！ >>",
+      "KR": "<< 이 스테이지는 선택하지 마세요!!! >>",
+      "TW": "<< 請勿選擇此關卡！！！ >>"
+    }
+  },
+  "<< Admin select STAGE V >>": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "<< 管理者 STAGE V を選択 >>",
+      "CN": "<< 管理员选择阶段 V >>",
+      "KR": "<< 관리자가 STAGE V를 선택합니다 >>",
+      "TW": "<< 管理員選擇關卡 V >>"
+    }
+  },
+  "<< HOLY >>": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "<< 神聖 >>",
+      "CN": "<< 神圣 >>",
+      "KR": "<< 신성 >>",
+      "TW": "<< 神聖 >>"
+    }
+  }
+}

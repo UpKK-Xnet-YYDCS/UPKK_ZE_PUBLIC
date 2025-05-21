@@ -4242,7 +4242,7 @@
 		"enabled"		"1"
 		"filename"		"ze_incident_seasons"
 		"updatedname"		"ze_incident_seasons"
-		"OnlyNominate"		"1"
+		"OnlyNominate"		"0"
 	}
 	"ze_negative_legacy"
 	{
@@ -4274,5 +4274,21 @@
 		"filename"		"ze_lego"
 		"updatedname"		"ze_lego"
 		"OnlyNominate"		"1"
+	}
+	"ze_games_p"
+	{
+		"workshop_id"		"3480475048"
+		"enabled"		"1"
+		"filename"		"ze_games_p"
+		"updatedname"		"ze_games_p"
+		"OnlyNominate"		"0"
+	}
+	"ze_misaka2_reborn"
+	{
+		"workshop_id"		"3476394764"
+		"enabled"		"1"
+		"filename"		"ze_misaka2_reborn"
+		"updatedname"		"ze_misaka2_reborn"
+		"OnlyNominate"		"0"
 	}
 }

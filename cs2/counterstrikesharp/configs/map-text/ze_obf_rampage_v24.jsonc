@@ -163,7 +163,7 @@
     "translation": "防守70秒",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "DEFEND 70秒",
       "CN": "防守70秒",
       "KR": "방어 70초",
       "TW": "防守70秒"
@@ -363,7 +363,7 @@
     "translation": "快跑",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "走る",
       "CN": "快跑",
       "KR": "런nings",
       "TW": "跑開"
@@ -497,6 +497,16 @@
       "CN": "我们还活着..",
       "KR": "우리 아직 살아있어..",
       "TW": "我們還 Alive.."
+    }
+  },
+  "黑洞无解点已禁止": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Black hole unsolvable points have been disabled.",
+      "JP": "",
+      "CN": "",
+      "KR": "블랙홀 해결 불가능 지점은 금지되었습니다.",
+      "TW": "黑洞無解點已禁止"
     }
   }
 }

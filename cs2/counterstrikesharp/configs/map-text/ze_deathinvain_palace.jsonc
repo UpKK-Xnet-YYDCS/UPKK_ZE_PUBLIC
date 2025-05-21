@@ -14,7 +14,7 @@
     "MultiLang": {
       "US": "",
       "JP": "",
-      "CN": "",
+      "CN": "ZE_死亡之宫_无功而返",
       "KR": "",
       "TW": ""
     }
@@ -43,9 +43,9 @@
     "translation": "",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "ZE_Deathinvain_Palace\nvueruによるマップ",
       "CN": "ZE_Deathinvain_Palace\n地图由 vueru 制作",
-      "KR": "",
+      "KR": "ZE_Deathinvain_Palace\n맵 제작: vueru",
       "TW": "ZE_Deathinvain_Palace\n地圖由 vueru 製成"
     }
   },
@@ -55,7 +55,7 @@
       "US": "",
       "JP": "<章 - 忘れられた>",
       "CN": "<章节 - 被遗忘的>",
-      "KR": "",
+      "KR": "<CHAPTER - 잊혀진 자들>",
       "TW": "<章節 - 被遺忘的>"
     }
   },
@@ -137,6 +137,26 @@
       "CN": "<两侧的石碑似乎有线索>",
       "KR": "<양쪽의 석판들이 힌트를 제공하는 것 같습니다>",
       "TW": "兩塊石碑似乎有線索。"
+    }
+  },
+  "**A player has picked up Disaster Scroll**": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "**プレイヤーが災厄の巻物を拾いました**",
+      "CN": "**一名玩家获得了灾难卷轴**",
+      "KR": "**플레이어가 재앙의 두루마리를 획득했습니다.**",
+      "TW": "**一位玩家拾取了災難卷軸**"
+    }
+  },
+  "**A player has picked up Saint Diana's shelter**": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "プレイヤーが聖女ダイアナの避難所を手に入れました",
+      "CN": "**一名玩家拾取了圣迪安娜的庇护所**",
+      "KR": "**플레이어가 성 디아나의 은신처를 획득했습니다**",
+      "TW": "**一位玩家拾取了聖潔黛安娜的庇護所**"
     }
   }
 }
