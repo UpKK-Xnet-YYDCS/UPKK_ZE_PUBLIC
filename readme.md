@@ -18,8 +18,8 @@
 | check_workshop_ids.yml                    | 用于检查地图创意工坊中是否还有效例如是否被下架地图等。            |
 | check_workshop_in_collection.yml         | 检查地图是否已被加入创意工坊集合中。               |
 | deleteWorkflowRun.yml                     | 用于自动清理工作流的运行记录。                   |
-| valid_json.yml                           | 注释文件，包含 JSON 数据验证规则    |
+| valid_json.yml                           |  JSON 数据验证规则    |
 | ollama-automatic-translate.yml           | 使用upkk self-host github runner运行器,在upkk的自拓管AI服务器使用特定模型自动化翻译地图语言并自动提交PR 注:依赖Upkk 部署AI的服务器在线状态  |
-
+| SteamWorkshopMapFetchandAdd.yml          | 搭配 scripts/workshop_white_steam64.txt 以及 scripts/SteamWorkshopMapFetchandAdd.py 每24小时自动根据steam64白名单自动从创意工坊收集地图并提交到PR 大大减轻维护所需时间  |
 
 
