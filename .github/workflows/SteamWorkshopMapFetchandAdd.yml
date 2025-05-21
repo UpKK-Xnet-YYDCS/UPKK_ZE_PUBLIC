@@ -1,8 +1,11 @@
 name: Steam Workshop Map Fetch and Add
 
 on:
-  # Allows manual triggering of the workflow
+  # 允许手动触发工作流
   workflow_dispatch:
+  # 每24小时运行一次（使用 cron 表达式）
+  schedule:
+    - cron: '0 0 * * *'  # 每天 UTC 时间 00:00 运行
 
 jobs:
   fetch_and_add_maps:
