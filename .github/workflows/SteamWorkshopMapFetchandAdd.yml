@@ -1,9 +1,8 @@
 name: Steam Workshop Map Fetch and Add
 
 on:
-  push:
-    branches:
-      - main  # You can change this to any branch you want the workflow to run on
+  # Allows manual triggering of the workflow
+  workflow_dispatch:
 
 jobs:
   fetch_and_add_maps:
