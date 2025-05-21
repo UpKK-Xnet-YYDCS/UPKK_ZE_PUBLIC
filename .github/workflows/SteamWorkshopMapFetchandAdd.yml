@@ -39,5 +39,5 @@ jobs:
           body: |
             此PR自动添加了创意工坊地图。
             请审核并确认,它们来自 scripts/workshop_white_steam64.txt 中白名单作者steam64
-          base: main
+          base: master
           head: error-fix-branch
