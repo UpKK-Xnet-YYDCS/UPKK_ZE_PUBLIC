@@ -1,0 +1,43 @@
+name: Steam Workshop Map Fetch and Add
+
+on:
+  push:
+    branches:
+      - main  # You can change this to any branch you want the workflow to run on
+
+jobs:
+  fetch_and_add_maps:
+    runs-on: ubuntu-latest
+
+    env:
+      STEAM_API_KEY: ${{ secrets.STEAM_API_KEY }}  # Set your Steam API key as a secret in the GitHub repository
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2
+
+      - name: Set up Python
+        uses: actions/setup-python@v2
+        with:
+          python-version: '3.x'
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install requests vdf
+
+      - name: Run the map fetching and adding script
+        run: |
+          python3 AutomaticWorkShopMap.py
+
+      - name: Create Pull Request if previous step failed
+        if: failure()  # This will trigger only if the previous step fails
+        uses: peter-evans/create-pull-request@v5
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}  # GitHub automatically provides this secret
+          title: "Fix issues in map fetching or adding"
+          body: |
+            This PR fixes issues encountered during the map fetching and adding process.
+            Please review the changes made to correct the errors.
+          base: main  # The base branch where the PR will be created (can be changed)
+          head: error-fix-branch  # Name of the new branch to create for the PR

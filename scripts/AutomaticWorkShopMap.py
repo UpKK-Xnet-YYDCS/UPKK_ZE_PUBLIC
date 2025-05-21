@@ -3,6 +3,7 @@ import json
 import time
 import os
 import logging
+import subprocess
 
 # 配置
 STEAM_API_KEY = os.getenv("STEAM_API_KEY")  # 从环境变量加载 API 密钥
@@ -136,20 +137,27 @@ def main():
             print(f"    作者: {item['creator']}")
             print(f"    文件大小: {item['file_size']}")
             print("    " + "-"*40)
+                        # 传递 id 和 title 到 add_map.py 脚本
+            try:
+                subprocess.run(["python3", "add_map.py", "cs2/counterstrikesharp/configs/plugins/MapChooser/maps.txt", str(item["id"]), item["title"]], check=True)
+                logging.info(f"成功将地图 {item['title']} (ID: {item['id']}) 添加到 MapChooser")
+            except subprocess.CalledProcessError as e:
+                logging.error(f"运行 add_map.py 脚本时出错 (地图 {item['title']} ID: {item['id']}): {e}")
+                print(f"运行 add_map.py 脚本时出错 (地图 {item['title']} ID: {item['id']}): {e}")
 
     # 保存结果，移除 SteamID
-    results = {
-        "items": items
-    }
+    #results = {
+    #    "items": items
+    #}
 
     # 保存结果
-    if results:
-        try:
-            with open(DEFAULT_OUTPUT_FILE, 'w', encoding='utf-8') as f:
-                json.dump(results, f, ensure_ascii=False, indent=2)
-            print(f"\n结果已保存到 {DEFAULT_OUTPUT_FILE}")
-        except Exception as e:
-            print(f"保存结果时出错: {e}")
+    #if results:
+    #    try:
+    #        with open(DEFAULT_OUTPUT_FILE, 'w', encoding='utf-8') as f:
+    #            json.dump(results, f, ensure_ascii=False, indent=2)
+    #        print(f"\n结果已保存到 {DEFAULT_OUTPUT_FILE}")
+    #    except Exception as e:
+    #        print(f"保存结果时出错: {e}")
 
 if __name__ == "__main__":
     main()
