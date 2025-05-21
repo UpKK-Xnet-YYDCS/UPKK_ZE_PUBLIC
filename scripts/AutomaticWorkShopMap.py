@@ -139,7 +139,7 @@ def main():
             print("    " + "-"*40)
                         # 传递 id 和 title 到 add_map.py 脚本
             try:
-                subprocess.run(["python3", "add_map.py", "cs2/counterstrikesharp/configs/plugins/MapChooser/maps.txt", str(item["id"]), item["title"]], check=True)
+                subprocess.run(["python3", "scripts/add_map.py", "cs2/counterstrikesharp/configs/plugins/MapChooser/maps.txt", str(item["id"]), item["title"]], check=True)
                 logging.info(f"成功将地图 {item['title']} (ID: {item['id']}) 添加到 MapChooser")
             except subprocess.CalledProcessError as e:
                 logging.error(f"运行 add_map.py 脚本时出错 (地图 {item['title']} ID: {item['id']}): {e}")

@@ -27,7 +27,7 @@ jobs:
 
       - name: Run the map fetching and adding script
         run: |
-          python3 AutomaticWorkShopMap.py
+          python3 scripts/AutomaticWorkShopMap.py
 
       - name: Create Pull Request if previous step failed
         if: failure()  # This will trigger only if the previous step fails
