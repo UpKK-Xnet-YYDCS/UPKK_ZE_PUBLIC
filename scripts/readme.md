@@ -10,4 +10,4 @@
 |-------------------|--------------|
 | 76561199520180598 | p组(Source2ZE)  https://steamcommunity.com/id/s2ze/myworkshopfiles/    |
 | 76561198969371442 | [odm2001 ](https://steamcommunity.com/id/odm2001)     |
-| 76561198848585786 | [76561198848585786 ]([https://steamcommunity.com/id/odm2001](https://steamcommunity.com/profiles/76561198848585786/myworkshopfiles/))     |
+| 76561198848585786 | https://steamcommunity.com/profiles/76561198848585786/myworkshopfiles/     |
