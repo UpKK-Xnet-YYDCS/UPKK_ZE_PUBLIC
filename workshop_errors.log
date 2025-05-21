@@ -6,3 +6,11 @@
 2025-05-21 16:40:59,041 - INFO - 成功将地图 ze_games_p (ID: 3480475048) 添加到 MapChooser
 2025-05-21 16:40:59,089 - INFO - 成功将地图 ze_NY_Marathon_p (ID: 3473782795) 添加到 MapChooser
 2025-05-21 16:40:59,137 - INFO - 成功将地图 ze_rooftop_madness_p (ID: 3470854774) 添加到 MapChooser
+2025-05-21 16:45:43,335 - INFO - 从 scripts/workshop_white_steam64.txt 加载了 1 个白名单 SteamID
+2025-05-21 16:45:43,337 - DEBUG - Starting new HTTPS connection (1): api.steampowered.com:443
+2025-05-21 16:45:44,729 - DEBUG - https://api.steampowered.com:443 "GET /IPublishedFileService/QueryFiles/v1/?key=FAC1B09100E50690AC9D3C090627846E&query_type=1&appid=730&numperpage=100&return_details=True&search_text=ze_&return_tags=True&return_kv_tags=True&return_previews=True&return_children=True&filetype=0 HTTP/1.1" 200 63272
+2025-05-21 16:45:44,802 - INFO - 成功将地图 ze_lorem_ipsum_p (ID: 3480565759) 添加到 MapChooser
+2025-05-21 16:45:44,852 - INFO - 成功将地图 ze_forestbunkers_p (ID: 3480564668) 添加到 MapChooser
+2025-05-21 16:45:44,901 - INFO - 成功将地图 ze_games_p (ID: 3480475048) 添加到 MapChooser
+2025-05-21 16:45:44,951 - INFO - 成功将地图 ze_NY_Marathon_p (ID: 3473782795) 添加到 MapChooser
+2025-05-21 16:45:44,992 - INFO - 成功将地图 ze_rooftop_madness_p (ID: 3470854774) 添加到 MapChooser
