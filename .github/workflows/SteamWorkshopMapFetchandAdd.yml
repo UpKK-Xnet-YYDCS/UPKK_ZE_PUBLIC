@@ -5,7 +5,7 @@ on:
   workflow_dispatch:
   # 每24小时运行一次（使用 cron 表达式）
   schedule:
-    - cron: '0 0 * * *'  # 每天 UTC 时间 00:00 运行
+    - cron: '0 */12 * * *'  # 每 12 小时运行一次
 
 jobs:
   fetch_and_add_maps:
