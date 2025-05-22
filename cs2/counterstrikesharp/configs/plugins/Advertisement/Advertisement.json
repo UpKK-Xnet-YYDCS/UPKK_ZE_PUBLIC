@@ -28,6 +28,9 @@
 			},
 			{
 				"Chat": "{ads_9}"
+			},
+			{
+				"Chat": "{ads_10}"
 			}
 		]
 	}],
@@ -111,6 +114,13 @@
 			"TW": "{RED}[X社區] {BLUE}命中反饋可以輸入 {ORANGE}!hm{GREEN} 開啟或關閉 {BLUE}傷害顯示可以輸入 {ORANGE}!ht{GREEN} 開啟或關閉",
 			"JP": "{RED}[Xコミュニティ] {BLUE}ヒットマーカーは {ORANGE}!hm{GREEN} でオンまたはオフにできます {BLUE}ダメージ表示は {ORANGE}!ht{GREEN} でオンまたはオフにできます",
 			"KR": "{RED}[X 커뮤니티] {BLUE}힌트 마커를 {ORANGE}!hm{GREEN}으로 입력하여 켜거나 끌 수 있습니다 {BLUE}대미지 표시를 {ORANGE}!ht{GREEN}를 입력하여 켜거나 끌 수 있습니다"
+		},
+		"ads_10": {
+		    "CN": "{BLUE}大多数服务器地图由Bot爬虫自动从创意工坊采集，若此地图未经您的授权，请前往 {ORANGE}github UpKK-Xnet-YYDCS 储存库{GREEN} 提交您的Issues",
+		    "US": "{BLUE}Most server maps are automatically collected by Bot from the Workshop. If this map is used without your authorization, please visit the {ORANGE}github UpKK-Xnet-YYDCS repository{GREEN} to submit your Issues",
+		    "TW": "{BLUE}大多數伺服器地圖由Bot爬蟲自動從創意工坊採集，若此地圖未經您的授權，請前往 {ORANGE}github UpKK-Xnet-YYDCS 儲存庫{GREEN} 提交您的Issues",
+		    "JP": "{BLUE}ほとんどのサーバーマップはBotクローラーによりワークショップから自動的に収集されます。このマップが未承認で使用されている場合は、{ORANGE}github UpKK-Xnet-YYDCS リポジトリ{GREEN} にIssuesを提出してください",
+		    "KR": "{BLUE}대부분의 서버 맵은 Bot 크롤러에 의해 워크숍에서 자동으로 수집됩니다. 이 맵이 귀하의 승인 없이 사용된 경우, {ORANGE}github UpKK-Xnet-YYDCS 저장소{GREEN}에 Issues를 제출해 주세요"
 		}
 	},
 	"MapsName": {
