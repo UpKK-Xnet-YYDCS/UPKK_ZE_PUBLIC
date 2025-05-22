@@ -20,6 +20,6 @@
 | deleteWorkflowRun.yml                     | 用于自动清理工作流的运行记录。                   |
 | valid_json.yml                           |  JSON 数据验证规则    |
 | ollama-automatic-translate.yml           | 使用upkk self-host github runner运行器,在upkk的自拓管AI服务器使用特定模型自动化翻译地图语言并自动提交PR 注:依赖Upkk 部署AI的服务器在线状态  |
-| SteamWorkshopMapFetchandAdd.yml          | 搭配 scripts/workshop_white_steam64.txt 以及 scripts/SteamWorkshopMapFetchandAdd.py 每24小时自动根据steam64白名单自动从创意工坊收集地图并提交到PR 大大减轻维护所需时间  |
+| SteamWorkshopMapFetchandAdd.yml          | 搭配 scripts/SteamWorkshopMapFetchandAdd.py 每24小时自动从创意工坊收集地图并提交到PR 大大减轻维护所需时间,支持配置白名单或黑名单模式  |
 
 
