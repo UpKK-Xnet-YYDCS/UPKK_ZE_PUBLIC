@@ -2,6 +2,22 @@ import vdf
 import argparse
 import os
 
+def check_workshop_id_in_file(data, workshop_id):
+    """
+    检查工作坊 ID 是否已存在于 Maplist 中。
+    
+    参数:
+        data (dict): 解析后的 KeyValue 数据
+        workshop_id (str): 要检查的工作坊 ID
+    
+    返回:
+        bool: 如果工作坊 ID 已存在，则返回 True，否则返回 False
+    """
+    for map_data in data.get("Maplist", {}).values():
+        if map_data.get("workshop_id") == workshop_id:
+            return True
+    return False
+
 def add_map_to_file(file_path, map_name, workshop_id):
     """
     向指定的 Valve KeyValue 格式文件添加新的地图数据。如果地图已存在，则忽略。
@@ -31,6 +47,11 @@ def add_map_to_file(file_path, map_name, workshop_id):
         if map_name in data["Maplist"]:
             print(f"地图 {map_name} 已存在，跳过添加")
             return
+        
+        # 检查工作坊 ID 是否已存在
+        if check_workshop_id_in_file(data, workshop_id):
+            print(f"工坊 ID {workshop_id}  {map_name} 已存在，跳过添加")
+            return
 
         # 创建新地图数据，使用默认值
         new_map = {
@@ -58,7 +79,7 @@ def main():
     parser = argparse.ArgumentParser(description="向 Valve KeyValue 格式的 Maplist 文件添加新地图")
     parser.add_argument("file_path", help="Maplist 文件路径")
     parser.add_argument("map_name", help="地图名称")
-    parser.add_argument("workshop_id", help="工作坊 ID")
+    parser.add_argument("workshop_id", help="工坊 ID")
 
     # 解析参数
     args = parser.parse_args()
