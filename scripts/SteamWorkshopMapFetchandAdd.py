@@ -11,6 +11,7 @@ BASE_URL = "https://api.steampowered.com"
 DEFAULT_OUTPUT_FILE = "workshop_maps.json"
 DEFAULT_APPID = 730  # 默认 CS:GO/CS2 AppID
 DEFAULT_WHITELIST_FILE = "scripts/workshop_white_steam64.txt"  # 默认白名单文件
+DEFAULT_BLACKLIST_FILE = "scripts/workshop_black_steam64.txt"  # 默认黑名单文件
 
 def load_whitelist(file_path):
     """从文件加载白名单列表"""
@@ -25,74 +26,94 @@ def load_whitelist(file_path):
         print(f"读取白名单文件时出错: {e}")
         return set()
 
-def get_workshop_maps(api_key, appid=730, search_prefix="ze_", whitelist=None):
-    """获取用户上传的所有创意工坊内容（地图和合集），并过滤不在白名单中的作者"""
-    url = f"{BASE_URL}/IPublishedFileService/QueryFiles/v1/"
-    params = {
-        "key": api_key,
-        "query_type": 1,  #排序依据：按发布时间排序
-        "appid": appid,
-        "numperpage": 200,  # 每页最大数量
-        "return_details": True,
-        "search_text": search_prefix,  # 使用参数作为搜索文本
-        "return_tags": True,
-        "return_kv_tags": True,
-        "return_previews": True,
-        "return_children": True,
-        "filetype": 0
-    }
-
+def load_blacklist(file_path):
+    """从文件加载黑名单列表"""
     try:
-        response = requests.get(url, params=params)
-        response.raise_for_status()
-        data = response.json()
+        with open(file_path, 'r', encoding='utf-8') as f:
+            blacklist = {line.strip() for line in f if line.strip()}  # 使用集合避免重复
+        return blacklist
+    except FileNotFoundError:
+        print(f"错误：黑名单文件 {file_path} 未找到")
+        return set()
+    except Exception as e:
+        print(f"读取黑名单文件时出错: {e}")
+        return set()
 
-        # 检查是否有数据
-        if not data.get("response") or not data["response"].get("publishedfiledetails"):
-            return []
+def get_workshop_maps(api_key, appid=730, search_prefix="ze_", whitelist=None, blacklist=None, numperpage=200, page_count=1):
+    """获取用户上传的所有创意工坊内容（地图和合集），并过滤不在白名单中的作者和黑名单中的作者"""
+    url = f"{BASE_URL}/IPublishedFileService/QueryFiles/v1/"
+    items = []
 
-        # 提取内容信息
-        items = []
-        for item in data["response"]["publishedfiledetails"]:
-            if item.get("result") != 1:  # 1 表示成功
-                continue
+    for page in range(1, page_count + 1):
+        params = {
+            "key": api_key,
+            "query_type": 1,  # 排序依据：按发布时间排序
+            "appid": appid,
+            "numperpage": numperpage,  # 每页最大数量，动态传入
+            "return_details": True,
+            "search_text": search_prefix,  # 使用参数作为搜索文本
+            "return_tags": True,
+            "return_kv_tags": True,
+            "return_previews": True,
+            "return_children": True,
+            "filetype": 0,
+            "page": page  # 分页参数
+        }
 
-            # 如果创作者不在白名单里，跳过此项目
-            creator = str(item.get("creator"))
-            if whitelist and creator not in whitelist:
-                continue
+        try:
+            response = requests.get(url, params=params)
+            response.raise_for_status()
+            data = response.json()
 
-            # 处理时间戳
-            time_created = item.get("time_created", 0)
-            time_updated = item.get("time_updated", 0)
+            # 检查是否有数据
+            if not data.get("response") or not data["response"].get("publishedfiledetails"):
+                break  # 如果没有数据了，停止分页请求
 
-            # 如果标题不以指定的前缀开头，跳过该项目
-            if not item.get("title", "").startswith(search_prefix):
-                continue
+            # 提取内容信息
+            for item in data["response"]["publishedfiledetails"]:
+                if item.get("result") != 1:  # 1 表示成功
+                    continue
 
-            items.append({
-                "title": item.get("title", "未命名"),
-                "description": item.get("description", ""),
-                "file_type": item.get("file_type", 0),  # 0=地图, 2=合集
-                "id": item["publishedfileid"],
-                "creator": item["creator"],
-                "file_size": item["file_size"],
-                "url": f"https://steamcommunity.com/sharedfiles/filedetails/?id={item['publishedfileid']}",
-                "time_created": time.strftime("%Y-%m-%d", time.localtime(time_created)) if time_created else "未知",
-                "time_updated": time.strftime("%Y-%m-%d", time.localtime(time_updated)) if time_updated else "未知",
-                "views": item.get("views", 0),
-                "subscriptions": item.get("subscriptions", 0),
-                "favorited": item.get("favorited", 0)
-            })
+                # 如果创作者在黑名单里，跳过此项目
+                creator = str(item.get("creator"))
+                if blacklist and creator in blacklist:
+                    print(f"忽略创作者 {creator}，因为他们在黑名单中")
+                    continue
 
-        # 按创建时间排序（最新优先）
-        items.sort(key=lambda x: x.get("time_created", "0"), reverse=True)
+                # 如果创作者不在白名单里，且白名单不为空，则跳过此项目
+                if whitelist and creator not in whitelist:
+                    continue
 
-        return items
+                # 处理时间戳
+                time_created = item.get("time_created", 0)
+                time_updated = item.get("time_updated", 0)
 
-    except requests.RequestException as e:
-        print(f"抓取创意工坊内容时出错: {e}")
-        return []
+                # 如果标题不以指定的前缀开头，跳过该项目
+                if not item.get("title", "").startswith(search_prefix):
+                    continue
+
+                items.append({
+                    "title": item.get("title", "未命名"),
+                    "description": item.get("description", ""),
+                    "file_type": item.get("file_type", 0),  # 0=地图, 2=合集
+                    "id": item["publishedfileid"],
+                    "creator": item["creator"],
+                    "file_size": item["file_size"],
+                    "url": f"https://steamcommunity.com/sharedfiles/filedetails/?id={item['publishedfileid']}",
+                    "time_created": time.strftime("%Y-%m-%d", time.localtime(time_created)) if time_created else "未知",
+                    "time_updated": time.strftime("%Y-%m-%d", time.localtime(time_updated)) if time_updated else "未知",
+                    "views": item.get("views", 0),
+                    "subscriptions": item.get("subscriptions", 0),
+                    "favorited": item.get("favorited", 0)
+                })
+        except requests.RequestException as e:
+            print(f"抓取创意工坊内容时出错: {e}")
+            break
+
+    # 按创建时间排序（最新优先）
+    items.sort(key=lambda x: x.get("time_created", "0"), reverse=True)
+
+    return items
 
 def main():
     # 设置命令行参数解析器
@@ -107,6 +128,28 @@ def main():
         help="白名单文件路径 (例如 scripts/workshop_white_steam64.txt)",
         default=DEFAULT_WHITELIST_FILE  # 如果没有传入则使用默认值
     )
+    parser.add_argument(
+        "--blacklist_file", 
+        help="黑名单文件路径 (例如 scripts/workshop_black_steam64.txt)",
+        default=DEFAULT_BLACKLIST_FILE  # 如果没有传入则使用默认值
+    )
+    parser.add_argument(
+        "--search_prefix", 
+        help="搜索前缀，默认为 'ze_'",
+        default="ze_"  # 默认前缀
+    )
+    parser.add_argument(
+        "--numperpage", 
+        type=int,
+        help="每页的最大数量，默认为 200",
+        default=200  # 默认每页 200 个项目
+    )
+    parser.add_argument(
+        "--page_count", 
+        type=int,
+        help="获取的总页数，默认为 1",
+        default=1  # 默认获取 1 页
+    )
 
     args = parser.parse_args()
 
@@ -119,17 +162,29 @@ def main():
     print(f"使用输出文件: {DEFAULT_OUTPUT_FILE}，AppID: {DEFAULT_APPID}")
 
     if not STEAM_API_KEY:
-        print("错误：未设置 STEAM_API_KEY 环境变量。请使用 'export STEAM_API_KEY=your_key' 设置。")
+        print("错误：未设置 STEAM_API_KEY 环境变量。请使用 'export STEAM_API_KEY=your_key' 设置, Windows系统 使用 set")
         return
 
-    # 加载白名单
+    # 加载白名单和黑名单
     whitelist = load_whitelist(args.whitelist_file)
+    blacklist = load_blacklist(args.blacklist_file)
+
     if not whitelist:
-        print(f"错误：白名单文件 {args.whitelist_file} 为空或加载失败，程序退出。")
-        return
+        print(f"白名单文件 {args.whitelist_file} 为空或加载失败，将不过滤创作者。")
+    
+    if not blacklist:
+        print(f"黑名单文件 {args.blacklist_file} 为空或加载失败，将不过滤创作者。")
 
-
-    items = get_workshop_maps(STEAM_API_KEY, DEFAULT_APPID, whitelist=whitelist)
+    # 获取创意工坊内容
+    items = get_workshop_maps(
+        STEAM_API_KEY, 
+        DEFAULT_APPID, 
+        search_prefix=args.search_prefix, 
+        whitelist=whitelist, 
+        blacklist=blacklist,
+        numperpage=args.numperpage,  # 每页最大数量
+        page_count=args.page_count  # 获取的页数
+    )
 
     if not items:
         print(f"未找到创意工坊内容")

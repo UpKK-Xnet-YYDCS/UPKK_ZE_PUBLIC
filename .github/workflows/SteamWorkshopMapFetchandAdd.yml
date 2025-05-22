@@ -30,7 +30,7 @@ jobs:
 
       - name: Run the map fetching and adding script
         run: |
-          python3 scripts/SteamWorkshopMapFetchandAdd.py --map_file_path "cs2/counterstrikesharp/configs/plugins/MapChooser/maps.txt" --whitelist_file "scripts/workshop_white_steam64.txt"
+          python3 scripts/SteamWorkshopMapFetchandAdd.py --search_prefix "ze_" --map_file_path "cs2/counterstrikesharp/configs/plugins/MapChooser/maps.txt" --whitelist_file "scripts/workshop_white_steam64.txt" --blacklist_file workshop_black_steam64.txt --numperpage 200 --page_count 2
         env:
           STEAM_API_KEY: ${{ secrets.STEAM_API_KEY }}  # Ensure the environment variable is also available to the script
 
