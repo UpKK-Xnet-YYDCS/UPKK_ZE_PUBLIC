@@ -30,7 +30,7 @@ jobs:
 
       - name: Run the map fetching and adding script
         run: |
-          python3 scripts/SteamWorkshopMapFetchandAdd.py
+          python3 scripts/SteamWorkshopMapFetchandAdd.py --map_file_path "cs2/counterstrikesharp/configs/plugins/MapChooser/maps.txt" --whitelist_file "scripts/workshop_white_steam64.txt"
         env:
           STEAM_API_KEY: ${{ secrets.STEAM_API_KEY }}  # Ensure the environment variable is also available to the script
 

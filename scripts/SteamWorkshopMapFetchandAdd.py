@@ -3,15 +3,14 @@ import json
 import time
 import os
 import subprocess
+import argparse
 
 # 配置
 STEAM_API_KEY = os.getenv("STEAM_API_KEY")  # 从环境变量加载 API 密钥
 BASE_URL = "https://api.steampowered.com"
 DEFAULT_OUTPUT_FILE = "workshop_maps.json"
 DEFAULT_APPID = 730  # 默认 CS:GO/CS2 AppID
-STEAM_ID = "76561198012345678"  # 直接指定 SteamID64
-WHITELIST_FILE = "scripts/workshop_white_steam64.txt"  # 白名单文件
-
+DEFAULT_WHITELIST_FILE = "scripts/workshop_white_steam64.txt"  # 默认白名单文件
 
 def load_whitelist(file_path):
     """从文件加载白名单列表"""
@@ -26,7 +25,7 @@ def load_whitelist(file_path):
         print(f"读取白名单文件时出错: {e}")
         return set()
 
-def get_workshop_maps(steam_id, api_key, appid=730, search_prefix="ze_", whitelist=None):
+def get_workshop_maps(api_key, appid=730, search_prefix="ze_", whitelist=None):
     """获取用户上传的所有创意工坊内容（地图和合集），并过滤不在白名单中的作者"""
     url = f"{BASE_URL}/IPublishedFileService/QueryFiles/v1/"
     params = {
@@ -92,32 +91,50 @@ def get_workshop_maps(steam_id, api_key, appid=730, search_prefix="ze_", whiteli
         return items
 
     except requests.RequestException as e:
-        print(f"SteamID {steam_id}: 抓取创意工坊内容时出错: {e}")
+        print(f"抓取创意工坊内容时出错: {e}")
         return []
 
 def main():
+    # 设置命令行参数解析器
+    parser = argparse.ArgumentParser(description="抓取 Steam 创意工坊内容")
+    parser.add_argument(
+        "--map_file_path", 
+        help="MapChooser 配置文件路径 (cs2/counterstrikesharp/configs/plugins/MapChooser/maps.txt)",
+        required=True  # 强制要求传入此参数
+    )
+    parser.add_argument(
+        "--whitelist_file", 
+        help="白名单文件路径 (例如 scripts/workshop_white_steam64.txt)",
+        default=DEFAULT_WHITELIST_FILE  # 如果没有传入则使用默认值
+    )
+
+    args = parser.parse_args()
+
+    # 检查路径参数
+    if not args.map_file_path:
+        print("错误：必须传入 MapChooser的 maps 配置文件路径参数。")
+        return
+
     print(f"开始抓取创意工坊内容...")
-    print(f"使用输出文件: {DEFAULT_OUTPUT_FILE}，AppID: {DEFAULT_APPID}，SteamID: {STEAM_ID}")
+    print(f"使用输出文件: {DEFAULT_OUTPUT_FILE}，AppID: {DEFAULT_APPID}")
 
     if not STEAM_API_KEY:
         print("错误：未设置 STEAM_API_KEY 环境变量。请使用 'export STEAM_API_KEY=your_key' 设置。")
         return
 
     # 加载白名单
-    whitelist = load_whitelist(WHITELIST_FILE)
+    whitelist = load_whitelist(args.whitelist_file)
     if not whitelist:
-        print("白名单为空，程序退出")
+        print(f"错误：白名单文件 {args.whitelist_file} 为空或加载失败，程序退出。")
         return
 
-    steam_id = STEAM_ID
-    print(f"处理 SteamID: {steam_id}")
 
-    items = get_workshop_maps(steam_id, STEAM_API_KEY, DEFAULT_APPID, whitelist=whitelist)
+    items = get_workshop_maps(STEAM_API_KEY, DEFAULT_APPID, whitelist=whitelist)
 
     if not items:
-        print(f"SteamID {steam_id}: 未找到创意工坊内容")
+        print(f"未找到创意工坊内容")
     else:
-        print(f"SteamID {steam_id}: 找到 {len(items)} 个创意工坊项目")
+        print(f"找到 {len(items)} 个创意工坊项目")
         for item in items:
             print(f"  - 类型: {'合集' if item['file_type'] == 2 else '地图'}")
             print(f"    标题: {item['title']}")
@@ -128,25 +145,11 @@ def main():
             print(f"    作者: {item['creator']}")
             print(f"    文件大小: {item['file_size']}")
             print("    " + "-"*40)
-                        # 传递 id 和 title 到 add_map.py 脚本
+            # 传递 id 和 title 到 add_map.py 脚本
             try:
-                subprocess.run(["python3", "scripts/add_map.py", "cs2/counterstrikesharp/configs/plugins/MapChooser/maps.txt", item["title"], str(item["id"])], check=True)
+                subprocess.run(["python3", "scripts/add_map.py", args.map_file_path, item["title"], str(item["id"])], check=True)
             except subprocess.CalledProcessError as e:
                 print(f"运行 add_map.py 脚本时出错 (地图 {item['title']} ID: {item['id']}): {e}")
-
-    # 保存结果，移除 SteamID
-    #results = {
-    #    "items": items
-    #}
-
-    # 保存结果
-    #if results:
-    #    try:
-    #        with open(DEFAULT_OUTPUT_FILE, 'w', encoding='utf-8') as f:
-    #            json.dump(results, f, ensure_ascii=False, indent=2)
-    #        print(f"\n结果已保存到 {DEFAULT_OUTPUT_FILE}")
-    #    except Exception as e:
-    #        print(f"保存结果时出错: {e}")
 
 if __name__ == "__main__":
     main()
