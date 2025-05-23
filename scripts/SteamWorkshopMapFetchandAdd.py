@@ -12,6 +12,8 @@ DEFAULT_OUTPUT_FILE = "workshop_maps.json"
 DEFAULT_APPID = 730  # 默认 CS:GO/CS2 AppID
 DEFAULT_WHITELIST_FILE = "scripts/workshop_white_steam64.txt"  # 默认白名单文件
 DEFAULT_BLACKLIST_FILE = "scripts/workshop_black_steam64.txt"  # 默认黑名单文件
+DEFAULT_ITEM_BLACKLIST_FILE = "scripts/workshop_item_black_lists.txt"  # 工坊单个项目黑名单文件
+
 
 def load_whitelist(file_path):
     """从文件加载白名单列表"""
@@ -39,7 +41,23 @@ def load_blacklist(file_path):
         print(f"读取黑名单文件时出错: {e}")
         return set()
 
-def get_workshop_maps(api_key, appid=730, search_prefix="ze_", whitelist=None, blacklist=None, numperpage=200, page_count=1):
+
+def load_item_blacklist(file_path):
+    """从文件加载项目黑名单列表"""
+    try:
+        with open(file_path, 'r', encoding='utf-8') as f:
+            item_blacklist = {line.strip() for line in f if line.strip()}  # 使用集合避免重复
+        return item_blacklist
+    except FileNotFoundError:
+        print(f"错误：项目黑名单文件 {file_path} 未找到")
+        return set()
+    except Exception as e:
+        print(f"读取项目黑名单文件时出错: {e}")
+        return set()
+
+
+
+def get_workshop_maps(api_key, appid=730, search_prefix="ze_", whitelist=None, blacklist=None, itemblacklist=None, numperpage=200, page_count=1):
     """获取用户上传的所有创意工坊内容（地图和合集），并过滤不在白名单中的作者和黑名单中的作者"""
     url = f"{BASE_URL}/IPublishedFileService/QueryFiles/v1/"
     items = []
@@ -74,10 +92,17 @@ def get_workshop_maps(api_key, appid=730, search_prefix="ze_", whitelist=None, b
                 if item.get("result") != 1:  # 1 表示成功
                     continue
 
+
+               # 如果项目 ID 在黑名单里，跳过此项目
+                item_id = str(item.get("publishedfileid"))
+                if itemblacklist and item_id in itemblacklist:
+                    print(f"忽略项目 {item_id}，因为它在单个项目黑名单中")
+                    continue
+
                 # 如果创作者在黑名单里，跳过此项目
                 creator = str(item.get("creator"))
                 if blacklist and creator in blacklist:
-                    print(f"忽略创作者 {creator}，因为他们在黑名单中")
+                    print(f"忽略创作者 {creator}，因为他们在黑名单中 地图ID是{item_id} ")
                     continue
 
                 # 如果创作者不在白名单里，且白名单不为空，则跳过此项目
@@ -134,6 +159,12 @@ def main():
         default=DEFAULT_BLACKLIST_FILE  # 如果没有传入则使用默认值
     )
     parser.add_argument(
+        "--blacklist_item_file", 
+        help="黑名单文件路径 (例如 scripts/workshop_item_black_lists.txt)",
+        default=DEFAULT_ITEM_BLACKLIST_FILE  # 如果没有传入则使用默认值
+    )
+
+    parser.add_argument(
         "--search_prefix", 
         help="搜索前缀，默认为 'ze_'",
         default="ze_"  # 默认前缀
@@ -168,12 +199,16 @@ def main():
     # 加载白名单和黑名单
     whitelist = load_whitelist(args.whitelist_file)
     blacklist = load_blacklist(args.blacklist_file)
+    itemblacklist = load_item_blacklist(args.blacklist_item_file)
 
     if not whitelist:
         print(f"白名单文件 {args.whitelist_file} 为空或加载失败，将不过滤创作者。")
     
     if not blacklist:
         print(f"黑名单文件 {args.blacklist_file} 为空或加载失败，将不过滤创作者。")
+
+    if not itemblacklist:
+        print(f"工坊内容单个黑名单文件 {args.blacklist_item_file} 为空或加载失败,将不过过滤单个文件id。")
 
     # 获取创意工坊内容
     items = get_workshop_maps(
@@ -182,6 +217,7 @@ def main():
         search_prefix=args.search_prefix, 
         whitelist=whitelist, 
         blacklist=blacklist,
+        itemblacklist=itemblacklist,
         numperpage=args.numperpage,  # 每页最大数量
         page_count=args.page_count  # 获取的页数
     )
