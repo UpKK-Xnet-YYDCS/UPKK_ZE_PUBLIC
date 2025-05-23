@@ -1,12 +1,12 @@
-
-# 地图自动采集 - 从创意工坊
-- 系统将每隔24小时运行一次创意工坊ze地图搜集任务 以获得最快的自动部署
-- 如白名单文件为空 系统将收集创意工坊前400 ze_ 关键词开头的地图
-- 会读取黑名单文件 `scripts/workshop_white_steam64.txt` 用于过滤地图
-
-- 以下内容实际未填写 只是预留
- `workshop_white_steam64.txt` 文件中的内容，以表格形式展示，包含 `SteamID` 和 `用户名`：
-| SteamID           | 用户名       |
-|-------------------|--------------|
-| 76561199520180598 | p组(Source2ZE)  https://steamcommunity.com/id/s2ze/myworkshopfiles/    |
-| 76561198848585786 | https://steamcommunity.com/profiles/76561198848585786/myworkshopfiles/     |
+| 脚本/文件名称 | 用途 |
+| -------------- | ---- |
+| DownloadPreviewImages.py | 下载预览图并上传至服务器 |
+| DownloadPreviewImagesByMappingJson.py | 根据映射 JSON 下载预览图像 |
+| SteamWorkshopMapFetchandAdd.py | 地图采集器 - 获取并添加 Steam 工坊地图 |
+| workshop_black_steam64.txt | 地图采集器 - 黑名单 Steam64 ID |
+| workshop_white_steam64.txt | 地图采集器 - 白名单 Steam64 ID 如留空则采集全部|
+| add_map.py | 添加地图到maps.txt |
+| check_workshop_ids.py | 检查工作坊 ID |
+| check_workshop_in_collection.py | 检查所有地图(maps.txt)是否都在Steam工坊合集中 |
+| check_workshop_not_in_file.py | 检查Steam工坊合集已存在,但是maps.txt不存在 |
+| ollama_translation_maptext.py | Ollama 翻译地图文本 |
