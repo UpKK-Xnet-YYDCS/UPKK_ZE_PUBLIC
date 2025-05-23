@@ -10,4 +10,4 @@
 | check_workshop_ids.py | 检查工作坊 ID |
 | check_workshop_in_collection.py | 检查所有地图(maps.txt)是否都在Steam工坊合集中 |
 | check_workshop_not_in_file.py | 检查Steam工坊合集已存在,但是maps.txt不存在 |
-| ollama_translation_maptext.py | Ollama 翻译地图文本 |
+| ollama_translation_maptext.py | Ollama - 本地部署AI模型 从而自动化翻译地图文本 |
