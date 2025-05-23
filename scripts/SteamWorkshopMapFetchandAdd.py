@@ -92,6 +92,8 @@ def get_workshop_maps(api_key, appid=730, search_prefix="ze_", whitelist=None, b
                 if item.get("result") != 1:  # 1 表示成功
                     continue
 
+
+                # 检查是否有CS2 标签 以防止CSGO地图
                 tags = item.get("tags", [])
                 if not any(tag.get("tag", "").lower() == "cs2" for tag in tags):
                     print(f"忽略项目 {item_id}，因为它没有 CS2 标签")
