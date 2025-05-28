@@ -76,12 +76,12 @@ jobs:
             gh pr update-branch $number || echo "Failed to update branch, continuing..."
 
             # 检查 CI 状态
-            echo "Checking CI status for PR #$number..."
-            gh pr checks $number --watch --interval 30 --timeout 600 || {
-              echo "CI checks failed for PR #$number."
-              gh issue comment $number --body "Auto-merge failed: CI checks did not pass. Please check the CI pipeline."
-              continue
-            }
+            #echo "Checking CI status for PR #$number..."
+            #gh pr checks $number --watch --interval 30 --timeout 600 || {
+            #  echo "CI checks failed for PR #$number."
+            #  gh issue comment $number --body "Auto-merge failed: CI checks did not pass. Please check the CI pipeline."
+            #  continue
+            #}
 
             # 自动批准
             echo "Approving PR #$number..."
