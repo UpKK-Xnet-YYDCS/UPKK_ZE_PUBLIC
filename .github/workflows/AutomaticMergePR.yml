@@ -40,7 +40,7 @@ jobs:
           JQ_FILTER="$JQ_FILTER ) | \"\(.number) \(.title) \(.mergeable)\""
           
           # 获取匹配的 PR
-          gh pr list --state open --json number,title,mergeable --jq "$-scope_FILTER" > prs.txt
+          gh pr list --state open --json number,title,mergeable --jq "$JQ_FILTER" > prs.txt
           [ -s prs.txt ] || { echo "No matching PRs found."; exit 0; }
           
           # 处理每个 PR
