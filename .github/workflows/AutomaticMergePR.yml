@@ -1,10 +1,8 @@
 name: Auto Merge Specific PRs
 
 on:
-  pull_request:
-    types: [opened, synchronize, reopened, ready_for_review]
   schedule:
-    - cron: '0 0 */2 * *'  # 每2天0:00 UTC运行
+    - cron: '0 0 */2 * *'  # 每2天0:00 UTC运行（北京时间8:00）
   workflow_dispatch:  # 允许手动触发
 
 permissions:
@@ -48,13 +46,36 @@ jobs:
           # 遍历匹配的 PR
           while read -r number title mergeable headRef; do
             echo "Processing PR #$number: $title (mergeable: $mergeable, head: $headRef)"
+
+            # 处理 mergeable: UNKNOWN
+            if [ "$mergeable" == "UNKNOWN" ]; then
+              echo "PR #$number mergeable status is UNKNOWN, retrying..."
+              for i in {1..3}; do
+                sleep 10  # 等待10秒
+                mergeable=$(gh pr view $number --json mergeable --jq '.mergeable')
+                echo "Retry $i: mergeable status is $mergeable"
+                if [ "$mergeable" == "MERGEABLE" ]; then
+                  break
+                fi
+                if [ "$i" == "3" ] && [ "$mergeable" != "MERGEABLE" ]; then
+                  echo "PR #$number still not mergeable after retries."
+                  gh issue comment $number --body "Auto-merge failed: PR mergeable status is $mergeable after retries. Please check for conflicts or update the PR."
+                  continue 2
+                fi
+              done
+            fi
+
             if [ "$mergeable" != "MERGEABLE" ]; then
-              echo "PR #$number is not mergeable, skipping..."
+              echo "PR #$number is not mergeable (status: $mergeable), skipping..."
               gh issue comment $number --body "Auto-merge failed: PR is not mergeable (status: $mergeable). Please resolve conflicts or update the PR."
               continue
             fi
 
-            # 检查 CI 状态（如果需要）
+            # 更新 PR 分支（如果需要）
+            echo "Updating PR #$number branch..."
+            gh pr update-branch $number || echo "Failed to update branch, continuing..."
+
+            # 检查 CI 状态
             echo "Checking CI status for PR #$number..."
             gh pr checks $number --watch --interval 30 --timeout 600 || {
               echo "CI checks failed for PR #$number."
@@ -64,7 +85,11 @@ jobs:
 
             # 自动批准
             echo "Approving PR #$number..."
-            gh pr review --approve $number
+            gh pr review --approve $number || {
+              echo "Failed to approve PR #$number."
+              gh issue comment $number --body "Auto-merge failed: Unable to approve PR. Please check permissions."
+              continue
+            }
 
             # 尝试合并
             echo "Merging PR #$number..."
