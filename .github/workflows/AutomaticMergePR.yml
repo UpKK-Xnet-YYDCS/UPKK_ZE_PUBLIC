@@ -22,28 +22,59 @@ jobs:
         id: list-prs
         run: |
           # 获取所有开放的 PR
-          gh pr list --state open --json number,title,mergeable,headRefName --jq '.[] | select(.title | contains("本地模型-gemma3:27b-it-qat-自动化翻译") or contains("自动添加创意工坊地图"))' > prs.json
+          gh pr list --state open --json number,title,mergeable,headRefName > prs.json
+          echo "Raw PR list:"
+          cat prs.json
+
+          # 检查 prs.json 是否为空
           if [ ! -s prs.json ]; then
-            echo "No matching PRs found."
+            echo "No PRs found."
             exit 0
           fi
+
+          # 过滤标题匹配的 PR
+          jq -r '.[] | select(.title | contains("本地模型-gemma3:27b-it-qat-自动化翻译") or contains("自动添加创意工坊地图")) | "\(.number) \(.title) \(.mergeable) \(.headRefName)"' prs.json > filtered_prs.txt || {
+            echo "Error filtering PRs with jq. Dumping prs.json for debugging:"
+            cat prs.json
+            exit 1
+          }
+
+          # 检查是否有匹配的 PR
+          if [ ! -s filtered_prs.txt ]; then
+            echo "No PRs with matching titles found."
+            exit 0
+          fi
+
           # 遍历匹配的 PR
-          jq -r '.[] | "\(.number) \(.title) \(.mergeable) \(.headRefName)"' prs.json | while read -r number title mergeable headRef; do
+          while read -r number title mergeable headRef; do
             echo "Processing PR #$number: $title (mergeable: $mergeable, head: $headRef)"
             if [ "$mergeable" != "MERGEABLE" ]; then
               echo "PR #$number is not mergeable, skipping..."
-              gh issue comment $number --body "Auto-merge failed: PR is not mergeable (status: $mergeable)."
+              gh issue comment $number --body "Auto-merge failed: PR is not mergeable (status: $mergeable). Please resolve conflicts or update the PR."
               continue
             fi
+
+            # 检查 CI 状态（如果需要）
+            echo "Checking CI status for PR #$number..."
+            gh pr checks $number --watch --interval 30 --timeout 600 || {
+              echo "CI checks failed for PR #$number."
+              gh issue comment $number --body "Auto-merge failed: CI checks did not pass. Please check the CI pipeline."
+              continue
+            }
+
             # 自动批准
+            echo "Approving PR #$number..."
             gh pr review --approve $number
+
             # 尝试合并
+            echo "Merging PR #$number..."
             if gh pr merge --merge $number; then
               echo "PR #$number merged successfully."
+              gh issue comment $number --body "Auto-merge succeeded: PR merged into master."
             else
               echo "Failed to merge PR #$number."
               gh issue comment $number --body "Auto-merge failed: Unable to merge PR. Please check branch protection rules or conflicts."
             fi
-          done
+          done < filtered_prs.txt
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
