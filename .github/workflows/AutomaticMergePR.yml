@@ -1,10 +1,11 @@
 name: Auto Merge Specific PRs
 
 on:
-  workflow_dispatch:  # 允许手动触发
   pull_request:
     types: [opened, synchronize, reopened, ready_for_review]
-
+  schedule:
+    - cron: '0 0 */2 * *'  # 每2天0:00 UTC运行
+  workflow_dispatch:  # 允许手动触发
 
 permissions:
   contents: write
@@ -13,30 +14,36 @@ permissions:
 jobs:
   auto-merge:
     runs-on: ubuntu-latest
-    if: |
-      contains(github.event.pull_request.title, '本地模型-gemma3:27b-it-qat-自动化翻译') ||
-      contains(github.event.pull_request.title, '自动添加创意工坊地图')
     steps:
       - name: Checkout code
         uses: actions/checkout@v4
 
-      - name: Check if PR is mergeable
-        id: check-mergeable
+      - name: List and Process Open PRs
+        id: list-prs
         run: |
-          gh pr view "${{ github.event.pull_request.number }}" --json mergeable --jq '.mergeable' > mergeable.txt
-          if [ "$(cat mergeable.txt)" != "MERGEABLE" ]; then
-            echo "PR is not mergeable, exiting..."
-            exit 1
+          # 获取所有开放的 PR
+          gh pr list --state open --json number,title,mergeable,headRefName --jq '.[] | select(.title | contains("本地模型-gemma3:27b-it-qat-自动化翻译") or contains("自动添加创意工坊地图"))' > prs.json
+          if [ ! -s prs.json ]; then
+            echo "No matching PRs found."
+            exit 0
           fi
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
-      - name: Approve PR
-        run: gh pr review --approve "${{ github.event.pull_request.number }}"
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
-      - name: Merge PR
-        run: gh pr merge --merge "${{ github.event.pull_request.number }}"
+          # 遍历匹配的 PR
+          jq -r '.[] | "\(.number) \(.title) \(.mergeable) \(.headRefName)"' prs.json | while read -r number title mergeable headRef; do
+            echo "Processing PR #$number: $title (mergeable: $mergeable, head: $headRef)"
+            if [ "$mergeable" != "MERGEABLE" ]; then
+              echo "PR #$number is not mergeable, skipping..."
+              gh issue comment $number --body "Auto-merge failed: PR is not mergeable (status: $mergeable)."
+              continue
+            fi
+            # 自动批准
+            gh pr review --approve $number
+            # 尝试合并
+            if gh pr merge --merge $number; then
+              echo "PR #$number merged successfully."
+            else
+              echo "Failed to merge PR #$number."
+              gh issue comment $number --body "Auto-merge failed: Unable to merge PR. Please check branch protection rules or conflicts."
+            fi
+          done
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
