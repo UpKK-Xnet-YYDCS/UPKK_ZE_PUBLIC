@@ -37,18 +37,18 @@ jobs:
               JQ_FILTER="$JQ_FILTER or contains(\"$KEYWORD\")"
             fi
           done
-          JQ_FILTER="$JQ_FILTER ) | \"\(.number) \(.title) \(.mergeable) \(.user.login)\""
+          JQ_FILTER="$JQ_FILTER ) | \"\(.number) \(.title) \(.mergeable) \(.author.login)\""
           
           # 获取匹配的 PR
-          gh pr list --state open --json number,title,mergeable,user --jq "$JQ_FILTER" > prs.txt
+          gh pr list --state open --json number,title,mergeable,author --jq "$JQ_FILTER" > prs.txt
           [ -s prs.txt ] || { echo "No matching PRs found."; exit 0; }
           
           # 处理每个 PR
-          while read -r number title mergeable user; do
-            echo "PR #$number: $title ($mergeable, User: $user)"
+          while read -r number title mergeable author; do
+            echo "PR #$number: $title ($mergeable, Author: $author)"
             # 验证提交用户
-            if [ "$user" != "github-actions[bot]" ] && [ "$user" != "e54385991" ]; then
-              gh issue comment $number --body "Auto-merge failed: PR author ($user) is not authorized."
+            if [ "$author" != "github-actions[bot]" ] && [ "$author" != "e54385991" ]; then
+              gh issue comment $number --body "Auto-merge failed: PR author ($author) is not authorized."
               continue
             fi
             if [ "$mergeable" = "UNKNOWN" ]; then
