@@ -1,8 +1,10 @@
 name: Auto Merge Specific PRs
 
 on:
+  workflow_dispatch:  # 允许手动触发
   pull_request:
     types: [opened, synchronize, reopened, ready_for_review]
+
 
 permissions:
   contents: write
