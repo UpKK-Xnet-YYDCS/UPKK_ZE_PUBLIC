@@ -1,1 +1,27 @@
+name: Auto Merge PRs
 
+on:
+  schedule:
+    - cron: '0 0 */2 * *'  # 每2天0:00 UTC（北京时间8:00）
+  workflow_dispatch:  # 手动触发
+
+permissions:
+  contents: write
+  pull-requests: write
+
+jobs:
+  auto-merge:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - run: |
+          gh pr list --state open --json number,title,mergeable --jq '.[] | select(.title | contains("本地模型-gemma3:27b-it-qat-自动化翻译") or contains("自动添加创意工坊地图")) | "\(.number) \(.title) \(.mergeable)"' > prs.txt
+          [ -s prs.txt ] || exit 0
+          while read -r number title mergeable; do
+            echo "PR #$number: $title ($mergeable)"
+            [ "$mergeable" = "UNKNOWN" ] && { sleep 10; mergeable=$(gh pr view $number --json mergeable --jq '.mergeable'); }
+            [ "$mergeable" != "MERGEABLE" ] && { gh issue comment $number --body "Auto-merge failed: Not mergeable ($mergeable)."; continue; }
+            gh pr merge --merge $number && gh issue comment $number --body "Auto-merge succeeded." || gh issue comment $number --body "Auto-merge failed: Check rules or conflicts."
+          done < prs.txt
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
