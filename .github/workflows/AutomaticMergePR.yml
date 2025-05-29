@@ -47,7 +47,7 @@ jobs:
           while read -r number title mergeable author; do
             echo "PR #$number: $title ($mergeable, Author: $author)"
             # 验证提交用户
-            if [ "$author" != "github-actions[bot]" ] && [ "$author" != "e54385991" ]; then
+            if [ "$author" != "github-actions[bot]" ] && [ "$author" != "e54385991" ] && [ "$author" != "app/github-actions" ]; then
               gh issue comment $number --body "Auto-merge failed: PR author ($author) is not authorized."
               continue
             fi
