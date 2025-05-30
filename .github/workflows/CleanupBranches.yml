@@ -13,7 +13,7 @@ jobs:
         uses: phpdocker-io/github-actions-delete-abandoned-branches@v2
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          allowed_prefixes: auto-translate-/ # Only delete branches starting with auto-translate-
+          allowed_prefixes: auto-translate- # Remove trailing slash to match branch names
           last_commit_age_days: 2 # Delete branches with no commits in the last 2 days
           ignore_branches: master # Protect master branch
           dry_run: no # Set to 'no' to actually delete branches
