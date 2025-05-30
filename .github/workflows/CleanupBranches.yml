@@ -1,0 +1,19 @@
+name: Clean up stale auto-translate branches
+
+on:
+  schedule:
+    - cron: '0 0 * * *' # 每天午夜运行
+  workflow_dispatch: # 支持手动触发
+
+jobs:
+  cleanup:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Delete abandoned auto-translate branches
+        uses: phpdocker-io/github-actions-delete-abandoned-branches@v2
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          allowed_prefixes: auto-translate-/ # 只删除以 auto-translate- 开头的分支
+          last_commit_age_days: 2 # 删除 2 天内无更新的分支
+          ignore_branches: master # 保护的分支
+          dry_run: false # 设为 false 以实际删除
