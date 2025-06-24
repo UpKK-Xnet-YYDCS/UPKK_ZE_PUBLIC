@@ -125,7 +125,7 @@
       "US": "",
       "JP": "<TRAMが14秒で移動します>",
       "CN": "< 电车将在14秒后离开 >",
-      "KR": "",
+      "KR": "< 트램 출발 14초 후 >",
       "TW": "< 葉片落葉 14 秒 >"
     }
   },
@@ -183,7 +183,7 @@
     "translation": "< 当前模式：克隆大作战 >",
     "MultiLang": {
       "US": "< Current Mode: Clone Warfare >",
-      "JP": "",
+      "JP": "< 現在のモード: クローン大作戦 >",
       "CN": "< 当前模式：克隆大作战 >",
       "KR": "< 현재 모드: 클론 대작전 >",
       "TW": "< 目前模式：克隆大作战 >"
@@ -193,7 +193,7 @@
     "translation": "< 当前模式：全明星大乱斗 >",
     "MultiLang": {
       "US": "< Current Mode: All-Star Rumble >",
-      "JP": "",
+      "JP": "< 現在のモード: 全明星大乱闘 >",
       "CN": "< 当前模式：全明星大乱斗 >",
       "KR": "< 현재 모드: 전성기 대격돌 >",
       "TW": "< 當前模式: 全明星大亂鬥 >"
@@ -226,7 +226,7 @@
       "JP": "<そのプラスチック椅子からの微かな瓦礫の感触を ощущаешь>",
       "CN": "<你感受到了来自塑料椅的抛瓦...>",
       "KR": "<당신은 플라스틱 의자에서 긁는 소리를 느꼈다...>",
-      "TW": ""
+      "TW": "<你感受到了來自塑料椅的拋瓦...>"
     }
   },
   "<所有维吉尔的抛瓦得到了祝福.>": {
@@ -236,7 +236,7 @@
       "JP": "<ウィキルの所有する瓦には祝福が与えられた。>",
       "CN": "<所有维吉尔的抛瓦得到了祝福。>",
       "KR": "<모든 비길의 돌던지기가 축복받았다>.",
-      "TW": ""
+      "TW": "<所有維吉爾的拋瓦得到了祝福。>"
     }
   },
   "<防刷传送PUSH已启用.>": {
@@ -433,7 +433,7 @@
     "translation": "",
     "MultiLang": {
       "US": "< Current mode: Something Happens (Warm-up) >",
-      "JP": "",
+      "JP": "<現在のモード：何事も起こっていません(ウォーミングアップ)>",
       "CN": "",
       "KR": "< 현재 모드: 무생발(준비) >",
       "TW": "< 遊戲模式: 無事發生(热身) >"
@@ -593,7 +593,7 @@
     "translation": "",
     "MultiLang": {
       "US": "<Zombie Abyss Observer Rush Skill Unlocked!>",
-      "JP": "",
+      "JP": "<ゾンビ深淵の監視者の突進スキルがアンロックされました！>",
       "CN": "",
       "KR": "<좀비 심연 감시자 돌격 기술이 해제되었습니다!>",
       "TW": "<殭屍深淵監視者突進技能已解鎖！>"
@@ -613,7 +613,7 @@
     "translation": "",
     "MultiLang": {
       "US": "< Current mode: ZM Battle Royale >",
-      "JP": "",
+      "JP": "< 現在のモード: ZMバトルロイヤル >",
       "CN": "",
       "KR": "< 현재 모드: ZM 대확살 >",
       "TW": "< 目前模式: ZM大逃殺 >"
@@ -715,7 +715,7 @@
       "US": "There are 5 seconds until the zombie nuclear explosion!",
       "JP": "ゾンビコアへの距離が5秒！",
       "CN": "",
-      "KR": "",
+      "KR": "5초 후에 좀비 핵폭발이 시작됩니다!",
       "TW": "核爆距离僵尸还有5秒！"
     }
   },
@@ -773,7 +773,7 @@
     "translation": "",
     "MultiLang": {
       "US": "< Current Mode: Street Dance Mayhem >",
-      "JP": "",
+      "JP": "< 現在のモード: ストリートダンスバトル >",
       "CN": "",
       "KR": "< 현재 모드: 스트릿 댄스 대격전 >",
       "TW": "< 遊戲模式：街舞大亂鬥 >"
@@ -845,7 +845,7 @@
       "US": "Zombies detected at the endpoint, nuclear blast locked.",
       "JP": "ゾンビが終点に確認されました。核爆탄이 锁定되었습니다.",
       "CN": "",
-      "KR": "",
+      "KR": "종점에 좀비가 감지되었습니다. 핵폭격이 잠금되었습니다.",
       "TW": "偵測到有僵屍在終點, 核爆已鎖定。"
     }
   },
@@ -853,7 +853,7 @@
     "translation": "",
     "MultiLang": {
       "US": "<The Zombie Abyss Overseer/Minos Advance skill has been temporarily locked to prevent cheating.>",
-      "JP": "",
+      "JP": "<ゾンビ深淵の監視者/ミノス突進スキルは一時的にロックされました。追い越し防止のため。>",
       "CN": "",
       "KR": "<좀비 심연 감시자/미노스 돌격 스킬이 일시적으로 잠겨있습니다. 차질을 막기 위함.>",
       "TW": "<僵屍深淵監視者/米諾斯突進技能已被暫時鎖定，防止超車。>"
@@ -863,7 +863,7 @@
     "translation": "",
     "MultiLang": {
       "US": "<Zombie Abyss Watcher/Minos Advance Skill Unlocked!>",
-      "JP": "",
+      "JP": "<ゾンビ深淵の監視者/ミノス突進スキルがアンロックされました！>",
       "CN": "",
       "KR": "<미노스 돌진 기술이 해제되었습니다!>",
       "TW": "<殭屍深淵監視者/米諾斯突進技能已解鎖！>"
@@ -873,7 +873,7 @@
     "translation": "",
     "MultiLang": {
       "US": "< Current Mode: Lucky Box Challenge >",
-      "JP": "",
+      "JP": "< 現在のモード: ラッキーボックスチャレンジ >",
       "CN": "",
       "KR": "< 현재 모드: 행운 상자 도전 >",
       "TW": "< 遊戲模式: 幸运盒挑戰 >"
@@ -906,7 +906,7 @@
       "JP": "ゾンビ幸運ボックスは上限に達しました！",
       "CN": "",
       "KR": "좀비 행운 상자가 최대치에 도달했습니다!",
-      "TW": ""
+      "TW": "僵屍幸運盒子已達上限！"
     }
   },
   "< 人类方斗舞技高一筹！ >": {
@@ -933,7 +933,7 @@
     "translation": "",
     "MultiLang": {
       "US": "New skin for Setti is currently being tested by sponsors as a preview, and will be added to the normal skin pool after the major update.",
-      "JP": "",
+      "JP": "新スキン、セティは現在スポンサー向け先行テスト中です。大規模アップデート後、通常スキンプールに追加されます。",
       "CN": "",
       "KR": "새 스킨 세티는 현재 후원사 지원 테스트 중이며, 대규모 업데이트 후 정상 스킨 풀에 추가됩니다.",
       "TW": "新皮膚瑟提 暫為贊助者前瞻測試, 待大更新後會加入正常皮膚池中"
@@ -942,31 +942,31 @@
   "< 赞助者 寒冰菇 加入了派对! >": {
     "translation": "",
     "MultiLang": {
-      "US": "",
-      "JP": "",
+      "US": "<Sponsor Frostcap has joined the party!>",
+      "JP": "<スポンサー 寒氷菇 がパーティーに参加しました! >",
       "CN": "",
-      "KR": "",
-      "TW": ""
+      "KR": "< 후원자 寒冰菇 가 파티에 참가했습니다! >",
+      "TW": "< 贊助者 寒冰菇 加入了派對! >"
     }
   },
   "有玩家进入了调关房.": {
     "translation": "",
     "MultiLang": {
-      "US": "",
+      "US": "A player has entered the Level Select Room.",
       "JP": "",
       "CN": "",
-      "KR": "",
-      "TW": ""
+      "KR": "한 플레이어가 챌린지 방에 입장했습니다.",
+      "TW": "有玩家進入了調關房."
     }
   },
   "<有人为下局选择了全明星模式！>": {
     "translation": "",
     "MultiLang": {
-      "US": "",
+      "US": "Someone has chosen All-Star Mode for the next game!",
       "JP": "",
       "CN": "",
       "KR": "",
-      "TW": ""
+      "TW": "<有人為下局選擇了全明星模式！>"
     }
   }
 }
