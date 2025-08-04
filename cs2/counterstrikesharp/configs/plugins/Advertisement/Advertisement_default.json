@@ -1,8 +1,24 @@
 {
   "PrintToCenterHtml": false,
+  "DisplaySettings": {
+    "VideoResolutionConstraints": {
+      "EnableConstraints": true,
+      "MaxWidth": 1920,
+      "MaxHeight": 1080,
+      "KeepWithinBounds": true
+    },
+    "FullscreenFix": {
+      "EnableFullscreenFix": true,
+      "ScaleToFit": true,
+      "CenterAlignment": true
+    }
+  },
   "Ads": [
     {
+      "Name": "GeneralAds",
       "Interval": 65,
+      "SkipDuration": 5,
+      "CanSkip": true,
       "Messages": [
         {
           "Chat": "{ads_1}"
@@ -31,6 +47,31 @@
       ]
     }
   ],
+  "PreVideoAds": {
+    "Enabled": true,
+    "Interval": 30,
+    "SkipDuration": 3,
+    "CanSkip": true,
+    "LoadOnlyWhenBackendEnabled": true,
+    "Messages": [
+      {
+        "Chat": "{pre_video_ad_1}"
+      },
+      {
+        "Chat": "{pre_video_ad_2}"
+      }
+    ]
+  },
+  "TextWatermarkOverlay": {
+    "Enabled": true,
+    "CanSkip": false,
+    "SkipDuration": 0,
+    "Messages": [
+      {
+        "Chat": "{watermark_1}"
+      }
+    ]
+  },
   "Panel": null,
   "DefaultLang": "CN",
   "MessageType": 0,
@@ -104,6 +145,27 @@
       "TW": "{RED}[X社區] {PURPLE} 如果您需要切換按鈕開始提示 可以輸入 {GREEN}!bw 進行開關",
       "JP": "{RED}[Xコミュニティ] {PURPLE}ボタンの開始プロンプトを切り替える必要がある場合は、{GREEN}!bw を入力してオンまたはオフに切り替えることができます。",
       "KR": "{RED}[X 커뮤니티] {PURPLE}버튼 시작 프롬프트를 전환해야 하는 경우 {GREEN}!bw 를 입력하여 켜거나 끌 수 있습니다."
+    },
+    "pre_video_ad_1": {
+      "CN": "{RED}[X社区] {YELLOW}视频加载中... {LIME}请耐心等待",
+      "US": "{RED}[X Community] {YELLOW}Video loading... {LIME}Please wait patiently",
+      "TW": "{RED}[X社區] {YELLOW}視頻加載中... {LIME}請耐心等待",
+      "JP": "{RED}[Xコミュニティ] {YELLOW}ビデオ読み込み中... {LIME}しばらくお待ちください",
+      "KR": "{RED}[X 커뮤니티] {YELLOW}비디오 로딩 중... {LIME}잠시만 기다려 주세요"
+    },
+    "pre_video_ad_2": {
+      "CN": "{RED}[X社区] {PURPLE}准备开始游戏体验! {ORANGE}感谢您的耐心等待",
+      "US": "{RED}[X Community] {PURPLE}Get ready for the gaming experience! {ORANGE}Thank you for your patience",
+      "TW": "{RED}[X社區] {PURPLE}準備開始遊戲體驗! {ORANGE}感謝您的耐心等待",
+      "JP": "{RED}[Xコミュニティ] {PURPLE}ゲーム体験の準備をしてください! {ORANGE}お待ちいただきありがとうございます",
+      "KR": "{RED}[X 커뮤니티] {PURPLE}게임 경험을 준비하세요! {ORANGE}기다려 주셔서 감사합니다"
+    },
+    "watermark_1": {
+      "CN": "{GRAY}X社区 - 服务器水印",
+      "US": "{GRAY}X Community - Server Watermark",
+      "TW": "{GRAY}X社區 - 伺服器浮水印",
+      "JP": "{GRAY}Xコミュニティ - サーバーウォーターマーク",
+      "KR": "{GRAY}X 커뮤니티 - 서버 워터마크"
     }
   },
   "MapsName": {

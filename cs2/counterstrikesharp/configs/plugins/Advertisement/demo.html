@@ -1,0 +1,212 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Advertisement System Demo</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 20px;
+            background: #f0f0f0;
+        }
+        .demo-container {
+            max-width: 800px;
+            margin: 0 auto;
+            background: white;
+            padding: 20px;
+            border-radius: 10px;
+            box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+        }
+        .controls {
+            margin: 20px 0;
+            padding: 15px;
+            background: #f8f9fa;
+            border-radius: 5px;
+        }
+        .controls button {
+            margin: 5px;
+            padding: 10px 15px;
+            background: #007bff;
+            color: white;
+            border: none;
+            border-radius: 3px;
+            cursor: pointer;
+        }
+        .controls button:hover {
+            background: #0056b3;
+        }
+        .video-container {
+            margin: 20px 0;
+            text-align: center;
+        }
+        video {
+            max-width: 100%;
+            height: auto;
+        }
+        .status {
+            margin: 10px 0;
+            padding: 10px;
+            background: #e9ecef;
+            border-radius: 3px;
+            font-family: monospace;
+        }
+    </style>
+</head>
+<body>
+    <div class="demo-container">
+        <h1>CS2 Advertisement System Demo</h1>
+        <p>This demo shows the enhanced advertisement system with video resolution constraints, skip functionality, and pre-video ads.</p>
+        
+        <div class="controls">
+            <h3>Advertisement Controls</h3>
+            <button onclick="showPreVideoAd()">Show Pre-Video Ad</button>
+            <button onclick="showGeneralAd()">Show General Ad</button>
+            <button onclick="showWatermarkOverlay()">Show Watermark Overlay</button>
+            <button onclick="hideCurrentAd()">Hide Current Ad</button>
+        </div>
+
+        <div class="video-container">
+            <h3>Video Content (Demo)</h3>
+            <video width="640" height="360" controls>
+                <source src="https://www.w3schools.com/html/mov_bbb.mp4" type="video/mp4">
+                Your browser does not support the video tag.
+            </video>
+        </div>
+
+        <div class="status" id="status">
+            Status: Advertisement system initializing...
+        </div>
+
+        <div class="features">
+            <h3>New Features Implemented</h3>
+            <ul>
+                <li><strong>Fullscreen Display Fix</strong>: Advertisements now display within video resolution ranges</li>
+                <li><strong>Individual Skip Duration</strong>: Each ad category has configurable skip times</li>
+                <li><strong>Pre-Video Ads</strong>: New category for ads shown before video content</li>
+                <li><strong>Modular JS</strong>: Separate JavaScript files for easier management</li>
+                <li><strong>Conditional Loading</strong>: Only loads when backend functionality is enabled</li>
+                <li><strong>Watermark Overlays</strong>: Cannot be skipped (as requested)</li>
+            </ul>
+        </div>
+    </div>
+
+    <!-- Advertisement System Scripts -->
+    <script>
+        // Mock server settings for demo
+        window.serverSettings = {
+            advertisementEnabled: true
+        };
+
+        // Mock advertisement configuration
+        window.advertisementConfig = {
+            "PrintToCenterHtml": false,
+            "DisplaySettings": {
+                "VideoResolutionConstraints": {
+                    "EnableConstraints": true,
+                    "MaxWidth": 1920,
+                    "MaxHeight": 1080,
+                    "KeepWithinBounds": true
+                },
+                "FullscreenFix": {
+                    "EnableFullscreenFix": true,
+                    "ScaleToFit": true,
+                    "CenterAlignment": true
+                }
+            },
+            "Ads": [{
+                "Name": "GeneralAds",
+                "Interval": 10,
+                "SkipDuration": 3,
+                "CanSkip": true,
+                "Messages": [
+                    {"Chat": "{RED}[X社区] {LIME}欢迎使用增强版广告系统!"},
+                    {"Chat": "{BLUE}新功能：视频分辨率约束、跳过时长配置、预加载广告"}
+                ]
+            }],
+            "PreVideoAds": {
+                "Enabled": true,
+                "Interval": 8,
+                "SkipDuration": 2,
+                "CanSkip": true,
+                "LoadOnlyWhenBackendEnabled": true,
+                "Messages": [
+                    {"Chat": "{YELLOW}视频加载中... {LIME}请耐心等待"},
+                    {"Chat": "{PURPLE}准备开始游戏体验! {ORANGE}感谢您的耐心等待"}
+                ]
+            },
+            "TextWatermarkOverlay": {
+                "Enabled": true,
+                "CanSkip": false,
+                "SkipDuration": 0,
+                "Messages": [
+                    {"Chat": "{GRAY}X社区 - 服务器水印"}
+                ]
+            },
+            "Panel": null,
+            "DefaultLang": "CN",
+            "MessageType": 0,
+            "LanguageMessages": {}
+        };
+
+        // Update status
+        function updateStatus(message) {
+            document.getElementById('status').textContent = 'Status: ' + message;
+        }
+
+        // Demo control functions
+        function showPreVideoAd() {
+            if (window.advertisementManager) {
+                window.advertisementManager.showPreVideoAd();
+                updateStatus('Showing pre-video advertisement');
+            } else {
+                updateStatus('Advertisement manager not initialized');
+            }
+        }
+
+        function showGeneralAd() {
+            if (window.advertisementManager) {
+                window.advertisementManager.showGeneralAd();
+                updateStatus('Showing general advertisement');
+            } else {
+                updateStatus('Advertisement manager not initialized');
+            }
+        }
+
+        function showWatermarkOverlay() {
+            if (window.advertisementManager) {
+                window.advertisementManager.showWatermarkOverlay();
+                updateStatus('Showing watermark overlay (cannot be skipped)');
+            } else {
+                updateStatus('Advertisement manager not initialized');
+            }
+        }
+
+        function hideCurrentAd() {
+            if (window.advertisementManager) {
+                window.advertisementManager.hideAd();
+                updateStatus('Advertisement hidden');
+            } else {
+                updateStatus('Advertisement manager not initialized');
+            }
+        }
+
+        // Initialize system
+        updateStatus('Loading advertisement system...');
+    </script>
+    
+    <!-- Load the advertisement system -->
+    <script src="advertisement.js"></script>
+    <script>
+        // Initialize after loading
+        setTimeout(() => {
+            if (window.AdvertisementManager && window.advertisementConfig) {
+                window.advertisementManager = new AdvertisementManager(window.advertisementConfig);
+                updateStatus('Advertisement system ready');
+            } else {
+                updateStatus('Failed to initialize advertisement system');
+            }
+        }, 1000);
+    </script>
+</body>
+</html>
