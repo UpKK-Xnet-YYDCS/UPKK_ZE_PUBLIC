@@ -363,7 +363,7 @@
     "translation": "",
     "MultiLang": {
       "US": ">>Come again? Continue defending for 20 seconds to find the correct door<<",
-      "JP": ">>また来ましたか？20秒間守り、正しいドアを探してください<<",
+      "JP": "",
       "CN": "",
       "KR": ">>또 왔어? 계속해서 20초 동안 올바른 문을 찾아 지켜라<<",
       "TW": ""
@@ -443,7 +443,7 @@
     "translation": "",
     "MultiLang": {
       "US": "The birdcage will rise in 5 seconds.",
-      "JP": ">>鳥籠は5秒後に上昇します<<",
+      "JP": "",
       "CN": "",
       "KR": ">> 새장은 5초 후에 올라갑니다 <<",
       "TW": ">>鳥籠將在5秒後上升<<"
@@ -622,10 +622,40 @@
   ">>梯子已碎掉<<": {
     "translation": "",
     "MultiLang": {
-      "US": "The ladder is broken.",
-      "JP": ">>梯子は壊れてしまいました<<",
+      "US": "",
+      "JP": "",
       "CN": "",
-      "KR": ">>사다리가 부서졌습니다<<",
+      "KR": "",
+      "TW": ""
+    }
+  },
+  ">>v0.19<<": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": "",
+      "KR": "",
+      "TW": ""
+    }
+  },
+  ">>感谢诺漫Normann指挥测试<<": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": "",
+      "KR": "",
+      "TW": ""
+    }
+  },
+  ">>此版本不代表最终版本<<": {
+    "translation": "",
+    "MultiLang": {
+      "US": "",
+      "JP": "",
+      "CN": "",
+      "KR": "",
       "TW": ""
     }
   }
