@@ -353,7 +353,7 @@
     "translation": "",
     "MultiLang": {
       "US": ">>The road is blocked, defend for 20 seconds to check which door is the correct one<<",
-      "JP": "",
+      "JP": ">>道が塞がれています。20秒間守り、正しいドアがどれか確認してください<<",
       "CN": "",
       "KR": ">>길이 막혔습니다. 20초 동안 지키면서 올바른 문이 어느 문인지 확인하세요<<",
       "TW": ">>路被堵住了，守住20秒檢查一下哪道門是正確的門<<"
@@ -443,7 +443,7 @@
     "translation": "",
     "MultiLang": {
       "US": "The birdcage will rise in 5 seconds.",
-      "JP": "",
+      "JP": ">>鳥籠は5秒後に上昇します<<",
       "CN": "",
       "KR": ">> 새장은 5초 후에 올라갑니다 <<",
       "TW": ">>鳥籠將在5秒後上升<<"
@@ -556,7 +556,7 @@
       "JP": "",
       "CN": "",
       "KR": ">>마지막 무대가 곧 시작됩니다<<",
-      "TW": ""
+      "TW": ">>即将開啟最後的舞台<<"
     }
   },
   ">>守住梯子等待传送<<": {
@@ -622,10 +622,10 @@
   ">>梯子已碎掉<<": {
     "translation": "",
     "MultiLang": {
-      "US": "",
-      "JP": "",
+      "US": "The ladder is broken.",
+      "JP": ">>梯子は壊れてしまいました<<",
       "CN": "",
-      "KR": "",
+      "KR": ">>사다리가 부서졌습니다<<",
       "TW": ""
     }
   },
@@ -642,20 +642,20 @@
   ">>感谢诺漫Normann指挥测试<<": {
     "translation": "",
     "MultiLang": {
-      "US": "",
-      "JP": "",
+      "US": ">>Thank you, Commander Normann, for testing<<",
+      "JP": ">>ノマンNormann指揮官のテストに感謝<<",
       "CN": "",
-      "KR": "",
-      "TW": ""
+      "KR": ">>노먼 노먼 지휘관의 테스트에 감사드립니다<<",
+      "TW": ">>感謝諾曼Normann指揮測試<<"
     }
   },
   ">>此版本不代表最终版本<<": {
     "translation": "",
     "MultiLang": {
-      "US": "",
+      "US": ">>This version does not represent the final version<<",
       "JP": "",
       "CN": "",
-      "KR": "",
+      "KR": ">>이 버전은 최종 버전이 아닙니다<<",
       "TW": ""
     }
   }
