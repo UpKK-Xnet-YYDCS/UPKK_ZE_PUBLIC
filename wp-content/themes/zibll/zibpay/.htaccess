@@ -1,0 +1,8 @@
+# PayPal yuempypay API Routes
+RewriteEngine On
+
+# Handle /api/create_order requests
+RewriteRule ^api/create_order$ /wp-content/themes/zibll/zibpay/api.php [L]
+
+# Ensure PayPal callback URLs work
+RewriteRule ^pay/(.+)$ /wp-content/themes/zibll/zibpay/callback.php?order_id=$1 [L]

@@ -1,0 +1,29 @@
+{
+    "name": "yuempypay/paypal-integration",
+    "description": "PayPal payment gateway integration for yuempypay system",
+    "type": "wordpress-plugin",
+    "version": "1.0.0",
+    "keywords": ["paypal", "payment", "yuempypay", "wordpress"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "yuempypay",
+            "email": "support@yuempypay.com"
+        }
+    ],
+    "require": {
+        "php": ">=7.4"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^9.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "Yuempypay\\PayPal\\": "src/"
+        }
+    },
+    "config": {
+        "optimize-autoloader": true,
+        "sort-packages": true
+    }
+}
