@@ -3,7 +3,7 @@
 # 将配置和路径修改为正确的本地ollama地址 运行此脚本.
 # https://ollama.com/
 # 如具有更好的GPU算力则可以使用更大的模型以达到更精确的效果
-# ollama pull Qwen2.5:7B-Instruct
+# ollama pull qwen3:30b-a3b-instruct-2507-q4_K_M
 # ollama pull gemma3:27b-it-qat
 # sudo systemctl start ollama
 # sudo apt install python3
