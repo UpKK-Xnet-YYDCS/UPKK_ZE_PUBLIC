@@ -28,7 +28,7 @@ import logging
 
 # 配置
 OLLAMA_URL = "http://192.168.50.7:11434/api/generate"  # 本地 Ollama服务器 地址 (使用 Apple Mac Mini) 
-MODEL = "gemma3:27b-it-qat"
+MODEL = "qwen3:30b-a3b-instruct-2507-q4_K_M"
 DIRECTORY = os.getcwd()  # 默认设置为当前目录
 HEADERS = {"Content-Type": "application/json"}
 
