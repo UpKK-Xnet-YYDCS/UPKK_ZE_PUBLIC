@@ -573,7 +573,7 @@
     "translation": ">>>大门还有40秒开启<<<",
     "MultiLang": {
       "US": ">>>The gate will open in 40 seconds<<<",
-      "JP": "",
+      "JP": ">>>大門はあと40秒で開きます<<<",
       "CN": ">>>大门还有40秒开启<<<",
       "KR": ">>>문이 40초 후에 열립니다<<<",
       "TW": ">>>大门還有40秒開啟<<<"
@@ -695,7 +695,7 @@
       "US": ">>There are 10 seconds left before the gate opens<<",
       "JP": ">>>まだ10秒後に門が開きます<<<",
       "CN": ">>>还有10秒大门开启<<<",
-      "KR": "",
+      "KR": ">>>10초 후에 문이 열립니다<<<",
       "TW": ">>>還有10秒門開啟<<<"
     }
   },
@@ -725,7 +725,7 @@
       "US": ">>There are 30 seconds left before the door opens<<",
       "JP": ">>>30秒後に門が開きます<<<",
       "CN": ">>>还有30秒大门开启<<<",
-      "KR": "",
+      "KR": ">>>30초 후에 문이 열립니다<<<",
       "TW": ">>>還有30秒大門開啟<<<"
     }
   },
@@ -965,7 +965,7 @@
       "US": "I know your eyes( I明白你的注视)",
       "JP": "我知道あなたの目(我明晰你的感受)",
       "CN": "我知道你的感受(我明晰你的感受)",
-      "KR": "",
+      "KR": "당신의 감정을 알아요 (我明晰你的感受)",
       "TW": "我明晰你的感受"
     }
   },
@@ -992,7 +992,7 @@
   "And I saw the truth inside the real you(于是我看见真相，瓦解这堵高墙)": {
     "translation": "",
     "MultiLang": {
-      "US": "",
+      "US": "And I saw the truth inside the real you(I saw the truth, and the wall crumbled.)",
       "JP": "そして真実を见た本当の君(于是我看见真相，瓦解这堵高墙)",
       "CN": "我看见了你真正的内心(于是我看穿了真相，瓦解了这道高墙)",
       "KR": "그리고 진실을 발견했다(于是我看见真相，瓦解这堵高墙)",
@@ -1005,7 +1005,7 @@
       "US": "Because I know you're lost when you run(Because I know you're lost when you run)",
       "JP": "因為我知道你在逃離之初就已失路",
       "CN": "因为我知道你在逃离之初就已失路",
-      "KR": "",
+      "KR": "도망치는 순간 길을 잃었다는 걸 알았기 때문에.",
       "TW": "因為我知道你在逃離之初就已失路"
     }
   },
@@ -1045,7 +1045,7 @@
       "US": "Even if the sky does fall(If the sky should fall)",
       "JP": "即使是天幕轰然坠落",
       "CN": "即使天幕轰然坠落",
-      "KR": "",
+      "KR": "하늘이 무너져도",
       "TW": "即使天幕轰然墜落"
     }
   },
@@ -1115,7 +1115,7 @@
       "US": "One day the earth will open wide (not too far in the future, the ground shakes and cracks)",
       "JP": "-One day the earth will open wide(不远の将来、大地が揺れ動き裂けます)",
       "CN": "",
-      "KR": "",
+      "KR": "어느 날, 대지는 크게 흔들리고 갈라질 것이다(不远的将来，大地撼动并裂开)",
       "TW": "遠不的將來，大地方撼動並裂開"
     }
   },
@@ -1173,9 +1173,9 @@
     "translation": "",
     "MultiLang": {
       "US": "Because I know you're lost when you run away",
-      "JP": "",
+      "JP": "逃げ出した時すでに道を見失っているのを知っているから。",
       "CN": "因为我知道你在逃离之初就已失路",
-      "KR": "",
+      "KR": "도망치는 순간부터 길을 잃었다는 걸 알고 있어.",
       "TW": "因為我知道你在逃離之初就已失路"
     }
   },
@@ -1192,7 +1192,7 @@
   "And if the sun grows cold for you along the way(就算太阳变得冰冷无光)": {
     "translation": "",
     "MultiLang": {
-      "US": "",
+      "US": "And if the sun grows cold for you along the way(If the sun becomes cold and dim)",
       "JP": "そして太陽が冷たくなっても(就算太阳变得冰冷无光)",
       "CN": "And若沿途阳光冻结(就算太阳变得冰冷无光)",
       "KR": "그리고 만약 길엔 젖어버린 추운 태양이여(就算太阳变得冰冷无光)",
@@ -1202,11 +1202,11 @@
   "And if the stars don't line to light the way(就算群星无意照耀前方)": {
     "translation": "",
     "MultiLang": {
-      "US": "",
+      "US": "And if the stars don't line to light the way(Even if the stars do not intend to shine ahead)",
       "JP": "そして群星無情にも導きをくれなければ",
       "CN": "并且如果群星无意照亮前方(就算群星无意照耀前方)",
       "KR": "그리고 만약 별들이 빛나지 않아도(별이 앞길을 비춰주지는 않아도)",
-      "TW": ""
+      "TW": "就算群星无意照耀前方"
     }
   },
   "And when you fall away and crash back down below(当你决定流浪，在崩溃面前彷徨)": {
@@ -1235,7 +1235,7 @@
       "US": "In your afterglow (I am illuminated in your glow)",
       "JP": "あなたの余晖の中で照らされて(在你的余晖中被照耀)",
       "CN": "在你的余晖中被照耀",
-      "KR": "",
+      "KR": "당신의 여광 속에서 빛나다",
       "TW": "在你的余晖中被照耀"
     }
   },
@@ -1255,7 +1255,7 @@
       "US": "Even if I have to die for you",
       "JP": "EVEN IF I HAVE TO DIE FOR YOU(哪怕我需为你而死)",
       "CN": "即使我需为你而死(Even if I have to die for you)",
-      "KR": "",
+      "KR": "네가 죽더라도, 난 너를 위해 죽을 거야(哪怕我需为你而死)",
       "TW": "即使我需为你而死(Even if I have to die for you)"
     }
   },
@@ -1272,41 +1272,41 @@
   "长官:*我们接到的命令是尽快营救幸存者，同时确保病毒不会扩散。你们是目前唯一能够执行这个任务的力量，务必要小心*": {
     "translation": "",
     "MultiLang": {
-      "US": "",
-      "JP": "",
+      "US": "Commander: *Our orders are to rescue the survivors as quickly as possible, while ensuring the virus does not spread. You are currently the only force capable of carrying out this mission, so be careful.*",
+      "JP": "長官:*我々は生存者の救助を最優先とし、同時にウイルスの拡散を防ぐことが命令です。あなた達は現在、この任務を遂行できる唯一の力です。くれぐれも注意してください。*",
       "CN": "",
-      "KR": "",
-      "TW": ""
+      "KR": "장관: *우리는 가능한 한 빨리 생존자를 구출하고 동시에 바이러스가 퍼지지 않도록 해야 합니다. 여러분은 현재 이 임무를 수행할 수 있는 유일한 전력입니다. 반드시 조심하십시오.*",
+      "TW": "長官：*我們接到的命令是盡快營救倖存者，同時確保病毒不會擴散。你們是目前唯一能夠執行這個任務的力量，務必要小心*"
     }
   },
   "长官:*一切行动以自保为主。记住，这些人不再是普通人，随时可能变得极端暴力。命令是优先保护队员的生命安全，确保能够带回更多幸存者*": {
     "translation": "",
     "MultiLang": {
-      "US": "",
-      "JP": "",
+      "US": "Commander: *Prioritize self-preservation in all actions. Remember, these people are no longer ordinary; they may become extremely violent at any time. The order is to prioritize the safety of our team members and ensure we can bring back more survivors.*",
+      "JP": "長官:*常に自衛を優先すること。覚えておけ、彼らはもはや普通の人々ではない。いつ何時でも極度に暴力的になる可能性がある。命令は、隊員の生命の安全を最優先に保護し、より多くの生存者を連れ帰すことを確保すること。*",
       "CN": "",
-      "KR": "",
-      "TW": ""
+      "KR": "장관:*모든 행동은 자위 우선입니다. 기억하십시오, 이 사람들은 더 이상 보통 사람이 아니며, 언제든 극단적으로 폭력적으로 변할 수 있습니다. 명령은 팀원의 생명 안전을 최우선으로 보호하고, 더 많은 생존자를 데려올 수 있도록 하는 것입니다.*",
+      "TW": "長官:*一切行動以自保為主。記住，這些人不再是普通人，隨時可能變得極端暴力。命令是優先保護隊員的生命安全，確保能夠帶回更多倖存者*"
     }
   },
   "长官:*你们先沿着沿途标记的出口前进，确保对周围环境保持敏感。一旦确认出现敌人，合理分配任务，保护队员的安全，同时尽可能寻找幸存者。我们不能留下任何人*": {
     "translation": "",
     "MultiLang": {
-      "US": "",
-      "JP": "",
+      "US": "Captain: *Proceed along the marked exits, ensuring you remain aware of your surroundings. Once enemies are confirmed, allocate tasks appropriately, protect the safety of your team members, and search for survivors whenever possible. We cannot leave anyone behind.*",
+      "JP": "長官:*沿途の出口に沿って進んでください。周囲の状況に常に注意を払いましょう。敵を発見したら、任務を適切に分配し、隊員の安全を確保しつつ、可能な限り生存者を探してください。誰も置き去りにすることはできません*",
       "CN": "",
-      "KR": "",
-      "TW": ""
+      "KR": "장교: *여러분은 먼저 경로를 따라 표시된 출구로 나아가면서 주변 환경에 주의를 기울이십시오. 적이 확인되면 임무를 적절히 분배하여 팀원의 안전을 보호하고, 동시에 가능한 한 생존자를 찾으십시오. 우리는 누구도 남겨둘 수 없습니다.*",
+      "TW": "長官：*你們先沿著沿途標記的出口前進，確保對周圍環境保持敏感。一旦確認出現敵人，合理分配任務，保護隊員的安全，同時盡可能尋找倖存者。我們不能留下任何人*"
     }
   },
   "*这扇门锁得太死了，让我把它撬开*": {
     "translation": "",
     "MultiLang": {
-      "US": "",
-      "JP": "",
+      "US": "This door is locked too tight, let me pick it open.",
+      "JP": "*この扉は固く閉ざされている。こじ開けよう。*",
       "CN": "",
-      "KR": "",
-      "TW": ""
+      "KR": "이 문은 너무 잠겨 있어서, 열쇠로 따야겠어.",
+      "TW": "*這扇門鎖得太死了，讓我把它撬開*"
     }
   }
 }
