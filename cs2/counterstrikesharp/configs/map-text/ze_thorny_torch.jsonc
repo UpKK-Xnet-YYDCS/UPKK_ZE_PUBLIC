@@ -1,0 +1,1862 @@
+{
+  "我们中出了叛徒": {
+    "translation": "",
+    "MultiLang": {
+      "US": "There is a traitor among us",
+      "JP": "私たちの間に裏切り者がいる",
+      "CN": "",
+      "KR": "우리 중에 배신자가 있다",
+      "TW": "我們中出了叛徒"
+    }
+  },
+  "先遣部队被骗了": {
+    "translation": "",
+    "MultiLang": {
+      "US": "The advance force was deceived",
+      "JP": "先遣部隊がだまされた",
+      "CN": "",
+      "KR": "선발대가 속았음",
+      "TW": "先遣部隊被骗了"
+    }
+  },
+  "我集结了所有支援部队": {
+    "translation": "",
+    "MultiLang": {
+      "US": "I have gathered all support units",
+      "JP": "私はすべての支援部隊を編成した",
+      "CN": "",
+      "KR": "나는 모든 지원 부대를 집결시켰다",
+      "TW": ""
+    }
+  },
+  "现在你们直属联盟军": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Now you are directly under the Allied Forces",
+      "JP": "現在、你们は直屬連盟軍",
+      "CN": "",
+      "KR": "지금 여러분은 직속 연합군입니다",
+      "TW": "現在你們直屬聯盟軍"
+    }
+  },
+  "你们是来自各地的军队组成的一支队伍": {
+    "translation": "",
+    "MultiLang": {
+      "US": "You are a team composed of armies from various regions",
+      "JP": "你们は各地から集まった軍隊で構成された部隊です",
+      "CN": "",
+      "KR": "여러 지역에서 모인 군대가 결집한 부대입니다",
+      "TW": "你們是來自各地的軍隊組成的一支隊伍"
+    }
+  },
+  "去完成任务吧,带回先遣部队收集的材料": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Go complete the mission and bring back the materials collected by the advance unit",
+      "JP": "任務を完了させ、先遣部隊が収集した素材を回収せよ",
+      "CN": "",
+      "KR": "작업을 완수하고 선발대가 모은 자재를 되돌려주세요",
+      "TW": "去完成任務吧，帶回先遣部隊收集的材料"
+    }
+  },
+  "这座设施建立在山体之间": {
+    "translation": "",
+    "MultiLang": {
+      "US": "This facility is built between the mountains",
+      "JP": "この施設は山間の間にある",
+      "CN": "",
+      "KR": "이 시설은 산 사이에 건설되었다",
+      "TW": "這座設施建立在山體之間"
+    }
+  },
+  "穿过这座设施,联合军舰在哪里等着你们": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Beyond this facility, the Combine ships are waiting for you",
+      "JP": "この施設を通り抜けたら、連合の艦隊が待ち受けています",
+      "CN": "",
+      "KR": "이 시설을 지나면 연합의 함선이 여러분을 기다리고 있습니다",
+      "TW": "穿過這座設施，聯合軍艦正等待著你們"
+    }
+  },
+  "祝你们好运小伙子们": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Good luck, boys",
+      "JP": "お前たちに幸運を、若者たち",
+      "CN": "",
+      "KR": "좋은 운을 빌어요, 젊은이들",
+      "TW": "祝你們好运小伙子們"
+    }
+  },
+  "这个门锁住了": {
+    "translation": "",
+    "MultiLang": {
+      "US": "This door is locked",
+      "JP": "このドアは施錠されています",
+      "CN": "",
+      "KR": "이 문은 잠겨 있습니다",
+      "TW": "這個門鎖住了"
+    }
+  },
+  "开枪打碎它": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Shoot it and break it",
+      "JP": "撃ち破れ",
+      "CN": "",
+      "KR": "총을 쏴서 깨부수기",
+      "TW": "開槍打碎它"
+    }
+  },
+  "操作里面的电脑打开设施内部的门": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Use the computer inside to open the door within the facility",
+      "JP": "",
+      "CN": "",
+      "KR": "조작하는 컴퓨터로 시설 내부의 문을 열기",
+      "TW": "操作裡面的電腦打開設施內部的門"
+    }
+  },
+  "已经激活电脑正在开启": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Computer activated, powering on",
+      "JP": "コンピュータの起動が完了しています",
+      "CN": "",
+      "KR": "컴퓨터가 이미 활성화되어 전원이 켜지고 있습니다",
+      "TW": "已經激活，電腦正在開啟"
+    }
+  },
+  "10秒": {
+    "translation": "",
+    "MultiLang": {
+      "US": "10 seconds",
+      "JP": "",
+      "CN": "",
+      "KR": "10초",
+      "TW": ""
+    }
+  },
+  "20秒后门开": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Door opens in 20 seconds",
+      "JP": "20秒後にドアが開く",
+      "CN": "",
+      "KR": "20초 후 문이 열림",
+      "TW": "20秒後門開"
+    }
+  },
+  "已经成功进入设施外围": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Successfully entered the facility perimeter",
+      "JP": "施設の外周にすでに成功して進入した",
+      "CN": "",
+      "KR": "시설 외부에 성공적으로 진입했습니다",
+      "TW": "已經成功進入設施外圍"
+    }
+  },
+  "正在排查....": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Troubleshooting....",
+      "JP": "調査中....",
+      "CN": "",
+      "KR": "진행 중입니다....",
+      "TW": ""
+    }
+  },
+  "他们太多了...": {
+    "translation": "",
+    "MultiLang": {
+      "US": "There are too many of them...",
+      "JP": "彼らはあまりにも多すぎる...",
+      "CN": "",
+      "KR": "그들 너무 많아...",
+      "TW": "他們太多了..."
+    }
+  },
+  "窗户要碎了!": {
+    "translation": "",
+    "MultiLang": {
+      "US": "The window is about to break!",
+      "JP": "窓が壊れそうだ！",
+      "CN": "",
+      "KR": "창문이 깨질 거야!",
+      "TW": "窗戶要碎了!"
+    }
+  },
+  "那就到处开枪": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Just shoot everywhere",
+      "JP": "そこら中で撃ちまくって",
+      "CN": "",
+      "KR": "그럼 여기저리 쏘기 시작해",
+      "TW": "那就到处開槍"
+    }
+  },
+  "下面是蒸汽管道": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Here is the steam pipe",
+      "JP": "ここは蒸気パイプです",
+      "CN": "",
+      "KR": "아래는 증기관로입니다",
+      "TW": ""
+    }
+  },
+  "我们必须要走这里": {
+    "translation": "",
+    "MultiLang": {
+      "US": "We must go this way",
+      "JP": "我々はここを通らなければならない",
+      "CN": "",
+      "KR": "우리는 여기를 가야 한다",
+      "TW": "我們必須要走這裡"
+    }
+  },
+  "下去以后我们必须尽快找到开关": {
+    "translation": "",
+    "MultiLang": {
+      "US": "After going down, we must quickly find the switch",
+      "JP": "下りた後、私たちはできるだけ早くスイッチを見つける必要がある",
+      "CN": "",
+      "KR": "내려간 후에는 가능한 빨리 스위치를 찾아야 한다",
+      "TW": "下去以後我們必須儘快找到開關"
+    }
+  },
+  "不然我们都会死在下面": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Otherwise, we'll all die down below",
+      "JP": "でなければ、我々は下で死んでしまう",
+      "CN": "",
+      "KR": "아니면 우리는 아래에서 모두 죽을 것이다",
+      "TW": "不然我們都會死在下面"
+    }
+  },
+  "找到了": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Found",
+      "JP": "発見した",
+      "CN": "",
+      "KR": "찾았다",
+      "TW": ""
+    }
+  },
+  "正在开通道路": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Road construction in progress",
+      "JP": "道路の開通中",
+      "CN": "",
+      "KR": "도로를 개통 중",
+      "TW": "正在開通道路"
+    }
+  },
+  "马上就能出去了": {
+    "translation": "",
+    "MultiLang": {
+      "US": "You'll be out soon",
+      "JP": "もうすぐ外に出られる",
+      "CN": "",
+      "KR": "곧 나갈 수 있게 될 거야",
+      "TW": "馬上就能出去了"
+    }
+  },
+  "20秒后开启": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Activate after 20 seconds",
+      "JP": "20秒後に開始",
+      "CN": "",
+      "KR": "20초 후에 열기",
+      "TW": "20秒後開啟"
+    }
+  },
+  "马上到达下个通道区域了": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Approaching the next passage area soon",
+      "JP": "次のチャネル領域にまもなく到着します",
+      "CN": "",
+      "KR": "곧 다음 채널 영역에 도착합니다",
+      "TW": "馬上到達下個通道區域了"
+    }
+  },
+  "不知道下个区域通道是否开启": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Not sure if the next area passage is open",
+      "JP": "次のエリアの通路が開いているかどうか不明",
+      "CN": "",
+      "KR": "다음 지역 통로가 열렸는지 모르겠다",
+      "TW": "不知道下個區域通道是否開啟"
+    }
+  },
+  "再给我一些时间": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Give me some more time",
+      "JP": "もう少しだけ時間をください",
+      "CN": "",
+      "KR": "더 시간을 좀 주세요",
+      "TW": "再給我一些時間"
+    }
+  },
+  "还有10秒": {
+    "translation": "",
+    "MultiLang": {
+      "US": "10 seconds remaining",
+      "JP": "あと10秒",
+      "CN": "",
+      "KR": "10초 남음",
+      "TW": "還有10秒"
+    }
+  },
+  "道路被阻挡了": {
+    "translation": "",
+    "MultiLang": {
+      "US": "The road is blocked",
+      "JP": "道路が遮られている",
+      "CN": "",
+      "KR": "도로가 막혔습니다",
+      "TW": ""
+    }
+  },
+  "开枪打碎障碍": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Shoot to break the obstacle",
+      "JP": "弾を発射して障害物を破壊する",
+      "CN": "",
+      "KR": "총을 쏘아 장애물 부수기",
+      "TW": "開槍打碎障礙"
+    }
+  },
+  "下个区域马上也要沦陷了": {
+    "translation": "",
+    "MultiLang": {
+      "US": "The next area will soon fall as well",
+      "JP": "次の領域もすぐに陥落します",
+      "CN": "",
+      "KR": "다음 지역도 곧 멸망할 것이다",
+      "TW": "下個區域馬上也要淪陷了"
+    }
+  },
+  "赶快!!": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Hurry up!!",
+      "JP": "さあ、急げ!!",
+      "CN": "",
+      "KR": "빨리!!",
+      "TW": "快點!!"
+    }
+  },
+  "道路畅通了": {
+    "translation": "",
+    "MultiLang": {
+      "US": "The road is clear",
+      "JP": "",
+      "CN": "",
+      "KR": "도로가畅通되었습니다",
+      "TW": "道路暢通了"
+    }
+  },
+  "这里有些不对劲": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Something is off here",
+      "JP": "ここには何かおかしい",
+      "CN": "",
+      "KR": "여기에 무언가 이상하다",
+      "TW": "這裡有些不對勁"
+    }
+  },
+  "先找地方休整一下": {
+    "translation": "",
+    "MultiLang": {
+      "US": "First, find a place to rest and recuperate",
+      "JP": "まずはどこかで休憩してからにしよう",
+      "CN": "",
+      "KR": "먼저 어디か에서 쉬어가세요",
+      "TW": ""
+    }
+  },
+  "就在此休息片刻": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Rest for a moment here",
+      "JP": "ここで少し休憩しましょう",
+      "CN": "",
+      "KR": "이곳에서 잠시 쉬어가세요",
+      "TW": ""
+    }
+  },
+  "准备行动,小伙子们": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Prepare for action, boys",
+      "JP": "準備して、若者たち",
+      "CN": "",
+      "KR": "준비 행동, 젊은이들",
+      "TW": "準備行動，小伙子們"
+    }
+  },
+  "行动!": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Action!",
+      "JP": "行動！",
+      "CN": "",
+      "KR": "행동!",
+      "TW": "行動!"
+    }
+  },
+  "立刻到下个区域去": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Go to the next area immediately",
+      "JP": "すぐに次のエリアへ",
+      "CN": "",
+      "KR": "즉시 다음 영역으로 이동하세요",
+      "TW": "立刻到下個區域去"
+    }
+  },
+  "新一批的感染者马上就会被放出来": {
+    "translation": "",
+    "MultiLang": {
+      "US": "The next batch of infected will be released imminently",
+      "JP": "新一批の感染者がすぐに解放される",
+      "CN": "",
+      "KR": "새로운 감염자가 곧 방출될 예정입니다",
+      "TW": "新一批的感染者馬上就會被放出來"
+    }
+  },
+  "正在慢慢破解下个区域的门": {
+    "translation": "",
+    "MultiLang": {
+      "US": "The door to the next area is being slowly cracked open",
+      "JP": "次のエリアのドアを少しずつ解除しています",
+      "CN": "",
+      "KR": "다음 구역의 문을 천천히 해독 중",
+      "TW": "正在慢慢破解下個區域的門"
+    }
+  },
+  "他们来了!": {
+    "translation": "",
+    "MultiLang": {
+      "US": "They're coming!",
+      "JP": "彼らが来た！",
+      "CN": "",
+      "KR": "그들이 온다!",
+      "TW": "他們來了!"
+    }
+  },
+  "5秒": {
+    "translation": "",
+    "MultiLang": {
+      "US": "5 seconds",
+      "JP": "",
+      "CN": "",
+      "KR": "5초",
+      "TW": ""
+    }
+  },
+  "正在破解电梯": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Decrypting elevator",
+      "JP": "エレベーターの解除中",
+      "CN": "",
+      "KR": "엘리베이터 해제 중",
+      "TW": "正在破解電梯"
+    }
+  },
+  "快走,下一批感染者马上就到了": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Hurry up, the next batch of infected is arriving soon",
+      "JP": "駆け抜けろ、次の一撃の感染者たちがもうすぐ到着する",
+      "CN": "",
+      "KR": "빨리 이동해, 다음 감염자들이 곧 도착할 거야",
+      "TW": ""
+    }
+  },
+  "电梯还有五秒破解": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Elevator hack in five seconds",
+      "JP": "エレベーターの解除まであと5秒",
+      "CN": "",
+      "KR": "엘리베이터는 5초 후에 해제됩니다",
+      "TW": "電梯還有五秒破解"
+    }
+  },
+  "给我10秒": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Give me 10 seconds",
+      "JP": "10秒だけください",
+      "CN": "",
+      "KR": "내게 10초를 주세요",
+      "TW": "給我10秒"
+    }
+  },
+  "马上就能打开玻璃了": {
+    "translation": "",
+    "MultiLang": {
+      "US": "The glass will be open soon",
+      "JP": "すぐにもガラスを開けることができる",
+      "CN": "",
+      "KR": "곧 유리가 열릴 것이다",
+      "TW": "馬上就能打開玻璃了"
+    }
+  },
+  "还剩10秒": {
+    "translation": "",
+    "MultiLang": {
+      "US": "10 seconds remaining",
+      "JP": "残り10秒",
+      "CN": "",
+      "KR": "남은 시간 10초",
+      "TW": "還剩10秒"
+    }
+  },
+  "下个点是?": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Next checkpoint?",
+      "JP": "次のポイントは？",
+      "CN": "",
+      "KR": "다음 점은?",
+      "TW": "下個點是？"
+    }
+  },
+  "核心区域?": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Core Area?",
+      "JP": "コアエリア？",
+      "CN": "",
+      "KR": "핵심 영역?",
+      "TW": "核心區域？"
+    }
+  },
+  "这帮怪物太疯狂了": {
+    "translation": "",
+    "MultiLang": {
+      "US": "These monsters are too crazy",
+      "JP": "このモンスターたち、狂っているよ",
+      "CN": "",
+      "KR": "이 괴물들은 너무 미친 듯이 뒤엉켜 있다",
+      "TW": "這幫怪物太瘋狂了"
+    }
+  },
+  "坚持守住就有办法": {
+    "translation": "",
+    "MultiLang": {
+      "US": "If you hold on, there will be a way",
+      "JP": "守り続けたら、きっと方法はある",
+      "CN": "",
+      "KR": "지속적으로 방어하면 방법이 있다",
+      "TW": "堅持守住就有辦法"
+    }
+  },
+  "在给我10秒!!": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Give me 10 seconds!!",
+      "JP": "10秒だけ待って!!",
+      "CN": "",
+      "KR": "10초만 주세요!!",
+      "TW": "在給我10秒!!"
+    }
+  },
+  "到达了第二十区的上面": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Reached the top of the twentieth district",
+      "JP": "第二十区の上に到着した",
+      "CN": "",
+      "KR": "제20구역 위로 도달함",
+      "TW": "到達了第二十區的上面"
+    }
+  },
+  "想办法下去,我们才能进行下一步": {
+    "translation": "",
+    "MultiLang": {
+      "US": "We need to figure out how to get down before we can proceed to the next step",
+      "JP": "下りる方法を考えなければ、次のステップに進めない",
+      "CN": "",
+      "KR": "아래로 내려가야 다음 단계를 진행할 수 있어",
+      "TW": "想辦法下去，我們才能進行下一步"
+    }
+  },
+  "门后面好像情况不太对?": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Something seems off behind the door?",
+      "JP": "ドアの向こうに、どうも様子がおかしい？",
+      "CN": "",
+      "KR": "문 뒤에 무슨 일이 있는 것 같지 않아?",
+      "TW": "門後面好像情況不太對？"
+    }
+  },
+  "无线电:这里是紧急支援小组": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Radio: This is the emergency support team",
+      "JP": "無線：ここは緊急支援チーム",
+      "CN": "",
+      "KR": "무선전화: 여기는 긴급 지원 팀",
+      "TW": "無線電：這裡是緊急支援小組"
+    }
+  },
+  "无线电:我们第二十二区沦陷了": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Radio: Our twenty-second sector has fallen",
+      "JP": "無線通信: 我たちの第二十二地区が陥落しました",
+      "CN": "",
+      "KR": "무선전: 우리 제이십이구역이 점령되었다",
+      "TW": "無線電：我們第二十二區淪陷了"
+    }
+  },
+  "无线电:已经无法再继续完成任务进行回合了": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Radio: It is no longer possible to continue the mission and proceed to the next round",
+      "JP": "無線通信：タスクを続行してターンを進めることがもうできません",
+      "CN": "",
+      "KR": "무선기: 더 이상 미션을 완수할 수 없어 턴을 진행할 수 없습니다",
+      "TW": "無線電: 已經無法再繼續完成任務進行回合了"
+    }
+  },
+  "无线电:祝你们好运,我们先行一步了": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Radio: Good luck, we'll go ahead first",
+      "JP": "無線通信: 頑張ってください、私たちが先に進みます",
+      "CN": "",
+      "KR": "무선 통신: 행운을 빕니다, 우리는 먼저 가보겠습니다",
+      "TW": "無線電：祝你們好运，我們先行一步了"
+    }
+  },
+  "该死...这真是一场悲剧": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Damn... this is a tragedy",
+      "JP": "damn... これは本当に悲劇だ",
+      "CN": "",
+      "KR": "저리가라... 이건 참 비극이야",
+      "TW": "該死...這真是一場悲劇"
+    }
+  },
+  "这个该死的门什么时候才能开?": {
+    "translation": "",
+    "MultiLang": {
+      "US": "When the hell is this damn door going to open?",
+      "JP": "このめんどくさいドアはいったいいつ開くんだ？",
+      "CN": "",
+      "KR": "이 쓸데없는 문은 언제나 열리는 거야?",
+      "TW": "這個該死的門什麼時候才能開？"
+    }
+  },
+  "还需要一些时间...": {
+    "translation": "",
+    "MultiLang": {
+      "US": "It will take some more time...",
+      "JP": "まだ少し時間が必要だ...",
+      "CN": "",
+      "KR": "아직 좀 더 시간이 필요해...",
+      "TW": "還需要一些時間..."
+    }
+  },
+  "还有5秒": {
+    "translation": "",
+    "MultiLang": {
+      "US": "5 seconds remaining",
+      "JP": "あと5秒",
+      "CN": "",
+      "KR": "5초 남음",
+      "TW": "還有5秒"
+    }
+  },
+  "正在前往二十区": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Heading to Zone 20",
+      "JP": "20区へ向かっています",
+      "CN": "",
+      "KR": "20구역으로 이동 중",
+      "TW": "正在前往二十區"
+    }
+  },
+  "还剩5秒": {
+    "translation": "",
+    "MultiLang": {
+      "US": "5 seconds remaining",
+      "JP": "あと5秒",
+      "CN": "",
+      "KR": "남은 시간 5초",
+      "TW": "還剩5秒"
+    }
+  },
+  "第二十区域下水道污染并不算严重..": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Pollution in the sewers of Sector 20 is not particularly severe..",
+      "JP": "第二十区域の下水道の汚染はそれほど深刻ではない。",
+      "CN": "",
+      "KR": "제20 지역 하수도 오염은 그리 심각하지 않다..",
+      "TW": "第二十區域下水道污染並不算嚴重.."
+    }
+  },
+  "但只是时间的问题..": {
+    "translation": "",
+    "MultiLang": {
+      "US": "It's just a matter of time..",
+      "JP": "だが、時間の問題にすぎない……",
+      "CN": "",
+      "KR": "하지만 단지 시간의 문제일 뿐이다..",
+      "TW": "但只是時間的問題.."
+    }
+  },
+  "我们必须尽快撤离": {
+    "translation": "",
+    "MultiLang": {
+      "US": "We must evacuate as soon as possible",
+      "JP": "我々はできるだけ早く脱出しなければならない",
+      "CN": "",
+      "KR": "우리는 가능한 빨리 철수해야 합니다",
+      "TW": "我们必须儘快撤離"
+    }
+  },
+  "无线电:这里是联盟应急小队": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Radio: This is the Alliance Emergency Team",
+      "JP": "無線：ここは連盟緊急小隊",
+      "CN": "",
+      "KR": "무선전화: 여기는 연맹 응급대응팀",
+      "TW": "無線電：這裡是聯盟應急小隊"
+    }
+  },
+  "无线电:我们也无法继续走下去了": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Radio: We can't go on any further",
+      "JP": "無線: これ以上、私たちも進むことはできません",
+      "CN": "",
+      "KR": "무선기:我们也无法继续走下去了",
+      "TW": "無線電：我們也無法繼續走下去了"
+    }
+  },
+  "无线电:第六区的感染彻底沦陷了": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Radio: The infection in Sector 6 has completely collapsed",
+      "JP": "無線通信：第六地区の感染は完全に壊滅した",
+      "CN": "",
+      "KR": "무선기: 제6구역의 감염은 완전히 확산되었다",
+      "TW": "無線電: 第六區的感染徹底沦陷了"
+    }
+  },
+  "无线电:我们无法到达集结点了": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Radio: We cannot reach the assembly point",
+      "JP": "無線：我々は集合点に到達できていない",
+      "CN": "",
+      "KR": "무선 통신: 우리는 집결지에 도달할 수 없습니다",
+      "TW": "無線電：我們無法到達集結點"
+    }
+  },
+  "该死..这帮畜生": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Damn it... these beasts",
+      "JP": "くそっ..この畜生たち",
+      "CN": "",
+      "KR": "이런 짓을.. 이 개자식들",
+      "TW": "該死..這幫畜生"
+    }
+  },
+  "通往第二十区的管道什么时候能打开?": {
+    "translation": "",
+    "MultiLang": {
+      "US": "When will the passage to Sector 20 be opened?",
+      "JP": "第二十区へのパイプはいつ開くのか？",
+      "CN": "",
+      "KR": "제20구역으로 통하는 파이프라인은 언제 열릴 수 있나요?",
+      "TW": "通往第二十區的管道什麼時候能打開？"
+    }
+  },
+  "在给我一些时间": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Give me some time",
+      "JP": "少し時間をください",
+      "CN": "",
+      "KR": "시간을 좀 주세요",
+      "TW": "在給我一些時間"
+    }
+  },
+  "二十区域的感染已经蔓延了": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Infection has spread across the twenty zones",
+      "JP": "二十区域の感染が広がっています",
+      "CN": "",
+      "KR": "20개 지역의 감염이 확산되고 있습니다",
+      "TW": "二十區域的感染已經蔓延了"
+    }
+  },
+  "快打开这个该死的门": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Open this damn door quickly",
+      "JP": "早くこの死んだ門を開けろ",
+      "CN": "",
+      "KR": "이 죽은 문을 빨리 열어",
+      "TW": "快打開這個該死的門"
+    }
+  },
+  "给我10秒钟": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Give me 10 seconds",
+      "JP": "10秒だけください",
+      "CN": "",
+      "KR": "10초만 주세요",
+      "TW": "給我10秒鐘"
+    }
+  },
+  "感染蔓延的越来越严重了": {
+    "translation": "",
+    "MultiLang": {
+      "US": "The infection is spreading more and more severely",
+      "JP": "感染の拡大がますます深刻になっています",
+      "CN": "",
+      "KR": "감염이 점점 더 심해지고 퍼져나가고 있다",
+      "TW": "感染蔓延得越來越嚴重了"
+    }
+  },
+  "不要掉下去": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Don't fall down",
+      "JP": "",
+      "CN": "",
+      "KR": "밑으로 떨어지지 마",
+      "TW": ""
+    }
+  },
+  "铁丝网还有多少秒才能开?": {
+    "translation": "",
+    "MultiLang": {
+      "US": "How many seconds until the barbed wire opens?",
+      "JP": "フェンスは何秒で開きますか？",
+      "CN": "",
+      "KR": "철망은 얼마나 더 걸려서 열릴까요?",
+      "TW": "鐵絲網還有多少秒才能開？"
+    }
+  },
+  "无线电:这里是医疗特殊小组": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Radio: This is the Medical Special Unit",
+      "JP": "無線：こちらメディカルスペシャルチーム",
+      "CN": "",
+      "KR": "무전기: 여기는 의료 특수팀",
+      "TW": "無線電：這裡是醫療特種小組"
+    }
+  },
+  "无线电:身边的队友都很严重": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Radio: The teammates nearby are all severely injured",
+      "JP": "無線：周囲の仲間たちも重傷",
+      "CN": "",
+      "KR": "무전기: 주변의 동료들이 모두 심각하다",
+      "TW": "無線電：身邊的隊友都受了重傷"
+    }
+  },
+  "无线电:他们已经不是常正类人了": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Radio: They are no longer ordinary humans",
+      "JP": "無線通信: 彼らはもう常正な人間ではなくなっている",
+      "CN": "",
+      "KR": "무선기: 그들은 더 이상 일반적인 인간이 아니다",
+      "TW": "無線電：他們已經不是常正類人了"
+    }
+  },
+  "无线电:我们也没办法继续任务了": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Radio: We can't continue the mission either",
+      "JP": "無線: 私たちもこれ以上ミッションを続けられません",
+      "CN": "",
+      "KR": "무선 통신: 우리는 더 이상 임무를 계속할 수 없습니다",
+      "TW": "無線電: 我們也無法繼續任務了"
+    }
+  },
+  "无线电:联盟军的荣光与你们同在": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Radio: Glory of the Alliance is with you",
+      "JP": "無線電: 聯盟軍の栄光は你们と共にあり",
+      "CN": "",
+      "KR": "무선: 연합군의 영광이 여러분과 함께합니다",
+      "TW": "無線電: 聯盟軍的榮光與你們同在"
+    }
+  },
+  "工程兵!赶快!": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Engineer! Hurry up!",
+      "JP": "工兵！早く！",
+      "CN": "",
+      "KR": "공병! 빨리!",
+      "TW": "工程兵！快點！"
+    }
+  },
+  "工程兵:马上!5秒钟": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Engineer: Hurry! 5 seconds",
+      "JP": "工兵: すぐに！5秒",
+      "CN": "",
+      "KR": "공병: 지금! 5초",
+      "TW": "工程兵: 立刻！5秒種"
+    }
+  },
+  "无线电:这里是海大富": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Radio: This is Hai Dafu",
+      "JP": "無線：ここは海大富",
+      "CN": "",
+      "KR": "무전기: 여기는 해대부",
+      "TW": "無線電：這裡是海大富"
+    }
+  },
+  "无线电:所有小队到第十三区集合": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Radio: All squads, assemble at Sector 13",
+      "JP": "無線: すべての小隊、第十三区に集合",
+      "CN": "",
+      "KR": "무선전: 모든 소대는 제13구역으로 집합",
+      "TW": "無線電：所有小隊前往第十三區集合"
+    }
+  },
+  "第十三区目前还没有感染迹象": {
+    "translation": "",
+    "MultiLang": {
+      "US": "No signs of infection in District 13 yet",
+      "JP": "",
+      "CN": "",
+      "KR": "제13구역에는 아직 감염 흔적이 없습니다",
+      "TW": "第十三區目前還沒有感染跡象"
+    }
+  },
+  "十三区目前很安全": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Sector 13 is currently safe",
+      "JP": "十三区は現在安全です",
+      "CN": "",
+      "KR": "13구역은 현재 안전합니다",
+      "TW": "十三區目前很安全"
+    }
+  },
+  "我们要前往吗?": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Shall we head out?",
+      "JP": "我々は行くのか？",
+      "CN": "",
+      "KR": "우리가 가야 할까요?",
+      "TW": "我們要前往嗎?"
+    }
+  },
+  "先去看看吧,再次之前先脱离第二十区": {
+    "translation": "",
+    "MultiLang": {
+      "US": "First, let's take a look; before that, escape from District 20",
+      "JP": "先去看看吧、第二十区を離れることをまず確認してから",
+      "CN": "",
+      "KR": "먼저 가보자, 그 전에 먼저 제20구역에서 벗어나자",
+      "TW": "先去看看吧，再次之前先脫離第二十區"
+    }
+  },
+  "先想办法上去,然后在说吧.": {
+    "translation": "",
+    "MultiLang": {
+      "US": "First figure out a way to get up, then we'll talk.",
+      "JP": "まずは上る方法を考えたら、それから話そう。",
+      "CN": "",
+      "KR": "일단 위로 올라가서 그때 말하자.",
+      "TW": "先想办法上去，然後再說吧。"
+    }
+  },
+  "加油兄弟们": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Come on, brothers",
+      "JP": "がんばれ、仲間たち",
+      "CN": "",
+      "KR": "화이팅, 형제들",
+      "TW": "加油兄弟們"
+    }
+  },
+  "准备出发": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Prepare to depart",
+      "JP": "準備出发",
+      "CN": "",
+      "KR": "출발 준비",
+      "TW": "準備出發"
+    }
+  },
+  "桥A的门开关已经开启": {
+    "translation": "",
+    "MultiLang": {
+      "US": "The gate switch for Bridge A has been activated",
+      "JP": "橋Aのドアの開閉が有効になりました",
+      "CN": "",
+      "KR": "다리A의 문 스위치가 열렸습니다",
+      "TW": "橋A的門開關已經開啟"
+    }
+  },
+  "桥A将在5秒后开启": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Bridge A will open in 5 seconds",
+      "JP": "橋Aは5秒後に開きます",
+      "CN": "",
+      "KR": "다리 A가 5초 후에 열립니다",
+      "TW": "橋A將在5秒後開啟"
+    }
+  },
+  "桥B的开关已经开启": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Switch B of the bridge has been activated",
+      "JP": "橋Bのスイッチがすでにオンになっています",
+      "CN": "",
+      "KR": "다리B의 스위치가 켜져 있습니다",
+      "TW": "橋B的開關已經開啟"
+    }
+  },
+  "桥B将在5秒后开启": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Bridge B will open in 5 seconds",
+      "JP": "橋Bは5秒後に開きます",
+      "CN": "",
+      "KR": "다리 B가 5초 후에 열립니다",
+      "TW": "橋B將在5秒後開啟"
+    }
+  },
+  "桥A道路即将开启": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Bridge A road is about to open",
+      "JP": "橋A道路が間もなく開放されます",
+      "CN": "",
+      "KR": "다리A 도로가 곧 개방됩니다",
+      "TW": "橋A道路即將開啟"
+    }
+  },
+  "给我点时间,这里被严重损毁了": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Give me some time, this place is severely damaged",
+      "JP": "少々時間をください、ここは重度に損傷しています",
+      "CN": "",
+      "KR": "조금 시간을 주세요, 여기는 심하게 파손되었습니다",
+      "TW": "給我點時間，這裡被嚴重損毀了"
+    }
+  },
+  "还有20秒": {
+    "translation": "",
+    "MultiLang": {
+      "US": "20 seconds remaining",
+      "JP": "あと20秒",
+      "CN": "",
+      "KR": "아직 20초",
+      "TW": "還有20秒"
+    }
+  },
+  "还有五秒楼梯就开了": {
+    "translation": "",
+    "MultiLang": {
+      "US": "The stairs will open in five seconds",
+      "JP": "あと5秒で階段が開きます",
+      "CN": "",
+      "KR": "아직 5초면 계단이 열립니다",
+      "TW": "還有五秒樓梯就開了"
+    }
+  },
+  "呼叫指挥部": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Call Command Center",
+      "JP": "指揮部に通報",
+      "CN": "",
+      "KR": "지휘부를 호출하다",
+      "TW": "呼叫指揮部"
+    }
+  },
+  "我们目前正在第二十区": {
+    "translation": "",
+    "MultiLang": {
+      "US": "We are currently in the twentieth district",
+      "JP": "私たちは現在、第二十区にいます",
+      "CN": "",
+      "KR": "우리는 현재 제20구역에 있습니다",
+      "TW": "我們目前正在第二十區"
+    }
+  },
+  "但是海大富让我们所有人前往十三区": {
+    "translation": "",
+    "MultiLang": {
+      "US": "However, Hai Dafu has sent all of us to District Thirteen",
+      "JP": "しかし海大富は私たち全員を十三区へ向かわせた",
+      "CN": "",
+      "KR": "그러나 해대부는 우리 모두를 십삼구로 향하게 했다",
+      "TW": "但是海大富讓我們所有人前往十三區"
+    }
+  },
+  "我们目前正在穿越二十区抵达十三区": {
+    "translation": "",
+    "MultiLang": {
+      "US": "We are currently passing through Zone 20 to reach Zone 13",
+      "JP": "私たちは現在、20区を通過して13区へ向かっています",
+      "CN": "",
+      "KR": "우리는 현재 20구역을 지나 13구역에 도달하고 있습니다",
+      "TW": "我們目前正在穿越二十區抵達十三區"
+    }
+  },
+  "无线电:这...这里是...总...": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Radio: This... this is... headquarters...",
+      "JP": "無線：これ...ここは...総...",
+      "CN": "",
+      "KR": "무선전화: 이... 여기는... 총...",
+      "TW": "無線電: 這... 這裡是... 總..."
+    }
+  },
+  "特嘛的,无线电信号怎么突然这么差": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Damn it, why has the radio signal suddenly become so poor?",
+      "JP": "どうして電波が急にこんなに悪いんだ",
+      "CN": "",
+      "KR": "어이구, 왜 갑자기 무선 전파가 이렇게 나빠졌지",
+      "TW": "特嘛的，無線電信號怎麼突然這麼差"
+    }
+  },
+  "不管了,准备进入二十区": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Never mind, preparing to enter area 20",
+      "JP": "どうでもいい、20区へ進入準備",
+      "CN": "",
+      "KR": "어쨌든, 스무 번째 구역으로 진입 준비",
+      "TW": "不管了，準備進入二十區"
+    }
+  },
+  "毒气是不是泄露了?": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Has the poison gas leaked?",
+      "JP": "毒ガスは漏れ出たのでしょうか？",
+      "CN": "",
+      "KR": "독기가 새어나가지 않았나요?",
+      "TW": "毒氣是不是洩露了？"
+    }
+  },
+  "快走,毒气马上泄露了": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Hurry, the poison gas is about to leak",
+      "JP": "駆けろ、毒ガスがすぐ漏れる",
+      "CN": "",
+      "KR": "빨리 가, 독가스가 곧 유출될 거야",
+      "TW": "快走，毒氣馬上洩露了"
+    }
+  },
+  "在给我5秒钟": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Give me 5 seconds",
+      "JP": "5秒だけ待って",
+      "CN": "",
+      "KR": "내게 5초만 주어",
+      "TW": "給我5秒鐘"
+    }
+  },
+  "无线电:这里是在三十三区执行任务的小队": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Radio: This is the team on a mission in Sector 33",
+      "JP": "無線通信：三十三区で任務を遂行しているチームです",
+      "CN": "",
+      "KR": "무선기: 여기는 33구역에서 임무를 수행 중인 소대입니다",
+      "TW": "無線電：這裡是在三十三區執行任務的小隊"
+    }
+  },
+  "无线电:我们现在也在赶往十三区的路上": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Radio: We're also on our way to District Thirteen",
+      "JP": "無線機: 今、私たちは十三区へ向かっているところです",
+      "CN": "",
+      "KR": "무전:我们现在也在赶往十三区的路上",
+      "TW": "無線電：我們現在也正在趕往十三區的路上"
+    }
+  },
+  "无线电:但是情况有些不对": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Radio: But something feels off",
+      "JP": "無線: しかし状況に何かおかしなところがある",
+      "CN": "",
+      "KR": "무선전화: 하지만 상황이 좀 이상하다",
+      "TW": "無線電: 但是情況有些不對"
+    }
+  },
+  "无线电:那些怪物好像都在往十三区集合": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Radio: It seems those monsters are gathering at Sector 13",
+      "JP": "無線通信: あの怪物たち、どうも13区に集まり始めているようだ",
+      "CN": "",
+      "KR": "무선기: 그 괴물들이 마치 13구역으로 모여드는 것 같아",
+      "TW": "無線電：那些怪物好像都在往十三區集合"
+    }
+  },
+  "无线电:这真的是否常正?": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Radio: Is this really normal?",
+      "JP": "無線: これは本当に異常ですか？",
+      "CN": "",
+      "KR": "무선기: 이건 정말 비정상이야?",
+      "TW": "無線電：這真的是否常正？"
+    }
+  },
+  "马上进入二十区了": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Entering Zone 20 soon",
+      "JP": "まもなく20区に入ります",
+      "CN": "",
+      "KR": "곧 20구역에 들어갑니다",
+      "TW": "馬上進入二十區了"
+    }
+  },
+  "在给我一点时间": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Give me a little more time",
+      "JP": "少々時間ください",
+      "CN": "",
+      "KR": "잠깐만 기다려줘",
+      "TW": "在給我一點時間"
+    }
+  },
+  "这里也不太平..稍作补给继续行动": {
+    "translation": "",
+    "MultiLang": {
+      "US": "It's not safe here either... Restock supplies and continue the mission",
+      "JP": "ここも平穏ではない……補給を済ませ、行動を再開する",
+      "CN": "",
+      "KR": "여기도 안정적이지 않다.. 잠시 보급을 마치고 계속 행동하자",
+      "TW": "這裡也不太平..稍作補給繼續行動"
+    }
+  },
+  "还有10秒钟..坚持一下": {
+    "translation": "",
+    "MultiLang": {
+      "US": "10 seconds remaining... Hold on",
+      "JP": "あと10秒...がんばって",
+      "CN": "",
+      "KR": "남은 10초... 버티세요",
+      "TW": "還有10秒鐘..堅持一下"
+    }
+  },
+  "马上就能离开二十区了": {
+    "translation": "",
+    "MultiLang": {
+      "US": "You're about to leave District 20",
+      "JP": "まもなく20区を出られます",
+      "CN": "",
+      "KR": "곧 20구역을 떠날 수 있습니다",
+      "TW": "馬上就能離開二十區了"
+    }
+  },
+  "后面就是通往十三区的电梯": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Behind you is the elevator leading to District 13",
+      "JP": "後方には十三区へと続くエレベーターがあります",
+      "CN": "",
+      "KR": "뒤쪽은 13구역으로 가는 엘리베이터입니다",
+      "TW": "後面就是通往十三區的電梯"
+    }
+  },
+  "再坚持坚持到达控制室": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Keep going, you're almost at the control room",
+      "JP": "もう少し頑張って制御室へ到達しよう",
+      "CN": "",
+      "KR": "조금 더 참아서 제어실에 도달하세요",
+      "TW": "再堅持堅持到達控制室"
+    }
+  },
+  "救援马上就到了": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Help is coming right away",
+      "JP": "救援がすぐ到着します",
+      "CN": "",
+      "KR": "구조 대가 곧 도착할 것입니다",
+      "TW": "救援馬上就到了"
+    }
+  },
+  "还有10秒,我们不能放弃": {
+    "translation": "",
+    "MultiLang": {
+      "US": "10 seconds left, we can't give up",
+      "JP": "あと10秒、あきらめられない",
+      "CN": "",
+      "KR": "아직 10초 남았어요, 포기할 수 없습니다",
+      "TW": "還有10秒，我們不能放棄"
+    }
+  },
+  "小心外面的僵尸": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Beware of the zombies outside",
+      "JP": "外のゾンビに気をつけて",
+      "CN": "",
+      "KR": "밖의 좀비에 조심하세요",
+      "TW": "小心外面的殭屍"
+    }
+  },
+  "他们要抓破门和玻璃跳进来了": {
+    "translation": "",
+    "MultiLang": {
+      "US": "They broke down the door and jumped in through the glass",
+      "JP": "彼らはドアを破り、ガラスを飛び越えて侵入してきた",
+      "CN": "",
+      "KR": "그들은 문을 부수고 유리로 뛰어들었다",
+      "TW": "他們要抓破門，並跳進來了"
+    }
+  },
+  "无线电:这里是联名军指挥部": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Radio: This is the Joint Command Headquarters",
+      "JP": "無線：ここは合同軍指揮部",
+      "CN": "",
+      "KR": "무선전화: 여기는 연합군 사령부입니다",
+      "TW": "無線電：這裡是聯名軍指揮部"
+    }
+  },
+  "无线电:我们的一艘战舰已经突破了敌方封锁": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Radio: One of our warships has broken through the enemy blockade",
+      "JP": "無線通信：我々の戦艦が敵の封鎖を突破した",
+      "CN": "",
+      "KR": "무선 통신: 우리 전함이 적의 봉쇄를 파괴했다",
+      "TW": "無線電：我們的一艘戰艦已經突破了敵方封鎖"
+    }
+  },
+  "无线电:你们必须尽快赶往十三区": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Radio: You must reach District 13 as soon as possible",
+      "JP": "無線通信: 你们は13区へなるべく早く向かわなければならない",
+      "CN": "",
+      "KR": "무선전화:你们必须尽快赶往十三区",
+      "TW": "無線電: 你們必須盡快趕往十三區"
+    }
+  },
+  "无线电:我们现在已经检测到十三区周围": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Radio: We have now detected activity around Sector 13",
+      "JP": "無線：現在、13区周辺で検出を確認しています",
+      "CN": "",
+      "KR": "무선전화: 이제 우리는 13구역 주변에서 신호를 감지했습니다",
+      "TW": "無線電：我們已經在十三區周圍偵測到"
+    }
+  },
+  "无线电:有大量的病原体正在集结": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Radio: A large number of pathogens are gathering",
+      "JP": "無線通信: 大量の病原体が集結している",
+      "CN": "",
+      "KR": "무선전화: 많은 병원체가 집결하고 있다",
+      "TW": "無線電：有大量的病原體正在集結"
+    }
+  },
+  "我们被骗了": {
+    "translation": "",
+    "MultiLang": {
+      "US": "We've been deceived",
+      "JP": "私たち、だまされた",
+      "CN": "",
+      "KR": "우리는 속였습니다",
+      "TW": "我們被骗了"
+    }
+  },
+  "十三区早就已经沦陷了": {
+    "translation": "",
+    "MultiLang": {
+      "US": "District 13 has long been lost",
+      "JP": "十三区はすでに陥落していた",
+      "CN": "",
+      "KR": "13구역은 이미 점령되었었다",
+      "TW": "十三區早就已經淪陷了"
+    }
+  },
+  "我们必须立刻赶往撤离点": {
+    "translation": "",
+    "MultiLang": {
+      "US": "We must immediately head to the evacuation point",
+      "JP": "我々は直ちに避難地点へ向かわなければならない",
+      "CN": "",
+      "KR": "우리는 즉시 대피 지점으로 이동해야 합니다",
+      "TW": "我們必須立刻趕往撤離點"
+    }
+  },
+  "他们将这帮怪物引过来了": {
+    "translation": "",
+    "MultiLang": {
+      "US": "They've led the monsters this way.",
+      "JP": "彼らはその怪物たちを引き寄せてしまった",
+      "CN": "",
+      "KR": "그들은 그 괴물 무리를 끌고 왔다",
+      "TW": "他們將這幫怪物引過來了"
+    }
+  },
+  "困兽之斗": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Desperate Struggle",
+      "JP": "困獣の闘い",
+      "CN": "",
+      "KR": "고립된 짐승의 싸움",
+      "TW": "困獸之鬥"
+    }
+  },
+  "无线电:总部已经了解了具体情况": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Radio: Headquarters has already understood the specifics",
+      "JP": "無線：本部は状況を把握しました",
+      "CN": "",
+      "KR": "무선전화: 본부는 구체적인 상황을 이미 이해했습니다",
+      "TW": "無線電: 总部已經了解了具體情況"
+    }
+  },
+  "无线电:已经呼叫了战舰和战机支援": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Radio: Warships and fighter jets have been summoned for support",
+      "JP": "無線: 戦艦と戦闘機の支援を要請しました",
+      "CN": "",
+      "KR": "무선: 전함과 전투기 지원을 요청했습니다",
+      "TW": "無線電: 已經呼叫了戰艦和戰機支援"
+    }
+  },
+  "无线电:在你们出设施之前": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Radio: Before you leave the facility",
+      "JP": "無線：施設を出る前に",
+      "CN": "",
+      "KR": "무선전화: 시설을 떠나기 전에",
+      "TW": "無線電：在你們離開設施之前"
+    }
+  },
+  "无线电:我们无法在帮助你们了": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Radio: We can no longer help you",
+      "JP": "無線通信: 私たちもお手伝いできなくなりました",
+      "CN": "",
+      "KR": "무선 통신: 우리는 더 이상你们를 도와줄 수 없습니다",
+      "TW": "無線電：我們無法再幫助你們了"
+    }
+  },
+  "无线电:你们必须将档案带出来": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Radio: You must bring the files out",
+      "JP": "無線：あなたたちにはファイルを外に持ち出す必要がある",
+      "CN": "",
+      "KR": "무전: 당신들은 파일을 꺼내야 합니다",
+      "TW": "無線電：你們必須將檔案帶出來"
+    }
+  },
+  "无线电:一但你们撤离出来": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Radio: Once you have evacuated",
+      "JP": "無線: 一旦你们撤离出来",
+      "CN": "",
+      "KR": "무전: 한 번你们가 철수했을 때",
+      "TW": "無線電：一旦你們撤離出來"
+    }
+  },
+  "无线电:总部的支援就会抵达": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Radio: Support from headquarters will arrive soon",
+      "JP": "無線：本部の支援が到着する",
+      "CN": "",
+      "KR": "무선기: 본부의 지원이 곧 도착할 것이다",
+      "TW": "無線電: 总部的支援就會抵達"
+    }
+  },
+  "一辆火车正在抵达": {
+    "translation": "",
+    "MultiLang": {
+      "US": "A train is arriving",
+      "JP": "列車が到着しています",
+      "CN": "",
+      "KR": "열차가 도착하고 있습니다",
+      "TW": "一輛火車正在抵達"
+    }
+  },
+  "我们必须从火车上跳过去": {
+    "translation": "",
+    "MultiLang": {
+      "US": "We must jump over the train",
+      "JP": "我々は列車を飛び越えなければならない",
+      "CN": "",
+      "KR": "우리는 기차 위를 뛰어넘어야 한다",
+      "TW": "我們必須從火車上跳過去"
+    }
+  },
+  "再坚持坚持,我们马上就能撤离了": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Hold on a little longer, we'll be evacuating soon",
+      "JP": "もう少し頑張ろう、すぐに撤退できる",
+      "CN": "",
+      "KR": "좀 더 참고, 우리는 곧 철수할 수 있습니다",
+      "TW": "再堅持堅持，我們馬上就能撤離了"
+    }
+  },
+  "加油..马上就能出去了..": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Come on.. You're about to get out soon..",
+      "JP": "頑張れ..もうすぐ出られるよ..",
+      "CN": "",
+      "KR": "화이팅.. 곧 나갈 수 있어..",
+      "TW": ""
+    }
+  },
+  "无线电:看样子你们搞了不小的动静": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Radio: It looks like you've made quite a commotion",
+      "JP": "無線通信: どうやらあなたたち、かなりの大騒ぎを起こしたようだ",
+      "CN": "",
+      "KR": "무선기: 보니까 너희가 꽤 큰 일 벌였군",
+      "TW": "無線電：看樣子你們搞了不小的動靜"
+    }
+  },
+  "无线电:周围区的僵尸全被你们引过去了": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Radio: All the zombies in the surrounding area have been drawn to you.",
+      "JP": "無線通信: 周囲のゾンビたちをすべてあなたたちが引き寄せてしまった",
+      "CN": "",
+      "KR": "무선전화: 주변 지역의 좀비들이 모두 당신들이 끌고 갔어요",
+      "TW": "無線電：周圍區域的殭屍全被你們引過去啦"
+    }
+  },
+  "无线电:我们已经派出了支援": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Radio: Support has been dispatched",
+      "JP": "無線: 我々は支援を派遣しました",
+      "CN": "",
+      "KR": "무전: 우리는 이미 지원을 파견했습니다",
+      "TW": "無線電：我們已經派出了支援"
+    }
+  },
+  "无线电:坚持住": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Radio: Hold on",
+      "JP": "無線：耐えて",
+      "CN": "",
+      "KR": "무선기: 버티세요",
+      "TW": "無線電: 堅持住"
+    }
+  },
+  "支援已经到了": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Support has arrived",
+      "JP": "支援が到着しました",
+      "CN": "",
+      "KR": "지원이 도착했습니다",
+      "TW": "支援已經到了"
+    }
+  },
+  "战机只有两轮弹药": {
+    "translation": "",
+    "MultiLang": {
+      "US": "The aircraft has only two rounds of ammunition",
+      "JP": "戦闘機の弾薬は二段階のみ",
+      "CN": "",
+      "KR": "전투기의 탄약은 두 번만 장전 가능합니다",
+      "TW": "飛機只有兩輪彈藥"
+    }
+  },
+  "不过不用担心": {
+    "translation": "",
+    "MultiLang": {
+      "US": "But don't worry",
+      "JP": "しかし心配しないでください",
+      "CN": "",
+      "KR": "그러나 걱정하지 마세요",
+      "TW": "不過不用担心"
+    }
+  },
+  "直升机救援已经在来的路上了": {
+    "translation": "",
+    "MultiLang": {
+      "US": "The helicopter rescue is on the way",
+      "JP": "ヘリコプターの救助隊はもう到着間近です",
+      "CN": "",
+      "KR": "헬기 구조대가 이미 오고 있습니다",
+      "TW": "直升機救援已經在路上了"
+    }
+  },
+  "战舰的炮火无法支援你们": {
+    "translation": "",
+    "MultiLang": {
+      "US": "The battleship's firepower cannot support you",
+      "JP": "戦艦の砲火は你们を支援できない",
+      "CN": "",
+      "KR": "전함의 포격은 당신들을 지원할 수 없습니다",
+      "TW": "戰艦的炮火無法支援你們"
+    }
+  },
+  "坚持住": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Hold on",
+      "JP": "持ちこたえろ",
+      "CN": "",
+      "KR": "버텨라",
+      "TW": "堅持住"
+    }
+  },
+  "直升机到了": {
+    "translation": "",
+    "MultiLang": {
+      "US": "The helicopter has arrived",
+      "JP": "ヘリコプター到了",
+      "CN": "",
+      "KR": "헬기 도착",
+      "TW": "直升機到了"
+    }
+  },
+  "快挂上安全绳": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Quickly attach the safety rope",
+      "JP": "安全ロープを早急に掛けてください",
+      "CN": "",
+      "KR": "빠르게 안전 로프를 매달아라",
+      "TW": "快掛上安全繩"
+    }
+  },
+  "带你们回家": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Take you home",
+      "JP": "家に連れて帰る",
+      "CN": "",
+      "KR": "집으로 데려가줄게",
+      "TW": "帶你們回家"
+    }
+  },
+  "你们好啊.我是余清茗染": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Hello there. I'm Yu Qingming Ran",
+      "JP": "こんにちは。私は余清茗染です。",
+      "CN": "",
+      "KR": "안녕하세요. 저는 여청명염입니다.",
+      "TW": ""
+    }
+  },
+  "Mapby: 余清茗染": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Mapby: Yu Qingming Ran",
+      "JP": "",
+      "CN": "",
+      "KR": "",
+      "TW": ""
+    }
+  },
+  "在这里也是感谢你们游玩这张地图": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Here, we also thank you for playing this map",
+      "JP": "ここでも、このマップをプレイしていただき、ありがとうございます",
+      "CN": "",
+      "KR": "여기에서도 여러분의 맵 플레이에 감사드립니다",
+      "TW": "在這裡也感謝你們遊玩這張地圖"
+    }
+  },
+  "这张地图我大概用了一个月时间做完吧": {
+    "translation": "",
+    "MultiLang": {
+      "US": "It probably took me about a month to finish this map.",
+      "JP": "このマップはだいたい1ヶ月かけて完成させました",
+      "CN": "",
+      "KR": "이 지도는 대략 한 달 정도 걸려서 완성했어요",
+      "TW": "這張地圖我大概用了一個月時間做完吧"
+    }
+  },
+  "在这里也是感谢一直陪我走过来的朋友们": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Here, I also want to thank all the friends who have been with me throughout this journey",
+      "JP": "ここでも、ずっと一緒に歩いてくれた友達に感謝します",
+      "CN": "",
+      "KR": "여기에서도 저와 함께 해주신 모든 친구들에게 감사드립니다",
+      "TW": "在這裡也感謝一直陪我走過來的朋友们"
+    }
+  },
+  "从最开始的MO3,还有荆棘。": {
+    "translation": "",
+    "MultiLang": {
+      "US": "From the beginning, MO3, and the thorns.",
+      "JP": "最初のMO3と、トゲトゲのもの。",
+      "CN": "",
+      "KR": "처음의 MO3와 가시덤불.",
+      "TW": "從最開始的MO3，還有荊棘。"
+    }
+  },
+  "从最开始的MO3到这张地图发布": {
+    "translation": "",
+    "MultiLang": {
+      "US": "From the initial MO3 to the release of this map",
+      "JP": "最初のMO3からこのマップ公開まで",
+      "CN": "",
+      "KR": "처음 MO3부터 이 맵이 출시될 때까지",
+      "TW": "從最開始的MO3到這張地圖發佈"
+    }
+  },
+  "应该也刚好一年了吧": {
+    "translation": "",
+    "MultiLang": {
+      "US": "It should have been exactly a year by now",
+      "JP": "ちょうど一年ほど経ったでしょうか",
+      "CN": "",
+      "KR": "벌써 딱 일년쯤 되었겠네요",
+      "TW": "應該也剛好一年了吧"
+    }
+  },
+  "感谢: <<海芙约忒>> <<黑白之色>> ": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Thanks: <<Hefuyuote>> <<Black and White>>",
+      "JP": "",
+      "CN": "",
+      "KR": "감사: <<해부요테>> <<백흑지색>>",
+      "TW": "感謝: <<海芙約忒>> <<黑白之色>>"
+    }
+  },
+  "感谢: << 萧楚楠 >> << 舞辰心 >>": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Thanks: << Xiao Chunan >> << Wu Chenxin >>",
+      "JP": "感謝: << 蕭楚楠 >> << 舞辰心 >>",
+      "CN": "",
+      "KR": "감사: << 셰chu난 >> << 무천심 >>",
+      "TW": "感謝: << 蕭楚楠 >> << 舞辰心 >>"
+    }
+  },
+  "感谢: << 常正类人>> << 模糊的梦 >>": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Thanks: << Chang Zhenglei >> << Fuzzy Dream >>",
+      "JP": "感謝: << 常正類人>> << ような夢 >>",
+      "CN": "",
+      "KR": "감사: << 상정류인 >> << 흐릿한 꿈 >>",
+      "TW": "感謝: << 常正類人>> << 模糊的夢 >>"
+    }
+  },
+  "准备张地图就要结束了!": {
+    "translation": "",
+    "MultiLang": {
+      "US": "The map is about to end!",
+      "JP": "地図を準備するのにあと少しです！",
+      "CN": "",
+      "KR": "지도 준비가 거의 끝나갑니다!",
+      "TW": "準備地圖就要結束了!"
+    }
+  },
+  "也非常感谢群里一直陪伴我的朋友们": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Many thanks to my friends who have been accompanying me in the group",
+      "JP": "群の中でいつも私を支えてくれた友達たちに心から感謝します",
+      "CN": "",
+      "KR": "아주 감사하게도 내 곁을 항상 함께해 주신 그룹의 친구들께",
+      "TW": "也非常感謝群裡一直陪伴我的朋友們"
+    }
+  },
+  "现在去享受刷僵尸的乐趣吧": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Now go enjoy the fun of farming zombies",
+      "JP": "今すぐゾンビを倒す楽しみを楽しんでください",
+      "CN": "",
+      "KR": "지금 바로 좀비를 몰아내는 즐거움을 누리세요",
+      "TW": "現在去享受刷殭屍的樂趣吧"
+    }
+  },
+  "非常感谢!": {
+    "translation": "",
+    "MultiLang": {
+      "US": "Thank you very much!",
+      "JP": "非常にありがとうございます！",
+      "CN": "",
+      "KR": "매우 감사합니다!",
+      "TW": "非常感謝!"
+    }
+  }
+}
