@@ -163,7 +163,7 @@
     "translation": "",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "<< ステージ I COMPLETED >>",
       "CN": "<< 第一关完成 >>",
       "KR": "<< 스테이지 I 완료 >>",
       "TW": "<< 第一關完成 >>"
@@ -253,7 +253,7 @@
     "translation": "",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "<< ステージ II コンプリート >>",
       "CN": "<< 第二阶段完成 >>",
       "KR": "<< STAGE II 완료 >>",
       "TW": "<< 第二關完成 >>"
@@ -616,14 +616,14 @@
       "JP": "<<云从月 appeared!>>",
       "CN": "",
       "KR": "<<운종월이 나타났습니다!>>",
-      "TW": ""
+      "TW": "<<雲從月出現了！>>"
     }
   },
   "<<云从月：再加把劲让我看看吧......>>": {
     "translation": "",
     "MultiLang": {
       "US": "Yun Cong Yue: A little more effort, let me see... >>",
-      "JP": "",
+      "JP": "<<雲從月：もう一押し、見せてみせて……>>",
       "CN": "",
       "KR": "<<운종월: 조금만 더 힘내 봐......>>",
       "TW": "<<云从月：再加把勁讓我看看吧......>>"
@@ -633,7 +633,7 @@
     "translation": "",
     "MultiLang": {
       "US": "Yun Cong Yue: Not bad… but you won't be so lucky next time!",
-      "JP": "",
+      "JP": "<< 雲從月：なかなか……でも次はもうそんな幸運はないぞ！ >>",
       "CN": "",
       "KR": "<<운종월: 꽤 괜찮군...... 하지만 다음번엔 이렇게 운이 좋지 않을 거야! >>",
       "TW": "<<云从月：还不賴......不過下次你們就沒有這麼好的運氣了! >>"
@@ -643,7 +643,7 @@
     "translation": "",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "<< ステージ IV 完了 >>",
       "CN": "<< 第IV阶段完成 >>",
       "KR": "<< STAGE IV 완료 >>",
       "TW": "<< 第四階段完成 >>"
@@ -704,7 +704,7 @@
     "MultiLang": {
       "US": "",
       "JP": "",
-      "CN": "",
+      "CN": "--20秒--",
       "KR": "--20초--",
       "TW": "--20秒--"
     }
@@ -803,7 +803,7 @@
     "translation": "",
     "MultiLang": {
       "US": "Invaders: Come on, let me see what you've got! Don't let me crush you completely without even trying!!!",
-      "JP": "",
+      "JP": "侵入者：もっと頑張って見せてよ、私がまったく力を発揮しなくても你们を完全に打ち破ってしまうから！！！",
       "CN": "",
       "KR": "침입자: 힘을 더 써 봐, 어디 한번 실력을 보여봐! 겨우 힘도 안 쓰고 널 완전히 박살 내는 건 절대 용납 못해!!!",
       "TW": "入侵者：加把劲讓我瞧瞧吧，可別讓我不用一點實力就把你們徹底擊潰！！！"
@@ -1072,41 +1072,41 @@
   "<<请不要购买除高爆手雷和燃烧弹之外的手雷！后果自负！>>": {
     "translation": "",
     "MultiLang": {
-      "US": "",
-      "JP": "",
+      "US": "<<Do not purchase grenades other than high-explosive and incendiary grenades! Consequences are at your own risk!>>",
+      "JP": "<<高爆手雷と焼夷弾以外の手雷は購入しないでください！后果は自己責任です！>>",
       "CN": "",
-      "KR": "",
-      "TW": ""
+      "KR": "<<고폭 수류탄과 연막탄 이외의 수류탄은 구매하지 마세요! 결과는 본인 책임입니다!>>",
+      "TW": "<<請不要購買除高爆手雷和燃燒彈之外的手雷！後果自負！>>"
     }
   },
   "--- 人类神器 奶heal 将在10秒后失去力量 ----": {
     "translation": "",
     "MultiLang": {
-      "US": "",
-      "JP": "",
+      "US": ">> The Human Artifact Heal will lose its power in 10 seconds <<",
+      "JP": "---- 人類の神器 ヒール 10秒後に力が失われる ----",
       "CN": "",
-      "KR": "",
-      "TW": ""
+      "KR": "--- 인간의 신성한 무기 힐이 10초 후 힘을 잃게 된다 ----",
+      "TW": "---- 人類神器 奶heal 將在10秒後失去力量 ----"
     }
   },
   "--- 人类神器 奶heal 将在9秒后失去力量 ----": {
     "translation": "",
     "MultiLang": {
-      "US": "",
-      "JP": "",
+      "US": ">>  Human Artifact Heal will lose power in 9 seconds <<",
+      "JP": "―人類の神器 ヒール 9秒後に力が失われる―",
       "CN": "",
-      "KR": "",
-      "TW": ""
+      "KR": "--- 인류의 신성한 무기 힐이 9초 후 힘을 잃습니다 ----",
+      "TW": "---- 人類神器 奶heal 將在9秒後失去力量 ----"
     }
   },
   "<< Trials of Sword lv.2 >>": {
     "translation": "",
     "MultiLang": {
       "US": "",
-      "JP": "",
-      "CN": "",
-      "KR": "",
-      "TW": ""
+      "JP": "<< 刀の試練 lv.2 >>",
+      "CN": "<< 剑之试炼 lv.2 >>",
+      "KR": "<< 검의 시험 레벨 2 >>",
+      "TW": "<< 劍之試煉 lv.2 >>"
     }
   }
 }
