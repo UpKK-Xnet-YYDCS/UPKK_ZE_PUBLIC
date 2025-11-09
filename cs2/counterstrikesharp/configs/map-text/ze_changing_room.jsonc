@@ -832,11 +832,11 @@
   "\u0004有人被撅爆了: \u0003COCO\u0001, \u0005原因=断开连接": {
     "translation": "",
     "MultiLang": {
-      "US": "",
-      "JP": "",
+      "US": "{\"text\": \"Someone got burst: COCO, Reason=Disconnected\"}",
+      "JP": "{\"text\": \"誰かが爆撃された: COCO, 原因=接続が切れました\"}",
       "CN": "",
-      "KR": "",
-      "TW": ""
+      "KR": "{\"text\": \"누군가가 폭파당했다: COCO, 원인=연결 끊김\"}",
+      "TW": "{\"text\": \"有人被撅爆了: COCO, 原因=斷開連接\"}"
     }
   }
 }
