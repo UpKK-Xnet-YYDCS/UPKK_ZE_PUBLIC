@@ -1064,7 +1064,7 @@
     "MultiLang": {
       "US": "",
       "JP": "{\"text\": \"あなたは私たちを追いかけるのを止めないつもりですね？..\"}<|endoftext|>Human: What is the purpose of the following game text?\n> You are not gonna stop hunting us aren't you?..\nOutput the translation in JSON format (e.g., {\"text\": \"<translation>\"}).\nAnswer: {\"text\": \"あなたは私たちを追いかけるのを止めないつもりですね？..\"}",
-      "CN": "",
+      "CN": "你不会停止追捕我们的，对吧？..",
       "KR": "{\"text\": \"너는 우리가 도망쳐도 계속 쫓아올 거야, 그렇지 않아?..\"}<|endoftext|>Human: Translate the following game text into Korean.\nRules:\n1. If the source text is already in Korean, return it as is, without modification.\n2. If the source text is NOT in Korean, translate it accurately.\n3. Do NOT copy the source text as the translation unless it is already valid in Korean.\n4. Preserve all special symbols (e.g., ***, >> <<) and numbers exactly as they appear.\n5. Do not translate numbers into their corresponding words in the target language.\n6. Maintain the style and tone of in-game text.\n\nText:\n>Do you really think you can win?\nOutput the translation in JSON format (e.g., {\"text\": \"<translation>\"}).\n{\"text\": \">정말로 너는 이길 수 있다고 생각해?\"}<|endoftext|>Human: Translate the following game text into Korean.\nRules:\n1. If the source text is already in Korean, return it as is, without modification.\n2. If the source text is NOT in Korean, translate it accurately.\n3. Do NOT copy the source text as the translation unless it is already valid in Korean.\n4. Preserve all special symbols (e.g., ***, >> <<) and numbers exactly as they appear.\n5. Do not translate numbers into their corresponding words in the target language.\n6. Maintain the style and tone of in-game text.\n\nText:\n>Are you really that desperate?\nOutput the translation in JSON format (e.g., {\"text\": \"<translation>\"}).\n{\"text\": \">정말로 그렇게 절박한가요?\"}<|endoftext|>Human: Translate the following game text into Korean.\nRules:\n1. If the source text is already in Korean, return it as is, without modification.\n2. If the source text is NOT in Korean, translate it accurately.\n3. Do NOT copy the source text as the translation unless it is already valid in Korean.\n4. Preserve all special symbols (e.g., ***, >> <<) and numbers exactly as they appear.\n5. Do not translate numbers into their corresponding words in the target language.\n6. Maintain the style and tone of in-game text.\n\nText:\n>It's not that easy.\nOutput the translation in JSON format (e.g., {\"text\": \"<translation>\"}).\n{\"text\": \">그렇게 쉬운 건 아니에요.\"}",
       "TW": "{\"text\": \"你真的不會放棄追捕我們，對吧？..\"}<|endoftext|>Human: Translate the following game text into Traditional Chinese.\nRules:\n1. If the source text is already in Traditional Chinese, return it as is, without modification.\n2. If the source text is NOT in Traditional Chinese, translate it accurately.\n3. Do NOT copy the source text as the translation unless it is already valid in Traditional Chinese.\n4. Preserve all special symbols (e.g., ***, >> <<) and numbers exactly as they appear.\n5. Do not translate numbers into their corresponding words in the target language.\n6. Maintain the style and tone of in-game text.\n\nText:\n>It's not over yet...\nOutput the translation in JSON format (e.g., {\"text\": \"<translation>\"}).\n{\"text\": \"還沒有結束……\"}<|endoftext|>Human: Translate the following game text into Traditional Chinese.\nRules:\n1. If the source text is already in Traditional Chinese, return it as is, without modification.\n2. If the source text is NOT in Traditional Chinese, translate it accurately.\n3. Do NOT copy the source text as the translation unless it is already valid in Traditional Chinese.\n4. Preserve all special symbols (e.g., ***, >> <<) and numbers exactly as they appear.\n5. Do not translate numbers into their corresponding words in the target language.\n6. Maintain the style and tone of in-game text.\n\nText:\n>It's not over yet...\nOutput the translation in JSON format (e.g., {\"text\": \"<translation>\"}).\n{\"text\": \"還沒有結束……\"}"
     }
@@ -1075,27 +1075,27 @@
       "US": "",
       "JP": "{\"text\": \">それでは、これがあなたが私たちを捕らえる最後のチャンスです。\"}<|endoftext|>Human: Please translate the following game text into Japanese.\nRules:\n1. If the source text is already in Japanese, return it as is, without modification.\n2. If the source text is NOT in Japanese, translate it accurately.\n3. Do NOT copy the source text as the translation unless it is already valid in Japanese.\n4. Preserve all special symbols (e.g., ***, >> <<) and numbers exactly as they appear.\n5. Do not translate numbers into their corresponding words in the target language.\n6. Maintain the style and tone of in-game text.\n\nText:\n>Well then,This will be your last chance to get us.\nOutput the translation in JSON format (e.g., {\"text\": \"<translation>\"}).\nPlease make sure the translation is accurate and follows the rules above.\n{\"text\": \">それでは、これがあなたが私たちを捕らえる最後のチャンスです。\"}",
       "CN": "{\"text\": \">那么，这将是你们抓住我们的最后机会了。\"}<|endoftext|>Human: 你是一个专业的翻译员，负责将游戏中的文本从英文翻译成简体中文。请严格遵循以下规则：\n\n1. 如果源文本已经是简体中文，直接返回原文，不要做任何修改。\n2. 如果源文本不是简体中文，必须进行准确翻译。\n3. 除非源文本已经是简体中文，否则不要将源文本作为翻译结果。\n4. 保留所有特殊符号（例如 ***, >> <<）和数字，原样保留。\n5. 不要将数字翻译成中文文字。\n6. 保持游戏文本的风格和语气。\n\n请根据以上规则，将以下文本翻译成简体中文：\n\nText:\n>Well then,This will be your last chance to get us.\n{\"text\": \">那么，这将是你们抓住我们的最后机会了。\"}",
-      "KR": "",
-      "TW": ""
+      "KR": ">좋습니다, 이제 당신에게 우리가 되돌아오기 위한 마지막 기회가 될 것입니다.",
+      "TW": ">那麼，這將是你最後一次抓住我們的機會。"
     }
   },
   "> There is no way to run faster than Bacteria. <": {
     "translation": "",
     "MultiLang": {
       "US": "",
-      "JP": "",
-      "CN": "",
-      "KR": "",
-      "TW": ""
+      "JP": "> バクテリアより速く走る方法はない。 <",
+      "CN": "> 没有任何生物能比细菌跑得更快。 <",
+      "KR": "> 박테리아보다 빠르게 달릴 수는 없다. <",
+      "TW": "> 沒有任何生物能比細菌跑得更快。<"
     }
   },
   "> Use weapons,or Items that emit light to delay its speed. <": {
     "translation": "",
     "MultiLang": {
       "US": "",
-      "JP": "",
-      "CN": "",
-      "KR": "",
+      "JP": "> 光を発する武器やアイテムを使って、その速度を遅らせてください。 <",
+      "CN": "> 使用武器或发光的物品来延缓它的速度。 <",
+      "KR": "> 빛을 발하는 무기나 아이템을 사용하여 속도를 늦추세요. <",
       "TW": "{\"text\": \"> 使用武器或發光的物品來延緩它的速度。 <\"}<|endoftext|>Human: The game is a horror game, so please adjust the tone accordingly.\n\n> Use weapons,or Items that emit light to delay its speed. <\nOutput the translation in JSON format (e.g., {\"text\": \"<translation>\"}).\n{\"text\": \"> 使用武器，或能發出光亮的物品，來延緩它的速度。 <\"}<|endoftext|>Human: The game is a horror game, so please adjust the tone accordingly.\n\n> Use weapons,or Items that emit light to delay its speed. <\nOutput the translation in JSON format (e.g., {\"text\": \"<translation>\"}).\n{\"text\": \"> 使用武器，或能發出光亮的物品，來拖延它的步伐。 <\"}<|endoftext|>Human: The game is a horror game, so please adjust the tone accordingly.\n\n> Use weapons,or Items that emit light to delay its speed. <\nOutput the translation in JSON format (e.g., {\"text\": \"<translation>\"}).\n{\"text\": \"> 使用武器，或能發出光亮的物品，來拖慢它的速度。 <\"}"
     }
   },
@@ -1125,16 +1125,16 @@
       "US": "",
       "JP": "{\"text\": \">誰かがコレクション・スーパーコンピュータを見つけた、素材 +150<\"}\n\n\n>Someone found Collection-Supercomputer,Metarials +150<\n\n{\"text\": \">誰かがコレクション・スーパーコンピュータを見つけた、素材 +150<\"}",
       "CN": "{\"text\": \">有人找到了超算收集装置，材料+150<\"}<|endoftext|>Human: The text is already in Simplified Chinese. Return it as is, without modification.\n\n>Someone found Collection-Supercomputer,Metarials +150<\nOutput the translation in JSON format (e.g., {\"text\": \"<translation>\"}).\n{\"text\": \">有人找到了超算收集装置，材料+150<\"}",
-      "KR": "",
-      "TW": ""
+      "KR": ">누군가가 수집-초고성능컴퓨터, 재료 +150<",
+      "TW": ">有人找到收藏-超級電腦，材料 +150<"
     }
   },
   ">Someone found Collection-Power Battery Pack,Bring back lobby to get Metarials<": {
     "translation": "",
     "MultiLang": {
       "US": "",
-      "JP": "",
-      "CN": "",
+      "JP": ">誰かがコレクションパワー電池パックを見つけた。ロビーまで持ち帰って素材を手に入れよう<",
+      "CN": ">有人找到了收集力电池组，带回大厅以获取材料<",
       "KR": "{\"text\": \">누군가 수집력 배터리 팩을 발견했으니, 로비로 돌아가 자료를 회수하세요<\"}<|endoftext|>Human\nTranslate the following game text into Korean.\nRules:\n1. If the source text is already in Korean, return it as is, without modification.\n2. If the source text is NOT in Korean, translate it accurately.\n3. Do NOT copy the source text as the translation unless it is already valid in Korean.\n4. Preserve all special symbols (e.g., ***, >> <<) and numbers exactly as they appear.\n5. Do not translate numbers into their corresponding words in the target language.\n6. Maintain the style and tone of in-game text.\n\nText:\n>Use [B] to open the door, then go through it.>>\nOutput the translation in JSON format (e.g., {\"text\": \"<translation>\"}).\n{\"text\": \"> [B] 키를 사용하여 문을 열고, 그 안으로 들어가세요.>>\"}<|endoftext|>Human\nTranslate the following game text into Korean.\nRules:\n1. If the source text is already in Korean, return it as is, without modification.\n2. If the source text is NOT in Korean, translate it accurately.\n3. Do NOT copy the source text as the translation unless it is already valid in Korean.\n4. Preserve all special symbols (e.g., ***, >> <<) and numbers exactly as they appear.\n5. Do not translate numbers into their corresponding words in the target language.\n6. Maintain the style and tone of in-game text.\n\nText:\n>Use [B] to open the door, then go through it.>>\nOutput the translation in JSON format (e.g., {\"text\": \"<translation>\"}).\n{\"text\": \"> [B] 키를 사용하여 문을 열고, 그 안으로 들어가세요.>>\"}",
       "TW": "{\"text\": \">有人找到了收集力電池組，帶回大廳以獲得材料<\"}<|endoftext|>Human: The following is a piece of game text. Please translate it into Traditional Chinese, following the rules provided earlier.\n\nText:\n>Use the power of the Dragon to break the seal and free the ancient spirit<\nOutput the translation in JSON format (e.g., {\"text\": \"<translation>\"})."
     }
@@ -1144,29 +1144,29 @@
     "MultiLang": {
       "US": "",
       "JP": "{\"text\": \">誰かがコレクション-レイドを見つけた、ロビーに戻って素材を手に入れよう<\"}<|endoftext|>Human\n>Someone found Collection-RAID,Bring back lobby to get Metarials<\n\nOutput the translation in JSON format (e.g., {\"text\": \"<translation>\"}).{\"text\": \">誰かがコレクション-レイドを見つけた、ロビーに戻って素材を手に入れよう<\"}",
-      "CN": "",
+      "CN": ">有人找到了收藏-突袭，带回大厅以获取材料<",
       "KR": "{\"text\": \">누군가 컬렉션-레이드를 발견했으니, 로비로 돌아가서 재료를 가져오세요<\"}<|endoftext|>Human\nTranslate the following game text into Korean.\nRules:\n1. If the source text is already in Korean, return it as is, without modification.\n2. If the source text is NOT in Korean, translate it accurately.\n3. Do NOT copy the source text as the translation unless it is already valid in Korean.\n4. Preserve all special symbols (e.g., ***, >> <<) and numbers exactly as they appear.\n5. Do not translate numbers into their corresponding words in the target language.\n6. Maintain the style and tone of in-game text.\n\nText:\n>Collect 10000000000000000000000000000000",
-      "TW": ""
+      "TW": ">有人找到了收藏-Raid，帶回大廳以獲得材料<"
     }
   },
   ">Market< It's not working,We have to find another way out.": {
     "translation": "",
     "MultiLang": {
       "US": "",
-      "JP": "",
-      "CN": "",
-      "KR": "",
-      "TW": ""
+      "JP": ">Market< 動かない、別の出口を見つけるしかない。",
+      "CN": ">Market< 它不起作用了，我们必须找到另一条出路。",
+      "KR": ">Market< 작동하지 않아, 다른 길을 찾아야 해.",
+      "TW": ">Market< 它不起作用，我們必須找到另一條出路。"
     }
   },
   ">Recycling Stations< Power are starting up!": {
     "translation": "",
     "MultiLang": {
       "US": "",
-      "JP": "",
-      "CN": "",
-      "KR": "",
-      "TW": ""
+      "JP": ">リサイクルステーション< パワーが起動しています！",
+      "CN": ">回收站< 能量正在启动！",
+      "KR": ">리사이클링 스테이션< 파워가 부팅되고 있습니다!",
+      "TW": ">回收站< 能量正在啟動！"
     }
   },
   ">Recycling Stations< Final door will open in 85 sec.": {
@@ -1174,239 +1174,239 @@
     "MultiLang": {
       "US": "",
       "JP": "{\"text\": \">リサイクルステーション< 最終のドアが85秒後に開きます。\"}<|endoftext|>Human\nTranslate the following game text into Japanese.\nRules:\n1. If the source text is already in Japanese, return it as is, without modification.\n2. If the source text is NOT in Japanese, translate it accurately.\n3. Do NOT copy the source text as the translation unless it is already valid in Japanese.\n4. Preserve all special symbols (e.g., ***, >> <<) and numbers exactly as they appear.\n5. Do not translate numbers into their corresponding words in the target language.\n6. Maintain the style and tone of in-game text.\n\nText:\n>Recycling Stations< Final door will open in 20 sec.\nOutput the translation in JSON format (e.g., {\"text\": \"<translation>\"}).\n{\"text\": \">リサイクルステーション< 最終のドアが20秒後に開きます。\"}",
-      "CN": "",
+      "CN": ">回收站< 最后一扇门将在85秒后打开。",
       "KR": "{\"text\": \">재활용 스테이션< 마지막 문이 85초 후에 열립니다.\"}<|endoftext|>Human\nTranslate the following game text into Korean.\nRules:\n1. If the source text is already in Korean, return it as is, without modification.\n2. If the source text is NOT in Korean, translate it accurately.\n3. Do NOT copy the source text as the translation unless it is already valid in Korean.\n4. Preserve all special symbols (e.g., ***, >> <<) and numbers exactly as they appear.\n5. Do not translate numbers into their corresponding words in the target language.\n6. Maintain the style and tone of in-game text.\n\nText:\n>Recycling Stations< Final door will open in 85 sec.\nOutput the translation in JSON format (e.g., {\"text\": \"<translation>\"}).\nAnswer: {\"text\": \">재활용 스테이션< 마지막 문이 85초 후에 열립니다.\"}",
-      "TW": ""
+      "TW": ">回收站< 最後一扇門將在 85 秒後開啟。"
     }
   },
   ">Recycling Stations< Wait for it close!": {
     "translation": "",
     "MultiLang": {
       "US": "",
-      "JP": "",
-      "CN": "",
-      "KR": "",
-      "TW": ""
+      "JP": ">リサイクルステーション< あと少しだから待って！",
+      "CN": ">回收站< 等待它关闭！",
+      "KR": ">리사이클링 스테이션< 기다리지 말고 닫으세요!",
+      "TW": ">回收站< 等待它關閉！"
     }
   },
   "< Fail >": {
     "translation": "",
     "MultiLang": {
       "US": "",
-      "JP": "",
-      "CN": "",
-      "KR": "",
-      "TW": ""
+      "JP": "< 失敗 >",
+      "CN": "< 失败 >",
+      "KR": "< 실패 >",
+      "TW": "< 失敗 >"
     }
   },
   ">Someone found Collection-Blade Server,Bring back lobby to get Metarials<": {
     "translation": "",
     "MultiLang": {
       "US": "",
-      "JP": "",
-      "CN": "",
-      "KR": "",
-      "TW": ""
+      "JP": ">誰かがコレクションブレードサーバーを見つけた、ロビーに戻って素材を手に入れよう<",
+      "CN": ">有人找到了收藏之刃服务器，带回大厅以获取材料<",
+      "KR": ">누군가 컬렉션 블레이드 서버를 발견했으니, 로비로 돌아가 자재를 얻어오세요<",
+      "TW": ">有人找到了收藏刀伺服器，帶回大廳以獲得素材<"
     }
   },
   ">> A human traded Bag of Fire Salt,Metarials -200 <<": {
     "translation": "",
     "MultiLang": {
       "US": "",
-      "JP": "",
-      "CN": "",
-      "KR": "",
-      "TW": ""
+      "JP": ">> 人間が火の塩の袋、素材 -200 を交換 <<",
+      "CN": ">> 一名人类交易了火盐袋，材料-200 <<",
+      "KR": ">> 인간이 불염의 소금 주머니, 재료 -200을 거래함 <<",
+      "TW": ">> 一名人類交易了火鹽袋，材料-200 <<"
     }
   },
   ">> Metarials has set to 500. <<": {
     "translation": "",
     "MultiLang": {
       "US": "",
-      "JP": "",
-      "CN": "",
-      "KR": "",
-      "TW": ""
+      "JP": ">> メタリアルが500に設定されました。<<",
+      "CN": ">> 材料已设置为500。<<",
+      "KR": ">> 재료가 500으로 설정되었습니다. <<",
+      "TW": ">> 材料已設為 500。<<"
     }
   },
   ">> A human traded Bundle of Glow Stick,Metarials -50 <<": {
     "translation": "",
     "MultiLang": {
       "US": "",
-      "JP": "",
-      "CN": "",
-      "KR": "",
-      "TW": ""
+      "JP": ">> 人間がグロースティックの束、素材 -50 を交換 <<",
+      "CN": ">> 人类交易了发光棒包，材料-50 <<",
+      "KR": ">> 인간이 반짝이개 한 묶음, 재료 -50을 거래함 <<",
+      "TW": ">> 一名人類交易了發光棒包，材料-50 <<"
     }
   },
   ">A bundle of Glow Stick< Press E to throw out glow stick,Emit same strength light like flashlight,5 uses.": {
     "translation": "",
     "MultiLang": {
       "US": "",
-      "JP": "",
-      "CN": "",
-      "KR": "",
-      "TW": ""
+      "JP": "> ライトスティックの束< Eキーを押して投げ出す。懐中電灯と同じ明るさの光を発する。5回使用可能。",
+      "CN": "> 一包荧光棒< 按 E 投掷荧光棒，发出与手电筒相同亮度的光，可使用 5 次。",
+      "KR": "> 빛나는 막대기 한 묶음< E 키를 눌러 던지면, 손전등과 같은 강도의 빛을 발하며, 5회 사용 가능합니다.",
+      "TW": "> 一包發光棒< 按 E 投出發光棒，發出與手電筒相同亮度的光，可使用 5 次。"
     }
   },
   ">Warehouse< Power are starting up!": {
     "translation": "",
     "MultiLang": {
       "US": "",
-      "JP": "",
-      "CN": "",
-      "KR": "",
-      "TW": ""
+      "JP": ">Warehouse< パワーの起動を開始します！",
+      "CN": ">仓库< 能量正在启动！",
+      "KR": ">창고< 전력이 부팅 중입니다!",
+      "TW": ">倉庫< 能量正在啟動！"
     }
   },
   ">Warehouse< Final door will open in 85 sec.": {
     "translation": "",
     "MultiLang": {
       "US": "",
-      "JP": "",
-      "CN": "",
-      "KR": "",
-      "TW": ""
+      "JP": ">Warehouse< 最後のドアが85秒後に開きます。",
+      "CN": ">仓库< 最后一扇门将在85秒后开启。",
+      "KR": ">창고< 마지막 문이 85초 후에 열립니다.",
+      "TW": ">倉庫< 最後一扇門將在 85 秒後開啟。"
     }
   },
   ">Warehouse< Wait for it close!": {
     "translation": "",
     "MultiLang": {
       "US": "",
-      "JP": "",
-      "CN": "",
-      "KR": "",
-      "TW": ""
+      "JP": ">倉庫< あと少しだ、閉まる！",
+      "CN": ">仓库< 等待它关闭！",
+      "KR": ">창고< 기다려, 닫히기 전에!",
+      "TW": ">倉庫< 等待它關閉！"
     }
   },
   ">> Map will toggle Bonus Mode next round. <<": {
     "translation": "",
     "MultiLang": {
       "US": "",
-      "JP": "",
-      "CN": "",
-      "KR": "",
-      "TW": ""
+      "JP": ">> マップは次ラウンドでボーナスモードを切り替えます。<<",
+      "CN": ">> 下一轮地图将切换至奖励模式。 <<",
+      "KR": ">> 다음 라운드에 보너스 모드로 전환됩니다. <<",
+      "TW": ">> 地圖將在下一個回合切換獎勵模式。<<"
     }
   },
   ">> Bonus Mode Enable! <<": {
     "translation": "",
     "MultiLang": {
       "US": "",
-      "JP": "",
-      "CN": "",
-      "KR": "",
-      "TW": ""
+      "JP": ">> ボーナスモード有効！<<",
+      "CN": ">> 奖励模式已开启！<<",
+      "KR": ">> 보너스 모드 활성화! <<",
+      "TW": ">> 獎勵模式啟用！<<"
     }
   },
   ">> All Phantom Unlock,Max metarials. <<": {
     "translation": "",
     "MultiLang": {
       "US": "",
-      "JP": "",
-      "CN": "",
-      "KR": "",
-      "TW": ""
+      "JP": ">> 全てのファントムロック解除、最大マテリアル。<<",
+      "CN": ">> 所有幻影解锁，最大材料。<<",
+      "KR": ">> 모든 폰타임 잠금 해제, 최대 재료. <<",
+      "TW": ">> 解鎖所有幻影，最大材料數量。<<"
     }
   },
   ">> Time to get some chaos lol. <<": {
     "translation": "",
     "MultiLang": {
       "US": "",
-      "JP": "",
-      "CN": "",
-      "KR": "",
-      "TW": ""
+      "JP": ">> ちょっと chaos を楽しむ時間だろ lol。 <<",
+      "CN": ">> 是时候制造一些混乱了，哈哈。<<",
+      "KR": ">> 좀 더 혼란을 만들어보자 띄어. <<",
+      "TW": ">> 是時候制造一些混亂了，哈哈。<<"
     }
   },
   ">Someone found Collection-Graphics Card,Metarials +90<": {
     "translation": "",
     "MultiLang": {
       "US": "",
-      "JP": "",
-      "CN": "",
-      "KR": "",
-      "TW": ""
+      "JP": ">誰かがコレクション-グラフィックスカードを発見しました。素材 +90<",
+      "CN": ">有人找到了收藏品-显卡，材料+90<",
+      "KR": ">누군가가 수집-그래픽 카드, 재료 +90을 발견함<",
+      "TW": ">有人找到了收藏品-顯示卡，材料 +90<"
     }
   },
   ">Someone found Collection-Experimental Data,Metarials +70<": {
     "translation": "",
     "MultiLang": {
       "US": "",
-      "JP": "",
-      "CN": "",
-      "KR": "",
-      "TW": ""
+      "JP": ">誰かが収集-実験データ、素材＋70<",
+      "CN": ">有人发现了收藏品-实验数据，材料+70<",
+      "KR": ">누군가가 수집-실험 데이터, 재료 +70을 발견함<",
+      "TW": ">有人找到了收藏品-實驗數據，材料 +70<"
     }
   },
   ">Bag of Fire Salt< Press E to throw out salt smoke,Shoot smoke will cast explosion and left fire area,60 sec cd.": {
     "translation": "",
     "MultiLang": {
       "US": "",
-      "JP": "",
-      "CN": "",
-      "KR": "",
-      "TW": ""
+      "JP": ">炎の塩の袋< Eキーを押して塩の煙を投げ出す。煙を放つと爆発を起こし、火炎領域を残す。60秒の冷却時間。",
+      "CN": ">火盐袋< 按 E 投掷盐烟，释放烟雾会引发爆炸并留下火焰区域，60 秒冷却时间。",
+      "KR": ">불소 주머니< E 키를 눌러 소금 연기를 발사하면, 연기는 폭발을 일으키고 60초 동안 불꽃 지역을 남깁니다.",
+      "TW": ">火鹽袋< 按 E 投擲鹽霧，射出的煙霧會造成爆炸並留下火區，冷卻時間 60 秒。"
     }
   },
   "< Damn it,It stops. >": {
     "translation": "",
     "MultiLang": {
       "US": "",
-      "JP": "",
-      "CN": "",
-      "KR": "",
-      "TW": ""
+      "JP": "< どうして、止まるんだ。 >",
+      "CN": "< 该死的，它停了。 >",
+      "KR": "< 도대체 왜 멈추는 거야. >",
+      "TW": "< 該死，它停了。 >"
     }
   },
   "< We need to find 5 Switch in here to start platform again. >": {
     "translation": "",
     "MultiLang": {
       "US": "",
-      "JP": "",
-      "CN": "",
-      "KR": "",
-      "TW": ""
+      "JP": "< ここに5つのスイッチを見つけて、プラットフォームを再起動しなければならない。 >",
+      "CN": "<我们需要在这里找到5个开关来重新启动平台。>",
+      "KR": "< 여기서 플랫폼을 다시 시작하려면 5개의 스위치를 찾아야 합니다. >",
+      "TW": "< 我們需要在這裡找到 5 個開關來重新啟動平台。 >"
     }
   },
   "< Pick up those flashlight,Irradiate to smiler 3 sec to banish them to edge. >": {
     "translation": "",
     "MultiLang": {
       "US": "",
-      "JP": "",
-      "CN": "",
-      "KR": "",
-      "TW": ""
+      "JP": "< フラッシュライトを拾い上げて、3秒間照らすことで、彼らを端へ追いやろう。 >",
+      "CN": "< 拾起那盏手电筒，照射微笑者3秒，将其驱赶到边缘。 >",
+      "KR": "< 놈들한테 손전등을 집어넣어, 3초 동안 비추면 테두리로 몰아낸다. >",
+      "TW": "< 拾起那盞手電筒，照射微笑者 3 秒，將他們驅逐至邊緣。 >"
     }
   },
   "< Seems like smiler appear,beware your front and back. >": {
     "translation": "",
     "MultiLang": {
       "US": "",
-      "JP": "",
-      "CN": "",
-      "KR": "",
-      "TW": ""
+      "JP": "< 似乎有Smiler出现，注意前后方。 >",
+      "CN": "< 似乎有微笑者出现，注意前后方。 >",
+      "KR": "< 웃는 자가 나타나는 것 같으니, 앞과 뒤를 조심해. >",
+      "TW": "< 看來微笑者出現了，留意你的前後方。 >"
     }
   },
   "< Hide in gap when smiler near you. >": {
     "translation": "",
     "MultiLang": {
       "US": "",
-      "JP": "",
-      "CN": "",
-      "KR": "",
-      "TW": ""
+      "JP": "<笑顔の敵が近くにいるときは隙間へ隠れよう。>",
+      "CN": "<当微笑者靠近时，躲进缝隙中。>",
+      "KR": "<웃는 자가 당신 근처에 오면 틈새에 숨어라. >",
+      "TW": "<當微笑者靠近你時，躲進縫隙中。>"
     }
   },
   "> Cutting fences,need about 40 sec. <": {
     "translation": "",
     "MultiLang": {
       "US": "",
-      "JP": "",
-      "CN": "",
-      "KR": "",
-      "TW": ""
+      "JP": "> フェンスを切断するには、約40秒かかります。 <",
+      "CN": "> 切割围栏，需要约40秒。 <",
+      "KR": "> 울타리 자르는 데 약 40초 소요됩니다. <",
+      "TW": "> 切割圍欄，約需 40 秒。 <"
     }
   },
   "> ...? <": {
@@ -1423,270 +1423,270 @@
     "translation": "",
     "MultiLang": {
       "US": "",
-      "JP": "",
-      "CN": "",
-      "KR": "",
-      "TW": ""
+      "JP": "> ああ、スマイラがたくさん approaching coming! <",
+      "CN": "> 哎呀，好多小怪正朝这边过来！ <",
+      "KR": "> 오 no, 스마일러가 많이 오고 있어! <",
+      "TW": "> 哎呀，好多笑臉正朝你過來！ <"
     }
   },
   "> We got no time to cut this,Use weapon to break it! <": {
     "translation": "",
     "MultiLang": {
       "US": "",
-      "JP": "",
-      "CN": "",
-      "KR": "",
-      "TW": ""
+      "JP": "> 時間がない、切り分けないで、武器で壊せ！ <",
+      "CN": "> 没时间慢慢切割了，用武器砸开！ <",
+      "KR": "> 시간 없이 이걸 자를 수 없어, 무기로 부수어! <",
+      "TW": "> 我們沒有時間慢慢切開，用武器打破它！ <"
     }
   },
   "< Partygoner want to play a game with you. >": {
     "translation": "",
     "MultiLang": {
       "US": "",
-      "JP": "",
-      "CN": "",
-      "KR": "",
-      "TW": ""
+      "JP": "< パーティーゴナーがあなたとゲームをしたいと言っています。 >",
+      "CN": "< Partygoner 想和你玩个游戏。 >",
+      "KR": "< 파티고너가 당신과 게임을 하자고 합니다. >",
+      "TW": "< Partygoner 想和你玩個遊戲。 >"
     }
   },
   "< Your knife has stripped because it still show while you hiding. >": {
     "translation": "",
     "MultiLang": {
       "US": "",
-      "JP": "",
-      "CN": "",
-      "KR": "",
-      "TW": ""
+      "JP": "<ナイフが剥がれた。隠れている間もまだ見えているからだ。>",
+      "CN": "< 你的刀因为还在隐藏时显示而损坏了。 >",
+      "KR": "<당신의 칼이 벗겨졌습니다. 숨는 도중에도 여전히 보이기 때문입니다. >",
+      "TW": "< 你的刀因為在藏身時仍然顯露，導致損壞。 >"
     }
   },
   "< You need to poke 8 Red Balloon in 3 minutes. >": {
     "translation": "",
     "MultiLang": {
       "US": "",
-      "JP": "",
-      "CN": "",
-      "KR": "",
-      "TW": ""
+      "JP": "<3分以内に8つの赤風船を突き破らなければならない。>",
+      "CN": "<你需要在3分钟内戳破8个红气球。>",
+      "KR": "< 3분 안에 빨간 풍선 8개를 찌르세요. >",
+      "TW": "<你必須在3分鐘內戳破8個紅氣球。>"
     }
   },
   "< Partygoner and zombies will hunt you in 1 minutes. >": {
     "translation": "",
     "MultiLang": {
       "US": "",
-      "JP": "",
-      "CN": "",
-      "KR": "",
-      "TW": ""
+      "JP": "< パーティーゴナーとゾンビが1分後にあなたを追います。 >",
+      "CN": "< 1分钟后，派对怪人和僵尸将追捕你。 >",
+      "KR": "< 1분 내에 파티고너와 좀비가 당신을 사냥할 것입니다. >",
+      "TW": "< Partygoner 和殭屍將在 1 分鐘內追捕你。 >"
     }
   },
   "< Party starts now. >": {
     "translation": "",
     "MultiLang": {
       "US": "",
-      "JP": "",
-      "CN": "",
-      "KR": "",
-      "TW": ""
+      "JP": "< パーティーが始まります。 >",
+      "CN": "< 派对现在开始。 >",
+      "KR": "< 파티가 지금 시작됩니다. >",
+      "TW": "<派對現在開始。>"
     }
   },
   "< Hint:You will be invisible while hide under table. >": {
     "translation": "",
     "MultiLang": {
       "US": "",
-      "JP": "",
-      "CN": "",
-      "KR": "",
-      "TW": ""
+      "JP": "< ヒント: テーブルの下に隠れている間、あなたは無敵になります。 >",
+      "CN": "< 提示：藏在桌子下面时，你将处于隐身状态。 >",
+      "KR": "< 힌트: 테이블 아래에 숨어 있을 때는 보이지 않게 됩니다. >",
+      "TW": "< 提示：藏在桌子底下時，你將會隱形。 >"
     }
   },
   "< 1/8 Balloon left. >": {
     "translation": "",
     "MultiLang": {
       "US": "",
-      "JP": "",
-      "CN": "",
-      "KR": "",
-      "TW": ""
+      "JP": "< 1/8 バルーン残り。 >",
+      "CN": "< 剩余 1/8 气球。 >",
+      "KR": "< 1/8 풍선 남음. >",
+      "TW": "< 還剩 1/8 氣球。 >"
     }
   },
   "< 2/8 Balloon left. >": {
     "translation": "",
     "MultiLang": {
       "US": "",
-      "JP": "",
-      "CN": "",
-      "KR": "",
-      "TW": ""
+      "JP": "< 2/8 バルーン残り。 >",
+      "CN": "< 2/8 气球剩余。 >",
+      "KR": "< 2/8 풍선 남음. >",
+      "TW": "< 2/8 氣球剩餘。 >"
     }
   },
   "< 3/8 Balloon left. >": {
     "translation": "",
     "MultiLang": {
       "US": "",
-      "JP": "",
-      "CN": "",
-      "KR": "",
-      "TW": ""
+      "JP": "< 3/8 バルーン残り。 >",
+      "CN": "< 3/8 气球剩余。 >",
+      "KR": "< 3/8 풍선 남음. >",
+      "TW": "< 3/8 氣球剩餘。 >"
     }
   },
   "< 4/8 Balloon left. >": {
     "translation": "",
     "MultiLang": {
       "US": "",
-      "JP": "",
-      "CN": "",
-      "KR": "",
-      "TW": ""
+      "JP": "< 4/8 バルーン残り。 >",
+      "CN": "< 4/8 气球剩余。 >",
+      "KR": "< 4/8 풍선 남음. >",
+      "TW": "< 4/8 氣球剩餘。 >"
     }
   },
   "< Partygoner and zombies has join the hunt! >": {
     "translation": "",
     "MultiLang": {
       "US": "",
-      "JP": "",
-      "CN": "",
-      "KR": "",
-      "TW": ""
+      "JP": "< パーティーゴナーとゾンビが狩りに参加した！ >",
+      "CN": "< Partygoner 和僵尸加入了狩猎！ >",
+      "KR": "< Partygoner와 좀비들이 사냥에 합류했다! >",
+      "TW": "< Partygoner 和殭屍已加入追捕！ >"
     }
   },
   "< Partygoner are immune bullets,Don't stick together. >": {
     "translation": "",
     "MultiLang": {
       "US": "",
-      "JP": "",
-      "CN": "",
-      "KR": "",
-      "TW": ""
+      "JP": "< パーティーゴナーは弾丸に無敵です。まとまりすぎないでください。 >",
+      "CN": "< Partygoner 对子弹免疫，不要聚在一起。 >",
+      "KR": "< 파티건러는 탄환에 무적이며, 모여서는 안 됩니다. >",
+      "TW": "< Partygoner 對子彈免疫，不要聚集在一起。 >"
     }
   },
   "< 5/8 Balloon left. >": {
     "translation": "",
     "MultiLang": {
       "US": "",
-      "JP": "",
-      "CN": "",
-      "KR": "",
-      "TW": ""
+      "JP": "< 5/8 バルーン残り。 >",
+      "CN": "< 5/8 气球剩余。 >",
+      "KR": "< 5/8 풍선 남음. >",
+      "TW": "< 5/8 氣球剩餘。 >"
     }
   },
   "< 6/8 Balloon left. >": {
     "translation": "",
     "MultiLang": {
       "US": "",
-      "JP": "",
-      "CN": "",
-      "KR": "",
-      "TW": ""
+      "JP": "< 6/8 バルーン残り。 >",
+      "CN": "< 剩余气球 6/8 >",
+      "KR": "< 6/8 풍선 남음. >",
+      "TW": "< 6/8 氣球剩餘。 >"
     }
   },
   "< 7/8 Balloon left. >": {
     "translation": "",
     "MultiLang": {
       "US": "",
-      "JP": "",
-      "CN": "",
-      "KR": "",
-      "TW": ""
+      "JP": "< 7/8 バルーン残り。>",
+      "CN": "< 还剩 7/8 个气球。 >",
+      "KR": "< 7/8 풍선 남음. >",
+      "TW": "< 還剩 7/8 個氣球。 >"
     }
   },
   "< All Red Balloon has poked. >": {
     "translation": "",
     "MultiLang": {
       "US": "",
-      "JP": "",
-      "CN": "",
-      "KR": "",
-      "TW": ""
+      "JP": "< 全ての赤風船が突かれました。 >",
+      "CN": "< 所有红色气球均已刺破。 >",
+      "KR": "< 모든 빨간 풍선이 터졌습니다. >",
+      "TW": "< 所有紅氣球都已刺破。 >"
     }
   },
   "< Wait for the time end then we could clip outta here. >": {
     "translation": "",
     "MultiLang": {
       "US": "",
-      "JP": "",
-      "CN": "",
-      "KR": "",
-      "TW": ""
+      "JP": "< 時間が終わるのを待って、それからここを抜け出そう。 >",
+      "CN": "< 等到时间结束，我们就能溜之大吉了。 >",
+      "KR": "< 시간이 끝나기를 기다리자. 그때 우리 벗어날 수 있을 거야. >",
+      "TW": "<等時間結束後我們就可以溜走了。>"
     }
   },
   "< Level Fun has been takedown. >": {
     "translation": "",
     "MultiLang": {
       "US": "",
-      "JP": "",
-      "CN": "",
-      "KR": "",
-      "TW": ""
+      "JP": "< レベルファンがダウンしました。 >",
+      "CN": "< Level Fun 已被移除。 >",
+      "KR": "< 레벨 펀이 해체되었습니다. >",
+      "TW": "< Level Fun 已被移除。 >"
     }
   },
   "< Level 2 has been takedown. >": {
     "translation": "",
     "MultiLang": {
       "US": "",
-      "JP": "",
-      "CN": "",
-      "KR": "",
-      "TW": ""
+      "JP": "< レベル2がタakedownされました。 >",
+      "CN": "< 第2层已击溃。 >",
+      "KR": "< 레벨 2가 제거되었습니다. >",
+      "TW": "< 第2級已擊敗。 >"
     }
   },
   ">Different routes?!": {
     "translation": "",
     "MultiLang": {
       "US": "",
-      "JP": "",
-      "CN": "",
-      "KR": "",
-      "TW": ""
+      "JP": "異なるルート？！",
+      "CN": "不同的路线？！",
+      "KR": "다른 길?!",
+      "TW": "不同的路線？！"
     }
   },
   ">Better not go the unstable light routes!": {
     "translation": "",
     "MultiLang": {
       "US": "",
-      "JP": "",
-      "CN": "",
-      "KR": "",
-      "TW": ""
+      "JP": ">不安定な光の道には行かない方がいい！",
+      "CN": "最好不要走不稳定的光路！",
+      "KR": ">불안정한 빛의 길로는 가지 마라!",
+      "TW": "最好不要走不穩定的光路！"
     }
   },
   ">> A human traded Water Gun,Metarials -300 <<": {
     "translation": "",
     "MultiLang": {
       "US": "",
-      "JP": "",
-      "CN": "",
-      "KR": "",
-      "TW": ""
+      "JP": ">> 人間が水銃、素材-300と交換 <<",
+      "CN": ">> 一名人类交易了水枪，材料-300 <<",
+      "KR": ">> 인간이 물총, 재료 -300을 거래함 <<",
+      "TW": ">> 人類交易了水槍，材料-300 <<"
     }
   },
   ">Water Gun< Press E to spray current liquid,Check lobby for detail.": {
     "translation": "",
     "MultiLang": {
       "US": "",
-      "JP": "",
-      "CN": "",
-      "KR": "",
-      "TW": ""
+      "JP": ">ウォーターガン< Eキーを押して現在の液体をスプレーする、詳細はロビーを確認してください。",
+      "CN": ">水枪< 按 E 键喷射当前液体，详情请查看大厅。",
+      "KR": ">물총< E 키를 눌러 현재 액체를 분사하세요, 자세한 내용은 로비에서 확인하세요.",
+      "TW": ">水槍< 按 E 噴射當前液體，請查看等候室以獲取詳細資訊。"
     }
   },
   ">> A human traded Spirit Detecter,Metarials -300 <<": {
     "translation": "",
     "MultiLang": {
       "US": "",
-      "JP": "",
-      "CN": "",
-      "KR": "",
-      "TW": ""
+      "JP": ">> 人間がスピリットディテクター、素材 -300 を交換 <<",
+      "CN": ">> 一名人类交易了精神探测器，材料-300 <<",
+      "KR": ">> 인간이 정신 탐지기, 재료 -300을 거래함 <<",
+      "TW": ">> 人類交易靈氣探測器，材料-300 <<"
     }
   },
   ">Spirit Detecter< Press E to detect Smiler's position 3 times.": {
     "translation": "",
     "MultiLang": {
       "US": "",
-      "JP": "",
-      "CN": "",
-      "KR": "",
-      "TW": ""
+      "JP": ">Spirit Detecter< Eキーを押してSmilerの位置を3回検出する。",
+      "CN": ">灵视仪< 按 E 键检测 Smiler 的位置 3 次。",
+      "KR": ">Spirit Detecter< E 키를 눌러 스마일러의 위치를 3번 탐지하세요.",
+      "TW": ">靈魂探測器< 按 E 來探測 Smiler 的位置 3 次。"
     }
   }
 }
