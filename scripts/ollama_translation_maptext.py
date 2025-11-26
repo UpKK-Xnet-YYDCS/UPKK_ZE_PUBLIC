@@ -1,20 +1,4 @@
-# 本地部署ollama 并利用 google gemma3 模型 进行自动化翻译
-# 此脚本目前不会对现有翻译进行覆盖
-# 将配置和路径修改为正确的本地ollama地址 运行此脚本.
-# https://ollama.com/
-# 如具有更好的GPU算力则可以使用更大的模型以达到更精确的效果
-# ollama pull qwen3:30b-a3b-instruct-2507-q4_K_M
-# ollama pull gemma3:27b-it-qat
-# sudo systemctl start ollama
-# sudo apt install python3
-# sudo pip install tqdm requests argparse
-# 注 基于AI推理翻译每次运行结果可能都会不同 同时可能会犯错以及不正确的翻译.
-
-# 建议使用 gemma3:27b-it-qat 模型来进行翻译
-# it：表示“instruction-tuned”（指令微调）。这是指模型经过额外的微调，以更好地理解和响应用户指令，特别适合对话、问答、任务执行等场景。相较于预训练模型（pre-trained, PT），指令微调模型在处理特定任务时表现更优，尤其是需要遵循用户提示（prompt）的场景。
-# qat：表示“Quantization-Aware Training”（量化感知训练）。这是一种在模型训练过程中引入量化操作的技术，旨在让模型适应低精度计算（如从BF16到int4），从而减少内存占用，同时尽量保持与高精度模型相似的性能。QAT通过在训练时模拟低精度运算，优化模型权重和激活值，相比传统的训练后量化（Post-Training Quantization, PTQ），QAT能显著降低量化带来的精度损失。
-# 27b：表示模型有270亿个参数，属于中等规模的Gemma 3模型。
-
+# -*- coding: utf-8 -*-
 import json
 import os
 import re
@@ -23,200 +7,249 @@ import requests
 import argparse
 import concurrent.futures
 from tqdm import tqdm
-from difflib import SequenceMatcher
 import logging
 
-# 配置
-OLLAMA_URL = "http://192.168.50.7:11434/api/generate"  # 本地 Ollama服务器 地址 (使用 Apple Mac Mini) 
-MODEL = "qwen3:30b-a3b-instruct-2507-q4_K_M"
-DIRECTORY = os.getcwd()  # 默认设置为当前目录
+# ==================== 配置区 ====================
+OLLAMA_URL = "http://192.168.50.7:11434/api/generate"
+MODEL = "qwen3:30b-a3b-instruct-2507-q4_K_M"   # 你当前模型
+DIRECTORY = os.getcwd()
 HEADERS = {"Content-Type": "application/json"}
 
 LANGUAGE_MAP = {
-    "US": ("英文", "English"),
     "CN": ("简体中文", "Simplified Chinese"),
+    "TW": ("繁体中文", "Traditional Chinese"),
     "JP": ("日文", "Japanese"),
     "KR": ("韩文", "Korean"),
-    "TW": ("繁体中文", "Traditional Chinese")
+    "US": ("英文", "English"),
 }
 
-MAX_RETRIES = 5
-TIMEOUT_SECONDS = 60
+MAX_RETRIES = 4
+TIMEOUT_SECONDS = 300                     # 批量翻译一次可能很长
 SIMILARITY_THRESHOLD = 0.88
-LOG_FILE = 'translation_log.txt'  # 日志文件路径
-SHOW_LOGS = False  # 是否显示日志
-DISABLE_FILE_LOG = True  # 是否禁用文件日志
+# ================================================
 
-# 设置日志
-def setup_logging(show_logs, disable_file_log):
-    # 清除所有已有的日志处理器
-    for handler in logging.root.handlers[:]:
-        logging.root.removeHandler(handler)
+def setup_logging():
+    logging.basicConfig(level=logging.INFO,
+                        format='%(asctime)s | %(message)s',
+                        handlers=[logging.StreamHandler()])
 
-    logging_handlers = []
-    if show_logs:
-        console_handler = logging.StreamHandler()
-        console_handler.setLevel(logging.INFO)
-        console_handler.setFormatter(logging.Formatter('%(asctime)s - %(message)s'))
-        logging_handlers.append(console_handler)
-    if not disable_file_log:
-        file_handler = logging.FileHandler(LOG_FILE, encoding="utf-8")  # 指定 UTF-8 编码
-        file_handler.setLevel(logging.INFO)
-        file_handler.setFormatter(logging.Formatter('%(asctime)s - %(message)s'))
-        logging_handlers.append(file_handler)
-
-    logging.basicConfig(level=logging.INFO, handlers=logging_handlers)
-
-# 检测文本是否为正确的语言
-def is_correct_language(text, lang):
-    language_patterns = {
-        "CN": r'[\u4e00-\u9fff]',  # 简体中文
-        "JP": r'[\u3040-\u30ff\u31f0-\u31ff\u4e00-\u9fff]',  # 日语
-        "KR": r'[\uac00-\ud7af]',  # 韩语
-        "TW": r'[\u4e00-\u9fff]',  # 繁体中文
-        "US": r'[a-zA-Z]'  # 英语
-    }
-    return bool(re.search(language_patterns.get(lang, ""), text))
-
-# 判断原文是否仅包含符号或数字
-def is_text_symbol_or_number(text):
-    return bool(re.match(r'^[\W\d_]+$', text.strip()))
-
-# 判断原文是否是英语
-def is_english(text):
-    return bool(re.match(r'^[a-zA-Z0-9\s\*\_\-\!\@\#\$\%\^\&\(\)\[\]\{\}\,\.\?\:\;\"\'\<\>\\\/\|\+\=]*$', text.strip()))
-
-# 构建翻译提示的函数
-def build_prompt(target_language, original_text):
-    original_text = re.sub(r"【.*?】", "", original_text)  # 去除特殊标记
-    return (
-        f"Translate the following game text into {target_language}.\n"
-        f"Rules:\n"
-        f"1. If the source text is already in {target_language}, return it as is, without modification.\n"
-        f"2. If the source text is NOT in {target_language}, translate it accurately.\n"
-        f"3. Do NOT copy the source text as the translation unless it is already valid in {target_language}.\n"
-        f"4. Preserve all special symbols (e.g., ***, >> <<) and numbers exactly as they appear.\n"
-        f"5. Do not translate numbers into their corresponding words in the target language.\n"
-        f"6. Maintain the style and tone of in-game text.\n\n"
-        f"Text:\n{original_text}\n"
-        f"Output the translation in JSON format (e.g., {{\"text\": \"<translation>\"}})."
-    )
-
-# 清理文本（移除不需要的字符）
-def sanitize_text(text):
-    if not text:
-        return ""
-    text = re.sub(r'\\(?![ntr"\\/])', '', text)
-    return ''.join(c for c in text if c >= ' ' or c == '\n').strip()
-
-# 计算文本相似度
-def calculate_similarity(text1, text2):
-    text1_cleaned = re.sub(r'[^A-Za-z0-9\u4e00-\u9fff\u3040-\u30ff\u31f0-\u31ff\uFF00-\uFFEF\uAC00-\uD7AF]', '', text1)
-    text2_cleaned = re.sub(r'[^A-Za-z0-9\u4e00-\u9fff\u3040-\u30ff\u31f0-\u31ff\uFF00-\uFFEF\uAC00-\uD7AF]', '', text2)
-    sequence_matcher = SequenceMatcher(None, text1_cleaned, text2_cleaned)
-    return sequence_matcher.ratio()
-
-# 翻译文本
-def translate_text(original_text, lang_code):
-    if is_text_symbol_or_number(original_text):
-        return None
-
-    if lang_code == "US" and is_english(original_text):
-        return None
-
-    if lang_code == "CN" and is_correct_language(original_text, "CN"):
-        return None  # 如果文本已包含显著中文，则跳过翻译
-
-    _, lang_en_name = LANGUAGE_MAP[lang_code]
-    prompt = build_prompt(lang_en_name, original_text)
-
-    for attempt in range(1, MAX_RETRIES + 1):
-        try:
-            payload = {"model": MODEL, "prompt": prompt, "stream": False}
-            response = requests.post(OLLAMA_URL, headers=HEADERS, json=payload, timeout=TIMEOUT_SECONDS)
-            response.raise_for_status()
-            result = response.json()
-            raw_translation = result.get('response', '').strip()
-
-            try:
-                raw_translation = re.sub(r'^```json|```$', '', raw_translation.strip(), flags=re.MULTILINE).strip()
-                translation_json = json.loads(raw_translation)
-                translation = translation_json.get("text", "").strip()
-            except json.JSONDecodeError:
-                print(f"[JSON解析错误]: 原文: {original_text} | 目标语言: {LANGUAGE_MAP[lang_code][0]} | 尝试: {attempt}/{MAX_RETRIES}")
-                if attempt < MAX_RETRIES:  # 如果还有重试机会
-                    time.sleep(2)  # 等待后重试
-                    continue
-                translation = raw_translation  # 最后一次直接使用原始返回值作为翻译文本
-
-            if is_correct_language(translation, lang_code):
-                return sanitize_text(translation)
-        except Exception:
-            time.sleep(2)
-    return None
-
-# 处理文件
-def process_file(file_path):
-    filename = os.path.basename(file_path)
-    try:
-        with open(file_path, 'r', encoding='utf-8') as f:
-            data = json.load(f)
-    except Exception as e:
-        logging.error(f"文件打开失败: {filename}, 错误: {e}")
+# 语言快速检测
+def need_translate(text, lang_code):
+    if not text or len(text.strip()) == 0:
         return False
-
-    keys = list(data.keys())
-    modified = False
-
-    with tqdm(total=len(keys), desc=f"[文件] {filename}", ncols=100, unit="条", leave=False) as pbar:
-        for key in keys:
-            if not key or not isinstance(data[key].get('MultiLang'), dict):
-                pbar.update(1)
-                continue
-
-            original_text = key.strip()
-            value = data[key]['MultiLang']
-
-            # 动态更新进度条的描述信息，仅显示当前原文片段
-            pbar.set_description(f"[文件] {filename} | 正在翻译: {original_text[:30]} ...")
-
-            for lang_code in LANGUAGE_MAP.keys():
-                if lang_code == "US" and is_english(original_text):
-                    continue
-
-                if not value.get(lang_code):
-                    # 翻译文本
-                    translated = translate_text(original_text, lang_code)
-                    if translated and calculate_similarity(original_text, translated) < SIMILARITY_THRESHOLD:
-                        value[lang_code] = translated
-                        modified = True
-
-            pbar.update(1)
-
-    if modified:
-        try:
-            with open(file_path, 'w', encoding='utf-8') as f:
-                json.dump(data, f, ensure_ascii=False, indent=2)
-        except Exception as e:
-            logging.error(f"文件保存失败: {filename}, 错误: {e}")
-
+    if re.match(r'^[\s\W\d_]+$', text.strip()):    # 纯符号数字
+        return False
+    if lang_code == "US" and re.search(r'[a-zA-Z]', text):
+        return False
+    if lang_code in ["CN", "TW"] and re.search(r'[\u4e00-\u9fff]', text):
+        return False
+    if lang_code == "JP" and re.search(r'[\u3040-\u30ff\u31f0-\u31ff]', text):
+        return False
+    if lang_code == "KR" and re.search(r'[\uac00-\ud7af]', text):
+        return False
     return True
 
-# 主程序
+# 核心：批量翻译整个文件（Qwen3-30B 专属超级 Prompt）
+# 把原来的 batch_translate_file 替换成下面这个终极流式版
+
+def batch_translate_file(data: dict, lang_code: str, force_retranslate=False) -> dict:
+    _, lang_en = LANGUAGE_MAP[lang_code]
+
+    tasks = []
+    for key, value in data.items():
+        text = key.strip()
+        ml = value.get("MultiLang", {})
+        if not isinstance(ml, dict):
+            continue
+        if not force_retranslate and ml.get(lang_code):
+            continue
+        if not need_translate(text, lang_code):
+            continue
+        tasks.append({"id": key, "text": text})
+
+    if not tasks:
+        return data
+
+    force_hint = "\n【强制重译模式】：即使原文已有翻译，也请重新给出最优翻译版本。\n" if force_retranslate else ""
+    
+    prompt = f"""你是一名专业的游戏本地化翻译专家，正在将游戏文本翻译成【{lang_en}】。
+{force_hint}要求：
+1. 保持角色一贯的口癖、语气、语尾完全统一
+2. 专有名词、占位符、数字、特殊符号绝对不翻译、不改动
+3. 保留所有换行\n和格式
+4. 整份文件风格、用词必须高度一致
+
+请翻译以下所有文本（保持顺序）：
+
+"""
+    for i, t in enumerate(tasks, 1):
+        prompt += f"{i:3d}. {t['text']}\n"
+
+    prompt += f"""
+直接输出一个合法的 JSON 数组，不要任何解释、代码块、额外文字。
+格式示例：
+[
+  {{"id": "原文1", "translation": "翻译后文本1"}}
+]
+开始输出："""
+
+    payload = {
+        "model": MODEL,
+        "prompt": prompt,
+        "stream": True,
+        "options": {
+            "temperature": 0.3,
+            "top_p": 0.95,
+            "repeat_penalty": 1.02,
+            "num_ctx": 32768,
+            "num_predict": 8192
+        }
+    }
+
+    received = ""
+    tokens_count = 0
+    start_time = time.time()
+    spinner = ["⠋", "⠙", "⠹", "⠸", "⠼", "⠴", "⠦", "⠧", "⠇", "⠏"]  # 美观转圈动画
+    spinner_idx = 0
+
+    for attempt in range(MAX_RETRIES):
+        try:
+            with requests.post(OLLAMA_URL, json=payload, headers=HEADERS,
+                             stream=True, timeout=(10, 600)) as r:
+                r.raise_for_status()
+
+                # 初始状态栏
+                print(f"  → [{LANGUAGE_MAP[lang_code][0]}] 正在翻译 {len(tasks)} 条 ", end="", flush=True)
+
+                for line in r.iter_lines():
+                    if not line:
+                        continue
+                    try:
+                        chunk = json.loads(line.decode('utf-8'))
+                        if chunk.get("done", False):
+                            break
+
+                        token = chunk.get("response", "")
+                        received += token
+                        tokens_count += 1
+
+                        # 每 8 个 token 刷新一次显示（不刷屏但足够流畅）
+                        if tokens_count % 8 == 0 or chunk.get("done"):
+                            elapsed = time.time() - start_time
+                            speed = tokens_count / elapsed if elapsed > 0 else 0
+                            spinner_char = spinner[spinner_idx % len(spinner)]
+                            spinner_idx += 1
+
+                            print(f"\r  → [{LANGUAGE_MAP[lang_code][0]}] {spinner_char} 正在翻译… "
+                                  f"{tokens_count} tokens | {speed:.1f} t/s | {len(tasks)} 条任务", 
+                                  end="", flush=True)
+
+                    except json.JSONDecodeError:
+                        continue
+
+                # 结束时清一行再打印最终结果
+                elapsed = time.time() - start_time
+                speed = tokens_count / elapsed if elapsed > 0 else 0
+                print(f"\r  → [{LANGUAGE_MAP[lang_code][0]}] ✓ 翻译完成！ "
+                      f"{tokens_count} tokens | 平均 {speed:.1f} t/s | 耗时 {elapsed:.1f}s          ")
+
+            # 提取 JSON
+            import re
+            json_match = re.search(r'\[\s*\{.*\}\s*\]', received, re.DOTALL)
+            if not json_match:
+                raise ValueError("未检测到完整 JSON 数组")
+
+            result = json.loads(json_match.group(0))
+
+            # 写回
+            modified = False
+            for item in result:
+                orig_id = item.get("id")
+                trans = str(item.get("translation", "")).strip()
+                if not trans or not orig_id:
+                    continue
+                clean_o = re.sub(r'[^\w\u4e00-\u9fff]', '', orig_id)
+                clean_t = re.sub(r'[^\w\u4e00-\u9fff]', '', trans)
+                if clean_o and clean_t:
+                    jaccard = len(set(clean_t) & set(clean_o)) / len(set(clean_t) | set(clean_o))
+                    if jaccard > 0.9:
+                        continue
+                if orig_id in data and isinstance(data[orig_id].get("MultiLang"), dict):
+                    data[orig_id]["MultiLang"][lang_code] = trans
+                    modified = True
+
+            if modified:
+                logging.info(f"  → [{LANGUAGE_MAP[lang_code][0]}] 成功写入 {len(result)} 条翻译")
+            return data
+
+        except Exception as e:
+            print(f"\n  → [{LANGUAGE_MAP[lang_code][0]}] ✗ 第 {attempt+1} 次失败: {e}")
+            time.sleep(4)
+            received = ""
+            tokens_count = 0
+            start_time = time.time()
+
+    logging.error(f"  → [{LANGUAGE_MAP[lang_code][0]}] 全部重试失败，跳过此语言")
+    return data
+
+
+# 处理单个文件（支持 .json 和 .jsonc）
+def process_file(filepath, force_retranslate=False):
+    filename = os.path.basename(filepath)
+    try:
+        with open(filepath, 'r', encoding='utf-8') as f:
+            content = f.read()
+
+        # 自动剥离 jsonc 注释
+        content = re.sub(r'//.*?$|/\*.*?\*/', '', content, flags=re.MULTILINE | re.DOTALL)
+        data = json.loads(content)
+    except Exception as e:
+        logging.error(f"读取失败 {filename}: {e}")
+        return
+
+    logging.info(f"正在处理: {filename} （共 {len(data)} 条）{'  [强制重译模式]' if force_retranslate else ''}")
+    modified = False
+
+    for lang_code in LANGUAGE_MAP.keys():
+        old_data = json.dumps(data, ensure_ascii=False)
+        data = batch_translate_file(data, lang_code, force_retranslate=force_retranslate)
+        if json.dumps(data, ensure_ascii=False) != old_data:
+            modified = True
+
+    if modified:
+        with open(filepath, 'w', encoding='utf-8') as f:
+            json.dump(data, f, ensure_ascii=False, indent=2, separators=(',', ': '))
+        logging.info(f"已保存: {filename}")
+    else:
+        logging.info(f"无需更新: {filename}")
+
+
+# 主函数
+# 主函数部分修改如下（完整替换原 main() 即可）
+
 def main():
-    parser = argparse.ArgumentParser(description="本地批量翻译脚本 (使用 Ollama + Gemma3)")
-    parser.add_argument("-f", "--file", type=str, help="指定单个文件进行翻译处理")
-    parser.add_argument("-p", "--parallel", type=int, default=1, help="并行处理文件数")
+    setup_logging()
+    parser = argparse.ArgumentParser(description="Qwen3-30B 全文件上下文批量游戏翻译神器")
+    parser.add_argument("-f", "--file", type=str, help="单个文件路径")
+    parser.add_argument("-p", "--parallel", type=int, default=2, help="并行文件数（建议 1-3）")
+    parser.add_argument("-r", "--retranslate", action="store_true", 
+                        help="强制重新翻译全部内容，覆盖已有翻译（危险操作！）")
     args = parser.parse_args()
 
-    setup_logging(SHOW_LOGS, DISABLE_FILE_LOG)
-
     if args.file:
-        process_file(args.file)
+        process_file(args.file, force_retranslate=args.retranslate)
     else:
-        files = [os.path.join(DIRECTORY, f) for f in os.listdir(DIRECTORY) if f.endswith('.jsonc')]
-        with concurrent.futures.ThreadPoolExecutor(max_workers=args.parallel) as executor:
-            list(tqdm(executor.map(process_file, files), total=len(files), desc="Processing all files"))
+        files = [os.path.join(DIRECTORY, f) for f in os.listdir(DIRECTORY)
+                 if f.endswith(('.json', '.jsonc'))]
+        files.sort()
+
+        with concurrent.futures.ThreadPoolExecutor(max_workers=args.parallel) as exe:
+            list(tqdm(
+                exe.map(lambda f: process_file(f, force_retranslate=args.retranslate), files),
+                total=len(files), desc="总进度"
+            ))
+
+    print("\n全部完成")
 
 if __name__ == "__main__":
     main()
