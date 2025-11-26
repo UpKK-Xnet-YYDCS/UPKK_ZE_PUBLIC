@@ -5,8 +5,8 @@
       "US": "",
       "JP": ">>>CSS ポート by xen <<<",
       "CN": ">>> CSS移植：Xen <<<",
-      "KR": "",
-      "TW": ""
+      "KR": ">>>css 포트 by xen <<<",
+      "TW": ">>>css 作者：xen <<<"
     }
   },
   ">>>backport by koen <<<": {
@@ -123,7 +123,7 @@
     "translation": ">>> Stage - D 已启用 <<<",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": ">>> D インセインモード有効化 <<<",
       "CN": ">>> Stage - D 已启用 <<<",
       "KR": ">>> INSANE 모드 활성화 <<<",
       "TW": ">>> D 極狂模式已啟用 <<<"
@@ -175,7 +175,7 @@
       "US": "",
       "JP": "ステージ - 狂気 D",
       "CN": "Stage - 疯癫 D",
-      "KR": "",
+      "KR": "> 스테이지 - 미친 듯한 D <",
       "TW": "階段 - 瘋狂 D"
     }
   },
@@ -183,10 +183,10 @@
     "translation": ">>> CSS移植：Xen <<<",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": ">>> css ポート by xen <<<",
       "CN": ">>> CSS移植：Xen <<<",
-      "KR": "",
-      "TW": ""
+      "KR": ">>> css 포트 by xen <<<",
+      "TW": ">>> css 作者：xen <<<"
     }
   },
   ">>> csgo k3 version port by koen <<<": {
@@ -483,7 +483,7 @@
     "translation": ">>> 由 Koen 进行反向移植到CSGO <<<",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": ">>> csgo バックポート by koen <<<",
       "CN": ">>> 由 Koen 进行反向移植到CSGO <<<",
       "KR": ">>> koen의 CS:GO 백포트 <<<",
       "TW": ">>> koen 的 CSGO 後移植 <<<"
@@ -515,7 +515,7 @@
       "US": "D gate escape death's path blade increases duration to 1.5 seconds of 0.5 slow (by bxzl)",
       "JP": "D関逃亡路の刀が、持続時間 1.5 秒、減速 0.5 秒 (by bxzl)",
       "CN": "",
-      "KR": "",
+      "KR": "D관 탈출로의 칼이 1.5초 동안 0.5의 감속 효과를 부여합니다 (by bxzl)",
       "TW": ""
     }
   }
