@@ -194,25 +194,47 @@ def batch_translate_file(data: dict, lang_code: str, force_retranslate=False) ->
 
 
 # 处理单个文件（支持 .json 和 .jsonc）
-def process_file(filepath, force_retranslate=False):
+# ==================== 主函数 + process_file 大改造（重点在这里） ====================
+def process_file(filepath, retranslate_langs=None):
+    """
+    retranslate_langs: None → 全部强制重译
+                       []    → 不强制重译任何语言（只补缺）
+                       ["JP", "KR"] → 只强制重译日文和韩文
+    """
+    if retranslate_langs is None:
+        # 完全强制重译全部语言（原 -r 行为）
+        force_all = True
+        specific_langs = set(LANGUAGE_MAP.keys())
+    else:
+        force_all = False
+        specific_langs = set(retranslate_langs) if retranslate_langs else set()
+
     filename = os.path.basename(filepath)
     try:
         with open(filepath, 'r', encoding='utf-8') as f:
             content = f.read()
-
-        # 自动剥离 jsonc 注释
-        content = re.sub(r'//.*?$|/\*.*?\*/', '', content, flags=re.MULTILINE | re.DOTALL)
+        content = re.sub(r'//.*?$|/\*.*?\*/', '', content, flags=re.MULTILINE|re.DOTALL)
         data = json.loads(content)
     except Exception as e:
         logging.error(f"读取失败 {filename}: {e}")
         return
 
-    logging.info(f"正在处理: {filename} （共 {len(data)} 条）{'  [强制重译模式]' if force_retranslate else ''}")
+    mode_str = ""
+    if force_all:
+        mode_str = " [强制重译全部语言]"
+    elif specific_langs:
+        names = [LANGUAGE_MAP[c][0] for c in specific_langs if c in LANGUAGE_MAP]
+        mode_str = f" [强制重译：{'、'.join(names)}]"
+
+    logging.info(f"正在处理: {filename} （共 {len(data)} 条）{mode_str}")
     modified = False
 
     for lang_code in LANGUAGE_MAP.keys():
+        # 决定本次是否强制重译
+        force_this_lang = force_all or (lang_code in specific_langs)
+
         old_data = json.dumps(data, ensure_ascii=False)
-        data = batch_translate_file(data, lang_code, force_retranslate=force_retranslate)
+        data = batch_translate_file(data, lang_code, force_retranslate=force_this_lang)
         if json.dumps(data, ensure_ascii=False) != old_data:
             modified = True
 
@@ -224,6 +246,7 @@ def process_file(filepath, force_retranslate=False):
         logging.info(f"无需更新: {filename}")
 
 
+
 # 主函数
 # 主函数部分修改如下（完整替换原 main() 即可）
 
@@ -232,12 +255,35 @@ def main():
     parser = argparse.ArgumentParser(description="Qwen3-30B 全文件上下文批量游戏翻译神器")
     parser.add_argument("-f", "--file", type=str, help="单个文件路径")
     parser.add_argument("-p", "--parallel", type=int, default=2, help="并行文件数（建议 1-3）")
-    parser.add_argument("-r", "--retranslate", action="store_true", 
-                        help="强制重新翻译全部内容，覆盖已有翻译（危险操作！）")
+    
+    # 重磅升级：-r 现在支持指定语言！
+    parser.add_argument("-r", "--retranslate", nargs="*", 
+                        help="强制重新翻译指定语言（例如：-r JP KR TW US），不写参数表示全部强制重译，留空则只补缺")
+
     args = parser.parse_args()
 
+    # 智能解析 -r 参数
+    if args.retranslate is None:
+        # 没写 -r → 只补缺
+        retranslate_langs = []
+    elif len(args.retranslate) == 0:
+        # 写了 -r 但没给参数 → 全部强制重译（兼容老版本行为）
+        retranslate_langs = None
+    else:
+        # 写了 -r JP KR → 只重译这些
+        retranslate_langs = [code.strip().upper() for code in args.retranslate]
+
+    # 校验语言代码
+    if retranslate_langs:
+        valid = set(LANGUAGE_MAP.keys())
+        invalid = set(retranslate_langs) - valid if retranslate_langs else set()
+        if invalid:
+            print(f"错误：不支持的语言代码 → {', '.join(invalid)}")
+            print(f"可选语言：{', '.join(valid)}")
+            return
+
     if args.file:
-        process_file(args.file, force_retranslate=args.retranslate)
+        process_file(args.file, retranslate_langs)
     else:
         files = [os.path.join(DIRECTORY, f) for f in os.listdir(DIRECTORY)
                  if f.endswith(('.json', '.jsonc'))]
@@ -245,11 +291,12 @@ def main():
 
         with concurrent.futures.ThreadPoolExecutor(max_workers=args.parallel) as exe:
             list(tqdm(
-                exe.map(lambda f: process_file(f, force_retranslate=args.retranslate), files),
-                total=len(files), desc="总进度"
+                exe.map(lambda f: process_file(f, retranslate_langs), files),
+                total=len(files), desc="总进度", ncols=100
             ))
 
-    print("\n全部完成")
+    print("\n全部完成！")
+    
 
 if __name__ == "__main__":
     main()

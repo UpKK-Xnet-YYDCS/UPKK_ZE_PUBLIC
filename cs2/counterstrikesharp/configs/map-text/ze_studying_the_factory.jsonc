@@ -5,8 +5,8 @@
       "US": "",
       "JP": "フェンスブレーキ 10s",
       "CN": "围栏制动 10秒",
-      "KR": "울타리 브레이크 10초",
-      "TW": "圍欄制動 10秒"
+      "KR": "울타리 해제 10초",
+      "TW": "圍欄解鎖 10s"
     }
   },
   "AFK teleport 5s": {
@@ -15,17 +15,17 @@
       "US": "",
       "JP": "AFKテレポート 5s",
       "CN": "离线传送 5秒",
-      "KR": "AFK 텔레포트 5초",
-      "TW": "離線傳送 5秒"
+      "KR": "AFK 이동 5초",
+      "TW": "AFK 传送 5s"
     }
   },
   "zteleport 5s": {
     "translation": "",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "ゾンビテレポート 5s",
       "CN": "",
-      "KR": "",
+      "KR": "Z이동 5초",
       "TW": ""
     }
   },
@@ -33,59 +33,59 @@
     "translation": "",
     "MultiLang": {
       "US": "",
-      "JP": "次へのルート開放 20秒",
+      "JP": "次のルート開く 20s",
       "CN": "下一个根节点开启  20秒",
-      "KR": "다음 루트 열기  20초",
-      "TW": "下一組根開放  20秒"
+      "KR": "다음 루트 열림  20초",
+      "TW": "下一根樁開啟 20s"
     }
   },
   "zombie sc open 10s": {
     "translation": "",
     "MultiLang": {
       "US": "",
-      "JP": "ゾンビSCオープン 10秒",
+      "JP": "ゾンビSC開く 10s",
       "CN": "僵尸场景开启 10秒",
-      "KR": "좀비 스코어 오픈 10초",
-      "TW": "僵尸場開放 10秒"
+      "KR": "좀비 SC 열림 10초",
+      "TW": "殭屍SC 開啟 10s"
     }
   },
   "zombie sc open 5s": {
     "translation": "",
     "MultiLang": {
       "US": "",
-      "JP": "ゾンビSCオープン 5秒",
+      "JP": "ゾンビSC開く 5s",
       "CN": "僵尸sc开启 5秒",
-      "KR": "좀비 스크 open 5s",
-      "TW": ""
+      "KR": "좀비 SC 열림 5초",
+      "TW": "殭屍SC 開啟 5s"
     }
   },
   "next root open  10s": {
     "translation": "",
     "MultiLang": {
       "US": "",
-      "JP": "次のルート開放 10秒",
+      "JP": "次のルート開く 10s",
       "CN": "下一个根节点开启 10秒",
-      "KR": "다음 루트 열기  10초",
-      "TW": "下一個根節點開啟  10秒"
+      "KR": "다음 루트 열림  10초",
+      "TW": "下一根樁開啟 10s"
     }
   },
   "next root open 5s": {
     "translation": "",
     "MultiLang": {
       "US": "",
-      "JP": "次へのルート開く 5s",
+      "JP": "次のルート開く 5s",
       "CN": "下一个根节点开启 5秒",
-      "KR": "다음 루트 열기 5초",
-      "TW": "下一個根開放 5 秒"
+      "KR": "다음 루트 열림 5초",
+      "TW": "下一根樁開啟 5s"
     }
   },
   "zteleport 10s": {
     "translation": "",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "ゾンビテレポート 10s",
       "CN": "",
-      "KR": "",
+      "KR": "Z이동 10초",
       "TW": ""
     }
   },
@@ -93,129 +93,129 @@
     "translation": "",
     "MultiLang": {
       "US": "",
-      "JP": "隣のドア開く 20s",
+      "JP": "次のドア開く 20s",
       "CN": "隔壁开门 20秒",
-      "KR": "옆집 열기 20초",
-      "TW": "隔壁開門 20秒"
+      "KR": "다음 문 열림 20초",
+      "TW": "下一扇門開啟 20s"
     }
   },
   "next door open 10s": {
     "translation": "",
     "MultiLang": {
       "US": "",
-      "JP": "隣のドア開く 10秒",
+      "JP": "次のドア開く 10s",
       "CN": "隔壁开启 10秒",
-      "KR": "다음 집 열기 10초",
-      "TW": "隔壁開啟 10 秒"
+      "KR": "다음 문 열림 10초",
+      "TW": "下一扇門開啟 10s"
     }
   },
   "next door open 5s": {
     "translation": "",
     "MultiLang": {
       "US": "",
-      "JP": "隣のドア開く 5s",
+      "JP": "次のドア開く 5s",
       "CN": "隔壁开门 5秒",
-      "KR": "다음 문 열기 5초",
-      "TW": "隔壁開啟 5秒"
+      "KR": "다음 문 열림 5초",
+      "TW": "下一扇門開啟 5s"
     }
   },
   "next door open 30s": {
     "translation": "",
     "MultiLang": {
       "US": "",
-      "JP": "隣のドア開く 30秒",
+      "JP": "次のドア開く 30s",
       "CN": "隔壁开门 30秒",
-      "KR": "다음 집 열기 30초",
-      "TW": "隔壁開啟 30秒"
+      "KR": "다음 문 열림 30초",
+      "TW": "下一扇門開啟 30s"
     }
   },
   "move  elevator 15s": {
     "translation": "",
     "MultiLang": {
       "US": "",
-      "JP": "エレベーターを移動 15秒",
+      "JP": "エレベータ移動 15s",
       "CN": "移动 电梯 15秒",
-      "KR": "이동 엘리베이터 15초",
-      "TW": "移動電梯 15秒"
+      "KR": "엘리베이터 이동 15초",
+      "TW": "移動電梯 15s"
     }
   },
   "ztelaport 5s": {
     "translation": "",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "ゾンビテレポート 5s",
       "CN": "",
-      "KR": "",
-      "TW": ""
+      "KR": "Z이동 5초",
+      "TW": "zteleport 5s"
     }
   },
   "move elevator 10s": {
     "translation": "",
     "MultiLang": {
       "US": "",
-      "JP": "エレベーターを10秒移動",
+      "JP": "エレベータ移動 10s",
       "CN": "移动电梯 10秒",
-      "KR": "엘리베이터 10초 이동",
-      "TW": "移動電梯 10秒"
+      "KR": "엘리베이터 이동 10초",
+      "TW": "移動電梯 10s"
     }
   },
   "move elevator 5s": {
     "translation": "",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "エレベータ移動 5s",
       "CN": "",
-      "KR": "",
-      "TW": ""
+      "KR": "엘리베이터 이동 5초",
+      "TW": "移動電梯 5s"
     }
   },
   "next door open 60s": {
     "translation": "",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "次のドア開く 60s",
       "CN": "",
-      "KR": "",
-      "TW": ""
+      "KR": "다음 문 열림 60초",
+      "TW": "下一扇門開啟 60s"
     }
   },
   "human teleport 10s": {
     "translation": "",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "ヒューマンテレポート 10s",
       "CN": "",
-      "KR": "",
-      "TW": ""
+      "KR": "인간 이동 10초",
+      "TW": "人類傳送 10s"
     }
   },
   "human teleport 5s": {
     "translation": "",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "ヒューマンテレポート 5s",
       "CN": "",
-      "KR": "",
-      "TW": ""
+      "KR": "인간 이동 5초",
+      "TW": "人類傳送 5s"
     }
   },
   "human teleport 15s": {
     "translation": "",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "ヒューマンテレポート 15s",
       "CN": "",
-      "KR": "",
-      "TW": ""
+      "KR": "인간 이동 15초",
+      "TW": "人類傳送 15s"
     }
   },
   "zteleport 15s": {
     "translation": "",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "ゾンビテレポート 15s",
       "CN": "",
-      "KR": "",
+      "KR": "Z이동 15초",
       "TW": ""
     }
   },
@@ -223,60 +223,60 @@
     "translation": "",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "前後ゾンビテレポート 5s",
       "CN": "",
-      "KR": "",
-      "TW": ""
+      "KR": "앞뒤 Z이동 5초",
+      "TW": "前後 zteleport 5s"
     }
   },
   "front caution": {
     "translation": "",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "前注意",
       "CN": "",
-      "KR": "",
-      "TW": ""
+      "KR": "앞쪽 주의",
+      "TW": "前方注意"
     }
   },
   "last door open 10s": {
     "translation": "",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "最後のドア開く 10s",
       "CN": "",
-      "KR": "",
-      "TW": ""
+      "KR": "마지막 문 열림 10초",
+      "TW": "最後一扇門開啟 10s"
     }
   },
   "last door open 5s": {
     "translation": "",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "最後のドア開く 5s",
       "CN": "",
-      "KR": "",
-      "TW": ""
+      "KR": "마지막 문 열림 5초",
+      "TW": "最後一扇門開啟 5s"
     }
   },
   "last defense 10s": {
     "translation": "",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "最後の防御 10s",
       "CN": "",
-      "KR": "",
-      "TW": ""
+      "KR": "마지막 방어 10초",
+      "TW": "最後防線 10s"
     }
   },
   "last defense 5s": {
     "translation": "",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "最後の防御 5s",
       "CN": "",
-      "KR": "",
-      "TW": ""
+      "KR": "마지막 방어 5초",
+      "TW": "最後防線 5s"
     }
   }
 }

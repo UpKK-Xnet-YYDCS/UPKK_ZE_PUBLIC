@@ -3,7 +3,7 @@
     "translation": "",
     "MultiLang": {
       "US": "Teleport in 5s",
-      "JP": "5秒後に転送",
+      "JP": "5秒後にテレポート",
       "CN": "",
       "KR": "5초 후 전송",
       "TW": "5秒後傳送"
@@ -22,8 +22,8 @@
   "按钮触发": {
     "translation": "",
     "MultiLang": {
-      "US": "Button trigger",
-      "JP": "ボタンを押して発動",
+      "US": "Button triggered",
+      "JP": "ボタントリガー",
       "CN": "",
       "KR": "버튼 트리거",
       "TW": "按鈕觸發"
@@ -32,10 +32,10 @@
   "叫老公结束": {
     "translation": "",
     "MultiLang": {
-      "US": "End calling husband",
-      "JP": "叫老公を終了",
+      "US": "Calling husband ended",
+      "JP": "旦那呼び終わり",
       "CN": "",
-      "KR": "아내 부르기 끝",
+      "KR": "아내 불러 끝",
       "TW": "叫老公結束"
     }
   },
@@ -45,7 +45,7 @@
       "US": "The door will open in 30s",
       "JP": "ドアは30秒後に開く",
       "CN": "",
-      "KR": "문이 30초 후에 열립니다",
+      "KR": "문이 30초 후 열림",
       "TW": "門在30秒後開"
     }
   },
@@ -53,7 +53,7 @@
     "translation": "",
     "MultiLang": {
       "US": "Zombie teleport in 20s",
-      "JP": "ゾンビのトランスポートは20秒後に",
+      "JP": "ゾンビは20秒後にテレポート",
       "CN": "",
       "KR": "좀비 전송 20초 후",
       "TW": "殭屍傳送到20秒後"
@@ -63,7 +63,7 @@
     "translation": "",
     "MultiLang": {
       "US": "Main road glass will shatter in 5 seconds",
-      "JP": "メインロードのガラスが5秒後に破損",
+      "JP": "メインロードのガラスは5秒後に割れる",
       "CN": "",
       "KR": "주로 유리 5초 후 파손",
       "TW": "主路玻璃5秒後碎裂"
@@ -73,9 +73,9 @@
     "translation": "",
     "MultiLang": {
       "US": "Zombies will be teleported to the side lane in 10 seconds.",
-      "JP": "ゾンビは10秒後にサイドルートにテレポートします。",
+      "JP": "ゾンビは10秒後にサイドロードにテレポートする",
       "CN": "",
-      "KR": "좀비가 10초 후에 측면로 전송됩니다.",
+      "KR": "좀비가 10초 후 측로 전송됨.",
       "TW": "殭屍將於10秒後傳送到側路。"
     }
   },
@@ -93,9 +93,9 @@
     "translation": "",
     "MultiLang": {
       "US": "The door will open in 20s",
-      "JP": "ドアが20秒後に開く",
+      "JP": "ドアは20秒後に開く",
       "CN": "",
-      "KR": "문이 20초 후에 열립니다",
+      "KR": "문이 20초 후 열림",
       "TW": "門在20秒後打開"
     }
   },
@@ -103,7 +103,7 @@
     "translation": "",
     "MultiLang": {
       "US": "Zombie teleports in 10s",
-      "JP": "ゾンビ 10秒後にトランスポート",
+      "JP": "ゾンビは10秒後にテレポート",
       "CN": "",
       "KR": "좀비 10초 후 전송",
       "TW": "殭屍10秒後傳送"
@@ -115,7 +115,7 @@
       "US": "CD ended",
       "JP": "CD終了",
       "CN": "",
-      "KR": "CD 종료",
+      "KR": "CD 끝",
       "TW": "CD結束"
     }
   },
@@ -123,7 +123,7 @@
     "translation": "",
     "MultiLang": {
       "US": "Singing ended",
-      "JP": "唱歌終了",
+      "JP": "歌終わり",
       "CN": "",
       "KR": "노래 끝",
       "TW": "唱歌結束"
@@ -133,9 +133,9 @@
     "translation": "",
     "MultiLang": {
       "US": "Door opens in 30s",
-      "JP": "ドア 30秒後に開く",
+      "JP": "ドアは30秒後に開く",
       "CN": "",
-      "KR": "문 30초 후에 열림",
+      "KR": "문이 30초 후 열림",
       "TW": "門30秒後開"
     }
   },
@@ -143,19 +143,19 @@
     "translation": "",
     "MultiLang": {
       "US": "The door opens in 20 seconds.",
-      "JP": "20秒後に扉が開く。",
+      "JP": "ドアは20秒後に開く",
       "CN": "",
-      "KR": "문이 20초 후에 열립니다.",
+      "KR": "문이 20초 후 열림.",
       "TW": "門20秒後開。"
     }
   },
   "有僵尸传送到侧路。": {
     "translation": "",
     "MultiLang": {
-      "US": "A zombie has been teleported to the side lane.",
-      "JP": "ゾンビがサイドロードに传送された。",
+      "US": "Zombies have been teleported to the side lane.",
+      "JP": "ゾンビがサイドロードにテレポートする",
       "CN": "",
-      "KR": "좀비가 측면로 전송되었습니다。",
+      "KR": "좀비가 측로 전송됨.",
       "TW": "有殭屍傳送到側路。"
     }
   },
@@ -163,9 +163,9 @@
     "translation": "",
     "MultiLang": {
       "US": "The door will open after 50s.",
-      "JP": "50秒後に扉が開く。",
+      "JP": "ドアは50秒後に開く",
       "CN": "",
-      "KR": "문이 50초 후에 열립니다.",
+      "KR": "문이 50초 후 열림.",
       "TW": "門50秒後開啟。"
     }
   },
@@ -173,9 +173,9 @@
     "translation": "",
     "MultiLang": {
       "US": "Zombie will be teleported above in 10s",
-      "JP": "ゾンビが10秒後に頭上にテレポート",
+      "JP": "ゾンビは10秒後に頭上にテレポート",
       "CN": "",
-      "KR": "좀비가 10초 후 머리 위로 전송됩니다",
+      "KR": "좀비가 10초 후 천장으로 전송됨",
       "TW": "殭屍10秒後傳送到頭頂"
     }
   },
@@ -183,9 +183,9 @@
     "translation": "",
     "MultiLang": {
       "US": "Door opens after 50s",
-      "JP": "ドアが50秒後に開く",
+      "JP": "ドアは50秒後に開く",
       "CN": "",
-      "KR": "문이 50초 후에 열립니다",
+      "KR": "문이 50초 후 열림",
       "TW": "門50秒後開啟"
     }
   },
@@ -193,7 +193,7 @@
     "translation": "",
     "MultiLang": {
       "US": "Zombie teleports in 15 seconds",
-      "JP": "ゾンビ 15秒後にテレポート",
+      "JP": "ゾンビは15秒後にテレポート",
       "CN": "",
       "KR": "좀비 15초 후 전송",
       "TW": "殭屍15秒後傳送"
@@ -203,7 +203,7 @@
     "translation": "",
     "MultiLang": {
       "US": "Back door opens after 20s",
-      "JP": "20秒後に後門が開く",
+      "JP": "20秒後にドア開く",
       "CN": "",
       "KR": "20초 후 문 열림",
       "TW": "20秒後門開"

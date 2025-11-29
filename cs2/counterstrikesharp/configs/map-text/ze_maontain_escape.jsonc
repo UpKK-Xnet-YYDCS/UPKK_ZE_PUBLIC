@@ -3,7 +3,7 @@
     "translation": "",
     "MultiLang": {
       "US": "Normal Mode",
-      "JP": "普通モード",
+      "JP": "ノーマルモード",
       "CN": "",
       "KR": "일반 모드",
       "TW": ""
@@ -13,7 +13,7 @@
     "translation": "",
     "MultiLang": {
       "US": "But...",
-      "JP": "",
+      "JP": "でも...",
       "CN": "",
       "KR": "하지만...",
       "TW": ""
@@ -22,18 +22,18 @@
   "无事发生": {
     "translation": "",
     "MultiLang": {
-      "US": "Nothing happens.",
-      "JP": "何事も起こらず",
+      "US": "Nothing happens",
+      "JP": "何も起こらなかった",
       "CN": "",
-      "KR": "아무 일도 일어나지 않았다",
+      "KR": "무슨 일도 일어나지 않았다",
       "TW": "無事發生"
     }
   },
   "但......": {
     "translation": "",
     "MultiLang": {
-      "US": "But...",
-      "JP": "",
+      "US": "But......",
+      "JP": "でも......",
       "CN": "",
       "KR": "하지만......",
       "TW": ""
@@ -42,20 +42,20 @@
   "黑雾四起": {
     "translation": "",
     "MultiLang": {
-      "US": "Dark mist rises.",
-      "JP": "黒霧が立ち込める",
+      "US": "Black fog rises",
+      "JP": "黒い霧が立ち込める",
       "CN": "",
-      "KR": "검은 안개가 자욱하다",
+      "KR": "검은 안개가 일어난다",
       "TW": "黑霧四起"
     }
   },
   "雾气消失": {
     "translation": "",
     "MultiLang": {
-      "US": "Fog Clears",
-      "JP": "霧が晴れた",
+      "US": "Fog dissipates",
+      "JP": "霧が消える",
       "CN": "",
-      "KR": "안개가 걷혔다",
+      "KR": "안개가 사라진다",
       "TW": "霧氣消散"
     }
   },
@@ -92,20 +92,20 @@
   "雾气再起": {
     "translation": "",
     "MultiLang": {
-      "US": "Fog rises again.",
-      "JP": "霧気再起",
+      "US": "Fog rises again",
+      "JP": "霧が再び立ち込める",
       "CN": "",
-      "KR": "안개가 다시 짙어지다",
+      "KR": "안개가 다시 일어난다",
       "TW": "霧氣再起"
     }
   },
   "僵尸泥头车已被拾取": {
     "translation": "",
     "MultiLang": {
-      "US": "Zombie Mud Truck has been picked up.",
-      "JP": "ゾンビの泥棒車が拾われました",
+      "US": "Zombie dump truck has been picked up",
+      "JP": "ゾンビコンクリートトラックは回収された",
       "CN": "",
-      "KR": "좀비 진흙 트럭을 획득했습니다.",
+      "KR": "좀비 레미니 트럭이 회수됨",
       "TW": "僵屍泥頭車已被拾取"
     }
   },
@@ -113,9 +113,9 @@
     "translation": "",
     "MultiLang": {
       "US": "Nuclear explosion in 60 seconds",
-      "JP": "",
+      "JP": "60秒後に核爆が到来",
       "CN": "",
-      "KR": "60초 후 핵폭탄 투하",
+      "KR": "60초 후 핵폭발이 닥친다",
       "TW": "60秒后核爆降臨"
     }
   },
@@ -123,19 +123,19 @@
     "translation": "",
     "MultiLang": {
       "US": "DIO is throwing a road roller at you.",
-      "JP": "DIOがあなたにロードローラーを投げつける",
+      "JP": "DIOがローラーを投げてきている",
       "CN": "",
-      "KR": "DIO가 당신에게 도로롤러를 던지고 있습니다.",
+      "KR": "DIO가 압도기를 너한테 던진다",
       "TW": "DIO在朝你扔壓路機"
     }
   },
   "一名玩家拾取了蚁狮守卫": {
     "translation": "",
     "MultiLang": {
-      "US": "A player picked up Antlion Guard",
-      "JP": "1名のプレイヤーが蟻獅子の守衛を入手しました",
+      "US": "A player has picked up the Antlion Guardian",
+      "JP": "プレイヤー1名がアントリオンガードを回収した",
       "CN": "",
-      "KR": "한 명의 플레이어가 앤트 라이온 가드를 획득했습니다.",
+      "KR": "한 명의 플레이어가 개미사자 수호자를 회수함",
       "TW": "一名玩家拾取了蟻獅守衛"
     }
   },
@@ -152,27 +152,27 @@
   "天黑了...": {
     "translation": "",
     "MultiLang": {
-      "US": "It's dark...",
-      "JP": "",
+      "US": "It's getting dark...",
+      "JP": "夜になった...",
       "CN": "",
-      "KR": "어둠이 내렸다...",
+      "KR": "어둠이 내린다...",
       "TW": ""
     }
   },
   "抓钩抓到了一名人类，帮帮他": {
     "translation": "",
     "MultiLang": {
-      "US": "The grappling hook caught a human, help him!",
-      "JP": "グラップリングフックで人間を捕らえました。助けてあげてください。",
+      "US": "Grapple caught a human, help him",
+      "JP": "ハッチが人間を掴んだ、助けろ",
       "CN": "",
-      "KR": "갈고리가 인간을 잡았습니다. 그를 도와주세요.",
+      "KR": "크레인은 한 명의 인간을 잡았다, 도와줘",
       "TW": "抓鉤抓到了一名人類，幫幫他"
     }
   },
   "1.25重力": {
     "translation": "",
     "MultiLang": {
-      "US": "1.25x Gravity",
+      "US": "1.25 Gravity",
       "JP": "",
       "CN": "",
       "KR": "1.25중력",
@@ -183,7 +183,7 @@
     "translation": "",
     "MultiLang": {
       "US": "Iron Body",
-      "JP": "鋼の肉体",
+      "JP": "鋼鉄の体",
       "CN": "",
       "KR": "강철의 몸체",
       "TW": "鋼鐵之軀"
@@ -195,7 +195,7 @@
       "US": "0.8 Gravity",
       "JP": "",
       "CN": "",
-      "KR": "0.8 중력",
+      "KR": "0.8중력",
       "TW": ""
     }
   },
@@ -203,9 +203,9 @@
     "translation": "",
     "MultiLang": {
       "US": "Fly",
-      "JP": "飛",
+      "JP": "飛ぶ",
       "CN": "",
-      "KR": "날아",
+      "KR": "날아라",
       "TW": "飛"
     }
   },
@@ -215,7 +215,7 @@
       "US": "2x Speed",
       "JP": "",
       "CN": "",
-      "KR": "2배속",
+      "KR": "2배 속도",
       "TW": ""
     }
   },
@@ -225,17 +225,17 @@
       "US": "0.75x Speed",
       "JP": "",
       "CN": "",
-      "KR": "0.75배속",
+      "KR": "0.75배 속도",
       "TW": ""
     }
   },
   "护送猫猫": {
     "translation": "",
     "MultiLang": {
-      "US": "Escort the Cat",
-      "JP": "",
+      "US": "Escort the cat",
+      "JP": "ネコを護衛",
       "CN": "",
-      "KR": "고양이 호위",
+      "KR": "고양이를 보호해",
       "TW": "護送貓貓"
     }
   },
@@ -243,39 +243,39 @@
     "translation": "",
     "MultiLang": {
       "US": "Zombies broke through once!!!",
-      "JP": "ゾンビが突破しました！！！",
+      "JP": "ゾンビが突破した！！！",
       "CN": "",
-      "KR": "좀비가 1번 돌파했습니다!!!",
+      "KR": "좀비가 한 번 돌파했다！！！",
       "TW": ""
     }
   },
   "运载目标抵达终点，任务完成！！": {
     "translation": "",
     "MultiLang": {
-      "US": "Payload delivered to destination, mission complete!!",
-      "JP": "運搬目標、終点に到達！ミッション完了！！",
+      "US": "Transport target reached destination, mission complete!!",
+      "JP": "運搬ターゲットが到着、任務完了！！",
       "CN": "",
-      "KR": "운송 목표가 종점에 도착했습니다. 임무 완료！！",
+      "KR": "운반 목표지점 도착, 미션 완료！！",
       "TW": "運載目標抵達終點，任務完成！！"
     }
   },
   "僵尸复活已关闭，清理残余的僵尸": {
     "translation": "",
     "MultiLang": {
-      "US": "Zombie respawn is disabled. Clear the remaining zombies.",
-      "JP": "ゾンビの復活は停止されました。残りのゾンビを処理してください。",
+      "US": "Zombie resurrection disabled, clear remaining zombies",
+      "JP": "ゾンビの復活は無効、残りのゾンビを片付ける",
       "CN": "",
-      "KR": "좀비 부활이 중단되었습니다. 잔존 좀비를 제거하세요.",
+      "KR": "좀비 부활 비활성화, 잔여 좀비 제거",
       "TW": "僵屍復活已關閉，清理殘餘的僵屍"
     }
   },
   "30秒后将进行只能使用近战武器最终对决": {
     "translation": "",
     "MultiLang": {
-      "US": "Final battle using only melee weapons will begin in 30 seconds.",
-      "JP": "30秒后、近接武器のみ使用可能な最終対決を行います。",
+      "US": "30 seconds until final duel with only melee weapons",
+      "JP": "30秒後に近接武器のみの最終決戦",
       "CN": "",
-      "KR": "30초 후에 근접 무기만 사용 가능한 최종 대결이 시작됩니다.",
+      "KR": "30초 후 근접 무기만 사용하는 최후의 결전",
       "TW": "30秒後將進行只能使用近戰武器最終對決"
     }
   },
@@ -283,9 +283,9 @@
     "translation": "",
     "MultiLang": {
       "US": "A player picked up cohen",
-      "JP": "1名のプレイヤーがcohenを拾いました",
+      "JP": "プレイヤー1名がcohenを回収した",
       "CN": "",
-      "KR": "한 명의 플레이어가 cohen을 획득했습니다.",
+      "KR": "한 명의 플레이어가 cohen을 회수함",
       "TW": ""
     }
   },
@@ -295,7 +295,7 @@
       "US": "1.25x Speed",
       "JP": "",
       "CN": "",
-      "KR": "1.25배속",
+      "KR": "1.25배 속도",
       "TW": ""
     }
   },
@@ -305,57 +305,57 @@
       "US": "Ice!",
       "JP": "氷！",
       "CN": "",
-      "KR": "얼음!",
+      "KR": "얼어붙어!",
       "TW": ""
     }
   },
   "15秒后将进行只能使用近战武器最终对决": {
     "translation": "",
     "MultiLang": {
-      "US": "Final showdown with melee weapons only will begin in 15 seconds.",
-      "JP": "15秒后、近接武器のみ使用可能な最終決戦を行います。",
+      "US": "15 seconds until final duel with only melee weapons",
+      "JP": "15秒後に近接武器のみの最終決戦",
       "CN": "",
-      "KR": "15초 후에 근접 무기만 사용 가능한 최종 결투가 시작됩니다.",
+      "KR": "15초 후 근접 무기만 사용하는 최후의 결전",
       "TW": "15秒後將進行只能使用近戰武器最終對決"
     }
   },
   "30秒内结束战斗": {
     "translation": "",
     "MultiLang": {
-      "US": "Finish the battle within 30 seconds",
+      "US": "End battle within 30 seconds",
       "JP": "30秒以内に戦闘を終了",
       "CN": "",
-      "KR": "30초 내에 전투를 끝내세요",
+      "KR": "30초 내에 전투 종료",
       "TW": "30秒內結束戰鬥"
     }
   },
   "曼波": {
     "translation": "",
     "MultiLang": {
-      "US": "Mambo",
+      "US": "Mamba",
       "JP": "マンボ",
       "CN": "",
-      "KR": "만보",
+      "KR": "맨보",
       "TW": ""
     }
   },
   "20秒内结束战斗": {
     "translation": "",
     "MultiLang": {
-      "US": "Finish the battle within 20 seconds",
+      "US": "End battle within 20 seconds",
       "JP": "20秒以内に戦闘を終了",
       "CN": "",
-      "KR": "20초 안에 전투를 끝내세요",
+      "KR": "20초 내에 전투 종료",
       "TW": "20秒內結束戰鬥"
     }
   },
   "10秒内结束战斗": {
     "translation": "",
     "MultiLang": {
-      "US": "End the battle within 10 seconds",
+      "US": "End battle within 10 seconds",
       "JP": "10秒以内に戦闘を終了",
       "CN": "",
-      "KR": "10초 내에 전투를 끝내세요",
+      "KR": "10초 내에 전투 종료",
       "TW": "10秒內結束戰鬥"
     }
   },
@@ -363,29 +363,29 @@
     "translation": "",
     "MultiLang": {
       "US": "What is that....",
-      "JP": "",
+      "JP": "あれって何....",
       "CN": "",
-      "KR": "저게 뭐지....",
+      "KR": "그게 뭐지....",
       "TW": "那是什麼...."
     }
   },
   "僵尸摧毁了运载目标，任务失败！！": {
     "translation": "",
     "MultiLang": {
-      "US": "The zombies destroyed the transport target, mission failed!!",
-      "JP": "ゾンビが輸送目標を破壊しました。ミッション失敗！！",
+      "US": "Zombies destroyed the transport target, mission failed!!",
+      "JP": "ゾンビが運搬ターゲットを破壊、任務失敗！！",
       "CN": "",
-      "KR": "좀비가 목표물을 파괴했습니다. 임무 실패!!",
+      "KR": "좀비가 운반 목표를 파괴, 미션 실패！！",
       "TW": "僵屍摧毀了運載目標，任務失敗！！"
     }
   },
   "地图出现了大飞板": {
     "translation": "",
     "MultiLang": {
-      "US": "A big flyer has appeared on the map.",
-      "JP": "地図に大飛板が出現しました",
+      "US": "A giant flying board appeared on the map",
+      "JP": "マップに大飛板が出現",
       "CN": "",
-      "KR": "지도에 대피판이 나타났습니다.",
+      "KR": "지도에 대형 플라이보드가 등장",
       "TW": "地圖出現了大飛板"
     }
   },
@@ -412,10 +412,10 @@
   "初生的世界": {
     "translation": "",
     "MultiLang": {
-      "US": "",
-      "JP": "",
+      "US": "The newborn world",
+      "JP": "生まれた世界",
       "CN": "",
-      "KR": "",
+      "KR": "처음으로 태어난 세계",
       "TW": ""
     }
   }

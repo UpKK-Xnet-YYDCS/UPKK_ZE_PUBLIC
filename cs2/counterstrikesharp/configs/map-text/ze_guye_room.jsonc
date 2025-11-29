@@ -22,40 +22,40 @@
   "撤退,想办法到床上去。": {
     "translation": "",
     "MultiLang": {
-      "US": "Retreat, find a way to get to the bed.",
-      "JP": "撤退、ベッドへ移動する方法を考えなさい。",
+      "US": "Retreat, find a way to the bed.",
+      "JP": "撤退、ベッドに行けるように頑張れ。",
       "CN": "",
-      "KR": "후퇴, 침대로 가는 방법을 생각해 봐.",
+      "KR": "철수, 침대에 가는 방법을 찾아라.",
       "TW": "撤退，想辦法到床上去。"
     }
   },
   "路被该死的乐事薯片挡住了，防守30秒。": {
     "translation": "",
     "MultiLang": {
-      "US": "The road is blocked by the damn Lays chips, defend for 30 seconds.",
-      "JP": "道がくそみたいなポテトチップスでふさがれてしまった。30秒間防御。",
+      "US": "The path is blocked by damn Lay's chips, defend for 30 seconds.",
+      "JP": "道がめちゃくちゃなレジスナッツで塞がれてる、防衛30秒。",
       "CN": "",
-      "KR": "길이 빌어먹을 레이즈 감자칩으로 막혔습니다. 30초 동안 방어합니다.",
+      "KR": "길이 죽은 레지스프라이드로 막혔다, 방어 30초.",
       "TW": "路被該死的樂事薯片擋住了，防守30秒。"
     }
   },
   "撤退,我们能继续前进了。": {
     "translation": "",
     "MultiLang": {
-      "US": "Retreat, we can continue forward.",
-      "JP": "撤退、進撃を続けることができる。",
+      "US": "Retreat, we can move forward.",
+      "JP": "撤退、これで前進できる。",
       "CN": "",
-      "KR": "후퇴, 계속 전진할 수 있습니다.",
+      "KR": "철수, 우리는 계속 전진할 수 있다.",
       "TW": "撤退，我們能繼續前進了。"
     }
   },
   "屋主人还玩三角洲？防守30秒。": {
     "translation": "",
     "MultiLang": {
-      "US": "Is the homeowner still playing Delta? Defend for 30 seconds.",
-      "JP": "屋主人、まだデルタフォースをプレイしているのか？ 30秒間防衛。",
+      "US": "Is the house owner still playing Delta? Defend for 30 seconds.",
+      "JP": "家主、まだデルタをやってる？防衛30秒。",
       "CN": "",
-      "KR": "집주인은 아직 델타 작전을 하고 있나? 30초 동안 방어.",
+      "KR": "집주인은 여전히 드로폴을 플레이 중인가? 방어 30초.",
       "TW": ""
     }
   },
@@ -72,30 +72,30 @@
   "防守30秒,我们要跳下去。": {
     "translation": "",
     "MultiLang": {
-      "US": "Defend for 30 seconds, we're going to jump down.",
-      "JP": "30秒間の防御、私たちが飛び降りる",
+      "US": "Defend for 30 seconds, we're jumping down.",
+      "JP": "防衛30秒、飛び降りる。",
       "CN": "",
-      "KR": "30초 방어, 뛰어내릴 거야.",
+      "KR": "방어 30초, 우리는 뛰어내려야 한다.",
       "TW": "防守30秒，我們要跳下去。"
     }
   },
   "快上平台！": {
     "translation": "",
     "MultiLang": {
-      "US": "Hurry and get on the platform!",
-      "JP": "",
+      "US": "Get on the platform fast!",
+      "JP": "早く平台へ！",
       "CN": "",
-      "KR": "플랫폼에 올라타세요!",
+      "KR": "빨리 플랫폼에 올라와!",
       "TW": ""
     }
   },
   "似乎有什么事情要发生。": {
     "translation": "",
     "MultiLang": {
-      "US": "Something seems about to happen.",
-      "JP": "何か起こりそうな予感がする。",
+      "US": "Something seems to be about to happen.",
+      "JP": "何かが起こりそう。",
       "CN": "",
-      "KR": "무슨 일이 벌어질 것 같다.",
+      "KR": "어떤 일이 일어날 것 같아.",
       "TW": "似乎有什麼事情要發生。"
     }
   },
@@ -103,7 +103,7 @@
     "translation": "",
     "MultiLang": {
       "US": "Map by Saga",
-      "JP": "",
+      "JP": "map by 佐賀",
       "CN": "",
       "KR": "맵 제작: 佐贺",
       "TW": "地圖製作：佐賀"
@@ -113,9 +113,9 @@
     "translation": "",
     "MultiLang": {
       "US": "ze_guye_room Demo Version, does not represent the final quality.",
-      "JP": "ze_guye_room 試玩版、最終品質を代表するものではありません。",
+      "JP": "ze_guye_room テスト版、最終品質を保証しない。",
       "CN": "",
-      "KR": "ze_guye_room 체험판, 최종 품질을 대표하지 않습니다.",
+      "KR": "ze_guye_room 테스트 버전, 최종 품질을 대표하지 않습니다.",
       "TW": "ze_guye_room 試玩版，不代表最終品質。"
     }
   },
@@ -123,7 +123,7 @@
     "translation": "",
     "MultiLang": {
       "US": "Level 1",
-      "JP": "第一関",
+      "JP": "第1関",
       "CN": "",
       "KR": "제1관",
       "TW": "第一關"
@@ -133,7 +133,7 @@
     "translation": "",
     "MultiLang": {
       "US": "Level 2",
-      "JP": "第二関",
+      "JP": "第2関",
       "CN": "",
       "KR": "제2관",
       "TW": "第二關"
@@ -152,20 +152,20 @@
   "防守30秒,等待可乐消失": {
     "translation": "",
     "MultiLang": {
-      "US": "Defend for 30 seconds, wait for the cola to disappear",
-      "JP": "30秒間の防御、コーラが消えるのを待つ",
+      "US": "Defend for 30 seconds, wait for the Coke to disappear",
+      "JP": "防衛30秒、コーラが消えるのを待て。",
       "CN": "",
-      "KR": "30초 방어, 콜라 사라지기를 기다리기",
+      "KR": "방어 30초, 콜라가 사라질 때까지 기다려라",
       "TW": "防守30秒，等待可樂消失"
     }
   },
   "撤退,这些彩虹门到底是什么？": {
     "translation": "",
     "MultiLang": {
-      "US": "Retreat! What are these rainbow gates, anyway?",
-      "JP": "撤退、これらのレインボーゲートって一体何だ？",
+      "US": "Retreat, what the hell are these rainbow doors?",
+      "JP": "撤退、この虹の扉って一体何だ？",
       "CN": "",
-      "KR": "철수, 이 레인보우 게이트들은 到底 是什么？",
+      "KR": "철수, 이 빛무지개 문은 도대체 뭔가?",
       "TW": "撤退，這些彩虹門到底是什么？"
     }
   },
@@ -173,49 +173,49 @@
     "translation": "",
     "MultiLang": {
       "US": "Defend for 25 seconds until the Yibao bottle disappears",
-      "JP": "25秒間守り続け、怡宝のボトルが消えるまで",
+      "JP": "防衛25秒、怡宝ボトルが消えるまで。",
       "CN": "",
-      "KR": "이보의 병이 사라질 때까지 25초 동안 방어",
+      "KR": "이보우 병이 사라질 때까지 방어 25초",
       "TW": ""
     }
   },
   "撤退。只是...这是什么地方？": {
     "translation": "",
     "MultiLang": {
-      "US": "Retreat. Just... where is this place?",
-      "JP": "撤退。ただ……これはどこだ？",
+      "US": "Retreat. Just... where the hell are we?",
+      "JP": "撤退。ただ…ここはどこだ？",
       "CN": "",
-      "KR": "철수. 하지만... 이곳은 어디지?",
+      "KR": "철수. 하지만... 이곳은 도대체 어디야?",
       "TW": "撤退。只是...這是什麼地方？"
     }
   },
   "防守30秒，看起来小黄鸭会帮我们": {
     "translation": "",
     "MultiLang": {
-      "US": "Defend for 30 seconds, looks like Little Yellow Duck will help us",
-      "JP": "防衛30秒、小黄鸭が私たちを手伝ってくれるみたい",
+      "US": "Defend for 30 seconds, looks like the little yellow duck will help us",
+      "JP": "防衛30秒、小黄鸭が助けてくれそう。",
       "CN": "",
-      "KR": "30초 방어, 작고 노란 오리가 우리를 도와줄 것 같아",
+      "KR": "방어 30초, 작고 노란 오리가 우리를 도와줄 것 같아",
       "TW": "防守30秒，看起來小黃鴨會幫我們"
     }
   },
   "小黄鸭:上来吧，我带你们走": {
     "translation": "",
     "MultiLang": {
-      "US": "Yellow Duck: Climb on, I'll take you away",
-      "JP": "ゴールデン・ダック：上がれ、俺が連れていこう",
+      "US": "Little Yellow Duck: Get on, I'll take you out",
+      "JP": "小黄鸭：乗れ、俺が連れてく。",
       "CN": "",
-      "KR": "작은 황색 오리: 올라와, 내가 너희를 데려가줄게",
+      "KR": "작은 노란 오리: 올라와, 내가 너희를 데려가줄게",
       "TW": "小黃鴨: 上來吧，我帶你們走"
     }
   },
   "那是什么？为什么电竞房里的飞船会在这？": {
     "translation": "",
     "MultiLang": {
-      "US": "What is that? Why is a spaceship from the esports room here?",
-      "JP": "それは何だ？なぜエスポートルーム内の宇宙船がここにいるのか？",
+      "US": "What is that? Why is the spaceship from the esports room here?",
+      "JP": "あれは何だ？なぜeスポーツ部屋の宇宙船がここに？",
       "CN": "",
-      "KR": "뭐지? 왜 이곳에 게임방의 우주선이 있지?",
+      "KR": "저건 뭐야? 왜 이 게이밍룸에 우주선이 있단 말이야?",
       "TW": "那是什么？為什麼電競房裡的飛船會在這裡？"
     }
   },
@@ -223,69 +223,69 @@
     "translation": "",
     "MultiLang": {
       "US": "Why is there a switch on the water surface? What's going on in this room?",
-      "JP": "なぜ水の上にスイッチがあるの？この部屋はどうなっているの？",
+      "JP": "なぜ水上にswitchがある？この部屋は一体どうなってる？",
       "CN": "",
-      "KR": "왜 물 위에 스위치가 있을까? 이 방은 대체 어떻게 된 거야?",
+      "KR": "왜 물 위에 스위치가 있단 말이야? 이 방은 도대체 뭔가?",
       "TW": "為什麼水面上會有switch？這個房間是怎么回事？"
     }
   },
   "防守40秒，彩虹门会把我们送到哪？": {
     "translation": "",
     "MultiLang": {
-      "US": "Defend for 40 seconds, where will the rainbow gate send us?",
-      "JP": "守備40秒、虹のゲートは私たちをどこに連れて行くのか？",
+      "US": "Defend for 40 seconds, where the hell will the rainbow doors take us?",
+      "JP": "防衛40秒、虹の扉はどこへ連れてく？",
       "CN": "",
-      "KR": "방어 40초, 무지개 문은 우리를 어디로 보낼까?",
+      "KR": "방어 40초, 빛무지개 문은 우리를 어디로 보낼까?",
       "TW": "防守40秒，彩虹門會把我們送到哪？"
     }
   },
   "轰鸣声:注意躲避周围的飞船": {
     "translation": "",
     "MultiLang": {
-      "US": "***Alert: Avoid the surrounding spacecraft***",
-      "JP": "騒音: 周囲の宇宙船を回避してください",
+      "US": "Roar: Avoid the surrounding spaceships",
+      "JP": "轟音：周囲の宇宙船を避けろ。",
       "CN": "",
-      "KR": "***경고: 주변의 함선을 피하세요***",
+      "KR": "드럼 소리: 주변의 우주선을 피해라",
       "TW": "轟鳴聲: 注意躲避周圍的飛船"
     }
   },
   "龙车!龙车!龙车!注意!": {
     "translation": "",
     "MultiLang": {
-      "US": "Dragon Cart! Dragon Cart! Dragon Cart! Watch out!",
+      "US": "Dragon Car! Dragon Car! Dragon Car! Watch out!",
       "JP": "竜車！竜車！竜車！注意！",
       "CN": "",
-      "KR": "용차! 용차! 용차! 주의!",
+      "KR": "용차! 용차! 용차! 조심해!",
       "TW": "龍車！龍車！龍車！注意！"
     }
   },
   "激光声:远离飞机正前方": {
     "translation": "",
     "MultiLang": {
-      "US": "Laser sound: Stay away from in front of the aircraft",
-      "JP": "レーザー音: 飛行機の正面から離れてください",
+      "US": "Laser sound: Stay away from the front of the plane",
+      "JP": "レーザー音：飛行機の正面から離れて。",
       "CN": "",
-      "KR": "*** 레이저 사운드: 항공기 정면에서 떨어지세요",
+      "KR": "레이저 소리: 비행기의 정면에서 멀리 떨어져 있어",
       "TW": "激光聲: 遠離飛機正前方"
     }
   },
   "投弹声:注意飞机投下的炸弹": {
     "translation": "",
     "MultiLang": {
-      "US": "Bomb drop sound: Be aware of bombs dropped by the aircraft",
-      "JP": "爆音：注意飞机投下的炸弹",
+      "US": "Bomb drop sound: Watch out for the plane's bombs",
+      "JP": "爆撃音：飛行機が落とした爆弾に注意。",
       "CN": "",
-      "KR": "폭탄 소리: 비행기에서 떨어지는 폭탄에 주의",
+      "KR": "폭탄 투하 소리: 비행기가 투하하는 폭탄을 조심해",
       "TW": "投彈聲:注意飛機投下的炸彈"
     }
   },
   "快远离飞机投放的僵尸": {
     "translation": "",
     "MultiLang": {
-      "US": "Stay away from the zombies dropped by the airplane",
-      "JP": "飛行機から投下されたゾンビから速やかに離れてください",
+      "US": "Get away from the zombies the plane dropped",
+      "JP": "早く飛行機が落としたゾンビから離れて！",
       "CN": "",
-      "KR": "비행기에서 떨어지는 좀비로부터 빨리 멀어지세요",
+      "KR": "비행기가 투하한 좀비에서 빨리 멀어져라",
       "TW": "快遠離飛機投放的殭屍"
     }
   },
@@ -293,19 +293,19 @@
     "translation": "",
     "MultiLang": {
       "US": "cialalalala: Go to the special effects section",
-      "JP": "cialalalala: すぐ効果の部分に行って",
+      "JP": "cialalalala：すぐエフェクトの中へ！",
       "CN": "",
-      "KR": "cialalalala: 빨리 이펙트 안으로",
+      "KR": "cialalalala: 빨리 특수 효과 안으로 들어와",
       "TW": ""
     }
   },
   "地图状态:试玩版，全流程未完成": {
     "translation": "",
     "MultiLang": {
-      "US": "Map Status: Demo Version, Full Process Not Completed",
-      "JP": "地図状態: デモ版、全行程未完了",
+      "US": "Map status: Demo version, full route not completed",
+      "JP": "マップ状態：テスト版、全行程未完了",
       "CN": "",
-      "KR": "지도 상태: 체험판, 전 과정 완료되지 않음",
+      "KR": "맵 상태: 테스트 버전, 전체 플레이가 완료되지 않음",
       "TW": "地圖狀態: 試玩版，全流程未完成"
     }
   },
@@ -315,55 +315,55 @@
       "US": "Level 3",
       "JP": "第3関",
       "CN": "",
-      "KR": "세 번째 레벨",
+      "KR": "제3관",
       "TW": "第三關"
     }
   },
   "防守30秒后进入彩虹门": {
     "translation": "",
     "MultiLang": {
-      "US": "Enter the rainbow gate after defending for 30 seconds",
-      "JP": "30秒間の防御後、レインボーゲートへ",
+      "US": "Defend for 30 seconds, then enter the rainbow door",
+      "JP": "防衛30秒後に虹の扉へ。",
       "CN": "",
-      "KR": "30초 방어 후 무지개 문으로",
+      "KR": "방어 30초 후 빛무지개 문으로 들어가라",
       "TW": "防禦30秒後進入彩虹門"
     }
   },
   "看起来没有路了,是死局了么？": {
     "translation": "",
     "MultiLang": {
-      "US": "It seems there's no way forward—has it become a dead end?",
-      "JP": "道が見えない。これは詰みか？",
+      "US": "Looks like there's no way out, is this a dead end?",
+      "JP": "道が見えない、死に至るのか？",
       "CN": "",
-      "KR": "길이 보이지 않아, 끝장이란 말인가?",
+      "KR": "길이 보이지 않아, 죽은 길인가?",
       "TW": "看起來沒有路了，是死局了嗎？"
     }
   },
   "死!者!稣!生!": {
     "translation": "",
     "MultiLang": {
-      "US": "Death! Rises! Life!",
+      "US": "Dead! Reborn!",
       "JP": "死！者！蘇！生！",
       "CN": "",
-      "KR": "사!자!부!활!",
+      "KR": "사!자!부!생!",
       "TW": "死！者！稣！生！"
     }
   },
   "防守30秒,这是最后一个守点了": {
     "translation": "",
     "MultiLang": {
-      "US": "Defend for 30 seconds, this is the last point to hold",
-      "JP": "30秒間の防御、これは最後の守点です",
+      "US": "Defend for 30 seconds, this is the last defense point",
+      "JP": "防衛30秒、これが最後の守備点だ。",
       "CN": "",
-      "KR": "방어 30초, 이건 마지막 방어점입니다",
+      "KR": "방어 30초, 이건 마지막 방어 지점이다",
       "TW": "防守30秒，這是最後一個守點了"
     }
   },
   "生存关卡": {
     "translation": "",
     "MultiLang": {
-      "US": "Survival Level",
-      "JP": "生存ステージ",
+      "US": "Survival Mode",
+      "JP": "生存関卡",
       "CN": "",
       "KR": "생존 레벨",
       "TW": "生存關卡"
@@ -383,9 +383,9 @@
     "translation": "",
     "MultiLang": {
       "US": "Demo version, not indicative of final quality, map by Saga",
-      "JP": "体験版, 最終品質を保証するものではありません, map by 佐賀",
+      "JP": "テスト版、最終品質を保証しない、map by 佐賀",
       "CN": "",
-      "KR": "체험판, 최종 품질을 나타내지 않음, map by 佐贺",
+      "KR": "테스트 버전, 최종 품질을 대표하지 않음, map by 佐贺",
       "TW": "試玩版,不代表最終品質,map by 佐賀"
     }
   },
@@ -423,9 +423,9 @@
     "translation": "",
     "MultiLang": {
       "US": "ze_guye_room Author: Saga",
-      "JP": "ze_guye_room 著者:佐賀",
+      "JP": "ze_guye_room 作者：佐賀",
       "CN": "",
-      "KR": "ze_guye_room 저자: 사가",
+      "KR": "ze_guye_room 작가: 佐贺",
       "TW": ""
     }
   },
@@ -442,27 +442,27 @@
   "飞行棋开始,请远离棋子,站在棋盘上": {
     "translation": "",
     "MultiLang": {
-      "US": "The game of Flying Chess has started. Please move away from the pieces and stand on the board.",
-      "JP": "チェスゲームを開始します。駒から離れて、盤の上に立ってください",
+      "US": "Checkers game starts, stay away from the pieces, stand on the board",
+      "JP": "チェスゲーム開始、駒から離れて、盤の上に立って。",
       "CN": "",
-      "KR": "체스 게임 시작, 체스 말에서 멀리 떨어져서 체스판 위에 서십시오",
+      "KR": "체스 게임 시작, 체스 말에서 멀리 떨어져, 체스판 위에 서라",
       "TW": "飛行棋開始，請遠離棋子，站在棋盤上"
     }
   },
   "小游戏": {
     "translation": "",
     "MultiLang": {
-      "US": "Mini Game",
+      "US": "Mini-game",
       "JP": "ミニゲーム",
       "CN": "",
-      "KR": "작은 게임",
+      "KR": "소형 게임",
       "TW": "小遊戲"
     }
   },
   "循环格子": {
     "translation": "",
     "MultiLang": {
-      "US": "Cycle Grid",
+      "US": "Looping tiles",
       "JP": "ループグリッド",
       "CN": "",
       "KR": "순환 격자",
@@ -472,10 +472,10 @@
   "你在飞行棋游戏中获胜了,恭喜!现在清理残余的僵尸!": {
     "translation": "",
     "MultiLang": {
-      "US": "You have won the game of Flying Chess! Congratulations! Now clear the remaining zombies!",
-      "JP": "あなたはチェスゲームで勝利しました、おめでとう！それでは、残りのゾンビを片付けましょう！",
+      "US": "You won the checkers game! Congratulations! Now clear the remaining zombies!",
+      "JP": "飛行棋ゲームで勝利しました、おめでとう！今、残りのゾンビを片付けろ！",
       "CN": "",
-      "KR": "당신은 육각 체스 게임에서 승리했습니다! 축하합니다! 이제 남은 좀비를 정리하세요!",
+      "KR": "너는 체스 게임에서 승리했어, 축하해! 지금 남은 좀비를 정리해라!",
       "TW": "你在飛行棋遊戲中獲勝了，恭喜！現在清理殘餘的殭屍！"
     }
   }
