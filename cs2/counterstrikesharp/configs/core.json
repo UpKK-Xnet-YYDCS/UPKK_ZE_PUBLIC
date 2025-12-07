@@ -3,7 +3,11 @@
     "SilentChatTrigger": [ "/" ],
     "FollowCS2ServerGuidelines": false,
     "PluginHotReloadEnabled": false,
+    "PluginAutoLoadEnabled": true,
+    "PluginResolveNugetPackages": false,
     "ServerLanguage": "zh",
     "UnlockConCommands": true,
-    "UnlockConVars": true
+    "UnlockConVars": true,
+    "AutoUpdateEnabled": true,
+    "AutoUpdateURL": "http://gamedata.cssharp.dev"
 }
