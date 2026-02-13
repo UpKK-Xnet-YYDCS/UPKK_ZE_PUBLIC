@@ -11,7 +11,7 @@ import logging
 
 # ==================== 配置区 ====================
 OLLAMA_URL = "http://192.168.50.7:11434/api/generate"
-MODEL = "qwen3:30b-a3b-instruct-2507-q4_K_M"   # 你当前模型
+MODEL = "glm-4.7-flash:latest"   # 可能现阶段更好的选择?
 DIRECTORY = os.getcwd()
 HEADERS = {"Content-Type": "application/json"}
 
