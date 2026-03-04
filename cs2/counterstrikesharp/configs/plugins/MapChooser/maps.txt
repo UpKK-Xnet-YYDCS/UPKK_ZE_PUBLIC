@@ -2192,15 +2192,6 @@
 		"search" "浮岛滑翔"
 		"OnlyNominate" "1"
 	}
-	"ze_LOTR_Minas_Tirith_p"
-	{
-		"workshop_id" "3314560349"
-		"enabled" "1"
-		"filename" "ze_lotr_minas_tirith_p"
-		"updatedname" "ze_lotr_minas_tirith_p"
-		"search" "米那斯;魔戒3"
-		"OnlyNominate" "1"
-	}
 	"ze_flying_world"
 	{
 		"workshop_id" "3318263833"
@@ -5462,5 +5453,110 @@
 		"filename" "ze_elmas"
 		"updatedname" "ze_elmas"
 		"OnlyNominate" "0"
+	}
+	"ze_FFXIV_Wanderers_Palace_v2_8"
+	{
+		"workshop_id" "3665371355"
+		"enabled" "1"
+		"filename" "ze_FFXIV_Wanderers_Palace_v2_8"
+		"updatedname" "ze_FFXIV_Wanderers_Palace_v2_8"
+		"OnlyNominate" "0"
+	}
+	"ze_newyear_v1_8"
+	{
+		"workshop_id" "3667466785"
+		"enabled" "1"
+		"filename" "ze_newyear_v1_8"
+		"updatedname" "ze_newyear_v1_8"
+		"OnlyNominate" "0"
+	}
+	"ze_best_guess"
+	{
+		"workshop_id" "3668165205"
+		"enabled" "1"
+		"filename" "ze_best_guess"
+		"updatedname" "ze_best_guess"
+		"OnlyNominate" "0"
+	}
+	"ze_deadly_archive"
+	{
+		"workshop_id" "3667395128"
+		"enabled" "1"
+		"filename" "ze_deadly_archive"
+		"updatedname" "ze_deadly_archive"
+		"OnlyNominate" "0"
+	}
+	"ze_surf_soft"
+	{
+		"workshop_id" "3669722089"
+		"enabled" "1"
+		"filename" "ze_surf_soft"
+		"updatedname" "ze_surf_soft"
+		"OnlyNominate" "0"
+	}
+	"ze_hr_dead_center"
+	{
+		"workshop_id" "3659211427"
+		"enabled" "1"
+		"filename" "ze_hr_dead_center"
+		"updatedname" "ze_hr_dead_center"
+		"OnlyNominate" "0"
+	}
+	"ze_shenghuaxinnianguangchang_v0_1"
+	{
+		"workshop_id" "3672184863"
+		"enabled" "1"
+		"filename" "ze_shenghuaxinnianguangchang_v0_1"
+		"updatedname" "ze_shenghuaxinnianguangchang_v0_1"
+		"OnlyNominate" "0"
+	}
+	"ze_workcell_cancer"
+	{
+		"workshop_id" "3673205467"
+		"enabled" "1"
+		"filename" "ze_workcell_cancer"
+		"updatedname" "ze_workcell_cancer"
+		"OnlyNominate" "0"
+	}
+	"ze_sewer"
+	{
+		"workshop_id" "3673154394"
+		"enabled" "1"
+		"filename" "ze_sewer"
+		"updatedname" "ze_sewer"
+		"OnlyNominate" "0"
+	}
+	"ze_A_E_S_T_H_E_T_I_C_p"
+	{
+		"workshop_id" "3675161520"
+		"enabled" "1"
+		"filename" "ze_A_E_S_T_H_E_T_I_C_p"
+		"updatedname" "ze_A_E_S_T_H_E_T_I_C_p"
+		"OnlyNominate" "0"
+	}
+	"ze_winer"
+	{
+		"workshop_id" "3675256794"
+		"enabled" "1"
+		"filename" "ze_winer"
+		"updatedname" "ze_winer"
+		"OnlyNominate" "0"
+	}
+	"ze_maixia_v1"
+	{
+		"workshop_id" "3677018112"
+		"enabled" "1"
+		"filename" "ze_maixia_v1"
+		"updatedname" "ze_maixia_v1"
+		"OnlyNominate" "0"
+	}
+	"ze_lotr_minas_tirith_recompile"
+	{
+		"workshop_id" "3353505696"
+		"enabled" "1"
+		"filename" "ze_lotr_minas_tirith_recompile"
+		"updatedname" "ze_lotr_minas_tirith_recompile"
+		"search" "米那斯;魔戒3"
+		"OnlyNominate" "1"
 	}
 }
