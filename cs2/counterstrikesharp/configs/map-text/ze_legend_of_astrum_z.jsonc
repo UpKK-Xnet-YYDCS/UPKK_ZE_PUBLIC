@@ -415,7 +415,7 @@
       "US": "",
       "JP": "***让我们前进！***",
       "CN": "**我们向前推进！**",
-      "KR": "",
+      "KR": "** 앞으로 나아갑시다! **",
       "TW": "***让我们前進！***"
     }
   },
@@ -425,7 +425,7 @@
       "US": "",
       "JP": "***让我们休息10秒。里面怪物太多了。***",
       "CN": "**我们先休息10秒。里面的怪物太多了。**",
-      "KR": "",
+      "KR": "** 10초 동안 휴식을 취하겠습니다. 안에 몬스터가 너무 많았습니다. **",
       "TW": "**讓我們休息10秒鐘。裡面怪獸太多了1點。**"
     }
   },
@@ -645,7 +645,7 @@
       "US": "",
       "JP": "*** 大量の敵がいる！これでゲームオーバーになるか？ ***",
       "CN": "**实在太多了！这会结束吗？**",
-      "KR": "",
+      "KR": "** 너무 많아요! 이게 끝이 될까요? **",
       "TW": "**有太多！這是要結束嗎？**"
     }
   },
@@ -823,9 +823,9 @@
     "translation": "<<地图作者：Pasas1345 翻译：Asteri3m>>",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "<<By Pasas1345>>",
       "CN": "<<地图作者：Pasas1345 翻译：Asteri3m>>",
-      "KR": "",
+      "KR": "<<Pasas1345 작성>>",
       "TW": "<<由Pasas1345>>"
     }
   },
@@ -903,7 +903,7 @@
     "translation": "<<可可萝的矛 - 施展后会出现一个治疗光环，持续8秒。>>",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "<<ココロの槍 - 治癒のオーラを付与し、8秒間持続します。>>",
       "CN": "<<可可萝的矛 - 施展后会出现一个治疗光环，持续8秒。>>",
       "KR": "<<kokkoros spear - 시전 후 8초 동안 치유aura가 나타납니다.>>",
       "TW": "kokkoroo的長槍 - 施放治療光罩後將於8秒內出現治療光环。"
@@ -1125,7 +1125,7 @@
       "US": "",
       "JP": "Warmup -- 10秒 >>",
       "CN": "<<热身 -- 10秒>>",
-      "KR": "",
+      "KR": "<<준비 운동 - 10초>>",
       "TW": "<<暖身--10秒>>"
     }
   },
@@ -1193,10 +1193,10 @@
     "translation": "<<你没能及时伤害霸瞳>>",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "<<あなたはカイザーに十分なダメージを与えられませんでした。>>",
       "CN": "<<你没能及时伤害霸瞳>>",
       "KR": "<<당신이 카이서를 충분히 빠르게 다치게 하지 못했습니다>>",
-      "TW": ""
+      "TW": "<<您未能以足够快的速度伤害到凱撒>>"
     }
   },
   "<<You and your guildmates go inside the building...>>": {
@@ -1243,10 +1243,10 @@
     "translation": "<<discord.gg/eXR7xumCfP>>",
     "MultiLang": {
       "US": "",
-      "JP": "",
-      "CN": "",
-      "KR": "",
-      "TW": ""
+      "JP": "<<discord.gg/eXR7xumCfP>>",
+      "CN": "<<discord.gg/eXR7xumCfP>>",
+      "KR": "<<discord.gg/eXR7xumCfP>>",
+      "TW": "<<discord.gg/eXR7xumCfP>>"
     }
   },
   "<<当前版本号码为001>>": {
@@ -1463,7 +1463,7 @@
     "translation": "<霸瞳>: 不要啊啊啊啊啊啊啊啊！",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "<Kaiser>: NOOOOOOOOOOO!",
       "CN": "<霸瞳>: 不要啊啊啊啊啊啊啊啊！",
       "KR": "<카이서>: 네ееееееееееeee!",
       "TW": "<皇帝>: NOOOOOOOOOOO!"
@@ -1623,10 +1623,10 @@
     "translation": "<凯露>: 1秒。",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "<Kyaru>: 1.",
       "CN": "<凯露>: 1秒。",
-      "KR": "",
-      "TW": ""
+      "KR": "<Kyaru>: 1.",
+      "TW": "<Kyaru>: 1."
     }
   },
   "<Kyaru>: 10 more seconds.": {
@@ -1643,10 +1643,10 @@
     "translation": "<凯露>: 2秒。",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "<Kyaru>: 2.",
       "CN": "<凯露>: 2秒。",
-      "KR": "",
-      "TW": ""
+      "KR": "<Kyaru>: 2.",
+      "TW": "<Kyaru>: 2."
     }
   },
   "<Kyaru>: 20 more seconds.": {
@@ -1663,10 +1663,10 @@
     "translation": "<凯露>: 3秒。",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "<Kyaru>: 3.",
       "CN": "<凯露>: 3秒。",
-      "KR": "",
-      "TW": ""
+      "KR": "<Kyaru>: 3.",
+      "TW": "<Kyaru>: 3."
     }
   },
   "<Kyaru>: 30 more seconds.": {
@@ -1683,20 +1683,20 @@
     "translation": "<凯露>: 4秒。",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "<キラル>: 4。",
       "CN": "<凯露>: 4秒。",
-      "KR": "",
-      "TW": ""
+      "KR": "<Kyaru>: 4.",
+      "TW": "<Kyaru>: 4."
     }
   },
   "<Kyaru>: 5.": {
     "translation": "<凯露>: 5秒。",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "<キラル>: 5。",
       "CN": "<凯露>: 5秒。",
-      "KR": "",
-      "TW": ""
+      "KR": "<Kyaru>: 5.",
+      "TW": "<Kyaru>: 5."
     }
   },
   "<Kyaru>: After I open the path. It's up to the new guildmembers. I have chosen a new path with you guys.": {

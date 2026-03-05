@@ -36,7 +36,7 @@
       "JP": "{\"text\": \">> 急いで四方を警戒せよ! <<\"}\n\n{\"text\": \">> 急いで四方を警戒せよ! <<\"}",
       "CN": ">> 快去四周! <<",
       "KR": ">> 어서 주변을 둘러봐! <<",
-      "TW": ""
+      "TW": ">> 快去四周！<<"
     }
   },
   ">> 护盾 冷却:60秒 持续:7秒 <<": {
@@ -46,7 +46,7 @@
       "JP": ">> 護盾 冷却:60秒 継続:7秒 <<",
       "CN": ">> 护盾 冷却:60 持续:7 <<",
       "KR": ">>> 방어막 재사용: 60초 지속: 7초 <<<",
-      "TW": ""
+      "TW": ">> 護盾 冷却:60秒 持续:7秒 <<"
     }
   },
   ">>> 管理员修改至[前幕] <<<": {
@@ -123,10 +123,10 @@
     "translation": "AoraitsuR 0.99.3f 24/10/05 20:56",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "AoraitsuR 0.99.3f 24/10/05 20:56",
       "CN": "AoraitsuR 0.99.3f 24/10/05 20:56",
-      "KR": "",
-      "TW": ""
+      "KR": "AoraitsuR 0.99.3f 24/10/05 20:56",
+      "TW": "AoraitsuR 0.99.3f 24/10/05 20:56"
     }
   },
   "[+] 红色血包方块 +50生命": {
@@ -156,7 +156,7 @@
       "JP": "[X] 最高の生命値 150",
       "CN": "[X] 最高生命值 150",
       "KR": "[X] 최대 생명력 150",
-      "TW": ""
+      "TW": "[X] 最高生命值 150"
     }
   },
   "[^] 绿色箭头方块 +70生命与跳跃": {
@@ -173,10 +173,10 @@
     "translation": "say AoraitsuR TU0.99 24/08/16 18:17",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "say AoraitsuR TU0.99 24/08/16 18:17",
       "CN": "say AoraitsuR TU0.99 24/08/16 18:17",
-      "KR": "",
-      "TW": ""
+      "KR": "say AoraitsuR TU0.99 24/08/16 18:17",
+      "TW": "say AoraitsuR TU0.99 24/08/16 18:17"
     }
   },
   "| 20 |": {
@@ -313,7 +313,7 @@
     "translation": "| 伤害球 冷却:10 |",
     "MultiLang": {
       "US": "Damage Orb Cooldown: 10 seconds",
-      "JP": "",
+      "JP": "| 攻撃球 冷却:10秒 |",
       "CN": "| 伤害球 冷却:10 |",
       "KR": "데미지 볼 냉각: 10초",
       "TW": "傷害球 冷却:10秒"
@@ -496,7 +496,7 @@
       "JP": "ああああああ哈哈啊啊啊啊",
       "CN": "| 啊啊啊啊哈哈啊啊啊 |",
       "KR": "아아아아아하하하아아아아",
-      "TW": ""
+      "TW": "| 啊啊啊啊哈哈啊啊啊 |"
     }
   },
   "| 守住25秒 |": {
@@ -506,14 +506,14 @@
       "JP": "| 25秒守る |",
       "CN": "| 守住25秒 |",
       "KR": "지켜 25초",
-      "TW": ""
+      "TW": "| 守住25秒 |"
     }
   },
   "| 定身球 冷却:35秒 持续:5秒 |": {
     "translation": "| 定身球 冷却:35 持续:5 |",
     "MultiLang": {
       "US": "Sticky Ball Cooldown: 35 seconds Duration: 5 seconds",
-      "JP": "",
+      "JP": "| 麻痺球 冷却:35秒 継続:5秒 |",
       "CN": "| 定身球 冷却:35 持续:5 |",
       "KR": "정신구 냉각:35초 지속:5초",
       "TW": "| 定身球 冷卻:35秒 持續:5秒 |"
@@ -523,7 +523,7 @@
     "translation": "| 推力 冷却:60 持续:6.5 |",
     "MultiLang": {
       "US": "Thrust Cooldown: 60 seconds Duration: 6.5 seconds",
-      "JP": "",
+      "JP": "| 推進力 冷却:60秒 継続:6.5秒 |",
       "CN": "| 推力 冷却:60 持续:6.5 |",
       "KR": "Thrust Cooling: 60초 지속: 6.5초",
       "TW": "| 推力 冷卻:60秒 持續:6.5秒 |"
@@ -796,7 +796,7 @@
       "JP": "ああ哈哈..",
       "CN": "啊哈哈..",
       "KR": "하하하...",
-      "TW": ""
+      "TW": "啊哈哈.."
     }
   },
   "嗯？": {
@@ -806,7 +806,7 @@
       "JP": "え？",
       "CN": "嗯？",
       "KR": "뭐?",
-      "TW": ""
+      "TW": "嗯？"
     }
   },
   "Aoraitsu:Reload | Ver.Swan": {
@@ -814,16 +814,16 @@
     "MultiLang": {
       "US": "",
       "JP": "アオライツ：リロード | Ver.スワン",
-      "CN": "",
+      "CN": "Aoraitsu:Reload | Ver.Swan",
       "KR": "아오라이츠:리로드 | Ver.스완",
-      "TW": ""
+      "TW": "Aoraitsu:Reload | Ver.Swan"
     }
   },
   "Aoraitsu:Reload | Swan III": {
     "translation": "",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "Aoraitsu:リロード | Swan III",
       "CN": "Aoraitsu:Reload | 天鹅 III",
       "KR": "아오라이츠:리로드 | 스완 III",
       "TW": "Aoraitsu:Reload | 天鵝III"
@@ -832,41 +832,41 @@
   ">> 护盾 冷却:60秒 持续:9秒 <<": {
     "translation": "",
     "MultiLang": {
-      "US": "",
-      "JP": "",
+      "US": ">> Shield: Cooldown 60 seconds, Duration: 9 seconds <<",
+      "JP": ">> シールド 冷却:60秒 継続:9秒 <<",
       "CN": "",
-      "KR": "",
-      "TW": ""
+      "KR": ">> 보호막 쿨다운: 60초 지속: 9초 <<",
+      "TW": ">> 護盾 冷却:60秒 持续:9秒 <<"
     }
   },
   "item_ball pickup": {
     "translation": "",
     "MultiLang": {
       "US": "",
-      "JP": "",
-      "CN": "",
-      "KR": "",
-      "TW": ""
+      "JP": "item_ball ピックアップ",
+      "CN": "拾取道具：球",
+      "KR": "item_ball 획득",
+      "TW": "item_ball pickup"
     }
   },
   "| 推力 冷却:60秒 持续:9秒 |": {
     "translation": "",
     "MultiLang": {
-      "US": "",
-      "JP": "",
+      "US": "| Thrust: Cooldown 60 seconds, Duration: 9 seconds |",
+      "JP": "推進力 冷却:60秒 継続:9秒",
       "CN": "",
-      "KR": "",
-      "TW": ""
+      "KR": "| 추진력 쿨다운: 60초 지속: 9초 |",
+      "TW": "| 推力 冷却:60秒 持续:9秒 |"
     }
   },
   "| OBJ 冷却:50秒 持续:8.5秒 |": {
     "translation": "",
     "MultiLang": {
-      "US": "",
-      "JP": "",
+      "US": "| OBJ: Cooldown 50 seconds, Duration: 8.5 seconds |",
+      "JP": "オブジェクト 冷却:50秒 継続:8.5秒",
       "CN": "",
-      "KR": "",
-      "TW": ""
+      "KR": "| 오브젝트 쿨다운: 50초 지속: 8.5초 |",
+      "TW": "| OBJ 冷却:50秒 持续:8.5秒 |"
     }
   }
 }

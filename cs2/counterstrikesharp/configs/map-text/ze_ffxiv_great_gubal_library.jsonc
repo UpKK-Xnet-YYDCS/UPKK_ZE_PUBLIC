@@ -306,7 +306,7 @@
       "JP": "* 一位プレイヤーが氷の要素を得た *",
       "CN": "",
       "KR": "* 한 플레이어가 얼음 원소를 획득했습니다 *",
-      "TW": ""
+      "TW": "* 一位玩家获得了冰元素 *"
     }
   },
   "** 效果：前方生成一道冰墙 **": {
@@ -336,7 +336,7 @@
       "JP": "* 一位プレイヤーが火元素 * を獲得しました。",
       "CN": "",
       "KR": "* 한 플레이어가 불 원소를 획득했습니다 *",
-      "TW": ""
+      "TW": "* 一位玩家获得了火元素 *"
     }
   },
   "** 效果：前方生成带推力的火焰并附带伤害 **": {
@@ -353,7 +353,7 @@
     "translation": "",
     "MultiLang": {
       "US": "A player obtained an Electro element *",
-      "JP": "",
+      "JP": "* 一位玩家获得了雷元素 *",
       "CN": "",
       "KR": "* 한 플레이어가 전원소 획득 *",
       "TW": "* 一位玩家獲得了電元素 *"
@@ -373,7 +373,7 @@
     "translation": "",
     "MultiLang": {
       "US": "Hold this position for 30s *",
-      "JP": "",
+      "JP": "* ここで30秒間防衛 *",
       "CN": "",
       "KR": "* 이곳을 30초 동안 지켜내세요 *",
       "TW": "* 在此守住30秒 *"
@@ -383,7 +383,7 @@
     "translation": "",
     "MultiLang": {
       "US": "A player obtained Wind Element *",
-      "JP": "",
+      "JP": "* 一位玩家获得了風元素 *",
       "CN": "",
       "KR": "* 한 플레이어가 풍 요소를 획득했습니다 *",
       "TW": "* 一位玩家獲得了風元素 *"
@@ -423,7 +423,7 @@
     "translation": "",
     "MultiLang": {
       "US": "Hold here for 25s *",
-      "JP": "",
+      "JP": "* ここで25秒間防衛 *",
       "CN": "",
       "KR": "* 여기서 25초 동안 방어하세요 *",
       "TW": "* 在此守住25秒 *"
@@ -443,120 +443,120 @@
     "translation": "",
     "MultiLang": {
       "US": "Artifacts other than Elemental ones will inflict the Silence effect.",
-      "JP": "",
+      "JP": "* 元素以外の神器は、使用者に沈黙効果を与える *",
       "CN": "",
       "KR": "** 원소 외의 신기는 침묵 효과를 부여합니다 **",
-      "TW": ""
+      "TW": "** 除了元素以外的神器都会给予沉默效果 **"
     }
   },
   "> 一位玩家成为了贤者 <": {
     "translation": "",
     "MultiLang": {
-      "US": "",
-      "JP": "",
+      "US": "A player has become a Sage.",
+      "JP": "* 一位玩家成为了贤者 *",
       "CN": "",
-      "KR": "",
-      "TW": ""
+      "KR": "> 한 명의 플레이어가 현자가 되었습니다.",
+      "TW": "> 一位玩家成为了贤者 <"
     }
   },
   "** 效果：正面e对前方区域造成减速；头顶e恢复周围人类血量（可存储3次） **": {
     "translation": "",
     "MultiLang": {
-      "US": "",
-      "JP": "",
+      "US": "Effect: Applies a slow to enemies in the front area; heals nearby human units (can store up to 3 charges).",
+      "JP": "* 効果：前方にいる敵に減速効果を与える。頭上に表示されるエフェクトは、周囲の人間の体力を回復する（最大3回まで蓄積可能） *",
       "CN": "",
-      "KR": "",
-      "TW": ""
+      "KR": "** 효과: 전방 지역에 대한 가속 저하; 머리 위에 있는 효과는 주변 인간의 체력을 회복합니다 (3회 저장 가능) **",
+      "TW": "** 效果：正面e对前方区域造成减速；头顶e恢复周围人类血量（可存储3次） **"
     }
   },
   "** 僵尸冰已被拾取 **": {
     "translation": "",
     "MultiLang": {
-      "US": "",
-      "JP": "",
+      "US": "Zombie Ice has been picked up.",
+      "JP": "* ゾンビアイスが拾われました *",
       "CN": "",
-      "KR": "",
-      "TW": ""
+      "KR": "** 좀비 아이스가 획득되었습니다 **",
+      "TW": "** 僵尸冰已被拾取 **"
     }
   },
   "** 效果：对周围的人类造成伤害并减速 **": {
     "translation": "",
     "MultiLang": {
-      "US": "",
-      "JP": "",
+      "US": "Effect: Deals damage and applies a slow to nearby human units.",
+      "JP": "効果：周囲の人間型ユニットにダメージを与え、移動速度を低下させます。",
       "CN": "",
-      "KR": "",
-      "TW": ""
+      "KR": "** 효과: 주변의 인간에게 피해를 입히고 속도를 늦춥니다 **",
+      "TW": "** 效果：对周围的人类造成伤害并减速 **"
     }
   },
   "> 一位玩家成为了骑士 <": {
     "translation": "",
     "MultiLang": {
-      "US": "",
-      "JP": "",
+      "US": "A player has become a Knight.",
+      "JP": "あるプレイヤーが騎士になりました。",
       "CN": "",
-      "KR": "",
-      "TW": ""
+      "KR": "> 한 명의 플레이어가 기사가 되었습니다.",
+      "TW": "> 一位玩家成为了骑士 <"
     }
   },
   "** 效果：按顺序前方依次生成推力 伤害 定身 减速 **": {
     "translation": "",
     "MultiLang": {
-      "US": "",
-      "JP": "",
+      "US": "Effect: Generates a sequence of effects in front: knockback, damage, stun, and slow.",
+      "JP": "効果：順番に、前方へそれぞれ、推進力、ダメージ、拘束、移動速度低下の効果を発生させます。",
       "CN": "",
-      "KR": "",
-      "TW": ""
+      "KR": "** 효과: 순서대로 전방에 추진력, 피해, 기절, 감속 효과를 생성합니다 **",
+      "TW": "效果：按顺序前方依次生成：推力、伤害、定身、减速。"
     }
   },
   "* 在此处守住20s *": {
     "translation": "",
     "MultiLang": {
-      "US": "",
-      "JP": "",
+      "US": "Hold this position for 20 seconds.",
+      "JP": "ここに20秒間、防衛してください。",
       "CN": "",
-      "KR": "",
-      "TW": ""
+      "KR": "* 이곳에서 20초 동안 방어하십시오 *",
+      "TW": "在此处守住20秒。"
     }
   },
   "** 僵尸盾已被拾取 **": {
     "translation": "",
     "MultiLang": {
-      "US": "",
-      "JP": "",
+      "US": "Zombie Shield has been picked up.",
+      "JP": "ゾンビシールドが拾われました。",
       "CN": "",
-      "KR": "",
-      "TW": ""
+      "KR": "** 좀비 실드가 획득되었습니다 **",
+      "TW": "僵尸护盾已被拾取。"
     }
   },
   "** 效果：生成原地护盾抵挡人类子弹 **": {
     "translation": "",
     "MultiLang": {
-      "US": "",
-      "JP": "",
+      "US": "Effect: Generates a shield at your location to block human bullets.",
+      "JP": "効果：原地でシールドを生成し、人間型ユニットの弾丸を防ぎます。",
       "CN": "",
-      "KR": "",
-      "TW": ""
+      "KR": "효과: 현재 위치에 방어막을 생성하여 인간의 탄환을 막습니다.",
+      "TW": "效果：生成原地护盾，抵挡人类子弹。"
     }
   },
   "* 在此处守住32s *": {
     "translation": "",
     "MultiLang": {
-      "US": "",
-      "JP": "",
+      "US": "*Hold this position for 32 seconds.*",
+      "JP": "ここに32秒間、防衛してください。",
       "CN": "",
-      "KR": "",
-      "TW": ""
+      "KR": "* 이곳을 32초 동안 지켜내세요 *",
+      "TW": "在此处守住32秒。"
     }
   },
   "* 在此处守住22s *": {
     "translation": "",
     "MultiLang": {
-      "US": "",
-      "JP": "",
+      "US": "*Hold this position for 22 seconds.*",
+      "JP": "ここに22秒間、防衛してください。",
       "CN": "",
-      "KR": "",
-      "TW": ""
+      "KR": "* 이곳을 22초 동안 지켜내세요 *",
+      "TW": "在此处守住22秒。"
     }
   }
 }

@@ -13,7 +13,7 @@
     "translation": "**警告： 剩余100秒 **",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "** 残り100秒 **",
       "CN": "**警告： 剩余100秒 **",
       "KR": "** 100 초 남았습니다 **",
       "TW": "** 100 秒 (miǎo) 餘 (yú) **"
@@ -23,7 +23,7 @@
     "translation": "**警告： 剩余110秒 **",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "** 残り110秒 **",
       "CN": "**警告： 剩余110秒 **",
       "KR": "** 110 초 남았습니다 **",
       "TW": "** 110 秒鐘剩餘 **"
@@ -33,7 +33,7 @@
     "translation": "**警告： 剩余120秒 **",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "** 残り120秒 **",
       "CN": "**警告： 剩余120秒 **",
       "KR": "** 120 초 남음 **",
       "TW": "** 120 秒已過 **"
@@ -43,7 +43,7 @@
     "translation": "**警告： 剩余20秒 **",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "** 残り20秒 **",
       "CN": "**警告： 剩余20秒 **",
       "KR": "** 20초 남았습니다 **",
       "TW": "** 剩餘 20 秒 **"
@@ -63,7 +63,7 @@
     "translation": "**警告： 剩余40秒 **",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "** 残り40秒 **",
       "CN": "**警告： 剩余40秒 **",
       "KR": "** 40초 남았습니다 **",
       "TW": "** 40 秒 已過 **"
@@ -93,7 +93,7 @@
     "translation": "**警告： 剩余70秒 **",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "** 残り70秒 **",
       "CN": "**警告： 剩余70秒 **",
       "KR": "** 70초 남았습니다 **",
       "TW": "** 70 秒已過 **"
@@ -103,7 +103,7 @@
     "translation": "**警告： 剩余80秒 **",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "** 残り80秒 **",
       "CN": "**警告： 剩余80秒 **",
       "KR": "** 80초 남았습니다 **",
       "TW": "** 剩餘 80 秒 **"
@@ -113,7 +113,7 @@
     "translation": "**警告： 剩余90秒 **",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "** 残り90秒 **",
       "CN": "**警告： 剩余90秒 **",
       "KR": "** 90 초 남았습니다 **",
       "TW": "** 90 秒已餘 **"
@@ -163,7 +163,7 @@
     "translation": "** 剩余20秒 **",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "** 残り 20 秒 **",
       "CN": "** 剩余20秒 **",
       "KR": "** 20초 남았습니다 **",
       "TW": "** 20 秒已餘 **"
@@ -175,7 +175,7 @@
       "US": "",
       "JP": "** 3 ベルが残っています！ **",
       "CN": "** 剩下3个彩蛋！ **",
-      "KR": "",
+      "KR": "** 3개의 징글벨 남았습니다! **",
       "TW": "** 剩餘 3 號鈴！ **"
     }
   },
@@ -923,7 +923,7 @@
     "translation": "",
     "MultiLang": {
       "US": "** Administrator selects EXTREME III (ZOMBIEDEN) **",
-      "JP": "",
+      "JP": "** 管理者選択: EXTREME III (ZOMBIEDEN) **",
       "CN": "",
       "KR": "** 관리자가 EXTREME III (ZOMBIEDEN) 를 선택함 **",
       "TW": "** 管理員選擇 EXTREME III (ZOMBIEDEN) **"
@@ -933,7 +933,7 @@
     "translation": "",
     "MultiLang": {
       "US": "** Administrator selects EXTREME III (HELLZ) **",
-      "JP": "",
+      "JP": "** 管理者選択: EXTREME III (HELLZ) **",
       "CN": "",
       "KR": "** 관리자가 EXTREME III (HELLZ)를 선택함 **",
       "TW": "** 管理員選擇 EXTREME III (HELLZ) **"
@@ -943,7 +943,7 @@
     "translation": "",
     "MultiLang": {
       "US": "** Current Difficulty ** >> Extreme III << **",
-      "JP": "",
+      "JP": "** 現在の難易度 ** >> 极限 III << **",
       "CN": "",
       "KR": "** 현재 난이도 ** >> 극한 III << **",
       "TW": "** 目前難度 ** >> 終極 III << **"
@@ -952,18 +952,18 @@
   "** HELLZ 模式 **": {
     "translation": "",
     "MultiLang": {
-      "US": "",
+      "US": "** HELLZ Mode **",
       "JP": "** ヘルズ モード **",
       "CN": "",
       "KR": "** 헬리즈 모드 **",
-      "TW": ""
+      "TW": "** HELLZ 模式 **"
     }
   },
   "** 极限难度开启了视觉效果 **": {
     "translation": "",
     "MultiLang": {
       "US": "** Extreme Difficulty Enabled Visual Effects **",
-      "JP": "",
+      "JP": "** 极限 難易度では、視覚効果が有効になります **",
       "CN": "",
       "KR": "** 극한 난이도가 시각 효과를 활성화했습니다. **",
       "TW": "** 極限難度開啟了視覺效果 **"
@@ -973,7 +973,7 @@
     "translation": "",
     "MultiLang": {
       "US": "** Administrator selects EXTREME III (RMZS) **",
-      "JP": "",
+      "JP": "** 管理者選択: EXTREME III (RMZS) **",
       "CN": "** 管理员选择 极限三 (RMZS) **",
       "KR": "** 관리자가 EXTREME III (RMZS)를 선택했습니다. **",
       "TW": "** 管理員選擇 極限III (RMZS) **"
@@ -993,7 +993,7 @@
     "translation": "",
     "MultiLang": {
       "US": "** Administrator selects EXTREME II (Milk and Ultimate) **",
-      "JP": "",
+      "JP": "** 管理者選択: EXTREME II (ミルクと究極) **",
       "CN": "",
       "KR": "** 관리자가 EXTREME II (奶和终极) 를 선택했습니다. **",
       "TW": "** 管理員選擇 EXTREME II (奶和終極) **"
@@ -1013,7 +1013,7 @@
     "translation": "",
     "MultiLang": {
       "US": "** Administrator selects EXTREME III (SRZS) **",
-      "JP": "",
+      "JP": "** 管理者選択: EXTREME III (SRZS) **",
       "CN": "",
       "KR": "** 관리자가 EXTREME III (SRZS) 를 선택했습니다 **",
       "TW": "** 管理員選擇 極致第三 (SRZS) **"
@@ -1033,10 +1033,10 @@
     "translation": "",
     "MultiLang": {
       "US": "** Warning: Doom is coming... **",
-      "JP": "",
+      "JP": "**警告：天罰が間近に...**",
       "CN": "",
       "KR": "** 경고: 하늘의 심판이 곧 쏟아질 것이다... **",
-      "TW": ""
+      "TW": "** 警告：天谴即将降临... **"
     }
   },
   "** 电梯即将爆炸... **": {
@@ -1053,7 +1053,7 @@
     "translation": "",
     "MultiLang": {
       "US": "** The Ultimate Artifact has been disabled... **",
-      "JP": "",
+      "JP": "**究極の神器は使用不能になりました...**",
       "CN": "",
       "KR": "최고 영약이 사용 불능 상태입니다...",
       "TW": "** 終極神器已被禁用... **"
@@ -1063,7 +1063,7 @@
     "translation": "",
     "MultiLang": {
       "US": "** Oh, no! The cover has closed the door! Go left!! **",
-      "JP": "",
+      "JP": "**やだ！遮蔽物が閉まる！左へ進め！！**",
       "CN": "",
       "KR": "** 으, 아니! 벽에 갇혔어! 왼쪽으로 가! **",
       "TW": "** 噢，不！障礙物關門了！往左邊走！！ **"
@@ -1073,7 +1073,7 @@
     "translation": "",
     "MultiLang": {
       "US": "** Oh, no! The barricade is closing the door! Go left!! **",
-      "JP": "",
+      "JP": "**やだ！遮蔽物が閉まる！左へ進め！！**",
       "CN": "",
       "KR": "** 으악! 장벽이 움직였어! 좌로 이동! **",
       "TW": "** 喔，不！障礙物關門了！往左走！！ **"
@@ -1096,57 +1096,57 @@
       "JP": "** すべての神殿アイテムは無効化されました!! **",
       "CN": "",
       "KR": "** 모든 신기가 무효화되었습니다!! **",
-      "TW": ""
+      "TW": "** 所有神器已禁用!! **"
     }
   },
   "** 5秒 **": {
     "translation": "",
     "MultiLang": {
       "US": "5 seconds",
-      "JP": "",
+      "JP": "**5秒**",
       "CN": "",
       "KR": "** 5초 **",
-      "TW": ""
+      "TW": "** 5秒 **"
     }
   },
   "** 4秒 **": {
     "translation": "",
     "MultiLang": {
       "US": "4 seconds",
-      "JP": "",
+      "JP": "**4秒**",
       "CN": "",
       "KR": "** 4초 **",
-      "TW": ""
+      "TW": "** 4秒 **"
     }
   },
   "** 3秒 **": {
     "translation": "",
     "MultiLang": {
       "US": "3 seconds",
-      "JP": "",
+      "JP": "**3秒**",
       "CN": "",
       "KR": "3초",
-      "TW": ""
+      "TW": "** 3秒 **"
     }
   },
   "** 2秒 **": {
     "translation": "",
     "MultiLang": {
       "US": "** 2 seconds **",
-      "JP": "",
+      "JP": "**2秒**",
       "CN": "",
       "KR": "** 2초 **",
-      "TW": ""
+      "TW": "** 2秒 **"
     }
   },
   "** 1秒 **": {
     "translation": "",
     "MultiLang": {
       "US": "1 second",
-      "JP": "",
+      "JP": "1秒",
       "CN": "",
       "KR": "** 1초 **",
-      "TW": ""
+      "TW": "** 1秒 **"
     }
   },
   "** 跑! **": {
@@ -1156,14 +1156,14 @@
       "JP": "** 逃げろ！**",
       "CN": "",
       "KR": "** 달아! **",
-      "TW": ""
+      "TW": "** 跑！**"
     }
   },
   "** 魔光炉即将爆炸！！ **": {
     "translation": "",
     "MultiLang": {
       "US": "** The Demon Furnace is about to explode!! **",
-      "JP": "",
+      "JP": "魔光炉即将爆炸！！",
       "CN": "",
       "KR": "** 마광루가 곧 폭발한다! **",
       "TW": "** 魔光爐即將爆炸！！ **"
@@ -1186,7 +1186,7 @@
       "JP": "** 30秒でセフィロスを倒せ！** 射撃！！",
       "CN": "",
       "KR": "** 네 30초 안에 사 프리 로스 를 처 죽여! ** 사격!! **",
-      "TW": ""
+      "TW": "** 你只有30秒的时间击杀萨菲罗斯！** 射击！！"
     }
   },
   "** 恭喜！你赢得了 Extreme 3 ZED 模式！ **": {
@@ -1196,14 +1196,14 @@
       "JP": "おめでとう！Extreme 3 ZEDモードで勝利しました！",
       "CN": "",
       "KR": "🎉 축하합니다! 당신이 Extreme 3 ZED 모드를 승리했습니다! 🎉",
-      "TW": ""
+      "TW": "** 恭喜！你赢得了 Extreme 3 ZED 模式！**"
     }
   },
   "** RMZS 模式 **": {
     "translation": "",
     "MultiLang": {
       "US": "** RMZS Mode **",
-      "JP": "",
+      "JP": "RMZSモード",
       "CN": "** 严禁模式 **",
       "KR": "** RMZS 모드 **",
       "TW": "** 嚴苛模式 **"
@@ -1232,21 +1232,21 @@
   "** ZEDDYS 模式 **": {
     "translation": "",
     "MultiLang": {
-      "US": "",
-      "JP": "",
+      "US": "** ZEDDYS Mode **",
+      "JP": "ZEDDYSモード",
       "CN": "",
       "KR": "** ZEDDYS 모드 **",
-      "TW": ""
+      "TW": "** ZEDDYS 模式**"
     }
   },
   "** >> 警告！魔光炉核心不稳定 << **": {
     "translation": "",
     "MultiLang": {
       "US": "** >> WARNING! The Maglight Furnace Core is Unstable << **",
-      "JP": "",
+      "JP": ">>警告！魔光炉コアが不安定です<<",
       "CN": "",
       "KR": "** >> 경고! 마광로 핵심 불안정 << **",
-      "TW": ""
+      "TW": "** >> 警告！魔光炉核心不稳定 <<**"
     }
   },
   "** >> 建议您待在里面 << **": {
@@ -1276,17 +1276,17 @@
       "JP": "🎉 ようこそ EXTREME 4 へ！ 🎉",
       "CN": "",
       "KR": "** EXTREME 4 즐찾하세요! **",
-      "TW": ""
+      "TW": "** 欢迎游玩 EXTREME 4**"
     }
   },
   "** SRZS 模式 **": {
     "translation": "",
     "MultiLang": {
       "US": "** SRZS mode **",
-      "JP": "",
+      "JP": "SRZSモード",
       "CN": "",
       "KR": "** SRZS 모드 **",
-      "TW": ""
+      "TW": "** SRZS 模式**"
     }
   },
   "** 电梯已到达，10秒后离开 **": {
@@ -1303,10 +1303,10 @@
     "translation": "",
     "MultiLang": {
       "US": "** Bahamut recovered 150 HP **",
-      "JP": "",
+      "JP": "バハムートが150の体力を回復しました",
       "CN": "",
       "KR": "바하姆트가 150 생명력을 회복했습니다.",
-      "TW": ""
+      "TW": "** 巴哈姆特恢复了150生命值**"
     }
   },
   "** 警告：炸弹将于100秒后爆炸 **": {
@@ -1353,7 +1353,7 @@
     "translation": "",
     "MultiLang": {
       "US": "** Current Difficulty ** >> EXTREME II Special << **",
-      "JP": "",
+      "JP": "現在の難易度：>>EXTREME II 特殊<<",
       "CN": "",
       "KR": "** 현재 난이도 ** >> EXTREME II 특별 << **",
       "TW": "** 目前難度 ** >> 極端 II 特殊 << **"

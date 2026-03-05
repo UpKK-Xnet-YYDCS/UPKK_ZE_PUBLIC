@@ -113,10 +113,10 @@
     "translation": "- R...T...V... -",
     "MultiLang": {
       "US": "",
-      "JP": "",
-      "CN": "",
-      "KR": "",
-      "TW": ""
+      "JP": "- R...T...V... -",
+      "CN": "- R...T...V... -",
+      "KR": "- R...T...V... -",
+      "TW": "- R...T...V... -"
     }
   },
   "- STAGE CIRCLE -": {
@@ -306,7 +306,7 @@
       "JP": ">> 35秒間 HOLD >>",
       "CN": "<< 坚持 35 秒 >>",
       "KR": ">> 35초간 유지 >>",
-      "TW": ""
+      "TW": "《按住 35 秒》"
     }
   },
   "<< Hold for 35 seconds>>": {
@@ -316,7 +316,7 @@
       "JP": "<<35秒間 HOLD>>",
       "CN": "<< 坚持 35 秒 >>",
       "KR": ">> 35초간 유지>>",
-      "TW": ""
+      "TW": "《按住 35 秒》"
     }
   },
   "<< Hold for 60 seconds >>": {
@@ -343,9 +343,9 @@
     "translation": "<< RTV plz >>",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "<< RTV, お願いします >>",
       "CN": "<< RTV请 >>",
-      "KR": "",
+      "KR": "<< RTV 사용해 주세요 >>",
       "TW": "<< RTV請 >>\n\nNote: The original text uses a mix of English and Chinese characters. In the translation, I preserved this style by using \"請\" (please) in Traditional Chinese while keeping the rest in English to match the original format."
     }
   },
@@ -353,20 +353,20 @@
     "translation": "<< RTV2 >>",
     "MultiLang": {
       "US": "",
-      "JP": "",
-      "CN": "",
-      "KR": "",
-      "TW": ""
+      "JP": "<< RTV2 >>",
+      "CN": "<< RTV2 >>",
+      "KR": "<< RTV2 >>",
+      "TW": "《RTV2》"
     }
   },
   "<< RTV3 >>": {
     "translation": "<< RTV3 >>",
     "MultiLang": {
       "US": "",
-      "JP": "",
-      "CN": "",
-      "KR": "",
-      "TW": ""
+      "JP": "<< RTV3 >>",
+      "CN": "<< RTV3 >>",
+      "KR": "<< RTV3 >>",
+      "TW": "《RTV3》"
     }
   },
   "<< STAGE COMPLETE >>": {
@@ -473,10 +473,10 @@
     "translation": "完成！！！",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "完了!!!",
       "CN": "完成！！！",
       "KR": "완료!!!!!",
-      "TW": ""
+      "TW": "完成！！！"
     }
   },
   "Current BGM: Abst:Re:Act   -AcuticNotes": {
@@ -516,7 +516,7 @@
       "JP": "オーバロード!!!",
       "CN": "超负荷！！！（能量超出100，需重新充能）",
       "KR": "오버로드!!!",
-      "TW": ""
+      "TW": "過載！！！"
     }
   }
 }

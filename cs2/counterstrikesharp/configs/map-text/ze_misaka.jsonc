@@ -32,8 +32,8 @@
   "*** Crippling strike - 致残打击 ***": {
     "translation": "*** 致残打击 ***",
     "MultiLang": {
-      "US": "",
-      "JP": "",
+      "US": "*** Crippling strike - Crippling strike ***",
+      "JP": "*** 致残攻撃 ***",
       "CN": "*** 致残打击 ***",
       "KR": "*** 치명적인 공격 - 致残打击 ***",
       "TW": "***致殘擊打***"
@@ -42,7 +42,7 @@
   "*** Deadly Vortex - 致命漩涡 ***": {
     "translation": "*** 致命漩涡 ***",
     "MultiLang": {
-      "US": "",
+      "US": "*** Deadly Vortex - Deadly Vortex ***",
       "JP": "*** 致命漩涡 - Deadly Vortex ***",
       "CN": "*** 致命漩涡 ***",
       "KR": "*** 치명적인 연쇄 - 치명적 회오리 ****",
@@ -53,7 +53,7 @@
     "translation": "*** 恶魔冲击 ***",
     "MultiLang": {
       "US": "*** Devil Wave - Demon Impact ***",
-      "JP": "",
+      "JP": "*** 悪魔波 ***",
       "CN": "*** 恶魔冲击 ***",
       "KR": "*** 사악한 파도 - 恶魔冲击 ***",
       "TW": "***惡魔波浪 - 恶魔衝擊 ***"
@@ -73,7 +73,7 @@
     "translation": "*** 四面楚歌 ***",
     "MultiLang": {
       "US": "*** Embattle - Surrounded by Enemies ***",
-      "JP": "",
+      "JP": "*** 絶体絶命 ***",
       "CN": "*** 四面楚歌 ***",
       "KR": "***Embattle - 사면초가***",
       "TW": "*** Embattle - 四面受敵 ***"
@@ -553,7 +553,7 @@
     "translation": "<< 疯狂II >>",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "<< INSANE II >>",
       "CN": "<< 疯狂II >>",
       "KR": "<< 인산 II >>",
       "TW": "<< 绝倫2 >>"
@@ -573,7 +573,7 @@
     "translation": "<< 疯狂III >>",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "<< INSANE III >>",
       "CN": "<< 疯狂III >>",
       "KR": "<<< 인산 III >>>",
       "TW": "<< 神經錯亂 III >>"
@@ -623,7 +623,7 @@
     "translation": "3秒 << 超级推力 (3连推) （按住W）>>",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "<< MEGA PUSH >>",
       "CN": "3秒 << 超级推力 (3连推) （按住W）>>",
       "KR": "<< 메가 푸시 >>",
       "TW": ">> 超級推力 <<-"
@@ -683,10 +683,10 @@
     "translation": "<< RTV I >>",
     "MultiLang": {
       "US": "",
-      "JP": "",
-      "CN": "",
-      "KR": "",
-      "TW": ""
+      "JP": "<< RTV I >>",
+      "CN": "<< RTV I >>",
+      "KR": "<< RTV I >>",
+      "TW": "<< RTV I >>"
     }
   },
   "<< RTV I Selected >>": {
@@ -703,10 +703,10 @@
     "translation": "<< RTV II >>",
     "MultiLang": {
       "US": "",
-      "JP": "",
-      "CN": "",
-      "KR": "",
-      "TW": ""
+      "JP": "<< RTV II >>",
+      "CN": "<< RTV II >>",
+      "KR": "<< RTV II >>",
+      "TW": "<< RTV II >>"
     }
   },
   "<< RTV II Selected  >>": {
@@ -723,9 +723,9 @@
     "translation": "<< 请RTV换图 >>",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "<<RTVをお願いします>>",
       "CN": "<< 请RTV换图 >>",
-      "KR": "",
+      "KR": "<< RTV plz >>",
       "TW": "<< RTV請 >>\n\nNote: The symbol \">>\" at the beginning and \"<<\"\" at the end are kept as is."
     }
   },
@@ -733,10 +733,10 @@
     "translation": "<< RTV!!! >>",
     "MultiLang": {
       "US": "",
-      "JP": "",
-      "CN": "",
-      "KR": "",
-      "TW": ""
+      "JP": "<<RTVです！>>",
+      "CN": "<< RTV!!! >>",
+      "KR": "<< RTV!!! >>",
+      "TW": "<< RTV!!! >>"
     }
   },
   "<< Reaping Slash >>": {
@@ -1315,7 +1315,7 @@
       "US": "",
       "JP": "<< 塁は20秒後に消滅する >>",
       "CN": "<< 围栏将在20秒内消失 >>",
-      "KR": "",
+      "KR": "<< 울타리는 20초 후에 사라집니다 >>",
       "TW": "<< 围欄將在20秒後消失 >>"
     }
   },
@@ -1675,7 +1675,7 @@
       "US": "<< Relic Healing Has Been Disabled >>",
       "JP": ">> 神器治療が禁止されています <<",
       "CN": "",
-      "KR": "",
+      "KR": "<< 신기 아이템 회복 기능은 사용 중지되었습니다 >>",
       "TW": ">> 神器治療已禁用 <<"
     }
   },

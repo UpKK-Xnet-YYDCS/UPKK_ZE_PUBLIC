@@ -33,7 +33,7 @@
     "translation": "<<   救赎之道    >>",
     "MultiLang": {
       "US": "<< Redemption's Way >>",
-      "JP": "",
+      "JP": "<< 救赎之道 >>",
       "CN": "<<   救赎之道    >>",
       "KR": "<< 구원받을 길 >>",
       "TW": "<<   救贖之道    >>"
@@ -53,10 +53,10 @@
     "translation": "<<  序章  >>",
     "MultiLang": {
       "US": "<< Prologue >>",
-      "JP": "",
+      "JP": "<< 序章 >>",
       "CN": "<<  序章  >>",
       "KR": "<<  서장  >>",
-      "TW": ""
+      "TW": "<< 序章 >>"
     }
   },
   "<<  序章开始  >>": {
@@ -136,7 +136,7 @@
       "JP": "AI: 先解除左側の安全制限器",
       "CN": "AI:先解除左边的安全限制器",
       "KR": "AI: 먼저 왼쪽 안전 제한 장치를 해제하세요.",
-      "TW": ""
+      "TW": "AI：首先解除左侧的安全限制器"
     }
   },
   "AI:再打开右边的能量置入器让后面的路开启": {
@@ -246,7 +246,7 @@
       "JP": "AI: セキュリティ制限が解除されました",
       "CN": "AI:安全限制器已解除",
       "KR": "AI: 안전 제한 장치가 해제되었습니다.",
-      "TW": ""
+      "TW": "AI：安全限制器已解除"
     }
   },
   "AI:完成": {
@@ -256,14 +256,14 @@
       "JP": "AI: 完了",
       "CN": "AI:完成",
       "KR": "AI: 완료",
-      "TW": ""
+      "TW": "AI：完成"
     }
   },
   "AI:密室传送还需要20s": {
     "translation": "AI:密室传送还需要20s",
     "MultiLang": {
       "US": "AI: The room teleportation requires 20s",
-      "JP": "",
+      "JP": "AI: 密室へのテレポートには、あと20秒必要です。",
       "CN": "AI:密室传送还需要20s",
       "KR": "AI: 밀폐된 공간 이동까지 20초 필요합니다.",
       "TW": "AI: 密室傳送還需要20s"
@@ -696,7 +696,7 @@
       "JP": "AI: エネルギーの投入中",
       "CN": "AI:能量正在植入",
       "KR": "AI: 에너지 주입 중",
-      "TW": ""
+      "TW": "AI：能量正在植入"
     }
   },
   "AI:解锁已触发,正在校正回路传送": {
@@ -1016,7 +1016,7 @@
       "JP": "α：一部の人で道路の清掃、他は火力維持！",
       "CN": "α:一部分人清理道路其他人保持火力!",
       "KR": "α: 일부는 길을 정리하고, 다른 사람들은 화력을 유지해!",
-      "TW": ""
+      "TW": "α：一部分人清理道路，其他人保持火力！"
     }
   },
   "α:使用修复件修复": {
@@ -1253,7 +1253,7 @@
     "translation": "α:既然如此,先完成任务",
     "MultiLang": {
       "US": "A: Since that's the case, complete the mission first.",
-      "JP": "",
+      "JP": "α: そうですね、まずは任務を完了させましょう。",
       "CN": "α:既然如此,先完成任务",
       "KR": "α: 그렇다면 먼저 퀘스트 완료",
       "TW": "α：既然如此，先完成任務"
@@ -1423,7 +1423,7 @@
     "translation": "不快点走会死的哟",
     "MultiLang": {
       "US": "If you move too quickly, you'll die! (Seriously.)",
-      "JP": "",
+      "JP": "早くしないと死にますよ。",
       "CN": "不快点走会死的哟",
       "KR": "너무 빨리 움직이면 죽는 거야!",
       "TW": "走得太快会死的哟"
@@ -1446,7 +1446,7 @@
       "JP": "へへへん",
       "CN": "哼哼哼",
       "KR": "흠흠흠",
-      "TW": ""
+      "TW": "哼哼哼"
     }
   },
   "地图由子沫official制作": {
@@ -1533,7 +1533,7 @@
     "translation": "未完待续",
     "MultiLang": {
       "US": "Incomplete, to be continued",
-      "JP": "",
+      "JP": "未完",
       "CN": "未完待续",
       "KR": "미완성으로 계속될 예정",
       "TW": "未完待續"
@@ -1793,7 +1793,7 @@
     "translation": "",
     "MultiLang": {
       "US": "--- Teleport ---",
-      "JP": "",
+      "JP": "-- テレポート --",
       "CN": "",
       "KR": "--  전송  --",
       "TW": "-- 傳送 --"
@@ -2023,10 +2023,10 @@
     "translation": "",
     "MultiLang": {
       "US": "retreat to the forest",
-      "JP": "",
+      "JP": "α: 森林の方へ退避しましょう。",
       "CN": "",
       "KR": "α: 뒤로 숲으로 돌아가",
-      "TW": ""
+      "TW": "α：退到林中去"
     }
   },
   "soldier:投影成功": {
@@ -2056,7 +2056,7 @@
       "JP": "パート1\n\n出力",
       "CN": "第一部分",
       "KR": "파트 1",
-      "TW": ""
+      "TW": "第一部分"
     }
   },
   "<<  闪耀于终局宇宙的兽冠  >>": {
@@ -2163,7 +2163,7 @@
     "translation": "",
     "MultiLang": {
       "US": "α: Hurry and decrypt the gate",
-      "JP": "",
+      "JP": "α:急いで扉を解読しろ",
       "CN": "",
       "KR": "α: 서둘러 문의 암호 해독을 해.",
       "TW": "α: 快點破解大門"
@@ -2176,7 +2176,7 @@
       "JP": "α:火力維持",
       "CN": "",
       "KR": "α: 유지 화력",
-      "TW": ""
+      "TW": "α：保持火力"
     }
   },
   "AI:门禁需要25秒后开启": {
@@ -2246,14 +2246,14 @@
       "JP": ">>>>黒棺充能完毕<<<<",
       "CN": "",
       "KR": ">>>> 검은 관 충전 완료 <<<<",
-      "TW": ""
+      "TW": ">>>>黑棺充能完毕<<<<"
     }
   },
   "<<永恒的诅咒>>": {
     "translation": "",
     "MultiLang": {
       "US": "<<Eternal Curse>>",
-      "JP": "",
+      "JP": "《永遠の呪い》",
       "CN": "",
       "KR": "<<영원한 저주>>",
       "TW": "<<永恒的詛咒>>"
@@ -2263,7 +2263,7 @@
     "translation": "",
     "MultiLang": {
       "US": "<<Indomitable Pain>>",
-      "JP": "",
+      "JP": "《不死の苦痛》",
       "CN": "",
       "KR": "<<불멸의 고통>>",
       "TW": "<<不滅的痛苦>>"
@@ -2366,7 +2366,7 @@
       "JP": "<< 闇 >>",
       "CN": "",
       "KR": "<< 어둠 >>",
-      "TW": ""
+      "TW": "<< 黑暗 >>"
     }
   },
   "<<  恐惧  >>": {
@@ -2383,10 +2383,10 @@
     "translation": "",
     "MultiLang": {
       "US": "<< Death >>",
-      "JP": "",
+      "JP": "《死》",
       "CN": "",
       "KR": "<< 사망 >>",
-      "TW": ""
+      "TW": "<< 死亡 >>"
     }
   },
   ">>>>黑暗一击<<<<": {
@@ -2403,7 +2403,7 @@
     "translation": "",
     "MultiLang": {
       "US": "Death!",
-      "JP": "",
+      "JP": "死！",
       "CN": "",
       "KR": "죽음!",
       "TW": "死亡！"
@@ -2506,7 +2506,7 @@
       "JP": "Spectr: 来られない！",
       "CN": "",
       "KR": "Spectr: 올 수 없어!",
-      "TW": ""
+      "TW": "Spectr：来不及了！"
     }
   },
   ">>让roze去触发,否则再守25秒<<": {
@@ -2553,7 +2553,7 @@
     "translation": "",
     "MultiLang": {
       "US": "<< Prologue: Escape >>",
-      "JP": "",
+      "JP": "《序章：脱出》",
       "CN": "",
       "KR": "<< 서장: 탈출 >>",
       "TW": "<<  序章：逃脫  >>"
@@ -2563,10 +2563,10 @@
     "translation": "",
     "MultiLang": {
       "US": "",
-      "JP": "",
-      "CN": "",
-      "KR": "",
-      "TW": ""
+      "JP": ">>>>GWC-06<<<<",
+      "CN": ">>>>GWC-06<<<<",
+      "KR": ">>>>GWC-06<<<<",
+      "TW": ">>>>GWC-06<<<<"
     }
   },
   ">>>>Black cat<<<<": {
@@ -2586,7 +2586,7 @@
       "JP": ">>>>ライフドレイン<<<<",
       "CN": "",
       "KR": ">>>>생명 흡수<<<<",
-      "TW": ""
+      "TW": ">>>>生命汲取<<<<"
     }
   },
   ">>>>黑暗收割<<<<": {
@@ -2596,7 +2596,7 @@
       "JP": ">>>>暗黒収穫<<<<",
       "CN": "",
       "KR": ">>>>어둠의 수확<<<<",
-      "TW": ""
+      "TW": ">>>>黑暗收割<<<<"
     }
   },
   ">>>>鹰式推进器<<<<": {
@@ -2622,321 +2622,321 @@
   "<<  NO.39 希望皇 霍普   >>": {
     "translation": "",
     "MultiLang": {
-      "US": "",
-      "JP": "",
+      "US": "<< NO.39 Hope Royal - Hop >>",
+      "JP": "《NO.39 希望皇 ホープ》",
       "CN": "",
-      "KR": "",
-      "TW": ""
+      "KR": "<< NO.39 희망왕 홉 >>",
+      "TW": "<<  NO.39 希望皇 霍普   >>"
     }
   },
   "AI:还需5秒": {
     "translation": "",
     "MultiLang": {
-      "US": "",
-      "JP": "",
+      "US": "AI: 5 seconds remaining.",
+      "JP": "AI:残り5秒",
       "CN": "",
-      "KR": "",
-      "TW": ""
+      "KR": "AI: 5초 남았습니다.",
+      "TW": "AI：还需5秒"
     }
   },
   "AI:门大概需要5秒开启": {
     "translation": "",
     "MultiLang": {
-      "US": "",
-      "JP": "",
+      "US": "AI: The door will likely open in 5 seconds.",
+      "JP": "AI:扉はあと5秒で開きます",
       "CN": "",
-      "KR": "",
-      "TW": ""
+      "KR": "AI: 문이 열리는 데 약 5초가 더 필요합니다.",
+      "TW": "AI：门大概需要5秒开启"
     }
   },
   "AI:还需要40秒": {
     "translation": "",
     "MultiLang": {
-      "US": "",
-      "JP": "",
+      "US": "AI: 40 seconds remaining.",
+      "JP": "AI:残り40秒",
       "CN": "",
-      "KR": "",
-      "TW": ""
+      "KR": "AI: 40초가 더 남았습니다.",
+      "TW": "AI：还需40秒"
     }
   },
   "AI:敌人正在快速移动": {
     "translation": "",
     "MultiLang": {
-      "US": "",
-      "JP": "",
+      "US": "AI: The enemy is moving quickly.",
+      "JP": "AI:敵が高速で移動しています",
       "CN": "",
-      "KR": "",
-      "TW": ""
+      "KR": "AI: 적이 빠르게 이동 중입니다.",
+      "TW": "AI：敌人正在快速移动"
     }
   },
   "AI:还需要35秒": {
     "translation": "",
     "MultiLang": {
-      "US": "",
-      "JP": "",
+      "US": "AI: 35 seconds remaining.",
+      "JP": "AI:残り35秒",
       "CN": "",
-      "KR": "",
-      "TW": ""
+      "KR": "AI: 35초가 더 남았습니다.",
+      "TW": "AI：还需35秒"
     }
   },
   "AI:敌人在快速接近！": {
     "translation": "",
     "MultiLang": {
-      "US": "",
-      "JP": "",
+      "US": "AI: The enemy is approaching rapidly!",
+      "JP": "AI:敵が急速に接近しています！",
       "CN": "",
-      "KR": "",
-      "TW": ""
+      "KR": "AI: 적이 빠르게 접근 중입니다!",
+      "TW": "AI：敌人在快速接近！"
     }
   },
   "解锁 01 水刀形态": {
     "translation": "",
     "MultiLang": {
-      "US": "",
-      "JP": "",
+      "US": "Unlock 01: Water Blade Form",
+      "JP": "アンロック 01 水刀形態",
       "CN": "",
-      "KR": "",
-      "TW": ""
+      "KR": "01번 수영 나이프 모드 잠금 해제",
+      "TW": "解锁 01 水刀形态"
     }
   },
   "<<  序章:致命陷阱  >>": {
     "translation": "",
     "MultiLang": {
-      "US": "",
-      "JP": "",
+      "US": "<< Prologue: Deadly Trap >>",
+      "JP": "≪ 序章:致命的な罠 ≫",
       "CN": "",
-      "KR": "",
-      "TW": ""
+      "KR": "<< 서장: 치명적인 함정 >>",
+      "TW": "《序章：致命陷阱》"
     }
   },
   "part 2": {
     "translation": "",
     "MultiLang": {
       "US": "",
-      "JP": "",
-      "CN": "",
-      "KR": "",
-      "TW": ""
+      "JP": "パート2",
+      "CN": "第二部分",
+      "KR": "2부",
+      "TW": "第二部分"
     }
   },
   "soldier:还需要25秒左右": {
     "translation": "",
     "MultiLang": {
-      "US": "",
-      "JP": "",
+      "US": "Soldier: Approximately 25 seconds remaining.",
+      "JP": "兵士:まだ約25秒が必要です。",
       "CN": "",
-      "KR": "",
-      "TW": ""
+      "KR": "병사: 약 25초 정도 더 필요합니다.",
+      "TW": "士兵：还需要大约25秒。"
     }
   },
   "soldier:此处还需要35秒": {
     "translation": "",
     "MultiLang": {
-      "US": "",
-      "JP": "",
+      "US": "Soldier: 35 seconds remaining here.",
+      "JP": "兵士:ここでもまだ35秒が必要です。",
       "CN": "",
-      "KR": "",
-      "TW": ""
+      "KR": "병사: 여기는 약 35초가 더 필요합니다.",
+      "TW": "士兵：此处还需要35秒。"
     }
   },
   ">>>艾蕾解锁牺牲终极<<<": {
     "translation": "",
     "MultiLang": {
-      "US": "",
-      "JP": "",
+      "US": ">>> Aile unlocks the Sacrifice Ultimate <<",
+      "JP": ">>>エレが自己犠牲の究極スキルをアンロックしました<<<",
       "CN": "",
-      "KR": "",
-      "TW": ""
+      "KR": ">>> 에일레, 희생 궁극기 잠금 해제 <<<",
+      "TW": ">>>艾蕾解锁牺牲终极形态<<<"
     }
   },
   "AI:失败!正在强行破坏机械门,还需要20秒": {
     "translation": "",
     "MultiLang": {
-      "US": "",
-      "JP": "",
+      "US": "AI: Failure! Forcibly breaking the mechanical door, 20 seconds remaining.",
+      "JP": "AI: 失敗！機械の扉を強制的に破壊中。まだ20秒です。",
       "CN": "",
-      "KR": "",
-      "TW": ""
+      "KR": "AI: 실패! 기계 문을 강제로 파괴 중입니다. 약 20초가 남았습니다.",
+      "TW": "AI：失败！正在强行破坏机械门，还需要20秒。"
     }
   },
   "AI:密室传送还需要10s": {
     "translation": "",
     "MultiLang": {
-      "US": "",
-      "JP": "",
+      "US": "AI: Teleporting to the secret room requires 10 seconds.",
+      "JP": "AI: 隠し部屋への転送にはまだ10秒かかります。",
       "CN": "",
-      "KR": "",
-      "TW": ""
+      "KR": "AI: 비밀 공간 전송까지 10초 남았습니다.",
+      "TW": "AI：密室传送还需要10秒。"
     }
   },
   "AI:正在将僵尸传送还需要10秒": {
     "translation": "",
     "MultiLang": {
-      "US": "",
-      "JP": "",
+      "US": "AI: Teleporting the zombies requires 10 seconds.",
+      "JP": "AI: ゾンビの転送を開始します。まだ10秒です。",
       "CN": "",
-      "KR": "",
-      "TW": ""
+      "KR": "AI: 좀비 소환 중이며, 10초가 남았습니다.",
+      "TW": "AI：正在传送殭屍，還需要10秒。"
     }
   },
   "AI:正在设置返回坐标，还需要10秒": {
     "translation": "",
     "MultiLang": {
-      "US": "",
-      "JP": "",
+      "US": "AI: Setting the return coordinates, 10 seconds remaining.",
+      "JP": "AI: 帰還座標を設定中です。まだ10秒です。",
       "CN": "",
-      "KR": "",
-      "TW": ""
+      "KR": "AI: 복귀 좌표를 설정 중이며, 10초가 남았습니다.",
+      "TW": "AI：正在設定返回座標，還需要10秒。"
     }
   },
   "AI:稍等,正在重新关闭!": {
     "translation": "",
     "MultiLang": {
-      "US": "",
-      "JP": "",
+      "US": "AI: Please wait, restarting now!",
+      "JP": "AI: 少々お待ちください、再起動中です！",
       "CN": "",
-      "KR": "",
-      "TW": ""
+      "KR": "AI: 잠시만 기다려 주십시오. 다시 닫는 중입니다!",
+      "TW": "AI：請稍等，正在重新關閉！"
     }
   },
   "AI:请等待一会": {
     "translation": "",
     "MultiLang": {
-      "US": "",
-      "JP": "",
+      "US": "AI: Please wait a moment.",
+      "JP": "AI: しばらくお待ちください。",
       "CN": "",
-      "KR": "",
-      "TW": ""
+      "KR": "AI: 잠시만 기다려 주세요.",
+      "TW": "AI：請稍等。"
     }
   },
   "α:重新修正回归路线.": {
     "translation": "",
     "MultiLang": {
-      "US": "",
-      "JP": "",
+      "US": "α: Recalculating the return route.",
+      "JP": "α: 回帰ルートを再調整します。",
       "CN": "",
-      "KR": "",
-      "TW": ""
+      "KR": "α: 회귀 경로를 다시 조정합니다.",
+      "TW": "α：重新修正返回路線。"
     }
   },
   "α:我们需要先逃离这个区域": {
     "translation": "",
     "MultiLang": {
-      "US": "",
-      "JP": "",
+      "US": "α: We need to escape this area first.",
+      "JP": "α: まずは、このエリアから脱出しなければなりません。",
       "CN": "",
-      "KR": "",
-      "TW": ""
+      "KR": "α: 먼저 이 지역에서 탈출해야 합니다.",
+      "TW": "α：我們需要先逃離這個區域。"
     }
   },
   "α:立刻清点装备和人员,准备重新出发": {
     "translation": "",
     "MultiLang": {
-      "US": "",
-      "JP": "",
+      "US": "α: Immediately take inventory of equipment and personnel, and prepare to depart again.",
+      "JP": "α: すぐに装備と人員を点検し、再出撃の準備をします。",
       "CN": "",
-      "KR": "",
-      "TW": ""
+      "KR": "α: 즉시 장비와 인원을 점검하고, 재출발을 준비하십시오.",
+      "TW": "α：立刻清點裝備和人員，準備重新出發。"
     }
   },
   "解锁 01风刀形态": {
     "translation": "",
     "MultiLang": {
-      "US": "",
-      "JP": "",
+      "US": "Unlocked Wind Blade Form 01.",
+      "JP": "01 風刀形態をアンロックしました",
       "CN": "",
-      "KR": "",
-      "TW": ""
+      "KR": "01 풍도 형태 잠금 해제",
+      "TW": "解鎖 01 風刀形態"
     }
   },
   "AI:已经介入内部网络": {
     "translation": "",
     "MultiLang": {
-      "US": "",
-      "JP": "",
+      "US": "AI: Accessing the internal network.",
+      "JP": "AI: 内部ネットワークへの介入を開始しました",
       "CN": "",
-      "KR": "",
-      "TW": ""
+      "KR": "AI: 내부 네트워크에 접근했습니다.",
+      "TW": "AI：已介入內部網路"
     }
   },
   "AI:还需要90秒": {
     "translation": "",
     "MultiLang": {
-      "US": "",
-      "JP": "",
+      "US": "AI: 90 seconds remaining.",
+      "JP": "AI: まだ90秒必要です",
       "CN": "",
-      "KR": "",
-      "TW": ""
+      "KR": "AI: 90초가 남았습니다.",
+      "TW": "AI：還需要90秒"
     }
   },
   "AI:检测到TP，还需要10秒": {
     "translation": "",
     "MultiLang": {
-      "US": "",
-      "JP": "",
+      "US": "AI: Detected TP, needs 10 more seconds.",
+      "JP": "AI: TPを検出しました。あと10秒です。",
       "CN": "",
-      "KR": "",
-      "TW": ""
+      "KR": "AI: TP 감지됨, 10초가 남았습니다.",
+      "TW": "AI：偵測到TP，還需要10秒"
     }
   },
   "AI:还需要70秒": {
     "translation": "",
     "MultiLang": {
-      "US": "",
-      "JP": "",
+      "US": "AI: Needs 70 more seconds.",
+      "JP": "AI: まだ70秒です。",
       "CN": "",
-      "KR": "",
-      "TW": ""
+      "KR": "AI: 70초가 남았습니다.",
+      "TW": "AI：還需要70秒"
     }
   },
   "AI:检测到TP能量,TP还需要5秒生效": {
     "translation": "",
     "MultiLang": {
-      "US": "",
-      "JP": "",
+      "US": "AI: Detected TP energy, TP needs 5 more seconds to activate.",
+      "JP": "AI: TPエネルギーを検出しました。TPの発動まであと5秒です。",
       "CN": "",
-      "KR": "",
-      "TW": ""
+      "KR": "AI: TP 에너지 감지됨, TP는 5초 후에 활성화됩니다.",
+      "TW": "AI：偵測到TP能量，TP還需要5秒生效"
     }
   },
   "AI:有剧烈能量波动": {
     "translation": "",
     "MultiLang": {
-      "US": "",
-      "JP": "",
+      "US": "AI: Detecting significant energy fluctuations.",
+      "JP": "AI: 激しいエネルギーの変動を検出しました。",
       "CN": "",
-      "KR": "",
-      "TW": ""
+      "KR": "AI: 격렬한 에너지 변동이 감지되었습니다.",
+      "TW": "AI：有劇烈能量波動"
     }
   },
   "AI:距离大门开启还需要25秒": {
     "translation": "",
     "MultiLang": {
-      "US": "",
-      "JP": "",
+      "US": "AI: 25 more seconds until the gate opens.",
+      "JP": "AI: ドアの開放まであと25秒です。",
       "CN": "",
-      "KR": "",
-      "TW": ""
+      "KR": "AI: 문이 열릴 때까지 25초가 남았습니다.",
+      "TW": "AI：距離大門開啟還需要25秒"
     }
   },
   "AI:请小心": {
     "translation": "",
     "MultiLang": {
-      "US": "",
-      "JP": "",
+      "US": "AI: Please be careful.",
+      "JP": "AI: 注意してください。",
       "CN": "",
-      "KR": "",
-      "TW": ""
+      "KR": "AI: 주의하십시오.",
+      "TW": "AI：請小心"
     }
   },
   "AI:距离大门开启还需要10秒": {
     "translation": "",
     "MultiLang": {
-      "US": "",
-      "JP": "",
+      "US": "AI: 10 more seconds until the gate opens.",
+      "JP": "AI: ドアの開放まであと10秒です。",
       "CN": "",
-      "KR": "",
-      "TW": ""
+      "KR": "AI: 문을 열기까지 10초가 남았습니다.",
+      "TW": "AI：距离大门开启还需要10秒"
     }
   }
 }

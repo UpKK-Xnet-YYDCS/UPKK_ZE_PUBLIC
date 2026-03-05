@@ -36,17 +36,17 @@
       "JP": "< 최종 판타지 14:醴泉神社 > Ver 1.0",
       "CN": "",
       "KR": "< 최종 판타지 14: 醴泉 신사 > Ver 1.0",
-      "TW": ""
+      "TW": "<最终幻想14：醴泉神社> Ver 1.0"
     }
   },
   "< FFXIV_Reisen_Temple > Ver 1.0": {
     "translation": "",
     "MultiLang": {
       "US": "",
-      "JP": "",
-      "CN": "",
-      "KR": "",
-      "TW": ""
+      "JP": "<FFXIV_Reisen_Temple> Ver 1.0",
+      "CN": "< FFXIV_Reisen_Temple > 版本 1.0",
+      "KR": "<FFXIV_Reisen_Temple> 버전 1.0",
+      "TW": "<FFXIV_Reisen_Temple> Ver 1.0"
     }
   },
   "< Objective : Light up the First Temple >": {
@@ -163,10 +163,10 @@
     "translation": "",
     "MultiLang": {
       "US": "An adventurer found the Murkmire.",
-      "JP": "",
+      "JP": "冒険者が冥水を手に入れた。",
       "CN": "",
       "KR": "한 모험가가 묵수의 샘을 발견했다.",
-      "TW": ""
+      "TW": "有冒险者找到了冥水。"
     }
   },
   "A player has pickup Water.": {
@@ -183,7 +183,7 @@
     "translation": "",
     "MultiLang": {
       "US": "[Murky Water] Place Vortex Zone to strongly slow zombies for 7 seconds, 50-second cooldown.",
-      "JP": "",
+      "JP": "[冥水] 設置すると、渦のエリア内のゾンビを7秒間大幅に減速させます。50秒のクールダウン。",
       "CN": "",
       "KR": "[명수] 둔속 지역에 僵尸를 7초 동안 감속시키고, 50초 동안 재사용.",
       "TW": "[冥水] 放置旋渦區域強減速僵屍7秒, 50秒冷卻."
@@ -233,7 +233,7 @@
     "translation": "",
     "MultiLang": {
       "US": "A zombie has learned about the shelter.",
-      "JP": "",
+      "JP": "ゾンビが「庇護」を習得しました。",
       "CN": "",
       "KR": "좀비가 피난所를 얻었다.",
       "TW": "有僵屍習得了庇護。"
@@ -353,10 +353,10 @@
     "translation": "",
     "MultiLang": {
       "US": "",
-      "JP": "",
-      "CN": "",
+      "JP": "<Byakko>: ...",
+      "CN": "<白虎>: ...",
       "KR": "Please provide the source text you want me to translate. I need the text itself to perform the translation and output it in JSON format as you requested. \n\nFor example, you would give me something like:\n\n`\"Byakko: Welcome, traveler.  What brings you to this forsaken place? >>\"`\n\nThen I would respond with:\n\n\n{\n  \"text\": \"백호: ... 여행자여, 당신이 이 저주받은 곳에 무엇을 찾고 있습니까? >>\"\n}",
-      "TW": ""
+      "TW": "<Byakko>: ..."
     }
   },
   "<Byakko>: Stay safe,old man.": {
@@ -426,7 +426,7 @@
       "JP": "快! 他人在我们面前击碎他的水盾!",
       "CN": "",
       "KR": "빨리! 그가 우리 모두를 죽인 앞에서 그의 물 방패를 부수세요!",
-      "TW": ""
+      "TW": "> 快！在他杀死我们所有人之前，击碎他的水盾！<"
     }
   },
   "有冒险者找到了岩狱.": {
@@ -436,7 +436,7 @@
       "JP": "ある冒険者が岩獄を見つけた。",
       "CN": "",
       "KR": "일부 용사가 잿불 지옥을 발견했습니다.",
-      "TW": ""
+      "TW": "有冒险者找到了岩狱。"
     }
   },
   "A player has pickup Stone Jail.": {
@@ -453,7 +453,7 @@
     "translation": "",
     "MultiLang": {
       "US": "[Igyou] Zombies on the linear confinement route take 7 seconds to destroy, can be scratched to pieces, 50-second cooldown.",
-      "JP": "",
+      "JP": "[岩獄] 直線的な拘束ルート上のゾンビを7秒間拘束します。破壊可能です。50秒のクールダウン。",
       "CN": "",
       "KR": "[용옥] 직선에 갇힌 僵尸 7초, 긁어서 부수 가능, 50초 냉각.",
       "TW": "[岩獄] 直線禁锢路線上的僵屍7秒，能被撓碎，50秒冷卻。"
@@ -473,7 +473,7 @@
     "translation": "",
     "MultiLang": {
       "US": "[Iryoku] Can inflict stun on BOSS.",
-      "JP": "",
+      "JP": "[岩獄] ボスにスタン効果を与えることができます。",
       "CN": "",
       "KR": "[불협곡] 보스에게 둔속 효과를 발사할 수 있습니다.",
       "TW": "[岩獄] 能對BOSS造成定身效果。"
@@ -493,10 +493,10 @@
     "translation": "",
     "MultiLang": {
       "US": "A zombie has learned extinction.",
-      "JP": "",
+      "JP": "ゾンビが「滅绝」を習得しました。",
       "CN": "",
       "KR": "좀비가 파멸의 질병을 획득했다.",
-      "TW": ""
+      "TW": "有僵尸习得了灭绝。"
     }
   },
   "A zombie has learn Doom.": {
@@ -613,7 +613,7 @@
     "translation": "",
     "MultiLang": {
       "US": "[Red Meteor] Creates a black hole in front for 6 seconds, 50-second cooldown.",
-      "JP": "",
+      "JP": "[赤隕] 前方にブラックホールを生成し、6秒間持続。50秒のクールダウン。",
       "CN": "",
       "KR": "[적 멸] 전방에 블랙홀이 6초 후에 생성되며, 50초 동안 냉각됩니다.",
       "TW": "[隕石降臨] 向前方生成黑洞6秒, 50秒冷卻."
@@ -726,7 +726,7 @@
       "JP": "ある冒険者が見つけた怒雷。",
       "CN": "",
       "KR": "한 모험가가 뇌천을 발견했다.",
-      "TW": ""
+      "TW": "有冒险者找到了怒雷。"
     }
   },
   "A player has pickup Thunder.": {
@@ -783,10 +783,10 @@
     "translation": "",
     "MultiLang": {
       "US": "A zombie has learned from Shadow.",
-      "JP": "",
+      "JP": "ゾンビが影の特性を習得しました。",
       "CN": "",
       "KR": "좀비가 어둠의 그림자를 얻었다.",
-      "TW": ""
+      "TW": "有殭屍習得了暗影。"
     }
   },
   "A zombie has learn Stealth.": {
@@ -876,7 +876,7 @@
       "JP": "ある冒険者が秘火を見つけた。",
       "CN": "",
       "KR": "모험가 한 명이 숨겨진 불꽃을 발견했습니다.",
-      "TW": ""
+      "TW": "有冒險者找到了秘火。"
     }
   },
   "A player has pickup Blaze.": {
@@ -936,7 +936,7 @@
       "JP": "ある冒険者が見つけたのは凛冬だった。",
       "CN": "",
       "KR": "한 모험가가 림동을 발견했다.",
-      "TW": ""
+      "TW": "有冒險者找到了凛冬。"
     }
   },
   "A player has pickup Blizzard.": {
@@ -973,10 +973,10 @@
     "translation": "",
     "MultiLang": {
       "US": "[凛冬] Can inflict Stun on BOSS.",
-      "JP": "",
+      "JP": "[凛冬] は、ボスにスタン効果を与えることができます。",
       "CN": "",
       "KR": "[凛冬] 몬스터에게 둔갑 효과를 발동시킬 수 있습니다.",
-      "TW": ""
+      "TW": "[凛冬] 可以對BOSS造成定身效果。"
     }
   },
   "[Blizzard] It will Freeze Bosses movement.": {
@@ -1033,10 +1033,10 @@
     "translation": "",
     "MultiLang": {
       "US": "A zombie has learned the Frostbite.",
-      "JP": "",
+      "JP": "ゾンビが極寒の特性を習得しました。",
       "CN": "",
       "KR": "유령들이 극동병에 감염되었다.",
-      "TW": ""
+      "TW": "有殭屍習得了極凍。"
     }
   },
   "A zombie has learn Snow.": {
@@ -1073,10 +1073,10 @@
     "translation": "",
     "MultiLang": {
       "US": "A zombie has learned Blastflame.",
-      "JP": "",
+      "JP": "ゾンビが爆炎の特性を習得しました。",
       "CN": "",
       "KR": "유령이 폭염을 앓게 되었다.",
-      "TW": ""
+      "TW": "有殭屍習得了爆炎。"
     }
   },
   "A zombie has learn Flame.": {
