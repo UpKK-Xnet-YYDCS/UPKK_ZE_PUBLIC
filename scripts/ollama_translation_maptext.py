@@ -1,265 +1,480 @@
 # -*- coding: utf-8 -*-
-import json
-import os
-import re
-import time
-import requests
+"""
+Game Localization Auto-Translator
+Ollama / Qwen — Python 3.13+
+"""
+
 import argparse
 import concurrent.futures
-from tqdm import tqdm
+import json
 import logging
+import os
+import re
+import sys
+import time
+from pathlib import Path
 
-# ==================== 配置区 ====================
-OLLAMA_URL = "http://192.168.50.7:11434/api/generate"
-MODEL = "qwen3.5:35b-a3b-q4_K_M"
-DIRECTORY = os.getcwd()
-HEADERS = {"Content-Type": "application/json"}
+import requests
+from tqdm import tqdm
 
-LANGUAGE_MAP = {
+# ==================== Configuration ====================
+OLLAMA_URL = os.getenv("OLLAMA_URL", "http://192.168.50.7:11434/api/generate")
+MODEL      = os.getenv("OLLAMA_MODEL", "qwen3.5:9b")
+DIRECTORY  = Path(os.getenv("TRANSLATE_DIR", os.getcwd()))
+HEADERS    = {"Content-Type": "application/json"}
+
+LANGUAGE_MAP: dict[str, tuple[str, str]] = {
     "CN": ("简体中文", "Simplified Chinese"),
     "TW": ("繁体中文", "Traditional Chinese"),
-    "JP": ("日文", "Japanese"),
-    "KR": ("韩文", "Korean"),
-    "US": ("英文", "English"),
+    "JP": ("日文",     "Japanese"),
+    "KR": ("韩文",     "Korean"),
+    "US": ("英文",     "English"),
 }
 
-MAX_RETRIES = 4
-# ================================================
+MAX_RETRIES     = 4
+RETRY_DELAY     = 4         # base seconds between retries (multiplied by attempt)
+CHUNK_SIZE      = 8         # items per LLM request (tuned for 4096 ctx)
+REQUEST_TIMEOUT = (10, 600) # (connect, read) seconds
 
-def setup_logging():
-    logging.basicConfig(level=logging.INFO,
-                        format='%(asctime)s | %(message)s',
-                        handlers=[logging.StreamHandler()])
+OLLAMA_OPTIONS: dict = {
+    "temperature":    0.05,
+    "top_p":          0.90,
+    "repeat_penalty": 1.05,
+    "num_ctx":        4096,
+    "num_predict":    2048,
+}
+# =======================================================
 
-def need_translate(text, lang_code):
-    if not text or len(text.strip()) == 0:
-        return False
-    if re.match(r'^[\s\W\d_]+$', text.strip()):
-        return False
-    if lang_code == "US" and re.search(r'[a-zA-Z]', text):
-        return False
-    if lang_code in ["CN", "TW"] and re.search(r'[\u4e00-\u9fff]', text):
-        return False
-    if lang_code == "JP" and re.search(r'[\u3040-\u30ff\u31f0-\u31ff]', text):
-        return False
-    if lang_code == "KR" and re.search(r'[\uac00-\ud7af]', text):
-        return False
+log = logging.getLogger(__name__)
+
+# 全局进度条引用（供嵌套函数写入 postfix）
+_token_bar: tqdm | None = None
+
+
+def setup_logging(verbose: bool = False) -> None:
+    logging.basicConfig(
+        level=logging.DEBUG if verbose else logging.INFO,
+        format="%(asctime)s │ %(levelname)-7s │ %(message)s",
+        datefmt="%H:%M:%S",
+        handlers=[logging.StreamHandler(sys.stdout)],
+    )
+
+
+# ── Text classification ──────────────────────────────────────────────────────
+
+_PUNCT_ONLY  = re.compile(r'^[\s\W\d_]+$')
+_HAS_LATIN   = re.compile(r'[a-zA-Z]')
+_HAS_CJK     = re.compile(r'[\u4e00-\u9fff\u3400-\u4dbf]')
+_HAS_KANA    = re.compile(r'[\u3040-\u30ff\u31f0-\u31ff]')
+_HAS_HANGUL  = re.compile(r'[\uac00-\ud7af]')
+_PLACEHOLDER = re.compile(r'^\{[^}]+\}$|^<[^>]+>$|^%[sd%]$')
+
+
+def _source_language(text: str) -> str | None:
+    if _HAS_KANA.search(text):   return "JP"
+    if _HAS_HANGUL.search(text): return "KR"
+    if _HAS_CJK.search(text):    return "CN"
+    if _HAS_LATIN.search(text):  return "US"
+    return None
+
+
+def need_translate(text: str, lang_code: str) -> bool:
+    s = text.strip()
+    if not s:                 return False
+    if _PUNCT_ONLY.match(s):  return False
+    if _PLACEHOLDER.match(s): return False
+    src = _source_language(s)
+    if src == lang_code:      return False
+    if lang_code in ("TW", "CN") and src in ("TW", "CN"):
+        return lang_code != src
     return True
 
-# 核心翻译函数（已使用官方 think: false + format: json）
-def batch_translate_file(data: dict, lang_code: str, force_retranslate=False) -> dict:
+
+# ── Prompt & parsing ─────────────────────────────────────────────────────────
+
+def _build_prompt(items: list[dict], lang_en: str) -> str:
+    lines    = "\n".join(f'{i+1}. {t["text"]}' for i, t in enumerate(items))
+    expected = ", ".join(f'"{i+1}": "..."' for i in range(len(items)))
+    return f"""/no_think
+You are a professional game localization translator. Translate the strings below into {lang_en}.
+
+STRICT RULES:
+1. Output ONLY a single valid JSON object. No markdown, no code fences, no comments, no explanation.
+2. Keys are the line numbers as strings ("1", "2", ...). Values are the translated strings.
+3. Preserve ALL placeholders, escape sequences (\\n, %s, %d, {{0}}, <tag>), symbols, and numbers exactly.
+4. Keep consistent character voice, tone, and terminology throughout.
+5. Every key must be present. If a string cannot be translated, copy the original.
+
+SOURCE STRINGS ({len(items)} total):
+{lines}
+
+REQUIRED OUTPUT FORMAT:
+{{{expected}}}
+
+Output the JSON object now:"""
+
+
+def _extract_json_object(raw: str) -> dict:
+    """Strip noise and robustly extract the first valid JSON object."""
+    raw = re.sub(r'<think>.*?</think>', '', raw, flags=re.DOTALL).strip()
+
+    if m := re.search(r'```(?:json)?\s*([\s\S]+?)```', raw):
+        raw = m.group(1).strip()
+
+    try:
+        parsed = json.loads(raw)
+        if isinstance(parsed, dict):
+            return parsed
+    except json.JSONDecodeError:
+        pass
+
+    start = raw.find('{')
+    if start != -1:
+        depth, in_str, escape = 0, False, False
+        for idx, ch in enumerate(raw[start:], start):
+            if escape:
+                escape = False
+                continue
+            if ch == '\\' and in_str:
+                escape = True
+                continue
+            if ch == '"':
+                in_str = not in_str
+                continue
+            if not in_str:
+                if   ch == '{': depth += 1
+                elif ch == '}':
+                    depth -= 1
+                    if depth == 0:
+                        try:
+                            parsed = json.loads(raw[start:idx + 1])
+                            if isinstance(parsed, dict):
+                                return parsed
+                        except json.JSONDecodeError:
+                            break
+
+    raise ValueError(f"Cannot extract JSON object from model output:\n{raw[:600]}")
+
+
+# ── Ollama streaming ─────────────────────────────────────────────────────────
+
+def _stream_request(payload: dict, lang_label: str, chunk_desc: str) -> str:
+    parts: list[str] = []
+    count = 0
+    start = time.monotonic()
+
+    def _status(msg: str) -> None:
+        if _token_bar is not None:
+            _token_bar.set_description_str(f"[{lang_label}] {msg}")
+            _token_bar.refresh()
+        else:
+            print(f"\r  [{lang_label}] {msg}    ", end="", flush=True)
+
+    _status("⏳ 连接中...")
+
+    with requests.post(
+        OLLAMA_URL, json=payload, headers=HEADERS,
+        stream=True, timeout=REQUEST_TIMEOUT,
+    ) as resp:
+        resp.raise_for_status()
+        _status("⚡ 等待首个 token...")
+
+        for raw_line in resp.iter_lines():
+            if not raw_line:
+                continue
+            chunk = json.loads(raw_line.decode("utf-8"))
+            if chunk.get("done"):
+                break
+
+            parts.append(chunk.get("response", ""))
+            count += 1
+
+            if count == 1 or count % 5 == 0:
+                elapsed = time.monotonic() - start
+                speed   = count / elapsed if elapsed else 0
+                if _token_bar is not None:
+                    _token_bar.set_description_str(f"[{lang_label}] {chunk_desc}")
+                    _token_bar.set_postfix_str(
+                        f"{count} tok │ {speed:.1f} t/s │ {elapsed:.1f}s",
+                        refresh=True,
+                    )
+                else:
+                    spinner = "⠋⠙⠹⠸⠼⠴⠦⠧⠇⠏"
+                    sc = spinner[(count // 5) % len(spinner)]
+                    print(
+                        f"\r  [{lang_label}] {sc} {count} tok │ {speed:.1f} t/s │ {elapsed:.1f}s  ",
+                        end="", flush=True,
+                    )
+
+    elapsed = time.monotonic() - start
+    speed   = count / elapsed if elapsed else 0
+    final   = f"✓ {count} tok │ {speed:.1f} t/s │ {elapsed:.1f}s"
+    if _token_bar is not None:
+        _token_bar.set_description_str(f"[{lang_label}] {chunk_desc}")
+        _token_bar.set_postfix_str(final, refresh=True)
+    else:
+        print(f"\r  [{lang_label}] {final}          ")
+
+    return "".join(parts)
+
+
+# ── Translation core ─────────────────────────────────────────────────────────
+
+def _translate_chunk(
+    tasks: list[dict],
+    lang_code: str,
+    data: dict,
+    chunk_desc: str = "",
+) -> int:
     _, lang_en = LANGUAGE_MAP[lang_code]
-
-    tasks = []
-    for key, value in data.items():
-        text = key.strip()
-        ml = value.get("MultiLang", {})
-        if not isinstance(ml, dict):
-            continue
-        if not force_retranslate and ml.get(lang_code):
-            continue
-        if not need_translate(text, lang_code):
-            continue
-        tasks.append({"id": key, "text": text})
-
-    if not tasks:
-        return data
-
-    force_hint = "\n【强制重译模式】：即使原文已有翻译，也请重新给出最优翻译版本。\n" if force_retranslate else ""
-    
-    prompt = f"""你是一名专业的游戏本地化翻译专家，正在将游戏文本翻译成【{lang_en}】。
-{force_hint}要求：
-1. 保持角色一贯的口癖、语气、语尾完全统一
-2. 专有名词、占位符、数字、特殊符号绝对不翻译、不改动
-3. 保留所有换行\\n和格式
-4. 整份文件风格、用词必须高度一致
-
-请按顺序翻译以下所有文本：
-
-"""
-    for i, t in enumerate(tasks, 1):
-        prompt += f"{i:3d}. {t['text']}\n"
-
-    prompt += """
-**严格要求**：你的输出必须是合法的 JSON 数组，且**只能**是字符串列表（不要带 id，不要对象，不要任何解释文字）。
-格式必须严格如下：
-[
-  "翻译后的第一条文本",
-  "翻译后的第二条文本",
-  ...
-]
-不要输出任何其他内容，不要 Markdown 代码块，不要额外说明。
-
-开始输出："""
-
+    lang_label = LANGUAGE_MAP[lang_code][0]
     payload = {
-        "model": MODEL,
-        "prompt": prompt,
-        "stream": True,
-        "think": False,
-        "format": "json",
-        "options": {
-            "temperature": 0.1,      # 再低一点，更稳定
-            "top_p": 0.9,
-            "repeat_penalty": 1.05,
-            "num_ctx": 32768,
-            "num_predict": 8192
-        }
+        "model":   MODEL,
+        "prompt":  _build_prompt(tasks, lang_en),
+        "stream":  True,
+        "think":   False,
+        "format":  "json",
+        "options": OLLAMA_OPTIONS,
     }
 
-    received = ""
-    tokens_count = 0
-    start_time = time.time()
-    spinner = ["⠋", "⠙", "⠹", "⠸", "⠼", "⠴", "⠦", "⠧", "⠇", "⠏"]
-    spinner_idx = 0
-
-    for attempt in range(MAX_RETRIES):
+    last_exc: Exception = RuntimeError("No attempts made")
+    for attempt in range(1, MAX_RETRIES + 1):
         try:
-            with requests.post(OLLAMA_URL, json=payload, headers=HEADERS,
-                             stream=True, timeout=(10, 600)) as r:
-                r.raise_for_status()
-
-                print(f"  → [{LANGUAGE_MAP[lang_code][0]}] 正在翻译 {len(tasks)} 条 ", end="", flush=True)
-
-                for line in r.iter_lines():
-                    if not line:
-                        continue
-                    chunk = json.loads(line.decode('utf-8'))
-                    if chunk.get("done", False):
-                        break
-                    token = chunk.get("response", "")
-                    received += token
-                    tokens_count += 1
-
-                    if tokens_count % 8 == 0 or chunk.get("done"):
-                        elapsed = time.time() - start_time
-                        speed = tokens_count / elapsed if elapsed > 0 else 0
-                        spinner_char = spinner[spinner_idx % len(spinner)]
-                        spinner_idx += 1
-                        print(f"\r  → [{LANGUAGE_MAP[lang_code][0]}] {spinner_char} 正在翻译… "
-                              f"{tokens_count} tokens | {speed:.1f} t/s", end="", flush=True)
-
-                print(f"\r  → [{LANGUAGE_MAP[lang_code][0]}] ✓ 翻译完成！ "
-                      f"{tokens_count} tokens | 耗时 {time.time()-start_time:.1f}s          ")
-
-            # ==================== 增强解析（核心修复） ====================
-            raw = received.strip()
-            try:
-                result = json.loads(raw)
-            except json.JSONDecodeError:
-                # 极少数情况下仍有垃圾字符，尝试提取最长的 JSON 数组
-                import re
-                match = re.search(r'\[\s*".*?"\s*(?:,\s*".*?")*\s*\]', raw, re.DOTALL)
-                if match:
-                    result = json.loads(match.group(0))
+            raw     = _stream_request(payload, lang_label, chunk_desc)
+            result  = _extract_json_object(raw)
+            written = 0
+            for i, task in enumerate(tasks):
+                translation = result.get(str(i + 1), "").strip()
+                if translation:
+                    data[task["id"]]["MultiLang"][lang_code] = translation
+                    written += 1
+                    if _token_bar is not None:
+                        _token_bar.update(1)
                 else:
-                    raise
+                    log.warning(f"  [{lang_label}] missing key \"{i+1}\" in response")
+            log.debug(f"[{lang_label}] chunk done: {written}/{len(tasks)}")
+            return written
+        except Exception as exc:
+            last_exc = exc
+            log.warning(f"  [{lang_label}] attempt {attempt}/{MAX_RETRIES} failed: {exc}")
+            if attempt < MAX_RETRIES:
+                time.sleep(RETRY_DELAY * attempt)
 
-            # 处理两种常见输出格式
-            modified = False
-            if isinstance(result, str):  # 模型输出了字符串包裹的 JSON
-                result = json.loads(result)
-
-            if isinstance(result, list):
-                if result and isinstance(result[0], dict):  # 旧格式兼容
-                    for item in result:
-                        orig_id = item.get("id")
-                        trans = str(item.get("translation", "")).strip()
-                        if orig_id and trans and orig_id in data:
-                            data[orig_id]["MultiLang"][lang_code] = trans
-                            modified = True
-                else:  # 新格式：纯字符串列表（推荐）
-                    for i, trans in enumerate(result):
-                        if i < len(tasks) and isinstance(trans, str):
-                            trans = str(trans).strip()
-                            if trans:
-                                orig_id = tasks[i]["id"]
-                                data[orig_id]["MultiLang"][lang_code] = trans
-                                modified = True
-
-            if modified:
-                logging.info(f"  → [{LANGUAGE_MAP[lang_code][0]}] 成功写入 {len(result)} 条翻译")
-            return data
-
-        except Exception as e:
-            print(f"\n  → [{LANGUAGE_MAP[lang_code][0]}] ✗ 第 {attempt+1} 次失败: {e}")
-            time.sleep(4)
-            received = ""
-
-    logging.error(f"  → [{LANGUAGE_MAP[lang_code][0]}] 全部重试失败，跳过此语言")
-    return data
+    raise RuntimeError(f"[{lang_label}] all {MAX_RETRIES} retries exhausted") from last_exc
 
 
-# 下面 process_file、main 函数完全不变（保持你原来的逻辑）
-def process_file(filepath, retranslate_langs=None):
-    if retranslate_langs is None:
-        force_all = True
-        specific_langs = set(LANGUAGE_MAP.keys())
-    else:
-        force_all = False
-        specific_langs = set(retranslate_langs) if retranslate_langs else set()
+def translate_language(
+    data: dict,
+    lang_code: str,
+    force: bool = False,
+    token_bar: tqdm | None = None,
+) -> tuple[dict, int]:
+    global _token_bar
+    _token_bar = token_bar
 
-    filename = os.path.basename(filepath)
+    lang_label = LANGUAGE_MAP[lang_code][0]
+
+    tasks = [
+        {"id": key, "text": key.strip()}
+        for key, value in data.items()
+        if isinstance(value.get("MultiLang"), dict)
+        and (force or not value["MultiLang"].get(lang_code))
+        and need_translate(key.strip(), lang_code)
+    ]
+
+    if not tasks:
+        log.info(f"  [{lang_label}] nothing to translate — skipping")
+        return data, 0
+
+    n_chunks = (len(tasks) + CHUNK_SIZE - 1) // CHUNK_SIZE
+    log.info(
+        f"  [{lang_label}] {len(tasks)} strings │ "
+        f"{n_chunks} chunk(s) │ "
+        f"{'forced' if force else 'new only'}"
+    )
+
+    if token_bar is not None:
+        token_bar.total = (token_bar.total or 0) + len(tasks)
+        token_bar.refresh()
+
+    total  = 0
+    chunks = [tasks[i:i + CHUNK_SIZE] for i in range(0, len(tasks), CHUNK_SIZE)]
+    for idx, chunk in enumerate(chunks, 1):
+        desc = f"{lang_label} chunk {idx}/{n_chunks}"
+        if n_chunks > 1:
+            log.info(f"  [{lang_label}] chunk {idx}/{n_chunks} ({len(chunk)} items)")
+        try:
+            total += _translate_chunk(chunk, lang_code, data, chunk_desc=desc)
+        except RuntimeError as exc:
+            log.error(str(exc))
+
+    log.info(f"  [{lang_label}] ✔ {total} written")
+    return data, total
+
+
+# ── File I/O ─────────────────────────────────────────────────────────────────
+
+def _load_jsonc(path: Path) -> dict:
+    text = path.read_text(encoding="utf-8")
+    text = re.sub(r'/\*.*?\*/', '', text, flags=re.DOTALL)
+    text = re.sub(r'(?<![:/])//[^\n]*', '', text)
+    return json.loads(text)
+
+
+def _save_json(path: Path, data: dict) -> None:
+    tmp = path.with_suffix(".tmp")
+    tmp.write_text(
+        json.dumps(data, ensure_ascii=False, indent=2) + "\n",
+        encoding="utf-8",
+    )
+    tmp.replace(path)
+
+
+def process_file(
+    filepath: Path,
+    langs_to_translate: list[str] | None = None,
+    force: bool = False,
+    file_bar:  tqdm | None = None,
+    token_bar: tqdm | None = None,
+) -> None:
+    langs = list(LANGUAGE_MAP.keys()) if langs_to_translate is None else langs_to_translate
+
+    if file_bar is not None:
+        file_bar.set_description_str(f"📄 {filepath.name[:40]}")
+        file_bar.set_postfix_str(f"{len(langs)} lang(s)", refresh=True)
+    log.info(f"▶ {filepath.name}  ({len(langs)} lang(s){', forced' if force else ''})")
+
     try:
-        with open(filepath, 'r', encoding='utf-8') as f:
-            content = f.read()
-        content = re.sub(r'//.*?$|/\*.*?\*/', '', content, flags=re.MULTILINE|re.DOTALL)
-        data = json.loads(content)
-    except Exception as e:
-        logging.error(f"读取失败 {filename}: {e}")
+        data = _load_jsonc(filepath)
+    except Exception as exc:
+        log.error(f"  failed to read {filepath.name}: {exc}")
+        if file_bar is not None:
+            file_bar.update(1)
         return
 
-    mode_str = " [强制重译全部语言]" if force_all else ""
-    logging.info(f"正在处理: {filename} （共 {len(data)} 条）{mode_str}")
-    modified = False
+    total = 0
+    for lang_code in langs:
+        if file_bar is not None:
+            file_bar.set_postfix_str(
+                f"{LANGUAGE_MAP[lang_code][0]} | written={total}", refresh=True
+            )
+        data, written = translate_language(
+            data, lang_code, force=force, token_bar=token_bar
+        )
+        total += written
+        if written:
+            _save_json(filepath, data)
 
-    for lang_code in LANGUAGE_MAP.keys():
-        force_this_lang = force_all or (lang_code in specific_langs)
-        old_data = json.dumps(data, ensure_ascii=False)
-        data = batch_translate_file(data, lang_code, force_retranslate=force_this_lang)
-        if json.dumps(data, ensure_ascii=False) != old_data:
-            modified = True
+    if file_bar is not None:
+        file_bar.set_postfix_str(f"✔ {total} written", refresh=True)
+        file_bar.update(1)
 
-    if modified:
-        with open(filepath, 'w', encoding='utf-8') as f:
-            json.dump(data, f, ensure_ascii=False, indent=2, separators=(',', ': '))
-        logging.info(f"已保存: {filename}")
+    if total:
+        log.info(f"✔ saved {filepath.name}  ({total} translations written)")
     else:
-        logging.info(f"无需更新: {filename}")
+        log.info(f"— no changes: {filepath.name}")
 
 
-def main():
+# ── CLI ───────────────────────────────────────────────────────────────────────
+
+def main() -> None:
     setup_logging()
-    parser = argparse.ArgumentParser(description="Qwen3.5-35B 官方关闭思考模式批量翻译神器")
-    parser.add_argument("-f", "--file", type=str, help="单个文件路径")
-    parser.add_argument("-p", "--parallel", type=int, default=2, help="并行文件数（建议 1-3）")
-    parser.add_argument("-r", "--retranslate", nargs="*", 
-                        help="强制重新翻译指定语言（例如：-r JP KR TW US）")
-
+    parser = argparse.ArgumentParser(
+        description="Game Localization Auto-Translator (Ollama / Qwen, Python 3.13+)",
+        formatter_class=argparse.RawDescriptionHelpFormatter,
+        epilog="""
+examples:
+  python translate.py                  # all files, new strings only
+  python translate.py -f file.json     # single file
+  python translate.py -r               # force re-translate ALL languages
+  python translate.py -r JP KR         # force re-translate JP and KR only
+  python translate.py -l US JP         # only process US and JP (no force)
+  python translate.py -p 3             # 3 files in parallel
+  python translate.py -v               # verbose / debug output
+""",
+    )
+    parser.add_argument("-f", "--file",        type=Path, help="Single file to translate.")
+    parser.add_argument("-p", "--parallel",    type=int,  default=1, metavar="N",
+                        help="Files to process in parallel (default: 1).")
+    parser.add_argument("-r", "--retranslate", nargs="*", metavar="LANG",
+                        help="Force re-translate. No args=all; with args=specific codes.")
+    parser.add_argument("-l", "--langs",       nargs="+", metavar="LANG",
+                        choices=list(LANGUAGE_MAP.keys()),
+                        help="Limit to specific language codes (default: all).")
+    parser.add_argument("-v", "--verbose",     action="store_true")
     args = parser.parse_args()
 
-    if args.retranslate is None:
-        retranslate_langs = []
-    elif len(args.retranslate) == 0:
-        retranslate_langs = None
-    else:
-        retranslate_langs = [code.strip().upper() for code in args.retranslate]
+    if args.verbose:
+        setup_logging(verbose=True)
+
+    langs_to_translate: list[str] | None = args.langs
+    force = False
+
+    if args.retranslate is not None:
+        force = True
+        if args.retranslate:
+            codes   = [c.upper() for c in args.retranslate]
+            invalid = [c for c in codes if c not in LANGUAGE_MAP]
+            if invalid:
+                parser.error(
+                    f"unknown lang code(s): {', '.join(invalid)} — "
+                    f"valid: {', '.join(LANGUAGE_MAP)}"
+                )
+            langs_to_translate = (
+                codes if langs_to_translate is None
+                else [c for c in langs_to_translate if c in codes]
+            )
 
     if args.file:
-        process_file(args.file, retranslate_langs)
+        if not args.file.exists():
+            parser.error(f"file not found: {args.file}")
+        with tqdm(
+            total=0, desc="tokens", unit="str", ncols=100,
+            bar_format="{desc} │ {postfix}",
+            position=0,
+        ) as tok_bar:
+            process_file(
+                args.file,
+                langs_to_translate=langs_to_translate,
+                force=force,
+                token_bar=tok_bar,
+            )
     else:
-        files = [os.path.join(DIRECTORY, f) for f in os.listdir(DIRECTORY)
-                 if f.endswith(('.json', '.jsonc'))]
-        files.sort()
+        files = sorted(DIRECTORY.glob("*.json")) + sorted(DIRECTORY.glob("*.jsonc"))
+        if not files:
+            log.warning(f"no .json/.jsonc files found in {DIRECTORY}")
+            return
+        log.info(f"found {len(files)} file(s) in {DIRECTORY}")
 
-        with concurrent.futures.ThreadPoolExecutor(max_workers=args.parallel) as exe:
-            list(tqdm(
-                exe.map(lambda f: process_file(f, retranslate_langs), files),
-                total=len(files), desc="总进度", ncols=100
-            ))
+        with (
+            tqdm(
+                total=len(files), desc="files  ", unit="file", ncols=100,
+                position=0, leave=True,
+            ) as file_bar,
+            tqdm(
+                total=0, desc="tokens ", unit="str", ncols=100,
+                position=1, leave=True,
+                bar_format="{desc} │ {postfix}",
+            ) as token_bar,
+        ):
+            def _process(fp: Path) -> None:
+                process_file(
+                    fp,
+                    langs_to_translate=langs_to_translate,
+                    force=force,
+                    file_bar=file_bar,
+                    token_bar=token_bar,
+                )
 
-    print("\n全部完成！")
-    
+            if args.parallel > 1:
+                with concurrent.futures.ThreadPoolExecutor(max_workers=args.parallel) as pool:
+                    list(pool.map(_process, files))
+            else:
+                for fp in files:
+                    _process(fp)
+
+    print("\n✅ all done!")
+
 
 if __name__ == "__main__":
     main()
