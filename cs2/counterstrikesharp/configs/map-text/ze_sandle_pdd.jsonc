@@ -5,8 +5,8 @@
       "US": "",
       "JP": "*****\nROUND END\n*****\n注文者：Qwen，内容：游戏相关短文本日语翻译任务。任务要求严格依据指示进行，翻译过程中保持简洁、忠实原意、符合游戏文本风格，保留数字和特殊符号不变。无需额外添加解释或其他文字。以下是翻译结果：\n\n*****\n ROUND END\n*****",
       "CN": "*****回合结束*****",
-      "KR": "",
-      "TW": ""
+      "KR": "*****라운드 종료*****",
+      "TW": "*****回合结束*****"
     }
   },
   "***..THEN DON'T GET INSIDE***": {
@@ -23,10 +23,10 @@
     "translation": "***1个赞=为Jeebus祈祷一次***",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "「いいね！」は、ジェバスへの祈り。\n(LIKE = ONE PRAYER FOR JEBUS)",
       "CN": "***1个赞=为Jeebus祈祷一次***",
-      "KR": "",
-      "TW": ""
+      "KR": "***1개의 좋아요 = 제부스를 위한 한 번의 기도***",
+      "TW": "***1 個讚 = 為 Je bus 獻上一次祈禱***"
     }
   },
   "***10 SECONDS LEFT***": {
@@ -223,7 +223,7 @@
     "translation": "***剩下30秒***",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "残り30秒\n(30 SECONDS LEFT)",
       "CN": "***剩下30秒***",
       "KR": "***30초 남음***",
       "TW": "***30 秒鐘剩餘***"
@@ -396,7 +396,7 @@
       "JP": "***20秒でディダル нихオフ***",
       "CN": "***抵挡20秒***",
       "KR": "***dling을 20초 동안 해내세요***",
-      "TW": ""
+      "TW": "***持續 20 秒的騷擾***"
     }
   },
   "***DIDDLEFRIEND IS COMING FOR THE SINNERS***": {
@@ -493,20 +493,20 @@
     "translation": "***获得你的欺骗勋章***",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "さあ、始めよう。\n(GET DIDDLING)",
       "CN": "***获得你的欺骗勋章***",
-      "KR": "",
-      "TW": ""
+      "KR": "***이제 시작해 볼까?***",
+      "TW": "***開始騷擾***"
     }
   },
   "***GO***": {
     "translation": "***走***",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "進む\n(GO)",
       "CN": "***走***",
       "KR": "***가기***",
-      "TW": ""
+      "TW": "***出發***"
     }
   },
   "***HICHATU CAN'T MAKE MODELS IN BLENDER***": {
@@ -526,7 +526,7 @@
       "JP": "***30秒間 HOLD OUT***",
       "CN": "***坚守30秒***",
       "KR": "***30 초간 유지하기***",
-      "TW": ""
+      "TW": "***堅持 30 秒***"
     }
   },
   "***HOLD THE LINE***": {
@@ -536,7 +536,7 @@
       "JP": "***ラインを守れ***",
       "CN": "***坚守阵地***",
       "KR": "라인을 지켜라***",
-      "TW": ""
+      "TW": "***堅守陣地***"
     }
   },
   "***HOLD THEM OFF FOR A LONG TIME***": {
@@ -546,14 +546,14 @@
       "JP": "***長時間 novitàを押さえておく***",
       "CN": "***这是一个漫长的守点***",
       "KR": "***참을 수 있는 시간만큼 붙잡아라***",
-      "TW": ""
+      "TW": "***長時間抵禦他們***"
     }
   },
   "***HOW WILL YOU EVER GET PAST THIS CHALLENGE?***": {
     "translation": "***你们将怎么通过这个挑战？***",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "どうやってこの試練を乗り越えるつもりですか？\n(HOW WILL YOU EVER GET PAST THIS CHALLENGE?)",
       "CN": "***你们将怎么通过这个挑战？***",
       "KR": "***얼마나 빨리 이 도전을 통과할 것인가?***",
       "TW": "***你怎麼可能過得去這個挑戰？***"
@@ -593,10 +593,10 @@
     "translation": "***当你进去后，你只有10秒的时间购买东西***",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "もし中に入ったら、何かを買うために10秒の猶予があります。\n(IF/WHEN YOU GET INSIDE YOU'LL HAVE 10 SECONDS TO BUY SOMETHING)",
       "CN": "***当你进去后，你只有10秒的时间购买东西***",
       "KR": "***\n만약에 들어가게 된다면 10초간 무엇인가를 구매하라는 것을 알아차릴 것입니다 ***\nNote: The original text uses \"***\" at the beginning and end, which is preserved as is. However, there's no direct equivalent in Korean that would maintain the same emphasis, so it's omitted for clarity. The translation aims to convey the urgency of the message while being concise.",
-      "TW": ""
+      "TW": "***如果您成功进入，您只有 10 秒钟的时间购买东西***"
     }
   },
   "***JUMP INSIDE THE DOODLE DOODY***": {
@@ -665,18 +665,18 @@
       "US": "",
       "JP": "\"***ああ、,No\"",
       "CN": "***哦不***",
-      "KR": "",
-      "TW": ""
+      "KR": "***아, 안 돼!***",
+      "TW": "***不，不行***"
     }
   },
   "***OH NO, IT'S THE DIDDLE DICK***": {
     "translation": "***我的天啊，这就是欺骗之魂***",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "あらら、それはディドル・ディックだ。\n(OH NO, IT'S THE DIDDLE DICK)",
       "CN": "***我的天啊，这就是欺骗之魂***",
-      "KR": "",
-      "TW": ""
+      "KR": "***아, 안 돼! 디들 딕이다!***",
+      "TW": "***不，是那个“Diddle Dick”***"
     }
   },
   "***OH NO, THE SEAL IS TOO POWERFUL***": {
@@ -685,8 +685,8 @@
       "US": "",
       "JP": "***OHNO、 Seal は 过度に 強い***",
       "CN": "***哦不，这个海豹太强大了***",
-      "KR": "",
-      "TW": ""
+      "KR": "***아, 안 돼! 바다사자가 너무 강력해!***",
+      "TW": "***不，这个封印太强大了***"
     }
   },
   "***PEACE SHALL REMAIN IN THE PEACEFUL LAND OF ANTARCTICA***": {
@@ -703,10 +703,10 @@
     "translation": "***梦见自己生活在水深火热之中的人类们会沉浸在欺骗之液的温暖之中***",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "危険な暮らしを夢見る者は、ディドラリーの温かい液体に屈するでしょう。\n(PEOPLE WITH DREAMS OF LIVING ON THE EDGE SHALL SUCCUMB TO THE LIQUID WARMTH OF DIDDLERY)",
       "CN": "***梦见自己生活在水深火热之中的人类们会沉浸在欺骗之液的温暖之中***",
       "KR": "***사람들아, 편안한 경계를 넘어서는 꿈을 가진 자들은 디달리의 액체 따뜻함 앞에 굴복할 수밖에 없다***",
-      "TW": ""
+      "TW": "***那些梦想住在边缘的人，终将屈服于“Diddlery”带来的温暖***"
     }
   },
   "***PREPARE YER ARSEHOLES***": {
@@ -755,8 +755,8 @@
       "US": "",
       "JP": "***PURCHASED - ディスコ・プッシュ***",
       "CN": "***已购买 - 曼德拉推力***",
-      "KR": "",
-      "TW": ""
+      "KR": "***구매 완료 - 디스코 푸시***",
+      "TW": "***已购买 - Disco Push***"
     }
   },
   "***PURCHASED - GUARDIAN***": {
@@ -773,9 +773,9 @@
     "translation": "***已购买 - 小奶***",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "***購入済み - 回復***",
       "CN": "***已购买 - 小奶***",
-      "KR": "",
+      "KR": "***구매 완료 - 회복***",
       "TW": "*** PURCHASED - 治療 ***"
     }
   },
@@ -795,7 +795,7 @@
       "US": "***PURCHASED - Legendary Heal***",
       "JP": "***PURCHASED - レジェンドヒール***",
       "CN": "***已购买 - 大奶***",
-      "KR": "",
+      "KR": "***구매 완료 - 전설적인 치유***",
       "TW": "*** PURCHASED - 莊 Clips ***"
     }
   },
@@ -816,17 +816,17 @@
       "JP": "***PURCHASED - キャノン砲***",
       "CN": "***已购买 - 加农炮***",
       "KR": "*** PURCHASED - 침포 ***",
-      "TW": ""
+      "TW": "***已购买 - 加农炮***"
     }
   },
   "***PURCHASED - 大奶***": {
     "translation": "***已购买 - 大奶***",
     "MultiLang": {
       "US": "***PURCHASED - Big Boobs***",
-      "JP": "",
+      "JP": "***購入済み - 大バスト***",
       "CN": "***已购买 - 大奶***",
       "KR": "***PURCHASED - 대나무***",
-      "TW": ""
+      "TW": "***已购买 - 大奶***"
     }
   },
   "***PURCHASED - 大迪克***": {
@@ -836,27 +836,27 @@
       "JP": "***PURCHASED - ダイディク***",
       "CN": "***已购买 - 大迪克***",
       "KR": "*** PURCHASED - 대디크 ***",
-      "TW": ""
+      "TW": "***已購買 - 大迪克***"
     }
   },
   "***PURCHASED - 小奶***": {
     "translation": "***已购买 - 小奶***",
     "MultiLang": {
       "US": "***PURCHASED - Small Milk***",
-      "JP": "",
+      "JP": "***購入済み - 小バスト***",
       "CN": "***已购买 - 小奶***",
       "KR": "*** PURCHASED - 소나라 ***",
-      "TW": ""
+      "TW": "***已購買 - 小奶***"
     }
   },
   "***PURCHASED - 小弟可***": {
     "translation": "***已购买 - 小迪克***",
     "MultiLang": {
-      "US": "",
-      "JP": "",
+      "US": "***PURCHASED - Available for purchase***",
+      "JP": "***購入済み - 弟に捧ぐ***",
       "CN": "***已购买 - 小迪克***",
       "KR": "***PURCHASED - 소시지可行性***",
-      "TW": ""
+      "TW": "***已購買 - 小弟可***"
     }
   },
   "***PURCHASED - 曼德拉推力***": {
@@ -866,7 +866,7 @@
       "JP": "***PURCHASED - マンダラ推力***",
       "CN": "***已购买 - 曼德拉推力***",
       "KR": "*** PURCHASED - 만델라 퍼스터 ***",
-      "TW": ""
+      "TW": "***已購買 - 曼德拉推力***"
     }
   },
   "***PURCHASED - 红墙***": {
@@ -893,7 +893,7 @@
     "translation": "***已购买 - 黄墙***",
     "MultiLang": {
       "US": "***PURCHASED - Huang Qiang***",
-      "JP": "",
+      "JP": "***購入済み - 黄強***",
       "CN": "***已购买 - 黄墙***",
       "KR": "***PURCHASED - 황강***",
       "TW": "***PURCHASED - 黃強***"
@@ -923,7 +923,7 @@
     "translation": "***划开我的小萨***",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "***私のプードルをバラバラに***",
       "CN": "***划开我的小萨***",
       "KR": "***MY POODLE 끊어지게 !***",
       "TW": "***RIP 我的沙皮狗/APART***"
@@ -933,7 +933,7 @@
     "translation": "***跑***",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "***走る***",
       "CN": "***跑***",
       "KR": "***런***\n\n(Run in Korean can be written as 러 but commonly used is 뛰 which is pronounced as \"run\" in this context)",
       "TW": "***跑***"
@@ -1016,7 +1016,7 @@
       "JP": "***立って待つまで***",
       "CN": "***守住这里***",
       "KR": "***위치를 변경하지 마세요 Until then***",
-      "TW": ""
+      "TW": "***在此地堅守，直到那時***"
     }
   },
   "***STAY STRONG FOR DADDY***": {
@@ -1026,7 +1026,7 @@
       "JP": "***DADDYに強くなるため待ってなさい***",
       "CN": "***为了你们的父亲，坚守住***",
       "KR": "*** Daddy를 위해 강해져야 합니다 ***",
-      "TW": ""
+      "TW": "***為了爸爸，堅強一點***"
     }
   },
   "***TAKE A LEAP OF FAITH***": {
@@ -1063,10 +1063,10 @@
     "translation": "***里面有小鬼脸***",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "***おっぱいジョーブル***",
       "CN": "***里面有小鬼脸***",
       "KR": "***보블 조블***",
-      "TW": ""
+      "TW": "***這個東西叫做「波布勒·喬布勒」***"
     }
   },
   "***THE CHAPEL DOOR WILL OPEN IN 15 SECONDS***": {
@@ -1083,7 +1083,7 @@
     "translation": "***欺骗之魂被击败了***",
     "MultiLang": {
       "US": "***THE DiddleDick HAS BEEN DEFEATED***",
-      "JP": "",
+      "JP": "***ディドル・ディックを打ち破った***",
       "CN": "***欺骗之魂被击败了***",
       "KR": "***더 딥忉 兵 已被击败***",
       "TW": "***THE DIDDLE DICK 已被擊敗***"
@@ -1096,7 +1096,7 @@
       "JP": "***ザ・ディドラーイ接受采访已结束***",
       "CN": "***欺骗游戏已经结束了***",
       "KR": "***더 디들리리는 완료되었습니다***",
-      "TW": ""
+      "TW": "***「迪迪里」已經完成了。"
     }
   },
   "***THE DIDDLERY IS COMING***": {
@@ -1106,7 +1106,7 @@
       "JP": "***ザ・ディドラリーは来てる***",
       "CN": "***欺骗游戏最终章即将到来***",
       "KR": "***더 디들러리는 온다***",
-      "TW": ""
+      "TW": "***「ديد達利」即將到來***"
     }
   },
   "***THE ELEVATOR IS DIDDLING***": {
@@ -1153,70 +1153,70 @@
     "translation": "***终章将在1秒后到来***",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "***終末まであと1秒***",
       "CN": "***终章将在1秒后到来***",
       "KR": "***ENDING은 1초 후에 온다***",
-      "TW": ""
+      "TW": "***倒數計時：1秒後結束***"
     }
   },
   "***THE END IS COMING IN 10 SECONDS***": {
     "translation": "***终章将在10秒后到来***",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "***終末まであと10秒***",
       "CN": "***终章将在10秒后到来***",
       "KR": "***최대 10초 후 종료***",
-      "TW": ""
+      "TW": "***倒數計時：10秒後結束***"
     }
   },
   "***THE END IS COMING IN 2 SECONDS***": {
     "translation": "***终章将在2秒后到来***",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "***終末まであと2秒***",
       "CN": "***终章将在2秒后到来***",
       "KR": "***엔드는 2초 후에 온다***",
-      "TW": ""
+      "TW": "***倒數計時：2秒後結束***"
     }
   },
   "***THE END IS COMING IN 20 SECONDS***": {
     "translation": "***终章将在20秒后到来***",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "***終末まであと20秒***",
       "CN": "***终章将在20秒后到来***",
       "KR": "***END은 20초 후에 옵니다***",
-      "TW": ""
+      "TW": "***倒數計時：20秒後結束***"
     }
   },
   "***THE END IS COMING IN 3 SECONDS***": {
     "translation": "***终章将在3秒后到来***",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "***終末まであと3秒***",
       "CN": "***终章将在3秒后到来***",
       "KR": "***최후의 3초***\n\n(Note: \"1\" was not present in the original text and has been preserved as per instructions.)",
-      "TW": ""
+      "TW": "***倒數計時：3秒後結束***"
     }
   },
   "***THE END IS COMING IN 4 SECONDS***": {
     "translation": "***终章将在4秒后到来***",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "***終末まであと4秒***",
       "CN": "***终章将在4秒后到来***",
       "KR": "***이스나는 4초 후에 도래할 것이다***",
-      "TW": ""
+      "TW": "***倒數計時：4秒後結束***"
     }
   },
   "***THE END IS COMING IN 5 SECONDS***": {
     "translation": "***终章将在5秒后到来***",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "***終末まであと5秒***",
       "CN": "***终章将在5秒后到来***",
       "KR": "***ENDING은 5초 후에 옵니다***",
-      "TW": ""
+      "TW": "***倒數計時：5秒後結束***"
     }
   },
   "***THE END IS NEAR***": {
@@ -1233,7 +1233,7 @@
     "translation": "***终章即将到来***",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "***終末は目前に***",
       "CN": "***终章即将到来***",
       "KR": "***엔드는 가까워***\n\n(Translation: ***엔드는 가까워*** )",
       "TW": "***天 nett 結近了***"
@@ -1316,7 +1316,7 @@
       "JP": "***タワーの扉はダッデルド***",
       "CN": "***高塔门口被欺骗了***",
       "KR": "***타워 문이 다DidAppear***",
-      "TW": ""
+      "TW": "***塔門已被篡改***"
     }
   },
   "***THE TOWER GATE IS OPENING IN 10 SECONDS***": {
@@ -1396,7 +1396,7 @@
       "JP": "***これは協力マップで作成者は：***",
       "CN": "***地图由以下作者共同制作：***",
       "KR": "***이맵은 다음을 포함한 공동 제작품입니다:***",
-      "TW": ""
+      "TW": "***這是一張由以下人員共同製作的地圖：***"
     }
   },
   "***THIS MIGHT BE YOUR FINAL STAND***": {
@@ -1423,9 +1423,9 @@
     "translation": "***想跳到极限模式吗？ > 那么请你待在蓝色板子上***",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "***エクストリームモードに移行しますか？ > プラットフォームに乗ってください***",
       "CN": "***想跳到极限模式吗？ > 那么请你待在蓝色板子上***",
-      "KR": "",
+      "KR": "***극강 모드로 바로 가시겠습니까? > 플랫폼 위로 올라가세요***",
       "TW": "***WANNA SKIP TO EXTREME MODE? >> 踏上平台***"
     }
   },
@@ -1463,20 +1463,20 @@
     "translation": "***啊，欺骗者们***",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "***おかしな連中たち***",
       "CN": "***啊，欺骗者们***",
-      "KR": "",
-      "TW": ""
+      "KR": "***얘들아***",
+      "TW": "***YA DOODLERS***"
     }
   },
   "***YEE BETTER GET INSIDE, FELLAS***": {
     "translation": "***最好进去那里，伙计们***",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "***おい、みんな、中に入ってくれ***",
       "CN": "***最好进去那里，伙计们***",
       "KR": "***여기 빨리 들어와, 친구들***",
-      "TW": ""
+      "TW": "***你們最好進去，伙計們***"
     }
   },
   "***YOU ARE THE ULTIMATE DIDDLERS***": {
@@ -1486,17 +1486,17 @@
       "JP": "***あなたは究極のディッダーです***",
       "CN": "***你们是欺骗游戏的最终胜利者***",
       "KR": "***당신은 최고의 디달러스입니다***",
-      "TW": ""
+      "TW": "***你們是終極的篡改者***"
     }
   },
   "***YOU DID IT!***": {
     "translation": "***你做到了！***",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "***やったぞ！***",
       "CN": "***你做到了！***",
       "KR": "***너가 성공했어!!***",
-      "TW": ""
+      "TW": "***你們做到了！***"
     }
   },
   "***YOU MUST FIND A WAY TO BREAK THE POWERFUL SEAL***": {
@@ -1506,7 +1506,7 @@
       "JP": "***あなたは強力な封印を破る方法を見つける必須です***",
       "CN": "***你必须找到打破强大封印的方法***",
       "KR": "***당신은 강력한 연금술을 깨는 방법을 찾아야 합니다***",
-      "TW": ""
+      "TW": "***你必須找到一種方法來打破那強大的封印***"
     }
   },
   "***ZOMBIES REACHED ELEVATOR - YOU'RE DEAD***": {
@@ -1623,10 +1623,10 @@
     "translation": "> QAZLLL456",
     "MultiLang": {
       "US": "",
-      "JP": "",
-      "CN": "",
-      "KR": "",
-      "TW": ""
+      "JP": "> QAZLLL456",
+      "CN": "> QAZLLL456",
+      "KR": "> QAZLLL456",
+      "TW": "> QAZLLL456"
     }
   },
   "> THE ORDIAXER": {
@@ -1653,10 +1653,10 @@
     "translation": "",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "管理者の方、私たちをこの酷い状況から救ってください",
       "CN": "管理员 请救救我们，免受此虐待",
-      "KR": "",
-      "TW": ""
+      "KR": "관리자님, 저희를 이 끔찍함에서 구해주세요.",
+      "TW": "管理員們，請拯救我們，免受這場騷擾。"
     }
   },
   "BUILD A LADDER ||-----||": {
@@ -1673,7 +1673,7 @@
     "translation": "",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "楽勝、ついにフロストドレイクの準備が整った…",
       "CN": "EZPZ LEMON SQUEEZY，我们终于准备好FROSTDRAKE……",
       "KR": "EZPZ 레몬 수시지, 우리는FINALY 포스트드래케 준비되었나看你翻译是否正确，不过这句话似乎有些俚语化和非正式，直译可能会失去一点原汁原味。但是根据指示要求，这是最准确的翻译版本。",
       "TW": "EZPZ LEMON SQUEEZY，我們終於準備好-facedrake..."
@@ -1713,8 +1713,8 @@
     "translation": "",
     "MultiLang": {
       "US": "",
-      "JP": "",
-      "CN": "",
+      "JP": "今度はしっかりと扉を構え、起動してください。",
+      "CN": "现在按住并激活该该该门。",
       "KR": "현재 유지하고 fucked-up 문을 활성화하세요",
       "TW": "現在按住並激活該逼X門扉>>"
     }
@@ -1753,9 +1753,9 @@
     "translation": "",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "がんばりすぎはいけません、おバカさん。",
       "CN": "尽力玩儿你们这些狗娘养的",
-      "KR": "",
+      "KR": "열심히 하는 건 좋지만, 멍청한 짓은 하지 마세요.",
       "TW": "努力狂你媽的智障"
     }
   },

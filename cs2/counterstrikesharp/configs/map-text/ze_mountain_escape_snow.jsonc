@@ -156,7 +156,7 @@
       "JP": "***ADMINがモードを変更しました [CUSTOM]***",
       "CN": "***管理员已更改模式 [自定义]***",
       "KR": "관리자가 모드를 [커스텀]으로 변경했습니다 ***",
-      "TW": ""
+      "TW": "***管理員已變更模式 [自訂]***"
     }
   },
   "***ADMIN CHANGED MODE [NORMAL]***": {
@@ -166,7 +166,7 @@
       "JP": "***ADMINがモードを変更しました [NORMAL]***",
       "CN": "***管理员已更改模式 [普通]***",
       "KR": "***관리자가 모드를 [노멀]로 변경했습니다***",
-      "TW": ""
+      "TW": "***管理員已變更模式 [普通]***"
     }
   },
   "***ADMIN CHANGED MODE [SOFA]***": {
@@ -175,7 +175,7 @@
       "US": "",
       "JP": "***ADMINがモードを変更しました [SOFA]***",
       "CN": "***管理员已更改模式 [沙发]***",
-      "KR": "",
+      "KR": "***관리자가 게임 모드를 변경했습니다 [SOFA]***",
       "TW": "***ADMIN CHANGED MODE [沙發]***"
     }
   },
@@ -185,7 +185,7 @@
       "US": "",
       "JP": "***ADMINがアドオンモードを有効化しました [FOG]***",
       "CN": "***管理员启用附加模式 [雾]***",
-      "KR": "",
+      "KR": "***관리자가 부가 기능 모드를 활성화했습니다 [FOG]***",
       "TW": "***ADMIN 启用addon模式 [霧]***)"
     }
   },
@@ -195,8 +195,8 @@
       "US": "",
       "JP": "***ADMINがアドオンモードを有効化しました [LOW FRICTION]***",
       "CN": "***管理员启用附加模式 [低摩擦]***",
-      "KR": "",
-      "TW": ""
+      "KR": "***관리자가 부가 기능 모드를 활성화했습니다 [낮은 마찰]***",
+      "TW": "***管理員已啟用附加模式 [低摩擦]***"
     }
   },
   "***ADMIN ENABLE ADDON MODE [LOW GRAVITY]***": {
@@ -615,7 +615,7 @@
       "US": "",
       "JP": "***手榴弾を拾った***",
       "CN": "***手雷已被捡起***",
-      "KR": "",
+      "KR": "***수류탄 획득***",
       "TW": "***手榴彈拾取***"
     }
   },
@@ -644,9 +644,9 @@
     "MultiLang": {
       "US": "",
       "JP": "[MUSIC] 私はプロフェッ官宣告者バージョン Remix",
-      "CN": "",
+      "CN": "[音乐] I'm Gonna Be - The Proclaimers 混音版",
       "KR": "[MUSIC] 나는 gonna be - The Proclaimers 리믹스",
-      "TW": ""
+      "TW": "[音樂] I'm Gonna Be - The Proclaimers Remix"
     }
   },
   "[MUSIC] Kaneko Chiharu - Silent Blue": {
@@ -693,7 +693,7 @@
     "translation": "[MUSIC] Pendulum - Vulture",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "[音楽] Pendulum - Vulture",
       "CN": "[MUSIC] 摇摆 - 鸟鹰",
       "KR": "[MUSIC] 펜들럼 - 빅터📷",
       "TW": "[ MUSIC ] 憑啷頓 - 鷹👋"
@@ -703,7 +703,7 @@
     "translation": "[MUSIC] Pendulum - Witchcraft",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "[音楽] Pendulum - Witchcraft",
       "CN": "[MUSIC] 摆动 pendulum - 女巫术 巫术 witchcraft",
       "KR": "[MUSIC] 펜텀블럼 - 마술사",
       "TW": "[ MUSIC ] 樟木 - 巫術"
@@ -713,9 +713,9 @@
     "translation": "[MUSIC] SimplePlan - Last One Standing",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "[音楽] SimplePlan - Last One Standing",
       "CN": "[MUSIC] SimplePlan - 最后生存者",
-      "KR": "",
+      "KR": "[음악] SimplePlan - Last One Standing",
       "TW": "[ MUSIC ] SimplePlan - 最後1個站立"
     }
   },

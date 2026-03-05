@@ -86,7 +86,7 @@
       "JP": ">>> AFK テレポート 10 秒 <<<",
       "CN": ">>>挂机传送10秒<<<",
       "KR": ">>> AFK 텔레포트 10 초 <<<",
-      "TW": ""
+      "TW": ">>>暫離 (AFK) 傳送 10 秒<<<"
     }
   },
   ">>> AFK Teleport in 10 Seconds <<<": {
@@ -763,10 +763,10 @@
     "translation": ">>>僵尸传送将在15秒内进行<<<",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": ">>> ZM TP 15秒以内 <<<",
       "CN": ">>>僵尸传送将在15秒内进行<<<",
       "KR": "",
-      "TW": ""
+      "TW": ">>>ZM 傳送 即將開始，倒數 15 秒<<<"
     }
   },
   ">>> Zombie Teleport in 10 Seconds <<<": {
@@ -793,7 +793,7 @@
     "translation": ">>>ze_Tyranny2 暴君2<<<",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": ">>> ze_Tyranny2 <<<",
       "CN": ">>>ze_Tyranny2 暴君2<<<",
       "KR": ">>> ze_정서2 <<<",
       "TW": ">>> ze_暴政2 <<<"
@@ -903,7 +903,7 @@
     "translation": "第5关跳刀已增加四十秒限时 (by bxzl)",
     "MultiLang": {
       "US": "Polevault jump timer for Level 5 has been increased by forty seconds (by bxzl)",
-      "JP": "",
+      "JP": "第5关のジャンプ刀の制限時間が40秒増加しました (by bxzl)",
       "CN": "第5关跳刀已增加四十秒限时 (by bxzl)",
       "KR": "제5관 점프 다이브에 40초 시간 제한 추가 (by bxzl)",
       "TW": "第5關跳刀已增加410分鐘限時 (by bxzl)"
