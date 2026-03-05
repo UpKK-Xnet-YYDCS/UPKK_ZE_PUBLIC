@@ -40,6 +40,12 @@ RETRY_DELAY     = 4
 CHUNK_SIZE      = 8
 REQUEST_TIMEOUT = (10, 600)
 
+# ── 🆕 单文件超时 & 重试配置 ─────────────────────────────────────────────────
+
+FILE_TIMEOUT     = int(os.getenv("FILE_TIMEOUT", "1800"))      # 单文件最大处理时间（秒），默认 30min
+FILE_MAX_RETRIES = int(os.getenv("FILE_MAX_RETRIES", "2"))    # 单文件最大重试次数，默认 2
+FILE_RETRY_DELAY = int(os.getenv("FILE_RETRY_DELAY", "5"))    # 文件重试间隔基数（秒），默认 5
+
 # =======================================================
 
 log = logging.getLogger("dify_translator")
@@ -557,16 +563,24 @@ def _save_json(path: Path, data: dict) -> None:
     tmp.replace(path)
 
 
-def process_file(
-    filepath: Path,
-    langs_to_translate: list[str] | None = None,
-    force: bool = False,
-    file_bar:  tqdm | None = None,
-    token_bar: tqdm | None = None,
-    use_streaming: bool = True,
-) -> None:
-    langs = list(LANGUAGE_MAP.keys()) if langs_to_translate is None else langs_to_translate
+# ── 🆕 单文件处理内核（供超时包装调用）──────────────────────────────────────
 
+def _process_file_inner(
+    filepath: Path,
+    langs: list[str],
+    force: bool,
+    file_bar: tqdm | None,
+    token_bar: tqdm | None,
+    use_streaming: bool,
+) -> str:
+    """
+    单文件翻译核心逻辑。
+
+    返回值:
+        "ok"      — 正常完成且有写入
+        "skipped" — 文件无需翻译内容
+        其他字符串 — 读取或处理失败的错误描述
+    """
     if file_bar is not None:
         file_bar.set_description_str(f"📄 {filepath.name[:40]}")
         file_bar.set_postfix_str(f"{len(langs)} lang(s)", refresh=True)
@@ -576,9 +590,7 @@ def process_file(
         data = _load_jsonc(filepath)
     except Exception as exc:
         log.error(f"failed to read {filepath.name}: {exc}")
-        if file_bar is not None:
-            file_bar.update(1)
-        return
+        return f"read error: {exc}"
 
     total = 0
     for lang_code in langs:
@@ -594,14 +606,87 @@ def process_file(
         if written:
             _save_json(filepath, data)
 
-    if file_bar is not None:
-        file_bar.set_postfix_str(f"✔ {total} written", refresh=True)
-        file_bar.update(1)
-
     if total:
         log.info(f"✔ saved {filepath.name}  ({total} translations)")
     else:
         log.info(f"— no changes: {filepath.name}")
+
+    return "ok" if total else "skipped"
+
+
+# ── 🆕 带超时 & 重试的文件处理入口 ──────────────────────────────────────────
+
+def process_file(
+    filepath: Path,
+    langs_to_translate: list[str] | None = None,
+    force: bool = False,
+    file_bar:  tqdm | None = None,
+    token_bar: tqdm | None = None,
+    use_streaming: bool = True,
+    file_timeout: int = FILE_TIMEOUT,
+    file_max_retries: int = FILE_MAX_RETRIES,
+    file_retry_delay: int = FILE_RETRY_DELAY,
+) -> str:
+    """
+    处理单个文件（含超时保护 & 重试）。
+
+    返回值:
+        "ok"      — 成功完成
+        "skipped" — 无需翻译
+        "failed"  — 全部重试耗尽后失败
+    """
+    langs = list(LANGUAGE_MAP.keys()) if langs_to_translate is None else langs_to_translate
+    result = "failed"
+
+    for attempt in range(1, file_max_retries + 1):
+        try:
+            # 使用线程池 + timeout 实现单文件超时保护
+            with concurrent.futures.ThreadPoolExecutor(max_workers=1) as executor:
+                future = executor.submit(
+                    _process_file_inner,
+                    filepath, langs, force,
+                    file_bar, token_bar, use_streaming,
+                )
+                result = future.result(timeout=file_timeout)
+
+            # 正常完成（"ok" 或 "skipped"），跳出重试循环
+            if file_bar is not None:
+                if result == "ok":
+                    file_bar.set_postfix_str("✔ done", refresh=True)
+                elif result == "skipped":
+                    file_bar.set_postfix_str("— skipped", refresh=True)
+                else:
+                    file_bar.set_postfix_str(f"⚠ {result[:30]}", refresh=True)
+                file_bar.update(1)
+            return result
+
+        except concurrent.futures.TimeoutError:
+            log.warning(
+                f"⏰ {filepath.name} 超时 ({file_timeout}s) — "
+                f"第 {attempt}/{file_max_retries} 次尝试"
+            )
+            if attempt < file_max_retries:
+                delay = file_retry_delay * attempt
+                log.info(f"   ⏳ {delay}s 后重试 {filepath.name} ...")
+                time.sleep(delay)
+            result = "failed"
+
+        except Exception as exc:
+            log.error(
+                f"❌ {filepath.name} 处理失败 (第 {attempt}/{file_max_retries} 次): {exc}"
+            )
+            if attempt < file_max_retries:
+                delay = file_retry_delay * attempt
+                log.info(f"   ⏳ {delay}s 后重试 {filepath.name} ...")
+                time.sleep(delay)
+            result = "failed"
+
+    # 全部重试耗尽
+    log.error(f"❌ {filepath.name} — 共 {file_max_retries} 次尝试均失败，跳过此文件")
+    if file_bar is not None:
+        file_bar.set_postfix_str("❌ failed", refresh=True)
+        file_bar.update(1)
+    return "failed"
 
 
 # ── CLI ───────────────────────────────────────────────────────────────────────
@@ -619,12 +704,17 @@ examples:
   python translate_dify.py -l US JP            # only US and JP (no force)
   python translate_dify.py -p 3                # 3 files in parallel
   python translate_dify.py --blocking          # blocking mode
+  python translate_dify.py --file-timeout 300  # 5 min per-file timeout
+  python translate_dify.py --file-retries 3    # retry each file up to 3 times
   python translate_dify.py -v                  # verbose / debug
 
 environment variables:
-  DIFY_API_URL    Dify API base URL (default: https://api.dify.ai/v1)
-  DIFY_API_KEY    Dify application API key (required)
-  TRANSLATE_DIR   Directory containing JSON files (default: cwd)
+  DIFY_API_URL      Dify API base URL   (default: http://192.168.50.152/v1)
+  DIFY_API_KEY      Dify application API key (required)
+  TRANSLATE_DIR     Directory containing JSON files (default: cwd)
+  FILE_TIMEOUT      Per-file timeout in seconds (default: 600)
+  FILE_MAX_RETRIES  Per-file max retries (default: 2)
+  FILE_RETRY_DELAY  Delay base between file retries in seconds (default: 5)
 """,
     )
     parser.add_argument("-f", "--file",     type=Path)
@@ -634,6 +724,12 @@ environment variables:
                         choices=list(LANGUAGE_MAP.keys()))
     parser.add_argument("--blocking", action="store_true",
                         help="Use blocking mode instead of streaming.")
+    parser.add_argument("--file-timeout", type=int, default=FILE_TIMEOUT,
+                        metavar="SEC",
+                        help=f"Per-file timeout in seconds (default: {FILE_TIMEOUT})")
+    parser.add_argument("--file-retries", type=int, default=FILE_MAX_RETRIES,
+                        metavar="N",
+                        help=f"Max retries per file on failure (default: {FILE_MAX_RETRIES})")
     parser.add_argument("-v", "--verbose", action="store_true")
     args = parser.parse_args()
 
@@ -668,7 +764,11 @@ environment variables:
 
     log.info(f"🔗 Dify API: {DIFY_BASE_URL}/workflows/run")
     log.info(f"📡 Mode: {'streaming' if use_streaming else 'blocking'}")
+    log.info(f"⏰ File timeout: {args.file_timeout}s │ retries: {args.file_retries}")
     log.info(f"🔊 Verbose: {args.verbose}")
+
+    # ── 🆕 统计计数 ─────────────────────────────────────────────────────────
+    stats = {"ok": 0, "skipped": 0, "failed": 0}
 
     if args.file:
         if not args.file.exists():
@@ -677,13 +777,17 @@ environment variables:
             total=0, desc="tokens", unit="str", ncols=100,
             bar_format="{desc} │ {postfix}", position=0,
         ) as tok_bar:
-            process_file(
+            result = process_file(
                 args.file,
                 langs_to_translate=langs_to_translate,
                 force=force,
                 token_bar=tok_bar,
                 use_streaming=use_streaming,
+                file_timeout=args.file_timeout,
+                file_max_retries=args.file_retries,
+                file_retry_delay=FILE_RETRY_DELAY,
             )
+            stats[result] = stats.get(result, 0) + 1
     else:
         files = sorted(DIRECTORY.glob("*.json")) + sorted(DIRECTORY.glob("*.jsonc"))
         if not files:
@@ -702,26 +806,37 @@ environment variables:
                 bar_format="{desc} │ {postfix}",
             ) as token_bar,
         ):
-            def _process(fp: Path) -> None:
-                process_file(
+            def _process(fp: Path) -> str:
+                return process_file(
                     fp,
                     langs_to_translate=langs_to_translate,
                     force=force,
                     file_bar=file_bar,
                     token_bar=token_bar,
                     use_streaming=use_streaming,
+                    file_timeout=args.file_timeout,
+                    file_max_retries=args.file_retries,
+                    file_retry_delay=FILE_RETRY_DELAY,
                 )
 
             if args.parallel > 1:
                 with concurrent.futures.ThreadPoolExecutor(
                     max_workers=args.parallel
                 ) as pool:
-                    list(pool.map(_process, files))
+                    results = list(pool.map(_process, files))
             else:
-                for fp in files:
-                    _process(fp)
+                results = [_process(fp) for fp in files]
 
-    print("\n✅ all done!")
+            for r in results:
+                stats[r] = stats.get(r, 0) + 1
+
+    # ── 🆕 最终汇总 ─────────────────────────────────────────────────────────
+    print(
+        f"\n✅ all done! "
+        f"({stats.get('ok', 0)} succeeded, "
+        f"{stats.get('failed', 0)} failed, "
+        f"{stats.get('skipped', 0)} skipped)"
+    )
 
 
 if __name__ == "__main__":
