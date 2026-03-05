@@ -71,21 +71,25 @@ def batch_translate_file(data: dict, lang_code: str, force_retranslate=False) ->
 {force_hint}要求：
 1. 保持角色一贯的口癖、语气、语尾完全统一
 2. 专有名词、占位符、数字、特殊符号绝对不翻译、不改动
-3. 保留所有换行\n和格式
+3. 保留所有换行\\n和格式
 4. 整份文件风格、用词必须高度一致
 
-请翻译以下所有文本（保持顺序）：
+请按顺序翻译以下所有文本：
 
 """
     for i, t in enumerate(tasks, 1):
         prompt += f"{i:3d}. {t['text']}\n"
 
     prompt += """
-直接输出一个合法的 JSON 数组，不要任何解释、代码块、额外文字。
-格式示例：
+**严格要求**：你的输出必须是合法的 JSON 数组，且**只能**是字符串列表（不要带 id，不要对象，不要任何解释文字）。
+格式必须严格如下：
 [
-  {"id": "原文1", "translation": "翻译后文本1"}
+  "翻译后的第一条文本",
+  "翻译后的第二条文本",
+  ...
 ]
+不要输出任何其他内容，不要 Markdown 代码块，不要额外说明。
+
 开始输出："""
 
     payload = {
@@ -95,8 +99,8 @@ def batch_translate_file(data: dict, lang_code: str, force_retranslate=False) ->
         "think": False,
         "format": "json",
         "options": {
-            "temperature": 0.2,
-            "top_p": 0.92,
+            "temperature": 0.1,      # 再低一点，更稳定
+            "top_p": 0.9,
             "repeat_penalty": 1.05,
             "num_ctx": 32768,
             "num_predict": 8192
@@ -138,19 +142,40 @@ def batch_translate_file(data: dict, lang_code: str, force_retranslate=False) ->
                 print(f"\r  → [{LANGUAGE_MAP[lang_code][0]}] ✓ 翻译完成！ "
                       f"{tokens_count} tokens | 耗时 {time.time()-start_time:.1f}s          ")
 
-            # 因为加了 "format": "json"，直接解析即可
-            result = json.loads(received.strip())
+            # ==================== 增强解析（核心修复） ====================
+            raw = received.strip()
+            try:
+                result = json.loads(raw)
+            except json.JSONDecodeError:
+                # 极少数情况下仍有垃圾字符，尝试提取最长的 JSON 数组
+                import re
+                match = re.search(r'\[\s*".*?"\s*(?:,\s*".*?")*\s*\]', raw, re.DOTALL)
+                if match:
+                    result = json.loads(match.group(0))
+                else:
+                    raise
 
-            # 写回数据
+            # 处理两种常见输出格式
             modified = False
-            for item in result:
-                orig_id = item.get("id")
-                trans = str(item.get("translation", "")).strip()
-                if not trans or not orig_id:
-                    continue
-                if orig_id in data and isinstance(data[orig_id].get("MultiLang"), dict):
-                    data[orig_id]["MultiLang"][lang_code] = trans
-                    modified = True
+            if isinstance(result, str):  # 模型输出了字符串包裹的 JSON
+                result = json.loads(result)
+
+            if isinstance(result, list):
+                if result and isinstance(result[0], dict):  # 旧格式兼容
+                    for item in result:
+                        orig_id = item.get("id")
+                        trans = str(item.get("translation", "")).strip()
+                        if orig_id and trans and orig_id in data:
+                            data[orig_id]["MultiLang"][lang_code] = trans
+                            modified = True
+                else:  # 新格式：纯字符串列表（推荐）
+                    for i, trans in enumerate(result):
+                        if i < len(tasks) and isinstance(trans, str):
+                            trans = str(trans).strip()
+                            if trans:
+                                orig_id = tasks[i]["id"]
+                                data[orig_id]["MultiLang"][lang_code] = trans
+                                modified = True
 
             if modified:
                 logging.info(f"  → [{LANGUAGE_MAP[lang_code][0]}] 成功写入 {len(result)} 条翻译")
