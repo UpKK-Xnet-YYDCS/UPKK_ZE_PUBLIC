@@ -25,6 +25,9 @@ from tqdm import tqdm
 DIFY_BASE_URL = os.getenv("DIFY_API_URL", "http://192.168.50.152/v1")
 DIFY_API_KEY  = os.getenv("DIFY_API_KEY", "app-WPimuuDqClQpOXF9wqgSOSC1")
 
+STREAM_FIRST_TOKEN_TIMEOUT = int(os.getenv("STREAM_FIRST_TOKEN_TIMEOUT", "120"))   # 首 token 最大等待秒数
+STREAM_TOTAL_TIMEOUT       = int(os.getenv("STREAM_TOTAL_TIMEOUT", "600"))          # 流式接收总超时
+
 DIRECTORY = Path(os.getenv("TRANSLATE_DIR", os.getcwd()))
 
 LANGUAGE_MAP: dict[str, tuple[str, str]] = {
@@ -237,8 +240,8 @@ def _call_dify_workflow_streaming(
     count = 0
     start = time.monotonic()
     fallback_text: str = ""
+    got_first_token = False                          # 🆕
 
-    # 🔧 FIX: 进度信息全部走 tqdm postfix，不再用 print("\r...")
     if _token_bar is not None:
         _token_bar.set_description_str(f"[{lang_label}] ⏳ 连接中...")
         _token_bar.refresh()
@@ -252,7 +255,30 @@ def _call_dify_workflow_streaming(
             _token_bar.set_description_str(f"[{lang_label}] ⚡ 等待首 token...")
             _token_bar.refresh()
 
+        # ── 🆕 用 resp.raw 替代 iter_lines，实现行级超时 ────────────
+        # 设置 socket 级别的超时，让 readline 可以被打断
+        raw_socket = resp.raw._fp
+        if hasattr(raw_socket, 'settimeout'):
+            raw_socket.settimeout(STREAM_FIRST_TOKEN_TIMEOUT)
+
         for raw_line in resp.iter_lines():
+            now = time.monotonic()
+
+            # ── 🆕 流式总超时检查 ────────────────────────────────────
+            if now - start > STREAM_TOTAL_TIMEOUT:
+                log.warning(
+                    f"[{lang_label}] ⏰ 流式总超时 ({STREAM_TOTAL_TIMEOUT}s)，"
+                    f"已收到 {count} tokens，强制结束"
+                )
+                break
+
+            # ── 🆕 首 token 超时检查 ─────────────────────────────────
+            if not got_first_token and (now - start > STREAM_FIRST_TOKEN_TIMEOUT):
+                raise TimeoutError(
+                    f"[{lang_label}] 等待首 token 超时 "
+                    f"({STREAM_FIRST_TOKEN_TIMEOUT}s)，中断请求"
+                )
+
             if not raw_line:
                 continue
 
@@ -279,6 +305,16 @@ def _call_dify_workflow_streaming(
                 if text_piece:
                     parts.append(text_piece)
                     count += 1
+
+                    # ── 🆕 首 token 到达 → 切换为正常 read timeout ───
+                    if not got_first_token:
+                        got_first_token = True
+                        if hasattr(raw_socket, 'settimeout'):
+                            raw_socket.settimeout(REQUEST_TIMEOUT[1])
+                        log.debug(
+                            f"[{lang_label}] ✓ 首 token 到达 "
+                            f"({now - start:.1f}s)"
+                        )
 
             elif event == "node_finished":
                 text = _extract_text_from_outputs(event_data)
@@ -479,13 +515,17 @@ def _translate_chunk(
             log.info(f"[{lang_label}] chunk 完成: {written}/{len(tasks)}")
             return written
 
-        except Exception as exc:
+        except (TimeoutError, Exception) as exc:
             last_exc = exc
+            is_timeout = isinstance(exc, TimeoutError)
             log.warning(
-                f"[{lang_label}] attempt {attempt}/{MAX_RETRIES} failed: {exc}"
+                f"[{lang_label}] attempt {attempt}/{MAX_RETRIES} "
+                f"{'⏰ 超时' if is_timeout else '失败'}: {exc}"
             )
             if attempt < MAX_RETRIES:
-                time.sleep(RETRY_DELAY * attempt)
+                delay = RETRY_DELAY * (attempt * 2 if is_timeout else attempt)
+                log.info(f"[{lang_label}] ⏳ {delay}s 后重试...")
+                time.sleep(delay)
 
     raise RuntimeError(
         f"[{lang_label}] all {MAX_RETRIES} retries exhausted"
@@ -731,6 +771,15 @@ environment variables:
                         metavar="N",
                         help=f"Max retries per file on failure (default: {FILE_MAX_RETRIES})")
     parser.add_argument("-v", "--verbose", action="store_true")
+
+    parser.add_argument("--first-token-timeout", type=int,
+                        default=STREAM_FIRST_TOKEN_TIMEOUT, metavar="SEC",
+                        help=f"首 token 超时秒数 (default: {STREAM_FIRST_TOKEN_TIMEOUT})")
+    parser.add_argument("--stream-timeout", type=int,
+                        default=STREAM_TOTAL_TIMEOUT, metavar="SEC",
+                        help=f"流式接收总超时秒数 (default: {STREAM_TOTAL_TIMEOUT})")
+
+
     args = parser.parse_args()
 
     # 只初始化一次
