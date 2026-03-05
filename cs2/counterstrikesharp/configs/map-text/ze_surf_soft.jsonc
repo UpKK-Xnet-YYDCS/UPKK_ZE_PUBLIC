@@ -243,7 +243,7 @@
     "translation": "僵尸传送即将开始",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "「一時離席」テレポート機能はまもなく有効になります！",
       "CN": "僵尸传送即将开始",
       "KR": "<<< afk 텔레포트 활성화 금방!! >>>",
       "TW": "<<< afk teleport 激活-SpeedUp!! >>>"
@@ -383,19 +383,19 @@
     "translation": "ze_surf_soft",
     "MultiLang": {
       "US": "",
-      "JP": "",
-      "CN": "",
-      "KR": "",
-      "TW": ""
+      "JP": "「ze_surf_soft」",
+      "CN": "<<< ze_surf_soft >>>",
+      "KR": "<<< ze_surf_soft >>>",
+      "TW": "<<< ze_surf_soft >>>"
     }
   },
   "<<< survive 30 seconds >>>": {
     "translation": "",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "30秒間生き残る",
       "CN": "<<< 生存 30 秒 >>>",
-      "KR": "",
+      "KR": "<<< 30초 동안 생존하기 >>>",
       "TW": "<<< 生存 30 秒 >>>"
     }
   },
@@ -403,9 +403,9 @@
     "translation": "",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "40秒以内にガラスの壁を破壊する",
       "CN": "<<< 在 40 秒内击碎玻璃墙 >>>",
-      "KR": "",
+      "KR": "<<< 40초 안에 유리 벽을 부수기 >>>",
       "TW": "<<< 在 40 秒內打破玻璃牆 >>>"
     }
   }

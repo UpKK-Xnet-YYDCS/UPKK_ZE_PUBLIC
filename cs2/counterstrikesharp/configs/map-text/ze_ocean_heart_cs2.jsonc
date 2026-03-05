@@ -143,20 +143,20 @@
     "translation": "* 僵尸传送10秒 *",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "-----ZM TP 開始まで10秒------",
       "CN": "* 僵尸传送10秒 *",
-      "KR": "",
-      "TW": ""
+      "KR": "-----zm tp 시작까지 10초------",
+      "TW": "-----zm tp in 10s------"
     }
   },
   "-ZM TP IN 10s-": {
     "translation": "*僵尸传送10秒*",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "-ZM TP 開始まで10秒-",
       "CN": "*僵尸传送10秒*",
-      "KR": "",
-      "TW": ""
+      "KR": "-ZM TP 시작까지 10초-",
+      "TW": "-ZM TP IN 10s-"
     }
   },
   "Main ----- 10 -----": {
@@ -203,9 +203,9 @@
     "translation": "僵尸传送10秒",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "zm tp 開始まで10秒",
       "CN": "僵尸传送10秒",
-      "KR": "",
+      "KR": "zm tp 시작까지 10초",
       "TW": "zm tp 在 10s"
     }
   },
@@ -213,10 +213,10 @@
     "translation": "僵尸传送5秒",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "zm tp 開始まで5秒",
       "CN": "僵尸传送5秒",
-      "KR": "",
-      "TW": ""
+      "KR": "zm tp 시작까지 5초",
+      "TW": "zm tp in 5 sec"
     }
   },
   "zombies tp in 15 sec": {

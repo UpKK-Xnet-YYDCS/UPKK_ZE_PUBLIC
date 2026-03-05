@@ -205,7 +205,7 @@
       "US": "",
       "JP": "***ゾンビが入ってきた！君は失敗した***",
       "CN": "**僵尸进来了！你们失败了**",
-      "KR": "",
+      "KR": "좀비가 침입했습니다! 실패했습니다.",
       "TW": "***屍/workspace/zombies进入！你失敗了***"
     }
   },
@@ -213,9 +213,9 @@
     "translation": "*哈 哈 哈*",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "*ハァハァハァ*",
       "CN": "*哈 哈 哈*",
-      "KR": "",
+      "KR": "*숨가쁘게 숨쉬는 소리*",
       "TW": "*>*喘喘*>"
     }
   },
@@ -223,7 +223,7 @@
     "translation": "*哈* *哈* 纸片人最棒",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "*ハァ* *ハァ* 2Dの女性が最高",
       "CN": "*哈* *哈* 纸片人最棒",
       "KR": "*pant* *pant* 2D 여자들이 최고야",
       "TW": "*pant* *pant* 2D女子最好"
@@ -283,7 +283,7 @@
     "translation": "距离你的祷告成真还有10秒！",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "あと10秒であなたの祈りは完了します！",
       "CN": "距离你的祷告成真还有10秒！",
       "KR": "10초 더 기다리면 당신의 기도는 완료됩니다!",
       "TW": "10 上秒後你祈禱將會完成！"
@@ -293,7 +293,7 @@
     "translation": "剩下10秒！",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "残り10秒です!!!",
       "CN": "剩下10秒！",
       "KR": "10초 만남!!",
       "TW": "10 秒鐘剩餘!!!"
@@ -563,30 +563,30 @@
     "translation": "啊啊啊快跑",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "AAAA FKIN RUUNN",
       "CN": "啊啊啊快跑",
-      "KR": "",
-      "TW": ""
+      "KR": "AA 부들부들 뛰어",
+      "TW": "AAAA FKIN RUUNN"
     }
   },
   "AAAHH U WON QUICK GO NORTH!!!": {
     "translation": "啊啊啊你赢了，快向北走！",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "AAHH！あなたは素早い！北へ進め！！",
       "CN": "啊啊啊你赢了，快向北走！",
-      "KR": "",
-      "TW": ""
+      "KR": "아! 너무 빨리 이겼어요! 북쪽으로 가세요!!!",
+      "TW": "啊！你太快了！往北走！！！"
     }
   },
   "AAAHHHHH": {
     "translation": "啊啊啊啊",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "AAHHHHH",
       "CN": "啊啊啊啊",
-      "KR": "",
-      "TW": ""
+      "KR": "아아아아아",
+      "TW": "啊~~~~~~~~"
     }
   },
   "AAHH WE MADE IT": {
@@ -603,9 +603,9 @@
     "translation": "管理员设定 - 极限1",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "管理者設定 - EXTREME 1",
       "CN": "管理员设定 - 极限1",
-      "KR": "",
+      "KR": "관리자 설정 - 극단적 1",
       "TW": "ADMIN SET - 极端 1"
     }
   },
@@ -613,9 +613,9 @@
     "translation": "管理员设定 - 极限2",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "管理者設定 - エクストリーム 2",
       "CN": "管理员设定 - 极限2",
-      "KR": "",
+      "KR": "관리자 설정 - 극단적 2",
       "TW": "ADMIN SET - 极端 2"
     }
   },
@@ -623,9 +623,9 @@
     "translation": "管理员设定 - 极限3 mako模式",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "管理者設定 - エクストリーム 3",
       "CN": "管理员设定 - 极限3 mako模式",
-      "KR": "",
+      "KR": "관리자 설정 - 극단적 3",
       "TW": "ADMIN SET - 极端 3"
     }
   },
@@ -633,7 +633,7 @@
     "translation": "管理员设定 - 普通1",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "管理者設定 - レベル 1",
       "CN": "管理员设定 - 普通1",
       "KR": "관리자 설정 - 레벨 1",
       "TW": "ADMIN SET - 極限 1"
@@ -645,7 +645,7 @@
       "US": "",
       "JP": "ADMIN SET - レベル 2",
       "CN": "管理员设定 - 普通2",
-      "KR": "",
+      "KR": "관리자 설정 - 레벨 2",
       "TW": "ADMIN SET - 標準2"
     }
   },
@@ -653,9 +653,9 @@
     "translation": "管理员设定 - 普通3",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "管理者設定 - レベル 3",
       "CN": "管理员设定 - 普通3",
-      "KR": "",
+      "KR": "관리자 설정 - 레벨 3",
       "TW": "ADMIN SET - 條件 3"
     }
   },
@@ -696,7 +696,7 @@
       "JP": "アナOnUiThread!",
       "CN": "那个！那个！",
       "KR": "안달루 안달루!",
-      "TW": ""
+      "TW": "ANONE ANONE!"
     }
   },
   "Actually nvm... you never know when the FBI is watching...": {
@@ -815,7 +815,7 @@
       "US": "",
       "JP": "任何人自慰都配得上愛！",
       "CN": "有一技之长的人都值得被关爱！",
-      "KR": "",
+      "KR": "사타키는 사랑받을 자격이 있습니다!",
       "TW": "任何人自慰都配得上愛！"
     }
   },
@@ -956,7 +956,7 @@
       "JP": "ボス戦開始まで5秒",
       "CN": "5秒后开始BOSS战",
       "KR": "보스전이 5초 후 시작됩니다 ***",
-      "TW": ""
+      "TW": "BOSS 戰將在 5 秒後開始"
     }
   },
   "By Onahole": {
@@ -973,7 +973,7 @@
     "translation": "因为我们是坏香蕉",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "なぜなら、私たちはいたずら好きだから",
       "CN": "因为我们是坏香蕉",
       "KR": "캐치因为我们 BEEN BAD BANANAASS",
       "TW": "因為我們1直非常Bad Bananaass"
@@ -1033,7 +1033,7 @@
     "translation": "再防守20秒！！！！",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "20秒間、防御だ！！！！！",
       "CN": "再防守20秒！！！！",
       "KR": "방어하라!!!!!! 20초!!!!!",
       "TW": "防禦二十秒!!!!!!!!"
@@ -1043,7 +1043,7 @@
     "translation": "再防守25秒！！！",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "25秒間、防御だ！！！",
       "CN": "再防守25秒！！！",
       "KR": "방어를 지속해라!! 25초!!!!!",
       "TW": "守護25秒!!!!!"
@@ -1144,16 +1144,16 @@
     "MultiLang": {
       "US": "",
       "JP": "エアルスチャーン！",
-      "CN": "",
-      "KR": "",
-      "TW": ""
+      "CN": "EAAARRTTHHH CHAAAAANNN!",
+      "KR": "EAAARRTTHHH CHAAAAANNN!",
+      "TW": "EAAARRTTHHH CHAAAAANNN!"
     }
   },
   "EARTH CHAN IS NOT FLAT ": {
     "translation": "地球酱不是平的",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "アースちゃんは平らではない",
       "CN": "地球酱不是平的",
       "KR": "지구 체인은 평평하지 않음",
       "TW": "地球-chan並非平的"
@@ -1163,7 +1163,7 @@
     "translation": "地球酱！",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "アースちゃん！",
       "CN": "地球酱！",
       "KR": "지구ちゃん!",
       "TW": "地球-channel！"
@@ -1183,10 +1183,10 @@
     "translation": "EEEUEURURURGHGHHH",
     "MultiLang": {
       "US": "",
-      "JP": "",
-      "CN": "",
-      "KR": "",
-      "TW": ""
+      "JP": "EEEEUEURURURGHGHHH",
+      "CN": "EEEU EURURURGHGHHH",
+      "KR": "EEEUEURURURGHGHHH",
+      "TW": "EEEUEURURURGHGHHH"
     }
   },
   "EXTREME 1 COMPLETE": {
@@ -1203,7 +1203,7 @@
     "translation": "极限2关完成",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "EXTREME 2 COMPLETE",
       "CN": "极限2关完成",
       "KR": "EXTREME 2 완료",
       "TW": "極端2完整版"
@@ -1213,7 +1213,7 @@
     "translation": "极限通关高手最强",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "EXTREME ESCAPERS は全てを凌駕する",
       "CN": "极限通关高手最强",
       "KR": "극한 탈출者が 우세하다",
       "TW": "極端逃生者凌駕1切"
@@ -1223,7 +1223,7 @@
     "translation": "极限模式！！！",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "EXTREME!!!",
       "CN": "极限模式！！！",
       "KR": "극단적!!!!!",
       "TW": "極端!!!"
@@ -1233,7 +1233,7 @@
     "translation": "极限模式！！！！！",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "EXTREME!!!!!!!!!",
       "CN": "极限模式！！！！！",
       "KR": "극장!!!!!",
       "TW": "極端!!!!!!!!"
@@ -1293,7 +1293,7 @@
     "translation": "最后一个门将在20秒后打开",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "最後の扉は20秒後に開く",
       "CN": "最后一个门将在20秒后打开",
       "KR": "최종 문이 20초 후에 열립니다",
       "TW": "FINAL Doors 開啟於 20 秒後"
@@ -1323,10 +1323,10 @@
     "translation": "哦哦哦哦哦你准备好了吗？！",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "うわぁ！準備はいいか！？",
       "CN": "哦哦哦哦哦你准备好了吗？！",
-      "KR": "",
-      "TW": ""
+      "KR": "GAAAHH, 준비됐어?!",
+      "TW": "GAAAHH 你準備好了嗎？"
     }
   },
   "GET TO THE TOP OF THE SHRINE TO REACH EARTH-CHAN HEAVEN!!": {
@@ -1366,14 +1366,14 @@
       "JP": "ゴーゴーゴーゴー",
       "CN": "快快快快快",
       "KR": "고고고고ゴーゴーゴー",
-      "TW": ""
+      "TW": "GOGOGOGOOOO"
     }
   },
   "GOOD JOB SHIT LORDS": {
     "translation": "干得好，混蛋们",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "よくやった、くだらん貴様ら。",
       "CN": "干得好，混蛋们",
       "KR": "좋은 lavoro 추라드",
       "TW": "好工作shitlords"
@@ -1383,7 +1383,7 @@
     "translation": "干得漂亮，但还有一次攻击！",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "いい仕事だが、まだ攻撃があるぞ！",
       "CN": "干得漂亮，但还有一次攻击！",
       "KR": "좋은 물건이지만 한 번 더 공격하세요!",
       "TW": "好東西但還有一擊！"
@@ -1446,7 +1446,7 @@
       "JP": "20秒間 HOLD",
       "CN": "再防守20秒",
       "KR": "20초 유지하세요",
-      "TW": ""
+      "TW": "按住 20 秒"
     }
   },
   "Hold for 20 seconds please!": {
@@ -1476,7 +1476,7 @@
       "JP": "Hold for like uh 12秒或者什么的",
       "CN": "防守大概12秒左右",
       "KR": "지금 약 12초 정도 기다려보세요 أو 그런 것처럼",
-      "TW": ""
+      "TW": "按住大概呃，12 秒左右或者什么的"
     }
   },
   "I SELL PROPANE AND PROPANE ACCESSORIES": {
@@ -1543,9 +1543,9 @@
     "translation": "例如，嗯？",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "え？へ？",
       "CN": "例如，嗯？",
-      "KR": "",
+      "KR": "IE HUH?",
       "TW": "IE 嘿？"
     }
   },
@@ -1553,9 +1553,9 @@
     "translation": "马上要坚果了！！",
     "MultiLang": {
       "US": "IM GONNA NUTT!!",
-      "JP": "",
+      "JP": "今、興奮しそう！！",
       "CN": "马上要坚果了！！",
-      "KR": "",
+      "KR": "곧 폭발할 것 같아!!",
       "TW": "IM BOUTTA 肉！！"
     }
   },
@@ -1635,7 +1635,7 @@
       "US": "",
       "JP": "開けた!! 行こうゴー！",
       "CN": "开了！！我们走吧",
-      "KR": "",
+      "KR": "시작합니다!! 가자!",
       "TW": "開門了！！Let's GoOO"
     }
   },
@@ -1743,9 +1743,9 @@
     "translation": "只要防守，宝贝，你就能赢！",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "ただ防御するだけで勝てるよ！",
       "CN": "只要防守，宝贝，你就能赢！",
-      "KR": "",
+      "KR": "방어만 잘하면 승리할 수 있어, 자기야!",
       "TW": "JUST 防守 孩子 懊，你才能獲勝！"
     }
   },
@@ -1753,20 +1753,20 @@
     "translation": "防守直到它破裂！！",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "壊れるまで防御を続けろ！！",
       "CN": "防守直到它破裂！！",
-      "KR": "",
-      "TW": ""
+      "KR": "방어만 버티면 돼!!",
+      "TW": "只用防守直到它被破坏！！"
     }
   },
   "JUST HOLD FOR A LIL BIT AND WE CAN GOGOO": {
     "translation": "只要防守一下，我们就能走了",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "少しだけ耐えてれば、一緒に楽しもう。",
       "CN": "只要防守一下，我们就能走了",
-      "KR": "",
-      "TW": ""
+      "KR": "조금만 버티면 우리 즐겁게 놀 수 있어!",
+      "TW": "稍微按住一下，我们就可以 GOGOO"
     }
   },
   "Just dont tell my mom": {
@@ -1813,7 +1813,7 @@
     "translation": "离开",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "去れ",
       "CN": "离开",
       "KR": "퇴장",
       "TW": "離開"
@@ -1823,7 +1823,7 @@
     "translation": "让我们回到兽耳娘房间",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "さあ、ケモミミの部屋に戻りましょう。",
       "CN": "让我们回到兽耳娘房间",
       "KR": "지금 KEMONOMIMI 방으로 돌아가자",
       "TW": "現在回到kitsune的房间吧"
@@ -1833,10 +1833,10 @@
     "translation": "走吧",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "さあ、行こう！",
       "CN": "走吧",
-      "KR": "",
-      "TW": ""
+      "KR": "가자!",
+      "TW": "讓我們開始！"
     }
   },
   "LEVEL 1 COMPLETE": {
@@ -1903,7 +1903,7 @@
     "translation": "更多点击",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "もっとクリック",
       "CN": "更多点击",
       "KR": "더 클릭하기",
       "TW": "更多點擊>>"
@@ -1913,20 +1913,20 @@
     "translation": "更多卡祖笛",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "もっとカズー",
       "CN": "更多卡祖笛",
       "KR": "더 많은 카즈오Obama",
-      "TW": ""
+      "TW": "更多卡祖笛子"
     }
   },
   "MORE SHWING": {
     "translation": "更多跳刀",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "もっとシャウィーン",
       "CN": "更多跳刀",
       "KR": "더 많은 샤인ging",
-      "TW": ""
+      "TW": "更多唰唰聲"
     }
   },
   "MOVING ON TO EXTREME": {
@@ -2043,20 +2043,20 @@
     "translation": "哦，注意鲨鱼！！！",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "あと、サメに注意してください！",
       "CN": "哦，注意鲨鱼！！！",
-      "KR": "",
-      "TW": ""
+      "KR": "그리고 상어 조심해!!!",
+      "TW": "小心鯊魚！！！"
     }
   },
   "OH BBY LETS BREAK INTO THIS BITCH": {
     "translation": "哦，宝贝，让我们来进入这个家伙",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "よし、よし、この場所に侵入しよう。",
       "CN": "哦，宝贝，让我们来进入这个家伙",
-      "KR": "",
-      "TW": ""
+      "KR": "자기야, 이 녀석을 부숴보자!",
+      "TW": "喔 寶貝 我們要闖進這間了"
     }
   },
   "OH MY GOD BAHAMUT HAS CASTED ULTIMA!!!!!!!!!!!": {
@@ -2075,8 +2075,8 @@
       "US": "",
       "JP": "OH YESS　全てが開いてるよ",
       "CN": "哦是的，三个都开了",
-      "KR": "",
-      "TW": ""
+      "KR": "좋아, 세 곳 모두 열렸어.",
+      "TW": "喔 對了 三個都已經打開了"
     }
   },
   "OHH BABY IT OPENED!": {
@@ -2086,7 +2086,7 @@
       "JP": "オヒー赤ちゃん開いた！",
       "CN": "哦，宝贝，它开了！",
       "KR": "오하 baby it opened!",
-      "TW": ""
+      "TW": "喔 寶貝 它打開了！"
     }
   },
   "OHH BABY YOU DID IT!": {
@@ -2096,17 +2096,17 @@
       "JP": "オヒー・ベイビー・あなた做到了！",
       "CN": "哦，宝贝，你做到了！",
       "KR": "오하hhh 비비너 네가 해냈어!",
-      "TW": ""
+      "TW": "喔 寶貝 你做到了！"
     }
   },
   "OK OK HOLD FOR LIKE 25 SECONDS": {
     "translation": "好吧，好吧，防守大约25秒",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "OK、OK、25秒ほど待って。",
       "CN": "好吧，好吧，防守大约25秒",
-      "KR": "",
-      "TW": ""
+      "KR": "알았어, 알았어. 25초 정도 기다려.",
+      "TW": "好的 好的 請按住 25 秒"
     }
   },
   "OK THE DOOR BROKE, NOW LEAVE U SINNERS": {
@@ -2123,7 +2123,7 @@
     "translation": "只有极限通关高手才能走到这一步！",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "極めて熟練したエリートプレイヤーでなければ、ここには到達できない！",
       "CN": "只有极限通关高手才能走到这一步！",
       "KR": "천대의 도망차는 전설급만이 여기까지 올 수 있！\",>> <<",
       "TW": "只有極限逃生高手才能走到這步！"
@@ -2135,7 +2135,7 @@
       "US": "",
       "JP": "OO ブビー これ全部何だよ",
       "CN": "哦，宝贝，看看这些东西",
-      "KR": "",
+      "KR": "어머, 봐봐, 이게 다 뭐야.",
       "TW": "OO BBY 看看這些shit"
     }
   },
@@ -2143,19 +2143,19 @@
     "translation": "哦，宝贝，你打败了它",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "やったね、クリアだ！",
       "CN": "哦，宝贝，你打败了它",
       "KR": "오 Heater Babe 이거 맞cratch",
-      "TW": ""
+      "TW": "喔 寶貝 你成功了"
     }
   },
   "OOO BABY U MADE IT TO THE BOSS": {
     "translation": "哦，宝贝，你到最终BOSS房了",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "おお、ボスにたどり着いたね！",
       "CN": "哦，宝贝，你到最终BOSS房了",
-      "KR": "",
+      "KR": "와, 넌 보스에게 왔구나.",
       "TW": "OOO 小宝贝你到Boss了"
     }
   },
@@ -2304,9 +2304,9 @@
     "MultiLang": {
       "US": "",
       "JP": "パ パ ト ト ト ト ト ウ ウ",
-      "CN": "",
+      "CN": "PA PA TU TU TU TU TU WA WA",
       "KR": "파 파 투 투 투 투 투 워 워",
-      "TW": ""
+      "TW": "PA PA TU TU TU TU TU WA WA"
     }
   },
   "PINEAPPLE DOES NOT BELONG ON PIZZA": {
@@ -2323,17 +2323,17 @@
     "translation": "誓死守护",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "守りを固めろ",
       "CN": "誓死守护",
-      "KR": "",
-      "TW": ""
+      "KR": "보호 서약.",
+      "TW": "承諾：竭力保護"
     }
   },
   "PULL OUT PULL OUT!!!!": {
     "translation": "7秒，两次吸力，按住S",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "引き抜くぞ！",
       "CN": "7秒，两次吸力，按住S",
       "KR": "끌어내라 끌어내라!!!!!",
       "TW": "拉出來！拉出來！！！"
@@ -2346,7 +2346,7 @@
       "JP": "プッシュTürkiye",
       "CN": "7秒，两次推力，按住W",
       "KR": "푸쉬hhh",
-      "TW": ""
+      "TW": "發力！"
     }
   },
   "Please don't forget to recycle": {
@@ -2386,7 +2386,7 @@
       "JP": "シュwing 収入!!!",
       "CN": "跳刀即将到来！！！",
       "KR": "수정 중인吸入中",
-      "TW": ""
+      "TW": "咻！即將到來！！"
     }
   },
   "SHWING SHWING SHWING!!": {
@@ -2396,14 +2396,14 @@
       "JP": "シュwing シュwing シュwing!!",
       "CN": "跳刀 跳刀 跳刀！！",
       "KR": "쇼잉 쇼잉 쇼잉!!",
-      "TW": ""
+      "TW": "咻！咻！咻！！"
     }
   },
   "SINNER!": {
     "translation": "罪人！",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "罪人！",
       "CN": "罪人！",
       "KR": "죄수!!!!!",
       "TW": "罪人！"
@@ -2413,9 +2413,9 @@
     "translation": "所以防守",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "さあ、防衛だ！",
       "CN": "所以防守",
-      "KR": "",
+      "KR": "그러니 방어해!",
       "TW": "如此堅守DDDDED"
     }
   },
@@ -2433,10 +2433,10 @@
     "translation": "有人被吸进了它的魔光炉里面！！",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "誰かが、その奥深くに吸い込まれてしまった！！",
       "CN": "有人被吸进了它的魔光炉里面！！",
       "KR": "누군가 그 범벅의 자궁에 SUCC'D 당했다!!",
-      "TW": ""
+      "TW": "有人被吸進了它的…裡面！！"
     }
   },
   "STAY STRONG FOR EARTH-CHAN!": {
@@ -2515,7 +2515,7 @@
       "US": "",
       "JP": "众多の扉ButOnlyOne Opens",
       "CN": "这么多门，但只有一个会开",
-      "KR": "",
+      "KR": "많은 문이 있지만, 그중 하나만 열려.",
       "TW": "如此多的門，但只有1個開著"
     }
   },
@@ -2543,20 +2543,20 @@
     "translation": "还有更多卡祖笛！",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "カズーがもっとある！",
       "CN": "还有更多卡祖笛！",
       "KR": "더 많은 캔우!\n(Teoreun maneum kano!)",
-      "TW": ""
+      "TW": "還有更多口琴！"
     }
   },
   "THERE IS MORE SHWING": {
     "translation": "还有更多跳刀",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "シュウィングがもっとある",
       "CN": "还有更多跳刀",
       "KR": "더 많은 شويング이 있습니다",
-      "TW": ""
+      "TW": "還有更多咻！"
     }
   },
   "THIS BRIDGE IS GONNA FKIN BREAK IN LIKE 15 SECONDS": {
@@ -2586,7 +2586,7 @@
       "JP": "テレポーター起動まで20秒!!",
       "CN": "传送器将在20秒内启动！！",
       "KR": "텔레포터 활성화 20초 후!!",
-      "TW": ""
+      "TW": "传送器将在20秒后启动！！"
     }
   },
   "That floor is appealing, but it might be dirty! ": {
@@ -2673,9 +2673,9 @@
     "translation": "你们花的时间太长了！！",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "みんな、時間がかかりすぎた！！",
       "CN": "你们花的时间太长了！！",
-      "KR": "",
+      "KR": "너희들 너무 늦었어!!",
       "TW": "妳們太慢了！！"
     }
   },
@@ -2693,10 +2693,10 @@
     "translation": "UOOOOOHHHHHH",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "うおおおおおお",
       "CN": "欧哦 oh",
       "KR": "우오오오오오오오아hhhhh",
-      "TW": ""
+      "TW": "UOOOOOHHHHHH"
     }
   },
   "Uhh": {
@@ -2706,7 +2706,7 @@
       "JP": "うーん",
       "CN": "嗯",
       "KR": "어hhh",
-      "TW": ""
+      "TW": "Uhh"
     }
   },
   "Uhhhh hold for like 35 seconds or something": {
@@ -2793,10 +2793,10 @@
     "translation": "我们该拥抱哪个？？",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "どれを抱きしめるべきだ！？",
       "CN": "我们该拥抱哪个？？",
       "KR": "어느 하나를 안아야 하나??",
-      "TW": ""
+      "TW": "我們要抱哪個呢！？"
     }
   },
   "Wait... hold on... gimme a bit": {
@@ -2943,9 +2943,9 @@
     "translation": "是的，混蛋！继续防守",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "やった！ そのまま！",
       "CN": "是的，混蛋！继续防守",
-      "KR": "",
+      "KR": "그래, 꼬맹이! 계속 기다려.",
       "TW": "YEAAA 姊妹！ KEEP HOLDIN"
     }
   },
@@ -2966,17 +2966,17 @@
       "JP": "あなたはこの聖地に存在するべきではありません",
       "CN": "你不属于这个圣地",
       "KR": "이 거룩한 곳에 네가 속하지 않는다.",
-      "TW": ""
+      "TW": "你不屬於這個神聖的地方。"
     }
   },
   "YOU FUCKIN LET ZOMBIES IN!": {
     "translation": "你让僵尸进来了！",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "アンタがゾンビを侵入させたんだ！",
       "CN": "你让僵尸进来了！",
       "KR": "◂ Zombies 들을 내버려두angeredYOU LET ZOMBIES IN!",
-      "TW": ""
+      "TW": "你竟然讓殭屍進來了！"
     }
   },
   "YOU HAVE DEFILED EARTH-CHAN": {
@@ -2993,10 +2993,10 @@
     "translation": "你输了",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "お前は負けだ",
       "CN": "你输了",
       "KR": "당신의 패배",
-      "TW": ""
+      "TW": "你輸了。"
     }
   },
   "YOU TOOK TOO FUCKING LONG TO WIN": {
@@ -3033,7 +3033,7 @@
     "translation": "你那虐待狂管理员在第二关中召唤了所有的纳克鲁斯",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "あなたの残虐な管理者が、レベル2にすべてのナックルズを出現させました。",
       "CN": "你那虐待狂管理员在第二关中召唤了所有的纳克鲁斯",
       "KR": "당신의 사전적 관리자가 LVL2에 ***모든_KNUCKLES***를 소환했습니다.",
       "TW": "YOUR SADISTIK CHUNGHUAN WENSHENG已Spawned所有KNUCKLES在LV2"
@@ -3055,7 +3055,7 @@
       "US": "",
       "JP": "まだ負け haven't won .\"] 2k18]? LUL",
       "CN": "你还没赢？在2018年？笑死",
-      "KR": "",
+      "KR": "아직도 2018년에 승리하지 못했나요? ㅋㅋㅋ",
       "TW": "你還沒有贏在2k18？LUL"
     }
   },
@@ -3096,7 +3096,7 @@
       "JP": "ゾンビが来ています！",
       "CN": "僵尸来了！",
       "KR": "ゾوم비즈_are_coming!",
-      "TW": ""
+      "TW": "殭屍來了！"
     }
   },
   "a closed door and a carpet?!?": {
@@ -3166,7 +3166,7 @@
       "JP": "15somethin秒持つlol",
       "CN": "防守大概15秒，不知道，哈哈",
       "KR": "15초 정도 기다려 봐요idlol",
-      "TW": ""
+      "TW": "按住大約15秒左右吧，我不知道啦。"
     }
   },
   "i heard pineapple makes your jizz taste good but...": {
@@ -3233,7 +3233,7 @@
     "translation": "哈哈不错",
     "MultiLang": {
       "US": "",
-      "JP": "",
+      "JP": "ふふ、いいですね。",
       "CN": "哈哈不错",
       "KR": "롤 잘함",
       "TW": "lol 好Nice"
@@ -3255,8 +3255,8 @@
       "US": "",
       "JP": "daddyを15秒待ってください",
       "CN": "嗯，再防守15秒",
-      "KR": "",
-      "TW": ""
+      "KR": "음... 아빠, 15초만 더 기다려줘.",
+      "TW": "嗯嗯，爸爸，再握住15秒。"
     }
   },
   "oOoH what? you gotta leave? ok..": {

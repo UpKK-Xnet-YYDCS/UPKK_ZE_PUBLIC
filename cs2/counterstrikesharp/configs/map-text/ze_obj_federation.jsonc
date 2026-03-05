@@ -66,7 +66,7 @@
       "JP": "<盈盈子>受信しました、本部",
       "CN": "",
       "KR": "<Yingyingzi> 수신 완료, 본부",
-      "TW": ""
+      "TW": "<盈盈子> 收到，總部"
     }
   },
   "...": {
@@ -113,7 +113,7 @@
     "translation": "",
     "MultiLang": {
       "US": "<Yingyingzi> It seems we'll have to loop around the nearby U.S. military base.",
-      "JP": "",
+      "JP": "<盈盈子> どうやら、近くのアメリカ軍基地を迂回するしかないようだ。",
       "CN": "",
       "KR": "<Yingyingzi> 옆에 있는 미군 기지를 한 바퀴 돌아야 할 것 같아",
       "TW": "<盈盈子>看來只能從旁邊的美軍基地繞一圈了"
@@ -173,7 +173,7 @@
     "translation": "",
     "MultiLang": {
       "US": "Now Playing 新秩序：欧洲末日OST - Standoff (Firefight)",
-      "JP": "",
+      "JP": "Now Playing 新秩序：ヨーロッパ終末 OST - Standoff(火線対峙)",
       "CN": "",
       "KR": "지금 재생 중 新秩序： 유럽 말라스 OST - Standoff(화선 대치)",
       "TW": "現在播放 新秩序：歐洲末日OST - Standoff(火線對峙)"
@@ -193,10 +193,10 @@
     "translation": "",
     "MultiLang": {
       "US": "<Yingyingzi> Is this really a dead end?",
-      "JP": "",
+      "JP": "<盈盈子> まさか、行き止まりとは…？",
       "CN": "",
       "KR": "<Yingyingzi> 정말로 막다른 길인가요?",
-      "TW": ""
+      "TW": "<盈盈子> 竟然是死路嗎？"
     }
   },
   "<Misono>队长，我想玻璃柜里的爆炸物能帮助到我们...": {
@@ -253,7 +253,7 @@
     "translation": "",
     "MultiLang": {
       "US": "Now Playing 《Premonition》OST - Ready For The Count (Fated from the Start)",
-      "JP": "",
+      "JP": "Now Playing 《プレオーダー》OST - Ready For The Count(早有劫数)",
       "CN": "",
       "KR": "지금 재생 중 《예비호령》OST - Ready For The Count(조우劫수)",
       "TW": "正在播放 《預先號令》原聲帶 - Ready For The Count(早有劫數)"
@@ -283,7 +283,7 @@
     "translation": "",
     "MultiLang": {
       "US": "Now Playing 《Pre-Command》OST - Depiction_Of_Fear (Depiction of Fear)",
-      "JP": "",
+      "JP": "Now Playing 《プレオーダー》OST - Depiction_Of_Fear(描绘恐惧)",
       "CN": "",
       "KR": "지금 재생 중 《예비호령》OST - Depiction_Of_Fear(描绘恐惧)",
       "TW": "正在播放 《預先號令》原聲帶 - Depiction_Of_Fear(描繪恐懼)"
@@ -343,7 +343,7 @@
     "translation": "",
     "MultiLang": {
       "US": "Now Playing 《War Thunder》OST - Steel Rain (Iron Rain)",
-      "JP": "",
+      "JP": "Now Playing 《ウォー・オブ・タンクブラッド》OST - steel Rain(鉄雨)",
       "CN": "",
       "KR": "지금 재생 중 《전쟁 천둥》OST - 스틸 레인(철우)",
       "TW": "正在播放 《戰爭雷霆》原聲帶 - 鋼雨(鐵雨)"
@@ -503,7 +503,7 @@
     "translation": "",
     "MultiLang": {
       "US": "Now Playing Xurious - Pray For A Saviour (Pray For A Saviour)",
-      "JP": "",
+      "JP": "Now Playing Xurious - Pray For A Saviour(祈祷救主)",
       "CN": "",
       "KR": "지금 재생 중 Xurious - Pray For A Saviour(기도 구원자)",
       "TW": "正在播放 Xurious - Pray For A Saviour(祈禱救主)"
@@ -522,8 +522,8 @@
   "Now Playing 新秩序：欧洲末日OST - Smoke and Mirrors(迷烟幻镜)": {
     "translation": "",
     "MultiLang": {
-      "US": "",
-      "JP": "",
+      "US": "Now Playing: New Order: European Apocalypse OST - Smoke and Mirrors",
+      "JP": "Now Playing 新秩序：ヨーロッパ終末 OST - Smoke and Mirrors(迷煙幻鏡)",
       "CN": "",
       "KR": "지금 재생 중 新秩序： 유럽 막탄 OST - Smoke and Mirrors(迷烟幻镜)",
       "TW": "現在播放 新秩序：歐洲末日OST - 魔術與幻影(迷煙幻鏡)"
@@ -563,7 +563,7 @@
     "translation": "",
     "MultiLang": {
       "US": "<Unknown> You are...",
-      "JP": "",
+      "JP": "<？？？>あなたたちは...",
       "CN": "",
       "KR": "<？？？> 너희는 ...",
       "TW": "<？？？>你們是..."
@@ -593,7 +593,7 @@
     "translation": "",
     "MultiLang": {
       "US": "<Yingyingzi> Could you try contacting the Berlin side?",
-      "JP": "",
+      "JP": "<盈盈子>あなたたちは、ベルリン方面に連絡を取ることはできますか？",
       "CN": "",
       "KR": "<Yingyingzi> 여러분은 베를린 측과 연락을 시도해볼 수 있나요?",
       "TW": "<盈盈子>你們可以嘗試聯絡柏林方面嗎？"
@@ -642,31 +642,31 @@
   "一个僵尸捡起了[单体加速]": {
     "translation": "",
     "MultiLang": {
-      "US": "",
-      "JP": "",
+      "US": "A zombie picked up [Single Target Speed Boost].",
+      "JP": "ゾンビが[単体加速]を拾いました",
       "CN": "",
-      "KR": "",
-      "TW": ""
+      "KR": "한 척의 좀비가 [단일 대상 가속]을 획득했습니다.",
+      "TW": "一個殭屍撿起了[單體加速]"
     }
   },
   "一个僵尸捡起了[群体治疗]": {
     "translation": "",
     "MultiLang": {
-      "US": "",
-      "JP": "",
+      "US": "A zombie picked up [Group Heal].",
+      "JP": "ゾンビが[グループヒール]を拾いました",
       "CN": "",
-      "KR": "",
-      "TW": ""
+      "KR": "한 척의 좀비가 [그룹 치료]를 획득했습니다.",
+      "TW": "一個殭屍撿起了[群體治療]"
     }
   },
   "人类引力装置已启用": {
     "translation": "",
     "MultiLang": {
-      "US": "",
-      "JP": "",
+      "US": "Human Gravity Device activated.",
+      "JP": "人間用重力装置が起動しました",
       "CN": "",
-      "KR": "",
-      "TW": ""
+      "KR": "인간 중력 장치가 활성화되었습니다.",
+      "TW": "人類重力裝置已啟用"
     }
   }
 }

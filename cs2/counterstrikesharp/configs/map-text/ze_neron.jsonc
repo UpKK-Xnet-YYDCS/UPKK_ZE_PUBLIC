@@ -85,7 +85,7 @@
       "US": "",
       "JP": "????:起きる...",
       "CN": "????：醒醒……",
-      "KR": "",
+      "KR": "?: 깨어나세요...",
       "TW": "????:醒過來……"
     }
   },
@@ -94,9 +94,9 @@
     "MultiLang": {
       "US": "",
       "JP": "????:カル.................................",
-      "CN": "",
+      "CN": "?????:KARL.............................................",
       "KR": "?????:카ル.............................................",
-      "TW": ""
+      "TW": "未知:KARL............................................."
     }
   },
   "?????:Karllllllllllllllllllllllllllllllllllllllllllllllll": {
@@ -106,7 +106,7 @@
       "JP": "?????:カルルLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLL",
       "CN": "?????:卡rrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrl",
       "KR": "?????:카를LLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLL",
-      "TW": ""
+      "TW": "未知:Karllllllllllllllllllllllllllllllllllllllllllllllll"
     }
   },
   "All story Unlock": {
@@ -255,8 +255,8 @@
       "US": "",
       "JP": "K:キキ....",
       "CN": "K:基基.....",
-      "KR": "",
-      "TW": ""
+      "KR": "K: 키키...",
+      "TW": "K:Kiki..."
     }
   },
   "K:Kiki..No...": {
@@ -285,7 +285,7 @@
       "US": "",
       "JP": "K:目覚めよ",
       "CN": "K：醒醒",
-      "KR": "",
+      "KR": "K: 일어나",
       "TW": "K:醒過來"
     }
   },
@@ -1412,31 +1412,31 @@
   "Special Thanks:X1a0Fu/健忘症晚期/lopb/Koen/Tenshi/清醒梦": {
     "translation": "",
     "MultiLang": {
-      "US": "",
-      "JP": "",
+      "US": "Special Thanks: X1a0Fu / Late-Stage Amnesia / lopb / Koen / Tenshi / Lucid Dreaming",
+      "JP": "特別協力: X1a0Fu/健忘症晚期/lopb/Koen/Tenshi/清醒梦",
       "CN": "",
-      "KR": "",
-      "TW": ""
+      "KR": "특별 감사: X1a0Fu/健忘症晚期/lopb/Koen/Tenshi/清醒梦",
+      "TW": "特别鸣谢:X1a0Fu/健忘症晚期/lopb/Koen/Tenshi/清醒梦"
     }
   },
   "Special Thanks:X1a0Fu/健忘症晚期/lopb/Koen/Tenshi/清醒梦/zenow": {
     "translation": "",
     "MultiLang": {
-      "US": "",
-      "JP": "",
+      "US": "Special Thanks: X1a0Fu / Late-Stage Amnesia / lopb / Koen / Tenshi / Lucid Dreaming / zenow",
+      "JP": "特別協力: X1a0Fu/健忘症晚期/lopb/Koen/Tenshi/清醒梦/zenow",
       "CN": "",
-      "KR": "",
-      "TW": ""
+      "KR": "특별 감사: X1a0Fu/健忘症晚期/lopb/Koen/Tenshi/清醒梦/zenow",
+      "TW": "特别鸣谢:X1a0Fu/健忘症晚期/lopb/Koen/Tenshi/清醒梦/zenow"
     }
   },
   "Kiki:好像有什么东西启动了": {
     "translation": "",
     "MultiLang": {
-      "US": "",
-      "JP": "",
+      "US": "Kiki: It seems like something has been activated.",
+      "JP": "キキ: 何か起動したみたいだ",
       "CN": "",
-      "KR": "",
-      "TW": ""
+      "KR": "키키: 뭔가 작동하는 것 같아요",
+      "TW": "Kiki:好像有什么东西启动了"
     }
   },
   "-30-": {
@@ -1503,10 +1503,10 @@
     "translation": "",
     "MultiLang": {
       "US": "",
-      "JP": "",
-      "CN": "",
-      "KR": "",
-      "TW": ""
+      "JP": "管理者によるRTVモードへの変更",
+      "CN": "管理员修改为RTV模式",
+      "KR": "관리자: RTV 모드로 변경",
+      "TW": "管理员切换至RTV模式"
     }
   }
 }
