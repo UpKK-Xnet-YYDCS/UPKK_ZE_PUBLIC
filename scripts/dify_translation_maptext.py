@@ -53,20 +53,32 @@ def _get_headers() -> dict:
     }
 
 
-# 🔧 FIX: setup_logging 改为强制覆盖，确保 -v 生效
+# ── 🔧 FIX: 让 logging 通过 tqdm.write() 输出，避免和进度条互相覆盖 ─────────
+
+class TqdmLoggingHandler(logging.Handler):
+    """日志 handler: 通过 tqdm.write() 输出，确保不被进度条覆盖。"""
+    def emit(self, record: logging.LogRecord) -> None:
+        try:
+            msg = self.format(record)
+            tqdm.write(msg, file=sys.stdout)
+        except Exception:
+            self.handleError(record)
+
+
 def setup_logging(verbose: bool = False) -> None:
     root = logging.getLogger()
-    root.setLevel(logging.DEBUG if verbose else logging.INFO)
-    # 清除已有 handler，避免 basicConfig 被忽略
+    level = logging.DEBUG if verbose else logging.INFO
+    root.setLevel(level)
     root.handlers.clear()
-    handler = logging.StreamHandler(sys.stdout)
-    handler.setLevel(logging.DEBUG if verbose else logging.INFO)
+
+    handler = TqdmLoggingHandler()
+    handler.setLevel(level)
     handler.setFormatter(logging.Formatter(
         fmt="%(asctime)s │ %(levelname)-7s │ %(message)s",
         datefmt="%H:%M:%S",
     ))
     root.addHandler(handler)
-    log.setLevel(logging.DEBUG if verbose else logging.INFO)
+    log.setLevel(level)
 
 
 # ── Text classification ──────────────────────────────────────────────────────
@@ -112,7 +124,7 @@ def _build_dify_inputs(items: list[dict], lang_en: str) -> dict[str, str]:
     }
 
 
-# ── JSON extraction (加强版) ─────────────────────────────────────────────────
+# ── JSON extraction ──────────────────────────────────────────────────────────
 
 def _extract_json_object(raw: str) -> dict:
     """Strip noise and robustly extract the first valid JSON object."""
@@ -156,32 +168,28 @@ def _extract_json_object(raw: str) -> dict:
     raise ValueError(f"Cannot extract JSON object from model output:\n{raw[:800]}")
 
 
-# ── 从 SSE text_chunk 提取文本（兼容多种 Dify 版本格式）─────────────────────
+# ── SSE text extraction (兼容多种 Dify 版本) ─────────────────────────────────
 
 def _extract_text_from_chunk(event_data: dict) -> str:
-    # 格式A: {"event":"text_chunk","data":{"text":"..."}}
+    """兼容多种 text_chunk 格式."""
     data_field = event_data.get("data")
     if isinstance(data_field, dict):
         text = data_field.get("text", "")
         if text:
             return text
-    # 格式B: 顶层 text
     text = event_data.get("text", "")
     if text:
         return text
-    # 格式C: 顶层 answer
     text = event_data.get("answer", "")
     if text:
         return text
-    # 格式D: data 就是字符串
     if isinstance(data_field, str) and data_field:
         return data_field
     return ""
 
 
-# ── 从 node_finished / workflow_finished 提取完整输出 ─────────────────────────
-
 def _extract_text_from_outputs(event_data: dict) -> str:
+    """从 node_finished / workflow_finished 提取完整输出."""
     data_field = event_data.get("data", {})
     if isinstance(data_field, dict):
         outputs = data_field.get("outputs", {})
@@ -224,21 +232,19 @@ def _call_dify_workflow_streaming(
     start = time.monotonic()
     fallback_text: str = ""
 
-    def _status(msg: str) -> None:
-        if _token_bar is not None:
-            _token_bar.set_description_str(f"[{lang_label}] {msg}")
-            _token_bar.refresh()
-        else:
-            print(f"\r  [{lang_label}] {msg}    ", end="", flush=True)
-
-    _status("⏳ 连接 Dify Workflow...")
+    # 🔧 FIX: 进度信息全部走 tqdm postfix，不再用 print("\r...")
+    if _token_bar is not None:
+        _token_bar.set_description_str(f"[{lang_label}] ⏳ 连接中...")
+        _token_bar.refresh()
 
     with requests.post(
         url, json=payload, headers=_get_headers(),
         stream=True, timeout=REQUEST_TIMEOUT,
     ) as resp:
         resp.raise_for_status()
-        _status("⚡ 等待首个 token...")
+        if _token_bar is not None:
+            _token_bar.set_description_str(f"[{lang_label}] ⚡ 等待首 token...")
+            _token_bar.refresh()
 
         for raw_line in resp.iter_lines():
             if not raw_line:
@@ -251,15 +257,15 @@ def _call_dify_workflow_streaming(
             try:
                 event_data = json.loads(line[6:])
             except json.JSONDecodeError:
-                log.debug(f"  [{lang_label}] SSE parse failed: {line[:200]}")
+                log.debug(f"[{lang_label}] SSE parse failed: {line[:200]}")
                 continue
 
             event = event_data.get("event", "")
 
             log.debug(
-                f"  [{lang_label}] SSE event={event} "
+                f"[{lang_label}] SSE event={event} "
                 f"keys={list(event_data.keys())} "
-                f"preview={json.dumps(event_data, ensure_ascii=False)[:300]}"
+                f"data={json.dumps(event_data, ensure_ascii=False)[:400]}"
             )
 
             if event == "text_chunk":
@@ -272,10 +278,7 @@ def _call_dify_workflow_streaming(
                 text = _extract_text_from_outputs(event_data)
                 if text:
                     fallback_text = text
-                    log.debug(
-                        f"  [{lang_label}] node_finished fallback "
-                        f"({len(text)} chars)"
-                    )
+                    log.debug(f"[{lang_label}] node_finished fallback ({len(text)} chars)")
 
             elif event == "workflow_finished":
                 if not parts:
@@ -285,53 +288,44 @@ def _call_dify_workflow_streaming(
                 break
 
             elif event == "error":
-                msg = event_data.get("message", "")
+                msg  = event_data.get("message", "")
                 code = event_data.get("code", "")
                 raise RuntimeError(f"Dify Workflow error [{code}]: {msg}")
 
-            if count > 0 and (count == 1 or count % 5 == 0):
+            # 更新 tqdm postfix
+            if _token_bar is not None and count > 0 and (count == 1 or count % 5 == 0):
                 elapsed = time.monotonic() - start
                 speed   = count / elapsed if elapsed else 0
-                if _token_bar is not None:
-                    _token_bar.set_description_str(f"[{lang_label}] {chunk_desc}")
-                    _token_bar.set_postfix_str(
-                        f"{count} tok │ {speed:.1f} t/s │ {elapsed:.1f}s",
-                        refresh=True,
-                    )
-                else:
-                    spinner = "⠋⠙⠹⠸⠼⠴⠦⠧⠇⠏"
-                    sc = spinner[(count // 5) % len(spinner)]
-                    print(
-                        f"\r  [{lang_label}] {sc} {count} tok │ "
-                        f"{speed:.1f} t/s │ {elapsed:.1f}s  ",
-                        end="", flush=True,
-                    )
+                _token_bar.set_description_str(f"[{lang_label}] {chunk_desc}")
+                _token_bar.set_postfix_str(
+                    f"{count} tok │ {speed:.1f} t/s │ {elapsed:.1f}s",
+                    refresh=True,
+                )
 
     elapsed = time.monotonic() - start
     speed   = count / elapsed if elapsed else 0
-
     collected = "".join(parts)
 
-    # 🔧 FIX: 如果流式拼接为空或不完整��使用 fallback
+    # 兜底: 如果流式拼接为空或明显不完整
     if not collected.strip() or (collected.count('"') < 4 and fallback_text):
         log.info(
-            f"  [{lang_label}] ⚠ text_chunk 拼接不完整 "
+            f"[{lang_label}] ⚠ text_chunk 拼接不完整 "
             f"({len(collected)} chars), 使用 node_finished 兜底 "
             f"({len(fallback_text)} chars)"
         )
         collected = fallback_text
 
-    final = f"✓ {count} tok │ {speed:.1f} t/s │ {elapsed:.1f}s"
+    # 更新最终进度
     if _token_bar is not None:
         _token_bar.set_description_str(f"[{lang_label}] {chunk_desc}")
-        _token_bar.set_postfix_str(final, refresh=True)
-    else:
-        print(f"\r  [{lang_label}] {final}          ")
+        _token_bar.set_postfix_str(
+            f"✓ {count} tok │ {speed:.1f} t/s │ {elapsed:.1f}s",
+            refresh=True,
+        )
 
-    # 🔧 FIX: 关键日志提升到 INFO 级别，不用 -v 也能看到
     log.info(
-        f"  [{lang_label}] 📝 Dify 原始输出 ({len(collected)} chars): "
-        f"{collected[:300]}{'...' if len(collected) > 300 else ''}"
+        f"[{lang_label}] 📝 Dify 原始输出 ({len(collected)} chars): "
+        f"{collected[:400]}{'...' if len(collected) > 400 else ''}"
     )
 
     return collected
@@ -347,17 +341,12 @@ def _call_dify_workflow_blocking(
         "user":          "game-translator",
     }
 
-    def _status(msg: str) -> None:
-        if _token_bar is not None:
-            _token_bar.set_description_str(f"[{lang_label}] {msg}")
-            _token_bar.refresh()
-        else:
-            print(f"\r  [{lang_label}] {msg}    ", end="", flush=True)
+    if _token_bar is not None:
+        _token_bar.set_description_str(f"[{lang_label}] ⏳ blocking...")
+        _token_bar.refresh()
 
-    _status("⏳ 连接 Dify Workflow (blocking)...")
     start = time.monotonic()
-
-    resp = requests.post(
+    resp  = requests.post(
         url, json=payload, headers=_get_headers(),
         timeout=REQUEST_TIMEOUT,
     )
@@ -365,10 +354,9 @@ def _call_dify_workflow_blocking(
     result = resp.json()
 
     elapsed = time.monotonic() - start
-    _status(f"✓ blocking 完成 │ {elapsed:.1f}s")
 
     log.debug(
-        f"  [{lang_label}] blocking response: "
+        f"[{lang_label}] blocking response: "
         f"{json.dumps(result, ensure_ascii=False)[:500]}"
     )
 
@@ -376,9 +364,13 @@ def _call_dify_workflow_blocking(
     if not text:
         text = _extract_text_from_outputs({"data": result})
 
+    if _token_bar is not None:
+        _token_bar.set_description_str(f"[{lang_label}] {chunk_desc}")
+        _token_bar.set_postfix_str(f"✓ blocking │ {elapsed:.1f}s", refresh=True)
+
     log.info(
-        f"  [{lang_label}] 📝 Dify 原始输出 ({len(text)} chars): "
-        f"{text[:300]}{'...' if len(text) > 300 else ''}"
+        f"[{lang_label}] 📝 Dify 原始输出 ({len(text)} chars): "
+        f"{text[:400]}{'...' if len(text) > 400 else ''}"
     )
 
     return text
@@ -410,20 +402,18 @@ def _translate_chunk(
 
             result = _extract_json_object(raw)
 
-            # 🔧 FIX: 打印解析后的 JSON key 列表，方便诊断
             log.info(
-                f"  [{lang_label}] 📦 解析 JSON keys: {sorted(result.keys())} "
+                f"[{lang_label}] 📦 解析到 keys: {sorted(result.keys())} "
                 f"(期望: {[str(i+1) for i in range(len(tasks))]})"
             )
 
-            # 检查返回完整性，严重缺失��重试
             expected_keys = {str(i + 1) for i in range(len(tasks))}
             got_keys      = set(result.keys()) & expected_keys
             missing_ratio = 1 - len(got_keys) / len(expected_keys)
 
             if missing_ratio > 0.5 and attempt < MAX_RETRIES:
                 log.warning(
-                    f"  [{lang_label}] 返回 key 严重缺失 "
+                    f"[{lang_label}] 返回 key 严重缺失 "
                     f"({len(got_keys)}/{len(expected_keys)}), 重试..."
                 )
                 raise ValueError(
@@ -441,58 +431,52 @@ def _translate_chunk(
                         _token_bar.update(1)
                 else:
                     log.warning(
-                        f'  [{lang_label}] missing key "{i+1}" '
+                        f'[{lang_label}] missing key "{i+1}" '
                         f'for: "{task["text"][:50]}"'
                     )
                     missing_tasks.append(task)
 
-            # 🔧 FIX: 对缺失的 key 逐条补翻（单条发送，成功率更高）
+            # 逐条补翻缺失的 key
             if missing_tasks and written > 0:
-                log.info(
-                    f"  [{lang_label}] 🔄 补翻 {len(missing_tasks)} 条缺失..."
-                )
+                log.info(f"[{lang_label}] 🔄 补翻 {len(missing_tasks)} 条缺失...")
                 for mt in missing_tasks:
                     try:
                         single_inputs = _build_dify_inputs([mt], lang_en)
                         if use_streaming:
                             single_raw = _call_dify_workflow_streaming(
-                                single_inputs, lang_label,
-                                f"{lang_label} 补翻",
+                                single_inputs, lang_label, f"{lang_label} 补翻",
                             )
                         else:
                             single_raw = _call_dify_workflow_blocking(
-                                single_inputs, lang_label,
-                                f"{lang_label} 补翻",
+                                single_inputs, lang_label, f"{lang_label} 补翻",
                             )
                         single_result = _extract_json_object(single_raw)
-                        translation = single_result.get("1", "").strip()
+                        translation   = single_result.get("1", "").strip()
                         if translation:
                             data[mt["id"]]["MultiLang"][lang_code] = translation
                             written += 1
                             if _token_bar is not None:
                                 _token_bar.update(1)
                             log.info(
-                                f'  [{lang_label}] ✓ 补翻成功: '
+                                f'[{lang_label}] ✓ 补翻: '
                                 f'"{mt["text"][:30]}" → "{translation[:30]}"'
                             )
                         else:
                             log.warning(
-                                f'  [{lang_label}] ✗ 补翻仍失败: '
-                                f'"{mt["text"][:50]}"'
+                                f'[{lang_label}] ✗ 补翻失败: "{mt["text"][:50]}"'
                             )
                     except Exception as exc:
                         log.warning(
-                            f'  [{lang_label}] ✗ 补翻异常: '
-                            f'"{mt["text"][:50]}" — {exc}'
+                            f'[{lang_label}] ✗ 补翻异常: "{mt["text"][:50]}" — {exc}'
                         )
 
-            log.debug(f"[{lang_label}] chunk done: {written}/{len(tasks)}")
+            log.info(f"[{lang_label}] chunk 完成: {written}/{len(tasks)}")
             return written
 
         except Exception as exc:
             last_exc = exc
             log.warning(
-                f"  [{lang_label}] attempt {attempt}/{MAX_RETRIES} failed: {exc}"
+                f"[{lang_label}] attempt {attempt}/{MAX_RETRIES} failed: {exc}"
             )
             if attempt < MAX_RETRIES:
                 time.sleep(RETRY_DELAY * attempt)
@@ -523,12 +507,12 @@ def translate_language(
     ]
 
     if not tasks:
-        log.info(f"  [{lang_label}] nothing to translate — skipping")
+        log.info(f"[{lang_label}] nothing to translate — skipping")
         return data, 0
 
     n_chunks = (len(tasks) + CHUNK_SIZE - 1) // CHUNK_SIZE
     log.info(
-        f"  [{lang_label}] {len(tasks)} strings │ "
+        f"[{lang_label}] {len(tasks)} strings │ "
         f"{n_chunks} chunk(s) │ "
         f"{'forced' if force else 'new only'}"
     )
@@ -542,7 +526,7 @@ def translate_language(
     for idx, chunk in enumerate(chunks, 1):
         desc = f"{lang_label} chunk {idx}/{n_chunks}"
         if n_chunks > 1:
-            log.info(f"  [{lang_label}] chunk {idx}/{n_chunks} ({len(chunk)} items)")
+            log.info(f"[{lang_label}] chunk {idx}/{n_chunks} ({len(chunk)} items)")
         try:
             total += _translate_chunk(
                 chunk, lang_code, data,
@@ -551,7 +535,7 @@ def translate_language(
         except RuntimeError as exc:
             log.error(str(exc))
 
-    log.info(f"  [{lang_label}] ✔ {total} written")
+    log.info(f"[{lang_label}] ✔ 共写入 {total} 条")
     return data, total
 
 
@@ -591,7 +575,7 @@ def process_file(
     try:
         data = _load_jsonc(filepath)
     except Exception as exc:
-        log.error(f"  failed to read {filepath.name}: {exc}")
+        log.error(f"failed to read {filepath.name}: {exc}")
         if file_bar is not None:
             file_bar.update(1)
         return
@@ -615,7 +599,7 @@ def process_file(
         file_bar.update(1)
 
     if total:
-        log.info(f"✔ saved {filepath.name}  ({total} translations written)")
+        log.info(f"✔ saved {filepath.name}  ({total} translations)")
     else:
         log.info(f"— no changes: {filepath.name}")
 
@@ -623,7 +607,6 @@ def process_file(
 # ── CLI ───────────────────────────────────────────────────────────────────────
 
 def main() -> None:
-    # 🔧 FIX: 先不初始化 logging，等解析完参数再初始化
     parser = argparse.ArgumentParser(
         description="Game Localization Auto-Translator (Dify Workflow API, Python 3.13+)",
         formatter_class=argparse.RawDescriptionHelpFormatter,
@@ -631,12 +614,12 @@ def main() -> None:
 examples:
   python translate_dify.py                     # all files, new strings only
   python translate_dify.py -f file.json        # single file
-  python translate_dify.py -r                  # force re-translate ALL languages
-  python translate_dify.py -r JP KR            # force re-translate JP and KR only
-  python translate_dify.py -l US JP            # only process US and JP (no force)
+  python translate_dify.py -r                  # force re-translate ALL
+  python translate_dify.py -r JP KR            # force re-translate JP + KR
+  python translate_dify.py -l US JP            # only US and JP (no force)
   python translate_dify.py -p 3                # 3 files in parallel
-  python translate_dify.py --blocking          # use blocking mode instead of streaming
-  python translate_dify.py -v                  # verbose / debug (查看 SSE 原始结构)
+  python translate_dify.py --blocking          # blocking mode
+  python translate_dify.py -v                  # verbose / debug
 
 environment variables:
   DIFY_API_URL    Dify API base URL (default: https://api.dify.ai/v1)
@@ -654,7 +637,7 @@ environment variables:
     parser.add_argument("-v", "--verbose", action="store_true")
     args = parser.parse_args()
 
-    # 🔧 FIX: 只初始化一次 logging，根据 -v 决定级别
+    # 只初始化一次
     setup_logging(verbose=args.verbose)
 
     if not DIFY_API_KEY:
