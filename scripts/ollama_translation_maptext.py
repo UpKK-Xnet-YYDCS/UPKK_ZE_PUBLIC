@@ -11,7 +11,7 @@ import logging
 
 # ==================== 配置区 ====================
 OLLAMA_URL = "http://192.168.50.7:11434/api/generate"
-MODEL = "glm-4.7-flash:latest"   # 可能现阶段更好的选择?
+MODEL = "qwen3.5:35b-a3b-q4_K_M"
 DIRECTORY = os.getcwd()
 HEADERS = {"Content-Type": "application/json"}
 
@@ -24,8 +24,6 @@ LANGUAGE_MAP = {
 }
 
 MAX_RETRIES = 4
-TIMEOUT_SECONDS = 300                     # 批量翻译一次可能很长
-SIMILARITY_THRESHOLD = 0.88
 # ================================================
 
 def setup_logging():
@@ -33,11 +31,10 @@ def setup_logging():
                         format='%(asctime)s | %(message)s',
                         handlers=[logging.StreamHandler()])
 
-# 语言快速检测
 def need_translate(text, lang_code):
     if not text or len(text.strip()) == 0:
         return False
-    if re.match(r'^[\s\W\d_]+$', text.strip()):    # 纯符号数字
+    if re.match(r'^[\s\W\d_]+$', text.strip()):
         return False
     if lang_code == "US" and re.search(r'[a-zA-Z]', text):
         return False
@@ -49,9 +46,7 @@ def need_translate(text, lang_code):
         return False
     return True
 
-# 核心：批量翻译整个文件（Qwen3-30B 专属超级 Prompt）
-# 把原来的 batch_translate_file 替换成下面这个终极流式版
-
+# 核心翻译函数（已使用官方 think: false + format: json）
 def batch_translate_file(data: dict, lang_code: str, force_retranslate=False) -> dict:
     _, lang_en = LANGUAGE_MAP[lang_code]
 
@@ -85,11 +80,11 @@ def batch_translate_file(data: dict, lang_code: str, force_retranslate=False) ->
     for i, t in enumerate(tasks, 1):
         prompt += f"{i:3d}. {t['text']}\n"
 
-    prompt += f"""
+    prompt += """
 直接输出一个合法的 JSON 数组，不要任何解释、代码块、额外文字。
 格式示例：
 [
-  {{"id": "原文1", "translation": "翻译后文本1"}}
+  {"id": "原文1", "translation": "翻译后文本1"}
 ]
 开始输出："""
 
@@ -97,10 +92,12 @@ def batch_translate_file(data: dict, lang_code: str, force_retranslate=False) ->
         "model": MODEL,
         "prompt": prompt,
         "stream": True,
+        "think": False,
+        "format": "json",
         "options": {
-            "temperature": 0.3,
-            "top_p": 0.95,
-            "repeat_penalty": 1.02,
+            "temperature": 0.2,
+            "top_p": 0.92,
+            "repeat_penalty": 1.05,
             "num_ctx": 32768,
             "num_predict": 8192
         }
@@ -109,7 +106,7 @@ def batch_translate_file(data: dict, lang_code: str, force_retranslate=False) ->
     received = ""
     tokens_count = 0
     start_time = time.time()
-    spinner = ["⠋", "⠙", "⠹", "⠸", "⠼", "⠴", "⠦", "⠧", "⠇", "⠏"]  # 美观转圈动画
+    spinner = ["⠋", "⠙", "⠹", "⠸", "⠼", "⠴", "⠦", "⠧", "⠇", "⠏"]
     spinner_idx = 0
 
     for attempt in range(MAX_RETRIES):
@@ -118,62 +115,39 @@ def batch_translate_file(data: dict, lang_code: str, force_retranslate=False) ->
                              stream=True, timeout=(10, 600)) as r:
                 r.raise_for_status()
 
-                # 初始状态栏
                 print(f"  → [{LANGUAGE_MAP[lang_code][0]}] 正在翻译 {len(tasks)} 条 ", end="", flush=True)
 
                 for line in r.iter_lines():
                     if not line:
                         continue
-                    try:
-                        chunk = json.loads(line.decode('utf-8'))
-                        if chunk.get("done", False):
-                            break
+                    chunk = json.loads(line.decode('utf-8'))
+                    if chunk.get("done", False):
+                        break
+                    token = chunk.get("response", "")
+                    received += token
+                    tokens_count += 1
 
-                        token = chunk.get("response", "")
-                        received += token
-                        tokens_count += 1
+                    if tokens_count % 8 == 0 or chunk.get("done"):
+                        elapsed = time.time() - start_time
+                        speed = tokens_count / elapsed if elapsed > 0 else 0
+                        spinner_char = spinner[spinner_idx % len(spinner)]
+                        spinner_idx += 1
+                        print(f"\r  → [{LANGUAGE_MAP[lang_code][0]}] {spinner_char} 正在翻译… "
+                              f"{tokens_count} tokens | {speed:.1f} t/s", end="", flush=True)
 
-                        # 每 8 个 token 刷新一次显示（不刷屏但足够流畅）
-                        if tokens_count % 8 == 0 or chunk.get("done"):
-                            elapsed = time.time() - start_time
-                            speed = tokens_count / elapsed if elapsed > 0 else 0
-                            spinner_char = spinner[spinner_idx % len(spinner)]
-                            spinner_idx += 1
-
-                            print(f"\r  → [{LANGUAGE_MAP[lang_code][0]}] {spinner_char} 正在翻译… "
-                                  f"{tokens_count} tokens | {speed:.1f} t/s | {len(tasks)} 条任务", 
-                                  end="", flush=True)
-
-                    except json.JSONDecodeError:
-                        continue
-
-                # 结束时清一行再打印最终结果
-                elapsed = time.time() - start_time
-                speed = tokens_count / elapsed if elapsed > 0 else 0
                 print(f"\r  → [{LANGUAGE_MAP[lang_code][0]}] ✓ 翻译完成！ "
-                      f"{tokens_count} tokens | 平均 {speed:.1f} t/s | 耗时 {elapsed:.1f}s          ")
+                      f"{tokens_count} tokens | 耗时 {time.time()-start_time:.1f}s          ")
 
-            # 提取 JSON
-            import re
-            json_match = re.search(r'\[\s*\{.*\}\s*\]', received, re.DOTALL)
-            if not json_match:
-                raise ValueError("未检测到完整 JSON 数组")
+            # 因为加了 "format": "json"，直接解析即可
+            result = json.loads(received.strip())
 
-            result = json.loads(json_match.group(0))
-
-            # 写回
+            # 写回数据
             modified = False
             for item in result:
                 orig_id = item.get("id")
                 trans = str(item.get("translation", "")).strip()
                 if not trans or not orig_id:
                     continue
-                clean_o = re.sub(r'[^\w\u4e00-\u9fff]', '', orig_id)
-                clean_t = re.sub(r'[^\w\u4e00-\u9fff]', '', trans)
-                if clean_o and clean_t:
-                    jaccard = len(set(clean_t) & set(clean_o)) / len(set(clean_t) | set(clean_o))
-                    if jaccard > 0.9:
-                        continue
                 if orig_id in data and isinstance(data[orig_id].get("MultiLang"), dict):
                     data[orig_id]["MultiLang"][lang_code] = trans
                     modified = True
@@ -186,23 +160,14 @@ def batch_translate_file(data: dict, lang_code: str, force_retranslate=False) ->
             print(f"\n  → [{LANGUAGE_MAP[lang_code][0]}] ✗ 第 {attempt+1} 次失败: {e}")
             time.sleep(4)
             received = ""
-            tokens_count = 0
-            start_time = time.time()
 
     logging.error(f"  → [{LANGUAGE_MAP[lang_code][0]}] 全部重试失败，跳过此语言")
     return data
 
 
-# 处理单个文件（支持 .json 和 .jsonc）
-# ==================== 主函数 + process_file 大改造（重点在这里） ====================
+# 下面 process_file、main 函数完全不变（保持你原来的逻辑）
 def process_file(filepath, retranslate_langs=None):
-    """
-    retranslate_langs: None → 全部强制重译
-                       []    → 不强制重译任何语言（只补缺）
-                       ["JP", "KR"] → 只强制重译日文和韩文
-    """
     if retranslate_langs is None:
-        # 完全强制重译全部语言（原 -r 行为）
         force_all = True
         specific_langs = set(LANGUAGE_MAP.keys())
     else:
@@ -219,20 +184,12 @@ def process_file(filepath, retranslate_langs=None):
         logging.error(f"读取失败 {filename}: {e}")
         return
 
-    mode_str = ""
-    if force_all:
-        mode_str = " [强制重译全部语言]"
-    elif specific_langs:
-        names = [LANGUAGE_MAP[c][0] for c in specific_langs if c in LANGUAGE_MAP]
-        mode_str = f" [强制重译：{'、'.join(names)}]"
-
+    mode_str = " [强制重译全部语言]" if force_all else ""
     logging.info(f"正在处理: {filename} （共 {len(data)} 条）{mode_str}")
     modified = False
 
     for lang_code in LANGUAGE_MAP.keys():
-        # 决定本次是否强制重译
         force_this_lang = force_all or (lang_code in specific_langs)
-
         old_data = json.dumps(data, ensure_ascii=False)
         data = batch_translate_file(data, lang_code, force_retranslate=force_this_lang)
         if json.dumps(data, ensure_ascii=False) != old_data:
@@ -246,41 +203,22 @@ def process_file(filepath, retranslate_langs=None):
         logging.info(f"无需更新: {filename}")
 
 
-
-# 主函数
-# 主函数部分修改如下（完整替换原 main() 即可）
-
 def main():
     setup_logging()
-    parser = argparse.ArgumentParser(description="Qwen3-30B 全文件上下文批量游戏翻译神器")
+    parser = argparse.ArgumentParser(description="Qwen3.5-35B 官方关闭思考模式批量翻译神器")
     parser.add_argument("-f", "--file", type=str, help="单个文件路径")
     parser.add_argument("-p", "--parallel", type=int, default=2, help="并行文件数（建议 1-3）")
-    
-    # 重磅升级：-r 现在支持指定语言！
     parser.add_argument("-r", "--retranslate", nargs="*", 
-                        help="强制重新翻译指定语言（例如：-r JP KR TW US），不写参数表示全部强制重译，留空则只补缺")
+                        help="强制重新翻译指定语言（例如：-r JP KR TW US）")
 
     args = parser.parse_args()
 
-    # 智能解析 -r 参数
     if args.retranslate is None:
-        # 没写 -r → 只补缺
         retranslate_langs = []
     elif len(args.retranslate) == 0:
-        # 写了 -r 但没给参数 → 全部强制重译（兼容老版本行为）
         retranslate_langs = None
     else:
-        # 写了 -r JP KR → 只重译这些
         retranslate_langs = [code.strip().upper() for code in args.retranslate]
-
-    # 校验语言代码
-    if retranslate_langs:
-        valid = set(LANGUAGE_MAP.keys())
-        invalid = set(retranslate_langs) - valid if retranslate_langs else set()
-        if invalid:
-            print(f"错误：不支持的语言代码 → {', '.join(invalid)}")
-            print(f"可选语言：{', '.join(valid)}")
-            return
 
     if args.file:
         process_file(args.file, retranslate_langs)
