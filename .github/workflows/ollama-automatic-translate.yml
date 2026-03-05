@@ -1,4 +1,4 @@
-name: Ollama - Automatic Translate and Create PR
+name: dify - Automatic Translate and Create PR
 
 env:
   PYTHONUTF8: 1
@@ -50,7 +50,7 @@ jobs:
           echo "$CHANGED_FILES"
           for file in $CHANGED_FILES; do
             echo "Processing: $file"
-            python scripts/ollama_translation_maptext.py --file "$file"
+            python scripts/dify_translation_maptext.py --file "$file"
           done
 
           # Get the first changed file's basename
@@ -58,7 +58,7 @@ jobs:
           BASE_FILENAME=$(basename "$FIRST_FILE")
 
           echo "First changed file: $BASE_FILENAME"
-          echo "pr_title=${BASE_FILENAME}-GitAction-本地模型-gemma3:27b-it-qat-自动化翻译" >> $GITHUB_ENV
+          echo "pr_title=${BASE_FILENAME}-GitAction-本地模型-dify 自动化翻译" >> $GITHUB_ENV
           echo "files_changed=true" >> $GITHUB_ENV
 
       - name: Create Pull Request
