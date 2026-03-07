@@ -662,7 +662,7 @@
   ">>等待10秒门打开<<": {
     "translation": "",
     "MultiLang": {
-      "US": "",
+      "US": ">>Wait 10 seconds for the door to open<<",
       "JP": ">>10秒待つと、扉が開きます。<<",
       "CN": "",
       "KR": ">>10초 동안 기다리면 문이 열립니다<<",
@@ -672,7 +672,7 @@
   ">>怎么会有两扇门,守住20秒寻找正确的门<<": {
     "translation": "",
     "MultiLang": {
-      "US": "",
+      "US": ">>How can there be two doors? Hold for 20 seconds and find the correct one.<<",
       "JP": ">>なぜ2つの扉があるのか？20秒間待ち、正しい扉を探し出せ。<<",
       "CN": "",
       "KR": ">>어떻게 두 개의 문이 있을 수 있을까요? 20초 동안 기다리면서 올바른 문을 찾아보세요<<",
@@ -682,7 +682,7 @@
   ">>又来?守住20秒继续寻找正确的门<<": {
     "translation": "",
     "MultiLang": {
-      "US": "",
+      "US": ">>Again? Hold for 20 seconds and continue searching for the correct door.<<",
       "JP": ">>また来た？20秒間待ち、正しい扉をもう一度探せ。<<",
       "CN": "",
       "KR": ">>또 왔군요? 20초 동안 기다리면서 계속해서 올바른 문을 찾아보세요<<",
@@ -692,7 +692,7 @@
   ">>守住10秒继续寻找正确的门<<": {
     "translation": "",
     "MultiLang": {
-      "US": "",
+      "US": ">>Hold for 10 seconds and continue searching for the correct door.<<",
       "JP": ">>10秒間待ち、正しい扉をさらに探せ。<<",
       "CN": "",
       "KR": ">>10초 동안 기다리면서 계속해서 올바른 문을 찾아보세요<<",
@@ -702,7 +702,7 @@
   ">>怎么没有门了?没有路了吗?<<": {
     "translation": "",
     "MultiLang": {
-      "US": "",
+      "US": ">>How did the doors disappear? Is there no way forward?<<",
       "JP": ">>どうして扉がなくなった？進む道はもうないのか？<<",
       "CN": "",
       "KR": ">>문이 사라졌네요? 길이 없는 건가요?<<",
@@ -712,30 +712,30 @@
   ">>守住5秒等待墙壁消失<<": {
     "translation": "",
     "MultiLang": {
-      "US": "",
+      "US": ">>Hold for 5 seconds while the wall disappears.<<",
       "JP": ">>5秒間待ち、壁が消えるのを待て。<<",
       "CN": "",
-      "KR": "",
+      "KR": ">>5초 동안 버티면 벽이 사라집니다<<",
       "TW": ">>守住5秒，等待牆壁消失<<"
     }
   },
   ">>我!再生产!<<": {
     "translation": "",
     "MultiLang": {
-      "US": "",
+      "US": ">>I will reproduce!<<",
       "JP": ">>私は！再び産み出す！<<",
       "CN": "",
-      "KR": "",
+      "KR": ">>저는! 또 생산합니다!<<",
       "TW": ">>我！再生產！<<"
     }
   },
   ">>AFK传送将在5秒后开启<<": {
     "translation": "",
     "MultiLang": {
-      "US": "",
+      "US": ">>AFK teleport will activate in 5 seconds.<<",
       "JP": ">>AFKでのテレポートは5秒後に開始されます。<<",
       "CN": "",
-      "KR": "",
+      "KR": ">>AFK 순간이동은 5초 후에 활성화됩니다<<",
       "TW": ">>離線传送将在5秒后开启<<"
     }
   },
@@ -745,7 +745,7 @@
       "US": ">>Only the person who reaches the end can become a Top Star.<<",
       "JP": ">>最後に残った者だけが、トップスターになれる。<<",
       "CN": "",
-      "KR": "",
+      "KR": ">>마지막까지 살아남는 사람만이 Top star가 될 수 있습니다<<",
       "TW": ">>只有站到最後的那個人才能成為Top star<<"
     }
   },
@@ -755,7 +755,7 @@
       "US": ">>Perform your final dance on the stage of fate.<<",
       "JP": ">>最後の運命の舞台で、最後の舞を捧げよう<<",
       "CN": "",
-      "KR": "",
+      "KR": ">>마지막 운명의 무대에서 마지막 춤을 펼치세요<<",
       "TW": ">>在最後的命運舞台，獻上最後的舞吧<<"
     }
   },
@@ -765,7 +765,7 @@
       "US": ">>The last person standing on the stage becomes a Top Star.<<",
       "JP": ">>舞台で最後のひとりになった者が、トップスターとなる<<",
       "CN": "",
-      "KR": "",
+      "KR": ">>무대 위에 남은 마지막 한 명이 Top star가 됩니다<<",
       "TW": ">>站在舞台上的最後一人，成為了Top star<<"
     }
   },
@@ -775,7 +775,7 @@
       "US": ">>Thank you for playing. If you encounter any bugs, please leave a comment in the Workshop.<<",
       "JP": ">>プレイしていただきありがとうございます。バグが見つかった場合は、ワークショップにてご意見をお寄せください<<",
       "CN": "",
-      "KR": "",
+      "KR": ">>플레이해주셔서 감사합니다. 버그가 발생하면 스팀 창작마당에 댓글을 남겨주세요<<",
       "TW": ">>感謝您的遊玩，若遇到錯誤，請在創意工坊下留言<<"
     }
   },
@@ -785,7 +785,7 @@
       "US": ">>Survive for 180 seconds.<<",
       "JP": ">>180秒サバイブ<<",
       "CN": "",
-      "KR": "",
+      "KR": ">>180초 동안 생존하세요<<",
       "TW": ">>生存180秒<<"
     }
   },
@@ -795,7 +795,7 @@
       "US": "Nagao Keitoru became a Top☆Star",
       "JP": "長尾景虎がトップ☆スターになった",
       "CN": "",
-      "KR": "",
+      "KR": "나가오 케이고가 Top☆Star가 되었습니다.",
       "TW": "長尾景虎成为了Top☆Star"
     }
   },
@@ -805,7 +805,7 @@
       "US": "RabbitSaturation became a Top☆Star",
       "JP": "RabbitSaturationがトップ☆スターになった",
       "CN": "",
-      "KR": "",
+      "KR": "RabbitSaturation가 Top☆Star가 되었습니다.",
       "TW": "RabbitSaturation成为了Top☆Star"
     }
   },
@@ -815,7 +815,7 @@
       "US": "Tlipoca became a Top☆Star",
       "JP": "Tlipocaがトップ☆スターになった",
       "CN": "",
-      "KR": "",
+      "KR": "Tlipooca가 Top☆Star가 되었습니다.",
       "TW": "Tlipoca成为了Top☆Star"
     }
   }
