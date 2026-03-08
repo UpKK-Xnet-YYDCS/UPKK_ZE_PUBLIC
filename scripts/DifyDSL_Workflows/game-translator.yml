@@ -1,0 +1,319 @@
+app:
+  description: ''
+  icon: 🤖
+  icon_background: '#FFEAD5'
+  mode: workflow
+  name: game-translator
+  use_icon_as_answer_icon: false
+dependencies:
+- current_identifier: null
+  type: marketplace
+  value:
+    marketplace_plugin_unique_identifier: langgenius/ollama:0.1.2@fcf107badccaf57948634ad2c557d393c3894138d83f4eb3f959e9a1d3a86512
+    version: null
+- current_identifier: null
+  type: marketplace
+  value:
+    marketplace_plugin_unique_identifier: migege/json_repair:0.0.1@903bf3ba54482f956b3bf13bbacec981edd7a96be56d4d2dfa24e3a633bcef7d
+    version: null
+kind: app
+version: 0.6.0
+workflow:
+  conversation_variables: []
+  environment_variables: []
+  features:
+    file_upload:
+      allowed_file_extensions:
+      - .JPG
+      - .JPEG
+      - .PNG
+      - .GIF
+      - .WEBP
+      - .SVG
+      allowed_file_types:
+      - image
+      allowed_file_upload_methods:
+      - local_file
+      - remote_url
+      enabled: false
+      fileUploadConfig:
+        attachment_image_file_size_limit: 2
+        audio_file_size_limit: 50
+        batch_count_limit: 5
+        file_size_limit: 15
+        file_upload_limit: 20
+        image_file_batch_limit: 10
+        image_file_size_limit: 10
+        single_chunk_attachment_limit: 10
+        video_file_size_limit: 100
+        workflow_file_upload_limit: 10
+      image:
+        enabled: false
+        number_limits: 3
+        transfer_methods:
+        - local_file
+        - remote_url
+      number_limits: 3
+    opening_statement: ''
+    retriever_resource:
+      enabled: true
+    sensitive_word_avoidance:
+      enabled: false
+    speech_to_text:
+      enabled: false
+    suggested_questions: []
+    suggested_questions_after_answer:
+      enabled: false
+    text_to_speech:
+      enabled: false
+      language: ''
+      voice: ''
+  graph:
+    edges:
+    - data:
+        isInLoop: false
+        sourceType: start
+        targetType: llm
+      id: 1772683830828-source-1772683922968-target
+      source: '1772683830828'
+      sourceHandle: source
+      target: '1772683922968'
+      targetHandle: target
+      type: custom
+      zIndex: 0
+    - data:
+        isInLoop: false
+        sourceType: llm
+        targetType: tool
+      id: 1772683922968-source-1772687913153-target
+      source: '1772683922968'
+      sourceHandle: source
+      target: '1772687913153'
+      targetHandle: target
+      type: custom
+      zIndex: 0
+    - data:
+        isInLoop: false
+        sourceType: tool
+        targetType: end
+      id: 1772687913153-source-1772683983848-target
+      source: '1772687913153'
+      sourceHandle: source
+      target: '1772683983848'
+      targetHandle: target
+      type: custom
+      zIndex: 0
+    nodes:
+    - data:
+        selected: false
+        title: 用户输入
+        type: start
+        variables:
+        - default: ''
+          hint: ''
+          label: 目标语言，如 "Japanese"
+          options: []
+          placeholder: ''
+          required: true
+          type: text-input
+          variable: target_language
+        - default: '8'
+          hint: ''
+          label: 条目数量，如 "8"
+          options: []
+          placeholder: ''
+          required: true
+          type: text-input
+          variable: item_count
+        - default: 待翻译编号列表
+          hint: ''
+          label: 待翻译编号列表
+          options: []
+          placeholder: ''
+          required: true
+          type: paragraph
+          variable: source_lines
+        - default: ''
+          hint: ''
+          label: 期望 JSON 格式样例
+          options: []
+          placeholder: ''
+          required: true
+          type: text-input
+          variable: expected_format
+      height: 187
+      id: '1772683830828'
+      position:
+        x: 80
+        y: 282
+      positionAbsolute:
+        x: 80
+        y: 282
+      selected: false
+      sourcePosition: right
+      targetPosition: left
+      type: custom
+      width: 242
+    - data:
+        context:
+          enabled: false
+          variable_selector: []
+        model:
+          completion_params:
+            num_ctx: 4096
+            think: false
+          mode: chat
+          name: translategemma:12b-it-q4_K_M
+          provider: langgenius/ollama/ollama
+        prompt_template:
+        - id: 622abad5-5bb4-4822-a5e7-e28567106ce6
+          role: system
+          text: '```
+
+            You are a professional game localization translator.
+
+            Translate the strings below into {{#1772683830828.target_language#}}.
+
+
+            STRICT RULES:
+
+            1. Output ONLY a single valid JSON object. No markdown, no code fences,
+            no comments, no explanation.
+
+            2. Keys are the line numbers as strings ("1", "2", ...). Values are the
+            translated strings.
+
+            3. Preserve ALL placeholders, escape sequences (\n, %s, %d, {0}, <tag>),
+            symbols, and numbers exactly.
+
+            4. Keep consistent character voice, tone, and terminology throughout.
+
+            5. Every key must be present. If a string cannot be translated, copy the
+            original.
+
+            6.If the content is meaningless, return the blank text. example: ""
+
+
+            SOURCE STRINGS ({{#1772683830828.item_count#}} total):
+
+            {{#1772683830828.source_lines#}}
+
+
+            REQUIRED OUTPUT FORMAT:
+
+            {{#1772683830828.expected_format#}}
+
+
+            Output the JSON object now:
+
+            ```'
+        selected: true
+        title: LLM
+        type: llm
+        vision:
+          enabled: false
+      height: 88
+      id: '1772683922968'
+      position:
+        x: 461.01041412353516
+        y: 379.01041412353516
+      positionAbsolute:
+        x: 461.01041412353516
+        y: 379.01041412353516
+      selected: true
+      sourcePosition: right
+      targetPosition: left
+      type: custom
+      width: 242
+    - data:
+        outputs:
+        - value_selector:
+          - '1772687913153'
+          - text
+          value_type: string
+          variable: result
+        selected: false
+        title: 输出
+        type: end
+      height: 89
+      id: '1772683983848'
+      position:
+        x: 1049.843885079199
+        y: 360.01041412353516
+      positionAbsolute:
+        x: 1049.843885079199
+        y: 360.01041412353516
+      selected: false
+      sourcePosition: right
+      targetPosition: left
+      type: custom
+      width: 242
+    - data:
+        is_team_authorization: true
+        paramSchemas:
+        - auto_generate: null
+          default: null
+          form: llm
+          human_description:
+            en_US: JSON data string
+            ja_JP: JSON data string
+            pt_BR: String de dados JSON
+            zh_Hans: JSON数据字符串
+          label:
+            en_US: Text
+            ja_JP: Text
+            pt_BR: Texto
+            zh_Hans: 文本
+          llm_description: JSON data string
+          max: null
+          min: null
+          name: text
+          options: []
+          placeholder: null
+          precision: null
+          required: true
+          scope: null
+          template: null
+          type: string
+        params:
+          text: ''
+        plugin_id: migege/json_repair
+        plugin_unique_identifier: migege/json_repair:0.0.1@903bf3ba54482f956b3bf13bbacec981edd7a96be56d4d2dfa24e3a633bcef7d
+        provider_icon: /console/api/workspaces/current/plugin/icon?tenant_id=0156f273-633e-4cc5-9f76-580f68e97684&filename=7cf2512e210791463c5b951ea9921647e49d5e7f68d34000f28e9046c76d02ce.svg
+        provider_id: migege/json_repair/json_repair
+        provider_name: migege/json_repair/json_repair
+        provider_type: builtin
+        retry_config:
+          max_retries: 3
+          retry_enabled: false
+          retry_interval: 1000
+        selected: false
+        title: json_repair
+        tool_configurations: {}
+        tool_description: 修复无效的JSON数据
+        tool_label: json_repair
+        tool_name: json_repair
+        tool_node_version: '2'
+        tool_parameters:
+          text:
+            type: mixed
+            value: '{{#1772683922968.text#}}'
+        type: tool
+      height: 52
+      id: '1772687913153'
+      position:
+        x: 743.3434722122074
+        y: 556.843885079199
+      positionAbsolute:
+        x: 743.3434722122074
+        y: 556.843885079199
+      selected: false
+      sourcePosition: right
+      targetPosition: left
+      type: custom
+      width: 242
+    viewport:
+      x: 114.72275654545126
+      y: -221.02779103919283
+      zoom: 1.0000000367242603
+  rag_pipeline_variables: []
