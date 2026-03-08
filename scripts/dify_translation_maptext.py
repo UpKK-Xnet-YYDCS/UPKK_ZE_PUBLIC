@@ -23,7 +23,7 @@ from tqdm import tqdm
 # ==================== Configuration ====================
 
 DIFY_BASE_URL = os.getenv("DIFY_API_URL", "http://192.168.50.152/v1")
-DIFY_API_KEY  = os.getenv("DIFY_API_KEY", "app-WPimuuDqClQpOXF9wqgSOSC1")
+DIFY_API_KEY  = os.getenv("DIFY_API_KEY", "app-ntP1IznP1iaEnnZU2HBrMHJs")
 
 STREAM_FIRST_TOKEN_TIMEOUT = int(os.getenv("STREAM_FIRST_TOKEN_TIMEOUT", "120"))   # 首 token 最大等待秒数
 STREAM_TOTAL_TIMEOUT       = int(os.getenv("STREAM_TOTAL_TIMEOUT", "600"))          # 流式接收总超时
