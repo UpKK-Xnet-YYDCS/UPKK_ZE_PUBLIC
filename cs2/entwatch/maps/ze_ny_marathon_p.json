@@ -1,0 +1,219 @@
+[
+    {
+        "Name": "治疗",
+        "ShortName": "治疗",
+        "Color": "{white}",
+        "HammerID": 560,
+        "GlowColor": [255,255,255,255],
+        "BlockPickup": false,
+        "AllowTransfer": true,
+        "ForceDrop": true,
+        "Chat": true,
+        "Hud": true,
+        "TriggerID": 0,
+        "UsePriority": true,
+        "SpawnerID": 0,
+        "AbilityList": [
+            {
+                "Name": "",
+                "ButtonID": 558,
+                "ButtonClass": "func_button",
+                "Filter": "",
+                "Chat_Uses": true,
+                "Mode": 2,
+                "MaxUses": 0,
+                "CoolDown": 31
+            }
+        ]
+    },
+    {
+        "Name": "推力",
+        "ShortName": "推力",
+        "Color": "{green}",
+        "HammerID": 590,
+        "GlowColor": [0,255,0,255],
+        "BlockPickup": false,
+        "AllowTransfer": true,
+        "ForceDrop": true,
+        "Chat": true,
+        "Hud": true,
+        "TriggerID": 0,
+        "UsePriority": true,
+        "SpawnerID": 0,
+        "AbilityList": [
+            {
+                "Name": "",
+                "ButtonID": 591,
+                "ButtonClass": "func_button",
+                "Filter": "",
+                "Chat_Uses": true,
+                "Mode": 2,
+                "MaxUses": 0,
+                "CoolDown": 41
+            }
+        ]
+    },
+    {
+        "Name": "手雷",
+        "ShortName": "手雷",
+        "Color": "{red}",
+        "HammerID": 570,
+        "GlowColor": [255,0,0,255],
+        "BlockPickup": false,
+        "AllowTransfer": true,
+        "ForceDrop": true,
+        "Chat": true,
+        "Hud": true,
+        "TriggerID": 0,
+        "UsePriority": true,
+        "SpawnerID": 0,
+        "AbilityList": [
+            {
+                "Name": "",
+                "ButtonID": 573,
+                "ButtonClass": "func_button",
+                "Filter": "",
+                "Chat_Uses": true,
+                "mode": 3,
+                "Mode": 4,
+                "MaxUses": 8,
+                "CoolDown": 0
+            }
+        ]
+    },
+    {
+        "Name": "激光枪",
+        "ShortName": "激光枪",
+        "Color": "{blue}",
+        "HammerID": 857,
+        "GlowColor": [0,0,255,255],
+        "BlockPickup": false,
+        "AllowTransfer": true,
+        "ForceDrop": true,
+        "Chat": true,
+        "Hud": true,
+        "TriggerID": 0,
+        "UsePriority": true,
+        "SpawnerID": 0,
+        "AbilityList": [
+            {
+                "Name": "",
+                "ButtonID": 859,
+                "ButtonClass": "func_button",
+                "Filter": "",
+                "Chat_Uses": true,
+                "Mode": 2,
+                "MaxUses": 0,
+                "CoolDown": 40
+            }
+        ]
+    },
+    {
+        "Name": "加速",
+        "ShortName": "加速",
+        "Color": "{green}",
+        "HammerID": 459,
+        "GlowColor": [0,255,0,255],
+        "BlockPickup": false,
+        "AllowTransfer": true,
+        "ForceDrop": true,
+        "Chat": true,
+        "Hud": true,
+        "TriggerID": 0,
+        "UsePriority": true,
+        "SpawnerID": 0,
+        "AbilityList": [
+            {
+                "Name": "",
+                "ButtonID": 460,
+                "ButtonClass": "func_button",
+                "Filter": "",
+                "Chat_Uses": true,
+                "Mode": 1,
+                "MaxUses": 0,
+                "CoolDown": 0
+            }
+        ]
+    },
+    {
+        "Name": "猴子",
+        "ShortName": "猴子",
+        "Color": "{orange}",
+        "HammerID": 720,
+        "GlowColor": [255,165,0,255],
+        "BlockPickup": false,
+        "AllowTransfer": true,
+        "ForceDrop": true,
+        "Chat": true,
+        "Hud": true,
+        "TriggerID": 0,
+        "UsePriority": true,
+        "SpawnerID": 0,
+        "AbilityList": [
+            {
+                "Name": "",
+                "ButtonID": 0,
+                "ButtonClass": "",
+                "Filter": "",
+                "Chat_Uses": true,
+                "Mode": 1,
+                "MaxUses": 0,
+                "CoolDown": 0
+            }
+        ]
+    },
+    {
+        "Name": "ZM黑洞",
+        "ShortName": "ZM黑洞",
+        "Color": "{purple}",
+        "HammerID": 595,
+        "GlowColor": [128,0,128,255],
+        "BlockPickup": false,
+        "AllowTransfer": false,
+        "ForceDrop": false,
+        "Chat": true,
+        "Hud": true,
+        "TriggerID": 3912,
+        "UsePriority": true,
+        "SpawnerID": 0,
+        "AbilityList": [
+            {
+                "Name": "",
+                "ButtonID": 596,
+                "ButtonClass": "func_button",
+                "Filter": "",
+                "Chat_Uses": true,
+                "Mode": 2,
+                "MaxUses": 0,
+                "CoolDown": 41
+            }
+        ]
+    },
+    {
+        "Name": "ZM传送",
+        "ShortName": "ZM传送",
+        "Color": "{red}",
+        "HammerID": 467,
+        "GlowColor": [255,0,0,255],
+        "BlockPickup": false,
+        "AllowTransfer": false,
+        "ForceDrop": false,
+        "Chat": true,
+        "Hud": true,
+        "TriggerID": 3914,
+        "UsePriority": true,
+        "SpawnerID": 0,
+        "AbilityList": [
+            {
+                "Name": "",
+                "ButtonID": 468,
+                "ButtonClass": "func_button",
+                "Filter": "",
+                "Chat_Uses": true,
+                "Mode": 1,
+                "MaxUses": 0,
+                "CoolDown": 0
+            }
+        ]
+    }
+]

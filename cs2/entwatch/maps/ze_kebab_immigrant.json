@@ -1,0 +1,137 @@
+[
+    {
+        "Name": "弹药",
+        "ShortName": "弹药",
+        "Color": "{olive}",
+        "HammerID": 393,
+        "GlowColor": [128,128,0,255],
+        "BlockPickup": false,
+        "AllowTransfer": true,
+        "ForceDrop": true,
+        "Chat": true,
+        "Hud": true,
+        "TriggerID": 0,
+        "UsePriority": true,
+        "SpawnerID": 0,
+        "AbilityList": [
+            {
+                "Name": "",
+                "ButtonID": 394,
+                "ButtonClass": "func_button",
+                "Filter": "",
+                "Chat_Uses": true,
+                "Mode": 2,
+                "MaxUses": 0,
+                "CoolDown": 60
+            }
+        ]
+    },
+    {
+        "Name": "冰",
+        "ShortName": "冰",
+        "Color": "{blue}",
+        "HammerID": 515,
+        "GlowColor": [0,0,255,255],
+        "BlockPickup": false,
+        "AllowTransfer": true,
+        "ForceDrop": true,
+        "Chat": true,
+        "Hud": true,
+        "TriggerID": 0,
+        "UsePriority": true,
+        "SpawnerID": 0,
+        "AbilityList": [
+            {
+                "Name": "",
+                "ButtonID": 517,
+                "ButtonClass": "func_button",
+                "Filter": "",
+                "Chat_Uses": true,
+                "Mode": 2,
+                "MaxUses": 0,
+                "CoolDown": 60
+            }
+        ]
+    },
+    {
+        "Name": "Heal",
+        "ShortName": "Heal",
+        "Color": "{white}",
+        "HammerID": 384,
+        "GlowColor": [255,255,255,255],
+        "BlockPickup": false,
+        "AllowTransfer": true,
+        "ForceDrop": true,
+        "Chat": true,
+        "Hud": true,
+        "TriggerID": 0,
+        "UsePriority": true,
+        "SpawnerID": 0,
+        "AbilityList": [
+            {
+                "Name": "",
+                "ButtonID": 431,
+                "ButtonClass": "func_button",
+                "Filter": "",
+                "Chat_Uses": true,
+                "Mode": 2,
+                "MaxUses": 0,
+                "CoolDown": 60
+            }
+        ]
+    },
+    {
+        "Name": "油罐",
+        "ShortName": "油罐",
+        "Color": "{red}",
+        "HammerID": 434,
+        "GlowColor": [255,0,0,255],
+        "BlockPickup": false,
+        "AllowTransfer": true,
+        "ForceDrop": true,
+        "Chat": true,
+        "Hud": true,
+        "TriggerID": 0,
+        "UsePriority": true,
+        "SpawnerID": 0,
+        "AbilityList": [
+            {
+                "Name": "",
+                "ButtonID": 447,
+                "ButtonClass": "func_button",
+                "Filter": "",
+                "Chat_Uses": true,
+                "Mode": 2,
+                "MaxUses": 0,
+                "CoolDown": 60
+            }
+        ]
+    },
+    {
+        "Name": "霰弹枪",
+        "ShortName": "霰弹枪",
+        "Color": "{orange}",
+        "HammerID": 407,
+        "GlowColor": [255,165,0,255],
+        "BlockPickup": false,
+        "AllowTransfer": true,
+        "ForceDrop": true,
+        "Chat": true,
+        "Hud": true,
+        "TriggerID": 0,
+        "UsePriority": true,
+        "SpawnerID": 0,
+        "AbilityList": [
+            {
+                "Name": "",
+                "ButtonID": 403,
+                "ButtonClass": "func_button",
+                "Filter": "",
+                "Chat_Uses": true,
+                "Mode": 2,
+                "MaxUses": 0,
+                "CoolDown": 10
+            }
+        ]
+    }
+]

@@ -1,0 +1,86 @@
+[
+    {
+        "Name": "治疗/Heal",
+        "ShortName": "治疗",
+        "Color": "{default}",
+        "HammerID": 6358,
+        "GlowColor": [255,255,255,255],
+        "FilterID": 0,
+        "FilterValue": "",
+        "BlockPickup": false,
+        "AllowTransfer": true,
+        "ForceDrop": true,
+        "Chat": true,
+        "Hud": true,
+        "TriggerID": 0,
+        "UsePriority": true,
+        "AbilityList": [
+            {
+                "Name": "",
+                "ButtonID": 6354,
+                "ButtonClass": "func_button",
+                "Filter": "",
+                "Chat_Uses": true,
+                "Mode": 2,
+                "MaxUses": 0,
+                "CoolDown": 60
+            }
+        ]
+    },
+    {
+        "Name": "ZM火球/ZM Fireball",
+        "ShortName": "ZM火球",
+        "Color": "{red}",
+        "HammerID": 6300,
+        "GlowColor": [255,30,30,255],
+        "FilterID": 0,
+        "FilterValue": "",
+        "BlockPickup": false,
+        "AllowTransfer": false,
+        "ForceDrop": false,
+        "Chat": true,
+        "Hud": true,
+        "TriggerID": 6304,
+        "UsePriority": true,
+        "AbilityList": [
+            {
+                "Name": "",
+                "ButtonID": 6302,
+                "ButtonClass": "func_button",
+                "Filter": "",
+                "Chat_Uses": true,
+                "Mode": 2,
+                "MaxUses": 0,
+                "CoolDown": 20
+            }
+        ]
+    },
+    {
+        "Name": "ZM黑洞/ZM Gravity",
+        "ShortName": "ZM黑洞",
+        "Color": "{purple}",
+        "HammerID": 6294,
+        "GlowColor": [128,0,128,255],
+        "FilterID": 0,
+        "FilterValue": "",
+        "BlockPickup": false,
+        "AllowTransfer": false,
+        "ForceDrop": false,
+        "Chat": true,
+        "Hud": true,
+        "TriggerID": 6292,
+        "UsePriority": true,
+        "AbilityList": [
+            {
+                "Name": "",
+                "ButtonID": 6295,
+                "ButtonClass": "func_button",
+                "Filter": "",
+                "Chat_Uses": true,
+                "Mode": 2,
+                "MaxUses": 0,
+                "CoolDown": 50
+            }
+        ]
+    }
+]

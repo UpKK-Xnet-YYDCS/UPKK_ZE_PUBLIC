@@ -1,0 +1,299 @@
+[
+    {
+        "Name": "硬币/Coin",
+        "ShortName": "硬币",
+        "Color": "{yellow}",
+        "HammerID": 258,
+        "GlowColor": [255,255,0,255],
+        "BlockPickup": false,
+        "AllowTransfer": true,
+        "ForceDrop": true,
+        "Chat": true,
+        "Hud": true,
+        "TriggerID": 0,
+        "UsePriority": true,
+        "SpawnerID": 0,
+        "AbilityList": [
+            {
+                "Name": "",
+                "ButtonID": 261,
+                "ButtonClass": "func_button",
+                "Filter": "",
+                "Chat_Uses": true,
+                "Mode": 5,
+                "MaxUses": 3,
+                "CoolDown": 20
+            }
+        ]
+    },
+    {
+        "Name": "电动轨道炮/Electric Railcannon",
+        "ShortName": "电动轨道炮",
+        "Color": "{blue}",
+        "HammerID": 913,
+        "GlowColor": [0,0,255,255],
+        "BlockPickup": false,
+        "AllowTransfer": true,
+        "ForceDrop": true,
+        "Chat": true,
+        "Hud": true,
+        "TriggerID": 0,
+        "UsePriority": true,
+        "SpawnerID": 0,
+        "AbilityList": [
+            {
+                "Name": "",
+                "ButtonID": 909,
+                "ButtonClass": "func_button",
+                "Filter": "",
+                "Chat_Uses": true,
+                "Mode": 2,
+                "MaxUses": 0,
+                "CoolDown": 30
+            }
+        ]
+    },
+    {
+        "Name": "治疗/Heal",
+        "ShortName": "治疗",
+        "Color": "{white}",
+        "HammerID": 1588,
+        "GlowColor": [255,255,255,255],
+        "BlockPickup": false,
+        "AllowTransfer": true,
+        "ForceDrop": true,
+        "Chat": true,
+        "Hud": true,
+        "TriggerID": 0,
+        "UsePriority": true,
+        "SpawnerID": 0,
+        "AbilityList": [
+          {
+            "Name": "",
+            "ButtonID": 1586,
+            "ButtonClass": "func_button",
+            "Filter": "",
+            "Chat_Uses": true,
+            "Mode": 4,
+            "MaxUses": 1,
+            "CoolDown": 0
+            }
+        ]
+    },
+    {
+        "Name": "穿甲左轮手枪/Piercer Revolver",
+        "ShortName": "穿甲左轮",
+        "Color": "{grey}",
+        "HammerID": 13548,
+        "GlowColor": [128,128,128,255],
+        "BlockPickup": false,
+        "AllowTransfer": true,
+        "ForceDrop": true,
+        "Chat": true,
+        "Hud": true,
+        "TriggerID": 0,
+        "UsePriority": true,
+        "SpawnerID": 0,
+        "AbilityList": [
+            {
+                "Name": "",
+                "ButtonID": 13545,
+                "ButtonClass": "func_button",
+                "Filter": "",
+                "Chat_Uses": true,
+                "Mode": 2,
+                "MaxUses": 0,
+                "CoolDown": 10
+            }
+        ]
+    },
+    {
+        "Name": "泵动式霰弹枪/Pump Charge Shotgun",
+        "ShortName": "霰弹枪",
+        "Color": "{grey}",
+        "HammerID": 7164,
+        "GlowColor": [128,128,128,255],
+        "BlockPickup": false,
+        "AllowTransfer": true,
+        "ForceDrop": true,
+        "Chat": true,
+        "Hud": true,
+        "TriggerID": 0,
+        "UsePriority": true,
+        "SpawnerID": 0,
+        "AbilityList": [
+          {
+            "Name": "",
+            "ButtonID": 7161,
+            "ButtonClass": "func_button",
+            "Filter": "",
+            "Chat_Uses": true,
+            "Mode": 2,
+            "MaxUses": 0,
+            "CoolDown": 10
+            }
+        ]
+    },
+    {
+        "Name": "火箭发射器/Rocket Launcher",
+        "ShortName": "火箭",
+        "Color": "{red}",
+        "HammerID": 19461,
+        "GlowColor": [255,0,0,255],
+        "BlockPickup": false,
+        "AllowTransfer": true,
+        "ForceDrop": true,
+        "Chat": true,
+        "Hud": true,
+        "TriggerID": 0,
+        "UsePriority": true,
+        "SpawnerID": 0,
+        "AbilityList": [
+          {
+            "Name": "",
+            "ButtonID": 19455,
+            "ButtonClass": "func_button",
+            "Filter": "",
+            "Chat_Uses": true,
+            "Mode": 2,
+            "MaxUses": 0,
+            "CoolDown": 10
+            }
+        ]
+    },
+    {
+        "Name": "火炬/Torch",
+        "ShortName": "火炬",
+        "Color": "{orange}",
+        "HammerID": 3504,
+        "GlowColor": [255,165,0,255],
+        "BlockPickup": false,
+        "AllowTransfer": true,
+        "ForceDrop": true,
+        "Chat": true,
+        "Hud": true,
+        "TriggerID": 0,
+        "UsePriority": true,
+        "SpawnerID": 0,
+        "AbilityList": [
+            {
+            "Name": "",
+            "ButtonID": 0,
+            "ButtonClass": "",
+            "Filter": "",
+            "Chat_Uses": true,
+            "Mode": 1,
+            "MaxUses": 0,
+            "CoolDown": 0
+            }
+        ]
+    },
+    {
+        "Name": "ZM污秽/ZM Filth",
+        "ShortName": "ZM污秽",
+        "Color": "{grey}",
+        "HammerID": 10417,
+        "GlowColor": [128,128,128,255],
+        "BlockPickup": false,
+        "AllowTransfer": false,
+        "ForceDrop": false,
+        "Chat": true,
+        "Hud": true,
+        "TriggerID": 19537,
+        "UsePriority": true,
+        "SpawnerID": 0,
+        "AbilityList": [
+            {
+                "Name": "",
+                "ButtonID": 10412,
+                "ButtonClass": "func_button",
+                "Filter": "",
+                "Chat_Uses": true,
+                "Mode": 2,
+                "MaxUses": 0,
+                "CoolDown": 3
+            }
+        ]
+    },
+    {
+        "Name": "ZM夺心魔/ZM Mindflayer",
+        "ShortName": "ZM夺心魔",
+        "Color": "{blue}",
+        "HammerID": 19650,
+        "GlowColor": [0,0,255,255],
+        "BlockPickup": false,
+        "AllowTransfer": false,
+        "ForceDrop": false,
+        "Chat": true,
+        "Hud": true,
+        "TriggerID": 19651,
+        "UsePriority": true,
+        "SpawnerID": 0,
+        "AbilityList": [
+          {
+            "Name": "",
+            "ButtonID": 19654,
+            "ButtonClass": "func_button",
+            "Filter": "",
+            "Chat_Uses": true,
+            "Mode": 2,
+            "MaxUses": 0,
+            "CoolDown": 25
+            }
+        ]
+    },
+    {
+        "Name": "ZM清道夫/Streetcleaner",
+        "ShortName": "ZM清道夫",
+        "Color": "{pink}",
+        "HammerID": 21618,
+        "GlowColor": [255,255,255,255],
+        "BlockPickup": false,
+        "AllowTransfer": false,
+        "ForceDrop": false,
+        "Chat": true,
+        "Hud": true,
+        "TriggerID": 21616,
+        "UsePriority": true,
+        "SpawnerID": 0,
+        "AbilityList": [
+            {
+                "Name": "",
+                "ButtonID": 10483,
+                "ButtonClass": "func_button",
+                "Filter": "",
+                "Chat_Uses": true,
+                "Mode": 2,
+                "MaxUses": 0,
+                "CoolDown": 15
+            }
+        ]
+    },
+    {
+        "Name": "LiveActionCow 彩蛋道具",
+        "ShortName": "彩蛋",
+        "Color": "{grey}",
+        "HammerID": 20435,
+        "GlowColor": [128,128,128,255],
+        "BlockPickup": false,
+        "AllowTransfer": true,
+        "ForceDrop": true,
+        "Chat": true,
+        "Hud": true,
+        "TriggerID": 0,
+        "UsePriority": true,
+        "SpawnerID": 0,
+        "AbilityList": [
+          {
+            "Name": "",
+            "ButtonID": 20437,
+            "ButtonClass": "func_button",
+            "Filter": "",
+            "Chat_Uses": true,
+            "Mode": 1,
+            "MaxUses": 0,
+            "CoolDown": 0
+            }
+        ]
+    }
+]

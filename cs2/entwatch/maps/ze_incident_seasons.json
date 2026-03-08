@@ -1,0 +1,484 @@
+[
+    {
+      "Name": "ZM亡渊之缚/黑洞/ZM Abyssal Bind/Gravity",
+      "ShortName": "ZM黑洞",
+      "Color": "{red}",
+      "HammerID": 1833,
+      "GlowColor": [255,0,20,255],
+      "BlockPickup": false,
+      "AllowTransfer": false,
+      "ForceDrop": false,
+      "Chat": true,
+      "Hud": true,
+      "TriggerID": 0,
+      "UsePriority": true,
+      "AbilityList": [
+        {
+          "Name": "",
+          "ButtonID": 1841,
+          "ButtonClass": "func_button",
+          "Filter": "",
+          "Chat_Uses": true,
+          "Mode": 2,
+          "MaxUses": 0,
+          "CoolDown": 58
+        }
+      ]
+    },
+    {
+     "Name": "ZM冥骸之愈/治疗/ZM Undead Heal",
+     "ShortName": "ZM治疗",
+     "Color": "{red}",
+     "HammerID": 1867,
+     "GlowColor": [255,0,0,255],
+     "BlockPickup": false,
+     "AllowTransfer": false,
+     "ForceDrop": false,
+     "Chat": true,
+     "Hud": true,
+     "TriggerID": 0,
+     "UsePriority": true,
+     "AbilityList": [
+       {
+         "Name": "",
+         "ButtonID": 1858,
+         "ButtonClass": "func_button",
+         "Filter": "",
+         "Chat_Uses": true,
+         "Mode": 2,
+         "MaxUses": 0,
+         "CoolDown": 50
+       }
+     ]
+   },
+   {
+     "Name": "四季之力/Power of Four Seasons",
+     "ShortName": "四季之力",
+     "Color": "{yellow}",
+     "HammerID": 961,
+     "GlowColor": [255,255,0,255],
+     "BlockPickup": false,
+     "AllowTransfer": true,
+     "ForceDrop": true,
+     "Chat": true,
+     "Hud": true,
+     "TriggerID": 0,
+     "UsePriority": true,
+     "AbilityList": [
+       {
+         "Name": "Po4S",
+         "ButtonID": 959,
+         "ButtonClass": "func_button",
+         "Filter": "",
+         "Chat_Uses": true,
+         "Mode": 2,
+         "MaxUses": 0,
+         "CoolDown": 60
+       }
+     ]
+   },
+   {
+     "Name": "坚岩之壁/Rocky Barrier",
+     "ShortName": "土",
+     "Color": "{orange}",
+     "HammerID": 2241,
+     "GlowColor": [255,165,0,255],
+     "BlockPickup": false,
+     "AllowTransfer": true,
+     "ForceDrop": true,
+     "Chat": true,
+     "Hud": true,
+     "TriggerID": 0,
+     "UsePriority": true,
+     "AbilityList": [
+       {
+         "Name": "",
+         "ButtonID": 2239,
+         "ButtonClass": "func_button",
+         "Filter": "",
+         "Chat_Uses": true,
+         "Mode": 2,
+         "MaxUses": 0,
+         "CoolDown": 60
+       }
+     ]
+   },
+   {
+     "Name": "恒星之引/Stellar Gravity Pull",
+     "ShortName": "黑洞",
+     "Color": "{purple}",
+     "HammerID": 2246,
+     "GlowColor": [128,0,128,255],
+     "BlockPickup": false,
+     "AllowTransfer": true,
+     "ForceDrop": true,
+     "Chat": true,
+     "Hud": true,
+     "TriggerID": 0,
+     "UsePriority": true,
+     "AbilityList": [
+       {
+         "Name": "",
+         "ButtonID": 2244,
+         "ButtonClass": "func_button",
+         "Filter": "",
+         "Chat_Uses": true,
+         "Mode": 2,
+         "MaxUses": 0,
+         "CoolDown": 60
+       }
+     ]
+   },
+   {
+     "Name": "ZM闪电之力/Lightning Power",
+     "ShortName": "ZM闪电",
+     "Color": "{magenta}",
+     "HammerID": 1819,
+     "GlowColor": [255,0,255,255],
+     "BlockPickup": false,
+     "AllowTransfer": false,
+     "ForceDrop": false,
+     "Chat": true,
+     "Hud": true,
+     "TriggerID": 0,
+     "UsePriority": true,
+     "AbilityList": [
+       {
+         "Name": "",
+         "ButtonID": 1821,
+         "ButtonClass": "func_button",
+         "Filter": "",
+         "Chat_Uses": true,
+         "Mode": 2,
+         "MaxUses": 0,
+         "CoolDown": 59
+       }
+     ]
+   },
+   {
+     "Name": "ZM蚀辉之怒/收集者/ZM Eclipse Shield/Collector",
+     "ShortName": "ZM收集者",
+     "Color": "{yellow}",
+     "HammerID": 1793,
+     "GlowColor": [255,255,0,255],
+     "BlockPickup": false,
+     "AllowTransfer": false,
+     "ForceDrop": false,
+     "Chat": true,
+     "Hud": true,
+     "TriggerID": 0,
+     "UsePriority": true,
+     "AbilityList": [
+       {
+         "Name": "",
+         "ButtonID": 1796,
+         "ButtonClass": "func_button",
+         "Filter": "",
+         "Chat_Uses": true,
+         "Mode": 2,
+         "MaxUses": 0,
+         "CoolDown": 2
+       }
+     ]
+   },
+   {
+     "Name": "ZM腐潮之晶/加速/ZM Corruption Crystal/Speed Boost",
+     "ShortName": "ZM加速",
+     "Color": "{darkblue}",
+     "HammerID": 8531,
+     "GlowColor": [0,0,139,255],
+     "BlockPickup": false,
+     "AllowTransfer": false,
+     "ForceDrop": false,
+     "Chat": true,
+     "Hud": true,
+     "TriggerID": 0,
+     "UsePriority": true,
+     "AbilityList": [
+       {
+         "Name": "",
+         "ButtonID": 8532,
+         "ButtonClass": "func_button",
+         "Filter": "",
+         "Chat_Uses": true,
+         "Mode": 2,
+         "MaxUses": 0,
+         "CoolDown": 120
+       }
+     ]
+   },
+   {
+     "Name": "听说你是跳刀高手？/Heard you are a Laser Dodging Master?",
+     "ShortName": "听说你是跳刀高手?",
+     "Color": "{default}",
+     "HammerID": 8857,
+     "GlowColor": [255,255,255,255],
+     "BlockPickup": false,
+     "AllowTransfer": true,
+     "ForceDrop": true,
+     "Chat": true,
+     "Hud": true,
+     "TriggerID": 0,
+     "UsePriority": true,
+     "AbilityList": [
+       {
+         "Name": "",
+         "ButtonID": 8858,
+         "ButtonClass": "func_button",
+         "Filter": "",
+         "Chat_Uses": true,
+         "Mode": 1,
+         "MaxUses": 0,
+         "CoolDown": 0
+       }
+     ]
+   },
+   {
+     "Name": "光芒之心/Heart of Light Radiance/Heal",
+     "ShortName": "治疗",
+     "Color": "{lightyellow}",
+     "HammerID": 907,
+     "GlowColor": [255,255,102,255],
+     "BlockPickup": false,
+     "AllowTransfer": true,
+     "ForceDrop": true,
+     "Chat": true,
+     "Hud": true,
+     "TriggerID": 0,
+     "UsePriority": true,
+     "AbilityList": [
+       {
+         "Name": "",
+         "ButtonID": 908,
+         "ButtonClass": "func_button",
+         "Filter": "",
+         "Chat_Uses": true,
+         "Mode": 2,
+         "MaxUses": 0,
+         "CoolDown": 60
+       }
+     ]
+   },
+   {
+     "Name": "沧澜之涣/Canglan's Wave Dissipation/Water",
+     "ShortName": "水",
+     "Color": "{lightblue}",
+     "HammerID": 1270,
+     "GlowColor": [102,178,255,255],
+     "BlockPickup": false,
+     "AllowTransfer": true,
+     "ForceDrop": true,
+     "Chat": true,
+     "Hud": true,
+     "TriggerID": 0,
+     "UsePriority": true,
+     "AbilityList": [
+       {
+         "Name": "",
+         "ButtonID": 1271,
+         "ButtonClass": "func_button",
+         "Filter": "",
+         "Chat_Uses": true,
+         "Mode": 2,
+         "MaxUses": 0,
+         "CoolDown": 60
+       }
+     ]
+   },
+   {
+     "Name": "炽烈之焰/Flame of Passion",
+     "ShortName": "火",
+     "Color": "{red}",
+     "HammerID": 1663,
+     "GlowColor": [255,0,0,255],
+     "BlockPickup": false,
+     "AllowTransfer": true,
+     "ForceDrop": true,
+     "Chat": true,
+     "Hud": true,
+     "TriggerID": 0,
+     "UsePriority": true,
+     "AbilityList": [
+       {
+         "Name": "",
+         "ButtonID": 1658,
+         "ButtonClass": "func_button",
+         "Filter": "",
+         "Chat_Uses": true,
+         "Mode": 2,
+         "MaxUses": 0,
+         "CoolDown": 60
+       }
+     ]
+   },
+   {
+     "Name": "恶魔毕托鲁/Demon Bitru",
+     "ShortName": "毕托鲁",
+     "Color": "{purple}",
+     "HammerID": 8441,
+     "GlowColor": [128,0,128,255],
+     "BlockPickup": false,
+     "AllowTransfer": false,
+     "ForceDrop": false,
+     "Chat": true,
+     "Hud": true,
+     "TriggerID": 0,
+     "UsePriority": true,
+     "AbilityList": [
+       {
+         "Name": "",
+         "ButtonID": 8440,
+         "ButtonClass": "prop_dynamic",
+         "Filter": "",
+         "Chat_Uses": true,
+         "Mode": 1,
+         "MaxUses": 0,
+         "CoolDown": 0
+       },
+       {
+        "Name": "",
+        "ButtonID": 0,
+        "ButtonClass": "game_ui::PressedAttack2",
+        "Filter": "",
+        "Chat_Uses": true,
+        "Mode": 2,
+        "MaxUses": 0,
+        "CoolDown": 10
+      }
+     ]
+   },
+   {
+     "Name": "拉弥亚/Lamia",
+     "ShortName": "拉弥亚",
+     "Color": "{lime}",
+     "HammerID": 8473,
+     "GlowColor": [50,205,50,255],
+     "BlockPickup": false,
+     "AllowTransfer": false,
+     "ForceDrop": false,
+     "Chat": true,
+     "Hud": true,
+     "TriggerID": 0,
+     "UsePriority": true,
+     "AbilityList": [
+       {
+         "Name": "",
+         "ButtonID": 8474,
+         "ButtonClass": "prop_dynamic",
+         "Filter": "",
+         "Chat_Uses": true,
+         "Mode": 1,
+         "MaxUses": 0,
+         "CoolDown": 0
+       },
+       {
+        "Name": "",
+        "ButtonID": 0,
+        "ButtonClass": "",
+        "Filter": "",
+        "Chat_Uses": true,
+        "Mode": 2,
+        "MaxUses": 0,
+        "CoolDown": 60
+      }
+     ]
+   },
+   {
+     "Name": "艾玛/Emma",
+     "ShortName": "艾玛",
+     "Color": "{default}",
+     "HammerID": 8414,
+     "GlowColor": [255,255,255,255],
+     "BlockPickup": false,
+     "AllowTransfer": false,
+     "ForceDrop": false,
+     "Chat": true,
+     "Hud": true,
+     "TriggerID": 0,
+     "UsePriority": true,
+     "AbilityList": [
+       {
+        "Name": "",
+        "ButtonID": 8413,
+        "ButtonClass": "prop_dynamic",
+        "Filter": "",
+        "Chat_Uses": true,
+        "Mode": 1,
+        "MaxUses": 0,
+        "CoolDown": 0
+      },
+      {
+       "Name": "",
+       "ButtonID": 0,
+       "ButtonClass": "game_ui::PressedUsed",
+       "Filter": "",
+       "Chat_Uses": true,
+       "Mode": 1,
+       "MaxUses": 0,
+       "CoolDown": 0
+     }
+     ]
+   },
+   {
+     "Name": "巴托莉/Bartoli",
+     "ShortName": "巴托莉",
+     "Color": "{lightblue}",
+     "HammerID": 2162,
+     "GlowColor": [102,178,255,255],
+     "BlockPickup": false,
+     "AllowTransfer": false,
+     "ForceDrop": false,
+     "Chat": true,
+     "Hud": true,
+     "TriggerID": 0,
+     "UsePriority": true,
+     "AbilityList": [
+       {
+         "Name": "Bartoli♂Ultima",
+         "ButtonID": 7113,
+         "ButtonClass": "func_button",
+         "Filter": "",
+         "Chat_Uses": true,
+         "Mode": 4,
+         "MaxUses": 1,
+         "CoolDown": 20
+       },
+       {
+        "Name": "Bartoli♂Skill2",
+        "ButtonID": 0,
+        "ButtonClass": "game_ui::PressedAttack2",
+        "Filter": "",
+        "Chat_Uses": true,
+        "Mode": 2,
+        "MaxUses": 0,
+        "CoolDown": 60
+      }
+     ]
+   },
+   {
+     "Name": "铭月的应急治疗/Emergency Treatment of Mingyue",
+     "ShortName": "小奶",
+     "Color": "{gold}",
+     "HammerID": 9206,
+     "GlowColor": [255,215,0,255],
+     "BlockPickup": false,
+     "AllowTransfer": true,
+     "ForceDrop": true,
+     "Chat": true,
+     "Hud": true,
+     "TriggerID": 0,
+     "UsePriority": true,
+     "AbilityList": [
+       {
+        "Name": "little50hp",
+        "ButtonID": 9207,
+        "ButtonClass": "func_button",
+        "Filter": "",
+        "Chat_Uses": true,
+        "Mode": 4,
+        "MaxUses": 1,
+        "CoolDown": 5
+       }
+     ]
+   }
+ ]

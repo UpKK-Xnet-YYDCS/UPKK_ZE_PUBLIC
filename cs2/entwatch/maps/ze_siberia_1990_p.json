@@ -1,0 +1,56 @@
+[
+    {
+        "Name": "地雷/Proximity Mine",
+        "ShortName": "地雷",
+        "Color": "{orange}",
+        "HammerID": 184,
+        "GlowColor": [255,165,0,255],
+        "BlockPickup": false,
+        "AllowTransfer": true,
+        "ForceDrop": true,
+        "Chat": true,
+        "Hud": true,
+        "TriggerID": 0,
+        "UsePriority": true,
+        "SpawnerID": 0,
+        "AbilityList": [
+          {
+            "Name": "",
+            "ButtonID": 185,
+            "ButtonClass": "func_button",
+            "Filter": "",
+            "Chat_Uses": true,
+            "Mode": 2,
+            "MaxUses": 0,
+            "CoolDown": 24
+         }
+        ]
+    },
+    {
+        "Name": "推力/Push Gun",
+        "ShortName": "推力",
+        "Color": "{default}",
+        "HammerID": 188,
+        "GlowColor": [255,255,255,255],
+        "BlockPickup": false,
+        "AllowTransfer": true,
+        "ForceDrop": true,
+        "Chat": true,
+        "Hud": true,
+        "TriggerID": 0,
+        "UsePriority": true,
+        "SpawnerID": 0,
+        "AbilityList": [
+          {
+            "Name": "",
+            "ButtonID": 194,
+            "ButtonClass": "func_button",
+            "Filter": "",
+            "Chat_Uses": true,
+            "Mode": 2,
+            "MaxUses": 0,
+            "CoolDown": 45
+         }
+        ]
+    }
+]

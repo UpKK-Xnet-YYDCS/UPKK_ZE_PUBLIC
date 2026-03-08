@@ -1,0 +1,502 @@
+[
+    {
+        "Name": "向晚",
+        "ShortName": "向晚",
+        "Color": "{green}",
+        "HammerID": 1599,
+        "GlowColor": [0,255,0,255],
+		"BlockPickup": false,
+		"AllowTransfer": true,
+		"ForceDrop": true,
+		"Chat": true,
+		"Hud": true,
+		"TriggerID": 0,
+		"UsePriority": true,
+		"AbilityList": [
+            {
+                "Name": "",
+				"ButtonID": 1596,
+				"ButtonClass": "func_button",
+				"Filter": "",
+				"Chat_Uses": true,
+				"Mode": 3,
+				"MaxUses": 1,
+				"CoolDown": 0
+            }
+        ]
+    },
+    {
+        "Name": "治疗卷轴/Cure Scroll",
+        "ShortName": "治疗",
+        "Color": "{lime}",
+        "HammerID": 1691,
+        "GlowColor": [119,234,7,255],
+		"BlockPickup": false,
+		"AllowTransfer": true,
+		"ForceDrop": true,
+		"Chat": true,
+		"Hud": true,
+		"TriggerID": 0,
+		"UsePriority": true,
+		"AbilityList": [
+            {
+                "Name": "",
+				"ButtonID": 1692,
+				"ButtonClass": "func_button",
+				"Filter": "",
+				"Chat_Uses": true,
+				"Mode": 2,
+				"MaxUses": 0,
+				"CoolDown": 60
+            }
+        ]
+    },
+    {
+        "Name": "灾难卷轴/Disaster Scroll",
+        "ShortName": "灾难",
+        "Color": "{darkred}",
+        "HammerID": 1620,
+        "GlowColor": [150,0,0,255],
+		"BlockPickup": false,
+		"AllowTransfer": true,
+		"ForceDrop": true,
+		"Chat": true,
+		"Hud": true,
+		"TriggerID": 0,
+		"UsePriority": true,
+		"AbilityList": [
+            {
+                "Name": "",
+				"ButtonID": 1623,
+				"ButtonClass": "func_button",
+				"Filter": "",
+				"Chat_Uses": true,
+				"Mode": 2,
+				"MaxUses": 0,
+				"CoolDown": 60
+            }
+        ]
+    },
+    {
+        "Name": "寒霜卷轴/Frost Scroll",
+        "ShortName": "寒霜",
+        "HammerID": 1681,
+        "Color": "{blue}",
+        "GlowColor": [0,0,255,255],
+		"BlockPickup": false,
+		"AllowTransfer": true,
+		"ForceDrop": true,
+		"Chat": true,
+		"Hud": true,
+		"TriggerID": 0,
+		"UsePriority": true,
+		"AbilityList": [
+            {
+                "Name": "",
+				"ButtonID": 1682,
+				"ButtonClass": "func_button",
+				"Filter": "",
+				"Chat_Uses": true,
+				"Mode": 2,
+				"MaxUses": 0,
+				"CoolDown": 65
+            }
+        ]
+    },
+    {
+        "Name": "飓风卷轴/Hurricane Scroll",
+        "ShortName": "飓风",
+        "HammerID": 1641,
+        "Color": "{green}",
+        "GlowColor": [0,255,0,255],
+		"BlockPickup": false,
+		"AllowTransfer": true,
+		"ForceDrop": true,
+		"Chat": true,
+		"Hud": true,
+		"TriggerID": 0,
+		"UsePriority": true,
+		"AbilityList": [
+            {
+                "Name": "",
+				"ButtonID": 1643,
+				"ButtonClass": "func_button",
+				"Filter": "",
+				"Chat_Uses": true,
+				"Mode": 2,
+				"MaxUses": 0,
+				"CoolDown": 65
+            }
+        ]
+    },
+    {
+        "Name": "黑洞卷轴/Lure Scroll",
+        "ShortName": "黑洞",
+        "HammerID": 1609,
+        "Color": "{purple}",
+        "GlowColor": [128,0,128,255],
+		"BlockPickup": false,
+		"AllowTransfer": true,
+		"ForceDrop": true,
+		"Chat": true,
+		"Hud": true,
+		"TriggerID": 0,
+		"UsePriority": true,
+		"AbilityList": [
+            {
+                "Name": "",
+				"ButtonID": 1611,
+				"ButtonClass": "func_button",
+				"Filter": "",
+				"Chat_Uses": true,
+				"Mode": 2,
+				"MaxUses": 0,
+				"CoolDown": 65
+            }
+        ]
+    },
+    {
+      "Name": "雷电卷轴/Thunder Scroll",
+        "ShortName": "雷电",
+        "HammerID": 1662,
+        "Color": "{purple}",
+        "GlowColor": [128,0,128,255],
+		"BlockPickup": false,
+		"AllowTransfer": true,
+		"ForceDrop": true,
+		"Chat": true,
+		"Hud": true,
+		"TriggerID": 0,
+		"UsePriority": true,
+		"AbilityList": [
+            {
+                "Name": "",
+				"ButtonID": 1665,
+				"ButtonClass": "func_button",
+				"Filter": "",
+				"Chat_Uses": true,
+				"Mode": 2,
+				"MaxUses": 0,
+				"CoolDown": 60
+            }
+        ]
+    },
+    {
+        "Name": "圣嘉然的庇护/Saint Diana's Shelter",
+        "ShortName": "嘉然",
+        "HammerID": 1707,
+        "Color": "{lightred}",
+        "GlowColor": [255,192,203,255],
+		"BlockPickup": false,
+		"AllowTransfer": true,
+		"ForceDrop": true,
+		"Chat": true,
+		"Hud": true,
+		"TriggerID": 0,
+		"UsePriority": true,
+		"AbilityList": [
+            {
+                "Name": "jiaran",
+				"ButtonID": 1702,
+				"ButtonClass": "func_button",
+				"Filter": "",
+				"Chat_Uses": true,
+				"Mode": 2,
+				"MaxUses": 0,
+				"CoolDown": 65
+            }
+        ]
+    },
+    {
+        "Name": "奥托的哀歌/Lament of Otto",
+        "ShortName": "奥托",
+        "HammerID": 2321,
+        "Color": "{grey}",
+        "GlowColor": [255,255,255,255],
+		"BlockPickup": false,
+		"AllowTransfer": true,
+		"ForceDrop": true,
+		"Chat": true,
+		"Hud": true,
+		"TriggerID": 0,
+		"UsePriority": true,
+		"AbilityList": [
+            {
+                "Name": "",
+				"ButtonID": 2319,
+				"ButtonClass": "func_button",
+				"Filter": "",
+				"Chat_Uses": true,
+				"Mode": 2,
+				"MaxUses": 0,
+				"CoolDown": 30
+            }
+        ]
+    },
+    {
+        "Name": "石碑碎片/Stone Tablet Fragments",
+        "ShortName": "石碑碎片",
+        "HammerID": 2347,
+        "Color": "{grey}",
+        "GlowColor": [255,255,255,255],
+		"BlockPickup": false,
+		"AllowTransfer": true,
+		"ForceDrop": true,
+		"Chat": true,
+		"Hud": true,
+		"TriggerID": 0,
+		"UsePriority": true,
+		"AbilityList": [
+            {
+                "Name": "",
+                "ButtonID": 0,
+                "ButtonClass": "",
+                "Filter": "",
+                "Chat_Uses": true,
+                "Mode": 1,
+                "MaxUses": 0,
+                "CoolDown": 0
+            }
+        ]
+    },
+    {
+        "Name": "ZM火/ZM Fire",
+        "ShortName": "ZM火",
+        "HammerID": 1522,
+        "Color": "{red}",
+        "GlowColor": [255,0,0,255],
+		"BlockPickup": false,
+		"AllowTransfer": false,
+		"ForceDrop": false,
+		"Chat": true,
+		"Hud": true,
+		"TriggerID": 1527,
+		"UsePriority": true,
+		"AbilityList": [
+            {
+                "Name": "",
+                "ButtonID": 1524,
+                "ButtonClass": "func_button",
+                "Filter": "",
+                "Chat_Uses": true,
+                "Mode": 1,
+                "MaxUses": 0,
+                "CoolDown": 0
+            },
+            {
+                "Name": "",
+                "ButtonID": 1523,
+                "ButtonClass": "",
+                "Filter": "",
+                "Chat_Uses": true,
+                "Mode": 2,
+                "MaxUses": 0,
+                "CoolDown": 45
+            },
+            {
+                "Name": "",
+                "ButtonID": 1474,
+                "ButtonClass": "",
+                "Filter": "",
+                "Chat_Uses": true,
+                "Mode": 2,
+                "MaxUses": 0,
+                "CoolDown": 15
+            }
+        ]
+    },
+    {
+        "Name": "ZM黑洞/ZM Gravity",
+        "ShortName": "ZM黑洞",
+        "Color": "{purple}",
+        "HammerID": 1512,
+        "GlowColor": [128,0,128,255],
+        "BlockPickup": false,
+        "AllowTransfer": false,
+        "ForceDrop": false,
+        "Chat": true,
+        "Hud": true,
+        "TriggerID": 1517,
+        "UsePriority": true,
+        "AbilityList": [
+            {
+                "Name": "",
+                "ButtonID": 1514,
+                "ButtonClass": "func_button",
+                "Filter": "",
+                "Chat_Uses": true,
+                "Mode": 1,
+                "MaxUses": 0,
+                "CoolDown": 0
+            },
+            {
+                "Name": "",
+                "ButtonID": 1513,
+                "ButtonClass": "",
+                "Filter": "",
+                "Chat_Uses": true,
+                "Mode": 2,
+                "MaxUses": 0,
+                "CoolDown": 65
+            }
+        ]
+    },
+    {
+        "Name": "ZM奶/ZM Heal",
+        "ShortName": "ZM奶",
+        "Color": "{white}",
+        "HammerID": 1556,
+        "GlowColor": [255,255,255,255],
+        "BlockPickup": false,
+        "AllowTransfer": false,
+        "ForceDrop": false,
+        "Chat": true,
+        "Hud": true,
+        "TriggerID": 1569,
+        "UsePriority": true,
+        "SpawnerID": 0,
+        "AbilityList": [
+            {
+                "Name": "",
+                "ButtonID": 1561,
+                "ButtonClass": "func_button",
+                "Filter": "",
+                "Chat_Uses": true,
+                "Mode": 1,
+                "MaxUses": 0,
+                "CoolDown": 0
+            },
+            {
+                "Name": "",
+                "ButtonID": 1560,
+                "ButtonClass": "",
+                "Filter": "",
+                "Chat_Uses": true,
+                "Mode": 2,
+                "MaxUses": 0,
+                "CoolDown": 60
+            }
+        ]
+    },
+    {
+        "Name": "ZM冰/ZM Ice",
+        "ShortName": "ZM冰",
+        "Color": "{blue}",
+        "HammerID": 1500,
+        "GlowColor": [0,0,255,255],
+        "BlockPickup": false,
+        "AllowTransfer": false,
+        "ForceDrop": false,
+        "Chat": true,
+        "Hud": true,
+        "TriggerID": 1505,
+        "UsePriority": true,
+        "SpawnerID": 0,
+        "AbilityList": [
+            {
+                "Name": "",
+                "ButtonID": 1502,
+                "ButtonClass": "func_button",
+                "Filter": "",
+                "Chat_Uses": true,
+                "Mode": 1,
+                "MaxUses": 0,
+                "CoolDown": 0
+            },
+            {
+                "Name": "",
+                "ButtonID": 1501,
+                "ButtonClass": "",
+                "Filter": "",
+                "Chat_Uses": true,
+                "Mode": 2,
+                "MaxUses": 0,
+                "CoolDown": 45
+            },
+            {
+                "Name": "",
+                "ButtonID": 1475,
+                "ButtonClass": "",
+                "Filter": "",
+                "Chat_Uses": true,
+                "Mode": 2,
+                "MaxUses": 0,
+                "CoolDown": 15
+            }
+        ]
+    },
+    {
+        "Name": "ZM盾/ZM Shield",
+        "ShortName": "ZM盾",
+        "Color": "{yellow}",
+        "HammerID": 1234,
+        "GlowColor": [255,255,0,255],
+        "BlockPickup": false,
+        "AllowTransfer": false,
+        "ForceDrop": false,
+        "Chat": true,
+        "Hud": true,
+        "TriggerID": 1208,
+        "UsePriority": true,
+        "SpawnerID": 0,
+        "AbilityList": [
+            {
+                "Name": "",
+                "ButtonID": 1228,
+                "ButtonClass": "func_button",
+                "Filter": "",
+                "Chat_Uses": true,
+                "Mode": 1,
+                "MaxUses": 0,
+                "CoolDown": 0
+            },
+            {
+                "Name": "",
+                "ButtonID": 1227,
+                "ButtonClass": "",
+                "Filter": "",
+                "Chat_Uses": true,
+                "Mode": 2,
+                "MaxUses": 0,
+                "CoolDown": 65
+            }
+        ]
+    },
+    {
+        "Name": "ZM秒杀/ZM Warp",
+        "ShortName": "ZM秒杀",
+        "Color": "{darkred}",
+        "HammerID": 1550,
+        "GlowColor": [170,0,0,255],
+        "BlockPickup": false,
+        "AllowTransfer": false,
+        "ForceDrop": false,
+        "Chat": true,
+        "Hud": true,
+        "TriggerID": 1545,
+        "UsePriority": true,
+        "SpawnerID": 0,
+        "AbilityList": [
+            {
+                "Name": "",
+                "ButtonID": 1542,
+                "ButtonClass": "func_button",
+                "Filter": "",
+                "Chat_Uses": true,
+                "Mode": 1,
+                "MaxUses": 0,
+                "CoolDown": 0
+            },
+            {
+                "Name": "",
+                "ButtonID": 1473,
+                "ButtonClass": "",
+                "Filter": "",
+                "Chat_Uses": true,
+                "Mode": 2,
+                "MaxUses": 0,
+                "CoolDown": 65
+            }
+        ]
+    }
+]
