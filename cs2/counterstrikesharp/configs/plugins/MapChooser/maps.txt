@@ -3115,7 +3115,7 @@
 		"enabled" "1"
 		"filename" "ze_gris_p"
 		"updatedname" "ze_gris_p"
-		"OnlyNominate" "1"
+		"OnlyNominate" "0"
 	}
 	"ze_survivors_mountain"
 	{
@@ -5182,14 +5182,6 @@
 		"updatedname" "ze_avalanche_reboot"
 		"OnlyNominate" "0"
 	}
-	"ze_gris_p"
-	{
-		"workshop_id" "3624912780"
-		"enabled" "1"
-		"filename" "ze_gris_p"
-		"updatedname" "ze_gris_p"
-		"OnlyNominate" "0"
-	}
 	"ze_ffvii_cosmo_canyon_v2"
 	{
 		"workshop_id" "3625425328"
@@ -5573,6 +5565,14 @@
 		"enabled" "1"
 		"filename" "ze_last_man_standing"
 		"updatedname" "ze_last_man_standing"
+		"OnlyNominate" "0"
+	}
+	"ze_best_korea_p"
+	{
+		"workshop_id" "3683711921"
+		"enabled" "1"
+		"filename" "ze_best_korea_p"
+		"updatedname" "ze_best_korea_p"
 		"OnlyNominate" "0"
 	}
 }
