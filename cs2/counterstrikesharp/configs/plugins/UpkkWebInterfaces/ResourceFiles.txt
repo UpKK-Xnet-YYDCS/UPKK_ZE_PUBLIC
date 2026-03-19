@@ -4,10 +4,8 @@
 # 毒的效果
 particles/zombie_poison.vpcf
 # hitmarker
-particles/hitparticles.vpcf
-particles/hitparticles_red.vpcf
-soundevents/hitparticles.vpcf
+particles/goldkingz/hitmark/hitmark_body.vpcf
+particles/goldkingz/hitmark/hitmark_body_2.vpcf
+particles/goldkingz/hitmark/hitmark_head.vpcf
+particles/goldkingz/hitmark/hitmark_head_2.vpcf
 
-# 声音调整
-soundevents/low_game_sounds_player.vsndevts
-soundevents/low_game_sounds_weapons.vsndevts
