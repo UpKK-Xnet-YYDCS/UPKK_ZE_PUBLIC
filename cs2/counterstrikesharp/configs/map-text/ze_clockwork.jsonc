@@ -3,8 +3,8 @@
     "translation": "-=East 东=-",
     "MultiLang": {
       "US": "",
-      "JP": "東",
-      "CN": "-=East 东=-",
+      "JP": "-=東=-",
+      "CN": "-=东=-",
       "KR": "-=동쪽=-",
       "TW": "-=東=-"
     }
@@ -13,10 +13,10 @@
     "translation": "-=North 北=-",
     "MultiLang": {
       "US": "",
-      "JP": "北",
-      "CN": "-=North 北=-",
-      "KR": "=-북쪽=-",
-      "TW": "=-北=-"
+      "JP": "-=北=-",
+      "CN": "-=北=-",
+      "KR": "-=북쪽=-",
+      "TW": "-=北=-"
     }
   },
   "-=South=-": {
@@ -24,17 +24,17 @@
     "MultiLang": {
       "US": "",
       "JP": "-=南=-",
-      "CN": "-=South 南=-",
+      "CN": "-=南=-",
       "KR": "-=남쪽=-",
-      "TW": "=-南=-"
+      "TW": "-=南=-"
     }
   },
   "-=West=-": {
     "translation": "-=West 西=-",
     "MultiLang": {
       "US": "",
-      "JP": "=-西=-",
-      "CN": "-=West 西=-",
+      "JP": "-=西=-",
+      "CN": "-=西=-",
       "KR": "-=서쪽=-",
       "TW": "-=西=-"
     }
@@ -192,81 +192,81 @@
   "**south jump 南边低刀**": {
     "translation": "",
     "MultiLang": {
-      "US": "South jump low dagger",
-      "JP": "南边低刀",
+      "US": "south low blade",
+      "JP": "**south jump 南辺低刀**",
       "CN": "**南边低刀**",
-      "KR": "남쪽 점프 남쪽 낮은 칼",
-      "TW": "**南边低刀**"
+      "KR": "** 남쪽 점프 南边低刀**",
+      "TW": "**south jump 南邊低刀**"
     }
   },
   "**west crouch 西边高刀**": {
     "translation": "",
     "MultiLang": {
-      "US": "**west crouch West High Blade**",
-      "JP": "**西边高刀**",
+      "US": "west high blade",
+      "JP": "**west crouch 西辺高刀**",
       "CN": "**西边高刀**",
-      "KR": "**서쪽  crouching (고대)**",
-      "TW": "**西边高刀**"
+      "KR": "** 서쪽 웅크리기 西边高刀**",
+      "TW": "**west crouch 西邊高刀**"
     }
   },
   "**east crouch 东边高刀**": {
     "translation": "",
     "MultiLang": {
-      "US": "**east crouch East High Knife**",
-      "JP": "**東側 高刀 crouch**",
+      "US": "east high blade",
+      "JP": "**east crouch 東辺高刀**",
       "CN": "**东边高刀**",
-      "KR": "**동쪽 구부려 칼이 높은 곳**",
-      "TW": "**东边高刀**"
+      "KR": "** 동쪽 웅크리기 东边高刀**",
+      "TW": "**east crouch 東邊高刀**"
     }
   },
   "**south crouch 南边高刀**": {
     "translation": "",
     "MultiLang": {
-      "US": "**south crouch south of Lao Dao**",
-      "JP": "**南边高刀**",
+      "US": "south high blade",
+      "JP": "**south crouch 南辺高刀**",
       "CN": "南边高刀",
-      "KR": "남쪽 구부려 칼이 높다",
-      "TW": "**南边高刀**"
+      "KR": "** 남쪽 웅크리기 南边高刀**",
+      "TW": "**south crouch 南邊高刀**"
     }
   },
   "**north jump 北边低刀**": {
     "translation": "",
     "MultiLang": {
-      "US": "North jump - Jump towards the low blade on the north side",
-      "JP": "**北边低刀**",
+      "US": "north low blade",
+      "JP": "**north jump 北側ジャンプ**",
       "CN": "**北边低刀**",
-      "KR": "**북쪽 점프 北边低刀**",
-      "TW": "**北边低刀**"
+      "KR": "**북쪽 점프 북변 저검**",
+      "TW": "**北跳 北側低刀**"
     }
   },
   "**north crouch 北边高刀**": {
     "translation": "",
     "MultiLang": {
-      "US": "**north crouch North High Blade**",
-      "JP": "**北边高刀**",
+      "US": "north high blade",
+      "JP": "**north crouch 北側しゃがみ**",
       "CN": "**北边高刀**",
-      "KR": "**북쪽으로 무릎 꿇고, 북쪽 고도 칼**",
-      "TW": "**北边高刀**"
+      "KR": "**북쪽 구부림 북변 고검**",
+      "TW": "**北蹲 北側高刀**"
     }
   },
   "**west jump 西边低刀**": {
     "translation": "",
     "MultiLang": {
-      "US": "West jump Low dagger",
-      "JP": "**西边 低刀**",
+      "US": "west low blade",
+      "JP": "**west jump 西側ジャンプ**",
       "CN": "**西边低刀**",
-      "KR": "**서쪽 점프 서쪽 낮은 칼**",
-      "TW": "**西边跳 低刀**"
+      "KR": "**서쪽 점프 서변 저검**",
+      "TW": "**西跳 西側低刀**"
     }
   },
   "**east jump 东边低刀**": {
     "translation": "",
     "MultiLang": {
-      "US": "**east jump East side low slash**",
-      "JP": "**東へジャンプ　東の低い刀**",
+      "US": "east low blade",
+      "JP": "**east jump 東側ジャンプ**",
       "CN": "**东边跳跃 低刀**",
-      "KR": "**동쪽 점프 동쪽 낮게 베어라**",
-      "TW": "**东边跳跃 砍东边**"
+      "KR": "**동쪽 점프 동변 저검**",
+      "TW": "**東跳 東側低刀**"
     }
   }
 }

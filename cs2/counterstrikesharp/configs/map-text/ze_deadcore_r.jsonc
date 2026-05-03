@@ -3,40 +3,40 @@
     "translation": "地图作者：Airvulps",
     "MultiLang": {
       "US": "",
-      "JP": "マップ by Airvulps",
-      "CN": "地图作者：Airvulps",
-      "KR": "맵 제작: Airvulps",
-      "TW": "地圖由 Airvulps 創作"
+      "JP": "map by Airvulps",
+      "CN": "Airvulps 制作的地图",
+      "KR": "Airvulps 제작 맵",
+      "TW": "由 Airvulps 製圖"
     }
   },
   "map modify by 兎RB": {
     "translation": "地图修改：兎RB",
     "MultiLang": {
-      "US": "Map modified by 兎RB",
-      "JP": "マップを兎RBが修正しました",
+      "US": "map modified by 兎RB",
+      "JP": "map modify by 兎RB",
       "CN": "地图修改：兎RB",
-      "KR": "맵 수정 by 兎RB",
-      "TW": "地圖由 兎RB 編輯"
+      "KR": "兎RB 수정 맵",
+      "TW": "由 兎RB 修改"
     }
   },
   "map port by SIRloin": {
     "translation": "地图移植：SIRloin",
     "MultiLang": {
       "US": "",
-      "JP": "マップ ポート by SIRloin",
-      "CN": "地图移植：SIRloin",
-      "KR": "맵 포트 by SIRloin",
-      "TW": "地圖港口由 SIRloin"
+      "JP": "map port by SIRloin",
+      "CN": "SIRloin 制作的港口地图",
+      "KR": "SIRloin 포트 맵",
+      "TW": "由 SIRloin 移植"
     }
   },
   "> STAGE - B <": {
     "translation": "",
     "MultiLang": {
       "US": "",
-      "JP": "> ステージ - B <",
-      "CN": "场景 - B",
-      "KR": "> 스테이지 - B <",
-      "TW": "階段 - B"
+      "JP": "> STAGE - B <",
+      "CN": "> 关卡 - B <",
+      "KR": "> STAGE - B <",
+      "TW": "> STAGE - B <"
     }
   },
   "*** 40 ***": {
@@ -73,20 +73,20 @@
     "translation": "",
     "MultiLang": {
       "US": "",
-      "JP": "> ステージ - C <",
-      "CN": "场景 - C",
-      "KR": "스테이지 - C",
-      "TW": "階段 - C"
+      "JP": "> STAGE - C <",
+      "CN": "> 关卡 - C <",
+      "KR": "> STAGE - C <",
+      "TW": "> STAGE - C <"
     }
   },
   "> STAGE - A <": {
     "translation": "",
     "MultiLang": {
       "US": "",
-      "JP": "> ステージ - A <",
-      "CN": "场景 - A",
-      "KR": "스테이지 - A <",
-      "TW": "階段 - A"
+      "JP": "> STAGE - A <",
+      "CN": "> 关卡 - A <",
+      "KR": "> STAGE - A <",
+      "TW": "> STAGE - A <"
     }
   },
   "*** 60 ***": {
@@ -113,10 +113,10 @@
     "translation": "*** 僵尸进入电梯 ***",
     "MultiLang": {
       "US": "",
-      "JP": "***ゾンビがエレベーター内に侵入しました***",
-      "CN": "*** 僵尸进入电梯 ***",
-      "KR": "*** 좀비가 엘리베이터 안으로 들어왔습니다. ***",
-      "TW": "***殭屍進入電梯***"
+      "JP": "*** ゾンビがリフト内に侵入 ***",
+      "CN": "*** 僵尸进入了电梯 ***",
+      "KR": "*** 좀비가 엘리베이터 안으로 진입 ***",
+      "TW": "*** 殭屍已進入升降機 ***"
     }
   },
   "*** STAGE FAILED ***": {
@@ -124,7 +124,7 @@
     "MultiLang": {
       "US": "",
       "JP": "*** ステージ失敗 ***",
-      "CN": "*** 阶段失败 ***",
+      "CN": "*** 关卡失败 ***",
       "KR": "*** 스테이지 실패 ***",
       "TW": "*** 關卡失敗 ***"
     }
@@ -234,9 +234,9 @@
     "MultiLang": {
       "US": "",
       "JP": "> ステージ - D <",
-      "CN": "场景 - D",
-      "KR": "스테이지 - D",
-      "TW": "階段 - D"
+      "CN": "> 关卡 - D <",
+      "KR": "> 스테이지 D <",
+      "TW": "> 舞台 - D <"
     }
   },
   "*** 20 ***": {
@@ -253,10 +253,10 @@
     "translation": "> 启用 Stage Purple D! <",
     "MultiLang": {
       "US": "",
-      "JP": "紫ステージを有効にする",
-      "CN": "> 启用 Stage Purple D! <",
-      "KR": "퍼플 스테이지 활성화!",
-      "TW": "啟用 紫色舞台 D！"
+      "JP": "> ステージパープルDを有効化！",
+      "CN": "启用阶段紫红D！",
+      "KR": "> 스테이지 퍼플 D 활성화! <",
+      "TW": "> 啟用舞台紫色D！ <"
     }
   },
   "*** END ***": {
@@ -264,7 +264,7 @@
     "MultiLang": {
       "US": "",
       "JP": "*** 終了 ***",
-      "CN": "*** 结束 ***",
+      "CN": "*** END ***",
       "KR": "*** 종료 ***",
       "TW": "*** 結束 ***"
     }
@@ -273,20 +273,20 @@
     "translation": "",
     "MultiLang": {
       "US": "",
-      "JP": "うそっ",
+      "JP": "何すかんべ",
       "CN": "这什么鬼",
-      "KR": "와, 대체 뭐야",
-      "TW": "什麼鬼"
+      "KR": "왜 이래",
+      "TW": "幹"
     }
   },
   "> Enable Stage Red D! <": {
     "translation": "",
     "MultiLang": {
       "US": "",
-      "JP": "> ステージ レッド D を有効化 <",
-      "CN": "启用关卡红！",
-      "KR": "> 스테이지 레드 D 활성화 <",
-      "TW": "> 啟用 stage Red D! <"
+      "JP": "> ステージレッドDを有効化！",
+      "CN": "启用阶段红D！",
+      "KR": "> 스테이지 레드 D 활성화! <",
+      "TW": "> 啟用舞台紅色D！ <"
     }
   }
 }

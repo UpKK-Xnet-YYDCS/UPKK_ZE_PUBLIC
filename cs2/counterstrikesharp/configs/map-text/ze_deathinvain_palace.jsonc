@@ -14,18 +14,18 @@
     "MultiLang": {
       "US": "",
       "JP": "ZE_Deathinvain_Palace",
-      "CN": "ZE_死亡之宫_无功而返",
-      "KR": "ZE_Deathinvain_Palace",
-      "TW": "ZE_死亡的虛無_宮殿"
+      "CN": "徒劳之死_宫殿",
+      "KR": "ZE_DeathinVain_Palace",
+      "TW": "無謂之死_宮殿"
     }
   },
   "Map by vueru": {
     "translation": "",
     "MultiLang": {
       "US": "",
-      "JP": "マップ by vueru",
-      "CN": "地图由 vueru 制作",
-      "KR": "맵 제작: vueru",
+      "JP": "Map by vueru",
+      "CN": "地图作者：vueru",
+      "KR": "vueru 님이 제작한 맵",
       "TW": "地圖由 vueru 製作"
     }
   },
@@ -33,20 +33,20 @@
     "translation": "",
     "MultiLang": {
       "US": "",
-      "JP": "記憶に感謝して、バグについて教えてくれてありがとう。",
-      "CN": "感谢你们告诉我关于一些bug的信息",
-      "KR": "기억에 감사해. 몇몇 버그에 대해 알려줘서 고마워.",
-      "TW": "感謝回憶告訴我關於一些 Bug。"
+      "JP": "バグについて教えてくれたメモリに感謝します",
+      "CN": "感谢MEmories告诉我一些bug",
+      "KR": "버그에 대해 알려준 메모리에 감사드립니다.",
+      "TW": "感謝記憶告訴我一些錯誤"
     }
   },
   "ZE_Deathinvain_Palace\\nMap by vueru": {
     "translation": "",
     "MultiLang": {
       "US": "",
-      "JP": "ZE_Deathinvain_Palace\nvueruによるマップ",
-      "CN": "ZE_Deathinvain_Palace\n地图由 vueru 制作",
-      "KR": "ZE_Deathinvain_Palace\n맵 제작: vueru",
-      "TW": "ZE_Deathinvain_Palace\n地圖由 vueru 製成"
+      "JP": "ZE_Deathinvain_Palace\nMap by vueru",
+      "CN": "徒劳之死_宫殿\n地图作者：vueru",
+      "KR": "ZE_DeathinVain_Palace\nvueru 님이 제작한 맵",
+      "TW": "無謂之死_宮殿\n地圖由 vueru 製作"
     }
   },
   "<CHAPTER - THE FORGOTTEN>": {
@@ -103,20 +103,20 @@
     "translation": "",
     "MultiLang": {
       "US": "",
-      "JP": "プレイヤーが雷巻を手に入れた",
-      "CN": "**玩家拾取了雷霆卷轴**",
-      "KR": "플레이어가 천둥 영약을 획득했습니다.",
-      "TW": "**玩家撿到閃電捲軸**"
+      "JP": "**プレイヤーが雷の巻物を持ちました**",
+      "CN": "**一名玩家拾取了雷电卷轴**",
+      "KR": "**플레이어가 번개 두루마리를 얻었습니다**",
+      "TW": "**一名玩家拾取了雷電卷軸**"
     }
   },
   "**A player has picked up Lure Scroll**": {
     "translation": "",
     "MultiLang": {
       "US": "",
-      "JP": "プレイヤーが「魅了の巻」を手に入れた。",
-      "CN": "玩家拾取了诱惑卷轴",
-      "KR": "**플레이어가 유혹 권서(Lure Scroll)를 획득했습니다.**",
-      "TW": "**玩家拾獲了魅惑卷軸**"
+      "JP": "**プレイヤーがおびきの巻物を持ちました**",
+      "CN": "**一名玩家拾取了诱惑卷轴**",
+      "KR": "**플레이어가 미끼 두루마리를 얻었습니다**",
+      "TW": "**一名玩家拾取了誘惑卷軸**"
     }
   },
   "<The gate is closed>": {
@@ -143,40 +143,40 @@
     "translation": "",
     "MultiLang": {
       "US": "",
-      "JP": "**プレイヤーが災厄の巻物を拾いました**",
-      "CN": "**一名玩家获得了灾难卷轴**",
-      "KR": "**플레이어가 재앙의 두루마리를 획득했습니다.**",
-      "TW": "**一位玩家拾取了災難卷軸**"
+      "JP": "**プレイヤーが災害の巻物を持ちました**",
+      "CN": "**一名玩家拾取了灾厄卷轴**",
+      "KR": "**플레이자가 재앙 두루마리를 얻었습니다**",
+      "TW": "**一名玩家拾取了災難卷軸**"
     }
   },
   "**A player has picked up Saint Diana's shelter**": {
     "translation": "",
     "MultiLang": {
       "US": "",
-      "JP": "プレイヤーが聖女ダイアナの避難所を手に入れました",
-      "CN": "**一名玩家拾取了圣迪安娜的庇护所**",
-      "KR": "**플레이어가 성 디아나의 은신처를 획득했습니다**",
-      "TW": "**一位玩家拾取了聖潔黛安娜的庇護所**"
+      "JP": "**プレイヤーが聖ディアナの避難所を手に入れました**",
+      "CN": "**一名玩家拾取了圣戴安娜的庇护所**",
+      "KR": "**플레이어가 신성한 디아나의 은신처를 얻었습니다**",
+      "TW": "**一名玩家拾取了聖戴安娜的庇護所**"
     }
   },
   "**A player has picked up Hurricane Scroll**": {
     "translation": "",
     "MultiLang": {
       "US": "",
-      "JP": "...",
+      "JP": "プレイヤーが『Hurricane Scroll』を拾いました",
       "CN": "一名玩家拾取了飓风卷轴",
-      "KR": "...",
-      "TW": "..."
+      "KR": "플레이어가 허리케인 스크롤을 주웠다",
+      "TW": "一名玩家已撿起風暴捲軸"
     }
   },
   "**A zombie has picked up ZMHeal**": {
     "translation": "",
     "MultiLang": {
       "US": "",
-      "JP": "ゾンビがZMHealを拾った",
+      "JP": "ゾンビが『ZMHeal』を拾いました",
       "CN": "一名僵尸拾取了ZMHeal",
-      "KR": "조지가 ZMHeal을 획득했습니다",
-      "TW": "殭屍撿起了 ZMHeal"
+      "KR": "좀비가 ZMHeal를 주웠다",
+      "TW": "一名殭屍已拾取 ZMHeal"
     }
   }
 }
