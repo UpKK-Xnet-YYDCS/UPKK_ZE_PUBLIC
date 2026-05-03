@@ -22,98 +22,98 @@
   ">> 作用:跟随使用者生成阻挡僵尸的护盾 <<": {
     "translation": ">> 作用:跟随使用者生成阻挡僵尸的护盾 <<",
     "MultiLang": {
-      "US": "Function: Follows the user to generate a shield to block zombies",
-      "JP": "効果：使用者が生成する防御的なゾンビのシールド",
+      "US": ">> Effect: Generates a shield that blocks zombies while following the user. <<",
+      "JP": ">> 効果:使用者の周囲にゾンビを防ぐシールドを生成 <<",
       "CN": ">> 作用:跟随使用者生成阻挡僵尸的护盾 <<",
-      "KR": ">> 효과: 사용자가 생성한 쉴드를 僵尸가 막습니다 <<",
-      "TW": "作用：遵循使用者生成阻擋僵屍的護盾"
+      "KR": ">> 효과: 사용자를 따라다니며 좀비를 막는 방어막 생성 <<",
+      "TW": ">> 效果：生成防禦殭屍的護盾，跟隨使用者移動 <<"
     }
   },
   ">> 快去四周! <<": {
     "translation": ">> 快去四周! <<",
     "MultiLang": {
-      "US": ">> Go around! <<",
-      "JP": "{\"text\": \">> 急いで四方を警戒せよ! <<\"}\n\n{\"text\": \">> 急いで四方を警戒せよ! <<\"}",
+      "US": ">> Go check the surroundings! <<",
+      "JP": ">> さっさと四方を確認しろ！ <<",
       "CN": ">> 快去四周! <<",
-      "KR": ">> 어서 주변을 둘러봐! <<",
-      "TW": ">> 快去四周！<<"
+      "KR": ">> 주변을 살펴봐! <<",
+      "TW": ">> 快去四周看看！ <<"
     }
   },
   ">> 护盾 冷却:60秒 持续:7秒 <<": {
     "translation": ">> 护盾 冷却:60 持续:7 <<",
     "MultiLang": {
-      "US": "Shield Cooldown: 60 seconds Duration: 7 seconds",
-      "JP": ">> 護盾 冷却:60秒 継続:7秒 <<",
+      "US": ">> Shield Cooldown: 60s Duration: 7s <<",
+      "JP": ">> シールド再クールダウン:60秒 持続時間:7秒 <<",
       "CN": ">> 护盾 冷却:60 持续:7 <<",
-      "KR": ">>> 방어막 재사용: 60초 지속: 7초 <<<",
-      "TW": ">> 護盾 冷却:60秒 持续:7秒 <<"
+      "KR": ">> 방어막 쿨다운: 60초 지속: 7초 <<",
+      "TW": ">> 護盾冷卻時間：60秒 持續時間：7秒 <<"
     }
   },
   ">>> 管理员修改至[前幕] <<<": {
     "translation": ">>> 管理员修改至[前幕] <<<",
     "MultiLang": {
-      "US": ">>> Administrator modified to [Prelude] <<<",
-      "JP": ">>> 管理員が[前幕]に変更しました <<<",
+      "US": ">>> Admin modified to [Pre-Act] <<<",
+      "JP": ">>> 管理者により[幕前]へ変更 <<<",
       "CN": ">>> 管理员修改至[前幕] <<<",
-      "KR": ">>> 관리자 설정이 [프롤로그]로 변경됨 <<<",
-      "TW": ">>> 管理員修改至[前幕] <<<"
+      "KR": ">>> 관리자가 [전막]로 수정했습니다 <<<",
+      "TW": ">>> 管理員已修改至[前幕] <<<"
     }
   },
   ">>> 管理员修改至[幕间] <<<": {
     "translation": ">>> 管理员修改至[幕间] <<<",
     "MultiLang": {
       "US": ">>> Admin modified to [Intermission] <<<",
-      "JP": ">>> 管理員が[幕間]に変更しました <<<",
+      "JP": ">>> 管理者により[幕間]へ変更 <<<",
       "CN": ">>> 管理员修改至[幕间] <<<",
-      "KR": ">>> 관리자 변경됨 [브리핑] <<<",
-      "TW": ">>> 管理員修改至[幕間] <<<"
+      "KR": ">>> 관리자가 [막간]으로 수정했습니다 <<<",
+      "TW": ">>> 管理員已修改至[幕間] <<<"
     }
   },
   ">>> 管理员修改至[第一幕] <<<": {
     "translation": ">>> 管理员修改至[第一幕] <<<",
     "MultiLang": {
-      "US": ">>> Admin modified to [Act 1] <<<",
-      "JP": ">>> 管理員が[第一幕]に変更しました <<<",
+      "US": ">>> Admin modified to [Act I] <<<",
+      "JP": ">>> 管理者により[第一幕]へ変更 <<<",
       "CN": ">>> 管理员修改至[第一幕] <<<",
-      "KR": ">>> 관리자가 [1막]으로 변경되었습니다 <<<",
+      "KR": ">>> 관리자가 [제1막]으로 수정했습니다 <<<",
       "TW": ">>> 管理員已修改至[第一幕] <<<"
     }
   },
   ">>> 管理员修改至[第二幕]  <<<": {
     "translation": ">>> 管理员修改至[第二幕]  <<<",
     "MultiLang": {
-      "US": "<< Administrator modified to [Second Act] >>",
-      "JP": ">>> 管理員が[第二幕]に変更しました <<<",
+      "US": ">>> Admin modified to [Act II] <<<",
+      "JP": ">>> 管理者により[第二幕]へ変更 <<<",
       "CN": ">>> 管理员修改至[第二幕]  <<<",
-      "KR": ">>> 관리자 수정: [2막] <<<",
+      "KR": ">>> 관리자가 [제2막]로 수정했습니다 <<<",
       "TW": ">>> 管理員已修改至[第二幕] <<<"
     }
   },
   ">>> 管理员修改至[训练] <<<": {
     "translation": ">>> 管理员修改至[训练] <<<",
     "MultiLang": {
-      "US": ">>> Admin changed to [Training] <<<",
-      "JP": ">>> 管理員が[訓練]に変更しました <<<",
+      "US": ">>> Admin modified to [Training] <<<",
+      "JP": ">>> 管理者により[訓練]へ変更 <<<",
       "CN": ">>> 管理员修改至[训练] <<<",
-      "KR": ">>> 관리자 변경됨 [훈련] <<<",
-      "TW": ">>> 管理員修改至[訓練] <<<"
+      "KR": ">>> 관리자가 [훈련]으로 수정했습니다 <<<",
+      "TW": ">>> 管理員已修改至[訓練模式] <<<"
     }
   },
   ">>> 管理员结束了回合 <<<": {
     "translation": ">>> 管理员结束了回合 <<<",
     "MultiLang": {
-      "US": ">>> Admin has ended their turn <<<",
-      "JP": ">>> ゲーム管理者ターンの終了 <<<",
+      "US": "<<< Administrator ends turn >>>",
+      "JP": ">>> 管理者がターンを終了しました <<<",
       "CN": ">>> 管理员结束了回合 <<<",
-      "KR": ">>> 관리자 턴 종료 <<<",
-      "TW": ">>> 管理員結束了回合 <<<"
+      "KR": "관리자가 턴을 종료했습니다",
+      "TW": "<<< 管理員結束回合 >>>"
     }
   },
   ">>EP2 训练模式<<": {
     "translation": ">>EP2 训练模式<<",
     "MultiLang": {
-      "US": ">>EP2 Training Mode<<",
-      "JP": ">>EP2 訓練モード<<",
+      "US": "<<EP2 Training Mode>>",
+      "JP": ">>EP2 トレーニングモード<<",
       "CN": ">>EP2 训练模式<<",
       "KR": ">>EP2 훈련 모드<<",
       "TW": ">>EP2 訓練模式<<"
@@ -132,41 +132,41 @@
   "[+] 红色血包方块 +50生命": {
     "translation": "[+] 红色血包方块 +50生命",
     "MultiLang": {
-      "US": "+ Red blood pack block +50 HP",
-      "JP": "+50生命 红色血包方块",
+      "US": "[+] Red Health Block +50 HP",
+      "JP": "[+] 赤い血包ブロック +50 HP",
       "CN": "[+] 红色血包方块 +50生命",
-      "KR": "[+] 핏덩이 블록 +50 생명력",
-      "TW": "[+] 紅色血包方塊 +50生命"
+      "KR": "[+] 빨간색 혈병 +50 체력",
+      "TW": "[+] 紅色血包方塊 +50生命值"
     }
   },
   "[-] 所有弹幕与刀 -70生命": {
     "translation": "[-] 所有弹幕与刀 -70生命",
     "MultiLang": {
-      "US": "[-] All barrage and knives -70 life",
-      "JP": "[-] 所有弾幕と刀 -70生命",
+      "US": "[-] All Projectiles & Knives -70 HP",
+      "JP": "[-] 全弾幕とナイフ -70 HP",
       "CN": "[-] 所有弹幕与刀 -70生命",
-      "KR": "[-] 모든 봇과 칼 -70 생명",
-      "TW": "[-] 所有彈幕與刀 -70生命"
+      "KR": "[-] 모든 탄환과 칼 -70 체력",
+      "TW": "[-] 所有彈幕與刀 -70生命值"
     }
   },
   "[X] 最高生命值 150": {
     "translation": "[X] 最高生命值 150",
     "MultiLang": {
       "US": "[X] Max HP 150",
-      "JP": "[X] 最高の生命値 150",
+      "JP": "[X] 最大HP 150",
       "CN": "[X] 最高生命值 150",
-      "KR": "[X] 최대 생명력 150",
+      "KR": "[X] 최대 체력 150",
       "TW": "[X] 最高生命值 150"
     }
   },
   "[^] 绿色箭头方块 +70生命与跳跃": {
     "translation": "[^] 绿色箭头方块 +70生命与跳跃",
     "MultiLang": {
-      "US": "[Green Arrow Block] +70 Life and Jump",
-      "JP": "緑の矢印ブロック +70生命とジャンプ",
+      "US": "[^] Green Arrow Block +70 HP & Jump",
+      "JP": "[^] 緑の矢印ブロック +70 HPとジャンプ力",
       "CN": "[^] 绿色箭头方块 +70生命与跳跃",
-      "KR": "[^] 녹색 화살표 블록 +70 생명력 및 점프",
-      "TW": "█ 綠色箭頭方塊 +70生命與跳躍"
+      "KR": "[^] 초록색 화살표 블록 +70 체력과 점프",
+      "TW": "[^] 綠色箭頭方塊 +70生命值與跳躍"
     }
   },
   "say AoraitsuR TU0.99 24/08/16 18:17": {
@@ -192,10 +192,10 @@
   "| 20秒后电梯就会上升 |": {
     "translation": "| 20秒后电梯就会上升 |",
     "MultiLang": {
-      "US": "The elevator will start ascending in 20 seconds.",
+      "US": "| The elevator ascends in 20 seconds |",
       "JP": "20秒後にエレベーターが上昇します",
       "CN": "| 20秒后电梯就会上升 |",
-      "KR": "20초 후 엘리베이터가 상승합니다.",
+      "KR": "20초 후에 엘리베이터가 올라갑니다.",
       "TW": "20秒後電梯就會上升"
     }
   },
@@ -232,20 +232,20 @@
   "| 35秒后门就要开了 |": {
     "translation": "| 35秒后门就要开了 |",
     "MultiLang": {
-      "US": "The backdoor will open in 35 seconds.",
-      "JP": "| 35秒後、ドアが開きます |",
+      "US": "| The doors open in 35 seconds |",
+      "JP": "35秒後にドアが開きます",
       "CN": "| 35秒后门就要开了 |",
-      "KR": "35초 뒤의 문이 열릴 거야.",
-      "TW": "| 35秒後門就要開了"
+      "KR": "35초 후에 문이 열립니다.",
+      "TW": "35秒後門就要開了"
     }
   },
   "| Door Opend |": {
     "translation": "| 门已打开 |",
     "MultiLang": {
       "US": "",
-      "JP": "ドアが開いた",
-      "CN": "| 门已打开 |",
-      "KR": "문 열림",
+      "JP": "扉開所",
+      "CN": "| 门已开启 |",
+      "KR": "문이 열렸습니다.",
       "TW": "門已開啟"
     }
   },
@@ -253,549 +253,549 @@
     "translation": "| 门已打开 |",
     "MultiLang": {
       "US": "",
-      "JP": "ドアが開いた",
-      "CN": "| 门已打开 |",
-      "KR": "문 열림",
-      "TW": "門打開了"
+      "JP": "扉開所",
+      "CN": "| 门已开启 |",
+      "KR": "문이 열렸습니다.",
+      "TW": "門已開啟"
     }
   },
   "| Door will open in 20 Second |": {
     "translation": "| 20秒后门就要开了 |",
     "MultiLang": {
       "US": "",
-      "JP": "ドアが開きます (20秒)",
-      "CN": "| 20秒后门就要开了 |",
-      "KR": "문이 20초 후에 열립니다",
-      "TW": "門將在 20 秒後開啟 |"
+      "JP": "20秒後にドアが開きます",
+      "CN": "| 门将在20秒后开启 |",
+      "KR": "20초 후에 문이 열립니다.",
+      "TW": "20秒後門將開啟"
     }
   },
   "| EP.0 Complete |": {
     "translation": "| EP.0 完成 |",
     "MultiLang": {
       "US": "",
-      "JP": "EP.0 完結",
+      "JP": "EP.0 完了",
       "CN": "| EP.0 完成 |",
-      "KR": "EP.0 완료",
-      "TW": "│ EP.0 完成 │"
+      "KR": "에피소드 0 완료",
+      "TW": "章節0完成"
     }
   },
   "| EP.1 Complete |": {
     "translation": "| EP.1 完成 |",
     "MultiLang": {
       "US": "",
-      "JP": "EP.1 完結",
+      "JP": "EP.1 完了",
       "CN": "| EP.1 完成 |",
-      "KR": "EP.1 완료",
-      "TW": "EP.1 完結"
+      "KR": "에피소드 1 완료",
+      "TW": "章節1完成"
     }
   },
   "| OBJ 冷却:50秒 持续:5.5秒 |": {
     "translation": "| OBJ 冷却:50 持续:5.5 |",
     "MultiLang": {
-      "US": "Cooling: 50 seconds Duration: 5.5 seconds",
-      "JP": "冷却:50秒 持续:5.5秒",
+      "US": "| OBJ Cooldown: 50s Duration: 5.5s |",
+      "JP": "OBJ クールダウン:50秒 持続時間:5.5秒",
       "CN": "| OBJ 冷却:50 持续:5.5 |",
-      "KR": "쿨다운: 50초 지속: 5.5초",
-      "TW": "|- 冷却:50秒 持续:5.5秒 |"
+      "KR": "OBJ 재사용 대기 시간:50초 지속 시간:5.5초",
+      "TW": "OBJ冷卻：50秒 持續：5.5秒"
     }
   },
   "| 传送阵还有40秒准备好 |": {
     "translation": "| 传送阵还有40秒准备好 |",
     "MultiLang": {
-      "US": "Teleporter ready in 40 seconds.",
-      "JP": "| テレポート陣は40秒後に準備完了",
+      "US": "Portal will be ready in 40 seconds.",
+      "JP": "传送阵の準備まで40秒",
       "CN": "| 传送阵还有40秒准备好 |",
-      "KR": "전송대 준비 완료까지 40초 남았습니다.",
-      "TW": "传送陣還有40秒準備好"
+      "KR": "이동 매체, 완료까지 40초",
+      "TW": "傳送陣40秒後啟動"
     }
   },
   "| 伤害球 冷却:10秒 |": {
     "translation": "| 伤害球 冷却:10 |",
     "MultiLang": {
-      "US": "Damage Orb Cooldown: 10 seconds",
-      "JP": "| 攻撃球 冷却:10秒 |",
+      "US": "| Damage Sphere Cooldown: 10s |",
+      "JP": "伤害球 冷却時間:10秒",
       "CN": "| 伤害球 冷却:10 |",
-      "KR": "데미지 볼 냉각: 10초",
-      "TW": "傷害球 冷却:10秒"
+      "KR": "돌진 속도감 감속: 10초",
+      "TW": "傷害球 冷卻:10秒"
     }
   },
   "| 作用:为使用者增加60%速度，附近僵尸40%速度 |": {
     "translation": "| 作用:为使用者增加60%速度，附近僵尸40%速度 |",
     "MultiLang": {
-      "US": "Effect: Increases user speed by 60%, zombie speed by 40%.",
-      "JP": "効果: 速度を60%上昇させ、近くのゾンビを40%速度上昇させる",
+      "US": "Effect: Increases user's speed by 60% and nearby zombies' speed by 40%.",
+      "JP": "効果:使用者の速度が60%向上、近隣のゾンビの速度が40%向上",
       "CN": "| 作用:为使用者增加60%速度，附近僵尸40%速度 |",
-      "KR": "효과: 사용자 속도 60% 증가, 주변 좀비 속도 40% 증가",
-      "TW": "效果：提升使用者速度 60%，附近僵尸速度提升 40%"
+      "KR": "효과: 자신을 비롯한 주변 좀비 속도 60% 증가",
+      "TW": "效果：使用者移動速度提升60%，周圍殭屍速度降低40%"
     }
   },
   "| 作用:在前方生成球，触碰到的人类将无法移动 |": {
     "translation": "| 作用:在前方生成球，触碰到的人类将无法移动 |",
     "MultiLang": {
-      "US": "Effect: Creates a ball in front, and anyone touching it will be unable to move.",
-      "JP": "効果：前方生成球を生成し、接触したプレイヤーは移動できなくなる。",
+      "US": "Effect: Generates a sphere ahead. Humans who touch it cannot move.",
+      "JP": "効果:前方に球を生成し、接触した人間は移動できなくなる",
       "CN": "| 作用:在前方生成球，触碰到的人类将无法移动 |",
-      "KR": "효과: 앞으로 공을 생성하고, 닿는 모든 플레이어는 이동할 수 없게 됩니다.",
-      "TW": "| 作用: 在前方生成球，觸碰到的人類將無法移動"
+      "KR": "효과: 앞에 구름 생성, 접촉한 인간은 이동 불가",
+      "TW": "效果：前方生成球體，觸碰到的玩家將無法移動"
     }
   },
   "| 作用:在前方生成球，触碰到的僵尸将无法移动 |": {
     "translation": "| 作用:在前方生成球，触碰到的僵尸将无法移动 |",
     "MultiLang": {
-      "US": "Effect: Generate a ball in front, and zombies that touch it will be unable to move.",
-      "JP": "効果：前方生成した球体に触れると、ゾンビは動けなくなる",
+      "US": "Effect: Generates a sphere ahead. Zombies who touch it cannot move.",
+      "JP": "効果:前方に球を生成し、接触したゾンビは移動できなくなる",
       "CN": "| 作用:在前方生成球，触碰到的僵尸将无法移动 |",
-      "KR": "효과: 앞으로 공을 생성하고, 충돌한 좀비는 이동할 수 없음",
-      "TW": "| 作用: 在前方生成球，觸碰到的殭屍將無法移動"
+      "KR": "효과: 앞에 구름 생성, 접촉한 좀비는 이동 불가",
+      "TW": "效果：前方生成球體，觸碰到的殭屍將無法移動"
     }
   },
   "| 作用:在前方生成阻挡僵尸的方块墙 |": {
     "translation": "| 作用:在前方生成阻挡僵尸的方块墙 |",
     "MultiLang": {
-      "US": "Action: Generate a block wall to block zombies ahead.",
-      "JP": "効果: 前方生成を阻むゾンビを遮るブロックの壁",
+      "US": "Effect: Generates a wall ahead to block zombies.",
+      "JP": "効果:前方にゾンビを阻止する壁を生成する",
       "CN": "| 作用:在前方生成阻挡僵尸的方块墙 |",
-      "KR": "효과: 앞쪽에서 좀비의 진입을 막는 블록 벽 생성",
-      "TW": "作用：在前方生成阻擋僵屍的方塊牆"
+      "KR": "효과: 앞에 좀비 차단 벽 생성",
+      "TW": "效果：前方生成阻擋殭屍的方塊牆"
     }
   },
   "| 作用:在原地生成治疗阵，每秒恢复20点生命 |": {
     "translation": "| 作用:在原地生成治疗阵，每秒恢复20点生命 |",
     "MultiLang": {
-      "US": "Effect: Creates a healing array in place, restoring 20 HP per second.",
-      "JP": "効果：原地生成治療陣を設置し、毎秒20の生命を回復する。",
+      "US": "Effect: Generates a healing array. Restores 20 HP per second.",
+      "JP": "効果:現在地に治療陣を生成し、毎秒20ポイントの体力を回復する",
       "CN": "| 作用:在原地生成治疗阵，每秒恢复20点生命 |",
-      "KR": "효과: 현장에 치유 지대를 생성하고, 매 초 20의 생명력을 회복합니다.",
-      "TW": "作用：在原地生成治療陣，每秒恢復20點生命"
+      "KR": "효과: 치유 매체 생성, 초당 20 회복",
+      "TW": "效果：原地生成治療陣，每秒恢復20點生命"
     }
   },
   "| 作用:将神器的附近人类传送到你另一个传送神器身边 |": {
     "translation": "| 作用:将神器的附近人类传送到你另一个传送神器身边 |",
     "MultiLang": {
-      "US": "Action: Transport nearby humans to the side of another teleportation artifact.",
-      "JP": "効果：将神器の近くに人間を転送し、別の転送神器のそばへ。",
+      "US": "Effect: Teleports nearby humans to another teleport artifact near you",
+      "JP": "効果:神器の周囲の人間を、別の传送神器のそばへテレポートさせる",
       "CN": "| 作用:将神器的附近人类传送到你另一个传送神器身边 |",
-      "KR": "역할: 주변의 신기의 인간을 다른 신기 주변으로 전송",
-      "TW": "作用：將神器的附近人類傳送到你另一個傳送神器身邊"
+      "KR": "효과: 근처의 모든 인간을 자신의 이동 매체로 텔레포트",
+      "TW": "效果：將神聖道具附近的人傳送至另一個傳送神器處"
     }
   },
   "| 作用:将神器的附近僵尸传送到你另一个传送神器身边 |": {
     "translation": "| 作用:将神器的附近僵尸传送到你另一个传送神器身边 |",
     "MultiLang": {
-      "US": "Effect: Teleport nearby zombies to the side of another teleportation artifact.",
-      "JP": "効果：神器の近くにいるゾンビをあなたに別の神器のそばへ転送します",
+      "US": "Effect: Teleports nearby zombies to another teleport artifact near you",
+      "JP": "効果：神器的近くのゾンビを他の传送神器のそばにテレポートさせる",
       "CN": "| 作用:将神器的附近僵尸传送到你另一个传送神器身边 |",
-      "KR": "효과: 신기의 주변 좀비들을 다른 신기 위치로 전송합니다.",
-      "TW": "作用：將神器的附近僵屍傳送到你另一個傳送神器身邊"
+      "KR": "| 효과: 신기 주변의 좀비 다른신기 근처로 순간이동 |",
+      "TW": "作用：將神器附近的殭屍傳送至另一個傳送神器旁"
     }
   },
   "| 作用:我杀杀杀！ |": {
     "translation": "| 作用:我杀杀杀！ |",
     "MultiLang": {
-      "US": "Action: I kill, kill, kill!",
-      "JP": "効果：殺戮！",
+      "US": "Effect: I kill, kill, kill!",
+      "JP": "効果：殺戮！殺戮！殺戮！",
       "CN": "| 作用:我杀杀杀！ |",
-      "KR": "작렬: 난리법석하게 싸우자!",
-      "TW": "作用:我殺殺殺！"
+      "KR": "| 효과: 나는 죽인다! |",
+      "TW": "作用：我殺殺殺！"
     }
   },
   "| 作用:生成油桶，打破后范围减速僵尸 |": {
     "translation": "| 作用:生成油桶，打破后范围减速僵尸 |",
     "MultiLang": {
-      "US": "Effect: Generate Oil Drum, slows zombies in the area after breaking.",
-      "JP": "効果：生成油桶（破壊後、範囲内のゾンビを遅延させる）",
+      "US": "Effect: Spawns oil barrels. Breaking them slows down zombies in the area",
+      "JP": "効果：油缶を生成し、破壊することで周囲のゾンビを減速させる",
       "CN": "| 作用:生成油桶，打破后范围减速僵尸 |",
-      "KR": "효과: 기름통 생성, 파괴 시 범위 둔화 좀비",
-      "TW": "| 作用: 生成油桶，打破後範圍減速殭屍"
+      "KR": "| 효과: 기름통 생성, 부수면 사정거리 내 좀비 감속 |",
+      "TW": "作用：生成油桶，打破後對範圍內殭屍施加減速效果"
     }
   },
   "| 作用:生成球，触碰到的人类将造成伤害并减速 |": {
     "translation": "| 作用:生成球，触碰到的人类将造成伤害并减速 |",
     "MultiLang": {
-      "US": "Effect: Generates a ball. Any human touched by the ball will take damage and be slowed.",
-      "JP": "効果：生成球、触れると人にダメージを与え、減速させる",
+      "US": "Effect: Spawns a ball that damages and slows down humans upon contact",
+      "JP": "効果：ボールを生成し、触れた人間にダメージを与え減速させる",
       "CN": "| 作用:生成球，触碰到的人类将造成伤害并减速 |",
-      "KR": "효과: 공 생성, 접촉한 인간에게 피해와 속도 감소를 유발합니다.",
-      "TW": "效能：生成球，觸碰的人類將造成傷害並減速"
+      "KR": "| 효과: 구체 생성, 인간이 접촉하면 피해를 주고 감속 |",
+      "TW": "作用：生成球體，碰到的人类將受到傷害並被減速"
     }
   },
   "| 作用:生成跟随推力风，吹散前方僵尸 |": {
     "translation": "| 作用:生成跟随推力风，吹散前方僵尸 |",
     "MultiLang": {
-      "US": "Effect: Generates a wind following the thrust, dispersing zombies ahead.",
-      "JP": "効果：生成された追従風を生成し、前方を進むゾンビを吹き飛ばす",
+      "US": "Effect: Generates following thrust wind to blow away zombies ahead",
+      "JP": "効果：追従推力の風を生成し、前方のゾンビを吹き飛ばす",
       "CN": "| 作用:生成跟随推力风，吹散前方僵尸 |",
-      "KR": "효과: 추진력 바람에 흩날리는 앞의 좀비",
-      "TW": "效果：生成跟随推力的风，吹散前方僵尸"
+      "KR": "| 효과: 따라오는 바람 생성, 전방 좀비 날려버리기 |",
+      "TW": "作用：生成隨風推力，吹散前方的殭屍"
     }
   },
   "| 作用:跟随黑洞，将人类吸入你 |": {
     "translation": "| 作用:跟随黑洞，将人类吸入你 |",
     "MultiLang": {
-      "US": "Effect: Follow the black hole, sucking humans into you.",
-      "JP": "作用: 追隨黑洞，將人類吸入你",
+      "US": "Effect: Follows black holes, sucking humans into you",
+      "JP": "効果：黑洞に追従し、人間を引き寄せて吸収する",
       "CN": "| 作用:跟随黑洞，将人类吸入你 |",
-      "KR": "효과: 블랙홀을 따르며 인간들을 당신에게 빨아들입니다.",
-      "TW": "效果：跟隨黑洞，將人類吸入你"
+      "KR": "| 효과: 블랙홀 따라 인간이 자신의 안으로 빨려들어가게 함 |",
+      "TW": "作用：隨黑洞將人類吸入"
     }
   },
   "| 你杀死了BOSS |": {
     "translation": "| 你杀死了BOSS |",
     "MultiLang": {
       "US": "You killed the BOSS",
-      "JP": "あなたはボスを倒しました",
+      "JP": "BOSSを倒した！",
       "CN": "| 你杀死了BOSS |",
-      "KR": "당신은 보스(BOSS)를 처치했습니다.",
-      "TW": "你殺死了BOSS"
+      "KR": "| 당신은 BOSS를 처치했습니다 |",
+      "TW": "你殺死了 BOSS"
     }
   },
   "| 你让僵尸碰到球了，你们输了 |": {
     "translation": "| 你让僵尸碰到球了，你们输了 |",
     "MultiLang": {
-      "US": "You let the zombies touch the ball, you lost!",
-      "JP": "あなたにゾンビがボールに触れたので、あなたは負けました。",
+      "US": "You let the zombies touch the ball. You lose.",
+      "JP": "ゾンビがボールに触れてしまった。敗北だ！",
       "CN": "| 你让僵尸碰到球了，你们输了 |",
-      "KR": "네 놈이 좀비에게 공을 닿게 했으니, 졌어!",
-      "TW": "你讓僵屍碰到球了，你們輸了"
+      "KR": "| 좀비가 구체에 접촉하게 했으니, 여러분은 패배했습니다 |",
+      "TW": "你讓殭屍碰到球，你們輸了"
     }
   },
   "| 你输了 |": {
     "translation": "| 你输了 |",
     "MultiLang": {
       "US": "You lost.",
-      "JP": "負けだ",
+      "JP": "ゲームオーバー",
       "CN": "| 你输了 |",
-      "KR": "네 졌어",
+      "KR": "당신이 졌습니다",
       "TW": "你輸了"
     }
   },
   "| 僵尸秒杀 冷却:80秒 |": {
     "translation": "| 僵尸秒杀 冷却:80 |",
     "MultiLang": {
-      "US": "Zombie Kill Cool-down: 80 seconds",
-      "JP": "ゾンビ即死 冷却:80秒",
+      "US": "Zombie Kill - Cooldown: 80s",
+      "JP": "ゾンビ秒杀 クールタイム:80秒",
       "CN": "| 僵尸秒杀 冷却:80 |",
-      "KR": "좀비 킬러, 재감속도: 80초",
-      "TW": "僵屍秒殺 冷却:80秒"
+      "KR": "좀비 즉사 쿨타임: 80초",
+      "TW": "殭屍瞬殺 冷卻:80秒"
     }
   },
   "| 冰冻球(僵尸) 冷却:45秒 持续:4秒 |": {
     "translation": "| 冰冻球(僵尸) 冷却:45 持续:4 |",
     "MultiLang": {
-      "US": "Frozen Ball (Zombie) Cooldown: 45 seconds Duration: 4 seconds",
-      "JP": "凍結球(ゾンビ) 冷却:45秒 継続:4秒",
+      "US": "Freeze Ball (vs Zombies) - Cooldown: 45s, Duration: 4s",
+      "JP": "アイスボール(ゾンビ) クールタイム:45秒 持続:4秒",
       "CN": "| 冰冻球(僵尸) 冷却:45 持续:4 |",
-      "KR": "얼음 공(좀비) 냉각: 45초 지속: 4초",
-      "TW": "冰凍球(僵屍) 冷却:45秒 持續:4秒"
+      "KR": "얼음공(좀비) 쿨타임: 45초 지속: 4초",
+      "TW": "冰凍球(殭屍) 冷卻:45秒 持續:4秒"
     }
   },
   "| 啊啊啊啊哈哈啊啊啊 |": {
     "translation": "| 啊啊啊啊哈哈啊啊啊 |",
     "MultiLang": {
-      "US": "aaaaaaaaahahahaaaaaaa",
-      "JP": "ああああああ哈哈啊啊啊啊",
+      "US": "Ahhhhh hahaha aaaah",
+      "JP": "ああああハハaaaa",
       "CN": "| 啊啊啊啊哈哈啊啊啊 |",
-      "KR": "아아아아아하하하아아아아",
-      "TW": "| 啊啊啊啊哈哈啊啊啊 |"
+      "KR": "아아아아하하아아아",
+      "TW": "啊！哈哈！"
     }
   },
   "| 守住25秒 |": {
     "translation": "| 守住25秒 |",
     "MultiLang": {
-      "US": "Hold for 25 seconds",
-      "JP": "| 25秒守る |",
+      "US": "Survive for 25 seconds",
+      "JP": "25秒防衛",
       "CN": "| 守住25秒 |",
-      "KR": "지켜 25초",
-      "TW": "| 守住25秒 |"
+      "KR": "25초 방어",
+      "TW": "守住25秒"
     }
   },
   "| 定身球 冷却:35秒 持续:5秒 |": {
     "translation": "| 定身球 冷却:35 持续:5 |",
     "MultiLang": {
-      "US": "Sticky Ball Cooldown: 35 seconds Duration: 5 seconds",
-      "JP": "| 麻痺球 冷却:35秒 継続:5秒 |",
+      "US": "Stun Ball - Cooldown: 35s, Duration: 5s",
+      "JP": "スタンボール クールタイム:35秒 持続:5秒",
       "CN": "| 定身球 冷却:35 持续:5 |",
-      "KR": "정신구 냉각:35초 지속:5초",
-      "TW": "| 定身球 冷卻:35秒 持續:5秒 |"
+      "KR": "정지공 쿨타임: 35초 지속: 5초",
+      "TW": "定身球 冷卻:35秒 持續:5秒"
     }
   },
   "| 推力 冷却:60秒 持续:6.5秒 |": {
     "translation": "| 推力 冷却:60 持续:6.5 |",
     "MultiLang": {
-      "US": "Thrust Cooldown: 60 seconds Duration: 6.5 seconds",
-      "JP": "| 推進力 冷却:60秒 継続:6.5秒 |",
+      "US": "Push - Cooldown: 60s, Duration: 6.5s",
+      "JP": "ノックバック クールタイム:60秒 持続:6.5秒",
       "CN": "| 推力 冷却:60 持续:6.5 |",
-      "KR": "Thrust Cooling: 60초 지속: 6.5초",
-      "TW": "| 推力 冷卻:60秒 持續:6.5秒 |"
+      "KR": "밀쳐내기 쿨타임: 60초 지속: 6.5초",
+      "TW": "推力 冷卻:60秒 持續:6.5秒"
     }
   },
   "| 方块墙 冷却:60秒 持续:7秒 |": {
     "translation": "| 方块墙 冷却:60 持续:7 |",
     "MultiLang": {
-      "US": "Brick Wall Cooling: 60 seconds Duration: 7 seconds",
-      "JP": "ブロック壁 冷却:60秒 継続:7秒",
+      "US": "Blockade Wall Cooldown: 60s Duration: 7s",
+      "JP": "ブロックウォール クールタイム:60秒 持続:7秒",
       "CN": "| 方块墙 冷却:60 持续:7 |",
-      "KR": "블록 벽 냉각: 60초 지속: 7초",
-      "TW": "方塊牆 冷却:60秒 持续:7秒"
+      "KR": "블록 벽 쿨타임: 60초 지속: 7초",
+      "TW": "方塊牆 冷卻:60秒 持續:7秒"
     }
   },
   "| 暴风吸入 冷却:55秒 持续:6.5秒 |": {
     "translation": "| 暴风吸入 冷却:55 持续:6.5 |",
     "MultiLang": {
-      "US": "Vacuum Siphon - Cooldown: 55 seconds - Duration: 6.5 seconds",
-      "JP": "暴風吸入 冷却:55秒 継続:6.5秒",
+      "US": "Black Hole Cooldown: 55s Duration: 6.5s",
+      "JP": "暴風吸引 冷却:55秒 持続:6.5秒",
       "CN": "| 暴风吸入 冷却:55 持续:6.5 |",
-      "KR": "바람 흡입: 냉각 시간: 55초 지속 시간: 6.5초",
-      "TW": "暴風吸入 冷却:55秒 持續:6.5秒"
+      "KR": "| 폭풍 흡입 쿨다운:55초 지속:6.5초 |",
+      "TW": "暴風吸入 冷卻時間：55秒 持續時間：6.5秒"
     }
   },
   "| 最后25秒? |": {
     "translation": "| 最后25秒? |",
     "MultiLang": {
-      "US": "Last 25 seconds?",
-      "JP": "最後の25秒？",
+      "US": "25 seconds left?",
+      "JP": "残り25秒?",
       "CN": "| 最后25秒? |",
-      "KR": "마지막 25초?",
+      "KR": "| 마지막 25초? |",
       "TW": "最後25秒？"
     }
   },
   "| 最后的30秒! |": {
     "translation": "| 最后的30秒! |",
     "MultiLang": {
-      "US": "Last 30 seconds!",
-      "JP": "最後の30秒！",
+      "US": "Final 30 seconds!",
+      "JP": "最後の30秒!",
       "CN": "| 最后的30秒! |",
-      "KR": "마지막 30초!",
+      "KR": "| 마지막 30초!",
       "TW": "最後30秒！"
     }
   },
   "| 最后的房间已打开.. |": {
     "translation": "| 最后的房间已打开.. |",
     "MultiLang": {
-      "US": "The final room has opened...",
-      "JP": "最後の部屋が開いた…",
+      "US": "The final room is open..",
+      "JP": "最後の部屋が開いた..",
       "CN": "| 最后的房间已打开.. |",
-      "KR": "마지막 방이 열렸다...",
-      "TW": "最後的房間已打開..."
+      "KR": "| 마지막 방문이 열렸습니다.. |",
+      "TW": "最後的房間已開啟…"
     }
   },
   "| 治疗 冷却:70秒 持续:5.5秒 |": {
     "translation": "| 治疗 冷却:70 持续:5.5 |",
     "MultiLang": {
-      "US": "Heal Cooldown: 70 seconds Duration: 5.5 seconds",
-      "JP": "治療 冷却:70秒 継続:5.5秒",
+      "US": "Heal Cooldown: 70s Duration: 5.5s",
+      "JP": "治療 冷却:70秒 持続:5.5秒",
       "CN": "| 治疗 冷却:70 持续:5.5 |",
-      "KR": "치유 냉각: 70초 지속: 5.5초",
-      "TW": "治療 冷却:70秒 継続:5.5秒"
+      "KR": "| 치료 쿨다운:70초 지속:5.5초 |",
+      "TW": "治療 冷卻時間：70秒 持續時間：5.5秒"
     }
   },
   "| 治疗[僵尸] 冷却:50秒 持续:6秒 |": {
     "translation": "| 治疗[僵尸] 冷却:50 持续:6 |",
     "MultiLang": {
-      "US": "Heal [Zombie] Cooldown: 50 seconds Duration: 6 seconds",
-      "JP": "治療[ゾンビ] 冷却:50秒 継続:6秒",
+      "US": "Heal [Zombie] Cooldown: 50s Duration: 6s",
+      "JP": "[ゾンビ]治療 冷却:50秒 持続:6秒",
       "CN": "| 治疗[僵尸] 冷却:50 持续:6 |",
-      "KR": "치료[좀비] 냉각:50초 지속:6초",
-      "TW": "治療[殭屍] 冷却:50秒 持續:6秒"
+      "KR": "[지브아이 치료] 쿨다운:50초 지속:6초 |",
+      "TW": "治療[殭屍] 冷卻時間：50秒 持續時間：6秒"
     }
   },
   "| 电梯将在15秒后离开 |": {
     "translation": "| 电梯将在15秒后离开 |",
     "MultiLang": {
-      "US": "The elevator will leave in 15 seconds.",
-      "JP": "エレベーターは15秒後に脱出します",
+      "US": "The elevator leaves in 15 seconds",
+      "JP": "エレベーターは15秒後に発車します",
       "CN": "| 电梯将在15秒后离开 |",
-      "KR": "엘리베이터는 15초 후에 나갈 것입니다.",
+      "KR": "| 엘리베이터가 15초 후 출발합니다 |",
       "TW": "電梯將在15秒後離開"
     }
   },
   "| 电梯来了 小心断口！ |": {
     "translation": "| 电梯来了 小心断口！ |",
     "MultiLang": {
-      "US": "The elevator arrived! Watch out for sharp edges!",
-      "JP": "エレベーターが来た。断面に注意！",
+      "US": "The elevator is arriving. Watch for the gap!",
+      "JP": "エレベーター到着 隙間に注意！",
       "CN": "| 电梯来了 小心断口！ |",
-      "KR": "엘리베이터 도착! 조심해, 유리 조각! ***",
-      "TW": "電梯到囉！小心斷口！"
+      "KR": "| 엘리베이터 도착! 끊어지지 않게 주의!",
+      "TW": "電梯進場 注意斷層！"
     }
   },
   "| 绝区零国际服加我1300203175 |": {
     "translation": "| 绝区零国际服加我1300203175 |",
     "MultiLang": {
-      "US": "Join me on 1300203175 (Zero Escape International Server)",
-      "JP": "| 絶区零インターナショナルサーバー加えて1300203175 |",
+      "US": "ZZZ Global Server +My 1300203175",
+      "JP": "絕区零国际服加我1300203175 |",
       "CN": "| 绝区零国际服加我1300203175 |",
-      "KR": "검블루 글로벌 서버 1300203175 귓로 보내세요",
+      "KR": "절대영역 국제 서버에 내 ID 1300203175을 추가하세요",
       "TW": "絕區零國際服加我1300203175"
     }
   },
   "| 绝地潜兵空降仓[人类] 冷却:120秒(共用) |": {
     "translation": "| 绝地潜兵空降仓[人类] 冷却:120(共用) |",
     "MultiLang": {
-      "US": "Jungle Commando Drop - [Human] Cooling: 120s (Shared)",
-      "JP": "絕地潛兵空降倉[人類] 冷却:120秒(共用)",
+      "US": "Helldiver Drop Pod [Human] Cooldown: 120s (Shared)",
+      "JP": "絶滅追放兵用降下舱[人類] コールドタイム:120秒(共有)",
       "CN": "| 绝地潜兵空降仓[人类] 冷却:120(共用) |",
-      "KR": "지구 잠수병 공략 착륙: 냉각 시간 120초 (공유)",
-      "TW": "絕地潛行兵空降倉[人類] 冷却:120秒(共用)"
+      "KR": "절대영역 보병 강하창 [인류] 재사용 대기시간: 120초 (공유)",
+      "TW": "絕地潛兵空投艙[人類] 冷卻時間：120秒（共用）"
     }
   },
   "| 绝地潜兵空降仓[僵尸] 冷却:120秒(共用) |": {
     "translation": "| 绝地潜兵空降仓[僵尸] 冷却:120(共用) |",
     "MultiLang": {
-      "US": "Elite Commando Drop-In [Zombie] Cooldown: 120 seconds (Shared)",
-      "JP": "絕地潛兵空降倉[殭屍] 冷却:120秒(共用)",
+      "US": "Helldiver Drop Pod [Zombie] Cooldown: 120s (Shared)",
+      "JP": "絶滅追放兵用降下舱[ゾンビ] コールドタイム:120秒(共有)",
       "CN": "| 绝地潜兵空降仓[僵尸] 冷却:120(共用) |",
-      "KR": "지옥 잠수병 공중 투하 [좀비] 냉각 시간: 120초 (공유)",
-      "TW": "絕地潛行兵空降倉[殭屍] 冷却:120秒(共用)"
+      "KR": "절대영역 보병 강하창 [좀비] 재사용 대기시간: 120초 (공유)",
+      "TW": "絕地潛兵空投艙[殭屍] 冷卻時間：120秒（共用）"
     }
   },
   "| 距离BOSS核爆还有100秒 |": {
     "translation": "| 距离BOSS核爆还有100秒 |",
     "MultiLang": {
-      "US": "There are 100 seconds until the boss core explodes.",
-      "JP": "BOSS核爆まであと100秒",
+      "US": "Boss nuke in 100 seconds.",
+      "JP": "ボス核爆発まで残り100秒",
       "CN": "| 距离BOSS核爆还有100秒 |",
-      "KR": "BOSS 핵폭탄 폭발까지 100초",
+      "KR": "보스 핵폭발까지 100초 남음",
       "TW": "距離BOSS核爆還有100秒"
     }
   },
   "| 道路将在30秒后开启 |": {
     "translation": "| 道路将在30秒后开启 |",
     "MultiLang": {
-      "US": "The road will open in 30 seconds.",
-      "JP": "道路は30秒後に開きます",
+      "US": "Road opens in 30 seconds.",
+      "JP": "道路は30秒後に開放されます",
       "CN": "| 道路将在30秒后开启 |",
-      "KR": "도로는 30초 후에 열립니다.",
-      "TW": "| 道路將在30秒後開啟"
+      "KR": "도로가 30초後に 개통됩니다",
+      "TW": "道路將在30秒後開啟"
     }
   },
   "| 门会在5秒后关闭 |": {
     "translation": "| 门会在5秒后关闭 |",
     "MultiLang": {
-      "US": "The door will close in 5 seconds.",
-      "JP": "扉は5秒後に閉まります",
+      "US": "Door closes in 5 seconds.",
+      "JP": "扉は5秒後に閉じます",
       "CN": "| 门会在5秒后关闭 |",
-      "KR": "문이 5초 후에 닫힙니다.",
+      "KR": "문이 5秒後に 닫힙니다",
       "TW": "門會在5秒後關閉"
     }
   },
   "| 门将在15秒后开启 |": {
     "translation": "| 门将在15秒后开启 |",
     "MultiLang": {
-      "US": "The door will open in 15 seconds.",
-      "JP": "門番が15秒後に開門します",
+      "US": "Door opens in 15 seconds.",
+      "JP": "扉は15秒後に開きます",
       "CN": "| 门将在15秒后开启 |",
-      "KR": "직원분이 15초 후에 문을 열어드립니다.",
-      "TW": "門將會在15秒後開啟"
+      "KR": "문이 15초後に 열립니다",
+      "TW": "門將在15秒後開啟"
     }
   },
   "| 门将在15秒后打开 |": {
     "translation": "| 门将在15秒后打开 |",
     "MultiLang": {
-      "US": "The door will open in 15 seconds.",
-      "JP": "門番が15秒後に開門します",
+      "US": "The gate opens in 15 seconds",
+      "JP": "扉は15秒後に開きます",
       "CN": "| 门将在15秒后打开 |",
-      "KR": "보안요원이 15초 후에 문을 열 것입니다.",
-      "TW": "門將會在15秒後打開"
+      "KR": "문이 15초後に 열립니다",
+      "TW": "門將在15秒後打開"
     }
   },
   "| 门将在20秒后开启 |": {
     "translation": "| 门将在20秒后开启 |",
     "MultiLang": {
-      "US": "The door will open in 20 seconds.",
-      "JP": "門番が20秒後に開門します",
+      "US": "The gate will open in 20 seconds",
+      "JP": "20秒後に扉が開きます",
       "CN": "| 门将在20秒后开启 |",
-      "KR": "직원분이 20초 후에 문을 열어 드릴 겁니다.",
-      "TW": "門將會在20秒後開啟"
+      "KR": "문이 20초 후 열립니다",
+      "TW": "20秒後門將開啟"
     }
   },
   "| 门将在20秒后打开 |": {
     "translation": "| 门将在20秒后打开 |",
     "MultiLang": {
-      "US": "The door will open in 20 seconds.",
-      "JP": "警備員が20秒後にドアを開けます",
+      "US": "The gate will open in 20 seconds",
+      "JP": "20秒後に扉が開きます",
       "CN": "| 门将在20秒后打开 |",
-      "KR": "직원분이 20초 후에 문을 열어드립니다.",
-      "TW": "門將會在20秒後打開"
+      "KR": "문이 20초 후 열립니다",
+      "TW": "20秒後門將打開"
     }
   },
   "| 门将在25秒后关闭 |": {
     "translation": "| 门将在25秒后关闭 |",
     "MultiLang": {
-      "US": "The door will close in 25 seconds.",
-      "JP": "門は25秒後に閉鎖されます。",
+      "US": "The gate will close in 25 seconds",
+      "JP": "25秒後に扉が閉じます",
       "CN": "| 门将在25秒后关闭 |",
-      "KR": "문지기가 25초 후에 닫힙니다.",
-      "TW": "門將會在25秒後關閉"
+      "KR": "문이 25초 후 닫힙니다",
+      "TW": "25秒後門將關閉"
     }
   },
   "| 门将在30秒后开启 |": {
     "translation": "| 门将在30秒后开启 |",
     "MultiLang": {
-      "US": "The door will open in 30 seconds.",
-      "JP": "門番が30秒後に開門します",
+      "US": "The gate will open in 30 seconds",
+      "JP": "30秒後に扉が開きます",
       "CN": "| 门将在30秒后开启 |",
-      "KR": "직원분이 30초 후에 문을 열어 드릴 겁니다.",
-      "TW": "門將會在30秒後開啟"
+      "KR": "문이 30초 후 열립니다",
+      "TW": "30秒後門將開啟"
     }
   },
   "| 门将在30秒后打开|": {
     "translation": "| 门将在30秒后打开|",
     "MultiLang": {
-      "US": "The door will open in 30 seconds.",
-      "JP": "門番が30秒後に開きます",
+      "US": "The gate opens in 30 seconds",
+      "JP": "30秒後に扉が開きます",
       "CN": "| 门将在30秒后打开|",
-      "KR": "직원분이 30초 후에 문을 열어 드릴 겁니다.",
-      "TW": "門將會在30秒後打開"
+      "KR": "문이 30초 후 열립니다",
+      "TW": "30秒後門將打開"
     }
   },
   "| 门已开启 |": {
     "translation": "| 门已开启 |",
     "MultiLang": {
-      "US": "Door opened",
-      "JP": "門が開かれている",
+      "US": "The gate is open",
+      "JP": "扉が開きました",
       "CN": "| 门已开启 |",
-      "KR": "문이 열렸다",
+      "KR": "문이 열렸습니다",
       "TW": "門已開啟"
     }
   },
   "| 门已打开 |": {
     "translation": "| 门已打开 |",
     "MultiLang": {
-      "US": "The door is open",
-      "JP": "門が開かれた",
+      "US": "The gate is open",
+      "JP": "扉が開きました",
       "CN": "| 门已打开 |",
-      "KR": "문이 열렸다",
+      "KR": "문이 열렸습니다",
       "TW": "門已打開"
     }
   },
   "| 门还有25秒关闭 |": {
     "translation": "| 门还有25秒关闭 |",
     "MultiLang": {
-      "US": "The door will close in 25 seconds.",
-      "JP": "門まであと25秒",
+      "US": "Door closing in 25 seconds",
+      "JP": "扉は25秒後に閉じます",
       "CN": "| 门还有25秒关闭 |",
-      "KR": "문이 25초 후에 닫힙니다.",
-      "TW": "門還有25秒關閉"
+      "KR": "문이 25초 후 닫힙니다",
+      "TW": "門將在25秒後關閉"
     }
   },
   "|人类墙与僵尸球类神器将在进入BOSS房后关闭|": {
     "translation": "|人类墙与僵尸球类神器将在进入BOSS房后关闭|",
     "MultiLang": {
-      "US": "The Human Wall and Zombie Orb Weapon will be disabled upon entering the BOSS room.",
-      "JP": "|人間の壁とゾンビボールの神器は、ボス部屋に入ると閉じます",
+      "US": "Human Wall and Zombie Ball artifacts will be deactivated upon entering the BOSS room",
+      "JP": "人間の壁とゾンビボールの神器はボス部屋に入ると無効化されます",
       "CN": "|人类墙与僵尸球类神器将在进入BOSS房后关闭|",
-      "KR": "인간 벽과 좀비 볼류서킷은 보스 룸에 진입하면 종료됩니다.",
-      "TW": "人類牆與僵屍球類神器將在進入BOSS房後關閉"
+      "KR": "人类 벽과 좀비 구형 신기물은 보스 방 진입 시 비활성화됩니다",
+      "TW": "人類牆與殭屍球類神器將在進入BOSS房後關閉"
     }
   },
   "啊哈哈..": {
     "translation": "啊哈哈..",
     "MultiLang": {
-      "US": "Haha... laugh",
-      "JP": "ああ哈哈..",
+      "US": "Ahaha..",
+      "JP": "あはは…",
       "CN": "啊哈哈..",
-      "KR": "하하하...",
+      "KR": "아하하..",
       "TW": "啊哈哈.."
     }
   },
@@ -803,9 +803,9 @@
     "translation": "嗯？",
     "MultiLang": {
       "US": "Huh?",
-      "JP": "え？",
+      "JP": "ん？",
       "CN": "嗯？",
-      "KR": "뭐?",
+      "KR": "음?",
       "TW": "嗯？"
     }
   },
@@ -813,9 +813,9 @@
     "translation": "",
     "MultiLang": {
       "US": "",
-      "JP": "アオライツ：リロード | Ver.スワン",
+      "JP": "Aoraitsu:Reload | Ver.Swan",
       "CN": "Aoraitsu:Reload | Ver.Swan",
-      "KR": "아오라이츠:리로드 | Ver.스완",
+      "KR": "Aoraitsu:Reload | Ver.Swan",
       "TW": "Aoraitsu:Reload | Ver.Swan"
     }
   },
@@ -823,50 +823,50 @@
     "translation": "",
     "MultiLang": {
       "US": "",
-      "JP": "Aoraitsu:リロード | Swan III",
-      "CN": "Aoraitsu:Reload | 天鹅 III",
-      "KR": "아오라이츠:리로드 | 스완 III",
-      "TW": "Aoraitsu:Reload | 天鵝III"
+      "JP": "Aoraitsu:Reload | Swan III",
+      "CN": "奥拉：重制 | 天鹅 III",
+      "KR": "Aoraitsu:Reload | Swan III",
+      "TW": "Aoraitsu:Reload | Swan III"
     }
   },
   ">> 护盾 冷却:60秒 持续:9秒 <<": {
     "translation": "",
     "MultiLang": {
-      "US": ">> Shield: Cooldown 60 seconds, Duration: 9 seconds <<",
-      "JP": ">> シールド 冷却:60秒 継続:9秒 <<",
+      "US": ">> Shield Cooldown: 60s Duration: 9s <<",
+      "JP": ">> シールド クールダウン:60秒 持続時間:9秒 <<",
       "CN": "",
-      "KR": ">> 보호막 쿨다운: 60초 지속: 9초 <<",
-      "TW": ">> 護盾 冷却:60秒 持续:9秒 <<"
+      "KR": ">> 방패 쿨타임: 60초 지속: 9초 <<",
+      "TW": ">> 護盾 冷卻:60秒 持續:9秒 <<"
     }
   },
   "item_ball pickup": {
     "translation": "",
     "MultiLang": {
       "US": "",
-      "JP": "item_ball ピックアップ",
-      "CN": "拾取道具：球",
-      "KR": "item_ball 획득",
+      "JP": "item_ball pickup",
+      "CN": "拾取球",
+      "KR": "item_ball pickup",
       "TW": "item_ball pickup"
     }
   },
   "| 推力 冷却:60秒 持续:9秒 |": {
     "translation": "",
     "MultiLang": {
-      "US": "| Thrust: Cooldown 60 seconds, Duration: 9 seconds |",
-      "JP": "推進力 冷却:60秒 継続:9秒",
+      "US": "| Thrust Cooldown: 60s Duration: 9s |",
+      "JP": "| 推力 クールダウン:60秒 持続時間:9秒 |",
       "CN": "",
-      "KR": "| 추진력 쿨다운: 60초 지속: 9초 |",
-      "TW": "| 推力 冷却:60秒 持续:9秒 |"
+      "KR": "| 추진력 쿨타임: 60초 지속: 9초 |",
+      "TW": "| 推力 冷卻:60秒 持續:9秒 |"
     }
   },
   "| OBJ 冷却:50秒 持续:8.5秒 |": {
     "translation": "",
     "MultiLang": {
-      "US": "| OBJ: Cooldown 50 seconds, Duration: 8.5 seconds |",
-      "JP": "オブジェクト 冷却:50秒 継続:8.5秒",
+      "US": "| OBJ Cooldown: 50s Duration: 8.5s |",
+      "JP": "| OBJ 冷却:50秒 持続:8.5秒 |",
       "CN": "",
-      "KR": "| 오브젝트 쿨다운: 50초 지속: 8.5초 |",
-      "TW": "| OBJ 冷却:50秒 持续:8.5秒 |"
+      "KR": "OBJ 냉각:50초 지속:8.5초 |",
+      "TW": "| 物件冷卻：50秒 持續：8.5秒 |"
     }
   }
 }

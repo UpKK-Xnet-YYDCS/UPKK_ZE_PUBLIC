@@ -52,21 +52,21 @@
   "★ 地图仍处于测试阶段，欢迎反馈bug和提供建议 ★": {
     "translation": "",
     "MultiLang": {
-      "US": "★ The map is still in testing phase. Please report bugs and provide suggestions. ★",
-      "JP": "★ 地図はまだテスト段階です。バグのご報告やご提案をお待ちしております ★",
+      "US": "* The map is still in testing, so please share bug reports and suggestions. *",
+      "JP": "★マップはテスト中です。バグ報告やご提案をどうぞ受付ます。★",
       "CN": "",
-      "KR": "★ 맵은 여전히 테스트 단계입니다. 버그 피드백과 제안을 환영합니다 ★",
-      "TW": "★ 地圖仍處於測試階段，歡迎回報 bug 和提供建議 ★"
+      "KR": "★ 맵은 여전히 테스트 중이며, 버그 신고와 제안을 환영합니다 ★",
+      "TW": "★ 地圖仍處於測試階段，歡迎回報 bug 並提供建議 ★"
     }
   },
   ">- Loading OBJ Mode ...": {
     "translation": "",
     "MultiLang": {
       "US": "",
-      "JP": ">- OBJ モードを読み込み中 ...",
-      "CN": "正在加载 OBJ 模式...",
+      "JP": ">- OBJモードをロード中...",
+      "CN": ">- 加载 OBJ 模式 ...",
       "KR": ">- OBJ 모드 로딩 중 ...",
-      "TW": ">- 載入 OBJ 模式 ..."
+      "TW": ">- 載入 OBJ 模式..."
     }
   },
   "< 防守直至传送启动 >": {
@@ -82,11 +82,11 @@
   "** 一位赤魔法师加入了队伍 **": {
     "translation": "",
     "MultiLang": {
-      "US": "** A Red Mage has joined the party **",
-      "JP": "** 赤魔法使いがパーティに加入しました **",
+      "US": "** Red Mage has joined the party **",
+      "JP": "** 赤魔術師が仲間になりました **",
       "CN": "",
-      "KR": "** 적색 마법사가 파티에 합류했습니다 **",
-      "TW": "** 一位赤法師加入了隊伍 **"
+      "KR": "** 적마법사 한 명이 가담했습니다 **",
+      "TW": "** 一位赤魔法師加入了隊伍 **"
     }
   },
   "< 防守直至道路畅通 >": {
@@ -112,11 +112,11 @@
   "** 困难关卡完成! **": {
     "translation": "",
     "MultiLang": {
-      "US": "** Hard stage completed! **",
-      "JP": "** ハードモードのクリア！ **",
+      "US": "** Hard Mode cleared! **",
+      "JP": "** ハードモードステージクリア！ **",
       "CN": "",
-      "KR": "** 난이도 높은 레벨을 완료했습니다! **",
-      "TW": "** 困難關卡完成! **"
+      "KR": "** 난이도 높은 클리어 완료! **",
+      "TW": "** 完成困難關卡！**"
     }
   },
   "< 极限模式 >": {
@@ -132,100 +132,100 @@
   "** 一位黑魔法师加入了队伍 **": {
     "translation": "",
     "MultiLang": {
-      "US": "** A Black Mage has joined the party **",
-      "JP": "** 黒魔法使いがパーティに加入しました **",
+      "US": "** Black Mage has joined the party **",
+      "JP": "** 黒魔術師が仲間になりました **",
       "CN": "",
-      "KR": "** 흑색 마법사가 파티에 합류했습니다 **",
-      "TW": "** 一位黑法師加入了隊伍 **"
+      "KR": "** 흑마법사 한 명이 가담했습니다 **",
+      "TW": "** 一位黑魔法師加入了隊伍 **"
     }
   },
   "** 一位占星术士加入了队伍 **": {
     "translation": "",
     "MultiLang": {
-      "US": "** An Astrologian has joined the party **",
-      "JP": "** 占星術師がパーティに加入しました **",
+      "US": "** Astrologian has joined the party **",
+      "JP": "** 占星术士が仲間になりました **",
       "CN": "",
-      "KR": "** 점성술사가 파티에 합류했습니다 **",
+      "KR": "** 점성술사 한 명이 가담했습니다 **",
       "TW": "** 一位占星術士加入了隊伍 **"
     }
   },
   ">* 零式波动炮 *<": {
     "translation": "",
     "MultiLang": {
-      "US": ">* Zero Fluctuation Cannon *<",
+      "US": ">* Zero Laser *<",
       "JP": ">* ゼロ式波動砲 *<",
       "CN": "",
-      "KR": ">* 제로식 파동포 *<",
+      "KR": ">* 제로 레이브 *<",
       "TW": ">* 零式波動炮 *<"
     }
   },
   ">* 暗之泛滥 *<": {
     "translation": "",
     "MultiLang": {
-      "US": ">* Dark Flood *<",
-      "JP": ">* ダーク・フレア *<",
+      "US": ">* Great Darkness *<",
+      "JP": ">* 暗黒の泛滥 *<",
       "CN": "",
       "KR": ">* 암흑의 홍수 *<",
-      "TW": ">* 暗之泛濫 *<"
+      "TW": ">* 暗之氾濫 *<"
     }
   },
   ">* 暗之战技 *<": {
     "translation": "",
     "MultiLang": {
-      "US": ">* Dark Martial Arts *<",
-      "JP": ">* 暗黒戦技 *<",
+      "US": ">* Dark Arts *<",
+      "JP": ">* 暗の戦技 *<",
       "CN": "",
-      "KR": ">* 어둠의 전술 *<",
-      "TW": ">* 暗之戰技 *<"
+      "KR": ">* 암의 전술 *<",
+      "TW": "> * 暗之战技 * <"
     }
   },
   ">* 广域波动炮 *<": {
     "translation": "",
     "MultiLang": {
-      "US": "* Wide-Area Wave Cannon *",
+      "US": "> * Wide Area Beam *",
       "JP": ">* 広域波動砲 *<",
       "CN": "",
       "KR": ">* 광역 파동포 *<",
-      "TW": ">* 廣域波動炮 *<"
+      "TW": "> * 廣域波動炮 * <"
     }
   },
   "侦测到内部水晶能量剧烈波动！只有破坏它我们才能暂时安全！": {
     "translation": "",
     "MultiLang": {
-      "US": "Internal crystal energy detected fluctuating violently! Only by destroying it can we be safe temporarily!",
-      "JP": "内部水晶のエネルギーが激しく揺れ動いている！破壊しなければ一時的安全は望めない！",
+      "US": "Crystals energy spike detected! We must destroy it to buy us some time!",
+      "JP": "内部のクリスタルから激しいエネルギー反応を検知！これを破壊するまで、一時的に安全だ！",
       "CN": "",
-      "KR": "내부 수정 에너지가 격렬하게 요동치고 있습니다! 그것을 파괴해야만 잠시나마 안전할 수 있습니다!",
+      "KR": "내부 수정의 에너지가 격렬하게 요동친다! 그것을 파괴해야만 잠시나마 안전할 것이다!",
       "TW": "偵測到內部水晶能量劇烈波動！只有破壞它我們才能暫時安全！"
     }
   },
   "子弹好像打不穿那道屏障！绕到她后面去！": {
     "translation": "",
     "MultiLang": {
-      "US": "The bullets seem unable to penetrate that barrier! Go around to her back!",
-      "JP": "弾丸ではそのバリアを貫けそうもない！彼女の背後から迂回せよ！",
+      "US": "Our bullets can't penetrate her barrier! Go around to her back!",
+      "JP": "弾がバリアを貫通しない！彼女の後ろにまわれ！",
       "CN": "",
-      "KR": "알아, 탄환은 그 장벽을 뚫지 못하네! 그녀의 뒤로 돌아가라!",
+      "KR": "탄환이屏障을 뚫지 못하는 것 같다! 그 너머로 우회하라!",
       "TW": "子彈好像打不穿那道屏障！繞到她後面去！"
     }
   },
   "你们成功了！那个水晶现在只是一堆烂石头了": {
     "translation": "",
     "MultiLang": {
-      "US": "You succeeded! That crystal is now just a pile of rotten stones.",
-      "JP": "お前たちは成功した！あの水晶は今はただの破片の山だ",
+      "US": "We did it! That crystal has been reduced to a pile of rubble!",
+      "JP": "成功だ！あのクリスタルはもうただの石頭になってしまった。",
       "CN": "",
-      "KR": "너희가 성공했군! 이제 그 수정은 그냥 썩은 돌덩이일 뿐이야.",
+      "KR": "성공이다! 그 수정은 이제 썩어버린 돌멩이에 불과하다.",
       "TW": "你們成功了！那個水晶現在只是一堆爛石頭了"
     }
   },
   "** 极限关卡完成! **": {
     "translation": "",
     "MultiLang": {
-      "US": "** Extreme Stage Complete! **",
-      "JP": "** 極限クリア **",
+      "US": "** Level Cleared! **",
+      "JP": "** 極限ステージクリア！ **",
       "CN": "",
-      "KR": "** 극한 클리어 완료! **",
+      "KR": "** 한계 클리어 달성! **",
       "TW": "** 極限關卡完成! **"
     }
   },
@@ -242,10 +242,10 @@
   "** 一位忍者加入了队伍 **": {
     "translation": "",
     "MultiLang": {
-      "US": "** A Ninja has joined the party **",
-      "JP": "** 忍者が仲間に加わった **",
+      "US": "** A Ninja has joined the party! **",
+      "JP": "** ニンジャ1名が隊員に加わった **",
       "CN": "",
-      "KR": "** 한 명의 닌자가 파티에 합류했습니다 **",
+      "KR": "** 닌자가 팀에 합류했습니다. **",
       "TW": "** 一位忍者加入了隊伍 **"
     }
   },
@@ -262,28 +262,28 @@
   "** 一位光之战士加入了队伍 **": {
     "translation": "",
     "MultiLang": {
-      "US": "** A Warrior of Light has joined the party **",
-      "JP": "** 光の戦士が仲間に加わった **",
+      "US": "** A Warrior of Light has joined the party! **",
+      "JP": "** 光の戦士1名が隊員に加わった **",
       "CN": "",
-      "KR": "** 한 명의 빛의 전사가 파티에 합류했습니다 **",
+      "KR": "** 한 명의 전사가 팀에 합류했습니다. **",
       "TW": "** 一位光之戰士加入了隊伍 **"
     }
   },
   "** 一位武士加入了队伍 **": {
     "translation": "",
     "MultiLang": {
-      "US": "** A Samurai has joined the party **",
-      "JP": "** 一人の武士が隊に加わりました **",
+      "US": "** A Samurai has joined the party! **",
+      "JP": "** 侍が隊に加わった **",
       "CN": "",
-      "KR": "** 한 명의 무사가 파티에 합류했습니다 **",
-      "TW": "** 一位武士加入了队伍 **"
+      "KR": "** 전사가 파티에 합류했습니다 **",
+      "TW": "** 一位武士加入了隊伍 **"
     }
   },
   ">* 暗影护盾 *<": {
     "translation": "",
     "MultiLang": {
-      "US": "* Shadow Shield *",
-      "JP": ">* シャドウシールド *<",
+      "US": ">* Shadow Shield *<",
+      "JP": ">* 影の盾 *<",
       "CN": "",
       "KR": ">* 그림자 방패 *<",
       "TW": ">* 暗影護盾 *<"
@@ -292,8 +292,8 @@
   ">* 梦魇 *<": {
     "translation": "",
     "MultiLang": {
-      "US": "* Nightmare *",
-      "JP": ">* ナイトメア *<",
+      "US": ">* Nightmare *<",
+      "JP": ">* 悪夢 *<",
       "CN": "",
       "KR": ">* 악몽 *<",
       "TW": ">* 夢魘 *<"
@@ -302,20 +302,20 @@
   ">* 虚空梦魇 *<": {
     "translation": "",
     "MultiLang": {
-      "US": "* Void Nightmare *",
-      "JP": ">* ヴォイドナイトメア *<",
+      "US": ">* Void Nightmare *<",
+      "JP": ">* 虚無の悪夢 *<",
       "CN": "",
-      "KR": ">*虚空 악몽*<",
+      "KR": ">* 허공의 악몽 *<",
       "TW": ">* 虛空夢魘 *<"
     }
   },
   ">* 虚空恐惧 *<": {
     "translation": "",
     "MultiLang": {
-      "US": "* Void Terror *",
-      "JP": ">* ヴォイドホラー *<",
+      "US": ">* Void Terror *<",
+      "JP": ">* 虚無の恐怖 *<",
       "CN": "",
-      "KR": ">*공허의 공포*<",
+      "KR": ">* 공허의 공포 *<",
       "TW": ">* 虛空恐懼 *<"
     }
   },
@@ -335,17 +335,17 @@
       "US": "That is...",
       "JP": "それは……",
       "CN": "",
-      "KR": "그것은……",
+      "KR": "그건...",
       "TW": "那是……"
     }
   },
   "** 零式关卡完成! **": {
     "translation": "",
     "MultiLang": {
-      "US": "** Zero Stage Complete! **",
-      "JP": "** ゼロステージ完了! **",
+      "US": "** Extreme Instance Cleared! **",
+      "JP": "** ゼロ式クリア！ **",
       "CN": "",
-      "KR": "** 제로 단계 완료! **",
+      "KR": "** 무난한 클리어! **",
       "TW": "** 零式關卡完成! **"
     }
   },
@@ -372,11 +372,11 @@
   "** 一位暗黑骑士加入了队伍 **": {
     "translation": "",
     "MultiLang": {
-      "US": "A Dark Knight has joined the party.",
-      "JP": "** 一位暗黒騎士がパーティーに加入しました **",
+      "US": "** An Dark Knight has joined the party **",
+      "JP": "** ダークナイトが隊に加わった **",
       "CN": "",
-      "KR": "** 어둠의 기사가 파티에 합류했습니다.**",
-      "TW": "** 一名暗影骑士加入了队伍 **"
+      "KR": "** 암흑 기사 파티에 합류했습니다 **",
+      "TW": "** 一位暗黑騎士加入了隊伍 **"
     }
   },
   ">* 究极恐惧 *<": {
@@ -386,37 +386,37 @@
       "JP": ">* 究極の恐怖 *<",
       "CN": "",
       "KR": ">* 궁극의 공포 *<",
-      "TW": ">* 究极恐惧 *<"
+      "TW": ">> 極致恐懼 <<"
     }
   },
   ">* 阴影直刺 *<": {
     "translation": "",
     "MultiLang": {
-      "US": ">* Shadow Piercer *<",
-      "JP": ">* 影の直接攻撃 *<",
+      "US": ">* Shadow Strike *<",
+      "JP": ">* 陰影の一刺し *<",
       "CN": "",
-      "KR": ">* 그림자 직격 *<",
-      "TW": ">* 阴影直刺 *<"
+      "KR": ">* 그림자 창살 *<",
+      "TW": ">> 暗影穿刺 <<"
     }
   },
   ">* 虚空之惊 *<": {
     "translation": "",
     "MultiLang": {
       "US": ">* Void Shock *<",
-      "JP": ">* 虚空の衝撃 *<",
+      "JP": ">* 虚無の驚き *<",
       "CN": "",
-      "KR": ">* 공허의 충격 *<",
-      "TW": ">* 虚空之惊 *<"
+      "KR": ">*> 공허의 충격 *<",
+      "TW": ">> 虛空之驚 <<"
     }
   },
   ">* 虚空暗夜 *<": {
     "translation": "",
     "MultiLang": {
-      "US": ">* Void Night *<",
+      "US": ">* Void Nightfall *<",
       "JP": ">* 虚空の暗夜 *<",
       "CN": "",
-      "KR": ">* 공허의 어둠 *<",
-      "TW": ">* 虚空暗夜 *<"
+      "KR": ">* 공허의 암흑 *<",
+      "TW": ">> 虛空永夜 <<"
     }
   },
   "< 湮与噬的归零奇点已准备随时坍缩 >": {
@@ -432,21 +432,21 @@
   "蝶舞编织的通路下似乎有什么秘密……": {
     "translation": "",
     "MultiLang": {
-      "US": "There seems to be a secret hidden beneath the path woven by butterflies...",
-      "JP": "蝶が舞う通路の下には、何か秘密があるようだ……",
+      "US": "There seems to be a secret beneath the path woven by the dancing butterflies...",
+      "JP": "蝶々が舞い織る通路の下には、どこか秘密がありそうだ……",
       "CN": "",
-      "KR": "나비 춤으로 짜여진 통로 아래에는 어떤 비밀이 숨겨져 있는 듯합니다...",
-      "TW": "在蝶舞编织的通道下，似乎隐藏着某种秘密……"
+      "KR": "나비 춤길 아래에 무슨 비밀이 숨겨진 듯하다……",
+      "TW": "在蝴蝶之舞編織的通路下，似乎隱藏著某種秘密……"
     }
   },
   "** 一位学者加入了队伍 **": {
     "translation": "",
     "MultiLang": {
-      "US": "A Scholar has joined the party.",
-      "JP": "** 一人の学者（スクーラー）がパーティーに加入しました **",
+      "US": "** A scholar has joined the party **",
+      "JP": "** 一人の学者が仲間に加わった **",
       "CN": "",
-      "KR": "** 학자가 파티에 합류했습니다.**",
-      "TW": "** 一名学者加入了队伍 **"
+      "KR": "** 한 명의 학자가 합류했습니다. **",
+      "TW": "** 一名學者加入了隊伍 **"
     }
   },
   "< 啸与泣的灭世罡风即将扯碎天幕 >": {
@@ -472,11 +472,11 @@
   "** 阴云正在重新聚集 **": {
     "translation": "",
     "MultiLang": {
-      "US": "Dark clouds are gathering again.",
-      "JP": "暗雲が再び集まっている",
+      "US": "** Dark clouds are gathering again **",
+      "JP": "** 暗雲が再び湧き上がっている **",
       "CN": "",
-      "KR": "어둠의 구름이 다시 모이고 있습니다.",
-      "TW": "陰雲正在重新聚集"
+      "KR": "** 먹구름이 다시 모여들고 있다. **",
+      "TW": "** 陰雲正重新聚集 **"
     }
   },
   "< 欲与惑的奴役种子已疾驰待命 >": {
@@ -492,20 +492,20 @@
   ">* 暗夜恐惧 *<": {
     "translation": "",
     "MultiLang": {
-      "US": "Nightmare Terror",
-      "JP": ">*暗夜の恐怖*<",
+      "US": ">* Night Terror *<",
+      "JP": ">* 暗夜の恐怖 *<",
       "CN": "",
-      "KR": "어둠의 공포",
-      "TW": ">* 暗夜恐惧 *<"
+      "KR": ">* 암흑 공포 *<",
+      "TW": ">> 永夜恐懼 <<"
     }
   },
   "** 冥狱的魔神已从深渊中归来 **": {
     "translation": "",
     "MultiLang": {
-      "US": "The demon god of the Underworld has returned from the abyss.",
-      "JP": "冥獄の魔神が深淵から帰還した",
+      "US": "** The demon lord of the underworld has returned from the abyss **",
+      "JP": "** 冥獄の魔神が深淵より甦る **",
       "CN": "",
-      "KR": "망령의 악신이 심연에서 돌아왔습니다.",
+      "KR": "** 심연의 마신이 다시 부활했습니다**",
       "TW": "冥獄的魔神已從深淵中歸來"
     }
   },
@@ -513,19 +513,19 @@
     "translation": "",
     "MultiLang": {
       "US": "",
-      "JP": "Savage",
-      "CN": "狂野",
-      "KR": "야생의",
-      "TW": "Savage"
+      "JP": "サベージ",
+      "CN": "**野蛮**",
+      "KR": "**야수**",
+      "TW": "野蠻人"
     }
   },
   "**Omega**": {
     "translation": "",
     "MultiLang": {
       "US": "",
-      "JP": "Omega",
-      "CN": "欧米茄",
-      "KR": "오메가",
+      "JP": "オメガ",
+      "CN": "**欧米茄**",
+      "KR": "**오메가**",
       "TW": "Omega"
     }
   },
@@ -542,11 +542,11 @@
   "** 鬼眼于虚无中复生 **": {
     "translation": "",
     "MultiLang": {
-      "US": "",
-      "JP": "",
+      "US": "** Ghost Eye Revives from the Void **",
+      "JP": "** 鬼眼が虚無より甦る **",
       "CN": "",
-      "KR": "",
-      "TW": ""
+      "KR": "** 악귀의 눈이 허무에서 되살아났다**",
+      "TW": "鬼眼於虛無中復生"
     }
   }
 }

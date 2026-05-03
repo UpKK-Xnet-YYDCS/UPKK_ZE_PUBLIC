@@ -2,30 +2,30 @@
   ">>map by 熵<<": {
     "translation": "",
     "MultiLang": {
-      "US": ">>Map by Entropy<<",
-      "JP": ">>地図 by 熵<<",
+      "US": ">>Map by 熵<<",
+      "JP": ">>map by 熵<<",
       "CN": ">>地图由 熵 制作 <<",
-      "KR": ">>지도 제작: 熵<<",
-      "TW": ">>地圖由 熵 製作 <<"
+      "KR": ">>맵 작성자: 熵<<",
+      "TW": ">>地圖作者：熵<<"
     }
   },
   "非常感谢exg社区的各位为测试本图所做出的贡献！祝你玩得开心！！！": {
     "translation": "",
     "MultiLang": {
-      "US": "Thank you very much to all the members of the exg community for your contributions to testing this image! Have fun!!!",
-      "JP": "テスト地図の作成にご協力いただいたexgコミュニティの皆様、誠にありがとうございました！どうか楽しんでください！！！",
+      "US": "A big thank you to the exg community for your contributions in testing this map! Hope you have a great time playing!",
+      "JP": "exgコミュニティの皆様にこのマップのテストにご協力いただいたことに心より感謝します！楽しんでください！！！",
       "CN": "",
-      "KR": "exg커뮤니티 여러분, 테스트에 참여해주셔서 정말 감사합니다! 즐겁게 플레이하세요!!!!",
-      "TW": "非常感謝exg社區的各位為測試本圖所做出的貢獻！祝你玩得開心！！！"
+      "KR": "exg 커뮤니티의 여러분께서 이 맵 테스트에 기여해 주셔서 진심으로 감사드립니다! 즐거운 게임 되세요!!!",
+      "TW": "衷心感謝 exg 社群各位對本圖測試所付出的貢獻！祝大家遊玩愉快！"
     }
   },
   "20s": {
     "translation": "",
     "MultiLang": {
       "US": "",
-      "JP": "20代",
+      "JP": "20秒後",
       "CN": "20秒",
-      "KR": "20대",
+      "KR": "20초",
       "TW": "20秒"
     }
   },
@@ -33,7 +33,7 @@
     "translation": "",
     "MultiLang": {
       "US": "",
-      "JP": "40代",
+      "JP": "40秒後",
       "CN": "40秒",
       "KR": "40초",
       "TW": "40秒"
@@ -43,140 +43,140 @@
     "translation": "",
     "MultiLang": {
       "US": "",
-      "JP": "15秒tp",
-      "CN": "15秒 tp",
+      "JP": "15秒後にテレポート",
+      "CN": "传送至15秒",
       "KR": "15초 tp",
-      "TW": "15秒跳轉"
+      "TW": "15秒传送"
     }
   },
   ">>boss出现了！我们只有两分钟的时间！！！快击败他！！<<": {
     "translation": ">>boss出现了！我们只有120秒的时间！！！快击败他！！<<",
     "MultiLang": {
-      "US": ">>The boss appeared! We only have two minutes!!! Quickly defeat him!!<<",
-      "JP": ">>ボスが現れた！我々には2分しかない！！早く倒せ！！<<",
+      "US": ">>Boss has appeared! We only have two minutes left! Defeat him quickly!!<<",
+      "JP": ">>ボスが出現！残り2分！！早急に倒せ！！！<<",
       "CN": ">>boss出现了！我们只有120秒的时间！！！快击败他！！<<",
-      "KR": ">>보스가 등장했다! 우리는 단 두 분밖에 시간이 없다! 빨리 그를 물리쳐라!!<<",
-      "TW": ">>>老大出现了！我们只有两分钟的时间！！！快击败他 <<<"
+      "KR": ">>보스가 등장했습니다! 우리는 2분밖에 없습니다! 빨리 그를 물리치세요!!<<",
+      "TW": ">>BOSS出現了！我們只剩兩分鐘！！快擊敗他！！<<"
     }
   },
   ">>boss死了！！僵尸出笼！有序撤退！！！！<<": {
     "translation": "",
     "MultiLang": {
-      "US": ">>The boss is dead!! Zombies are rising! Orderly retreat!<<<<",
-      "JP": ">>ボス倒れた！！ゾンビ出現！秩序ある撤退！！！！<<",
+      "US": ">>Boss defeated! Zombies released! Retreat in an orderly manner!!!!<<",
+      "JP": ">>ボス撃破！ゾンビ解除！！整理して退避せよ！！！！<<",
       "CN": ">>老板死了！！僵尸出笼！有序撤退！！！！<<",
-      "KR": ">>보스 죽었어!! 좀비 출동!! 정연 퇴각!!!!<<",
-      "TW": ">>老大死了！！殭屍出籠！有序撤退！！！！<<"
+      "KR": ">>보스가 사망했습니다!! 좀비가 풀려나왔습니다! 질서 있게 후퇴하세요!!!!!<<",
+      "TW": ">>BOSS已殲滅！喪屍出籠！有序撤退！！！！<<"
     }
   },
   "30s 全体传送！": {
     "translation": "",
     "MultiLang": {
-      "US": "30s Full Heal!",
-      "JP": "30秒 全体传送！",
+      "US": "Teleporting everyone in 30s!",
+      "JP": "30秒後に全員テレポート！",
       "CN": "30秒 全体传送！",
-      "KR": "30초 전체 소환!",
-      "TW": "30秒 全体传送！"
+      "KR": "30초 전체 텔레포트!",
+      "TW": "30秒全體傳送！"
     }
   },
   "30s 门开！10s传送！": {
     "translation": "",
     "MultiLang": {
-      "US": "30s door open! 10s teleport!",
-      "JP": "30秒 门开！10秒 传送！",
+      "US": "Gate opening in 30s! Teleporting in 10s!",
+      "JP": "30秒後にドア開放！10秒後にテレポート！",
       "CN": "30秒 门打开！10秒传送！",
-      "KR": "30초 门打开！10초 이동(传送)!",
-      "TW": "30秒門開！10秒傳送！"
+      "KR": "30초 후 문 개방! 10초 후 텔레포트!",
+      "TW": "30秒後門開啟！10秒後傳送！"
     }
   },
   "我们在更衣室找到了一张设施员工林燕的工作牌！或许他能带领我们在这个地方畅通无阻！": {
     "translation": "",
     "MultiLang": {
-      "US": "We found Lin Yan's staff badge in the locker room! He might be able to guide us through this place without obstacles!",
-      "JP": "更衣室で施設スタッフのリン・ヤンの名札を見つけました！彼なら、この場所でスムーズに進めるかもしれません！",
+      "US": "We found an employee badge for Lin Yan of the facility in the locker room! Perhaps it can help us navigate this place without any obstacles!",
+      "JP": "更衣室から施設スタッフの林燕の社員証が見つかった！これでこの場所をスムーズに移動できるはずだ！",
       "CN": "",
-      "KR": "수영장 changing room에서 시설 직원 임연의 이름이 적힌 이름표를 찾았다! 아마도 그는 이곳에서 우리를 자유롭게 움직일 수 있도록 도와줄 수 있을 것이다!",
-      "TW": "我们在更衣室找到了一张設施員工林燕的工作牌！或許他能帶領我們在這個地方暢通無阻！"
+      "KR": "탈의실에서 시설 직원 린옌의 근무증을 발견했습니다! 아마도 그가 우리를 이곳에서 원활하게 안내해 줄 것입니다!",
+      "TW": "我們在更衣室找到了一張設施員工林燕的工作證！或許他能帶領我們在這裡暢通無阻！"
     }
   },
   "成功了！门开始移动了！！林燕不愧是权王！！！": {
     "translation": "",
     "MultiLang": {
-      "US": "It worked! The door is moving!! Lin Yan truly is the Sovereign of Authority!!",
-      "JP": "成功した！ドアが動き始めた！！リンヤンは権王にふさわしい！！！",
+      "US": "Success! The gate is moving!! Lin Yan truly deserves the title of King of Privileges!!!",
+      "JP": "成功した！ドアが動き始めた！！林燕はさすが権王だ。",
       "CN": "",
-      "KR": "성공했어! 문이 움직이기 시작했어!! 林燕은 정말 권왕이네!!!",
+      "KR": "성공이다! 문이 움직이기 시작한다!! 린옌은 역시 권왕 중의 왕이야!!!",
       "TW": "成功了！門開始移動了！！林燕不愧是權王！！！"
     }
   },
   "灭火器已经被拿到！坚持住！我们需要把通风管道的火焰灭掉才能通过！": {
     "translation": "",
     "MultiLang": {
-      "US": "The fire extinguisher has been retrieved! Hold on! We need to put out the flames in the ventilation duct before we can pass!",
-      "JP": "消火器を回収した！耐えろ！換気ダクトの炎を消さないと通れない！",
+      "US": "The fire extinguisher has been retrieved! Hang in there! We need to put out the fire in the ventilation shaft to proceed!",
+      "JP": "消火器を持って来た！我慢してくれ！換気口の火を消さないと通過できない！",
       "CN": "",
-      "KR": "소방기구가 가져갔어! 버텨! 환기구의 불을 끄고 통과해야 해!",
-      "TW": "滅火器被拿走了！堅持住！我們需要把通風管道的火焰滅掉才能通過！"
+      "KR": "소화기를 확보했습니다! 버텨주세요! 환기구 내부의 불길을 제거해야 통과할 수 있습니다!",
+      "TW": "滅火器已拿到！堅持住！我們必須撲滅通風管道的火焰才能通過！"
     }
   },
   "灭火器已经使用！火焰已经熄灭！快撤退！": {
     "translation": "",
     "MultiLang": {
       "US": "The fire extinguisher has been used! The flames are out! Retreat quickly!",
-      "JP": "消火器を使用しました！炎が消えました！すぐに撤退しましょう！",
+      "JP": "消火器の使用完了！火は消えた！すぐに撤退だ！",
       "CN": "",
-      "KR": "소화기 사용 완료! 불길이 꺼졌습니다! 즉시 퇴각하세요!",
-      "TW": "滅火器已使用！火焰已熄滅！快撤退！"
+      "KR": "소화기 사용 완료! 불길 진압 성공! 신속하게 후퇴하세요!",
+      "TW": "滅火器已使用！火焰已熄滅！快撤離！"
     }
   },
   "坚持住！电梯还有30s才能启动！": {
     "translation": "",
     "MultiLang": {
-      "US": "Hold on! The elevator will start in 30s!",
-      "JP": "坚持住！エレベーターが30秒後に起動します！",
+      "US": "Hang in there! The elevator will start in 30s!",
+      "JP": "我慢してくれ！エレベーター起動まであと30秒！",
       "CN": "",
-      "KR": "버텨! 엘리베이터는 30초 후에 작동할 거야!",
+      "KR": "버텨주세요! 엘리베이터 가동까지 30초 남았습니다!",
       "TW": "堅持住！電梯還有30秒才能啟動！"
     }
   },
   "坚持住！10秒后电梯上升！": {
     "translation": "",
     "MultiLang": {
-      "US": "Hold on! The elevator will rise in 10 seconds!",
-      "JP": "坚持住！10秒後にエレベーターが上昇します！",
+      "US": "Hang in there! The elevator will ascend in 10 seconds!",
+      "JP": "我慢してくれ！10秒後にエレベーターが上昇する！",
       "CN": "",
-      "KR": "버텨! 10초 후 엘리베이터 상승!",
+      "KR": "버텨주세요! 10초 후 엘리베이터 상승!",
       "TW": "堅持住！10秒後電梯上升！"
     }
   },
   "火焰已经被灭火器熄灭！": {
     "translation": "",
     "MultiLang": {
-      "US": "The flames have been extinguished by the fire extinguisher!",
-      "JP": "火は消火器で消滅した！",
+      "US": "The fire has been extinguished by the fire extinguisher!",
+      "JP": "消火器で火は消えた！",
       "CN": "",
-      "KR": "불은 소화기로 진화되었습니다!",
-      "TW": "火焰已經被滅火器熄滅！"
+      "KR": "소화기로 불길 진압 완료!",
+      "TW": "火焰已被滅火器熄滅！"
     }
   },
   "梯子将在15s后解锁！": {
     "translation": "",
     "MultiLang": {
-      "US": "The ladder will unlock in 15s!",
-      "JP": "梯子が15秒後にアンロック！",
+      "US": "The ladder will be unlocked in 15s!",
+      "JP": "はしごは15秒後に解放されます！",
       "CN": "",
-      "KR": "계단이 15초 후에 해제됩니다!",
-      "TW": "梯子將在15秒後解鎖！"
+      "KR": "사다리가 15초 후 해제됩니다!",
+      "TW": "梯子在15秒後解鎖！"
     }
   },
   "梯子将在5s后解锁！": {
     "translation": "",
     "MultiLang": {
-      "US": "The ladder will unlock in 5s!",
-      "JP": "梯子が5秒後にアンロックされます！",
+      "US": "The ladder will be unlocked in 5s!",
+      "JP": "はしごは5秒後に解放されます！",
       "CN": "",
-      "KR": "계단이 5초 후에 잠금 해제됩니다!",
-      "TW": "梯子將在5秒後解鎖！"
+      "KR": "사다리가 5초 후 해제됩니다!",
+      "TW": "梯子在5秒後解鎖！"
     }
   },
   "电梯将在30s后上升！": {
@@ -185,8 +185,8 @@
       "US": "The elevator will ascend in 30s!",
       "JP": "エレベーターは30秒後に上昇します！",
       "CN": "",
-      "KR": "에 엘리베이터가 30초 후에 올라갈 것입니다!",
-      "TW": "電梯將在30秒後上升！"
+      "KR": "엘리베이터가 30초 후 상승합니다!",
+      "TW": "電梯在30秒後上升！"
     }
   },
   "电梯将在5s后上升！": {
@@ -195,66 +195,66 @@
       "US": "The elevator will ascend in 5s!",
       "JP": "エレベーターは5秒後に上昇します！",
       "CN": "",
-      "KR": "엘리베이터는 5초 후에 올라갈 것입니다!",
-      "TW": "電梯將在5秒後上升！"
+      "KR": "엘리베이터가 5초 후 상승합니다!",
+      "TW": "電梯在5秒後上升！"
     }
   },
   "消防系统将在30秒后启动！": {
     "translation": "",
     "MultiLang": {
       "US": "The fire suppression system will activate in 30 seconds!",
-      "JP": "消防システムは30秒後に起動します！",
+      "JP": "消防システムは30秒後に作動します！",
       "CN": "",
-      "KR": "화재 경보 시스템이 30초 후에 작동합니다!",
+      "KR": "소방 시스템이 30초 후 작동합니다!",
       "TW": "消防系統將在30秒後啟動！"
     }
   },
   "坚持住！10秒后火焰熄灭！": {
     "translation": "",
     "MultiLang": {
-      "US": "Hold on! The flames will be extinguished in 10 seconds!",
-      "JP": "坚持住！10秒後に炎が消える！",
+      "US": "Hold on! The flames will be extinguished in 10s!",
+      "JP": "がんばって！10秒後に消火されます！",
       "CN": "",
-      "KR": "버텨! 10초 후에 불이 꺼질 거야!",
+      "KR": "버텨주세요! 10초 후 화재 진압!",
       "TW": "堅持住！10秒後火焰熄滅！"
     }
   },
   "奶神器已经被拾取！": {
     "translation": "",
     "MultiLang": {
-      "US": "The Healing Artifact has been picked up!",
-      "JP": "神器が回収された！",
+      "US": "Milk Artifact has been picked up!",
+      "JP": "ミルク神器はすでに回収されました！",
       "CN": "神器已被拾取！",
-      "KR": "신기물을 획득했습니다!",
-      "TW": "神器已被拾取！"
+      "KR": "우유神器이 이미 수집되었습니다!",
+      "TW": "已拾取乳神道具！"
     }
   },
   ">>奶神器已使用！！冷却时间60s！<<": {
     "translation": "",
     "MultiLang": {
-      "US": "Milk Artifact has been used!! Cooldown time: 60s!",
-      "JP": ">>乳神神器已使用！！冷却时间60秒！<<",
+      "US": ">>Milk Artifact used!! Cooldown 60s!<<",
+      "JP": ">>ミルク神器が使用されました！クールダウン60秒！<<",
       "CN": "",
-      "KR": ">>우유 신기법 사용 완료!! 냉각 시간 60초!<<",
-      "TW": ">>奶神器已使用！！冷却時間60s！<<"
+      "KR": ">>우유神器 사용 완료!! 쿨타임 60초!<<",
+      "TW": ">>乳神道具已使用！！冷卻時間60秒！<<"
     }
   },
   ">>奶神器冷却结束！<<": {
     "translation": "",
     "MultiLang": {
-      "US": ">>Healing Artifact cooldown complete!<<",
-      "JP": ">>牛乳神器冷却结束！<<",
+      "US": ">>Milk Artifact cooldown finished!<<",
+      "JP": ">>神獣の冷却終了！<<",
       "CN": "",
-      "KR": ">>모츠 쿨다운 종료!<<",
-      "TW": ">> 奶神器冷卻結束！<<"
+      "KR": ">>유물 쿨타임 종료!<<",
+      "TW": ">>奶神器冷卻結束！<<"
     }
   },
   ">>60s<<": {
     "translation": "",
     "MultiLang": {
       "US": "",
-      "JP": ">>60代<<",
-      "CN": ">>60秒<<",
+      "JP": ">>60秒<<",
+      "CN": "<<60秒>>",
       "KR": ">>60초<<",
       "TW": ">>60秒<<"
     }
@@ -262,19 +262,19 @@
   ">>>我要玩obj！！！！！！！！<<<": {
     "translation": "",
     "MultiLang": {
-      "US": ">>>I want to play obj! ! ! ! ! <<<",
-      "JP": ">>>objをプレイしたいです！！！！<<<",
+      "US": ">>>I want to play obj!!!!!!!!!!!!<<<",
+      "JP": ">>>objプレイしたい！！！！！！！！！<<<",
       "CN": "",
-      "KR": ">>>나 obj 플레이하고 싶어!<<<<",
-      "TW": ">>>我要玩物件！！！！！！！！<<<"
+      "KR": ">>>내가 obj 해봐!!!!!!<<<",
+      "TW": ">>>我要玩obj！！！！！！！！<<<"
     }
   },
   ">>15s<<": {
     "translation": "",
     "MultiLang": {
       "US": "",
-      "JP": ">>15s<< (このテキストは日本語で記述されていません。翻訳は不可能で、原文をそのまま残す必要があります。)",
-      "CN": ">>15秒<<",
+      "JP": ">>15秒<<",
+      "CN": "<<15秒>>",
       "KR": ">>15초<<",
       "TW": ">>15秒<<"
     }
@@ -283,8 +283,8 @@
     "translation": "",
     "MultiLang": {
       "US": "",
-      "JP": ">>5歳<<",
-      "CN": ">>5秒<<",
+      "JP": ">>5秒<<",
+      "CN": "<<5秒>>",
       "KR": ">>5초<<",
       "TW": ">>5秒<<"
     }
@@ -292,80 +292,80 @@
   "秒杀神器已经被拾取！120s冷却！秒杀周围一定范围内的僵尸！": {
     "translation": "",
     "MultiLang": {
-      "US": "Assault Weapon has been picked up! 120s cooldown! Execute zombies within a certain range!",
-      "JP": "秒殺神器を回収しました！120秒のクールダウン！周囲の一定範囲内のゾンビを瞬殺！",
+      "US": "Instant Kill Artifact has been picked up! 120s cooldown! Instantly kills zombies within a certain range!",
+      "JP": "瞬殺神器が拾われました！冷却時間120秒！周囲のゾンビを一撃で倒します！",
       "CN": "",
-      "KR": "핵심 파괴 유물 발견! 120초 냉각! 주변 일정 범위 내의 僵尸를 파괴!",
-      "TW": "秒殺神器已被拾取！120秒冷卻！秒殺周圍一定範圍內的殭屍！"
+      "KR": "원타임 유물을 획득했습니다! 120초 쿨타임! 주변 일정 범위의 좀비를 즉사시킵니다!",
+      "TW": "秒杀神器已被拾取！120秒冷卻！消滅範圍內的一定距離的殭屍！"
     }
   },
   "火神器已经被拾取！60s冷却！": {
     "translation": "",
     "MultiLang": {
-      "US": "Fire Artifact has been picked up! 60s cooldown!",
-      "JP": "火神器は拾取されました！60秒クールダウン！",
+      "US": "The Fire Divine Artifact has been picked up! 60s cooldown!",
+      "JP": "火神神器が拾われました！冷却時間60秒！",
       "CN": "",
-      "KR": "화신기는 이미 수집되었습니다! 60초 냉각!",
-      "TW": "火神神器已被拾取！60秒冷却！"
+      "KR": "불 유물을 획득했습니다! 60초 쿨타임!",
+      "TW": "火神器已被拾取！60秒冷卻！"
     }
   },
   ">>火神器已使用！冷却60s！！！<<": {
     "translation": "",
     "MultiLang": {
-      "US": "Fire Artifact has been used! Cooldown: 60s!!!",
-      "JP": ">>炎の神器を使用しました！冷却60秒！！！<<",
+      "US": ">>Fire Divine Artifact used! Cooldown: 60s!!!<<",
+      "JP": ">>火神神器を使用しました！冷却60秒！！！<<",
       "CN": "",
-      "KR": ">>불의 유물(神器) 사용 완료! 냉각 시간: 60초 !!!<<",
-      "TW": ">> 火神器已使用！冷卻60秒！！！<<"
+      "KR": ">>불 유물 사용됨! 쿨타임 60초!!!<<",
+      "TW": ">>火神器已使用！冷卻60秒！！！<<"
     }
   },
   ">>火神器冷却完成！<<": {
     "translation": "",
     "MultiLang": {
-      "US": ">>Fire Artifact cooldown complete!<<",
-      "JP": ">>火属性神器の冷却が完了しました！<<",
+      "US": ">>Fire Divine Artifact cooldown complete!<<",
+      "JP": "火神器のクールダウン完了！",
       "CN": "",
-      "KR": ">>불의 유물 냉결 완료!<<",
+      "KR": ">>불의 신기冷却 완료!<<",
       "TW": ">>火神器冷卻完成！<<"
     }
   },
   ">>秒杀神器已使用！！冷却时间120s！<<": {
     "translation": "",
     "MultiLang": {
-      "US": "Assassination Artifact has been used!! Cooldown time: 120s!",
-      "JP": ">>即死神器を使用しました！！冷却時間120秒！<<",
+      "US": ">>Instant Kill Divine Artifact used!! Cooldown: 120s!<<",
+      "JP": "連撃神器を使用しました！ クールダウン120秒！",
       "CN": "",
-      "KR": ">>매치메이커 오브(神器) 사용 완료!! 쿨타임 120초!<<",
-      "TW": ">>秒殺神器已使用！！冷卻時間120秒！<<"
+      "KR": ">>즉살신 사용!!冷却시간120s!<<",
+      "TW": ">>秒殺神器已使用！！冷卻時間120s！<<"
     }
   },
   ">>秒杀神器冷却结束！<<": {
     "translation": "",
     "MultiLang": {
-      "US": ">>Instant Kill Artifact cooldown complete!<<",
-      "JP": ">>秒殺神器のクールダウン終了！<<",
+      "US": ">>Instant Kill Divine Artifact cooldown finished!<<",
+      "JP": "連撃神器のクールダウン完了！",
       "CN": "",
-      "KR": ">>매치메이커 냉기 종료!<<",
+      "KR": ">>즉살신冷却완료!<<",
       "TW": ">>秒殺神器冷卻結束！<<"
     }
   },
   ">>驾驶员已就位！将在五秒后启动！<<": {
     "translation": "",
     "MultiLang": {
-      "US": ">> Pilot in position! Launching in 5 seconds! <<",
-      "JP": ">>パイロット搭乗完了！5秒後に発進開始！<<",
+      "US": ">>Driver in position! Launching in five seconds!<<",
+      "JP": "操縦士配置完了！5秒後に起動します。",
       "CN": "",
-      "KR": ">> 조종사 대기 완료! 5초 후 발사 예정! <<",
-      "TW": ">>駕駛員已就位！五秒後啟動！<<"
+      "KR": ">>조종사 대기!5초 후 엔진 가동!<<",
+      "TW": ">>駕駛員已就位！將在五秒後啟動！<<"
     }
   },
   "刀": {
     "translation": "",
     "MultiLang": {
-      "US": "Sword",
-      "JP": "日本刀",
+      "US": "Blade",
+      "JP": "刀",
       "CN": "",
-      "KR": "칼",
+      "KR": "칼날",
       "TW": "刀"
     }
   },
@@ -373,60 +373,60 @@
     "translation": "",
     "MultiLang": {
       "US": "Left Fire",
-      "JP": "左側火災",
+      "JP": "左側火器",
       "CN": "",
-      "KR": "왼쪽 화염",
-      "TW": "左方火力全開"
+      "KR": "좌측 발사",
+      "TW": "左邊火"
     }
   },
   "天坠！": {
     "translation": "",
     "MultiLang": {
-      "US": "Heavenfall!",
-      "JP": "天坠！",
+      "US": "Heaven's Fall!",
+      "JP": "天からの降臨！",
       "CN": "",
-      "KR": "천坠!",
+      "KR": "천추!",
       "TW": "天墜！"
     }
   },
   "右边火": {
     "translation": "",
     "MultiLang": {
-      "US": "Right Fire",
-      "JP": "右側火災",
+      "US": "Fire on the right",
+      "JP": "右側火器",
       "CN": "",
-      "KR": "오른쪽 화염",
-      "TW": "右方火力全開"
+      "KR": "우측 발사",
+      "TW": "右邊火"
     }
   },
   "有僵尸存活！人类延迟两秒传送！！！！": {
     "translation": "",
     "MultiLang": {
-      "US": "Zombie survivor detected! Humanity teleport delayed by 2 seconds!!!!!!",
-      "JP": "ゾンビ生存者確認！人類のトランスポート開始まで2秒遅延！！！！",
+      "US": "Zombie survivors detected! Teleport humans with 2-second delay!!!!",
+      "JP": "ゾンビが生きています！人類は2秒後に転送されます！！！！",
       "CN": "",
-      "KR": "좀비 생존 확인! 인류 전송 2초 지연!!",
-      "TW": "有殭屍存活！人類延遲兩秒傳送！"
+      "KR": "좀비가 생존했습니다! 인간은 2초 후 텔레포트됩니다!!!!",
+      "TW": "有倖存殭屍！人類延遲兩秒傳送！！！！"
     }
   },
   "35s门开！": {
     "translation": "",
     "MultiLang": {
-      "US": "Doors open in 35s!",
-      "JP": "35秒後ドア開放！",
+      "US": "Gate opens in 35s!",
+      "JP": "35秒で扉が開く！",
       "CN": "",
-      "KR": "35초 후 문 개방!",
-      "TW": "35秒後門開！"
+      "KR": "35초 후 문이 열립니다!",
+      "TW": "35秒後門打開！"
     }
   },
   ">>快看！是林逸号火箭！我们有救了！这是个疯狂的计划！！！<<": {
     "translation": "",
     "MultiLang": {
-      "US": ">> Look! It's the Yi-lin Rocket! We're saved! This is a crazy plan!!!!!",
-      "JP": ">>見ろ！それはイ・リノロケットだ！俺たちは助かった！狂ったような計画だけど、成功する！！！<<",
+      "US": ">>Look! It's the Lin Yi rocket! We're saved! This is a crazy plan!!!!<<",
+      "JP": ">>見て！逸林号ロケットだ！私たちは助かったぞ！これは狂った計画だ！！！<<",
       "CN": "",
-      "KR": ">> 봐! 린이호 로켓이다! 우리 구원받았어! 이건 미친 계획이야!!!",
-      "TW": ">>快看！是林逸號火箭！我們有救了！這可是瘋狂的計劃！！！<<"
+      "KR": ">>보세요! 여기에는 린이 우주선이 있습니다! 우리가 구원받았습니다! 이건 미친 계획이에요!!!<<",
+      "TW": ">>快看！是林逸號火箭！我們有救了！這是個瘋狂的計劃！！！<<"
     }
   },
   "5s！！！": {
@@ -434,8 +434,8 @@
     "MultiLang": {
       "US": "",
       "JP": "5秒！！！",
-      "CN": "5秒！！！",
-      "KR": "5초！！！",
+      "CN": "5秒！",
+      "KR": "5초!!!",
       "TW": "5秒！！！"
     }
   },
