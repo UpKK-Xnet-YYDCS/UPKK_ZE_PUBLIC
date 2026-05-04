@@ -4,16 +4,16 @@
     "MultiLang": {
       "US": "",
       "JP": "*** setar basevelocity 0 -250 500 ***",
-      "CN": "*** 设置基础速度 0 -250 500 ***",
+      "CN": "*** 设置 basevelocity 0 -250 500 ***",
       "KR": "*** setar basevelocity 0 -250 500 ***",
-      "TW": "*** 設定基礎速度：0 -250 500 ***"
+      "TW": "*** setar basevelocity 0 -250 500 ***"
     }
   },
   "5 s": {
     "translation": "5 秒",
     "MultiLang": {
       "US": "",
-      "JP": "5秒",
+      "JP": "5 秒",
       "CN": "5 秒",
       "KR": "5초",
       "TW": "5 秒"
@@ -23,7 +23,7 @@
     "translation": "5 秒",
     "MultiLang": {
       "US": "",
-      "JP": "5秒",
+      "JP": "5 秒",
       "CN": "5 秒",
       "KR": "5초",
       "TW": "5 秒"
@@ -33,140 +33,140 @@
     "translation": "AFK TP 20 秒",
     "MultiLang": {
       "US": "",
-      "JP": "AFK時にテレポート。距離: 20メートル、時間: 5秒。",
-      "CN": "AFK TP 20 秒",
-      "KR": "자리 비움 시 순간이동, 20초",
-      "TW": "離線時，傳送到指定位置，20 秒"
+      "JP": "afk tp 20 秒",
+      "CN": "afk tp 20 秒",
+      "KR": "afk tp 20초",
+      "TW": "afk tp 20 秒"
     }
   },
   "afk tp 25 s": {
     "translation": "AFK TP 25 秒",
     "MultiLang": {
       "US": "",
-      "JP": "AFK時にテレポート。距離: 25メートル、時間: 5秒。",
-      "CN": "AFK TP 25 秒",
-      "KR": "자리 비움 시 순간이동, 25초",
-      "TW": "離線時，傳送到指定位置，25 秒"
+      "JP": "afk tp 25 秒",
+      "CN": "afk tp 25 秒",
+      "KR": "afk tp 25초",
+      "TW": "afk tp 25 秒"
     }
   },
   "basevelocity 0 -250 500": {
     "translation": "基础速度 0 -250 500",
     "MultiLang": {
       "US": "",
-      "JP": "ベースバリュー 0 -250 500",
-      "CN": "基础速度 0 -250 500",
-      "KR": "기준속도 0 -250 500",
-      "TW": "基-Speed 0 -250 500"
+      "JP": "basevelocity 0 -250 500",
+      "CN": "basevelocity 0 -250 500",
+      "KR": "basevelocity 0 -250 500",
+      "TW": "basevelocity 0 -250 500"
     }
   },
   "deep water in this region will damage you": {
     "translation": "此区域的深水会对你造成伤害",
     "MultiLang": {
       "US": "",
-      "JP": "この区域の深水に damages 你",
-      "CN": "此区域的深水会对你造成伤害",
-      "KR": "이 지역의 깊은 물에 들면 피해를 입습니다",
-      "TW": "深水區域會傷害你"
+      "JP": "この区域の深水はダメージを与えます",
+      "CN": "该区域深水会对您造成伤害",
+      "KR": "이 지역의 깊은 물은 피해를 줍니다",
+      "TW": "此區域的深水會對您造成傷害"
     }
   },
   "door opens 20 s": {
     "translation": "门打开 20 秒",
     "MultiLang": {
       "US": "",
-      "JP": "ドアが開く20秒",
-      "CN": "门打开 20 秒",
-      "KR": "문이 열리려면 20초 후",
-      "TW": "門開啓 20 s"
+      "JP": "ドア 20 秒後に開く",
+      "CN": "门开启 20 秒",
+      "KR": "문 20초 후 열림",
+      "TW": "門 20 秒後開啟"
     }
   },
   "map by king buzzo": {
     "translation": "地图作者：king buzzo 翻译：Ayanami♪",
     "MultiLang": {
       "US": "",
-      "JP": "マップby キング・ブッツォ",
-      "CN": "地图作者：king buzzo 翻译：Ayanami♪",
-      "KR": "맵은 KING BUZZO가 제작했습니다.",
-      "TW": "地圖由king buzzo繪製"
+      "JP": "制作者：キング・ブゾ",
+      "CN": "由king buzzo制作",
+      "KR": "king buzzo 제작 맵",
+      "TW": "由king buzzo製作的地圖"
     }
   },
   "nuke in 20 seconds": {
     "translation": "20 秒后核爆",
     "MultiLang": {
       "US": "",
-      "JP": "20秒後に核爆発",
-      "CN": "20 秒后核爆",
-      "KR": "핵무기 20초 후 발사",
-      "TW": "核爆剩20秒"
+      "JP": "核爆発まで20秒",
+      "CN": "20秒后核爆",
+      "KR": "핵폭발까지 20초",
+      "TW": "20秒後核彈襲擊"
     }
   },
   "opens": {
     "translation": "打开",
     "MultiLang": {
       "US": "",
-      "JP": "開きます",
+      "JP": "解放",
       "CN": "打开",
-      "KR": "열린다",
-      "TW": "开启"
+      "KR": "열림",
+      "TW": "開啟"
     }
   },
   "opens 10 s": {
     "translation": "打开 10 秒",
     "MultiLang": {
       "US": "",
-      "JP": "開く 10 s",
-      "CN": "打开 10 秒",
-      "KR": "열리기 10s",
-      "TW": "開啟 10 s"
+      "JP": "解放まで10秒",
+      "CN": "10秒后打开",
+      "KR": "10초 후 개방",
+      "TW": "10秒後開啟"
     }
   },
   "opens 20 s": {
     "translation": "打开 20 秒",
     "MultiLang": {
       "US": "",
-      "JP": "開く 20 s",
-      "CN": "打开 20 秒",
-      "KR": "열린 시간 20 s",
-      "TW": "開啟 20 s"
+      "JP": "解放まで20秒",
+      "CN": "20秒后打开",
+      "KR": "20초 후 개방",
+      "TW": "20秒後開啟"
     }
   },
   "opens 25 s": {
     "translation": "打开 25 秒",
     "MultiLang": {
       "US": "",
-      "JP": "開く 25 s",
-      "CN": "打开 25 秒",
-      "KR": "열린다 25초 후",
-      "TW": "開啟 25 s"
+      "JP": "解放まで25秒",
+      "CN": "25秒后打开",
+      "KR": "25초 후 개방",
+      "TW": "25秒後開啟"
     }
   },
   "socre a goal to open the next door ": {
     "translation": "打开下一扇门",
     "MultiLang": {
       "US": "",
-      "JP": "スコアを取って次の扉を開けます",
-      "CN": "打开下一扇门",
-      "KR": "점수를 얻으세요. 다음 문을 열 수 있게 해주세요.",
-      "TW": "得分開啟下1扇門"
+      "JP": "ゴールを決めて次の扉を開けよう",
+      "CN": "进一球以开启下一扇门",
+      "KR": "골을 넣어 다음 문을 해제하세요",
+      "TW": "進球以開啟下一扇門"
     }
   },
   "this is the final door, run!": {
     "translation": "这是最后一扇门，快跑！",
     "MultiLang": {
       "US": "",
-      "JP": "この最後の扉、走れ！",
+      "JP": "これは最後の扉だ、走れ！",
       "CN": "这是最后一扇门，快跑！",
-      "KR": "이게 마지막 문이다, 뛰어라!",
-      "TW": "這是最後1扇門，快跑！"
+      "KR": "마지막 문입니다, 뛰어라!",
+      "TW": "這是最後一扇門，快跑！"
     }
   },
   "water rises, shoot the ball into the goal": {
     "translation": "水位上升，将球射入球门",
     "MultiLang": {
       "US": "",
-      "JP": "水が上がります。ゴールにボールをシュートします。",
-      "CN": "水位上升，将球射入球门",
-      "KR": "물이 올라오면 공을 골문에 넣으세요",
-      "TW": "水位上升，射球入門"
+      "JP": "水が上昇するので、ボールをゴールに向けて打ってください",
+      "CN": "水位上涨，将球射入球门",
+      "KR": "물이 올라오면 공을 골대에 쏴 주세요",
+      "TW": "水位上升，將球射入球門"
     }
   }
 }
