@@ -4,7 +4,7 @@
     "MultiLang": {
       "US": "<!> This is the final defense! 10 seconds <!>",
       "JP": "",
-      "CN": "这里是最后的防线！10秒",
+      "CN": "<!> 这里是最后的防御！还剩 10 秒 <!>",
       "KR": "<!> 마지막 방어입니다! 10초 <!>",
       "TW": "<!> 這裡是最後一次防禦！剩餘時間：10秒 <!>"
     }
@@ -14,7 +14,7 @@
     "MultiLang": {
       "US": "<!> This is the final defense! 60 seconds <!>",
       "JP": "!< aquiが最後の防衛です！ 60 秒 !>",
-      "CN": "这里是最后的防线！60秒",
+      "CN": "<!> 这里是最后的防御！还剩 60 秒 <!>",
       "KR": "<!> 마지막 방어입니다! 60초 <!>",
       "TW": "<!> 這裡是最後一次防禦！剩餘時間：60秒 <!>"
     }
@@ -24,7 +24,7 @@
     "MultiLang": {
       "US": "<!> 10 seconds until the door opens <!>",
       "JP": "",
-      "CN": "门将在10秒内打开",
+      "CN": "<!> 距离开门还有 10 秒 <!>",
       "KR": "<!> 문이 열리기까지 10초 <!>",
       "TW": "<!> 門打開還需10秒 <!>"
     }
@@ -34,7 +34,7 @@
     "MultiLang": {
       "US": "<!> 30 seconds until the door opens <!>",
       "JP": "",
-      "CN": "门将在30秒内打开",
+      "CN": "<!> 距离开门还有 30 秒 <!>",
       "KR": "<!> 문이 열리기까지 30초 <!>",
       "TW": "<!> 門打開還需30秒 <!>"
     }
@@ -44,7 +44,7 @@
     "MultiLang": {
       "US": "<!> 50 seconds until the door opens <!>",
       "JP": "",
-      "CN": "门将在50秒内打开",
+      "CN": "<!> 距离开门还有 50 秒 <!>",
       "KR": "<!> 문이 열리기까지 50초 <!>",
       "TW": "<!> 門打開還需50秒 <!>"
     }
@@ -54,7 +54,7 @@
     "MultiLang": {
       "US": "<!> 10 seconds until wire disarm <!>",
       "JP": "",
-      "CN": "拆除电线还有10秒",
+      "CN": "<!> 距离剪断铁丝网还有 10 秒 <!>",
       "KR": "<!> 와이어 제거까지 10초 <!>",
       "TW": "<!> 拆卸導線還需10秒 <!>"
     }
@@ -64,7 +64,7 @@
     "MultiLang": {
       "US": "<!> 30 seconds until wire disarm <!>",
       "JP": "",
-      "CN": "拆除电线还有30秒",
+      "CN": "<!> 距离剪断铁丝网还有 30 秒 <!>",
       "KR": "<!> 와이어 제거까지 30초 <!>",
       "TW": "<!> 拆卸導線還需30秒 <!>"
     }
@@ -74,7 +74,7 @@
     "MultiLang": {
       "US": "<!> 50 seconds until wire disarm <!>",
       "JP": "",
-      "CN": "拆除电线还有50秒",
+      "CN": "<!> 距离剪断铁丝网还有 50 秒 <>",
       "KR": "<!> 와이어 제거까지 50초 <!>",
       "TW": "<!> 拆卸導線還需50秒 <!>"
     }
@@ -84,7 +84,7 @@
     "MultiLang": {
       "US": "<!> Removing fallen logs for 10 seconds <!>",
       "JP": "",
-      "CN": "清除倒下的树木还有10秒",
+      "CN": "<!> 正在移除倒木 10 秒 <!>",
       "KR": "<!> 낙목을 제거하는 중 10초 <!>",
       "TW": "<!>移除倒木中 10 秒 <!>"
     }
@@ -94,7 +94,7 @@
     "MultiLang": {
       "US": "<!> Removing fallen logs for 30 seconds <!>",
       "JP": "!<> 30秒で倒木を撤去中 <!>",
-      "CN": "清除倒下的树木还有30秒",
+      "CN": "<!> 正在移除倒木 30 秒 <!>",
       "KR": "<!> 낙목을 제거하는 중 30초 <!>",
       "TW": "<!>移除倒木中 30 秒 <!>"
     }
@@ -104,7 +104,7 @@
     "MultiLang": {
       "US": "<!> Removing fallen logs for 40 seconds <!>",
       "JP": "!<> 40秒で倒木を除去中 <>",
-      "CN": "清除倒下的树木还有40秒",
+      "CN": "<!> 正在移除倒木 40 秒 <!>",
       "KR": "<!> 낙목을 제거하는 중 40초 <!>",
       "TW": "<!>移除倒木中 40 秒 <!>"
     }
@@ -114,7 +114,7 @@
     "MultiLang": {
       "US": "<!> It seems another startup button is needed...<!>",
       "JP": "",
-      "CN": "似乎还需要另一个启动按钮...",
+      "CN": "<!> 看来还需要另一个启动按钮...<!>",
       "KR": "<!> 다른 시동 버튼도 필요한 것 같군... <!>",
       "TW": "<!>看來還需要另一個啟動按鈕... <!>"
     }
@@ -124,7 +124,7 @@
     "MultiLang": {
       "US": "<!> Moving large rocks for 10 seconds <!>",
       "JP": "",
-      "CN": "移开大岩石还有10秒",
+      "CN": "<!> 移开大岩石 10 秒 <!>",
       "KR": "<!> 큰 바위 치우기 10초 <!>",
       "TW": "<!>搬開大岩石中 10 秒 <!>"
     }
@@ -134,7 +134,7 @@
     "MultiLang": {
       "US": "<!> Moving large rocks for 20 seconds <!>",
       "JP": "",
-      "CN": "移开大岩石还有20秒",
+      "CN": "<!> 移开大岩石 20 秒 <!>",
       "KR": "<!> 큰 바위 치우기 20초 <!>",
       "TW": "<!>搬開大岩石中 20 秒 <!>"
     }
@@ -144,7 +144,7 @@
     "MultiLang": {
       "US": "<!> Moving large rocks for 30 seconds <!>",
       "JP": "",
-      "CN": "移开大岩石还有30秒",
+      "CN": "<!> 移开大岩石 30 秒 <!>",
       "KR": "<!> 큰 바위 치우기 30초 <!>",
       "TW": "<!>搬開大岩石中 30 秒 <!>"
     }
@@ -154,7 +154,7 @@
     "MultiLang": {
       "US": "<!> Raising the bridge for 10 seconds <!>",
       "JP": "!<> ブリッジを上げるまで 10 秒 <!>",
-      "CN": "桥梁上升还有10秒",
+      "CN": "<!> 升起桥梁 10 秒 <!>",
       "KR": "<!> 다리 들어올리기까지 10초 <!>",
       "TW": "<!>抬起橋樑中 10 秒 <!>"
     }
@@ -164,7 +164,7 @@
     "MultiLang": {
       "US": "<!> Bridge raises in 30 seconds <!>",
       "JP": "!<＞橋を上げるまで 30 秒＜！>",
-      "CN": "桥梁上升还有30秒",
+      "CN": "<!> 橋升起到位需30秒 <!>",
       "KR": "<!> 브리지를 올리는 데 30초 <!>",
       "TW": "<!> 橋升起倒數 30 秒 <!>"
     }
@@ -174,7 +174,7 @@
     "MultiLang": {
       "US": "<!> Scaffold rises in 10 seconds <!>",
       "JP": "<!> てをあげるまで 10 秒 <!>",
-      "CN": "平台上升还有10秒",
+      "CN": "<!> 脚手架升起到位需10秒 <!>",
       "KR": "<!> 발판을 올리는 데 10초 <!>",
       "TW": "<!> 腳手架升起倒數 10 秒 <!>"
     }
@@ -184,7 +184,7 @@
     "MultiLang": {
       "US": "<!> Scaffold rises in 30 seconds <!>",
       "JP": "",
-      "CN": "平台上升还有30秒",
+      "CN": "<!> 脚手架升起到位需30秒 <!>",
       "KR": "<!> 발판을 올리는 데 30초 <!>",
       "TW": "<!> 腳手架升起倒數 30 秒 <!>"
     }
@@ -194,7 +194,7 @@
     "MultiLang": {
       "US": "<!> Transporter activates in 10 seconds <!>",
       "JP": "",
-      "CN": "启动运输机还有10秒",
+      "CN": "<!> 运输机启动需10秒 <!>",
       "KR": "<!> 운반기 가동까지 10초 <!>",
       "TW": "<!> 運送機啟動倒數 10 秒 <!>"
     }
@@ -204,7 +204,7 @@
     "MultiLang": {
       "US": "<!> Transporter activates in 40 seconds <!>",
       "JP": "",
-      "CN": "启动运输机还有40秒",
+      "CN": "<!> 运输机启动需40秒 <!>",
       "KR": "<!> 운반기 가동까지 40초 <!>",
       "TW": "<!> 運送機啟動倒數 40 秒 <!>"
     }
@@ -214,7 +214,7 @@
     "MultiLang": {
       "US": "<!> Zombies will be released shortly <!>",
       "JP": "",
-      "CN": "僵尸即将被释放",
+      "CN": "<!> 即将释放僵尸 <!>",
       "KR": "<!> 곧 좀비가 해방됩니다 <!>",
       "TW": "<!> 即將釋放殭屍 <!>"
     }
@@ -224,7 +224,7 @@
     "MultiLang": {
       "US": "\"*** Transitioning to Level 2 ***\"",
       "JP": "",
-      "CN": "*** 移步关卡2 ***",
+      "CN": "\"*** 转换为LV2 ***\"",
       "KR": "\"*** LV2로 전환 ***\"",
       "TW": "\"*** 切換至 LV2 ***\""
     }
@@ -234,7 +234,7 @@
     "MultiLang": {
       "US": "<!> Door opens in 40 seconds <!>",
       "JP": "",
-      "CN": "门将在40秒后打开",
+      "CN": "<!> 开门需40秒 <!>",
       "KR": "<!> 도어를 여는 데 40초 <!>",
       "TW": "<!> 開門倒數 40 秒 <!>"
     }
@@ -244,7 +244,7 @@
     "MultiLang": {
       "US": "<!> Break the wire 30 sec <!>",
       "JP": "",
-      "CN": "<!> 破坏电线直到... -- 破坏电线 30秒 <!",
+      "CN": "<!> 拆毁铁丝 -- Break the wire 30 sec <!>",
       "KR": "<!> 와이어 해체까지 30초 <!>",
       "TW": "<!> 拆解wire直到完成 -- Break the wire 30 sec <!>"
     }
@@ -254,7 +254,7 @@
     "MultiLang": {
       "US": "<!> Break the wire 10 sec <!>",
       "JP": "",
-      "CN": "<!> 破坏电线直到... -- 破坏电线 10秒 <!",
+      "CN": "<!> 拆毁铁丝 -- Break the wire 10 sec <!>",
       "KR": "<!> 와이어 해체까지 10초 <!>",
       "TW": "<!> 拆解wire直到完成 -- Break the wire 10 sec <!>"
     }
@@ -264,7 +264,7 @@
     "MultiLang": {
       "US": "<!> Zombies will be unleashed soon <!>",
       "JP": "",
-      "CN": "<!> 僵尸即将被释放 -- 僵尸很快会被释放 <!",
+      "CN": "<!>僵尸即将被释放 -- Zombies will be unleashed soon <!>",
       "KR": "<!> 좀비가 곧 풀려납니다 <!>",
       "TW": "<!> 喪屍即將被釋放 -- Zombies will be unleashed soon <!>"
     }
@@ -274,7 +274,7 @@
     "MultiLang": {
       "US": "<!> Got the doll! <!>",
       "JP": "",
-      "CN": "<!> 获得了老师的娃娃！ -- 获得了娃娃！<!",
+      "CN": "<!>获得了老师的人形！ -- Got the doll ! <!>",
       "KR": "<!> 선생님의 인형을 얻었다! <!>",
       "TW": "<!> 你獲取了老師的娃娃！ -- Got the doll ! <!>"
     }
@@ -284,7 +284,7 @@
     "MultiLang": {
       "US": "<!> Door open 30 sec <!>",
       "JP": "",
-      "CN": "<!> 直到门打开 -- 门打开 30秒 <!",
+      "CN": "<!>开门等待时间30秒 -- Door open 30 sec <!>",
       "KR": "<!> 문 열림까지 30초 <!>",
       "TW": "<!> 門將在30秒後打開 -- Door open 30 sec <!>"
     }
@@ -294,7 +294,7 @@
     "MultiLang": {
       "US": "<!> Door open 10 sec <!>",
       "JP": "",
-      "CN": "<!> 直到门打开 -- 门打开 10秒 <!",
+      "CN": "<!>开门等待时间10秒 -- Door open 10 sec <!>",
       "KR": "<!> 문 열림까지 10초 <!>",
       "TW": "<!> 門將在10秒後打開 -- Door open 10 sec <!>"
     }
@@ -304,7 +304,7 @@
     "MultiLang": {
       "US": "<!> Scaffolding appears 30 sec <!>",
       "JP": "",
-      "CN": "<!> 直到脚手架出现 -- 脚手架出现 30秒 <!",
+      "CN": "<!>搭建脚手架 -- Scaffolding appears 30 sec <!>",
       "KR": "<!> 발판 생성까지 30초 <!>",
       "TW": "<!> 腳手架將在30秒後出現 -- Scaffolding appears 30 sec <!>"
     }
@@ -314,7 +314,7 @@
     "MultiLang": {
       "US": "<!> Scaffolding appears 10 sec <!>",
       "JP": "",
-      "CN": "<!> 直到脚手架出现 -- 脚手架出现 10秒 <!",
+      "CN": "<!>搭建脚手架 -- Scaffolding appears 10 sec <!>",
       "KR": "<!> 발판 생성까지 10초 <!>",
       "TW": "<!> 腳手架將在10秒後出現 -- Scaffolding appears 10 sec <!>"
     }
@@ -324,7 +324,7 @@
     "MultiLang": {
       "US": "<!> Time until bridge raises -- Scaffolding appears 30 sec <!>",
       "JP": "",
-      "CN": "<!> 桥梁升起前 -- 支架出现 30 秒 <!>",
+      "CN": "<!> 桥面升起倒计时 -- 脚手架出现剩余时间30秒 <!>",
       "KR": "<!> 다리를 올리는 동안 -- 비계 등장 30초 <!>",
       "TW": "<!> 橋が上がるまで -- 足場出現30秒後 <!>"
     }
@@ -334,7 +334,7 @@
     "MultiLang": {
       "US": "<!> Time until bridge raises -- Scaffolding appears 10 sec <!>",
       "JP": "",
-      "CN": "<!> 桥梁升起前 -- 支架出现 10 秒 <!>",
+      "CN": "<!> 桥面升起倒计时 -- 脚手架出现剩余时间10秒 <!>",
       "KR": "<!> 다리를 올리는 동안 -- 비계 등장 10초 <!>",
       "TW": "<!> 橋が上がるまで -- 足場出現10秒後 <!>"
     }
@@ -344,7 +344,7 @@
     "MultiLang": {
       "US": "<!> Time until transport starts -- Move ramp 40 sec <!>",
       "JP": "",
-      "CN": "<!> 运输机启动前 -- 移动坡道 40 秒 <!>",
+      "CN": "<!> 运输机启动倒计时 -- 移动坡道剩余时间40秒 <!>",
       "KR": "<!> 운반기 가동까지 -- 이동 램프 40초 <!>",
       "TW": "<!> 運搬機が起動するまで -- ランプ移動40秒後 <!>"
     }
@@ -354,7 +354,7 @@
     "MultiLang": {
       "US": "<!> Time until transport starts -- Move ramp 10 sec <!>",
       "JP": "",
-      "CN": "<!> 运输机启动前 -- 移动坡道 10 秒 <!>",
+      "CN": "<!> 运输机启动倒计时 -- 移动坡道剩余时间10秒 <!>",
       "KR": "<!> 운반기 가동까지 -- 이동 램프 10초 <!>",
       "TW": "<!> 運搬機が起動するまで -- ランプ移動10秒後 <!>"
     }
@@ -364,7 +364,7 @@
     "MultiLang": {
       "US": "<!> Time until boulder moves -- Move the large rock 10 sec <!>",
       "JP": "",
-      "CN": "<!> 移动大岩石 -- 移动大岩石 10 秒 <!>",
+      "CN": "<!> 移开巨石 -- 耗时10秒 <!>",
       "KR": "<!> 큰 바구니 제거 -- 대형 바위 이동 10초 <!>",
       "TW": "<!> 大岩をどかす -- 大岩移動10秒後 <!>"
     }
@@ -374,7 +374,7 @@
     "MultiLang": {
       "US": "<!> Time until boulder moves -- Move the large rock 20 sec <!>",
       "JP": "",
-      "CN": "<!> 移动大岩石 -- 移动大岩石 20 秒 <!>",
+      "CN": "<!> 移开巨石 -- 耗时20秒 <!>",
       "KR": "<!> 큰 바구니 제거 -- 대형 바위 이동 20초 <!>",
       "TW": "<!> 大岩をどかす -- 大岩移動20秒後 <!>"
     }
@@ -384,7 +384,7 @@
     "MultiLang": {
       "US": "<!> Time until boulder moves -- Move the large rock 30 sec <!>",
       "JP": "",
-      "CN": "<!> 移动大岩石 -- 移动大岩石 30 秒 <!>",
+      "CN": "<!> 移开巨石 -- 耗时30秒 <!>",
       "KR": "<!> 큰 바구니 제거 -- 대형 바위 이동 30초 <!>",
       "TW": "<!> 大岩をどかす -- 大岩移動30秒後 <!>"
     }
@@ -394,7 +394,7 @@
     "MultiLang": {
       "US": "<!> Another button is also needed <!>",
       "JP": "",
-      "CN": "<!> 还需要另一个按钮 -- Another button is also needed",
+      "CN": "<!> 还需要另一个按钮",
       "KR": "<!> 다른 단추도 필요합니다 -- 다른 단추도 필요합니다 <!>",
       "TW": "<!> 他のボタンも必要だ <!>"
     }
@@ -404,7 +404,7 @@
     "MultiLang": {
       "US": "<!> Break the wire 50 sec <!>",
       "JP": "",
-      "CN": "<!> 破坏电线，持续 50 秒 <!>",
+      "CN": "<!> 爆破线缆 -- Break the wire 50 sec <!>",
       "KR": "<!> Wire 제거 완료까지 -- Break the wire 50 sec <!>",
       "TW": "<!> 拆除鐵絲網 -- 50秒 <!>"
     }
@@ -414,7 +414,7 @@
     "MultiLang": {
       "US": "<!> Clear away fallen trees 30 sec <!>",
       "JP": "",
-      "CN": "<!> 移除倒木，持续 30 秒 <!>",
+      "CN": "<!> 清除倒木 -- Clear away fallen trees 30 sec <!>",
       "KR": "<!> 쓰러진 나무 치우기 -- Clear away fallen trees 30 sec <!>",
       "TW": "<!> 清除倒樹 -- 30秒 <!>"
     }
@@ -424,7 +424,7 @@
     "MultiLang": {
       "US": "<!> Clear away fallen trees 10 sec <!>",
       "JP": "",
-      "CN": "<!> 移除倒木，持续 10 秒 <!>",
+      "CN": "<!> 清除倒木 -- Clear away fallen trees 10 sec <!>",
       "KR": "<!> 쓰러진 나무 치우기 -- Clear away fallen trees 10 sec <!>",
       "TW": "<!> 清除倒樹 -- 10秒 <!>"
     }
@@ -434,7 +434,7 @@
     "MultiLang": {
       "US": "<!> Clear away fallen trees 40 sec <!>",
       "JP": "",
-      "CN": "<!> 移除倒木，持续 40 秒 <!>",
+      "CN": "<!> 清除倒木 -- Clear away fallen trees 40 sec <!>",
       "KR": "<!> 쓰러진 나무 치우기 -- Clear away fallen trees 40 sec <!>",
       "TW": "<!> 清除倒樹 -- 40秒 <!>"
     }
@@ -444,7 +444,7 @@
     "MultiLang": {
       "US": "<!> Door open 40 sec <!>",
       "JP": "",
-      "CN": "<!> 门打开，持续 40 秒 <!>",
+      "CN": "<!> 开门 -- Door open 40 sec <!>",
       "KR": "<!> 문 열리기까지 -- Door open 40 sec <!>",
       "TW": "<!> 打開房門 -- 40秒 <!>"
     }
@@ -454,7 +454,7 @@
     "MultiLang": {
       "US": "<!> Last Defend 60 sec <!>",
       "JP": "",
-      "CN": "<!> 这是最后的防守！持续 60 秒 <!>",
+      "CN": "<!> 最终防线 -- Last Defend 60 sec <!>",
       "KR": "<!> 최종 방어입니다! -- Last Defend 60 sec <!>",
       "TW": "<!> 這是最後一次防禦！ -- Last Defend 60秒 <!>"
     }
@@ -464,7 +464,7 @@
     "MultiLang": {
       "US": "<!> Last Defend 10 sec <!>",
       "JP": "",
-      "CN": "<!> 这是最后的防守！持续 10 秒 <!>",
+      "CN": "<!> 最终防线 -- Last Defend 10 sec <!>",
       "KR": "<!> 최종 방어입니다! -- Last Defend 10 sec <!>",
       "TW": "<!> 這是最後一次防禦！ -- Last Defend 10秒 <!>"
     }
@@ -474,7 +474,7 @@
     "MultiLang": {
       "US": "<!> The defense system activates. 30 sec <!>",
       "JP": "",
-      "CN": "<!> 防御系统启动，持续 30 秒 <!>",
+      "CN": "<!> 防御系统启动 -- The defense system activates. 30 sec <!>",
       "KR": "<!> 방어 시스템 작동 -- The defense system activates. 30 sec <!>",
       "TW": "<!> 啟動防禦系統 -- 30秒 <!>"
     }
@@ -484,7 +484,7 @@
     "MultiLang": {
       "US": "<!> Defense system activating -- The defense system activates. 10 sec <!>",
       "JP": "",
-      "CN": "<!> 防御系统启动 -- 防御系统激活。10秒 <!>",
+      "CN": "<!> 防御系统启动 -- 防御系统已激活。剩余时间: 10秒 <!>",
       "KR": "<!> 방위 시스템 가동 -- 방어 시스템 활성화. 10초 <!>",
       "TW": "<!> 防禦系統啟動 -- 防衛系統已激活。剩餘 10 秒 <!>"
     }
@@ -494,7 +494,7 @@
     "MultiLang": {
       "US": "\"Mountain God - Dunatis :\"",
       "JP": "",
-      "CN": "\"山の神 - Dunatis :\"",
+      "CN": "\"山之神 - Dunatis：\"",
       "KR": "\"산의 신 - 두나티스 :\"",
       "TW": "\"山神 - Dunatis ：\""
     }
@@ -504,7 +504,7 @@
     "MultiLang": {
       "US": "\"Bibibi, confirm Jindai Nasoshou. Procedure cancellation. Procedure cancellation.\"",
       "JP": "",
-      "CN": "\"哔哔哔，正在记录恐龙表演。正在记录。正在记录。\"",
+      "CN": "\"哔哔哔，确认震源大小。执行制压。执行制压。\"",
       "KR": "\"「비비비, 진다이나손쇼우오카쿠닌. 키노우테이지. 키노우테이지.」\"",
       "TW": "\"「嗶嗶，確認神域。維持機能、維持機能。」\""
     }
