@@ -2,11 +2,11 @@
   "- 10S后僵尸出笼 -": {
     "translation": "- 10秒后僵尸出笼 -",
     "MultiLang": {
-      "US": "- Zombies emerge in 10S -",
-      "JP": "10S後ゾンビ放出 -",
+      "US": "- Zombies spawn in 10S -",
+      "JP": "- 10秒後にゾンビが解放 -",
       "CN": "- 10秒后僵尸出笼 -",
-      "KR": "- 10S 후 좀비 풀어주기 -",
-      "TW": "10S後僵尸出笼 -"
+      "KR": "- 좀비가 출현하는 데 10초 걸림 -",
+      "TW": "- 10秒後殭屍出籠 -"
     }
   },
   "- 15 -": {
@@ -22,11 +22,11 @@
   "- 15S后僵尸出笼 -": {
     "translation": "- 15秒后僵尸出笼 -",
     "MultiLang": {
-      "US": "- Zombies emerge in 15S -",
-      "JP": "15S後ゾンビ放出 -",
+      "US": "- Zombies spawn in 15S -",
+      "JP": "- 15秒後にゾンビが解放 -",
       "CN": "- 15秒后僵尸出笼 -",
-      "KR": "- 15S 후 좀비 발동 -",
-      "TW": "- 15S後屍殭出籠 -"
+      "KR": "- 좀비가 출현하는 데 15초 걸림 -",
+      "TW": "- 15秒後殭屍出籠 -"
     }
   },
   "- 20 -": {
@@ -42,11 +42,11 @@
   "- 20S后僵尸出笼 -": {
     "translation": "- 20秒后僵尸出笼 -",
     "MultiLang": {
-      "US": "- Zombies emerge in 20S -",
-      "JP": "- 20S後にゾンビ放出 -",
+      "US": "- Zombies spawn in 20S -",
+      "JP": "- 20秒後にゾンビが解放 -",
       "CN": "- 20秒后僵尸出笼 -",
-      "KR": "- 20S 후 블록해제 -",
-      "TW": "- 20S後殭屍出笼 -"
+      "KR": "- 좀비가 출현하는 데 20초 걸림 -",
+      "TW": "- 20秒後殭屍出籠 -"
     }
   },
   "- 25 -": {
@@ -62,11 +62,11 @@
   "- 30S后启用传送门 -": {
     "translation": "- 30秒后启用传送门 -",
     "MultiLang": {
-      "US": "- Enable portal in 30S -",
-      "JP": "- 30S後、門を起動 -",
+      "US": "- Portal activates in 30S -",
+      "JP": "- 30秒後にポータル有効化 -",
       "CN": "- 30秒后启用传送门 -",
-      "KR": "- 30S 후 전송문을 사용启用传送门 -",
-      "TW": "- 30S後啟用傳送門 -"
+      "KR": "- 포트홀 개방까지 30초 -",
+      "TW": "- 30秒後啟用傳送門 -"
     }
   },
   "- 50 -": {
@@ -83,10 +83,10 @@
     "translation": "- 5秒后传送 -",
     "MultiLang": {
       "US": "- Teleport in 5S -",
-      "JP": "- 5S後移動 -",
+      "JP": "- 5秒後に転送 -",
       "CN": "- 5秒后传送 -",
-      "KR": "- 5초 후 전송 -",
-      "TW": "5S後傳送 -"
+      "KR": "- 이동까지 5초 -",
+      "TW": "- 5秒後傳送 -"
     }
   },
   "- 60 -": {
@@ -103,49 +103,49 @@
     "translation": "- 七色花 -",
     "MultiLang": {
       "US": "- Seven-Colored Flower -",
-      "JP": "- 七色の花 -",
+      "JP": "- 七色花 -",
       "CN": "- 七色花 -",
-      "KR": "- 일곱색의 꽃 -",
+      "KR": "- 일곱 빛깔 꽃 -",
       "TW": "- 七色花 -"
     }
   },
   "- 与四周颜色不同的板子会碎裂 -": {
     "translation": "- 与四周颜色不同的板子会碎裂 -",
     "MultiLang": {
-      "US": "- Tiles of different color from surroundings will shatter -",
-      "JP": "- 四周と色が異なる板は砕ける -",
+      "US": "- Panels differing from surrounding colors will shatter -",
+      "JP": "- 周囲の色と異なる板は破壊される -",
       "CN": "- 与四周颜色不同的板子会碎裂 -",
-      "KR": "- 주변색상과 다른 판은 부서질 것입니다 -",
-      "TW": "與4周顏色不同的板子會碎裂 -"
+      "KR": "- 주변 색상과 다른 판자가 깨짐",
+      "TW": "- 與四周顏色不同的板子會碎裂 -"
     }
   },
   "- 人类+20HP -": {
     "translation": "- 人类+20HP -",
     "MultiLang": {
       "US": "- Humans +20HP -",
-      "JP": "- 人類+20HP -",
+      "JP": "- ヒューマン+20HP -",
       "CN": "- 人类+20HP -",
-      "KR": "- 인간 +20HP -",
+      "KR": "- 인간 +20체력 -",
       "TW": "- 人類+20HP -"
     }
   },
   "- 人类-20HP -": {
     "translation": "- 人类-20HP -",
     "MultiLang": {
-      "US": "Human-20HP",
+      "US": "- Human -20HP -",
       "JP": "- 人類-20HP -",
       "CN": "- 人类-20HP -",
-      "KR": "- 인간-20HP -",
-      "TW": "- 人類-20HP -"
+      "KR": "- 휴한민 -20HP -",
+      "TW": "- 人類 -20HP -"
     }
   },
   "- 人类登顶 -": {
     "translation": "- 人类登顶 -",
     "MultiLang": {
-      "US": "- Humans Reign -",
-      "JP": "- 人類登頂 -",
+      "US": "- Human Tops the Peak -",
+      "JP": "- 人類頂点 -",
       "CN": "- 人类登顶 -",
-      "KR": "- 인간이 정상에 오르다 -",
+      "KR": "- 휴한민 정상 도달 -",
       "TW": "- 人類登頂 -"
     }
   },
@@ -153,339 +153,339 @@
     "translation": "- 人类胜利 -",
     "MultiLang": {
       "US": "- Human Victory -",
-      "JP": "人類勝利 -",
+      "JP": "- 人類勝利 -",
       "CN": "- 人类胜利 -",
-      "KR": "- 인간 승리 -",
-      "TW": "- 人類勝利 -"
+      "KR": "- 휴한민 승리 -",
+      "TW": "- 人類獲勝 -"
     }
   },
   "- 人类阵营+20HP -": {
     "translation": "- 人类阵营+20HP -",
     "MultiLang": {
-      "US": "- Human camp +20HP -",
+      "US": "- Human Faction +20HP -",
       "JP": "- 人類陣営+20HP -",
       "CN": "- 人类阵营+20HP -",
-      "KR": "- 인간 캠프 +20HP -",
-      "TW": "- 人類陣營+20HP -"
+      "KR": "- 휴한민 진영 +20HP -",
+      "TW": "- 人類陣營 +20HP -"
     }
   },
   "- 人类阵营-20HP -": {
     "translation": "- 人类阵营-20HP -",
     "MultiLang": {
-      "US": "- Human Camp-20HP -",
+      "US": "- Human Faction -20HP -",
       "JP": "- 人類陣営-20HP -",
       "CN": "- 人类阵营-20HP -",
-      "KR": "- 인간 연합-20HP -",
-      "TW": "- 人類陣營-20HP -"
+      "KR": "- 휴한민 진영 -20HP -",
+      "TW": "- 人類陣營 -20HP -"
     }
   },
   "- 人类阵营全军覆没 -": {
     "translation": "- 人类阵营全军覆没 -",
     "MultiLang": {
-      "US": "- The entire human army has been wiped out -",
-      "JP": "人類陣営全軍覆没 -",
+      "US": "- Human Faction Annihilated -",
+      "JP": "- 人類陣営全滅 -",
       "CN": "- 人类阵营全军覆没 -",
-      "KR": "- 인간 진영 전체 무너짐 -",
-      "TW": "人類陣營全軍覆沒 -"
+      "KR": "- 휴한민 진영 전멸 -",
+      "TW": "- 人類陣營全軍覆沒 -"
     }
   },
   "- 僵尸射手 -": {
     "translation": "- 僵尸射手 -",
     "MultiLang": {
-      "US": "Zombie Shooter -",
-      "JP": "-ゾンビシューター-",
+      "US": "- Zombie Archer -",
+      "JP": "- ゾンビ射手 -",
       "CN": "- 僵尸射手 -",
-      "KR": "- 브레인-Shooter -",
-      "TW": "殭屍射手 -"
+      "KR": "- 좀비 사수 -",
+      "TW": "- 殭屍射手 -"
     }
   },
   "- 僵尸登顶 -": {
     "translation": "- 僵尸登顶 -",
     "MultiLang": {
-      "US": "- Zombies On Top -",
-      "JP": "ゾンビが頂上に達する -",
+      "US": "- Zombie Tops the Peak -",
+      "JP": "- ゾンビ頂点 -",
       "CN": "- 僵尸登顶 -",
-      "KR": "- 브레인 톱 -",
-      "TW": "僵尸登頂 -"
+      "KR": "- 좀비 정상 도달 -",
+      "TW": "- 殭屍登頂 -"
     }
   },
   "- 僵尸胜利 -": {
     "translation": "- 僵尸胜利 -",
     "MultiLang": {
-      "US": "Zombie Victory -",
-      "JP": "- ゾンビ勝利 -",
+      "US": "- Zombies Win -",
+      "JP": "僵尸の勝利",
       "CN": "- 僵尸胜利 -",
       "KR": "- 좀비 승리 -",
-      "TW": "- 僵屍勝利 -"
+      "TW": "- 殭屍勝利 -"
     }
   },
   "- 僵尸阵营全军覆没 -": {
     "translation": "- 僵尸阵营全军覆没 -",
     "MultiLang": {
-      "US": "- The zombie camp is completely wiped out -",
-      "JP": "- ジャンボ阵营全军覆没 -",
+      "US": "- Zombie Team Eliminated -",
+      "JP": "僵尸陣営壊滅",
       "CN": "- 僵尸阵营全军覆没 -",
-      "KR": "- 좀비 캠프가 전멸하였습니다 -",
-      "TW": "- 僵屍陣營全軍覆沒 -"
+      "KR": "- 좀진 진영 전체 제거 -",
+      "TW": "- 殭屍陣營全軍覆沒 -"
     }
   },
   "- 即将返回小屋 -": {
     "translation": "- 即将返回小屋 -",
     "MultiLang": {
-      "US": "- Returning to Cabin -",
-      "JP": "- 小屋に戻ります -",
+      "US": "- Returning to the Cabin -",
+      "JP": "小屋へ戻ります",
       "CN": "- 即将返回小屋 -",
-      "KR": "- 소형으로 돌아가기 -",
+      "KR": "- 작약소로 반환 예정 -",
       "TW": "- 即將返回小屋 -"
     }
   },
   "- 在时限内到达终点 -": {
     "translation": "- 在时限内到达终点 -",
     "MultiLang": {
-      "US": "- Reach the finish within the time limit -",
-      "JP": "- 指定时间内到達終点 -",
+      "US": "- Reach the endpoint within the time limit -",
+      "JP": "時間内にゴールに到達する",
       "CN": "- 在时限内到达终点 -",
-      "KR": "- 시간내에 도착지점까지 이동 -",
-      "TW": "在時間內到達終點 -"
+      "KR": "- 시간 내에 도착점 도달 -",
+      "TW": "- 在時限內到達終點 -"
     }
   },
   "- 在时限内，用手雷命中移动方块，并达到规定次数 -": {
     "translation": "- 在时限内，用手雷命中移动方块，并达到规定次数 -",
     "MultiLang": {
-      "US": "- Within the time limit, use grenades to hit moving blocks and reach the required number of times -",
-      "JP": "- 指定时间内、手榴弹爆破移動方塊並達成指定次數 -",
+      "US": "- Within the time limit, hit the moving block with grenades and achieve the required number of times -",
+      "JP": "制限時間内に手榴弾で移動ブロックを命中させ、指定回数に達する",
       "CN": "- 在时限内，用手雷命中移动方块，并达到规定次数 -",
-      "KR": "- 시간 내에 핵폭발물로 이동하는 블록을 맞추고 요구된 회수 달성 -",
-      "TW": "在时限內，用手雷命中外移動方塊，並達成規定次數 -"
+      "KR": "- 정해진 시간 안에 수류를 사용해 이동하는 블록을 명중하고 정해진 횟수 달성 -",
+      "TW": "- 在時限內，用手榴彈命中移動方塊，並達到規定次數 -"
     }
   },
   "- 小游戏时间 -": {
     "translation": "- 小游戏时间 -",
     "MultiLang": {
-      "US": "- Mini Game Time -",
-      "JP": "-*-* 小ゲーム時間 -*-*",
+      "US": "- Minigame Time -",
+      "JP": "ミニゲーム開始",
       "CN": "- 小游戏时间 -",
-      "KR": "- 간단 게임 시간 -",
+      "KR": "- 미니게임 시간 -",
       "TW": "- 小遊戲時間 -"
     }
   },
   "- 小游戏结束 -": {
     "translation": "- 小游戏结束 -",
     "MultiLang": {
-      "US": "- Mini-game over -",
-      "JP": "- 小ゲーム終了 -",
+      "US": "- Minigame Ended -",
+      "JP": "ミニゲーム終了",
       "CN": "- 小游戏结束 -",
-      "KR": "- 작은 게임 끝 -",
+      "KR": "- 미니게임 종료 -",
       "TW": "- 小遊戲結束 -"
     }
   },
   "- 小游戏结束，正在修正血量 -": {
     "translation": "- 小游戏结束，正在修正血量 -",
     "MultiLang": {
-      "US": "- Mini-game over, adjusting HP -",
-      "JP": "小游戏終了，正在修正血量 -",
+      "US": "- Minigame Ended, adjusting HP -",
+      "JP": "ミニゲーム終了、体力を補正中",
       "CN": "- 小游戏结束，正在修正血量 -",
-      "KR": "-小游戏 종료, 피 生命周期修复中 -",
-      "TW": "-text: 小遊戲結束，正在修正血量 -"
+      "KR": "- 미니게임 종료, 체력 보정 중 -",
+      "TW": "- 小遊戲結束，正在修正血量 -"
     }
   },
   "- 小游戏结束，血量修正中 -": {
     "translation": "- 小游戏结束，血量修正中 -",
     "MultiLang": {
-      "US": "- Mini-game over, health correction in progress -",
-      "JP": "小游戏終了，血量修正中 -",
+      "US": "- Mini-game ended, health recalculating -",
+      "JP": "-ミニゲーム終了、HP調整中-",
       "CN": "- 小游戏结束，血量修正中 -",
-      "KR": "-小游戏 끝나고, 체력 수정 중 -",
+      "KR": "- 미니게임 종료, 체력 보정 중 -",
       "TW": "- 小遊戲結束，血量修正中 -"
     }
   },
   "- 平局 -": {
     "translation": "- 平局 -",
     "MultiLang": {
-      "US": "Tie -",
-      "JP": "引き分け -",
+      "US": "- Draw -",
+      "JP": "-引分-",
       "CN": "- 平局 -",
-      "KR": "- 평화 -",
-      "TW": "- 平局 -"
+      "KR": "- 무승부 -",
+      "TW": "- 平手 -"
     }
   },
   "- 扔手雷 -": {
     "translation": "- 扔手雷 -",
     "MultiLang": {
-      "US": "- Throw Grenade -",
-      "JP": "投げてください -",
+      "US": "- Throw grenade -",
+      "JP": "-手榴弾を投げる-",
       "CN": "- 扔手雷 -",
-      "KR": "- 투척기 던지기 -",
-      "TW": "- 投掷手榴彈 -"
+      "KR": "- 수류 투척 -",
+      "TW": "- 投擲手榴彈 -"
     }
   },
   "- 按E拾取手雷 -": {
     "translation": "- 按E拾取手雷 -",
     "MultiLang": {
-      "US": "- Press E to pickup grenade -",
-      "JP": "- Eを押して手榴弾を拾う -",
+      "US": "- Press E to pick up grenade -",
+      "JP": "-Eキーで手榴弾を拾う-",
       "CN": "- 按E拾取手雷 -",
-      "KR": "- E키로 핵탄두 Gathering -",
-      "TW": "按E拾取手榴彈 -"
+      "KR": "- E를 눌러 수류탄 수집 -",
+      "TW": "- 按E拾起手榴彈 -"
     }
   },
   "- 推力枪已被拾取 -": {
     "translation": "- 推力枪已被拾取 -",
     "MultiLang": {
-      "US": "- Thruster Gunpicked up -",
-      "JP": "- 推射銃が拾われました -",
+      "US": "- Grappling gun picked up -",
+      "JP": "-フォースガンがすでに使用済みです-",
       "CN": "- 推力枪已被拾取 -",
-      "KR": "- 추진기已经被拾取 -",
-      "TW": "- 推力槍已拾取 -"
+      "KR": "- 추진 총기 이미 수집됨 -",
+      "TW": "- 推進槍已被拾取 -"
     }
   },
   "- 搭方块 -": {
     "translation": "- 搭方块 -",
     "MultiLang": {
-      "US": "- Build Blocks -",
-      "JP": "- ブロックを組み立てる -",
+      "US": "- Stack blocks -",
+      "JP": "-ブロック組み立て-",
       "CN": "- 搭方块 -",
-      "KR": "- 블록버娫 -",
-      "TW": "- 搭方塊 -"
+      "KR": "- 블록 쌓기 -",
+      "TW": "- 疊疊樂 -"
     }
   },
   "- 无人幸存 -": {
     "translation": "- 无人幸存 -",
     "MultiLang": {
-      "US": "- No One Survives -",
-      "JP": "全滅",
+      "US": "- No survivors -",
+      "JP": "-生存者なし-",
       "CN": "- 无人幸存 -",
-      "KR": "전체 생존者未翻译，请确认是否为文字错误。- 全体滅绝 -",
-      "TW": "無人幸存 -"
+      "KR": "- 생존자 없음 -",
+      "TW": "- 無人生還 -"
     }
   },
   "- 未检测到玩家 -": {
     "translation": "- 未检测到玩家 -",
     "MultiLang": {
-      "US": "- No player detected -",
-      "JP": "- プレイヤー未検出 -",
+      "US": "- Player not detected -",
+      "JP": "-プレイヤーを検出できません-",
       "CN": "- 未检测到玩家 -",
-      "KR": "- 플레이어 검출되지 않음 -",
-      "TW": "- 未檢測到玩家 -"
+      "KR": "- 플레이어를 감지할 수 없음 -",
+      "TW": "- 未偵測到玩家 -"
     }
   },
   "- 正在抽取小游戏 -": {
     "translation": "- 正在抽取小游戏 -",
     "MultiLang": {
-      "US": "- Drawing a Mini Game -",
-      "JP": "- 小游戏を当選中 -",
+      "US": "- Drawing Mini Game -",
+      "JP": "- 小さなゲームを抽選中 -",
       "CN": "- 正在抽取小游戏 -",
-      "KR": "- 작은 게임을 추첨 중 -",
+      "KR": "- 미니 게임 로딩 중 -",
       "TW": "- 正在抽取小遊戲 -"
     }
   },
   "- 每一位人类玩家到达终点，人类阵营+5HP -": {
     "translation": "- 每一位人类玩家到达终点，人类阵营+5HP -",
     "MultiLang": {
-      "US": "- Every human player reaching the end point grants the Human camp +5 HP -",
-      "JP": "- 各 humano 標数 1 到达终点，人类阵营+5HP -",
+      "US": "- For every Human player reaching the finish line, Human Faction gains +5 HP -",
+      "JP": "- すべての人間プレイヤーがゴールに到達すれば、人間陣営+5HP -",
       "CN": "- 每一位人类玩家到达终点，人类阵营+5HP -",
-      "KR": "- 각Human玩家达到终点，人类阵营+5HP",
-      "TW": "每位人類玩家到達終點，人類陣營+5HP"
+      "KR": "- 모든 인간 플레이어가 종료 지점에 도달하면, 인간 진영 +5HP",
+      "TW": "- 每位人類玩家到達終點，人類陣營+5HP -"
     }
   },
   "- 每一位僵尸玩家到达终点，人类阵营-5HP -": {
     "translation": "- 每一位僵尸玩家到达终点，人类阵营-5HP -",
     "MultiLang": {
-      "US": "- Each zombie player reaching the end deducts -5HP from the human camp -",
-      "JP": "- すべてのゾンビプレイヤーがゴール到着每回、人類陣営-5HP -",
+      "US": "- For every Zombie player reaching the finish line, Human Faction loses 5 HP -",
+      "JP": "- すべてのゾンビプレイヤーがゴールに到達すれば、人間陣営-5HP -",
       "CN": "- 每一位僵尸玩家到达终点，人类阵营-5HP -",
-      "KR": "|🧟‍♂️ 도착 시 인류 캠프 -5HP -",
-      "TW": "每一名殭屍玩家到達終點，人類陣營-5HP"
+      "KR": "- 모든 좀비 플레이어가 종료 지점에 도달하면, 인간 진영 -5HP",
+      "TW": "- 每位殭屍玩家到達終點，人類陣營-5HP -"
     }
   },
   "- 看谁滑的远 -": {
     "translation": "- 看谁滑的远 -",
     "MultiLang": {
-      "US": "- Who slides farther -",
-      "JP": "- 誰が滑り远いか見つける -",
+      "US": "- See Who Slides Farthest -",
+      "JP": "- 誰が一番遠くまで滑るか見てみよう -",
       "CN": "- 看谁滑的远 -",
-      "KR": "- 누가 더 멀리 미끄러질까 -",
-      "TW": "看誰滑的遠 -"
+      "KR": "- 누가 더 멀리 미끄러지는가?",
+      "TW": "- 看誰滑得遠 -"
     }
   },
   "- 终点按E可重新滑一次 -": {
     "translation": "- 终点按E可重新滑一次 -",
     "MultiLang": {
-      "US": "- End press E to slide again -",
-      "JP": "終点でEを押すと再滑 können",
+      "US": "- Press E at the finish line to slide again -",
+      "JP": "- ゴールでEキーを押すと、もう一度滑ることができます -",
       "CN": "- 终点按E可重新滑一次 -",
-      "KR": "- 종점에서 E를 누르면 다시 스ไล드할 수 있습니다 -",
-      "TW": "終點按E可重新滑1次 -"
+      "KR": "- E키를 눌러 다시 한 번 미끄러지기",
+      "TW": "- 到達終點按E可重新滑行一次 -"
     }
   },
   "- 躲避僵尸从下方和四周发射的炮弹 -": {
     "translation": "- 躲避僵尸从下方和四周发射的炮弹 -",
     "MultiLang": {
-      "US": "- Dodge zombies' projectiles from below and around -",
-      "JP": "- ジェイジから下からも周囲からも放たれる砲弾を避ける -",
+      "US": "- Dodge bullets fired by Zombies from below and all sides -",
+      "JP": "- 足元や周囲から撃ち込まれるゾンビの弾を避けましょう -",
       "CN": "- 躲避僵尸从下方和四周发射的炮弹 -",
-      "KR": "- Zombies가 위쪽과 주변에서 발사하는 총알을 피하십시오 -",
-      "TW": "- 避開殭屍從下方及4周發射的砲彈 -"
+      "KR": "- 좀비가 하단과 사방에서 발사하는 포탄 피하기",
+      "TW": "- 躲避殭屍從下方及四周發射的子彈 -"
     }
   },
   "- 速降 -": {
     "translation": "- 速降 -",
     "MultiLang": {
-      "US": "- Sledding -",
-      "JP": "- スキージャンプ -",
+      "US": "- Speed Down -",
+      "JP": "- スキー滑走 -",
       "CN": "- 速降 -",
-      "KR": "- 스키드하이트 -",
-      "TW": "- 急降 -"
+      "KR": "- 속도 감소 중",
+      "TW": "- 速降 -"
     }
   },
   "- 雷杀失败 -": {
     "translation": "- 雷杀失败 -",
     "MultiLang": {
-      "US": "Failure to Thunderkill -",
-      "JP": "- レイ Kill 失敗 -",
+      "US": "- Mine Kill Failed -",
+      "JP": "- 地雷による失敗 -",
       "CN": "- 雷杀失败 -",
-      "KR": "- 레이킬 실패 -",
-      "TW": "雷殺失敗 -"
+      "KR": "- 폭탄 공격 실패",
+      "TW": "- 雷殺失敗 -"
     }
   },
   "- 雷杀成功 -": {
     "translation": "- 雷杀成功 -",
     "MultiLang": {
-      "US": "- Lightning Strike Successful -",
-      "JP": "- レイキラ成功 -",
+      "US": "- Leisha Attack Successful -",
+      "JP": "- 雷殺成功 -",
       "CN": "- 雷杀成功 -",
-      "KR": "- 레이킬 성공 -",
+      "KR": "- 낙뢰 성공 -",
       "TW": "- 雷殺成功 -"
     }
   },
   "- 移动方块可被击碎 -": {
     "translation": "",
     "MultiLang": {
-      "US": "- Moving blocks can be broken -",
-      "JP": "- ブロックを動かすと破壊可能 -",
+      "US": "- Movable blocks can be shattered -",
+      "JP": "- 移動區塊可被擊碎 -",
       "CN": "",
-      "KR": "- 움직이는 블록은 깨질 수 있습니다 -",
-      "TW": "移動方塊可被擊碎 -"
+      "KR": "- 이동 가능한 블록은 파괴 가능 -",
+      "TW": "- 移動方塊可被擊碎 -"
     }
   },
   "- 每一位僵尸玩家到达终点，人类阵营-15HP -": {
     "translation": "",
     "MultiLang": {
-      "US": "- Each zombie player reaching the end reduces the human camp's HP by 15 -",
-      "JP": "- 每一位僵尸玩家到达終点，人類陣營-15HP -",
+      "US": "- When every zombie player reaches the finish line, human team HP -15 -",
+      "JP": "- 每位殭屍玩家到達終點，人類陣營-15HP -",
       "CN": "",
-      "KR": "- 각각의 블레이드 플레이어가 도착할 때마다 인류 캠프 -15HP -",
-      "TW": "每位殭屍玩家到達終點，人類陣營-15HP"
+      "KR": "- 각 좀비 플레이어가终点에 도달할 때마다 인간 진영 HP -15 -",
+      "TW": "- 每位殭屍玩家抵達終點，人類陣營HP-15 -"
     }
   },
   "- 地图制作：咸自矜持 & 金轮的YR -": {
     "translation": "",
     "MultiLang": {
-      "US": "- Map creation: xzj & jw's YR -",
-      "JP": "- 地図制作：咸自矜持 & 金轮のYR -",
+      "US": "- Map Design: Xianzijinchi & Jinlun's YR -",
+      "JP": "- 地圖製作：鹹自矜持 & 金輪的YR -",
       "CN": "",
-      "KR": "- 지도 제작: 상지경건 & 금륜의 YR -",
+      "KR": "- 맵 제작: 현자기지 및 금륜의 YR -",
       "TW": "- 地圖製作：咸自矜持 & 金輪的YR -"
     }
   },
@@ -493,30 +493,30 @@
     "translation": "",
     "MultiLang": {
       "US": "- Pig Bomb -",
-      "JP": "豚豚爆弾 -",
+      "JP": "- 豬豬炸彈 -",
       "CN": "",
-      "KR": "- 돼지폭탄 -",
-      "TW": "- 猪豬彈彈 -"
+      "KR": "- 돼지 폭탄 -",
+      "TW": "- 豬豬炸彈 -"
     }
   },
   "- 躲避猪头 -": {
     "translation": "",
     "MultiLang": {
-      "US": "Avoid the Skull Face -",
-      "JP": "-  Pig Head 避免 -",
+      "US": "- Dodge the pig head -",
+      "JP": "- 躲避豬頭 -",
       "CN": "- 避免猪头 -",
       "KR": "- 돼지 머리 피하기 -",
-      "TW": "- 過Avoid豬頭-"
+      "TW": "- 躲避豬頭 -"
     }
   },
   "- 被炸五次判为失败 -": {
     "translation": "",
     "MultiLang": {
-      "US": "Failed after being blown up 5 times -",
-      "JP": "被爆5回で失敗と判断します -",
+      "US": "- Being exploded five times counts as a failure -",
+      "JP": "- 被炸五次判為失敗 -",
       "CN": "被炸5次判定失败",
-      "KR": "- 다섯 번 폭파되어 실패로 판정 -",
-      "TW": "被炸5次判為失敗"
+      "KR": "- 5회 폭발 시 패배 판정 -",
+      "TW": "- 被炸五次判定為失敗 -"
     }
   },
   "- 1/6 -": {
@@ -582,11 +582,11 @@
   "- 狂暴模式已加载 -": {
     "translation": "",
     "MultiLang": {
-      "US": "Berserk mode loaded -",
-      "JP": "- 狂暴モードが読み込まれました -",
+      "US": "- Berserk Mode Loaded -",
+      "JP": "- 狂暴模式已加載 -",
       "CN": "",
-      "KR": "- 광폭 모드 활성화 -",
-      "TW": "- 狂暴模式已加載 -"
+      "KR": "- 광폭 모드 로드됨 -",
+      "TW": "- 狂暴模式已載入 -"
     }
   }
 }

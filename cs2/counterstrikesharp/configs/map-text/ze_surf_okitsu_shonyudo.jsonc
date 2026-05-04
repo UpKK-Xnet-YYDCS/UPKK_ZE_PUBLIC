@@ -52,7 +52,7 @@
   "<!> ワイヤーを取り壊すまで 10 秒 <!>": {
     "translation": "拆除电线还有10秒",
     "MultiLang": {
-      "US": "<!> 10 seconds until the wire is destroyed <!>",
+      "US": "<!> 10 seconds until wire disarm <!>",
       "JP": "",
       "CN": "拆除电线还有10秒",
       "KR": "<!> 와이어를 파괴할 때까지 10 초 <!>",
@@ -62,7 +62,7 @@
   "<!> ワイヤーを取り壊すまで 30 秒 <!>": {
     "translation": "拆除电线还有30秒",
     "MultiLang": {
-      "US": "<!> 30 seconds until the wire is destroyed <!>",
+      "US": "<!> 30 seconds until wire disarm <!>",
       "JP": "",
       "CN": "拆除电线还有30秒",
       "KR": "<!> 와이어를 파괴할 때까지 30 초 <!>",
@@ -72,7 +72,7 @@
   "<!> ワイヤーを取り壊すまで 50 秒 <!>": {
     "translation": "拆除电线还有50秒",
     "MultiLang": {
-      "US": "<!> 50 seconds until the wire is destroyed <!>",
+      "US": "<!> 50 seconds until wire disarm <!>",
       "JP": "",
       "CN": "拆除电线还有50秒",
       "KR": "<!> 와이어를 파괴할 때까지 50 초 <!>",
@@ -82,7 +82,7 @@
   "<!> 倒木を取り除いている 10 秒 <!>": {
     "translation": "清除倒下的树木还有10秒",
     "MultiLang": {
-      "US": "<!> 10 seconds removing the fallen log <!>",
+      "US": "<!> Removing fallen logs for 10 seconds <!>",
       "JP": "",
       "CN": "清除倒下的树木还有10秒",
       "KR": "<!> 쓰러진 나무를 제거 중 10 초 <!>",
@@ -92,7 +92,7 @@
   "<!> 倒木を取り除いている 30 秒 <!>": {
     "translation": "清除倒下的树木还有30秒",
     "MultiLang": {
-      "US": "<!> 30 seconds removing the fallen log <!>",
+      "US": "<!> Removing fallen logs for 30 seconds <!>",
       "JP": "!<> 30秒で倒木を撤去中 <!>",
       "CN": "清除倒下的树木还有30秒",
       "KR": "<!> 쓰러진 나무를 제거 중 30 초 <!>",
@@ -102,7 +102,7 @@
   "<!> 倒木を取り除いている 40 秒 <!>": {
     "translation": "清除倒下的树木还有40秒",
     "MultiLang": {
-      "US": "<!> 40 seconds removing the fallen log <!>",
+      "US": "<!> Removing fallen logs for 40 seconds <!>",
       "JP": "!<> 40秒で倒木を除去中 <>",
       "CN": "清除倒下的树木还有40秒",
       "KR": "<!> 쓰러진 나무를 제거 중 40 초 <!>",
@@ -112,7 +112,7 @@
   "<!> 別の起動ボタンも必要のようだ... <!>": {
     "translation": "似乎还需要另一个启动按钮...",
     "MultiLang": {
-      "US": "<!> Another start button seems to be required... <!>",
+      "US": "<!> It seems another startup button is needed...<!>",
       "JP": "",
       "CN": "似乎还需要另一个启动按钮...",
       "KR": "<!> 다른 시작 버튼도 필요해 보인다... <!>",
@@ -122,7 +122,7 @@
   "<!> 大岩をどかす 10 秒 <!>": {
     "translation": "移开大岩石还有10秒",
     "MultiLang": {
-      "US": "<!> 10 seconds clearing the boulder <!>",
+      "US": "<!> Moving large rocks for 10 seconds <!>",
       "JP": "",
       "CN": "移开大岩石还有10秒",
       "KR": "<!> 큰 바위를 치우는 중 10 초 <!>",
@@ -132,7 +132,7 @@
   "<!> 大岩をどかす 20 秒 <!>": {
     "translation": "移开大岩石还有20秒",
     "MultiLang": {
-      "US": "<!> 20 seconds clearing the boulder <!>",
+      "US": "<!> Moving large rocks for 20 seconds <!>",
       "JP": "",
       "CN": "移开大岩石还有20秒",
       "KR": "<!> 큰 바위를 치우는 중 20 초 <!>",
@@ -142,7 +142,7 @@
   "<!> 大岩をどかす 30 秒 <!>": {
     "translation": "移开大岩石还有30秒",
     "MultiLang": {
-      "US": "<!> 30 seconds clearing the boulder <!>",
+      "US": "<!> Moving large rocks for 30 seconds <!>",
       "JP": "",
       "CN": "移开大岩石还有30秒",
       "KR": "<!> 큰 바위를 치우는 중 30 초 <!>",
@@ -152,7 +152,7 @@
   "<!> 橋を上げるまで 10 秒 <!>": {
     "translation": "桥梁上升还有10秒",
     "MultiLang": {
-      "US": "<!> 10 seconds until the bridge is raised <!>",
+      "US": "<!> Raising the bridge for 10 seconds <!>",
       "JP": "!<> ブリッジを上げるまで 10 秒 <!>",
       "CN": "桥梁上升还有10秒",
       "KR": "<!> 다리를 올릴 때까지 10 초 <!>",
@@ -162,7 +162,7 @@
   "<!> 橋を上げるまで 30 秒 <!>": {
     "translation": "桥梁上升还有30秒",
     "MultiLang": {
-      "US": "<!> 30 seconds until the bridge is raised <!>",
+      "US": "<!> Bridge raises in 30 seconds <!>",
       "JP": "!<＞橋を上げるまで 30 秒＜！>",
       "CN": "桥梁上升还有30秒",
       "KR": "<!> 다리를 올릴 때까지 30 초 <!>",
@@ -172,7 +172,7 @@
   "<!> 足場を上げるまで 10 秒 <!>": {
     "translation": "平台上升还有10秒",
     "MultiLang": {
-      "US": "<!> 10 seconds until the platform is raised <!>",
+      "US": "<!> Scaffold rises in 10 seconds <!>",
       "JP": "<!> てをあげるまで 10 秒 <!>",
       "CN": "平台上升还有10秒",
       "KR": "<!> 발판을 올릴 때까지 10 초 <!>",
@@ -182,7 +182,7 @@
   "<!> 足場を上げるまで 30 秒 <!>": {
     "translation": "平台上升还有30秒",
     "MultiLang": {
-      "US": "<!> 30 seconds until the platform is raised <!>",
+      "US": "<!> Scaffold rises in 30 seconds <!>",
       "JP": "",
       "CN": "平台上升还有30秒",
       "KR": "<!> 발판을 올릴 때까지 30 초 <!>",
@@ -192,7 +192,7 @@
   "<!> 運搬機の起動まで 10 秒 <!>": {
     "translation": "启动运输机还有10秒",
     "MultiLang": {
-      "US": "<!> 10 seconds until the transport unit is activated <!>",
+      "US": "<!> Transporter activates in 10 seconds <!>",
       "JP": "",
       "CN": "启动运输机还有10秒",
       "KR": "<!> 운반기 작동까지 10 초 <!>",
@@ -202,7 +202,7 @@
   "<!> 運搬機の起動まで 40 秒 <!>": {
     "translation": "启动运输机还有40秒",
     "MultiLang": {
-      "US": "<!> 40 seconds until the transport unit is activated <!>",
+      "US": "<!> Transporter activates in 40 seconds <!>",
       "JP": "",
       "CN": "启动运输机还有40秒",
       "KR": "<!> 운반기 작동까지 40 초 <!>",
@@ -222,7 +222,7 @@
   "\\\"*** LV2に移行 ***\\\"": {
     "translation": "*** 移步关卡2 ***",
     "MultiLang": {
-      "US": "\"*** LV2 Move ***\"",
+      "US": "\"*** Transitioning to Level 2 ***\"",
       "JP": "",
       "CN": "*** 移步关卡2 ***",
       "KR": "*** LV2에 이동 ***",
@@ -232,7 +232,7 @@
   "<!> ドアが開くまで 40 秒 <!>": {
     "translation": "门将在40秒后打开",
     "MultiLang": {
-      "US": "<!> 40 seconds until the door opens <!>",
+      "US": "<!> Door opens in 40 seconds <!>",
       "JP": "",
       "CN": "门将在40秒后打开",
       "KR": "<!> 문이 열릴 때까지 40 초 <!>",
@@ -242,7 +242,7 @@
   "<!> ワイヤーを取り壊すまで -- Break the wire 30 sec <!>": {
     "translation": "",
     "MultiLang": {
-      "US": "<!> Break the wire until it's severed -- Break the wire 30 sec <!>",
+      "US": "<!> Break the wire 30 sec <!>",
       "JP": "",
       "CN": "<!> 破坏电线直到... -- 破坏电线 30秒 <!",
       "KR": "<!> 와이어를 파괴할 때까지 -- Break the wire 30 sec <!>",
@@ -252,7 +252,7 @@
   "<!> ワイヤーを取り壊すまで -- Break the wire 10 sec <!>": {
     "translation": "",
     "MultiLang": {
-      "US": "<!> Break the wire until it's severed -- Break the wire 10 sec <!>",
+      "US": "<!> Break the wire 10 sec <!>",
       "JP": "",
       "CN": "<!> 破坏电线直到... -- 破坏电线 10秒 <!",
       "KR": "<!> 와이어를 파괴할 때까지 -- Break the wire 10 sec <!>",
@@ -272,7 +272,7 @@
   "<!> せんせいの人形を手に入れた！ -- Got the doll ! <!>": {
     "translation": "",
     "MultiLang": {
-      "US": "<!> Got the doll ! <!>",
+      "US": "<!> Got the doll! <!>",
       "JP": "",
       "CN": "<!> 获得了老师的娃娃！ -- 获得了娃娃！<!",
       "KR": "<!> 선생님의 인형을 얻었다! -- Got the doll ! <!>",
@@ -282,7 +282,7 @@
   "<!> ドアが開くまで -- Door open 30 sec <!>": {
     "translation": "",
     "MultiLang": {
-      "US": "<!> Door open until -- Door open 30 sec <!>",
+      "US": "<!> Door open 30 sec <!>",
       "JP": "",
       "CN": "<!> 直到门打开 -- 门打开 30秒 <!",
       "KR": "<!> 문이 열릴 때까지 -- Door open 30 sec <!>",
@@ -292,7 +292,7 @@
   "<!> ドアが開くまで -- Door open 10 sec <!>": {
     "translation": "",
     "MultiLang": {
-      "US": "<!> Door open until -- Door open 10 sec <!>",
+      "US": "<!> Door open 10 sec <!>",
       "JP": "",
       "CN": "<!> 直到门打开 -- 门打开 10秒 <!",
       "KR": "<!> 문이 열릴 때까지 -- Door open 10 sec <!>",
@@ -302,7 +302,7 @@
   "<!> 足場を上げるまで -- Scaffolding appears 30 sec <!>": {
     "translation": "",
     "MultiLang": {
-      "US": "<!> Scaffolding appears until -- Scaffolding appears 30 sec <!>",
+      "US": "<!> Scaffolding appears 30 sec <!>",
       "JP": "",
       "CN": "<!> 直到脚手架出现 -- 脚手架出现 30秒 <!",
       "KR": "<!> 발판을 올릴 때까지 -- Scaffolding appears 30 sec <!>",
@@ -312,7 +312,7 @@
   "<!> 足場を上げるまで -- Scaffolding appears 10 sec <!>": {
     "translation": "",
     "MultiLang": {
-      "US": "<!> Scaffolding appears until -- Scaffolding appears 10 sec <!>",
+      "US": "<!> Scaffolding appears 10 sec <!>",
       "JP": "",
       "CN": "<!> 直到脚手架出现 -- 脚手架出现 10秒 <!",
       "KR": "<!> 발판을 올릴 때까지 -- Scaffolding appears 10 sec <!>",
@@ -322,7 +322,7 @@
   "<!> 橋を上げるまで -- Scaffolding appears 30 sec <!>": {
     "translation": "",
     "MultiLang": {
-      "US": "<!> Until the bridge is raised -- Scaffolding appears 30 sec <!>",
+      "US": "<!> Time until bridge raises -- Scaffolding appears 30 sec <!>",
       "JP": "",
       "CN": "<!> 桥梁升起前 -- 支架出现 30 秒 <!>",
       "KR": "<!> 다리를 올릴 때까지 -- Scaffolding appears 30 sec <!>",
@@ -332,7 +332,7 @@
   "<!> 橋を上げるまで -- Scaffolding appears 10 sec <!>": {
     "translation": "",
     "MultiLang": {
-      "US": "<!> Until the bridge is raised -- Scaffolding appears 10 sec <!>",
+      "US": "<!> Time until bridge raises -- Scaffolding appears 10 sec <!>",
       "JP": "",
       "CN": "<!> 桥梁升起前 -- 支架出现 10 秒 <!>",
       "KR": "<!> 다리를 올릴 때까지 -- Scaffolding appears 10 sec <!>",
@@ -342,7 +342,7 @@
   "<!> 運搬機の起動まで -- Move ramp 40 sec <!>": {
     "translation": "",
     "MultiLang": {
-      "US": "<!> Until the transport mechanism starts -- Move ramp 40 sec <!>",
+      "US": "<!> Time until transport starts -- Move ramp 40 sec <!>",
       "JP": "",
       "CN": "<!> 运输机启动前 -- 移动坡道 40 秒 <!>",
       "KR": "<!> 운반기 작동까지 -- Move ramp 40 sec <!>",
@@ -352,7 +352,7 @@
   "<!> 運搬機の起動まで -- Move ramp 10 sec <!>": {
     "translation": "",
     "MultiLang": {
-      "US": "<!> Until the transport mechanism starts -- Move ramp 10 sec <!>",
+      "US": "<!> Time until transport starts -- Move ramp 10 sec <!>",
       "JP": "",
       "CN": "<!> 运输机启动前 -- 移动坡道 10 秒 <!>",
       "KR": "<!> 운반기 작동까지 -- Move ramp 10 sec <!>",
@@ -362,7 +362,7 @@
   "<!> 大岩をどかす -- Move the large rock 10 sec <!>": {
     "translation": "",
     "MultiLang": {
-      "US": "<!> Moving the large rock -- Move the large rock 10 sec <!>",
+      "US": "<!> Time until boulder moves -- Move the large rock 10 sec <!>",
       "JP": "",
       "CN": "<!> 移动大岩石 -- 移动大岩石 10 秒 <!>",
       "KR": "<!> 큰 바위를 치우는 중 -- Move the large rock 10 sec <!>",
@@ -372,7 +372,7 @@
   "<!> 大岩をどかす -- Move the large rock 20 sec <!>": {
     "translation": "",
     "MultiLang": {
-      "US": "<!> Moving the large rock -- Move the large rock 20 sec <!>",
+      "US": "<!> Time until boulder moves -- Move the large rock 20 sec <!>",
       "JP": "",
       "CN": "<!> 移动大岩石 -- 移动大岩石 20 秒 <!>",
       "KR": "<!> 큰 바위를 치우는 중 -- Move the large rock 20 sec <!>",
@@ -382,7 +382,7 @@
   "<!> 大岩をどかす -- Move the large rock 30 sec <!>": {
     "translation": "",
     "MultiLang": {
-      "US": "<!> Moving the large rock -- Move the large rock 30 sec <!>",
+      "US": "<!> Time until boulder moves -- Move the large rock 30 sec <!>",
       "JP": "",
       "CN": "<!> 移动大岩石 -- 移动大岩石 30 秒 <!>",
       "KR": "<!> 큰 바위를 치우는 중 -- Move the large rock 30 sec <!>",
@@ -392,7 +392,7 @@
   "<!> 別のボタンも必要だ -- Another button is also needed <!>": {
     "translation": "",
     "MultiLang": {
-      "US": "<!> Another button is also needed",
+      "US": "<!> Another button is also needed <!>",
       "JP": "",
       "CN": "<!> 还需要另一个按钮 -- Another button is also needed",
       "KR": "<!> 다른 버튼도 필요하다 -- Another button is also needed <!>",
@@ -402,7 +402,7 @@
   "<!> ワイヤーを取り壊すまで -- Break the wire 50 sec <!>": {
     "translation": "",
     "MultiLang": {
-      "US": "<!> Break the wire until it's disconnected -- Break the wire 50 sec <!>",
+      "US": "<!> Break the wire 50 sec <!>",
       "JP": "",
       "CN": "<!> 破坏电线，持续 50 秒 <!>",
       "KR": "<!> 와이어를 파괴할 때까지 -- Break the wire 50 sec <!>",
@@ -412,7 +412,7 @@
   "<!> 倒木をどかす -- Clear away fallen trees 30 sec <!>": {
     "translation": "",
     "MultiLang": {
-      "US": "<!> Clear away fallen trees -- Clear away fallen trees 30 sec <!>",
+      "US": "<!> Clear away fallen trees 30 sec <!>",
       "JP": "",
       "CN": "<!> 移除倒木，持续 30 秒 <!>",
       "KR": "<!> 쓰러진 나무를 치우는 중 -- Clear away fallen trees 30 sec <!>",
@@ -422,7 +422,7 @@
   "<!> 倒木をどかす -- Clear away fallen trees 10 sec <!>": {
     "translation": "",
     "MultiLang": {
-      "US": "<!> Clear away fallen trees -- Clear away fallen trees 10 sec <!>",
+      "US": "<!> Clear away fallen trees 10 sec <!>",
       "JP": "",
       "CN": "<!> 移除倒木，持续 10 秒 <!>",
       "KR": "<!> 쓰러진 나무를 치우는 중 -- Clear away fallen trees 10 sec <!>",
@@ -432,7 +432,7 @@
   "<!> 倒木をどかす -- Clear away fallen trees 40 sec <!>": {
     "translation": "",
     "MultiLang": {
-      "US": "<!> Clear away fallen trees -- Clear away fallen trees 40 sec <!>",
+      "US": "<!> Clear away fallen trees 40 sec <!>",
       "JP": "",
       "CN": "<!> 移除倒木，持续 40 秒 <!>",
       "KR": "<!> 쓰러진 나무를 치우는 중 -- Clear away fallen trees 40 sec <!>",
@@ -442,7 +442,7 @@
   "<!> ドアが開くまで -- Door open 40 sec <!>": {
     "translation": "",
     "MultiLang": {
-      "US": "<!> Wait for the door to open -- Door open 40 sec <!>",
+      "US": "<!> Door open 40 sec <!>",
       "JP": "",
       "CN": "<!> 门打开，持续 40 秒 <!>",
       "KR": "<!> 문이 열릴 때까지 -- Door open 40 sec <!>",
@@ -452,7 +452,7 @@
   "<!> ここが最後の防衛です！ -- Last Defend 60 sec <!>": {
     "translation": "",
     "MultiLang": {
-      "US": "<!> This is the final defense! -- Last Defend 60 sec <!>",
+      "US": "<!> Last Defend 60 sec <!>",
       "JP": "",
       "CN": "<!> 这是最后的防守！持续 60 秒 <!>",
       "KR": "<!> 이곳이 마지막 방어입니다! -- Last Defend 60 sec <!>",
@@ -462,7 +462,7 @@
   "<!> ここが最後の防衛です！ -- Last Defend 10 sec <!>": {
     "translation": "",
     "MultiLang": {
-      "US": "<!> This is the final defense! -- Last Defend 10 sec <!>",
+      "US": "<!> Last Defend 10 sec <!>",
       "JP": "",
       "CN": "<!> 这是最后的防守！持续 10 秒 <!>",
       "KR": "<!> 이곳이 마지막 방어입니다! -- Last Defend 10 sec <!>",
@@ -472,7 +472,7 @@
   "<!> 防衛システムが発動する -- The defense system activates. 30 sec <!>": {
     "translation": "",
     "MultiLang": {
-      "US": "<!> The defense system activates. -- The defense system activates. 30 sec <!>",
+      "US": "<!> The defense system activates. 30 sec <!>",
       "JP": "",
       "CN": "<!> 防御系统启动，持续 30 秒 <!>",
       "KR": "<!> 방어 시스템이 작동합니다 -- 방어 시스템이 작동합니다. 30초 <!>",
@@ -482,7 +482,7 @@
   "<!> 防衛システムが発動する -- The defense system activates. 10 sec <!>": {
     "translation": "",
     "MultiLang": {
-      "US": "<!> The defense system activates. 10 sec <!>",
+      "US": "<!> Defense system activating -- The defense system activates. 10 sec <!>",
       "JP": "",
       "CN": "<!> 防御系统启动 -- 防御系统激活。10秒 <!>",
       "KR": "<!> 방어 시스템이 작동합니다 -- 방어 시스템이 작동합니다. 10초 <!>",
@@ -502,7 +502,7 @@
   "\"「ビビビ、ジンダイナソンショウヲカクニン。キノウテイシ。キノウテイシ。」\"": {
     "translation": "",
     "MultiLang": {
-      "US": "\"Vibibi, someone is recording the Jindainason show. It's a recording. It's a recording.\"",
+      "US": "\"Bibibi, confirm Jindai Nasoshou. Procedure cancellation. Procedure cancellation.\"",
       "JP": "",
       "CN": "\"哔哔哔，正在记录恐龙表演。正在记录。正在记录。\"",
       "KR": "\"「삐비비, 진다이나손쇼우를 각인. 기노우테이시. 기노우테이시.」\"",
@@ -512,7 +512,7 @@
   "<!> 戦闘勝利！！ <!>": {
     "translation": "",
     "MultiLang": {
-      "US": "<!> Battle victory!! <!>",
+      "US": "<!> Battle Victory!! <!>",
       "JP": "<!> 戦闘勝利！！ <!>",
       "CN": "",
       "KR": "<!> 전투 승리！！ <!>",
