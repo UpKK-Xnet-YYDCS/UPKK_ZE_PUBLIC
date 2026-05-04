@@ -6,87 +6,87 @@
       "JP": "ze_variis",
       "CN": "ze_variis",
       "KR": "ze_variis",
-      "TW": "來自各方的支持"
+      "TW": "ze_variis"
     }
   },
   "creat by : Amaya": {
     "translation": "",
     "MultiLang": {
       "US": "",
-      "JP": "作成者: Amaya",
-      "CN": "创作人员：Amaya",
-      "KR": "제작: Amaya",
-      "TW": "製作人：Amaya"
+      "JP": "作成: Amaya",
+      "CN": "由Amaya创建",
+      "KR": "제작 : Amaya",
+      "TW": "創作者：Amaya"
     }
   },
   "mapping help , brush make help : fubukifox": {
     "translation": "",
     "MultiLang": {
       "US": "",
-      "JP": "マッピング協力、ブラッシュ作成協力: fubukifox",
-      "CN": "地图协助，刷子制作协助：fubukifox",
-      "KR": "맵핑 지원, 브러시 제작 지원: fubukifox",
-      "TW": "地圖協助、塗刷繪製支援：fubukifox"
+      "JP": "マップ制作支援、ブリッシュ制作支援: fubukifox",
+      "CN": "地图协助，画笔制作：fubukifox",
+      "KR": "맵 디자인, 브러시 제작协助 : fubukifox",
+      "TW": "地圖協助，画笔製作协助：fubukifox"
     }
   },
   "GateOpen : 20": {
     "translation": "",
     "MultiLang": {
       "US": "",
-      "JP": "ゲート解放: 20",
-      "CN": "闸门开启：20",
-      "KR": "문 열림: 20",
-      "TW": "柵欄開啟次數：20"
+      "JP": "ゲート開く: 20",
+      "CN": "城门开启时间：20",
+      "KR": "게이트 열기 : 20",
+      "TW": "傳送門開啟時間：20"
     }
   },
   "Teleport gate open : 20": {
     "translation": "",
     "MultiLang": {
       "US": "",
-      "JP": "テレポートゲート解放: 20",
-      "CN": "传送门开启：20",
-      "KR": "테레포트 문 열림: 20",
-      "TW": "傳送門開啟次數：20"
+      "JP": "テレポートゲート開く: 20",
+      "CN": "传送门开启时间：20",
+      "KR": "텔레포트 게이트 열기 : 20",
+      "TW": "瞬間移動傳送門開啟時間：20"
     }
   },
   "gate open : 20": {
     "translation": "",
     "MultiLang": {
       "US": "",
-      "JP": "ゲート解放: 20",
-      "CN": "闸门开启：20",
-      "KR": "문 열림: 20",
-      "TW": "柵欄開啟次數：20"
+      "JP": "ゲート開く: 20",
+      "CN": "城门开启时间：20",
+      "KR": "게이트 열기 : 20",
+      "TW": "傳送門開啟時間：20"
     }
   },
   "gate open : 25": {
     "translation": "",
     "MultiLang": {
       "US": "",
-      "JP": "ゲート解放: 25",
-      "CN": "闸门开启：25",
-      "KR": "문 열림: 25",
-      "TW": "柵欄開啟次數：25"
+      "JP": "ゲート開く: 25",
+      "CN": "城门开启时间：25",
+      "KR": "게이트 열기 : 25",
+      "TW": "傳送門開啟時間：25"
     }
   },
   "under path open : 25": {
     "translation": "",
     "MultiLang": {
       "US": "",
-      "JP": "アンダーパス開放: 25",
-      "CN": "地下路径开启：25",
-      "KR": "아래 경로 열림: 25",
-      "TW": "地下路徑開啟次數：25"
+      "JP": "地下道開く: 25",
+      "CN": "地下通道开启时间：25",
+      "KR": "UNDER PATH 게이트 열기 : 25",
+      "TW": "隱藏路徑開啟時間：25"
     }
   },
   "wood door break : 20": {
     "translation": "",
     "MultiLang": {
       "US": "",
-      "JP": "木製の扉を破壊する：20",
-      "CN": "木门 破坏 : 20",
-      "KR": "나무 문 깨짐 : 20",
-      "TW": "木門耐久：20"
+      "JP": "木製のドア破壊 : 20",
+      "CN": "木门耐久 : 20",
+      "KR": "나무 문 깨짐: 20",
+      "TW": "木門打破：20"
     }
   },
   "Back Back": {
@@ -94,7 +94,7 @@
     "MultiLang": {
       "US": "",
       "JP": "バック バック",
-      "CN": "回到背面",
+      "CN": "返回",
       "KR": "뒤로 뒤로",
       "TW": "後退"
     }
@@ -103,7 +103,7 @@
     "translation": "",
     "MultiLang": {
       "US": "",
-      "JP": "A：こんにちは",
+      "JP": "A : こんにちは",
       "CN": "A : 你好",
       "KR": "A : 안녕하세요",
       "TW": "A：你好"
@@ -123,9 +123,9 @@
     "translation": "",
     "MultiLang": {
       "US": "",
-      "JP": "A 攻撃：なし",
+      "JP": "A 攻撃 : なし",
       "CN": "A 攻击 : 无",
-      "KR": "A 공격 : 없음",
+      "KR": "A 공격: 없음",
       "TW": "A 攻擊：無"
     }
   },
@@ -133,19 +133,19 @@
     "translation": "",
     "MultiLang": {
       "US": "",
-      "JP": "A：ん…よし、次の扉を開けよう",
-      "CN": "A : 嗯 …… 好的，下一扇门打开了",
-      "KR": "A : 음... 좋네요, 다음 문을 열어요",
-      "TW": "A：嗯…好的，開下一扇門"
+      "JP": "A : うん ... いいわ 次のドアを開けて",
+      "CN": "A : 嗯……好的，下一扇门已打开",
+      "KR": "A : 음... 자 다음 문 여세요",
+      "TW": "A：嗯……好的，下一扇門打開"
     }
   },
   "B : hi": {
     "translation": "",
     "MultiLang": {
       "US": "",
-      "JP": "B：やあ",
+      "JP": "B : やあ",
       "CN": "B : 嗨",
-      "KR": "B : hi",
+      "KR": "B : 안녕",
       "TW": "B：嗨"
     }
   },
@@ -164,8 +164,8 @@
     "MultiLang": {
       "US": "",
       "JP": "B攻撃 : zpush",
-      "CN": "B攻击：zpush",
-      "KR": "B 공격 : zsquat",
+      "CN": "B 攻击：zpush",
+      "KR": "B 공격 : zpush",
       "TW": "B 攻擊：zpush"
     }
   },
@@ -173,9 +173,9 @@
     "translation": "",
     "MultiLang": {
       "US": "",
-      "JP": "B攻撃 : 押し",
-      "CN": "B攻击：push",
-      "KR": "B 공격 : 밀기",
+      "JP": "B攻撃 : 押す",
+      "CN": "B 攻击：push",
+      "KR": "B 공격 : 밀치기",
       "TW": "B 攻擊：push"
     }
   },
@@ -183,19 +183,19 @@
     "translation": "",
     "MultiLang": {
       "US": "",
-      "JP": "B： whaaaaaa!!!!",
+      "JP": "B : うわああああん!!!!",
       "CN": "B：哇啊啊啊!!!!",
-      "KR": "B : 우아아아!!!!!",
-      "TW": "B：嗚嗚嗚嗚嗚!!!!"
+      "KR": "B : 으아아아아아!!!!",
+      "TW": "B：哇啊啊啊！！！"
     }
   },
   "B : im defeat ... ?": {
     "translation": "",
     "MultiLang": {
       "US": "",
-      "JP": "B： 撃沈されちゃった…？",
-      "CN": "B：我被击败了...？",
-      "KR": "B : 내 패배... ?",
+      "JP": "B : 倒れた…？",
+      "CN": "B：我被打败了...？",
+      "KR": "B : 내가 진 건가... ?",
       "TW": "B：我被打敗了...？"
     }
   },
@@ -203,7 +203,7 @@
     "translation": "",
     "MultiLang": {
       "US": "",
-      "JP": "防御力 : 15",
+      "JP": "防御 : 15",
       "CN": "防御：15",
       "KR": "방어 : 15",
       "TW": "防禦：15"
@@ -213,10 +213,10 @@
     "translation": "",
     "MultiLang": {
       "US": "",
-      "JP": "ルートドア : 30",
-      "CN": "rote门：30",
+      "JP": "ルートのドア : 30",
+      "CN": "rote 门：30",
       "KR": "rote 문 : 30",
-      "TW": "rote 門：30"
+      "TW": "銹門：30"
     }
   },
   "20....": {
@@ -253,9 +253,9 @@
     "translation": "",
     "MultiLang": {
       "US": "",
-      "JP": "核爆弾",
+      "JP": "核爆発",
       "CN": "核弹",
-      "KR": "핵탄두",
+      "KR": "핵폭탄",
       "TW": "核彈"
     }
   },
@@ -263,10 +263,10 @@
     "translation": "",
     "MultiLang": {
       "US": "",
-      "JP": "A攻撃 : シェイク",
-      "CN": "A攻击：shake",
+      "JP": "A攻撃 : 揺れる",
+      "CN": "A 攻击：shake",
       "KR": "A 공격 : 흔들기",
-      "TW": "A 攻擊：震動"
+      "TW": "A 攻擊：震盪"
     }
   },
   "B attack : none": {
@@ -276,7 +276,7 @@
       "JP": "B攻撃：なし",
       "CN": "B 攻击：无",
       "KR": "B 공격 : 없음",
-      "TW": ""
+      "TW": "B 攻擊：無"
     }
   },
   "A attack : zpush": {
@@ -286,17 +286,17 @@
       "JP": "A攻撃：zpush",
       "CN": "A 攻击：zpush",
       "KR": "A 공격 : zpush",
-      "TW": ""
+      "TW": "A 攻擊：zpush"
     }
   },
   "A : bye zombie ~": {
     "translation": "",
     "MultiLang": {
       "US": "",
-      "JP": "A：さようならゾンビ〜",
-      "CN": "A：拜拜僵尸~",
-      "KR": "A : bye zombie ~",
-      "TW": ""
+      "JP": "A：bye zombie ～",
+      "CN": "A：再见僵尸~",
+      "KR": "A : Bye Zombie ~",
+      "TW": "再見嘍，殭屍～"
     }
   },
   "A attack : push": {
@@ -304,9 +304,9 @@
     "MultiLang": {
       "US": "",
       "JP": "A攻撃：push",
-      "CN": "A 攻击：push",
+      "CN": "A 攻击：推",
       "KR": "A 공격 : push",
-      "TW": ""
+      "TW": "攻擊：擊退"
     }
   }
 }

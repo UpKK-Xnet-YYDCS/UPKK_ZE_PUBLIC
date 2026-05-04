@@ -83,20 +83,20 @@
     "translation": "",
     "MultiLang": {
       "US": "Elevator ascending...",
-      "JP": "エレベーターが上昇中です...",
+      "JP": "エレベータが上昇中...",
       "CN": "",
-      "KR": "엘리베이터가 상승 중입니다...",
-      "TW": "电梯上升中..."
+      "KR": "엘리베이터 상승 중...",
+      "TW": "電梯正在上升……"
     }
   },
   "电梯将在45s后下降": {
     "translation": "",
     "MultiLang": {
-      "US": "The elevator will descend in 45 seconds.",
-      "JP": "エレベーターは45秒後に下降します",
+      "US": "The elevator will descend in 45s",
+      "JP": "エレベータは45秒後に降下します",
       "CN": "",
-      "KR": "엘리베이터는 45초 후에 하강합니다",
-      "TW": "电梯将在45秒后下降"
+      "KR": "45초 후 엘리베이터가 하강합니다.",
+      "TW": "電梯將在45秒後下降"
     }
   },
   "<我们成功进入了实验室内部>": {
@@ -142,31 +142,31 @@
   "Tip1:实验室内部有人类神器与次数补给,对守点至关重要": {
     "translation": "",
     "MultiLang": {
-      "US": "Tip 1: The laboratory contains human artifacts and supply refills, which are crucial for defense.",
-      "JP": "ヒント1：研究室内には、人型アイテムとリトライ回数の補給ポイントがあり、防衛に非常に重要です。",
+      "US": "Tip1: There are human artifacts and replenishment inside the laboratory, which are crucial for holding a point",
+      "JP": "Tip1: ラボ内部にはヒューマングッズとリスポーン地点の補充があり、守備に非常に重要です",
       "CN": "",
-      "KR": "팁 1: 연구실 내에는 인간의 유물과 사용 횟수 보급품이 있으며, 방어에 매우 중요합니다",
-      "TW": "提示1：实验室内部有人类神器和次数补给，对守点至关重要"
+      "KR": "팁1: 실험실 내부에는 인간神器와 회수 보충대가 있습니다. 방어 지점에서 매우 중요합니다.",
+      "TW": "Tip1：實驗室內部有人類神器與次數补给，對守點至關重要"
     }
   },
   "Tip2: 拾取两侧的人类神器之后将会允许僵尸从两侧进攻，并解锁强力的僵尸神器": {
     "translation": "",
     "MultiLang": {
-      "US": "Tip 2: After collecting the artifacts on both sides, zombies will be able to attack from both sides, and powerful zombie artifacts will be unlocked.",
-      "JP": "ヒント2：左右の人型アイテムを回収すると、ゾンビが左右から攻撃できるようになり、強力なゾンビアイテムがアンロックされます。",
+      "US": "Tip2: After picking up the human artifacts on both sides, zombies will be allowed to attack from both sides, and powerful zombie artifacts will be unlocked",
+      "JP": "Tip2: 両側のヒューマングッズを回収すると、両側からゾンビが攻撃できるようになり、強力なゾンビグッズアンロック",
       "CN": "",
-      "KR": "팁 2: 양쪽의 인간 유물을 획득하면 좀비가 양쪽에서 공격할 수 있게 되고, 강력한 좀비 유물을 해금할 수 있습니다",
-      "TW": "提示2：拾取两侧的人类神器后，将会允许僵尸从两侧进攻，并解锁强大的僵尸神器"
+      "KR": "팁2: 양측의 인간神器를 수집하면 양쪽에서 좀비가 공격할 수 있게 되며, 강력한 좀비神器가 잠금 해제됩니다.",
+      "TW": "Tip2：拾取兩側的人類神器後，將允許殭屍從兩側進攻，並解鎖強力的殭屍神器"
     }
   },
   "<如果一切都准备妥当，前往黑色房间进入地下二层": {
     "translation": "",
     "MultiLang": {
-      "US": "<If everything is prepared, proceed to the black room to enter the second underground level.",
-      "JP": "<全てが準備できたら、黒い部屋へ行き、地下2階へ進んでください。",
+      "US": "<If everything is ready, go to the black room to enter the underground level 2",
+      "JP": "<すべての準備が整ったら黒い部屋へ向かい、地下2階に入る",
       "CN": "",
-      "KR": "<모든 준비가 완료되면, 검은 방으로 이동하여 지하 2층으로 진입하세요",
-      "TW": "<如果一切都准备妥当，前往黑色房间进入地下二层"
+      "KR": "<모든 준비가 완료되었다면 검은 방으로 이동하여 지하 2층으로 내려갑니다.>",
+      "TW": "<如果一切準備就緒，請前往黑色房間進入地下二層"
     }
   },
   "<红色房间将在40s后解锁>": {
@@ -292,11 +292,11 @@
   "<所有的僵尸在5s后传送": {
     "translation": "",
     "MultiLang": {
-      "US": "<All zombies will teleport in 5 seconds.",
-      "JP": "<全てのゾンビが5秒後にテレポートします。",
+      "US": "<All zombies teleport in 5s",
+      "JP": "<すべてのゾンビは5秒後にテレポートされます",
       "CN": "",
-      "KR": "<모든 좀비가 5초 후에 순간이동합니다",
-      "TW": "<所有僵尸将在5秒后传送"
+      "KR": "<모든 좀비가 5초 후에 텔레포트됩니다.>",
+      "TW": "<所有殭屍將在5秒後傳送"
     }
   },
   "<看起来我们需要关闭三处阀门，分散行动吧>": {
@@ -342,11 +342,11 @@
   "<<找到了燃料补给,火枪与冰枪的使用次数加1>>": {
     "translation": "",
     "MultiLang": {
-      "US": "<<Fuel supply found. Increases the usage count of the flamethrower and ice gun by 1.>>",
-      "JP": "<<燃料補給を見つけました。火炎銃と氷結銃の使用回数が1回増加します。>>",
+      "US": "<<Found fuel replenishment, the number of use of flame gun and ice gun +1>>",
+      "JP": "<<燃料の補充を発見、火器と氷銃の使用回数が1増加>>",
       "CN": "",
-      "KR": "<<\"연료 보급품을 찾았습니다. 화염총과 빙결총의 사용 횟수가 1회 증가합니다>>",
-      "TW": "《找到了燃料补给，火枪与冰枪的使用次数加1》"
+      "KR": "<<연료 보충대를 찾았으며, 화염 총과 빙하 총의 사용 횟수가 1회 증가합니다.>>",
+      "TW": "<<找到了燃料补给，火槍與冰槍的使用次數加1>>"
     }
   },
   "<阀门3号已经成功关闭>": {
@@ -472,11 +472,11 @@
   "<大门正在关闭，不要让僵尸进来>>": {
     "translation": "",
     "MultiLang": {
-      "US": "<The door is closing. Do not let any zombies in.>",
-      "JP": "<扉が閉まっています。ゾンビを侵入させないでください。",
+      "US": "<The doors are closing, don't let zombies in>>",
+      "JP": "<門が閉じています、ゾンビを入れないでください>>",
       "CN": "",
-      "KR": "<문이 닫히고 있습니다. 좀비가 들어오지 못하게 하세요>",
-      "TW": "<大门正在关闭，不要让僵尸进来>"
+      "KR": "<대문이 닫히고 있습니다, 좀비가 들어오지 못하게 하세요.>>",
+      "TW": "<大門正在關閉，不要讓殭屍進來>>"
     }
   },
   "<我们安全了，只是...>": {
@@ -532,21 +532,21 @@
   "<< 一位僵尸觉醒了毒素力量 >>": {
     "translation": "",
     "MultiLang": {
-      "US": "<<A zombie awakened with the power of poison.>>",
-      "JP": "「一位ゾンビが毒の力を覚醒しました」",
+      "US": "<< A zombie awakens the power of toxicity >>",
+      "JP": "<< 一人のゾンビが毒能力を覚醒 >>",
       "CN": "",
-      "KR": "<<한 마리의 좀비가 독소 능력을 각성했습니다>>",
-      "TW": "《一位僵尸觉醒了毒素力量》"
+      "KR": "<< 좀비가 독성 능력을 각신했습니다 >>",
+      "TW": "一位殭屍覺醒了毒素力量"
     }
   },
   "<< 一位僵尸觉醒了再生力量 >>": {
     "translation": "",
     "MultiLang": {
-      "US": "<<A zombie awakened with the power of regeneration.>>",
-      "JP": "「一位ゾンビが再生の力を覚醒しました」",
+      "US": "<< A zombie awakens the power of regeneration >>",
+      "JP": "<< 一人のゾンビが再生能力を覚醒 >>",
       "CN": "",
-      "KR": "<<한 마리의 좀비가 재생 능력을 각성했습니다>>",
-      "TW": "《一位僵尸觉醒了再生力量》"
+      "KR": "<< 좀비가 재생 능력을 각신했습니다 >>",
+      "TW": "一位殭屍覺醒了再生力量"
     }
   }
 }
