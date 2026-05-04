@@ -2,41 +2,41 @@
   "(*电流声*)": {
     "translation": "(*电流声*)",
     "MultiLang": {
-      "US": "(*electric current sound*)",
-      "JP": "(*電流の音*)",
+      "US": "(Static noise)",
+      "JP": "（電流音）",
       "CN": "(*电流声*)",
-      "KR": "(전류 소리 *)",
-      "TW": "(*電流聲*)"
+      "KR": "(*전류음*)",
+      "TW": "（電流聲）"
     }
   },
   "(声音突然被打断，随后又继续)": {
     "translation": "(声音突然被打断，随后又继续)",
     "MultiLang": {
-      "US": "(Sound is suddenly interrupted and then continues)",
-      "JP": "(声が突然遮断されるとすぐに再開します)",
+      "US": "(Voice is suddenly cut off, then resumes)",
+      "JP": "（音が途切れた後、再び続く）",
       "CN": "(声音突然被打断，随后又继续)",
-      "KR": "(음성이 갑자기 중단된 후 다시 시작되었습니다)",
-      "TW": "(聲音突然被 Interruptions, 隨後又繼續)"
+      "KR": "(소리가 갑자기 중단되었다가 다시 이어짐)",
+      "TW": "（聲音突然中斷，隨後又恢復）"
     }
   },
   "(收音机声渐渐消失，留下一片死寂)": {
     "translation": "(收音机声渐渐消失，留下一片死寂)",
     "MultiLang": {
-      "US": "(Radio static fades, leaving a silence)",
-      "JP": "(ラジオの音が徐々に遠くなり、静寂だけが残る)",
+      "US": "(Radio static fades away, leaving dead silence)",
+      "JP": "（ラジオの音が次第に消え、静寂だけが残る）",
       "CN": "(收音机声渐渐消失，留下一片死寂)",
-      "KR": "(라디오 소리가 점점 사라져 조용함만이 남아서)",
-      "TW": "(收音機聲漸渐消失，留下1片死寂)"
+      "KR": "(라디오 소리가 천천히 사라지고,的死寂이 남음)",
+      "TW": "（收音機的聲音逐漸消失，留下死寂）"
     }
   },
   "(收音机静静地嘶嘶作响，偶尔伴随着嘈杂的干扰声)": {
     "translation": "(收音机静静地嘶嘶作响，偶尔伴随着嘈杂的干扰声)",
     "MultiLang": {
-      "US": "(Radio hisses quietly, occasionally interrupted by static noise)",
-      "JP": "(ラジオは静かにさししゃstriction作る音を吐き出し、時折干渉する雑音が混ざる)",
+      "US": "(The radio hisses quietly, occasionally accompanied by crackling interference)",
+      "JP": "（ラジオから静かなノイズが絶え間なく流れ、時折ノイズの交じった音が聞こえる）",
       "CN": "(收音机静静地嘶嘶作响，偶尔伴随着嘈杂的干扰声)",
-      "KR": "(라디오가 조용히 시시거품 소리만 내고, 때로는 난청一样的噪音相伴)",
-      "TW": "(收音机靜靜地嘶嘶作響， Occasionally伴随着嘈雜的干擾聲)>>"
+      "KR": "(라디오가 조용히 쉭쉭거리며, 때때로 격한 잡음이 섞임)",
+      "TW": "（收音機安靜地發出沙沙聲，偶爾夾雜著干擾噪聲）"
     }
   },
   "*...*": {
@@ -52,70 +52,70 @@
   "*……紧急新闻……断断续续的报告显示，多个区域爆发了不明病毒……人们变得极度暴力，感觉不到痛苦……请立即撤离，不要与任何人接触……记住，保持冷静，寻找安全的庇护所……*": {
     "translation": "*……紧急新闻……断断续续的报告显示，多个区域爆发了不明病毒……人们变得极度暴力，感觉不到痛苦……请立即撤离，不要与任何人接触……记住，保持冷静，寻找安全的庇护所……*",
     "MultiLang": {
-      "US": "***...Emergency News... Intermittent reports indicate multiple areas experiencing outbreaks of an unknown virus... People have become extremely violent, showing no pain... Evacuate immediately and do not contact anyone... Remember, stay calm and find a safe shelter...***",
-      "JP": "*……緊急ニュース……断続的な報告では、複数の地域で不明なウィルスが発生しているらしい……人々は極度に暴行的になり、痛みを感じないようだ……直ちに避難し、誰とも接触しないこと……記憶しよう、冷静を保ち、安全な避難所を見つけること……*",
+      "US": "...Breaking news... Intermittent reports indicate outbreaks of an unidentified virus in multiple areas... People have become extremely violent and feel no pain... Evacuate immediately, do not interact with anyone... Remember, stay calm and find a safe shelter...",
+      "JP": "*……緊急ニュース……断続的に寄せられた報告によると、複数の地域で原因不明のウイルスが蔓延しています……人々は極端な暴力行為に走り、痛みを感じなくなっています……ただちに避難してください。他者との接触は絶対に避けてください……冷静さを持ち、安全な避難先を探してください……*",
       "CN": "*……紧急新闻……断断续续的报告显示，多个区域爆发了不明病毒……人们变得极度暴力，感觉不到痛苦……请立即撤离，不要与任何人接触……记住，保持冷静，寻找安全的庇护所……*",
-      "KR": "*……급하게 전달되는 뉴스……다수의 지역에서 불명의 바이러스 발발 보고…the人们变得极度暴力，感觉不到痛苦……请立即撤离，不要与任何人接触……记住，保持冷静，寻找安全的庇护所……*",
-      "TW": "*……緊急新聞……斷斷續續的報告顯示，多個區域爆發了不明病毒……人們變得極端暴力，感覺不到痛苦……請立即撤離，不要與任何人接觸……記住，保持冷静，尋找安全的庇護所……*"
+      "KR": "*……비상 뉴스……断续적인 보고서에 따르면 여러 지역에서不明 바이러스가 발생했습니다…… 사람들이 극도로 공격적이 되고 고통을 느끼지 못합니다…… 즉시 대피하십시오. 누구와도 접촉하지 마십시오…… 기억하세요, 냉정함을 유지하고 안전한 피난처를 찾으세요……*",
+      "TW": "……緊急新聞……斷斷續續的報告顯示，多個區域爆發了不明病毒……人們變得極度暴力，感覺不到痛苦……請立即撤離，不要與任何人接觸……記住，保持冷靜，尋找安全的庇護所……"
     }
   },
   "*……这是一个前所未有的危机……政府已经启动紧急状态……所有居民请保持警惕，关闭窗户和门，尽量储存食物和水……我们会继续为您更新信息，切勿外出……*": {
     "translation": "*……这是一个前所未有的危机……政府已经启动紧急状态……所有居民请保持警惕，关闭窗户和门，尽量储存食物和水……我们会继续为您更新信息，切勿外出……*",
     "MultiLang": {
-      "US": "***...This is an unprecedented crisis... The government has activated the emergency state... All residents, please remain alert, close windows and doors, and try to stock up on food and water... We will continue to update you with information, do not go out...***",
-      "JP": "…これはこれまでにない危機です…政府が緊急事態を宣言しました…全員、警戒してください。窓とドアを閉めてください。食料と水をできるだけ保存してください…最新情報は継続して提供しますので、外出は避けてください…",
+      "US": "...This is an unprecedented crisis... The government has declared a state of emergency... All residents please stay vigilant, close windows and doors, and stockpile food and water as much as possible... We will continue to update you with information. Do not go outside...",
+      "JP": "*……これは前例のない危機です……政府は緊急事態を宣言しました……すべての市民は警戒を解かず、窓とドアを閉め、食料と水の備蓄をお願いします……情報配信は続行いたします。外出厳禁です……*",
       "CN": "*……这是一个前所未有的危机……政府已经启动紧急状态……所有居民请保持警惕，关闭窗户和门，尽量储存食物和水……我们会继续为您更新信息，切勿外出……*",
-      "KR": "***…)前所未有한 위기입니다… 정부는 긴급상태를 선포했습니다… 모든 주민들은 경계하십시오. 창문과 문은 닫고, 식량과 물을 최대한 보관하십시오… 정보가 추가될 때마다 계속 업데이트하겠습니다. 외출하지 마세요…***",
-      "TW": "*……這是1個前所未有的危機……政府已經啟動緊急狀態……所有居民請保持警惕，關閉窗戶和門，盡量儲存食物和水……我們會繼續為您更新信息，切勿外出……*"
+      "KR": "*……이전에 없었던 위기입니다…… 정부는 비상 상태를 선포했습니다…… 모든 주민은 경계를 늦추지 말고 창문과 문을 닫으시며, 음식을 물과 함께 최대한 비축하십시오…… 정보를 계속 업데이트해 드리겠습니다. 절대 외출하지 마십시오……*",
+      "TW": "……這是一個前所未有的危機……政府已經啟動緊急狀態……所有居民請保持警惕，關閉窗戶和門，盡量儲存食物和水……我們會繼續為您更新資訊，切勿外出……"
     }
   },
   "*一定是通讯器经过辐射区的时候损坏了*": {
     "translation": "*一定是通讯器经过辐射区的时候损坏了*",
     "MultiLang": {
-      "US": "*Must have been damaged by the radiation zone when the communicator passed through.*",
-      "JP": "*通信機は輻射区域を通過したときに破損しました*",
+      "US": "The communication device must have been damaged when it passed through the radiation zone.",
+      "JP": "*通信機が放射能汚染区域を通過する際に損傷したのでしょう*",
       "CN": "*一定是通讯器经过辐射区的时候损坏了*",
-      "KR": "*통신기구가輻射区域通过时损坏了*",
-      "TW": "*1定是通訊器經過輻射區的時候壞了*"
+      "KR": "*반드시 방사능 지역을 통과하면서 통신기가 손상되었을 거야*",
+      "TW": "一定是通訊器經過輻射區的時候損壞了"
     }
   },
   "*不能让其他小队再次进入这个鬼地方*": {
     "translation": "*不能让其他小队再次进入这个鬼地方*",
     "MultiLang": {
-      "US": "*Can't let the other squads enter this hellhole again*",
-      "JP": "*他の小隊がこの鬼のように恐ろしい場所に入らないように.*",
+      "US": "No other squad is allowed to enter this cursed place again.",
+      "JP": "*他の小隊が再びあの地獄のような場所に入らないようにしなくては*",
       "CN": "*不能让其他小队再次进入这个鬼地方*",
-      "KR": "*다시 이 쥐굴이나 들어오게는 못해.*",
-      "TW": "*不許其他小隊再進這個鬼地方*"
+      "KR": "*다른 대원이 이 지옥 같은 곳에 다시 들어가지 못하도록 해야 해*",
+      "TW": "不能讓其他小隊再次進入這個鬼地方"
     }
   },
   "*他们快来了*": {
     "translation": "*他们快来了*",
     "MultiLang": {
-      "US": "*They're close.*",
-      "JP": "*彼らはすぐ来る*",
+      "US": "*They're almost here*",
+      "JP": "彼らが近づいている！",
       "CN": "*他们快来了*",
-      "KR": "*그들은 빨리 올 것이다*",
+      "KR": "*그들이 곧 올 거야*",
       "TW": "*他們快來了*"
     }
   },
   "*但愿我们可以从那里找到一线生机*": {
     "translation": "*但愿我们可以从那里找到一线生机*",
     "MultiLang": {
-      "US": "May we find a glimmer of hope there.*",
-      "JP": "*願いましょうが、そこから一線の希望を見つけることができるだろう*",
+      "US": "*I hope we can find a way out from there*",
+      "JP": "ここで希望を見つけられることを願うよ。",
       "CN": "*但愿我们可以从那里找到一线生机*",
-      "KR": "*다만 그곳에서 희망의 조각을 찾을 수 있기를 원합니다*",
-      "TW": "*但願我們可以從那裡找到1線生機*"
+      "KR": "*여기서 생존의 실마리를 찾을 수 있기를 바라*",
+      "TW": "*但愿我們可以從那裡找到一線生機*"
     }
   },
   "*但我们现在身处与基地下方的下水道区域*": {
     "translation": "*但我们现在身处与基地下方的下水道区域*",
     "MultiLang": {
-      "US": "*But we are now in the sewer area below the base.*",
-      "JP": "*但现在 chúng ta đang ở trong khu vực hầm denounced dưới đất của cơ sở*",
+      "US": "*But right now, we're in the sewer area below the base*",
+      "JP": "でも、今の私たちは基地の下の下水道エリアにいるんだ。",
       "CN": "*但我们现在身处与基地下方的下水道区域*",
-      "KR": "*하지만我们现在身处基地下方的下水道区域*",
+      "KR": "*하지만 지금은 기지 아래 하수도 지역에 있어*",
       "TW": "*但我們現在身處與基地下方的下水道區域*"
     }
   },
@@ -123,7 +123,7 @@
     "translation": "*但是...*",
     "MultiLang": {
       "US": "*But...*",
-      "JP": "*しかし...*",
+      "JP": "でも……",
       "CN": "*但是...*",
       "KR": "*하지만...*",
       "TW": "*但是...*"
@@ -132,1180 +132,1180 @@
   "*先想办法出去再说*": {
     "translation": "*先想办法出去再说*",
     "MultiLang": {
-      "US": "*Figure out a way to get out first.*",
-      "JP": "*まずは脱出法を考える*",
+      "US": "*Figure out how to get out first*",
+      "JP": "まずは脱出方法を考えよう。",
       "CN": "*先想办法出去再说*",
-      "KR": "*먼저 어떻게 나오는지 생각해보자*",
-      "TW": "*先想想怎樣出去再說*"
+      "KR": "*나가는 방법을 생각해보고 나서 이야기하자*",
+      "TW": "*先想辦法出去再說*"
     }
   },
   "*准备上去吧...*": {
     "translation": "*准备上去吧...*",
     "MultiLang": {
-      "US": "*Prepare to go up...*",
-      "JP": "*準備上去吧...*",
+      "US": "*Let's head up...*",
+      "JP": "上へ向かう準備を……",
       "CN": "*准备上去吧...*",
-      "KR": "*준비되시면 가보세요...*",
+      "KR": "*위로 올라갈 준비를 해...*",
       "TW": "*準備上去吧...*"
     }
   },
   "*前面的辐射物泄露了*": {
     "translation": "*前面的辐射物泄露了*",
     "MultiLang": {
-      "US": "*The radiation ahead has leaked.*",
-      "JP": "*前の放射性物質が漏れ出しました*",
+      "US": "*There's a radiation leak ahead*",
+      "JP": "先で放射能漏れが起きている。",
       "CN": "*前面的辐射物泄露了*",
-      "KR": "*앞서 발생한 방사능 누출*",
-      "TW": "*前方的輻射物泄露了*"
+      "KR": "앞에서 방사성 물질이 새어나오고 있어",
+      "TW": "*前面的輻射物洩漏了*"
     }
   },
   "*前面的门打不开*": {
     "translation": "*前面的门打不开*",
     "MultiLang": {
-      "US": "*The door in front won't open*",
-      "JP": "前の門が開きません",
+      "US": "*The door ahead won't open*",
+      "JP": "先のドアが開かない。",
       "CN": "*前面的门打不开*",
-      "KR": "*앞의 문이 열리지 않아*",
-      "TW": "前面的門打不开"
+      "KR": "전방의 문이 열리지 않아",
+      "TW": "*前面的門打不開*"
     }
   },
   "*只能把地板干开了*": {
     "translation": "*只能把地板干开了*",
     "MultiLang": {
-      "US": "*Can only open up the floor*",
-      "JP": "*フローリングだけ乾かす*",
+      "US": "*Can only break through the floor*",
+      "JP": "*床を壊すしかないな*",
       "CN": "*只能把地板干开了*",
-      "KR": "*바닥만 건드려야 해*",
-      "TW": "*只能把地板乾開了*"
+      "KR": "바닥을 들이달 것 같아",
+      "TW": "*只能把地板拆了*"
     }
   },
   "*地图上显示这里就是要潜入的地方*": {
     "translation": "*地图上显示这里就是要潜入的地方*",
     "MultiLang": {
-      "US": "*The map shows this is where we need to infiltrate.*",
-      "JP": "*地図上にここが侵入する場所として表示されている*",
+      "US": "*The map indicates this is the target infiltration point*",
+      "JP": "*マップにはここが潜入地点だと表示されている*",
       "CN": "*地图上显示这里就是要潜入的地方*",
-      "KR": "*지도상에 여기가 바로 침투할 장소임이 표시되어 있다*",
-      "TW": "*地圖上顯示這裡就是要潛入的地方*"
+      "KR": "지도에 여기가 침투 목표지라고 표시되어 있어",
+      "TW": "*地圖上顯示這裡就是潛入的目標區域*"
     }
   },
   "*地图显示这边好像有一个通向中心区的破旧电梯*": {
     "translation": "*地图显示这边好像有一个通向中心区的破旧电梯*",
     "MultiLang": {
-      "US": "*The map shows there seems to be an old elevator leading to the central area here.*",
-      "JP": "*地図にはここに中心区へ向かう古びたエレベーターがあるらしい*",
+      "US": "*The map shows there seems to be a dilapidated elevator leading to the central area here*",
+      "JP": "*マップによると、この辺りに中心部への抜け道がある古いエレベーターがあるようだ*",
       "CN": "*地图显示这边好像有一个通向中心区的破旧电梯*",
-      "KR": "*지도에는 여기서 중심부로 이르는 노란색 폐기물 칸ccione가 보입니다*",
-      "TW": "*地圖顯示這裡好像有1部通往中心區的舊升降機*"
+      "KR": "지도에 중앙 지역으로 이어지는 낡은 엘리베이터가 있는 것 같아",
+      "TW": "*地圖顯示這側似乎有一部通往中心區的破舊電梯*"
     }
   },
   "*地板有一块是松的*": {
     "translation": "*地板有一块是松的*",
     "MultiLang": {
-      "US": "*There is a loose floor tile*",
-      "JP": "*床地面に1つ穴が開いている*",
+      "US": "*A section of the floor is loose*",
+      "JP": "*床の板が一本浮いている*",
       "CN": "*地板有一块是松的*",
-      "KR": "*바닥에 한 덩이가 빠져나오고 있는 것一样*",
-      "TW": "*地板有1块是鬆的*"
+      "KR": "바닥에 한 장이 느슨해져 있어",
+      "TW": "*地板有一塊鬆動了*"
     }
   },
   "*外面雨太大了，能见度过低*": {
     "translation": "*外面雨太大了，能见度过低*",
     "MultiLang": {
-      "US": "*The rain outside is too heavy, visibility is low.*",
-      "JP": "*外で雨が大きすぎて、視界が低い*",
+      "US": "*The rain outside is too heavy, visibility is too low*",
+      "JP": "*外の雨が激しすぎて視界が悪すぎる*",
       "CN": "*外面雨太大了，能见度过低*",
-      "KR": "*외부에서 비가 너무 많이 오고 있어, 시야가 매우 낮아졌습니다.*",
-      "TW": "*外面下雨太大了，能見度太低*"
+      "KR": "밖의 비가 너무 세서 가시거리가 낮아",
+      "TW": "*外面的雨太大了，能見度太低*"
     }
   },
   "*得想个办法快点打开这栅栏*": {
     "translation": "*得想个办法快点打开这栅栏*",
     "MultiLang": {
-      "US": "*Need to figure out a way to open this fence quickly*",
-      "JP": "*何か方法を考えてこの柵を早く開けましょう*",
+      "US": "*Need to find a way to open this gate quickly*",
+      "JP": "*このフェンスを素早く開ける方法を考えなきゃ*",
       "CN": "*得想个办法快点打开这栅栏*",
-      "KR": "*어떻게 이 철＄를 빨리 열 수 있을지 생각해야 한다*",
-      "TW": "*得想個辦法快點打開這籬笆*"
+      "KR": "이 철문을 빨리 여는 방법을 생각해 봐야 해",
+      "TW": "*得想個辦法趕快打開這道柵欄*"
     }
   },
   "*得想办法扑灭火焰*": {
     "translation": "*得想办法扑灭火焰*",
     "MultiLang": {
-      "US": "*Need to find a way to extinguish the flame*",
-      "JP": "*炎を消す方法を考える必要がある*",
+      "US": "*Must find a way to put out the flames*",
+      "JP": "*火事を鎮圧する手段を考えないとな*",
       "CN": "*得想办法扑灭火焰*",
-      "KR": "*화재를 꺼내다야 한다.*",
-      "TW": "*必須要想辦法熄滅火焰*"
+      "KR": "불을 꺼야 해",
+      "TW": "*得想辦法把火撲滅*"
     }
   },
   "*快去把门关上*": {
     "translation": "*快去把门关上*",
     "MultiLang": {
-      "US": "*Hurry and close the door*",
-      "JP": "*早くdoorを閉めて*",
+      "US": "*Hurry and close the door!*",
+      "JP": "*あの扉を閉めろ、急げ！*",
       "CN": "*快去把门关上*",
-      "KR": "*문을 빨리 닫으세요*",
+      "KR": "문을 빨리 닫아!",
       "TW": "*快去把門關上*"
     }
   },
   "*快进到房间里来*": {
     "translation": "*快进到房间里来*",
     "MultiLang": {
-      "US": "*Quickly enter the room*",
-      "JP": "*部屋に進みます*",
+      "US": "*Fast forward to the room*",
+      "JP": "*部屋まで急ごう*",
       "CN": "*快进到房间里来*",
-      "KR": "*방에 빨리 들어오세요*",
-      "TW": "*快點進來房间*"
+      "KR": "*방으로 빨리 가자*",
+      "TW": "*快進到房間裡*"
     }
   },
   "*感受到了吗*": {
     "translation": "*感受到了吗*",
     "MultiLang": {
-      "US": "*Feeling it yet?*",
+      "US": "Do you feel it?",
       "JP": "*感じ取れたか*",
       "CN": "*感受到了吗*",
-      "KR": "*느🤔peria*)",
-      "TW": "*感受到了嗎*"
+      "KR": "*느껴졌어?*",
+      "TW": "感受到了嗎"
     }
   },
   "*我们得再快一点了*": {
     "translation": "*我们得再快一点了*",
     "MultiLang": {
-      "US": "*We need to move faster.*",
-      "JP": "*もっと速く動かなきゃ*n",
+      "US": "We need to go faster.",
+      "JP": "*さらに速度を上げねば*",
       "CN": "*我们得再快一点了*",
-      "KR": "*속도를 높여야 한다*",
-      "TW": "*我們得再快1點了*"
+      "KR": "*더 빨라져야 해*",
+      "TW": "我們得再快一點"
     }
   },
   "*我们得去打开电源*": {
     "translation": "*我们得去打开电源*",
     "MultiLang": {
-      "US": "We need to go turn on the power.",
-      "JP": "*電源を開けるべきだ*",
+      "US": "We have to turn on the power.",
+      "JP": "*電源を入れなければならない*",
       "CN": "*我们得去打开电源*",
-      "KR": "*전원을 켜야 해!*",
-      "TW": "*我們得去開啟電源*"
+      "KR": "*전원을 켜러 가야 해*",
+      "TW": "我們得去打開電源"
     }
   },
   "*我们得快点赶过去*": {
     "translation": "*我们得快点赶过去*",
     "MultiLang": {
-      "US": "*We need to hurry.*",
-      "JP": "*急いで行かなければなりません*",
+      "US": "We need to hurry over there.",
+      "JP": "*速く到着する必要がある*",
       "CN": "*我们得快点赶过去*",
-      "KR": "*빨리 가서 도와야 한다*",
-      "TW": "*我們得快點趕過去*"
+      "KR": "*빨리 그곳으로 달려가야 해*",
+      "TW": "我們得趕快趕過去"
     }
   },
   "*我们没有退路了...*": {
     "translation": "*我们没有退路了...*",
     "MultiLang": {
-      "US": "*We have no retreat.*",
-      "JP": "*後ろに退路はなく…*",
+      "US": "We have no way out...",
+      "JP": "*退路はない...*",
       "CN": "*我们没有退路了...*",
-      "KR": "*우리 뒷길은 없습니다...*",
-      "TW": "*我們沒有退路了...*"
+      "KR": "*우린 물러날 곳이 없어...*",
+      "TW": "我們沒有退路了..."
     }
   },
   "*我可不想游过去*": {
     "translation": "*我可不想游过去*",
     "MultiLang": {
-      "US": "*I really don't want to swim over*",
-      "JP": "*私は泳いで渡らないよ*",
+      "US": "I don't want to swim over there.",
+      "JP": "*泳ぎたくないな*",
       "CN": "*我可不想游过去*",
-      "KR": "*저는 游过去不感兴趣*",
-      "TW": "*我可不想游過去*"
+      "KR": "*저기를 수영해서 갈 생각은 없거든*",
+      "TW": "我可不想游過去"
     }
   },
   "*找到灭火器了*": {
     "translation": "*找到灭火器了*",
     "MultiLang": {
-      "US": "*Found the fire extinguisher*",
-      "JP": "*消防器找到了*",
+      "US": "Fire extinguisher found.",
+      "JP": "*消火器を発見した*",
       "CN": "*找到灭火器了*",
-      "KR": "*화재진압기找到了*",
-      "TW": "*找到滅火器了*"
+      "KR": "*소화기를 찾았어*",
+      "TW": "找到滅火器了"
     }
   },
   "*无论如何，先到里面去吧*": {
     "translation": "*无论如何，先到里面去吧*",
     "MultiLang": {
-      "US": "*No matter what, go inside first.*",
-      "JP": "*いかにしてもまずは中に入らねば*",
+      "US": "*Anyway, let's go inside first.*",
+      "JP": "*とにかく、中へ入りましょう*",
       "CN": "*无论如何，先到里面去吧*",
-      "KR": "*어 telefon, 먼저 안으로 들어가 보자*",
-      "TW": "*無論如何，先進去吧*"
+      "KR": "어쨌든, 일단 안으로 들어가자",
+      "TW": "*無論如何，先到裡面去吧*"
     }
   },
   "*然后通过列车前往最近的巨型风扇口*": {
     "translation": "*然后通过列车前往最近的巨型风扇口*",
     "MultiLang": {
-      "US": "Then proceed via train to the nearest巨型风扇口",
-      "JP": "*それから列車で最寄りの巨大な風扇口へ向かいます*",
+      "US": "*Then take the train to the nearest giant fan vent.*",
+      "JP": "そして列車で最も近い巨大な扇風口まで向かいます",
       "CN": "*然后通过列车前往最近的巨型风扇口*",
-      "KR": "그리고 기차를 타서 가장 가까운 거대한 바람구멍으로 이동합니다.*",
-      "TW": "然後通過列車前往最近的巨型風扇口"
+      "KR": "그리고 기차를 타고 가장 가까운 대형 선풍기 입구로 이동하자",
+      "TW": "*然後通過列車前往最近的巨型風扇口*"
     }
   },
   "*看来上天还不想让我们死在这里*": {
     "translation": "*看来上天还不想让我们死在这里*",
     "MultiLang": {
-      "US": "*Seems like heaven doesn't want us to die here yet*",
-      "JP": "どうやら、天はまだ私たちをここで死なせて欲しくないようだ。",
+      "US": "Seems like fate doesn't want us to die here yet.*",
+      "JP": "*どうやら、まだ死んだようではないようです*",
       "CN": "*看来上天还不想让我们死在这里*",
-      "KR": "*보아하니 하늘이 아직 우리를 여기서 죽게让人们不要那么容易死掉*",
-      "TW": "*看来上天还不想讓我們死這裡*"
+      "KR": "하늘이 아직 우리에게 여기서 죽을 생각은 없는 것 같군",
+      "TW": "看來上天還不想讓我們死在這裡"
     }
   },
   "*看来得绕路了*": {
     "translation": "*看来得绕路了*",
     "MultiLang": {
       "US": "*Looks like we'll have to take a detour.*",
-      "JP": "*見事に迂回する必要があるな*",
+      "JP": "*迂回するしかないようですね*",
       "CN": "*看来得绕路了*",
-      "KR": "*보아하니 복잡한 길로 들어가야겠네*",
-      "TW": "*看来得繞路了*"
+      "KR": "우회해야 할 것 같은데",
+      "TW": "*看來得繞路了*"
     }
   },
   "*看来此路不通*": {
     "translation": "*看来此路不通*",
     "MultiLang": {
-      "US": "*Seems this way is blocked*",
-      "JP": "*この道は通らないようです*",
+      "US": "*This path is blocked.*",
+      "JP": "*どうやら、この道は通れないようです*",
       "CN": "*看来此路不通*",
-      "KR": "*이 길은 통하지 않는 것 같아*",
-      "TW": "*看来这条路行不通*"
+      "KR": "이 길은 막혔군",
+      "TW": "*看來此路不通*"
     }
   },
   "*终于可以离开这里了*": {
     "translation": "*终于可以离开这里了*",
     "MultiLang": {
-      "US": "*Finally can leave here*",
-      "JP": "*ここを出られる終於可以離開這裡了*",
+      "US": "*Finally, we can leave this place.*",
+      "JP": "*やっと、ここを離れられるようです*",
       "CN": "*终于可以离开这里了*",
-      "KR": "*여기서 나오게 되다*",
+      "KR": "드디어 여기서 벗어날 수 있군",
       "TW": "*終於可以離開這裡了*"
     }
   },
   "*至少我们得活着把消息带出去*": {
     "translation": "*至少我们得活着把消息带出去*",
     "MultiLang": {
-      "US": "*At least we need to stay alive and get the message out.*",
-      "JP": "*少なくともそれだけは息を吐かずに伝えるべきだ*",
+      "US": "*At least we need to stay alive to get the message out.*",
+      "JP": "*少なくとも、情報を届けるために命は守らなければなりません*",
       "CN": "*至少我们得活着把消息带出去*",
-      "KR": "*최소한 우리는 메시지를Outside로 전달하는 데 살아있어야 합니다*",
+      "KR": "atleast 우리는 살아서 소식을 전달해야 해",
       "TW": "*至少我們得活著把消息帶出去*"
     }
   },
   "*这扇门锁得太死了，让我把它推开*": {
     "translation": "*这扇门锁得太死了，让我把它推开*",
     "MultiLang": {
-      "US": "This door is locked tight, let me force it open.",
-      "JP": "*この扉は固く閉鎖されているが、開けさせてみる*",
+      "US": "*This door is locked tight. Let me push it open.*",
+      "JP": "*この扉のロックが堅すぎるようです。開けてみましょう*",
       "CN": "*这扇门锁得太死了，让我把它推开*",
-      "KR": "*이 문이 너무 잠겨 있어推开*",
-      "TW": "*這扇門鎖得死 Tighten it open*"
+      "KR": "이 문은 단단히 잠겨 있어, 내가 밀어보게",
+      "TW": "*這扇鎖得太死了，讓我把它推開*"
     }
   },
   "*这是...?*": {
     "translation": "*这是...?*",
     "MultiLang": {
-      "US": "*This...?*",
-      "JP": "*これは...?*",
+      "US": "*Is this...?*",
+      "JP": "*これは…？*",
       "CN": "*这是...?*",
-      "KR": "*이는...?*",
-      "TW": "*這是...?*"
+      "KR": "* 이게...? *",
+      "TW": "這是……？"
     }
   },
   "*这电梯门卡得太死了*": {
     "translation": "*这电梯门卡得太死了*",
     "MultiLang": {
-      "US": "*This elevator door is stuck really hard*",
-      "JP": "*このエレベータードアが固いな*",
+      "US": "*The elevator doors are jammed shut.*",
+      "JP": "*エレベーターの扉が完全に詰まってる*",
       "CN": "*这电梯门卡得太死了*",
-      "KR": "*[이 엘리베이터 문이 너무 잘려 있네요]*",
-      "TW": "*這電梯門開得 TOO 硬*"
+      "KR": "* 엘리베이터 문이 꽉 막혔어 *",
+      "TW": "這台電梯門卡得太死了"
     }
   },
   "*这边已经被全面封锁了*": {
     "translation": "*这边已经被全面封锁了*",
     "MultiLang": {
-      "US": "*This side has been fully sealed off.*",
-      "JP": "こちらは完全に封鎖されています",
+      "US": "*This area is under full lockdown.*",
+      "JP": "*こちら全面封鎖済み*",
       "CN": "*这边已经被全面封锁了*",
-      "KR": "이쪽은 이미 완전히 봉쇄되었습니다.*",
-      "TW": "*這裡已經被全面封鎖了*"
+      "KR": "* 여기는 이미 전면 봉쇄되었습니 다 *",
+      "TW": "這裡已經被全面封鎖了"
     }
   },
   "*这里已经没有人了*": {
     "translation": "*这里已经没有人了*",
     "MultiLang": {
-      "US": "*No one is here anymore*",
-      "JP": "ここにはもう誰もいません*",
+      "US": "*There's no one here anymore.*",
+      "JP": "*ここにはもう誰もいない*",
       "CN": "*这里已经没有人了*",
-      "KR": "*여기 사람이 없◈了，原句中的特殊符号在此处未完全对应，保持原有符号展示:*这里没有人了*",
-      "TW": "*這裡已經沒有 Millennia 了*"
+      "KR": "* 여기에는 더 이상没有人이 없 습니다 *",
+      "TW": "這裡已經沒有人了"
     }
   },
   "*长官我们已经到达了中心区外部*": {
     "translation": "*长官我们已经到达了中心区外部*",
     "MultiLang": {
-      "US": "*Sir, we have arrived at the outer area of the central zone*",
-      "JP": "*長官 nós 们已經到達了 中心區 外部*",
+      "US": "*Sir, we have reached the exterior of the central district.*",
+      "JP": "*長官、中心区域外に到着しました*",
       "CN": "*长官我们已经到达了中心区外部*",
-      "KR": "*上官 nós 이미 중심지 외부에 도착했습니다*",
-      "TW": "*長官我們已經 Reached the External Area of 中心區*"
+      "KR": "* 장교님, 저희가 중심 지역 외부에 도달했습니다 *",
+      "TW": "長官，我們已經到達中心區外部"
     }
   },
   "*长官，情况已经确认，我们的目标是阿尔法地下基地的中心区。根据收音机的最新消息，那里是感染最严重的区域，传闻中已经有大量人员被围困*": {
     "translation": "*长官，情况已经确认，我们的目标是阿尔法地下基地的中心区。根据收音机的最新消息，那里是感染最严重的区域，传闻中已经有大量人员被围困*",
     "MultiLang": {
-      "US": "*Sir, the situation has been confirmed. Our target is the central area of the Alpha underground base. According to the latest radio updates, it is the most infected zone, and there are rumors of many personnel being trapped.*",
-      "JP": "長官、状況は確認済みです。私たちの目標はアルファ地下基地の中心部です。ラジオからの最新情報では、そこが最も感染が重度な地域で、 Already trapped there are多数 人員的传闻。",
+      "US": "*Sir, situation confirmed. Our target is the central zone of Base Alpha Underground. According to the latest radio broadcast, this is the most heavily infected area, and rumors suggest many personnel are trapped there.*",
+      "JP": "*長官、状況確認済み。目標はアルファ地下基地の中心区域です。ラジオの最新情報によると、ここが感染最重度区域であり、多数の人員が閉じ込められているとの噂もあります*",
       "CN": "*长官，情况已经确认，我们的目标是阿尔法地下基地的中心区。根据收音机的最新消息，那里是感染最严重的区域，传闻中已经有大量人员被围困*",
-      "KR": "장관, 상황이 확인되었습니다. 우리의 목표는 알파 지하기지의 중심부입니다. 수신기의 최신 정보에 따르면 그곳은 가장 심각한 감염 지역이며, 미иф우설로는 많은 인원이 포위되어 있다고 합니다.*",
-      "TW": "*長官，情況已經確認，我們的目標是阿尔法地下基地的中心区。根據收音机的最新消息，那裡是感染最嚴重的區域，傳聞中已有大量人員被圍困*"
+      "KR": "* 장교님, 상황 확인되었습니다. 우리의 목표는 알파 지하 기지의 중심 지역입니다. 라디오의 최신 뉴스에 따르면, 그곳은 감염이 가장 심각한 지역이며, 많은 사람들이 포위되었다는 소문이 있습니다 *",
+      "TW": "長官，情況已經確認。我們的目標是阿爾法地下基地的中心區。根據收音機的最新消息，那裡是感染最嚴重的區域，據傳已有大量人員被圍困"
     }
   },
   "*长官，我们暂时挡住了追击者*": {
     "translation": "*长官，我们暂时挡住了追击者*",
     "MultiLang": {
-      "US": "Officer, we temporarily held back the pursuers.",
-      "JP": "長官、一時的に追撃者を阻み止めたよ",
+      "US": "*Sir, we have temporarily held off our pursuers.*",
+      "JP": "*長官、追跡者を一時的に遮断しました*",
       "CN": "*长官，我们暂时挡住了追击者*",
-      "KR": "장관, 우리는 잠시 적을 막았습니다*",
+      "KR": "* 장교님, 우리는 일시적으로 추격자를 막아냈습니다 *",
       "TW": "長官，我們暫時擋住了追擊者"
     }
   },
   "*长官，我们马上到达辐射区，当前电梯速度异常缓慢，不知是否因为外部环境的影响。请问有最新指示吗?*": {
     "translation": "*长官，我们马上到达辐射区，当前电梯速度异常缓慢，不知是否因为外部环境的影响。请问有最新指示吗?*",
     "MultiLang": {
-      "US": "*Sir, we are about to enter the radiation zone. The elevator speed is abnormally slow, unsure if it's due to external environmental factors. May I ask if there are any latest instructions?*",
-      "JP": "長官、我々はすぐに放射能区域に到着しますが、現在エレベーターの速度が異常に遅く、外部環境による影響か分かりません。最新指示はありますか?",
+      "US": "*Sir, we are approaching the radiation zone. The current elevator speed is unusually slow; it might be due to external environmental conditions. Do you have any new orders?*",
+      "JP": "*長官、まもなく放射能区域に入ります。現在のエレベーター速度が異常に緩慢ですが、外部環境の影響かどうかは不明です。最新指示をよろしく願いします*",
       "CN": "*长官，我们马上到达辐射区，当前电梯速度异常缓慢，不知是否因为外部环境的影响。请问有最新指示吗?*",
-      "KR": "전관Sir, 우리는 즉시 방사능 지역에 도달할 예정입니다. 현재 엘리베이터 속도가 비정상적으로 느려집니다. 이는 외부 환경의 영향 때문일까요? 최신 지령은 있으신가요?",
-      "TW": "*長官，我們馬上到達輻射區，當前電梯速度異常緩慢，不知是否因為外部環境的影響。請問有最新指示嗎?*"
+      "KR": "* 장교님, 저희가 곧 방사능 지역 에 도달합니다. 현재 엘리베이터 속도가 비정상적으로 느립니다. 외부 환경의 영향인지 확실하지 않습니다. 최신 지시가 있습니까? *",
+      "TW": "長官，我們即將進入輻射區。目前的電梯速度異常緩慢，不知是否受外部環境影響。請問是否有最新指示？"
     }
   },
   ">>>主电力系统已经重启<<<": {
     "translation": ">>>主电力系统已经重启<<<",
     "MultiLang": {
-      "US": ">>Main power system has been restarted<<",
-      "JP": ">>>主電力システムが再起動しました<<<",
+      "US": ">>> Main power system has restarted <<<",
+      "JP": ">>>メイン電源システムが再起動しました<<<",
       "CN": ">>>主电力系统已经重启<<<",
-      "KR": ">>>주전력 시스템이 재시작되었습니다<<<",
-      "TW": ">>>主電力系統已經重新啟動<<<"
+      "KR": ">>>주 전력 시스템 재시동 완료<<<",
+      "TW": "主電力系統已重啟"
     }
   },
   ">>>准备...<<<": {
     "translation": ">>>准备...<<<",
     "MultiLang": {
-      "US": ">>>Prepare...<<<",
+      "US": ">>> Preparing... <<<",
       "JP": ">>>準備...<<<",
       "CN": ">>>准备...<<<",
-      "KR": ">>>준비...<<<",
-      "TW": ">>>準備...<<<"
+      "KR": ">>>준비 중...<<<",
+      "TW": "準備中..."
     }
   },
   ">>>备用电力系统已经打开了<<<": {
     "translation": ">>>备用电力系统已经打开了<<<",
     "MultiLang": {
-      "US": ">> Backup power system has been activated <<<",
-      "JP": ">>>備用電力システムが開きました<<<",
+      "US": ">>> Backup power system is now active <<<",
+      "JP": ">>>予備電源システムが起動しました<<<",
       "CN": ">>>备用电力系统已经打开了<<<",
-      "KR": ">>>대비용 전력 시스템이 이미 작동 중입니다<<<",
-      "TW": ">>>備用電力系統已經打開了<<<"
+      "KR": ">>>예비 전력 시스템 가동 완료<<<",
+      "TW": "備用電力系統已開啟"
     }
   },
   ">>>大门还有10秒开启<<<": {
     "translation": ">>>大门还有10秒开启<<<",
     "MultiLang": {
-      "US": ">>The door will open in 10 seconds<<",
-      "JP": ">>>メインゲートまで残り10秒<<<",
+      "US": ">>> Main gates opening in 10 seconds <<<",
+      "JP": ">>>ゲート開放まであと10秒<<<",
       "CN": ">>>大门还有10秒开启<<<",
-      "KR": ">>>문은 10초 후에 열립니다<<<",
-      "TW": ">>>大门還有10秒開啟<<<"
+      "KR": ">>>대문 10초 후 개장<<<",
+      "TW": "大門於10秒後開啟"
     }
   },
   ">>>大门还有10秒打开<<<": {
     "translation": ">>>大门还有10秒打开<<<",
     "MultiLang": {
-      "US": ">>The door will open in 10 seconds<<",
-      "JP": ">>>メインゲートまで残り10秒<<<",
+      "US": ">>> Main gates will open in 10 seconds <<<",
+      "JP": ">>>ゲート開放まであと10秒<<<",
       "CN": ">>>大门还有10秒打开<<<",
-      "KR": ">>>문은 10초 후에 열립니다<<<",
-      "TW": ">>>大門還剩10秒開啟<<<"
+      "KR": ">>>대문 10초 후 개방<<<",
+      "TW": "大門於10秒後打開"
     }
   },
   ">>>大门还有20秒开启<<<": {
     "translation": ">>>大门还有20秒开启<<<",
     "MultiLang": {
-      "US": ">>>The door will open in 20 seconds<<<",
-      "JP": ">>門は20秒後に開きます<<",
+      "US": ">>> Main gates opening in 20 seconds <<<",
+      "JP": ">>>ゲート開放まであと20秒<<<",
       "CN": ">>>大门还有20秒开启<<<",
-      "KR": ">>> 문이 20초 후에 열립니다 <<<",
-      "TW": ">>>大門還有20秒開啟<<<"
+      "KR": ">>>대문 20초 후 개장<<<",
+      "TW": "大門於20秒後開啟"
     }
   },
   ">>>大门还有20秒打开<<<": {
     "translation": ">>>大门还有20秒打开<<<",
     "MultiLang": {
-      "US": ">>The doors will open in 20 seconds<<",
-      "JP": ">>>門はまだ20秒後に開きます<<<",
+      "US": ">>> Main gates will open in 20 seconds <<<",
+      "JP": ">>>ゲート開放まであと20秒<<<",
       "CN": ">>>大门还有20秒打开<<<",
-      "KR": ">>>문은 20초 후에 열립니다<<<",
-      "TW": ">>>大門還剩20秒開啟<<<"
+      "KR": ">>>대문 20초 후 개방<<<",
+      "TW": "大門於20秒後打開"
     }
   },
   ">>>大门还有30秒开启<<<": {
     "translation": ">>>大门还有30秒开启<<<",
     "MultiLang": {
-      "US": ">>The gate will open in 30 seconds<<",
-      "JP": ">>>メインゲートまで残り30秒<<<",
+      "US": ">>> Main gates opening in 30 seconds <<<",
+      "JP": ">>>ゲート開放まであと30秒<<<",
       "CN": ">>>大门还有30秒开启<<<",
-      "KR": ">>> 문은 30초 후에 열립니다 <<<",
-      "TW": ">>>大門還有多半秒開啟<<<"
+      "KR": ">>>대문 30초 후 개장<<<",
+      "TW": "大門於30秒後開啟"
     }
   },
   ">>>大门还有40秒开启<<<": {
     "translation": ">>>大门还有40秒开启<<<",
     "MultiLang": {
-      "US": ">>>The gate will open in 40 seconds<<<",
-      "JP": ">>>大門はあと40秒で開きます<<<",
+      "US": ">>>Main gate opens in 40 seconds<<<",
+      "JP": "<<<メインゲートまで残り40秒<<<",
       "CN": ">>>大门还有40秒开启<<<",
-      "KR": ">>>문이 40초 후에 열립니다<<<",
-      "TW": ">>>大门還有40秒開啟<<<"
+      "KR": ">>>주요 게이트까지 40초 남음<<<",
+      "TW": ">>>大門即將於40秒後開啟<<<"
     }
   },
   ">>>大门还有50秒开启<<<": {
     "translation": ">>>大门还有50秒开启<<<",
     "MultiLang": {
-      "US": ">>The gates will open in 50 seconds<<",
-      "JP": ">>>メインゲートまで残り50秒<<<",
+      "US": ">>>Main gate opens in 50 seconds<<<",
+      "JP": "<<<メインゲートまで残り50秒<<<",
       "CN": ">>>大门还有50秒开启<<<",
-      "KR": ">>>문은 50초 후에 열립니다<<<",
-      "TW": ">>>大门還有50秒開啟<<<"
+      "KR": ">>>주요 게이트까지 50초 남음<<<",
+      "TW": ">>>大門即將於50秒後開啟<<<"
     }
   },
   ">>>快走！！<<<": {
     "translation": ">>>快走！！<<<",
     "MultiLang": {
-      "US": ">>Fast walk!!<<",
-      "JP": ">>>速やかに進みろ!!<<<",
+      "US": ">>>Hurry!!<<<",
+      "JP": "<<<急げ！！<<<",
       "CN": ">>>快走！！<<<",
-      "KR": ">>>빨리 걸어가세요!!<<<",
-      "TW": ">>>快走!!<<<"
+      "KR": ">>>빨리 이동！！！<<<",
+      "TW": ">>>快點走！！<<<"
     }
   },
   ">>>总电源已经启动<<<": {
     "translation": ">>>总电源已经启动<<<",
     "MultiLang": {
-      "US": ">>>Total power supply has been activated<<<",
-      "JP": ">>>総電源が起動しました<<<",
+      "US": ">>>Main power has started<<<",
+      "JP": "<<<メイン電源起動<<<",
       "CN": ">>>总电源已经启动<<<",
-      "KR": ">>>전원이 이미 작동 중입니다<<<",
-      "TW": ">>>總電源已經啟動<<<"
+      "KR": ">>>메인 파워 가동 중<<<",
+      "TW": ">>>總電源已啟動<<<"
     }
   },
   ">>>激光已关闭<<<": {
     "translation": ">>>激光已关闭<<<",
     "MultiLang": {
-      "US": ">>>Laser has been turned off<<<",
-      "JP": ">>>レーザーを停止しました<<<",
+      "US": ">>>Lasers are off<<<",
+      "JP": "<<<レーザー無効化<<<",
       "CN": ">>>激光已关闭<<<",
-      "KR": ">>>레이저는 꺼졌습니다<<<",
-      "TW": ">>>雷射已關閉<<<"
+      "KR": ">>>레이저 시스템 차단됨<<<",
+      "TW": ">>>激光已關閉<<<"
     }
   },
   ">>>火焰熄灭了<<<": {
     "translation": ">>>火焰熄灭了<<<",
     "MultiLang": {
-      "US": ">>>Flames extinguished<<<",
-      "JP": ">>>炎が消えた<<<",
+      "US": ">>>Flames are out<<<",
+      "JP": "<<<火災消火完了<<<",
       "CN": ">>>火焰熄灭了<<<",
-      "KR": ">>>불이 꺼졌<<<",
-      "TW": ">>>火焰熄滅了<<<"
+      "KR": ">>>화염 꺼짐<<<",
+      "TW": ">>>火焰已熄滅<<<"
     }
   },
   ">>>电梯还有10秒开启<<<": {
     "translation": ">>>电梯还有10秒开启<<<",
     "MultiLang": {
-      "US": ">>The elevator will open in 10 seconds<<",
-      "JP": ">>>エレベーターは10秒後に開きます<<<",
+      "US": ">>>Elevator opens in 10 seconds<<<",
+      "JP": "<<<エレベーターまで残り10秒<<<",
       "CN": ">>>电梯还有10秒开启<<<",
-      "KR": ">>> 엘리베이터는 10초 후에 작동<<<",
-      "TW": ">>>電梯還剩10秒開啟<<<"
+      "KR": ">>>엘리베이터까지 10초 남음<<<",
+      "TW": ">>>電梯即將於10秒後開啟<<<"
     }
   },
   ">>>电梯还有40秒开启<<<": {
     "translation": ">>>电梯还有40秒开启<<<",
     "MultiLang": {
-      "US": ">>>Elevator will open in 40 seconds<<<",
-      "JP": ">>>エレベーターは40秒後に開きます<<<",
+      "US": ">>>Elevator opens in 40 seconds<<<",
+      "JP": "<<<エレベーターまで残り40秒<<<",
       "CN": ">>>电梯还有40秒开启<<<",
-      "KR": ">>>엘리베이터는 40초 후에 개시<<<",
-      "TW": ">>>電梯還剩40秒開啟<<<"
+      "KR": ">>>엘리베이터까지 40초 남음<<<",
+      "TW": ">>>電梯即將於40秒後開啟<<<"
     }
   },
   ">>>电源已开启<<<": {
     "translation": ">>>电源已开启<<<",
     "MultiLang": {
-      "US": ">>>Power ON<<<",
-      "JP": ">>>電源を起動しました <<<",
+      "US": "Power is On",
+      "JP": ">>>電源投入<<<",
       "CN": ">>>电源已开启<<<",
-      "KR": ">>>전원이_ON<<<",
+      "KR": "전원이 켜졌습니다",
       "TW": ">>>電源已開啟<<<"
     }
   },
   ">>>管道还有10秒破开<<<": {
     "translation": ">>>管道还有10秒破开<<<",
     "MultiLang": {
-      "US": ">>>The pipe will break in 10 seconds<<<",
-      "JP": ">>>パイプは10秒後に破ける<<<",
+      "US": "Breach in 10 seconds",
+      "JP": ">>>パイプ10秒後破壊<<<",
       "CN": ">>>管道还有10秒破开<<<",
-      "KR": ">>>관문이 10초 후에 깨어질 예정<<<",
-      "TW": ">>>管道還剩10秒破開<<<"
+      "KR": "배관이 10초 후에 끊어집니다",
+      "TW": ">>>管道將在10秒內破裂<<<"
     }
   },
   ">>>管道还有20秒破开<<<": {
     "translation": ">>>管道还有20秒破开<<<",
     "MultiLang": {
-      "US": ">>>The pipe will break in 20 seconds<<",
-      "JP": ">>>パイプは20秒後に破ける<<<",
+      "US": "Breach in 20 seconds",
+      "JP": ">>>パイプ20秒後破壊<<<",
       "CN": ">>>管道还有20秒破开<<<",
-      "KR": ">>>관\":\"/20초 후 파괴\"<<<",
-      "TW": ">>>管道還有多20秒破開<<<"
+      "KR": "배관이 20초 후에 끊어집니다",
+      "TW": ">>>管道將在20秒內破裂<<<"
     }
   },
   ">>>蒸汽即将关闭<<<": {
     "translation": ">>>蒸汽即将关闭<<<",
     "MultiLang": {
-      "US": ">>>Steam is about to shut down<<<",
-      "JP": ">>>蒸気はすぐ切れます<<<",
+      "US": "Steam shutdown imminent",
+      "JP": ">>>蒸気遮断<<<",
       "CN": ">>>蒸汽即将关闭<<<",
-      "KR": ">>>증기이Soon to be shut down<<<",
+      "KR": "증기가 곧 차단됩니다",
       "TW": ">>>蒸汽即將關閉<<<"
     }
   },
   ">>>还有10秒大门开启<<<": {
     "translation": ">>>还有10秒大门开启<<<",
     "MultiLang": {
-      "US": ">>There are 10 seconds left before the gate opens<<",
-      "JP": ">>>まだ10秒後に門が開きます<<<",
+      "US": "Gate opens in 10 seconds",
+      "JP": ">>>10秒後門開放<<<",
       "CN": ">>>还有10秒大门开启<<<",
-      "KR": ">>>10초 후에 문이 열립니다<<<",
-      "TW": ">>>還有10秒門開啟<<<"
+      "KR": "문에서 10초 후 개방",
+      "TW": ">>>大門將在10秒後開啟<<<"
     }
   },
   ">>>还有10秒钟开门<<<": {
     "translation": ">>>还有10秒钟开门<<<",
     "MultiLang": {
-      "US": ">>There are 10 seconds left to open it<<",
-      "JP": ">>まだ10秒後に扉を開きます<<",
+      "US": "Door opens in 10 seconds",
+      "JP": ">>>10秒後開門<<<",
       "CN": ">>>还有10秒钟开门<<<",
-      "KR": ">>>10초 후 문 연다<<<",
-      "TW": ">>>還剩10秒開門<<<"
+      "KR": "문에서 10초 후 개방",
+      "TW": ">>>10秒後開門<<<"
     }
   },
   ">>>还有20秒大门开启<<<": {
     "translation": ">>>还有20秒大门开启<<<",
     "MultiLang": {
-      "US": ">>There are 20 seconds left before the door opens<<",
-      "JP": ">>>まだ20秒でドアが開きます<<<",
+      "US": "Gate opens in 20 seconds",
+      "JP": ">>>20秒後門開放<<<",
       "CN": ">>>还有20秒大门开启<<<",
-      "KR": ">>> 20초 후 문이 열립니다 <<<",
-      "TW": ">>>還有多20秒大門開啟<<<"
+      "KR": "문에서 20초 후 개방",
+      "TW": ">>>大門將在20秒後開啟<<<"
     }
   },
   ">>>还有30秒大门开启<<<": {
     "translation": ">>>还有30秒大门开启<<<",
     "MultiLang": {
-      "US": ">>There are 30 seconds left before the door opens<<",
-      "JP": ">>>30秒後に門が開きます<<<",
+      "US": "Gate opens in 30 seconds",
+      "JP": ">>>30秒後門開放<<<",
       "CN": ">>>还有30秒大门开启<<<",
-      "KR": ">>>30초 후에 문이 열립니다<<<",
-      "TW": ">>>還有30秒大門開啟<<<"
+      "KR": "문에서 30초 후 개방",
+      "TW": ">>>大門將在30秒後開啟<<<"
     }
   },
   ">>>通风口功率已经提高到25%<<<": {
     "translation": ">>>通风口功率已经提高到25%<<<",
     "MultiLang": {
-      "US": ">>> Ventilation power has been increased to 25% <<<",
-      "JP": ">>>換気口のパワーアップが25%まで向上しました<<<",
+      "US": "Vents power increased to 25%",
+      "JP": ">>> 通気口の出力が25%に向上しました <<<",
       "CN": ">>>通风口功率已经提高到25%<<<",
-      "KR": ">>>통풍구 전력이 25%로 증가했습니다 <<<",
-      "TW": ">>>通風口功率已提高至25%<<<"
+      "KR": "통풍구 출력이 25%까지 증가했습니다.",
+      "TW": ">>>通風口功率已提升至25%<<<"
     }
   },
   ">>>通风口功率已经提高到50%<<<": {
     "translation": ">>>通风口功率已经提高到50%<<<",
     "MultiLang": {
-      "US": ">>> Ventilation power has been increased to 50% <<<",
-      "JP": ">>>通気口パワーレベルを50%に向上させました <<<",
+      "US": "Vents power increased to 50%",
+      "JP": ">>> 通気口の出力が50%に向上しました <<<",
       "CN": ">>>通风口功率已经提高到50%<<<",
-      "KR": ">>>공기통 출력이 이미 50%로 올라갔습니다<<<",
-      "TW": ">>>通風口功率已提高至50%<<<"
+      "KR": "통풍구 출력이 50%까지 증가했습니다.",
+      "TW": ">>>通風口功率已提升至50%<<<"
     }
   },
   ">>>通风口功率已经提高到75%<<<": {
     "translation": ">>>通风口功率已经提高到75%<<<",
     "MultiLang": {
-      "US": ">>>Ventilation port power has been increased to 75%<<<",
-      "JP": ">>>換気口パワーアップ已完成75%<<<",
+      "US": "Vents power increased to 75%",
+      "JP": ">>> 通気口の出力が75%に向上しました <<<",
       "CN": ">>>通风口功率已经提高到75%<<<",
-      "KR": ">>>진공구부력이 75%로 증가하였습니다<<<",
-      "TW": ">>>通風口功率已提高至75%<<<"
+      "KR": "통풍구 출력이 75%까지 증가했습니다.",
+      "TW": ">>>通風口功率已提升至75%<<<"
     }
   },
   ">>>通风口功率已经过载<<<": {
     "translation": ">>>通风口功率已经过载<<<",
     "MultiLang": {
-      "US": ">>> Vent power overloaded <<<",
-      "JP": ">>>通気口のパワーフラグがオーバー<<<",
+      "US": "Vents power overloaded",
+      "JP": ">>> 通気口のパワーが過負荷状態になりました <<<",
       "CN": ">>>通风口功率已经过载<<<",
-      "KR": ">>>통풍구 전력이 과부하<<<",
-      "TW": ">>>通風口功率已經過載<<<"
+      "KR": "통풍구 출력이 과부하 상태입니다.",
+      "TW": ">>>通風口功率已過載<<<"
     }
   },
   ">>>门还有10秒钟开启<<<": {
     "translation": ">>>门还有10秒钟开启<<<",
     "MultiLang": {
-      "US": ">>The door will open in 10 seconds<<",
-      "JP": ">>>門は10秒後に開きます<<<",
+      "US": "Door opens in 10 seconds",
+      "JP": ">>> 扉は10秒後に開きます <<<",
       "CN": ">>>门还有10秒钟开启<<<",
-      "KR": ">>>문은 10초 후에 열립니다<<<",
-      "TW": ">>>門還有多10秒開啟<<<"
+      "KR": "문이 10초 뒤에 열립니다.",
+      "TW": ">>>門將在10秒後開啟<<<"
     }
   },
   "玖神: *我们会在外面接应你们*": {
     "translation": "玖神: *我们会在外面接应你们*",
     "MultiLang": {
-      "US": "Kuoshen: *We will meet you outside.*",
-      "JP": "九神: *外で迎えに行きます*",
+      "US": "Jiu Shen: We'll cover you outside.",
+      "JP": "玖神: *私たちは外で你们的を待ち受けます*",
       "CN": "玖神: *我们会在外面接应你们*",
-      "KR": "玖神: *우리는 바깥에서 대기하겠습니다*",
-      "TW": "玖神: *我們會在外面接應你們*"
+      "KR": "구신: *우리가 외곽에서 지원할게요.*",
+      "TW": "玖神：*我們會在外圍接應你們*"
     }
   },
   "玖神: *我们的另外一支小队已经在这片区域安装了炸弹*": {
     "translation": "玖神: *我们的另外一支小队已经在这片区域安装了炸弹*",
     "MultiLang": {
-      "US": "Jiu Shen: *Our other squad has already installed a bomb in this area.*",
-      "JP": "玖神: *私たちの別の小隊がこのエリアに bomb を設置しました*",
+      "US": "Jiu Shen: Another team has planted explosives in the area.",
+      "JP": "玖神: *もう一つの分隊がすでにこのエリアに爆弾を設置しました*",
       "CN": "玖神: *我们的另外一支小队已经在这片区域安装了炸弹*",
-      "KR": "😉또 다른 소个小队已经在该区域安装了炸弹😉",
-      "TW": "玖神: *我們的另1支小隊已經在這片區域安裝了炸彈*"
+      "KR": "구신: *우리 다른 소대가 이미 이 구역에 폭탄을 설치했습니다.*",
+      "TW": "玖神：*我們另一支小組已在該區域安裝炸彈*"
     }
   },
   "玖神: *终于联系上你们小队了*": {
     "translation": "玖神: *终于联系上你们小队了*",
     "MultiLang": {
-      "US": "Jiu Shen: *Finally got in touch with your squad*",
-      "JP": "玖神: *ついに隊伍に連絡がついた*",
+      "US": "Jiu Shen: Finally got through to your team.",
+      "JP": "玖神: *ようやく你们の隊員と連絡が取れました*",
       "CN": "玖神: *终于联系上你们小队了*",
-      "KR": "😉*: 결국 당신들 소대에 연락이 됐네요*",
-      "TW": "玖神: *終於聯繫上你們小隊了*"
+      "KR": "구신: \"드디어 너희 소대와 연결되었구나.\"",
+      "TW": "玖神：*終於與你們小隊取得聯繫了*"
     }
   },
   "玖神: *自从联系断了之后我就以为你们已经...*": {
     "translation": "玖神: *自从联系断了之后我就以为你们已经...*",
     "MultiLang": {
-      "US": "KuShen: *Ever since the contact was severed, I thought you had already...*",
-      "JP": "玖神: *連絡が切れた後からもう...*",
+      "US": "Jiu Shen: *After contact was cut, I thought you were already...*",
+      "JP": "玖神: *連絡が途切れてからは、もう你们は…と疑っていたんだ。*",
       "CN": "玖神: *自从联系断了之后我就以为你们已经...*",
-      "KR": "玖神: *연락이 끊기고 나서는 이미...*",
-      "TW": "玖神: *自聯繫斷了之後我就以為你們已經...*"
+      "KR": "구신: *연락이 끊어진 이후로 저는 이미 여러분이...*",
+      "TW": "玖神：*自從聯繫斷了之後，我就以為你們已經……*"
     }
   },
   "玖神: *那边有一条通道连接到外面的水道，我在地图上给你们标识出来了*": {
     "translation": "玖神: *那边有一条通道连接到外面的水道，我在地图上给你们标识出来了*",
     "MultiLang": {
-      "US": "Kuji神: *There's a passage leading to the outside waterway over there, I've marked it on the map for you.*",
-      "JP": "九神: *そこには外側の水路に接する通路があり、私はマップ上で표기해두었습니다*",
+      "US": "Jiu Shen: *There's a passage leading to the external waterway, which I've marked on your maps.*",
+      "JP": "玖神: *外側の水路につながっている通路が一方にある。地図にマークをつけておいたから確認して。*",
       "CN": "玖神: *那边有一条通道连接到外面的水道，我在地图上给你们标识出来了*",
-      "KR": "玖神: *:disable: 거긴 외부 수로와 연결된 통로가 있어, 이미 지도에 표시해 놨다:*",
-      "TW": "玖神: *那邊有1條通道連接到外面的水道，我在我們的地图上給你們標識出來了*"
+      "KR": "구신: *바깥 수로와 연결된 통로가 하나 있습니다. 지도에 표시해 두었습니다.*",
+      "TW": "玖神：*那邊有一條通道連接到外面的水道，我在地圖上給你們標識出来了*"
     }
   },
   "玖神:*一切行动以自保为主。记住，这些人不再是普通人，随时可能变得极端暴力。命令是优先保护队员的生命安全，确保能够带回更多幸存者*": {
     "translation": "玖神:*一切行动以自保为主。记住，这些人不再是普通人，随时可能变得极端暴力。命令是优先保护队员的生命安全，确保能够带回更多幸存者*",
     "MultiLang": {
-      "US": "Ju God: *Actions should prioritize self-preservation. Remember, these are no longer ordinary people; they may turn extremely violent at any moment. The priority is to protect the team members' lives and ensure we can bring back more survivors.*",
-      "JP": "玖神: すべての行動は自己保護優先です。覚えておきなさい、これらの人は普通の人々ではなく、いつでも極端に暴行を加える可能性があります。命令は隊員の生命安全を最優先し、より多くの生存者を救出することです。",
+      "US": "Jiu Shen: *Prioritize self-preservation in all actions. Remember, these individuals are no longer ordinary people and can become extremely violent at any moment. The orders are to prioritize the safety of team members and ensure the extraction of more survivors.*",
+      "JP": "玖神: *何より重視すべきは自衛だ。忘れるな、この連中もう普通の人間ではない。いつでも極端な暴力に走る可能性がある。命令は隊員の生命を優先し、より多くの生存者を持ち帰ることだ。*",
       "CN": "玖神:*一切行动以自保为主。记住，这些人不再是普通人，随时可能变得极端暴力。命令是优先保护队员的生命安全，确保能够带回更多幸存者*",
-      "KR": "지축:* 모든 행동은自救为主。记住，这些人不再是普通人，随时可能变得极端暴力。命令是优先保护队员的生命安全，确保能够带回更多幸存者*",
-      "TW": "玖神:*1切行動以自保為主。記住，這些人不再是最普通的人，隨時可能變得極端暴動。命令是优先保護隊員的生命安全，確保能夠帶回更多生還者*"
+      "KR": "구신:*모든 작전 은 자체 생존을 최우선으로 합니다. 기억하세요, 이 사람들은 더 이상 평범한 사람이 아니며 언제든지 극단적인 폭력 행위를 저지를 수 있습니다. 명령은 팀원 의 생명 안전을 최우선으로 보호하고, 더 많은 생존자를 이끌고 돌아오는 것을 보장하는 것입니다.*",
+      "TW": "玖神：*一切行動以自保為主。記住，這些人不再是普通人，隨時可能變得極端暴力。命令是優先保護隊員的生命安全，確保能夠帶回更多倖存者*"
     }
   },
   "玖神:*你们先沿着沿途标记的出口前进，确保对周围环境保持敏感。一旦确认出现敌人，合理分配任务，保护队员的安全，同时尽可能寻找幸存者。我们不能留下任何人*": {
     "translation": "玖神:*你们先沿着沿途标记的出口前进，确保对周围环境保持敏感。一旦确认出现敌人，合理分配任务，保护队员的安全，同时尽可能寻找幸存者。我们不能留下任何人*",
     "MultiLang": {
-      "US": "Jiu Shén: Proceed to the exits marked along the way and remain sensitive to your surroundings. Once enemies are confirmed, distribute tasks rationally to ensure teammates' safety while also trying to find survivors. We cannot leave anyone behind.",
-      "JP": "九神:*/沿路のマークされた出口に進み、周囲の環境に敏感な対応を保ち吧。敵が確認次第、任務を適切に割り振って隊員の安全を確保し、同時に生き残者を探寻吧。誰一人留下不得*",
+      "US": "Jiu Shen: *Follow the marked exits along the route and remain vigilant about your surroundings. Once enemies are confirmed, allocate tasks wisely to protect team members while searching for survivors whenever possible. We cannot leave anyone behind.*",
+      "JP": "玖神: *まず沿道の標識付き出口を進んでくれ。周囲の状況に敏感であること。敵を確認でき次第、任務を適切に分担し、隊員の安全を守れ。可能な限り生存者を探せ。誰一人残すな。*",
       "CN": "玖神:*你们先沿着沿途标记的出口前进，确保对周围环境保持敏感。一旦确认出现敌人，合理分配任务，保护队员的安全，同时尽可能寻找幸存者。我们不能留下任何人*",
-      "KR": "😉 먼저 지정된 출입구를 따라 전진하세요. 주변 환경에 민감하게 대처하십시오. 적이 확인되면 임무를 합리적으로 배분하여 팀원들의 안전을 보호하고 동시에 생존자들을 최대한 찾아보세요. 아무도 놔두지 못할 것입니다.",
-      "TW": "玖神:**你們先沿著沿途標記的出口前進，確保對周圍環境保持敏銳。1確認出現敵人，合理分配任務，保護隊員的安全，同時盡可能尋找幸存者。我們不能留下任何1人**"
+      "KR": "구신:*일단 경로에 표시된 출구를 따라 이동하십시오. 주변 환경에 대해 민감하게 반응하세요. 적대가 확인되면 임무를 분배하고 팀원 의 안전을 보호하면서 가능하면 더 많은 생존자를 찾아야 합니다. 우리는 그 누구도 남겨두지 않아야 합니다.*",
+      "TW": "玖神：*你們先沿著沿途標記的出口前進，確保對周圍環境保持敏感。一旦確認出現敵人，合理分配任務，保護隊員的安全，同時儘可能尋找倖存者。我們不能留下任何人*"
     }
   },
   "玖神:*对了，中心区可能电能已经耗尽，需要你们自己去启用备用电源*": {
     "translation": "玖神:*对了，中心区可能电能已经耗尽，需要你们自己去启用备用电源*",
     "MultiLang": {
-      "US": "Jiu Shen: *Right, the central area might have exhausted its power supply. You'll need to activate the backup power source yourselves.*",
-      "JP": "玖神:***そういえば、中央部の電力が切れているかもしれませんので、備用電源を起動していただきます***",
+      "US": "Jiu Shen: *By the way, power may have failed in the central area; you will need to activate the backup power supply yourselves.*",
+      "JP": "玖神: *そうそう、中心部はすでに電力が尽きている可能性が高い。自力で予備電源を起動する必要がある。*",
       "CN": "玖神:*对了，中心区可能电能已经耗尽，需要你们自己去启用备用电源*",
-      "KR": "😉중심지역의 전력이 이미 소진되었을 수 있어, 대체 전원을 yourselves로 시작하세요*",
-      "TW": "玖神:.*對了，中心區可能電 năng已經耗盡，需要你們自己去啟用備用電源*"
+      "KR": "구신:*그런데中心区의 전원이 이미 끊겼을 수 있으므로 백업 전원을 직접 켜야 할 것 같습니다.*",
+      "TW": "玖神：*對了，中心區可能電能已經耗盡，需要你們自己去啟用備用電源*"
     }
   },
   "玖神:*我们接到的命令是尽快营救幸存者，同时确保病毒不会扩散。你们是目前唯一能够执行这个任务的力量，务必要小心*": {
     "translation": "玖神:*我们接到的命令是尽快营救幸存者，同时确保病毒不会扩散。你们是目前唯一能够执行这个任务的力量，务必要小心*",
     "MultiLang": {
-      "US": "Kuoshen: *Our command is to rescue the survivors as quickly as possible while ensuring the virus doesn't spread. You are currently the only force capable of executing this task. Be careful.*",
-      "JP": "九神:*私たちが受け取った命令は、できるだけ速やかに-survivorを救出し、またウイルスの拡散を防ぐことです。君たちが現在持っている唯一の任務遂行力であることを考慮に入れ、くれるほど気をつけてください*",
+      "US": "Jiu Shen: *Our orders are to rescue survivors as quickly as possible while preventing virus spread. You are currently the only force capable of executing this mission. Please be extremely careful.*",
+      "JP": "玖神: *上からの命令は、生存者の救助を急ぎつつ、ウイルスの拡散を防ぐことだ。お前たちはこの任務を実行できる唯一の存在だ。必ず慎重に行動せよ。*",
       "CN": "玖神:*我们接到的命令是尽快营救幸存者，同时确保病毒不会扩散。你们是目前唯一能够执行这个任务的力量，务必要小心*",
-      "KR": "😉우선 지시사항은 가능한 빠르게 생존자들을 구조하고同時感染者病毒不要扩散。目前你们是唯一能完成这项任务的势力，请务必小心谨慎。",
-      "TW": "玖神:*我們接到的命令是盡快營救幸存者，同時確保病毒不會擴散。你們是目前唯1能夠執行這個任務的力量，務必小心*"
+      "KR": "구신:*우리는 생존자를 최대한 빨리 구출하고 바이러스가 확산되지 않도록 보장하라는 명령을 받았습니다. 여러분은 이 임무를 수행할 수 있는 유일한 세력입니다. 반드시 조심하십시오.*",
+      "TW": "玖神：*我們接到的命令是儘快營救倖存者，同時確保病毒不會擴散。你們是目前唯一能夠執行這個任務的力量，務必要小心*"
     }
   },
   "玖神:*辐射水平会影响你们的生命安全。你们必须尽快穿过这片区域*": {
     "translation": "玖神:*辐射水平会影响你们的生命安全。你们必须尽快穿过这片区域*",
     "MultiLang": {
-      "US": "Ju God: *Radiation levels affect your safety. You must pass through this area as quickly as possible.*",
-      "JP": "九神:*> 放射レベルは皆さんの生命安全に影響给您带来不便，敬请谅解。この地域を速やかに通過する必要があります*",
+      "US": "Jiu Shen: *Radiation levels will impact your safety. You must cross this area as quickly as possible.*",
+      "JP": "玖神: *放射能レベルがお前の生命に影響を及ぼす。この区域をできるだけ早く通過する必要がある。*",
       "CN": "玖神:*辐射水平会影响你们的生命安全。你们必须尽快穿过这片区域*",
-      "KR": "玖神: *방사능 수준은 너희들의 생활 안전에 영향을 미친다. 반드시 이 지역을 빨리 통과해야 한다.*",
-      "TW": "玖神:!*輻射水準會影響你們的生命安全。你們必須盡快穿過這片區域*"
+      "KR": "구신:*방사선 수치는 여러분의 생명 안전에 영향을 미칩니다. 이 지역을 가능한 한 빨리 통과해야 합니다.*",
+      "TW": "玖神：*輻射水平會影響你們的生命安全。你們必須盡快穿過這片區域*"
     }
   },
   "（*电流声*）": {
     "translation": "（*电流声*）",
     "MultiLang": {
-      "US": "(*electric current sound*)",
-      "JP": "（*電流音*）",
+      "US": "(*Static crackling*)",
+      "JP": "（*ノイズ音*）",
       "CN": "（*电流声*）",
-      "KR": "(***전류 소리***)",
+      "KR": "（*전기 노이즈*）",
       "TW": "（*電流聲*）"
     }
   },
   "*我可不想进去游泳*": {
     "translation": "",
     "MultiLang": {
-      "US": "*I'd rather not go in for a swim*",
-      "JP": "*入って泳ごうとは思わないよ*",
+      "US": "*I don't want to go in swimming*",
+      "JP": "*水泳しに行く気はさらさらないよ*",
       "CN": "",
-      "KR": "*저는 안 들어가서 수영하고 싶지 않아*",
-      "TW": "*我真的不想進去游泳*"
+      "KR": "*수영하러 들어갈 생각은 없고*",
+      "TW": "*我可不想進去游泳*"
     }
   },
   ">>>门还有10秒钟关闭<<<": {
     "translation": "",
     "MultiLang": {
-      "US": ">>The door will close in 10 seconds<<",
-      "JP": ">>>扉は10秒後に閉锁<<<",
+      "US": ">>>Door closes in 10 seconds<<<",
+      "JP": ">>>門が閉鎖されるまであと10秒<<<",
       "CN": "",
-      "KR": ">>>문이 10초 후에 닫힙니다<<<",
-      "TW": ">>>門還剩10秒關閉<<<"
+      "KR": ">>>문은 10초 뒤에 닫힙니다<<<",
+      "TW": ">>>門還有10秒鐘關閉<<<"
     }
   },
   ">>>通风口已经过载<<<": {
     "translation": "",
     "MultiLang": {
-      "US": ">>> Vent already overloaded <<<",
-      "JP": ">>>通気孔が過載 <<<",
+      "US": ">>>Ventilation system overloaded<<<",
+      "JP": ">>>換気口が過負荷に達しました<<<",
       "CN": "",
-      "KR": ">>> 통풍구가 과부하<<<",
-      "TW": ">>>通風口已過載<<<"
+      "KR": ">>>환기구에 과부하가 걸렸습니다<<<",
+      "TW": ">>>通風口已經過載<<<"
     }
   },
   "*快进到房间里来!!!*": {
     "translation": "",
     "MultiLang": {
-      "US": "*Quickly get into the room!!*",
-      "JP": "*部屋に早く進み come!!!*",
+      "US": "*Hurry up and get inside!!!*",
+      "JP": "*室内へ急げ！！！*",
       "CN": "*快点进房间!!*",
-      "KR": "*방으로 빨리 들어오세요!!*",
-      "TW": "*快進到房間裡來!!!*"
+      "KR": "*벌써 방으로 들어오세요!!!*",
+      "TW": "*快进到房間裡來!!!*"
     }
   },
   "I will run alone tonight(今夜我将独自奔走)": {
     "translation": "",
     "MultiLang": {
       "US": "I will run alone tonight",
-      "JP": "今夜我将独自奔走",
+      "JP": "I will run alone tonight(今夜我将独自奔走)",
       "CN": "今夜我将独自奔走",
-      "KR": "오늘 밤 나는 혼자 뛰어갈 것(今夜我将独自奔走)",
-      "TW": "今夜我将獨自奔走"
+      "KR": "I will run alone tonight(今夜我将独自奔走)",
+      "TW": "今夜我將獨自奔走"
     }
   },
   "Without you by my side(没有你陪伴在我左右)": {
     "translation": "",
     "MultiLang": {
       "US": "Without you by my side",
-      "JP": "Without you by my side(あなたが私の側にいないと)",
+      "JP": "Without you by my side(没有你陪伴在我左右)",
       "CN": "没有你陪伴在我左右",
-      "KR": "전lassian你陪伴在我左右）",
-      "TW": "無你伴我側(沒有你陪伴在我左右)"
+      "KR": "Without you by my side(没有你陪伴在我左右)",
+      "TW": "沒有你陪伴在我左右"
     }
   },
   "I guess you had a place you had to get to(我猜你已厌倦了争斗)": {
     "translation": "",
     "MultiLang": {
-      "US": "I guess you had a place you had to get to (I guess you're tired of all the fighting)",
-      "JP": "我猜你已厌倦了争斗",
+      "US": "I guess you had a place you had to get to",
+      "JP": "I guess you had a place you had to get to(我猜你已厌倦了争斗)",
       "CN": "我猜你已厌倦了争斗(我猜你有地方必须去)",
-      "KR": "저는 아마 다툼에서 벗어나고 싶었을 거예요(저는 아마 당신이 이미 싸움에서 지루했을 거라 추측합니다)",
-      "TW": "我猜你已厭倦了爭斗"
+      "KR": "I guess you had a place you had to get to(我猜你已厌倦了争斗)",
+      "TW": "我猜你已厭倦了爭鬥"
     }
   },
   "I know your eyes(我明晰你的感受)": {
     "translation": "",
     "MultiLang": {
-      "US": "I know your eyes( I明白你的注视)",
-      "JP": "我知道あなたの目(我明晰你的感受)",
+      "US": "I know your eyes",
+      "JP": "I know your eyes(我明晰你的感受)",
       "CN": "我知道你的感受(我明晰你的感受)",
-      "KR": "당신의 감정을 알아요 (我明晰你的感受)",
+      "KR": "I know your eyes(我明晰你的感受)",
       "TW": "我明晰你的感受"
     }
   },
   "I know inside(我深知你的双眸)": {
     "translation": "",
     "MultiLang": {
-      "US": "I know inside(You gaze into my soul)",
-      "JP": "我深知你的双眸",
+      "US": "I see the depths of your eyes",
+      "JP": "私の奥底（あなたの瞳の奥に潜むもの）",
       "CN": "我知道 внутри(我深知你的双眸)",
-      "KR": "我知道你的双眸(내게는 네 눈이 알려준 것을 알고 있음)",
-      "TW": "我知道內裡(我深知你的雙眸)"
+      "KR": "나는 안다, 너의 진짜 모습(我深知你的双眸)",
+      "TW": "我深知你的双眸"
     }
   },
   "The walls you hide behind(墙后的你存在与否)": {
     "translation": "",
     "MultiLang": {
-      "US": "The walls you hide behind (existence or not)",
-      "JP": "隠れ commodo っている壁の後ろ(-wall后的你是否存在-)",
+      "US": "Whether you exist behind these walls or not",
+      "JP": "隠れた壁の向こうにあなたがいるか",
       "CN": "你隐藏的身后之墙(墙后的你存不存在)",
-      "KR": "숨어 있는 너의 존재(너가 벽 뒤에 있다면)",
-      "TW": "您藏身的牆後(牆后的你存在與否)"
+      "KR": "너가 숨긴 벽 뒤에 있는 존재(墙后的你存在与否)",
+      "TW": "高牆後的你存在與否"
     }
   },
   "And I saw the truth inside the real you(于是我看见真相，瓦解这堵高墙)": {
     "translation": "",
     "MultiLang": {
-      "US": "And I saw the truth inside the real you(I saw the truth, and the wall crumbled.)",
-      "JP": "そして真実を见た本当の君(于是我看见真相，瓦解这堵高墙)",
+      "US": "I saw the truth in your true self, breaking down this wall",
+      "JP": "真実のあなたの中に、そしてこの壁を崩す真実を見た（私は偽りの壁を壊す）",
       "CN": "我看见了你真正的内心(于是我看穿了真相，瓦解了这道高墙)",
-      "KR": "그리고 진실을 발견했다(于是我看见真相，瓦解这堵高墙)",
-      "TW": "並且我見到了真正的你內裡的真理(于是我看见真相，瓦解這堵高牆)"
+      "KR": "그리고 나는 너의 진짜 속내를 보았다(于是我看见真相，瓦解这堵高墙)",
+      "TW": "於是你見得真相，瓦解這道高牆"
     }
   },
   "Because I know you're lost when you run(因为我知道你在逃离之初就已失路)": {
     "translation": "",
     "MultiLang": {
-      "US": "Because I know you're lost when you run(Because I know you're lost when you run)",
-      "JP": "因為我知道你在逃離之初就已失路",
+      "US": "Because I know you are lost from the start of your escape",
+      "JP": "逃げ出すあなたの行方知れぬ先を、私は知っている（逃げるほどに失われるあなたの姿）",
       "CN": "因为我知道你在逃离之初就已失路",
-      "KR": "도망치는 순간 길을 잃었다는 걸 알았기 때문에.",
-      "TW": "因為我知道你在逃離之初就已失路"
+      "KR": "왜냐하면 나는 알기 때문이지, 네가 도망치는 순간 이미 길을 잃었음을(因为我知道你在逃离之初就已失路)",
+      "TW": "因為我知道你在逃離之初就已迷途"
     }
   },
   "Into the same black holes and black mistakes(陷入无边无际黑洞的荒芜)": {
     "translation": "",
     "MultiLang": {
-      "US": "Into the same black holes and black mistakes (Sink into the desolation of endless black holes and blunders)",
-      "JP": "Into the same black holes and black mistakes(無辺無際のブラックホールの荒廃)",
+      "US": "Falling into the desolation of boundless black holes",
+      "JP": "同じ闇の穴、同じ過ちの中へ（終わりのない黒い穴の荒涼とした世界）",
       "CN": "",
-      "KR": "동일한 검은 구멍과 검은 실수로 들어가다(무경계의 괴물들 속으로)",
-      "TW": "進入相同的黑洞和黑錯誤(陷入無邊無際黑洞的荒蕪)"
+      "KR": "그 검은 구덩이와 실수 속으로(陷入无边无际黑洞的荒芜)",
+      "TW": "陷入無邊無際黑洞的荒涼"
     }
   },
   "Taking all my will just to run alone(你卷走我的一切逃往未知之处)": {
     "translation": "",
     "MultiLang": {
-      "US": "Taking all my will just to run alone (You take everything from me and flee into the unknown)",
-      "JP": "取って Goes to where unknown(あなたが私のすべてを奪って未知へ逃げる)",
+      "US": "Taking all my will away, fleeing into the unknown",
+      "JP": "私の意志すべてを奪って一人逃げていく（あなたの姿に私の全てが巻き込まれて未知の世界へ）",
       "CN": "取尽我所有 只为独自行往未知处(你卷走我的1切逃往未知之处)",
-      "KR": "TAKE ALL MY WILL JUST TO RUN ALONE(너가 나의 모든 것을 편집해서 모여 모른 곳으로 뛰어간다)",
-      "TW": "取我所有 只為獨自逃向未知 (你卷走我的1切逃往未知之处)"
+      "KR": "나의 모든 것을 모두 가져간 채 혼자 도망친다면(你卷走我的一切逃往未知之处)",
+      "TW": "卷走我的一切、奔向未知之處"
     }
   },
   "When are you coming home(你何时回家)": {
     "translation": "",
     "MultiLang": {
-      "US": "When are you coming home(When are you coming home)",
-      "JP": "あなたはいつ帰る（你何时回家）",
+      "US": "When will you come home?",
+      "JP": "いつ帰ってくるの（あなたの帰宅はいつ？）",
       "CN": "当你回来（你何时回家）",
-      "KR": "언제 집에 돌아오나요(你何时回家)",
+      "KR": "언제 집으로 돌아올 거야(你何时回家)",
       "TW": "你何時回家"
     }
   },
   "Even if the sky does fall(即使天幕轰然坠落)": {
     "translation": "",
     "MultiLang": {
-      "US": "Even if the sky does fall(If the sky should fall)",
-      "JP": "即使是天幕轰然坠落",
+      "US": "Even if the sky falls",
+      "JP": "空が崩れ落ちても（天幕が崩れ落ちてもしばらく）",
       "CN": "即使天幕轰然坠落",
-      "KR": "하늘이 무너져도",
-      "TW": "即使天幕轰然墜落"
+      "KR": "하늘이 무너져 내리더라도(即使天幕轰然坠落)",
+      "TW": "即使天幕崩塌"
     }
   },
   "Even if they take it all(即使掠夺无休无止)": {
     "translation": "",
     "MultiLang": {
-      "US": "Even if they take it all(Even if the plunder never ends)",
-      "JP": "EVEN IF THEY TAKE IT ALL(即使掠夺无休无止)",
+      "US": "Even if they take it all",
+      "JP": "彼らがすべてを奪い去っても",
       "CN": "即使掠夺无休无止",
-      "KR": "即使是掠奪無盡也(이리여 빼앗김이 멈추지 않아도)",
-      "TW": "即使掠奪無休無止"
+      "KR": "그들이 모든 것을 빼앗아도",
+      "TW": "即使他們不斷掠奪"
     }
   },
   "There's no pain that I won't go through(没有苦难我无法挺过)": {
     "translation": "",
     "MultiLang": {
       "US": "There's no pain that I won't go through",
-      "JP": "THERE IS NO PAIN THAT I WON'T GO THROUGH(没有苦难我无法挺过)",
+      "JP": "乗り越えられない苦しみなどない",
       "CN": "没有苦难我无法挺过",
-      "KR": "이 모든 고통도 견디리라(There's no pain that I won't go through)",
-      "TW": "沒有苦難我無法挺過"
+      "KR": "내가 겪지 않을 고통은 없다",
+      "TW": "沒有我無法承受的苦難"
     }
   },
   "Even if I have to die for you(哪怕要为你而死)": {
     "translation": "",
     "MultiLang": {
       "US": "Even if I have to die for you",
-      "JP": "EVEN IF I HAVE TO DIE FOR YOU (哪怕要为你而死)",
+      "JP": "たとえ君のために死んでも",
       "CN": "即使要为你而死",
-      "KR": "이마저 네게 바칠 수 있다(哪怕要为你而死)",
-      "TW": "即使要為你而死(哪怕要为你而死)"
+      "KR": "그대를 위해 죽어야 한다면",
+      "TW": "即使必須為你而死"
     }
   },
   "And when all the fires burn(恰是世界焚于烈火)": {
     "translation": "",
     "MultiLang": {
-      "US": "And when all the fires burn(When all the fires burn)",
-      "JP": "そしてすべての炎が燃え尽きるとき(恰是世界焚于烈火)",
+      "US": "And when all the fires burn",
+      "JP": "火が世界を焼き尽くすとき",
       "CN": "And 当所有火焰燃尽(恰是世界焚于烈火)",
-      "KR": "불길이 모두 꺼질 때까지(😄세계가 화염으로焚烧于世界)",
-      "TW": "并且當所有的火焰燃燒(恰是世界焚於烈火)"
+      "KR": "세상이 화염에 휩싸일 때",
+      "TW": "當世界化為熊熊烈火"
     }
   },
   "When everything is overturning(如果黑白本末倒置)": {
     "translation": "",
     "MultiLang": {
-      "US": "If black and white are reversed(When everything is overturning)",
-      "JP": "もし黑白が本末倒置的话",
+      "US": "When everything is overturning",
+      "JP": "すべてがひっくり返る時",
       "CN": "当1切黑白本末倒置",
-      "KR": "만약 흰黑与黑色颠倒过来的话",
-      "TW": "如果黑白本末倒置"
+      "KR": "모든 것이 뒤집힐 때",
+      "TW": "當黑白顛倒、本末倒置"
     }
   },
   "There's no thing that I won't go through(没有什么我不能走过)": {
     "translation": "",
     "MultiLang": {
       "US": "There's no thing that I won't go through",
-      "JP": "何事も通る'util'",
+      "JP": "通り越せないものなどない",
       "CN": "没有什么我不能走过",
-      "KR": "passes를 거치지 않은 것이 없음)",
-      "TW": "没有什么我不能走过"
+      "KR": "내가 지나가지 않을 것은 없다",
+      "TW": "沒有我無法跨過的坎"
     }
   },
   "One day the earth will open wide(不远的将来，大地撼动并裂开)": {
     "translation": "",
     "MultiLang": {
-      "US": "One day the earth will open wide (not too far in the future, the ground shakes and cracks)",
-      "JP": "-One day the earth will open wide(不远の将来、大地が揺れ動き裂けます)",
+      "US": "One day the earth will open wide",
+      "JP": "遠からず大地は揺れ裂ける",
       "CN": "",
-      "KR": "어느 날, 대지는 크게 흔들리고 갈라질 것이다(不远的将来，大地撼动并裂开)",
-      "TW": "遠不的將來，大地方撼動並裂開"
+      "KR": "언젠가 대지가 벌어질 것이다",
+      "TW": "終將有一天大地震撼開裂"
     }
   },
   "And I'll follow you inside(而我的追溯不会失败)": {
     "translation": "",
     "MultiLang": {
-      "US": "And I'll follow you inside (while my pursuit will not fail)",
-      "JP": "そして私はあなたに連れて行かれるのを見届ける(而我的追溯不会失败)",
+      "US": "And I'll follow you inside",
+      "JP": "そして私は君に続く",
       "CN": "而我将跟随你进去(而我的追溯不会失败)",
-      "KR": "그리고 나는 너의 흔적 뒤를 따르겠지만(이追溯不会失败)",
-      "TW": "而我將會Follow你裡面(而我的追溯不會失敗)"
+      "KR": "그리고 나는 그 안으로 따라갈 것이다",
+      "TW": "而我的追尋絕不致敗"
     }
   },
   "Cause the only hell I know is without you(因为地狱所在即没有你的存在)": {
     "translation": "",
     "MultiLang": {
-      "US": "Because the only hell I know is without you",
-      "JP": "因果HELLは君のいない場所にあるだけ(cause the only hell I know is without you)",
+      "US": "The only hell I know is one without you",
+      "JP": "私が知る地獄とは、あなたとの別れだ",
       "CN": "因为地狱所在即没有你的存在",
-      "KR": "지난ONLY 지옥은 네 존재 없이 있다>>",
-      "TW": "因為 Hell 所在即沒有你(因為地狱所在即没有你的存在)"
+      "KR": "내가 아는 지옥은 너 없는 곳",
+      "TW": "我所知唯一的無盡地獄，便是與你分離"
     }
   },
   "Some day when galaxies collide(终有一天，一个星辰冲突的时代)": {
     "translation": "",
     "MultiLang": {
-      "US": "Some day when galaxies collide(One day, an age of stellar conflict)",
-      "JP": "Some day when galaxies collide(銀河が衝突する日)",
+      "US": "One day, when galaxies collide",
+      "JP": "やがて銀河が衝突する日に",
       "CN": "某日，星系相撞(终有1天，1个星辰冲突的时代)",
-      "KR": "Certain day when galaxies collide(일정한 날에 우주선 충돌의 시대)",
-      "TW": "有些日子，星系相撞(終有1天，1個星辰衝突的時代)"
+      "KR": "언젠가 은하들이 충돌하는 날",
+      "TW": "終有一日，星系將迎來碰撞"
     }
   },
   "We'll be lost on different skies(我们在不同的天空飘渺恕灾)": {
     "translation": "",
     "MultiLang": {
-      "US": "We'll be lost on different skies(We'll be lost on different skies)",
-      "JP": "我々は異なる空の上で迷う(我们在不同的天空飘渺恕灾)",
+      "US": "We'll be lost in different skies",
+      "JP": "私たちは異なる空で途方に暮れよう",
       "CN": "我们将在不同的天空漂泊(我们在不同的天空飘渺恕灾)",
-      "KR": "우리는 다른 하늘에서 괴로워(我们在不同的天空飘渺恕灾)",
-      "TW": "我們將在不同的天空漂泊(我们在不同的天空飘渺恕灾)"
+      "KR": "우리는 서로 다른 하늘에서 헤매게 될 거야",
+      "TW": "我們將迷失於不同的天空之下"
     }
   },
   "I will send my rocket ship to find you(我将遣出我的飞船带你归来)": {
     "translation": "",
     "MultiLang": {
       "US": "I will send my rocket ship to find you",
-      "JP": "私はあなたのことを探すためにロケットshipを送る(我将遣出我的飞船带你归来)",
+      "JP": "私の宇宙船を送り、あなたを探しだす",
       "CN": "我将派遣我的飞船来找你",
-      "KR": "나는 당신을 찾아내기 위해我的飞船将送你回来",
-      "TW": "我將派遣我的火箭船去找你(我將遣出我的飛船帶你歸來)"
+      "KR": "나는 너를 찾아 로켓을 보낼 거야",
+      "TW": "我將派遣我的飛船，去尋找你"
     }
   },
   "Because I know you're lost when you run away(因为我知道你在逃离之初就已失路)": {
     "translation": "",
     "MultiLang": {
       "US": "Because I know you're lost when you run away",
-      "JP": "逃げ出した時すでに道を見失っているのを知っているから。",
+      "JP": "あなたが逃げ出すとき、すでに道に迷っているのを知っているから",
       "CN": "因为我知道你在逃离之初就已失路",
-      "KR": "도망치는 순간부터 길을 잃었다는 걸 알고 있어.",
-      "TW": "因為我知道你在逃離之初就已失路"
+      "KR": "네가 도망칠 때 이미 길을 잃었음을 알거든",
+      "TW": "因為我知道，當你開始逃離，便已迷失方向"
     }
   },
   "Until I bring you home(直到我携你回家)": {
     "translation": "",
     "MultiLang": {
       "US": "Until I bring you home",
-      "JP": "Until I 携你回家",
+      "JP": "あなたが私の元へ戻るまで",
       "CN": "直到我携你回家",
-      "KR": "서로 집으로 돌아가는까지(直到我携你回家)",
-      "TW": "直到我攜你回家"
+      "KR": "내가 너를 데려올 때까지",
+      "TW": "直到我帶你回家"
     }
   },
   "And if the sun grows cold for you along the way(就算太阳变得冰冷无光)": {
     "translation": "",
     "MultiLang": {
-      "US": "And if the sun grows cold for you along the way(If the sun becomes cold and dim)",
-      "JP": "そして太陽が冷たくなっても(就算太阳变得冰冷无光)",
+      "US": "And if the sun grows cold for you along the way",
+      "JP": "もし道中に太陽が冷たく光を失っても",
       "CN": "And若沿途阳光冻结(就算太阳变得冰冷无光)",
-      "KR": "그리고 만약 길엔 젖어버린 추운 태양이여(就算太阳变得冰冷无光)",
-      "TW": "並願路上的太陽不再溫暖(就算太阳变得冰冷無光)"
+      "KR": "만약 햇님이 그 길에서 차가워지고 빛을 잃어 버린다면",
+      "TW": "哪怕沿途的太陽變得冰冷黯淡"
     }
   },
   "And if the stars don't line to light the way(就算群星无意照耀前方)": {
     "translation": "",
     "MultiLang": {
-      "US": "And if the stars don't line to light the way(Even if the stars do not intend to shine ahead)",
-      "JP": "そして群星無情にも導きをくれなければ",
+      "US": "And if the stars don't align to light the way",
+      "JP": "もし星々が道を照らすことを拒んでも",
       "CN": "并且如果群星无意照亮前方(就算群星无意照耀前方)",
-      "KR": "그리고 만약 별들이 빛나지 않아도(별이 앞길을 비춰주지는 않아도)",
-      "TW": "就算群星无意照耀前方"
+      "KR": "만약 별들이 그 길을 비추지 않더라도",
+      "TW": "哪怕群星不再為我們照亮前路"
     }
   },
   "And when you fall away and crash back down below(当你决定流浪，在崩溃面前彷徨)": {
     "translation": "",
     "MultiLang": {
-      "US": "And when you fall away and crash back down below (when you decide to wander, hesitate before the crash)",
-      "JP": "そしてあなたが遊走し崩落の前に揺れるとき(当你决定流浪，在崩溃面前彷徨)",
+      "US": "And when you fall away and crash back down below",
+      "JP": "そしてあなたが彷徨い落ち、再び下方へ墜ちるとき",
       "CN": "当你决定流浪，在崩溃面前彷徨",
-      "KR": "와当你决定流浪，在崩溃面前彷徨时(And when you fall away and crash back down below)",
-      "TW": "當你決定向外流浪，於崩塌前徬徨(And when you fall away and crash back down below)"
+      "KR": "너무 늦게 알았을 때, 땅속으로 떨어질 때",
+      "TW": "當你決定流浪，在崩潰面前彷徨"
     }
   },
   "I'll search the skies for you and I'll follow(我会穿越天空前来寻找，我会无声跟随静沐霞朝)": {
     "translation": "",
     "MultiLang": {
-      "US": "I'll search the skies for you and I'll follow(Will I search the skies for you and silently follow?)",
-      "JP": "私は空を駆け巡り汝を探し、私は静沐霞朝の声无き追随を行う。",
+      "US": "I'll search the skies for you and I'll follow",
+      "JP": "私は空を渡りあなたを探し、静かに追いかける",
       "CN": "我将穿越天空前来寻找，我会无声跟随静沐霞朝",
-      "KR": "나는 하늘을 넘어서 너를 찾아오고, 나는 무소음으로 정무채른 옆에서 따라올 것이다.",
-      "TW": "我將穿越天空前來尋找，我會無聲跟隨靜沐霞朝"
+      "KR": "너를 찾아 하늘을 헤매고, 나는 조용히 너를 따라갈 거야",
+      "TW": "我會穿越天空前來尋找，我會無聲跟隨靜沐霞朝"
     }
   },
   "In your afterglow(我在你的余晖中被照耀)": {
     "translation": "",
     "MultiLang": {
-      "US": "In your afterglow (I am illuminated in your glow)",
-      "JP": "あなたの余晖の中で照らされて(在你的余晖中被照耀)",
+      "US": "In your afterglow",
+      "JP": "あなたの残光の中で",
       "CN": "在你的余晖中被照耀",
-      "KR": "당신의 여광 속에서 빛나다",
-      "TW": "在你的余晖中被照耀"
+      "KR": "너의 여명 속에서",
+      "TW": "我在你的餘暉中被照耀"
     }
   },
   "And I'll bring you home(我将带你归家)": {
     "translation": "",
     "MultiLang": {
       "US": "And I'll bring you home",
-      "JP": "そして君を帰す(我将带你归家)",
+      "JP": "そして私はあなたを家へ連れて帰る",
       "CN": "我将带你归家",
-      "KR": "그리고 난 당신을 귀가시켜줄 것이다(我将带你归家)",
-      "TW": "And I'll bring you home(我將帶你歸家)"
+      "KR": "그리고 너를 집으로 데려갈 거야",
+      "TW": "我將帶你歸家"
     }
   },
   "Even if I have to die for you(哪怕我需为你而死)": {
     "translation": "",
     "MultiLang": {
       "US": "Even if I have to die for you",
-      "JP": "EVEN IF I HAVE TO DIE FOR YOU(哪怕我需为你而死)",
+      "JP": "たとえ私があなたのために死ななければならないとしても",
       "CN": "即使我需为你而死(Even if I have to die for you)",
-      "KR": "네가 죽더라도, 난 너를 위해 죽을 거야(哪怕我需为你而死)",
-      "TW": "即使我需为你而死(Even if I have to die for you)"
+      "KR": "내가 너를 위해 죽어야 해도",
+      "TW": "哪怕我需為你而亡"
     }
   },
   ">>>门还有20秒钟关闭<<<": {
     "translation": "",
     "MultiLang": {
-      "US": ">>The door will close in 20 seconds<<",
+      "US": ">>>The gate will close in 20 seconds<<<",
       "JP": ">>>門は20秒後に閉じます<<<",
       "CN": "",
-      "KR": ">>>문이 20초 후에 닫힙니다<<<",
-      "TW": ">>>門還剩20秒關閉<<<"
+      "KR": ">>> 문이 20초 후에 닫힙니다 <<<",
+      "TW": ">>>門還有20秒鐘關閉<<<"
     }
   },
   "长官:*我们接到的命令是尽快营救幸存者，同时确保病毒不会扩散。你们是目前唯一能够执行这个任务的力量，务必要小心*": {
     "translation": "",
     "MultiLang": {
-      "US": "Commander: *Our orders are to rescue the survivors as quickly as possible, while ensuring the virus does not spread. You are currently the only force capable of carrying out this mission, so be careful.*",
-      "JP": "長官:*我々は生存者の救助を最優先とし、同時にウイルスの拡散を防ぐことが命令です。あなた達は現在、この任務を遂行できる唯一の力です。くれぐれも注意してください。*",
+      "US": "Officer: *Our orders are to rescue the survivors as soon as possible while ensuring the virus does not spread. You are currently the only force capable of executing this mission, so you must be extremely careful.*",
+      "JP": "長官：*我々の命令は、生存者の救出を最優先で行いながら、ウイルスの拡散を防ぐことです。あなたがたは現在、この任務を執行できる唯一の存在です。くれぐれも注意してください*",
       "CN": "",
-      "KR": "장관: *우리는 가능한 한 빨리 생존자를 구출하고 동시에 바이러스가 퍼지지 않도록 해야 합니다. 여러분은 현재 이 임무를 수행할 수 있는 유일한 전력입니다. 반드시 조심하십시오.*",
-      "TW": "長官：*我們接到的命令是盡快營救倖存者，同時確保病毒不會擴散。你們是目前唯一能夠執行這個任務的力量，務必要小心*"
+      "KR": "지휘관: *우리는 가능한 한 빨리 생존자를 구조하되, 바이러스가 확산되지 않도록 명령받았습니다. 여러분은 이 임무를 수행할 수 있는 유일한 팀입니다. 주의 깊게 행동하세요.*",
+      "TW": "長官:*我們接到的命令是盡快營救倖存者，同時確保病毒不會擴散。你們是目前唯一能夠執行這個任務的力量，務必要小心*"
     }
   },
   "长官:*一切行动以自保为主。记住，这些人不再是普通人，随时可能变得极端暴力。命令是优先保护队员的生命安全，确保能够带回更多幸存者*": {
     "translation": "",
     "MultiLang": {
-      "US": "Commander: *Prioritize self-preservation in all actions. Remember, these people are no longer ordinary; they may become extremely violent at any time. The order is to prioritize the safety of our team members and ensure we can bring back more survivors.*",
-      "JP": "長官:*常に自衛を優先すること。覚えておけ、彼らはもはや普通の人々ではない。いつ何時でも極度に暴力的になる可能性がある。命令は、隊員の生命の安全を最優先に保護し、より多くの生存者を連れ帰すことを確保すること。*",
+      "US": "Officer: *Prioritize self-preservation in all operations. Remember, these people are no longer ordinary citizens and may turn violently extreme at any time. Your orders are to prioritize the safety of your team members and ensure you can bring back more survivors.*",
+      "JP": "長官：*すべての行動は自己防衛を最優先とします。覚えておいてください、これらの人々はもはや一般人ではなく、隨時に極端な暴力を振るう可能性があります。命令は隊員の命を守り、より多くの生存者を生きたまま持ち帰ることです*",
       "CN": "",
-      "KR": "장관:*모든 행동은 자위 우선입니다. 기억하십시오, 이 사람들은 더 이상 보통 사람이 아니며, 언제든 극단적으로 폭력적으로 변할 수 있습니다. 명령은 팀원의 생명 안전을 최우선으로 보호하고, 더 많은 생존자를 데려올 수 있도록 하는 것입니다.*",
+      "KR": "지휘관: *모든 행동의 최우선은 자기 보호입니다. 기억하세요, 이 사람들은 더 이상 평범한 사람이 아닙니다. 언제든 극도로 잔혹해질 수 있습니다. 생존자를 최대한 많이 데려올 수 있도록 팀원의 안전을 최우선으로 하라는 명령입니다.*",
       "TW": "長官:*一切行動以自保為主。記住，這些人不再是普通人，隨時可能變得極端暴力。命令是優先保護隊員的生命安全，確保能夠帶回更多倖存者*"
     }
   },
   "长官:*你们先沿着沿途标记的出口前进，确保对周围环境保持敏感。一旦确认出现敌人，合理分配任务，保护队员的安全，同时尽可能寻找幸存者。我们不能留下任何人*": {
     "translation": "",
     "MultiLang": {
-      "US": "Captain: *Proceed along the marked exits, ensuring you remain aware of your surroundings. Once enemies are confirmed, allocate tasks appropriately, protect the safety of your team members, and search for survivors whenever possible. We cannot leave anyone behind.*",
-      "JP": "長官:*沿途の出口に沿って進んでください。周囲の状況に常に注意を払いましょう。敵を発見したら、任務を適切に分配し、隊員の安全を確保しつつ、可能な限り生存者を探してください。誰も置き去りにすることはできません*",
+      "US": "Commander: *Follow the marked exits ahead, keeping alert to your surroundings. Once enemies are confirmed, assign tasks wisely, protect your squad's safety, and search for survivors whenever possible. We leave no one behind.*",
+      "JP": "隊長：\"まずは標識に従って出口へ進み、周囲の状況に注意を払ってください。敵を確認次第、任務を適切に分担し隊員の安全を守ると同時に、可能な限り生存者を探してください。誰一人取り残してはいけません\"",
       "CN": "",
-      "KR": "장교: *여러분은 먼저 경로를 따라 표시된 출구로 나아가면서 주변 환경에 주의를 기울이십시오. 적이 확인되면 임무를 적절히 분배하여 팀원의 안전을 보호하고, 동시에 가능한 한 생존자를 찾으십시오. 우리는 누구도 남겨둘 수 없습니다.*",
-      "TW": "長官：*你們先沿著沿途標記的出口前進，確保對周圍環境保持敏感。一旦確認出現敵人，合理分配任務，保護隊員的安全，同時盡可能尋找倖存者。我們不能留下任何人*"
+      "KR": "장관:*여러분은 우선 길가에 표시된 출구로 진행하세요. 주변 환경을 주의 깊게 확인하셔야 합니다. 적의 존재가 확인되면 임무를 적절히 분배하고 대원들의 안전을 보호하는 동시에 가능한 한 많은 생존자를 찾아야 합니다. 누구도 남겨두면 안 됩니다.*",
+      "TW": "长官：*你們先沿著沿途標記的出口前進，確保對周圍環境保持敏感。一旦確認出現敵人，合理分配任務，保護隊員的安全，同時盡可能尋找倖存者。我們不能留下任何人*"
     }
   },
   "*这扇门锁得太死了，让我把它撬开*": {
     "translation": "",
     "MultiLang": {
-      "US": "This door is locked too tight, let me pick it open.",
-      "JP": "*この扉は固く閉ざされている。こじ開けよう。*",
+      "US": "*This door's locked tight. Let me pry it open.*",
+      "JP": "この扉は堅くロックされているから、こじ開けてやる",
       "CN": "",
-      "KR": "이 문은 너무 잠겨 있어서, 열쇠로 따야겠어.",
+      "KR": "*이 문은 너무 꽉 잠겨 있어서 저에게 빼달라고 하세요.*",
       "TW": "*這扇門鎖得太死了，讓我把它撬開*"
     }
   }
