@@ -2,70 +2,70 @@
   "30秒后门开": {
     "translation": "",
     "MultiLang": {
-      "US": "Back door opens in 30s",
-      "JP": "30秒後に後門が開く",
+      "US": "Door opens in 30s",
+      "JP": "30秒後に門が開く",
       "CN": "",
-      "KR": "30초 후 문 개방",
+      "KR": "30초 후 백문 개방",
       "TW": "30秒後門開啟"
     }
   },
   "40秒后门开": {
     "translation": "",
     "MultiLang": {
-      "US": "Back door opens in 40s",
-      "JP": "40秒後に後門が開く",
+      "US": "Door opens in 40s",
+      "JP": "40秒後に門が開く",
       "CN": "",
-      "KR": "40초 후 문 개방",
+      "KR": "40초 후 백문 개방",
       "TW": "40秒後門開啟"
     }
   },
   "10秒僵尸传送": {
     "translation": "",
     "MultiLang": {
-      "US": "Zombies teleport in 10s",
-      "JP": "10秒後にゾンビがテレポ",
+      "US": "Zombie teleport in 10s",
+      "JP": "10秒でゾンビ転送",
       "CN": "",
-      "KR": "10초 뒤 좀비 소환",
-      "TW": "10秒後僵尸傳送"
+      "KR": "10초 후 좀비 전송",
+      "TW": "10秒後殭屍傳送"
     }
   },
   "10后僵尸传送": {
     "translation": "",
     "MultiLang": {
-      "US": "Zombies teleport in 10s",
-      "JP": "10秒後にゾンビがテレポ",
+      "US": "Zombie teleport 10s later",
+      "JP": "10秒後、ゾンビ転送",
       "CN": "",
-      "KR": "10초 뒤 좀비 소환",
-      "TW": "10秒後僵尸傳送"
+      "KR": "10초 후 좀비 전송",
+      "TW": "10秒後殭屍傳送"
     }
   },
   "门开10后僵尸传送": {
     "translation": "",
     "MultiLang": {
-      "US": "When door opens, zombies teleport in 10s",
-      "JP": "門が開いて10秒後にゾンビがテレポ",
+      "US": "Door opens, zombie teleports 10s later",
+      "JP": "門が開いてから10秒後にゾンビ転送",
       "CN": "",
-      "KR": "문 개방 10초 뒤 좀비 소환",
-      "TW": "門開啟10秒後僵尸傳送"
+      "KR": "문 개방 후 10초 경과 → 좀비 전송",
+      "TW": "門開啟10秒後殭屍傳送"
     }
   },
   "10秒后僵尸传送": {
     "translation": "",
     "MultiLang": {
-      "US": "Zombies teleport in 10s",
-      "JP": "10秒後にゾンビがテレポ",
+      "US": "Zombie teleport 10s later",
+      "JP": "10秒後、ゾンビ転送",
       "CN": "",
-      "KR": "10초 후 좀비 소환",
-      "TW": "10秒後僵尸傳送"
+      "KR": "10초 후 좀비 전송",
+      "TW": "10秒後殭屍傳送"
     }
   },
   "门开10秒传送": {
     "translation": "",
     "MultiLang": {
-      "US": "Teleport when door opens in 10s",
-      "JP": "門が開いて10秒でテレポ",
+      "US": "Door opens, teleport in 10s",
+      "JP": "門が開いてから10秒で転送",
       "CN": "",
-      "KR": "문 개방 10초 후 소환",
+      "KR": "문 개방 10초 후 전송",
       "TW": "門開啟10秒後傳送"
     }
   },
@@ -82,8 +82,8 @@
   "40秒后关门": {
     "translation": "",
     "MultiLang": {
-      "US": "Doors will close in 40 seconds",
-      "JP": "40秒後にドアが閉まります",
+      "US": "Doors close in 40 seconds",
+      "JP": "40秒後に門が閉まります",
       "CN": "",
       "KR": "40초 후 문 닫힘",
       "TW": "40秒後關門"
