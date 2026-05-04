@@ -2,31 +2,31 @@
   "*无线电*: 干得漂亮,士兵们,看来你们顺利上列车了.": {
     "translation": "",
     "MultiLang": {
-      "US": "*Radio*:做得漂亮,士兵们,看来你们顺利上了列车。",
-      "JP": "*無線電*: ご好演、士官さんたち、見事に列車に乗り込みましたね。",
+      "US": "*Radio*: Well done, soldiers. Looks like you made it onto the train successfully.",
+      "JP": "*無線*: よくやりました、隊員諸君。無事に乗車できたようですな。",
       "CN": "",
-      "KR": "*무선기*: 잘做得不错，士兵们，看来你们顺利上了列车了。",
-      "TW": "電台*: 干得漂亮,士兵們,看来你們順利上列车了。"
+      "KR": "*무선 전신*: 잘했어, 병사들. 너희가 무사히 열차에 탑승한 것 같군.",
+      "TW": "*無線電*：幹得漂亮，士兵們，看來你們順利登上列車了。"
     }
   },
   "<Ver 1.2> 修复部分卡门导致的BUG,第一个外场空气墙消失延迟,Minigun推力小加强.": {
     "translation": "",
     "MultiLang": {
-      "US": "[Version 1.2] Fixed bugs caused by certain door malfunctions, increased delay for the first outfield air wall disappearance, strengthened Minigun push.",
-      "JP": "<Ver 1.2> 部分⚗️バグを修正、最初の外野気泡消失遅延、Minigun推力小幅強化.",
+      "US": "<Ver 1.2> Fixed bugs causing some entities to get stuck, delayed removal of the first exterior air wall, increased Minigun thrust.",
+      "JP": "<Ver 1.2> 一部のカームにより発生するバグを修正、最初の外場空气壁消失の遅延を修正、Minigunの推力を強化。",
       "CN": "",
-      "KR": "<Ver 1.2> 일부 카메인으로 인한 버그 수정, 첫번째 외곽 공기벽 소멸 지연 강화, Minigun 추진력 약화 개선.",
-      "TW": "<Ver 1.2> 修復部分卡門導致的BUG,第1個外場空氣牆消失延遲,Minigun推力小加強."
+      "KR": "<Ver 1.2> 일부 맷집으로 인한 버그 수정, 첫 번째 외부 공기 벽 소멸 지연 시간 조정, 미니건 추력 강화.",
+      "TW": "<Ver 1.2> 修復部分卡門導致的BUG，第一個外場空氣牆消失延遲，Minigun推力強化。"
     }
   },
   "*无线电*: 现在我将调整你们的行动代号为Filth.": {
     "translation": "",
     "MultiLang": {
-      "US": "*Radio*: I'll now adjust your行动代号to Filth.",
-      "JP": "*無線電*: 現在我的行動代號調整為Filth.",
+      "US": "*Radio*: I am now reassigning your operation codename to Filth.",
+      "JP": "*無線*: 次に你们的行動コードを「Filth（汚物）」に調整する。",
       "CN": "",
-      "KR": "*무선기*: 이제 행동 코드명을 Filth로 변경하겠습니다.",
-      "TW": "電台*: 現在我將調整你們的行動代號為Filth."
+      "KR": "*무선 전신*: 이제 너희의 작전 명칭을 'Filth'로 조정하겠다.",
+      "TW": "*無線電*：現在我將調整你們的行動代號為Filth。"
     }
   },
   "<收到,长官.>": {
@@ -62,21 +62,21 @@
   "*无线电*: 明白了,我会派遣一支精锐部队前往你们的坐标附近.": {
     "translation": "",
     "MultiLang": {
-      "US": "*Radio*: Understood, I will dispatch a elite force to your coordinates.",
-      "JP": "*無線電*: 分かった、精鋭部隊をあなたの座標近くに派遣する。",
+      "US": "*Radio*: Understood. I will dispatch an elite team to coordinates near your position.",
+      "JP": "*無線*: 了解した。貴様らの座標付近へ精鋭部隊を派遣する。",
       "CN": "",
-      "KR": "*[무선통신]* 명⽩毫无疑义, 저는的小分队派遣到你们的坐标附近。",
-      "TW": "電台*: 明白了,我会派遣1支精銳部隊前往你們的坐標附近."
+      "KR": "*무선 전신*: 알겠군. 너희 좌표 근처에 정예 부대를 파견하겠다.",
+      "TW": "*無線電*：明白了，我會派遣一支精銳部隊前往你們的座標附近。"
     }
   },
   "*无线电*: 代号Filth,关于NPST行动的协议...": {
     "translation": "",
     "MultiLang": {
-      "US": "*Radio*: Code Filth, regarding the NPST operation...",
-      "JP": "*無線*: ファイルト、NPST作戦に関する協定...",
+      "US": "*Radio*: Codename Filth, regarding the NPST operation protocol...",
+      "JP": "*無線*: 行動コードFilth、NPST作戦の協議について…",
       "CN": "",
-      "KR": "*무선기*: 코드명 Filth, NPST 작전 관련 협정...",
-      "TW": "電台*: 代號Filth，關於NPST行動的協議..."
+      "KR": "*무선 전신*: Filth 작전 명 하에, NPST 작전 관련 절차...",
+      "TW": "*無線電*：代號Filth，關於NPST行動的協議..."
     }
   },
   "<等下,那是什么动静?>": {
@@ -102,11 +102,11 @@
   "*无线电*: 代号Filth,发生什么了,赶紧回复.": {
     "translation": "",
     "MultiLang": {
-      "US": "*Radio*: Code Filth, what's going on? Reply quickly.",
-      "JP": "*無線電*: ファイルス、何が起こった、速やかに返答せよ.",
+      "US": "*Radio*: Codename Filth, what's happening? Respond immediately.",
+      "JP": "*無線*: 行動コードFilth、何があった？速やかに報告しろ。",
       "CN": "",
-      "KR": "*무선*: 필름,發生什么了,赶快回复.",
-      "TW": "*無線電*: 代號Filth，發生什麼了，赶紧回復."
+      "KR": "*무선 전신*: Filth 작전 명, 무슨 일이냐? 즉시 회신해.",
+      "TW": "*無線電*：代號Filth，發生什麼了，趕緊回覆。"
     }
   },
   "<后车厢的队友被病毒异化了,他们在攻击列车!>": {
@@ -342,31 +342,31 @@
   "*???*: 我们正在离开收容区.": {
     "translation": "",
     "MultiLang": {
-      "US": "*???*: We are leaving the containment zone.",
-      "JP": "*???*: 私たち正在離収容区域。",
+      "US": "*???*: We are evacuating the containment zone.",
+      "JP": "*???*: 収容区域から離脱中。",
       "CN": "",
-      "KR": "*???*: chúng nosotros는 수용 지역을 떠나고 있습니다.",
-      "TW": "*???*: 我們正在離開收容區."
+      "KR": "*???*: 저희가 격리 구역을 떠납니다.",
+      "TW": "*??*：我們正在離開收容區。"
     }
   },
   "*???*: 收容计划已失效,重复,收容计划已失效.": {
     "translation": "",
     "MultiLang": {
-      "US": "*???*: Containment breach, repeat, containment breach.",
-      "JP": "*???*: 収容計画已失効,再peats,収容計画已失効.",
+      "US": "*???*: Containment protocol is no longer in effect. Repeat, containment protocol is no longer in effect.",
+      "JP": "*???*: 収容計画は無効、繰り返し、収容計画は無効。",
       "CN": "",
-      "KR": "*???*: 수용 계획이 실패하였습니다. 다시播报,收容计划已失效.",
-      "TW": "*???*: 收容計劃已失效,重複,收容計劃已失效。"
+      "KR": "*???*: 격리 계획 무효, 반복합니다. 격리 계획 무효.",
+      "TW": "*??*：收容計劃已失效，重複，收容計劃已失效。"
     }
   },
   "*???*: ..化合物已经彻底破坏,结束通话.": {
     "translation": "",
     "MultiLang": {
-      "US": "*???*: ..The compound has been completely destroyed. Ending call.",
-      "JP": "*???*: ..合体已經完全破壞，結束通話.",
+      "US": "*???*: The compound is completely compromised. End transmission.",
+      "JP": "化合物は完全に分解した。通話を終了する。",
       "CN": "",
-      "KR": "*???*: ..화합물이 완전히 파괴되었습니다. 통화를 종료합니다.",
-      "TW": "*???*: ..化合物已經徹底破壞，結束通話."
+      "KR": "*???*: ..化合物이 완전히 파괴되었습니다. 전화를 끊겠습니다.",
+      "TW": "*???*：化合物已徹底破壞，結束通訊。"
     }
   },
   "<原来是他们干的..可恶..他们到底是什么人.>": {
@@ -442,21 +442,21 @@
   "*无线电*: 这个是..代号Filth?": {
     "translation": "",
     "MultiLang": {
-      "US": "*Radio*: This is... Codename Filth?",
-      "JP": "*無線電*: これは...フィルثの代号？",
+      "US": "*Radio*: This is... Call sign Filth?",
+      "JP": "これは…コードネームFilth？",
       "CN": "",
-      "KR": "*무선기*: 이것은... 필스의 코드명인가?",
-      "TW": "電台*: 这个是..代號Filth?"
+      "KR": "*무전*: 이것은.. Filth 부대인가요?",
+      "TW": "*無線電*：這裡是……代號Filth？"
     }
   },
   "*无线电*: 不敢相信你们都还活着.": {
     "translation": "",
     "MultiLang": {
       "US": "*Radio*: Can't believe you're all still alive.",
-      "JP": "*無線電*: 相信不了你們還都活着。",
+      "JP": "全員が生きているとは信じられない。",
       "CN": "",
-      "KR": "*무선통신*: 믿을 수 없는데 아직 모두 살아있네요.",
-      "TW": "*無線電*: 不敢相信你們都還活着."
+      "KR": "*무전*: 다들 살아 있어 믿기 어렵군요.",
+      "TW": "*無線電*：真不敢相信你們還活著。"
     }
   },
   "<我们跟增援汇合了,我们要怎么离开这里,长官.>": {
@@ -472,21 +472,21 @@
   "*无线电*: 我们在尝试重新定位你们的坐标,坚持下去!": {
     "translation": "",
     "MultiLang": {
-      "US": "*Radio*: We're trying to reposition your coordinates, hold on!",
-      "JP": "*無線電*: 私たちはあなたの座標を再定位しようとしています。諦めないでください!",
+      "US": "*Radio*: We are trying to re-acquire your coordinates. Hold on!",
+      "JP": "座標の再特定を試みている。持ちこたえて！",
       "CN": "",
-      "KR": "*무선기*: 우리가版权归©阿里集团所有，严禁商用我们正在重新定位你们的坐标, 坚持下去!",
-      "TW": "*無線電*: 我們正在試圖重新定位你們的坐標,堅持下去!"
+      "KR": "*무전*:你们的 좌표를 다시 찾는 중입니다! 버티세요!",
+      "TW": "*無線電*：我們正嘗試重新定位你們的座標，堅守崗位！"
     }
   },
   "*无线电*: 去更开阔的地方联系我们,祝你们好运.": {
     "translation": "",
     "MultiLang": {
-      "US": "*Radio*: Go to a wider open place to contact us, wish you good luck.",
-      "JP": "*無線電*: 開放な場所に移動して連絡します。あなた方には運を祈ります。",
+      "US": "*Radio*: Move to a more open area and contact us again. Good luck.",
+      "JP": "より開けた場所で連絡せよ。幸運を祈る。",
       "CN": "",
-      "KR": "*무선기*: 더 넓은 곳으로 가서 저희와 연락하세요. 잘가세요.",
-      "TW": "電台*: 去更开阔的地方联系我们,祝你們好运."
+      "KR": "*무전*: 더 넓은 공간으로 나가서 연락하세요. 행운을 빕니다.",
+      "TW": "*無線電*：前往更開闊的地方重新聯絡，祝你們好運。"
     }
   },
   "<大门即将解锁.>": {
@@ -542,20 +542,20 @@
   "准备行动": {
     "translation": "",
     "MultiLang": {
-      "US": "Prepare to Act",
-      "JP": "準備行動",
+      "US": "Prepare for action",
+      "JP": "行動準備完了",
       "CN": "",
-      "KR": "준비行动",
+      "KR": "작전 준비",
       "TW": "準備行動"
     }
   },
   "门正在开启": {
     "translation": "",
     "MultiLang": {
-      "US": "The door is opening",
-      "JP": "門が開き始めています",
+      "US": "Door is opening",
+      "JP": "ドアが開き始める",
       "CN": "",
-      "KR": "문이 열리고 있습니다",
+      "KR": "문 열림",
       "TW": "門正在開啟"
     }
   },
@@ -722,41 +722,41 @@
   "*无线电*: 代号Filth,你们已经接近中转站了.": {
     "translation": "",
     "MultiLang": {
-      "US": "*Radio*: Code Filth, you're closing in on the transit station.",
-      "JP": "*無線電*: ファイルス号、中轉站まで近づいています。",
+      "US": "*Radio*: Call sign Filth, you are approaching the transit station.",
+      "JP": "コードネームFilth、你們は中継駅に近づいている。",
       "CN": "",
-      "KR": "*무선기*: 필쓰 대호, 이미 중전estation이 가까워졌습니다.",
-      "TW": "電台*: 代號Filth，你們已經接近中轉站了。"
+      "KR": "*무전*: Filth 부대, 여러분이 중계소에 가까워지고 있습니다.",
+      "TW": "*無線電*：代號Filth，你們已接近中轉站。"
     }
   },
   "*无线电*: 就在后院工厂外面.": {
     "translation": "",
     "MultiLang": {
       "US": "*Radio*: Just outside the backyard factory.",
-      "JP": "*無線電*: つい先日、後院工場の外側に．",
+      "JP": "*無線*: もう裏庭の工場外だ",
       "CN": "",
-      "KR": "*무선기*: 바로 뒷정원 공장 외부에.",
+      "KR": "*무선*: 마당 뒤편 공장 바로 바깥이야.",
       "TW": "*無線電*: 就在後院工廠外面。"
     }
   },
   "*无线电*: 记住,绝对不能让病毒一起逃跑.": {
     "translation": "",
     "MultiLang": {
-      "US": "*Radio*: Remember, absolutely cannot let the virus escape together.",
-      "JP": "*無線電*: 記得、絶対にウイルスを一緒に逃がしてはいけない。",
+      "US": "*Radio*: Remember, absolutely do not let those viruses escape together.",
+      "JP": "*無線*: 忘れるな、ウイルスを逃げさせてはならん",
       "CN": "",
-      "KR": "*[무선기]:* 기억해, 절대 바이러스를 함께 도망치게 할 수 없어.",
-      "TW": "*無線電*: 記住，絶對不能讓病毒1起逃跑。"
+      "KR": "*무선*: 명심해, 절대 그 바이러스들을 함께 도망치게 해서는 안 돼.",
+      "TW": "*無線電*: 記住，絕對不能讓病毒一起逃跑。"
     }
   },
   "*无线电*: 不惜一切代价,结束通话.": {
     "translation": "",
     "MultiLang": {
-      "US": "*Radio*: End the call at all costs.",
-      "JP": "*無線電*: 何としてでも連絡を切る。",
+      "US": "*Radio*: At all costs, end the call.",
+      "JP": "*無線*: あらゆる犠牲を払ってでも、会話を終わらせろ",
       "CN": "",
-      "KR": "*무선기*: 어떤 방법으로든 통화를 끝내라.",
-      "TW": "*無線電*: 不惜1切代價,結束通話."
+      "KR": "*무선*: 어떤 수를 써서든, 통화를 종료해야 해.",
+      "TW": "*無線電*: 不惜一切代價，結束通話。"
     }
   },
   "<快进来!我要关上这个门了!>": {
@@ -772,51 +772,51 @@
   "*无线电*: 代号Filth,我定位到你们的位置了.": {
     "translation": "",
     "MultiLang": {
-      "US": "*Radio*: Code Filth, I've located your position.",
-      "JP": "*無線*: ファイルθ、あなたの位置を把握しました。",
+      "US": "*Radio*: Code name Filth, I have located your position.",
+      "JP": "*無線*: コード名フィルス、貴様方の位置を特定した",
       "CN": "",
-      "KR": "*무선기*: 필스 대호, 당신들의 위치를 잡았습니다.",
-      "TW": "*無線電*: 代號Filth,我已經鎖定了你們的位置。"
+      "KR": "*무선*: Filth 호출부호, 너희 위치를 확인했어.",
+      "TW": "*無線電*: 代號Filth，我定位到你們的位置了。"
     }
   },
   "*无线电*: 你们所在区域有中转站,刚好有一辆未启动的列车.": {
     "translation": "",
     "MultiLang": {
-      "US": "*Radio*: Your area has a transfer station. There's an unactivated train right there.",
-      "JP": "*無線電*: あなたの現在地に転送ステーションがあり、ちょうど未起動の列車があります。",
+      "US": "*Radio*: There is a transit station in your area, with an idle train just waiting.",
+      "JP": "*無線*: その区域内に中継所がある。ちょうど運転していない列車が一両ある",
       "CN": "*无线电*: 你们所在的区域有1个转运站，正好有1列未启动的列车。",
-      "KR": "*무선기*: 현재 위치에 중계소가 있으며, 정차한 열차가 한 대 있습니다.",
-      "TW": "電臺*: 你們所在區域有中轉站,剛好有1輛未啟動的列車。"
+      "KR": "*무선*: 너희가 있는 구역에 환승역이 있고, 시동을 걸지 않은 열차가 한 대 준비되어 있어.",
+      "TW": "*無線電*: 你們所在區域有中轉站，剛好有一輛未啟動的列車。"
     }
   },
   "*无线电*: 去搭乘列车继续你们的任务,位置发到面板上了.": {
     "translation": "",
     "MultiLang": {
-      "US": "*Radio*: Go board the train to continue your mission. Position sent to panel.",
-      "JP": "*無線*: 列車に乗り換えて任務を続けろ、位置はパネルに表示されている。",
+      "US": "*Radio*: Take the train to continue your mission. The location has been sent to your display.",
+      "JP": "*無線*: その列車に乗り、任務を続行せよ。位置はパネルに表示した",
       "CN": "",
-      "KR": "*무선기*: 기차에 타서 임무를 계속하세요. 위치는 패널에📐 전송되었습니다.",
-      "TW": "*無線電*: 去搭載列車繼續你們的任務，位置發到面板上了。"
+      "KR": "*무선*: 그 열차를 타고 임무를 계속 진행해. 위치는 패널에 보냈어.",
+      "TW": "*無線電*: 去搭乘列車繼續你們的任務，位置發到面板上了。"
     }
   },
   "*无线电*: 但是,切记,你不能让那些病毒一起出去.": {
     "translation": "",
     "MultiLang": {
-      "US": "*Radio*: But, remember, you cannot let those viruses go out together.",
-      "JP": "*無線電*: ただし、これらのウイルスを全部外に出すことは禁じられています。",
+      "US": "*Radio*: However, remember strictly, you cannot let those viruses escape together.",
+      "JP": "*無線*: しかし、忘れずに、ウイルスを一緒に逃げさせてはならん",
       "CN": "",
-      "KR": "*무선기*: 하지만, 바이러스들이 함께 나가지 못하게 주의하라.",
-      "TW": "*無線電*: 但是,記住,你不能讓那些病毒1起出去."
+      "KR": "*무선*: 하지만 명심해,那些 바이러스들을 함께 밖으로 내보내서는 안 돼.",
+      "TW": "*無線電*: 但是，切記，你不能讓那些病毒一起出去。"
     }
   },
   "*无线电*: 虽然很艰巨,但是你必须就地摧毁他们,结束通话.": {
     "translation": "",
     "MultiLang": {
-      "US": "*Radio*: Although it's tough, you must destroy them on-site and end the transmission.",
-      "JP": "*無線電*: 虽然很艰巨，但是你必须就地摧毁他们，结束通话。",
+      "US": "*Radio*: Although it is a daunting task, you must destroy them on-site. End the call.",
+      "JP": "*無線*: 困難極まりないが、現地での破壊を命じる。これを以て会話を終わらせる",
       "CN": "",
-      "KR": "*무선전화*:虽然是艰巨的任务，但你必须当场摧毁他们，结束通话。",
-      "TW": "*無線電*: 要儘管艱巨，但你必須當地摧毁他們，結束通話。"
+      "KR": "*무선*: 힘들겠지만, 현장에서 즉시 그들을 파괴해야 해. 통화를 끝내야 해.",
+      "TW": "*無線電*: 雖然很艱巨，但是你必須就地摧毀他們，結束通話。"
     }
   },
   "<他们准备攻破这里了,准备撤离!>": {
@@ -982,31 +982,31 @@
   "*无线电*: 干得漂亮代号Filth,我以为又要失去一批优秀的战士..": {
     "translation": "",
     "MultiLang": {
-      "US": "*Radio*: Nice one, Filth. I thought we were going to lose another batch of soldiers again....",
-      "JP": "*無線*: よくやった、コードネームFilth。また優秀な兵士を失うかと思った..'",
+      "US": "*Radio*: Nice work, Codename Filth. I thought we'd lost another batch of excellent soldiers...",
+      "JP": "*無線機*: よくやった、コードネームフィルス。優秀な戦士たちを失うところだったよ…",
       "CN": "",
-      "KR": "*[무선]*: 잘做得漂亮代号Filth, Tôi thought 又要再失去一批优秀的战士来说子..",
-      "TW": "電台*: 干得漂亮代號Filth, 我以為又要失去1批优秀的戰士.."
+      "KR": "*무선전*: 잘했어, Filth 코드. 나는 또优秀的한 전사들을 잃을 줄 알았어..",
+      "TW": "*無線電*: 做得好，代號Filth。我以為又要失去一批優秀的戰士……"
     }
   },
   "*无线电*: 因为代号Vertigo,全军覆没.": {
     "translation": "",
     "MultiLang": {
-      "US": "*Radio*: Because of Code Name Vertigo, total mission failure.",
-      "JP": "*無線電*: 代号Vertigoで全軍覆没。",
+      "US": "*Radio*: Because of Codename Vertigo, the entire unit was wiped out.",
+      "JP": "*無線機*: コードネームベルティゴの部隊、全滅。",
       "CN": "",
-      "KR": "*무선기*: 코드명 Vertigo로 인해 전군이 멸망했어.",
-      "TW": "*無線電*: 因為代號Vertigo,全軍覆沒."
+      "KR": "*무선전*: 코드 Vertigo, 전군 멸망.",
+      "TW": "*無線電*: 因為代號Vertigo，全軍覆沒。"
     }
   },
   "*无线电*: 僵尸击垮了生锈的信号塔,摧毁了惟一的救援.": {
     "translation": "",
     "MultiLang": {
-      "US": "*Radio*: Zombies crushed the rusted signal tower, destroying the only rescue.",
-      "JP": "*無線電*: ゾンビが錆びた信号塔を破壊し、最後の救援を破壊した。",
+      "US": "*Radio*: The zombies took down the rusted signal tower, destroying our only chance of rescue.",
+      "JP": "*無線機*: ゾンビが錆びついた信号塔を破壊し、唯一の救援手段も潰滅させた。",
       "CN": "*无线电*: 僵尸推翻了锈蚀的信号塔，摧毁了唯1的救援。",
-      "KR": "*무선기*: 잡초 같은 좀비들이 锈蚀的信号塔 打垮了 唯一的救援.",
-      "TW": "*無線電*: 僵屍擊垮了銹蝕的信號塔,摧毀了唯1的救援."
+      "KR": "*무선전*: 좀비들이 녹슨 신호탑을 무너뜨려, 유일한 구조 구원을 파괴했다.",
+      "TW": "*無線電*: 殭屍擊垮了生鏽的信號塔，摧毀了唯一的救援。"
     }
   },
   "<什么!这...这不可能,那我们的增援部队是..>": {
@@ -1022,11 +1022,11 @@
   "*无线电*: ..他们是代号Reescape,是NPST行动成败的关键..": {
     "translation": "",
     "MultiLang": {
-      "US": "*Radio*: ..They are Reescape, the key to the success or failure of NPST operation..",
-      "JP": "*無線電*: ..他们是代号Reescape，是NPST行动成败的关键..",
+      "US": "*Radio*: ..They are Codename Reescape, the key to the success or failure of Operation NPST..",
+      "JP": "*無線機*: …彼らはコードネース『リーエスケープ』、NPST作戦の成否を握る鍵だ。",
       "CN": "",
-      "KR": "*무선 통신*: ..그들은 대호 Reescape이며 NPST 작전의 성패가 걸린 절대적인 요인이다..",
-      "TW": "*無線電*: ..他們是代號Reescape，是NPST行動成敗的關鍵.."
+      "KR": "*무선전*: ..그들은 코드 Reescape, NPST 작전의 성패를 가르는 핵심..",
+      "TW": "*無線電*: ……他們是代號Reescape，是NPST行動成敗的關鍵……"
     }
   },
   "<报告总部,已经承接代号Filth的遗志.>": {
@@ -1042,11 +1042,11 @@
   "*无线电*: 收到了,代号Rescape,NPST在等你们.": {
     "translation": "",
     "MultiLang": {
-      "US": "*Radio*: Received. Code Rescape, NPST is waiting for you.",
-      "JP": "*無線*: 分かりました、コードネームRescape、NPSTが待っています。",
+      "US": "*Radio*: Copy that, Codename Rescape. NPST is awaiting your arrival.",
+      "JP": "*無線機*: 了解、コードネームリスケープ、NPSTが待っている。",
       "CN": "",
-      "KR": "*무선통신*: 수受到了, 코드명 Rescape, NPST가 기다리고 있습니다.",
-      "TW": "電台*: 收到了,代號Rescape,NPST在等你們."
+      "KR": "*무선전*: 수신, 코드 Rescape, NPST가 여러분을 기다립니다.",
+      "TW": "*無線電*: 收到了，代號Rescape。NPST在等你們。"
     }
   },
   "<列车长,全速前进!>": {
@@ -1062,11 +1062,11 @@
   "-- 检测到 低于38个人 存活 --": {
     "translation": "",
     "MultiLang": {
-      "US": "-- Detection of fewer than 38 people alive --",
-      "JP": "-- 38人未满 生存検出 --",
+      "US": "-- Detected fewer than 38 survivors --",
+      "JP": "-- 生存者 38名未満を検出 --",
       "CN": "",
-      "KR": "-- 38명 미만의 생존者检测到 --",
-      "TW": "-- 检测到 低於38個人 存活 --"
+      "KR": "-- 38명 미만 생존 확인 --",
+      "TW": "-- 檢測到存活人數低於38人 --"
     }
   },
   "<长官..我们人员损失惨重...>": {
@@ -1082,11 +1082,11 @@
   "-- 结局: 尘归尘,土归土. --": {
     "translation": "",
     "MultiLang": {
-      "US": "-- Ending: Ashes to ashes, dust to dust. --",
-      "JP": "-- 終局: 尘归尘,土归土. --",
+      "US": "-- Ending: Dust to dust, ashes to ashes. --",
+      "JP": "-- 結末: 塵は塵に還る、土は土に還る。 --",
       "CN": "",
-      "KR": "-- 결말:归灰,土归土. --",
-      "TW": "--結局: 尘歸塵,土歸土. --"
+      "KR": "-- 엔딩: 먼지는 먼지로, 흙은 흙으로 돌아간다. --",
+      "TW": "-- 結局：塵歸塵，土歸土。 --"
     }
   },
   "<...但是,我们会竭尽全力完成使命.>": {
@@ -1212,11 +1212,11 @@
   "*无线电*: 你们需要去重启工厂电源.": {
     "translation": "",
     "MultiLang": {
-      "US": "*Radio*: You need to restart the factory power.",
-      "JP": "*無線*: 你们需要去重启工厂电源.",
+      "US": "*Radio*: You need to restart the power supply at the factory.",
+      "JP": "*無線機*: 工場への電力供給を再開始する必要がある。",
       "CN": "",
-      "KR": "*무선기*: 공장 전원을 재시작해야 합니다.",
-      "TW": "*無線電*: 您們需要去重新啟動.Factory.電源."
+      "KR": "*무선전*: 공장 전원을 재시동해야 합니다.",
+      "TW": "*無線電*: 你們需要去重啟工廠電源。"
     }
   },
   "<别让这些锌渣逃出去...一起他妈下地狱吧!>": {
@@ -1232,31 +1232,31 @@
   "*无线电*: 电源接通了我才能远程预热炸弹.": {
     "translation": "",
     "MultiLang": {
-      "US": "*Radio*: Power on for me to remotely arm the bomb.",
-      "JP": "*無線電*: 電源接続後才能遠程點燃炸彈。",
+      "US": "*Radio*: I need the power on to remotely preheat the bombs.",
+      "JP": "*無線*: 電源が入って初めて、爆弾を遠隔から予熱できます。",
       "CN": "",
-      "KR": "*무선기*: 전원이 연결되면我才能进行远程引爆.",
-      "TW": "*電臺*: 电源接通了我才能遠程預熱炸彈."
+      "KR": "*무선 통신*: 전원이 연결되어야 원격으로 폭탄을 예열할 수 있습니다.",
+      "TW": "*無線電*：電源接通後，我才能遠程預熱炸彈。"
     }
   },
   "<< 最后50秒... >>": {
     "translation": "",
     "MultiLang": {
-      "US": ">> Last 50 seconds... <<",
-      "JP": "<< 最後50秒... >>",
+      "US": "<< 50 seconds remaining... >>",
+      "JP": "<< 残り50秒... >>",
       "CN": "",
       "KR": "<< 마지막 50초... >>",
-      "TW": "<< 最後50秒... >>"
+      "TW": "<< 倒數最後50秒... >>"
     }
   },
   "*无线电*: 把大门防守住,直到你们上火车能刚好引爆.": {
     "translation": "",
     "MultiLang": {
-      "US": "*Radio*: Hold the gate defense until you can just make it to the train to detonate.",
-      "JP": "*無線電*: ドアの防御に回り、列車に乗って爆発させられるまで守る。",
+      "US": "*Radio*: Hold the gate until your train departs and triggers the explosion.",
+      "JP": "*無線*: 列車に揺られる直前まで、門を防衛してください。",
       "CN": "*无线电*: 把大门守好，等到你们上火车刚好引爆。",
-      "KR": "*무선기*: 문을 지키세요. 기차에 올라타서 정확히 폭발시킬 수 있도록 합니다.",
-      "TW": "*無線電*: 把大門守著，直到你們上車正好引爆。"
+      "KR": "*무선 통신*: 열차에 탑승해서 폭탄을 정확하게引爆할 수 있을 때까지 문을 지켜주세요.",
+      "TW": "*無線電*：守住大門，直到你們上車並及時引爆。"
     }
   },
   "<能跟你们战斗是我毕生的荣幸.>": {
@@ -1282,11 +1282,11 @@
   "<Ver 1.3> Minigun重置,管道触发修改等.": {
     "translation": "",
     "MultiLang": {
-      "US": "[Version 1.3] Minigun reset, pipeline trigger modification, etc.",
-      "JP": "バージョン1.3 ミニガン再設定、パイプトリガー修正など.",
+      "US": "<Ver 1.3> Minigun reset, pipe trigger adjustments, etc.",
+      "JP": "<Ver 1.3> ミニガンのリセット、パイプトリガーの変更など。",
       "CN": "<Ver 1.3> 缔造者机枪重置，管道触发修改等",
-      "KR": "<Ver 1.3> Minigun 재설정, 파이프 트리거 수정 등.",
-      "TW": "<Ver 1.3>_minigun重置,管道觸發修改等."
+      "KR": "<Ver 1.3> 미네건 리셋, 파이프 트리거 수정 등.",
+      "TW": "<Ver 1.3> 迷你槍重置、管道觸發修改等。"
     }
   }
 }

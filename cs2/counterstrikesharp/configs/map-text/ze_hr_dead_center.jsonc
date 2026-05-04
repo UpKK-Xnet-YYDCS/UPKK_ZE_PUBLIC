@@ -2,60 +2,60 @@
   "**正在加载地图，加载时间可能较长，请耐心等待**": {
     "translation": "",
     "MultiLang": {
-      "US": "Loading map. This may take some time, please wait.",
-      "JP": "マップの読み込み中。読み込みには時間がかかる場合がありますので、しばらくお待ちください。",
+      "US": "Loading map, please wait as it may take some time",
+      "JP": "マップを読み込んでいます。読み込みには時間がかかる場合がありますので、お待ちください。",
       "CN": "",
-      "KR": "지도를 불러오는 중입니다. 로딩 시간이 다소 걸릴 수 있으니 잠시만 기다려 주십시오.",
-      "TW": "正在載入地圖，載入時間可能較長，請耐心等待"
+      "KR": "**지도 로딩 중입니다. 시간이 오래 걸릴 수 있으니 기다려 주세요**",
+      "TW": "正在加載地圖，加載時間可能較長，請耐心等待"
     }
   },
   "**僵尸将在10秒后出现**": {
     "translation": "",
     "MultiLang": {
-      "US": "Zombies will appear in 10 seconds.",
-      "JP": "10秒後にゾンビが出現します。",
+      "US": "Zombies will appear in 10 seconds",
+      "JP": "ゾンビは10秒後に出現します。",
       "CN": "",
-      "KR": "10초 후에 좀비가 나타납니다.",
+      "KR": "**10초 후 좀비가 나타납니다**",
       "TW": "殭屍將在10秒後出現"
     }
   },
   "**前面的道路被挡住了，我们得想办法从旁边的房间绕过去**": {
     "translation": "",
     "MultiLang": {
-      "US": "The road ahead is blocked. We need to find a way to go around through the room on the side.",
-      "JP": "前方の道が遮断されています。私たちは、横の部屋を通って迂回する必要があります。",
+      "US": "The path ahead is blocked. We'll have to find a way around through the adjacent room.",
+      "JP": "前方の道が塞がれているので、隣の部屋を迂回して進む必要があります。",
       "CN": "",
-      "KR": "앞의 길은 막혀 있습니다. 우리는 옆 방을 통해 우회해야 합니다.",
-      "TW": "前面的道路被阻擋了，我們得想辦法從旁边的房間繞過去"
+      "KR": "**앞쪽 경로가 막혔습니다. 옆 방을 통해 우회해야 합니다**",
+      "TW": "前面的道路被擋住了，我們得想辦法從旁邊的房間繞過去"
     }
   },
   "**这扇铁门被什么东西挡住了，我们需要花点时间来弄开它**": {
     "translation": "",
     "MultiLang": {
-      "US": "This iron door is blocked by something. We need to spend some time to open it.",
-      "JP": "この鉄の扉は何かによって塞がれています。開けるには少し時間がかかります。",
+      "US": "This iron door is blocked by something. It will take some time to get it open.",
+      "JP": "この鉄製の扉が何かに塞がれているので、開けるまでに時間がかかります。",
       "CN": "",
-      "KR": "이 철문은 무언가에 막혀 있습니다. 열기 위해서는 시간이 필요합니다.",
-      "TW": "這扇鐵門被什麼東西擋住了，我們需要花點時間來打開它"
+      "KR": "**이 철타문에 물건이 막혀 있어서, 열 때 약간의 시간이 걸립니다**",
+      "TW": "這扇鐵門被什麼東西擋住了，我們需要花點時間來弄開它"
     }
   },
   "**请等待30秒**": {
     "translation": "",
     "MultiLang": {
-      "US": "Please wait 30 seconds.",
+      "US": "Please wait 30 seconds",
       "JP": "30秒お待ちください。",
       "CN": "",
-      "KR": "30초 동안 기다려 주십시오.",
+      "KR": "**30초 동안 기다려 주세요**",
       "TW": "請等待30秒"
     }
   },
   "**僵尸将在10秒后传送**": {
     "translation": "",
     "MultiLang": {
-      "US": "Zombies will teleport in 10 seconds.",
-      "JP": "10秒後にゾンビがテレポートします。",
+      "US": "Zombies will be teleported in 10 seconds",
+      "JP": "ゾンビは10秒後にテレポートします。",
       "CN": "",
-      "KR": "10초 후에 좀비가 순간이동합니다.",
+      "KR": "**10초 후 좀비가 텔레포트됩니다**",
       "TW": "殭屍將在10秒後傳送"
     }
   },
@@ -63,19 +63,19 @@
     "translation": "",
     "MultiLang": {
       "US": "The door is open, let's go.",
-      "JP": "扉が開きました。進みましょう。",
+      "JP": "ドアが開きました、行こう。",
       "CN": "",
-      "KR": "문이 열렸습니다. 가 봅시다.",
+      "KR": "**문이 열렸습니다. 가겠습니다**",
       "TW": "門打開了，我們走"
     }
   },
   "**前方的铁门被什么东西阻挡了**": {
     "translation": "",
     "MultiLang": {
-      "US": "The iron gate ahead is blocked by something.",
-      "JP": "前方の鉄の扉が何らかの物によって阻まれています。",
+      "US": "The iron door ahead is blocked by something",
+      "JP": "前方の鉄製の扉が何かに塞がれています。",
       "CN": "",
-      "KR": "앞의 철문은 무언가에 막혀 있습니다.",
+      "KR": "**앞쪽의 철타문에 물건이 막혀 있습니다**",
       "TW": "前方的鐵門被什麼東西阻擋了"
     }
   },
@@ -83,1236 +83,1236 @@
     "translation": "",
     "MultiLang": {
       "US": "We need some time to open it.",
-      "JP": "開けるには少し時間がかかります。",
+      "JP": "開けるまでに時間がかかります",
       "CN": "",
-      "KR": "저희가 이것을 열려면 시간이 좀 필요합니다.",
+      "KR": "잠시 시간이 필요합니다",
       "TW": "我們需要一些時間才能打開它"
     }
   },
   "**请防守20秒**": {
     "translation": "",
     "MultiLang": {
-      "US": "Please defend for 20 seconds.",
-      "JP": "20秒間、防衛してください。",
+      "US": "Hold for 20 seconds.",
+      "JP": "20秒間防衛してください",
       "CN": "",
-      "KR": "20초 동안 방어해주세요.",
-      "TW": "請防守20秒"
+      "KR": "20초간 방어하십시오",
+      "TW": "請防守 20 秒"
     }
   },
   "**木柜即将被烧毁**": {
     "translation": "",
     "MultiLang": {
-      "US": "The wooden cabinet is about to be burned down.",
-      "JP": "木製の棚が燃え尽きそうです。",
+      "US": "The wooden cabinet is about to be burned.",
+      "JP": "木製の棚が燃えていきます",
       "CN": "",
-      "KR": "나무 캐비닛이 곧 불타버릴 것입니다.",
+      "KR": "나무장이 곧 불타고 있습니다",
       "TW": "木櫃即將被燒毀"
     }
   },
   "**门开了，快进来，我们可以把僵尸关到外面去**": {
     "translation": "",
     "MultiLang": {
-      "US": "The door is open, come in quickly! We can lock the zombies outside.",
-      "JP": "扉が開きました！急いで中に入ってください。ゾンビを外に閉じ込めることができます。",
+      "US": "The door is open, come in quickly, we can shut the zombies outside.",
+      "JP": "ドアが開きました！中に逃げましょう。これでゾンジを閉じ込められます",
       "CN": "",
-      "KR": "문이 열렸습니다. 어서 들어오세요. 우리는 좀비를 밖으로 가둘 수 있습니다.",
-      "TW": "門打開了，快進來，我們可以把殭屍關到外面去"
+      "KR": "문이 열렸습니다! 빨리 들어오세요, 좀비를 밖에 가둘 수 있습니다",
+      "TW": "門開了，快進來，我們可以把殭屍關在外面"
     }
   },
   "**请防守至铁门关闭**": {
     "translation": "",
     "MultiLang": {
-      "US": "Please defend until the iron gate is closed.",
-      "JP": "鉄製の扉が閉まるまで、防衛を続けてください。",
+      "US": "Hold out until the iron door closes.",
+      "JP": "鉄扉が閉まるまで防衛してください",
       "CN": "",
-      "KR": "철문이 닫힐 때까지 방어해주세요.",
+      "KR": "철문이 닫힐 때까지 방어하십시오",
       "TW": "請防守至鐵門關閉"
     }
   },
   "**成功了，我们继续前进吧**": {
     "translation": "",
     "MultiLang": {
-      "US": "Success! Let's move on.",
-      "JP": "成功です。さあ、進みましょう。",
+      "US": "Success, let's move on.",
+      "JP": "成功です！先へ進みましょう",
       "CN": "",
-      "KR": "성공했습니다. 계속 나아갑시다.",
+      "KR": "성공했습니다, 계속 진행합시다",
       "TW": "成功了，我們繼續前進吧"
     }
   },
   "**铁门即将被僵尸冲破**": {
     "translation": "",
     "MultiLang": {
-      "US": "The iron gate is about to be broken through by the zombies.",
-      "JP": "鉄製の扉が、ゾンビに破壊されそうです。",
+      "US": "The iron door is about to be breached by zombies.",
+      "JP": "鉄扉がゾンビによって押し壊されようとしています",
       "CN": "",
-      "KR": "철문이 곧 좀비들에게 부서질 것입니다.",
+      "KR": "철문이 곧 좀비에게 뚫릴 것입니다",
       "TW": "鐵門即將被殭屍衝破"
     }
   },
   "**前面的路被火封住了，看来我们得绕绕路了**": {
     "translation": "",
     "MultiLang": {
-      "US": "The path ahead is blocked by fire. It seems we need to find another way.",
-      "JP": "前方の道は炎で封鎖されています。迂回するしかないようです。",
+      "US": "The path ahead is blocked by fire. It looks like we need to take a detour.",
+      "JP": "火事で先が塞がっていますね。迂回するしかありません",
       "CN": "",
-      "KR": "앞길은 불로 막혀 있습니다. 어쩔 수 없이 돌아가야겠군요.",
-      "TW": "前面的路被火封住了，看來我們得繞路了"
+      "KR": "불길이 길을 막고 있어 우회해야 할 것 같습니다",
+      "TW": "前面的路被火封住了，看來我們得繞道而行"
     }
   },
   "**这里的火势不是很稳定，我们要离火焰远一些**": {
     "translation": "",
     "MultiLang": {
-      "US": "The fire here isn't very stable, we need to stay away from the flames.",
-      "JP": "こちらの火は安定していないため、炎から少し離れてください。",
+      "US": "The fire here is unstable. We should keep our distance from the flames.",
+      "JP": "ここは火災の状況が安定していません。炎から離れてください",
       "CN": "",
-      "KR": "여기 화세가 불안정하므로, 불꽃에서 멀리 떨어져야 합니다.",
-      "TW": "这里的火势不太稳定，我们要远离火焰。"
+      "KR": "여기의 불기세는 매우 불안정합니다. 화염에서 멀리 떨어져야 합니다.",
+      "TW": "這裡的火勢很不穩定，我們要離火焰遠一點。"
     }
   },
   "**电梯将在60秒后自动关闭**": {
     "translation": "",
     "MultiLang": {
-      "US": "The elevator will automatically shut down in 60 seconds.",
-      "JP": "エレベーターは60秒後に自動的に停止します。",
+      "US": "The elevator will automatically close in 60 seconds.",
+      "JP": "エレベーターは60秒後に自動的に閉まります",
       "CN": "",
-      "KR": "엘리베이터는 60초 후에 자동으로 닫힙니다.",
-      "TW": "电梯将在60秒后自动关闭。"
+      "KR": "엘리베이터가 60초 후 자동으로 닫힙니다.",
+      "TW": "電梯將在60秒後自動關閉。"
     }
   },
   "**请所有生还者立即前往电梯**": {
     "translation": "",
     "MultiLang": {
       "US": "All survivors, please proceed to the elevator immediately.",
-      "JP": "生存者は全員、速やかにエレベーターへ。",
+      "JP": "生存者は全員、直ちにエレベーターへお移動ください",
       "CN": "",
-      "KR": "생존자 여러분은 즉시 엘리베이터로 이동하십시오.",
-      "TW": "请所有幸存者立即前往电梯。"
+      "KR": "생존자 전원은 즉시 엘리베이터로 이동해 주세요.",
+      "TW": "請所有倖存者立即前往電梯。"
     }
   },
   "**挂机的玩家将在5秒后传送**": {
     "translation": "",
     "MultiLang": {
-      "US": "Idle players will be teleported after 5 seconds.",
-      "JP": "放置中のプレイヤーは5秒後にテレポートされます。",
+      "US": "AFK players will be teleported in 5 seconds.",
+      "JP": "ホバーしているプレイヤーは5秒後にテレポーションされます",
       "CN": "",
-      "KR": "비활성 상태의 플레이어는 5초 후에 이동됩니다.",
-      "TW": "不活跃的玩家将在5秒后传送。"
+      "KR": "아피넥시 상태인 플레이어는 5초 후 텔레포트됩니다.",
+      "TW": "掛機的玩家將在5秒後被傳送。"
     }
   },
   "**旁边的电梯好像有什么动静**": {
     "translation": "",
     "MultiLang": {
-      "US": "It seems like there's some activity coming from the elevator next to us.",
-      "JP": "隣のエレベーターに何か音がするようです。",
+      "US": "The elevator next door seems to be making some noise.",
+      "JP": "隣のエレベーターで何か動いているようです",
       "CN": "",
-      "KR": "옆에 있는 엘리베이터에서 뭔가 움직이는 소리가 들리는 것 같습니다.",
-      "TW": "好像是旁边的电梯有什么动静。"
+      "KR": "곁의 엘리베이터에서 이상한 소리가 납니다.",
+      "TW": "旁邊的電梯似乎有異動。"
     }
   },
   "**小心，好像是他们追上来了**": {
     "translation": "",
     "MultiLang": {
-      "US": "Be careful, it looks like they're catching up to us.",
-      "JP": "注意、彼らが追いかけてきているようです。",
+      "US": "Careful! It looks like they're catching up.",
+      "JP": "気をつけろ、奴らが追ってきているようだ",
       "CN": "",
-      "KR": "조심하세요. 그들이 우리를 따라온 것 같습니다.",
-      "TW": "小心，好像是他们追上来了。"
+      "KR": "조심하세요, 그들이 뒤따르고 있는 것 같습니다.",
+      "TW": "小心，他們好像追上來了。"
     }
   },
   "**僵尸即将出现在停运的电梯中**": {
     "translation": "",
     "MultiLang": {
-      "US": "Zombies are about to appear in the out-of-service elevator.",
-      "JP": "ゾンビが停止中のエレベーター内に現れるでしょう。",
+      "US": "Zombies are about to appear in the halted elevator.",
+      "JP": "停止中のエレベーターにゾンギが発生します",
       "CN": "",
-      "KR": "곧 멈춰버린 엘리베이터 안에 좀비가 나타날 것입니다.",
-      "TW": "僵尸即将出现在停运的电梯中。"
+      "KR": "ゾンビー가 중단된 엘리베이터에서 출현할 예정입니다.",
+      "TW": "殭屍即將出現在停運的電梯中。"
     }
   },
   "**这扇铁门被卡住了**": {
     "translation": "",
     "MultiLang": {
-      "US": "This iron gate is stuck.",
-      "JP": "この鉄扉が引っかかっています。",
+      "US": "This iron door is stuck.",
+      "JP": "鉄製の扉が詰まっています",
       "CN": "",
-      "KR": "이 철문이 막혀 있습니다.",
-      "TW": "这扇铁门被卡住了。"
+      "KR": "이 철문이 걸렸습니다.",
+      "TW": "這扇鐵門卡住了。"
     }
   },
   "**我们需要一些时间来打开它**": {
     "translation": "",
     "MultiLang": {
-      "US": "We need some time to open it.",
-      "JP": "開けるには少し時間がかかります。",
+      "US": "\"We need some time to open it.\"",
+      "JP": "**開けるまで、少し時間がかかるわ**",
       "CN": "",
-      "KR": "열기까지 시간이 필요합니다.",
-      "TW": "我們需要一些時間來打開它。"
+      "KR": "열고 좀 시간이 더 필요합니다",
+      "TW": "**我們需要一點時間才能打開它**"
     }
   },
   "**请守住靠过来的僵尸**": {
     "translation": "",
     "MultiLang": {
-      "US": "Please hold off the approaching zombies.",
-      "JP": "近づいてくるゾンビを食い止め続けてください。",
+      "US": "\"Hold off the approaching zombies.\"",
+      "JP": "**寄ってくるゾンビを撃ち止めて！**",
       "CN": "",
-      "KR": "다가오는 좀비들을 막아주세요.",
-      "TW": "請守住靠近的殭屍。"
+      "KR": "다가오는 좀비를 막아주세요",
+      "TW": "**請守住逐漸靠近的殭屍**"
     }
   },
   "**门开了，我们走**": {
     "translation": "",
     "MultiLang": {
-      "US": "The door is open, let's go.",
-      "JP": "扉が開きました。行きます。",
+      "US": "\"The door's open, let's go.\"",
+      "JP": "**開いた！中へ入って！**",
       "CN": "",
-      "KR": "문이 열렸습니다. 가세요.",
-      "TW": "門打開了，我們走。"
+      "KR": "문이 열렸습니다, 갑시다",
+      "TW": "**門開了，我們走**"
     }
   },
   "**挂机的玩家即将在10秒后传送**": {
     "translation": "",
     "MultiLang": {
-      "US": "Idle players will be teleported in 10 seconds.",
-      "JP": "放置中のプレイヤーは10秒後に自動的にテレポートされます。",
+      "US": "\"AFK players will be teleported in 10 seconds.\"",
+      "JP": "**AFKのプレイヤーは10秒後に変移します**",
       "CN": "",
-      "KR": "비활성 상태인 플레이어는 10초 후에 자동으로 전송됩니다.",
-      "TW": "不活躍的玩家將在10秒後被傳送。"
+      "KR": "오토플레이 중 플레이어는 10초 후 텔레포트됩니다",
+      "TW": "**離線玩家將在 10 秒後被傳送**"
     }
   },
   "**安全屋将在20秒后自动关闭**": {
     "translation": "",
     "MultiLang": {
-      "US": "The safe house will automatically close in 20 seconds.",
-      "JP": "避難所は20秒後に自動的に閉鎖されます。",
+      "US": "\"The safe house will automatically close in 20 seconds.\"",
+      "JP": "**セキュリティールームは20秒後に自動で閉まります**",
       "CN": "",
-      "KR": "안전 구역은 20초 후에 자동으로 닫힙니다.",
-      "TW": "安全屋將在20秒後自動關閉。"
+      "KR": "안녕지대는 20초 후에 자동으로 닫힙니다",
+      "TW": "**安全屋將於 20 秒後自動關閉**"
     }
   },
   "**请所有生还者立刻前往安全屋**": {
     "translation": "",
     "MultiLang": {
-      "US": "All survivors, please proceed to the safe house immediately.",
-      "JP": "生存者は全員、すぐに避難所に移動してください。",
+      "US": "\"All survivors, proceed to the safe house immediately.\"",
+      "JP": "**生存者は全員、直ちに安全ルートを確保してください**",
       "CN": "",
-      "KR": "생존자 여러분, 즉시 안전 구역으로 이동하십시오.",
-      "TW": "請所有倖存者立刻前往安全屋。"
+      "KR": "모든 생존자는 즉시 안녕지대로 이동하세요",
+      "TW": "**請所有倖存者立即前往安全屋**"
     }
   },
   "**我们安全了，暂时......**": {
     "translation": "",
     "MultiLang": {
-      "US": "We are safe, for now...",
-      "JP": "今は安全です...とりあえず。",
+      "US": "\"We're safe... for now.\"",
+      "JP": "**私たちは一時的に……安全です。**",
       "CN": "",
-      "KR": "우리는 안전합니다... 일시적으로.",
-      "TW": "我們現在是安全的，暫時......"
+      "KR": "일단 안전합니다. 잠깐동안......",
+      "TW": "**我們安全了，暫時……**"
     }
   },
   "**正在保存连关数据**": {
     "translation": "",
     "MultiLang": {
-      "US": "Saving game data.",
-      "JP": "連動データを保存中",
+      "US": "\"Saving streak data.\"",
+      "JP": "**連勝データを保存中**",
       "CN": "",
-      "KR": "연속 플레이 데이터를 저장 중입니다.",
-      "TW": "正在保存連線數據。"
+      "KR": "연속 클리어 데이터 저장 중",
+      "TW": "**正在儲存連關數據**"
     }
   },
   "**正在读取连关数据**": {
     "translation": "",
     "MultiLang": {
-      "US": "Loading connected data...",
-      "JP": "データを読み込んでいます...",
+      "US": "**Reading multi-level data**",
+      "JP": "連關データを読込中",
       "CN": "",
-      "KR": "연관 데이터를 읽는 중입니다.",
-      "TW": "正在读取關聯數據"
+      "KR": "**연속 스테이지 데이터 로딩 중**",
+      "TW": "**正在讀取連關數據**"
     }
   },
   "**路在这边**": {
     "translation": "",
     "MultiLang": {
-      "US": "The path is over there.",
-      "JP": "道はこちらです",
+      "US": "**The path is this way.**",
+      "JP": "道はこっちだ",
       "CN": "",
-      "KR": "길은 이쪽입니다.",
-      "TW": "路就在這邊"
+      "KR": "**길이 여기를 지나갑니다**",
+      "TW": "**路在這邊**"
     }
   },
   "**这扇铁门被锁住了**": {
     "translation": "",
     "MultiLang": {
-      "US": "This iron gate is locked.",
-      "JP": "この鉄の扉はロックされています",
+      "US": "**This iron door is locked.**",
+      "JP": "鉄製の扉が施錠されている",
       "CN": "",
-      "KR": "이 철문은 잠겨 있습니다.",
-      "TW": "這扇鐵門被鎖住了"
+      "KR": "**이 철문이 잠겨 있습니다**",
+      "TW": "**這扇鐵門被鎖住了**"
     }
   },
   "**快一起来把他弄开**": {
     "translation": "",
     "MultiLang": {
-      "US": "Quickly, let's open it together.",
-      "JP": "さあ、一緒に開けよう",
+      "US": "**Quick, work together to open it!**",
+      "JP": "早く一緒に開けよう",
       "CN": "",
-      "KR": "어서 와서 함께 열어 봅시다.",
-      "TW": "快來一起把他打開"
+      "KR": "**빨리 함께 도와서 열어주세요**",
+      "TW": "**快一起來把他弄開**"
     }
   },
   "**铁门将在10秒后打开**": {
     "translation": "",
     "MultiLang": {
-      "US": "The iron gate will open in 10 seconds.",
-      "JP": "鉄の扉は10秒後に開きます",
+      "US": "**The iron door will open in 10 seconds.**",
+      "JP": "鉄扉は10秒後に開放される",
       "CN": "",
-      "KR": "철문은 10초 후에 열립니다.",
-      "TW": "鐵門將在10秒後打開"
+      "KR": "**철문이 10초 후 열립니다**",
+      "TW": "**鐵門將在10秒後打開**"
     }
   },
   "**门开了，我们可以把僵尸关到铁门外面去**": {
     "translation": "",
     "MultiLang": {
-      "US": "The door is open; we can lock the zombies outside the iron gate.",
-      "JP": "扉が開きました。ゾンビを鉄の扉の外に閉じ込めることができます",
+      "US": "**The door is open. We can trap the zombies outside.**",
+      "JP": "扉が開いた！ゾンメを鉄扉の外に封じ込められる",
       "CN": "",
-      "KR": "문이 열렸습니다. 이제 좀비를 철문 밖으로 가둘 수 있습니다.",
-      "TW": "門打開了，我們可以把殭屍關到鐵門外面"
+      "KR": "**문이 열렸습니다. 좀비를 철문 밖으로 가둘 수 있습니다**",
+      "TW": "**門開了，我們可以吧殭屍關到鐵門外面去**"
     }
   },
   "**铁门将在10秒后关闭**": {
     "translation": "",
     "MultiLang": {
-      "US": "The iron gate will close in 10 seconds.",
-      "JP": "鉄の扉は10秒後に閉まります",
+      "US": "**The iron door will close in 10 seconds.**",
+      "JP": "鉄扉は10秒後に閉まる",
       "CN": "",
-      "KR": "철문은 10초 후에 닫힙니다.",
-      "TW": "鐵門將在10秒後關閉"
+      "KR": "**철문이 10초 후 닫힙니다**",
+      "TW": "**鐵門將在10秒後關閉**"
     }
   },
   "**这道铁门被什么东西挡住了**": {
     "translation": "",
     "MultiLang": {
-      "US": "Something is blocking this iron gate.",
-      "JP": "この鉄の扉は何かで塞がれています",
+      "US": "**Something is blocking this iron door.**",
+      "JP": "何かが鉄扉を塞いでいる",
       "CN": "",
-      "KR": "이 철문은 무엇인가에 막혀 있습니다.",
-      "TW": "這道鐵門被什麼東西擋住了"
+      "KR": "**이 철문이 어떤 것에 의해 막혀 있습니다**",
+      "TW": "**這道鐵門被什麼東西擋住了**"
     }
   },
   "**铁门将在15秒后打开**": {
     "translation": "",
     "MultiLang": {
-      "US": "The iron gate will open in 15 seconds.",
-      "JP": "鉄扉は15秒後に開きます",
+      "US": "The iron gate will open in 15 seconds",
+      "JP": "**鉄製のドアが15秒後に開きます**",
       "CN": "",
-      "KR": "철문이 15초 후에 열립니다.",
-      "TW": "鐵門將在15秒後打開"
+      "KR": "철문이 15초 후 열립니다",
+      "TW": "鐵門將於15秒後開啟"
     }
   },
   "**挂机的僵尸将在5秒后传送**": {
     "translation": "",
     "MultiLang": {
-      "US": "Idle zombies will be teleported in 5 seconds.",
-      "JP": "放置されたゾンビは5秒後にテレポートします",
+      "US": "AFK zombies will be teleported in 5 seconds",
+      "JP": "**待機中のゾンビは5秒後にテレポートされます**",
       "CN": "",
-      "KR": "대기 상태의 좀비는 5초 후에 이동합니다.",
-      "TW": "閒置的殭屍將在5秒後傳送"
+      "KR": "오토플레이 좀비가 5초 후 순간이동됩니다",
+      "TW": "掛機僵尸將在5秒後傳送"
     }
   },
   "**门开了，快走吧**": {
     "translation": "",
     "MultiLang": {
-      "US": "The door is open, hurry!",
-      "JP": "扉が開きました、急いでください",
+      "US": "The gate is open, move fast",
+      "JP": "**扉が開きました、お急ぎください**",
       "CN": "",
-      "KR": "문이 열렸습니다. 어서 가세요!",
-      "TW": "門打開了，快離開吧"
+      "KR": "문이 열렸습니다, 서둘러 가세요",
+      "TW": "門已開啟，快離開吧"
     }
   },
   "**道路上还有许多感染者，我们要小心前进**": {
     "translation": "",
     "MultiLang": {
-      "US": "There are still many infected on the road, we must proceed with caution.",
-      "JP": "道にはまだ多くの感染者がいます、注意して進みましょう",
+      "US": "There are still many infected on the road, proceed with caution",
+      "JP": "**道路にはまだ感染者がいますので、十分に注意して進みましょう**",
       "CN": "",
-      "KR": "길에는 아직 많은 감염자가 있습니다. 우리는 조심스럽게 나아가야 합니다.",
-      "TW": "道路上還有許多感染者，我們必須小心前進"
+      "KR": "도로에 아직 감염자가 많습니다, 조심히 진행하세요",
+      "TW": "沿途仍有多名感染者，請小心前進"
     }
   },
   "**面包车附近的僵尸传送点将在5秒后开放**": {
     "translation": "",
     "MultiLang": {
-      "US": "The zombie teleportation point near the van will open in 5 seconds.",
-      "JP": "バン車の近くにあるゾンビのテレポート地点は、5秒後に開放されます",
+      "US": "Zombie teleport point near the van will open in 5 seconds",
+      "JP": "**バン付近のゾンビテレポートポイントは5秒後に開放されます**",
       "CN": "",
-      "KR": "승합차 근처의 좀비 이동 지점이 5초 후에 활성화됩니다.",
-      "TW": "麵包車附近的殭屍傳送點將在5秒後開啟"
+      "KR": "승합차 옆 좀비 순간이동 지점이 5초 후 개방됩니다",
+      "TW": "面包車旁的僵尸傳送點將在5秒後開放"
     }
   },
   "**树林中的僵尸传送点将在5秒后开放**": {
     "translation": "",
     "MultiLang": {
-      "US": "The zombie teleportation point in the forest will open in 5 seconds.",
-      "JP": "森の中にあるゾンビのテレポート地点は、5秒後に開放されます",
+      "US": "Zombie teleport point in the woods will open in 5 seconds",
+      "JP": "**森の中のゾンビテレポートポイントは5秒後に開放されます**",
       "CN": "",
-      "KR": "숲 속의 좀비 이동 지점이 5초 후에 활성화됩니다.",
-      "TW": "樹林中的殭屍傳送點將在5秒後開啟"
+      "KR": "숲속 좀비 순간이동 지점이 5초 후 개방됩니다",
+      "TW": "樹林中的僵尸傳送點將在5秒後開放"
     }
   },
   "**这扇铁门又被锁住了**": {
     "translation": "",
     "MultiLang": {
-      "US": "This iron gate has been locked again.",
-      "JP": "この鉄扉は再びロックされました",
+      "US": "This iron gate has been locked again",
+      "JP": "**この鉄製のドアは再びロックされました**",
       "CN": "",
-      "KR": "이 철문이 다시 잠겼습니다.",
-      "TW": "這扇鐵門又被鎖住了"
+      "KR": "다시 이 철문이 잠겼습니다",
+      "TW": "這扇鐵門再次被鎖上"
     }
   },
   "**铁门将在30秒后打开**": {
     "translation": "",
     "MultiLang": {
-      "US": "The iron gate will open in 30 seconds.",
-      "JP": "鉄扉は30秒後に開きます",
+      "US": "The iron gate will open in 30 seconds",
+      "JP": "**鉄製のドアが30秒後に開きます**",
       "CN": "",
-      "KR": "철문이 30초 후에 열립니다.",
-      "TW": "鐵門將在30秒後打開"
+      "KR": "철문이 30초 후 열립니다",
+      "TW": "鐵門將於30秒後開啟"
     }
   },
   "**照明灯附近的僵尸传送点将在5秒后开放**": {
     "translation": "",
     "MultiLang": {
-      "US": "The zombie teleportation point near the floodlights will open in 5 seconds.",
-      "JP": "照明灯付近のゾンビテレポートは、5秒後に開きます。",
+      "US": "Zombie portal near the light will open in 5 seconds",
+      "JP": "照明灯付近のゾンビスポーンポイントが5秒後に開放されます",
       "CN": "",
-      "KR": "조명등 근처의 좀비 포탈은 5초 후에 열립니다.",
-      "TW": "照明灯附近的殭屍傳送點將在5秒後開啟。"
+      "KR": "조명등 근처의 좀비 전송 지점이 5초 후 개방됩니다",
+      "TW": "照明燈附近的殭屍傳送點將在5秒後開放"
     }
   },
   "**挂机的玩家将在10秒后传送**": {
     "translation": "",
     "MultiLang": {
-      "US": "Idle players will be teleported in 10 seconds.",
-      "JP": "放置しているプレイヤーは、10秒後にテレポートされます。",
+      "US": "AFK players will be teleported in 10 seconds",
+      "JP": "アフレコ中のプレイヤーは10秒後にテレポートされます",
       "CN": "",
-      "KR": "비활성 상태의 플레이어는 10초 후에 자동으로 이동합니다.",
-      "TW": "非活動玩家將在10秒後傳送。"
+      "KR": "대기 중인 플레이어는 10초 후 전송됩니다",
+      "TW": "掛機的玩家將在10秒後傳送"
     }
   },
   "**这个武器店貌似还有生还者存活的痕迹**": {
     "translation": "",
     "MultiLang": {
-      "US": "It seems like there are still survivors present in this weapon shop.",
-      "JP": "この武器店には、生存者の痕跡が残っているようです。",
+      "US": "This weapon shop seems to show signs of survivor activity",
+      "JP": "この武器店の跡、どうやら生存者の痕跡が残っているようです",
       "CN": "",
-      "KR": "이 무기점에는 아직 생존자의 흔적이 남아 있는 것 같습니다.",
-      "TW": "這個武器店似乎還有倖存者的痕跡。"
+      "KR": "무기 상점에는 생존자의 흔적이 남아 있는 것 같습니다",
+      "TW": "這個武器店貌似還有倖存者存活的痕跡"
     }
   },
   "**后面的僵尸要追上来了**": {
     "translation": "",
     "MultiLang": {
-      "US": "The zombies are catching up from behind.",
-      "JP": "後方からゾンビが迫ってきます。",
+      "US": "The zombies behind are catching up",
+      "JP": "後ろのゾンビが追いついてくる！",
       "CN": "",
-      "KR": "뒤에 있는 좀비들이 따라오고 있습니다.",
-      "TW": "後面的殭屍要追上來了。"
+      "KR": "뒤에서 좀비들이 따라오고 있습니다",
+      "TW": "後面的殭屍要追上來了"
     }
   },
   "**总之，快来武器店集合**": {
     "translation": "",
     "MultiLang": {
-      "US": "In short, hurry and gather at the weapon shop.",
-      "JP": "とにかく、武器店に集合してください。",
+      "US": "In short, meet at the weapon shop",
+      "JP": "とにかく、武器店に集まろう",
       "CN": "",
-      "KR": "어쨌든, 무기점으로 모이세요.",
-      "TW": "總之，快到武器店集合。"
+      "KR": "결국 무기 상점에서 집합하세요",
+      "TW": "總之，快來武器店集合"
     }
   },
   "**武器店门将在40秒后关闭**": {
     "translation": "",
     "MultiLang": {
-      "US": "The weapon shop door will close in 40 seconds.",
-      "JP": "武器店のドアは、40秒後に閉まります。",
+      "US": "Weapon shop door will close in 40 seconds",
+      "JP": "武器店の門が40秒後に閉まります",
       "CN": "",
-      "KR": "무기점 문은 40초 후에 닫힙니다.",
-      "TW": "武器店的門將在40秒後關閉。"
+      "KR": "무기 상점 문이 40초 후 폐쇄됩니다",
+      "TW": "武器店門將在40秒後關閉"
     }
   },
   "**终于把门关上了**": {
     "translation": "",
     "MultiLang": {
-      "US": "The door is finally closed.",
-      "JP": "ついにドアを閉めました。",
+      "US": "Finally got the door closed",
+      "JP": "ようやく扉を閉じられた",
       "CN": "",
-      "KR": "드디어 문을 닫았습니다.",
-      "TW": "終於關上了門。"
+      "KR": "드디어 문을 닫았습니다",
+      "TW": "終於把門關上了"
     }
   },
   "**那里的对讲机貌似还有信号**": {
     "translation": "",
     "MultiLang": {
-      "US": "The radio over there seems to still have a signal.",
-      "JP": "そこのトランシーバーには、まだ電波が入っているようです。",
+      "US": "That intercom seems to still have a signal",
+      "JP": "あそこの無線機、どうやらまだ電波が届いているようです",
       "CN": "",
-      "KR": "거기 인터폰에 아직 신호가 있는 것 같습니다.",
-      "TW": "那裡的對講機似乎還有信號。"
+      "KR": "그곳의 무선기에는 여전히 신호가 있는 것 같습니다",
+      "TW": "那裡的對講機貌似還有信號"
     }
   },
   "**我们过去看看**": {
     "translation": "",
     "MultiLang": {
-      "US": "Let's take a look at the past.",
-      "JP": "さあ、中を見てみましょう",
+      "US": "Let's go take a look",
+      "JP": "**一緒に见に行こう**",
       "CN": "",
-      "KR": "과거를 살펴볼까요.",
-      "TW": "我們過去看看"
+      "KR": "**우리 가서 좀 볼까**",
+      "TW": "**我們過去看看**"
     }
   },
   "**你们好，我叫Whitaker**": {
     "translation": "",
     "MultiLang": {
-      "US": "Hello, my name is Whitaker.",
-      "JP": "こんにちは、私はウィーターカーです",
+      "US": "Hello, I'm Whitaker",
+      "JP": "**皆さん、こんにちは。ウィットカーです。**",
       "CN": "",
-      "KR": "안녕하세요, 저는 휘태커입니다.",
-      "TW": "大家好，我叫Whitaker"
+      "KR": "**안녕하세요, 저는 화이트커입니다.**",
+      "TW": "**你們好，我叫惠特克**"
     }
   },
   "**这是我的商店，随便拿你们想要的东西**": {
     "translation": "",
     "MultiLang": {
-      "US": "This is my shop, feel free to take whatever you want.",
-      "JP": "ここは私の店です。お好きなものをどうぞお取りください",
+      "US": "This is my shop. Help yourself to whatever you want.",
+      "JP": "**これは私の店です。お好きな物をどうぞ**",
       "CN": "",
-      "KR": "이곳은 제 가게입니다. 원하시는 것을 자유롭게 가져가세요.",
-      "TW": "這是我的商店，請隨意拿取您想要的東西"
+      "KR": "**이곳이 제 가게입니다. 원하는 건 마음대로 챙기세요.**",
+      "TW": "**這是我的商店，隨便拿你們想要的東西**"
     }
   },
   "**然后到楼上来一下**": {
     "translation": "",
     "MultiLang": {
-      "US": "Then come upstairs.",
-      "JP": "それから、2階へ上がってきてください",
+      "US": "Then, come upstairs for a moment",
+      "JP": "**それから、 upstairs に来てください。**",
       "CN": "",
-      "KR": "그리고 2층으로 올라오세요.",
-      "TW": "然後到樓上來一下"
+      "KR": "**그다음으로 위층으로 한 번 올라와 주십시오.**",
+      "TW": "**然後到樓上來一下**"
     }
   },
   "**我就直说了吧**": {
     "translation": "",
     "MultiLang": {
-      "US": "I'll just get straight to the point.",
-      "JP": "率直に申し上げます",
+      "US": "I'll be straight with you",
+      "JP": "**はっきり言いますが**",
       "CN": "",
-      "KR": "솔직하게 말씀드리겠습니다.",
-      "TW": "我直接說吧"
+      "KR": "**솔직히 말씀드리겠습니다.**",
+      "TW": "**我就直說了**"
     }
   },
   "**我需要可乐**": {
     "translation": "",
     "MultiLang": {
-      "US": "I need a soda.",
-      "JP": "コーラが欲しい",
+      "US": "I need some cola",
+      "JP": "**コーラが必要です。**",
       "CN": "",
-      "KR": "저는 콜라가 필요합니다.",
-      "TW": "我需要可樂"
+      "KR": "**제가 콜라가 필요합니다.**",
+      "TW": "**我需要可樂**"
     }
   },
   "**而在我拿到之前**": {
     "translation": "",
     "MultiLang": {
-      "US": "And until I get it,",
-      "JP": "私が手に入れるまで",
+      "US": "And before I get it",
+      "JP": "**そして、私がそれを手に入れるまで**",
       "CN": "",
-      "KR": "제가 그것을 얻기 전까지는,",
-      "TW": "在我拿到之前"
+      "KR": "**그리고 제가 이를拿到하기 전까지**",
+      "TW": "**而在拿到之前**"
     }
   },
   "**我是不会帮你们清除这些路障的**": {
     "translation": "",
     "MultiLang": {
-      "US": "I won't help you clear these obstacles.",
-      "JP": "私は皆さんの邪魔を取り除くことはできません",
+      "US": "I won't help you clear these roadblocks",
+      "JP": "**これらの障害物を除去するお手伝いは致しません。**",
       "CN": "",
-      "KR": "저는 여러분이 이 장애물을 치우는 것을 도와드리지 않겠습니다.",
-      "TW": "我是不會幫你們清除這些路障的"
+      "KR": "**길막 제거 작업은 도와드리겠습니다.**",
+      "TW": "**我不會幫你們清除這些路障**"
     }
   },
   "**现在就去**": {
     "translation": "",
     "MultiLang": {
-      "US": "Go now",
-      "JP": "今すぐ行く",
+      "US": "**Go now**",
+      "JP": "すぐ行きます",
       "CN": "",
-      "KR": "지금 바로 가세요",
-      "TW": "現在就去"
+      "KR": "**지금 바로 이동합니다**",
+      "TW": "**立刻前往**"
     }
   },
   "**提示：僵尸将处于低血量状态，但可能出现在任何角落**": {
     "translation": "",
     "MultiLang": {
-      "US": "Tip: Zombies will be in a low health state, but may appear in any corner.",
-      "JP": "ヒント：ゾンビは体力が低い状態ですが、どこにでも現れる可能性があります。",
+      "US": "**Tip: Zombies will be in low health state, but may appear anywhere**",
+      "JP": "ヒント：ゾンビは低HP状態で出現しますが、どこに現れるかわかりません",
       "CN": "",
-      "KR": "팁: 좀비는 체력이 낮을 수 있으며, 어디든 나타날 수 있습니다.",
-      "TW": "提示：殭屍將處於低血量狀態，但可能出現在任何角落"
+      "KR": "**알림: 좀비는 체력이 낮게 초기화되지만, 모든 장소에서 나타날 수 있습니다.**",
+      "TW": "**提示：殭屍將處於低血量狀態，但可能出現在任何角落**"
     }
   },
   "**请多留意你的身边**": {
     "translation": "",
     "MultiLang": {
-      "US": "Please pay attention to your surroundings.",
-      "JP": "周囲に注意してください。",
+      "US": "**Please pay close attention to your surroundings**",
+      "JP": "周囲に注意してください",
       "CN": "",
-      "KR": "주변을 항상 주의하세요.",
-      "TW": "請多留意你的身邊"
+      "KR": "**주변을 주시하세요**.",
+      "TW": "**請多留意你的身邊**"
     }
   },
   "**尸潮来袭**": {
     "translation": "",
     "MultiLang": {
-      "US": "Zombie horde incoming!",
-      "JP": "ゾンビの大群が襲来",
+      "US": "**Zombie Horde Incoming**",
+      "JP": "ゾンビ増援襲来",
       "CN": "",
-      "KR": "좀비 물결이 덮쳐옵니다.",
-      "TW": "殭屍潮來襲"
+      "KR": "**좀비 떼가 다가옵니다!**",
+      "TW": "**尸潮來襲**"
     }
   },
   "**注意：现在僵尸攻击人类时将优先扣除血量，而不是直接感染**": {
     "translation": "",
     "MultiLang": {
-      "US": "Note: Now, when zombies attack humans, they will prioritize reducing health, rather than directly infecting.",
-      "JP": "注意：現在、ゾンビが人間を攻撃する際、直接感染させるのではなく、体力を優先的に減らします。",
+      "US": "**Note: Zombies will prioritize draining health over direct infection when attacking humans now**",
+      "JP": "注意：現在、ゾンビが人間を攻撃する際、直接感染させるのではなく優先的にHPを減らすようになっています",
       "CN": "",
-      "KR": "주의: 이제 좀비가 인간을 공격할 때, 체력을 먼저 깎고 감염시키는 대신 피해를 입힙니다.",
-      "TW": "注意：現在殭屍攻擊人類時將優先扣除血量，而不是直接感染"
+      "KR": "**경고: 지금부터 좀비는 인간에게 공격할 때 직접 감염시키는 대신 체력을 먼저 깎습니다.**",
+      "TW": "**注意：現在殭屍攻擊人類時將優先扣除血量，而不是直接感染**"
     }
   },
   "**请保持你的血量健康**": {
     "translation": "",
     "MultiLang": {
-      "US": "Please maintain your health.",
-      "JP": "体力を常に良好に保ってください。",
+      "US": "**Please keep your health stable**",
+      "JP": "HPを健康に保ってください",
       "CN": "",
-      "KR": "체력을 항상 충분히 유지하세요.",
-      "TW": "請保持你的血量健康"
+      "KR": "**체력 상태가 괜찮은지 확인하세요.**.",
+      "TW": "**請保持你的血量健康**"
     }
   },
   "**谢谢你们！**": {
     "translation": "",
     "MultiLang": {
-      "US": "Thank you!",
+      "US": "**Thank you!**",
       "JP": "ありがとうございます！",
       "CN": "",
-      "KR": "감사합니다!",
-      "TW": "謝謝你們！"
+      "KR": "**정말 감사합니다!**",
+      "TW": "**謝謝你們！**"
     }
   },
   "**现在，请转身**": {
     "translation": "",
     "MultiLang": {
-      "US": "Now, please turn around.",
-      "JP": "それでは、お戻りください。",
+      "US": "**Now, please turn around**",
+      "JP": "さて、背を向けてください",
       "CN": "",
-      "KR": "자, 이제 뒤돌아보세요.",
-      "TW": "現在，請轉身"
+      "KR": "**이제, 돌아서세요**",
+      "TW": "**現在，請轉身**"
     }
   },
   "**你们有见过油罐车爆炸吗？**": {
     "translation": "",
     "MultiLang": {
-      "US": "Have you ever seen a tanker truck explode?",
-      "JP": "あなたたちは、油タンクの爆発を目撃したことがありますか？",
+      "US": "Have you ever seen an oil truck explode?",
+      "JP": "タンクローリーの爆発を見たことがあるか？",
       "CN": "",
-      "KR": "여러분, 유조차 폭발하는 걸 본 적 있나요?",
+      "KR": "유류 탱크차 폭발 본 적 있어?",
       "TW": "你們有見過油罐車爆炸嗎？"
     }
   },
   "**油罐车没了，我们离开这里**": {
     "translation": "",
     "MultiLang": {
-      "US": "Once the tanker truck is gone, we'll leave this place.",
-      "JP": "油タンクがなくなったら、ここから立ち去りましょう",
+      "US": "The oil truck is gone, let's get out of here.",
+      "JP": "タンクローリーが破壊された。ここで立ち去ろう。",
       "CN": "",
-      "KR": "유조차가 사라지면, 우리는 여기서 떠납니다.",
-      "TW": "油罐車消失了，我們離開這裡。"
+      "KR": "탱크차가 없어졌어. 여기서 떠나는 게 좋겠어.",
+      "TW": "油罐車沒了，我們離開這裡"
     }
   },
   "**下个区域的僵尸刷新点将在10秒后开启**": {
     "translation": "",
     "MultiLang": {
-      "US": "The next area's zombie spawn points will activate in 10 seconds.",
-      "JP": "次のエリアのゾンビの出現地点は、10秒後に開放されます",
+      "US": "Zombie spawning point in the next area will activate in 10 seconds.",
+      "JP": "次のエリアのゾンスポーンは10秒後に有効になります。",
       "CN": "",
-      "KR": "다음 지역의 좀비 생성 지점은 10초 후에 활성화됩니다.",
-      "TW": "下個區域的殭屍刷新點將在10秒後開啟。"
+      "KR": "다음 구간의 좀비 스폰 포인트가 10초 후에 활성화됩니다.",
+      "TW": "下一個區域的殭屍刷新點將在10秒後開啟"
     }
   },
   "**我们得留意一下那些车子**": {
     "translation": "",
     "MultiLang": {
       "US": "We need to keep an eye on those vehicles.",
-      "JP": "私たちは、あの車に注意する必要があります",
+      "JP": "あの車には注意しよう。",
       "CN": "",
-      "KR": "우리는 저 자동차들에 주의해야 합니다.",
-      "TW": "我們得留意一下那些車子。"
+      "KR": "차들에 대해 주의해야 해요.",
+      "TW": "我們得留意一下那些車子"
     }
   },
   "**我可不想引起他们的注意**": {
     "translation": "",
     "MultiLang": {
-      "US": "I don't want to attract their attention.",
-      "JP": "私は、彼らに気づかれたくありません",
+      "US": "I don't want to draw their attention.",
+      "JP": "奴らの注目を集めたくないんだ。",
       "CN": "",
-      "KR": "저는 걔들의 관심을 끌고 싶지 않습니다.",
-      "TW": "我可不想引起他們的注意。"
+      "KR": "그들의 주목을 끌고 싶지 않아.",
+      "TW": "我可不想引起他們的注意"
     }
   },
   "**前面的路被卷帘门拦住了**": {
     "translation": "",
     "MultiLang": {
-      "US": "The road ahead is blocked by a rolling shutter door.",
-      "JP": "前方の道は、巻き簾で塞がれています",
+      "US": "The path ahead is blocked by a roller door.",
+      "JP": "前の道はシャッターで塞がれている。",
       "CN": "",
-      "KR": "앞길은 셔터로 막혀 있습니다.",
-      "TW": "前面的路被卷簾門擋住了。"
+      "KR": "앞쪽 길이 롤러 셔터문으로 막혀 있어요.",
+      "TW": "前面的路被捲簾門擋住了"
     }
   },
   "**给我一点时间来打开这扇卷帘门**": {
     "translation": "",
     "MultiLang": {
-      "US": "Give me a moment to open this rolling shutter door.",
-      "JP": "巻き簾を開けるまで、少し時間をください",
+      "US": "Give me a moment to open this roller door.",
+      "JP": "このシャッターを開けるまで少し待ってくれ。",
       "CN": "",
-      "KR": "제가 이 셔터를 열 수 있도록 잠시 시간을 주세요.",
-      "TW": "給我一點時間來打開這扇卷簾門。"
+      "KR": "잠시만요. 이 롤러 셔터문을 열어보겠습니다.",
+      "TW": "給我一點時間來打開這扇捲簾門"
     }
   },
   "**卷帘门将在30秒后打开**": {
     "translation": "",
     "MultiLang": {
-      "US": "The rolling shutter door will open in 30 seconds.",
-      "JP": "巻き簾は、30秒後に開きます",
+      "US": "The roller door will open in 30 seconds.",
+      "JP": "シャッターは30秒後に開きます。",
       "CN": "",
-      "KR": "셔터는 30초 후에 열립니다.",
-      "TW": "卷簾門將在30秒後打開。"
+      "KR": "롤러 셔터문이 30초 후에 열립니다.",
+      "TW": "捲簾門將在30秒後打開"
     }
   },
   "**这里看起来应该就是出口了**": {
     "translation": "",
     "MultiLang": {
       "US": "This looks like the exit.",
-      "JP": "ここが出口のようだ。",
+      "JP": "ここが出口のようだな",
       "CN": "",
-      "KR": "여기에서 보이는 곳이 바로 출구인 것 같습니다.",
-      "TW": "這裡看起來應該就是出口了。"
+      "KR": "여기가 출구인 것 같습니다.",
+      "TW": "這裡看來就是出口了。"
     }
   },
   "**但是这扇铁门被什么东西挡住了**": {
     "translation": "",
     "MultiLang": {
-      "US": "But something is blocking this iron gate.",
-      "JP": "しかし、この鉄の扉は何かで塞がれている。",
+      "US": "But this iron door is blocked by something.",
+      "JP": "だが、この鉄扉は何かに塞がっている",
       "CN": "",
-      "KR": "하지만 이 철문은 무언가에 막혀 있습니다.",
-      "TW": "但是這扇鐵門被什麼東西擋住了。"
+      "KR": "하지만 이 철문이 무언가에 의해 막혀 있습니다.",
+      "TW": "但這扇鐵門被某種東西擋住了。"
     }
   },
   "**我们需要花一些时间来弄开他**": {
     "translation": "",
     "MultiLang": {
-      "US": "We'll need some time to clear it.",
-      "JP": "少し時間をかけて、それを取り除く必要があるだろう。",
+      "US": "We need to spend some time getting it open.",
+      "JP": "開けるまで少し時間がかかる",
       "CN": "",
-      "KR": "우리는 이 장애물을 치우는 데 시간이 좀 필요할 것 같습니다.",
-      "TW": "我們需要花一些時間來弄開它。"
+      "KR": "그걸 여는 데 시간이 좀 걸릴 것 같습니다.",
+      "TW": "我們需要花一些時間把它弄開。"
     }
   },
   "**僵尸即将传送在商场一楼的卫生间中**": {
     "translation": "",
     "MultiLang": {
-      "US": "Zombies will soon appear in the restroom on the first floor of the mall.",
-      "JP": "ゾンビは間もなく、デパート1階のトイレにテレポートする。",
+      "US": "A zombie is about to spawn in the first-floor restroom.",
+      "JP": "ゾンビがまもなくモール1階のトイレに出現する",
       "CN": "",
-      "KR": "좀비가 곧 쇼핑몰 1층 화장실로 순간이동합니다.",
-      "TW": "殭屍即將傳送到商場一樓的衛生間中。"
+      "KR": "좀비들이 쇼핑몰 1층 화장대로 텔레포트합니다.",
+      "TW": "殭屍即將傳送到商場一樓的洗手間。"
     }
   },
   "**我们找到路了，快来这里的铁门集合**": {
     "translation": "",
     "MultiLang": {
-      "US": "We've found the way! Gather at the iron gate here.",
-      "JP": "道を見つけた。鉄の扉の場所に集まってくれ。",
+      "US": "We found a way out. Come gather by this iron door.",
+      "JP": "道が見つかった、鉄扉へ集まれ！",
       "CN": "",
-      "KR": "우리가 길을 찾았습니다. 철문이 있는 곳으로 모이세요.",
-      "TW": "我們找到路了，快來這裡的鐵門集合。"
+      "KR": "길을 찾았으니, 여기 철문에서集结하세요.",
+      "TW": "我們找到路了，快來這裡的鐵門集合！"
     }
   },
   "**门将在30秒后打开**": {
     "translation": "",
     "MultiLang": {
       "US": "The door will open in 30 seconds.",
-      "JP": "扉は30秒後に開く。",
+      "JP": "扉は30秒後に開く",
       "CN": "",
-      "KR": "문은 30초 후에 열립니다.",
-      "TW": "大門將在30秒後打開。"
+      "KR": "문이 30초 후에 열립니다.",
+      "TW": "門將在30秒後開啟。"
     }
   },
   "**僵尸即将传送在走廊旁的小房间中**": {
     "translation": "",
     "MultiLang": {
-      "US": "Zombies will soon appear in the small room next to the hallway.",
-      "JP": "ゾンビは間もなく、廊下のそばにある小さな部屋にテレポートする。",
+      "US": "A zombie is about to spawn in the small room next to the hallway.",
+      "JP": "ゾンビがまもなく廊下の小さな部屋に出現する",
       "CN": "",
-      "KR": "좀비가 곧 복도 옆의 작은 방으로 순간이동합니다.",
-      "TW": "殭屍即將傳送到走廊旁的小房間中。"
+      "KR": "좀비들이 복도 옆 작은 방으로 텔레포트합니다.",
+      "TW": "殭屍即將傳送到走廊旁的小房間內。"
     }
   },
   "**僵尸即将传送到卫生间对面的小房间中**": {
     "translation": "",
     "MultiLang": {
-      "US": "Zombies will soon appear in the small room opposite the restroom.",
-      "JP": "ゾンビは間もなく、トイレの向かいにある小さな部屋にテレポートする。",
+      "US": "A zombie is about to spawn in the small room opposite the restroom.",
+      "JP": "ゾンビがますぐにトイレ向かいの小さな部屋に出現する",
       "CN": "",
-      "KR": "좀비가 곧 화장실 맞은편의 작은 방으로 순간이동합니다.",
-      "TW": "殭屍即將傳送到衛生間對面的小房間中。"
+      "KR": "좀비들이 화장실 반대편 작은 방으로 텔레포트합니다.",
+      "TW": "殭屍即將傳送到洗手間對面的小房間內。"
     }
   },
   "**铁门即将被打开**": {
     "translation": "",
     "MultiLang": {
-      "US": "The iron gate is about to open.",
-      "JP": "鉄の扉がまもなく開きます",
+      "US": "The iron door is about to open",
+      "JP": "**鉄の扉が開封されます**",
       "CN": "",
-      "KR": "철문이 곧 열립니다",
-      "TW": "鐵門即將被打開"
+      "KR": "**철문이 곧 열립니다**",
+      "TW": "**鐵門即將被打開**"
     }
   },
   "**提示：当玻璃被击碎后**": {
     "translation": "",
     "MultiLang": {
-      "US": "Hint: After the glass is broken...",
-      "JP": "ヒント：ガラスが破壊された後",
+      "US": "Hint: After the glass shatters",
+      "JP": "**ヒント：ガラスが割れた後、**",
       "CN": "",
-      "KR": "참고: 유리가 파괴된 후에는",
-      "TW": "提示：當玻璃被擊碎後"
+      "KR": "**참고: 유리가 깨진 후**",
+      "TW": "**提示：當玻璃被擊碎後**"
     }
   },
   "**僵尸可破坏走廊尽头链接厕所的墙壁**": {
     "translation": "",
     "MultiLang": {
-      "US": "Zombies can destroy the wall at the end of the corridor that connects to the restroom.",
-      "JP": "ゾンビは、廊下の突き当たりにある、トイレに繋がる壁を破壊できます",
+      "US": "Zombies can break the wall connecting to the bathroom at the end of the corridor",
+      "JP": "**ゾンビは廊下の奥にあるトイレと接続する壁を破壊できます**",
       "CN": "",
-      "KR": "좀비는 복도 끝에 있는, 화장실로 연결되는 벽을 부술 수 있습니다",
-      "TW": "殭屍可以破壞連接廁所與走廊盡頭的牆壁"
+      "KR": "좀비가 복도 끝 화장실과 연결된 벽을 부수할 수 있습니다**",
+      "TW": "**殭屍可破壞走廊盡頭連結廁所的牆壁**"
     }
   },
   "**请注意防范**": {
     "translation": "",
     "MultiLang": {
-      "US": "Please be cautious.",
-      "JP": "警戒してください",
+      "US": "Please stay vigilant",
+      "JP": "**注意してください**",
       "CN": "",
-      "KR": "주의하십시오",
-      "TW": "請注意防範"
+      "KR": "**방비에 주의하십시오**",
+      "TW": "**請注意防範**"
     }
   },
   "**做好准备！警报要响了**": {
     "translation": "",
     "MultiLang": {
-      "US": "Get ready! The alarm is about to sound.",
-      "JP": "準備を！警報が鳴ります",
+      "US": "Get ready! The alarm is about to sound",
+      "JP": "**準備しろ！警報が鳴ります**",
       "CN": "",
-      "KR": "준비하세요! 경보가 울리려고 합니다",
-      "TW": "做好準備！警報即將響起"
+      "KR": "**준비하십시오!警报가 울립니다**",
+      "TW": "**做好準備！警報即將響起**"
     }
   },
   "**找个人去把警报关掉**": {
     "translation": "",
     "MultiLang": {
-      "US": "Find someone to turn off the alarm.",
-      "JP": "誰かに行って警報を止めてください",
+      "US": "Find someone to turn off the alarm",
+      "JP": "**警報を消す人を探せ**",
       "CN": "",
-      "KR": "누군가 경보를 끄러 가세요",
-      "TW": "找個人去關閉警報"
+      "KR": "**누군가를 보내서警报를 끄게 하십시오**",
+      "TW": "**找個人去把警报关掉**"
     }
   },
   "**关闭位于商场三楼监控室的警报**": {
     "translation": "",
     "MultiLang": {
-      "US": "Disable the alarm located in the surveillance room on the third floor of the mall.",
-      "JP": "ショッピングモール3階にある監視室の警報を停止してください",
+      "US": "Turn off the alarm in the surveillance room on the third floor of the mall",
+      "JP": "**3階の監視室にある警報を停止しろ**",
       "CN": "",
-      "KR": "쇼핑몰 3층에 있는 감시실에 있는 경보를 끄세요",
-      "TW": "關閉位於商場三樓監控室的警報"
+      "KR": "**쇼핑센터 3층 감시실에 있는警报를 끄십시오**",
+      "TW": "**關閉位於商場三樓監控室的警報**"
     }
   },
   "**搞定**": {
     "translation": "",
     "MultiLang": {
-      "US": "Done.",
-      "JP": "完了",
+      "US": "Done",
+      "JP": "**完了**",
       "CN": "",
-      "KR": "완료",
-      "TW": "搞定"
+      "KR": "**완료**",
+      "TW": "**搞定**"
     }
   },
   "**僵尸将在5秒后传送**": {
     "translation": "",
     "MultiLang": {
-      "US": "The zombies will teleport in 5 seconds.",
-      "JP": "ゾンビは5秒後にテレポートします",
+      "US": "Zombies will teleport in 5 seconds",
+      "JP": "ゾンビが5秒後にテレポートします",
       "CN": "",
-      "KR": "좀비는 5초 후에 순간이동합니다.",
-      "TW": "殭屍將在5秒後傳送。"
+      "KR": "**좀비가 5초 후에 텔레포트합니다**",
+      "TW": "**殭屍將在5秒後傳送**"
     }
   },
   "**门将在10秒后关闭**": {
     "translation": "",
     "MultiLang": {
-      "US": "The door will close in 10 seconds.",
-      "JP": "ドアは10秒後に閉まります",
+      "US": "Door will close in 10 seconds",
+      "JP": "扉が10秒後に閉まります",
       "CN": "",
-      "KR": "문은 10초 후에 닫힙니다.",
-      "TW": "門將在10秒後關閉。"
+      "KR": "**문이 10초 후에 닫힙니다**",
+      "TW": "**門將在10秒後關閉**"
     }
   },
   "**门在20秒后打开**": {
     "translation": "",
     "MultiLang": {
-      "US": "The door will open in 20 seconds.",
-      "JP": "ドアは20秒後に開きます",
+      "US": "Door opens in 20 seconds",
+      "JP": "扉が20秒後に開きます",
       "CN": "",
-      "KR": "문은 20초 후에 열립니다.",
-      "TW": "門將在20秒後打開。"
+      "KR": "**문이 20초 후에 열립니다**",
+      "TW": "**門在20秒後打開**"
     }
   },
   "**僵尸即将传送在升降梯上**": {
     "translation": "",
     "MultiLang": {
-      "US": "Zombies are about to teleport onto the elevator.",
-      "JP": "ゾンビがエレベーターでテレポートします",
+      "US": "Zombies will teleport onto the elevator platform",
+      "JP": "ゾンビがエレベーターにテポートします",
       "CN": "",
-      "KR": "좀비가 곧 엘리베이터 위에서 순간이동합니다.",
-      "TW": "殭屍即將在升降梯上傳送。"
+      "KR": "**좀비가 곧 엘레베이터에서 텔레포트됩니다**",
+      "TW": "**殭屍即將傳送至升降梯上**"
     }
   },
   "**电梯将在30秒后打开**": {
     "translation": "",
     "MultiLang": {
-      "US": "The elevator will open in 30 seconds.",
-      "JP": "エレベーターは30秒後に開きます",
+      "US": "Elevator door opens in 30 seconds",
+      "JP": "エレベーターが30秒後に開きます",
       "CN": "",
-      "KR": "엘리베이터는 30초 후에 열립니다.",
-      "TW": "電梯將在30秒後打開。"
+      "KR": "**엘레베이터가 30초 후에 열립니다**",
+      "TW": "**電梯將在30秒後打開**"
     }
   },
   "**电梯将在30秒后自动关闭**": {
     "translation": "",
     "MultiLang": {
-      "US": "The elevator will automatically close in 30 seconds.",
-      "JP": "エレベーターは30秒後に自動的に閉じます",
+      "US": "Elevator door automatically closes in 30 seconds",
+      "JP": "エレベーターが30秒後に自動で閉じます",
       "CN": "",
-      "KR": "엘리베이터는 30초 후에 자동으로 닫힙니다.",
-      "TW": "電梯將在30秒後自動關閉。"
+      "KR": "**엘레베이터가 30초 후에 자동으로 닫힙니다**",
+      "TW": "**電梯將在30秒後自動關閉**"
     }
   },
   "**你需要为汽车填充汽油**": {
     "translation": "",
     "MultiLang": {
-      "US": "You need to fill the car with gasoline.",
-      "JP": "車にガソリンを補給する必要があります",
+      "US": "You need to fill the car with gasoline",
+      "JP": "車のガソリンを満たす必要があります",
       "CN": "",
-      "KR": "자동차에 연료를 주입해야 합니다.",
-      "TW": "您需要為汽車添加汽油。"
+      "KR": "**차에 주유를 해야 합니다**",
+      "TW": "**你需要為汽車填充汽油**"
     }
   },
   "**步骤1：找到汽油桶**": {
     "translation": "",
     "MultiLang": {
-      "US": "Step 1: Find the gasoline can.",
-      "JP": "ステップ1：ガソリンタンクを見つけてください",
+      "US": "Step 1: Find a gas can",
+      "JP": "ステップ1：ガスドラムを見つける",
       "CN": "",
-      "KR": "1단계: 연료통을 찾으세요.",
-      "TW": "步驟1：找到汽油桶。"
+      "KR": "단계1:汽油桶을 찾습니다",
+      "TW": "**步驟1：找到汽油桶**"
     }
   },
   "**步骤2：将汽油桶带到汽车的位置**": {
     "translation": "",
     "MultiLang": {
-      "US": "Step 2: Carry the gas can to the vehicle's location.",
-      "JP": "ステップ2：ガソリンタンクを車の場所に運びます",
+      "US": "**Step 2: Take the gas can to the car**",
+      "JP": "**ステップ2：ガソリンタンクを車の場所まで運ぶ**",
       "CN": "",
-      "KR": "2단계: 연료통을 자동차 위치로 가져갑니다.",
-      "TW": "步驟2：將汽油桶移至汽車的位置"
+      "KR": "**2단계: 기름통을 자동차 위치로 가져오기**",
+      "TW": "**步驟2：將汽油桶帶到汽車的位置**"
     }
   },
   "**救援在路上了！保护自己！**": {
     "translation": "",
     "MultiLang": {
-      "US": "Rescue is on the way! Protect yourself!",
-      "JP": "救助隊が向かっています！身を守ってください！",
+      "US": "Rescue is on its way! Protect yourself!",
+      "JP": "救助が到着する！身を守れ！",
       "CN": "",
-      "KR": "구조대가 곧 도착합니다! 자신을 보호하세요!",
-      "TW": "救援正在前往！保護好自己！"
+      "KR": "구축이 곧 도착합니다! 몸을 보호하세요!",
+      "TW": "**救援在路上了！保護自己！**"
     }
   },
   "当前油量1/26": {
     "translation": "",
     "MultiLang": {
-      "US": "Current fuel: 1/26",
-      "JP": "現在の燃料量：1/26",
+      "US": "Current fuel 1/26",
+      "JP": "現在の燃料量 1/26",
       "CN": "",
-      "KR": "현재 연료량: 1/26",
-      "TW": "目前油量1/26"
+      "KR": "현재 연료 1/26",
+      "TW": "當前油量1/26"
     }
   },
   "当前油量2/26": {
     "translation": "",
     "MultiLang": {
-      "US": "Current fuel: 2/26",
-      "JP": "現在の燃料量：2/26",
+      "US": "Current fuel 2/26",
+      "JP": "現在の燃料量 2/26",
       "CN": "",
-      "KR": "현재 연료량: 2/26",
-      "TW": "目前油量2/26"
+      "KR": "현재 연료 2/26",
+      "TW": "當前油量2/26"
     }
   },
   "当前油量3/26": {
     "translation": "",
     "MultiLang": {
-      "US": "Current fuel: 3/26",
-      "JP": "現在の燃料量：3/26",
+      "US": "Current fuel 3/26",
+      "JP": "現在の燃料量 3/26",
       "CN": "",
-      "KR": "현재 연료량: 3/26",
-      "TW": "目前油量3/26"
+      "KR": "현재 연료 3/26",
+      "TW": "當前油量3/26"
     }
   },
   "当前油量4/26": {
     "translation": "",
     "MultiLang": {
-      "US": "Current fuel: 4/26",
-      "JP": "現在の燃料量：4/26",
+      "US": "Current fuel 4/26",
+      "JP": "現在の燃料量 4/26",
       "CN": "",
-      "KR": "현재 연료량: 4/26",
-      "TW": "目前油量4/26"
+      "KR": "현재 연료 4/26",
+      "TW": "當前油量4/26"
     }
   },
   "当前油量5/26": {
     "translation": "",
     "MultiLang": {
-      "US": "Current fuel: 5/26",
-      "JP": "現在の燃料量：5/26",
+      "US": "Current fuel 5/26",
+      "JP": "現在の燃料量 5/26",
       "CN": "",
-      "KR": "현재 연료량: 5/26",
-      "TW": "目前油量5/26"
+      "KR": "현재 연료 5/26",
+      "TW": "當前油量5/26"
     }
   },
   "当前油量6/26": {
     "translation": "",
     "MultiLang": {
-      "US": "Current fuel: 6/26",
-      "JP": "現在の燃料量：6/26",
+      "US": "Current fuel 6/26",
+      "JP": "現在の燃料量 6/26",
       "CN": "",
-      "KR": "현재 연료량: 6/26",
-      "TW": "目前油量6/26"
+      "KR": "현재 연료 6/26",
+      "TW": "當前油量6/26"
     }
   },
   "当前油量7/26": {
     "translation": "",
     "MultiLang": {
-      "US": "Current fuel: 7/26",
-      "JP": "現在の燃料量: 7/26",
+      "US": "Current Fuel: 7/26",
+      "JP": "現在の燃料7/26",
       "CN": "",
-      "KR": "현재 연료량: 7/26",
-      "TW": "当前油量7/26"
+      "KR": "현재 연료 7/26",
+      "TW": "當前油量7/26"
     }
   },
   "当前油量8/26": {
     "translation": "",
     "MultiLang": {
-      "US": "Current fuel: 8/26",
-      "JP": "現在の燃料量: 8/26",
+      "US": "Current Fuel: 8/26",
+      "JP": "現在の燃料8/26",
       "CN": "",
-      "KR": "현재 연료량: 8/26",
-      "TW": "当前油量8/26"
+      "KR": "현재 연료 8/26",
+      "TW": "當前油量8/26"
     }
   },
   "当前油量9/26": {
     "translation": "",
     "MultiLang": {
-      "US": "Current fuel: 9/26",
-      "JP": "現在の燃料量: 9/26",
+      "US": "Current Fuel: 9/26",
+      "JP": "現在の燃料9/26",
       "CN": "",
-      "KR": "현재 연료량: 9/26",
-      "TW": "当前油量9/26"
+      "KR": "현재 연료 9/26",
+      "TW": "當前油量9/26"
     }
   },
   "当前油量10/26": {
     "translation": "",
     "MultiLang": {
-      "US": "Current fuel: 10/26",
-      "JP": "現在の燃料量: 10/26",
+      "US": "Current Fuel: 10/26",
+      "JP": "現在の燃料10/26",
       "CN": "",
-      "KR": "현재 연료량: 10/26",
-      "TW": "当前油量10/26"
+      "KR": "현재 연료 10/26",
+      "TW": "當前油量10/26"
     }
   },
   "当前油量11/26": {
     "translation": "",
     "MultiLang": {
-      "US": "Current fuel: 11/26",
-      "JP": "現在の燃料量: 11/26",
+      "US": "Current Fuel: 11/26",
+      "JP": "現在の燃料11/26",
       "CN": "",
-      "KR": "현재 연료량: 11/26",
-      "TW": "当前油量11/26"
+      "KR": "현재 연료 11/26",
+      "TW": "當前油量11/26"
     }
   },
   "当前油量12/26": {
     "translation": "",
     "MultiLang": {
-      "US": "Current fuel: 12/26",
-      "JP": "現在の燃料量: 12/26",
+      "US": "Current Fuel: 12/26",
+      "JP": "現在の燃料12/26",
       "CN": "",
-      "KR": "현재 연료량: 12/26",
-      "TW": "当前油量12/26"
+      "KR": "현재 연료 12/26",
+      "TW": "當前油量12/26"
     }
   },
   "当前油量13/26": {
     "translation": "",
     "MultiLang": {
-      "US": "Current fuel: 13/26",
-      "JP": "現在の燃料量: 13/26",
+      "US": "Current Fuel: 13/26",
+      "JP": "現在の燃料13/26",
       "CN": "",
-      "KR": "현재 연료량: 13/26",
-      "TW": "当前油量13/26"
+      "KR": "현재 연료 13/26",
+      "TW": "當前油量13/26"
     }
   },
   "当前油量14/26": {
     "translation": "",
     "MultiLang": {
-      "US": "Current fuel: 14/26",
-      "JP": "現在の燃料量: 14/26",
+      "US": "Current Fuel: 14/26",
+      "JP": "現在の燃料14/26",
       "CN": "",
-      "KR": "현재 연료량: 14/26",
-      "TW": "当前油量14/26"
+      "KR": "현재 연료 14/26",
+      "TW": "當前油量14/26"
     }
   },
   "当前油量15/26": {
     "translation": "",
     "MultiLang": {
-      "US": "Current fuel: 15/26",
-      "JP": "現在の燃料量：15/26",
+      "US": "Current Fuel: 15/26",
+      "JP": "現在の油量15/26",
       "CN": "",
-      "KR": "현재 연료량: 15/26",
-      "TW": "当前油量15/26"
+      "KR": "현재 연료 15/26",
+      "TW": "當前油量 15/26"
     }
   },
   "当前油量16/26": {
     "translation": "",
     "MultiLang": {
-      "US": "Current fuel: 16/26",
-      "JP": "現在の燃料量：16/26",
+      "US": "Current Fuel: 16/26",
+      "JP": "現在の油量16/26",
       "CN": "",
-      "KR": "현재 연료량: 16/26",
-      "TW": "当前油量16/26"
+      "KR": "현재 연료 16/26",
+      "TW": "當前油量 16/26"
     }
   },
   "当前油量17/26": {
     "translation": "",
     "MultiLang": {
-      "US": "Current fuel: 17/26",
-      "JP": "現在の燃料量：17/26",
+      "US": "Current Fuel: 17/26",
+      "JP": "現在の油量17/26",
       "CN": "",
-      "KR": "현재 연료량: 17/26",
-      "TW": "当前油量17/26"
+      "KR": "현재 연료 17/26",
+      "TW": "當前油量 17/26"
     }
   },
   "当前油量18/26": {
     "translation": "",
     "MultiLang": {
-      "US": "Current fuel: 18/26",
-      "JP": "現在の燃料量：18/26",
+      "US": "Current Fuel: 18/26",
+      "JP": "現在の油量18/26",
       "CN": "",
-      "KR": "현재 연료량: 18/26",
-      "TW": "当前油量18/26"
+      "KR": "현재 연료 18/26",
+      "TW": "當前油量 18/26"
     }
   },
   "当前油量19/26": {
     "translation": "",
     "MultiLang": {
-      "US": "Current fuel: 19/26",
-      "JP": "現在の燃料量：19/26",
+      "US": "Current Fuel: 19/26",
+      "JP": "現在の油量19/26",
       "CN": "",
-      "KR": "현재 연료량: 19/26",
-      "TW": "当前油量19/26"
+      "KR": "현재 연료 19/26",
+      "TW": "當前油量 19/26"
     }
   },
   "当前油量20/26": {
     "translation": "",
     "MultiLang": {
-      "US": "Current fuel: 20/26",
-      "JP": "現在の燃料量：20/26",
+      "US": "Current Fuel: 20/26",
+      "JP": "現在の油量20/26",
       "CN": "",
-      "KR": "현재 연료량: 20/26",
-      "TW": "当前油量20/26"
+      "KR": "현재 연료 20/26",
+      "TW": "當前油量 20/26"
     }
   },
   "当前油量21/26": {
     "translation": "",
     "MultiLang": {
-      "US": "Current fuel: 21/26",
-      "JP": "現在の燃料量：21/26",
+      "US": "Current Fuel: 21/26",
+      "JP": "現在の油量21/26",
       "CN": "",
-      "KR": "현재 연료량: 21/26",
-      "TW": "当前油量21/26"
+      "KR": "현재 연료 21/26",
+      "TW": "當前油量 21/26"
     }
   },
   "当前油量22/26": {
     "translation": "",
     "MultiLang": {
-      "US": "Current fuel: 22/26",
-      "JP": "現在の燃料量：22/26",
+      "US": "Current Fuel: 22/26",
+      "JP": "現在の油量22/26",
       "CN": "",
-      "KR": "현재 연료량: 22/26",
-      "TW": "当前油量22/26"
+      "KR": "현재 연료 22/26",
+      "TW": "當前油量 22/26"
     }
   },
   "当前油量23/26": {
     "translation": "",
     "MultiLang": {
       "US": "Current fuel: 23/26",
-      "JP": "現在の燃料量：23/26",
+      "JP": "現在の燃料23/26",
       "CN": "",
-      "KR": "현재 연료량: 23/26",
-      "TW": "当前油量 23/26"
+      "KR": "현재 연료 23/26",
+      "TW": "當前油量23/26"
     }
   },
   "当前油量24/26": {
     "translation": "",
     "MultiLang": {
       "US": "Current fuel: 24/26",
-      "JP": "現在の燃料量：24/26",
+      "JP": "現在の燃料24/26",
       "CN": "",
-      "KR": "현재 연료량: 24/26",
-      "TW": "当前油量 24/26"
+      "KR": "현재 연료 24/26",
+      "TW": "當前油量24/26"
     }
   },
   "当前油量25/26": {
     "translation": "",
     "MultiLang": {
       "US": "Current fuel: 25/26",
-      "JP": "現在の燃料量：25/26",
+      "JP": "現在の燃料25/26",
       "CN": "",
-      "KR": "현재 연료량: 25/26",
-      "TW": "当前油量 25/26"
+      "KR": "현재 연료 25/26",
+      "TW": "當前油量25/26"
     }
   },
   "**生还者已逃脱！**": {
     "translation": "",
     "MultiLang": {
-      "US": "**Survivors have escaped!**",
+      "US": "**Survivor has escaped!**",
       "JP": "**生存者が脱出しました！**",
       "CN": "",
       "KR": "**생존자가 탈출했습니다!**",
@@ -1322,51 +1322,51 @@
   "感谢你的游玩": {
     "translation": "",
     "MultiLang": {
-      "US": "Thank you for playing",
-      "JP": "プレイしていただきありがとうございました。",
+      "US": "Thank you for playing.",
+      "JP": "プレイいただきありがとうございます。",
       "CN": "",
-      "KR": "플레이해주셔서 감사합니다.",
+      "KR": "게임을 플레이해 주셔서 감사합니다.",
       "TW": "感謝您的遊玩"
     }
   },
   "原地图出自《求生之路2》": {
     "translation": "",
     "MultiLang": {
-      "US": "This map is based on a map from \"Left 4 Dead 2\"",
-      "JP": "オリジナルマップは『Left 4 Dead 2』より。",
+      "US": "Original map from Left 4 Dead 2",
+      "JP": "元の地図は『Left 4 Dead 2』より提供",
       "CN": "",
-      "KR": "원래 지도는 《Left 4 Dead 2》에서 가져왔습니다.",
-      "TW": "原地图出自《求生之路2》"
+      "KR": "원본 맵 출처: 《Left 4 Dead 2》",
+      "TW": "原始地圖出自《求生之路2》"
     }
   },
   "地图移植：SIRloin": {
     "translation": "",
     "MultiLang": {
-      "US": "Map porting: SIRloin",
-      "JP": "マップ移植：SIRloin",
+      "US": "Map port by: SIRloin",
+      "JP": "地図移植：SIRloin",
       "CN": "",
-      "KR": "맵 제작: SIRloin",
-      "TW": "地图移植：SIRloin"
+      "KR": "맵 이식: SIRloin",
+      "TW": "地圖移植：SIRloin"
     }
   },
   "皮皮猫233": {
     "translation": "",
     "MultiLang": {
-      "US": "Pipi cat 233",
-      "JP": "ピピ猫233",
+      "US": "Pipimao 233",
+      "JP": "皮皮猫233",
       "CN": "",
-      "KR": "피피 고양이 233",
-      "TW": "皮皮猫233"
+      "KR": "삐약이 233",
+      "TW": "皮皮貓233"
     }
   },
   "花泽爱吃香菜": {
     "translation": "",
     "MultiLang": {
-      "US": "Hanazawa loves cilantro.",
-      "JP": "花泽很喜欢香菜。",
+      "US": "Hanazawa loves eating cilantro",
+      "JP": "花沢は香菜が大好き",
       "CN": "",
-      "KR": "하나자와는 고수를 좋아합니다.",
-      "TW": "花澤愛吃香菜"
+      "KR": "화자는 파슬리를 좋아한다",
+      "TW": "花澤喜歡吃香菜"
     }
   }
 }

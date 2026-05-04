@@ -2,31 +2,31 @@
   "回合结束，开始清理": {
     "translation": "",
     "MultiLang": {
-      "US": "Round ends, start clearing",
-      "JP": "ラウンド終了、クリア開始",
+      "US": "Turn ends, cleanup begins",
+      "JP": "ターン終了、クリーン開始",
       "CN": "",
-      "KR": "턴 종료, 청소 시작",
-      "TW": "回合结束，开始清理。"
+      "KR": "턴 종료, 정리 시작",
+      "TW": "回合結束，開始清理"
     }
   },
   "版本1.8 回合开始，25秒后传送,僵尸延迟8秒传送": {
     "translation": "",
     "MultiLang": {
-      "US": "Version 1.8 Round starts, teleport after 25 seconds, zombies teleport after 8 seconds delay",
-      "JP": "バージョン1.8 ラウンド開始、25秒後にテレポート、ゾンビは8秒遅延でテレポート",
+      "US": "Version 1.8: Turn starts, teleport in 25 seconds; zombies teleport with an 8-second delay",
+      "JP": "バージョン1.8 ターン開始、25秒後にテレポート、ゾンビは8秒遅れてテレポート",
       "CN": "",
-      "KR": "버전 1.8 턴 시작, 25초 후 전송, 좀비 8초 지연 후 전송",
-      "TW": "版本1.8 回合开始，25秒后传送，僵尸延迟8秒传送。"
+      "KR": "버전 1.8 턴 시작, 25초 후 텔레포트, 좀비 8초 후 텔레포트",
+      "TW": "版本1.8 回合開始，25秒後傳送，殭屍延遲8秒傳送"
     }
   },
   "-------感谢EXG社区和Zed社区的供测试服务器和几次炸服后的帮忙-------": {
     "translation": "",
     "MultiLang": {
-      "US": "---Thank you to the EXG community and the Zed community for providing test servers and assistance after several server crashes.---",
-      "JP": "-------EXGコミュニティとZedコミュニティのテストサーバー提供と、幾度かのクラッシュ後のサポートに感謝-------",
+      "US": "-------Thanks to the EXG community and Zed community for providing the test server and assistance after several crashes-------",
+      "JP": "-------EXGコミュニティとZedコミュニティのテストサーバー提供、および数回のサーバーダウン後のサポートにお礼申し上げます-------",
       "CN": "",
-      "KR": "-------EXG 커뮤니티와 Zed 커뮤니티의 테스트 서버 제공과 몇 번의 서버 다운 이후 도움에 감사합니다-------",
-      "TW": "-------感谢EXG社区和Zed社区提供测试服务器，以及在几次服务器崩溃后提供的帮助-------"
+      "KR": "------- EXG 커뮤니티와 Zed 커뮤니티의 테스트 서버 제공 및服务器炸服 후 도움에 감사드립니다-------",
+      "TW": "-------感謝EXG社區和Zed社區的測試伺服器支援以及幾次炸服後的協助-------"
     }
   }
 }

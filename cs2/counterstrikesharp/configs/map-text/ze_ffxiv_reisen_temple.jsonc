@@ -3,20 +3,20 @@
     "translation": "",
     "MultiLang": {
       "US": "",
-      "JP": "マップ by @Seth.",
-      "CN": "地图由 @Seth 制作。",
-      "KR": "맵 by @Seth.",
-      "TW": "地圖由 @Seth 製作。"
+      "JP": "マップ制作：@Seth",
+      "CN": "地图制作：@Seth",
+      "KR": "지도 제작: @Seth.",
+      "TW": "地圖製作：@Seth。"
     }
   },
   "该版本为部分流程前瞻,不代表最终品质.": {
     "translation": "",
     "MultiLang": {
-      "US": "This version is a partial preview, and does not represent the final quality.",
-      "JP": "本バージョンは一部の進行を予見しており、最終的な品質を代表するものではありません。",
+      "US": "This version represents a preview of select features and does not reflect the final quality.",
+      "JP": "このバージョンは一部の手順の事前公開であり、最終的な品質を代表するものではありません。",
       "CN": "本版本为部分流程预览，不代表最终品质。",
-      "KR": "이 버전은 일부 프로세스 프리뷰이며, 최종 품질을 나타내지 않습니다.",
-      "TW": "本版本為部分流程預覽，不代表最終品質。"
+      "KR": "이 버전은 일부 진행 절차에 대한 미리보기이며, 최종 품질을 보장하지 않습니다.",
+      "TW": "此版本僅供部分流程前瞻，不代表最終品質。"
     }
   },
   "< Hard Mode >": {
@@ -32,21 +32,21 @@
   "< 最终幻想14:醴泉神社 > Ver 1.0": {
     "translation": "",
     "MultiLang": {
-      "US": "<Final Fantasy XIV: Heidle's Spring Shrine> Ver 1.0",
-      "JP": "< 최종 판타지 14:醴泉神社 > Ver 1.0",
+      "US": "< Final Fantasy XIV: Reiisen Shrine > Ver 1.0",
+      "JP": "<ファイナルファンタジーXIV: 霊泉神社> Ver 1.0",
       "CN": "",
-      "KR": "< 최종 판타지 14: 醴泉 신사 > Ver 1.0",
-      "TW": "<最终幻想14：醴泉神社> Ver 1.0"
+      "KR": "<파이널 판타지14: 리센 신사> Ver 1.0",
+      "TW": "< 最終幻想14：醴泉神社 > Ver 1.0"
     }
   },
   "< FFXIV_Reisen_Temple > Ver 1.0": {
     "translation": "",
     "MultiLang": {
       "US": "",
-      "JP": "<FFXIV_Reisen_Temple> Ver 1.0",
-      "CN": "< FFXIV_Reisen_Temple > 版本 1.0",
-      "KR": "<FFXIV_Reisen_Temple> 버전 1.0",
-      "TW": "<FFXIV_Reisen_Temple> Ver 1.0"
+      "JP": "<FF XIV_Reisen_Temple> Ver 1.0",
+      "CN": "< FFXIV_Reisen_Temple > 1.0版",
+      "KR": "<FFXIV_Reisen_Temple> Ver 1.0",
+      "TW": "< FFXIV_Reisen_Temple > Ver 1.0"
     }
   },
   "< Objective : Light up the First Temple >": {
@@ -63,69 +63,69 @@
     "translation": "",
     "MultiLang": {
       "US": "",
-      "JP": "バリアが20秒で破壊されます。",
-      "CN": "屏障将在20秒内破碎。",
-      "KR": "장벽 파괴 in 20초.",
-      "TW": "屏障破碎，倒數20秒。"
+      "JP": "> 20秒以内にバリア破壊 <",
+      "CN": "> 结界将于 20 秒后碎裂 <",
+      "KR": "방패 20초 후 깨짐",
+      "TW": "> 護盾將在20秒後破碎。<"
     }
   },
   "有冒险者找到了治疗术.": {
     "translation": "",
     "MultiLang": {
-      "US": "An adventurer found the healing spell.",
-      "JP": "ある冒険者が見つけた治療術。",
+      "US": "An adventurer discovered Heal.",
+      "JP": "冒険者が治癒魔法を発見しました。",
       "CN": "",
-      "KR": "모험가들이 치유술을 발견했습니다.",
-      "TW": "有冒險者找到了治療術。"
+      "KR": "모험가가 치료술을 찾아냈다.",
+      "TW": "有冒險者尋獲了治療術。"
     }
   },
   "A player has pickup Heal.": {
     "translation": "",
     "MultiLang": {
       "US": "",
-      "JP": "プレイヤーがヒールを拾得しました。",
-      "CN": "玩家获得补满药。",
-      "KR": "플레이어가 힐 업체를 가지고 있다.",
-      "TW": "玩家獲得治療藥物。"
+      "JP": "プレイヤーが治愈アイテムを入手しました。",
+      "CN": "玩家已拾取治疗道具。",
+      "KR": "플레이어가 힐을 획득했습니다.",
+      "TW": "一名玩家拾取了治療術。"
     }
   },
   "[治疗术] 放置治疗区域7秒,恢复225血量,50秒冷却.": {
     "translation": "",
     "MultiLang": {
-      "US": "[Healing] Place the healing area for 7 seconds, restores 225 health, 50-second cooldown.",
-      "JP": "[治療術] 治療区域を7秒放置し、225のHPを回復。50秒クールダウン。",
+      "US": "[Heal] Places a healing area for 7 seconds, restoring 225 HP. 50-second cooldown.",
+      "JP": "[治癒魔法] 治療区域を7秒間設置、225のHPを回復、クールダウン50秒。",
       "CN": "",
-      "KR": "[치료술] 치료 구역에 7초 동안 배치하여 225 체력을 회복하고, 50초 동안 냉각 효과를 적용합니다.",
-      "TW": "[治療術] 放置治療區域7秒，恢復225血量，50秒冷卻。"
+      "KR": "[치료 스킬] 치료 지역을 7초 동안 배치하면 체력을 225 회복하고, 재사용 대기시간은 50초입니다.",
+      "TW": "[治療術] 放置治療區域7秒，恢復225血量，冷卻時間50秒。"
     }
   },
   "[Heal] Crate a heal area for 7 sec,255 max health,50 cd.": {
     "translation": "",
     "MultiLang": {
       "US": "",
-      "JP": "[回復] 7秒間、最大HP255、クールダウン50秒の回復エリアを生成。",
-      "CN": "[治疗] 创建一个治疗区域，持续7秒，最大生命值255，冷却时间50。",
-      "KR": "[치유] 7초 동안 치유 영역을 생성, 최대 255 체력, 50초 재장전.",
-      "TW": "[治療] 營造一個治療區域，持續 7 秒，最大生命值 255，CD 50。"
+      "JP": "[回復]7秒間最大HP255の回復エリアを作成、クールタイム50秒。",
+      "CN": "[治疗药水] 创建一个持续7秒的治疗区域，最大生命值255，冷却时间50。",
+      "KR": "[치유] 7초 동안 치유 구역을 생성하며, 최대 체력 255, 재사용 대기 시간 50초.",
+      "TW": "[治癒] 建立持續 7 秒、最大生命值 255 的治癒區域，冷卻時間 50 秒。"
     }
   },
   "> Barrier shatter in 25 sec. <": {
     "translation": "",
     "MultiLang": {
       "US": "",
-      "JP": "壁の破壊：25秒。",
-      "CN": "屏障破碎将在25秒后。",
-      "KR": "장벽 파괴 in 25 sec. <",
-      "TW": "屏障将在 25 秒后破碎。"
+      "JP": "> バリアーが25秒後に破壊されます。 <",
+      "CN": ">护盾将在25秒后破碎。<",
+      "KR": "> 방패가 25초 후에 파괴됩니다. <",
+      "TW": "> 屏障將在 25 秒後碎裂。<"
     }
   },
   "有冒险者找到了飓风.": {
     "translation": "",
     "MultiLang": {
-      "US": "An adventurer found the hurricane.",
-      "JP": "ある冒険者が竜巻を見つけました。",
+      "US": "An adventurer discovered Hurricane.",
+      "JP": "ある冒険者が突風を発見しました。",
       "CN": "",
-      "KR": "한 모험가가 폭풍을 발견했습니다.",
+      "KR": "모험가들이 태풍을 발견했습니다.",
       "TW": "有冒險者找到了颶風。"
     }
   },
@@ -133,469 +133,469 @@
     "translation": "",
     "MultiLang": {
       "US": "",
-      "JP": "プレイヤーは風を拾いました。",
-      "CN": "玩家获得风力作为拾取物。",
-      "KR": "플레이어가 Wind를 획득했습니다.",
-      "TW": "玩家獲得風物。"
+      "JP": "プレイヤーが突風を拾いました。",
+      "CN": "一名玩家已拾取旋风药水。",
+      "KR": "플레이어가 바람 아이템을 수집했습니다.",
+      "TW": "一名玩家撿取了風。"
     }
   },
   "[飓风] 释放跟随飓风推开僵尸5秒,50秒冷却.": {
     "translation": "",
     "MultiLang": {
-      "US": "[Hurricane] Releases zombies that follow the hurricane for 5 seconds, with a 50-second cooldown.",
-      "JP": "[飓风] 追踪飓风的僵尸持续5秒，冷却50秒。",
+      "US": "[Hurricane] Releases a following hurricane that pushes back zombies for 5 seconds. 50-second cooldown.",
+      "JP": "[突風]ゾンビを吹き飛ばす暴風を発生させ、5秒間効果が続く。クールタイム50秒。",
       "CN": "",
-      "KR": "[이류성] 뇌우에 뒤따라 밀려 나오는 좀비 5초 동안, 50초 쿨다운.",
-      "TW": "[颶風] 釋放追隨颶風推開的僵屍5秒，50秒冷卻。"
+      "KR": "[태풍] 5초 동안 태풍을 발사하여 좀비를 밀어내고, 재사용 대기 시간 50초.",
+      "TW": "[颶風] 召喚隨行的颶風將僵尸推開 5 秒，冷卻時間 50 秒。"
     }
   },
   "[Wind] Crate storm to push zombie away for 5 sec,50 cd.": {
     "translation": "",
     "MultiLang": {
       "US": "",
-      "JP": "[風] 仲間を殴り飛ばす風を発生させ、5秒間継続。クールダウン: 50秒。",
-      "CN": "[狂风] 吹风击箱子，将僵尸推开5秒，冷却时间50秒。",
-      "KR": "[바람] 좀비로부터 5초 동안, 50초 재시전 효과를 갖는 바람 휩쓸기.",
-      "TW": "[狂風] 吹風箱子推開殭屍 5 秒，CD 50。"
+      "JP": "[Wind]ゾンビを吹き飛ばす暴風を発生させ、5秒間効果が続く。クールタイム50秒。",
+      "CN": "[旋风药水] 召唤风暴将僵尸推开，持续5秒，冷却时间50。",
+      "KR": "[Wind] 좀비를 5초간 밀어내는 폭풍을 생성하며, 재사용 대기 시간 50초.",
+      "TW": "[Wind] 召�風暴將僵尸推開 5 秒，冷卻時間 50 秒。"
     }
   },
   "有冒险者找到了冥水.": {
     "translation": "",
     "MultiLang": {
-      "US": "An adventurer found the Murkmire.",
-      "JP": "冒険者が冥水を手に入れた。",
+      "US": "An adventurer discovered Netherwater.",
+      "JP": "ある冒険者が冥水を発見しました。",
       "CN": "",
-      "KR": "한 모험가가 묵수의 샘을 발견했다.",
-      "TW": "有冒险者找到了冥水。"
+      "KR": "모험가들이 명수 아이템을 발견했습니다.",
+      "TW": "有冒險者找到了冥水。"
     }
   },
   "A player has pickup Water.": {
     "translation": "",
     "MultiLang": {
       "US": "",
-      "JP": "プレイヤーが水を入手しました。",
-      "CN": "玩家获得水。",
-      "KR": "플레이어가 물을 획득했습니다.",
-      "TW": "玩家獲得水。"
+      "JP": "プレイヤーが冥水を拾いました。",
+      "CN": "一名玩家拾取了水。",
+      "KR": "플레이어가 물 아이템을 수집했습니다.",
+      "TW": "一名玩家撿取了水。"
     }
   },
   "[冥水] 放置旋涡区域强减速僵尸7秒,50秒冷却.": {
     "translation": "",
     "MultiLang": {
-      "US": "[Murky Water] Place Vortex Zone to strongly slow zombies for 7 seconds, 50-second cooldown.",
-      "JP": "[冥水] 設置すると、渦のエリア内のゾンビを7秒間大幅に減速させます。50秒のクールダウン。",
+      "US": "[Netherwater] Places a vortex area that strongly slows zombies for 7 seconds. 50-second cooldown.",
+      "JP": "[冥水]旋渦エリアに設置し、7秒間強力なスロー効果でゾンビを遅らせる。50秒のクールダウン。",
       "CN": "",
-      "KR": "[명수] 둔속 지역에 僵尸를 7초 동안 감속시키고, 50초 동안 재사용.",
-      "TW": "[冥水] 放置旋渦區域強減速僵屍7秒, 50秒冷卻."
+      "KR": "[명수] 소용돌이 구역을 강하게 7초 동안 감속, 쿨타임 50초.",
+      "TW": "[冥水] 放置旋渦區域，使僵尸強减速7秒，冷卻時間50秒。"
     }
   },
   "[Water] Crate water area,strong slow zombie for 7 sec,50 cd.": {
     "translation": "",
     "MultiLang": {
       "US": "",
-      "JP": "[水] 水槽エリア、強スローゾンビ7秒、50cd。",
-      "CN": "[水] 水箱区域，强力慢速僵尸7秒，50cd。",
-      "KR": "[물] 크레이트 물 영역, 강력한 느린 좀비 7초 동안, 50초 CD.",
-      "TW": "[水] 水箱區域，強效慢速殭屍7秒，50秒CD。"
+      "JP": "[Water] Water Crateを設置し、7秒間強力なスロー効果でゾンビを遅らせる。50秒のクールダウン。",
+      "CN": "[水] 水桶区域：强力减缓僵尸7秒，冷却时间50。",
+      "KR": "[Water] Crate water area,strong slow zombie for 7 sec,50 cd.",
+      "TW": "[冥水] 放置旋渦區域，使僵尸強减速7秒，冷卻時間50秒。"
     }
   },
   "[冥水] 能对Boss造成伤害.": {
     "translation": "",
     "MultiLang": {
-      "US": "[Murky Water] Can deal damage to Bosses.",
-      "JP": "[冥水] 敵ボスにダメージを与える。",
+      "US": "[Abyss Water] Can deal damage to the Boss.",
+      "JP": "[冥水]ボスにダメージを与えられる。",
       "CN": "",
-      "KR": "[冥水] 보스에게 데미지를 줄 수 있습니다.",
-      "TW": "[冥水] 可對Boss造成傷害。"
+      "KR": "[명수] 보스에게 피해를 입힐 수 있습니다.",
+      "TW": "[冥水] 能對Boss造成傷害。"
     }
   },
   "[Water] It will deal damage to Bosses.": {
     "translation": "",
     "MultiLang": {
       "US": "",
-      "JP": "[水] ボスにダメージを与えます。",
-      "CN": "[水] 会对Boss造成伤害。",
-      "KR": "[물] 보스에게 데미지를 입힙니다.",
-      "TW": "[水] 會對Boss造成傷害。"
+      "JP": "[Water] ボスにダメージを与えることができる。",
+      "CN": "[水] 它会对Boss造成伤害。",
+      "KR": "[Water] It will deal damage to Bosses.",
+      "TW": "[冥水] 能對Boss造成傷害。"
     }
   },
   "> Shrine platform will seal off in 20 sec. <": {
     "translation": "",
     "MultiLang": {
       "US": "",
-      "JP": "神殿の平台は20秒後に封鎖されます。",
-      "CN": "神殿平台将于20秒后封印。",
-      "KR": "신전 플랫폼은 20초 후에 봉쇄됩니다.",
-      "TW": "神殿平台将于20秒后封锁。"
+      "JP": "> シゃくりい平台将在20秒后关闭。<",
+      "CN": ">祭坛平台将在20秒后封闭。<",
+      "KR": "> 성전 플랫폼이 20초 후 봉쇄됩니다. <",
+      "TW": "神廟平台將在20秒後關閉。"
     }
   },
   "有僵尸习得了庇护.": {
     "translation": "",
     "MultiLang": {
-      "US": "A zombie has learned about the shelter.",
-      "JP": "ゾンビが「庇護」を習得しました。",
+      "US": "A zombie has learned Sanctuary.",
+      "JP": "あるゾンビがシールドを習得した。",
       "CN": "",
-      "KR": "좀비가 피난所를 얻었다.",
-      "TW": "有僵屍習得了庇護。"
+      "KR": "갑옷을 습득한 좀비가 있습니다.",
+      "TW": "有僵尸習得了庇護能力。"
     }
   },
   "A zombie has learn Shield.": {
     "translation": "",
     "MultiLang": {
       "US": "",
-      "JP": "ゾンビがシールドを習得しました。",
-      "CN": "僵尸学会了盾牌。",
-      "KR": "좀비가 방패를 배웠다.",
-      "TW": "殭屍學會了盾牌。"
+      "JP": "A zombie has learn Shield.",
+      "CN": "一只僵尸学会了护盾。",
+      "KR": "A zombie has learn Shield.",
+      "TW": "有僵尸習得了庇護能力。"
     }
   },
   "<Byakko>: Outsider,You should not step inside this temple.": {
     "translation": "",
     "MultiLang": {
       "US": "",
-      "JP": "<Byakko>: 外者よ、この寺には足を踏み入れないで。",
-      "CN": "<白鵟>: 外来者，你绝不能踏入这座寺庙。",
-      "KR": "<백호>: 낯선 자여, 이 사원에 발을 들지 마시오.",
-      "TW": "<白梟>: 外來者，你不得踏入這寺廟。"
+      "JP": "<白虎>: よそ者、この神殿に入るべきではない。",
+      "CN": "<白虎>：外来者，你不该踏入这座神庙。",
+      "KR": "<백호>: 외부인, 이 사원에 들어서는 안 됩니다.",
+      "TW": "<白虎>：外來者，你不應踏入這座神廟。"
     }
   },
   "[庇护] 生成跟随护盾使周围僵尸免疫子弹5秒,50秒冷却.": {
     "translation": "",
     "MultiLang": {
-      "US": "[Shield] Generates a shield that makes nearby zombies immune to bullets for 5 seconds, with a 50-second cooldown.",
-      "JP": "[シールド生成] 周囲のゾンビに対して弾丸のダメージを5秒間無効化。クールダウン50秒。",
+      "US": "[Sanctuary] Summons a shield-bearer minion that makes nearby zombies immune to bullets for 5 seconds. 50s cooldown.",
+      "JP": "[シールド] シールドを生成し、周囲のゾンビを5秒間弾から免疫化。クールタイム50秒。",
       "CN": "",
-      "KR": "[보호막 생성] 보호막을 생성하여 주변 좀비에게 탄환 면역을 5초 동안 부여하고 50초 동안 냉각.",
-      "TW": "[庇護] 生成，跟隨護盾使周圍僵屍免疫子彈5秒，50秒冷卻。"
+      "KR": "[비호] 생성된 스킬이 주위 좀비를 5초간 총알 무적 상태로 만듦. 재사용 대기시간 50초.",
+      "TW": "[庇護] 召喚跟隨護盾，使附近殭屍免疫子彈5秒，冷卻時間50秒。"
     }
   },
   "[Shield] Use shield block bullet for 5 sec,50 cd.": {
     "translation": "",
     "MultiLang": {
       "US": "",
-      "JP": "[シールド] シールドブロック弾を5秒間使用、50cd。",
-      "CN": "[盾牌] 使用盾牌阻挡子弹5秒，冷却时间为50。",
-      "KR": "[방패] 방패 블록 발사체를 5초 동안 사용, 50초 재장전.",
-      "TW": "[盾牌] 使用盾牌格擋子彈 5 秒，50 冷却。"
+      "JP": "[シールド] 5秒間弾をブロック、クールタイム50。",
+      "CN": "[护盾] 使用护盾格挡子弹5秒，冷却时间50。",
+      "KR": "[실드] 5초간 총알 방어. 재사용 대기시간 50초.",
+      "TW": "[護盾] 展開護格擋子彈，持續5秒，冷卻時間50秒。"
     }
   },
   "<Byakko>: Turn back,now.": {
     "translation": "",
     "MultiLang": {
       "US": "",
-      "JP": "<白梟>: 後戻りなさい、今すぐ。",
-      "CN": "<白鵟>: 往回走吧，现在。",
-      "KR": "<백호>: 되돌아가라, 지금 바로.",
-      "TW": "<白梟>: 撤退吧，現在。"
+      "JP": "<白虎>：戻れ、今すぐだ。",
+      "CN": "<白虎>：现在回头。",
+      "KR": "<백호>: 물러나라, 당장.",
+      "TW": "<白虎>：回頭吧，就是現在。"
     }
   },
   "<Byakko>: Or you will face my fury.": {
     "translation": "",
     "MultiLang": {
       "US": "",
-      "JP": "白梟：ならば、お前に私の怒りに触れることになるだろう。",
-      "CN": "《白梟》：否则你将面临我的怒火。",
-      "KR": "백호: 아니면 네게 내 분노를 맞이하게 될 것이다.",
-      "TW": "《白梟》：或你將面對我的怒火。"
+      "JP": "<白虎>：さもなくば、わが憤怒に直面するがよい。",
+      "CN": "<白虎>：否则你将面对我的怒火。",
+      "KR": "<백호>: 안 그럼 내 분노를 볼게.",
+      "TW": "<白虎>：否則你將面對我的怒火。"
     }
   },
   "<Byakko>: I warn you...": {
     "translation": "",
     "MultiLang": {
       "US": "",
-      "JP": "<白梟>: 警告するぞ…",
-      "CN": "《白梟》：我警告你...",
-      "KR": "《백호》: 경고한다... (경고한다...)",
-      "TW": "《白梟》：我警告你..."
+      "JP": "<白虎>：警告する……",
+      "CN": "<白虎>：我警告你……",
+      "KR": "<백호>: 경고한다…",
+      "TW": "<白虎>：我警告過你了……"
     }
   },
   "> Shrine platform is seal off. <": {
     "translation": "",
     "MultiLang": {
       "US": "",
-      "JP": "神殿のプラットフォームが封鎖されています。",
-      "CN": "神殿台基已被封印。",
-      "KR": "신전 플랫폼이 봉인되었습니다.",
-      "TW": "神殿台基已被封印。"
+      "JP": "> 神社プラットフォーム封鎖。 <",
+      "CN": ">神龛平台已封锁。<",
+      "KR": "> 신사 플랫폼 접근 금지. <",
+      "TW": "> 神社平台已封印。 <"
     }
   },
   "> Zombie Item Locked! <": {
     "translation": "",
     "MultiLang": {
       "US": "",
-      "JP": "ゾンビアイテムロック!",
-      "CN": "僵尸物品已锁定！",
-      "KR": "좀비 아이템 잠금!",
-      "TW": "殭屍物品鎖定！"
+      "JP": "> ゾンビのアイテムロック解除！ <",
+      "CN": ">僵尸物品已锁定！<",
+      "KR": "> 좀비 아이템 잠금! <",
+      "TW": "> 殭屍物品已鎖定！ <"
     }
   },
   "<Genbu>: No.": {
     "translation": "",
     "MultiLang": {
       "US": "",
-      "JP": "<Genbu>: いいえ。",
-      "CN": "《玄武》： 不。",
-      "KR": "<Genbu>: 아니.",
-      "TW": "<Genbu>: 不. (Bù.)"
+      "JP": "<玄武>：否。",
+      "CN": "<玄武>：不。",
+      "KR": "<현무>: 아니.",
+      "TW": "<玄武>：不。"
     }
   },
   "<Genbu>: Leave it to me,Byakko.": {
     "translation": "",
     "MultiLang": {
       "US": "",
-      "JP": "<Genbu>: 任せろ、白梟。",
-      "CN": "<Genbu>: 交给我了，白梟。",
-      "KR": "<Genbu>: 맡겨줘, 바이꼬.",
-      "TW": "<Genbu>: 讓我來處理，白梟。"
+      "JP": "<ゲンブ>任せとけ、白虎。",
+      "CN": "<玄武>：交给我吧，白虎。",
+      "KR": "<겐부>: 맡겨, 백oku.",
+      "TW": "<玄武>：就拜託你了，白虎。"
     }
   },
   "<Byakko>: ...": {
     "translation": "",
     "MultiLang": {
       "US": "",
-      "JP": "<Byakko>: ...",
-      "CN": "<白虎>: ...",
-      "KR": "Please provide the source text you want me to translate. I need the text itself to perform the translation and output it in JSON format as you requested. \n\nFor example, you would give me something like:\n\n`\"Byakko: Welcome, traveler.  What brings you to this forsaken place? >>\"`\n\nThen I would respond with:\n\n\n{\n  \"text\": \"백호: ... 여행자여, 당신이 이 저주받은 곳에 무엇을 찾고 있습니까? >>\"\n}",
-      "TW": "<Byakko>: ..."
+      "JP": "<白虎>…",
+      "CN": "<白虎>：……",
+      "KR": "<백옥>: ...",
+      "TW": "<白虎>：……"
     }
   },
   "<Byakko>: Stay safe,old man.": {
     "translation": "",
     "MultiLang": {
       "US": "",
-      "JP": "<白梟>: 安全にいろ、老人。",
-      "CN": "《白鵟》：老头，小心点。",
-      "KR": "<백곡>: 잘 지내, 늙은이.",
-      "TW": "白梟：老頭，小心點。"
+      "JP": "<白虎>元気でな、じいさん。",
+      "CN": "<白虎>：保重，老人家。",
+      "KR": "<백옥>: 조심해요, 할아버지.",
+      "TW": "<白虎>：好自為之，老頭。"
     }
   },
   "> Genbu is casting Caduceus. <": {
     "translation": "",
     "MultiLang": {
       "US": "",
-      "JP": "玄武がカドゥケウスを詠唱している。",
-      "CN": "玄武正在施放蛇杖。",
-      "KR": "검푸가 카다케우스 시전 중.",
-      "TW": "玄武正在施放蛇杖。"
+      "JP": "> ゲンブがカドゥケウスを唱えた。 <",
+      "CN": "玄武正在施放卡迪修斯技能。<",
+      "KR": "> 겐부가 카두케이우스를 시전합니다. <",
+      "TW": "> 玄武正在施放『卡杜修斯』。<"
     }
   },
   "> Genbu is casting Hell of Waste. <": {
     "translation": "",
     "MultiLang": {
       "US": "",
-      "JP": "玄武が冥土の墓場を放つ。",
-      "CN": "玄貘正在施放《毁灭之废墟》。",
-      "KR": "검푸가 쓰레기의 지옥을 시전한다.",
-      "TW": "玄武正在施放地獄之廢"
+      "JP": "> ゲンブが死海の地獄を唱えた。 <",
+      "CN": "玄武正在施放荒火地狱。<",
+      "KR": "> 겐부가 폐허의 지옥을 시전합니다. <",
+      "TW": "> 玄武正在施放『廢墟地獄』。<"
     }
   },
   "> Genbu is casting Hell of Water. <": {
     "translation": "",
     "MultiLang": {
       "US": "",
-      "JP": "玄武が冥水の呪文を唱えている。",
-      "CN": "玄貘正在施放地狱之水。",
-      "KR": "겐부, 불화의 물을 사용한다.",
-      "TW": "玄武正在施放地獄之水。"
+      "JP": "> ゲンブが水死の地獄を唱えた。 <",
+      "CN": "玄武正在施放水狱。<",
+      "KR": "> 겐부가 물의 지옥을 시전합니다. <",
+      "TW": "> 玄武正在施放『水獄』。<"
     }
   },
   "> Genbu is casting Divine Cararact. <": {
     "translation": "",
     "MultiLang": {
       "US": "",
-      "JP": "玄武が神聖な力場を放つ。",
-      "CN": "玄武正在施放神力光芒。",
-      "KR": "검푸가 신성한 카라카트를 시전 중.",
-      "TW": "玄貘正在施展神力。"
+      "JP": "> ゲンブが天啓の白内障を唱えた。 <",
+      "CN": "玄武正在施放神目术。<",
+      "KR": "> 겐부가 신성한 백내장을 시전합니다. <",
+      "TW": "> 玄武正在施放『神聖白內障』。<"
     }
   },
   "> Hurry,Break the shield before Genbu kill us all! <": {
     "translation": "",
     "MultiLang": {
       "US": "",
-      "JP": "急げ！げんぶに全滅する前にシールドを破壊しろ！",
-      "CN": "快点！打破盾牌，阻止玄武杀死我们所有人！",
-      "KR": "조심해, 겐부에게 우리가 모두 죽기 전에 방패를 부수렴!",
-      "TW": "快點！在玄武殺死我們之前打破防禦！"
+      "JP": "> 急げ、ゲンブが全員倒す前に盾を壊せ！<",
+      "CN": "快，在玄武杀死我们之前打破护盾！",
+      "KR": "> 빨리! 겐부가 우리를 모조리 죽이기 전에 방패를 부수세요!",
+      "TW": "> 快點！在玄武屠殺我們之前打破防禦！"
     }
   },
   "> 快!在他杀死我们全部人前击碎他的水盾! <": {
     "translation": "",
     "MultiLang": {
-      "US": "Quick! Destroy his water shield before he kills us all!",
-      "JP": "快! 他人在我们面前击碎他的水盾!",
+      "US": "> Quick! Smash his water shield before he kills us all! <",
+      "JP": "速く！彼ら全員を殺す前に彼のウォーターシールドを砕け！",
       "CN": "",
-      "KR": "빨리! 그가 우리 모두를 죽인 앞에서 그의 물 방패를 부수세요!",
-      "TW": "> 快！在他杀死我们所有人之前，击碎他的水盾！<"
+      "KR": "> 빨리! 우리가 모두 죽기 전에 그의 물방패를 부수자! <",
+      "TW": "快！在他殺光我們之前打破他的水盾！"
     }
   },
   "有冒险者找到了岩狱.": {
     "translation": "",
     "MultiLang": {
-      "US": "An adventurer has found the Hellscape.",
-      "JP": "ある冒険者が岩獄を見つけた。",
+      "US": "An adventurer has found the Rock Prison.",
+      "JP": "冒険者が石牢を見つけた。",
       "CN": "",
-      "KR": "일부 용사가 잿불 지옥을 발견했습니다.",
-      "TW": "有冒险者找到了岩狱。"
+      "KR": "모험가가 석감옥을 발견했습니다.",
+      "TW": "有冒險者找到了岩獄。"
     }
   },
   "A player has pickup Stone Jail.": {
     "translation": "",
     "MultiLang": {
       "US": "",
-      "JP": "プレイヤーがストーン・ジールをピックアップしました。",
-      "CN": "玩家已获得石牢。",
-      "KR": "플레이어가 스톤 재ல்லை 픽업했다.",
-      "TW": "玩家擁有石監。"
+      "JP": "プレイヤーが石牢を獲得しました。",
+      "CN": "一名玩家拾取了石牢。",
+      "KR": "플레이어가 Stone Jail을 픽업했습니다.",
+      "TW": "有玩家拾取了石牢。"
     }
   },
   "[岩狱] 直线禁锢路线上的僵尸7秒,能被挠碎,50秒冷却.": {
     "translation": "",
     "MultiLang": {
-      "US": "[Igyou] Zombies on the linear confinement route take 7 seconds to destroy, can be scratched to pieces, 50-second cooldown.",
-      "JP": "[岩獄] 直線的な拘束ルート上のゾンビを7秒間拘束します。破壊可能です。50秒のクールダウン。",
+      "US": "[Rock Prison] Impounds zombies in a straight line for 7 seconds. Can be shattered by claws. 50s cooldown.",
+      "JP": "[石牢] 直線上のゾンビを7間固定し、破壊可能。クールダウン50秒。",
       "CN": "",
-      "KR": "[용옥] 직선에 갇힌 僵尸 7초, 긁어서 부수 가능, 50초 냉각.",
-      "TW": "[岩獄] 直線禁锢路線上的僵屍7秒，能被撓碎，50秒冷卻。"
+      "KR": "[석감옥] 직선 경로상의 좀비를 7초간 석화하며, 긁어서 깨뜨릴 수 있으며, 재사용 대기시간은 50초입니다.",
+      "TW": "[岩獄] 對直線路徑上的殭屍造成7秒定身，可被擊碎，冷卻時間50秒。"
     }
   },
   "[Stone Jail] Stone the zombie in a line for 7 sec,Breakable,50 cd.": {
     "translation": "",
     "MultiLang": {
       "US": "",
-      "JP": "[石牢] 7秒間、ゾンビに石を叩きつけろ。破壊可能、クールダウン50。",
-      "CN": "[石牢] 用石砸僵尸7秒，可破坏，冷却时间50秒。",
-      "KR": "[돌 감옥] 7초 동안 좀을 일직선으로 쪼개고, 파괴 가능, 50초 재장전.",
-      "TW": "[石牢] 用石砸僵尸7秒，可破，50cd。"
+      "JP": "[Stone Jail] 直線上のゾンビを7秒間石にする。破壊可能、クールダウン50秒。",
+      "CN": "[石牢] 将直线上的僵尸石化7秒，可被打破，冷却时间50秒。",
+      "KR": "[Stone Jail] 직선 경로상의 좀비를 7초간 석화하며, 파괴 가능, 재사용 대기시간 50초.",
+      "TW": "[石牢] 將直線上的殭屍石化7秒，可破壞，冷卻時間50秒。"
     }
   },
   "[岩狱] 能对BOSS造成定身效果.": {
     "translation": "",
     "MultiLang": {
-      "US": "[Iryoku] Can inflict stun on BOSS.",
-      "JP": "[岩獄] ボスにスタン効果を与えることができます。",
+      "US": "[Rock Prison] Can root the Boss.",
+      "JP": "[石牢] ボスの動きを停止させる効果がある。",
       "CN": "",
-      "KR": "[불협곡] 보스에게 둔속 효과를 발사할 수 있습니다.",
-      "TW": "[岩獄] 能對BOSS造成定身效果。"
+      "KR": "[석감옥] 보스에게 정지 효과를 부여합니다.",
+      "TW": "[岩獄] 可對BOSS造成定身效果。"
     }
   },
   "[Stone Jail] It will Freeze Bosses movement.": {
     "translation": "",
     "MultiLang": {
       "US": "",
-      "JP": "[石牢] 敵の移動を凍結させる。",
-      "CN": "[石牢] 会冻结Boss移动。",
-      "KR": "[돌 감옥] 보스들의 이동을 멈추게 할 것입니다.",
-      "TW": "[石頭監獄] 會凍結Boss移動。"
+      "JP": "[Stone Jail] ボスの移動を凍結する。",
+      "CN": "[石牢] 将冻结Boss的移动能力。",
+      "KR": "[Stone Jail] 보스의 움직임을 묶습니다.",
+      "TW": "[石牢] 會凍結BOSS的移動。"
     }
   },
   "有僵尸习得了灭绝.": {
     "translation": "",
     "MultiLang": {
-      "US": "A zombie has learned extinction.",
-      "JP": "ゾンビが「滅绝」を習得しました。",
+      "US": "A zombie has learned Extinction.",
+      "JP": "あるゾンビが『絶滅』を習得した。",
       "CN": "",
-      "KR": "좀비가 파멸의 질병을 획득했다.",
-      "TW": "有僵尸习得了灭绝。"
+      "KR": "좀비가 멸종 기술을 습득했습니다.",
+      "TW": "有殭屍學會了滅絕。"
     }
   },
   "A zombie has learn Doom.": {
     "translation": "",
     "MultiLang": {
       "US": "",
-      "JP": "ゾンビがドームを学んだ。",
-      "CN": "一个僵尸学会了毁灭（Doom）。",
-      "KR": "좀비가 둠을 배웠다.",
-      "TW": "殭屍學會了《寂靜的黑暗》。"
+      "JP": "ゾンビが『ドゥーム』を覚えた。",
+      "CN": "一只僵尸学会了末日技能。",
+      "KR": "좀비가 도엄을 습득했습니다.",
+      "TW": "殭屍學到了末日斬殺。"
     }
   },
   "[灭绝] 直接斩杀附近的人类,50秒冷却.": {
     "translation": "",
     "MultiLang": {
-      "US": "[Extinction] Directly kill nearby humans, 50-second cooldown.",
-      "JP": "[絶滅] 周囲の人間を直接斬殺、50秒クールダウン。",
+      "US": "[Extinction] Instantly executes nearby humans. 50s cooldown.",
+      "JP": "[ジューシャースラッシュ] 周辺にいるプレイヤーを瞬間殺害、クールタイム50秒。",
       "CN": "",
-      "KR": "[멸종] 주변의 인간을 직접 처치, 50초 냉각.",
-      "TW": "[滅絕] 直接斬殺附近的人類, 50秒冷卻."
+      "KR": "[멸종] 주변 인간을 즉시 사살, 50초 쿨타임.",
+      "TW": "[滅絕] 直接斬殺附近的人類，冷卻時間50秒。"
     }
   },
   "[Doom] Slay all human around you,50 cd.": {
     "translation": "",
     "MultiLang": {
       "US": "",
-      "JP": "[Doom] 周りの人間を全滅させろ。50 cd.",
-      "CN": "[猛鬼消灭周围所有人类，冷却时间50]",
-      "KR": "[둠] 주변 모든 인간을 처치하세요. 50 cd.",
-      "TW": "[DOOM] 消滅所有人類，50 冷却。"
+      "JP": "[Doom] 周辺に存在する全てのプレイヤーを瞬間殺害、クールタイム50秒。",
+      "CN": "[末日] 斩杀周围所有人类，冷却50秒。",
+      "KR": "[Doom] 주변 모든 인간을 사살, 50초 쿨타임.",
+      "TW": "[Doom] 消滅周圍所有人類，冷卻時間50秒。"
     }
   },
   "有冒险者找到了晶体墙.": {
     "translation": "",
     "MultiLang": {
-      "US": "An adventurer found the crystal wall.",
-      "JP": "ある冒険者が見つけたクリスタル壁。",
+      "US": "An adventurer has found the Crystal Wall.",
+      "JP": "冒険者がクリスタルウォールを見つけた。",
       "CN": "",
-      "KR": "한 모험가가 수정 구체를 발견했다.",
-      "TW": "有冒险者找到了晶體牆。"
+      "KR": "모험가가 결정체 벽을 찾았습니다.",
+      "TW": "有冒險者找到了晶體牆。"
     }
   },
   "A player has pickup Crystal.": {
     "translation": "",
     "MultiLang": {
       "US": "",
-      "JP": "プレイヤーがクリスタルを拾いました。",
-      "CN": "玩家获得水晶碎片。",
-      "KR": "플레이어가 픽업 크리스탈을 가지고 있다.",
-      "TW": "玩家獲得水晶碎片。"
+      "JP": "プレイヤーがクリスタルを獲得した。",
+      "CN": "一名玩家拾取了水晶。",
+      "KR": "선수가 수정체를 수집했습니다.",
+      "TW": "玩家拾取了水晶。"
     }
   },
   "[晶体墙] 向前方生成水晶墙5秒,50秒冷却.": {
     "translation": "",
     "MultiLang": {
-      "US": "[Crystal Wall] Generates a crystal wall in front 5 seconds, 50 seconds cooldown.",
-      "JP": "[クリスタル壁] 前方へクリスタル壁を5秒生成、50秒クールダウン。",
+      "US": "[Crystal Wall] Generates a crystal wall in front for 5 seconds. 50s cooldown.",
+      "JP": "[クリスタルウォール] 前方にクリスタルの壁を5秒間生成、クールタイム50秒。",
       "CN": "",
-      "KR": "[결정벽] 앞으로 5초 후에 결정벽이 생성되고, 50초 동안 냉각됩니다.",
-      "TW": "[水晶牆] 向前方生成水晶牆5秒, 50秒冷卻."
+      "KR": "[결정체 벽] 앞쪽으로 5초간 수정체 벽 생성, 50초 쿨타임.",
+      "TW": "[晶體牆] 向前方生成水晶牆持續5秒，冷卻時間50秒。"
     }
   },
   "[Crystal] Crate crystal wall for 5 sec,50 cd.": {
     "translation": "",
     "MultiLang": {
       "US": "",
-      "JP": "[クリスタル] 5秒間、クールダウン50秒のクリスタル壁を生成します。",
-      "CN": "[水晶] 结晶墙壁持续5秒，冷却时间50。",
-      "KR": "[결정체] 5초 지속, 50초 재장전 결정체 상자 벽.",
-      "TW": "[水晶] 設置水晶護盾 5 秒，CD 50。"
+      "JP": "[Crystal] 前方にクリスタルの壁を5秒間生成、クールタイム50秒。",
+      "CN": "[水晶] 召唤水晶墙，持续5秒，冷却50秒。",
+      "KR": "[Crystal] 5초간 수정체 벽 생성, 50초 쿨타임.",
+      "TW": "[Crystal] 生成水晶牆持續5秒，冷卻時間50秒。"
     }
   },
   "[晶体墙] 能对Boss造成定身效果.": {
     "translation": "",
     "MultiLang": {
-      "US": "[Crystal Wall] can stun Bosses.",
-      "JP": "[晶体墙] はボスに確定耐性を付与します。",
+      "US": "[Crystal Wall] Stuns Bosses.",
+      "JP": "[クリスタルウォール] ボスに対して行動停止効果を付与可能。",
       "CN": "[水晶墙] 可以对Boss造成眩晕效果。",
-      "KR": "[결정체 벽] 보스에게 둔속 효과를 부여한다.",
-      "TW": "[晶體牆] 能對Boss造成定身效果."
+      "KR": "[결정체 벽] 보스에게 체포 효과를 발휘합니다.",
+      "TW": "[晶體牆] 能對Boss造成定身效果。"
     }
   },
   "[Crystal] It will Freeze Bosses movement.": {
     "translation": "",
     "MultiLang": {
       "US": "",
-      "JP": "[クリスタル] 敵の動きを凍結させます。",
-      "CN": "[水晶] 会冻结 Boss 移动。",
-      "KR": "[결정체] 보스 이동 속도를 멈추게 합니다.",
-      "TW": "[水晶] 它將使Boss行動停止。"
+      "JP": "[クリスタル] ボスの動きを凍結します。",
+      "CN": "[水晶] 可以冻结Boss的移动。",
+      "KR": "[크리스탈] 보스의 움직임을 얼립니다.",
+      "TW": "[水晶] 能凍結Boss的行動。"
     }
   },
   "有冒险者找到了赤陨.": {
     "translation": "",
     "MultiLang": {
-      "US": "An adventurer found Redfall.",
-      "JP": "冒険者たちが赤陨を見つけた。",
+      "US": "An adventurer has found the Red Meteor.",
+      "JP": "冒険者が「赤隕」を見つけました。",
       "CN": "",
-      "KR": "일부 용사가 적멸을 발견했다.",
+      "KR": "모험가들이 적응을 발견했습니다.",
       "TW": "有冒險者找到了赤隕。"
     }
   },
@@ -603,39 +603,39 @@
     "translation": "",
     "MultiLang": {
       "US": "",
-      "JP": "プレイヤーがアイテムピックアップ（重力）を獲得しました。",
-      "CN": "玩家获得重力拾取。",
-      "KR": "플레이어가 중력 픽업을 가지고 있다.",
-      "TW": "玩家已獲得重力增益。"
+      "JP": "プレイヤーが「グラビティ」をピックアップしました。",
+      "CN": "一名玩家拾取了重力。",
+      "KR": "선수가 중력 아이템을 획득했습니다.",
+      "TW": "玩家已拾取重力道具。"
     }
   },
   "[赤陨] 向前方生成黑洞6秒,50秒冷却.": {
     "translation": "",
     "MultiLang": {
-      "US": "[Red Meteor] Creates a black hole in front for 6 seconds, 50-second cooldown.",
-      "JP": "[赤隕] 前方にブラックホールを生成し、6秒間持続。50秒のクールダウン。",
+      "US": "[Red Meteor] Generates a black hole in front for 6 seconds. 50s cooldown.",
+      "JP": "[赤隕] 前方に6秒間黒-holeを生成します。クールダウン50秒。",
       "CN": "",
-      "KR": "[적 멸] 전방에 블랙홀이 6초 후에 생성되며, 50초 동안 냉각됩니다.",
-      "TW": "[隕石降臨] 向前方生成黑洞6秒, 50秒冷卻."
+      "KR": "[적응] 앞으로 6초 동안 블랙홀 생성, 50초 재사용 대기 시간.",
+      "TW": "[赤隕] 向前方生成持續6秒的黑洞，冷卻時間50秒。"
     }
   },
   "[Gravity] Crate a blackhole pull zombie into for 6 sec,50 cd.": {
     "translation": "",
     "MultiLang": {
       "US": "",
-      "JP": "[重力] ブラックホールにゾンビを6秒間引き込み、50秒のクールダウン。",
-      "CN": "[重力] 创建黑洞，将僵尸吸入 6 秒，冷却时间 50。",
-      "KR": "[중력] 블랙홀을 생성하여 좀비를 6초 동안 끌어들여, 50초 재사용 대기시간.",
-      "TW": "[重力] 創造一個黑洞，將殭屍吸入6秒，CD 50秒。"
+      "JP": "[Gravity] 6秒間黒-holeを生成してゾンビを引き寄せます。クールダウン50秒。",
+      "CN": "[重力] 召唤黑洞将僵尸吸入，持续6秒，冷却50秒。",
+      "KR": "[중력] 6초간 좀비를 끌어들이는 블랙홀 생성, 재사용 대기 시간 50초.",
+      "TW": "[Gravity] 生成黑洞將殭屍吸入持續6秒，冷卻時間50秒。"
     }
   },
   "[赤陨] 能对Boss造成定身效果.": {
     "translation": "",
     "MultiLang": {
-      "US": "[Red Fall] Can inflict stun on Boss.",
-      "JP": "[赤陨] 敌Boss会使出控制效果。",
+      "US": "[Red Meteor] Stuns Bosses.",
+      "JP": "[赤隕] ボスに硬直効果を与えます。",
       "CN": "[赤陨] 能够对Boss造成眩晕效果。",
-      "KR": "[붉은 운석 충돌] 보스에게 둔화 효과를 발사할 수 있습니다.",
+      "KR": "[적응] 보스에게 정지 효과를 줄 수 있습니다.",
       "TW": "[赤隕] 能對Boss造成定身效果。"
     }
   },
@@ -643,60 +643,60 @@
     "translation": "",
     "MultiLang": {
       "US": "",
-      "JP": "[重力] 敵の移動を凍結します。",
-      "CN": "[重力] 会冻结 Boss 移动。",
-      "KR": "[중력] 보스 이동을 멈추게 합니다.",
-      "TW": "[重力] 會凍結敵 Boss 的移動。"
+      "JP": "[Gravity] ボスの動きを凍結します。",
+      "CN": "[重力] 可以冻结Boss的移动。",
+      "KR": "[중력] 보스의 움직임을 얼립니다.",
+      "TW": "[Gravity] 能凍結Boss的行動。"
     }
   },
   "> Genbu shield breaks! <": {
     "translation": "",
     "MultiLang": {
       "US": "",
-      "JP": "玄武の盾が破損！」",
-      "CN": "玄武盾破碎！",
-      "KR": "검부 방패 파괴! <",
-      "TW": "玄武盾破碎！"
+      "JP": "> 玄武のシールドが壊れた！ <",
+      "CN": "> 玄武盾已破碎！ <",
+      "KR": "> 현무 방패가 파괴되었습니다! <",
+      "TW": "> 玄武護盾破裂！<"
     }
   },
   "> Shrine platform is no longer seal. <": {
     "translation": "",
     "MultiLang": {
       "US": "",
-      "JP": "神殿の祭壇はもう封印ではない。",
-      "CN": "神坛已不再封印。",
-      "KR": "신전 플랫폼이 더 이상 봉인되지 않았다.",
-      "TW": "神壇已解除封印。"
+      "JP": "神社の祭壇が封鎖解除されました",
+      "CN": "> 神社平台封印已解除。 <",
+      "KR": "> 사원 플랫폼이 해제되었습니다. <",
+      "TW": "> 神殿平台封印已解除。<"
     }
   },
   "> Zombie Item Unlocked! <": {
     "translation": "",
     "MultiLang": {
       "US": "",
-      "JP": "ゾンビアイテム 解錠！",
-      "CN": "僵尸物品已解锁！",
-      "KR": "좀비 아이템 해금!",
-      "TW": "僵屍道具已解鎖！"
+      "JP": "ゾンビアイテム解禁！<br>",
+      "CN": "> 僵尸道具解锁！ <",
+      "KR": "> 좀비 아이템 획득! <",
+      "TW": "> 殭屍道具解鎖！<"
     }
   },
   "> The First Temple will light up in 30 sec. <": {
     "translation": "",
     "MultiLang": {
       "US": "",
-      "JP": "最初の神殿が30秒後に点灯します。",
-      "CN": "第一座圣殿将在30秒后亮起。",
-      "KR": "첫 번째 사원이 30초 후에 활성화될 것입니다.",
-      "TW": "第一寺廟會在30秒後點亮。"
+      "JP": "最初の神殿が30秒後に点灯します。<br>",
+      "CN": "> 第一座神殿将在30秒后点亮。 <",
+      "KR": "> 제1 성전이 30초 후에 점등됩니다. <",
+      "TW": "> 第一座神殿將於 30 秒後點亮。<"
     }
   },
   "> Stay around with the temple,It's light will protect you. <": {
     "translation": "",
     "MultiLang": {
       "US": "",
-      "JP": "神殿に寄り添いなさい。その光があなたを守ります。",
-      "CN": "在寺庙附近留意，它的光芒会保护你。",
-      "KR": "사원 주변에 머물러 있어, 그 빛이 너를 보호할 것이다.",
-      "TW": "留在寺廟附近，它的光芒會保護你。"
+      "JP": "神殿の近くにとどまってください。<br>光があなたを守ります。",
+      "CN": "> 请停留在神殿附近，其光芒将保护您。 <",
+      "KR": "사찰에 머물러 있으세요. 그 빛이 당신을 보호할 것입니다.",
+      "TW": "> 請停留在神殿附近，它的光芒會保護您。"
     }
   },
   "< Extreme Mode >": {
@@ -722,160 +722,160 @@
   "有冒险者找到了怒雷.": {
     "translation": "",
     "MultiLang": {
-      "US": "An adventurer found the Furious Thunder.",
-      "JP": "ある冒険者が見つけた怒雷。",
+      "US": "An adventurer has found the Furious Thunder.",
+      "JP": "冒険者が怒雷を見つけました。",
       "CN": "",
-      "KR": "한 모험가가 뇌천을 발견했다.",
-      "TW": "有冒险者找到了怒雷。"
+      "KR": "모험가가 천둥을 발견했습니다.",
+      "TW": "有冒險者找到了怒雷。"
     }
   },
   "A player has pickup Thunder.": {
     "translation": "",
     "MultiLang": {
       "US": "",
-      "JP": "プレイヤーがサンダーをピックアップしました。",
-      "CN": "玩家获得闪电（Thunder）作为拾取道具。",
-      "KR": "플레이어가 썬더를 픽업했다.",
-      "TW": "玩家獲得閃電 (Shǎndiàn)"
+      "JP": "あるプレイヤーが『Thunder』を手に入れました。",
+      "CN": "一名玩家拾取了雷电道具。",
+      "KR": "플레이어가 Thunder를 획득했습니다.",
+      "TW": "一名玩家拾取了怒雷。"
     }
   },
   "[怒雷] 对范围内僵尸造成微弱减速7秒,50秒冷却.": {
     "translation": "",
     "MultiLang": {
-      "US": "[Raging Thunder] deals minor slow to zombies within range for 7 seconds, with a 50-second cooldown.",
-      "JP": "[怒雷] 周囲のゾンビに微弱な減速7秒を付与、50秒クールダウン。",
+      "US": "[Thunderclap] Deals a slight slow effect to zombies in the area for 7 seconds. Cooldown: 50s.",
+      "JP": "[怒雷] 範囲内のゾンビを7秒間弱く遅延させます。冷却時間50秒。",
       "CN": "",
-      "KR": "[분노의 천둥] 범위 내의 좀비에게 7초 동안 약한 둔화 효과를 부여하고, 50초 동안 재사용 준비 상태.",
-      "TW": "[怒雷] 對範圍內之僵屍造成微弱減速7秒，50秒冷卻。"
+      "KR": "[천둥] 범위 내 좀비를 7초간 약간 느리게 합니다. 쿨타임 50초.",
+      "TW": "[怒雷] 對範圍內殭屍造成微弱減速，持續 7 秒，冷卻時間 50 秒。"
     }
   },
   "[Thunder] Soft slow down zombie in area for 7 sec,50 cd.": {
     "translation": "",
     "MultiLang": {
       "US": "",
-      "JP": "[雷] 周囲のゾンビを7秒間、移動速度を遅くし、50秒のクールダウン効果。",
-      "CN": "[雷霆] 减速区域内僵尸7秒，冷却时间50秒。",
-      "KR": "[번개] 해당 지역 좀비 속도를 7초 동안 느리게 하고, 50초 동안 차단.",
-      "TW": "[雷霆] 減速區域內僵屍7秒，CD 50秒。"
+      "JP": "[Thunder] 範囲内のゾンビを7秒間弱く遅延させます。クールタイム50秒。",
+      "CN": "[雷电] 在区域内使僵尸行动迟缓7秒，冷却时间50秒。",
+      "KR": "[Thunder] 범위의 좀비를 7초간 약간 느리게 합니다. 쿨타임 50초.",
+      "TW": "[Thunder] Soft slow down zombie in area for 7 sec,50 cd."
     }
   },
   "[怒雷] 该神器能直接击碎僵尸的护盾/对BOSS和其护盾技能造成伤害.": {
     "translation": "",
     "MultiLang": {
-      "US": "[Raging Thunder] This artifact can directly break zombie shields / deal damage to boss shields and their shield skills.",
-      "JP": "[怒雷] この神器は、ゾンビの防御を直接破壊したり、ボスと、その防御スキルにダメージを与えます。",
+      "US": "[Thunderclap] This artifact can directly shatter zombie shields and deals damage to BOSSes and their shield skills.",
+      "JP": "【怒雷】この神器は直接ゾンビのシールドを破壊する/ボスとそのシールドスキルにダメージを与える。",
       "CN": "",
-      "KR": "[분노의 천둥] 이 유물은 즉시 좀의 방어막을 부수거나, 보스 및 보스 방어막 기술에 데미지를 입힐 수 있습니다.",
-      "TW": "[怒雷] 此神器可直接擊碎殭屍的防護/對BOSS及牠防護技能造成傷害。"
+      "KR": "[노레] 이 신기는 좀비의 방패를 직접 파괴하거나 보스와 그의 방패 기술에 피해를 줍니다.",
+      "TW": "[怒雷] 神器能直接擊碎殭屍護盾/對BOSS及其護盾技能造成傷害。"
     }
   },
   "[Thunder] Can use it to break zombie shield/Deal damage to Boss and its shield.": {
     "translation": "",
     "MultiLang": {
       "US": "",
-      "JP": "[雷] ゾンビのシールドを破壊したり、ボスとそのシールドにダメージを与えたりできます。",
-      "CN": "[雷霆] 可用于打破僵尸护盾/对Boss和其护盾造成伤害。",
-      "KR": "[번개] 좀비 방패를 파괴하거나, 보스와 그의 방패에 데미지를 줄 수 있습니다.",
-      "TW": "[雷霆] 可用它来打破僵尸护盾/对Boss和它的护盾造成伤害。"
+      "JP": "[Thunder] ゾンビのシールドを破壊する/ボスとそのシールドにダメージを与える。",
+      "CN": "[雷电] 可用于击碎僵尸护甲/对Boss及其护甲造成伤害。",
+      "KR": "[번개] 좀비 방패를 깨거나 보스와 그의 방패에 피해를 줄 수 있습니다.",
+      "TW": "[Thunder] 可用來擊碎殭屍護盾/對BOSS及其護盾造成傷害。"
     }
   },
   "有僵尸习得了暗影.": {
     "translation": "",
     "MultiLang": {
-      "US": "A zombie has learned from Shadow.",
-      "JP": "ゾンビが影の特性を習得しました。",
+      "US": "A zombie has learned Shadow Form.",
+      "JP": "あるゾンビがステルス習得。",
       "CN": "",
-      "KR": "좀비가 어둠의 그림자를 얻었다.",
-      "TW": "有殭屍習得了暗影。"
+      "KR": "좀비가 은폐를 배웠습니다.",
+      "TW": "殭屍習得了暗影。"
     }
   },
   "A zombie has learn Stealth.": {
     "translation": "",
     "MultiLang": {
       "US": "",
-      "JP": "ゾンビがステルスを習得した。",
-      "CN": "僵尸学了一种潜行技巧。",
-      "KR": "좀비가 은신을 배웠다.",
-      "TW": "殭屍學會隱身。"
+      "JP": "A zombie has learn Stealth.",
+      "CN": "一只僵尸学会了潜行。",
+      "KR": "A zombie has learn Stealth.",
+      "TW": "A zombie has learned Stealth."
     }
   },
   "[暗影] 隐藏附近包括自己的僵尸5秒,50秒冷却.": {
     "translation": "",
     "MultiLang": {
-      "US": "[Shadow] Hides nearby zombies for 5 seconds, with a 50-second cooldown.",
-      "JP": "[暗影] 周辺に潜伏するゾンビは5体。クールダウン50秒。",
+      "US": "[Shadow Form] Hides nearby zombies, including itself, for 5 seconds. Cooldown: 50s.",
+      "JP": "【暗影】周囲の（自分を含む）ゾンビを5秒間隠れさせる、クールタイム50秒。",
       "CN": "",
-      "KR": "[暗影] 주변에 5초 동안 자신의 僵尸를 숨기고, 50초 동안 재사용 가능.",
-      "TW": "[暗影] 隱藏附近包括自己的僵屍5秒,50秒冷卻."
+      "KR": "[은폐] 자신을 포함한 주변 좀비를 5초간 숨깁니다. 재사용 대기 시간 50초.",
+      "TW": "[暗影] 隱藏附近包括自己的殭屍5秒，50秒冷卻。"
     }
   },
   "[Stealth] Make all zombie around you become invisible 5 sec,50 cd.": {
     "translation": "",
     "MultiLang": {
       "US": "",
-      "JP": "[ステルス] 周囲の全てのゾンビを5秒間不透明にし、50秒のクールダウンを付与する。",
-      "CN": "[潜行] 使周围所有僵尸5秒内隐身，冷却时间50秒。",
-      "KR": "[은신] 주변 모든 좀비의 시야를 5초 동안, 50초 재구축.",
-      "TW": "[潛行 ] 使你周圍的所有殭屍 5 秒內變透明，CD 50。"
+      "JP": "[Stealth] 周囲の全ゾンビを5秒間姿を消す、クールタイム50秒。",
+      "CN": "[潜行] 使您周围的僵尸隐身5秒，冷却时间50秒。",
+      "KR": "[은폐] 주변의 모든 좀비를 5초간 보이지 않게 만듭니다. 재사용 대기 시간 50초.",
+      "TW": "[Stealth] 使周圍所有殭屍隱形5秒，冷卻時間50秒。"
     }
   },
   "> Byakko is casting Distant Clap. <": {
     "translation": "",
     "MultiLang": {
       "US": "",
-      "JP": "白梟が遠隔の拍手を放っている。",
-      "CN": "白梟正在施放遥响。",
-      "KR": "백곡이 원격 박수를 사용한다.",
-      "TW": "白梟正在施放遠拍手。"
+      "JP": "> Byakko is casting Distant Clap. <",
+      "CN": "> 白虎正在施放『远距鼓掌』。<",
+      "KR": "> 백호가 원거리 타격을 시전합니다. <",
+      "TW": "> Byakko 正在施放遠距離掌擊。 <"
     }
   },
   "> Byakko is casting Storm Pluse. <": {
     "translation": "",
     "MultiLang": {
       "US": "",
-      "JP": "白梟がストームプラズマを放っている。",
-      "CN": "白梟正在施放暴风冲击。",
-      "KR": "백호가 스톰 플러스를 사용하고 있다.",
-      "TW": "白梟正在施放雷霆爆發。"
+      "JP": "> Byakko is casting Storm Pluse. <",
+      "CN": "> 白虎正在施放『风暴脉冲』。<",
+      "KR": "> 백호가 폭풍 플러스를 시전합니다. <",
+      "TW": "> Byakko 正在施放暴風衝擊。 <"
     }
   },
   "> Byakko is casting Sweep The Leg. <": {
     "translation": "",
     "MultiLang": {
       "US": "",
-      "JP": "白梟がスウィープ・ザ・レッグを繰り出す。",
-      "CN": "白梟正在施放扫腿。",
-      "KR": "백호가 스윕 더 레그를 사용한다.",
-      "TW": "白梟正在施放掃腿。"
+      "JP": "> 白虎が『掃腿』を詠唱している。 <",
+      "CN": "> 白虎正在施放『扫堂腿』。<",
+      "KR": "백호가 다리를 휘두르기 시작합니다.",
+      "TW": "> 白虎正在發動掃堂腿。 <"
     }
   },
   "> Byakko is casting Fire And Lighting. <": {
     "translation": "",
     "MultiLang": {
       "US": "",
-      "JP": "白梟が炎と雷を放っている。",
-      "CN": "白梟正在施放火焰与闪电。",
-      "KR": "백호가 불과 번개를 사용하고 있다.",
-      "TW": "白梟正在施放火焰與閃電。"
+      "JP": "> 白虎が『火雷撃』を詠唱している。 <",
+      "CN": "> 白虎正在施放『火雷交织』。<",
+      "KR": "백호가 화염과 번개를 소환합니다.",
+      "TW": "> 白虎正在發動火電之擊。 <"
     }
   },
   "> Byakko is casting Unrelenting Anguish. <": {
     "translation": "",
     "MultiLang": {
       "US": "",
-      "JP": "白梟が、容赦なき苦痛を放つ。",
-      "CN": "白麏正在施放不屈之殇。",
-      "KR": "백곡이 끈질김의 고통을 시전하고 있다.",
-      "TW": "白梟正在施放不屈之痛。"
+      "JP": "> 白虎が『苛烈な苦悩』を詠唱している。 <",
+      "CN": "> 白虎正在施放『无尽悲恸』。<",
+      "KR": "백호가 끊임없는 고통을 발동합니다.",
+      "TW": "> 白虎正在發動無盡悲慟。 <"
     }
   },
   "有冒险者找到了秘火.": {
     "translation": "",
     "MultiLang": {
-      "US": "An adventurer found the Secret Fire.",
-      "JP": "ある冒険者が秘火を見つけた。",
+      "US": "An adventurer has discovered Secret Fire.",
+      "JP": "冒険者が秘火を見つけた。",
       "CN": "",
-      "KR": "모험가 한 명이 숨겨진 불꽃을 발견했습니다.",
+      "KR": "모험가가 비밀의 불꽃을 발견했습니다.",
       "TW": "有冒險者找到了秘火。"
     }
   },
@@ -883,159 +883,159 @@
     "translation": "",
     "MultiLang": {
       "US": "",
-      "JP": "プレイヤーがブレイズをピックアップしました。",
-      "CN": "玩家获得火龙 (Huǒ Lóng)",
-      "KR": "플레이어가 블레이즈를 획득했습니다.",
-      "TW": "玩家獲得了火苗。"
+      "JP": "プレイヤーが『Blaze』を拾得した。",
+      "CN": "一名玩家拾取了烈焰。",
+      "KR": "플레이어가 Blaze를 획득했습니다.",
+      "TW": "一名玩家撿起了 Blaze。"
     }
   },
   "[秘火] 对范围内僵尸造成中等减速6秒,50秒冷却.": {
     "translation": "",
     "MultiLang": {
-      "US": "[Secret Fire] Deals moderate slow to all zombies for 6 seconds, with a 50-second cooldown.",
-      "JP": "[秘火] 範囲内のゾンビに中程度の減速6秒を付与、50秒クールダウン。",
+      "US": "[Secret Fire] Deals a moderate slow effect to zombies in the area for 6 seconds. Cooldown: 50s.",
+      "JP": "[秘火] 範囲内のゾンビを6秒間中程度スローに状態異常化、クールダウン50秒。",
       "CN": "",
-      "KR": "[비화] 범위 내의 좀비에게 중등 속도 감소 6초, 50초 쿨다운.",
-      "TW": "[秘火] 對範圍內的僵屍造成中等減速6秒, 50秒冷卻."
+      "KR": "[Blaze] 일정 범위 내 좀비에게 중도 slowdown을 6초간 적용, CD 50초",
+      "TW": "[秘火] 對範圍內的殭屍造成中等减速效果，持續6秒，冷卻時間為50秒。"
     }
   },
   "[Blaze] Mid slow down zombie in area for 6 sec,50 cd.": {
     "translation": "",
     "MultiLang": {
       "US": "",
-      "JP": "[炎の炎] 中程度の速度で6秒間ゾンビをエリアで遅らせ、50のクールダウン。",
-      "CN": "[火焰] 中途减速丧尸，持续6秒，冷却时间50秒。",
-      "KR": "[불꽃] 미드 지역 내 좀비 속도 감소 6초, 50초 재사용.",
-      "TW": "[烈焰] 中間減速喪尸區域6秒，CD 50。"
+      "JP": "[Blaze] 範囲内のゾンビを6秒間中程度スローに、CD50秒。",
+      "CN": "[烈焰] 在区域内使僵尸减速6秒，冷却时间50秒。",
+      "KR": "[Blaze] 일정 범위 내 좀비에게 중도 slowdown을 6초간 적용, CD 50초",
+      "TW": "[Blaze] 對範圍內的殭屍造成中等减速效果，持續6秒，冷卻時間為50秒。"
     }
   },
   "[秘火] 该神器能对BOSS和其护盾技能造成伤害.": {
     "translation": "",
     "MultiLang": {
-      "US": "[Secret Fire] This artifact can deal damage to the BOSS and its shield.",
-      "JP": "[秘火] この神器は、ボスと彼の防御スキルにダメージを与えます。",
+      "US": "[Secret Fire] This artifact deals damage to BOSSes and their shield skills.",
+      "JP": "[秘火] この神器はBOSSおよびそのシールドスキルにダメージを与えられる。",
       "CN": "[秘火] 此神器可对BOSS和其护盾造成伤害。",
-      "KR": "[비화] 이 신기는 보스와 그 방어력에 데미지를 입힐 수 있습니다.",
-      "TW": "[秘火] 此神器可對BOSS及護盾造成傷害。"
+      "KR": "[Blaze] 이 신기는 보스와 그 방패 스킬에게 손상을 입힙니다.",
+      "TW": "[秘火] 該神器能对BOSS及其護盾技能造成傷害。"
     }
   },
   "[Blaze] It can deal damage to Boss and its shield.": {
     "translation": "",
     "MultiLang": {
       "US": "",
-      "JP": "[炎の刃] ボスとボスの盾にダメージを与えることができる。",
-      "CN": "[火焰] 它可以对Boss和它的护盾造成伤害。",
-      "KR": "[불꽃] 보스 및 그의 방패에 데미지를 입힐 수 있습니다.",
-      "TW": "[烈焰] 能夠對BOSS和牠的護盾造成傷害。"
+      "JP": "[ blaze ] ボスとそのシールドにダメージを与えます。",
+      "CN": "[烈焰] 可对Boss及其护盾造成伤害。",
+      "KR": "[블레이즈] 보스와 그 방패에 피해를 줄 수 있습니다.",
+      "TW": "[烈火] 它能對Boss及其護盾造成傷害。"
     }
   },
   "有冒险者找到了凛冬.": {
     "translation": "",
     "MultiLang": {
-      "US": "An adventurer found Winter.",
-      "JP": "ある冒険者が見つけたのは凛冬だった。",
+      "US": "An adventurer has discovered Winter's Grasp.",
+      "JP": "冒険者が凛冬を見つけた。",
       "CN": "",
-      "KR": "한 모험가가 림동을 발견했다.",
-      "TW": "有冒險者找到了凛冬。"
+      "KR": "모험가가 린동을 발견했습니다.",
+      "TW": "有冒險者找到了冬."
     }
   },
   "A player has pickup Blizzard.": {
     "translation": "",
     "MultiLang": {
       "US": "",
-      "JP": "プレイヤーがバリアードを獲得しました。",
-      "CN": "玩家获得暴风雪。",
-      "KR": "플레이어가 블리자드를 픽업했다.",
-      "TW": "玩家獲得冰嵐。」"
+      "JP": "プレイヤーがブリザードを取得しました。",
+      "CN": "玩家拾取了暴风雪。",
+      "KR": "플레이어가 블리자드를 수거했습니다.",
+      "TW": "玩家撿取了 Blizzard。"
     }
   },
   "[凛冬] 对范围内僵尸造成定身6秒,50秒冷却.": {
     "translation": "",
     "MultiLang": {
-      "US": "[凛冬] applies a stun of 6 seconds with 50 seconds of cooldown to zombies within range.",
-      "JP": "[凛冬] 周囲のゾンビに6秒間行動不能状態を付与。50秒のクールダウン。",
+      "US": "[Winter] Stuns zombies in the area for 6 seconds, with a 50-second cooldown.",
+      "JP": "[ 凛冬 ] 範囲内のゾンビを6秒間行動不能にし、クールダウンは50秒。",
       "CN": "",
-      "KR": "[凛冬] 주변 범위 내의 좀비에게 6초 동안 둔화 효과를 부여하며, 50초의 재사용 대기시간이 적용됩니다.",
-      "TW": "[凛冬] 對範圍內的僵屍造成定身6秒,50秒冷卻。"
+      "KR": "[린동] 범위 내 좀비를 6초간 고정, 재사용 대기시간 50초.",
+      "TW": "[凛冬] 對範圍內殭屍造成定身效果6秒，冷卻時間50秒。"
     }
   },
   "[Blizzard] Freeze zombie in area for 6 sec,50 cd.": {
     "translation": "",
     "MultiLang": {
       "US": "",
-      "JP": "[吹雪] ゾンビを6秒間凍結、50秒クールダウン。",
-      "CN": "[暴风雪] 冻结僵尸6秒，冷却时间50秒。",
-      "KR": "[폭풍설] 좀비를 6초 동안 영역에 둔화시키고, 50초 재사용.",
-      "TW": "[暴風雪] 凍結殭屍 6 秒，CD 50。"
+      "JP": "[ Blizzard ] 範囲内のゾンビを6秒間フリーズ、クールダウン50秒。",
+      "CN": "[暴风雪] 在区域内冻结僵尸6秒，冷却时间50秒。",
+      "KR": "[블리자드] 범위 내 좀비를 6초간 고정, 재사용 대기시간 50초.",
+      "TW": "[凛冬] 凍結範圍內的殭屍6秒，冷卻時間50秒。"
     }
   },
   "[凛冬] 能对BOSS造成定身效果.": {
     "translation": "",
     "MultiLang": {
-      "US": "[凛冬] Can inflict Stun on BOSS.",
-      "JP": "[凛冬] は、ボスにスタン効果を与えることができます。",
+      "US": "[Winter] can stun bosses.",
+      "JP": "[ 凛冬 ] BOSに行動不能効果を与えます。",
       "CN": "",
-      "KR": "[凛冬] 몬스터에게 둔갑 효과를 발동시킬 수 있습니다.",
-      "TW": "[凛冬] 可以對BOSS造成定身效果。"
+      "KR": "[린동] 보스에게 고정 효과를 줄 수 있습니다.",
+      "TW": "[凛冬] 能讓Boss受到定身效果。"
     }
   },
   "[Blizzard] It will Freeze Bosses movement.": {
     "translation": "",
     "MultiLang": {
       "US": "",
-      "JP": "[吹雪] 敵の移動を凍結します。",
-      "CN": "[暴风雪] 会冻结Boss移动。",
-      "KR": "[폭풍설] 보스 이동 속도를 멈추게 합니다.",
-      "TW": "[暴風雪] 會使Boss移動受阻。"
+      "JP": "[ Blizzard ] BOSSの動きをフリーズします。",
+      "CN": "[暴风雪] 将冻结Boss的移动能力。",
+      "KR": "[블리자드] 보스의 이동을 냉동시켜 멈춥니다.",
+      "TW": "[凛冬] 它將凍結Boss的移動能力。"
     }
   },
   "> Byakko is casting Aratama. <": {
     "translation": "",
     "MultiLang": {
       "US": "",
-      "JP": "白梟がアラタマを唱えている。",
-      "CN": "白梟正在施放荒玉。",
-      "KR": "백곡이가 아타마를 던지고 있다.",
-      "TW": "白梟正在施放荒玉。"
+      "JP": "> 白虎が荒霊を唱えています。<",
+      "CN": "> 白虎正在施放代任魂轮。 <",
+      "KR": "> 백호는 아라타마를 시전 중입니다. <",
+      "TW": "> 白虎正在施放荒魂。 <"
     }
   },
   "> The Second Temple has light up,Platform will rise in 20 sec. <": {
     "translation": "",
     "MultiLang": {
       "US": "",
-      "JP": "第二神殿が点灯しました。プラットフォームは20秒後に上昇します。",
-      "CN": "第二圣殿已点亮，平台将在20秒后升起。",
-      "KR": "제2사원이 빛을 내며, 플랫폼이 20초 후에 상승합니다.",
-      "TW": "第二神殿已亮起，平台將在20秒後升起。"
+      "JP": ">第二神殿の明かりが点灯しました。プラットフォームは20秒後に上昇します。<",
+      "CN": "> 第二神殿已亮起，平台将在20秒后升起。 <",
+      "KR": "제2 성전이 점등되었습니다. 20초 후 플랫폼이 상승합니다.",
+      "TW": "神殿二已點亮，平台將在20秒後升起。"
     }
   },
   "> Byakko is still here,Beware. <": {
     "translation": "",
     "MultiLang": {
       "US": "",
-      "JP": "白梟はまだここにいる。用心しろ。",
-      "CN": "白梟仍然在此，小心！",
-      "KR": "백호가 여전히 여기 있다. 조심해.",
-      "TW": "白梟仍然在此，小心！"
+      "JP": ">白虎はまだここにあります。警戒してください。<",
+      "CN": "> 白虎仍在场，请注意防御。 <",
+      "KR": "백호가 아직 존재합니다. 주의하십시오.",
+      "TW": "白虎仍在，請注意。"
     }
   },
   "<Byakko>: No more games!": {
     "translation": "",
     "MultiLang": {
       "US": "",
-      "JP": "<Byakko>: ゲームはもう終わり！",
-      "CN": "《白梟》：游戏结束了！",
-      "KR": "<백호>: 더 이상 게임은 없다!",
-      "TW": "<白梟>: 玩夠了！"
+      "JP": "<白虎>：もはや遊びは終わりだ！",
+      "CN": "<白虎>：别再闹了！",
+      "KR": "<Byakko>: 이제 장난은 끝이야!",
+      "TW": "<白虎>：別再玩了！"
     }
   },
   "有僵尸习得了极冻.": {
     "translation": "",
     "MultiLang": {
-      "US": "A zombie has learned the Frostbite.",
-      "JP": "ゾンビが極寒の特性を習得しました。",
+      "US": "A zombie has learned Absolute Freeze.",
+      "JP": "ゾンビが極凍を習得した。",
       "CN": "",
-      "KR": "유령들이 극동병에 감염되었다.",
+      "KR": "좀비가 극한 냉기를 습득했다.",
       "TW": "有殭屍習得了極凍。"
     }
   },
@@ -1043,39 +1043,39 @@
     "translation": "",
     "MultiLang": {
       "US": "",
-      "JP": "ゾンビがスノーを学ぶ。",
-      "CN": "僵尸学会了下雪。",
-      "KR": "좀비가 눈을 배우다.",
-      "TW": "殭屍學會下雪。"
+      "JP": "ゾンビが雪を学んだ。",
+      "CN": "一名丧尸学会了雪。",
+      "KR": "좀비가 스키 기술을 습득했습니다.",
+      "TW": "有殭屍學會了極凍。"
     }
   },
   "[极冻] 射出寒气3秒,冻结前方人类5秒,50秒冷却.": {
     "translation": "",
     "MultiLang": {
-      "US": "[Absolute Freeze] Fires a chilling aura for 3 seconds, freezing all nearby humanoids for 5 seconds, with a 50-second cooldown.",
-      "JP": "[極凍] 射出寒気3秒, 凍結前方人類5秒, 50秒冷却.",
+      "US": "[Absolute Freeze] Fires cold air for 3 seconds, freezing nearby humans for 5 seconds, with a 50-second cooldown.",
+      "JP": "[極凍] 3秒間冷気を射出し、前方の人間を5秒間凍結。クールダウン50秒。",
       "CN": "",
-      "KR": "[극지온] 냉기 3초 발사, 전면 인간 5초 얼리기, 50초 냉각.",
-      "TW": "[極凍] 射出寒氣3秒，凍結前方人類5秒，50秒冷卻。"
+      "KR": "[극한 냉기] 한기를 발사하여 3초간 생성, 전방의 인간을 5초간 얼림. 재사용 대기시간 50초.",
+      "TW": "【極凍】噴射寒冰3秒，凍結前方人類5秒，冷卻時間50秒。"
     }
   },
   "[Flame] Damage human around you for 5 sec,50 cd.": {
     "translation": "",
     "MultiLang": {
       "US": "",
-      "JP": "[炎] 周囲の人間を5秒間攻撃し、5秒間のクールダウン。",
-      "CN": "[火焰] 对周围的人造成5秒伤害，冷却时间为50秒。",
-      "KR": "[불꽃] 주변의 인간에게 5초간 데미지를 주고 5초의 재장전 시간을 갖습니다.",
-      "TW": "[烈焰] 對周圍的人類造成傷害，持續時間 5 秒，冷卻時間 50。"
+      "JP": "[炎] 周囲の人間に5秒間ダメージを与えます。クールダウン50秒。",
+      "CN": "[火焰] 对周围人类造成5秒伤害，50秒冷却。",
+      "KR": "[플레임] 주변 인간의에게 5초간 피해. 재사용 대기시간 50초.",
+      "TW": "[爆炎] 對周圍人類造成傷害，持續5秒，冷卻時間50秒。"
     }
   },
   "有僵尸习得了爆炎.": {
     "translation": "",
     "MultiLang": {
-      "US": "A zombie has learned Blastflame.",
-      "JP": "ゾンビが爆炎の特性を習得しました。",
+      "US": "A zombie has learned Blazing Flame.",
+      "JP": "ゾンビが爆炎を習得した。",
       "CN": "",
-      "KR": "유령이 폭염을 앓게 되었다.",
+      "KR": "좀비에게 폭발 화염의 기술이 익혔다.",
       "TW": "有殭屍習得了爆炎。"
     }
   },
@@ -1083,20 +1083,20 @@
     "translation": "",
     "MultiLang": {
       "US": "",
-      "JP": "ゾンビが炎を習得した。",
-      "CN": "僵尸学会了火焰。",
-      "KR": "좀비가 불을 익혔다.",
-      "TW": "殭屍學會了火焰。"
+      "JP": "ゼムが炎を習得しました。",
+      "CN": "一名丧尸学会了火焰。",
+      "KR": "좀비가 화염 기술을 습득했다.",
+      "TW": "殭屍學會了火焰技能。"
     }
   },
   "[爆炎] 持续伤害附近的人类5秒,50秒冷却.": {
     "translation": "",
     "MultiLang": {
-      "US": "[Blazing Flame] deals continuous damage to nearby humans for 5 seconds, with a 50-second cooldown.",
-      "JP": "[爆炎] 周辺の人間を5秒間継続ダメージ、50秒クールダウン。",
+      "US": "[Blazing Flame] Deals continuous damage to nearby humans for 5 seconds, with a 50-second cooldown.",
+      "JP": "[爆炎] 周囲の人間に5秒間、毎秒ダメージを与える。冷却時間50秒。",
       "CN": "[爆炎] 持续对附近的人类造成伤害5秒，冷却时间为50秒。",
-      "KR": "[폭염] 근처의 인간에게 지속 데미지를 5초 동안 적용, 50초 동안 냉각 효과.",
-      "TW": "[爆炎] 持續傷害附近的人類5秒, 50秒冷卻."
+      "KR": "[폭염] 근처 인간에게 5초간 지속damage를 주며, 50초의 재사용 대기시간을 가진다.",
+      "TW": "[爆炎] 對附近人類造成持續傷害，為期5秒，冷卻時間50秒。"
     }
   },
   "< Admin switch to Stage Extreme. >": {
@@ -1113,19 +1113,19 @@
     "translation": "",
     "MultiLang": {
       "US": "",
-      "JP": "<白梟>: 君は…実にユニーク… (Kimi wa… jijitsu ni uniku…)",
-      "CN": "《白鹮》：你...真的非常独特...",
-      "KR": "<백호>: 당신은...정말로 독특한...개체입니다.",
-      "TW": "《白梟》：你...真是獨一無二..."
+      "JP": "<Byakko>: あなたは…本当に独特ですね…",
+      "CN": "<白虎>：你……确实与众不同……",
+      "KR": "<백호>: 너는... 참으로 독특한 존재이군...",
+      "TW": "<白虎>：你……真的很獨特……"
     }
   },
   "Thanks for your testing!": {
     "translation": "",
     "MultiLang": {
       "US": "",
-      "JP": "テストのおかげで大変助かりました！ありがとうございます！",
-      "CN": "谢谢你的测试！",
-      "KR": "테스트에 참여해주셔서 감사합니다!",
+      "JP": "テストにご協力いただき、ありがとうございます！",
+      "CN": "感谢您的测试！",
+      "KR": "테스팅에 참여해 주셔서 감사합니다!",
       "TW": "感謝您的測試！"
     }
   },
@@ -1133,10 +1133,10 @@
     "translation": "",
     "MultiLang": {
       "US": "",
-      "JP": "最終ステージは近日公開！",
+      "JP": "最終ステージの更新はまもなく実施されます。",
       "CN": "最终阶段即将更新！",
-      "KR": "최종 스테이지 업데이트 곧 진행될 예정입니다!",
-      "TW": "最終階段將很快更新！"
+      "KR": "마지막 스테이지가 곧 업데이트될 예정입니다!",
+      "TW": "最終關節即將更新！"
     }
   },
   "< ZM Mode >": {
@@ -1163,30 +1163,30 @@
     "translation": "",
     "MultiLang": {
       "US": "",
-      "JP": "皆様、私のマップのテストありがとうございます！",
-      "CN": "谢谢大家测试我的地图！",
-      "KR": "모두 테스트해주셔서 감사합니다!",
-      "TW": "各位為我測試地圖的朋友們，非常感謝你們！"
+      "JP": "私のマップをテストしていただき、誠にありがとうございます！",
+      "CN": "感谢大家测试我的地图！",
+      "KR": "내 맵을 테스트해 주신 모든 분께 감사드립니다!",
+      "TW": "感謝大家測試我的地圖！"
     }
   },
   "The last stage will update soon.": {
     "translation": "",
     "MultiLang": {
       "US": "",
-      "JP": "最後のステージが shortly soon 更新されます。",
-      "CN": "最后阶段将很快更新。",
-      "KR": "마지막 스테이지가 곧 업데이트됩니다.",
-      "TW": "最後階段將很快更新。"
+      "JP": "最後のステージはまもなく更新されます。",
+      "CN": "最后一关即将更新。",
+      "KR": "마지막 스테이지가 곧 업데이트될 예정입니다.",
+      "TW": "最後關卡即將更新。"
     }
   },
   "Ever this map is kinda small,But i still hope you enjoy. xd": {
     "translation": "",
     "MultiLang": {
       "US": "",
-      "JP": "このマップはちょっと小さくて、でもまだ楽しんでくれれば嬉しいな。xd",
-      "CN": "这张地图一直都比较小，不过我还是希望你玩得开心。xd",
-      "KR": "이 맵은 항상 작아서 좀 그래. 그래도 즐기길 바란다! xd",
-      "TW": "這個地圖一直都還蠻小的，不過我還是希望你們玩得開心。xd"
+      "JP": "このマップは少し小さいですが、楽しんでいただければ幸いです。xd",
+      "CN": "地图总是有点小，但我还是希望你玩得开心。xd",
+      "KR": "이 맵은 다소 작지만, 그래도 재미있으시길 바랍니다. xd",
+      "TW": "雖然這張地圖有點小，但我還是希望你們喜歡。xd"
     }
   },
   "< 60 sec. >": {
