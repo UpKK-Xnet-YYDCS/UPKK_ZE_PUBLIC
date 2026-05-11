@@ -44,8 +44,9 @@ jobs:
               | map(select(length > 0))
             ) as $kw
             | .[]
-            | select(any($kw[]; .title | contains(.)))
-            | [.number, .title, .mergeable, .author.login]
+            | . as $pr
+            | select(any($kw[]; $pr.title | contains(.)))
+            | [$pr.number, $pr.title, $pr.mergeable, $pr.author.login]
             | @tsv
           ' prs.json > prs.txt
 
