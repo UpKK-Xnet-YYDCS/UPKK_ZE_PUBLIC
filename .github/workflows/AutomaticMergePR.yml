@@ -13,57 +13,72 @@ on:
 permissions:
   contents: write
   pull-requests: write
+  issues: write
 
 jobs:
   auto-merge:
     runs-on: ubuntu-latest
+
     steps:
       - uses: actions/checkout@v4
+
       - name: Set up title keywords
         run: |
-          # 使用默认值或手动输入的标题关键字
           KEYWORDS="${{ github.event.inputs.title_keywords || '本地模型-dify,自动添加创意工坊地图' }}"
-          echo "KEYWORDS=$KEYWORDS" >> $GITHUB_ENV
+          echo "KEYWORDS=$KEYWORDS" >> "$GITHUB_ENV"
+
       - name: List and filter PRs
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
-          # 将关键字转换为 jq 过滤条件
-          IFS=',' read -ra KEYWORD_ARRAY <<< "$KEYWORDS"
-          JQ_FILTER='.[] | select(.title | '
-          for i in "${!KEYWORD_ARRAY[@]}"; do
-            KEYWORD=$(echo "${KEYWORD_ARRAY[$i]}" | xargs)  # 去除空格
-            if [ $i -eq 0 ]; then
-              JQ_FILTER="$JQ_FILTER contains(\"$KEYWORD\")"
-            else
-              JQ_FILTER="$JQ_FILTER or contains(\"$KEYWORD\")"
-            fi
-          done
-          JQ_FILTER="$JQ_FILTER ) | \"\(.number) \(.title) \(.mergeable) \(.author.login)\""
-          
-          # 获取匹配的 PR
-          gh pr list --state open --json number,title,mergeable,author --jq "$JQ_FILTER" > prs.txt
-          [ -s prs.txt ] || { echo "No matching PRs found."; exit 0; }
-          
-          # 处理每个 PR
-          while read -r number title mergeable author; do
+          set -euo pipefail
+
+          echo "Title keywords: $KEYWORDS"
+
+          gh pr list --state open --json number,title,mergeable,author > prs.json
+
+          jq -r --arg keywords "$KEYWORDS" '
+            ($keywords
+              | split(",")
+              | map(gsub("^\\s+|\\s+$"; ""))
+              | map(select(length > 0))
+            ) as $kw
+            | .[]
+            | select(any($kw[]; .title | contains(.)))
+            | [.number, .title, .mergeable, .author.login]
+            | @tsv
+          ' prs.json > prs.txt
+
+          if [ ! -s prs.txt ]; then
+            echo "No matching PRs found."
+            exit 0
+          fi
+
+          while IFS=$'\t' read -r number title mergeable author; do
             echo "PR #$number: $title ($mergeable, Author: $author)"
-            # 验证提交用户
-            if [ "$author" != "github-actions[bot]" ] && [ "$author" != "e54385991" ] && [ "$author" != "UNKNOWN app/github-actions" ] && [ "$author" != "app/github-actions" ]; then
-              gh issue comment $number --body "Auto-merge failed: PR author ($author) is not authorized."
+
+            if [ "$author" != "github-actions[bot]" ] && \
+               [ "$author" != "e54385991" ] && \
+               [ "$author" != "app/github-actions" ]; then
+              gh issue comment "$number" --body "Auto-merge failed: PR author ($author) is not authorized."
               continue
             fi
+
             if [ "$mergeable" = "UNKNOWN" ]; then
+              echo "Mergeable state is UNKNOWN, waiting..."
               sleep 10
-              mergeable=$(gh pr view $number --json mergeable --jq '.mergeable')
+              mergeable="$(gh pr view "$number" --json mergeable --jq '.mergeable')"
+              echo "Updated mergeable state: $mergeable"
             fi
+
             if [ "$mergeable" != "MERGEABLE" ]; then
-              gh issue comment $number --body "Auto-merge failed: Not mergeable ($mergeable)."
+              gh issue comment "$number" --body "Auto-merge failed: Not mergeable ($mergeable)."
               continue
             fi
-            if gh pr merge --merge $number; then
-              gh issue comment $number --body "Auto-merge succeeded."
+
+            if gh pr merge "$number" --merge; then
+              gh issue comment "$number" --body "Auto-merge succeeded."
             else
-              gh issue comment $number --body "Auto-merge failed: Check rules or conflicts."
+              gh issue comment "$number" --body "Auto-merge failed: Check rules or conflicts."
             fi
           done < prs.txt
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
