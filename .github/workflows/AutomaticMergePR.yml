@@ -8,7 +8,7 @@ on:
       title_keywords:
         description: 'Comma-separated keywords to match PR titles'
         required: false
-        default: '本地模型-gemma3:27b-it-qat-自动化翻译,自动添加创意工坊地图'
+        default: '本地模型-dify,自动添加创意工坊地图'
 
 permissions:
   contents: write
@@ -22,7 +22,7 @@ jobs:
       - name: Set up title keywords
         run: |
           # 使用默认值或手动输入的标题关键字
-          KEYWORDS="${{ github.event.inputs.title_keywords || '本地模型-gemma3:27b-it-qat-自动化翻译,自动添加创意工坊地图' }}"
+          KEYWORDS="${{ github.event.inputs.title_keywords || '本地模型-dify,自动添加创意工坊地图' }}"
           echo "KEYWORDS=$KEYWORDS" >> $GITHUB_ENV
       - name: List and filter PRs
         run: |
