@@ -5,12 +5,12 @@
       "team_default": true,
       "health": 100,
       "models": [
-      {
-        "modelname": "agents/models/s2ze/master_chief/master_chief_nohitbox.vmdl",
-        "color": "255 255 255",
-        "skins": 0
-      }
-    ],
+        {
+          "modelname": "agents/models/s2ze/master_chief/master_chief_nohitbox.vmdl",
+          "color": "255 255 255",
+          "skins": 0
+        }
+      ],
       "scale": 1.0,
       "speed": 1.0,
       "gravity": 1.0,
@@ -23,12 +23,12 @@
       "team_default": true,
       "health": 10000,
       "models": [
-      {
-        "modelname": "agents/models/upkk/junko/zjunko_ag2.vmdl",
-        "color": "255 255 255",
-        "skins": 0
-      }
-    ],
+        {
+          "modelname": "agents/models/upkk/junko/zjunko_ag2.vmdl",
+          "color": "255 255 255",
+          "skins": 0
+        }
+      ],
       "scale": 1.0,
       "speed": 1.1,
       "gravity": 0.9,
@@ -41,12 +41,12 @@
       "team_default": true,
       "health": 12000,
       "models": [
-      {
-        "modelname": "agents/models/upkk/mizuno/zmizuno_ag2.vmdl",
-        "color": "255 255 255",
-        "skins": 0
-      }
-    ],
+        {
+          "modelname": "agents/models/upkk/mizuno/zmizuno_ag2.vmdl",
+          "color": "255 255 255",
+          "skins": 0
+        }
+      ],
       "scale": 1.0,
       "speed": 1.1,
       "gravity": 0.93,
@@ -59,12 +59,12 @@
       "team_default": true,
       "health": 8000,
       "models": [
-      {
-        "modelname": "agents/models/upkk_male/charple/charple.vmdl",
-        "color": "255 255 255",
-        "skins": 0
-      }
-    ],
+        {
+          "modelname": "agents/models/upkk_male/charple/charple.vmdl",
+          "color": "255 255 255",
+          "skins": 0
+        }
+      ],
       "scale": 1.0,
       "speed": 1.2,
       "gravity": 1.0,
@@ -77,12 +77,12 @@
       "team_default": true,
       "health": 20000,
       "models": [
-      {
-        "modelname": "agents/models/s2ze/zombie_chris_walker/zombie_chris_walker.vmdl",
-        "color": "255 255 255",
-        "skins": 0
-      }
-    ],
+        {
+          "modelname": "agents/models/s2ze/zombie_chris_walker/zombie_chris_walker.vmdl",
+          "color": "255 255 255",
+          "skins": 0
+        }
+      ],
       "scale": 1.0,
       "speed": 1.1,
       "gravity": 1.0,
@@ -95,60 +95,12 @@
       "team_default": true,
       "health": 15000,
       "models": [
-      {
-        "modelname": "agents/models/s2ze/zombie_chris_walker/zombie_chris_walker.vmdl",
-        "color": "255 255 255",
-        "skins": 0
-      }
-    ],
-
-    "zpolice": {
-      "enabled": true,
-      "team_default": true,
-      "health": 8000,
-      "models": [
-      {
-        "modelname": "agents/models/s2ze/zombie_chris_walker/zombie_chris_walker.vmdl",
-        "color": "255 255 255",
-        "skins": 0
-      }
-    ],
-      "scale": 1.0,
-      "speed": 1.2,
-      "gravity": 1.0,
-      "admin_flag": "",
-      "health_regen_count": 400,
-      "health_regen_interval": 3.0
-    },
-    "zwalk": {
-      "enabled": true,
-      "team_default": true,
-      "health": 20000,
-      "models": [
-      {
-        "modelname": "agents/models/s2ze/zombie_chris_walker/zombie_chris_walker.vmdl",
-        "color": "255 255 255",
-        "skins": 0
-      }
-    ],
-      "scale": 1.0,
-      "speed": 1.1,
-      "gravity": 1.0,
-      "admin_flag": "",
-      "health_regen_count": 900,
-      "health_regen_interval": 3.0
-    },
-    "zsnow": {
-      "enabled": true,
-      "team_default": true,
-      "health": 15000,
-      "models": [
-      {
-        "modelname": "agents/models/s2ze/zombie_chris_walker/zombie_chris_walker.vmdl",
-        "color": "255 255 255",
-        "skins": 0
-      }
-    ],
+        {
+          "modelname": "agents/models/s2ze/zombie_chris_walker/zombie_chris_walker.vmdl",
+          "color": "255 255 255",
+          "skins": 0
+        }
+      ],
       "scale": 1.0,
       "speed": 1.12,
       "gravity": 0.95,
@@ -156,17 +108,35 @@
       "health_regen_count": 500,
       "health_regen_interval": 3.0
     },
+    "zpolice": {
+      "enabled": true,
+      "team_default": true,
+      "health": 8000,
+      "models": [
+        {
+          "modelname": "agents/models/s2ze/zombie_chris_walker/zombie_chris_walker.vmdl",
+          "color": "255 255 255",
+          "skins": 0
+        }
+      ],
+      "scale": 1.0,
+      "speed": 1.2,
+      "gravity": 1.0,
+      "admin_flag": "",
+      "health_regen_count": 400,
+      "health_regen_interval": 3.0
+    },
     "MotherZombie": {
       "enabled": true,
       "team_default": false,
       "health": 25000,
       "models": [
-      {
-        "modelname": "agents/models/upkk/zlilies/lilies.vmdl",
-        "color": "255 100 100",
-        "skins": 0
-      }
-    ],
+        {
+          "modelname": "agents/models/upkk/zlilies/lilies.vmdl",
+          "color": "255 100 100",
+          "skins": 0
+        }
+      ],
       "scale": 1.0,
       "speed": 1.2,
       "gravity": 1.0,
